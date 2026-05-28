@@ -120,7 +120,7 @@ export const legacy2011Fr: YearFormatEntry = {
         'Le bannissement de Mental Misstep coïncida avec la sortie d\'Innistrad, qui livra deux cartes appelées à définir le Legacy pendant des années : Delver of Secrets et Snapcaster Mage. Les joueurs découvrirent rapidement que le shell Canadian Threshold (tempo RUG avec Nimble Mongoose, Daze, Stifle et Wasteland) était le foyer idéal pour Delver. RUG Delver remporta trois SCG Opens consécutifs et s\'établit comme le meilleur deck incontesté en fin d\'année à 12,3 % du champ de tournoi. UW Stoneblade restait puissant à 14,4 %. Naya Maverick émergea comme le premier deck non-bleu de premier plan depuis Goblins, et les stratégies aggro-control passèrent de 21 % à plus de 50 % du métagame. Le format était plus rapide, plus interactif et plus orienté tempo que jamais.',
       whyItDominated: [
         'Delver of Secrets fournissait un volant 3/2 pour un mana dans les decks riches en sorts',
-        'Snapcaster Mage offrait de l\'card advantage aux decks tempo sans sacrifier la vitesse',
+        'Snapcaster Mage offrait du card advantage aux decks tempo sans sacrifier la vitesse',
         'Le shell Canadian Threshold convenait parfaitement à Delver combiné avec Wasteland et Daze',
         'UW Stoneblade offrait une alternative plus contrôlante avec Stoneforge Mystic',
       ],

@@ -21,7 +21,7 @@ export const extended2010Fr: YearFormatEntry = {
         { name: 'Bitterblossom', role: 'Générateur persistant de jetons pour Faeries' },
         { name: 'Cryptic Command', role: 'Contresort polyvalent et outil de tempo' },
         { name: 'Scapeshift', role: 'Kill combo avec Valakut, the Molten Pinnacle' },
-        { name: 'Doran, the Siege Tower', role: 'Attaquant efficace permettant un aggro basé sur l\'toughness' },
+        { name: 'Doran, the Siege Tower', role: 'Attaquant efficace permettant un aggro basé sur la toughness' },
         { name: 'Figure of Destiny', role: 'Créature à un mana évolutive pour White Weenie' },
       ],
       summary:

@@ -107,7 +107,7 @@ export const standard2020Fr: YearFormatEntry = {
         { name: 'Genesis Ultimatum', role: 'Déploiement massif de menaces' },
       ],
       summary:
-        'La Renaissance de Zendikar a apporté Omnath, Locus of Creation, et les résultats ont été immédiats. Omnath générait du mana, de la vie et de l\'card advantage à chaque landfall. Combiné avec Lotus Cobra et les fetchlands, le deck produisait des tours absurdes. Lors du Grand Finals, Omnath Adventures a placé quatre copies dans le Top 8. Omnath a été banni quelques semaines après sa sortie.',
+        'La Renaissance de Zendikar a apporté Omnath, Locus of Creation, et les résultats ont été immédiats. Omnath générait du mana, de la vie et du card advantage à chaque landfall. Combiné avec Lotus Cobra et les fetchlands, le deck produisait des tours absurdes. Lors du Grand Finals, Omnath Adventures a placé quatre copies dans le Top 8. Omnath a été banni quelques semaines après sa sortie.',
       whyItDominated: [
         'Omnath générait de multiples ressources par déclenchement de landfall',
         'Lotus Cobra permettait un Omnath au troisième tour avec une valeur immédiate',
@@ -142,7 +142,7 @@ export const standard2020Fr: YearFormatEntry = {
       dominantDecks: ['Gruul Adventures', 'Dimir Rogues'],
       challengers: ['Mono-Green Food', 'Esper Doom', 'Mono-Red Aggro', 'Temur Ramp'],
       keyCards: [
-        { name: 'Edgewall Innkeeper', role: 'Moteur de draw pour les créatures à adventure' },
+        { name: 'Edgewall Innkeeper', role: 'Moteur de draw pour les créatures-adventure' },
         { name: 'Bonecrusher Giant', role: 'Removal et menace combinés' },
         { name: 'Lovestruck Beast', role: 'Corps efficace' },
         { name: 'Thieves\' Guild Enforcer', role: 'Menace bon marché avec synergie de mill' },
@@ -150,9 +150,9 @@ export const standard2020Fr: YearFormatEntry = {
         { name: 'The Great Henge', role: 'Moteur de draw et de mana pour les decks verts' },
       ],
       summary:
-        'Après le bannissement d\'Omnath, le Standard s\'est enfin stabilisé. Gruul Adventures utilisait Edgewall Innkeeper pour l\'card advantage aux côtés de créatures à adventure efficaces du Trône d\'Eldraine. Dimir Rogues proposait une stratégie tempo-mill. Mono-Green Food exploitait Trail of Crumbs et The Great Henge. Pour la première fois de l\'année, aucun deck ne dépassait 20 % du métagame.',
+        'Après le bannissement d\'Omnath, le Standard s\'est enfin stabilisé. Gruul Adventures utilisait Edgewall Innkeeper pour le card advantage aux côtés de créatures-adventure efficaces du Trône d\'Eldraine. Dimir Rogues proposait une stratégie tempo-mill. Mono-Green Food exploitait Trail of Crumbs et The Great Henge. Pour la première fois de l\'année, aucun deck ne dépassait 20 % du métagame.',
       whyItDominated: [
-        'Les créatures à adventure du Trône d\'Eldraine restaient parmi les menaces les plus efficaces',
+        'Les créatures-adventure du Trône d\'Eldraine restaient parmi les menaces les plus efficaces',
         'Edgewall Innkeeper offrait un card advantage répétable',
         'Rogues proposait un axe d\'attaque différent via le mill',
         'Aucun moteur surpuissant ne subsistait après les multiples vagues de bannissements',

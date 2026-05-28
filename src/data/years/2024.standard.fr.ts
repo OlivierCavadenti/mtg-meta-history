@@ -18,7 +18,7 @@ export const standard2024Fr: YearFormatEntry = {
       dominantDecks: ['Domain Ramp', 'Esper Midrange'],
       challengers: ['Mono-Red Aggro', 'Azorius Control', 'Boros Convoke', 'Dimir Midrange'],
       keyCards: [
-        { name: 'Atraxa, Grand Unifier', role: 'Récompense à sept manas qui ensevelissait l\'adversaire sous la card advantage à son arrivée' },
+        { name: 'Atraxa, Grand Unifier', role: 'Récompense à sept manas qui ensevelissait l\'adversaire sous le card advantage à son arrivée' },
         { name: 'Raffine, Scheming Seer', role: 'Moteur de connive d\'Esper filtrant les draw et faisant grossir les menaces' },
         { name: 'Cavern of Souls', role: 'Rendait Atraxa non-contrecarrable, affaiblissant les matchups contrôle contre Domain' },
         { name: 'Up the Beanstalk', role: 'Moteur de draw se déclenchant sur les sorts de cinq manas ou plus dans les builds Domain' },
@@ -26,7 +26,7 @@ export const standard2024Fr: YearFormatEntry = {
         { name: 'Novice Inspector', role: 'Créature à un mana avec jeton Indice permettant la présence de board précoce de Boros Convoke' },
       ],
       summary:
-        'Le Standard a entamé 2024 avec Domain Ramp en première position et Esper Midrange juste derrière. Domain exploitait des sorts de ramp et une base de mana cinq couleurs pour déployer Atraxa, Grand Unifier dès le quatrième ou cinquième tour, générant une card advantage écrasante. Murders at Karlov Manor, sorti en février, a diversifié le format sans perturber le sommet de la hiérarchie. Boros Convoke est passé d\'environ 1 % à 13 % de part du métagame au MagicCon: Chicago grâce à Novice Inspector. Azorius Control a gagné No More Lies et grimpé à près de 9 % du plateau. Mono-Red Aggro et Bant Toxic exploitaient la mise en place lente de Domain. Le format était bien équilibré, avec l\'aggro contrôlant le ramp et le midrange contrôlant l\'aggro.',
+        'Le Standard a entamé 2024 avec Domain Ramp en première position et Esper Midrange juste derrière. Domain exploitait des sorts de ramp et une base de mana cinq couleurs pour déployer Atraxa, Grand Unifier dès le quatrième ou cinquième tour, générant un card advantage écrasant. Murders at Karlov Manor, sorti en février, a diversifié le format sans perturber le sommet de la hiérarchie. Boros Convoke est passé d\'environ 1 % à 13 % de part du métagame au MagicCon: Chicago grâce à Novice Inspector. Azorius Control a gagné No More Lies et grimpé à près de 9 % du plateau. Mono-Red Aggro et Bant Toxic exploitaient la mise en place lente de Domain. Le format était bien équilibré, avec l\'aggro contrôlant le ramp et le midrange contrôlant l\'aggro.',
       whyItDominated: [
         'Atraxa, Grand Unifier offrait un sommet de courbe inégalé générant cinq à sept cartes d\'avantage à la résolution',
         'Cavern of Souls sur Ange rendait Domain Ramp résilient face aux stratégies à base de contresorts',
@@ -59,7 +59,7 @@ export const standard2024Fr: YearFormatEntry = {
       dominantDecks: ['Esper Midrange', 'Domain Ramp'],
       challengers: ['Boros Convoke', 'Temur Analyst', 'Azorius Control', 'Four-Color Legends', 'Mono-Red Aggro'],
       keyCards: [
-        { name: 'Atraxa, Grand Unifier', role: 'Menace ultime de Domain générant une card advantage massive' },
+        { name: 'Atraxa, Grand Unifier', role: 'Menace ultime de Domain générant un card advantage massif' },
         { name: 'Raffine, Scheming Seer', role: 'Cœur d\'Esper Midrange, filtrant et faisant grossir les menaces par connive' },
         { name: 'Concealed Courtyard', role: 'Terrain rapide de Thunder Junction améliorant la base de mana d\'Esper' },
         { name: 'Collector\'s Vault', role: 'Artefact de filtrage de cartes utilisé dans plusieurs shells midrange' },
@@ -108,7 +108,7 @@ export const standard2024Fr: YearFormatEntry = {
       challengers: ['Boros Convoke', 'Golgari Midrange', 'Domain Ramp', 'Azorius Control'],
       keyCards: [
         { name: 'Fabled Passage', role: 'Réimpression de fetchland soutenant les bases de mana Domain et le delirium' },
-        { name: 'Enduring Curiosity', role: 'Créature flash offrant une card advantage résiliente dans les shells Dimir' },
+        { name: 'Enduring Curiosity', role: 'Créature flash offrant un card advantage résilient dans les shells Dimir' },
         { name: 'Callous Sell-Sword', role: 'Créature adventure adoptée dans les builds Mono-Red et Rakdos aggro' },
         { name: 'Kaito, Bane of Nightmares', role: 'Planeswalker renforçant la suite de menaces de Dimir Midrange' },
         { name: 'Innkeeper\'s Talent', role: 'Enchantement de classe renforçant les stratégies basées sur les créatures' },

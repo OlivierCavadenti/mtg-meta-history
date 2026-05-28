@@ -25,7 +25,7 @@ export const standard2010Fr: YearFormatEntry = {
         { name: 'Maelstrom Pulse', role: 'Removal polyvalent' },
       ],
       summary:
-        'Jund était le deck définissant le Standard du début 2010. Cascader Bloodbraid Elf vers Blightning ou un removal offrait au deck une combinaison inégalée d\'card advantage et de pression. Toutes les autres stratégies se mesuraient à leur performance face à Jund.',
+        'Jund était le deck définissant le Standard du début 2010. Cascader Bloodbraid Elf vers Blightning ou un removal offrait au deck une combinaison inégalée de card advantage et de pression. Toutes les autres stratégies se mesuraient à leur performance face à Jund.',
       whyItDominated: [
         'La cascade de Bloodbraid Elf générait des deux-pour-un de manière régulière',
         'Blightning attaquait à la fois la main et le total de vie',

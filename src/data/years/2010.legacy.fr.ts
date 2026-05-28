@@ -79,7 +79,7 @@ export const legacy2010Fr: YearFormatEntry = {
         'Survival of the Fittest combiné avec Vengevine créait un moteur de menaces récurrentes contre lequel il était difficile d\'interagir de manière profitable',
         'Basking Rootwalla fournissait des créatures gratuites qui déclenchaient le retour de Vengevine sans coût de mana',
         'Le deck pouvait générer des board states létaux dès le deuxième tour avec un séquençage approprié',
-        'Les suites de removal existantes étaient mal équipées pour gérer des créatures récurrentes à haste de quatre de power',
+        'Les suites de removal existantes étaient mal équipées pour gérer des créatures récurrentes avec haste de quatre de power',
       ],
       whyItEnded:
         'Plutôt que de prendre fin, la domination de Survival s\'est intensifiée. De nouvelles constructions sont apparues à l\'automne, incluant des variantes combo avec Necrotic Ooze, et la part de métagame du deck a continué de croître tout au long de la saison automnale des SCG Opens.',
@@ -115,7 +115,7 @@ export const legacy2010Fr: YearFormatEntry = {
       challengers: ['CounterTop', 'Merfolk', 'Dredge', 'Belcher'],
       keyCards: [
         { name: 'Survival of the Fittest', role: 'Moteur de tuteur déformant le format' },
-        { name: 'Vengevine', role: 'Menace récurrente à haste' },
+        { name: 'Vengevine', role: 'Menace récurrente avec haste' },
         { name: 'Necrotic Ooze', role: 'Pièce de combo kill copiant les capacités activées des créatures dans tous les graveyards' },
         { name: 'Triskelion', role: 'Pièce de combo avec Necrotic Ooze fournissant une condition de victoire basée sur les blessures' },
         { name: 'Phyrexian Devourer', role: 'Pièce de combo avec Necrotic Ooze fournissant un power illimité' },
