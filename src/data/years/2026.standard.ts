@@ -462,6 +462,36 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A blue-black-green reanimator-combo deck that fills the graveyard with Mosswood Dreadknight Adventure draws and Stock Up filtering. Insidious Roots produces Plant tokens from milled lands, Virtue of Persistence reanimates fallen creatures, Glissa Sunslayer trades up. Powerful engine but vulnerable to graveyard hate.',
       keyCards: ['Mosswood Dreadknight', 'Insidious Roots', 'Virtue of Persistence', 'Stock Up', 'Glissa Sunslayer'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Consider' },
+          { count: 3, name: 'Duress' },
+          { count: 7, name: 'Forest' },
+          { count: 4, name: 'Glissa Sunslayer' },
+          { count: 3, name: 'Go for the Throat' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Insidious Roots' },
+          { count: 7, name: 'Island' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 4, name: 'Mosswood Dreadknight' },
+          { count: 4, name: 'Stock Up' },
+          { count: 7, name: 'Swamp' },
+          { count: 3, name: 'Virtue of Persistence' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Tranquil Frillback' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Bant Airbending',
@@ -471,6 +501,38 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A green-white-blue tempo deck centered on Aang, Swift Savior as a flexible flash threat with bouncing utility. Formidable Speaker grinds card advantage, Get Lost and No More Lies provide interaction, Stock Up refills the hand. Strong against fair midrange but pressured by combo.',
       keyCards: ['Aang, Swift Savior', 'Formidable Speaker', 'Get Lost', 'Stock Up', 'No More Lies'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Aang, Swift Savior' },
+          { count: 3, name: 'Consider' },
+          { count: 6, name: 'Forest' },
+          { count: 4, name: 'Formidable Speaker' },
+          { count: 4, name: 'Get Lost' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 5, name: 'Island' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 3, name: 'Mosswood Dreadknight' },
+          { count: 4, name: 'No More Lies' },
+          { count: 6, name: 'Plains' },
+          { count: 4, name: 'Stock Up' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'The Wandering Emperor' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Destroy Evil' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Tranquil Frillback' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Izzet Spellementals',
@@ -480,6 +542,31 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A blue-red tempo deck centered on Eddymurk Crab and Cori-Steel Cutter scaling with non-creature spells. Stock Up refills cheaply, Consider filters and feeds the graveyard, Shock provides reach. Punishes slow decks but vulnerable to sweepers and lifegain.',
       keyCards: ['Eddymurk Crab', 'Cori-Steel Cutter', 'Stock Up', 'Consider', 'Shock'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Consider' },
+          { count: 4, name: 'Cori-Steel Cutter' },
+          { count: 4, name: 'Eddymurk Crab' },
+          { count: 17, name: 'Island' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 17, name: 'Mountain' },
+          { count: 4, name: 'Shock' },
+          { count: 4, name: 'Stock Up' },
+          { count: 3, name: 'Torch the Tower' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Torch the Tower' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Izzet Lessons',
@@ -489,6 +576,31 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A blue-red control deck that uses Cori-Steel Cutter and No More Lies to lock down threats while Stock Up and Consider refine the hand. Shock removes early creatures. Strong against fair midrange but slow against fast combo.',
       keyCards: ['Cori-Steel Cutter', 'Stock Up', 'Consider', 'Shock', 'No More Lies'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Consider' },
+          { count: 4, name: 'Cori-Steel Cutter' },
+          { count: 17, name: 'Island' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 17, name: 'Mountain' },
+          { count: 4, name: 'No More Lies' },
+          { count: 4, name: 'Shock' },
+          { count: 4, name: 'Stock Up' },
+          { count: 3, name: 'Torch the Tower' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Torch the Tower' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Dimir Midrange',
@@ -498,6 +610,30 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A blue-black midrange deck centered on Preacher of the Schism grinding value and Sheoldred, the Apocalypse draining the opponent. Kaito, Bane of Nightmares serves as planeswalker-creature, Go for the Throat removes anything. Grindy and resilient but pressured by exile-based removal.',
       keyCards: ['Preacher of the Schism', 'Sheoldred, the Apocalypse', 'Kaito, Bane of Nightmares', 'Go for the Throat', 'Stock Up'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Consider' },
+          { count: 3, name: 'Duress' },
+          { count: 3, name: 'Go for the Throat' },
+          { count: 19, name: 'Island' },
+          { count: 3, name: 'Kaito, Bane of Nightmares' },
+          { count: 3, name: 'Preacher of the Schism' },
+          { count: 3, name: 'Sheoldred, the Apocalypse' },
+          { count: 4, name: 'Stock Up' },
+          { count: 19, name: 'Swamp' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Azorius Tempo',
@@ -507,6 +643,32 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A blue-white tempo deck centered on Aang, Swift Savior as a flash threat with bounce utility. Erode handles permanents, No More Lies and Get Lost provide flexible interaction, Stock Up refills the hand. Punishes slow decks but pressured by combo.',
       keyCards: ['Aang, Swift Savior', 'Erode', 'No More Lies', 'Get Lost', 'Stock Up'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Aang, Swift Savior' },
+          { count: 3, name: 'Consider' },
+          { count: 4, name: 'Erode' },
+          { count: 4, name: 'Get Lost' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 16, name: 'Island' },
+          { count: 4, name: 'No More Lies' },
+          { count: 15, name: 'Plains' },
+          { count: 4, name: 'Stock Up' },
+          { count: 3, name: 'The Wandering Emperor' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Destroy Evil' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Boros Dragons',
@@ -516,6 +678,34 @@ export const standard2026: YearFormatEntry = {
       summary:
         'A red-white midrange deck centered on Sarkhan, Dragon Ascendant as a planeswalker that becomes a Dragon. Erode and Get Lost provide flexible interaction, Lightning Helix removes creatures and gains life, Shock handles early threats. Strong against fair aggro but pressured by combo.',
       keyCards: ['Sarkhan, Dragon Ascendant', 'Erode', 'Get Lost', 'Lightning Helix', 'Shock'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 4, name: 'Erode' },
+          { count: 4, name: 'Get Lost' },
+          { count: 4, name: 'Lightning Helix' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 14, name: 'Mountain' },
+          { count: 14, name: 'Plains' },
+          { count: 3, name: 'Sarkhan, Dragon Ascendant' },
+          { count: 4, name: 'Shock' },
+          { count: 3, name: 'The Wandering Emperor' },
+          { count: 3, name: 'Torch the Tower' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Destroy Evil' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Torch the Tower' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

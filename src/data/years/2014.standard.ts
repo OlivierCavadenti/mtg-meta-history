@@ -124,6 +124,28 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A mono-black midrange deck built on Pack Rat snowballing, Gray Merchant of Asphodel for a closing drain, and Desecration Demon as a flying clock. Thoughtseize, Hero\'s Downfall, and Underworld Connections provide disruption and card advantage. Grindy and resilient but pressured by exile removal and aggressive decks.',
       keyCards: ['Pack Rat', 'Gray Merchant of Asphodel', 'Thoughtseize', 'Desecration Demon', 'Underworld Connections', "Hero's Downfall"],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Desecration Demon' },
+          { count: 3, name: 'Gray Merchant of Asphodel' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 4, name: 'Pack Rat' },
+          { count: 38, name: 'Swamp' },
+          { count: 4, name: 'Thoughtseize' },
+          { count: 4, name: 'Underworld Connections' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'MTGTop8 - Standard Devotion to Black decklists',
         publisher: 'MTGTop8',
@@ -138,6 +160,29 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A mono-blue tempo-aggro deck that builds devotion via Cloudfin Raptor, Frostburn Weird, and Nightveil Specter to animate Thassa, God of the Sea and explode with Master of Waves. Tidebinder Mage taps key creatures. Fast and resilient but vulnerable to red sweepers.',
       keyCards: ['Thassa, God of the Sea', 'Master of Waves', 'Tidebinder Mage', 'Nightveil Specter', 'Cloudfin Raptor'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Cloudfin Raptor' },
+          { count: 3, name: 'Dissolve' },
+          { count: 36, name: 'Island' },
+          { count: 3, name: 'Master of Waves' },
+          { count: 4, name: 'Nightveil Specter' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 3, name: 'Thassa, God of the Sea' },
+          { count: 4, name: 'Tidebinder Mage' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Theros coverage',
         publisher: 'Wizards of the Coast',
@@ -152,6 +197,31 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A blue-white control deck anchored by Sphinx\'s Revelation for late-game card advantage and life gain. Supreme Verdict sweeps uncounterably, Detention Sphere exiles permanents, Jace and Elspeth control planeswalker board. Inevitable but slow against fast aggro and combo.',
       keyCards: ["Sphinx's Revelation", 'Supreme Verdict', 'Detention Sphere', 'Jace, Architect of Thought', 'Elspeth, Sun\'s Champion'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Detention Sphere' },
+          { count: 3, name: 'Dissolve' },
+          { count: 3, name: 'Elspeth, Sun\'s Champion' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 18, name: 'Island' },
+          { count: 3, name: 'Jace, Architect of Thought' },
+          { count: 17, name: 'Plains' },
+          { count: 4, name: 'Sphinx\'s Revelation' },
+          { count: 4, name: 'Supreme Verdict' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'MTGTop8 - Standard UW Control decklists',
         publisher: 'MTGTop8',
@@ -166,6 +236,36 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A black-green-white midrange deck centered on Siege Rhino as a four-mana drain-plus-body and Courser of Kruphix as a Lightning Bolt-proof blocker with incidental life and card advantage. Thoughtseize disrupts, Abzan Charm provides flexible answers, Wingmate Roc closes. Dominates fair midrange.',
       keyCards: ['Siege Rhino', 'Courser of Kruphix', 'Sylvan Caryatid', 'Thoughtseize', 'Abzan Charm', 'Wingmate Roc'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Abzan Charm' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 8, name: 'Forest' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 8, name: 'Plains' },
+          { count: 4, name: 'Siege Rhino' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 8, name: 'Swamp' },
+          { count: 4, name: 'Sylvan Caryatid' },
+          { count: 4, name: 'Thoughtseize' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Khans of Tarkir coverage',
         publisher: 'Wizards of the Coast',
@@ -180,6 +280,38 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A blue-red-white tempo deck built on Mantis Rider as a three-mana flying haste threat backed by Stoke the Flames and Jeskai Charm for cheap interaction. Goblin Rabblemaster floods the board, Dig Through Time refills the hand. Fast and punishing but pressured by sweepers.',
       keyCards: ['Mantis Rider', 'Jeskai Charm', 'Stoke the Flames', 'Goblin Rabblemaster', 'Dig Through Time'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 4, name: 'Dig Through Time' },
+          { count: 3, name: 'Dissolve' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Goblin Rabblemaster' },
+          { count: 6, name: 'Island' },
+          { count: 4, name: 'Jeskai Charm' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 4, name: 'Mantis Rider' },
+          { count: 5, name: 'Mountain' },
+          { count: 5, name: 'Plains' },
+          { count: 2, name: 'Sphinx\'s Revelation' },
+          { count: 3, name: 'Stoke the Flames' },
+          { count: 3, name: 'Supreme Verdict' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Khans of Tarkir Top 8',
         publisher: 'Wizards of the Coast',
@@ -195,6 +327,32 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A red-green big-creature midrange deck running Stormbreath Dragon, Polukranos, and Domri Rade for ramp, fight, and card advantage. Xenagos, the Reveler ramps and tokens. Punishes slow setups but pressured by control with sweepers.',
       keyCards: ['Stormbreath Dragon', 'Polukranos, World Eater', 'Domri Rade', 'Xenagos, the Reveler', 'Sylvan Caryatid'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Domri Rade' },
+          { count: 16, name: 'Forest' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 17, name: 'Mountain' },
+          { count: 3, name: 'Polukranos, World Eater' },
+          { count: 4, name: 'Stormbreath Dragon' },
+          { count: 4, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Xenagos, the Reveler' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Jund Monsters',
@@ -204,6 +362,37 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A black-red-green big-creature midrange deck blending Monsters\' threats — Stormbreath Dragon, Polukranos, Courser of Kruphix — with black removal in Hero\'s Downfall. Domri Rade fights and refills. Strong against fair decks but pressured by efficient sweepers.',
       keyCards: ['Stormbreath Dragon', 'Polukranos, World Eater', 'Domri Rade', 'Courser of Kruphix', 'Hero\'s Downfall'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Domri Rade' },
+          { count: 4, name: 'Dragonskull Summit' },
+          { count: 7, name: 'Forest' },
+          { count: 4, name: 'Hero\'s Downfall' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 7, name: 'Mountain' },
+          { count: 3, name: 'Polukranos, World Eater' },
+          { count: 4, name: 'Stormbreath Dragon' },
+          { count: 8, name: 'Swamp' },
+          { count: 3, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 2, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Burn',
@@ -213,6 +402,32 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A mono-red burn-aggro shell that combines efficient creatures like Eidolon of the Great Revel and Stormbreath Dragon with cheap burn — Lightning Strike, Magma Jet, Searing Blood. Aims to deal twenty damage by turn four through reach. Punishes greedy mana bases but folds to lifegain.',
       keyCards: ['Eidolon of the Great Revel', 'Lightning Strike', 'Magma Jet', 'Searing Blood', 'Stormbreath Dragon'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Eidolon of the Great Revel' },
+          { count: 16, name: 'Forest' },
+          { count: 4, name: 'Lightning Strike' },
+          { count: 4, name: 'Magma Jet' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 16, name: 'Mountain' },
+          { count: 4, name: 'Searing Blood' },
+          { count: 4, name: 'Stormbreath Dragon' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mardu Midrange',
@@ -222,6 +437,38 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A black-red-white midrange deck that produces tokens via Sorin, Solemn Visitor and Goblin Rabblemaster, then sacrifices them to Butcher of the Horde for haste-lifelink-vigilance. Crackling Doom doubles as removal and burn, Hero\'s Downfall handles anything. Versatile but pressured by sweepers.',
       keyCards: ['Butcher of the Horde', 'Crackling Doom', 'Hero\'s Downfall', 'Sorin, Solemn Visitor', 'Goblin Rabblemaster'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Butcher of the Horde' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 4, name: 'Crackling Doom' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 4, name: 'Dragonskull Summit' },
+          { count: 4, name: 'Goblin Rabblemaster' },
+          { count: 4, name: 'Hero\'s Downfall' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 7, name: 'Mountain' },
+          { count: 6, name: 'Plains' },
+          { count: 3, name: 'Sorin, Solemn Visitor' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 6, name: 'Swamp' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 2, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Sultai Control',
@@ -231,6 +478,37 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A blue-black-green delve-control deck that fills the graveyard for cheap Murderous Cut and Dig Through Time, with Tasigur and Sidisi, Brood Tyrant as graveyard-loving threats. Hero\'s Downfall removes anything. Strong against fair decks but pressured by graveyard hate.',
       keyCards: ['Sidisi, Brood Tyrant', 'Hero\'s Downfall', 'Murderous Cut', 'Dig Through Time', 'Tasigur, the Golden Fang'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Dig Through Time' },
+          { count: 3, name: 'Dissolve' },
+          { count: 6, name: 'Forest' },
+          { count: 4, name: 'Hero\'s Downfall' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 6, name: 'Island' },
+          { count: 4, name: 'Murderous Cut' },
+          { count: 3, name: 'Sidisi, Brood Tyrant' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 7, name: 'Swamp' },
+          { count: 3, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Tasigur, the Golden Fang' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UB Control',
@@ -240,6 +518,30 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A blue-black control deck built on Dig Through Time and Dissolve for selection and counter-magic, with Hero\'s Downfall for removal. Pearl Lake Ancient is an uncounterable bounce-protected finisher, Perilous Vault exiles everything. Inevitable but slow against fast combo.',
       keyCards: ['Dissolve', 'Dig Through Time', 'Hero\'s Downfall', 'Pearl Lake Ancient', 'Perilous Vault'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Dig Through Time' },
+          { count: 4, name: 'Dissolve' },
+          { count: 4, name: 'Hero\'s Downfall' },
+          { count: 17, name: 'Island' },
+          { count: 4, name: 'Pearl Lake Ancient' },
+          { count: 4, name: 'Perilous Vault' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 17, name: 'Swamp' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Temur Monsters',
@@ -249,6 +551,37 @@ export const standard2014: YearFormatEntry = {
       summary:
         'A blue-red-green big-creature midrange deck that lands Savage Knuckleblade, Stormbreath Dragon, and Polukranos as efficient threats. Sarkhan, the Dragonspeaker becomes a haste Dragon. Punishes slow control but pressured by sweepers and lifegain.',
       keyCards: ['Savage Knuckleblade', 'Stormbreath Dragon', 'Polukranos, World Eater', 'Sarkhan, the Dragonspeaker', 'Crater\'s Claws'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Crater\'s Claws' },
+          { count: 3, name: 'Dissolve' },
+          { count: 7, name: 'Forest' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 7, name: 'Island' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 6, name: 'Mountain' },
+          { count: 3, name: 'Polukranos, World Eater' },
+          { count: 3, name: 'Sarkhan, the Dragonspeaker' },
+          { count: 4, name: 'Savage Knuckleblade' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 4, name: 'Stormbreath Dragon' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

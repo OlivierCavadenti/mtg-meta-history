@@ -136,6 +136,39 @@ export const standard2010: YearFormatEntry = {
       summary:
         'The defining midrange deck of 2010 Standard. Bloodbraid Elf cascades into Blightning, Maelstrom Pulse, or Lightning Bolt for two-for-one value every turn. Putrid Leech and Sprouting Thrinax fill the curve with resilient bodies. Grinds out fair decks but pressured by dedicated combo and burn.',
       keyCards: ['Bloodbraid Elf', 'Blightning', 'Sprouting Thrinax', 'Putrid Leech', 'Maelstrom Pulse', 'Lightning Bolt'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Blightning' },
+          { count: 4, name: 'Bloodbraid Elf' },
+          { count: 3, name: 'Burst Lightning' },
+          { count: 1, name: 'Cultivate' },
+          { count: 3, name: 'Doom Blade' },
+          { count: 4, name: 'Dragonskull Summit' },
+          { count: 3, name: 'Duress' },
+          { count: 5, name: 'Forest' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 4, name: 'Maelstrom Pulse' },
+          { count: 5, name: 'Mountain' },
+          { count: 4, name: 'Putrid Leech' },
+          { count: 4, name: 'Sprouting Thrinax' },
+          { count: 6, name: 'Swamp' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mythic Conscription',
@@ -145,6 +178,40 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A green-white-blue ramp-aggro hybrid that uses Noble Hierarch and Knight of the Reliquary to ramp into Sovereigns of Lost Alara, fetching Eldrazi Conscription for a one-shot kill. Jace, the Mind Sculptor protects the combo. Explosive but vulnerable to instant-speed removal.',
       keyCards: ['Jace, the Mind Sculptor', 'Sovereigns of Lost Alara', 'Eldrazi Conscription', 'Noble Hierarch', 'Knight of the Reliquary'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Eldrazi Conscription' },
+          { count: 5, name: 'Forest' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 3, name: 'Knight of the Reliquary' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 3, name: 'Mana Leak' },
+          { count: 4, name: 'Noble Hierarch' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 4, name: 'Plains' },
+          { count: 3, name: 'Sovereigns of Lost Alara' },
+          { count: 3, name: 'Spell Pierce' },
+          { count: 4, name: 'Sunpetal Grove' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UW Control',
@@ -154,6 +221,33 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A blue-white control deck anchored by Jace, the Mind Sculptor as the format\'s premier planeswalker. Day of Judgment sweeps creatures, Wall of Omens cantrips and blocks, Baneslayer Angel closes from a stable board. Outvalues fair decks but pressured by Jund\'s cascade and combo.',
       keyCards: ['Jace, the Mind Sculptor', 'Day of Judgment', 'Wall of Omens', 'Baneslayer Angel', 'Oblivion Ring'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Baneslayer Angel' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 15, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 3, name: 'Mana Leak' },
+          { count: 4, name: 'Oblivion Ring' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 15, name: 'Plains' },
+          { count: 3, name: 'Spell Pierce' },
+          { count: 3, name: 'Wall of Omens' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Valakut Ramp',
@@ -163,6 +257,29 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A red-green ramp deck that uses Cultivate and Oracle of Mul Daya to accelerate into Primeval Titan fetching Valakut, the Molten Pinnacle and a Mountain for direct damage. Avenger of Zendikar closes via landfall tokens. Inevitable but vulnerable to fast clocks and counterspells.',
       keyCards: ['Valakut, the Molten Pinnacle', 'Primeval Titan', 'Cultivate', 'Oracle of Mul Daya', 'Avenger of Zendikar'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Avenger of Zendikar' },
+          { count: 4, name: 'Cultivate' },
+          { count: 40, name: 'Forest' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 3, name: 'Oracle of Mul Daya' },
+          { count: 4, name: 'Primeval Titan' },
+          { count: 3, name: 'Valakut, the Molten Pinnacle' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   
     {
@@ -173,6 +290,39 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A red-green-white midrange deck where Knight of the Reliquary scales with sacrificed lands and Bloodbraid Elf cascades into value. Ranger of Eos refills with one-drops, Baneslayer Angel stabilizes, Noble Hierarch accelerates. Balanced between aggro and midrange but pressured by sweepers.',
       keyCards: ['Knight of the Reliquary', 'Bloodbraid Elf', 'Ranger of Eos', 'Baneslayer Angel', 'Noble Hierarch'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Baneslayer Angel' },
+          { count: 4, name: 'Bloodbraid Elf' },
+          { count: 3, name: 'Burst Lightning' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 5, name: 'Forest' },
+          { count: 3, name: 'Knight of the Reliquary' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 6, name: 'Mountain' },
+          { count: 4, name: 'Noble Hierarch' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 5, name: 'Plains' },
+          { count: 3, name: 'Ranger of Eos' },
+          { count: 4, name: 'Sunpetal Grove' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 3, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Boros Bushwhacker',
@@ -182,6 +332,34 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A red-white landfall aggro deck that floods the board with Steppe Lynx and Plated Geopede, then ends games with Goblin Bushwhacker giving haste and a global pump. Lightning Bolt clears blockers, Ranger of Eos refills. Punishes slow openings but folds to early sweepers.',
       keyCards: ['Goblin Bushwhacker', 'Steppe Lynx', 'Plated Geopede', 'Lightning Bolt', 'Ranger of Eos'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Burst Lightning' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Goblin Bushwhacker' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 14, name: 'Mountain' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 14, name: 'Plains' },
+          { count: 4, name: 'Plated Geopede' },
+          { count: 3, name: 'Ranger of Eos' },
+          { count: 4, name: 'Steppe Lynx' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Vampires',
@@ -191,6 +369,30 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A mono-black tribal aggro-midrange shell built on Vampire Lacerator and Vampire Nighthawk for early pressure with lifelink and deathtouch. Bloodghast recurs from the graveyard via landfall, Gatekeeper of Malakir removes a creature on cast, Malakir Bloodwitch drains for the win. Resilient against fair decks but vulnerable to exile removal.',
       keyCards: ['Bloodghast', 'Vampire Nighthawk', 'Gatekeeper of Malakir', 'Malakir Bloodwitch', 'Vampire Lacerator'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Bloodghast' },
+          { count: 3, name: 'Doom Blade' },
+          { count: 3, name: 'Duress' },
+          { count: 3, name: 'Gatekeeper of Malakir' },
+          { count: 4, name: 'Malakir Bloodwitch' },
+          { count: 35, name: 'Swamp' },
+          { count: 4, name: 'Vampire Lacerator' },
+          { count: 4, name: 'Vampire Nighthawk' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Naya Allies',
@@ -200,6 +402,39 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A red-green-white Ally tribal deck that snowballs board state — every new Ally pumps Hada Freeblade and Kazandu Blademaster while triggering Talus Paladin\'s lifelink and Ondu Cleric\'s life gain. Harabaz Druid ramps multicolor. Grows fast but folds to sweepers.',
       keyCards: ['Hada Freeblade', 'Kazandu Blademaster', 'Ondu Cleric', 'Talus Paladin', 'Harabaz Druid'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Burst Lightning' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 5, name: 'Forest' },
+          { count: 4, name: 'Hada Freeblade' },
+          { count: 4, name: 'Harabaz Druid' },
+          { count: 4, name: 'Kazandu Blademaster' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 5, name: 'Mountain' },
+          { count: 4, name: 'Ondu Cleric' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 4, name: 'Plains' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 4, name: 'Talus Paladin' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 3, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Red',
@@ -209,6 +444,29 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A mono-red aggro deck running Goblin Guide, Plated Geopede, and Ball Lightning backed by Lightning Bolt and Searing Blaze for burn. Aims to deal twenty damage by turn four. Punishes greedy mana bases but vulnerable to lifegain and early sweepers.',
       keyCards: ['Goblin Guide', 'Lightning Bolt', 'Searing Blaze', 'Plated Geopede', 'Ball Lightning'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Ball Lightning' },
+          { count: 3, name: 'Burst Lightning' },
+          { count: 4, name: 'Goblin Guide' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 37, name: 'Mountain' },
+          { count: 4, name: 'Plated Geopede' },
+          { count: 4, name: 'Searing Blaze' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Next Level Bant',
@@ -218,6 +476,40 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A green-white-blue midrange deck that ramps with Noble Hierarch into Knight of the Reliquary and Jace, the Mind Sculptor. Stoneforge Mystic tutors equipment, Baneslayer Angel stabilizes. Strong against fair midrange but pressured by combo and burn.',
       keyCards: ['Noble Hierarch', 'Jace, the Mind Sculptor', 'Knight of the Reliquary', 'Stoneforge Mystic', 'Baneslayer Angel'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Baneslayer Angel' },
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Forest' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 3, name: 'Knight of the Reliquary' },
+          { count: 3, name: 'Llanowar Elves' },
+          { count: 3, name: 'Mana Leak' },
+          { count: 4, name: 'Noble Hierarch' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 4, name: 'Plains' },
+          { count: 3, name: 'Spell Pierce' },
+          { count: 4, name: 'Stoneforge Mystic' },
+          { count: 4, name: 'Sunpetal Grove' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'White Weenie Quest',
@@ -227,6 +519,30 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A mono-white artifact aggro deck that races to four artifacts on Quest for the Holy Relic, then tutors Argentum Armor to crush the opponent. Mox Opal accelerates, Stoneforge Mystic acts as backup tutor, Steppe Lynx applies early pressure. Explosive but fragile to artifact removal.',
       keyCards: ['Quest for the Holy Relic', 'Argentum Armor', 'Stoneforge Mystic', 'Steppe Lynx', 'Mox Opal'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Argentum Armor' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Mox Opal' },
+          { count: 3, name: 'Path to Exile' },
+          { count: 35, name: 'Plains' },
+          { count: 3, name: 'Quest for the Holy Relic' },
+          { count: 4, name: 'Steppe Lynx' },
+          { count: 4, name: 'Stoneforge Mystic' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'RUG Control',
@@ -236,6 +552,31 @@ export const standard2010: YearFormatEntry = {
       summary:
         'A red-blue-green control deck that uses Lightning Bolt and Mana Leak for cheap interaction while Jace, the Mind Sculptor builds card advantage. Frost Titan and Inferno Titan close as flexible six-drops. Outvalues fair decks but slow against combo.',
       keyCards: ['Jace, the Mind Sculptor', 'Lightning Bolt', 'Mana Leak', 'Frost Titan', 'Inferno Titan'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Burst Lightning' },
+          { count: 4, name: 'Frost Titan' },
+          { count: 4, name: 'Inferno Titan' },
+          { count: 18, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 17, name: 'Mountain' },
+          { count: 3, name: 'Spell Pierce' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

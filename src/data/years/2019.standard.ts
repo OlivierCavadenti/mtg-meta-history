@@ -190,6 +190,29 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A mono-blue tempo deck that pairs Curious Obsession on Tempest Djinn or Siren Stormtamer for card advantage on attack. Spell Pierce protects key turns, Merfolk Trickster provides flash interaction. Punishes greedy decks but vulnerable to sweepers and lifegain.',
       keyCards: ['Curious Obsession', 'Tempest Djinn', 'Spell Pierce', 'Siren Stormtamer', 'Merfolk Trickster'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Curious Obsession' },
+          { count: 34, name: 'Island' },
+          { count: 4, name: 'Merfolk Trickster' },
+          { count: 3, name: 'Opt' },
+          { count: 4, name: 'Siren Stormtamer' },
+          { count: 4, name: 'Spell Pierce' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 4, name: 'Tempest Djinn' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Mythic Championship Cleveland 2019',
         publisher: 'MTG Wiki (Fandom)',
@@ -204,6 +227,37 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-black-white control deck anchored by Teferi, Hero of Dominaria as the inevitable closer. Absorb counters and gains life, Kaya\'s Wrath sweeps creatures, Thought Erasure disrupts. Search for Azcanta filters early. Strong against fair decks but slow against fast combo.',
       keyCards: ['Teferi, Hero of Dominaria', 'Absorb', 'Kaya\'s Wrath', 'Thought Erasure', 'Search for Azcanta'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Absorb' },
+          { count: 2, name: 'Eliminate' },
+          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 7, name: 'Island' },
+          { count: 4, name: 'Kaya\'s Wrath' },
+          { count: 3, name: 'Opt' },
+          { count: 7, name: 'Plains' },
+          { count: 4, name: 'Search for Azcanta' },
+          { count: 3, name: 'Shatter the Sky' },
+          { count: 6, name: 'Swamp' },
+          { count: 3, name: 'Teferi, Hero of Dominaria' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 4, name: 'Thought Erasure' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Mythic Championship Cleveland 2019',
         publisher: 'MTG Wiki (Fandom)',
@@ -218,6 +272,38 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-black-green midrange deck centered on Hydroid Krasis as a scaling X-spell finisher with card advantage and lifegain. Jadelight Ranger explores into value, Wildgrowth Walker gains life, Vivien Reid handles flyers. Find // Finality provides flexible utility.',
       keyCards: ['Hydroid Krasis', 'Jadelight Ranger', 'Wildgrowth Walker', 'Vivien Reid', 'Find // Finality'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Eliminate' },
+          { count: 4, name: 'Find // Finality' },
+          { count: 5, name: 'Forest' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Hydroid Krasis' },
+          { count: 5, name: 'Island' },
+          { count: 4, name: 'Jadelight Ranger' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Opt' },
+          { count: 6, name: 'Swamp' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 1, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 4, name: 'Vivien Reid' },
+          { count: 4, name: 'Wildgrowth Walker' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Mythic Championship Cleveland 2019',
         publisher: 'MTG Wiki (Fandom)',
@@ -232,6 +318,33 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A green-blue Food-based midrange deck powered by Oko, Thief of Crowns producing Elk and stealing threats. Gilded Goose makes Food tokens, Wicked Wolf eats Food for fights and growth, Once Upon a Time tutors creatures or lands. Nissa closes. Oko\'s power-level eventually led to its ban.',
       keyCards: ['Oko, Thief of Crowns', 'Gilded Goose', 'Wicked Wolf', 'Once Upon a Time', 'Nissa, Who Shakes the World'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 16, name: 'Forest' },
+          { count: 4, name: 'Gilded Goose' },
+          { count: 17, name: 'Mountain' },
+          { count: 3, name: 'Nissa, Who Shakes the World' },
+          { count: 3, name: 'Oko, Thief of Crowns' },
+          { count: 4, name: 'Once Upon a Time' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 4, name: 'Wicked Wolf' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'November 18, 2019 Banned and Restricted Announcement',
         publisher: 'Wizards of the Coast',
@@ -247,6 +360,30 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A mono-red aggro deck that pumps Runaway Steam-Kin and Goblin Chainwhirler while burning out the opponent with Skewer the Critics and Light Up the Stage for free card advantage. Experimental Frenzy converts mana into spells. Punishes slow openings but vulnerable to lifegain.',
       keyCards: ['Goblin Chainwhirler', 'Runaway Steam-Kin', 'Light Up the Stage', 'Skewer the Critics', 'Experimental Frenzy'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 4, name: 'Experimental Frenzy' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 3, name: 'Light Up the Stage' },
+          { count: 36, name: 'Mountain' },
+          { count: 4, name: 'Runaway Steam-Kin' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Skewer the Critics' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Simic Nexus',
@@ -256,6 +393,34 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-green combo deck that uses Wilderness Reclamation to double mana and Nexus of Fate to take infinite turns, eventually killing with Hydroid Krasis. Search for Azcanta filters, Root Snare protects life. Inevitable but slow against fast combo and counterspells.',
       keyCards: ['Nexus of Fate', 'Wilderness Reclamation', 'Search for Azcanta', 'Root Snare', 'Hydroid Krasis'],
+      decklist: {
+        mainboard: [
+          { count: 13, name: 'Forest' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Hydroid Krasis' },
+          { count: 12, name: 'Island' },
+          { count: 3, name: 'Nexus of Fate' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Opt' },
+          { count: 4, name: 'Root Snare' },
+          { count: 4, name: 'Search for Azcanta' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 4, name: 'Wilderness Reclamation' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Izzet Phoenix',
@@ -265,6 +430,32 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-red tempo-combo deck that fills the graveyard with Opt and Chart a Course, returning Arclight Phoenix for free after three spells in a turn. Crackling Drake scales with spells, Lightning Strike provides reach. Explosive but vulnerable to graveyard hate.',
       keyCards: ['Arclight Phoenix', 'Crackling Drake', 'Opt', 'Lightning Strike', 'Chart a Course'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Arclight Phoenix' },
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 4, name: 'Chart a Course' },
+          { count: 4, name: 'Crackling Drake' },
+          { count: 16, name: 'Island' },
+          { count: 4, name: 'Lightning Strike' },
+          { count: 15, name: 'Mountain' },
+          { count: 4, name: 'Opt' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'White Aggro',
@@ -274,6 +465,30 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A mono-white aggro shell powered by Benalish Marshal and History of Benalia for global pumps and Knight tokens. Venerated Loxodon convokes into a massive boost, Knight of Grace beats up on black, Dauntless Bodyguard protects key threats. Strong wide-board pressure but vulnerable to sweepers.',
       keyCards: ['History of Benalia', 'Benalish Marshal', 'Venerated Loxodon', 'Knight of Grace', 'Dauntless Bodyguard'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Benalish Marshal' },
+          { count: 4, name: 'Dauntless Bodyguard' },
+          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'History of Benalia' },
+          { count: 3, name: 'Knight of Grace' },
+          { count: 36, name: 'Plains' },
+          { count: 3, name: 'Shatter the Sky' },
+          { count: 4, name: 'Venerated Loxodon' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Esper Hero',
@@ -283,6 +498,36 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-black-white midrange deck that uses Hero of Precinct One to produce a multicolor token every spell. Teferi, Time Raveler and Narset, Parter of Veils control the opponent\'s options, Thought Erasure provides hand disruption. Grindy and resilient but vulnerable to sweepers.',
       keyCards: ['Hero of Precinct One', 'Teferi, Time Raveler', 'Narset, Parter of Veils', 'Thought Erasure', 'Hero\'s Downfall'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Eliminate' },
+          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Hero of Precinct One' },
+          { count: 4, name: 'Hero\'s Downfall' },
+          { count: 8, name: 'Island' },
+          { count: 3, name: 'Narset, Parter of Veils' },
+          { count: 3, name: 'Opt' },
+          { count: 8, name: 'Plains' },
+          { count: 3, name: 'Shatter the Sky' },
+          { count: 8, name: 'Swamp' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 4, name: 'Thought Erasure' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Bant Ramp (Nissa)',
@@ -292,6 +537,40 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A green-white-blue ramp deck powered by Llanowar Elves and Nissa, Who Shakes the World animating lands as five/five threats. Hydroid Krasis scales as an X-spell finisher with card advantage and lifegain, Teferi, Hero of Dominaria provides inevitability. Strong against fair decks.',
       keyCards: ['Nissa, Who Shakes the World', 'Hydroid Krasis', 'Teferi, Hero of Dominaria', 'Llanowar Elves', 'Growth Spiral'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 5, name: 'Forest' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Growth Spiral' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Hydroid Krasis' },
+          { count: 4, name: 'Island' },
+          { count: 4, name: 'Llanowar Elves' },
+          { count: 3, name: 'Nissa, Who Shakes the World' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Opt' },
+          { count: 5, name: 'Plains' },
+          { count: 3, name: 'Shatter the Sky' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Teferi, Hero of Dominaria' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 1, name: 'Uro, Titan of Nature\'s Wrath' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Gruul Aggro',
@@ -301,6 +580,34 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A red-green aggro shell that ramps with Llanowar Elves into Gruul Spellbreaker and Rekindling Phoenix as resilient threats. Goblin Chainwhirler sweeps small creatures, Domri, Anarch of Bolas refills and pumps. Strong against control but pressured by sweepers.',
       keyCards: ['Llanowar Elves', 'Gruul Spellbreaker', 'Rekindling Phoenix', 'Goblin Chainwhirler', 'Domri, Anarch of Bolas'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 3, name: 'Domri, Anarch of Bolas' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 4, name: 'Gruul Spellbreaker' },
+          { count: 4, name: 'Llanowar Elves' },
+          { count: 15, name: 'Mountain' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 4, name: 'Rekindling Phoenix' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Vampires',
@@ -310,6 +617,29 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A black-white Vampire tribal aggro deck where Sorin, Imperious Bloodlord cheats expensive Vampires into play. Champion of Dusk draws for each Vampire, Knight of the Ebon Legion scales, Legion Lieutenant pumps the team. Adanto Vanguard provides indestructible pressure. Strong against fair decks.',
       keyCards: ['Sorin, Imperious Bloodlord', 'Champion of Dusk', 'Knight of the Ebon Legion', 'Legion Lieutenant', 'Adanto Vanguard'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Adanto Vanguard' },
+          { count: 3, name: 'Champion of Dusk' },
+          { count: 3, name: 'Eliminate' },
+          { count: 3, name: 'Knight of the Ebon Legion' },
+          { count: 4, name: 'Legion Lieutenant' },
+          { count: 3, name: 'Sorin, Imperious Bloodlord' },
+          { count: 37, name: 'Swamp' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Oko Food (Simic/Sultai/Bant)',
@@ -319,6 +649,34 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A green-blue (often splashing black or white) Food shell that abuses Oko, Thief of Crowns producing Elk and stealing threats. Gilded Goose generates Food, Wicked Wolf eats Food to fight, Nissa animates lands. Dominated every fair matchup until Oko was banned.',
       keyCards: ['Oko, Thief of Crowns', 'Gilded Goose', 'Wicked Wolf', 'Nissa, Who Shakes the World', 'Hydroid Krasis'],
+      decklist: {
+        mainboard: [
+          { count: 13, name: 'Forest' },
+          { count: 4, name: 'Gilded Goose' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Hydroid Krasis' },
+          { count: 13, name: 'Island' },
+          { count: 3, name: 'Nissa, Who Shakes the World' },
+          { count: 3, name: 'Oko, Thief of Crowns' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Opt' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 4, name: 'Wicked Wolf' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Fires of Invention',
@@ -328,6 +686,34 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A four/five-color combo-control deck that resolves Fires of Invention to cast two spells free per turn. Cavalier of Flame loots and pumps, Kenrith, the Returned King provides win conditions, Deafening Clarion sweeps. Teferi, Time Raveler protects from instants. Powerful but vulnerable to disenchant effects.',
       keyCards: ['Fires of Invention', 'Cavalier of Flame', 'Kenrith, the Returned King', 'Deafening Clarion', 'Teferi, Time Raveler'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 3, name: 'Cavalier of Flame' },
+          { count: 4, name: 'Deafening Clarion' },
+          { count: 3, name: 'Fires of Invention' },
+          { count: 16, name: 'Forest' },
+          { count: 3, name: 'Kenrith, the Returned King' },
+          { count: 16, name: 'Mountain' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Jeskai Fires',
@@ -337,6 +723,38 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A blue-red-white combo-control deck that resolves Fires of Invention then unloads multiple haymakers per turn — Cavalier of Flame, Kenrith, Teferi, Time Raveler. Deafening Clarion sweeps. Powerful late-game but vulnerable to fast aggro and disenchant.',
       keyCards: ['Fires of Invention', 'Cavalier of Flame', 'Teferi, Time Raveler', 'Deafening Clarion', 'Kenrith, the Returned King'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonecrusher Giant' },
+          { count: 3, name: 'Cavalier of Flame' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 4, name: 'Deafening Clarion' },
+          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'Fires of Invention' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 7, name: 'Island' },
+          { count: 3, name: 'Kenrith, the Returned King' },
+          { count: 7, name: 'Mountain' },
+          { count: 3, name: 'Opt' },
+          { count: 7, name: 'Plains' },
+          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Teferi, Time Raveler' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Aether Gust' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Adventures (Golgari)',
@@ -346,6 +764,34 @@ export const standard2019: YearFormatEntry = {
       summary:
         'A black-green Adventure midrange deck centered on Edgewall Innkeeper drawing a card every Adventure creature cast. Lovestruck Beast and Murderous Rider are efficient threats with utility Adventures. Foulmire Knight and Order of Midnight grind value. Grindy and resilient against fair decks.',
       keyCards: ['Edgewall Innkeeper', 'Lovestruck Beast', 'Murderous Rider', 'Foulmire Knight', 'Order of Midnight'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Edgewall Innkeeper' },
+          { count: 3, name: 'Eliminate' },
+          { count: 12, name: 'Forest' },
+          { count: 4, name: 'Foulmire Knight' },
+          { count: 4, name: 'Lovestruck Beast' },
+          { count: 4, name: 'Murderous Rider' },
+          { count: 3, name: 'Once Upon a Time' },
+          { count: 3, name: 'Order of Midnight' },
+          { count: 13, name: 'Swamp' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Soul-Guide Lantern' },
+          { count: 2, name: 'Veil of Summer' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

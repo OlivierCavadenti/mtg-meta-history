@@ -171,6 +171,33 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A black-red-white sacrifice deck that uses Cartel Aristocrat and Falkenrath Aristocrat as free sacrifice outlets for Doomed Traveler and Champion of the Parish. Boros Reckoner combos with Blasphemous Act for one-sided board sweeps. Resilient but vulnerable to graveyard hate.',
       keyCards: ['Falkenrath Aristocrat', 'Cartel Aristocrat', 'Boros Reckoner', 'Blasphemous Act', 'Doomed Traveler', 'Champion of the Parish'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Blasphemous Act' },
+          { count: 4, name: 'Boros Reckoner' },
+          { count: 4, name: 'Cartel Aristocrat' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Doomed Traveler' },
+          { count: 4, name: 'Falkenrath Aristocrat' },
+          { count: 14, name: 'Forest' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 14, name: 'Mountain' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Tom Martell - The Aristocrats - Pro Tour Gatecrash',
         publisher: 'MTGGoldfish',
@@ -186,6 +213,39 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A black-red-green midrange shell powered by Thragtusk and Huntmaster of the Fells for repeated value. Olivia Voldaren grinds out creature decks, Bonfire of the Damned sweeps via miracle, Farseek ramps. Garruk closes. Grindy and dominant in fair matchups.',
       keyCards: ['Thragtusk', 'Huntmaster of the Fells', 'Olivia Voldaren', 'Bonfire of the Damned', 'Farseek', 'Garruk, Primal Hunter'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Bonfire of the Damned' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Dragonskull Summit' },
+          { count: 4, name: 'Farseek' },
+          { count: 5, name: 'Forest' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 3, name: 'Huntmaster of the Fells' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 5, name: 'Mountain' },
+          { count: 4, name: 'Olivia Voldaren' },
+          { count: 6, name: 'Swamp' },
+          { count: 3, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 4, name: 'Thragtusk' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 2, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Jund Midrange - Reid Duke',
         publisher: 'MTGTop8',
@@ -200,6 +260,39 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A red-green-white hyper-aggro shell flooding the board with Burning-Tree Emissary, Experiment One, Champion of the Parish, and Boros Elite. Lightning Mauler grants haste to a four-drop. Aims to deal twenty damage by turn three or four. Folds to early sweepers and lifegain.',
       keyCards: ['Burning-Tree Emissary', 'Experiment One', 'Champion of the Parish', 'Flinthoof Boar', 'Lightning Mauler', 'Boros Elite'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Burning-Tree Emissary' },
+          { count: 3, name: 'Champion of the Parish' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 4, name: 'Experiment One' },
+          { count: 4, name: 'Flinthoof Boar' },
+          { count: 5, name: 'Forest' },
+          { count: 4, name: 'Lightning Mauler' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 5, name: 'Mountain' },
+          { count: 5, name: 'Plains' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 3, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Naya Blitz - SCG Open Series decklists',
         publisher: 'MTGTop8',
@@ -214,6 +307,34 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A blue-white-black control deck anchored by Sphinx\'s Revelation for late-game refill and Supreme Verdict for uncounterable sweepers. Azorius Charm and Detention Sphere provide flexible removal, Jace, Architect of Thought controls planeswalkers. Inevitable against fair decks but slow against fast combo.',
       keyCards: ["Sphinx's Revelation", 'Supreme Verdict', 'Azorius Charm', 'Jace, Architect of Thought', 'Detention Sphere', 'Elspeth, Sun\'s Champion'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Azorius Charm' },
+          { count: 4, name: 'Detention Sphere' },
+          { count: 3, name: 'Dissolve' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 9, name: 'Island' },
+          { count: 3, name: 'Jace, Architect of Thought' },
+          { count: 10, name: 'Plains' },
+          { count: 4, name: 'Sphinx\'s Revelation' },
+          { count: 4, name: 'Supreme Verdict' },
+          { count: 9, name: 'Swamp' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Esper Control decklists 2013',
         publisher: 'MTGTop8',
@@ -228,6 +349,29 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A mono-blue tempo-aggro deck that accumulates devotion through Frostburn Weird and Nightveil Specter to make Thassa, God of the Sea a creature and pump Master of Waves into a lethal flood of Elementals. Tidebinder Mage taps key threats. Explosive but vulnerable to red sweepers.',
       keyCards: ['Thassa, God of the Sea', 'Master of Waves', 'Tidebinder Mage', 'Nightveil Specter', 'Frostburn Weird', 'Cloudfin Raptor'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Dissolve' },
+          { count: 4, name: 'Frostburn Weird' },
+          { count: 36, name: 'Island' },
+          { count: 3, name: 'Master of Waves' },
+          { count: 4, name: 'Nightveil Specter' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 3, name: 'Thassa, God of the Sea' },
+          { count: 4, name: 'Tidebinder Mage' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Theros - Jeremy Dezani Mono-Blue Devotion',
         publisher: 'MTGTop8',
@@ -243,6 +387,28 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A mono-black midrange deck centered on Pack Rat snowballing the board, Gray Merchant of Asphodel draining for the win, and Desecration Demon as a hard-to-block threat. Thoughtseize strips key spells, Hero\'s Downfall removes anything. Grinds out fair decks but pressured by exile removal.',
       keyCards: ['Pack Rat', 'Gray Merchant of Asphodel', 'Desecration Demon', 'Nightveil Specter', 'Thoughtseize', "Hero's Downfall"],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Desecration Demon' },
+          { count: 3, name: 'Gray Merchant of Asphodel' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 4, name: 'Nightveil Specter' },
+          { count: 4, name: 'Pack Rat' },
+          { count: 38, name: 'Swamp' },
+          { count: 4, name: 'Thoughtseize' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Kentarou Yamamoto - Mono Black Devotion - Top 8 Pro Tour Theros',
         publisher: 'MTGGoldfish',
@@ -259,6 +425,33 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A blue-white-red tempo-control deck built on Snapcaster Mage and Restoration Angel triggering enter-the-battlefield value. Sphinx\'s Revelation refills, Azorius Charm and Searing Spear handle threats. Strong against fair decks but pressured by combo and fast aggro.',
       keyCards: ['Snapcaster Mage', 'Restoration Angel', 'Sphinx\'s Revelation', 'Azorius Charm', 'Searing Spear'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Azorius Charm' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 14, name: 'Forest' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 14, name: 'Mountain' },
+          { count: 4, name: 'Restoration Angel' },
+          { count: 4, name: 'Searing Spear' },
+          { count: 4, name: 'Snapcaster Mage' },
+          { count: 4, name: 'Sphinx\'s Revelation' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Saito Zoo',
@@ -268,6 +461,33 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A red-green-white aggro shell built on Loxodon Smiter, Flinthoof Boar, and Boros Reckoner backed by Searing Spear and Ghor-Clan Rampager\'s bloodrush pumps. Goes wide and punishes slow openings, but pressured by sweepers and lifegain.',
       keyCards: ['Loxodon Smiter', 'Flinthoof Boar', 'Boros Reckoner', 'Ghor-Clan Rampager', 'Searing Spear'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Boros Reckoner' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Flinthoof Boar' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Ghor-Clan Rampager' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 4, name: 'Loxodon Smiter' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 14, name: 'Mountain' },
+          { count: 4, name: 'Searing Spear' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Bant Hexproof',
@@ -277,6 +497,39 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A green-white-blue aura aggro deck that suits up Geist of Saint Traft or Invisible Stalker with Ethereal Armor, Spectral Flight, and Unflinching Courage to create an unkillable, evasive, lifelinking attacker. One-shots opponents but vulnerable to mass removal and edict effects.',
       keyCards: ['Geist of Saint Traft', 'Invisible Stalker', 'Ethereal Armor', 'Spectral Flight', 'Unflinching Courage'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 3, name: 'Dissolve' },
+          { count: 4, name: 'Ethereal Armor' },
+          { count: 4, name: 'Forest' },
+          { count: 3, name: 'Geist of Saint Traft' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 4, name: 'Hinterland Harbor' },
+          { count: 4, name: 'Invisible Stalker' },
+          { count: 3, name: 'Island' },
+          { count: 4, name: 'Plains' },
+          { count: 4, name: 'Spectral Flight' },
+          { count: 3, name: 'Sphinx\'s Revelation' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 3, name: 'Sylvan Caryatid' },
+          { count: 4, name: 'Unflinching Courage' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Junk Aristocrats',
@@ -286,6 +539,39 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A black-green-white sacrifice deck that loops Doomed Traveler and Lingering Souls tokens through Cartel Aristocrat for value while Blood Artist drains the opponent. Varolz, the Scar-Striped grows creatures via scavenge. Grindy and resilient but vulnerable to graveyard hate.',
       keyCards: ['Cartel Aristocrat', 'Blood Artist', 'Doomed Traveler', 'Lingering Souls', 'Varolz, the Scar-Striped'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Blood Artist' },
+          { count: 4, name: 'Cartel Aristocrat' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 4, name: 'Doomed Traveler' },
+          { count: 5, name: 'Forest' },
+          { count: 3, name: 'Hero\'s Downfall' },
+          { count: 4, name: 'Lingering Souls' },
+          { count: 6, name: 'Plains' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 5, name: 'Swamp' },
+          { count: 2, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Thoughtseize' },
+          { count: 3, name: 'Varolz, the Scar-Striped' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 2, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 3, name: 'Thoughtseize' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Gruul Aggro',
@@ -295,6 +581,33 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A red-green aggro deck powered by Burning-Tree Emissary\'s free three-drop chains into Flinthoof Boar and Ghor-Clan Rampager. Hellrider closes with combat damage triggers, Domri Rade refills and removes blockers. Punishes slow openings but pressured by sweepers.',
       keyCards: ['Burning-Tree Emissary', 'Flinthoof Boar', 'Ghor-Clan Rampager', 'Hellrider', 'Domri Rade'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Burning-Tree Emissary' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 4, name: 'Domri Rade' },
+          { count: 4, name: 'Flinthoof Boar' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Ghor-Clan Rampager' },
+          { count: 4, name: 'Hellrider' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 14, name: 'Mountain' },
+          { count: 3, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Red Devotion',
@@ -304,6 +617,30 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A mono-red midrange deck building red devotion via Burning-Tree Emissary and Chandra to power up Purphoros, God of the Forge — every creature entry deals two to each opponent. Fanatic of Mogis drains on entry, Stormbreath Dragon closes. Explosive but vulnerable to lifegain and counterspells.',
       keyCards: ['Stormbreath Dragon', 'Fanatic of Mogis', 'Purphoros, God of the Forge', 'Burning-Tree Emissary', 'Chandra, Pyromaster'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Burning-Tree Emissary' },
+          { count: 3, name: 'Chandra, Pyromaster' },
+          { count: 3, name: 'Fanatic of Mogis' },
+          { count: 3, name: 'Lightning Strike' },
+          { count: 3, name: 'Magma Spray' },
+          { count: 37, name: 'Mountain' },
+          { count: 3, name: 'Purphoros, God of the Forge' },
+          { count: 4, name: 'Stormbreath Dragon' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Anger of the Gods' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Green Devotion',
@@ -313,6 +650,29 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A mono-green ramp deck that builds devotion to fuel Nykthos, Shrine to Nyx producing massive mana for Polukranos and Arbor Colossus. Garruk closes via planeswalker pressure. Devotion creatures pump each other. Strong against fair decks but vulnerable to enchantment hate and counterspells.',
       keyCards: ['Nykthos, Shrine to Nyx', 'Polukranos, World Eater', 'Arbor Colossus', 'Garruk, Caller of Beasts', 'Sylvan Caryatid'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Arbor Colossus' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 40, name: 'Forest' },
+          { count: 3, name: 'Garruk, Caller of Beasts' },
+          { count: 3, name: 'Nykthos, Shrine to Nyx' },
+          { count: 3, name: 'Polukranos, World Eater' },
+          { count: 4, name: 'Sylvan Caryatid' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'GW Aggro',
@@ -322,6 +682,34 @@ export const standard2013: YearFormatEntry = {
       summary:
         'A green-white aggro shell led by Voice of Resurgence punishing instants, Loxodon Smiter as an uncounterable three-drop, and Fleecemane Lion growing through monstrosity. Advent of the Wurm and Selesnya Charm provide flash threats. Strong against control but pressured by sweepers.',
       keyCards: ['Voice of Resurgence', 'Loxodon Smiter', 'Fleecemane Lion', 'Advent of the Wurm', 'Selesnya Charm'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Advent of the Wurm' },
+          { count: 3, name: 'Courser of Kruphix' },
+          { count: 3, name: 'Detention Sphere' },
+          { count: 4, name: 'Fleecemane Lion' },
+          { count: 13, name: 'Forest' },
+          { count: 4, name: 'Loxodon Smiter' },
+          { count: 13, name: 'Plains' },
+          { count: 4, name: 'Selesnya Charm' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Supreme Verdict' },
+          { count: 3, name: 'Sylvan Caryatid' },
+          { count: 3, name: 'Voice of Resurgence' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Glare of Heresy' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Reclamation Sage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

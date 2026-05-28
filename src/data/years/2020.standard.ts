@@ -136,7 +136,7 @@ export const standard2020: YearFormatEntry = {
     },
     {
       id: '2020-std-postban',
-      name: 'Post-ban Stabilization',
+      name: 'Gruul Adventures and Dimir Rogues',
       start: '2020-10',
       end: '2020-12',
       dominantDecks: ['Gruul Adventures', 'Dimir Rogues'],
@@ -381,7 +381,7 @@ export const standard2020: YearFormatEntry = {
     {
       name: 'Gruul Adventures',
       slug: 'gruul-adventures-standard-2020',
-      period: 'Post-ban Stabilization',
+      period: 'Gruul Adventures and Dimir Rogues',
       archetype: 'aggro',
       summary:
         'A red-green Adventure aggro-midrange deck powered by Edgewall Innkeeper drawing per Adventure cast. Bonecrusher Giant burns and beats, Lovestruck Beast pumps the team, Questing Beast pressures planeswalkers and creatures, The Great Henge ramps and draws. Resilient but pressured by sweepers.',
@@ -427,7 +427,7 @@ export const standard2020: YearFormatEntry = {
     {
       name: 'Dimir Rogues',
       slug: 'dimir-rogues-standard-2020',
-      period: 'Post-ban Stabilization',
+      period: 'Gruul Adventures and Dimir Rogues',
       archetype: 'tempo',
       summary:
         'A blue-black Rogue tribal mill-tempo deck that uses Thieves\' Guild Enforcer and Soaring Thought-Thief to mill the opponent on each Rogue entry. Drown in the Loch scales with the opponent\'s graveyard, Into the Story refills, Lurrus recurs cheap creatures. Punishes greedy decks but pressured by lifegain.',
@@ -864,7 +864,7 @@ export const standard2020: YearFormatEntry = {
     {
       name: 'Mono-Green Food',
       slug: 'mono-green-food-standard-2020',
-      period: 'Post-ban Stabilization',
+      period: 'Gruul Adventures and Dimir Rogues',
       archetype: 'midrange',
       summary:
         'A mono-green Food midrange deck that uses Trail of Crumbs and Gilded Goose to grind value through Food tokens. The Great Henge ramps and draws, Wicked Wolf eats Food to fight, Questing Beast closes. Resilient against fair decks but pressured by fast combo.',
@@ -904,7 +904,7 @@ export const standard2020: YearFormatEntry = {
     {
       name: 'Esper Doom',
       slug: 'esper-doom-standard-2020',
-      period: 'Post-ban Stabilization',
+      period: 'Gruul Adventures and Dimir Rogues',
       archetype: 'control',
       summary:
         'A blue-black-white control deck centered on Doom Foretold as a permanent-stripping engine paired with Treacherous Blessing for card draw. Yorion blinks the enchantment for value, Elspeth Conquers Death recurs key cards, Shark Typhoon cycles into flying tokens. Slow but inevitable.',
@@ -953,7 +953,7 @@ export const standard2020: YearFormatEntry = {
     {
       name: 'Temur Ramp',
       slug: 'temur-ramp-standard-2020',
-      period: 'Post-ban Stabilization',
+      period: 'Gruul Adventures and Dimir Rogues',
       archetype: 'ramp',
       summary:
         'A blue-red-green ramp deck centered on Genesis Ultimatum cheating Ugin, the Spirit Dragon and Uro into play. Cultivate and Beanstalk Giant ramp, Uro grinds card advantage. Outvalues fair decks but pressured by counterspells.',

@@ -136,7 +136,7 @@ export const standard2020Fr: YearFormatEntry = {
     },
     {
       id: '2020-std-postban',
-      name: 'Stabilisation post-bannissements',
+      name: 'Gruul Adventures et Dimir Rogues',
       start: '2020-10',
       end: '2020-12',
       dominantDecks: ['Gruul Adventures', 'Dimir Rogues'],
@@ -381,7 +381,7 @@ export const standard2020Fr: YearFormatEntry = {
     {
       name: 'Gruul Adventures',
       slug: 'gruul-adventures-standard-2020',
-      period: 'Stabilisation post-bannissements',
+      period: 'Gruul Adventures et Dimir Rogues',
       archetype: 'aggro',
       summary:
         'Un deck aggro-midrange Adventure rouge-vert alimenté par Edgewall Innkeeper piochant à chaque Adventure jouée. Bonecrusher Giant burn et bat, Lovestruck Beast pump l\'équipe, Questing Beast pressure planeswalkers et créatures, The Great Henge rampe et pioche. Résistant mais pressé par les sweepers.',
@@ -427,7 +427,7 @@ export const standard2020Fr: YearFormatEntry = {
     {
       name: 'Dimir Rogues',
       slug: 'dimir-rogues-standard-2020',
-      period: 'Stabilisation post-bannissements',
+      period: 'Gruul Adventures et Dimir Rogues',
       archetype: 'tempo',
       summary:
         'Un deck mill-tempo tribal Rogue bleu-noir qui utilise Thieves\' Guild Enforcer et Soaring Thought-Thief pour miller l\'adversaire à chaque entrée de Rogue. Drown in the Loch scale avec le graveyard adverse, Into the Story recharge, Lurrus recur les créatures bon marché. Punit les decks gourmands mais pressé par le lifegain.',
@@ -864,7 +864,7 @@ export const standard2020Fr: YearFormatEntry = {
     {
       name: 'Mono-Green Food',
       slug: 'mono-green-food-standard-2020',
-      period: 'Stabilisation post-bannissements',
+      period: 'Gruul Adventures et Dimir Rogues',
       archetype: 'midrange',
       summary:
         'Un deck midrange Food mono-vert qui utilise Trail of Crumbs et Gilded Goose pour grinder la value via tokens Food. The Great Henge rampe et pioche, Wicked Wolf mange des Food pour fight, Questing Beast conclut. Résistant face aux decks fair mais pressé par le combo rapide.',
@@ -904,7 +904,7 @@ export const standard2020Fr: YearFormatEntry = {
     {
       name: 'Esper Doom',
       slug: 'esper-doom-standard-2020',
-      period: 'Stabilisation post-bannissements',
+      period: 'Gruul Adventures et Dimir Rogues',
       archetype: 'control',
       summary:
         'Un deck control bleu-noir-blanc centré sur Doom Foretold comme moteur stripant les permanents, associé à Treacherous Blessing pour la pioche. Yorion blink l\'enchantement pour de la value, Elspeth Conquers Death recur les cartes clés, Shark Typhoon cycle en tokens volants. Lent mais inévitable.',
@@ -953,7 +953,7 @@ export const standard2020Fr: YearFormatEntry = {
     {
       name: 'Temur Ramp',
       slug: 'temur-ramp-standard-2020',
-      period: 'Stabilisation post-bannissements',
+      period: 'Gruul Adventures et Dimir Rogues',
       archetype: 'ramp',
       summary:
         'Un deck ramp bleu-rouge-vert centré sur Genesis Ultimatum trichant Ugin, the Spirit Dragon et Uro en jeu. Cultivate et Beanstalk Giant rampent, Uro grind du card advantage. Outvalue les decks fair mais pressé par les contresorts.',

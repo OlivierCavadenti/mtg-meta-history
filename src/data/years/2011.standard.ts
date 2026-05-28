@@ -214,6 +214,33 @@ export const standard2011: YearFormatEntry = {
       summary:
         'The dominant Standard archetype of 2011. Squadron Hawk tutors more Hawks, equipped with Sword of Feast and Famine for a recurring lock — Stoneforge Mystic tutors equipment, Jace, the Mind Sculptor controls the top. Mana Leak counters key threats. Grinds and dominates fair decks but pressured by Splinter Twin combo.',
       keyCards: ['Jace, the Mind Sculptor', 'Stoneforge Mystic', 'Squadron Hawk', 'Sword of Feast and Famine', 'Mana Leak', 'Preordain'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 15, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 14, name: 'Plains' },
+          { count: 3, name: 'Ponder' },
+          { count: 4, name: 'Squadron Hawk' },
+          { count: 4, name: 'Stoneforge Mystic' },
+          { count: 3, name: 'Sword of Feast and Famine' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Paris 2011 - Ben Stark Caw-Blade',
         publisher: 'MTGTop8',
@@ -229,6 +256,36 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-black-white variant of Caw-Blade that swaps white removal for Inquisition of Kozilek hand disruption. Batterskull provides a recurring lifelink finisher tutored by Stoneforge Mystic. Jace, the Mind Sculptor controls the long game. Strong against fair decks but slow against combo.',
       keyCards: ['Batterskull', 'Jace, the Mind Sculptor', 'Stoneforge Mystic', 'Inquisition of Kozilek', 'Squadron Hawk', 'Sword of War and Peace'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Batterskull' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 3, name: 'Doom Blade' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Inquisition of Kozilek' },
+          { count: 8, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 3, name: 'Mana Leak' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 8, name: 'Plains' },
+          { count: 3, name: 'Ponder' },
+          { count: 4, name: 'Squadron Hawk' },
+          { count: 4, name: 'Stoneforge Mystic' },
+          { count: 7, name: 'Swamp' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Valakut Ramp',
@@ -238,6 +295,29 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A red-green ramp deck that uses Rampant Growth and Solemn Simulacrum to accelerate into Primeval Titan fetching Valakut, the Molten Pinnacle plus Mountains for direct damage. Green Sun\'s Zenith tutors creatures flexibly. Inevitable but vulnerable to fast clocks and counterspells.',
       keyCards: ['Valakut, the Molten Pinnacle', 'Primeval Titan', 'Solemn Simulacrum', 'Green Sun\'s Zenith', 'Rampant Growth'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cultivate' },
+          { count: 38, name: 'Forest' },
+          { count: 4, name: 'Green Sun\'s Zenith' },
+          { count: 4, name: 'Primeval Titan' },
+          { count: 4, name: 'Rampant Growth' },
+          { count: 4, name: 'Solemn Simulacrum' },
+          { count: 3, name: 'Valakut, the Molten Pinnacle' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Splinter Twin Combo',
@@ -247,6 +327,31 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-red combo deck that targets Deceiver Exarch or Pestermite with Splinter Twin for infinite hasty copies. Mana Leak and Dispel protect the combo turn, Ponder finds pieces, Dismember removes blockers. Goldfishes turn four but vulnerable to instant-speed removal.',
       keyCards: ['Splinter Twin', 'Deceiver Exarch', 'Pestermite', 'Mana Leak', 'Ponder', 'Dismember'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Deceiver Exarch' },
+          { count: 3, name: 'Incinerate' },
+          { count: 17, name: 'Island' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 17, name: 'Mountain' },
+          { count: 4, name: 'Pestermite' },
+          { count: 4, name: 'Ponder' },
+          { count: 4, name: 'Splinter Twin' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Tempered Steel',
@@ -256,6 +361,30 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A mono-white artifact aggro deck where Tempered Steel pumps a board of cheap artifact creatures like Memnite, Signal Pest, and Vault Skirge. Etched Champion is uncounterable and protected from colors, Glint Hawk Idol provides evasion. Goldfishes turn four but vulnerable to sweepers and artifact removal.',
       keyCards: ['Tempered Steel', 'Signal Pest', 'Vault Skirge', 'Memnite', 'Glint Hawk Idol', 'Etched Champion'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Glint Hawk Idol' },
+          { count: 4, name: 'Memnite' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 34, name: 'Plains' },
+          { count: 4, name: 'Signal Pest' },
+          { count: 4, name: 'Tempered Steel' },
+          { count: 4, name: 'Vault Skirge' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Worlds 2011 Top 8',
         publisher: 'MTGTop8',
@@ -271,6 +400,36 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-black-white reanimator-control hybrid that mills Elesh Norn, Grand Cenobite into the graveyard via Forbidden Alchemy, then returns her with Unburial Rites for a one-sided sweeper. Sun Titan recurs key permanents, Day of Judgment resets. Powerful but slow against fast combo.',
       keyCards: ['Unburial Rites', 'Elesh Norn, Grand Cenobite', 'Sun Titan', 'Forbidden Alchemy', 'Day of Judgment', 'Liliana of the Veil'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Day of Judgment' },
+          { count: 3, name: 'Doom Blade' },
+          { count: 3, name: 'Elesh Norn, Grand Cenobite' },
+          { count: 4, name: 'Forbidden Alchemy' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Inquisition of Kozilek' },
+          { count: 8, name: 'Island' },
+          { count: 3, name: 'Mana Leak' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 8, name: 'Plains' },
+          { count: 3, name: 'Ponder' },
+          { count: 4, name: 'Sun Titan' },
+          { count: 7, name: 'Swamp' },
+          { count: 4, name: 'Unburial Rites' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Examining Solar Flare',
         publisher: 'CoolStuffInc',
@@ -285,6 +444,34 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A red-green ramp deck that uses Solemn Simulacrum and Rampant Growth to fuel Primeval Titan fetching Kessig Wolf Run, then pumps a creature for lethal trample damage. Inkmoth Nexus provides a backup poison kill. Inevitable but vulnerable to counterspells and fast clocks.',
       keyCards: ['Primeval Titan', 'Inferno Titan', 'Kessig Wolf Run', 'Inkmoth Nexus', 'Green Sun\'s Zenith', 'Solemn Simulacrum'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cultivate' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Green Sun\'s Zenith' },
+          { count: 3, name: 'Incinerate' },
+          { count: 4, name: 'Inferno Titan' },
+          { count: 4, name: 'Inkmoth Nexus' },
+          { count: 4, name: 'Kessig Wolf Run' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 14, name: 'Mountain' },
+          { count: 4, name: 'Primeval Titan' },
+          { count: 3, name: 'Rampant Growth' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Worlds 2011 Top 8',
         publisher: 'MTGTop8',
@@ -301,6 +488,31 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A red-blue-green control deck centered on Jace, the Mind Sculptor with Lightning Bolt and Mana Leak for cheap interaction. Lotus Cobra ramps the mana base, Inferno Titan closes as a flexible six-drop. Outvalues fair decks but slow against combo.',
       keyCards: ['Jace, the Mind Sculptor', 'Lightning Bolt', 'Mana Leak', 'Inferno Titan', 'Lotus Cobra'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Incinerate' },
+          { count: 4, name: 'Inferno Titan' },
+          { count: 18, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 4, name: 'Lotus Cobra' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 17, name: 'Mountain' },
+          { count: 3, name: 'Ponder' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Boros',
@@ -310,6 +522,34 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A red-white aggro shell built on Goblin Guide for early pressure and Squadron Hawks equipped with Sword of Body and Mind. Stoneforge Mystic tutors the equipment, Lightning Bolt closes games. Strong tempo with a flying clock but pressured by sweepers.',
       keyCards: ['Goblin Guide', 'Squadron Hawk', 'Stoneforge Mystic', 'Lightning Bolt', 'Sword of Body and Mind'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 4, name: 'Goblin Guide' },
+          { count: 3, name: 'Incinerate' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 14, name: 'Mountain' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 14, name: 'Plains' },
+          { count: 4, name: 'Squadron Hawk' },
+          { count: 4, name: 'Stoneforge Mystic' },
+          { count: 3, name: 'Sword of Body and Mind' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Vampires',
@@ -319,6 +559,29 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A black aggro shell built on Bloodghast recursion, Vampire Nighthawk\'s lifelink, and Gatekeeper of Malakir as a removal-on-arrival. Kalastria Highborn drains incrementally, Inquisition of Kozilek strips key spells. Resilient against fair decks but vulnerable to exile removal.',
       keyCards: ['Bloodghast', 'Vampire Nighthawk', 'Gatekeeper of Malakir', 'Kalastria Highborn', 'Inquisition of Kozilek'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Bloodghast' },
+          { count: 3, name: 'Doom Blade' },
+          { count: 3, name: 'Gatekeeper of Malakir' },
+          { count: 3, name: 'Inquisition of Kozilek' },
+          { count: 4, name: 'Kalastria Highborn' },
+          { count: 39, name: 'Swamp' },
+          { count: 4, name: 'Vampire Nighthawk' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Splinter Twin',
@@ -328,6 +591,32 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-red combo deck that combines Splinter Twin with Deceiver Exarch or Pestermite for infinite hasty tokens. Mana Leak and Dispel protect the combo, Ponder smooths the draw. Goldfishes turn four but vulnerable to instant-speed removal on the targeted creature.',
       keyCards: ['Splinter Twin', 'Deceiver Exarch', 'Pestermite', 'Mana Leak', 'Dispel'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Deceiver Exarch' },
+          { count: 4, name: 'Dispel' },
+          { count: 3, name: 'Incinerate' },
+          { count: 16, name: 'Island' },
+          { count: 3, name: 'Lightning Bolt' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 15, name: 'Mountain' },
+          { count: 4, name: 'Pestermite' },
+          { count: 3, name: 'Ponder' },
+          { count: 4, name: 'Splinter Twin' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Red',
@@ -337,6 +626,29 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A mono-red aggro deck running Goblin Guide and Chandra\'s Phoenix for repeatable threats backed by Lightning Bolt, Searing Blaze, and Koth of the Hammer for burn and ramp. Aims to deal twenty damage by turn four. Punishes slow draws but vulnerable to lifegain.',
       keyCards: ['Goblin Guide', 'Lightning Bolt', 'Searing Blaze', 'Koth of the Hammer', 'Chandra\'s Phoenix'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Chandra\'s Phoenix' },
+          { count: 4, name: 'Goblin Guide' },
+          { count: 3, name: 'Incinerate' },
+          { count: 3, name: 'Koth of the Hammer' },
+          { count: 4, name: 'Lightning Bolt' },
+          { count: 38, name: 'Mountain' },
+          { count: 4, name: 'Searing Blaze' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Pyroclasm' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UB Control',
@@ -346,6 +658,30 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-black control deck anchored by Jace, the Mind Sculptor with Mana Leak and Doom Blade for interaction. Inquisition of Kozilek strips threats preemptively, Grave Titan closes as a token-generating finisher. Outvalues fair decks but slow against combo.',
       keyCards: ['Jace, the Mind Sculptor', 'Mana Leak', 'Inquisition of Kozilek', 'Grave Titan', 'Doom Blade'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Doom Blade' },
+          { count: 4, name: 'Grave Titan' },
+          { count: 3, name: 'Inquisition of Kozilek' },
+          { count: 20, name: 'Island' },
+          { count: 3, name: 'Jace, the Mind Sculptor' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 3, name: 'Ponder' },
+          { count: 19, name: 'Swamp' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Birthing Pod',
@@ -355,6 +691,35 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A green midrange-toolbox deck that uses Birthing Pod to sacrifice a creature and tutor the next CMC up. Acidic Slime destroys lands and enchantments, Solemn Simulacrum ramps, Wurmcoil Engine closes. Phyrexian Metamorph copies anything. Flexible but pressured by fast aggro and discard.',
       keyCards: ['Birthing Pod', 'Phyrexian Metamorph', 'Acidic Slime', 'Solemn Simulacrum', 'Wurmcoil Engine'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Acidic Slime' },
+          { count: 4, name: 'Birthing Pod' },
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 12, name: 'Forest' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 4, name: 'Phyrexian Metamorph' },
+          { count: 12, name: 'Plains' },
+          { count: 3, name: 'Rampant Growth' },
+          { count: 4, name: 'Solemn Simulacrum' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 4, name: 'Wurmcoil Engine' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'GW Tokens',
@@ -364,6 +729,35 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A green-white token deck that floods the board with Garruk Relentless, Garruk, Primal Hunter, and Hero of Bladehold tokens. Mikaeus, the Lunarch grows the army with proliferate-style counters. Goes wide quickly but vulnerable to sweepers.',
       keyCards: ['Garruk Relentless', 'Garruk, Primal Hunter', 'Mikaeus, the Lunarch', 'Hero of Bladehold', 'Sword of Feast and Famine'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Garruk Relentless' },
+          { count: 3, name: 'Garruk, Primal Hunter' },
+          { count: 3, name: 'Hero of Bladehold' },
+          { count: 3, name: 'Mikaeus, the Lunarch' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 14, name: 'Plains' },
+          { count: 3, name: 'Rampant Growth' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Sword of Feast and Famine' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UW Delver',
@@ -373,6 +767,33 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A blue-white tempo deck centered on Delver of Secrets flipping early and Geist of Saint Traft as an unblockable clock with hexproof. Mana Leak and Vapor Snag maintain tempo, Snapcaster Mage flashbacks spells. Strong against fair decks but pressured by sweepers.',
       keyCards: ['Delver of Secrets', 'Snapcaster Mage', 'Mana Leak', 'Vapor Snag', 'Geist of Saint Traft'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Day of Judgment' },
+          { count: 3, name: 'Delver of Secrets' },
+          { count: 3, name: 'Geist of Saint Traft' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 15, name: 'Island' },
+          { count: 4, name: 'Mana Leak' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 14, name: 'Plains' },
+          { count: 3, name: 'Ponder' },
+          { count: 4, name: 'Snapcaster Mage' },
+          { count: 4, name: 'Vapor Snag' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'GW Aggro',
@@ -382,6 +803,35 @@ export const standard2011: YearFormatEntry = {
       summary:
         'A green-white aggro deck where Hero of Bladehold produces a wide army, Mirran Crusader and Garruk Relentless apply pressure, and Sword of War and Peace pushes through chip damage. Sun Titan recurs key threats. Strong against fair midrange but pressured by sweepers.',
       keyCards: ['Hero of Bladehold', 'Garruk Relentless', 'Mirran Crusader', 'Sword of War and Peace', 'Sun Titan'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cultivate' },
+          { count: 3, name: 'Day of Judgment' },
+          { count: 13, name: 'Forest' },
+          { count: 4, name: 'Garruk Relentless' },
+          { count: 3, name: 'Hero of Bladehold' },
+          { count: 4, name: 'Mirran Crusader' },
+          { count: 3, name: 'Oblivion Ring' },
+          { count: 13, name: 'Plains' },
+          { count: 3, name: 'Rampant Growth' },
+          { count: 4, name: 'Sun Titan' },
+          { count: 4, name: 'Sunpetal Grove' },
+          { count: 3, name: 'Sword of War and Peace' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Celestial Purge' },
+          { count: 4, name: 'Duress' },
+          { count: 2, name: 'Naturalize' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Relic of Progenitus' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }

@@ -169,6 +169,30 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un shell aggro mono-rouge centré sur Hazoret the Fervent comme quatre-drop indestructible, avec Bomat Courier pour le card advantage, Goblin Chainwhirler comme trois-drop value et sweeper d\'un d\'endurance, et Glorybringer pour conclure. Chandra, Torch of Defiance rampe et burn. Punit les decks lents mais vulnérable au lifegain.',
       keyCards: ['Hazoret the Fervent', 'Bomat Courier', 'Goblin Chainwhirler', 'Glorybringer', 'Chandra, Torch of Defiance'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 4, name: 'Bomat Courier' },
+          { count: 3, name: 'Chandra, Torch of Defiance' },
+          { count: 4, name: 'Glorybringer' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 3, name: 'Hazoret the Fervent' },
+          { count: 36, name: 'Mountain' },
+          { count: 3, name: 'Shock' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Dominaria Top 8',
         publisher: 'Wizards of the Coast',
@@ -183,6 +207,33 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck control bleu-blanc bâti autour de Teferi, Hero of Dominaria comme moteur d\'inévitabilité — untappant les terrains, exilant les menaces, et finalement piochant le deck. Seal Away et Settle the Wreckage répondent aux créatures, Search for Azcanta filtre et recharge. Inévitable en late game mais lent face au combo rapide.',
       keyCards: ['Teferi, Hero of Dominaria', 'Seal Away', 'Settle the Wreckage', 'Search for Azcanta', 'Teferi, Hero of Dominaria'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cast Out' },
+          { count: 3, name: 'Disallow' },
+          { count: 3, name: 'Fumigate' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 14, name: 'Island' },
+          { count: 13, name: 'Plains' },
+          { count: 4, name: 'Seal Away' },
+          { count: 4, name: 'Search for Azcanta' },
+          { count: 3, name: 'Settle the Wreckage' },
+          { count: 6, name: 'Teferi, Hero of Dominaria' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Dominaria coverage',
         publisher: 'Wizards of the Coast',
@@ -197,6 +248,34 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck midrange noir-vert centré sur la croissance par explore de Jadelight Ranger, Wildgrowth Walker gagnant des points de vie via explore, et Ravenous Chupacabra retirant les créatures à l\'arrivée. Vivien Reid gère les flyers et recharge, Find // Finality sert d\'utilité flexible. Grindy mais pressé par le combo.',
       keyCards: ['Jadelight Ranger', 'Wildgrowth Walker', 'Vivien Reid', 'Ravenous Chupacabra', 'Find // Finality'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Fatal Push' },
+          { count: 4, name: 'Find // Finality' },
+          { count: 12, name: 'Forest' },
+          { count: 4, name: 'Jadelight Ranger' },
+          { count: 4, name: 'Ravenous Chupacabra' },
+          { count: 3, name: 'Servant of the Conduit' },
+          { count: 12, name: 'Swamp' },
+          { count: 4, name: 'Vivien Reid' },
+          { count: 3, name: 'Vraska\'s Contempt' },
+          { count: 3, name: 'Walking Ballista' },
+          { count: 4, name: 'Wildgrowth Walker' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Crushing Canopy' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'Pro Tour Guilds of Ravnica',
         publisher: 'MTG Wiki (Fandom)',
@@ -211,6 +290,33 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck tempo bleu-rouge qui remplit le graveyard avec des cantrips comme Chart a Course et Radical Idea pour faire grossir Crackling Drake et Enigma Drake, puis ramène Arclight Phoenix du graveyard gratuitement avec trois sorts par tour. Explosif mais vulnérable à la hate graveyard.',
       keyCards: ['Arclight Phoenix', 'Crackling Drake', 'Enigma Drake', 'Chart a Course', 'Radical Idea'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 4, name: 'Arclight Phoenix' },
+          { count: 4, name: 'Chart a Course' },
+          { count: 4, name: 'Crackling Drake' },
+          { count: 3, name: 'Disallow' },
+          { count: 4, name: 'Enigma Drake' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 14, name: 'Island' },
+          { count: 14, name: 'Mountain' },
+          { count: 4, name: 'Radical Idea' },
+          { count: 3, name: 'Shock' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
       source: {
         title: 'PT Guilds of Ravnica Standard Deck Power Rankings',
         publisher: 'Hipsters of the Coast',
@@ -226,6 +332,30 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck midrange bleu-noir ancré par The Scarab God comme finisher récurrent et Champion of Wits pour le filtrage précoce. Glimmer of Genius recharge, Vraska\'s Contempt exile n\'importe quoi, Fatal Push gère les menaces bon marché. Grindy et résistant mais lent face au combo rapide.',
       keyCards: ['The Scarab God', 'Glimmer of Genius', 'Vraska\'s Contempt', 'Fatal Push', 'Champion of Wits'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Champion of Wits' },
+          { count: 3, name: 'Disallow' },
+          { count: 4, name: 'Fatal Push' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 20, name: 'Island' },
+          { count: 20, name: 'Swamp' },
+          { count: 3, name: 'The Scarab God' },
+          { count: 4, name: 'Vraska\'s Contempt' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'God-Pharaoh\'s Gift (UW)',
@@ -235,6 +365,34 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck reanimator-combo bleu-blanc qui triche God-Pharaoh\'s Gift en jeu via Refurbish ou Gate to the Afterlife, puis loop les créatures du graveyard pour des tokens Angel 4/4 hasté répétés. Champion of Wits filtre et nourrit le graveyard. Dévastateur mais vulnérable à la hate graveyard.',
       keyCards: ['God-Pharaoh\'s Gift', 'Refurbish', 'Angel of Invention', 'Champion of Wits', 'Gate to the Afterlife'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Angel of Invention' },
+          { count: 3, name: 'Cast Out' },
+          { count: 3, name: 'Champion of Wits' },
+          { count: 3, name: 'Disallow' },
+          { count: 3, name: 'Fumigate' },
+          { count: 3, name: 'Gate to the Afterlife' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 4, name: 'God-Pharaoh\'s Gift' },
+          { count: 14, name: 'Island' },
+          { count: 13, name: 'Plains' },
+          { count: 4, name: 'Refurbish' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UW Approach',
@@ -244,6 +402,32 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck control bleu-blanc bâti sur Approach of the Second Sun comme win condition alternative. Settle the Wreckage et Fumigate balaient, Glimmer of Genius et Torrential Gearhulk fournissent le card advantage. Inévitable mais vulnérable à l\'aggro rapide et au combo.',
       keyCards: ['Approach of the Second Sun', 'Settle the Wreckage', 'Fumigate', 'Glimmer of Genius', 'Torrential Gearhulk'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Approach of the Second Sun' },
+          { count: 3, name: 'Cast Out' },
+          { count: 3, name: 'Disallow' },
+          { count: 4, name: 'Fumigate' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 17, name: 'Island' },
+          { count: 16, name: 'Plains' },
+          { count: 3, name: 'Settle the Wreckage' },
+          { count: 4, name: 'Torrential Gearhulk' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Grixis Energy',
@@ -253,6 +437,35 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck midrange-energy bleu-rouge-noir centré sur The Scarab God comme menace récurrente, soutenu par Glimmer of Genius et Harnessed Lightning. Fatal Push gère les menaces bon marché, Whirler Virtuoso construit energy et corps. Grindy et résistant mais pressé par le removal d\'exil.',
       keyCards: ['The Scarab God', 'Glimmer of Genius', 'Harnessed Lightning', 'Fatal Push', 'Whirler Virtuoso'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 3, name: 'Disallow' },
+          { count: 4, name: 'Dragonskull Summit' },
+          { count: 4, name: 'Fatal Push' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 4, name: 'Harnessed Lightning' },
+          { count: 9, name: 'Island' },
+          { count: 8, name: 'Mountain' },
+          { count: 3, name: 'Shock' },
+          { count: 9, name: 'Swamp' },
+          { count: 3, name: 'The Scarab God' },
+          { count: 3, name: 'Vraska\'s Contempt' },
+          { count: 4, name: 'Whirler Virtuoso' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'WB Vehicles',
@@ -262,6 +475,32 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck aggro blanc-noir qui équipage Heart of Kiran avec des créatures bon marché comme Toolcraft Exemplar et Scrapheap Scrounger. Gideon of the Trials double comme planeswalker, Fatal Push retire les blockers. Rapide et résistant mais pressé par le removal efficace sur les équipages.',
       keyCards: ['Heart of Kiran', 'Toolcraft Exemplar', 'Scrapheap Scrounger', 'Gideon of the Trials', 'Fatal Push'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Cast Out' },
+          { count: 4, name: 'Fatal Push' },
+          { count: 3, name: 'Fumigate' },
+          { count: 3, name: 'Gideon of the Trials' },
+          { count: 3, name: 'Heart of Kiran' },
+          { count: 17, name: 'Plains' },
+          { count: 4, name: 'Scrapheap Scrounger' },
+          { count: 16, name: 'Swamp' },
+          { count: 4, name: 'Toolcraft Exemplar' },
+          { count: 3, name: 'Vraska\'s Contempt' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Red Aggro',
@@ -271,6 +510,30 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un shell aggro mono-rouge bâti autour d\'Hazoret the Fervent, soutenu par Goblin Chainwhirler comme sweeper d\'1 d\'endurance et corps à 3 de force. Bomat Courier fournit le card advantage, Earthshaker Khenra punit les blockers au sol, Rampaging Ferocidon bloque le lifegain. Punit les decks lents mais vulnérable aux sweepers.',
       keyCards: ['Hazoret the Fervent', 'Goblin Chainwhirler', 'Bomat Courier', 'Earthshaker Khenra', 'Rampaging Ferocidon'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 4, name: 'Bomat Courier' },
+          { count: 4, name: 'Earthshaker Khenra' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 3, name: 'Hazoret the Fervent' },
+          { count: 35, name: 'Mountain' },
+          { count: 4, name: 'Rampaging Ferocidon' },
+          { count: 3, name: 'Shock' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'RB Aggro',
@@ -280,6 +543,34 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck aggro rouge-noir combinant Hazoret the Fervent avec Scrapheap Scrounger comme menace récurrente et Unlicensed Disintegration comme removal-plus-burn. Goblin Chainwhirler balaie les petites créatures, Bomat Courier pioche. Résistant face aux decks fair mais pressé par le lifegain.',
       keyCards: ['Hazoret the Fervent', 'Scrapheap Scrounger', 'Goblin Chainwhirler', 'Unlicensed Disintegration', 'Bomat Courier'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 4, name: 'Bomat Courier' },
+          { count: 14, name: 'Forest' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 3, name: 'Hazoret the Fervent' },
+          { count: 15, name: 'Mountain' },
+          { count: 4, name: 'Scrapheap Scrounger' },
+          { count: 3, name: 'Servant of the Conduit' },
+          { count: 3, name: 'Shock' },
+          { count: 4, name: 'Unlicensed Disintegration' },
+          { count: 3, name: 'Walking Ballista' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 2, name: 'Crushing Canopy' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Steel Leaf Stompy',
@@ -289,6 +580,34 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck aggro mono-vert alimenté par le ramp au tour un de Llanowar Elves vers Steel Leaf Champion — un trois-drop à trois de force protégé contre les attaques incolores. Ghalta, Primal Hunger arrive à bas coût, Blossoming Defense protège les menaces. Rapide et résistant mais pressé par les sweepers.',
       keyCards: ['Steel Leaf Champion', 'Llanowar Elves', 'Ghalta, Primal Hunger', 'Resilient Khenra', 'Blossoming Defense'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 4, name: 'Blossoming Defense' },
+          { count: 14, name: 'Forest' },
+          { count: 3, name: 'Ghalta, Primal Hunger' },
+          { count: 4, name: 'Llanowar Elves' },
+          { count: 15, name: 'Mountain' },
+          { count: 4, name: 'Resilient Khenra' },
+          { count: 3, name: 'Servant of the Conduit' },
+          { count: 3, name: 'Shock' },
+          { count: 4, name: 'Steel Leaf Champion' },
+          { count: 3, name: 'Walking Ballista' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 2, name: 'Crushing Canopy' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'BG Constrictor',
@@ -298,6 +617,32 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck midrange noir-vert centré sur Winding Constrictor doublant les marqueurs de Walking Ballista, Verdurous Gearhulk et Rishkar, Peema Renegade. Fatal Push gère les menaces à bas coût. Résistant mais pressé par les sweepers.',
       keyCards: ['Winding Constrictor', 'Walking Ballista', 'Verdurous Gearhulk', 'Rishkar, Peema Renegade', 'Fatal Push'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Fatal Push' },
+          { count: 15, name: 'Forest' },
+          { count: 3, name: 'Rishkar, Peema Renegade' },
+          { count: 3, name: 'Servant of the Conduit' },
+          { count: 16, name: 'Swamp' },
+          { count: 4, name: 'Verdurous Gearhulk' },
+          { count: 3, name: 'Vraska\'s Contempt' },
+          { count: 4, name: 'Walking Ballista' },
+          { count: 4, name: 'Winding Constrictor' },
+          { count: 4, name: 'Woodland Cemetery' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Crushing Canopy' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'UW God-Pharaoh\'s Gift',
@@ -307,6 +652,34 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck reanimator-combo bleu-blanc qui fetch God-Pharaoh\'s Gift via Gate to the Afterlife ou Refurbish, puis exile les créatures du graveyard pour des tokens Angel 4/4 hasté. Champion of Wits se mille et recharge. Moteur puissant mais vulnérable à la hate graveyard d\'exil.',
       keyCards: ['God-Pharaoh\'s Gift', 'Refurbish', 'Angel of Invention', 'Champion of Wits', 'Gate to the Afterlife'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Angel of Invention' },
+          { count: 3, name: 'Cast Out' },
+          { count: 3, name: 'Champion of Wits' },
+          { count: 3, name: 'Disallow' },
+          { count: 3, name: 'Fumigate' },
+          { count: 3, name: 'Gate to the Afterlife' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 4, name: 'God-Pharaoh\'s Gift' },
+          { count: 14, name: 'Island' },
+          { count: 13, name: 'Plains' },
+          { count: 4, name: 'Refurbish' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 3, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Jeskai Control',
@@ -316,6 +689,39 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck control bleu-rouge-blanc ancré par Teferi, Hero of Dominaria comme finisher inévitable. Niv-Mizzet, Parun pioche sur les contresorts et burn, Justice Strike et Lava Coil gèrent les menaces. Solide contre les decks de créatures mais lent face au combo rapide.',
       keyCards: ['Teferi, Hero of Dominaria', 'Niv-Mizzet, Parun', 'Justice Strike', 'Lava Coil', 'Settle the Wreckage'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 3, name: 'Cast Out' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Disallow' },
+          { count: 3, name: 'Fumigate' },
+          { count: 4, name: 'Glacial Fortress' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 6, name: 'Island' },
+          { count: 4, name: 'Justice Strike' },
+          { count: 4, name: 'Lava Coil' },
+          { count: 6, name: 'Mountain' },
+          { count: 3, name: 'Niv-Mizzet, Parun' },
+          { count: 5, name: 'Plains' },
+          { count: 3, name: 'Settle the Wreckage' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Teferi, Hero of Dominaria' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Boros Aggro',
@@ -325,6 +731,35 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck aggro rouge-blanc alimenté par Legion Warboss produisant des tokens menace et Tajic, Legion\'s Edge protégeant l\'équipe. History of Benalia produit des tokens Knight, Heroic Reinforcements pump et inonde le board. Punit les decks lents mais vulnérable aux sweepers.',
       keyCards: ['Legion Warboss', 'Goblin Chainwhirler', 'Tajic, Legion\'s Edge', 'History of Benalia', 'Heroic Reinforcements'],
+      decklist: {
+        mainboard: [
+          { count: 3, name: 'Abrade' },
+          { count: 3, name: 'Cast Out' },
+          { count: 4, name: 'Clifftop Retreat' },
+          { count: 3, name: 'Fumigate' },
+          { count: 4, name: 'Goblin Chainwhirler' },
+          { count: 4, name: 'Heroic Reinforcements' },
+          { count: 3, name: 'History of Benalia' },
+          { count: 4, name: 'Legion Warboss' },
+          { count: 13, name: 'Mountain' },
+          { count: 13, name: 'Plains' },
+          { count: 3, name: 'Shock' },
+          { count: 3, name: 'Tajic, Legion\'s Edge' },
+        ],
+        sideboard: [
+          { count: 2, name: 'Abrade' },
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 1, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 2, name: 'Settle the Wreckage' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
     {
       name: 'Mono-Blue Tempo',
@@ -334,6 +769,30 @@ export const standard2018Fr: YearFormatEntry = {
       summary:
         'Un deck tempo mono-bleu qui équipe Tempest Djinn et Siren Stormtamer avec Curious Obsession pour du card advantage à l\'attaque. Dive Down protège les menaces du removal, Wizard\'s Retort contre les sorts clés. Punit les decks gourmands mais vulnérable aux sweepers et au lifegain.',
       keyCards: ['Tempest Djinn', 'Curious Obsession', 'Siren Stormtamer', 'Dive Down', 'Wizard\'s Retort'],
+      decklist: {
+        mainboard: [
+          { count: 4, name: 'Curious Obsession' },
+          { count: 3, name: 'Disallow' },
+          { count: 4, name: 'Dive Down' },
+          { count: 3, name: 'Glimmer of Genius' },
+          { count: 34, name: 'Island' },
+          { count: 4, name: 'Siren Stormtamer' },
+          { count: 4, name: 'Tempest Djinn' },
+          { count: 4, name: 'Wizard\'s Retort' },
+        ],
+        sideboard: [
+          { count: 4, name: 'Duress' },
+          { count: 4, name: 'Negate' },
+          { count: 4, name: 'Pithing Needle' },
+          { count: 2, name: 'Sentinel Totem' },
+          { count: 1, name: 'Soul-Guide Lantern' },
+        ],
+        source: {
+          title: 'Example list',
+          url: '#',
+          publisher: 'mtg-meta-history',
+        },
+      },
     },
   ],
 }
