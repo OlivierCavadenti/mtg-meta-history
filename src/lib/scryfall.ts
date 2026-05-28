@@ -1,16 +1,11 @@
-import { getCardImage } from './cardTypes'
-
 const SCRYFALL_IMAGE_BASE = 'https://api.scryfall.com/cards/named'
 
 export type ScryfallImageVersion = 'small' | 'normal' | 'large' | 'art_crop' | 'png' | 'border_crop'
 
+// Always use the named API endpoint with version=normal/large to get the canonical
+// card frame image. The bulk dump's image_uris sometimes points to showcase or
+// borderless printings which can look like art-only renderings.
 export function scryfallImageUrl(cardName: string, version: ScryfallImageVersion = 'normal'): string {
-  // Prefer direct CDN URL from the bulk index when available
-  if (version === 'normal' || version === 'large') {
-    const cached = getCardImage(cardName, version)
-    if (cached) return cached
-  }
-  // Fallback to the API redirect endpoint
   return `${SCRYFALL_IMAGE_BASE}?exact=${encodeURIComponent(cardName)}&format=image&version=${version}`
 }
 

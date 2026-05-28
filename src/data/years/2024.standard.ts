@@ -238,7 +238,7 @@ export const standard2024: YearFormatEntry = {
           { count: 2, name: 'Pithing Needle' },
           { count: 2, name: 'Negate' },
           { count: 2, name: 'Loran of the Third Path' },
-          { count: 3, name: 'Force of Negation' },
+          { count: 3, name: 'No More Lies' },
           { count: 3, name: 'Pawpatch Formation' }
         ],
         source: {

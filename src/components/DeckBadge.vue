@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
+import type { FormatId } from '../data/types'
 import { ARCHETYPE_LABELS } from '../data/types'
 import { scryfallImageUrl } from '../lib/scryfall'
 import { getDeckColors } from '../lib/deckColors'
@@ -11,14 +12,17 @@ const props = defineProps<{
   name: string
   slug?: string
   variant?: 'dominant' | 'challenger' | 'default'
+  contextYear?: number
+  contextFormat?: FormatId
 }>()
 
 const hovered = ref(false)
 const popupX = ref(0)
 const popupY = ref(0)
 
-const info = computed(() => lookupDeck(props.name))
-const effectiveSlug = computed(() => props.slug || findRepresentativeSlug(props.name))
+const ctx = computed(() => ({ year: props.contextYear, format: props.contextFormat }))
+const info = computed(() => lookupDeck(props.name, ctx.value))
+const effectiveSlug = computed(() => props.slug || findRepresentativeSlug(props.name, ctx.value))
 
 function onEnter(e: MouseEvent) {
   hovered.value = true

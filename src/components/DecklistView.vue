@@ -657,16 +657,17 @@ function totalOf(entries: DecklistEntry[]): number {
 .visual-count-badge {
   position: absolute;
   top: 4px;
-  right: 4px;
+  left: 4px;
   background: var(--ink);
   color: var(--paper);
   font-family: var(--font-heading);
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   font-weight: 700;
-  padding: 3px 8px;
+  padding: 2px 6px;
   border-radius: 4px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
-  z-index: 1;
+  z-index: 2;
+  pointer-events: none;
 }
 
 .visual-card img {

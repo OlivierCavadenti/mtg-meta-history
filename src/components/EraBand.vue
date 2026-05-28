@@ -52,12 +52,16 @@ function formatMonth(ym: string): string {
           :key="d"
           :name="d"
           :slug="findSlug(d, format, year)"
+          :context-year="year"
+          :context-format="format"
           variant="dominant"
         />
         <DeckBadge
           v-for="d in era.challengers"
           :key="d"
           :name="d"
+          :context-year="year"
+          :context-format="format"
           variant="challenger"
         />
       </div>

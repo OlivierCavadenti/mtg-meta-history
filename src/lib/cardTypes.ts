@@ -9,8 +9,8 @@ export type CardInfo = {
   imgLarge?: string // large-size image URL
 }
 
-const INDEX_KEY = 'mtg-card-index-v3'
-const META_KEY = 'mtg-card-index-meta-v3'
+const INDEX_KEY = 'mtg-card-index-v4'
+const META_KEY = 'mtg-card-index-meta-v4'
 const REFRESH_INTERVAL = 7 * 24 * 60 * 60 * 1000 // 7 days
 
 const SCRYFALL_BULK_META = 'https://api.scryfall.com/bulk-data'

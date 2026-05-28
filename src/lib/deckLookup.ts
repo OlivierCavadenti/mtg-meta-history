@@ -1,4 +1,4 @@
-import type { ArchetypeType, RepresentativeDeck } from '../data/types'
+import type { ArchetypeType, RepresentativeDeck, FormatId } from '../data/types'
 import { getAllEntries } from '../data/years'
 
 export type DeckInfoLookup = {
@@ -22,7 +22,12 @@ function guessArchetype(name: string): ArchetypeType | undefined {
   return undefined
 }
 
-export function lookupDeck(name: string): DeckInfoLookup {
+export type LookupContext = {
+  year?: number
+  format?: FormatId
+}
+
+export function lookupDeck(name: string, context?: LookupContext): DeckInfoLookup {
   const entries = getAllEntries()
   const appearances: DeckInfoLookup['appearances'] = []
   let bestRepresentative: RepresentativeDeck | undefined
@@ -35,9 +40,31 @@ export function lookupDeck(name: string): DeckInfoLookup {
         appearances.push({ year: entry.year, format: entry.format, era: era.name })
       }
     }
-    if (!bestRepresentative) {
+  }
+
+  // 1. Prefer exact name match in the same year+format
+  if (context?.year != null) {
+    const sameYear = entries.find((e) => e.year === context.year && (!context.format || e.format === context.format))
+    if (sameYear) {
+      bestRepresentative = sameYear.representativeDecks.find((d) => d.name === name)
+      // 2. Loose match in same year (e.g., "UW Control" matches "Loconto UW Control")
+      if (!bestRepresentative) {
+        const lower = name.toLowerCase()
+        bestRepresentative = sameYear.representativeDecks.find((d) =>
+          d.name.toLowerCase().includes(lower) || lower.includes(d.name.toLowerCase())
+        )
+      }
+    }
+  }
+
+  // 3. Fallback: exact name match anywhere
+  if (!bestRepresentative) {
+    for (const entry of entries) {
       const rep = entry.representativeDecks.find((d) => d.name === name)
-      if (rep) bestRepresentative = rep
+      if (rep) {
+        bestRepresentative = rep
+        break
+      }
     }
   }
 
@@ -52,9 +79,10 @@ export function lookupDeck(name: string): DeckInfoLookup {
     }
   }
 
-  // Fallback: gather key cards from eras where the deck appeared as dominant
+  // 4. Final fallback: synthesize from key cards of eras where the deck appeared
   const keyCards: string[] = []
   for (const entry of entries) {
+    if (context?.year != null && entry.year !== context.year) continue
     for (const era of entry.eras) {
       if (era.dominantDecks.includes(name)) {
         for (const kc of era.keyCards) {
@@ -75,8 +103,24 @@ export function lookupDeck(name: string): DeckInfoLookup {
   }
 }
 
-export function findRepresentativeSlug(name: string): string | undefined {
+export function findRepresentativeSlug(name: string, context?: LookupContext): string | undefined {
   const entries = getAllEntries()
+
+  // Prefer same-year match first
+  if (context?.year != null) {
+    const sameYear = entries.find((e) => e.year === context.year && (!context.format || e.format === context.format))
+    if (sameYear) {
+      const exact = sameYear.representativeDecks.find((d) => d.name === name)
+      if (exact) return exact.slug
+      const lower = name.toLowerCase()
+      const loose = sameYear.representativeDecks.find((d) =>
+        d.name.toLowerCase().includes(lower) || lower.includes(d.name.toLowerCase())
+      )
+      if (loose) return loose.slug
+    }
+  }
+
+  // Fallback: search all years
   for (const entry of entries) {
     const rep = entry.representativeDecks.find((d) => d.name === name)
     if (rep) return rep.slug

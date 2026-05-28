@@ -230,15 +230,15 @@ export const standard2019: YearFormatEntry = {
       decklist: {
         mainboard: [
           { count: 4, name: 'Absorb' },
-          { count: 2, name: 'Eliminate' },
-          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 2, name: 'Cast Down' },
+          { count: 3, name: 'Despark' },
           { count: 4, name: 'Glacial Fortress' },
           { count: 7, name: 'Island' },
           { count: 4, name: 'Kaya\'s Wrath' },
           { count: 3, name: 'Opt' },
           { count: 7, name: 'Plains' },
           { count: 4, name: 'Search for Azcanta' },
-          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Time Wipe' },
           { count: 6, name: 'Swamp' },
           { count: 3, name: 'Teferi, Hero of Dominaria' },
           { count: 3, name: 'Teferi, Time Raveler' },
@@ -249,7 +249,7 @@ export const standard2019: YearFormatEntry = {
           { count: 4, name: 'Duress' },
           { count: 4, name: 'Negate' },
           { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Time Wipe' },
           { count: 2, name: 'Soul-Guide Lantern' },
         ],
         source: {
@@ -274,7 +274,7 @@ export const standard2019: YearFormatEntry = {
       keyCards: ['Hydroid Krasis', 'Jadelight Ranger', 'Wildgrowth Walker', 'Vivien Reid', 'Find // Finality'],
       decklist: {
         mainboard: [
-          { count: 3, name: 'Eliminate' },
+          { count: 3, name: 'Cast Down' },
           { count: 4, name: 'Find // Finality' },
           { count: 5, name: 'Forest' },
           { count: 4, name: 'Hinterland Harbor' },
@@ -286,7 +286,7 @@ export const standard2019: YearFormatEntry = {
           { count: 6, name: 'Swamp' },
           { count: 3, name: 'Teferi, Time Raveler' },
           { count: 3, name: 'Thoughtseize' },
-          { count: 1, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 1, name: 'Cavalier of Thorns' },
           { count: 4, name: 'Vivien Reid' },
           { count: 4, name: 'Wildgrowth Walker' },
           { count: 4, name: 'Woodland Cemetery' },
@@ -328,7 +328,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Oko, Thief of Crowns' },
           { count: 4, name: 'Once Upon a Time' },
           { count: 3, name: 'Shock' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
           { count: 4, name: 'Wicked Wolf' },
         ],
         sideboard: [
@@ -405,7 +405,7 @@ export const standard2019: YearFormatEntry = {
           { count: 4, name: 'Root Snare' },
           { count: 4, name: 'Search for Azcanta' },
           { count: 3, name: 'Teferi, Time Raveler' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
           { count: 4, name: 'Wilderness Reclamation' },
         ],
         sideboard: [
@@ -469,18 +469,18 @@ export const standard2019: YearFormatEntry = {
         mainboard: [
           { count: 4, name: 'Benalish Marshal' },
           { count: 4, name: 'Dauntless Bodyguard' },
-          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'Conclave Tribunal' },
           { count: 3, name: 'History of Benalia' },
           { count: 3, name: 'Knight of Grace' },
           { count: 36, name: 'Plains' },
-          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Realm-Cloaked Giant' },
           { count: 4, name: 'Venerated Loxodon' },
         ],
         sideboard: [
           { count: 4, name: 'Duress' },
           { count: 4, name: 'Negate' },
           { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Tocatli Honor Guard' },
           { count: 2, name: 'Soul-Guide Lantern' },
         ],
         source: {
@@ -500,8 +500,8 @@ export const standard2019: YearFormatEntry = {
       keyCards: ['Hero of Precinct One', 'Teferi, Time Raveler', 'Narset, Parter of Veils', 'Thought Erasure', 'Hero\'s Downfall'],
       decklist: {
         mainboard: [
-          { count: 3, name: 'Eliminate' },
-          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'Cast Down' },
+          { count: 3, name: 'Kaya\'s Wrath' },
           { count: 4, name: 'Glacial Fortress' },
           { count: 3, name: 'Hero of Precinct One' },
           { count: 4, name: 'Hero\'s Downfall' },
@@ -509,7 +509,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Narset, Parter of Veils' },
           { count: 3, name: 'Opt' },
           { count: 8, name: 'Plains' },
-          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Despark' },
           { count: 8, name: 'Swamp' },
           { count: 3, name: 'Teferi, Time Raveler' },
           { count: 4, name: 'Thought Erasure' },
@@ -519,7 +519,7 @@ export const standard2019: YearFormatEntry = {
           { count: 4, name: 'Duress' },
           { count: 4, name: 'Negate' },
           { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Cry of the Carnarium' },
           { count: 2, name: 'Soul-Guide Lantern' },
         ],
         source: {
@@ -539,7 +539,7 @@ export const standard2019: YearFormatEntry = {
       keyCards: ['Nissa, Who Shakes the World', 'Hydroid Krasis', 'Teferi, Hero of Dominaria', 'Llanowar Elves', 'Growth Spiral'],
       decklist: {
         mainboard: [
-          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'Realm-Cloaked Giant' },
           { count: 5, name: 'Forest' },
           { count: 4, name: 'Glacial Fortress' },
           { count: 4, name: 'Growth Spiral' },
@@ -551,17 +551,17 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Once Upon a Time' },
           { count: 3, name: 'Opt' },
           { count: 5, name: 'Plains' },
-          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Time Wipe' },
           { count: 4, name: 'Sunpetal Grove' },
           { count: 3, name: 'Teferi, Hero of Dominaria' },
           { count: 3, name: 'Teferi, Time Raveler' },
-          { count: 1, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 1, name: 'Cavalier of Thorns' },
         ],
         sideboard: [
           { count: 4, name: 'Duress' },
           { count: 4, name: 'Negate' },
           { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Aether Gust' },
           { count: 2, name: 'Soul-Guide Lantern' },
           { count: 2, name: 'Veil of Summer' },
         ],
@@ -592,7 +592,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Once Upon a Time' },
           { count: 4, name: 'Rekindling Phoenix' },
           { count: 3, name: 'Shock' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
         ],
         sideboard: [
           { count: 2, name: 'Aether Gust' },
@@ -621,7 +621,7 @@ export const standard2019: YearFormatEntry = {
         mainboard: [
           { count: 4, name: 'Adanto Vanguard' },
           { count: 3, name: 'Champion of Dusk' },
-          { count: 3, name: 'Eliminate' },
+          { count: 3, name: 'Cast Down' },
           { count: 3, name: 'Knight of the Ebon Legion' },
           { count: 4, name: 'Legion Lieutenant' },
           { count: 3, name: 'Sorin, Imperious Bloodlord' },
@@ -661,7 +661,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Once Upon a Time' },
           { count: 3, name: 'Opt' },
           { count: 3, name: 'Teferi, Time Raveler' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
           { count: 4, name: 'Wicked Wolf' },
         ],
         sideboard: [
@@ -698,7 +698,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Once Upon a Time' },
           { count: 3, name: 'Shock' },
           { count: 3, name: 'Teferi, Time Raveler' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
         ],
         sideboard: [
           { count: 2, name: 'Aether Gust' },
@@ -729,7 +729,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Cavalier of Flame' },
           { count: 4, name: 'Clifftop Retreat' },
           { count: 4, name: 'Deafening Clarion' },
-          { count: 3, name: 'Elspeth Conquers Death' },
+          { count: 3, name: 'Time Wipe' },
           { count: 3, name: 'Fires of Invention' },
           { count: 4, name: 'Glacial Fortress' },
           { count: 7, name: 'Island' },
@@ -737,7 +737,7 @@ export const standard2019: YearFormatEntry = {
           { count: 7, name: 'Mountain' },
           { count: 3, name: 'Opt' },
           { count: 7, name: 'Plains' },
-          { count: 3, name: 'Shatter the Sky' },
+          { count: 3, name: 'Realm-Cloaked Giant' },
           { count: 3, name: 'Shock' },
           { count: 3, name: 'Teferi, Time Raveler' },
         ],
@@ -746,7 +746,7 @@ export const standard2019: YearFormatEntry = {
           { count: 4, name: 'Duress' },
           { count: 4, name: 'Negate' },
           { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Shatter the Sky' },
+          { count: 2, name: 'Lava Coil' },
           { count: 2, name: 'Soul-Guide Lantern' },
         ],
         source: {
@@ -767,7 +767,7 @@ export const standard2019: YearFormatEntry = {
       decklist: {
         mainboard: [
           { count: 4, name: 'Edgewall Innkeeper' },
-          { count: 3, name: 'Eliminate' },
+          { count: 3, name: 'Cast Down' },
           { count: 12, name: 'Forest' },
           { count: 4, name: 'Foulmire Knight' },
           { count: 4, name: 'Lovestruck Beast' },
@@ -776,7 +776,7 @@ export const standard2019: YearFormatEntry = {
           { count: 3, name: 'Order of Midnight' },
           { count: 13, name: 'Swamp' },
           { count: 3, name: 'Thoughtseize' },
-          { count: 3, name: 'Uro, Titan of Nature\'s Wrath' },
+          { count: 3, name: 'Cavalier of Thorns' },
           { count: 4, name: 'Woodland Cemetery' },
         ],
         sideboard: [
