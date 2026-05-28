@@ -15,7 +15,7 @@ export const standard1996Fr: YearFormatEntry = {
       name: 'Le premier Pro Tour',
       start: '1996-01',
       end: '1996-04',
-      dominantDecks: ['UW Control', 'Necropotence'],
+      dominantDecks: ['Loconto UW Control', 'Necropotence'],
       challengers: ['Erhnam-Geddon', 'White Weenie', 'Stasis'],
       keyCards: [
         { name: 'Necropotence', role: 'Moteur d\'avantage en cartes, échangeant des points de vie contre des cartes' },
@@ -56,7 +56,7 @@ export const standard1996Fr: YearFormatEntry = {
       start: '1996-04',
       end: '1996-10',
       dominantDecks: ['Necropotence'],
-      challengers: ['Erhnam-Geddon', 'White Weenie', 'Stasis', 'UW Control'],
+      challengers: ['Erhnam-Geddon', 'White Weenie', 'Stasis', 'Loconto UW Control'],
       keyCards: [
         { name: 'Necropotence', role: 'Moteur de pioche convertissant la vie en avantage massif en cartes' },
         { name: 'Hymn to Tourach', role: 'Défausse aléatoire détruisant les mains adverses' },
@@ -97,7 +97,7 @@ export const standard1996Fr: YearFormatEntry = {
       start: '1996-10',
       end: '1996-12',
       dominantDecks: ['Necropotence'],
-      challengers: ['Erhnam-Geddon', 'White Weenie', 'UW Control', 'Pump Knights'],
+      challengers: ['Erhnam-Geddon', 'White Weenie', 'Loconto UW Control', 'Pump Knights'],
       keyCards: [
         { name: 'Necropotence', role: 'Toujours le moteur d\'avantage en cartes dominant' },
         { name: 'Force of Will', role: 'Contresort gratuit venant d\'Alliances' },
