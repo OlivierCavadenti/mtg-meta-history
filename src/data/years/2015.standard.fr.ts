@@ -1,0 +1,348 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2015Fr: YearFormatEntry = {
+  year: 2015,
+  format: 'standard',
+  title: 'Standard 2015',
+  subtitle: 'Des Siege Rhinos au Rally',
+  shortLabel: 'Abzan & Rally',
+  summary:
+    'Le Standard 2015 a commencé avec Abzan Midrange toujours au sommet depuis Khans of Tarkir, mais le format a considérablement évolué au fil de l\'année. Fate Reforged et Dragons of Tarkir ont apporté de nouveaux outils puissants, avec Esper Dragons émergeant comme le meilleur deck contrôle. Martin Dang a remporté le Pro Tour Dragons of Tarkir avec une stratégie agressive Red-Green. Magic Origins a introduit Jace, Vryn\'s Prodigy et Nissa, Vastwood Seer. La rotation d\'octobre avec Battle for Zendikar a remodelé le format autour d\'Atarka Red, Dark Jeskai, et finalement le deck combo Rally the Ancestors qui allait définir la fin 2015 et le début 2016.',
+  headlineDeck: 'Abzan Midrange',
+  eras: [
+    {
+      id: '2015-std-abzan-era',
+      name: 'Le métagame Abzan-Khans',
+      start: '2015-01',
+      end: '2015-06',
+      dominantDecks: ['Abzan Midrange', 'Abzan Aggro'],
+      challengers: ['Jeskai Tokens', 'Sultai Whip', 'UB Control', 'Mono-Red Aggro', 'RG Devotion', 'Esper Dragons'],
+      keyCards: [
+        { name: 'Siege Rhino', role: 'Menace midrange définissant le format avec drain et trample' },
+        { name: 'Courser of Kruphix', role: 'Moteur d\'avantage de cartes et de gain de vie' },
+        { name: 'Dragonlord Ojutai', role: 'Finisseur hexproof pour Esper Dragons' },
+        { name: 'Whip of Erebos', role: 'Moteur de réanimation pour les stratégies cimetière Sultai' },
+        { name: 'Goblin Rabblemaster', role: 'Générateur agressif de jetons pour les decks rouges' },
+      ],
+      summary:
+        'Abzan Midrange et ses variantes ont continué à dominer le premier semestre 2015, Siege Rhino restant la meilleure créature du format. Jeskai Tokens utilisait Jeskai Ascendancy et Raise the Alarm pour des tours explosifs. Sultai Whip réanimait des créatures de valeur avec Whip of Erebos, récupérant Hornet Queen et Sidisi, Brood Tyrant. Dragons of Tarkir en mars a ajouté Dragonlord Ojutai, donnant naissance au puissant deck contrôle Esper Dragons. Martin Dang a remporté le Pro Tour Dragons of Tarkir avec une liste aggro Gruul, prouvant que les stratégies agressives pouvaient percer. Mono-Red Aggro avec Monastery Swiftspear et Foundry Street Denizen restait un concurrent constant et abordable.',
+      whyItDominated: [
+        'Siege Rhino restait la menace la plus efficace du format à travers toutes les variantes d\'Abzan',
+        'Abzan Aggro offrait une horloge plus rapide avec Fleecemane Lion et Anafenza, the Foremost',
+        'Abzan Control montait en puissance avec Elspeth, Sun\'s Champion et End Hostilities',
+        'Thoughtseize et Hero\'s Downfall fournissaient une disruption et un removal inégalés',
+        'Le shell Abzan s\'adaptait pour battre aussi bien l\'aggro que le contrôle de manière constante',
+      ],
+      whyItEnded:
+        'Magic Origins en juillet et la rotation de Battle for Zendikar en octobre ont complètement changé le pool de cartes. La perte de Courser of Kruphix, Thoughtseize et des outils devotion de Theros a affaibli le shell Abzan, bien que Siege Rhino ait persisté.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Dragons of Tarkir coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Dragons_of_Tarkir',
+          date: '2015-04-12',
+          note: 'Martin Dang a gagné avec Gruul Aggro. Le Top 8 comportait 3 stratégies Red-Green, 3 decks UB-based Control et Abzan Control.',
+        },
+        {
+          title: 'MTGTop8 - Standard events and metagame',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/format?f=ST',
+          note: 'Résultats de tournois montrant les variantes Abzan comme l\'archétype le plus représenté début 2015.',
+        },
+      ],
+    },
+    {
+      id: '2015-std-origins-summer',
+      name: 'Abzan et Mono-Red',
+      start: '2015-07',
+      end: '2015-09',
+      dominantDecks: ['Abzan Midrange', 'Mono-Red Aggro'],
+      challengers: ['UR Ensoul Artifact', 'Abzan Rally', 'GR Devotion', 'Jeskai'],
+      keyCards: [
+        { name: 'Jace, Vryn\'s Prodigy', role: 'Planeswalker transformable permettant le flashback' },
+        { name: 'Nissa, Vastwood Seer', role: 'Créature chercheuse de terrain se transformant en planeswalker' },
+        { name: 'Hangarback Walker', role: 'Menace résiliente laissant des jetons Thopter derrière elle' },
+        { name: 'Monastery Swiftspear', role: 'One-drop agressif alimenté par prowess' },
+        { name: 'Ensoul Artifact', role: 'Transformait les artefacts en menaces 5/5 indestructibles' },
+      ],
+      summary:
+        'Magic Origins a injecté de puissants planeswalkers double-face dans le format. Jace, Vryn\'s Prodigy s\'est rapidement révélé comme l\'une des cartes les plus fortes du Standard, permettant des stratégies basées sur le cimetière. Joel Larsson a remporté le Pro Tour Magic Origins avec Mono-Red Aggro, battant Mike Sigrist 3-2 en finale. UR Ensoul Artifact a émergé comme deck surprise, transformant Darksteel Citadel en un attaquant 5/5 indestructible. Abzan Rally a commencé à apparaître comme un deck combo marginal utilisant Rally the Ancestors pour ramener des créatures du cimetière.',
+      whyItDominated: [
+        'Abzan disposait toujours de la meilleure qualité de cartes avec Siege Rhino, Abzan Charm et Dromoka\'s Command',
+        'Mono-Red était le deck le plus rapide avec Monastery Swiftspear, Lightning Strike et Stoke the Flames',
+        'Jace, Vryn\'s Prodigy offrait aux decks midrange et contrôle un nouvel outil puissant',
+        'Le format était suffisamment diversifié pour qu\'aucun deck ne domine de manière écrasante',
+      ],
+      whyItEnded:
+        'La rotation d\'octobre avec Battle for Zendikar a retiré le bloc Theros et Magic 2015 du Standard, réduisant considérablement le pool de cartes et éliminant de nombreuses cartes phares du format.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Magic Origins coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Magic_Origins',
+          date: '2015-08-02',
+          note: 'Joel Larsson a gagné avec Mono-Red Aggro. UR Ensoul Artifact était le deck surprise de l\'événement.',
+        },
+        {
+          title: 'Pro Tour Magic Origins Standard decklists',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/tournament/pro-tour-magic-origins',
+          note: 'Listes complètes et analyse du métagame de l\'événement.',
+        },
+      ],
+    },
+    {
+      id: '2015-std-bfz',
+      name: 'Dark Jeskai et Atarka Red',
+      start: '2015-10',
+      end: '2015-12',
+      dominantDecks: ['Dark Jeskai', 'Atarka Red'],
+      challengers: ['Abzan', 'GW Megamorph', 'Jeskai Black', 'Rally the Ancestors', 'Esper Control'],
+      keyCards: [
+        { name: 'Jace, Vryn\'s Prodigy', role: 'Carte définissant le format, permettant le flashback et alimentant le delve' },
+        { name: 'Mantis Rider', role: 'Volant efficace à trois de puissance avec haste et vigilance' },
+        { name: 'Atarka\'s Command', role: 'Sort de burn modal permettant des tours aggro explosifs' },
+        { name: 'Gideon, Ally of Zendikar', role: 'Planeswalker polyvalent créant des jetons et des anthems' },
+        { name: 'Rally the Ancestors', role: 'Réanimation de masse permettant des kills combo avec Zulaport Cutthroat' },
+      ],
+      summary:
+        'Le format post-rotation s\'est centré sur Jace, Vryn\'s Prodigy, la carte Standard la plus chère depuis des années. Dark Jeskai (aussi appelé Jeskai Black) splashait le noir pour Crackling Doom et Kolaghan\'s Command, exploitant Jace pour l\'avantage de cartes. Atarka Red était le deck aggro de référence, utilisant Atarka\'s Command et Become Immense pour des kills explosifs. Kazuyuki Takimura a remporté le Pro Tour Battle for Zendikar avec Abzan, battant le Jeskai de Ryoichi Tamada dans la première finale de PT entièrement japonaise depuis 2006. Rally the Ancestors a émergé comme un deck combo utilisant Zulaport Cutthroat et Nantuko Husk pour drainer les adversaires, devenant de plus en plus fort en fin d\'année.',
+      whyItDominated: [
+        'Jace, Vryn\'s Prodigy était la meilleure carte du Standard, présent dans la plupart des decks non-aggro',
+        'Dark Jeskai avait accès aux meilleurs sorts sur quatre couleurs grâce à un excellent mana via les fetch lands',
+        'Atarka Red punissait les départs lents avec Monastery Swiftspear, Atarka\'s Command et Become Immense',
+        'Crackling Doom et Kolaghan\'s Command donnaient aux decks Jeskai des réponses flexibles',
+      ],
+      whyItEnded:
+        'Rally the Ancestors a gagné en parts de métagame fin 2015 et jusqu\'en 2016, finissant par déformer le format autour de son potentiel de combo-kill. Oath of the Gatewatch en janvier 2016 allait encore bouleverser le métagame.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Battle for Zendikar coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Battle_for_Zendikar',
+          date: '2015-10-18',
+          note: 'Kazuyuki Takimura a gagné avec Abzan. Le Top 8 incluait Atarka Red, Dark Jeskai, Jeskai Tokens et GW Megamorph.',
+        },
+        {
+          title: 'Pro Tour Battle for Zendikar by the numbers',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/pro-tour-battle-for-zendikar-by-the-numbers',
+          note: 'Atarka Red, Dark Jeskai et GW Megamorph étaient les archétypes les plus joués.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '2015-01-23', name: 'Fate Reforged', code: 'FRF' },
+    { date: '2015-03-27', name: 'Dragons of Tarkir', code: 'DTK' },
+    { date: '2015-07-17', name: 'Magic Origins', code: 'ORI' },
+    { date: '2015-10-02', name: 'Battle for Zendikar', code: 'BFZ', note: 'Rotation du Standard : le bloc Theros et Magic 2015 sortent du format' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Abzan Midrange',
+      slug: 'abzan-midrange-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'midrange',
+      summary:
+        'Un midrange noir-vert-blanc ancré par Siege Rhino qui draine et trade favorablement, avec Courser of Kruphix comme blocker Bolt-proof plus filtre de cartes. Thoughtseize disrupt, Abzan Charm offre des answers flexibles, Elspeth et Hero\'s Downfall concluent. Domine le midrange fair mais pressé par le combo rapide.',
+      keyCards: ['Siege Rhino', 'Courser of Kruphix', 'Thoughtseize', 'Abzan Charm', "Hero's Downfall", "Elspeth, Sun's Champion"],
+      source: {
+        title: 'MTGTop8 - Standard Abzan decklists',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Esper Dragons',
+      slug: 'esper-dragons-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-noir-blanc bâti autour de Dragonlord Ojutai comme closer hexproof, soutenu par Silumgar\'s Scorn comme Force Spike avec un Dragon en main. Dig Through Time recharge, Foul-Tongue Invocation retire les blockers et gagne des points de vie. Dragonlord Silumgar vole les planeswalkers. Solide contre les decks fair.',
+      keyCards: ['Dragonlord Ojutai', "Silumgar's Scorn", 'Dig Through Time', 'Foul-Tongue Invocation', 'Dragonlord Silumgar'],
+      source: {
+        title: 'Pro Tour Dragons of Tarkir coverage',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Dragons_of_Tarkir',
+      },
+    },
+    {
+      name: 'Mono-Red Aggro',
+      slug: 'mono-red-aggro-standard-2015',
+      period: 'Abzan et Mono-Red',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro mono-rouge jouant Monastery Swiftspear et Foundry Street Denizen pour la pression bon marché, Abbot of Keral Keep pour le card advantage, et Lightning Strike plus Stoke the Flames pour le reach. Vise à infliger vingt dégâts au tour quatre. Punit les pioches lentes mais vulnérable au lifegain.',
+      keyCards: ['Monastery Swiftspear', 'Foundry Street Denizen', 'Lightning Strike', 'Stoke the Flames', 'Abbot of Keral Keep'],
+      source: {
+        title: 'Pro Tour Magic Origins coverage',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Magic_Origins',
+      },
+    },
+    {
+      name: 'Atarka Red',
+      slug: 'atarka-red-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'aggro',
+      summary:
+        'Un deck hyper-aggro rouge-vert qui combine Monastery Swiftspear avec les triggers prowess de Become Immense et Temur Battle Rage pour des kills en un coup. Atarka\'s Command fait passer des dégâts supplémentaires. Zurgo Bellstriker apporte plus de pression. Explosif mais s\'effondre face au lifegain rapide et aux blockers.',
+      keyCards: ['Monastery Swiftspear', "Atarka's Command", 'Become Immense', 'Temur Battle Rage', 'Zurgo Bellstriker'],
+      source: {
+        title: 'Pro Tour Battle for Zendikar coverage',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Battle_for_Zendikar',
+      },
+    },
+    {
+      name: 'Dark Jeskai',
+      slug: 'dark-jeskai-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange-tempo bleu-rouge-blanc-noir qui utilise Jace, Vryn\'s Prodigy pour la sélection et la récurrence, Mantis Rider comme clock haste-volant, et Crackling Doom plus Kolaghan\'s Command pour du removal deux-pour-un. Dig Through Time recharge. Flexible et grindy mais lent face au combo pur.',
+      keyCards: ['Jace, Vryn\'s Prodigy', 'Mantis Rider', 'Crackling Doom', "Kolaghan's Command", 'Dig Through Time'],
+      source: {
+        title: 'Pro Tour Battle for Zendikar Top 8',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Battle_for_Zendikar',
+      },
+    },
+    {
+      name: 'Rally the Ancestors',
+      slug: 'rally-the-ancestors-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'combo',
+      summary:
+        'Un deck combo quatre couleurs qui remplit le graveyard de créatures bon marché, puis loop Rally the Ancestors pour ramener Zulaport Cutthroat et Nantuko Husk pour un drain infini. Collected Company assemble le combo à instant speed, Jace, Vryn\'s Prodigy remplit le graveyard. Vulnérable à la hate graveyard d\'exil.',
+      keyCards: ['Rally the Ancestors', 'Zulaport Cutthroat', 'Nantuko Husk', 'Collected Company', 'Jace, Vryn\'s Prodigy'],
+      source: {
+        title: 'Abzan Rally At Pro Tour Magic Origins',
+        publisher: 'Star City Games',
+        url: 'https://articles.starcitygames.com/articles/abzan-rally-at-pro-tour-magic-origins/',
+      },
+    },
+  
+    {
+      name: 'Abzan Aggro',
+      slug: 'abzan-aggro-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro noir-vert-blanc bâti sur la monstruosité de Fleecemane Lion et le grave-hate plus la croissance de power d\'Anafenza, the Foremost. Rakshasa Deathdealer régénère et pump, Wingmate Roc crée une armée volante. Abzan Charm fournit des answers flexibles. Solide contre le midrange fair mais pressé par les sweepers.',
+      keyCards: ['Fleecemane Lion', 'Anafenza, the Foremost', 'Wingmate Roc', 'Rakshasa Deathdealer', 'Abzan Charm'],
+    },
+    {
+      name: 'Jeskai Tokens',
+      slug: 'jeskai-tokens-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'midrange',
+      summary:
+        'Un deck tokens bleu-rouge-blanc qui abuse de Jeskai Ascendancy et Hordeling Outburst — chaque sort pump et untap l\'équipe. Stoke the Flames est gratuit avec trois créatures, Goblin Rabblemaster inonde, Treasure Cruise recharge. Explosif mais pressé par les sweepers.',
+      keyCards: ['Jeskai Ascendancy', 'Hordeling Outburst', 'Stoke the Flames', 'Goblin Rabblemaster', 'Treasure Cruise'],
+    },
+    {
+      name: 'Sultai Whip',
+      slug: 'sultai-whip-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange-reanimator bleu-noir-vert qui utilise Whip of Erebos pour ramener Hornet Queen ou Soul of Innistrad pour de la value répétée avec lifelink. Sidisi, Brood Tyrant mille les créatures, Murderous Cut gère les menaces à bas coût via delve. Grindy mais vulnérable à la hate graveyard.',
+      keyCards: ['Whip of Erebos', 'Hornet Queen', 'Sidisi, Brood Tyrant', 'Soul of Innistrad', 'Murderous Cut'],
+    },
+    {
+      name: 'UB Control',
+      slug: 'ub-control-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-noir bâti sur Dig Through Time et Dissolve pour la sélection et les contresorts, avec Hero\'s Downfall et Perilous Vault comme removal. Pearl Lake Ancient conclut comme finisher incontrable protégé par rebond. Inévitable en late game mais lent face au combo rapide.',
+      keyCards: ['Dig Through Time', 'Dissolve', 'Hero\'s Downfall', 'Pearl Lake Ancient', 'Perilous Vault'],
+    },
+    {
+      name: 'RG Devotion',
+      slug: 'rg-devotion-standard-2015',
+      period: 'Le métagame Abzan-Khans',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp rouge-vert construisant la devotion via Polukranos et Stormbreath Dragon pour alimenter Nykthos, Shrine to Nyx en mana explosif. Genesis Hydra cascade dans plus de menaces. Punit le control lent mais pressé par la hate enchantement et les contresorts.',
+      keyCards: ['Nykthos, Shrine to Nyx', 'Polukranos, World Eater', 'Stormbreath Dragon', 'Genesis Hydra', 'Xenagos, the Reveler'],
+    },
+    {
+      name: 'UR Ensoul Artifact',
+      slug: 'ur-ensoul-artifact-standard-2015',
+      period: 'Abzan et Mono-Red',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro bleu-rouge qui utilise Ensoul Artifact pour transformer Darksteel Citadel ou Ghostfire Blade en une 5/5 indestructible. Shrapnel Blast sacrifie un artefact pour 5 dégâts, Hangarback Walker scale avec le mana. Rapide et résistant mais vulnérable au removal d\'artefact.',
+      keyCards: ['Ensoul Artifact', 'Darksteel Citadel', 'Ghostfire Blade', 'Shrapnel Blast', 'Hangarback Walker'],
+    },
+    {
+      name: 'Abzan Rally',
+      slug: 'abzan-rally-standard-2015',
+      period: 'Abzan et Mono-Red',
+      archetype: 'combo',
+      summary:
+        'Un deck combo noir-vert-blanc centré sur Rally the Ancestors ramenant Nantuko Husk et des petites créatures pour des loops de sacrifice explosifs. Siege Rhino draine au passage, Satyr Wayfinder mille les créatures, Grim Haruspex pioche sur les triggers de mort. Vulnérable à la hate graveyard.',
+      keyCards: ['Rally the Ancestors', 'Nantuko Husk', 'Satyr Wayfinder', 'Grim Haruspex', 'Siege Rhino'],
+    },
+    {
+      name: 'GR Devotion',
+      slug: 'gr-devotion-standard-2015',
+      period: 'Abzan et Mono-Red',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp rouge-vert qui construit la devotion via des créatures bon marché pour alimenter Nykthos en mana massif, puis joue See the Unwritten ou Genesis Hydra pour des menaces dominantes. Polukranos et Stormbreath Dragon servent à la fois de devotion et de finisher. Lent face au combo rapide.',
+      keyCards: ['Nykthos, Shrine to Nyx', 'Polukranos, World Eater', 'See the Unwritten', 'Genesis Hydra', 'Whisperwood Elemental'],
+    },
+    {
+      name: 'Jeskai',
+      slug: 'jeskai-standard-2015',
+      period: 'Abzan et Mono-Red',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo bleu-rouge-blanc centré sur Mantis Rider comme clock haste-volant, Jeskai Ascendancy pumpant les sorts, et Stoke the Flames comme finisher burn gratuit. Soulfire Grand Master rend le burn lifelink, Dig Through Time recharge. Punit les decks lents mais pressé par les sweepers.',
+      keyCards: ['Mantis Rider', 'Jeskai Ascendancy', 'Stoke the Flames', 'Soulfire Grand Master', 'Dig Through Time'],
+    },
+    {
+      name: 'Abzan',
+      slug: 'abzan-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'midrange',
+      summary:
+        'Un shell midrange noir-vert-blanc centré sur Siege Rhino et Anafenza, the Foremost comme trois-drops efficaces, avec Abzan Charm et Hero\'s Downfall pour des answers flexibles. Den Protector recur les sorts clés. Grind les decks fair mais lent face au combo.',
+      keyCards: ['Siege Rhino', 'Anafenza, the Foremost', 'Abzan Charm', 'Hero\'s Downfall', 'Den Protector'],
+    },
+    {
+      name: 'GW Megamorph',
+      slug: 'gw-megamorph-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange vert-blanc qui loop Den Protector et Deathmist Raptor via les triggers de morph pour de la value répétée. Dromoka\'s Command fournit du removal flexible et du pump, Warden of the First Tree scale avec le mana, Wingmate Roc crée une armée volante. Résistant face aux decks fair.',
+      keyCards: ['Den Protector', 'Deathmist Raptor', 'Wingmate Roc', 'Dromoka\'s Command', 'Warden of the First Tree'],
+    },
+    {
+      name: 'Jeskai Black',
+      slug: 'jeskai-black-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange-tempo bleu-rouge-blanc-noir combinant Jace, Vryn\'s Prodigy et Mantis Rider avec la disruption de Kolaghan\'s Command et Crackling Doom. Dig Through Time recharge la main. Flexible et grindy mais lent face au combo pur.',
+      keyCards: ['Jace, Vryn\'s Prodigy', 'Mantis Rider', 'Crackling Doom', 'Kolaghan\'s Command', 'Dig Through Time'],
+    },
+    {
+      name: 'Esper Control',
+      slug: 'esper-control-standard-2015',
+      period: 'Dark Jeskai et Atarka Red',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-blanc-noir qui utilise Jace, Vryn\'s Prodigy pour le filtrage précoce et Dig Through Time pour le refill de late game. Crux of Fate balaie, Ojutai\'s Command fournit l\'utilité flexible, Dragonlord Ojutai conclut en hexproof. Solide contre les decks fair mais lent face au combo rapide.',
+      keyCards: ['Jace, Vryn\'s Prodigy', 'Dig Through Time', 'Crux of Fate', 'Ojutai\'s Command', 'Dragonlord Ojutai'],
+    },
+  ],
+}

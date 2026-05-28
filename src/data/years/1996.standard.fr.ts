@@ -1,0 +1,183 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard1996Fr: YearFormatEntry = {
+  year: 1996,
+  format: 'standard',
+  title: 'Standard 1996',
+  subtitle: 'L\'été noir',
+  shortLabel: 'Domination de Necropotence',
+  summary:
+    'L\'année qui a donné au Magic compétitif son premier véritable épouvantail. Les decks Necropotence ont dominé le Type 2 tout au long de 1996, convertissant des points de vie en cartes à un rythme qu\'aucune autre stratégie ne pouvait égaler. Le premier Pro Tour en février a vu Michael Loconto l\'emporter avec un deck UW Control, mais dès l\'été, le mono-noir Necropotence était le deck à battre incontesté. Erhnam-Geddon et White Weenie se disputaient les miettes. L\'arrivée d\'Alliances en juin et de Mirage en octobre a progressivement remodelé le pool de cartes, mais Necropotence est resté la carte définissant l\'année.',
+  headlineDeck: 'Necropotence',
+  eras: [
+    {
+      id: '1996-std-proto',
+      name: 'Le premier Pro Tour',
+      start: '1996-01',
+      end: '1996-04',
+      dominantDecks: ['UW Control', 'Necropotence'],
+      challengers: ['Erhnam-Geddon', 'White Weenie', 'Stasis'],
+      keyCards: [
+        { name: 'Necropotence', role: 'Moteur d\'avantage en cartes, échangeant des points de vie contre des cartes' },
+        { name: 'Swords to Plowshares', role: 'Removal premium dans les decks à base blanche' },
+        { name: 'Wrath of God', role: 'Sort de masse pour UW Control' },
+        { name: 'Hymn to Tourach', role: 'Défausse efficace dans les decks noirs' },
+      ],
+      summary:
+        'Le tout premier Pro Tour New York en février 1996 a été remporté par Michael Loconto avec un deck UW Control utilisant Swords to Plowshares, Wrath of God et Serra Angel comme finisseur. Le champ était diversifié par rapport aux standards ultérieurs, mais Necropotence émergeait déjà comme le moteur le plus puissant du format. Ice Age et la Quatrième Édition définissaient le pool de cartes.',
+      whyItDominated: [
+        'Le Pro Tour était tout neuf et le métagame encore en formation',
+        'UW Control disposait de réponses solides aux menaces précoces avec Swords to Plowshares et Wrath of God',
+        'Les decks Necropotence montaient en puissance mais n\'étaient pas encore pleinement optimisés',
+        'Le pool de cartes d\'Ice Age et de la Quatrième Édition récompensait à la fois le contrôle et l\'aggro-contrôle',
+      ],
+      whyItEnded:
+        'À mesure que la communauté compétitive grandissait et optimisait les listes, les builds Necropotence sont devenues de plus en plus dominantes au printemps et en été, éliminant les stratégies moins efficaces.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Pro Tour New York 1996',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_New_York_1996',
+          date: '1996-02-17',
+          note: 'Premier Pro Tour de l\'histoire. Remporté par Michael Loconto avec UW Control.',
+        },
+        {
+          title: 'The History of Necropotence',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Necropotence_(deck)',
+          note: 'Historique du deck Necropotence en Magic compétitif.',
+        },
+      ],
+    },
+    {
+      id: '1996-std-necro',
+      name: 'L\'été noir',
+      start: '1996-04',
+      end: '1996-10',
+      dominantDecks: ['Necropotence'],
+      challengers: ['Erhnam-Geddon', 'White Weenie', 'Stasis', 'UW Control'],
+      keyCards: [
+        { name: 'Necropotence', role: 'Moteur de pioche convertissant la vie en avantage massif en cartes' },
+        { name: 'Hymn to Tourach', role: 'Défausse aléatoire détruisant les mains adverses' },
+        { name: 'Hypnotic Specter', role: 'Menace évasive avec défausse sur les dégâts' },
+        { name: 'Drain Life', role: 'Removal et récupération de points de vie' },
+        { name: 'Dark Ritual', role: 'Mana rapide permettant un Necropotence ou Hypnotic Specter tour un' },
+      ],
+      summary:
+        'La période connue sous le nom de « l\'été noir » (The Black Summer) a vu les decks mono-noir Necropotence dominer le Type 2 à un degré rarement observé avant ou depuis. Dark Ritual en Necropotence au premier tour était l\'ouverture la plus redoutée du format. Le deck remplissait sa main chaque tour, submergeant les adversaires sous l\'avantage en cartes tandis que Hymn to Tourach et Hypnotic Specter détruisaient les ressources adverses. Erhnam-Geddon (midrange vert-blanc utilisant Erhnam Djinn et Armageddon) était le principal challenger mais peinait face à la puissance brute de Necropotence.',
+      whyItDominated: [
+        'Necropotence offrait un avantage en cartes inégalé au prix de points de vie',
+        'Dark Ritual permettait des ouvertures dévastatrices dès le premier tour',
+        'Hymn to Tourach et Hypnotic Specter créaient un verrou de défausse',
+        'Le deck possédait à la fois l\'inévitabilité et la vitesse, une combinaison rare',
+      ],
+      whyItEnded:
+        'L\'arrivée d\'Alliances en juin a introduit de nouveaux outils, et Mirage en octobre a fait tourner le pool de cartes. Cependant, Necropotence lui-même est resté légal et puissant bien au-delà de cette ère. Le métagame s\'est lentement adapté avec des cartes de haine plus ciblées.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'The Black Summer - MTG History',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Black_Summer',
+          note: 'Aperçu historique de l\'été 1996 dominé par Necropotence.',
+        },
+        {
+          title: '1996 World Championships',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/1996_World_Championships',
+          date: '1996-08-18',
+          note: 'Tom Chanpheng a remporté les Worlds 1996 avec White Weenie, l\'une des rares victoires hors Necro.',
+        },
+      ],
+    },
+    {
+      id: '1996-std-alliances',
+      name: 'Arrivée d\'Alliances et Mirage',
+      start: '1996-10',
+      end: '1996-12',
+      dominantDecks: ['Necropotence'],
+      challengers: ['Erhnam-Geddon', 'White Weenie', 'UW Control', 'Pump Knights'],
+      keyCards: [
+        { name: 'Necropotence', role: 'Toujours le moteur d\'avantage en cartes dominant' },
+        { name: 'Force of Will', role: 'Contresort gratuit venant d\'Alliances' },
+        { name: 'Erhnam Djinn', role: 'Attaquant efficace dans les builds vert-blanc' },
+        { name: 'Armageddon', role: 'Déni de mana après déploiement des menaces' },
+      ],
+      summary:
+        'Alliances a apporté Force of Will et d\'autres cartes puissantes au format, tandis que la sortie de Mirage en octobre a commencé à remodeler le pool de cartes. Les decks Necropotence sont restés dominants mais le champ s\'est légèrement diversifié. Force of Will a donné aux decks bleus une réponse gratuite au Necropotence tour un, bien que le mono-noir soit resté le deck à battre en entrant dans 1997.',
+      whyItDominated: [
+        'Le niveau de puissance fondamental de Necropotence restait inégalé',
+        'Les nouvelles extensions ajoutaient des outils mais aucune réponse directe au moteur d\'avantage en cartes',
+        'La suite de défausse restait dévastatrice contre les stratégies plus lentes',
+      ],
+      whyItEnded:
+        'Le format s\'est poursuivi en 1997 avec des rotations et des considérations de bannissement. Necropotence resterait une force jusqu\'à son départ définitif du pool de cartes.',
+      confidence: 'low',
+      sources: [
+        {
+          title: 'Alliances set release',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Alliances',
+          date: '1996-06-10',
+          note: 'Sortie d\'Alliances, introduisant Force of Will dans le format.',
+        },
+        {
+          title: 'Mirage set release',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Mirage',
+          date: '1996-10-07',
+          note: 'Sortie de Mirage, début du bloc Mirage.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '1996-06-10', name: 'Alliances', code: 'ALL' },
+    { date: '1996-10-07', name: 'Mirage', code: 'MIR', note: 'La rotation du Standard commence à se formaliser' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Necropotence',
+      slug: 'necropotence-standard-1996',
+      period: 'L\'été noir',
+      archetype: 'aggro',
+      summary:
+        'Un deck mono-noir bâti autour de Necropotence comme moteur de card advantage inégalé, alimenté par le paiement de points de vie et rechargé par Dark Ritual sur des menaces précoces. Hymn to Tourach et Hypnotic Specter déchirent la main adverse pendant que Drain Life conclut la partie et regagne des points de vie. Écrase les midrange et control lents, mais vulnérable à l\'agression blanche rapide et aux hate cards dédiées au graveyard ou aux enchantements.',
+      keyCards: ['Necropotence', 'Dark Ritual', 'Hymn to Tourach', 'Hypnotic Specter', 'Drain Life', 'Order of the Ebon Hand'],
+    },
+    {
+      name: 'Loconto UW Control',
+      slug: 'loconto-uw-control-standard-1996',
+      period: 'Le premier Pro Tour',
+      archetype: 'control',
+      summary:
+        'Un shell UW Control classique qui échange une carte contre une jusqu\'au late game. Swords to Plowshares et Wrath of God répondent aux créatures à bas coût, Counterspell protège les tours clés, et Serra Angel termine la partie depuis un board stable. Solide contre les decks de créatures mais pressé par la discard rapide et les moteurs de card advantage résilients comme Necropotence.',
+      keyCards: ['Swords to Plowshares', 'Wrath of God', 'Counterspell', 'Serra Angel', 'Adarkar Wastes'],
+      source: {
+        title: 'Pro Tour New York 1996 results',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_New_York_1996',
+        date: '1996-02-17',
+      },
+    },
+    {
+      name: 'Erhnam-Geddon',
+      slug: 'erhnam-geddon-standard-1996',
+      period: 'L\'été noir',
+      archetype: 'midrange',
+      summary:
+        'Un shell midrange vert-blanc qui pose une menace efficace comme Erhnam Djinn, puis bloque l\'adversaire avec Armageddon. Swords to Plowshares gère les créatures précoces et Sylvan Library lisse les pioches. Punit les manabases gourmandes et les setups lents, mais peine face aux moteurs Necropotence qui se rechargent malgré le mana denial.',
+      keyCards: ['Erhnam Djinn', 'Armageddon', 'Swords to Plowshares', 'Sylvan Library', 'Strip Mine'],
+    },
+    {
+      name: 'Stasis',
+      slug: 'stasis-standard-1996',
+      period: 'L\'été noir',
+      archetype: 'prison',
+      summary:
+        'Une stratégie de prison qui résout Stasis pour figer les permanents adverses, puis maintient le lock avec Howling Mine et Boomerang sur Stasis pour sauter les upkeeps. Kismet ralentit tout ce qui passe. Dévastateur contre les decks fair qui ne peuvent retirer l\'enchantement, mais s\'effondre face à la hate enchantement et aux clocks rapides.',
+      keyCards: ['Stasis', 'Kismet', 'Boomerang', 'Howling Mine', 'Chronatog'],
+    },
+  ],
+}

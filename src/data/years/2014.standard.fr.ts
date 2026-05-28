@@ -1,0 +1,254 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2014Fr: YearFormatEntry = {
+  year: 2014,
+  format: 'standard',
+  title: 'Standard 2014',
+  subtitle: 'La devotion rencontre les Khans',
+  shortLabel: 'Devotion & Khans',
+  summary:
+    'Le Standard 2014 s\'est divisé en deux moitiés distinctes. La première était définie par les stratégies devotion de Theros : Mono-Black Devotion dominait le terrain avec Pack Rat, Gray Merchant of Asphodel et Thoughtseize, tandis que Mono-Blue Devotion exploitait Thassa et Master of Waves. UW Control avec Sphinx\'s Revelation complétait le haut du tableau. La rotation de septembre a introduit Khans of Tarkir et un virage spectaculaire vers des stratégies basées sur les tricolores wedge, avec Abzan Midrange et son fer de lance Siege Rhino s\'imposant comme le nouveau deck à battre.',
+  headlineDeck: 'Mono-Black Devotion',
+  eras: [
+    {
+      id: '2014-std-devotion',
+      name: 'Le méta Devotion',
+      start: '2014-01',
+      end: '2014-09',
+      dominantDecks: ['Mono-Black Devotion'],
+      challengers: ['Mono-Blue Devotion', 'UW Control', 'Monsters', 'Jund Monsters', 'Burn'],
+      keyCards: [
+        { name: 'Pack Rat', role: 'Menace auto-réplicante capable de gagner seule' },
+        { name: 'Gray Merchant of Asphodel', role: 'Récompense de devotion drainant des totaux de vie massifs' },
+        { name: 'Thoughtseize', role: 'Disruption de main premium protégeant le plan de jeu' },
+        { name: 'Desecration Demon', role: 'Menace évasive sous-coûtée alimentant la devotion' },
+        { name: 'Underworld Connections', role: 'Moteur d\'avantage de cartes et source de devotion' },
+      ],
+      summary:
+        'Mono-Black Devotion était le deck définissant le Standard de début 2014. Il représentait plus de 20 % des top finishes et combinait removal efficace, disruption de main et le dévastateur drain de Gray Merchant. Mono-Blue Devotion était le principal contrepoids aggro, utilisant l\'imblocabilité de Thassa et Master of Waves pour submerger l\'adversaire. UW Control avec Sphinx\'s Revelation et Supreme Verdict tenait les deux en respect, tandis que GR Monsters offrait une alternative midrange avec Polukranos et Stormbreath Dragon.',
+      whyItDominated: [
+        'Pack Rat créait une armée à partir de n\'importe quelle main, rendant même les mauvaises pioches menaçantes',
+        'Gray Merchant of Asphodel fournissait une condition de victoire hors combat qui renversait les courses de vie',
+        'Thoughtseize arrachait la meilleure carte adverse tout en ajoutant de la devotion',
+        'Le deck disposait d\'un excellent removal avec Hero\'s Downfall et Devour Flesh',
+        'Underworld Connections apportait l\'inévitabilité contre les decks contrôle',
+      ],
+      whyItEnded:
+        'La rotation de septembre 2014 a retiré le bloc Return to Ravnica et Magic 2014 du Standard. Khans of Tarkir a introduit de puissantes stratégies wedge qui ont complètement remodelé le métagame autour de decks tricolores avec des fetch lands.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Theros coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Theros',
+          date: '2013-10-13',
+          note: 'Jérémy Dezani a remporté le Pro Tour Theros avec Mono-Blue Devotion, établissant le métagame devotion qui s\'est prolongé en 2014.',
+        },
+        {
+          title: 'MTGTop8 - Standard Devotion to Black decklists',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/archetype?a=333',
+          note: 'Mono-Black Devotion représentait plus de 20 % des top finishes début 2014.',
+        },
+        {
+          title: 'Pro Tour Journey into Nyx coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Journey_into_Nyx',
+          date: '2014-05-18',
+          note: 'PT en Block Constructed, mais les side events Standard confirmaient le métagame devotion au printemps 2014.',
+        },
+      ],
+    },
+    {
+      id: '2014-std-khans',
+      name: 'Abzan et Siege Rhino',
+      start: '2014-09',
+      end: '2014-12',
+      dominantDecks: ['Abzan Midrange'],
+      challengers: ['Jeskai Tempo', 'Mardu Midrange', 'Sultai Control', 'UB Control', 'Temur Monsters'],
+      keyCards: [
+        { name: 'Siege Rhino', role: 'Trois pour un : 4/5 trample avec drain 3 à l\'arrivée en jeu' },
+        { name: 'Mantis Rider', role: 'Menace évasive avec haste pour Jeskai' },
+        { name: 'Thoughtseize', role: 'Disruption clé survivant à la rotation' },
+        { name: 'Wingmate Roc', role: 'Menace volante avec raid générant des jetons' },
+        { name: 'Dig Through Time', role: 'Sélection de cartes alimentée par delve pour le contrôle et le tempo' },
+      ],
+      summary:
+        'Khans of Tarkir a révolutionné le Standard avec son mana wedge et ses puissantes cartes multicolores. Ari Lax a remporté le Pro Tour Khans of Tarkir avec Abzan Midrange, mettant en lumière Siege Rhino comme la meilleure carte du format. Jeskai Tempo exploitait Mantis Rider et les sorts de burn, tandis que Mardu et Sultai offraient des stratégies wedge alternatives. La base de mana avec fetch lands permettait des decks tricolores ambitieux. Shahar Shenhar a gagné le Championnat du Monde 2014 avec Sidisi Whip, démontrant la diversité du format.',
+      whyItDominated: [
+        'Siege Rhino était la créature la plus efficace du format, combinant taille, évasion et effet de drain',
+        'La suite de removal d\'Abzan incluait Abzan Charm, Hero\'s Downfall et Thoughtseize',
+        'Les fetch lands plus les tri-lands créaient des bases de mana tricolores fiables',
+        'Courser of Kruphix et Sylvan Caryatid fournissaient ramp et avantage de cartes',
+        'Le deck s\'adaptait avec flexibilité entre configurations midrange et contrôle',
+      ],
+      whyItEnded:
+        'Abzan est resté dominant en début 2015 mais le métagame a continué d\'évoluer avec Fate Reforged. De nouveaux outils ont permis aux challengers de rivaliser plus efficacement contre le shell Siege Rhino.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Khans of Tarkir coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Khans_of_Tarkir',
+          date: '2014-10-12',
+          note: 'Ari Lax a gagné avec Abzan Midrange. Le Top 8 comptait 3 Jeskai, 2 Abzan, 1 UB Control, 1 Jeskai Ascendancy Combo.',
+        },
+        {
+          title: '2014 World Championship coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/2014_World_Championship',
+          date: '2014-12-07',
+          note: 'Shahar Shenhar a remporté son deuxième Championnat du Monde. La portion Standard illustrait la diversité post-Khans.',
+        },
+        {
+          title: 'Standard Breakdown of Pro Tour: Khans of Tarkir',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/standard-breakdown-of-pro-tour-khans-of-tarkir',
+          note: 'Analyse détaillée du métagame montrant Abzan et Jeskai comme les meilleures performances.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '2014-02-07', name: 'Born of the Gods', code: 'BNG' },
+    { date: '2014-05-02', name: 'Journey into Nyx', code: 'JOU' },
+    { date: '2014-07-18', name: 'Magic 2015', code: 'M15' },
+    { date: '2014-09-26', name: 'Khans of Tarkir', code: 'KTK', note: 'Rotation du Standard : le bloc Return to Ravnica et Magic 2014 sortent du format' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Mono-Black Devotion',
+      slug: 'mono-black-devotion-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange mono-noir bâti sur Pack Rat faisant boule de neige, Gray Merchant of Asphodel pour un drain final, et Desecration Demon comme clock volant. Thoughtseize, Hero\'s Downfall et Underworld Connections fournissent disruption et card advantage. Grindy et résistant mais pressé par le removal d\'exil et l\'aggro.',
+      keyCards: ['Pack Rat', 'Gray Merchant of Asphodel', 'Thoughtseize', 'Desecration Demon', 'Underworld Connections', "Hero's Downfall"],
+      source: {
+        title: 'MTGTop8 - Standard Devotion to Black decklists',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/archetype?a=333',
+      },
+    },
+    {
+      name: 'Mono-Blue Devotion',
+      slug: 'mono-blue-devotion-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'aggro',
+      summary:
+        'Un deck tempo-aggro mono-bleu qui construit la devotion via Cloudfin Raptor, Frostburn Weird et Nightveil Specter pour animer Thassa, God of the Sea et exploser avec Master of Waves. Tidebinder Mage tap les créatures clés. Rapide et résistant mais vulnérable aux sweepers rouges.',
+      keyCards: ['Thassa, God of the Sea', 'Master of Waves', 'Tidebinder Mage', 'Nightveil Specter', 'Cloudfin Raptor'],
+      source: {
+        title: 'Pro Tour Theros coverage',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Theros',
+      },
+    },
+    {
+      name: 'UW Control',
+      slug: 'uw-control-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-blanc ancré par Sphinx\'s Revelation pour le card advantage et le lifegain de late game. Supreme Verdict balaie de manière incontrable, Detention Sphere exile les permanents, Jace et Elspeth contrôlent le board de planeswalkers. Inévitable mais lent face à l\'aggro rapide et au combo.',
+      keyCards: ["Sphinx's Revelation", 'Supreme Verdict', 'Detention Sphere', 'Jace, Architect of Thought', 'Elspeth, Sun\'s Champion'],
+      source: {
+        title: 'MTGTop8 - Standard UW Control decklists',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Abzan Midrange',
+      slug: 'abzan-midrange-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange noir-vert-blanc centré sur Siege Rhino comme drain-plus-corps à quatre manas et Courser of Kruphix comme blocker Lightning-Bolt-proof avec lifegain et card advantage incidents. Thoughtseize disrupt, Abzan Charm fournit des answers flexibles, Wingmate Roc conclut. Domine le midrange fair.',
+      keyCards: ['Siege Rhino', 'Courser of Kruphix', 'Sylvan Caryatid', 'Thoughtseize', 'Abzan Charm', 'Wingmate Roc'],
+      source: {
+        title: 'Pro Tour Khans of Tarkir coverage',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Khans_of_Tarkir',
+      },
+    },
+    {
+      name: 'Jeskai Tempo',
+      slug: 'jeskai-tempo-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo bleu-rouge-blanc bâti sur Mantis Rider comme menace volante hastée à trois manas, soutenue par Stoke the Flames et Jeskai Charm pour de l\'interaction bon marché. Goblin Rabblemaster inonde le board, Dig Through Time recharge la main. Rapide et punissant mais pressé par les sweepers.',
+      keyCards: ['Mantis Rider', 'Jeskai Charm', 'Stoke the Flames', 'Goblin Rabblemaster', 'Dig Through Time'],
+      source: {
+        title: 'Pro Tour Khans of Tarkir Top 8',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Khans_of_Tarkir',
+      },
+    },
+  
+    {
+      name: 'Monsters',
+      slug: 'monsters-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange à grosses créatures rouge-vert jouant Stormbreath Dragon, Polukranos et Domri Rade pour le ramp, le fight et le card advantage. Xenagos, the Reveler rampe et fait des tokens. Punit les setups lents mais pressé par le control avec sweepers.',
+      keyCards: ['Stormbreath Dragon', 'Polukranos, World Eater', 'Domri Rade', 'Xenagos, the Reveler', 'Sylvan Caryatid'],
+    },
+    {
+      name: 'Jund Monsters',
+      slug: 'jund-monsters-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange à grosses créatures noir-rouge-vert mêlant les menaces de Monsters — Stormbreath Dragon, Polukranos, Courser of Kruphix — avec le removal noir d\'Hero\'s Downfall. Domri Rade fight et recharge. Solide contre les decks fair mais pressé par les sweepers efficaces.',
+      keyCards: ['Stormbreath Dragon', 'Polukranos, World Eater', 'Domri Rade', 'Courser of Kruphix', 'Hero\'s Downfall'],
+    },
+    {
+      name: 'Burn',
+      slug: 'burn-standard-2014',
+      period: 'Le méta Devotion',
+      archetype: 'aggro',
+      summary:
+        'Un shell burn-aggro mono-rouge qui combine des créatures efficaces comme Eidolon of the Great Revel et Stormbreath Dragon avec du burn bon marché — Lightning Strike, Magma Jet, Searing Blood. Vise à infliger vingt dégâts au tour quatre via reach. Punit les manabases gourmandes mais s\'effondre face au lifegain.',
+      keyCards: ['Eidolon of the Great Revel', 'Lightning Strike', 'Magma Jet', 'Searing Blood', 'Stormbreath Dragon'],
+    },
+    {
+      name: 'Mardu Midrange',
+      slug: 'mardu-midrange-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange noir-rouge-blanc qui produit des tokens via Sorin, Solemn Visitor et Goblin Rabblemaster, puis les sacrifie à Butcher of the Horde pour haste-lifelink-vigilance. Crackling Doom sert à la fois de removal et de burn, Hero\'s Downfall gère n\'importe quoi. Polyvalent mais pressé par les sweepers.',
+      keyCards: ['Butcher of the Horde', 'Crackling Doom', 'Hero\'s Downfall', 'Sorin, Solemn Visitor', 'Goblin Rabblemaster'],
+    },
+    {
+      name: 'Sultai Control',
+      slug: 'sultai-control-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'control',
+      summary:
+        'Un deck delve-control bleu-noir-vert qui remplit le graveyard pour Murderous Cut et Dig Through Time bon marché, avec Tasigur et Sidisi, Brood Tyrant comme menaces aimant le graveyard. Hero\'s Downfall retire n\'importe quoi. Solide contre les decks fair mais pressé par la hate graveyard.',
+      keyCards: ['Sidisi, Brood Tyrant', 'Hero\'s Downfall', 'Murderous Cut', 'Dig Through Time', 'Tasigur, the Golden Fang'],
+    },
+    {
+      name: 'UB Control',
+      slug: 'ub-control-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-noir bâti sur Dig Through Time et Dissolve pour la sélection et le contresort, avec Hero\'s Downfall pour le removal. Pearl Lake Ancient est un finisher incontrable protégé par rebond, Perilous Vault exile tout. Inévitable mais lent face au combo rapide.',
+      keyCards: ['Dissolve', 'Dig Through Time', 'Hero\'s Downfall', 'Pearl Lake Ancient', 'Perilous Vault'],
+    },
+    {
+      name: 'Temur Monsters',
+      slug: 'temur-monsters-standard-2014',
+      period: 'Abzan et Siege Rhino',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange à grosses créatures bleu-rouge-vert qui pose Savage Knuckleblade, Stormbreath Dragon et Polukranos comme menaces efficaces. Sarkhan, the Dragonspeaker devient un Dragon hasté. Punit le control lent mais pressé par les sweepers et le lifegain.',
+      keyCards: ['Savage Knuckleblade', 'Stormbreath Dragon', 'Polukranos, World Eater', 'Sarkhan, the Dragonspeaker', 'Crater\'s Claws'],
+    },
+  ],
+}

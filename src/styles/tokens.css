@@ -1,0 +1,41 @@
+:root {
+  --paper: #f3ede4;
+  --paper-dark: #e8e0d4;
+  --ink: #1e1a15;
+  --ink-light: #3d3630;
+  --muted: #76695b;
+  --faint: #a59888;
+  --line: #c5b8a6;
+  --line-light: #ddd4c6;
+
+  --standard: #7a3826;
+  --modern: #2d5a78;
+  --legacy: #4a5e3f;
+  --vintage: #5b4576;
+  --extended: #6b5a3d;
+  --pioneer: #8c5c2a;
+  --old-school: #5c4a35;
+  --premodern: #4a6670;
+
+  --confidence-high: #4a5e3f;
+  --confidence-medium: #8c7a3d;
+  --confidence-low: #8c5040;
+
+  --font-body: 'Georgia', 'Times New Roman', serif;
+  --font-heading: 'Arial Narrow', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  --font-mono: 'Consolas', 'Monaco', 'Courier New', monospace;
+  --font-label: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+
+  --radius-sm: 2px;
+  --radius-md: 3px;
+
+  --measure: 68ch;
+  --sidebar: 240px;
+}

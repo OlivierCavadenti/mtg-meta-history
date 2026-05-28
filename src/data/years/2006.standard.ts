@@ -1,0 +1,228 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2006: YearFormatEntry = {
+  year: 2006,
+  format: 'standard',
+  title: 'Standard 2006',
+  subtitle: 'From Ravnica guilds to the Time Spiral shift',
+  shortLabel: 'Ravnica-Kamigawa peak',
+  summary:
+    'Standard 2006 began with the full Ravnica-Kamigawa format, one of the most celebrated metagames in the game\'s history. Ghazi-Glare, Heartbeat Combo, and Greater Gifts battled for supremacy while Boros Deck Wins and Zoo punished anyone too slow. Pro Tour Honolulu in March saw Mark Herberholz claim victory with Gruul aggro. By summer Coldsnap arrived as a standalone addition, and in October Time Spiral rotated Kamigawa block out, ushering in a new era dominated by Dragonstorm at Worlds in Paris.',
+  headlineDeck: 'Heartbeat Combo',
+  eras: [
+    {
+      id: '2006-std-guilds',
+      name: 'The Golden Age of Guilds',
+      start: '2006-01',
+      end: '2006-05',
+      dominantDecks: ['Ghazi-Glare', 'Heartbeat Combo'],
+      challengers: ['Greater Gifts', 'Boros Deck Wins', 'Zoo', 'Hand in Hand', 'Magnivore'],
+      keyCards: [
+        { name: 'Heartbeat of Spring', role: 'Mana doubling engine for combo kills' },
+        { name: 'Early Harvest', role: 'Untap lands for massive mana generation' },
+        { name: 'Maga, Traitor to Mortals', role: 'X-spell finisher draining opponent\'s life' },
+        { name: 'Glare of Subdual', role: 'Repeatable tap effect locking boards' },
+        { name: 'Gifts Ungiven', role: 'Tutor enabling reanimator combos' },
+      ],
+      summary:
+        'The Ravnica-Kamigawa Standard was widely praised for its diversity. Ghazi-Glare continued from late 2005 as a board-control powerhouse, while Heartbeat Combo emerged as the premier combo deck, using Heartbeat of Spring and Early Harvest to generate enormous mana for lethal X-spells. Greater Gifts leveraged Gifts Ungiven to set up reanimation packages. Aggro was well represented by Boros Deck Wins, Zoo, and Hand in Hand (BW Aggro). Pro Tour Honolulu in March showcased this diversity with Mark Herberholz winning on Gruul aggro ("Heezy Street").',
+      whyItDominated: [
+        'Heartbeat of Spring plus Early Harvest created a two-card engine capable of generating 20+ mana',
+        'Drift of Phantasms could transmute for key combo pieces, adding consistency',
+        'Ghazi-Glare locked down creature strategies while building tokens',
+        'The format had no single dominant deck, rewarding skilled metagame reading',
+      ],
+      whyItEnded:
+        'Dissension in May added new guild tools that shifted the balance, and by summer Coldsnap supplemented the card pool further. The metagame continued evolving but the core pillars persisted until Time Spiral rotation in October.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Honolulu 2006 coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://www.mtgtop8.com/event?e=9219&f=ST',
+          date: '2006-03-05',
+          note: 'Mark Herberholz won PT Honolulu with Gruul aggro, defeating Craig Jones in the finals.',
+        },
+        {
+          title: 'Standard Heartbeat deck',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Standard_Heartbeat_deck',
+          note: 'Overview of the Heartbeat Combo archetype using Heartbeat of Spring and Early Harvest.',
+        },
+        {
+          title: 'MTGTop8 - Standard 2006 metagame',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Tournament results showing the diverse Ravnica-Kamigawa metagame.',
+        },
+      ],
+    },
+    {
+      id: '2006-std-summer',
+      name: 'Heartbeat and Magnivore Summer',
+      start: '2006-05',
+      end: '2006-10',
+      dominantDecks: ['Heartbeat Combo', 'Structure & Force'],
+      challengers: ['Greater Gifts', 'Magnivore', 'Boros Deck Wins', 'Hand in Hand', 'Zoo'],
+      keyCards: [
+        { name: 'Magnivore', role: 'Growing threat fueled by sorceries in the graveyard' },
+        { name: 'Stone Rain', role: 'Land destruction keeping opponents off balance' },
+        { name: 'Remand', role: 'Tempo counter buying time' },
+        { name: 'Dark Confidant', role: 'Card advantage engine in aggro-control shells' },
+        { name: 'Isamaru, Hound of Konda', role: 'Efficient one-drop in aggressive decks' },
+      ],
+      summary:
+        'Dissension completed the Ravnica block, adding the final three guilds. Magnivore (UR land destruction tempo) emerged as a key player, using Stone Rain, Eye of Nowhere, and Boomerang to deny mana while building toward a lethal Magnivore. Structure & Force (GW aggro-midrange) leveraged efficient Selesnya creatures. Hand in Hand continued as the premier BW aggro deck featuring Dark Confidant and Isamaru. Coldsnap released in July but had modest Standard impact. Pro Tour Charleston in June was team Block Constructed, won by the Japanese team Kajiharu80 (Kaji, Yasooka, Saitou).',
+      whyItDominated: [
+        'Magnivore punished the greedy manabases that Ravnica encouraged',
+        'The format remained healthy with multiple viable strategies',
+        'Structure & Force leveraged the deep Selesnya card pool across the full Ravnica block',
+        'Coldsnap added marginal cards but did not reshape the metagame significantly',
+      ],
+      whyItEnded:
+        'Time Spiral released in October 2006, rotating out the entire Kamigawa block and Ninth Edition. This was a massive format shift that introduced new mechanics like suspend, split second, and flashback reprints.',
+      confidence: 'high',
+      sources: [
+        {
+          title: '2006 Pro Tour Season',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/2006_Pro_Tour_Season',
+          note: 'Overview of the 2006 competitive season including PT Charleston results.',
+        },
+        {
+          title: 'MTGTop8 - Standard mid-2006',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Tournament results from the Dissension-era Standard format.',
+        },
+      ],
+    },
+    {
+      id: '2006-std-timespiral',
+      name: 'Dragonstorm Takes Over',
+      start: '2006-10',
+      end: '2006-12',
+      dominantDecks: ['Dragonstorm'],
+      challengers: ['Boros Deck Wins', 'UW Tron', 'Gruul Aggro', 'Solar Flare'],
+      keyCards: [
+        { name: 'Dragonstorm', role: 'Storm finisher fetching four Bogardan Hellkites' },
+        { name: 'Bogardan Hellkite', role: 'Five damage on entry, lethal in multiples' },
+        { name: 'Rite of Flame', role: 'Ritual mana powering storm count' },
+        { name: 'Seething Song', role: 'Ritual mana enabling turn-four kills' },
+        { name: 'Lotus Bloom', role: 'Suspended ritual providing three free mana' },
+      ],
+      summary:
+        'Time Spiral\'s arrival transformed Standard overnight. Dragonstorm emerged as the dominant combo deck, using ritual effects (Rite of Flame, Seething Song, Lotus Bloom) to build storm count and cast Dragonstorm for four copies of Bogardan Hellkite, dealing 20 damage on the spot. Makihito Mihara piloted Dragonstorm to victory at the 2006 World Championships in Paris, defeating Ryo Ogura 3-0 in an all-Japanese final. The Top 8 also featured Gabriel Nassif, Paulo Vitor Damo da Rosa, and Tiago Chan.',
+      whyItDominated: [
+        'Dragonstorm could reliably kill on turn four with the right ritual sequence',
+        'Lotus Bloom from suspend provided free mana on turn four',
+        'Four Bogardan Hellkites dealt exactly 20 damage, a clean kill',
+        'The deck forced opponents to either race faster or hold specific disruption',
+      ],
+      whyItEnded:
+        'The metagame adapted in early 2007 with dedicated hate cards and control strategies like UB Teachings rising to keep Dragonstorm in check.',
+      confidence: 'high',
+      sources: [
+        {
+          title: '2006 World Championships',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/2006_World_Championships',
+          date: '2006-12-03',
+          note: 'Makihito Mihara won Worlds 2006 with Dragonstorm, defeating Ryo Ogura 3-0 in the final.',
+        },
+        {
+          title: 'Worlds 2006 (Paris) Standard Top 8',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/event?e=9255&f=ST',
+          date: '2006-12-03',
+          note: 'Complete top 8 decklists from the 2006 World Championships Standard portion.',
+        },
+        {
+          title: 'Standard Dragonstorm deck',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Standard_Dragonstorm_deck',
+          note: 'Detailed overview of the Dragonstorm archetype in Standard.',
+        },
+      ],
+    },
+  ],
+  bans: [],
+  setReleases: [
+    { date: '2006-02-03', name: 'Guildpact', code: 'GPT' },
+    { date: '2006-05-05', name: 'Dissension', code: 'DIS' },
+    { date: '2006-07-21', name: 'Coldsnap', code: 'CSP', note: 'Standalone Ice Age expansion, added to Standard card pool' },
+    { date: '2006-10-06', name: 'Time Spiral', code: 'TSP', note: 'Standard rotation: Kamigawa block and Ninth Edition rotate out' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Heartbeat Combo',
+      slug: 'heartbeat-combo-standard-2006',
+      period: 'The Golden Age of Guilds',
+      archetype: 'combo',
+      summary:
+        'A green-blue combo deck that doubles mana with Heartbeat of Spring, then untaps lands repeatedly via Early Harvest to generate massive mana for a one-shot Maga, Traitor to Mortals kill. Drift of Phantasms tutors the combo pieces. Goldfishes quickly but vulnerable to counterspells and disruption.',
+      keyCards: ['Heartbeat of Spring', 'Early Harvest', 'Maga, Traitor to Mortals', 'Drift of Phantasms', 'Kodama\'s Reach'],
+      source: {
+        title: 'Standard Heartbeat deck',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Standard_Heartbeat_deck',
+      },
+    },
+    {
+      name: 'Greater Gifts',
+      slug: 'greater-gifts-standard-2006',
+      period: 'The Golden Age of Guilds',
+      archetype: 'control',
+      summary:
+        'A blue-black-white control deck that uses Gifts Ungiven to assemble combinations like Yosei, the Morning Star plus Greater Good plus Goryo\'s Vengeance for a recurring lock-down. Flexible toolbox built around a single instant. Strong against fair decks but slow against fast aggro.',
+      keyCards: ['Gifts Ungiven', 'Yosei, the Morning Star', 'Greater Good', 'Goryo\'s Vengeance', 'Kodama\'s Reach'],
+      source: {
+        title: 'MTGTop8 Greater Gifts decklists 2006',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Heezy Street (Gruul Aggro)',
+      slug: 'heezy-street-gruul-standard-2006',
+      period: 'The Golden Age of Guilds',
+      archetype: 'aggro',
+      summary:
+        'A red-green aggro deck built on efficient one- and two-drops like Kird Ape and Scab-Clan Mauler, finishing with Giant Solifuge and Char. Burning-Tree Shaman punishes spell-heavy decks. Punishes slow openings, but vulnerable to early sweepers and lifegain.',
+      keyCards: ['Kird Ape', 'Scab-Clan Mauler', 'Burning-Tree Shaman', 'Giant Solifuge', 'Char'],
+      source: {
+        title: 'Standard RG Beats Heezy Street deck',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Standard_RG_Beats_Heezy_Street_deck',
+      },
+    },
+    {
+      name: 'Magnivore',
+      slug: 'magnivore-standard-2006',
+      period: 'Heartbeat and Magnivore Summer',
+      archetype: 'tempo',
+      summary:
+        'A blue-red tempo-control deck that destroys lands with Stone Rain and Boomerang, then drops Magnivore as a massive evasive threat sized by the sorceries in graveyards. Remand and Eye of Nowhere maintain tempo. Locks out greedy mana bases but vulnerable to early aggression.',
+      keyCards: ['Magnivore', 'Stone Rain', 'Boomerang', 'Eye of Nowhere', 'Remand'],
+      source: {
+        title: 'MTGTop8 Magnivore decklists 2006',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Dragonstorm',
+      slug: 'dragonstorm-standard-2006',
+      period: 'Dragonstorm Takes Over',
+      archetype: 'combo',
+      summary:
+        'A red combo deck that ramps mana through Rite of Flame, Seething Song, and Lotus Bloom to cast Dragonstorm for multiple Bogardan Hellkites in one turn. Goldfishes on turn four reliably. Vulnerable to counterspells and graveyard hate that disrupts the ritual chain.',
+      keyCards: ['Dragonstorm', 'Bogardan Hellkite', 'Rite of Flame', 'Seething Song', 'Lotus Bloom'],
+      source: {
+        title: 'Worlds 2006 Dragonstorm decklists',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/event?e=9255&f=ST',
+      },
+    },
+  ],
+}

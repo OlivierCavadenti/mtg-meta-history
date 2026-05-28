@@ -1,0 +1,230 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2008Fr: YearFormatEntry = {
+  year: 2008,
+  format: 'standard',
+  title: 'Standard 2008',
+  subtitle: 'Le règne des Faeries',
+  shortLabel: 'Domination de Faeries',
+  summary:
+    'Bitterblossom est arrivé en février avec Morningtide et a immédiatement propulsé UB Faeries au sommet du Standard. Le deck combinait des menaces flash, du contresort et un moteur de jetons implacable pour dominer le format la majeure partie de l\'année. Charles Gindy a percé au Pro Tour Hollywood avec BG Elves, mais Faeries s\'est réaffirmé durant l\'été et l\'automne. La rotation d\'octobre a amené Shards of Alara et retiré le bloc Time Spiral, mais Faeries s\'est adapté et Antti Malin a chevauche l\'archétype jusqu\'au titre de Champion du Monde 2008.',
+  headlineDeck: 'UB Faeries',
+  eras: [
+    {
+      id: '2008-std-early',
+      name: 'Mannequin et Dragonstorm',
+      start: '2008-01',
+      end: '2008-02',
+      dominantDecks: ['Mannequin (UB Makeshift)', 'Dragonstorm Combo'],
+      challengers: ['Mono-Red Aggro', 'Big Mana (UG)', 'Elves', 'Doran Rock'],
+      keyCards: [
+        { name: 'Makeshift Mannequin', role: 'Réanimation instantanée pour créatures de valeur' },
+        { name: 'Mulldrifter', role: 'Créature d\'avantage de cartes activant les boucles Mannequin' },
+        { name: 'Shriekmaw', role: 'Anti-créature evoke que Mannequin pouvait récupérer' },
+        { name: 'Dragonstorm', role: 'Finisseur combo basé sur storm' },
+      ],
+      summary:
+        'Avant Morningtide, le Standard était un format diversifié bâti sur Time Spiral et Lorwyn. UB Mannequin utilisait Makeshift Mannequin pour déployer répétitivement Mulldrifter et Shriekmaw. Le combo Dragonstorm planait comme menace de haut niveau. Doran Rock et mono-rouge aggro complétaient le champ. Le format était sain mais sur le point d\'être bouleversé.',
+      whyItDominated: [
+        'Les decks Mannequin généraient un avantage de cartes énorme grâce aux créatures evoke',
+        'Dragonstorm pouvait terminer les parties au quatrième tour avec assez de rituels',
+        'Le format n\'avait pas de meilleur deck clair, permettant à plusieurs stratégies de coexister',
+        'Le bloc Time Spiral fournissait un pool de cartes profond pour combo et control',
+      ],
+      whyItEnded:
+        'La sortie de Morningtide le 1er février 2008 a introduit Bitterblossom et d\'autres cartes tribales puissantes qui ont complètement remodelé le métagame autour de l\'archétype Faeries.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'MTGTop8 - Standard 2008 metagame',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Résultats de tournois montrant le métagame Standard pré-Morningtide.',
+        },
+      ],
+    },
+    {
+      id: '2008-std-faeries-rise',
+      name: 'L\'ascension de Faeries',
+      start: '2008-02',
+      end: '2008-05',
+      dominantDecks: ['UB Faeries'],
+      challengers: ['Reveillark Combo', 'Doran Rock', 'Red Deck Wins', 'Merfolk'],
+      keyCards: [
+        { name: 'Bitterblossom', role: 'Moteur de jetons persistant et activateur tribal' },
+        { name: 'Mistbind Clique', role: 'Menace flash qui infligeait un Time Walk à l\'adversaire' },
+        { name: 'Spellstutter Sprite', role: 'Contresort flash sur un corps' },
+        { name: 'Cryptic Command', role: 'Contresort polyvalent à quatre modes et coup de tempo' },
+        { name: 'Ancestral Vision', role: 'Sort de pioche en suspend alimentant le late game' },
+      ],
+      summary:
+        'Bitterblossom a transformé Faeries d\'un deck tribal marginal en la meilleure stratégie du format du jour au lendemain. L\'enchantement générait un flux constant de jetons volants qui alimentaient les contresorts de Spellstutter Sprite et activaient les déclencheurs de champion sur Mistbind Clique. Soutenu par Cryptic Command et Ancestral Vision, le deck contrôlait la partie tout en appliquant une pression évasive. Le combo Reveillark a émergé comme l\'une des rares stratégies capables de rivaliser face à face.',
+      whyItDominated: [
+        'Bitterblossom fournissait une menace intuable qui esquivait l\'anti-créature',
+        'Les créatures flash permettaient de garder du contresort et de déployer des menaces en fin de tour',
+        'Mistbind Clique en champion sur un jeton infligeait un Time Walk à l\'adversaire',
+        'Ancestral Vision offrait un avantage de cartes qui complémentait parfaitement le plan tempo',
+        'Thoughtseize arrachait la meilleure réponse de l\'adversaire de manière proactive',
+      ],
+      whyItEnded:
+        'Le métagame s\'est quelque peu adapté autour du Pro Tour Hollywood, où Charles Gindy a gagné avec BG Elves et plusieurs stratégies anti-Faeries ont trouvé le succès. Cependant, Faeries est resté le meilleur deck du format.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Hollywood 2008 coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://www.mtgtop8.com/event?e=324&f=ST',
+          date: '2008-05-25',
+          note: 'Le Top 8 comptait trois decks Faeries aux côtés du BG Elves victorieux de Gindy.',
+        },
+        {
+          title: 'A Compleat History of the MTG Metagame, Chapter 25',
+          publisher: 'Azhdarchid',
+          url: 'https://azhdarchid.com/mtg-metagame-chapter-25/',
+          note: 'Analyse de la domination de Faeries dans le Standard ère Lorwyn.',
+        },
+      ],
+    },
+    {
+      id: '2008-std-summer',
+      name: 'Faeries à travers Shadowmoor',
+      start: '2008-05',
+      end: '2008-10',
+      dominantDecks: ['UB Faeries'],
+      challengers: ['Reveillark Combo', 'Kithkin Aggro', 'Quick\'n Toast (5-Color Control)', 'Red Deck Wins', 'Merfolk'],
+      keyCards: [
+        { name: 'Bitterblossom', role: 'Moteur de jetons persistant' },
+        { name: 'Reveillark', role: 'Pièce combo récurrente de créatures depuis le cimetière' },
+        { name: 'Figure of Destiny', role: 'Créature à un mana évolutive pour Kithkin et decks rouges' },
+        { name: 'Reflecting Pool', role: 'Fixateur de mana permettant les decks cinq couleurs' },
+        { name: 'Kitchen Finks', role: 'Créature résiliente avec gain de vie pour les shells midrange' },
+      ],
+      summary:
+        'Shadowmoor et Eventide ont ajouté des cartes en mana hybride et des outils puissants comme Kitchen Finks, Figure of Destiny et Reflecting Pool. Le control cinq couleurs (Quick\'n Toast) est devenu viable grâce au mana fixing des terrains Vivid et de Reflecting Pool. L\'aggro Kithkin a gagné Figure of Destiny. Malgré ces ajouts, Faeries restait le deck à battre. Le format était déformé : on jouait Faeries ou on construisait son deck spécifiquement pour le combattre.',
+      whyItDominated: [
+        'Faeries absorbait les meilleures cartes bleu-noir de Shadowmoor sans effort',
+        'Le gameplan basé sur flash était intrinsèquement difficile à interagir',
+        'Spellstutter Sprite plus les jetons Bitterblossom créaient un soft lock contre les sorts peu coûteux',
+        'Aucune stratégie anti-Faeries ne pouvait aussi battre le reste du champ de manière constante',
+      ],
+      whyItEnded:
+        'La rotation d\'octobre a retiré le bloc Time Spiral (y compris Ancestral Vision) et a amené Shards of Alara. Faeries a perdu des cartes clés mais a persisté dans le nouveau format.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'MTGTop8 - Standard mi-2008 results',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Faeries s\'est placé régulièrement au sommet des événements Standard durant l\'été 2008.',
+        },
+      ],
+    },
+    {
+      id: '2008-std-alara',
+      name: 'Faeries contre Cruel Ultimatum',
+      start: '2008-10',
+      end: '2008-12',
+      dominantDecks: ['UB Faeries'],
+      challengers: ['Five-Color Control (Cruel Ultimatum)', 'Kithkin', 'Red Deck Wins', 'BW Tokens'],
+      keyCards: [
+        { name: 'Bitterblossom', role: 'Toujours le moteur le plus puissant du format' },
+        { name: 'Cruel Ultimatum', role: 'Bombe à sept manas terminant les parties pour le control cinq couleurs' },
+        { name: 'Ajani Vengeant', role: 'Planeswalker contrôlant le board pour les decks midrange' },
+        { name: 'Woolly Thoctar', role: 'Attaquant Naya efficient' },
+      ],
+      summary:
+        'Shards of Alara a apporté un set centré sur le multicolore encourageant les archétypes tricolores. Le Five-Color Control construit autour de Cruel Ultimatum a émergé comme le principal rival de Faeries. Malgré la perte d\'Ancestral Vision et Pendelhaven à la rotation, Faeries s\'est adapté et est resté dominant. Antti Malin a remporté le Championnat du Monde 2008 à Memphis avec l\'archétype, cimentant Faeries comme le deck de l\'année.',
+      whyItDominated: [
+        'Faeries possédait toujours Bitterblossom, Mistbind Clique, Cryptic Command et Spellstutter Sprite',
+        'L\'archétype s\'est adapté à la perte d\'Ancestral Vision en s\'appuyant davantage sur Jace Beleren',
+        'Five-Color Control était le principal challenger mais Faeries avait un tempo favorable contre lui',
+        'Thoughtseize arrachait Cruel Ultimatum avant qu\'il ne puisse se résoudre',
+      ],
+      whyItEnded:
+        'Faeries allait continuer en 2009, mais l\'arrivée de Conflux puis d\'Alara Reborn a fourni des outils qui ont finalement orienté le méta vers Jund et d\'autres stratégies basées sur Alara.',
+      confidence: 'high',
+      sources: [
+        {
+          title: '2008 World Championships coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/2008_World_Championships',
+          date: '2008-12-14',
+          note: 'Antti Malin a remporté le Championnat du Monde avec UB Faeries à Memphis.',
+        },
+        {
+          title: 'MTGTop8 - Worlds 2008 Standard results',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/event?e=396&f=ST',
+          note: 'Portion Standard du Championnat du Monde 2008.',
+        },
+      ],
+    },
+  ],
+  bans: [],
+  setReleases: [
+    { date: '2008-02-01', name: 'Morningtide', code: 'MOR', note: 'Introduction de Bitterblossom, Heritage Druid et Mutavault' },
+    { date: '2008-05-02', name: 'Shadowmoor', code: 'SHM', note: 'Cartes en mana hybride, Kitchen Finks, Reflecting Pool' },
+    { date: '2008-07-25', name: 'Eventide', code: 'EVE', note: 'Cartes hybrides en couleurs ennemies, Figure of Destiny' },
+    { date: '2008-10-03', name: 'Shards of Alara', code: 'ALA', note: 'Rotation du Standard : le bloc Time Spiral et Coldsnap sortent du format' },
+  ],
+  representativeDecks: [
+    {
+      name: 'UB Faeries',
+      slug: 'ub-faeries-standard-2008',
+      period: 'L\'ascension de Faeries',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo bleu-noir qui construit une armée volante avec Bitterblossom pendant que Spellstutter Sprite et Cryptic Command verrouillent l\'adversaire. Mistbind Clique vole un tour et pump l\'équipe. Thoughtseize gère le combo. Punit les pioches lentes mais vulnérable à la perte de vie de Bitterblossom et à Volcanic Fallout.',
+      keyCards: ['Bitterblossom', 'Mistbind Clique', 'Spellstutter Sprite', 'Cryptic Command', 'Thoughtseize', 'Mutavault'],
+      source: {
+        title: '2008 World Championship - Antti Malin (1st)',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/event?e=396&f=ST',
+        date: '2008-12-14',
+      },
+    },
+    {
+      name: 'BG Elves',
+      slug: 'bg-elves-standard-2008',
+      period: 'L\'ascension de Faeries',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro tribal Elfe noir-vert qui explose via Heritage Druid et Nettle Sentinel pour du mana gratuit, puis vide la main avec des créatures bon marché et des lords Imperious Perfect. Wren\'s Run Vanquisher arrive au tour deux comme un géant. Rapide et résistant face aux decks fair, vulnérable aux sweepers.',
+      keyCards: ['Heritage Druid', 'Nettle Sentinel', 'Llanowar Elves', 'Wren\'s Run Vanquisher', 'Imperious Perfect', 'Profane Command'],
+      source: {
+        title: 'Pro Tour Hollywood 2008 - Charles Gindy (1st)',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/event?e=324&d=119972&f=ST',
+        date: '2008-05-25',
+      },
+    },
+    {
+      name: 'Reveillark Combo',
+      slug: 'reveillark-combo-standard-2008',
+      period: 'Faeries à travers Shadowmoor',
+      archetype: 'combo',
+      summary:
+        'Un hybride combo-control qui loop Reveillark avec Body Double et Mirror Entity pour ramener des petites créatures depuis le graveyard à l\'infini. Mulldrifter fournit la pioche, Greater Gargadon sert d\'outlet de sacrifice. Puissant mais fragile face à la hate graveyard.',
+      keyCards: ['Reveillark', 'Mirror Entity', 'Body Double', 'Mulldrifter', 'Greater Gargadon'],
+      source: {
+        title: 'Standard Reveillark Combo deck',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Standard_Reveillark_Combo_deck',
+      },
+    },
+    {
+      name: 'Five-Color Control',
+      slug: 'five-color-control-standard-2008',
+      period: 'Faeries contre Cruel Ultimatum',
+      archetype: 'control',
+      summary:
+        'Un deck control cinq couleurs rendu possible par Reflecting Pool et les terrains Vivid. Cruel Ultimatum est le moteur gagnant, Cryptic Command fournit l\'interaction flexible, et Mulldrifter génère du card advantage avec evoke. Lent mais inévitable face aux decks fair.',
+      keyCards: ['Cruel Ultimatum', 'Cryptic Command', 'Reflecting Pool', 'Vivid Creek', 'Mulldrifter', 'Cloudthresher'],
+      source: {
+        title: 'MTGTop8 - Standard late 2008 Five-Color Control',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+  ],
+}

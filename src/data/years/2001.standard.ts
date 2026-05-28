@@ -1,0 +1,192 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2001: YearFormatEntry = {
+  year: 2001,
+  format: 'standard',
+  title: 'Standard 2001',
+  subtitle: 'The reign of Fires',
+  shortLabel: 'Fires and Invasion gold',
+  summary:
+    'Standard 2001 was dominated by the Invasion-Masques era. Fires of Yavimaya carried over from late 2000 as the deck to beat, using haste and efficient green-red creatures to close games quickly. The format developed around it: Counter-Rebel tried to go over the top with countermagic and the Rebel chain, Go-Mar (Esper control) used Dromar and removal, and Machine Head (BR) played the metagame angle. Tom van de Logt won Worlds 2001 in Toronto with Machine Head, proving that aggro-control could beat the metagame. The Odyssey block arrived in October, beginning the transition toward graveyard-centric strategies.',
+  headlineDeck: 'Fires of Yavimaya',
+  eras: [
+    {
+      id: '2001-std-fires',
+      name: 'The Fires Meta',
+      start: '2001-01',
+      end: '2001-06',
+      dominantDecks: ['Fires of Yavimaya'],
+      challengers: ['Counter-Rebel', 'Go-Mar', 'Nether-Go', 'Machine Head'],
+      keyCards: [
+        { name: 'Fires of Yavimaya', role: 'Granted haste to all creatures' },
+        { name: 'Blastoderm', role: 'Untargetable 5/5, the format\'s best beater' },
+        { name: 'Saproling Burst', role: 'Token burst that ended games with Fires in play' },
+        { name: 'Flametongue Kavu', role: 'Four damage on entry, the premier removal creature' },
+        { name: 'Spiritmonger', role: 'Enormous threat from Apocalypse, often splashed' },
+      ],
+      summary:
+        'Fires continued its dominance from late 2000 through the first half of 2001. The deck was fast, resilient, and punished stumbles. Flametongue Kavu from Planeshift added a removal creature that fit perfectly into the aggressive shell. Control decks adapted: Go-Mar (WUB) used Dromar\'s Charm and Fact or Fiction, while Nether-Go leaned on Nether Spirit and Undermines. Counter-Rebel combined the Rebel tutoring chain with blue countermagic for a grindy midrange plan.',
+      whyItDominated: [
+        'Fires plus Saproling Burst created enormous burst damage that was hard to answer',
+        'Flametongue Kavu from Planeshift added removal stapled to a body',
+        'The RG mana acceleration made the deck faster than most opponents',
+        'Blastoderm\'s untargetability made it resilient against removal-heavy control decks',
+      ],
+      whyItEnded:
+        'Apocalypse in June brought Vindicate, Pernicious Deed, and other powerful answers. The metagame diversified significantly as control decks gained better tools to handle Fires\' aggressive starts.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'World Championship Decks/2001',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2001',
+          note: 'Documents the four championship decks from Worlds 2001 in Toronto.',
+        },
+        {
+          title: 'MTGTop8 - Standard events 2001',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Tournament results showing Fires dominance in early-mid 2001.',
+        },
+      ],
+    },
+    {
+      id: '2001-std-diversity',
+      name: 'Machine Head and Dark Fires',
+      start: '2001-06',
+      end: '2001-10',
+      dominantDecks: ['Fires of Yavimaya', 'Machine Head'],
+      challengers: ['Go-Mar', 'Dark Fires', 'Opposition'],
+      keyCards: [
+        { name: 'Vindicate', role: 'Unconditional permanent removal' },
+        { name: 'Pernicious Deed', role: 'Scalable board wipe' },
+        { name: 'Spiritmonger', role: 'Massive BG creature, hard to remove' },
+        { name: 'Fact or Fiction', role: 'Card selection powerhouse for control' },
+      ],
+      summary:
+        'Apocalypse brought some of the most powerful gold cards in Magic history. Vindicate gave BW decks unconditional removal. Pernicious Deed provided a scalable board wipe. Spiritmonger added a massive threat to the BG color pair. The format diversified: Dark Fires splashed black for Spiritmonger and Pernicious Deed, Machine Head (BR) used Plague Spitter and Flametongue Kavu to control the board. Tom van de Logt called Machine Head "the deck that beats the deck that beats Fires" and rode it to the World Championship in Toronto.',
+      whyItDominated: [
+        'Multiple viable strategies competed at the highest level, preventing any single deck from dominating',
+        'Fires remained the default aggro strategy but had to respect more answers',
+        'Machine Head exploited the metagame position of being favored against both Fires and blue decks',
+        'Pernicious Deed and Vindicate gave control decks real tools against creature strategies',
+      ],
+      whyItEnded:
+        'Odyssey\'s arrival in October rotated out Masques block and 6th Edition, removing Rebels, Rising Waters, and many of the tools that defined the Invasion-Masques format. The graveyard-focused Odyssey block began a new chapter.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Worlds 2001 - Tom van de Logt Machine Head',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Tom_van_de_Logt',
+          date: '2001-08-12',
+          note: 'Tom van de Logt won Worlds 2001 with Machine Head (BR aggro-control), posting a 5-1 Standard record.',
+        },
+        {
+          title: 'Worlds 2001 Standard event',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/event?e=9240&f=ST',
+          note: 'Standard portion results from Worlds 2001 in Toronto.',
+        },
+      ],
+    },
+    {
+      id: '2001-std-odyssey',
+      name: 'Wild Mongrel and Psychatog Emerge',
+      start: '2001-10',
+      end: '2001-12',
+      dominantDecks: ['Fires of Yavimaya'],
+      challengers: ['UG Threshold', 'Psychatog', 'Opposition'],
+      keyCards: [
+        { name: 'Wild Mongrel', role: 'Discard outlet that enabled graveyard synergies' },
+        { name: 'Psychatog', role: 'Finisher that grew by eating cards from hand and graveyard' },
+        { name: 'Shadowmage Infiltrator', role: 'Card advantage creature (Finkel)' },
+        { name: 'Call of the Herd', role: 'Two bodies from one card via flashback' },
+      ],
+      summary:
+        'Odyssey introduced the graveyard as a resource with flashback, threshold, and madness previews. Wild Mongrel became an instant staple, enabling discard synergies across archetypes. Psychatog appeared as a combo-control finisher. The full potential of these mechanics would only emerge in 2002, but the late months of 2001 showed clear signs of the graveyard-focused future ahead.',
+      whyItDominated: [
+        'Fires retained its aggressive core even after rotation brought new cards',
+        'Odyssey\'s graveyard mechanics were still being explored and hadn\'t reached full potential',
+        'Wild Mongrel and Call of the Herd added quality green creatures to existing shells',
+        'The format was in transition, with no single new archetype yet fully established',
+      ],
+      whyItEnded:
+        'Torment\'s arrival in early 2002 completed the madness engine. Psychatog and UG Madness would emerge as the format\'s defining decks, pushing Fires out of the spotlight.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'MTGTop8 - Standard late 2001',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Tournament results from the Odyssey-era Standard transition.',
+        },
+      ],
+    },
+  ],
+  bans: [],
+  setReleases: [
+    { date: '2001-02-05', name: 'Planeshift', code: 'PLS' },
+    { date: '2001-04-11', name: 'Seventh Edition', code: '7ED' },
+    { date: '2001-06-04', name: 'Apocalypse', code: 'APC' },
+    { date: '2001-10-01', name: 'Odyssey', code: 'ODY', note: 'Standard rotation: Masques block and Sixth Edition rotate out' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Fires of Yavimaya',
+      slug: 'fires-standard-2001',
+      period: 'The Fires Meta',
+      archetype: 'aggro',
+      summary:
+        'An evolution of red-green Fires that incorporates Flametongue Kavu as a removal-plus-threat package. Fires of Yavimaya gives haste to Blastoderm and Saproling Burst for fast pressure. Strong against fair midrange but vulnerable to early sweepers and counter-heavy control.',
+      keyCards: ['Fires of Yavimaya', 'Blastoderm', 'Saproling Burst', 'Flametongue Kavu', 'Birds of Paradise'],
+      source: {
+        title: 'Worlds 2001 - Jan Tomcani Dark Fires',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2001',
+      },
+    },
+    {
+      name: 'Machine Head',
+      slug: 'machine-head-standard-2001',
+      period: 'Machine Head and Dark Fires',
+      archetype: 'aggro',
+      summary:
+        'A black-red aggro-midrange shell built on efficient creatures with enter-the-battlefield triggers and burn-style removal. Plague Spitter and Flametongue Kavu sweep small creatures, Skizzik and Blazing Specter close games, Terminate handles anything else. Punishes go-wide aggro and slow control, but pressured by lifegain and faster aggro.',
+      keyCards: ['Plague Spitter', 'Flametongue Kavu', 'Skizzik', 'Blazing Specter', 'Terminate'],
+      source: {
+        title: 'World Championship Decks/2001 - Tom van de Logt',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2001',
+      },
+    },
+    {
+      name: 'Go-Mar',
+      slug: 'go-mar-standard-2001',
+      period: 'The Fires Meta',
+      archetype: 'control',
+      summary:
+        'A blue-black-white control shell anchored by Dromar, the Banisher and the multicolor charm suite. Fact or Fiction and Vindicate provide flexible card advantage and answers, while Absorb counters threats and gains life. Excels against creature decks and grindy midrange, but slow against fast combo.',
+      keyCards: ['Dromar\'s Charm', 'Fact or Fiction', 'Absorb', 'Vindicate', 'Dromar, the Banisher'],
+      source: {
+        title: 'MTGTop8 - Go-Mar decklists 2001',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Counter-Rebel',
+      slug: 'counter-rebel-standard-2001',
+      period: 'The Fires Meta',
+      archetype: 'midrange',
+      summary:
+        'A blue-white midrange deck that fuses the Rebel chain with permission. Lin Sivvi and the Ramosian package tutor up threats while Absorb and Fact or Fiction hold off opposing strategies. Grinds out fair decks but slow against combo and dedicated removal.',
+      keyCards: ['Lin Sivvi, Defiant Hero', 'Absorb', 'Fact or Fiction', 'Ramosian Sergeant', 'Parallax Wave'],
+      source: {
+        title: 'MTGTop8 - Counter-Rebel 2001',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+  ],
+}

@@ -1,0 +1,344 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2017: YearFormatEntry = {
+  year: 2017,
+  format: 'standard',
+  title: 'Standard 2017',
+  subtitle: 'The year of bans',
+  shortLabel: 'Energy bans era',
+  summary:
+    'Standard 2017 was defined by an unprecedented series of bans. January saw Smuggler\'s Copter, Emrakul, the Promised End, and Reflector Mage banned. Mardu Vehicles dominated Pro Tour Aether Revolt with six copies in the Top 8. The Saheeli-Felidar Guardian combo warped the format until an emergency ban in April. Aetherworks Marvel was banned in June. After the dust settled, Temur Energy and Ramunap Red emerged as the top decks through Ixalan season. Pro Tour Ixalan saw Energy variants comprising nearly 50% of the field. The year ended with another ban looming in January 2018.',
+  headlineDeck: 'Temur Energy',
+  eras: [
+    {
+      id: '2017-std-post-ban-1',
+      name: 'Post-Ban: Mardu Vehicles & Saheeli',
+      start: '2017-01',
+      end: '2017-04',
+      dominantDecks: ['Mardu Vehicles', '4-Color Saheeli'],
+      challengers: ['BG Constrictor', 'Jeskai Saheeli', 'Temur Dynavolt'],
+      keyCards: [
+        { name: 'Heart of Kiran', role: 'Powerful 2-mana vehicle, crewed by planeswalkers' },
+        { name: 'Scrapheap Scrounger', role: 'Recursive threat for Vehicles decks' },
+        { name: 'Gideon, Ally of Zendikar', role: 'Planeswalker that crewed Heart of Kiran' },
+        { name: 'Saheeli Rai', role: 'Combo piece creating infinite Felidar Guardian copies' },
+        { name: 'Felidar Guardian', role: 'Blink creature enabling infinite combo with Saheeli Rai' },
+        { name: 'Walking Ballista', role: 'Flexible removal and finisher for multiple archetypes' },
+      ],
+      summary:
+        'After the January 9 bans of Smuggler\'s Copter, Emrakul, and Reflector Mage, the format split between Mardu Vehicles and the Saheeli-Felidar Guardian combo. Pro Tour Aether Revolt in Dublin (February 3-5) was dominated by Mardu Vehicles: Lucas Esper Berthoud won with a perfect 10-0 Standard record, and six of the Top 8 decks were Mardu Vehicles. Meanwhile, 4-Color Saheeli threatened a turn-four infinite combo that warped deckbuilding. On April 26, Wizards issued an emergency addendum banning Felidar Guardian, two days after initially announcing no changes.',
+      whyItDominated: [
+        'Heart of Kiran plus Gideon provided a fast, resilient clock',
+        'Scrapheap Scrounger came back from the graveyard repeatedly',
+        'Mardu Vehicles had six copies in the Pro Tour Aether Revolt Top 8',
+        'Saheeli-Felidar threatened an instant-win combo that forced opponents to hold up interaction',
+      ],
+      whyItEnded:
+        'Felidar Guardian was emergency-banned on April 28, 2017, removing the combo from the format. Amonkhet\'s release on April 28 brought new strategies including cycling and zombie tribal.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'January 9, 2017 Banned and Restricted Announcement',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/articles/archive/news/january-9-2017-banned-and-restricted-announcement-2017-01-09',
+          date: '2017-01-09',
+          note: 'Smuggler\'s Copter, Emrakul, the Promised End, and Reflector Mage banned in Standard.',
+        },
+        {
+          title: 'Pro Tour Aether Revolt',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Aether_Revolt',
+          date: '2017-02-05',
+          note: 'Lucas Esper Berthoud won. Six Mardu Vehicles decks in Top 8.',
+        },
+        {
+          title: 'Felidar Guardian Banned - Addendum to April 24 Announcement',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/banned-and-restricted-update-april-28-2017-felidar-guardian-banned',
+          date: '2017-04-28',
+          note: 'Emergency ban of Felidar Guardian two days after initially announcing no changes.',
+        },
+      ],
+    },
+    {
+      id: '2017-std-marvel-summer',
+      name: 'Marvel Summer & Its Ban',
+      start: '2017-04',
+      end: '2017-07',
+      dominantDecks: ['Temur Aetherworks Marvel', 'Mardu Vehicles'],
+      challengers: ['Zombies', 'UR Control', 'Temur Energy'],
+      keyCards: [
+        { name: 'Aetherworks Marvel', role: 'Combo engine cheating large threats into play' },
+        { name: 'Ulamog, the Ceaseless Hunger', role: 'Top-end payoff for Marvel activations' },
+        { name: 'Rogue Refiner', role: 'Energy generation plus card advantage' },
+        { name: 'Attune with Aether', role: 'Mana fixing and energy generation' },
+        { name: 'Glorybringer', role: 'Powerful hasty threat from Amonkhet' },
+      ],
+      summary:
+        'With Felidar Guardian gone and Amonkhet in the format, Aetherworks Marvel decks shifted to Temur builds spinning into Ulamog, the Ceaseless Hunger. The combo warped the format once again, and on June 13, 2017, Wizards banned Aetherworks Marvel from Standard — the second ban announcement in six months. After the ban, the format briefly opened up with Zombies, Mardu Vehicles, and emerging Temur Energy builds before Hour of Devastation arrived in July.',
+      whyItDominated: [
+        'Aetherworks Marvel could deploy Ulamog on turn four with a good spin',
+        'Energy generation had no counterplay from the opponent',
+        'The deck was consistent enough to warp all deckbuilding around it',
+        'Even when Marvel missed, the Temur shell was competitive on its own',
+      ],
+      whyItEnded:
+        'Aetherworks Marvel was banned from Standard on June 19, 2017 (announced June 13). Wizards cited that the deck was "the most played deck in Standard" and was "unfun" due to the variance of the spin.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Banned and Restricted Update, June 13 2017: Aetherworks Marvel Banned',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/banned-and-restricted-update-june-13-2017-aetherworks-marvel-banned',
+          date: '2017-06-13',
+          note: 'Aetherworks Marvel banned in Standard effective June 19.',
+        },
+      ],
+    },
+    {
+      id: '2017-std-energy-red',
+      name: 'Temur Energy & Ramunap Red',
+      start: '2017-07',
+      end: '2017-12',
+      dominantDecks: ['Temur Energy', 'Ramunap Red'],
+      challengers: ['4-Color Energy', 'Sultai Energy', 'UW Approach', 'Mardu Vehicles', 'UW God-Pharaoh\'s Gift'],
+      keyCards: [
+        { name: 'Rogue Refiner', role: 'Energy plus card draw in one efficient creature' },
+        { name: 'Attune with Aether', role: 'One-mana energy and mana fixing' },
+        { name: 'Bristling Hydra', role: 'Hexproof energy payoff' },
+        { name: 'The Scarab God', role: 'Resilient finisher for blue-black energy builds' },
+        { name: 'Hazoret the Fervent', role: 'Indestructible finisher for aggressive red decks' },
+        { name: 'Ramunap Ruins', role: 'Free reach damage from a land slot' },
+        { name: 'Longtusk Cub', role: 'Two-mana energy threat that snowballed' },
+      ],
+      summary:
+        'After all the bans, the format settled into a two-deck metagame. Pro Tour Hour of Devastation in Kyoto (July 28-30) was won by Paulo Vitor Damo da Rosa, with Ramunap Red making up 24.8% of the day-one field. Temur Energy emerged as the best midrange deck, using Rogue Refiner, Attune with Aether, and Bristling Hydra. At Pro Tour Ixalan in Albuquerque (November 3-5), Energy variants comprised nearly 50% of the metagame, with Seth Manfield winning on Sultai Energy. The format was once again headed for bans.',
+      whyItDominated: [
+        'Temur Energy had no bad matchups and an unmatched midrange core',
+        'Attune with Aether and Rogue Refiner made the energy shell too consistent',
+        'Ramunap Red punished slow decks and had free damage from Ramunap Ruins',
+        'Hazoret the Fervent was nearly impossible to remove for many decks',
+        'Energy variants made up nearly 50% of Pro Tour Ixalan day-one metagame',
+      ],
+      whyItEnded:
+        'On January 15, 2018, Wizards banned Attune with Aether, Rogue Refiner, Ramunap Ruins, and Rampaging Ferocidon from Standard. This was the fourth Standard ban announcement in just over a year, targeting both Temur Energy and Ramunap Red.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Hour of Devastation',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Hour_of_Devastation',
+          date: '2017-07-30',
+          note: 'Paulo Vitor Damo da Rosa won. Ramunap Red was 24.8% of the field.',
+        },
+        {
+          title: 'Pro Tour Ixalan: By the Numbers',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/pro-tour-ixalan-by-the-numbers',
+          date: '2017-11-05',
+          note: 'Energy variants made up ~50% of day-one metagame. Seth Manfield won with Sultai Energy.',
+        },
+        {
+          title: 'Banned and Restricted Update, January 15 2018',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/banned-and-restricted-update-january-15-2018-attune-refiner-ferocidon-ramunap-ruins-banned',
+          date: '2018-01-15',
+          note: 'Attune with Aether, Rogue Refiner, Ramunap Ruins, Rampaging Ferocidon banned.',
+        },
+      ],
+    },
+  ],
+  bans: [
+    {
+      date: '2017-01-20',
+      cards: ['Smuggler\'s Copter', 'Emrakul, the Promised End', 'Reflector Mage'],
+      explanation:
+        'Smuggler\'s Copter was too format-warping, appearing in virtually every aggressive and midrange deck. Emrakul, the Promised End created deeply unfun play patterns via Aetherworks Marvel. Reflector Mage was hit to weaken UW Flash. This was the first Standard ban since Jace, the Mind Sculptor and Stoneforge Mystic in 2011.',
+      source: {
+        title: 'January 9, 2017 Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/articles/archive/news/january-9-2017-banned-and-restricted-announcement-2017-01-09',
+        date: '2017-01-09',
+      },
+    },
+    {
+      date: '2017-04-28',
+      cards: ['Felidar Guardian'],
+      explanation:
+        'Felidar Guardian created an infinite combo with Saheeli Rai that warped deckbuilding and metagame. Wizards initially announced no changes on April 24, but reversed course two days later with an emergency addendum banning the card effective April 28.',
+      source: {
+        title: 'Addendum to April 24, 2017 Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/announcements/april-24-2017-banned-and-restricted-announcement-2017-04-24',
+        date: '2017-04-26',
+      },
+    },
+    {
+      date: '2017-06-19',
+      cards: ['Aetherworks Marvel'],
+      explanation:
+        'Aetherworks Marvel was the most played deck in Standard and created polarizing game experiences. The spin into Ulamog, the Ceaseless Hunger on turn four left opponents feeling helpless. This was the third Standard ban in six months.',
+      source: {
+        title: 'Banned and Restricted Update, June 13 2017',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/articles/banned-and-restricted-update-june-13-2017-aetherworks-marvel-banned',
+        date: '2017-06-13',
+      },
+    },
+  ],
+  setReleases: [
+    { date: '2017-01-20', name: 'Aether Revolt', code: 'AER' },
+    { date: '2017-04-28', name: 'Amonkhet', code: 'AKH' },
+    { date: '2017-07-14', name: 'Hour of Devastation', code: 'HOU' },
+    { date: '2017-09-29', name: 'Ixalan', code: 'XLN', note: 'Standard rotation: Battle for Zendikar and Oath of the Gatewatch rotate out' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Mardu Vehicles',
+      slug: 'mardu-vehicles-standard-2017',
+      period: 'Post-Ban: Mardu Vehicles & Saheeli',
+      archetype: 'aggro',
+      summary:
+        'A black-red-white vehicle aggro deck that crews Heart of Kiran with cheap creatures like Toolcraft Exemplar and Scrapheap Scrounger. Walking Ballista scales for removal and damage, Gideon doubles as creature and planeswalker. Fast and resilient against fair decks.',
+      keyCards: ['Heart of Kiran', 'Gideon, Ally of Zendikar', 'Scrapheap Scrounger', 'Toolcraft Exemplar', 'Walking Ballista'],
+      source: {
+        title: 'Pro Tour Aether Revolt Top 8',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Aether_Revolt',
+      },
+    },
+    {
+      name: '4-Color Saheeli',
+      slug: '4-color-saheeli-standard-2017',
+      period: 'Post-Ban: Mardu Vehicles & Saheeli',
+      archetype: 'combo',
+      summary:
+        'A combo deck that puts Saheeli Rai and Felidar Guardian into play together, flickering Saheeli for infinite hasty copies. Rogue Refiner and Whirler Virtuoso build energy as backup plans, Attune with Aether ramps. One-shot combo on turn four but vulnerable to instant-speed removal.',
+      keyCards: ['Saheeli Rai', 'Felidar Guardian', 'Rogue Refiner', 'Whirler Virtuoso', 'Attune with Aether'],
+      source: {
+        title: 'Pro Tour Aether Revolt: By The Numbers',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/articles/pro-tour-aether-revolt-by-the-numbers',
+      },
+    },
+    {
+      name: 'Temur Energy',
+      slug: 'temur-energy-standard-2017',
+      period: 'Temur Energy & Ramunap Red',
+      archetype: 'midrange',
+      summary:
+        'A blue-red-green midrange deck powered by energy from Rogue Refiner and Attune with Aether, fueling Longtusk Cub\'s growth and Bristling Hydra\'s hexproof activation. The Scarab God recurs creatures. Grindy and resilient but pressured by counterspells.',
+      keyCards: ['Rogue Refiner', 'Attune with Aether', 'Bristling Hydra', 'Longtusk Cub', 'The Scarab God'],
+      source: {
+        title: 'Pro Tour Ixalan metagame breakdown',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/articles/pro-tour-ixalan-by-the-numbers',
+      },
+    },
+    {
+      name: 'Ramunap Red',
+      slug: 'ramunap-red-standard-2017',
+      period: 'Temur Energy & Ramunap Red',
+      archetype: 'aggro',
+      summary:
+        'A mono-red aggro deck centered on Hazoret the Fervent as an indestructible four-drop and Ramunap Ruins as reach. Earthshaker Khenra and Ahn-Crop Crasher punish ground blockers, Bomat Courier draws extra cards. Punishes slow openings but vulnerable to lifegain.',
+      keyCards: ['Hazoret the Fervent', 'Ramunap Ruins', 'Earthshaker Khenra', 'Ahn-Crop Crasher', 'Bomat Courier'],
+      source: {
+        title: 'Pro Tour Hour of Devastation Standard decks',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/tournament/pro-tour-hour-of-devastation',
+      },
+    },
+  
+    {
+      name: 'BG Constrictor',
+      slug: 'bg-constrictor-standard-2017',
+      period: 'Post-Ban: Mardu Vehicles & Saheeli',
+      archetype: 'midrange',
+      summary:
+        'A black-green midrange deck centered on Winding Constrictor doubling +1/+1 counters from Walking Ballista, Verdurous Gearhulk, and Rishkar, Peema Renegade. Fatal Push handles threats cheaply. Grindy and resilient but pressured by sweepers.',
+      keyCards: ['Winding Constrictor', 'Walking Ballista', 'Verdurous Gearhulk', 'Rishkar, Peema Renegade', 'Fatal Push'],
+    },
+    {
+      name: 'Jeskai Saheeli',
+      slug: 'jeskai-saheeli-standard-2017',
+      period: 'Post-Ban: Mardu Vehicles & Saheeli',
+      archetype: 'combo',
+      summary:
+        'A blue-red-white combo-control deck that pairs Saheeli Rai with Felidar Guardian for infinite hasty copies, while Torrential Gearhulk and Glimmer of Genius provide control fallback. Harnessed Lightning removes blockers. Strong combo with a control backup plan but vulnerable to disruption.',
+      keyCards: ['Saheeli Rai', 'Felidar Guardian', 'Torrential Gearhulk', 'Glimmer of Genius', 'Harnessed Lightning'],
+    },
+    {
+      name: 'Temur Dynavolt',
+      slug: 'temur-dynavolt-standard-2017',
+      period: 'Post-Ban: Mardu Vehicles & Saheeli',
+      archetype: 'control',
+      summary:
+        'A blue-red control deck that builds energy through Glimmer of Genius and Harnessed Lightning to activate Dynavolt Tower as a recurring three-damage burst. Torrential Gearhulk closes by flashbacking instants, Whirler Virtuoso provides bodies. Strong against creature decks.',
+      keyCards: ['Dynavolt Tower', 'Glimmer of Genius', 'Torrential Gearhulk', 'Harnessed Lightning', 'Whirler Virtuoso'],
+    },
+    {
+      name: 'Temur Aetherworks Marvel',
+      slug: 'temur-aetherworks-marvel-standard-2017',
+      period: 'Heart of Kiran',
+      archetype: 'combo',
+      summary:
+        'A blue-red-green combo deck that builds energy through Attune with Aether, Rogue Refiner, and Woodweaver\'s Puzzleknot to spin Aetherworks Marvel and cheat Ulamog, the Ceaseless Hunger into play. Reliable goldfish but vulnerable to counterspells.',
+      keyCards: ['Aetherworks Marvel', 'Ulamog, the Ceaseless Hunger', 'Rogue Refiner', 'Attune with Aether', 'Woodweaver\'s Puzzleknot'],
+    },
+    {
+      name: 'Zombies',
+      slug: 'zombies-standard-2017',
+      period: 'Heart of Kiran',
+      archetype: 'aggro',
+      summary:
+        'A mono-black Zombie tribal aggro deck where Cryptbreaker draws cards and produces tokens, Lord of the Accursed and Diregraf Colossus pump the team, and Liliana\'s Mastery floods the board. Dark Salvation removes blockers and grows the army. Strong against fair decks but pressured by exile.',
+      keyCards: ['Cryptbreaker', 'Lord of the Accursed', 'Diregraf Colossus', 'Dark Salvation', 'Liliana\'s Mastery'],
+    },
+    {
+      name: 'UR Control',
+      slug: 'ur-control-standard-2017',
+      period: 'Heart of Kiran',
+      archetype: 'control',
+      summary:
+        'A blue-red control deck built on Torrential Gearhulk flashbacking Glimmer of Genius or Harnessed Lightning for value. Disallow stops anything, Magma Spray exiles small threats. Strong against creature decks but slow against fast combo.',
+      keyCards: ['Torrential Gearhulk', 'Glimmer of Genius', 'Harnessed Lightning', 'Disallow', 'Magma Spray'],
+    },
+    {
+      name: '4-Color Energy',
+      slug: '4-color-energy-standard-2017',
+      period: 'Aetherworks Marvel',
+      archetype: 'midrange',
+      summary:
+        'A four-color energy midrange deck combining the best energy creatures — Rogue Refiner, Longtusk Cub, Bristling Hydra — with The Scarab God as a recurring finisher. Attune with Aether ramps and builds energy. Grindy and resilient but pressured by counterspells.',
+      keyCards: ['Attune with Aether', 'Rogue Refiner', 'Longtusk Cub', 'Bristling Hydra', 'The Scarab God'],
+    },
+    {
+      name: 'Sultai Energy',
+      slug: 'sultai-energy-standard-2017',
+      period: 'Aetherworks Marvel',
+      archetype: 'midrange',
+      summary:
+        'A blue-black-green energy midrange deck built on Rogue Refiner, The Scarab God, and Vraska, Relic Seeker. Fatal Push removes threats cheaply, Attune with Aether ramps. The Scarab God\'s eternalize and exile-Zombie trigger make it nearly unkillable. Strong against fair decks.',
+      keyCards: ['Attune with Aether', 'Rogue Refiner', 'The Scarab God', 'Vraska, Relic Seeker', 'Fatal Push'],
+    },
+    {
+      name: 'UW Approach',
+      slug: 'uw-approach-standard-2017',
+      period: 'Aetherworks Marvel',
+      archetype: 'control',
+      summary:
+        'A blue-white control deck built on Approach of the Second Sun as an alternate win condition cast twice. Settle the Wreckage and Fumigate sweep, Glimmer of Genius and Torrential Gearhulk provide card advantage. Inevitable but slow against fast combo.',
+      keyCards: ['Approach of the Second Sun', 'Settle the Wreckage', 'Fumigate', 'Glimmer of Genius', 'Torrential Gearhulk'],
+    },
+    {
+      name: 'UW God-Pharaoh\'s Gift',
+      slug: 'uw-god-pharaohs-gift-standard-2017',
+      period: 'Aetherworks Marvel',
+      archetype: 'combo',
+      summary:
+        'A blue-white reanimator combo deck that fills the graveyard with Champion of Wits and Gate to the Afterlife to fetch God-Pharaoh\'s Gift, then exiles creatures from the graveyard for free 4/4 hasty Angel tokens. Refurbish provides a backup reanimation route. Devastating value engine but vulnerable to graveyard hate.',
+      keyCards: ['God-Pharaoh\'s Gift', 'Refurbish', 'Angel of Invention', 'Champion of Wits', 'Gate to the Afterlife'],
+    },
+  ],
+}

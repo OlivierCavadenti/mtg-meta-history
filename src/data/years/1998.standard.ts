@@ -1,0 +1,203 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard1998: YearFormatEntry = {
+  year: 1998,
+  format: 'standard',
+  title: 'Standard 1998',
+  subtitle: 'Draw-Go, Recurring Nightmare, and Tolarian Academy',
+  shortLabel: 'Urza\'s Saga breaks Standard',
+  summary:
+    'Standard 1998 featured a diverse first half dominated by Draw-Go control (built around Forbid and Whispers of the Muse), Recurring Nightmare plus Survival of the Fittest creature-combo decks, and aggressive Sligh and Suicide Black strategies. Then Urza\'s Saga arrived in October and shattered the format. Tolarian Academy, combined with free artifact mana, enabled turn-one and turn-two kills. The set would trigger an unprecedented wave of emergency bans, making late 1998 the prelude to the infamous Combo Winter.',
+  headlineDeck: 'Draw-Go',
+  eras: [
+    {
+      id: '1998-std-drawgo',
+      name: 'Draw-Go and Recurring Nightmare',
+      start: '1998-01',
+      end: '1998-06',
+      dominantDecks: ['Draw-Go', 'RecSur'],
+      challengers: ['Sligh', 'Suicide Black', 'Living Death', 'White Weenie'],
+      keyCards: [
+        { name: 'Forbid', role: 'Buyback counterspell providing hard lock with card advantage' },
+        { name: 'Whispers of the Muse', role: 'Buyback draw spell for incremental advantage' },
+        { name: 'Recurring Nightmare', role: 'Repeatable reanimation engine, uncounterable activation' },
+        { name: 'Survival of the Fittest', role: 'Creature tutor filling the graveyard for Recurring Nightmare' },
+        { name: 'Hatred', role: 'One-shot kill spell for Suicide Black, converting life to power' },
+      ],
+      summary:
+        'The first half of 1998 featured a healthy metagame centered on two pillars. Draw-Go control used Forbid with buyback to lock opponents out while Whispers of the Muse generated card advantage. RecSur (Recurring Nightmare plus Survival of the Fittest) was a creature-based engine deck that could tutor and reanimate value creatures repeatedly. Sligh continued to punish slow starts, while Suicide Black leveraged Hatred for explosive kills. Living Death provided another reanimation-based strategy.',
+      whyItDominated: [
+        'Forbid with buyback created a near-unbreakable countermagic lock in the late game',
+        'Recurring Nightmare was effectively uncounterable since it returned to hand as part of its cost',
+        'Survival of the Fittest provided unmatched creature consistency',
+        'The format had clear checks and balances between aggro, control, and engine decks',
+      ],
+      whyItEnded:
+        'Exodus in June added new tools, but the real rupture came with Urza\'s Saga in October, which introduced cards so powerful they warped the format beyond recognition.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: '1998 World Championships',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/1998_World_Championships',
+          date: '1998-08-12',
+          note: 'Brian Selden won Worlds 1998 with RecSur (Recurring Nightmare / Survival of the Fittest).',
+        },
+        {
+          title: 'Draw-Go deck history',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Draw-Go',
+          note: 'History of the Draw-Go archetype in Tempest-era Standard.',
+        },
+      ],
+    },
+    {
+      id: '1998-std-deadguy',
+      name: 'Aggressive Summer',
+      start: '1998-06',
+      end: '1998-10',
+      dominantDecks: ['Sligh', 'Deadguy Red'],
+      challengers: ['Draw-Go', 'Suicide Black', 'RecSur', 'Stompy'],
+      keyCards: [
+        { name: 'Jackal Pup', role: 'Premier one-drop for red aggro' },
+        { name: 'Cursed Scroll', role: 'Repeatable damage when hand is empty' },
+        { name: 'Mogg Fanatic', role: 'Versatile one-drop with sacrifice utility' },
+        { name: 'Ball Lightning', role: 'Six damage for three mana, closing games fast' },
+        { name: 'Hatred', role: 'Instant kill converting life to pump in Suicide Black' },
+      ],
+      summary:
+        'Summer 1998 saw aggressive red decks reach peak performance. Deadguy Red, a refined version of Sligh, combined efficient creatures with burn and Cursed Scroll for inevitability. Suicide Black remained dangerous with Hatred providing instant-kill potential. The metagame was fast and punishing, with control decks needing to survive an early onslaught before stabilizing.',
+      whyItDominated: [
+        'Red aggro had the most efficient creature-burn curve in the format',
+        'Cursed Scroll provided reach after deploying the entire hand',
+        'Suicide Black threatened turn-three or turn-four kills with Hatred',
+        'Control decks could not always stabilize in time against optimal aggro draws',
+      ],
+      whyItEnded:
+        'Urza\'s Saga released in October 1998, introducing combo strategies so fast that even Sligh could not race them.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Deadguy Red and Sligh history',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Sligh',
+          note: 'Evolution of red aggro decks through the late 1990s.',
+        },
+      ],
+    },
+    {
+      id: '1998-std-academy',
+      name: 'Tolarian Academy',
+      start: '1998-10',
+      end: '1998-12',
+      dominantDecks: ['Tolarian Academy'],
+      challengers: ['Draw-Go', 'Sligh', 'RecSur'],
+      keyCards: [
+        { name: 'Tolarian Academy', role: 'Tapped for mana equal to artifacts controlled, enabling degenerate mana' },
+        { name: 'Windfall', role: 'Mass draw refilling hand after dumping artifacts' },
+        { name: 'Mind Over Matter', role: 'Untap engine with Tolarian Academy for infinite mana' },
+        { name: 'Voltaic Key', role: 'Artifact untapper enabling repeated Academy taps' },
+        { name: 'Lotus Petal', role: 'Free artifact accelerating Academy and artifact count' },
+      ],
+      summary:
+        'Urza\'s Saga arrived in October 1998 and immediately broke Standard. Tolarian Academy, a land that tapped for blue mana equal to the number of artifacts its controller had, combined with free artifacts like Lotus Petal and Mox Diamond to generate absurd amounts of mana on turns one and two. Windfall refilled the hand, and Mind Over Matter or Stroke of Genius provided the kill. The deck could win on turn one in rare cases and consistently threatened turn-two or turn-three kills. It was clear within weeks that emergency action was needed.',
+      whyItDominated: [
+        'Tolarian Academy produced mana at a rate comparable to the Power Nine',
+        'Free artifacts like Lotus Petal and Mana Vault powered explosive early turns',
+        'Windfall converted artifact dumps into full new hands',
+        'The combo was faster than virtually every interactive strategy in the format',
+      ],
+      whyItEnded:
+        'Tolarian Academy was banned in the December 1998 emergency update, along with Windfall and other enablers. This was the beginning of the Combo Winter ban cycle.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Combo Winter - MTG History',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Combo_Winter',
+          note: 'Comprehensive overview of the Urza block combo era.',
+        },
+        {
+          title: 'December 1998 Banned and Restricted Announcement',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+          date: '1998-12-01',
+          note: 'Emergency banning of Tolarian Academy, Windfall, and other cards.',
+        },
+      ],
+    },
+  ],
+  bans: [
+    {
+      date: '1998-12-01',
+      cards: ['Tolarian Academy', 'Windfall', 'Dream Halls', 'Earthcraft', 'Fluctuator', 'Lotus Petal', 'Recurring Nightmare', 'Time Spiral'],
+      explanation:
+        'Urza\'s Saga combo decks, particularly those built around Tolarian Academy, threatened kills as early as turn one. Wizards issued an emergency ban targeting the worst offenders to stabilize the format. Recurring Nightmare was also banned due to its long-standing dominance of creature-based strategies.',
+      source: {
+        title: 'December 1998 Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+        date: '1998-12-01',
+      },
+    },
+  ],
+  setReleases: [
+    { date: '1998-03-02', name: 'Stronghold', code: 'STH' },
+    { date: '1998-06-15', name: 'Exodus', code: 'EXO' },
+    { date: '1998-10-12', name: "Urza's Saga", code: 'USG', note: 'Standard rotation: Mirage block and Fifth Edition rotate out. Introduced Tolarian Academy and other broken combo pieces.' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Draw-Go',
+      slug: 'draw-go-standard-1998',
+      period: 'Draw-Go and Recurring Nightmare',
+      archetype: 'control',
+      summary:
+        'A pure blue permission deck that holds up Counterspell and Dismiss every turn while draining the opponent of resources. Whispers of the Muse and Forbid refill the hand indefinitely, and Rainbow Efreet finishes from a locked board. Crushes fair decks but folds to discard and uncounterable threats.',
+      keyCards: ['Forbid', 'Whispers of the Muse', 'Counterspell', 'Dismiss', 'Rainbow Efreet', 'Stalking Stones'],
+      source: {
+        title: 'Draw-Go archetype history',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Draw-Go',
+      },
+    },
+    {
+      name: 'RecSur',
+      slug: 'recsur-standard-1998',
+      period: 'Draw-Go and Recurring Nightmare',
+      archetype: 'combo',
+      summary:
+        'A toolbox combo-midrange built on Survival of the Fittest tutoring creatures into the bin for Recurring Nightmare loops. Spirit of the Night and Verdant Force serve as game-ending reanimation targets, while Wall of Blossoms generates incidental card advantage. Grindy and flexible, but vulnerable to graveyard hate and enchantment removal.',
+      keyCards: ['Recurring Nightmare', 'Survival of the Fittest', 'Spirit of the Night', 'Wall of Blossoms', 'Verdant Force'],
+      source: {
+        title: '1998 World Championships',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/1998_World_Championships',
+        date: '1998-08-12',
+      },
+    },
+    {
+      name: 'Suicide Black',
+      slug: 'suicide-black-standard-1998',
+      period: 'Aggressive Summer',
+      archetype: 'aggro',
+      summary:
+        'A hyper-aggressive mono-black build that pays life freely for fast threats like Dauthi Slayer and Sarcomancy. Dark Ritual fuels explosive opens and Hatred turns any unblocked creature into a one-shot kill. Races slower strategies, but folds to lifegain and any sweeper landing on time.',
+      keyCards: ['Hatred', 'Dauthi Slayer', 'Dauthi Horror', 'Dark Ritual', 'Sarcomancy'],
+    },
+    {
+      name: 'Tolarian Academy',
+      slug: 'tolarian-academy-standard-1998',
+      period: 'Tolarian Academy',
+      archetype: 'combo',
+      summary:
+        'A degenerate combo deck that explodes off Tolarian Academy producing massive mana with artifacts, then chains Windfall and Voltaic Key to draw and untap into a kill. Mind Over Matter and Lotus Petal create infinite mana loops. One of the most broken Standard decks ever, restricted by speed but vulnerable to artifact hate and counterspells.',
+      keyCards: ['Tolarian Academy', 'Windfall', 'Mind Over Matter', 'Voltaic Key', 'Lotus Petal', 'Stroke of Genius'],
+      source: {
+        title: 'Combo Winter overview',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Combo_Winter',
+      },
+    },
+  ],
+}

@@ -1,0 +1,179 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard1997: YearFormatEntry = {
+  year: 1997,
+  format: 'standard',
+  title: 'Standard 1997',
+  subtitle: 'ProsBloom and the rise of Sligh',
+  shortLabel: 'ProsBloom combo year',
+  summary:
+    'Standard 1997 saw the emergence of one of Magic\'s first great combo decks. Mike Long\'s ProsBloom (Prosperity plus Cadaverous Bloom) won Pro Tour Paris in April, showcasing a new kind of competitive Magic. Meanwhile, aggressive strategies crystallized around Sligh and Red Deck Wins, establishing the red aggro archetype that would persist for decades. Necropotence variants lingered, Counter-Post controlled the late game, and White Weenie remained a staple. The Mirage-Tempest transition in October brought a major card pool shift.',
+  headlineDeck: 'ProsBloom',
+  eras: [
+    {
+      id: '1997-std-necro-late',
+      name: 'Post-Black Summer',
+      start: '1997-01',
+      end: '1997-04',
+      dominantDecks: ['Necropotence variants', 'Counter-Post'],
+      challengers: ['White Weenie', 'Erhnam-Geddon', 'Sligh'],
+      keyCards: [
+        { name: 'Necropotence', role: 'Card advantage engine, still the strongest draw spell' },
+        { name: 'Counterspell', role: 'Hard counter anchoring blue control' },
+        { name: 'Kjeldoran Outpost', role: 'Token generator and win condition for Counter-Post' },
+        { name: 'Incinerate', role: 'Efficient burn for red aggro decks' },
+      ],
+      summary:
+        'Early 1997 Standard still felt the aftershocks of the Black Summer. Necropotence decks remained competitive in various configurations, while Counter-Post (blue-white control using Kjeldoran Outpost as a win condition) provided a strong control alternative. Sligh-style red aggro decks were gaining traction, proving that a low curve backed by burn could compete with the format\'s powerhouses.',
+      whyItDominated: [
+        'Necropotence continued to offer unmatched card advantage',
+        'Counter-Post had inevitability through Kjeldoran Outpost token generation',
+        'The metagame was still adapting to the Mirage card pool',
+        'No single deck had broken away from the pack yet',
+      ],
+      whyItEnded:
+        'Pro Tour Paris in April showcased ProsBloom, a radical combo deck that demonstrated the format had room for entirely new strategies beyond aggro and control.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: '1997 Pro Tour season overview',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour',
+          note: 'Overview of the 1997 competitive season.',
+        },
+      ],
+    },
+    {
+      id: '1997-std-prosbloom',
+      name: 'ProsBloom Breaks Through',
+      start: '1997-04',
+      end: '1997-07',
+      dominantDecks: ['ProsBloom'],
+      challengers: ['Sligh', 'Necropotence', 'Counter-Post', 'White Weenie'],
+      keyCards: [
+        { name: 'Cadaverous Bloom', role: 'Mana engine converting cards in hand to mana' },
+        { name: 'Prosperity', role: 'Mass draw spell fueling the combo' },
+        { name: 'Squandered Resources', role: 'Mana acceleration sacrificing lands' },
+        { name: 'Natural Balance', role: 'Land reset enabling combo turns' },
+        { name: 'Drain Life', role: 'Kill condition after generating massive mana' },
+      ],
+      summary:
+        'Mike Long won Pro Tour Paris in April 1997 with ProsBloom, a green-black combo deck that used Cadaverous Bloom to convert cards into mana, Prosperity to refill, and Drain Life to win in one turn. The deck was a landmark in competitive Magic history, proving that pure combo could win at the highest level. It was also controversial due to Long\'s reputation and the deck\'s complexity.',
+      whyItDominated: [
+        'Cadaverous Bloom plus Prosperity created a self-sustaining combo loop',
+        'The deck could win from seemingly no board position in a single turn',
+        'Opponents had limited interaction with the combo in the existing card pool',
+        'Squandered Resources and Natural Balance provided explosive mana generation',
+      ],
+      whyItEnded:
+        'ProsBloom was powerful but fragile and difficult to pilot. As the metagame adjusted, aggressive decks like Sligh could often kill before the combo assembled. The deck saw decreasing representation at later events.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Pro Tour Paris 1997',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Paris_1997',
+          date: '1997-04-11',
+          note: 'Won by Mike Long with ProsBloom.',
+        },
+        {
+          title: 'History of combo decks in Magic',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Combo_deck',
+          note: 'ProsBloom cited as one of the earliest competitive combo decks.',
+        },
+      ],
+    },
+    {
+      id: '1997-std-tempest',
+      name: 'Tempest Arrives',
+      start: '1997-10',
+      end: '1997-12',
+      dominantDecks: ['Sligh', 'Necropotence variants'],
+      challengers: ['Counter-Sliver', 'White Weenie', 'Tradewind-Survival'],
+      keyCards: [
+        { name: 'Jackal Pup', role: 'Aggressive one-drop for red aggro' },
+        { name: 'Cursed Scroll', role: 'Repeatable damage source for empty-hand aggro' },
+        { name: 'Wasteland', role: 'Mana denial in aggressive and tempo strategies' },
+        { name: 'Counterspell', role: 'Still the benchmark countermagic' },
+      ],
+      summary:
+        'Tempest arrived in October 1997, reshaping Standard with powerful new cards. Jackal Pup and Cursed Scroll supercharged Sligh, making red aggro faster and more consistent. Wasteland provided mana denial. The format was in flux as players explored the expanded card pool from Visions, Fifth Edition, Weatherlight, and now Tempest.',
+      whyItDominated: [
+        'Tempest brought efficient creatures and utility cards that rewarded aggressive strategies',
+        'Cursed Scroll gave aggro decks a way to close games after emptying their hand',
+        'Wasteland punished greedy manabases',
+        'The metagame was unsettled as players adapted to the new card pool',
+      ],
+      whyItEnded:
+        'The format continued to evolve into 1998 with Stronghold and further refinement of control and combo strategies.',
+      confidence: 'low',
+      sources: [
+        {
+          title: 'Tempest set release',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Tempest',
+          date: '1997-10-13',
+          note: 'Tempest release, introducing Wasteland, Cursed Scroll, and other format staples.',
+        },
+        {
+          title: '1997 World Championships',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/1997_World_Championships',
+          date: '1997-08-13',
+          note: 'Jakub Slemr won Worlds 1997. Mixed field of aggro, control, and midrange.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '1997-02-03', name: 'Visions', code: 'VIS' },
+    { date: '1997-03-24', name: 'Fifth Edition', code: '5ED' },
+    { date: '1997-06-09', name: 'Weatherlight', code: 'WTH' },
+    { date: '1997-10-13', name: 'Tempest', code: 'TMP', note: 'Major Standard rotation: Ice Age block rotates out' },
+  ],
+  representativeDecks: [
+    {
+      name: 'ProsBloom',
+      slug: 'prosbloom-standard-1997',
+      period: 'ProsBloom Breaks Through',
+      archetype: 'combo',
+      summary:
+        'A combo deck that uses Cadaverous Bloom to convert cards in hand into floating mana, then chains Prosperity to draw the entire deck before killing with a single massive Drain Life. Squandered Resources turns lands into more mana while Natural Balance refills the board. Goldfishes fast against unprotected fields, but vulnerable to discard and counterspells.',
+      keyCards: ['Cadaverous Bloom', 'Prosperity', 'Squandered Resources', 'Natural Balance', 'Drain Life'],
+      source: {
+        title: 'Pro Tour Paris 1997',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Pro_Tour_Paris_1997',
+        date: '1997-04-11',
+      },
+    },
+    {
+      name: 'Sligh',
+      slug: 'sligh-standard-1997',
+      period: 'Tempest Arrives',
+      archetype: 'aggro',
+      summary:
+        'The archetypal red aggro shell built on a precisely tuned mana curve of cheap creatures and burn spells. Jackal Pup and Mogg Fanatic apply early pressure, Cursed Scroll provides reach, and Ball Lightning closes games. Punishes slow openings and tapped lands, but vulnerable to early lifegain and efficient sweepers.',
+      keyCards: ['Jackal Pup', 'Mogg Fanatic', 'Cursed Scroll', 'Incinerate', 'Ball Lightning'],
+    },
+    {
+      name: 'Counter-Post',
+      slug: 'counter-post-standard-1997',
+      period: 'Post-Black Summer',
+      archetype: 'control',
+      summary:
+        'A blue-white control deck that uses Kjeldoran Outpost as a recurring token engine and inevitable win condition. Counterspell and Swords to Plowshares hold the board, Wrath of God resets, and Brainstorm smooths draws. Dominates fair creature strategies but struggles against fast combo and pure discard.',
+      keyCards: ['Kjeldoran Outpost', 'Counterspell', 'Swords to Plowshares', 'Wrath of God', 'Brainstorm'],
+    },
+    {
+      name: 'White Weenie',
+      slug: 'white-weenie-standard-1997',
+      period: 'Post-Black Summer',
+      archetype: 'aggro',
+      summary:
+        'An efficient white aggro shell built on Savannah Lions and Soltari Priest backed by Crusade for global pumps. Armageddon strands the opponent after deploying a board, while Swords to Plowshares handles bigger threats. Beats slow ramp and clunky control, but vulnerable to early sweepers and lifegain.',
+      keyCards: ['Savannah Lions', 'Soltari Priest', 'Armageddon', 'Swords to Plowshares', 'Crusade'],
+    },
+  ],
+}

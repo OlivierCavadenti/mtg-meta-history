@@ -1,0 +1,351 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2019Fr: YearFormatEntry = {
+  year: 2019,
+  format: 'standard',
+  title: 'Standard 2019',
+  subtitle: 'De Ravnica Allegiance à la catastrophe Oko',
+  shortLabel: 'Année du ban d\'Oko',
+  summary:
+    'Le Standard 2019 est passé de l\'un des meilleurs métagames depuis des années à l\'un des plus déformés. L\'ère Ravnica Allegiance a vu une compétition diversifiée entre Esper Control, Sultai Midrange, Mono-Blue Tempo, Mono-Red et Simic Nexus. War of the Spark a introduit Teferi, Time Raveler, Narset et Nissa, Who Shakes the World, accélérant les stratégies centrées sur les planeswalkers. Puis Throne of Eldraine est arrivé et Oko, Thief of Crowns a brisé le format. Après le bannissement de Field of the Dead en octobre, les decks Oko Food ont représenté près de 70 % du field du Mythic Championship V. Le 18 novembre, Wizards a banni Oko, Once Upon a Time et Veil of Summer dans l\'action de bannissement la plus agressive en Standard depuis Energy.',
+  headlineDeck: 'Oko Food (Simic/Sultai)',
+  eras: [
+    {
+      id: '2019-std-rna',
+      name: 'Sultai et Esper',
+      start: '2019-01',
+      end: '2019-05',
+      dominantDecks: ['Sultai Midrange', 'Esper Control'],
+      challengers: ['Mono-Blue Tempo', 'Mono-Red Aggro', 'Simic Nexus', 'Izzet Phoenix', 'White Aggro'],
+      keyCards: [
+        { name: 'Hydroid Krasis', role: 'Menace évolutive avec pioche et gain de vie pour Sultai' },
+        { name: 'Teferi, Hero of Dominaria', role: 'Condition de victoire et moteur d\'avantage en cartes pour Esper' },
+        { name: 'Curious Obsession', role: 'Enchantement de pioche alimentant le Mono-Blue Tempo' },
+        { name: 'Nexus of Fate', role: 'Sort de tour supplémentaire propulsant le combo Simic Nexus' },
+        { name: 'Tempest Djinn', role: 'Menace évasive efficace pour le Mono-Blue' },
+      ],
+      summary:
+        'Ravnica Allegiance a apporté Hydroid Krasis, Absorb et de nouveaux outils de guilde qui ont hissé le Sultai Midrange et l\'Esper Control au sommet. Le Mythic Championship Cleveland a révélé un format remarquablement sain : Autumn Burchett a gagné avec Mono-Blue Tempo, battant Yoshihiko Ikawa sur Esper Control 3-2 en finale. Trois des Top 8 jouaient Mono-Blue Tempo. Sultai Midrange était le deck le plus populaire mais n\'a pas percé en Top 8. Simic Nexus utilisait Wilderness Reclamation et Nexus of Fate pour un finish combo puissant, et Nexus of Fate a été banni en Best-of-One sur Arena en février.',
+      whyItDominated: [
+        'Hydroid Krasis offrait à Sultai un moteur d\'avantage en cartes incounterable',
+        'Esper Control combinait Teferi avec un removal et des contresorts efficaces de l\'ère Ravnica',
+        'Mono-Blue Tempo punissait les départs lents avec Curious Obsession et des contresorts bon marché',
+        'Aucun deck ne dépassait 25 % du métagame, maintenant la diversité',
+      ],
+      whyItEnded:
+        'War of the Spark en mai 2019 a introduit une vague de planeswalkers puissants, notamment Teferi, Time Raveler, Narset, Parter of Veils et Nissa, Who Shakes the World, qui ont fondamentalement changé le fonctionnement du format.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Mythic Championship Cleveland 2019',
+          publisher: 'MTG Wiki (Fandom)',
+          url: 'https://mtg.fandom.com/wiki/Mythic_Championship_Cleveland_2019',
+          date: '2019-02-22',
+          note: 'Gagné par Autumn Burchett sur Mono-Blue Tempo. Top 8 diversifié incluant Esper, Izzet Phoenix, Gruul Aggro et Simic Nexus.',
+        },
+        {
+          title: 'Autumn Burchett Wins Mythic Championship I Cleveland',
+          publisher: 'Hipsters of the Coast',
+          url: 'https://www.hipstersofthecoast.com/2019/02/autumn-burchett-wins-mythic-championship-i-cleveland/',
+          date: '2019-02-24',
+          note: 'Burchett a battu Ikawa (Esper Control) 3-2 en finale.',
+        },
+      ],
+    },
+    {
+      id: '2019-std-war',
+      name: 'Les planeswalkers Teferi et Nissa',
+      start: '2019-05',
+      end: '2019-10',
+      dominantDecks: ['Esper Hero', 'Simic Nexus'],
+      challengers: ['Mono-Red Aggro', 'Esper Control', 'Bant Ramp (Nissa)', 'Gruul Aggro', 'Vampires'],
+      keyCards: [
+        { name: 'Teferi, Time Raveler', role: 'Neutralisation de l\'interaction à vitesse d\'éphémère et bounce de menaces' },
+        { name: 'Narset, Parter of Veils', role: 'Restriction de pioche punissant les miroirs contrôle' },
+        { name: 'Nissa, Who Shakes the World', role: 'Doubleur de mana et générateur de menaces pour le green ramp' },
+        { name: 'Hero of Precinct One', role: 'Moteur à jetons pour les builds Esper Hero multicolores' },
+        { name: 'Wilderness Reclamation', role: 'Moteur de mana permettant les boucles Nexus of Fate' },
+      ],
+      summary:
+        'War of the Spark a inondé le Standard de 36 planeswalkers, et trois ont immédiatement remodelé le format. Teferi, Time Raveler a éliminé le jeu à vitesse d\'éphémère pour les adversaires, Narset, Parter of Veils punissait la pioche, et Nissa, Who Shakes the World a turbo-alimenté le green ramp. Esper Hero combinait Hero of Precinct One avec la puissante suite de planeswalkers Esper. Simic Nexus continuait d\'exploiter Wilderness Reclamation pour des kills combo. Le Core Set 2020 a ajouté Chandra, Awakened Inferno et Field of the Dead, préparant le terrain pour la crise d\'automne.',
+      whyItDominated: [
+        'Teferi, Time Raveler a déformé le format en neutralisant l\'interaction à vitesse d\'éphémère',
+        'Narset offrait de la sélection de cartes tout en refusant aux adversaires la pioche supplémentaire',
+        'Nissa doublait la production de mana vert et créait des menaces 3/3 haste',
+        'La densité de planeswalkers rendait les stratégies pauvres en removal non viables',
+      ],
+      whyItEnded:
+        'La rotation de Throne of Eldraine en octobre a introduit Oko, Thief of Crowns et Field of the Dead, qui ont rapidement submergé toutes les stratégies existantes.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'The Year of the Banhammer',
+          publisher: 'Cardmarket',
+          url: 'https://www.cardmarket.com/en/Insight/Articles/The-Year-of-the-Banhammer',
+          note: 'Rétrospective sur la vague de bannissements Standard 2019, incluant le contexte War of the Spark.',
+        },
+      ],
+    },
+    {
+      id: '2019-std-oko',
+      name: 'La crise Oko',
+      start: '2019-10',
+      end: '2019-12',
+      dominantDecks: ['Oko Food (Simic/Sultai/Bant)'],
+      challengers: ['Fires of Invention', 'Jeskai Fires', 'Adventures (Golgari)', 'Mono-Red Aggro'],
+      keyCards: [
+        { name: 'Oko, Thief of Crowns', role: 'Planeswalker déformant le format qui neutralisait les menaces adverses' },
+        { name: 'Once Upon a Time', role: 'Cantrip gratuit offrant une consistance inégalée au turn one pour le vert' },
+        { name: 'Veil of Summer', role: 'Sort de protection à un mana invalidant l\'interaction bleue et noire' },
+        { name: 'Gilded Goose', role: 'Producteur de Food au turn one permettant un Oko au turn deux' },
+        { name: 'Wicked Wolf', role: 'Créature de removal répétable en synergie avec les jetons Food' },
+        { name: 'Field of the Dead', role: 'Générateur de jetons Zombie qui a dominé avant qu\'Oko ne prenne le relais' },
+      ],
+      summary:
+        'Throne of Eldraine a libéré la carte Standard la plus dominante depuis Jace, the Mind Sculptor. Oko, Thief of Crowns transformait les créatures et artefacts adverses en Elks 3/3, neutralisant quasiment toutes les stratégies. D\'abord, Field of the Dead avec Golos, Tireless Pilgrim a dominé (42 % du field du Mythic Championship V), provoquant un bannissement le 21 octobre. Mais les decks Oko Food ont immédiatement comblé le vide, représentant près de 70 % du field du Mythic Championship Richmond. Seul Simic Flash avait un matchup favorable contre Food. Le 18 novembre, Wizards a banni Oko, Once Upon a Time et Veil of Summer, l\'action de bannissement Standard la plus agressive depuis les bans Energy de janvier 2018.',
+      whyItDominated: [
+        'Le +1 d\'Oko transformait n\'importe quelle menace adverse en un 3/3 vanille, invalidant des stratégies entières',
+        'À 3 manas avec une loyauté de départ élevée, Oko était quasiment impossible à retirer par le combat',
+        'Once Upon a Time donnait aux decks verts une consistance inégalée au turn one',
+        'Veil of Summer neutralisait les principaux outils interactifs (contresorts bleus et removal noir)',
+        'Gilded Goose permettait un Oko au turn deux, créant un avantage de tempo écrasant',
+      ],
+      whyItEnded:
+        'Wizards a banni Oko, Thief of Crowns, Once Upon a Time et Veil of Summer le 18 novembre 2019. Cela faisait suite au bannissement de Field of the Dead du 21 octobre. Le métagame post-ban s\'est ouvert à Fires of Invention, Adventures et d\'autres stratégies.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'November 18, 2019, Banned and Restricted Announcement',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/news/announcements/november-18-2019-banned-and-restricted-announcement',
+          date: '2019-11-18',
+          note: 'Bannissement d\'Oko, Thief of Crowns ; Once Upon a Time ; et Veil of Summer en Standard.',
+        },
+        {
+          title: 'Oko, Thief of Crowns, Once Upon a Time and Veil of Summer Banned in Standard',
+          publisher: 'MTG Arena Zone',
+          url: 'https://mtgazone.com/oko-thief-of-crowns-once-upon-a-time-and-veil-of-summer-banned-in-standard/',
+          date: '2019-11-18',
+          note: 'Les decks Food représentaient près de 70 % du field du Mythic Championship Richmond.',
+        },
+        {
+          title: 'Standard Bannings in 2019: Feature or Bug?',
+          publisher: 'MTGGoldfish',
+          url: 'https://www.mtggoldfish.com/articles/standard-bannings-in-2019-feature-or-bug',
+          note: 'Analyse de la fréquence sans précédent des bannissements en Standard 2019.',
+        },
+      ],
+    },
+  ],
+  bans: [
+    {
+      date: '2019-02-14',
+      cards: ['Nexus of Fate'],
+      explanation:
+        'Nexus of Fate a été banni des formats Best-of-One de MTG Arena en raison des boucles fastidieuses et abusives qu\'il permettait. Les joueurs pouvaient enchaîner de multiples lancers de Nexus of Fate pour gagner des extensions de temps, puis ralentir leurs adversaires. Il s\'agissait du premier bannissement Standard spécifique à un format.',
+      source: {
+        title: 'MTG Arena Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/announcements/mtg-arena-banned-and-restricted-announcement-2019-02-14',
+        date: '2019-02-14',
+      },
+    },
+    {
+      date: '2019-10-21',
+      cards: ['Field of the Dead'],
+      explanation:
+        'Les decks ramp Field of the Dead représentaient 42 % du field du Mythic Championship V et maintenaient des taux de victoire élevés. La carte créait des patterns de jeu indésirables avec Golos, Tireless Pilgrim générant des jetons Zombie gratuits qui submergeaient les adversaires.',
+      source: {
+        title: 'October 21, 2019, Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/announcements/october-21-2019-banned-and-restricted-announcement',
+        date: '2019-10-21',
+      },
+    },
+    {
+      date: '2019-11-18',
+      cards: ['Oko, Thief of Crowns', 'Once Upon a Time', 'Veil of Summer'],
+      explanation:
+        'Les decks Oko Food ont dominé le Standard après le bannissement de Field of the Dead, représentant près de 70 % du field du Mythic Championship Richmond. La capacité d\'Oko à transformer les permanents adverses en Elks invalidait la plupart des stratégies. Once Upon a Time et Veil of Summer ont été bannis en complément pour corriger la surreprésentation systémique du vert dans le métagame. Il s\'agissait de l\'action de bannissement Standard la plus agressive depuis les bans Energy de janvier 2018.',
+      source: {
+        title: 'November 18, 2019, Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/announcements/november-18-2019-banned-and-restricted-announcement',
+        date: '2019-11-18',
+      },
+    },
+  ],
+  setReleases: [
+    { date: '2019-01-25', name: 'Ravnica Allegiance', code: 'RNA', note: 'Introduction de Hydroid Krasis et nouvelles mécaniques de guilde' },
+    { date: '2019-05-03', name: 'War of the Spark', code: 'WAR', note: '36 planeswalkers dont Teferi, Time Raveler, Narset et Nissa' },
+    { date: '2019-07-12', name: 'Core Set 2020', code: 'M20', note: 'Introduction de Field of the Dead et Chandra, Awakened Inferno' },
+    { date: '2019-10-04', name: 'Throne of Eldraine', code: 'ELD', note: 'Rotation du Standard. Introduction d\'Oko, Thief of Crowns, Once Upon a Time et Veil of Summer' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Mono-Blue Tempo',
+      slug: 'mono-blue-tempo-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo mono-bleu qui associe Curious Obsession sur Tempest Djinn ou Siren Stormtamer pour du card advantage à l\'attaque. Spell Pierce protège les tours clés, Merfolk Trickster fournit l\'interaction flash. Punit les decks gourmands mais vulnérable aux sweepers et au lifegain.',
+      keyCards: ['Curious Obsession', 'Tempest Djinn', 'Spell Pierce', 'Siren Stormtamer', 'Merfolk Trickster'],
+      source: {
+        title: 'Mythic Championship Cleveland 2019',
+        publisher: 'MTG Wiki (Fandom)',
+        url: 'https://mtg.fandom.com/wiki/Mythic_Championship_Cleveland_2019',
+      },
+    },
+    {
+      name: 'Esper Control',
+      slug: 'esper-control-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-noir-blanc ancré par Teferi, Hero of Dominaria comme closer inévitable. Absorb contre et gagne des points de vie, Kaya\'s Wrath balaie les créatures, Thought Erasure disrupt. Search for Azcanta filtre tôt. Solide contre les decks fair mais lent face au combo rapide.',
+      keyCards: ['Teferi, Hero of Dominaria', 'Absorb', 'Kaya\'s Wrath', 'Thought Erasure', 'Search for Azcanta'],
+      source: {
+        title: 'Mythic Championship Cleveland 2019',
+        publisher: 'MTG Wiki (Fandom)',
+        url: 'https://mtg.fandom.com/wiki/Mythic_Championship_Cleveland_2019',
+      },
+    },
+    {
+      name: 'Sultai Midrange',
+      slug: 'sultai-midrange-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange bleu-noir-vert centré sur Hydroid Krasis comme finisher X-spell scalable avec card advantage et lifegain. Jadelight Ranger explore dans la value, Wildgrowth Walker gagne des points de vie, Vivien Reid gère les flyers. Find // Finality fournit l\'utilité flexible.',
+      keyCards: ['Hydroid Krasis', 'Jadelight Ranger', 'Wildgrowth Walker', 'Vivien Reid', 'Find // Finality'],
+      source: {
+        title: 'Mythic Championship Cleveland 2019',
+        publisher: 'MTG Wiki (Fandom)',
+        url: 'https://mtg.fandom.com/wiki/Mythic_Championship_Cleveland_2019',
+      },
+    },
+    {
+      name: 'Oko Food',
+      slug: 'oko-food-standard-2019',
+      period: 'La crise Oko',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange vert-bleu basé sur les Food, alimenté par Oko, Thief of Crowns produisant des Élans et volant les menaces. Gilded Goose fait des tokens Food, Wicked Wolf mange des Food pour fight et croissance, Once Upon a Time tutore créatures ou terrains. Nissa conclut. Le power-level d\'Oko a finalement mené à son ban.',
+      keyCards: ['Oko, Thief of Crowns', 'Gilded Goose', 'Wicked Wolf', 'Once Upon a Time', 'Nissa, Who Shakes the World'],
+      source: {
+        title: 'November 18, 2019 Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/announcements/november-18-2019-banned-and-restricted-announcement',
+      },
+    },
+  
+    {
+      name: 'Mono-Red Aggro',
+      slug: 'mono-red-aggro-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro mono-rouge qui pump Runaway Steam-Kin et Goblin Chainwhirler tout en finissant l\'adversaire avec Skewer the Critics et Light Up the Stage pour du card advantage gratuit. Experimental Frenzy convertit le mana en sorts. Punit les ouvertures lentes mais vulnérable au lifegain.',
+      keyCards: ['Goblin Chainwhirler', 'Runaway Steam-Kin', 'Light Up the Stage', 'Skewer the Critics', 'Experimental Frenzy'],
+    },
+    {
+      name: 'Simic Nexus',
+      slug: 'simic-nexus-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'combo',
+      summary:
+        'Un deck combo bleu-vert qui utilise Wilderness Reclamation pour doubler le mana et Nexus of Fate pour prendre des tours infinis, tuant finalement avec Hydroid Krasis. Search for Azcanta filtre, Root Snare protège les points de vie. Inévitable mais lent face au combo rapide et aux contresorts.',
+      keyCards: ['Nexus of Fate', 'Wilderness Reclamation', 'Search for Azcanta', 'Root Snare', 'Hydroid Krasis'],
+    },
+    {
+      name: 'Izzet Phoenix',
+      slug: 'izzet-phoenix-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo-combo bleu-rouge qui remplit le graveyard avec Opt et Chart a Course, ramenant Arclight Phoenix gratuitement après trois sorts par tour. Crackling Drake scale avec les sorts, Lightning Strike fournit le reach. Explosif mais vulnérable à la hate graveyard.',
+      keyCards: ['Arclight Phoenix', 'Crackling Drake', 'Opt', 'Lightning Strike', 'Chart a Course'],
+    },
+    {
+      name: 'White Aggro',
+      slug: 'white-aggro-standard-2019',
+      period: 'Sultai et Esper',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro mono-blanc alimenté par Benalish Marshal et History of Benalia pour des pumps globaux et des tokens Knight. Venerated Loxodon convoque pour un boost massif, Knight of Grace bat le noir, Dauntless Bodyguard protège les menaces clés. Forte pression large mais vulnérable aux sweepers.',
+      keyCards: ['History of Benalia', 'Benalish Marshal', 'Venerated Loxodon', 'Knight of Grace', 'Dauntless Bodyguard'],
+    },
+    {
+      name: 'Esper Hero',
+      slug: 'esper-hero-standard-2019',
+      period: 'Les planeswalkers Teferi et Nissa',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange bleu-noir-blanc qui utilise Hero of Precinct One pour produire un token multicolore à chaque sort. Teferi, Time Raveler et Narset, Parter of Veils contrôlent les options adverses, Thought Erasure fournit la discard. Grindy et résistant mais vulnérable aux sweepers.',
+      keyCards: ['Hero of Precinct One', 'Teferi, Time Raveler', 'Narset, Parter of Veils', 'Thought Erasure', 'Hero\'s Downfall'],
+    },
+    {
+      name: 'Bant Ramp (Nissa)',
+      slug: 'bant-ramp-nissa-standard-2019',
+      period: 'Les planeswalkers Teferi et Nissa',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp vert-blanc-bleu alimenté par Llanowar Elves et Nissa, Who Shakes the World animant les terrains en menaces 5/5. Hydroid Krasis scale comme finisher X-spell avec card advantage et lifegain, Teferi, Hero of Dominaria fournit l\'inévitabilité. Solide contre les decks fair.',
+      keyCards: ['Nissa, Who Shakes the World', 'Hydroid Krasis', 'Teferi, Hero of Dominaria', 'Llanowar Elves', 'Growth Spiral'],
+    },
+    {
+      name: 'Gruul Aggro',
+      slug: 'gruul-aggro-standard-2019',
+      period: 'Les planeswalkers Teferi et Nissa',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro rouge-vert qui rampe avec Llanowar Elves vers Gruul Spellbreaker et Rekindling Phoenix comme menaces résilientes. Goblin Chainwhirler balaie les petites créatures, Domri, Anarch of Bolas recharge et pump. Solide contre le control mais pressé par les sweepers.',
+      keyCards: ['Llanowar Elves', 'Gruul Spellbreaker', 'Rekindling Phoenix', 'Goblin Chainwhirler', 'Domri, Anarch of Bolas'],
+    },
+    {
+      name: 'Vampires',
+      slug: 'vampires-standard-2019',
+      period: 'Les planeswalkers Teferi et Nissa',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro tribal Vampire noir-blanc où Sorin, Imperious Bloodlord triche les Vampires chers en jeu. Champion of Dusk pioche pour chaque Vampire, Knight of the Ebon Legion scale, Legion Lieutenant pump l\'équipe. Adanto Vanguard fournit une pression indestructible. Solide contre les decks fair.',
+      keyCards: ['Sorin, Imperious Bloodlord', 'Champion of Dusk', 'Knight of the Ebon Legion', 'Legion Lieutenant', 'Adanto Vanguard'],
+    },
+    {
+      name: 'Oko Food (Simic/Sultai/Bant)',
+      slug: 'oko-food-simic-sultai-bant-standard-2019',
+      period: 'La crise Oko',
+      archetype: 'midrange',
+      summary:
+        'Un shell Food vert-bleu (souvent splashant noir ou blanc) qui abuse d\'Oko, Thief of Crowns produisant des Élans et volant les menaces. Gilded Goose génère des Food, Wicked Wolf mange des Food pour fight, Nissa anime les terrains. A dominé tous les matchups fair jusqu\'au ban d\'Oko.',
+      keyCards: ['Oko, Thief of Crowns', 'Gilded Goose', 'Wicked Wolf', 'Nissa, Who Shakes the World', 'Hydroid Krasis'],
+    },
+    {
+      name: 'Fires of Invention',
+      slug: 'fires-of-invention-standard-2019',
+      period: 'La crise Oko',
+      archetype: 'combo',
+      summary:
+        'Un deck combo-control quatre/cinq couleurs qui résout Fires of Invention pour jouer deux sorts gratuits par tour. Cavalier of Flame loot et pump, Kenrith, the Returned King fournit les win conditions, Deafening Clarion balaie. Teferi, Time Raveler protège des instants. Puissant mais vulnérable aux effets disenchant.',
+      keyCards: ['Fires of Invention', 'Cavalier of Flame', 'Kenrith, the Returned King', 'Deafening Clarion', 'Teferi, Time Raveler'],
+    },
+    {
+      name: 'Jeskai Fires',
+      slug: 'jeskai-fires-standard-2019',
+      period: 'La crise Oko',
+      archetype: 'combo',
+      summary:
+        'Un deck combo-control bleu-rouge-blanc qui résout Fires of Invention puis décharge plusieurs haymakers par tour — Cavalier of Flame, Kenrith, Teferi, Time Raveler. Deafening Clarion balaie. Puissant en late game mais vulnérable à l\'aggro rapide et au disenchant.',
+      keyCards: ['Fires of Invention', 'Cavalier of Flame', 'Teferi, Time Raveler', 'Deafening Clarion', 'Kenrith, the Returned King'],
+    },
+    {
+      name: 'Adventures (Golgari)',
+      slug: 'adventures-golgari-standard-2019',
+      period: 'La crise Oko',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange Adventure noir-vert centré sur Edgewall Innkeeper piochant à chaque créature Adventure jouée. Lovestruck Beast et Murderous Rider sont des menaces efficaces avec des Adventures utilitaires. Foulmire Knight et Order of Midnight grind de la value. Grindy et résistant face aux decks fair.',
+      keyCards: ['Edgewall Innkeeper', 'Lovestruck Beast', 'Murderous Rider', 'Foulmire Knight', 'Order of Midnight'],
+    },
+  ],
+}

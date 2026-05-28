@@ -1,0 +1,241 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2010Fr: YearFormatEntry = {
+  year: 2010,
+  format: 'standard',
+  title: 'Standard 2010',
+  subtitle: 'L\'année Jund',
+  shortLabel: 'Jund & Jace',
+  summary:
+    'Le Standard 2010 s\'est ouvert avec Jund comme deck à battre incontesté, une position qu\'il a conservée pendant une grande partie de l\'année. La sortie de Worldwake a apporté Jace, the Mind Sculptor, permettant à Mythic Conscription et UW Control de contester la domination de Jund. La rotation d\'automne avec les Cicatrices de Mirrodin a réorienté le paysage vers Valakut Ramp et de nouvelles stratégies contrôle.',
+  headlineDeck: 'Jund',
+  eras: [
+    {
+      id: '2010-std-jund',
+      name: 'L\'ère Jund',
+      start: '2010-01',
+      end: '2010-04',
+      dominantDecks: ['Jund'],
+      challengers: ['Naya', 'Boros Bushwhacker', 'UW Control', 'Vampires'],
+      keyCards: [
+        { name: 'Bloodbraid Elf', role: 'Card advantage grâce à la cascade' },
+        { name: 'Blightning', role: 'Discard et dégâts combinés' },
+        { name: 'Sprouting Thrinax', role: 'Menace résiliente' },
+        { name: 'Putrid Leech', role: 'Créature deux manas efficace' },
+        { name: 'Maelstrom Pulse', role: 'Removal polyvalent' },
+      ],
+      summary:
+        'Jund était le deck définissant le Standard du début 2010. Cascader Bloodbraid Elf vers Blightning ou un removal offrait au deck une combinaison inégalée d\'card advantage et de pression. Toutes les autres stratégies se mesuraient à leur performance face à Jund.',
+      whyItDominated: [
+        'La cascade de Bloodbraid Elf générait des deux-pour-un de manière régulière',
+        'Blightning attaquait à la fois la main et le total de vie',
+        'Sprouting Thrinax punissait les stratégies à forte dose de removal',
+        'Le deck n\'avait aucun match-up véritablement défavorable dans le champ de tournoi',
+      ],
+      whyItEnded:
+        'Worldwake a introduit Jace, the Mind Sculptor. Les decks contrôle et combo construits autour de Jace ont commencé à égaler voire dépasser la puissance midrange de Jund, orientant le méta vers des stratégies bleues.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour San Diego 2010 coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/2010_Pro_Tour_Season',
+          date: '2010-02-19',
+          note: 'Événement clé de l\'ère dominée par Jund. Jund était le deck le plus joué.',
+        },
+        {
+          title: 'MTGTop8 - Standard 2010 metagame',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Résultats de tournois confirmant Jund comme l\'archétype le plus performant.',
+        },
+      ],
+    },
+    {
+      id: '2010-std-mythic',
+      name: 'L\'ère Mythic / Jace',
+      start: '2010-04',
+      end: '2010-10',
+      dominantDecks: ['Mythic Conscription', 'UW Control'],
+      challengers: ['Jund', 'Naya Allies', 'Mono-Red', 'Next Level Bant'],
+      keyCards: [
+        { name: 'Jace, the Mind Sculptor', role: 'Sélection de cartes, renvoi et condition de victoire' },
+        { name: 'Sovereigns of Lost Alara', role: 'Cherchait Eldrazi Conscription à l\'attaque' },
+        { name: 'Eldrazi Conscription', role: 'Aura de mise à mort en un coup' },
+        { name: 'Noble Hierarch', role: 'Accélération de mana et exalté' },
+        { name: 'Baneslayer Angel', role: 'Finisseur premium' },
+      ],
+      summary:
+        'L\'arrivée de Jace, the Mind Sculptor a remodelé le Standard. Mythic Conscription combinait Jace avec Sovereigns of Lost Alara pour créer un deck capable à la fois de contrôler la partie et de menacer une mise à mort en un coup. UW Control exploitait Jace aux côtés de Day of Judgment et d\'une suite de planeswalkers. Jund restait compétitif mais ne dictait plus le format.',
+      whyItDominated: [
+        'Jace, the Mind Sculptor offrait un card advantage et un contrôle du plateau inégalés',
+        'Sovereigns vers Conscription menaçait des dégâts létaux depuis un plateau minimal',
+        'Noble Hierarch accélérait l\'arrivée de Jace comme de Sovereigns',
+        'Le deck combinait tempo, card advantage et une finition combo',
+      ],
+      whyItEnded:
+        'La rotation d\'octobre 2010 a retiré le bloc Alara (dont Bloodbraid Elf, Sovereigns et Noble Hierarch) ainsi que M10. Le méta s\'est restructuré autour des Cicatrices de Mirrodin.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'US Nationals 2010 coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/National_Championship',
+          date: '2010-08-20',
+          note: 'Illustre la diversité des archétypes basés sur Jace à la mi-2010.',
+        },
+      ],
+    },
+    {
+      id: '2010-std-valakut',
+      name: 'L\'émergence de Valakut Ramp',
+      start: '2010-10',
+      end: '2010-12',
+      dominantDecks: ['Valakut Ramp'],
+      challengers: ['UW Control', 'White Weenie Quest', 'Vampires', 'RUG Control'],
+      keyCards: [
+        { name: 'Valakut, the Molten Pinnacle', role: 'Condition de victoire sous forme de terrain' },
+        { name: 'Primeval Titan', role: 'Cherchait des montagnes et des copies de Valakut' },
+        { name: 'Cultivate', role: 'Sort de ramp' },
+        { name: 'Jace, the Mind Sculptor', role: 'Condition de victoire contrôle (toujours légal)' },
+      ],
+      summary:
+        'Après la rotation, Valakut Ramp s\'est imposé comme le nouveau deck à battre. Primeval Titan cherchant Valakut, the Molten Pinnacle créait un deck de ramp capable d\'infliger plus de 18 dégâts avec un seul sort à six manas résolu. UW Control et diverses stratégies aggro se disputaient le reste du terrain.',
+      whyItDominated: [
+        'Primeval Titan plus Valakut était souvent immédiatement létal',
+        'Les sorts de ramp offraient une régularité pour atteindre six manas',
+        'Le deck punissait les démarrages lents et le jeu passif',
+        'Les conditions de victoire basées sur les terrains échappaient à la plupart des interactions',
+      ],
+      whyItEnded:
+        'Le format a continué d\'évoluer début 2011 avec l\'Assaut de Mirrodin, et Caw-Blade a fini par prendre le dessus. Jace restait dominant mais son entourage changeait.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Worlds 2010 coverage',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/2010_World_Championships',
+          date: '2010-12-09',
+          note: 'Championnat du Monde illustrant le métagame Standard post-rotation.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '2010-02-05', name: 'Worldwake', code: 'WWK', note: 'Introduction de Jace, le Sculpteur de l\'Esprit' },
+    { date: '2010-04-23', name: 'Rise of the Eldrazi', code: 'ROE' },
+    { date: '2010-07-16', name: 'Magic 2011', code: 'M11' },
+    { date: '2010-10-01', name: 'Scars of Mirrodin', code: 'SOM', note: 'Rotation du Standard : le bloc Les Éclats d\'Alara et M10 sortent du format' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Jund',
+      slug: 'jund-standard-2010',
+      period: 'L\'ère Jund',
+      archetype: 'midrange',
+      summary:
+        'Le deck midrange phare du Standard 2010. Bloodbraid Elf cascade dans Blightning, Maelstrom Pulse ou Lightning Bolt pour du value en deux-pour-un chaque tour. Putrid Leech et Sprouting Thrinax remplissent la courbe de corps résilients. Grind les decks fair mais pressé par le combo dédié et le burn.',
+      keyCards: ['Bloodbraid Elf', 'Blightning', 'Sprouting Thrinax', 'Putrid Leech', 'Maelstrom Pulse', 'Lightning Bolt'],
+    },
+    {
+      name: 'Mythic Conscription',
+      slug: 'mythic-conscription-standard-2010',
+      period: 'L\'ère Mythic / Jace',
+      archetype: 'hybrid',
+      summary:
+        'Un hybride ramp-aggro vert-blanc-bleu qui utilise Noble Hierarch et Knight of the Reliquary pour ramper vers Sovereigns of Lost Alara, fetchant Eldrazi Conscription pour un kill en un coup. Jace, the Mind Sculptor protège le combo. Explosif mais vulnérable au removal à instant speed.',
+      keyCards: ['Jace, the Mind Sculptor', 'Sovereigns of Lost Alara', 'Eldrazi Conscription', 'Noble Hierarch', 'Knight of the Reliquary'],
+    },
+    {
+      name: 'UW Control',
+      slug: 'uw-control-standard-2010',
+      period: 'L\'ère Mythic / Jace',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-blanc ancré par Jace, the Mind Sculptor comme le meilleur planeswalker du format. Day of Judgment balaie les créatures, Wall of Omens cantrip et bloque, Baneslayer Angel conclut depuis un board stable. Outvalue les decks fair mais pressé par la cascade de Jund et le combo.',
+      keyCards: ['Jace, the Mind Sculptor', 'Day of Judgment', 'Wall of Omens', 'Baneslayer Angel', 'Oblivion Ring'],
+    },
+    {
+      name: 'Valakut Ramp',
+      slug: 'valakut-ramp-standard-2010',
+      period: 'L\'émergence de Valakut Ramp',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp rouge-vert qui utilise Cultivate et Oracle of Mul Daya pour accélérer vers Primeval Titan fetchant Valakut, the Molten Pinnacle et une Mountain pour des dégâts directs. Avenger of Zendikar conclut via les tokens landfall. Inévitable mais vulnérable aux clocks rapides et aux contresorts.',
+      keyCards: ['Valakut, the Molten Pinnacle', 'Primeval Titan', 'Cultivate', 'Oracle of Mul Daya', 'Avenger of Zendikar'],
+    },
+  
+    {
+      name: 'Naya',
+      slug: 'naya-standard-2010',
+      period: 'L\'ère Jund',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange rouge-vert-blanc où Knight of the Reliquary scale avec les terrains sacrifiés et Bloodbraid Elf cascade dans la value. Ranger of Eos recharge en un-drops, Baneslayer Angel stabilise, Noble Hierarch accélère. Équilibré entre aggro et midrange mais pressé par les sweepers.',
+      keyCards: ['Knight of the Reliquary', 'Bloodbraid Elf', 'Ranger of Eos', 'Baneslayer Angel', 'Noble Hierarch'],
+    },
+    {
+      name: 'Boros Bushwhacker',
+      slug: 'boros-bushwhacker-standard-2010',
+      period: 'L\'ère Jund',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro landfall rouge-blanc qui inonde le board avec Steppe Lynx et Plated Geopede, puis termine avec Goblin Bushwhacker donnant haste et un pump global. Lightning Bolt dégage les blockers, Ranger of Eos recharge. Punit les ouvertures lentes mais s\'effondre face aux sweepers précoces.',
+      keyCards: ['Goblin Bushwhacker', 'Steppe Lynx', 'Plated Geopede', 'Lightning Bolt', 'Ranger of Eos'],
+    },
+    {
+      name: 'Vampires',
+      slug: 'vampires-standard-2010',
+      period: 'L\'émergence de Valakut Ramp',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro-midrange tribal mono-noir bâti sur Vampire Lacerator et Vampire Nighthawk pour une pression précoce avec lifelink et deathtouch. Bloodghast revient depuis le graveyard via landfall, Gatekeeper of Malakir retire une créature à l\'arrivée, Malakir Bloodwitch draine pour gagner. Résistant face aux decks fair mais vulnérable au removal d\'exil.',
+      keyCards: ['Bloodghast', 'Vampire Nighthawk', 'Gatekeeper of Malakir', 'Malakir Bloodwitch', 'Vampire Lacerator'],
+    },
+    {
+      name: 'Naya Allies',
+      slug: 'naya-allies-standard-2010',
+      period: 'L\'ère Mythic / Jace',
+      archetype: 'aggro',
+      summary:
+        'Un deck tribal Ally rouge-vert-blanc qui fait boule de neige — chaque nouvel Ally pump Hada Freeblade et Kazandu Blademaster en déclenchant le lifelink de Talus Paladin et le gain de vie d\'Ondu Cleric. Harabaz Druid rampe multicolore. Grossit vite mais s\'effondre face aux sweepers.',
+      keyCards: ['Hada Freeblade', 'Kazandu Blademaster', 'Ondu Cleric', 'Talus Paladin', 'Harabaz Druid'],
+    },
+    {
+      name: 'Mono-Red',
+      slug: 'mono-red-standard-2010',
+      period: 'L\'ère Mythic / Jace',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro mono-rouge jouant Goblin Guide, Plated Geopede et Ball Lightning soutenus par Lightning Bolt et Searing Blaze pour le burn. Vise à infliger vingt dégâts au tour quatre. Punit les manabases gourmandes mais vulnérable au lifegain et aux sweepers précoces.',
+      keyCards: ['Goblin Guide', 'Lightning Bolt', 'Searing Blaze', 'Plated Geopede', 'Ball Lightning'],
+    },
+    {
+      name: 'Next Level Bant',
+      slug: 'next-level-bant-standard-2010',
+      period: 'L\'ère Mythic / Jace',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange vert-blanc-bleu qui rampe avec Noble Hierarch vers Knight of the Reliquary et Jace, the Mind Sculptor. Stoneforge Mystic tutore les équipements, Baneslayer Angel stabilise. Solide contre le midrange fair mais pressé par le combo et le burn.',
+      keyCards: ['Noble Hierarch', 'Jace, the Mind Sculptor', 'Knight of the Reliquary', 'Stoneforge Mystic', 'Baneslayer Angel'],
+    },
+    {
+      name: 'White Weenie Quest',
+      slug: 'white-weenie-quest-standard-2010',
+      period: 'L\'émergence de Valakut Ramp',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro artefact mono-blanc qui se précipite vers quatre artefacts sur Quest for the Holy Relic, puis tutore Argentum Armor pour écraser l\'adversaire. Mox Opal accélère, Stoneforge Mystic sert de tuteur de secours, Steppe Lynx applique la pression précoce. Explosif mais fragile au removal d\'artefact.',
+      keyCards: ['Quest for the Holy Relic', 'Argentum Armor', 'Stoneforge Mystic', 'Steppe Lynx', 'Mox Opal'],
+    },
+    {
+      name: 'RUG Control',
+      slug: 'rug-control-standard-2010',
+      period: 'L\'émergence de Valakut Ramp',
+      archetype: 'control',
+      summary:
+        'Un deck control rouge-bleu-vert qui utilise Lightning Bolt et Mana Leak pour de l\'interaction bon marché pendant que Jace, the Mind Sculptor construit du card advantage. Frost Titan et Inferno Titan concluent comme six-drops flexibles. Outvalue les decks fair mais lent face au combo.',
+      keyCards: ['Jace, the Mind Sculptor', 'Lightning Bolt', 'Mana Leak', 'Frost Titan', 'Inferno Titan'],
+    },
+  ],
+}

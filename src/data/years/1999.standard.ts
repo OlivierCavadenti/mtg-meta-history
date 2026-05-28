@@ -1,0 +1,216 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard1999: YearFormatEntry = {
+  year: 1999,
+  format: 'standard',
+  title: 'Standard 1999',
+  subtitle: 'Combo Winter and the emergency bans',
+  shortLabel: 'Combo Winter',
+  summary:
+    'The most notorious year in Standard history. Despite the December 1998 banning of Tolarian Academy and other cards, the Urza block continued to produce degenerate combo decks. Memory Jar received Magic\'s only emergency mid-cycle ban in March 1999. Yawgmoth\'s Bargain and High Tide combo decks dominated. Replenish emerged as yet another powerful engine. Wizards issued multiple waves of bans throughout the year in an unprecedented effort to stabilize the format. By autumn, Mercadian Masques arrived with deliberately lower power, and Standard slowly recovered.',
+  headlineDeck: "Yawgmoth's Bargain",
+  eras: [
+    {
+      id: '1999-std-combo-winter',
+      name: 'Combo Winter',
+      start: '1999-01',
+      end: '1999-03',
+      dominantDecks: ["Yawgmoth's Bargain", 'Memory Jar combo'],
+      challengers: ['High Tide', 'Sligh', 'White Weenie', 'Draw-Go'],
+      keyCards: [
+        { name: "Yawgmoth's Bargain", role: 'Necropotence on steroids: pay life, draw cards instantly' },
+        { name: 'Memory Jar', role: 'Mass hand replacement enabling combo turns' },
+        { name: 'Dark Ritual', role: 'Fast mana enabling early Bargain' },
+        { name: 'Skirge Familiar', role: 'Mana engine discarding drawn cards for black mana' },
+        { name: 'Soul Feast', role: 'Drain spell as kill condition in Bargain combo' },
+      ],
+      summary:
+        'Even after the December 1998 bannings, Urza block combo decks refused to die. Yawgmoth\'s Bargain decks could draw their entire library by paying life, then kill with Skirge Familiar and drain effects. Memory Jar combo provided yet another broken draw engine. High Tide used Tolaria and untap effects to generate infinite mana. Tournament attendance plummeted as players grew tired of non-interactive combo mirrors. This period became known as "Combo Winter," the most infamous metagame in Magic history.',
+      whyItDominated: [
+        "Yawgmoth's Bargain drew cards even faster than Necropotence with no end-of-turn restriction",
+        'Memory Jar provided seven new cards for both players but combo decks exploited them better',
+        'Dark Ritual and fast mana enabled turn-two or turn-three combo kills',
+        'Interactive decks had almost no tools to stop multiple combo angles simultaneously',
+      ],
+      whyItEnded:
+        "Memory Jar was emergency banned on March 1, 1999, the only card in Magic history to receive an emergency ban between regular announcement cycles. Further bans followed.",
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Combo Winter - MTG History',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Combo_Winter',
+          note: 'Comprehensive overview of the Combo Winter period.',
+        },
+        {
+          title: 'Memory Jar emergency ban',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+          date: '1999-03-01',
+          note: 'The only emergency ban in Magic history, issued outside the normal announcement schedule.',
+        },
+      ],
+    },
+    {
+      id: '1999-std-bargain',
+      name: 'Bargain and Replenish',
+      start: '1999-03',
+      end: '1999-07',
+      dominantDecks: ["Yawgmoth's Bargain", 'Replenish'],
+      challengers: ['Sligh', 'Stompy', 'Mono-Blue Control', 'White Weenie'],
+      keyCards: [
+        { name: "Yawgmoth's Bargain", role: 'Still the premier card-drawing engine despite other bans' },
+        { name: 'Replenish', role: 'Mass enchantment reanimation enabling powerful board states' },
+        { name: 'Opalescence', role: 'Turned enchantments into creatures for the Replenish kill' },
+        { name: 'Parallax Wave', role: 'Repeatable removal synergizing with Opalescence' },
+        { name: 'Attunement', role: 'Card selection dumping enchantments into graveyard for Replenish' },
+      ],
+      summary:
+        "Even after Memory Jar's emergency ban, the format remained warped. Yawgmoth's Bargain continued to power combo decks until it was eventually banned. Replenish emerged as a new combo-control hybrid that dumped enchantments into the graveyard with Attunement, then cast Replenish to return them all at once. With Opalescence, the enchantments became creatures for a lethal attack. Wizards continued issuing bans to bring the format under control.",
+      whyItDominated: [
+        "Yawgmoth's Bargain remained legal despite the surrounding carnage",
+        'Replenish offered a different combo axis that was hard to hate out simultaneously',
+        'Opalescence plus Parallax Wave created a board lock',
+        'Aggressive decks were fast but inconsistent against multiple combo angles',
+      ],
+      whyItEnded:
+        "Yawgmoth's Bargain was banned in June 1999. Further restrictions throughout the year gradually weakened the remaining combo strategies.",
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Replenish deck history',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Replenish_(deck)',
+          note: 'Overview of the Replenish archetype in Standard.',
+        },
+        {
+          title: 'Banned and Restricted timeline 1999',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+          note: 'Multiple ban announcements throughout 1999.',
+        },
+      ],
+    },
+    {
+      id: '1999-std-masques',
+      name: 'Mercadian Masques Recovery',
+      start: '1999-10',
+      end: '1999-12',
+      dominantDecks: ['Replenish', 'Angry Hermit'],
+      challengers: ['Sligh', 'Stompy', 'Accelerated Blue', 'Trinity Green'],
+      keyCards: [
+        { name: 'Replenish', role: 'Still powerful even in the post-ban landscape' },
+        { name: 'Rishadan Port', role: 'Mana denial from Mercadian Masques' },
+        { name: 'Deranged Hermit', role: 'Token-generating threat in green aggro' },
+        { name: 'Grim Monolith', role: 'Fast mana artifact, one of the few survivors' },
+      ],
+      summary:
+        'Mercadian Masques arrived in October 1999 with a deliberately lower power level to counteract the Urza block disaster. The rotation removed many of the worst offenders, though Replenish persisted as a top deck using Urza block enchantments. Rishadan Port from Masques gave aggressive and tempo decks a new mana-denial tool. The format slowly began to normalize, though it would take until 2000 for Standard to fully recover from Combo Winter.',
+      whyItDominated: [
+        'Replenish still had access to powerful Urza block enchantments',
+        'Mercadian Masques was low-powered by design, leaving older strategies intact',
+        'Rishadan Port rewarded aggressive and tempo strategies',
+        'The banning cycle had removed the worst offenders but some powerful cards remained',
+      ],
+      whyItEnded:
+        'Continued rotation and the arrival of Nemesis in early 2000 further diluted the Urza block combo potential. Standard gradually returned to a healthy state.',
+      confidence: 'low',
+      sources: [
+        {
+          title: 'Mercadian Masques release',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/Mercadian_Masques',
+          date: '1999-10-04',
+          note: 'Deliberately lower-powered set following the Urza block disaster.',
+        },
+        {
+          title: '1999 World Championships',
+          publisher: 'Wizards of the Coast',
+          url: 'https://mtg.fandom.com/wiki/1999_World_Championships',
+          date: '1999-08-11',
+          note: 'Kai Budde won Worlds 1999, beginning his historic reign.',
+        },
+      ],
+    },
+  ],
+  bans: [
+    {
+      date: '1999-03-01',
+      cards: ['Memory Jar'],
+      explanation:
+        "Memory Jar received the only emergency ban in Magic history, issued outside the normal announcement schedule. The card enabled broken combo turns in conjunction with other Urza block cards, and Wizards acted before it could dominate the next round of major tournaments.",
+      source: {
+        title: 'Memory Jar Emergency Ban',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+        date: '1999-03-01',
+      },
+    },
+    {
+      date: '1999-06-01',
+      cards: ['Mind Over Matter', 'Time Spiral', "Yawgmoth's Bargain", 'Windfall'],
+      explanation:
+        "Continued effort to remove the remaining Urza block combo engines from Standard. Yawgmoth's Bargain was the most egregious remaining offender, enabling one-turn kills through massive card draw.",
+      source: {
+        title: 'June 1999 Banned and Restricted Announcement',
+        publisher: 'Wizards of the Coast',
+        url: 'https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline',
+        date: '1999-06-01',
+      },
+    },
+  ],
+  setReleases: [
+    { date: '1999-02-15', name: "Urza's Legacy", code: 'ULG' },
+    { date: '1999-04-21', name: 'Sixth Edition', code: '6ED', note: 'Major rules overhaul: the "Sixth Edition rules changes"' },
+    { date: '1999-06-07', name: "Urza's Destiny", code: 'UDS' },
+    { date: '1999-10-04', name: 'Mercadian Masques', code: 'MMQ', note: 'Standard rotation: Tempest block rotates out. Deliberately lower power to stabilize format.' },
+  ],
+  representativeDecks: [
+    {
+      name: "Yawgmoth's Bargain",
+      slug: 'yawgmoths-bargain-standard-1999',
+      period: 'Combo Winter',
+      archetype: 'combo',
+      summary:
+        'A mono-black combo deck that resolves Yawgmoth\'s Bargain to draw the entire library by paying life, then converts cards to mana with Skirge Familiar and kills via Soul Feast or Drain Life. Dark Ritual enables explosive turn-two combos. Devastating goldfish but vulnerable to counterspells and lifegain.',
+      keyCards: ["Yawgmoth's Bargain", 'Dark Ritual', 'Skirge Familiar', 'Soul Feast', 'Renounce'],
+      source: {
+        title: 'Combo Winter overview',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Combo_Winter',
+      },
+    },
+    {
+      name: 'Memory Jar Combo',
+      slug: 'memory-jar-combo-standard-1999',
+      period: 'Combo Winter',
+      archetype: 'combo',
+      summary:
+        'An artifact combo deck that uses Tinker and Voltaic Key to cheat Memory Jar into play, dump its hand into Megrim, and burn the opponent out. Grim Monolith provides extra mana acceleration. Goldfishes on turn three or four reliably, but vulnerable to counterspells and artifact removal.',
+      keyCards: ['Memory Jar', 'Megrim', 'Tinker', 'Voltaic Key', 'Grim Monolith'],
+    },
+    {
+      name: 'Replenish',
+      slug: 'replenish-standard-1999',
+      period: 'Bargain and Replenish',
+      archetype: 'combo',
+      summary:
+        'A combo deck that mills enchantments into the graveyard with Attunement, then resurrects them all with Replenish for a game-winning Opalescence-fueled board. Parallax Wave and Parallax Tide lock the opponent out as creature lands. Brittle to graveyard hate and enchantment removal, but otherwise hard to stop.',
+      keyCards: ['Replenish', 'Opalescence', 'Parallax Wave', 'Parallax Tide', 'Attunement'],
+      source: {
+        title: 'Replenish deck history',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/Replenish_(deck)',
+      },
+    },
+    {
+      name: 'Sligh',
+      slug: 'sligh-standard-1999',
+      period: 'Combo Winter',
+      archetype: 'aggro',
+      summary:
+        'An updated red aggro shell with a sharp low mana curve, Jackal Pup and Mogg Fanatic up front and Ball Lightning, Hammer of Bogardan, and Cursed Scroll providing reach. Aims to deal twenty damage before the opponent stabilizes. Punishes slow lands and tapped openings, but vulnerable to lifegain and efficient blockers.',
+      keyCards: ['Jackal Pup', 'Mogg Fanatic', 'Cursed Scroll', 'Hammer of Bogardan', 'Ball Lightning'],
+    },
+  ],
+}

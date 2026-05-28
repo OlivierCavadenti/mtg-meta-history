@@ -1,0 +1,189 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2000Fr: YearFormatEntry = {
+  year: 2000,
+  format: 'standard',
+  title: 'Standard 2000',
+  subtitle: 'Après le Combo Winter',
+  shortLabel: 'Rétablissement post-Urza',
+  summary:
+    'Le Standard 2000 a été défini par les conséquences des bannissements du Combo Winter et la transition du bloc Urza vers le bloc Masques. Les premiers mois portaient encore l\'ombre de la puissance d\'Urza, avec Replenish et Angry Hermit parmi les meilleures stratégies. Avec l\'arrivée de Nemesis en février, les Rebels menés par Lin Sivvi sont devenus l\'épine dorsale du format. Rising Waters offrait une alternative tempo, tandis que le niveau de puissance volontairement plus bas du bloc Masques maintenait le format en ordre. L\'arrivée d\'Invasion en octobre a introduit de puissantes cartes multicolores et posé les bases d\'une nouvelle ère.',
+  headlineDeck: 'Rebels',
+  eras: [
+    {
+      id: '2000-std-post-urza',
+      name: 'Après le Combo Winter',
+      start: '2000-01',
+      end: '2000-04',
+      dominantDecks: ['Replenish', 'Angry Hermit'],
+      challengers: ['Mono-Red Burn', 'Accelerated Blue', 'Trinity Green'],
+      keyCards: [
+        { name: 'Replenish', role: 'Réanimation massive d\'enchantements depuis le cimetière' },
+        { name: 'Parallax Wave', role: 'Contrôle du plateau en exilant temporairement les créatures' },
+        { name: 'Parallax Tide', role: 'Déni de mana en exilant temporairement les terrains' },
+        { name: 'Deranged Hermit', role: 'Armée instantanée, cinq corps pour cinq manas' },
+      ],
+      summary:
+        'Après les bannissements massifs du bloc Urza en 1999, le Standard est entré en phase de convalescence en 2000. Les decks Replenish utilisaient Attunement pour remplir le cimetière d\'enchantements, puis les ramenaient tous d\'un coup. Angry Hermit combinait une accélération de mana rapide avec Deranged Hermit et la destruction de terrains. Le format était plus sain que le Combo Winter mais portait encore les empreintes de la puissance de l\'ère Urza.',
+      whyItDominated: [
+        'Replenish offrait une fin quasi combo en ramenant plusieurs enchantements simultanément',
+        'Parallax Wave et Parallax Tide fournissaient contrôle du plateau et déni de mana dans un même package',
+        'Peu de decks pouvaient encaisser la vague de valeur d\'un Replenish résolu',
+        'Angry Hermit punissait les départs lents avec des Deranged Hermits rapides et de la destruction de terrains',
+      ],
+      whyItEnded:
+        'L\'arrivée de Nemesis en février a apporté Lin Sivvi et une boîte à outils Rebel complète. La chaîne de tutoring donnait aux decks blancs une régularité et une inévitabilité inégalées, repoussant Replenish et les builds Hermit en marge.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'World Championship Decks/2000',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2000',
+          note: 'Documente le paysage compétitif du Standard 2000, incluant les builds Replenish.',
+        },
+        {
+          title: 'MTGTop8 - Standard 2000 metagame',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Résultats de tournois du Standard début 2000.',
+        },
+      ],
+    },
+    {
+      id: '2000-std-rebels',
+      name: 'Le soulèvement Rebel',
+      start: '2000-04',
+      end: '2000-10',
+      dominantDecks: ['Rebels'],
+      challengers: ['Rising Waters', 'Replenish', 'Control Black'],
+      keyCards: [
+        { name: 'Lin Sivvi, Defiant Hero', role: 'Moteur de tutoring Rebel, cherchait toute la chaîne' },
+        { name: 'Ramosian Sergeant', role: 'Créature à un mana lançant la chaîne de recherche Rebel' },
+        { name: 'Steadfast Guard', role: 'Attaquant efficace à deux manas dans la courbe Rebel' },
+        { name: 'Rising Waters', role: 'Pièce de lock empêchant les adversaires de dégager leurs terrains' },
+      ],
+      summary:
+        'Lin Sivvi a transformé la mécanique Rebel en stratégie dominante. La capacité de tutorer une chaîne de créatures directement depuis la bibliothèque rendait les decks Rebel extraordinairement réguliers. Rising Waters offrait un plan tempo alternatif, utilisant l\'enchantement pour verrouiller les adversaires tout en déployant des menaces bon marché. Cette ère a mis en valeur les mécaniques du bloc Masques à leur meilleur, même si le niveau de puissance global était inférieur à celui d\'Urza.',
+      whyItDominated: [
+        'Lin Sivvi fournissait un avantage de cartes répétable en cherchant les Rebels directement',
+        'La chaîne Rebel signifiait que le deck ne manquait presque jamais de menaces',
+        'Rising Waters punissait quiconque tentait de jouer des sorts coûteux',
+        'Le bloc Masques était conçu pour être moins puissant, rendant la régularité Rebel difficile à égaler',
+      ],
+      whyItEnded:
+        'L\'arrivée d\'Invasion en octobre 2000 a apporté de puissantes cartes or et une rotation majeure. Les nouvelles stratégies multicolores ont surclassé la chaîne linéaire Rebel, et le format a basculé radicalement vers Fires of Yavimaya et d\'autres decks de l\'ère Invasion.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'Pro Tour Chicago 2000 results',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/event?e=9171&f=ST',
+          note: 'Kai Budde a remporté le PT Chicago 2000 avec Rebels, battant Kamiel Cornelissen en finale.',
+        },
+        {
+          title: 'World Championship Decks/2000',
+          publisher: 'MTG Wiki',
+          url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2000',
+          note: 'Jon Finkel a remporté les Worlds 2000 à Bruxelles avec un deck artefact basé sur Tinker.',
+        },
+      ],
+    },
+    {
+      id: '2000-std-invasion',
+      name: 'L\'émergence de Fires of Yavimaya',
+      start: '2000-10',
+      end: '2000-12',
+      dominantDecks: ['Fires of Yavimaya'],
+      challengers: ['Rebels', 'Counter-Rebel', 'Blue Skies'],
+      keyCards: [
+        { name: 'Fires of Yavimaya', role: 'Accordait la célérité, permettant des attaques explosives' },
+        { name: 'Blastoderm', role: '5/5 inciblable, l\'attaquant de référence' },
+        { name: 'Saproling Burst', role: 'Rafale massive de jetons avec célérité grâce à Fires' },
+        { name: 'Birds of Paradise', role: 'Accélération de mana vers un Fires au deuxième tour' },
+      ],
+      summary:
+        'L\'arrivée d\'Invasion en octobre a été un séisme. Fires of Yavimaya est devenu immédiatement une force majeure, accordant la célérité aux jetons de Blastoderm et Saproling Burst pour des attaques dévastatrices. L\'extension multicolore a apporté du mana fixing et des sorts puissants qui ont redéfini le format. Bien que l\'année se soit terminée avec Fires encore en phase d\'établissement, le deck allait façonner le Standard bien avant dans 2001.',
+      whyItDominated: [
+        'Fires of Yavimaya avec Saproling Burst créait une rafale énorme de dégâts avec célérité',
+        'Blastoderm était presque impossible à gérer efficacement',
+        'Le shell RG disposait d\'une forte accélération de mana avec Birds of Paradise et Llanowar Elves',
+        'Les cartes or d\'Invasion récompensaient les stratégies multicolores agressives',
+      ],
+      whyItEnded:
+        'Fires a continué à dominer en 2001. Son règne ne prendrait fin que lorsqu\'Apocalypse et les extensions suivantes fourniraient aux decks contrôle les outils pour riposter.',
+      confidence: 'medium',
+      sources: [
+        {
+          title: 'MTGTop8 - Standard events late 2000',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/format?f=ST',
+          note: 'Résultats de tournois montrant l\'émergence de Fires of Yavimaya fin 2000.',
+        },
+      ],
+    },
+  ],
+  bans: [],
+  setReleases: [
+    { date: '2000-02-14', name: 'Nemesis', code: 'NEM', note: 'Introduit Lin Sivvi et la boîte à outils Rebel complète' },
+    { date: '2000-06-05', name: 'Prophecy', code: 'PCY' },
+    { date: '2000-10-02', name: 'Invasion', code: 'INV', note: 'Rotation du Standard : le bloc Tempest et la Cinquième Édition sortent du format. Retour des cartes or' },
+  ],
+  representativeDecks: [
+    {
+      name: 'Replenish',
+      slug: 'replenish-standard-2000',
+      period: 'Après le Combo Winter',
+      archetype: 'combo',
+      summary:
+        'Le deck combo du bloc Urza qui remplit le graveyard d\'enchantements via Attunement, puis joue Replenish pour tous les remettre en jeu et combo avec Opalescence. Parallax Wave et Parallax Tide verrouillent le board et la library. Résistant face aux decks fair mais s\'effondre face à la hate graveyard.',
+      keyCards: ['Replenish', 'Attunement', 'Parallax Wave', 'Parallax Tide', 'Opalescence'],
+      source: {
+        title: 'World Championship Decks/2000',
+        publisher: 'MTG Wiki',
+        url: 'https://mtg.fandom.com/wiki/World_Championship_Decks/2000',
+      },
+    },
+    {
+      name: 'Rebels',
+      slug: 'rebels-standard-2000',
+      period: 'Le soulèvement Rebel',
+      archetype: 'aggro',
+      summary:
+        'Un toolbox de créatures bâti sur la chaîne Rebel — Ramosian Sergeant et Defiant Falcon cherchent des Rebels plus gros chaque tour à instant speed. Lin Sivvi, Defiant Hero est le moteur, recurrant les Rebels sacrifiés et accélérant la chaîne. Grindy et résistant, mais lent face au combo et faible aux sweepers.',
+      keyCards: ['Lin Sivvi, Defiant Hero', 'Ramosian Sergeant', 'Defiant Falcon', 'Steadfast Guard', 'Crusade'],
+      source: {
+        title: 'Pro Tour Chicago 2000 - Kai Budde Rebels',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/event?e=9171&f=ST',
+      },
+    },
+    {
+      name: 'Rising Waters',
+      slug: 'rising-waters-standard-2000',
+      period: 'Le soulèvement Rebel',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo-lock bleu qui résout Rising Waters pour ralentir chaque untap, puis maintient la pression avec Rishadan Airship et Waterfront Bouncer. Daze et Gush gardent du mana pour les contresorts. Étouffe le midrange fair mais vulnérable à l\'aggro rapide et au removal d\'enchantement.',
+      keyCards: ['Rising Waters', 'Rishadan Airship', 'Daze', 'Gush', 'Waterfront Bouncer'],
+      source: {
+        title: 'MTGTop8 - Standard 2000 Rising Waters',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+    {
+      name: 'Fires of Yavimaya',
+      slug: 'fires-standard-2000',
+      period: 'L\'émergence de Fires of Yavimaya',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro rouge-vert qui utilise Fires of Yavimaya pour donner haste à des grosses créatures comme Blastoderm et Saproling Burst. Birds of Paradise et Llanowar Elves rampent vers des quatre-drops avec haste au tour trois. Écrase les decks lents mais s\'effondre face aux sweepers précoces et au removal au sol efficace.',
+      keyCards: ['Fires of Yavimaya', 'Blastoderm', 'Saproling Burst', 'Birds of Paradise', 'Llanowar Elves'],
+      source: {
+        title: 'MTGTop8 - Fires decklists 2000',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/format?f=ST',
+      },
+    },
+  ],
+}

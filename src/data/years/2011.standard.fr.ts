@@ -1,0 +1,387 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2011Fr: YearFormatEntry = {
+  year: 2011,
+  format: 'standard',
+  title: 'Standard 2011',
+  subtitle: 'L\'année de Caw-Blade et du marteau des bannissements',
+  shortLabel: 'Caw-Blade & bannissements',
+  summary:
+    'Le Standard 2011 fut défini par l\'ascension, l\'apogée et la chute de Caw-Blade. Le deck combinait Jace, the Mind Sculptor, Stoneforge Mystic, Squadron Hawk et de puissants équipements pour former l\'archétype Standard le plus dominant depuis des années. Batterskull, issu de New Phyrexia, fit basculer la balance, menant aux premiers bannissements en Standard depuis 2005. Le format post-bannissement s\'ouvrit considérablement, et la rotation automnale avec Innistrad apporta un métagame entièrement nouveau mettant en vedette Solar Flare, Tempered Steel et des stratégies agressives.',
+  headlineDeck: 'Caw-Blade',
+  eras: [
+    {
+      id: '2011-std-cawblade-rises',
+      name: 'L\'ascension de Caw-Blade',
+      start: '2011-01',
+      end: '2011-03',
+      dominantDecks: ['UW Caw-Blade'],
+      challengers: ['Valakut Ramp', 'RUG Control', 'Boros', 'Vampires'],
+      keyCards: [
+        { name: 'Jace, the Mind Sculptor', role: 'Sélection de cartes, renvoi en main et condition de victoire' },
+        { name: 'Stoneforge Mystic', role: 'Tuteur d\'équipement capable de mettre un équipement en jeu directement' },
+        { name: 'Squadron Hawk', role: 'Card advantage régulier et synergie avec Jace' },
+        { name: 'Sword of Feast and Famine', role: 'Dégageait les terrains à l\'impact, permettant de jouer deux sorts par tour' },
+        { name: 'Spell Pierce', role: 'Protection peu coûteuse pour les permanents clés' },
+      ],
+      summary:
+        'Caw-Blade était le deck central du Standard début 2011, combinant la sélection de cartes de Jace, the Mind Sculptor avec la régularité de Squadron Hawk et de puissants équipements. Ben Stark remporta le Pro Tour Paris en février 2011, et six des huit decks du Top 8 étaient des variantes UW Control. Le nom du deck venait de « Caw » (Squadron Hawk) et « Blade » (Sword of Feast and Famine). Stoneforge Mystic pouvait chercher et déployer un équipement à vitesse d\'éphémère, conférant au deck un avantage de tempo redoutable.',
+      whyItDominated: [
+        'Jace, the Mind Sculptor offrait une sélection de cartes inégalée et une condition de victoire en une seule carte',
+        'Stoneforge Mystic transformait un deux-drops en tuteur d\'équipement réutilisable et mettait les équipements en jeu directement',
+        'Squadron Hawk remplissait la main tout en fournissant des créatures pour porter les épées',
+        'Sword of Feast and Famine dégageait les terrains, permettant de déployer des menaces tout en gardant de la contremagic en réserve',
+        'Le deck avait un bon match-up contre les stratégies aggro comme control',
+      ],
+      whyItEnded:
+        'New Phyrexia sortit en mai 2011, ajoutant Batterskull au deck. Loin de décliner, Caw-Blade devint encore plus dominant, ouvrant la voie à l\'ère suivante.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Paris 2011 coverage',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/event?e=1016&f=ST',
+          date: '2011-02-13',
+          note: 'Six des huit decks du Top 8 au Pro Tour Paris étaient des variantes UW Control. Ben Stark remporta l\'événement.',
+        },
+        {
+          title: 'Caw-Blade deck tech',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/news/feature/caw-blade-2011-03-01',
+          date: '2011-03-01',
+          note: 'Article officiel de Wizards sur l\'archétype Caw-Blade.',
+        },
+      ],
+    },
+    {
+      id: '2011-std-cawblade-dominance',
+      name: 'La domination de Caw-Blade',
+      start: '2011-03',
+      end: '2011-06',
+      dominantDecks: ['UW Caw-Blade', 'Darkblade'],
+      challengers: ['Valakut Ramp', 'Splinter Twin', 'Mono-Red', 'Vampires'],
+      keyCards: [
+        { name: 'Batterskull', role: 'Menace récurrente avec lien de vie via Stoneforge Mystic' },
+        { name: 'Sword of War and Peace', role: 'Protection contre le rouge et le blanc, punissait les mains pleines' },
+        { name: 'Jace, the Mind Sculptor', role: 'Planeswalker dominant offrant card advantage et contrôle' },
+        { name: 'Stoneforge Mystic', role: 'Déployait Batterskull dès le troisième tour' },
+        { name: 'Dismember', role: 'Sort d\'anti-créature gratuit issu de New Phyrexia, utilisé par et contre Caw-Blade' },
+      ],
+      summary:
+        'La sortie de New Phyrexia en mai 2011 fit passer Caw-Blade du meilleur deck à une force oppressive. Batterskull offrait à Stoneforge Mystic une cible qui était une menace à elle seule, créant une situation où la Mystic devait être neutralisée au deuxième tour sous peine d\'affronter une créature 4/4 vigilance lien de vie au tour trois. Les variantes « Darkblade » ajoutaient du noir pour de l\'anti-créature et Inquisition of Kozilek. Au Grand Prix Singapour, 88 % des decks du Jour 2 contenaient Jace, the Mind Sculptor et près de 70 % contenaient Stoneforge Mystic. La fréquentation des tournois déclina alors que les joueurs se lassaient de l\'homogénéité du format.',
+      whyItDominated: [
+        'Batterskull offrait à Stoneforge Mystic une cible exigeant une réponse immédiate',
+        'Jace apparaissait dans 88 % des decks du Jour 2 au Grand Prix Singapour',
+        'Le deck n\'avait aucun mauvais match-up fiable dans le champ de tournoi',
+        'Les réponses à Batterskull étaient limitées puisqu\'il retournait en main quand il était menacé',
+        'Les variantes Darkblade ajoutaient de la discard pour éliminer préventivement les réponses adverses',
+      ],
+      whyItEnded:
+        'Wizards of the Coast interdit Jace, the Mind Sculptor et Stoneforge Mystic en Standard à compter du 1er juillet 2011. C\'était le premier bannissement en Standard depuis 2005.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Standard Bannings Explained',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/news/feature/standard-bannings-explained-2011-06-20-0',
+          date: '2011-06-20',
+          note: 'Explication officielle des bannissements de Jace et Stoneforge, citant les données du métagame du GP Singapour.',
+        },
+        {
+          title: 'The Dominance of Caw Blade',
+          publisher: 'Medium',
+          url: 'https://medium.com/@nikkolasbaker/the-dominance-of-caw-blade-dig-through-time-f1ce18c945c2',
+          note: 'Rétrospective historique sur l\'ère Caw-Blade.',
+        },
+        {
+          title: 'Grand Prix Singapore 2011',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/event?e=1658&f=ST',
+          note: 'Résultats de tournoi montrant la domination de Caw-Blade.',
+        },
+      ],
+    },
+    {
+      id: '2011-std-post-ban',
+      name: 'L\'été post-bannissement',
+      start: '2011-07',
+      end: '2011-09',
+      dominantDecks: ['Valakut Ramp', 'Splinter Twin'],
+      challengers: ['Tempered Steel', 'UB Control', 'Mono-Red', 'Birthing Pod'],
+      keyCards: [
+        { name: 'Primeval Titan', role: 'Cherchait Valakut et des montagnes pour infliger des dégâts létaux' },
+        { name: 'Splinter Twin', role: 'Enchantement combo créant des copies infinies avec haste grâce à Deceiver Exarch' },
+        { name: 'Deceiver Exarch', role: 'Créature flash se combinant avec Splinter Twin pour des jetons infinis' },
+        { name: 'Tempered Steel', role: 'Hymne pour les créatures-artefacts, permettant un aggro rapide' },
+        { name: 'Solemn Simulacrum', role: 'Accélération de mana et draw, largement joué dans toutes les stratégies' },
+      ],
+      summary:
+        'Avec Jace et Stoneforge hors-jeu, le Standard se diversifia considérablement. Valakut Ramp émergea comme le premier favori, représentant 22 % du métagame aux Championnats nationaux japonais et affichant de solides résultats. Les decks combo Splinter Twin offraient une horloge rapide punissant les départs lents. Tempered Steel exerçait une pression agressive grâce aux créatures-artefacts. Ali Aintrazi remporta les Championnats nationaux américains avec UB Control, le seul deck non-Caw-Blade dans un Top 8 qui reflétait encore l\'ombre de l\'archétype banni. Le format récompensait des stratégies diversifiées d\'une manière que l\'ère Caw-Blade n\'avait pas permise.',
+      whyItDominated: [
+        'Valakut Ramp pouvait tuer de manière fiable aux tours cinq ou six avec Primeval Titan',
+        'Splinter Twin menaçait d\'un kill combo au tour quatre, forçant l\'adversaire à garder de l\'anti-créature en réserve',
+        'Tempered Steel déployait de multiples créatures-artefacts et les boostait pour des victoires aggro rapides',
+        'Aucun deck ne dépassait 25 % du métagame, rendant le champ de tournoi diversifié',
+      ],
+      whyItEnded:
+        'La rotation de septembre 2011 retira le bloc Zendikar (Valakut, Stoneforge) et M11. La sortie d\'Innistrad introduisit de nouvelles mécaniques et stratégies, réinitialisant le format.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'US Nationals 2011 coverage',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/event?e=1897&f=ST',
+          date: '2011-08-05',
+          note: 'Ali Aintrazi remporta les Championnats nationaux américains 2011 avec UB Control.',
+        },
+        {
+          title: 'M12 Standard: Winners and Losers',
+          publisher: 'CoolStuffInc',
+          url: 'https://www.coolstuffinc.com/a/m12-standard-winners-and-losers',
+          note: 'Analyse du métagame Standard post-bannissement.',
+        },
+      ],
+    },
+    {
+      id: '2011-std-innistrad',
+      name: 'Tempered Steel et Solar Flare',
+      start: '2011-09',
+      end: '2011-12',
+      dominantDecks: ['Tempered Steel', 'GW Tokens'],
+      challengers: ['Solar Flare', 'GR Kessig Ramp', 'Mono-Red', 'UW Delver', 'GW Aggro'],
+      keyCards: [
+        { name: 'Tempered Steel', role: 'Hymne transformant les créatures-artefacts en menaces létales' },
+        { name: 'Unburial Rites', role: 'Sort de réanimation avec flashback permettant Solar Flare' },
+        { name: 'Elesh Norn, Grand Cenobite', role: 'Cible de réanimation qui balayait les champs de petites créatures' },
+        { name: 'Kessig Wolf Run', role: 'Boost basé sur un terrain pour Primeval Titan et autres menaces' },
+        { name: 'Garruk Relentless', role: 'Planeswalker générant des jetons et cherchant des créatures' },
+        { name: 'Geist of Saint Traft', role: 'Menace avec linceul permettant des stratégies tempo' },
+      ],
+      summary:
+        'La sortie d\'Innistrad en septembre 2011 transforma à nouveau le Standard. Tempered Steel perdura comme stratégie agressive éprouvée et plaça quatre exemplaires dans le Top 8 des Mondiaux. Solar Flare, un deck réanimateur Esper utilisant Unburial Rites et Elesh Norn, Grand Cenobite, devint une option control de premier plan. GR Kessig Ramp, avec Kessig Wolf Run et Primeval Titan, remporta le Championnat du Monde entre les mains de Junya Iyanaga. Les premières apparitions de UW Delver annonçaient ce qui allait devenir le deck dominant de 2012. Le format était diversifié et récompensait un jeu précis à travers de multiples archétypes viables.',
+      whyItDominated: [
+        'Tempered Steel était rapide et résilient, avec quatre exemplaires dans le Top 8 des Mondiaux 2011',
+        'Solar Flare utilisait Unburial Rites pour réanimer Elesh Norn, verrouillant les stratégies aggro',
+        'Kessig Wolf Run offrait aux decks ramp un puits de mana transformant n\'importe quelle créature en menace létale',
+        'Le format supportait simultanément des stratégies aggro, control, midrange et combo',
+      ],
+      whyItEnded:
+        'Le métagame continua d\'évoluer vers 2012. Delver of Secrets et les cartes de soutien d\'Innistrad allaient dominer la nouvelle année, mais jusqu\'en décembre 2011, le format restait ouvert.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Worlds 2011 Standard Top 8',
+          publisher: 'MTGTop8',
+          url: 'https://www.mtgtop8.com/event?e=2245&f=ST',
+          date: '2011-11-20',
+          note: 'Junya Iyanaga remporta les Mondiaux 2011 avec GR Kessig Ramp. Quatre decks Tempered Steel dans le Top 8.',
+        },
+        {
+          title: 'Examining Solar Flare',
+          publisher: 'CoolStuffInc',
+          url: 'https://www.coolstuffinc.com/a/examining-solar-flare',
+          note: 'Analyse de l\'archétype Solar Flare dans le Standard Innistrad.',
+        },
+      ],
+    },
+  ],
+  bans: [
+    {
+      date: '2011-06-20',
+      cards: ['Jace, the Mind Sculptor', 'Stoneforge Mystic'],
+      explanation:
+        'Jace, the Mind Sculptor apparaissait dans 88 % des decks du Jour 2 au Grand Prix Singapour. Stoneforge Mystic apparaissait dans près de 70 %. Le format était devenu stagnant, avec une baisse de fréquentation des tournois. Wizards invoqua le manque de diversité du métagame et l\'incapacité des réponses imprimées à contrer adéquatement ces cartes. Les bannissements prirent effet le 1er juillet 2011, marquant les premiers bannissements en Standard depuis Arcbound Ravager et les terrains artefacts en 2005.',
+      source: {
+        title: 'Standard Bannings Explained',
+        publisher: 'Wizards of the Coast',
+        url: 'https://magic.wizards.com/en/news/feature/standard-bannings-explained-2011-06-20-0',
+        date: '2011-06-20',
+      },
+    },
+  ],
+  setReleases: [
+    { date: '2011-02-04', name: 'Mirrodin Besieged', code: 'MBS' },
+    { date: '2011-05-13', name: 'New Phyrexia', code: 'NPH', note: 'Introduction de Batterskull et Mental Misstep' },
+    { date: '2011-07-15', name: 'Magic 2012', code: 'M12' },
+    { date: '2011-09-30', name: 'Innistrad', code: 'ISD', note: 'Rotation du Standard : le bloc Zendikar et M11 sortent du format' },
+  ],
+  representativeDecks: [
+    {
+      name: 'UW Caw-Blade',
+      slug: 'uw-caw-blade-standard-2011',
+      period: 'L\'ascension de Caw-Blade',
+      archetype: 'tempo',
+      summary:
+        'L\'archétype dominant du Standard 2011. Squadron Hawk tutore d\'autres Hawks, équipés de Sword of Feast and Famine pour un lock récurrent — Stoneforge Mystic tutore les équipements, Jace, the Mind Sculptor contrôle le top. Mana Leak contre les menaces clés. Grind et domine les decks fair mais pressé par le combo Splinter Twin.',
+      keyCards: ['Jace, the Mind Sculptor', 'Stoneforge Mystic', 'Squadron Hawk', 'Sword of Feast and Famine', 'Mana Leak', 'Preordain'],
+      source: {
+        title: 'Pro Tour Paris 2011 - Ben Stark Caw-Blade',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/event?e=1016&f=ST',
+        date: '2011-02-13',
+      },
+    },
+    {
+      name: 'Darkblade',
+      slug: 'darkblade-standard-2011',
+      period: 'La domination de Caw-Blade',
+      archetype: 'tempo',
+      summary:
+        'Une variante bleu-noir-blanc de Caw-Blade qui échange le removal blanc contre la discard d\'Inquisition of Kozilek. Batterskull fournit un finisher lifelink récurrent tutoré par Stoneforge Mystic. Jace, the Mind Sculptor contrôle la longue partie. Solide contre les decks fair mais lent face au combo.',
+      keyCards: ['Batterskull', 'Jace, the Mind Sculptor', 'Stoneforge Mystic', 'Inquisition of Kozilek', 'Squadron Hawk', 'Sword of War and Peace'],
+    },
+    {
+      name: 'Valakut Ramp',
+      slug: 'valakut-ramp-standard-2011',
+      period: 'L\'été post-bannissement',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp rouge-vert qui utilise Rampant Growth et Solemn Simulacrum pour accélérer vers Primeval Titan fetchant Valakut, the Molten Pinnacle plus des Mountains pour dégâts directs. Green Sun\'s Zenith tutore les créatures flexiblement. Inévitable mais vulnérable aux clocks rapides et aux contresorts.',
+      keyCards: ['Valakut, the Molten Pinnacle', 'Primeval Titan', 'Solemn Simulacrum', 'Green Sun\'s Zenith', 'Rampant Growth'],
+    },
+    {
+      name: 'Splinter Twin Combo',
+      slug: 'splinter-twin-standard-2011',
+      period: 'L\'été post-bannissement',
+      archetype: 'combo',
+      summary:
+        'Un deck combo bleu-rouge qui cible Deceiver Exarch ou Pestermite avec Splinter Twin pour des copies hastées infinies. Mana Leak et Dispel protègent le tour combo, Ponder trouve les pièces, Dismember retire les blockers. Goldfish au tour quatre mais vulnérable au removal à instant speed.',
+      keyCards: ['Splinter Twin', 'Deceiver Exarch', 'Pestermite', 'Mana Leak', 'Ponder', 'Dismember'],
+    },
+    {
+      name: 'Tempered Steel',
+      slug: 'tempered-steel-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro artefact mono-blanc où Tempered Steel pump un board de créatures artefact bon marché comme Memnite, Signal Pest et Vault Skirge. Etched Champion est non-contrable et protégé des couleurs, Glint Hawk Idol fournit l\'évasion. Goldfish au tour quatre mais vulnérable aux sweepers et au removal d\'artefact.',
+      keyCards: ['Tempered Steel', 'Signal Pest', 'Vault Skirge', 'Memnite', 'Glint Hawk Idol', 'Etched Champion'],
+      source: {
+        title: 'Worlds 2011 Top 8',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/event?e=2245&f=ST',
+        date: '2011-11-20',
+      },
+    },
+    {
+      name: 'Solar Flare',
+      slug: 'solar-flare-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'control',
+      summary:
+        'Un hybride reanimator-control bleu-noir-blanc qui mille Elesh Norn, Grand Cenobite au graveyard via Forbidden Alchemy, puis la ramène avec Unburial Rites pour un sweeper unilatéral. Sun Titan recur les permanents clés, Day of Judgment reset. Puissant mais lent face au combo rapide.',
+      keyCards: ['Unburial Rites', 'Elesh Norn, Grand Cenobite', 'Sun Titan', 'Forbidden Alchemy', 'Day of Judgment', 'Liliana of the Veil'],
+      source: {
+        title: 'Examining Solar Flare',
+        publisher: 'CoolStuffInc',
+        url: 'https://www.coolstuffinc.com/a/examining-solar-flare',
+      },
+    },
+    {
+      name: 'GR Kessig Ramp',
+      slug: 'gr-kessig-ramp-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp rouge-vert qui utilise Solemn Simulacrum et Rampant Growth pour alimenter Primeval Titan fetchant Kessig Wolf Run, puis pump une créature pour un trample létal. Inkmoth Nexus fournit un kill poison de secours. Inévitable mais vulnérable aux contresorts et aux clocks rapides.',
+      keyCards: ['Primeval Titan', 'Inferno Titan', 'Kessig Wolf Run', 'Inkmoth Nexus', 'Green Sun\'s Zenith', 'Solemn Simulacrum'],
+      source: {
+        title: 'Worlds 2011 Top 8',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/event?e=2245&f=ST',
+        date: '2011-11-20',
+      },
+    },
+  
+    {
+      name: 'RUG Control',
+      slug: 'rug-control-standard-2011',
+      period: 'L\'ascension de Caw-Blade',
+      archetype: 'control',
+      summary:
+        'Un deck control rouge-bleu-vert centré sur Jace, the Mind Sculptor avec Lightning Bolt et Mana Leak pour de l\'interaction bon marché. Lotus Cobra rampe la manabase, Inferno Titan conclut comme six-drop flexible. Outvalue les decks fair mais lent face au combo.',
+      keyCards: ['Jace, the Mind Sculptor', 'Lightning Bolt', 'Mana Leak', 'Inferno Titan', 'Lotus Cobra'],
+    },
+    {
+      name: 'Boros',
+      slug: 'boros-standard-2011',
+      period: 'L\'ascension de Caw-Blade',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro rouge-blanc bâti sur Goblin Guide pour la pression précoce et les Squadron Hawks équipés de Sword of Body and Mind. Stoneforge Mystic tutore l\'équipement, Lightning Bolt conclut. Tempo fort avec un clock volant mais pressé par les sweepers.',
+      keyCards: ['Goblin Guide', 'Squadron Hawk', 'Stoneforge Mystic', 'Lightning Bolt', 'Sword of Body and Mind'],
+    },
+    {
+      name: 'Vampires',
+      slug: 'vampires-standard-2011',
+      period: 'L\'ascension de Caw-Blade',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro noir bâti sur la récurrence de Bloodghast, le lifelink de Vampire Nighthawk, et Gatekeeper of Malakir comme removal à l\'arrivée. Kalastria Highborn draine incrémentalement, Inquisition of Kozilek strip les sorts clés. Résistant face aux decks fair mais vulnérable au removal d\'exil.',
+      keyCards: ['Bloodghast', 'Vampire Nighthawk', 'Gatekeeper of Malakir', 'Kalastria Highborn', 'Inquisition of Kozilek'],
+    },
+    {
+      name: 'Splinter Twin',
+      slug: 'splinter-twin-deck-standard-2011',
+      period: 'La domination de Caw-Blade',
+      archetype: 'combo',
+      summary:
+        'Un deck combo bleu-rouge qui combine Splinter Twin avec Deceiver Exarch ou Pestermite pour des tokens hastés infinis. Mana Leak et Dispel protègent le combo, Ponder lisse la pioche. Goldfish au tour quatre mais vulnérable au removal à instant speed sur la créature ciblée.',
+      keyCards: ['Splinter Twin', 'Deceiver Exarch', 'Pestermite', 'Mana Leak', 'Dispel'],
+    },
+    {
+      name: 'Mono-Red',
+      slug: 'mono-red-standard-2011',
+      period: 'La domination de Caw-Blade',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro mono-rouge jouant Goblin Guide et Chandra\'s Phoenix pour des menaces récurrentes, soutenus par Lightning Bolt, Searing Blaze et Koth of the Hammer pour le burn et le ramp. Vise à infliger vingt dégâts au tour quatre. Punit les pioches lentes mais vulnérable au lifegain.',
+      keyCards: ['Goblin Guide', 'Lightning Bolt', 'Searing Blaze', 'Koth of the Hammer', 'Chandra\'s Phoenix'],
+    },
+    {
+      name: 'UB Control',
+      slug: 'ub-control-standard-2011',
+      period: 'L\'été post-bannissement',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-noir ancré par Jace, the Mind Sculptor avec Mana Leak et Doom Blade pour l\'interaction. Inquisition of Kozilek strip les menaces préemptivement, Grave Titan conclut comme finisher générant des tokens. Outvalue les decks fair mais lent face au combo.',
+      keyCards: ['Jace, the Mind Sculptor', 'Mana Leak', 'Inquisition of Kozilek', 'Grave Titan', 'Doom Blade'],
+    },
+    {
+      name: 'Birthing Pod',
+      slug: 'birthing-pod-standard-2011',
+      period: 'L\'été post-bannissement',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange-toolbox vert qui utilise Birthing Pod pour sacrifier une créature et tutorer le CMC suivant. Acidic Slime détruit terrains et enchantements, Solemn Simulacrum rampe, Wurmcoil Engine conclut. Phyrexian Metamorph copie n\'importe quoi. Flexible mais pressé par l\'aggro rapide et la discard.',
+      keyCards: ['Birthing Pod', 'Phyrexian Metamorph', 'Acidic Slime', 'Solemn Simulacrum', 'Wurmcoil Engine'],
+    },
+    {
+      name: 'GW Tokens',
+      slug: 'gw-tokens-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'midrange',
+      summary:
+        'Un deck tokens vert-blanc qui inonde le board avec les tokens de Garruk Relentless, Garruk, Primal Hunter et Hero of Bladehold. Mikaeus, the Lunarch fait grossir l\'armée avec des marqueurs type proliferate. Va large rapidement mais vulnérable aux sweepers.',
+      keyCards: ['Garruk Relentless', 'Garruk, Primal Hunter', 'Mikaeus, the Lunarch', 'Hero of Bladehold', 'Sword of Feast and Famine'],
+    },
+    {
+      name: 'UW Delver',
+      slug: 'uw-delver-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'tempo',
+      summary:
+        'Un deck tempo bleu-blanc centré sur Delver of Secrets flippant tôt et Geist of Saint Traft comme clock imblocable avec hexproof. Mana Leak et Vapor Snag maintiennent le tempo, Snapcaster Mage flashback les sorts. Solide contre les decks fair mais pressé par les sweepers.',
+      keyCards: ['Delver of Secrets', 'Snapcaster Mage', 'Mana Leak', 'Vapor Snag', 'Geist of Saint Traft'],
+    },
+    {
+      name: 'GW Aggro',
+      slug: 'gw-aggro-standard-2011',
+      period: 'Tempered Steel et Solar Flare',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro vert-blanc où Hero of Bladehold produit une armée large, Mirran Crusader et Garruk Relentless appliquent la pression, et Sword of War and Peace fait passer les dégâts en chip. Sun Titan recur les menaces clés. Solide contre le midrange fair mais pressé par les sweepers.',
+      keyCards: ['Hero of Bladehold', 'Garruk Relentless', 'Mirran Crusader', 'Sword of War and Peace', 'Sun Titan'],
+    },
+  ],
+}

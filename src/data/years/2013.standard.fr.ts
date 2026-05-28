@@ -1,0 +1,327 @@
+import type { YearFormatEntry } from '../types'
+
+export const standard2013Fr: YearFormatEntry = {
+  year: 2013,
+  format: 'standard',
+  title: 'Standard 2013',
+  subtitle: 'Des Aristocrats à la Devotion',
+  shortLabel: 'Aristocrats & Devotion',
+  summary:
+    'Le Standard 2013 offrit une diversité remarquable à travers deux ères distinctes. Le format Return to Ravnica-Innistrad mettait en vedette Jund Midrange grindant avec Thragtusk et Huntmaster, tandis que The Aristocrats de Tom Martell créait la surprise au Pro Tour Gatecrash à Montréal. Naya Blitz apportait une vitesse fulgurante grâce aux chaînes de Burning-Tree Emissary, et Esper Control exploitait Sphinx\'s Revelation. Après la rotation d\'octobre, Theros introduisit la mécanique devotion et transforma le format. Mono-Black Devotion avec Pack Rat et Gray Merchant of Asphodel, et Mono-Blue Devotion avec Thassa et Master of Waves, devinrent les piliers d\'un nouveau Standard défini par Nykthos, Shrine to Nyx.',
+  headlineDeck: 'The Aristocrats',
+  eras: [
+    {
+      id: '2013-std-rtr-inn',
+      name: 'Jund et The Aristocrats',
+      start: '2013-01',
+      end: '2013-05',
+      dominantDecks: ['Jund Midrange', 'The Aristocrats'],
+      challengers: ['UWR Flash', 'Naya Blitz', 'Esper Control', 'Saito Zoo'],
+      keyCards: [
+        { name: 'Thragtusk', role: 'Créature de valeur à cinq manas présente dans chaque deck midrange vert' },
+        { name: 'Falkenrath Aristocrat', role: 'Volant haste indestructible, sacrifice outlet dans The Aristocrats' },
+        { name: 'Cartel Aristocrat', role: 'Sacrifice outlet octroyant protection, moteur éponyme du deck' },
+        { name: 'Burning-Tree Emissary', role: 'Créature à mana gratuit permettant des départs explosifs de Naya Blitz' },
+        { name: 'Boros Reckoner', role: 'Bloqueur polyvalent et pièce combo avec Blasphemous Act' },
+        { name: "Sphinx's Revelation", role: 'Pioche de cartes et gain de vie décisifs pour les decks contrôle' },
+      ],
+      summary:
+        'Les premiers mois de 2013 furent dominés par le Standard Innistrad-Return to Ravnica. Jund Midrange restait le meilleur deck midrange avec Thragtusk, Huntmaster of the Fells et Olivia Voldaren. Le Pro Tour Gatecrash en février fut le moment de rupture : Tom Martell gagna avec The Aristocrats, un deck sacrifice Mardu innovant construit autour de Cartel Aristocrat, Falkenrath Aristocrat et des combos Blasphemous Act avec Boros Reckoner. Naya Blitz émergea de Gatecrash comme un deck aggro ultra-rapide enchaînant les Burning-Tree Emissary en plusieurs créatures au deuxième tour. UWR Flash poursuivit son plan de jeu réactif, et Esper Control gagna en puissance avec Sphinx\'s Revelation.',
+      whyItDominated: [
+        'Jund Midrange avait la meilleure qualité individuelle de cartes entre créatures, élimination et planeswalkers',
+        'The Aristocrats combinait des synergies de sacrifice résilientes avec des combos explosives de Blasphemous Act',
+        'Naya Blitz pouvait déployer des plateaux létaux dès le troisième tour grâce aux chaînes de Burning-Tree Emissary',
+        'Sphinx\'s Revelation donnait aux decks contrôle un avantage insurmontable en fin de partie',
+        'Boros Reckoner servait à la fois de créature défensive et de pièce combo',
+      ],
+      whyItEnded:
+        'Dragon\'s Maze sortit en mai 2013, ajoutant Voice of Resurgence et d\'autres outils, tandis que Magic 2014 en juillet déplaça le métagame. Le format continua d\'évoluer jusqu\'à ce que la rotation d\'octobre retire entièrement le bloc Innistrad.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Gatecrash coverage',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/event?e=4363',
+          date: '2013-02-17',
+          note: 'Tom Martell gagna avec The Aristocrats, battant Joel Larsson en finale. Melissa DeTora atteignit le Top 8 avec UWR Flash.',
+        },
+        {
+          title: 'Martell is Champion in Montreal',
+          publisher: 'CoolStuffInc',
+          url: 'https://www.coolstuffinc.com/a/carlos-gutierrez-news-pro-tour-gatecrash-results-02172013-martell-is-champion-in-montreal',
+          date: '2013-02-17',
+          note: 'Couverture détaillée de la victoire de Tom Martell au Pro Tour Gatecrash.',
+        },
+        {
+          title: 'Archetype Breakdown for Pro Tour Gatecrash',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/articles/archive/archetype-breakdown-pro-tour-gatecrash-2013-02-17',
+          date: '2013-02-17',
+          note: 'Répartition officielle des archétypes montrant The Aristocrats avec un taux de victoire de près de 58 %.',
+        },
+      ],
+    },
+    {
+      id: '2013-std-dgm-summer',
+      name: 'Jund et UWR Flash',
+      start: '2013-05',
+      end: '2013-09',
+      dominantDecks: ['Jund Midrange', 'UWR Flash'],
+      challengers: ['Bant Hexproof', 'Junk Aristocrats', 'Gruul Aggro', 'Esper Control'],
+      keyCards: [
+        { name: 'Voice of Resurgence', role: 'Créature anti-contrôle punissant le jeu à vitesse d\'éphémère et laissant un jeton' },
+        { name: 'Advent of the Wurm', role: 'Guivre 5/5 trample en flash permettant une pression à vitesse d\'éphémère' },
+        { name: 'Olivia Voldaren', role: 'Élimination répétable et vol de créatures dans Jund' },
+        { name: 'Bonfire of the Damned', role: 'Balayage miracle punissant les stratégies go-wide' },
+        { name: 'Scavenging Ooze', role: 'Haine du cimetière et gain de vie sur un corps grandissant, introduit dans M14' },
+      ],
+      summary:
+        'Dragon\'s Maze apporta Voice of Resurgence, qui devint immédiatement l\'une des cartes les plus impactantes du Standard. Ce deux-drops punissait les joueurs contrôle lançant des sorts au tour adverse et laissait un jeton grandissant à sa mort. Jund Midrange et UWR Flash continuèrent à alterner à la première place. Bant Hexproof (avec Geist of Saint Traft et Invisible Stalker portant des auras) émergea comme une option aggro-combo régulière. La sortie de Magic 2014 en juillet introduisit Scavenging Ooze en Standard, ajoutant une haine du cimetière maindeckable. Le format était mature et diversifié à l\'approche de la rotation automnale.',
+      whyItDominated: [
+        'Voice of Resurgence punissait les stratégies à vitesse d\'éphémère sur lesquelles UWR Flash reposait',
+        'Jund Midrange adapta sa suite d\'élimination pour gérer le métagame en évolution',
+        'Scavenging Ooze de M14 fournissait une haine du cimetière renforçant les stratégies midrange',
+        'La base de mana complète en shocklands du bloc Return to Ravnica permettait des decks multicolores fiables',
+        'De multiples archétypes viables empêchaient tout deck de dominer complètement',
+      ],
+      whyItEnded:
+        'Theros sortit en septembre 2013, faisant sortir le bloc Innistrad et Magic 2013 du format. La mécanique devotion et le nouveau pool de cartes créèrent un format Standard entièrement différent.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'MTGTop8 Standard metagame 2013',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/format?f=ST&meta=75',
+          note: 'Résultats de tournois montrant Jund Midrange et UWR Flash comme les meilleurs decks durant l\'été 2013.',
+        },
+      ],
+    },
+    {
+      id: '2013-std-theros',
+      name: 'La Devotion de Theros',
+      start: '2013-09',
+      end: '2013-12',
+      dominantDecks: ['Mono-Blue Devotion', 'Mono-Black Devotion'],
+      challengers: ['Esper Control', 'Mono-Red Devotion', 'Mono-Green Devotion', 'GW Aggro'],
+      keyCards: [
+        { name: 'Thassa, God of the Sea', role: 'Récompense devotion indestructible avec scry et imblocable' },
+        { name: 'Master of Waves', role: 'Récompense devotion bleue créant une armée de jetons Élémental' },
+        { name: 'Pack Rat', role: 'Menace auto-réplicante convertissant les cartes mortes en armée' },
+        { name: 'Gray Merchant of Asphodel', role: 'Récompense devotion noire drainant la vie selon le compte de devotion' },
+        { name: 'Nightveil Specter', role: 'Créature hybride fournissant de la devotion aux decks bleu comme noir' },
+        { name: 'Nykthos, Shrine to Nyx', role: 'Terrain légendaire convertissant la devotion en mana massif' },
+      ],
+      summary:
+        'Theros transforma le Standard avec la mécanique devotion. Au Pro Tour Theros à Dublin, Jérémy Dezani gagna avec Mono-Blue Devotion, et trois des quatre premiers jouaient l\'archétype. Le deck utilisait Thassa, God of the Sea et Master of Waves comme récompenses de devotion, soutenu par Tidebinder Mage et Nightveil Specter pour le compte de devotion. Mono-Black Devotion émergea comme l\'autre pilier, utilisant Pack Rat comme menace boule de neige en début de partie et Gray Merchant of Asphodel comme un drain dévastateur basé sur la devotion. Nykthos, Shrine to Nyx permettait un mana explosif dans Mono-Green Devotion. Esper Control avec Sphinx\'s Revelation et Elspeth, Sun\'s Champion fournissait la principale stratégie hors devotion.',
+      whyItDominated: [
+        'Master of Waves créait des armées de jetons massives difficiles à gérer de manière rentable',
+        'Thassa fournissait un scry gratuit chaque tour et rendait les attaquants imblocables',
+        'Pack Rat convertissait chaque carte piochée en menace grandissante, emballant les parties rapidement',
+        'Gray Merchant drainait d\'énormes quantités de vie, terminant souvent les parties immédiatement',
+        'Nightveil Specter contribuait trois points de devotion et générait du card advantage en connectant',
+        'Nykthos permettait des tours où les decks monocolores déployaient toute leur main',
+      ],
+      whyItEnded:
+        'Le métagame continua d\'évoluer en 2014 avec Born of the Gods. Mono-Black et Mono-Blue Devotion restèrent des piliers du format, mais de nouveaux outils et adaptations maintenaient le format en mouvement.',
+      confidence: 'high',
+      sources: [
+        {
+          title: 'Pro Tour Theros coverage',
+          publisher: 'MTGTop8',
+          url: 'https://mtgtop8.com/event?e=5787&f=ST',
+          date: '2013-10-13',
+          note: 'Jérémy Dezani gagna avec Mono-Blue Devotion. Trois des quatre premiers étaient Mono-Blue Devotion. Sam Black et Pierre Dagen également dans le Top 4.',
+        },
+        {
+          title: 'Pro Tour Theros - MTG Wiki',
+          publisher: 'Fandom',
+          url: 'https://mtg.fandom.com/wiki/Pro_Tour_Theros',
+          date: '2013-10-13',
+          note: '428 compétiteurs à Dublin. Dezani battit son coéquipier Pierre Dagen 3-1 en finale.',
+        },
+        {
+          title: 'Devotion: The Rising New Power in Standard',
+          publisher: 'CoolStuffInc',
+          url: 'https://www.coolstuffinc.com/a/darwin-kastle-11042013-devotion-the-rising-new-power-in-standard',
+          date: '2013-11-04',
+          note: 'Analyse des stratégies devotion dominant le Standard post-Theros.',
+        },
+        {
+          title: 'The Evolution of Standard',
+          publisher: 'Wizards of the Coast',
+          url: 'https://magic.wizards.com/en/articles/archive/evolution-standard-2013-12-09',
+          date: '2013-12-09',
+          note: 'Article officiel de Wizards sur l\'évolution du métagame Standard fin 2013.',
+        },
+      ],
+    },
+  ],
+  setReleases: [
+    { date: '2013-02-01', name: 'Gatecrash', code: 'GTC', note: 'Introduction de Boros Reckoner, Burning-Tree Emissary et Obzedat' },
+    { date: '2013-05-03', name: "Dragon's Maze", code: 'DGM', note: 'Introduction de Voice of Resurgence' },
+    { date: '2013-07-19', name: 'Magic 2014', code: 'M14', note: 'Introduction de Scavenging Ooze en Standard' },
+    { date: '2013-09-27', name: 'Theros', code: 'THS', note: 'Rotation du Standard : le bloc Innistrad et M13 sortent du format. Introduction de la mécanique devotion' },
+  ],
+  representativeDecks: [
+    {
+      name: 'The Aristocrats',
+      slug: 'the-aristocrats-standard-2013',
+      period: 'Jund et The Aristocrats',
+      archetype: 'midrange',
+      summary:
+        'Un deck sacrifice noir-rouge-blanc qui utilise Cartel Aristocrat et Falkenrath Aristocrat comme outlets de sacrifice gratuits pour Doomed Traveler et Champion of the Parish. Boros Reckoner combo avec Blasphemous Act pour des sweeps unilatéraux. Résistant mais vulnérable à la hate graveyard.',
+      keyCards: ['Falkenrath Aristocrat', 'Cartel Aristocrat', 'Boros Reckoner', 'Blasphemous Act', 'Doomed Traveler', 'Champion of the Parish'],
+      source: {
+        title: 'Tom Martell - The Aristocrats - Pro Tour Gatecrash',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/deck/2006160',
+        date: '2013-02-17',
+      },
+    },
+    {
+      name: 'Jund Midrange',
+      slug: 'jund-midrange-standard-2013',
+      period: 'Jund et The Aristocrats',
+      archetype: 'midrange',
+      summary:
+        'Un shell midrange noir-rouge-vert alimenté par Thragtusk et Huntmaster of the Fells pour de la value répétée. Olivia Voldaren grind les decks de créatures, Bonfire of the Damned balaie via miracle, Farseek rampe. Garruk conclut. Grindy et dominant dans les matchups fair.',
+      keyCards: ['Thragtusk', 'Huntmaster of the Fells', 'Olivia Voldaren', 'Bonfire of the Damned', 'Farseek', 'Garruk, Primal Hunter'],
+      source: {
+        title: 'Jund Midrange - Reid Duke',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/event?e=5383&d=231085&f=ST',
+      },
+    },
+    {
+      name: 'Naya Blitz',
+      slug: 'naya-blitz-standard-2013',
+      period: 'Jund et The Aristocrats',
+      archetype: 'aggro',
+      summary:
+        'Un shell hyper-aggro rouge-vert-blanc inondant le board avec Burning-Tree Emissary, Experiment One, Champion of the Parish et Boros Elite. Lightning Mauler donne haste à un quatre-drop. Vise à infliger vingt dégâts au tour trois ou quatre. S\'effondre face aux sweepers précoces et au lifegain.',
+      keyCards: ['Burning-Tree Emissary', 'Experiment One', 'Champion of the Parish', 'Flinthoof Boar', 'Lightning Mauler', 'Boros Elite'],
+      source: {
+        title: 'Naya Blitz - SCG Open Series decklists',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/event?e=4558&d=226438&f=ST',
+      },
+    },
+    {
+      name: 'Esper Control',
+      slug: 'esper-control-standard-2013',
+      period: 'Jund et UWR Flash',
+      archetype: 'control',
+      summary:
+        'Un deck control bleu-blanc-noir ancré par Sphinx\'s Revelation pour le refill de late game et Supreme Verdict pour des sweepers incontrables. Azorius Charm et Detention Sphere fournissent le removal flexible, Jace, Architect of Thought contrôle les planeswalkers. Inévitable face aux decks fair mais lent face au combo rapide.',
+      keyCards: ["Sphinx's Revelation", 'Supreme Verdict', 'Azorius Charm', 'Jace, Architect of Thought', 'Detention Sphere', 'Elspeth, Sun\'s Champion'],
+      source: {
+        title: 'Esper Control decklists 2013',
+        publisher: 'MTGTop8',
+        url: 'https://www.mtgtop8.com/archetype?a=197',
+      },
+    },
+    {
+      name: 'Mono-Blue Devotion',
+      slug: 'mono-blue-devotion-standard-2013',
+      period: 'La Devotion de Theros',
+      archetype: 'aggro',
+      summary:
+        'Un deck tempo-aggro mono-bleu qui accumule de la devotion via Frostburn Weird et Nightveil Specter pour rendre Thassa, God of the Sea une créature et pump Master of Waves en un raz-de-marée d\'Elementals létal. Tidebinder Mage tap les menaces clés. Explosif mais vulnérable aux sweepers rouges.',
+      keyCards: ['Thassa, God of the Sea', 'Master of Waves', 'Tidebinder Mage', 'Nightveil Specter', 'Frostburn Weird', 'Cloudfin Raptor'],
+      source: {
+        title: 'Pro Tour Theros - Jérémy Dezani Mono-Blue Devotion',
+        publisher: 'MTGTop8',
+        url: 'https://mtgtop8.com/event?e=5787&f=ST',
+        date: '2013-10-13',
+      },
+    },
+    {
+      name: 'Mono-Black Devotion',
+      slug: 'mono-black-devotion-standard-2013',
+      period: 'La Devotion de Theros',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange mono-noir centré sur Pack Rat faisant boule de neige, Gray Merchant of Asphodel drainant pour gagner, et Desecration Demon comme menace difficile à bloquer. Thoughtseize strip les sorts clés, Hero\'s Downfall retire n\'importe quoi. Grind les decks fair mais pressé par le removal d\'exil.',
+      keyCards: ['Pack Rat', 'Gray Merchant of Asphodel', 'Desecration Demon', 'Nightveil Specter', 'Thoughtseize', "Hero's Downfall"],
+      source: {
+        title: 'Kentarou Yamamoto - Mono Black Devotion - Top 8 Pro Tour Theros',
+        publisher: 'MTGGoldfish',
+        url: 'https://www.mtggoldfish.com/deck/4817608',
+        date: '2013-10-13',
+      },
+    },
+  
+    {
+      name: 'UWR Flash',
+      slug: 'uwr-flash-standard-2013',
+      period: 'Jund et The Aristocrats',
+      archetype: 'control',
+      summary:
+        'Un deck tempo-control bleu-blanc-rouge bâti sur Snapcaster Mage et Restoration Angel déclenchant la value à l\'arrivée. Sphinx\'s Revelation recharge, Azorius Charm et Searing Spear gèrent les menaces. Solide contre les decks fair mais pressé par le combo et l\'aggro rapide.',
+      keyCards: ['Snapcaster Mage', 'Restoration Angel', 'Sphinx\'s Revelation', 'Azorius Charm', 'Searing Spear'],
+    },
+    {
+      name: 'Saito Zoo',
+      slug: 'saito-zoo-standard-2013',
+      period: 'Jund et The Aristocrats',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro rouge-vert-blanc bâti sur Loxodon Smiter, Flinthoof Boar et Boros Reckoner, soutenus par Searing Spear et les pumps bloodrush de Ghor-Clan Rampager. Va large et punit les ouvertures lentes, mais pressé par les sweepers et le lifegain.',
+      keyCards: ['Loxodon Smiter', 'Flinthoof Boar', 'Boros Reckoner', 'Ghor-Clan Rampager', 'Searing Spear'],
+    },
+    {
+      name: 'Bant Hexproof',
+      slug: 'bant-hexproof-standard-2013',
+      period: 'Jund et UWR Flash',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro aura vert-blanc-bleu qui équipe Geist of Saint Traft ou Invisible Stalker avec Ethereal Armor, Spectral Flight et Unflinching Courage pour créer un attaquant intuable, évasif et lifelink. One-shot les adversaires mais vulnérable au mass removal et aux effets d\'edict.',
+      keyCards: ['Geist of Saint Traft', 'Invisible Stalker', 'Ethereal Armor', 'Spectral Flight', 'Unflinching Courage'],
+    },
+    {
+      name: 'Junk Aristocrats',
+      slug: 'junk-aristocrats-standard-2013',
+      period: 'Jund et UWR Flash',
+      archetype: 'midrange',
+      summary:
+        'Un deck sacrifice noir-vert-blanc qui loop Doomed Traveler et les tokens de Lingering Souls via Cartel Aristocrat pour la value pendant que Blood Artist draine l\'adversaire. Varolz, the Scar-Striped fait grossir les créatures via scavenge. Grindy et résistant mais vulnérable à la hate graveyard.',
+      keyCards: ['Cartel Aristocrat', 'Blood Artist', 'Doomed Traveler', 'Lingering Souls', 'Varolz, the Scar-Striped'],
+    },
+    {
+      name: 'Gruul Aggro',
+      slug: 'gruul-aggro-standard-2013',
+      period: 'Jund et UWR Flash',
+      archetype: 'aggro',
+      summary:
+        'Un deck aggro rouge-vert alimenté par les chaînes de trois-drops gratuits de Burning-Tree Emissary dans Flinthoof Boar et Ghor-Clan Rampager. Hellrider conclut avec les triggers de dégâts, Domri Rade recharge et retire les blockers. Punit les ouvertures lentes mais pressé par les sweepers.',
+      keyCards: ['Burning-Tree Emissary', 'Flinthoof Boar', 'Ghor-Clan Rampager', 'Hellrider', 'Domri Rade'],
+    },
+    {
+      name: 'Mono-Red Devotion',
+      slug: 'mono-red-devotion-standard-2013',
+      period: 'La Devotion de Theros',
+      archetype: 'midrange',
+      summary:
+        'Un deck midrange mono-rouge qui construit la devotion rouge via Burning-Tree Emissary et Chandra pour activer Purphoros, God of the Forge — chaque créature qui arrive inflige 2 à chaque adversaire. Fanatic of Mogis draine à l\'arrivée, Stormbreath Dragon conclut. Explosif mais vulnérable au lifegain et aux contresorts.',
+      keyCards: ['Stormbreath Dragon', 'Fanatic of Mogis', 'Purphoros, God of the Forge', 'Burning-Tree Emissary', 'Chandra, Pyromaster'],
+    },
+    {
+      name: 'Mono-Green Devotion',
+      slug: 'mono-green-devotion-standard-2013',
+      period: 'La Devotion de Theros',
+      archetype: 'ramp',
+      summary:
+        'Un deck ramp mono-vert qui construit la devotion pour alimenter Nykthos, Shrine to Nyx produisant un mana massif pour Polukranos et Arbor Colossus. Garruk conclut via pression planeswalker. Les créatures devotion se pump entre elles. Solide contre les decks fair mais vulnérable à la hate enchantement et aux contresorts.',
+      keyCards: ['Nykthos, Shrine to Nyx', 'Polukranos, World Eater', 'Arbor Colossus', 'Garruk, Caller of Beasts', 'Sylvan Caryatid'],
+    },
+    {
+      name: 'GW Aggro',
+      slug: 'gw-aggro-standard-2013',
+      period: 'La Devotion de Theros',
+      archetype: 'aggro',
+      summary:
+        'Un shell aggro vert-blanc mené par Voice of Resurgence punissant les instants, Loxodon Smiter comme trois-drop incontrable, et Fleecemane Lion grandissant via monstruosité. Advent of the Wurm et Selesnya Charm fournissent des menaces flash. Solide contre le control mais pressé par les sweepers.',
+      keyCards: ['Voice of Resurgence', 'Loxodon Smiter', 'Fleecemane Lion', 'Advent of the Wurm', 'Selesnya Charm'],
+    },
+  ],
+}
