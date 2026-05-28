@@ -205,7 +205,7 @@ export const standard1996: YearFormatEntry = {
           { count: 4, name: 'Adarkar Wastes' },
           { count: 4, name: 'Island' },
           { count: 4, name: 'Mishra\'s Factory' },
-          { count: 7, name: 'Plains' },
+          { count: 5, name: 'Plains' },
           { count: 1, name: 'Ruins of Trokair' },
           { count: 1, name: 'Strip Mine' },
           { count: 2, name: 'Svyelunite Temple' },
