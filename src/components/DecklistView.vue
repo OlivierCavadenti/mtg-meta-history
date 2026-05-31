@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
 import type { Decklist, DecklistEntry } from '../data/types'
-import { scryfallImageUrl, scryfallCardUrl } from '../lib/scryfall'
-import { useCardTypes, type CardType } from '../lib/cardTypes'
+import { scryfallCardUrl } from '../lib/scryfall'
+import { useCardTypes, cardImageUrl, type CardType } from '../lib/cardTypes'
 import { locale } from '../lib/i18n'
 
 const props = defineProps<{
@@ -309,7 +309,7 @@ function totalOf(entries: DecklistEntry[]): number {
                   :style="{ top: positionAt(col.entries, entryIdx) + 'px', width: zoom + 'px', height: cardHeight + 'px' }"
                   :title="entry.name"
                 >
-                  <img :src="scryfallImageUrl(entry.name, 'normal')" :alt="entry.name" loading="lazy" />
+                  <img :src="cardImageUrl(entry.name, 'normal')" :alt="entry.name" loading="lazy" />
                   <span v-if="entry.count > 1" class="visual-count-badge">×{{ entry.count }}</span>
                 </a>
               </div>
@@ -345,7 +345,7 @@ function totalOf(entries: DecklistEntry[]): number {
                   :style="{ top: positionAt(col.entries, entryIdx) + 'px', width: zoom + 'px', height: cardHeight + 'px' }"
                   :title="entry.name"
                 >
-                  <img :src="scryfallImageUrl(entry.name, 'normal')" :alt="entry.name" loading="lazy" />
+                  <img :src="cardImageUrl(entry.name, 'normal')" :alt="entry.name" loading="lazy" />
                   <span v-if="entry.count > 1" class="visual-count-badge">×{{ entry.count }}</span>
                 </a>
               </div>
@@ -378,7 +378,7 @@ function totalOf(entries: DecklistEntry[]): number {
             :title="entry.name"
           >
             <img
-              :src="scryfallImageUrl(entry.name, 'normal')"
+              :src="cardImageUrl(entry.name, 'normal')"
               :alt="entry.name"
               loading="lazy"
             />
@@ -404,7 +404,7 @@ function totalOf(entries: DecklistEntry[]): number {
                 <span class="decklist-count">{{ entry.count }}</span>
                 <span class="decklist-name">{{ entry.name }}</span>
                 <img
-                  :src="scryfallImageUrl(entry.name, 'small')"
+                  :src="cardImageUrl(entry.name, 'small')"
                   :alt="entry.name"
                   class="decklist-card-preview"
                   loading="lazy"
@@ -427,7 +427,7 @@ function totalOf(entries: DecklistEntry[]): number {
                 <span class="decklist-count">{{ entry.count }}</span>
                 <span class="decklist-name">{{ entry.name }}</span>
                 <img
-                  :src="scryfallImageUrl(entry.name, 'small')"
+                  :src="cardImageUrl(entry.name, 'small')"
                   :alt="entry.name"
                   class="decklist-card-preview"
                   loading="lazy"

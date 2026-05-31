@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { KeyCard } from '../data/types'
-import { scryfallImageUrl, scryfallCardUrl } from '../lib/scryfall'
+import { scryfallCardUrl } from '../lib/scryfall'
+import { cardImageUrl } from '../lib/cardTypes'
 import { ref } from 'vue'
 
 defineProps<{
@@ -65,7 +66,7 @@ function updatePos(e: MouseEvent) {
       >
         <img
           v-if="!failedImages.has(cardName(card))"
-          :src="scryfallImageUrl(cardName(card), 'large')"
+          :src="cardImageUrl(cardName(card), 'large')"
           :alt="cardName(card)"
           class="card-gallery-img"
           loading="lazy"
@@ -86,7 +87,7 @@ function updatePos(e: MouseEvent) {
         :style="{ left: popupX + 'px', top: popupY + 'px' }"
       >
         <img
-          :src="scryfallImageUrl(hovered, 'large')"
+          :src="cardImageUrl(hovered, 'large')"
           :alt="hovered"
           class="card-popup-img"
         />

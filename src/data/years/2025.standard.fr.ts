@@ -406,7 +406,7 @@ export const standard2025Fr: YearFormatEntry = {
         ],
         sideboard: [
           { count: 1, name: 'Anoint with Affliction' },
-          { count: 1, name: 'Defiled Crypt/Cadaver Lab' },
+          { count: 1, name: 'Defiled Crypt // Cadaver Lab' },
           { count: 2, name: 'Destroy Evil' },
           { count: 2, name: 'Dreams of Steel and Oil' },
           { count: 2, name: 'Ghost Vacuum' },
@@ -507,7 +507,7 @@ export const standard2025Fr: YearFormatEntry = {
           { count: 1, name: 'Get Out' },
           { count: 1, name: 'Negate' },
           { count: 2, name: 'Ral, Crackling Wit' },
-          { count: 2, name: 'Roaring Furnace/Steaming Sauna' },
+          { count: 2, name: 'Roaring Furnace // Steaming Sauna' },
           { count: 2, name: 'Soul-Guide Lantern' },
           { count: 1, name: 'Spell Pierce' },
           { count: 1, name: 'This Town Ain\'t Big Enough' },

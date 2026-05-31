@@ -404,7 +404,7 @@ export const legacy2011Fr: YearFormatEntry = {
           { count: 4, name: 'Stifle' },
           { count: 4, name: 'Brainstorm' },
           { count: 4, name: 'Ponder' },
-          { count: 3, name: 'Fire / Ice' },
+          { count: 3, name: 'Fire // Ice' },
           { count: 4, name: 'Tropical Island' },
           { count: 3, name: 'Volcanic Island' },
           { count: 4, name: 'Misty Rainforest' },

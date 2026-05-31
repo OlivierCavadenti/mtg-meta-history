@@ -1,4 +1,5 @@
 import { ref, computed } from 'vue'
+import { scryfallImageUrl, type ScryfallImageVersion } from './scryfall'
 
 export type CardType = 'creature' | 'planeswalker' | 'battle' | 'instant' | 'sorcery' | 'artifact' | 'enchantment' | 'land' | 'unknown'
 
@@ -202,6 +203,18 @@ export function getCardImage(name: string, size: 'normal' | 'large' = 'normal'):
   const info = cardIndex.value[name]
   if (!info) return undefined
   return size === 'large' ? (info.imgLarge || info.img) : (info.img || info.imgLarge)
+}
+
+// Preferred entry point for displaying card images. Returns the cached direct
+// CDN URL (cards.scryfall.io) from the bulk index when available — that CDN is
+// NOT rate-limited. Only falls back to the Scryfall named API endpoint for cards
+// missing from the index (before the bulk download finishes, or unknown names).
+// Hitting the API endpoint for many cards at once triggers HTTP 429 and broken
+// images, so we route through the index whenever we can. Accessing cardIndex.value
+// inside getCardImage keeps this reactive: bindings re-render once the index loads.
+export function cardImageUrl(name: string, version: ScryfallImageVersion = 'normal'): string {
+  const indexSize = version === 'large' ? 'large' : 'normal'
+  return getCardImage(name, indexSize) || scryfallImageUrl(name, version)
 }
 
 export { downloadBulkData }

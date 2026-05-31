@@ -254,7 +254,7 @@ export const standard2006: YearFormatEntry = {
           { count: 4, name: 'Burning-Tree Shaman' },
           { count: 4, name: 'Giant Solifuge' },
           { count: 4, name: 'Char' },
-          { count: 4, name: 'Hit / Run' },
+          { count: 4, name: 'Hit // Run' },
           { count: 4, name: 'Frenzied Goblin' },
           { count: 4, name: 'Llanowar Elves' },
           { count: 3, name: 'Seal of Fire' },

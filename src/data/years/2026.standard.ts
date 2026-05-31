@@ -379,7 +379,7 @@ export const standard2026: YearFormatEntry = {
           { count: 1, name: 'Get Out' },
           { count: 1, name: 'Negate' },
           { count: 2, name: 'Ral, Crackling Wit' },
-          { count: 2, name: 'Roaring Furnace/Steaming Sauna' },
+          { count: 2, name: 'Roaring Furnace // Steaming Sauna' },
           { count: 2, name: 'Soul-Guide Lantern' },
           { count: 1, name: 'Spell Pierce' },
           { count: 1, name: 'This Town Ain\'t Big Enough' },
