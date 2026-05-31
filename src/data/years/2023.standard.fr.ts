@@ -350,36 +350,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un shell aggro mono-rouge bâti sur la prowess de Monastery Swiftspear et Kumano Faces Kakkazan pumpant les créatures tout en brûlant. Phoenix Chick et Feldon, Ronom Excavator fournissent des menaces récurrentes, Play with Fire ping et scry. Punit les ouvertures lentes mais vulnérable au lifegain.',
       keyCards: ['Monastery Swiftspear', 'Kumano Faces Kakkazan', 'Play with Fire', 'Phoenix Chick', 'Feldon, Ronom Excavator'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Monastery Swiftspear' },
-          { count: 4, name: 'Kumano Faces Kakkazan' },
-          { count: 4, name: 'Play with Fire' },
-          { count: 4, name: 'Phoenix Chick' },
-          { count: 3, name: 'Feldon, Ronom Excavator' },
-          { count: 4, name: 'Squee, Dubious Monarch' },
-          { count: 4, name: 'Lightning Strike' },
-          { count: 3, name: 'Bloodthirsty Adversary' },
-          { count: 4, name: 'Goddric, Cloaked Reveler' },
-          { count: 4, name: 'Charming Scoundrel' },
-          { count: 4, name: 'Sokenzan, Crucible of Defiance' },
-          { count: 18, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Urabrask\'s Forge' },
-          { count: 2, name: 'Abrade' },
-          { count: 3, name: 'Roiling Vortex' },
-          { count: 2, name: 'Lithomantic Barrage' },
-          { count: 3, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Lukka, Bound to Ruin' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Soldiers',
@@ -494,41 +465,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un deck midrange noir-vert centré sur Mosswood Dreadknight comme menace récurrente avec pioche d\'Adventure. Virtue of Persistence réanime les créatures tombées, Sheoldred, the Apocalypse draine, Restless Cottage crée des tokens Food et Plant, Graveyard Trespasser exile les graveyards. Grindy et résistant.',
       keyCards: ['Mosswood Dreadknight', 'Virtue of Persistence', 'Sheoldred, the Apocalypse', 'Restless Cottage', 'Graveyard Trespasser'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Mosswood Dreadknight' },
-          { count: 3, name: 'Virtue of Persistence' },
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Restless Cottage' },
-          { count: 4, name: 'Graveyard Trespasser' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 3, name: 'Cut Down' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 2, name: 'The Cruelty of Gix' },
-          { count: 4, name: 'Overgrown Tomb' },
-          { count: 4, name: 'Underground Mortuary' },
-          { count: 3, name: 'Llanowar Wastes' },
-          { count: 2, name: 'Takenuma, Abandoned Mire' },
-          { count: 2, name: 'Boseiju, Who Endures' },
-          { count: 6, name: 'Swamp' },
-          { count: 6, name: 'Forest' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Pithing Needle' },
-          { count: 3, name: 'Tear Asunder' },
-          { count: 3, name: 'The Meathook Massacre' },
-          { count: 2, name: 'Liliana of the Veil' },
-          { count: 2, name: 'Soul-Guide Lantern' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Grixis Midrange',
@@ -538,42 +475,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un deck midrange bleu-noir-rouge centré sur Fable of the Mirror-Breaker produisant treasures et Kiki-clone. Invoke Despair draine et balaie, Sheoldred, the Apocalypse fournit lifegain et pression, Corpse Appraiser grind, Bloodtithe Harvester ping. Résistant et flexible.',
       keyCards: ['Fable of the Mirror-Breaker', 'Invoke Despair', 'Sheoldred, the Apocalypse', 'Corpse Appraiser', 'Bloodtithe Harvester'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Fable of the Mirror-Breaker' },
-          { count: 4, name: 'Invoke Despair' },
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Corpse Appraiser' },
-          { count: 4, name: 'Bloodtithe Harvester' },
-          { count: 4, name: 'Cut Down' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 3, name: 'Make Disappear' },
-          { count: 2, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Tenacious Underdog' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 4, name: 'Haunted Ridge' },
-          { count: 4, name: 'Stormcarved Coast' },
-          { count: 4, name: 'Blood Crypt' },
-          { count: 2, name: 'Otawara, Soaring City' },
-          { count: 4, name: 'Swamp' },
-          { count: 3, name: 'Island' },
-          { count: 2, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 3, name: 'Negate' },
-          { count: 2, name: 'Burning Hands' },
-          { count: 3, name: 'Reckoner Bankbuster' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Esper Midrange',
@@ -583,42 +485,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un deck midrange bleu-noir-blanc bâti sur le moteur connive de Raffine, Scheming Seer et l\'interaction flash de The Wandering Emperor. Sheoldred, the Apocalypse draine et pressure, Cut Down retire les menaces bon marché. Grindy et résistant mais pressé par l\'aggro rapide.',
       keyCards: ['Raffine, Scheming Seer', 'The Wandering Emperor', 'Sheoldred, the Apocalypse', 'Cut Down', 'Make Disappear'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Raffine, Scheming Seer' },
-          { count: 4, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 4, name: 'Cut Down' },
-          { count: 4, name: 'Make Disappear' },
-          { count: 4, name: 'Wedding Announcement' },
-          { count: 4, name: 'Raffine\'s Tower' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 3, name: 'Tenacious Underdog' },
-          { count: 2, name: 'Invoke Justice' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 4, name: 'Shattered Sanctum' },
-          { count: 4, name: 'Deserted Beach' },
-          { count: 2, name: 'Eiganjo, Seat of the Empire' },
-          { count: 2, name: 'Otawara, Soaring City' },
-          { count: 3, name: 'Plains' },
-          { count: 3, name: 'Swamp' },
-          { count: 2, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Disdainful Stroke' },
-          { count: 3, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Destroy Evil' },
-          { count: 3, name: 'Anointed Peacekeeper' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-White Midrange',
@@ -628,37 +495,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un shell midrange mono-blanc centré sur The Wandering Emperor fournissant l\'interaction flash et Wedding Announcement inondant le board d\'Humans. Knight-Errant of Eos tutore les créatures, Anointed Peacekeeper disrupt les cartes clés, Adeline produit des tokens à l\'attaque. Solide contre les decks fair.',
       keyCards: ['The Wandering Emperor', 'Wedding Announcement', 'Knight-Errant of Eos', 'Anointed Peacekeeper', 'Adeline, Resplendent Cathar'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Wedding Announcement' },
-          { count: 4, name: 'Knight-Errant of Eos' },
-          { count: 4, name: 'Anointed Peacekeeper' },
-          { count: 4, name: 'Adeline, Resplendent Cathar' },
-          { count: 4, name: 'Luminarch Aspirant' },
-          { count: 3, name: 'Loran of the Third Path' },
-          { count: 4, name: 'Lay Down Arms' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Elspeth, Sun\'s Champion' },
-          { count: 4, name: 'Eiganjo, Seat of the Empire' },
-          { count: 2, name: 'Mishra\'s Foundry' },
-          { count: 18, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Destroy Evil' },
-          { count: 2, name: 'Disenchant' },
-          { count: 3, name: 'Anointed Peacekeeper' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Sunset Revelry' },
-          { count: 2, name: 'Loran of the Third Path' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Dimir Midrange',
@@ -668,41 +505,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un deck midrange bleu-noir ancré par Sheoldred, the Apocalypse et Gix, Yawgmoth Praetor comme moteurs de card advantage. Cut Down et Go for the Throat retirent les menaces à bas coût. Résistant et grindy mais pressé par le removal d\'exil et le lifegain.',
       keyCards: ['Sheoldred, the Apocalypse', 'Gix, Yawgmoth Praetor', 'Cut Down', 'Go for the Throat', 'Make Disappear'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Gix, Yawgmoth Praetor' },
-          { count: 4, name: 'Cut Down' },
-          { count: 4, name: 'Go for the Throat' },
-          { count: 4, name: 'Make Disappear' },
-          { count: 4, name: 'Disdainful Stroke' },
-          { count: 3, name: 'Tenacious Underdog' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 3, name: 'The Cruelty of Gix' },
-          { count: 2, name: 'Memory Deluge' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 4, name: 'Watery Grave' },
-          { count: 4, name: 'Underground Mortuary' },
-          { count: 2, name: 'Takenuma, Abandoned Mire' },
-          { count: 2, name: 'Otawara, Soaring City' },
-          { count: 5, name: 'Swamp' },
-          { count: 5, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'The Meathook Massacre' },
-          { count: 3, name: 'Liliana of the Veil' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Boros Aggro',
@@ -712,41 +515,7 @@ export const standard2023Fr: YearFormatEntry = {
       summary:
         'Un shell aggro rouge-blanc bâti sur Monastery Swiftspear et Kumano Faces Kakkazan pour la pression prowess, avec Showdown of the Skalds pumpant l\'équipe et rechargeant la main. Lightning Strike fournit le reach, Reckless Stormseeker donne haste et triggers de dégâts. Punit les decks lents mais vulnérable aux sweepers.',
       keyCards: ['Monastery Swiftspear', 'Kumano Faces Kakkazan', 'Showdown of the Skalds', 'Lightning Strike', 'Reckless Stormseeker'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Monastery Swiftspear' },
-          { count: 4, name: 'Kumano Faces Kakkazan' },
-          { count: 4, name: 'Showdown of the Skalds' },
-          { count: 4, name: 'Lightning Strike' },
-          { count: 4, name: 'Reckless Stormseeker' },
-          { count: 4, name: 'Goddric, Cloaked Reveler' },
-          { count: 4, name: 'Squee, Dubious Monarch' },
-          { count: 3, name: 'Bloodthirsty Adversary' },
-          { count: 3, name: 'Adeline, Resplendent Cathar' },
-          { count: 2, name: 'Play with Fire' },
-          { count: 4, name: 'Sacred Foundry' },
-          { count: 4, name: 'Sundown Pass' },
-          { count: 3, name: 'Battlefield Forge' },
-          { count: 2, name: 'Eiganjo, Seat of the Empire' },
-          { count: 2, name: 'Sokenzan, Crucible of Defiance' },
-          { count: 5, name: 'Mountain' },
-          { count: 4, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Destroy Evil' },
-          { count: 3, name: 'Brotherhood\'s End' },
-          { count: 2, name: 'Lithomantic Barrage' },
-          { count: 3, name: 'Urabrask\'s Forge' },
-          { count: 2, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Anointed Peacekeeper' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

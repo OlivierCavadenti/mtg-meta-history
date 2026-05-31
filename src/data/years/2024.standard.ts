@@ -212,42 +212,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A five-color ramp deck leveraging Domain through fetchlands and a tri-land manabase. Up the Beanstalk turns expensive spells into card advantage, Herd Migration ramps and produces tokens, Cavern of Souls makes Atraxa, Grand Unifier uncounterable. Vulnerable to fast aggro but dominates slow midrange matchups.',
       keyCards: ['Atraxa, Grand Unifier', 'Up the Beanstalk', 'Cavern of Souls', 'Herd Migration', 'Topiary Stomper'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Atraxa, Grand Unifier' },
-          { count: 4, name: 'Up the Beanstalk' },
-          { count: 4, name: 'Cavern of Souls' },
-          { count: 4, name: 'Herd Migration' },
-          { count: 4, name: 'Topiary Stomper' },
-          { count: 4, name: 'Leyline Binding' },
-          { count: 3, name: 'Sunfall' },
-          { count: 2, name: 'Temporary Lockdown' },
-          { count: 4, name: 'Plaza of Heroes' },
-          { count: 4, name: 'Spara\'s Headquarters' },
-          { count: 4, name: 'Raffine\'s Tower' },
-          { count: 4, name: 'Xander\'s Lounge' },
-          { count: 4, name: 'Ziatora\'s Proving Ground' },
-          { count: 4, name: 'Jetmir\'s Garden' },
-          { count: 3, name: 'Restless Anchorage' },
-          { count: 2, name: 'Forest' },
-          { count: 1, name: 'Plains' },
-          { count: 1, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Stern Marshal' },
-          { count: 2, name: 'Pithing Needle' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Loran of the Third Path' },
-          { count: 3, name: 'No More Lies' },
-          { count: 3, name: 'Pawpatch Formation' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Esper Midrange',
@@ -518,36 +483,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A mono-red aggro shell built on Monastery Swiftspear\'s prowess and Heartfire Hero growing on damage. Slickshot Show-Off provides reach via prowess, Kumano Faces Kakkazan pumps creatures, Lightning Strike burns. Aims to deal twenty damage by turn four. Punishes slow openings but vulnerable to lifegain.',
       keyCards: ['Monastery Swiftspear', 'Slickshot Show-Off', 'Heartfire Hero', 'Kumano Faces Kakkazan', 'Lightning Strike'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Monastery Swiftspear' },
-          { count: 4, name: 'Slickshot Show-Off' },
-          { count: 4, name: 'Heartfire Hero' },
-          { count: 4, name: 'Kumano Faces Kakkazan' },
-          { count: 4, name: 'Lightning Strike' },
-          { count: 4, name: 'Burst Lightning' },
-          { count: 4, name: 'Emberheart Challenger' },
-          { count: 4, name: 'Monstrous Rage' },
-          { count: 3, name: 'Witchstalker Frenzy' },
-          { count: 4, name: 'Manifold Mouse' },
-          { count: 3, name: 'Sokenzan, Crucible of Defiance' },
-          { count: 18, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Urabrask\'s Forge' },
-          { count: 2, name: 'Lithomantic Barrage' },
-          { count: 3, name: 'Pawpatch Recruit' },
-          { count: 3, name: 'Lockdown Arara' },
-          { count: 2, name: 'Brotherhood\'s End' },
-          { count: 2, name: 'Roiling Vortex' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Control',
@@ -557,41 +493,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A blue-white control deck built on No More Lies and Get Lost as flexible interaction. The Wandering Emperor provides flash answers and tokens, Sunfall sweeps with an incubated body, Memory Deluge refills the hand. Strong against creature decks but slow against fast combo.',
       keyCards: ['No More Lies', 'The Wandering Emperor', 'Sunfall', 'Get Lost', 'Memory Deluge'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'No More Lies' },
-          { count: 4, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Sunfall' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Memory Deluge' },
-          { count: 4, name: 'Temporary Lockdown' },
-          { count: 3, name: 'Beza, the Bounding Spring' },
-          { count: 3, name: 'Day of Judgment' },
-          { count: 2, name: 'Teferi, Hero of Dominaria' },
-          { count: 2, name: 'Stock Up' },
-          { count: 4, name: 'Restless Anchorage' },
-          { count: 4, name: 'Meticulous Archive' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 2, name: 'Adarkar Wastes' },
-          { count: 2, name: 'Otawara, Soaring City' },
-          { count: 5, name: 'Plains' },
-          { count: 5, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Negate' },
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Destroy Evil' },
-          { count: 2, name: 'Stern Marshal' },
-          { count: 3, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Rest in Peace' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Temur Analyst',
@@ -601,42 +503,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A blue-red-green combo deck built around Insidious Roots producing Plant tokens when lands enter graveyards, fueled by Sanctum Weaver making massive mana from enchantments. Worldsoul\'s Rage serves as both ramp and burn finisher, Restless Vinestalk and Topiary Stomper provide bodies. Explosive but vulnerable to graveyard hate.',
       keyCards: ['Insidious Roots', 'Sanctum Weaver', 'Worldsoul\'s Rage', 'Restless Vinestalk', 'Topiary Stomper'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Insidious Roots' },
-          { count: 4, name: 'Sanctum Weaver' },
-          { count: 3, name: 'Worldsoul\'s Rage' },
-          { count: 3, name: 'Restless Vinestalk' },
-          { count: 4, name: 'Topiary Stomper' },
-          { count: 4, name: 'Spelunking' },
-          { count: 4, name: 'Wedding Invitation' },
-          { count: 4, name: 'Malevolent Rumble' },
-          { count: 2, name: 'Worldspine Wurm' },
-          { count: 4, name: 'Cavern of Souls' },
-          { count: 4, name: 'Lush Portico' },
-          { count: 4, name: 'Spire Garden' },
-          { count: 3, name: 'Stomping Ground' },
-          { count: 2, name: 'Botanical Sanctum' },
-          { count: 2, name: 'Boseiju, Who Endures' },
-          { count: 5, name: 'Forest' },
-          { count: 2, name: 'Island' },
-          { count: 2, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Negate' },
-          { count: 3, name: 'Pawpatch Formation' },
-          { count: 2, name: 'Tear Asunder' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'Outcaster Trailblazer' },
-          { count: 2, name: 'Disdainful Stroke' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Four-Color Legends',
@@ -646,41 +513,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A four-color Legendary-themed midrange deck centered on Raffine, Scheming Seer for connive and Slogurk, the Overslime as a graveyard-recurring threat. Tishana\'s Tidebinder counters and disrupts on entry, Plaza of Heroes supplies multicolor mana for legends, The Wandering Emperor closes. Resilient but pressured by sweepers.',
       keyCards: ['Raffine, Scheming Seer', 'Slogurk, the Overslime', 'Tishana\'s Tidebinder', 'Plaza of Heroes', 'The Wandering Emperor'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Raffine, Scheming Seer' },
-          { count: 3, name: 'Slogurk, the Overslime' },
-          { count: 4, name: 'Tishana\'s Tidebinder' },
-          { count: 4, name: 'Plaza of Heroes' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Aclazotz, Deepest Betrayal' },
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Gix, Yawgmoth Praetor' },
-          { count: 4, name: 'Cut Down' },
-          { count: 4, name: 'Get Lost' },
-          { count: 3, name: 'Subterranean Schooner' },
-          { count: 4, name: 'Raffine\'s Tower' },
-          { count: 4, name: 'Spara\'s Headquarters' },
-          { count: 4, name: 'Underground Mortuary' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 3, name: 'Otawara, Soaring City' },
-          { count: 2, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Anointed Peacekeeper' },
-          { count: 2, name: 'No More Lies' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 3, name: 'Loran of the Third Path' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Golgari Midrange',
@@ -690,41 +523,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A black-green midrange deck centered on Mosswood Dreadknight\'s recursive Adventure threat and Unholy Annex // Ritual Chamber providing card-advantage and a Demon. Sheoldred, the Apocalypse drains and pressures, Restless Cottage produces Food and Plant tokens, Glissa Sunslayer trades up. Grindy and resilient.',
       keyCards: ['Mosswood Dreadknight', 'Unholy Annex // Ritual Chamber', 'Sheoldred, the Apocalypse', 'Restless Cottage', 'Glissa Sunslayer'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'Unholy Annex // Ritual Chamber' },
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Restless Cottage' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 4, name: 'Cut Down' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 3, name: 'Tear Asunder' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 2, name: 'Virtue of Persistence' },
-          { count: 4, name: 'Overgrown Tomb' },
-          { count: 4, name: 'Underground Mortuary' },
-          { count: 3, name: 'Llanowar Wastes' },
-          { count: 2, name: 'Boseiju, Who Endures' },
-          { count: 2, name: 'Takenuma, Abandoned Mire' },
-          { count: 6, name: 'Forest' },
-          { count: 5, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Pithing Needle' },
-          { count: 3, name: 'Pawpatch Formation' },
-          { count: 2, name: 'The Meathook Massacre' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'Tear Asunder' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Oculus',
@@ -734,41 +533,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A blue-white tempo deck centered on Abhorrent Oculus as a four-mana six/six flying threat with exile-graveyard cost. Faerie Mastermind grinds cards, No More Lies and Three Steps Ahead counter spells, Get Lost removes anything. Punishes slow decks but vulnerable to graveyard hate.',
       keyCards: ['Abhorrent Oculus', 'Faerie Mastermind', 'No More Lies', 'Three Steps Ahead', 'Get Lost'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Abhorrent Oculus' },
-          { count: 4, name: 'Faerie Mastermind' },
-          { count: 4, name: 'No More Lies' },
-          { count: 4, name: 'Three Steps Ahead' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Proft\'s Eidetic Memory' },
-          { count: 3, name: 'Picklock Prankster' },
-          { count: 3, name: 'Stock Up' },
-          { count: 2, name: 'The Wandering Emperor' },
-          { count: 2, name: 'Temporary Lockdown' },
-          { count: 4, name: 'Floodfarm Verge' },
-          { count: 4, name: 'Meticulous Archive' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 3, name: 'Restless Anchorage' },
-          { count: 2, name: 'Otawara, Soaring City' },
-          { count: 5, name: 'Island' },
-          { count: 4, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Negate' },
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Destroy Evil' },
-          { count: 2, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Anointed Peacekeeper' },
-          { count: 3, name: 'Rest in Peace' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Jeskai Convoke',
@@ -778,42 +543,7 @@ export const standard2024: YearFormatEntry = {
       summary:
         'A blue-red-white version of Boros Convoke that splashes blue for Three Steps Ahead as a counter-protection and bounce engine. Novice Inspector makes Clues, Knight-Errant of Eos brings two more tokens, Imodane\'s Recruiter convokes out with haste. Goldfishes turn three but vulnerable to early sweepers.',
       keyCards: ['Novice Inspector', 'Knight-Errant of Eos', 'Imodane\'s Recruiter', 'Three Steps Ahead', 'Gleeful Demolition'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Novice Inspector' },
-          { count: 4, name: 'Knight-Errant of Eos' },
-          { count: 4, name: 'Imodane\'s Recruiter' },
-          { count: 4, name: 'Three Steps Ahead' },
-          { count: 4, name: 'Gleeful Demolition' },
-          { count: 4, name: 'Resolute Reinforcements' },
-          { count: 4, name: 'Voldaren Epicure' },
-          { count: 4, name: 'Warden of the Inner Sky' },
-          { count: 3, name: 'Case of the Gateway Express' },
-          { count: 4, name: 'Sacred Foundry' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 3, name: 'Steam Vents' },
-          { count: 3, name: 'Inspiring Vantage' },
-          { count: 3, name: 'Spirebluff Canal' },
-          { count: 2, name: 'Battlefield Forge' },
-          { count: 3, name: 'Plains' },
-          { count: 2, name: 'Mountain' },
-          { count: 1, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Destroy Evil' },
-          { count: 2, name: 'Lithomantic Barrage' },
-          { count: 3, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Brotherhood\'s End' },
-          { count: 2, name: 'Anointed Peacekeeper' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

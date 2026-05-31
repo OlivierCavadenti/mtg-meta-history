@@ -82,6 +82,9 @@ export type RepresentativeDeck = {
   summary: string
   keyCards: string[]
   decklist?: Decklist
+  // True when no verified real decklist is available yet. The UI shows a
+  // "decklist coming soon" notice instead of fabricated/indicative data.
+  decklistPending?: boolean
   source?: Source
 }
 

@@ -465,37 +465,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A mono-white aggro deck that pumps Luminarch Aspirant and the team via Intrepid Adversary\'s kicker. Brutal Cathar exiles a creature on entry, Elite Spellbinder disrupts spells, Usher of the Fallen produces tokens. Faceless Haven provides a creature land. Strong board pressure but vulnerable to sweepers.',
       keyCards: ['Luminarch Aspirant', 'Elite Spellbinder', 'Usher of the Fallen', 'Brutal Cathar', 'Intrepid Adversary', 'Faceless Haven'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Luminarch Aspirant' },
-          { count: 4, name: 'Usher of the Fallen' },
-          { count: 4, name: 'Brutal Cathar' },
-          { count: 4, name: 'Elite Spellbinder' },
-          { count: 4, name: 'Intrepid Adversary' },
-          { count: 4, name: 'Adeline, Resplendent Cathar' },
-          { count: 3, name: 'Reidane, God of the Worthy' },
-          { count: 3, name: 'Faceless Haven' },
-          { count: 2, name: 'Sungold Sentinel' },
-          { count: 4, name: 'Portable Hole' },
-          { count: 4, name: 'Snow-Covered Plains' },
-          { count: 16, name: 'Plains' },
-          { count: 4, name: 'Hive of the Eye Tyrant' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Reidane, God of the Worthy' },
-          { count: 2, name: 'Skyclave Apparition' },
-          { count: 2, name: 'Devout Decree' },
-          { count: 3, name: 'Ray of Enfeeblement' },
-          { count: 2, name: 'Maul of the Skyclaves' },
-          { count: 3, name: 'Glass Casket' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Red Aggro',
@@ -505,37 +475,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A mono-red aggro deck powered by Embercleave\'s flash equipment trigger and Anax, Hardened in the Forge as a sticky body. Bonecrusher Giant removes blockers, Goldspan Dragon produces Treasure on attack, Shock provides reach. Punishes slow openings but vulnerable to lifegain.',
       keyCards: ['Bonecrusher Giant', 'Embercleave', 'Anax, Hardened in the Forge', 'Goldspan Dragon', 'Shock'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Bonecrusher Giant' },
-          { count: 4, name: 'Anax, Hardened in the Forge' },
-          { count: 4, name: 'Embercleave' },
-          { count: 2, name: 'Goldspan Dragon' },
-          { count: 4, name: 'Shock' },
-          { count: 4, name: 'Fervent Champion' },
-          { count: 4, name: 'Robber of the Rich' },
-          { count: 4, name: 'Reckless Stormseeker' },
-          { count: 3, name: 'Den of the Bugbear' },
-          { count: 2, name: 'Burning Hands' },
-          { count: 2, name: 'Frost Bite' },
-          { count: 3, name: 'Snow-Covered Mountain' },
-          { count: 20, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Roiling Vortex' },
-          { count: 2, name: 'Goldspan Dragon' },
-          { count: 3, name: 'Smoldering Egg' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'Reckless Rage' },
-          { count: 2, name: 'Embereth Shieldbreaker' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Temur Adventures',
@@ -545,42 +485,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A blue-red-green Adventure midrange deck centered on Edgewall Innkeeper and Lucky Clover doubling Adventures. Bonecrusher Giant, Brazen Borrower, and Lovestruck Beast provide value-stacked threats. Powerful card-advantage engine but vulnerable to graveyard hate and exile removal.',
       keyCards: ['Edgewall Innkeeper', 'Lucky Clover', 'Bonecrusher Giant', 'Brazen Borrower', 'Lovestruck Beast'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Edgewall Innkeeper' },
-          { count: 4, name: 'Lucky Clover' },
-          { count: 4, name: 'Bonecrusher Giant' },
-          { count: 4, name: 'Brazen Borrower' },
-          { count: 4, name: 'Lovestruck Beast' },
-          { count: 3, name: 'Fae of Wishes' },
-          { count: 3, name: 'Questing Beast' },
-          { count: 2, name: 'Goldspan Dragon' },
-          { count: 2, name: 'Beanstalk Giant' },
-          { count: 2, name: 'Shatterskull Smashing' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 4, name: 'Ketria Triome' },
-          { count: 2, name: 'Cragcrown Pathway' },
-          { count: 2, name: 'Riverglide Pathway' },
-          { count: 2, name: 'Barkchannel Pathway' },
-          { count: 5, name: 'Forest' },
-          { count: 5, name: 'Mountain' },
-          { count: 4, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 3, name: 'Aether Gust' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Klothys, God of Destiny' },
-          { count: 2, name: 'Reidane, God of the Worthy' },
-          { count: 3, name: 'Soul-Guide Lantern' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Dimir Rogues',
@@ -590,43 +495,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A blue-black Rogue tribal mill-tempo deck where Thieves\' Guild Enforcer and Soaring Thought-Thief mill the opponent on each Rogue entry. Drown in the Loch scales with the opponent\'s graveyard, Into the Story refills cheaply, Lurrus recurs cheap creatures from the bin. Resilient against fair decks.',
       keyCards: ['Thieves\' Guild Enforcer', 'Soaring Thought-Thief', 'Into the Story', 'Drown in the Loch', 'Lurrus of the Dream-Den'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Thieves\' Guild Enforcer' },
-          { count: 4, name: 'Soaring Thought-Thief' },
-          { count: 4, name: 'Drown in the Loch' },
-          { count: 4, name: 'Into the Story' },
-          { count: 1, name: 'Lurrus of the Dream-Den' },
-          { count: 4, name: 'Merfolk Windrobber' },
-          { count: 4, name: 'Zareth San, the Trickster' },
-          { count: 2, name: 'Cling to Dust' },
-          { count: 2, name: 'Heartless Act' },
-          { count: 3, name: 'Bloodchief\'s Thirst' },
-          { count: 2, name: 'Agonizing Remorse' },
-          { count: 4, name: 'Clearwater Pathway' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 1, name: 'Castle Locthwain' },
-          { count: 4, name: 'Watery Grave' },
-          { count: 3, name: 'Island' },
-          { count: 4, name: 'Swamp' },
-          { count: 2, name: 'Faceless Haven' },
-          { count: 4, name: 'Snow-Covered Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 2, name: 'Test of Talents' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Cling to Dust' },
-          { count: 3, name: 'Crippling Fear' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Jeskai Mutate',
@@ -636,44 +505,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A blue-red-white mutate combo deck that stacks Lore Drakkis triggers to refund spells repeatedly. Sublime Epiphany counters and bounces, Yorion, Sky Nomad blinks for value, Brokkos, Apex of Forever recurs from the graveyard. Powerful card-advantage engine but vulnerable to disruption.',
       keyCards: ['Lore Drakkis', 'Sublime Epiphany', 'Yorion, Sky Nomad', 'Brokkos, Apex of Forever', 'Migratory Greathorn'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Lore Drakkis' },
-          { count: 4, name: 'Migratory Greathorn' },
-          { count: 3, name: 'Brokkos, Apex of Forever' },
-          { count: 2, name: 'Sublime Epiphany' },
-          { count: 1, name: 'Yorion, Sky Nomad' },
-          { count: 4, name: 'Pouncing Shoreshark' },
-          { count: 3, name: 'Auspicious Starrix' },
-          { count: 4, name: 'Cubwarden' },
-          { count: 4, name: 'Eerie Ultimatum' },
-          { count: 3, name: 'Justice Strike' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 3, name: 'Sacred Foundry' },
-          { count: 3, name: 'Steam Vents' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 2, name: 'Temple of Triumph' },
-          { count: 2, name: 'Temple of Enlightenment' },
-          { count: 2, name: 'Plains' },
-          { count: 4, name: 'Island' },
-          { count: 2, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Devout Decree' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 3, name: 'Glass Casket' },
-          { count: 3, name: 'Disdainful Stroke' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Grixis Epiphany',
@@ -683,43 +515,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A blue-black-red combo deck that uses Galvanic Iteration to copy Alrund\'s Epiphany for two extra turns, fueled by Goldspan Dragon Treasures. Power Word Kill removes creatures, Duress strips key spells. Devastating but vulnerable to counterspells and aggro pressure.',
       keyCards: ['Alrund\'s Epiphany', 'Galvanic Iteration', 'Goldspan Dragon', 'Power Word Kill', 'Duress'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Alrund\'s Epiphany' },
-          { count: 4, name: 'Galvanic Iteration' },
-          { count: 4, name: 'Goldspan Dragon' },
-          { count: 4, name: 'Power Word Kill' },
-          { count: 3, name: 'Duress' },
-          { count: 4, name: 'Unexpected Windfall' },
-          { count: 4, name: 'Expressive Iteration' },
-          { count: 3, name: 'Memory Deluge' },
-          { count: 2, name: 'Fading Hope' },
-          { count: 2, name: 'Jwari Disruption' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 4, name: 'Stormcarved Coast' },
-          { count: 3, name: 'Haunted Ridge' },
-          { count: 3, name: 'Riverglide Pathway' },
-          { count: 2, name: 'Blightstep Pathway' },
-          { count: 2, name: 'Hall of Storm Giants' },
-          { count: 3, name: 'Island' },
-          { count: 3, name: 'Mountain' },
-          { count: 2, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Test of Talents' },
-          { count: 2, name: 'Burning Hands' },
-          { count: 3, name: 'Negate' },
-          { count: 3, name: 'Smoldering Egg' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Temur Treasures',
@@ -729,42 +525,7 @@ export const standard2021: YearFormatEntry = {
       summary:
         'A blue-red-green Treasure midrange deck that ramps via Magda, Brazen Outlaw and Prosperous Innkeeper into Goldspan Dragon producing more Treasures. Esika\'s Chariot copies key creatures, Wrenn and Seven creates a giant Treefolk. Strong board presence but pressured by sweepers.',
       keyCards: ['Goldspan Dragon', 'Magda, Brazen Outlaw', 'Esika\'s Chariot', 'Wrenn and Seven', 'Prosperous Innkeeper'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Goldspan Dragon' },
-          { count: 4, name: 'Magda, Brazen Outlaw' },
-          { count: 4, name: 'Esika\'s Chariot' },
-          { count: 3, name: 'Wrenn and Seven' },
-          { count: 4, name: 'Prosperous Innkeeper' },
-          { count: 4, name: 'Ranger Class' },
-          { count: 2, name: 'Reckless Stormseeker' },
-          { count: 2, name: 'Old-Growth Troll' },
-          { count: 2, name: 'Burning Hands' },
-          { count: 3, name: 'Frost Bite' },
-          { count: 4, name: 'Cragcrown Pathway' },
-          { count: 4, name: 'Riverglide Pathway' },
-          { count: 3, name: 'Barkchannel Pathway' },
-          { count: 2, name: 'Stormcarved Coast' },
-          { count: 2, name: 'Rockfall Vale' },
-          { count: 6, name: 'Snow-Covered Forest' },
-          { count: 4, name: 'Snow-Covered Mountain' },
-          { count: 3, name: 'Snow-Covered Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 3, name: 'Negate' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 2, name: 'Reidane, God of the Worthy' },
-          { count: 2, name: 'Outland Liberator' },
-          { count: 3, name: 'Smoldering Egg' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

@@ -79,6 +79,7 @@ const translations: Record<string, Record<Locale, string>> = {
   'deck.summary': { en: 'Summary', fr: 'Résumé' },
   'deck.key_cards': { en: 'Key cards', fr: 'Cartes clés' },
   'deck.decklists': { en: 'Decklists', fr: 'Listes de deck' },
+  'deck.decklist_pending': { en: 'Decklist coming soon', fr: 'Decklist en cours d\'ajout' },
   'deck.view_decklists': { en: 'View representative decklists', fr: 'Voir les listes représentatives' },
   'deck.not_found': { en: 'Deck not found', fr: 'Deck introuvable' },
   'deck.no_match': { en: 'No deck matching', fr: 'Aucun deck correspondant à' },

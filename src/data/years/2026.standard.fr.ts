@@ -462,36 +462,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck reanimator-combo bleu-noir-vert qui remplit le graveyard via les piochages Adventure de Mosswood Dreadknight et le filtrage de Stock Up. Insidious Roots produit des tokens Plant via les terrains millés, Virtue of Persistence réanime les créatures, Glissa Sunslayer trade-up. Moteur puissant mais vulnérable à la hate graveyard.',
       keyCards: ['Mosswood Dreadknight', 'Insidious Roots', 'Virtue of Persistence', 'Stock Up', 'Glissa Sunslayer'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Consider' },
-          { count: 3, name: 'Duress' },
-          { count: 7, name: 'Forest' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 4, name: 'Hinterland Harbor' },
-          { count: 4, name: 'Insidious Roots' },
-          { count: 7, name: 'Island' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 4, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'Stock Up' },
-          { count: 7, name: 'Swamp' },
-          { count: 3, name: 'Virtue of Persistence' },
-          { count: 4, name: 'Woodland Cemetery' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Bant Airbending',
@@ -501,38 +472,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck tempo vert-blanc-bleu centré sur Aang, Swift Savior comme menace flash flexible avec utilité de bounce. Formidable Speaker grind le card advantage, Get Lost et No More Lies fournissent l\'interaction, Stock Up recharge la main. Solide contre le midrange fair mais pressé par le combo.',
       keyCards: ['Aang, Swift Savior', 'Formidable Speaker', 'Get Lost', 'Stock Up', 'No More Lies'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Aang, Swift Savior' },
-          { count: 3, name: 'Consider' },
-          { count: 6, name: 'Forest' },
-          { count: 4, name: 'Formidable Speaker' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Glacial Fortress' },
-          { count: 4, name: 'Hinterland Harbor' },
-          { count: 5, name: 'Island' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 3, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'No More Lies' },
-          { count: 6, name: 'Plains' },
-          { count: 4, name: 'Stock Up' },
-          { count: 4, name: 'Sunpetal Grove' },
-          { count: 3, name: 'The Wandering Emperor' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Izzet Spellementals',
@@ -542,31 +482,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck tempo bleu-rouge centré sur Eddymurk Crab et Cori-Steel Cutter scalant avec les sorts non-créature. Stock Up recharge à bas coût, Consider filtre et nourrit le graveyard, Shock fournit le reach. Punit les decks lents mais vulnérable aux sweepers et au lifegain.',
       keyCards: ['Eddymurk Crab', 'Cori-Steel Cutter', 'Stock Up', 'Consider', 'Shock'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Consider' },
-          { count: 4, name: 'Cori-Steel Cutter' },
-          { count: 4, name: 'Eddymurk Crab' },
-          { count: 17, name: 'Island' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 17, name: 'Mountain' },
-          { count: 4, name: 'Shock' },
-          { count: 4, name: 'Stock Up' },
-          { count: 3, name: 'Torch the Tower' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Izzet Lessons',
@@ -576,31 +492,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck control bleu-rouge qui utilise Cori-Steel Cutter et No More Lies pour verrouiller les menaces pendant que Stock Up et Consider affinent la main. Shock retire les créatures précoces. Solide contre le midrange fair mais lent face au combo rapide.',
       keyCards: ['Cori-Steel Cutter', 'Stock Up', 'Consider', 'Shock', 'No More Lies'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Consider' },
-          { count: 4, name: 'Cori-Steel Cutter' },
-          { count: 17, name: 'Island' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 17, name: 'Mountain' },
-          { count: 4, name: 'No More Lies' },
-          { count: 4, name: 'Shock' },
-          { count: 4, name: 'Stock Up' },
-          { count: 3, name: 'Torch the Tower' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Dimir Midrange',
@@ -610,30 +502,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck midrange bleu-noir centré sur Preacher of the Schism grindant la value et Sheoldred, the Apocalypse drainant l\'adversaire. Kaito, Bane of Nightmares sert de planeswalker-créature, Go for the Throat retire n\'importe quoi. Grindy et résistant mais pressé par le removal d\'exil.',
       keyCards: ['Preacher of the Schism', 'Sheoldred, the Apocalypse', 'Kaito, Bane of Nightmares', 'Go for the Throat', 'Stock Up'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Consider' },
-          { count: 3, name: 'Duress' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 19, name: 'Island' },
-          { count: 3, name: 'Kaito, Bane of Nightmares' },
-          { count: 3, name: 'Preacher of the Schism' },
-          { count: 3, name: 'Sheoldred, the Apocalypse' },
-          { count: 4, name: 'Stock Up' },
-          { count: 19, name: 'Swamp' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 4, name: 'Pithing Needle' },
-          { count: 3, name: 'Soul-Guide Lantern' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Tempo',
@@ -643,32 +512,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck tempo bleu-blanc centré sur Aang, Swift Savior comme menace flash avec utilité de bounce. Erode gère les permanents, No More Lies et Get Lost fournissent l\'interaction flexible, Stock Up recharge la main. Punit les decks lents mais pressé par le combo.',
       keyCards: ['Aang, Swift Savior', 'Erode', 'No More Lies', 'Get Lost', 'Stock Up'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Aang, Swift Savior' },
-          { count: 3, name: 'Consider' },
-          { count: 4, name: 'Erode' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Glacial Fortress' },
-          { count: 16, name: 'Island' },
-          { count: 4, name: 'No More Lies' },
-          { count: 15, name: 'Plains' },
-          { count: 4, name: 'Stock Up' },
-          { count: 3, name: 'The Wandering Emperor' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Boros Dragons',
@@ -678,34 +522,7 @@ export const standard2026Fr: YearFormatEntry = {
       summary:
         'Un deck midrange rouge-blanc centré sur Sarkhan, Dragon Ascendant comme planeswalker qui devient un Dragon. Erode et Get Lost fournissent l\'interaction flexible, Lightning Helix retire les créatures et gagne des points de vie, Shock gère les menaces précoces. Solide contre l\'aggro fair mais pressé par le combo.',
       keyCards: ['Sarkhan, Dragon Ascendant', 'Erode', 'Get Lost', 'Lightning Helix', 'Shock'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Clifftop Retreat' },
-          { count: 4, name: 'Erode' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Lightning Helix' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 14, name: 'Mountain' },
-          { count: 14, name: 'Plains' },
-          { count: 3, name: 'Sarkhan, Dragon Ascendant' },
-          { count: 4, name: 'Shock' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Torch the Tower' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

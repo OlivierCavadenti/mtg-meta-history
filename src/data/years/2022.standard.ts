@@ -252,37 +252,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-white aggro shell built on Luminarch Aspirant and Brutal Cathar with The Wandering Emperor providing flash interaction and pumps. Thalia, Guardian of Thraben slows the opponent\'s spells, Elite Spellbinder disrupts the hand. Punishes slow decks but vulnerable to sweepers.',
       keyCards: ['Luminarch Aspirant', 'The Wandering Emperor', 'Thalia, Guardian of Thraben', 'Elite Spellbinder', 'Brutal Cathar'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Luminarch Aspirant' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Thalia, Guardian of Thraben' },
-          { count: 4, name: 'Elite Spellbinder' },
-          { count: 4, name: 'Brutal Cathar' },
-          { count: 4, name: 'Adeline, Resplendent Cathar' },
-          { count: 4, name: 'Skyclave Apparition' },
-          { count: 3, name: 'Reidane, God of the Worthy' },
-          { count: 4, name: 'Portable Hole' },
-          { count: 2, name: 'Maul of the Skyclaves' },
-          { count: 3, name: 'Hive of the Eye Tyrant' },
-          { count: 4, name: 'Eiganjo, Seat of the Empire' },
-          { count: 18, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Devout Decree' },
-          { count: 2, name: 'Skyclave Apparition' },
-          { count: 3, name: 'Glass Casket' },
-          { count: 2, name: 'Disenchant' },
-          { count: 2, name: 'Reidane, God of the Worthy' },
-          { count: 3, name: 'Anointed Peacekeeper' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Naya Runes',
@@ -292,42 +262,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A red-green-white Aura aggro deck that suits up Generous Visitor and Runeforge Champion with Runes for stacking buffs and triggers. Jukai Naturalist reduces enchantment costs, Showdown of the Skalds pumps the board. Explosive but vulnerable to mass removal and edict effects.',
       keyCards: ['Generous Visitor', 'Runeforge Champion', 'Jukai Naturalist', 'Rune of Might', 'Showdown of the Skalds'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Generous Visitor' },
-          { count: 4, name: 'Runeforge Champion' },
-          { count: 4, name: 'Jukai Naturalist' },
-          { count: 4, name: 'Rune of Might' },
-          { count: 3, name: 'Showdown of the Skalds' },
-          { count: 4, name: 'Rune of Speed' },
-          { count: 4, name: 'Rune of Mortality' },
-          { count: 2, name: 'Rune of Sustenance' },
-          { count: 3, name: 'Kor Spiritdancer' },
-          { count: 2, name: 'Sigardian Savior' },
-          { count: 4, name: 'Branchloft Pathway' },
-          { count: 4, name: 'Cragcrown Pathway' },
-          { count: 4, name: 'Needleverge Pathway' },
-          { count: 4, name: 'Sungrass Prairie' },
-          { count: 3, name: 'Forest' },
-          { count: 3, name: 'Plains' },
-          { count: 2, name: 'Mountain' },
-          { count: 2, name: 'Sundown Pass' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Skyclave Apparition' },
-          { count: 2, name: 'Glass Casket' },
-          { count: 2, name: 'Klothys, God of Destiny' },
-          { count: 3, name: 'Ray of Enfeeblement' },
-          { count: 2, name: 'Reidane, God of the Worthy' },
-          { count: 3, name: 'Outland Liberator' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Jeskai Hinata',
@@ -337,43 +272,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A blue-red-white control deck centered on Hinata, Dawn-Crowned making targeted spells one-color cheaper to copy and discount. Magma Opus is the win condition, Goldspan Dragon ramps and finishes, March of Otherworldly Light removes threats. Combo-control hybrid vulnerable to disruption.',
       keyCards: ['Hinata, Dawn-Crowned', 'Magma Opus', 'Goldspan Dragon', 'March of Otherworldly Light', 'The Wandering Emperor'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Hinata, Dawn-Crowned' },
-          { count: 4, name: 'Magma Opus' },
-          { count: 3, name: 'Goldspan Dragon' },
-          { count: 4, name: 'March of Otherworldly Light' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Expressive Iteration' },
-          { count: 4, name: 'Memory Deluge' },
-          { count: 2, name: 'Galvanic Iteration' },
-          { count: 2, name: 'Burn Down the House' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 3, name: 'Sacred Foundry' },
-          { count: 3, name: 'Steam Vents' },
-          { count: 4, name: 'Stormcarved Coast' },
-          { count: 2, name: 'Sundown Pass' },
-          { count: 2, name: 'Shattered Sanctum' },
-          { count: 2, name: 'Hall of Storm Giants' },
-          { count: 2, name: 'Plains' },
-          { count: 4, name: 'Island' },
-          { count: 4, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Devout Decree' },
-          { count: 2, name: 'Lifeforce Mystic' },
-          { count: 3, name: 'Farewell' },
-          { count: 3, name: 'Lukka, Bound to Ruin' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Esper Midrange',
@@ -489,41 +388,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A black-white midrange deck combining The Wandering Emperor for flash interaction with Lolth, Spider Queen as a token-producing planeswalker. Vanishing Verse removes monocolored threats, Infernal Grasp handles anything, Graveyard Trespasser exiles graveyards. Strong against fair decks but slow against combo.',
       keyCards: ['The Wandering Emperor', 'Lolth, Spider Queen', 'Vanishing Verse', 'Infernal Grasp', 'Graveyard Trespasser'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Lolth, Spider Queen' },
-          { count: 4, name: 'Vanishing Verse' },
-          { count: 4, name: 'Infernal Grasp' },
-          { count: 4, name: 'Graveyard Trespasser' },
-          { count: 3, name: 'Sheoldred, the Apocalypse' },
-          { count: 4, name: 'Wedding Announcement' },
-          { count: 4, name: 'Tenacious Underdog' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 2, name: 'Cut Down' },
-          { count: 4, name: 'Godless Shrine' },
-          { count: 4, name: 'Shattered Sanctum' },
-          { count: 4, name: 'Caves of Koilos' },
-          { count: 2, name: 'Hive of the Eye Tyrant' },
-          { count: 2, name: 'Eiganjo, Seat of the Empire' },
-          { count: 5, name: 'Plains' },
-          { count: 5, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Devout Decree' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Anointed Peacekeeper' },
-          { count: 2, name: 'Tear Asunder' },
-          { count: 3, name: 'Liliana of the Veil' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Izzet Control',
@@ -533,40 +398,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A blue-red control deck built on Hullbreaker Horror as an uncounterable bounce engine and Smoldering Egg flipping into a damage-dealing Dragon. Make Disappear, Spell Pierce, and Disdainful Stroke counter key threats. Strong against fair midrange but slow against fast combo.',
       keyCards: ['Hullbreaker Horror', 'Smoldering Egg', 'Make Disappear', 'Spell Pierce', 'Disdainful Stroke'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Hullbreaker Horror' },
-          { count: 4, name: 'Smoldering Egg' },
-          { count: 4, name: 'Make Disappear' },
-          { count: 3, name: 'Spell Pierce' },
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 4, name: 'Expressive Iteration' },
-          { count: 4, name: 'Memory Deluge' },
-          { count: 3, name: 'Burn Down the House' },
-          { count: 3, name: 'Strangle' },
-          { count: 2, name: 'Negate' },
-          { count: 4, name: 'Steam Vents' },
-          { count: 4, name: 'Stormcarved Coast' },
-          { count: 4, name: 'Riverglide Pathway' },
-          { count: 2, name: 'Hall of Storm Giants' },
-          { count: 7, name: 'Island' },
-          { count: 6, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Burning Hands' },
-          { count: 2, name: 'Crush the Weak' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'Disdainful Stroke' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Green Aggro',
@@ -576,37 +408,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-green aggro deck powered by Esika\'s Chariot producing token copies and Old-Growth Troll as a recurring threat. Workshop Warchief provides a sacrifice-trigger backup, Ranger Class scales, Wrenn and Seven creates a giant Treefolk. Resilient but pressured by sweepers.',
       keyCards: ['Esika\'s Chariot', 'Old-Growth Troll', 'Workshop Warchief', 'Ranger Class', 'Wrenn and Seven'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Esika\'s Chariot' },
-          { count: 4, name: 'Old-Growth Troll' },
-          { count: 3, name: 'Workshop Warchief' },
-          { count: 4, name: 'Ranger Class' },
-          { count: 3, name: 'Wrenn and Seven' },
-          { count: 4, name: 'Werewolf Pack Leader' },
-          { count: 3, name: 'Kazandu Mammoth' },
-          { count: 3, name: 'Tovolar\'s Huntmaster' },
-          { count: 3, name: 'Snakeskin Veil' },
-          { count: 2, name: 'Tail Swipe' },
-          { count: 4, name: 'Boseiju, Who Endures' },
-          { count: 3, name: 'Lair of the Hydra' },
-          { count: 20, name: 'Forest' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Outland Liberator' },
-          { count: 3, name: 'Tail Swipe' },
-          { count: 2, name: 'Froghemoth' },
-          { count: 2, name: 'Tear Asunder' },
-          { count: 2, name: 'Cathartic Pyre' },
-          { count: 3, name: 'Pithing Needle' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Grixis Vampires',
@@ -616,43 +418,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A blue-black-red Vampire tribal midrange deck centered on Bloodtithe Harvester pinging and ramping, Evelyn, the Covetous exiling cards to cast, and Henrika Domnathi flipping for value. Sorin the Mirthless draws and burns, Bloodthirsty Adversary recurs from the graveyard. Grindy and resilient.',
       keyCards: ['Bloodtithe Harvester', 'Evelyn, the Covetous', 'Sorin the Mirthless', 'Henrika Domnathi', 'Bloodthirsty Adversary'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Bloodtithe Harvester' },
-          { count: 3, name: 'Evelyn, the Covetous' },
-          { count: 3, name: 'Sorin the Mirthless' },
-          { count: 3, name: 'Henrika Domnathi' },
-          { count: 4, name: 'Bloodthirsty Adversary' },
-          { count: 4, name: 'Voldaren Epicure' },
-          { count: 3, name: 'Fable of the Mirror-Breaker' },
-          { count: 2, name: 'Sheoldred, the Apocalypse' },
-          { count: 4, name: 'Cut Down' },
-          { count: 2, name: 'Infernal Grasp' },
-          { count: 2, name: 'Make Disappear' },
-          { count: 4, name: 'Haunted Ridge' },
-          { count: 4, name: 'Shipwreck Marsh' },
-          { count: 4, name: 'Stormcarved Coast' },
-          { count: 2, name: 'Den of the Bugbear' },
-          { count: 5, name: 'Swamp' },
-          { count: 4, name: 'Mountain' },
-          { count: 3, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Liliana of the Veil' },
-          { count: 2, name: 'Burning Hands' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Jund Midrange',
@@ -662,43 +428,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A black-red-green midrange deck powered by Fable of the Mirror-Breaker producing treasure and a Kiki-clone. Old-Growth Troll provides a resilient four-drop, Riveteers Charm offers flexibility, Ziatora\'s Envoy closes with cheating creatures into play. Grindy and resilient.',
       keyCards: ['Fable of the Mirror-Breaker', 'Old-Growth Troll', 'Riveteers Charm', 'Bloodtithe Harvester', 'Ziatora\'s Envoy'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Fable of the Mirror-Breaker' },
-          { count: 3, name: 'Old-Growth Troll' },
-          { count: 3, name: 'Riveteers Charm' },
-          { count: 4, name: 'Bloodtithe Harvester' },
-          { count: 3, name: 'Ziatora\'s Envoy' },
-          { count: 3, name: 'Tenacious Underdog' },
-          { count: 4, name: 'Workshop Warchief' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 3, name: 'Cut Down' },
-          { count: 2, name: 'Power Word Kill' },
-          { count: 4, name: 'Blood Crypt' },
-          { count: 4, name: 'Overgrown Tomb' },
-          { count: 4, name: 'Stomping Ground' },
-          { count: 3, name: 'Ziatora\'s Proving Ground' },
-          { count: 2, name: 'Boseiju, Who Endures' },
-          { count: 2, name: 'Den of the Bugbear' },
-          { count: 3, name: 'Swamp' },
-          { count: 3, name: 'Forest' },
-          { count: 3, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Go for the Throat' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 2, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Outland Liberator' },
-          { count: 3, name: 'Graveyard Trespasser' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Red Aggro',
@@ -708,36 +438,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-red aggro shell centered on Bloodthirsty Adversary recurring from the graveyard and Phoenix Chick as an early-pressure recursive threat. Reckless Stormseeker grants haste and damage triggers, Play with Fire and Strangle provide burn and reach. Punishes slow draws but vulnerable to lifegain.',
       keyCards: ['Bloodthirsty Adversary', 'Phoenix Chick', 'Reckless Stormseeker', 'Play with Fire', 'Strangle'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Bloodthirsty Adversary' },
-          { count: 4, name: 'Phoenix Chick' },
-          { count: 4, name: 'Reckless Stormseeker' },
-          { count: 4, name: 'Play with Fire' },
-          { count: 4, name: 'Strangle' },
-          { count: 4, name: 'Kumano Faces Kakkazan' },
-          { count: 4, name: 'Voldaren Epicure' },
-          { count: 4, name: 'Fable of the Mirror-Breaker' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 2, name: 'Burning Hands' },
-          { count: 4, name: 'Den of the Bugbear' },
-          { count: 19, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Roiling Vortex' },
-          { count: 3, name: 'Lukka, Bound to Ruin' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Abrade' },
-          { count: 3, name: 'Urabrask, Heretic Praetor' },
-          { count: 2, name: 'Reckless Stormseeker' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Blue Tempo',
@@ -747,37 +448,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-blue tempo deck built on Haughty Djinn scaling with instants and sorceries in the graveyard, and Tolarian Terror as a cheap big body. Slip Out the Back protects threats, Make Disappear and Spell Pierce counter key spells. Strong against fair decks but pressured by sweepers.',
       keyCards: ['Haughty Djinn', 'Tolarian Terror', 'Slip Out the Back', 'Make Disappear', 'Spell Pierce'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Haughty Djinn' },
-          { count: 4, name: 'Tolarian Terror' },
-          { count: 4, name: 'Slip Out the Back' },
-          { count: 4, name: 'Make Disappear' },
-          { count: 4, name: 'Spell Pierce' },
-          { count: 4, name: 'Consider' },
-          { count: 4, name: 'Otawara, Soaring City' },
-          { count: 3, name: 'Impulse' },
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 3, name: 'Memory Deluge' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Shipwreck Dowser' },
-          { count: 18, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 3, name: 'Negate' },
-          { count: 2, name: 'Crush the Weak' },
-          { count: 2, name: 'Disdainful Stroke' },
-          { count: 3, name: 'Hullbreaker Horror' },
-          { count: 2, name: 'Soul-Guide Lantern' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Black Midrange',
@@ -787,37 +458,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-black midrange shell anchored by Sheoldred, the Apocalypse as a card-advantage and lifegain engine, with Liliana of the Veil disrupting hands. Cut Down and Infernal Grasp remove threats cheaply, Misery\'s Shadow blocks recursion. Grindy and resilient but pressured by combo.',
       keyCards: ['Sheoldred, the Apocalypse', 'Liliana of the Veil', 'Cut Down', 'Infernal Grasp', 'Misery\'s Shadow'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Liliana of the Veil' },
-          { count: 4, name: 'Cut Down' },
-          { count: 4, name: 'Infernal Grasp' },
-          { count: 4, name: 'Misery\'s Shadow' },
-          { count: 4, name: 'Graveyard Trespasser' },
-          { count: 4, name: 'Tenacious Underdog' },
-          { count: 4, name: 'Reckoner Bankbuster' },
-          { count: 3, name: 'Wedding Announcement' },
-          { count: 2, name: 'Go Blank' },
-          { count: 4, name: 'Takenuma, Abandoned Mire' },
-          { count: 4, name: 'Hive of the Eye Tyrant' },
-          { count: 16, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Go Blank' },
-          { count: 3, name: 'Graveyard Trespasser' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'The Meathook Massacre' },
-          { count: 2, name: 'Whip Silk' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-White Midrange',
@@ -827,37 +468,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A mono-white midrange deck centered on The Wandering Emperor providing flash interaction and tokens. Adeline, Resplendent Cathar produces tokens on attack, Anointed Peacekeeper disrupts key cards, Brutal Cathar exiles creatures, Wedding Announcement floods the board. Strong against fair decks.',
       keyCards: ['The Wandering Emperor', 'Adeline, Resplendent Cathar', 'Anointed Peacekeeper', 'Brutal Cathar', 'Wedding Announcement'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Adeline, Resplendent Cathar' },
-          { count: 3, name: 'Anointed Peacekeeper' },
-          { count: 4, name: 'Brutal Cathar' },
-          { count: 4, name: 'Wedding Announcement' },
-          { count: 4, name: 'Luminarch Aspirant' },
-          { count: 3, name: 'Elite Spellbinder' },
-          { count: 2, name: 'Lay Down Arms' },
-          { count: 4, name: 'Portable Hole' },
-          { count: 3, name: 'Reckoner Bankbuster' },
-          { count: 4, name: 'Eiganjo, Seat of the Empire' },
-          { count: 3, name: 'Hive of the Eye Tyrant' },
-          { count: 18, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Devout Decree' },
-          { count: 3, name: 'Anointed Peacekeeper' },
-          { count: 2, name: 'Disenchant' },
-          { count: 2, name: 'Skyclave Apparition' },
-          { count: 3, name: 'Loran of the Third Path' },
-          { count: 2, name: 'Lay Down Arms' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Soldiers',
@@ -867,40 +478,7 @@ export const standard2022: YearFormatEntry = {
       summary:
         'A blue-white Soldier tribal aggro deck where Harbin, Vanguard Aviator grants flying once enough Soldiers attack, and Valiant Veteran pumps the team on attack. Recruitment Officer tutors more Soldiers, Resolute Reinforcements produces tokens, Thalia slows down opponents. Strong against burn but pressured by sweepers.',
       keyCards: ['Harbin, Vanguard Aviator', 'Valiant Veteran', 'Recruitment Officer', 'Resolute Reinforcements', 'Thalia, Guardian of Thraben'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Harbin, Vanguard Aviator' },
-          { count: 4, name: 'Valiant Veteran' },
-          { count: 4, name: 'Recruitment Officer' },
-          { count: 4, name: 'Resolute Reinforcements' },
-          { count: 3, name: 'Thalia, Guardian of Thraben' },
-          { count: 4, name: 'Skystrike Officer' },
-          { count: 4, name: 'Siege Veteran' },
-          { count: 2, name: 'The Wandering Emperor' },
-          { count: 4, name: 'Portable Hole' },
-          { count: 2, name: 'March of Otherworldly Light' },
-          { count: 4, name: 'Adarkar Wastes' },
-          { count: 4, name: 'Deserted Beach' },
-          { count: 4, name: 'Eiganjo, Seat of the Empire' },
-          { count: 3, name: 'Otawara, Soaring City' },
-          { count: 6, name: 'Plains' },
-          { count: 4, name: 'Island' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Disdainful Stroke' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Devout Decree' },
-          { count: 2, name: 'Loran of the Third Path' },
-          { count: 3, name: 'Make Disappear' },
-          { count: 2, name: 'Anointed Peacekeeper' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

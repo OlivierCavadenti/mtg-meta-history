@@ -484,44 +484,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck combo bleu-rouge-blanc qui utilise Lukka, Coppercoat Outcast pour transformer une petite créature en Agent of Treachery volant les permanents adverses. Fires of Invention joue deux sorts gratuits par tour, Yorion, Sky Nomad blink pour des triggers répétés. Dévastateur mais vulnérable aux disenchants.',
       keyCards: ['Fires of Invention', 'Lukka, Coppercoat Outcast', 'Agent of Treachery', 'Yorion, Sky Nomad', 'Teferi, Time Raveler'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Fires of Invention' },
-          { count: 4, name: 'Lukka, Coppercoat Outcast' },
-          { count: 3, name: 'Agent of Treachery' },
-          { count: 1, name: 'Yorion, Sky Nomad' },
-          { count: 4, name: 'Teferi, Time Raveler' },
-          { count: 4, name: 'Deafening Clarion' },
-          { count: 4, name: 'Omen of the Sea' },
-          { count: 4, name: 'Bonecrusher Giant' },
-          { count: 3, name: 'Cavalier of Flame' },
-          { count: 3, name: 'Kenrith, the Returned King' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 4, name: 'Hallowed Fountain' },
-          { count: 4, name: 'Sacred Foundry' },
-          { count: 4, name: 'Steam Vents' },
-          { count: 2, name: 'Temple of Triumph' },
-          { count: 2, name: 'Temple of Epiphany' },
-          { count: 2, name: 'Plains' },
-          { count: 2, name: 'Island' },
-          { count: 2, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 2, name: 'Dovin\'s Veto' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 2, name: 'Devout Decree' },
-          { count: 2, name: 'Disenchant' },
-          { count: 2, name: 'Glass Casket' },
-          { count: 2, name: 'Shatter the Sky' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Bant Ramp',
@@ -725,45 +688,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck ramp-control bleu-noir-vert centré sur Uro, Titan of Nature\'s Wrath comme moteur récurrent de pioche, lifegain et ramp. Hydroid Krasis conclut comme finisher X-spell, Growth Spiral rampe à instant speed, Thought Erasure disrupt, Casualties of War balaie les permanents. Grindy et résistant.',
       keyCards: ['Uro, Titan of Nature\'s Wrath', 'Hydroid Krasis', 'Growth Spiral', 'Thought Erasure', 'Casualties of War'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Uro, Titan of Nature\'s Wrath' },
-          { count: 3, name: 'Hydroid Krasis' },
-          { count: 4, name: 'Growth Spiral' },
-          { count: 3, name: 'Thought Erasure' },
-          { count: 2, name: 'Casualties of War' },
-          { count: 4, name: 'Cultivate' },
-          { count: 3, name: 'Eliminate' },
-          { count: 2, name: 'Nissa, Who Shakes the World' },
-          { count: 2, name: 'Vraska, Golgari Queen' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 4, name: 'Zagoth Triome' },
-          { count: 3, name: 'Breeding Pool' },
-          { count: 3, name: 'Watery Grave' },
-          { count: 2, name: 'Overgrown Tomb' },
-          { count: 2, name: 'Temple of Mystery' },
-          { count: 2, name: 'Temple of Deceit' },
-          { count: 2, name: 'Temple of Malady' },
-          { count: 4, name: 'Forest' },
-          { count: 3, name: 'Island' },
-          { count: 4, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Duress' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 2, name: 'Negate' },
-          { count: 3, name: 'Eat to Extinction' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 1, name: 'Nissa, Who Shakes the World' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Rakdos Sacrifice',
@@ -820,46 +745,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck ramp quatre couleurs qui abuse des triggers landfall d\'Omnath, Locus of Creation pour mana, points de vie et dégâts. Lotus Cobra accélère, Cultivate rampe la base, Genesis Ultimatum triche les permanents en jeu, Ugin, the Spirit Dragon balaie. Le power d\'Omnath a déclenché un ban d\'urgence.',
       keyCards: ['Omnath, Locus of Creation', 'Lotus Cobra', 'Genesis Ultimatum', 'Cultivate', 'Ugin, the Spirit Dragon'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Omnath, Locus of Creation' },
-          { count: 4, name: 'Lotus Cobra' },
-          { count: 4, name: 'Genesis Ultimatum' },
-          { count: 4, name: 'Cultivate' },
-          { count: 2, name: 'Ugin, the Spirit Dragon' },
-          { count: 4, name: 'Uro, Titan of Nature\'s Wrath' },
-          { count: 3, name: 'Beanstalk Giant' },
-          { count: 3, name: 'Solemn Simulacrum' },
-          { count: 3, name: 'Shatterskull Smashing' },
-          { count: 2, name: 'Emeria\'s Call' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 4, name: 'Ketria Triome' },
-          { count: 2, name: 'Raugrin Triome' },
-          { count: 2, name: 'Indatha Triome' },
-          { count: 2, name: 'Breeding Pool' },
-          { count: 2, name: 'Stomping Ground' },
-          { count: 2, name: 'Temple Garden' },
-          { count: 3, name: 'Forest' },
-          { count: 3, name: 'Island' },
-          { count: 2, name: 'Mountain' },
-          { count: 1, name: 'Plains' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 2, name: 'Negate' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 3, name: 'Elder Gargaroth' },
-          { count: 2, name: 'Shark Typhoon' },
-          { count: 1, name: 'Heroic Intervention' },
-          { count: 2, name: 'Bonecrusher Giant' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Green Food',
@@ -869,37 +755,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck midrange Food mono-vert qui utilise Trail of Crumbs et Gilded Goose pour grinder la value via tokens Food. The Great Henge rampe et pioche, Wicked Wolf mange des Food pour fight, Questing Beast conclut. Résistant face aux decks fair mais pressé par le combo rapide.',
       keyCards: ['Trail of Crumbs', 'Gilded Goose', 'The Great Henge', 'Wicked Wolf', 'Questing Beast'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Gilded Goose' },
-          { count: 4, name: 'Trail of Crumbs' },
-          { count: 3, name: 'The Great Henge' },
-          { count: 4, name: 'Wicked Wolf' },
-          { count: 4, name: 'Questing Beast' },
-          { count: 4, name: 'Lovestruck Beast' },
-          { count: 4, name: 'Pollywog Symbiote' },
-          { count: 2, name: 'Vivien, Monsters\' Advocate' },
-          { count: 3, name: 'Ranger Class' },
-          { count: 4, name: 'Scavenging Ooze' },
-          { count: 2, name: 'Garruk, Cursed Huntsman' },
-          { count: 2, name: 'Castle Garenbrig' },
-          { count: 20, name: 'Forest' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Return to Nature' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 3, name: 'Heroic Intervention' },
-          { count: 3, name: 'Gemrazer' },
-          { count: 2, name: 'Outland Liberator' },
-          { count: 2, name: 'Shifting Ceratops' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Esper Doom',
@@ -909,46 +765,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck control bleu-noir-blanc centré sur Doom Foretold comme moteur stripant les permanents, associé à Treacherous Blessing pour la pioche. Yorion blink l\'enchantement pour de la value, Elspeth Conquers Death recur les cartes clés, Shark Typhoon cycle en tokens volants. Lent mais inévitable.',
       keyCards: ['Doom Foretold', 'Yorion, Sky Nomad', 'Treacherous Blessing', 'Elspeth Conquers Death', 'Shark Typhoon'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Doom Foretold' },
-          { count: 3, name: 'Yorion, Sky Nomad' },
-          { count: 3, name: 'Treacherous Blessing' },
-          { count: 4, name: 'Elspeth Conquers Death' },
-          { count: 4, name: 'Shark Typhoon' },
-          { count: 4, name: 'Omen of the Sea' },
-          { count: 3, name: 'Omen of the Sun' },
-          { count: 3, name: 'The Birth of Meletis' },
-          { count: 2, name: 'Heliod\'s Intervention' },
-          { count: 2, name: 'Dance of the Manse' },
-          { count: 2, name: 'Eat to Extinction' },
-          { count: 2, name: 'Shatter the Sky' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 3, name: 'Hallowed Fountain' },
-          { count: 3, name: 'Watery Grave' },
-          { count: 2, name: 'Godless Shrine' },
-          { count: 2, name: 'Temple of Silence' },
-          { count: 2, name: 'Temple of Enlightenment' },
-          { count: 2, name: 'Plains' },
-          { count: 3, name: 'Island' },
-          { count: 3, name: 'Swamp' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Dovin\'s Veto' },
-          { count: 2, name: 'Mystical Dispute' },
-          { count: 2, name: 'Duress' },
-          { count: 2, name: 'Heliod\'s Intervention' },
-          { count: 2, name: 'Despark' },
-          { count: 2, name: 'Glass Casket' },
-          { count: 2, name: 'Yorion, Sky Nomad' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Temur Ramp',
@@ -958,44 +775,7 @@ export const standard2020Fr: YearFormatEntry = {
       summary:
         'Un deck ramp bleu-rouge-vert centré sur Genesis Ultimatum trichant Ugin, the Spirit Dragon et Uro en jeu. Cultivate et Beanstalk Giant rampent, Uro grind du card advantage. Outvalue les decks fair mais pressé par les contresorts.',
       keyCards: ['Genesis Ultimatum', 'Cultivate', 'Beanstalk Giant', 'Ugin, the Spirit Dragon', 'Uro, Titan of Nature\'s Wrath'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Genesis Ultimatum' },
-          { count: 4, name: 'Cultivate' },
-          { count: 3, name: 'Beanstalk Giant' },
-          { count: 2, name: 'Ugin, the Spirit Dragon' },
-          { count: 4, name: 'Uro, Titan of Nature\'s Wrath' },
-          { count: 4, name: 'Growth Spiral' },
-          { count: 3, name: 'Shark Typhoon' },
-          { count: 2, name: 'Nissa, Who Shakes the World' },
-          { count: 3, name: 'Shatterskull Smashing' },
-          { count: 2, name: 'Bonecrusher Giant' },
-          { count: 4, name: 'Fabled Passage' },
-          { count: 4, name: 'Ketria Triome' },
-          { count: 3, name: 'Breeding Pool' },
-          { count: 2, name: 'Stomping Ground' },
-          { count: 2, name: 'Steam Vents' },
-          { count: 2, name: 'Temple of Mystery' },
-          { count: 2, name: 'Temple of Epiphany' },
-          { count: 4, name: 'Forest' },
-          { count: 3, name: 'Island' },
-          { count: 3, name: 'Mountain' }
-        ],
-        sideboard: [
-          { count: 3, name: 'Mystical Dispute' },
-          { count: 3, name: 'Negate' },
-          { count: 2, name: 'Aether Gust' },
-          { count: 3, name: 'Bonecrusher Giant' },
-          { count: 2, name: 'Elder Gargaroth' },
-          { count: 2, name: 'Storm\'s Wrath' }
-        ],
-        source: {
-          title: 'Example list',
-          publisher: 'mtg-meta-history',
-          url: '#',
-          note: 'Indicative example based on key cards',
-        },
-      },
+      decklistPending: true,
     },
   ],
 }

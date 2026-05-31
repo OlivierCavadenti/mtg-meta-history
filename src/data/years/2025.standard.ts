@@ -586,33 +586,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A blue-red combo-midrange deck that uses Agatha\'s Soul Cauldron to grant activated abilities from exiled creatures, comboing with Vivi Ornitier and Proft\'s Eidetic Memory for value. Monastery Swiftspear and Slickshot Show-Off provide a backup prowess plan. Flexible and resilient but vulnerable to exile-based graveyard hate.',
       keyCards: ['Agatha\'s Soul Cauldron', 'Vivi Ornitier', 'Proft\'s Eidetic Memory', 'Monastery Swiftspear', 'Slickshot Show-Off'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Agatha\'s Soul Cauldron' },
-          { count: 3, name: 'Consider' },
-          { count: 14, name: 'Island' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 4, name: 'Monastery Swiftspear' },
-          { count: 14, name: 'Mountain' },
-          { count: 4, name: 'Proft\'s Eidetic Memory' },
-          { count: 4, name: 'Slickshot Show-Off' },
-          { count: 3, name: 'Stock Up' },
-          { count: 3, name: 'Torch the Tower' },
-          { count: 4, name: 'Vivi Ornitier' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Selesnya Landfall',
@@ -622,35 +596,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A green-white landfall aggro-midrange deck that floods the board with Scute Swarm tokens copying themselves on each landfall. Bristly Bill, Spine Sower scales counters, Caretaker\'s Talent draws on token entries, Felidar Retreat creates Cats, Evolving Wilds triggers landfall twice. Goes wide but vulnerable to sweepers.',
       keyCards: ['Bristly Bill, Spine Sower', 'Caretaker\'s Talent', 'Scute Swarm', 'Felidar Retreat', 'Evolving Wilds'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Bristly Bill, Spine Sower' },
-          { count: 4, name: 'Caretaker\'s Talent' },
-          { count: 4, name: 'Evolving Wilds' },
-          { count: 4, name: 'Felidar Retreat' },
-          { count: 13, name: 'Forest' },
-          { count: 3, name: 'Get Lost' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 3, name: 'Mosswood Dreadknight' },
-          { count: 12, name: 'Plains' },
-          { count: 4, name: 'Scute Swarm' },
-          { count: 4, name: 'Sunpetal Grove' },
-          { count: 3, name: 'The Wandering Emperor' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Jeskai Oculus',
@@ -660,37 +606,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A blue-red-white tempo deck centered on Abhorrent Oculus as a four-mana six/six flying finisher. Faerie Mastermind grinds cards, Get Lost and Lightning Helix provide flexible interaction, Stock Up refills. Punishes slow decks but vulnerable to graveyard hate.',
       keyCards: ['Abhorrent Oculus', 'Faerie Mastermind', 'Get Lost', 'Lightning Helix', 'Stock Up'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Abhorrent Oculus' },
-          { count: 4, name: 'Clifftop Retreat' },
-          { count: 3, name: 'Consider' },
-          { count: 4, name: 'Faerie Mastermind' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Glacial Fortress' },
-          { count: 7, name: 'Island' },
-          { count: 4, name: 'Lightning Helix' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 7, name: 'Mountain' },
-          { count: 6, name: 'Plains' },
-          { count: 4, name: 'Stock Up' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Torch the Tower' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Azorius Control',
@@ -700,33 +616,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A blue-white control deck built on No More Lies and Get Lost for flexible interaction. Sunfall sweeps with an incubated body, Marang River Regent closes as a flash flying threat, Temporary Lockdown wipes cheap permanents. Strong against creature decks but pressured by fast combo.',
       keyCards: ['No More Lies', 'Get Lost', 'Sunfall', 'Marang River Regent', 'Temporary Lockdown'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Consider' },
-          { count: 4, name: 'Get Lost' },
-          { count: 4, name: 'Glacial Fortress' },
-          { count: 14, name: 'Island' },
-          { count: 4, name: 'Marang River Regent' },
-          { count: 4, name: 'No More Lies' },
-          { count: 13, name: 'Plains' },
-          { count: 3, name: 'Stock Up' },
-          { count: 4, name: 'Sunfall' },
-          { count: 4, name: 'Temporary Lockdown' },
-          { count: 3, name: 'The Wandering Emperor' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Dimir Midrange',
@@ -736,31 +626,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A blue-black midrange deck anchored by Enduring Curiosity drawing on combat damage. Kaito, Bane of Nightmares serves as planeswalker-creature, Preacher of the Schism grinds value, Sheoldred, the Apocalypse drains and pressures. Resilient and grindy but pressured by exile-based removal.',
       keyCards: ['Enduring Curiosity', 'Kaito, Bane of Nightmares', 'Preacher of the Schism', 'Sheoldred, the Apocalypse', 'Go for the Throat'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Consider' },
-          { count: 3, name: 'Duress' },
-          { count: 4, name: 'Enduring Curiosity' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 18, name: 'Island' },
-          { count: 3, name: 'Kaito, Bane of Nightmares' },
-          { count: 3, name: 'Preacher of the Schism' },
-          { count: 3, name: 'Sheoldred, the Apocalypse' },
-          { count: 3, name: 'Stock Up' },
-          { count: 17, name: 'Swamp' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 4, name: 'Pithing Needle' },
-          { count: 3, name: 'Soul-Guide Lantern' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Golgari Graveyard',
@@ -770,33 +636,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A black-green graveyard-themed midrange deck centered on Insidious Roots producing Plant tokens from lands in graveyards. Mosswood Dreadknight provides recursive pressure, Virtue of Persistence reanimates creatures, Sanctum Weaver ramps via enchantments, Glissa Sunslayer trades up. Grindy but vulnerable to graveyard hate.',
       keyCards: ['Insidious Roots', 'Mosswood Dreadknight', 'Virtue of Persistence', 'Sanctum Weaver', 'Glissa Sunslayer'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Duress' },
-          { count: 14, name: 'Forest' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 4, name: 'Insidious Roots' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 4, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'Sanctum Weaver' },
-          { count: 14, name: 'Swamp' },
-          { count: 3, name: 'Virtue of Persistence' },
-          { count: 4, name: 'Woodland Cemetery' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Golgari Roots',
@@ -806,34 +646,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A black-green combo deck that abuses Insidious Roots producing Plant tokens, fueled by Sanctum Weaver\'s enchantment-based mana to power Worldsoul\'s Rage for a one-shot kill. Mosswood Dreadknight provides recursive pressure, Glissa Sunslayer disrupts, Restless Vinestalk provides bodies. Explosive but vulnerable to graveyard hate.',
       keyCards: ['Insidious Roots', 'Sanctum Weaver', 'Worldsoul\'s Rage', 'Glissa Sunslayer', 'Restless Vinestalk'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Duress' },
-          { count: 12, name: 'Forest' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 4, name: 'Insidious Roots' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 3, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'Restless Vinestalk' },
-          { count: 4, name: 'Sanctum Weaver' },
-          { count: 12, name: 'Swamp' },
-          { count: 4, name: 'Woodland Cemetery' },
-          { count: 4, name: 'Worldsoul\'s Rage' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Mono-Green Landfall',
@@ -843,29 +656,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A mono-green landfall ramp deck that floods the board with Scute Swarm tokens copying themselves on landfall. Bristly Bill, Spine Sower scales counters, Llanowar Elves accelerates, Cavern of Souls makes key creatures uncounterable, Evolving Wilds doubles landfall triggers. Goes wide but vulnerable to sweepers.',
       keyCards: ['Bristly Bill, Spine Sower', 'Scute Swarm', 'Llanowar Elves', 'Cavern of Souls', 'Evolving Wilds'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Bristly Bill, Spine Sower' },
-          { count: 3, name: 'Cavern of Souls' },
-          { count: 4, name: 'Evolving Wilds' },
-          { count: 39, name: 'Forest' },
-          { count: 4, name: 'Llanowar Elves' },
-          { count: 3, name: 'Mosswood Dreadknight' },
-          { count: 4, name: 'Scute Swarm' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Golgari Midrange',
@@ -875,33 +666,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A black-green midrange deck centered on Mosswood Dreadknight and Sheoldred, the Apocalypse as resilient threats. Preacher of the Schism grinds value, Glissa Sunslayer trades up cheaply, Restless Cottage produces Food and Plant tokens. Grindy and resilient but slow against combo.',
       keyCards: ['Mosswood Dreadknight', 'Sheoldred, the Apocalypse', 'Preacher of the Schism', 'Glissa Sunslayer', 'Restless Cottage'],
-      decklist: {
-        mainboard: [
-          { count: 3, name: 'Duress' },
-          { count: 14, name: 'Forest' },
-          { count: 4, name: 'Glissa Sunslayer' },
-          { count: 3, name: 'Go for the Throat' },
-          { count: 3, name: 'Llanowar Elves' },
-          { count: 4, name: 'Mosswood Dreadknight' },
-          { count: 3, name: 'Preacher of the Schism' },
-          { count: 4, name: 'Restless Cottage' },
-          { count: 3, name: 'Sheoldred, the Apocalypse' },
-          { count: 15, name: 'Swamp' },
-          { count: 4, name: 'Woodland Cemetery' },
-        ],
-        sideboard: [
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 3, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Tranquil Frillback' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Boros Convoke',
@@ -911,35 +676,7 @@ export const standard2025: YearFormatEntry = {
       summary:
         'A red-white aggro deck that floods the board with cheap creatures and tokens — Novice Inspector makes Clues, Gleeful Demolition produces Goblins, Resolute Reinforcements adds Soldiers — to convoke out Imodane\'s Recruiter for a haste boost. Knight-Errant of Eos brings two more tokens. Goldfishes turn three but vulnerable to early sweepers.',
       keyCards: ['Novice Inspector', 'Knight-Errant of Eos', 'Imodane\'s Recruiter', 'Gleeful Demolition', 'Resolute Reinforcements'],
-      decklist: {
-        mainboard: [
-          { count: 4, name: 'Clifftop Retreat' },
-          { count: 3, name: 'Get Lost' },
-          { count: 4, name: 'Gleeful Demolition' },
-          { count: 4, name: 'Imodane\'s Recruiter' },
-          { count: 3, name: 'Knight-Errant of Eos' },
-          { count: 3, name: 'Lightning Strike' },
-          { count: 13, name: 'Mountain' },
-          { count: 4, name: 'Novice Inspector' },
-          { count: 12, name: 'Plains' },
-          { count: 4, name: 'Resolute Reinforcements' },
-          { count: 3, name: 'The Wandering Emperor' },
-          { count: 3, name: 'Torch the Tower' },
-        ],
-        sideboard: [
-          { count: 2, name: 'Destroy Evil' },
-          { count: 4, name: 'Duress' },
-          { count: 4, name: 'Negate' },
-          { count: 1, name: 'Pithing Needle' },
-          { count: 2, name: 'Soul-Guide Lantern' },
-          { count: 2, name: 'Torch the Tower' },
-        ],
-        source: {
-          title: 'Example list',
-          url: '#',
-          publisher: 'mtg-meta-history',
-        },
-      },
+      decklistPending: true,
     },
     {
       name: 'Gruul Aggro',

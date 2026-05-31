@@ -75,6 +75,11 @@ const formatInfo = computed(() => entry.value ? getFormat(entry.value.format) : 
       </p>
     </section>
 
+    <section v-else-if="deck.decklistPending" class="section">
+      <h2 class="section-title">{{ t('deck.decklists') }}</h2>
+      <p class="decklist-pending">{{ t('deck.decklist_pending') }}</p>
+    </section>
+
     <nav class="page-nav">
       <router-link :to="`/year/${entry.year}/${entry.format}`">
         &larr; {{ FORMAT_LABELS[entry.format] }} {{ entry.year }}
@@ -137,6 +142,14 @@ const formatInfo = computed(() => entry.value ? getFormat(entry.value.format) : 
 .source-pub {
   color: var(--muted);
   font-size: 0.85rem;
+}
+
+.decklist-pending {
+  border: 1px dashed var(--line);
+  padding: var(--space-md);
+  color: var(--muted);
+  font-style: italic;
+  text-align: center;
 }
 
 .page-nav {
