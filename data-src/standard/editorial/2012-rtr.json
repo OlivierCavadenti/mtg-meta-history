@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Junk Reanimator",
+    "slug": "junk-reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Junk Reanimator",
+      "GWBu Rites",
+      "Hoof ! there it is !"
+    ],
+    "rep": 222421,
+    "cover": "Angel of Serenity",
+    "keyCards": [
+      "Unburial Rites",
+      "Angel of Serenity",
+      "Grisly Salvage",
+      "Mulch",
+      "Thragtusk"
+    ],
+    "summary": {
+      "fr": "Deck de cimetière qui se remplit avec Grisly Salvage, Mulch et Faithless Looting, puis réanime Angel of Serenity ou Griselbrand avec Unburial Rites.",
+      "en": "Graveyard deck that fills its yard with Grisly Salvage, Mulch and Faithless Looting, then reanimates Angel of Serenity or Griselbrand with Unburial Rites."
+    },
+    "why": {
+      "fr": [
+        "Pouvait réanimer une grosse menace tôt ou jouer honnêtement Thragtusk et Centaur Healer",
+        "Angel of Serenity retirait plusieurs bloqueurs puis rechargeait la main",
+        "Unburial Rites et Lingering Souls gardaient leur valeur même défaussés"
+      ],
+      "en": [
+        "Could reanimate a big threat early or play fair with Thragtusk and Centaur Healer",
+        "Angel of Serenity removed several blockers and later refilled the hand",
+        "Unburial Rites and Lingering Souls kept their value even when discarded"
+      ]
+    },
+    "note": "Craterhoof variant ('Hoof ! there it is !') merged. Rep overridden from that list to the GP Auckland winning list."
+  },
+  {
+    "name": "Human Reanimator",
+    "slug": "human-reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Human Reanimator"
+    ],
+    "cover": "Angel of Glory's Rise",
+    "keyCards": [
+      "Angel of Glory's Rise",
+      "Unburial Rites",
+      "Izzet Staticaster",
+      "Nightshade Peddler",
+      "Faithless Looting"
+    ],
+    "summary": {
+      "fr": "Reanimator qui ramène Angel of Glory's Rise, puis tous ses Humains : Nightshade Peddler et Izzet Staticaster ensemble balaient le terrain adverse.",
+      "en": "Reanimator that returns Angel of Glory's Rise and then all its Humans; Nightshade Peddler plus Izzet Staticaster wipes the opposing board."
+    },
+    "why": {
+      "fr": [
+        "Angel of Glory's Rise ramenait d'un coup tous les Humains du cimetière",
+        "La paire Peddler et Staticaster tuait toutes les créatures adverses",
+        "Mulch, Chronic Flooding et Faithless Looting remplissaient vite le cimetière"
+      ],
+      "en": [
+        "Angel of Glory's Rise returned every Human from the graveyard at once",
+        "The Peddler and Staticaster pair killed every opposing creature",
+        "Mulch, Chronic Flooding and Faithless Looting filled the graveyard quickly"
+      ]
+    }
+  },
+  {
+    "name": "Static Peddler",
+    "slug": "static-peddler",
+    "archetype": "midrange",
+    "titles": [
+      "Static Peddler"
+    ],
+    "cover": "Izzet Staticaster",
+    "keyCards": [
+      "Nightshade Peddler",
+      "Izzet Staticaster",
+      "Olivia Voldaren",
+      "Thragtusk",
+      "Tracker's Instincts"
+    ],
+    "summary": {
+      "fr": "Midrange multicolore qui associe Nightshade Peddler aux pingers Izzet Staticaster et Olivia Voldaren, autour de Thragtusk et Huntmaster.",
+      "en": "Multicolour midrange pairing Nightshade Peddler with the pingers Izzet Staticaster and Olivia Voldaren, around Thragtusk and Huntmaster."
+    },
+    "why": {
+      "fr": [
+        "Peddler et Staticaster ensemble tuaient toutes les créatures adverses",
+        "Thragtusk et Huntmaster of the Fells restaient solides sans la combinaison",
+        "Tracker's Instincts aidait à trouver les pièces manquantes"
+      ],
+      "en": [
+        "Peddler and Staticaster together killed every opposing creature",
+        "Thragtusk and Huntmaster of the Fells stayed strong without the combo",
+        "Tracker's Instincts helped find the missing pieces"
+      ]
+    }
+  },
+  {
+    "name": "Jund Midrange",
+    "slug": "jund-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Midrange",
+      "Jund Control",
+      "Jund",
+      "4c Control"
+    ],
+    "cover": "Olivia Voldaren",
+    "keyCards": [
+      "Thragtusk",
+      "Huntmaster of the Fells",
+      "Olivia Voldaren",
+      "Bonfire of the Damned",
+      "Farseek"
+    ],
+    "summary": {
+      "fr": "Midrange Jund : Farseek accélère vers Huntmaster of the Fells, Thragtusk et Olivia Voldaren, soutenus par du removal et Bonfire of the Damned.",
+      "en": "Jund midrange: Farseek ramps into Huntmaster of the Fells, Thragtusk and Olivia Voldaren, backed by removal and Bonfire of the Damned."
+    },
+    "why": {
+      "fr": [
+        "Thragtusk et Huntmaster donnaient de la valeur et du gain de vie contre l'aggro",
+        "Olivia Voldaren contrôlait seule les matchs de créatures",
+        "Un removal varié répondait à la plupart des menaces du format"
+      ],
+      "en": [
+        "Thragtusk and Huntmaster gave value and life gain against aggro",
+        "Olivia Voldaren could control creature matchups on her own",
+        "Varied removal answered most of the format's threats"
+      ]
+    },
+    "note": "Jund Control and the 4c (Blood Baron splash) build merged. Top 4 finishes at the 2013 World Championship."
+  },
+  {
+    "name": "UWR Flash",
+    "slug": "uwr-flash",
+    "archetype": "control",
+    "titles": [
+      "UWx Midrange",
+      "UWr Midrange",
+      "UWR Midrange",
+      "Patriot"
+    ],
+    "cover": "Restoration Angel",
+    "keyCards": [
+      "Restoration Angel",
+      "Sphinx's Revelation",
+      "Azorius Charm",
+      "Snapcaster Mage",
+      "Augur of Bolas"
+    ],
+    "summary": {
+      "fr": "Deck flash bleu-blanc-rouge : contresorts, brûlures et Supreme Verdict, Restoration Angel à vitesse instant et Sphinx's Revelation pour l'avantage.",
+      "en": "Blue-white-red flash: counterspells, burn and Supreme Verdict, Restoration Angel at instant speed and Sphinx's Revelation for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Jouait presque tout à vitesse instant et laissait l'adversaire deviner",
+        "Sphinx's Revelation gagnait les parties longues contre midrange et contrôle",
+        "Les brûlures et Azorius Charm géraient l'aggro"
+      ],
+      "en": [
+        "Played almost everything at instant speed, keeping opponents guessing",
+        "Sphinx's Revelation won long games against midrange and control",
+        "Burn and Azorius Charm handled aggro"
+      ]
+    },
+    "note": "Won the 2013 World Championship (rep list). Patriot (Geist UWR) attached here."
+  },
+  {
+    "name": "UW Flash",
+    "slug": "uw-flash",
+    "archetype": "tempo",
+    "titles": [
+      "UW Flash",
+      "UW Midrange",
+      "UW Tempo",
+      "UW Delver Midrange"
+    ],
+    "cover": "Geist of Saint Traft",
+    "keyCards": [
+      "Geist of Saint Traft",
+      "Restoration Angel",
+      "Snapcaster Mage",
+      "Azorius Charm",
+      "Augur of Bolas"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-blanc qui protège Geist of Saint Traft et Restoration Angel avec Azorius Charm, Unsummon et des contresorts.",
+      "en": "Blue-white tempo protecting Geist of Saint Traft and Restoration Angel with Azorius Charm, Unsummon and counterspells."
+    },
+    "why": {
+      "fr": [
+        "Geist of Saint Traft était hexproof et frappait vite",
+        "Restoration Angel bloquait par surprise ou sauvait une créature",
+        "Les sorts de rebond faisaient perdre du temps aux decks midrange"
+      ],
+      "en": [
+        "Geist of Saint Traft was hexproof and hit hard quickly",
+        "Restoration Angel ambushed attackers or saved a creature",
+        "Bounce spells cost midrange decks valuable time"
+      ]
+    }
+  },
+  {
+    "name": "UWR Control",
+    "slug": "uwr-control",
+    "archetype": "control",
+    "titles": [
+      "UWr Control",
+      "UWR Control",
+      "Uwr Control"
+    ],
+    "rep": 228956,
+    "cover": "Sphinx's Revelation",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Supreme Verdict",
+      "Azorius Charm",
+      "Warleader's Helix",
+      "Aetherling"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc-rouge avec balais, brûlures et contresorts, qui pioche avec Sphinx's Revelation et conclut avec Aetherling ou des planeswalkers.",
+      "en": "Blue-white-red control with sweepers, burn and counters, drawing with Sphinx's Revelation and finishing with Aetherling or planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Supreme Verdict ne pouvait pas être contré",
+        "Les brûlures et Warleader's Helix gardaient la vie haute contre l'aggro",
+        "Sphinx's Revelation enterrait les autres decks contrôle"
+      ],
+      "en": [
+        "Supreme Verdict could not be countered",
+        "Burn and Warleader's Helix kept life totals safe against aggro",
+        "Sphinx's Revelation buried other control decks"
+      ]
+    },
+    "note": "Rep overridden to a Sphinx's Revelation build (default was an early Entreat the Angels list)."
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "UW Miracle"
+    ],
+    "rep": 231928,
+    "cover": "Aetherling",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Supreme Verdict",
+      "Aetherling",
+      "Restoration Angel",
+      "Azorius Charm"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc : contresorts, Supreme Verdict et Sphinx's Revelation, avec Aetherling ou Entreat the Angels comme finisseurs selon la période.",
+      "en": "Blue-white control: counters, Supreme Verdict and Sphinx's Revelation, finishing with Aetherling or Entreat the Angels depending on the period."
+    },
+    "why": {
+      "fr": [
+        "Sphinx's Revelation donnait vie et cartes au bon moment",
+        "Aetherling était presque impossible à tuer",
+        "Restoration Angel et Augur of Bolas comblaient le début de partie"
+      ],
+      "en": [
+        "Sphinx's Revelation gave life and cards at the right time",
+        "Aetherling was very hard to remove",
+        "Restoration Angel and Augur of Bolas covered the early game"
+      ]
+    },
+    "note": "UW Miracle (Entreat the Angels, early season) merged."
+  },
+  {
+    "name": "Esper Control",
+    "slug": "esper-control",
+    "archetype": "control",
+    "titles": [
+      "Esper Control (Solar Flare)",
+      "Esper Control"
+    ],
+    "cover": "Jace, Architect of Thought",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Terminus",
+      "Far/Away",
+      "Jace, Architect of Thought",
+      "Nephalia Drownyard"
+    ],
+    "summary": {
+      "fr": "Contrôle Esper avec Terminus, Far/Away et contresorts, qui pioche avec Sphinx's Revelation et gagne avec Nephalia Drownyard ou des planeswalkers.",
+      "en": "Esper control with Terminus, Far/Away and counters, drawing with Sphinx's Revelation and winning with Nephalia Drownyard or planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Terminus en miracle balayait le terrain pour peu de mana",
+        "Plusieurs planeswalkers apportaient avantage et protection",
+        "Nephalia Drownyard gagnait sans exposer de créature au removal"
+      ],
+      "en": [
+        "Terminus as a miracle swept the board for little mana",
+        "Several planeswalkers provided advantage and protection",
+        "Nephalia Drownyard won without exposing a creature to removal"
+      ]
+    },
+    "note": "Top 4 at PT Gatecrash."
+  },
+  {
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Aggro",
+      "RG Aggro",
+      "Gruul Domri",
+      "Gruul 18 Lands",
+      "Saïto Naya"
+    ],
+    "cover": "Domri Rade",
+    "keyCards": [
+      "Domri Rade",
+      "Flinthoof Boar",
+      "Hellrider",
+      "Thundermaw Hellkite",
+      "Ghor-Clan Rampager"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert : créatures efficaces comme Flinthoof Boar et Strangleroot Geist, puis Hellrider et Thundermaw Hellkite, avec Domri Rade.",
+      "en": "Red-green aggro: efficient creatures such as Flinthoof Boar and Strangleroot Geist, then Hellrider and Thundermaw Hellkite, with Domri Rade."
+    },
+    "why": {
+      "fr": [
+        "Hellrider et Thundermaw Hellkite infligeaient de gros dégâts dès leur arrivée",
+        "Domri Rade servait de removal et de source d'avantage",
+        "Ghor-Clan Rampager en bloodrush forçait les attaques"
+      ],
+      "en": [
+        "Hellrider and Thundermaw Hellkite dealt heavy damage on arrival",
+        "Domri Rade acted as removal and a source of card advantage",
+        "Ghor-Clan Rampager's bloodrush forced damage through"
+      ]
+    },
+    "note": "Saïto's Naya (Gruul splash white, top 4 PT Gatecrash) attached here rather than as a separate deck."
+  },
+  {
+    "name": "Naya Blitz",
+    "slug": "naya-blitz",
+    "archetype": "aggro",
+    "titles": [
+      "Naya",
+      "Naya Human",
+      "Naya Blitz",
+      "Naya Humans"
+    ],
+    "cover": "Burning-Tree Emissary",
+    "keyCards": [
+      "Champion of the Parish",
+      "Burning-Tree Emissary",
+      "Experiment One",
+      "Lightning Mauler",
+      "Frontline Medic"
+    ],
+    "summary": {
+      "fr": "Aggro Naya très bas en courbe : Champion of the Parish, Experiment One et Burning-Tree Emissary, puis Lightning Mauler et Searing Spear.",
+      "en": "Low-curve Naya aggro: Champion of the Parish, Experiment One and Burning-Tree Emissary, followed by Lightning Mauler and Searing Spear."
+    },
+    "why": {
+      "fr": [
+        "Burning-Tree Emissary permettait de poser plusieurs créatures en un tour",
+        "Lightning Mauler donnait la célérité aux grosses créatures",
+        "Frontline Medic protégeait l'équipe contre Supreme Verdict"
+      ],
+      "en": [
+        "Burning-Tree Emissary let the deck deploy several creatures in one turn",
+        "Lightning Mauler gave haste to bigger creatures",
+        "Frontline Medic protected the team against Supreme Verdict"
+      ]
+    }
+  },
+  {
+    "name": "Naya Humans",
+    "slug": "naya-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Aggro / Naya",
+      "Naya Aggro",
+      "Domri Human"
+    ],
+    "cover": "Silverblade Paladin",
+    "keyCards": [
+      "Champion of the Parish",
+      "Silverblade Paladin",
+      "Mayor of Avabruck",
+      "Restoration Angel",
+      "Thalia, Guardian of Thraben"
+    ],
+    "summary": {
+      "fr": "Humains Naya plus milieu de courbe : Champion of the Parish, Thalia, Mayor of Avabruck et Silverblade Paladin, avec Restoration Angel et Huntmaster.",
+      "en": "Naya Humans with a higher curve: Champion of the Parish, Thalia, Mayor of Avabruck and Silverblade Paladin, with Restoration Angel and Huntmaster."
+    },
+    "why": {
+      "fr": [
+        "Cavern of Souls rendait les Humains impossibles à contrer",
+        "Thalia et Mayor of Avabruck gênaient les decks à sorts",
+        "Restoration Angel et Huntmaster donnaient de la résistance aux balais"
+      ],
+      "en": [
+        "Cavern of Souls made the Humans uncounterable",
+        "Thalia and Mayor of Avabruck hampered spell-heavy decks",
+        "Restoration Angel and Huntmaster gave resilience to sweepers"
+      ]
+    }
+  },
+  {
+    "name": "Naya Midrange",
+    "slug": "naya-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Selesnya Aggro / Junk",
+      "4/5C Control",
+      "4c Aggro CA",
+      "4c Aggro",
+      "4/5c Aggro",
+      "Naya Midrange",
+      "5C Control"
+    ],
+    "cover": "Thragtusk",
+    "keyCards": [
+      "Thragtusk",
+      "Restoration Angel",
+      "Huntmaster of the Fells",
+      "Angel of Serenity",
+      "Garruk, Primal Hunter"
+    ],
+    "summary": {
+      "fr": "Midrange Naya et ses variantes à 4-5 couleurs : Farseek, Thragtusk, Restoration Angel, Huntmaster et des planeswalkers, avec Bonfire of the Damned.",
+      "en": "Naya midrange and its 4-5 colour variants: Farseek, Thragtusk, Restoration Angel, Huntmaster and planeswalkers, with Bonfire of the Damned."
+    },
+    "why": {
+      "fr": [
+        "Thragtusk et Restoration Angel formaient une paire de valeur difficile à battre",
+        "Farseek trouvait les shocklands et stabilisait une base de mana large",
+        "Garruk et Angel of Serenity gagnaient les matchs miroirs"
+      ],
+      "en": [
+        "Thragtusk and Restoration Angel formed a value pair that was hard to beat",
+        "Farseek fetched shocklands and supported a wide mana base",
+        "Garruk and Angel of Serenity won midrange mirrors"
+      ]
+    },
+    "note": "Groups the early-season Thragtusk/Restoration Angel piles (4c and 5c titles); no wins, 11 top 8s."
+  },
+  {
+    "name": "Bant Hexproof",
+    "slug": "bant-hexproof",
+    "archetype": "aggro",
+    "titles": [
+      "Bant Hexproof"
+    ],
+    "cover": "Geist of Saint Traft",
+    "keyCards": [
+      "Geist of Saint Traft",
+      "Invisible Stalker",
+      "Ethereal Armor",
+      "Spectral Flight",
+      "Rancor"
+    ],
+    "summary": {
+      "fr": "Aggro auras : créatures hexproof comme Geist of Saint Traft et Invisible Stalker, chargées d'Ethereal Armor, Spectral Flight et Rancor.",
+      "en": "Aura aggro: hexproof creatures such as Geist of Saint Traft and Invisible Stalker, loaded with Ethereal Armor, Spectral Flight and Rancor."
+    },
+    "why": {
+      "fr": [
+        "Les créatures hexproof rendaient le removal ciblé inutile",
+        "Les auras transformaient vite une créature en grosse menace",
+        "Selesnya Charm répondait aux sacrifices forcés"
+      ],
+      "en": [
+        "Hexproof creatures made targeted removal useless",
+        "Auras quickly turned a single creature into a large threat",
+        "Selesnya Charm answered opposing edict effects"
+      ]
+    }
+  },
+  {
+    "name": "Bant Control",
+    "slug": "bant-control",
+    "archetype": "control",
+    "titles": [
+      "Bant Control",
+      "Kessig Bant"
+    ],
+    "cover": "Angel of Serenity",
+    "keyCards": [
+      "Thragtusk",
+      "Jace, Architect of Thought",
+      "Detention Sphere",
+      "Sphinx's Revelation",
+      "Angel of Serenity"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert-blanc : Farseek, Thragtusk et balais, puis Jace, Architect of Thought, Sphinx's Revelation et Angel of Serenity.",
+      "en": "Blue-green-white control: Farseek, Thragtusk and sweepers, then Jace, Architect of Thought, Sphinx's Revelation and Angel of Serenity."
+    },
+    "why": {
+      "fr": [
+        "Thragtusk stabilisait contre l'aggro mieux que les contrôles bleu-blanc",
+        "Detention Sphere répondait aux permanents et aux jetons",
+        "Angel of Serenity et Sphinx's Revelation gagnaient les parties longues"
+      ],
+      "en": [
+        "Thragtusk stabilised against aggro better than plain blue-white control",
+        "Detention Sphere answered permanents and tokens",
+        "Angel of Serenity and Sphinx's Revelation won long games"
+      ]
+    }
+  },
+  {
+    "name": "Prime Speaker Bant",
+    "slug": "prime-speaker-bant",
+    "archetype": "midrange",
+    "titles": [
+      "Prime Speaker Bant"
+    ],
+    "cover": "Prime Speaker Zegana",
+    "keyCards": [
+      "Prime Speaker Zegana",
+      "Restoration Angel",
+      "Loxodon Smiter",
+      "Thragtusk",
+      "Sphinx's Revelation"
+    ],
+    "summary": {
+      "fr": "Midrange Bant à créatures : Loxodon Smiter, Thragtusk et Restoration Angel, avec Prime Speaker Zegana et Sphinx's Revelation pour l'avantage.",
+      "en": "Creature-based Bant midrange: Loxodon Smiter, Thragtusk and Restoration Angel, with Prime Speaker Zegana and Sphinx's Revelation for advantage."
+    },
+    "why": {
+      "fr": [
+        "Des créatures robustes battaient l'aggro et le removal ponctuel",
+        "Prime Speaker Zegana piochait plusieurs cartes en arrivant",
+        "Restoration Angel protégeait et réutilisait Thragtusk"
+      ],
+      "en": [
+        "Sturdy creatures beat aggro and spot removal",
+        "Prime Speaker Zegana drew several cards on arrival",
+        "Restoration Angel protected and reused Thragtusk"
+      ]
+    },
+    "note": "Could arguably merge with Bant Control; kept apart as a creature-heavy build."
+  },
+  {
+    "name": "Rakdos Aggro",
+    "slug": "rakdos-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Rakdos Aggro",
+      "Zombies",
+      "Zombie R",
+      "Brg Zombies"
+    ],
+    "cover": "Knight of Infamy",
+    "keyCards": [
+      "Gravecrawler",
+      "Geralf's Messenger",
+      "Knight of Infamy",
+      "Falkenrath Aristocrat",
+      "Hellrider"
+    ],
+    "summary": {
+      "fr": "Aggro noir-rouge à base de Zombies récursifs, Knight of Infamy et Falkenrath Aristocrat, avec brûlures et Hellrider pour finir.",
+      "en": "Black-red aggro built on recursive Zombies, Knight of Infamy and Falkenrath Aristocrat, with burn and Hellrider to finish."
+    },
+    "why": {
+      "fr": [
+        "Gravecrawler et Geralf's Messenger revenaient après le removal",
+        "Knight of Infamy, protégé du blanc, passait les bloqueurs Selesnya et Azorius",
+        "Cavern of Souls protégeait les menaces des contresorts"
+      ],
+      "en": [
+        "Gravecrawler and Geralf's Messenger came back after removal",
+        "Knight of Infamy's protection from white got past white blockers",
+        "Cavern of Souls protected threats from counterspells"
+      ]
+    },
+    "note": "Rakdos Zombies titles merged with Rakdos Aggro (same core)."
+  },
+  {
+    "name": "Jund Aggro",
+    "slug": "jund-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Jund Aggro"
+    ],
+    "cover": "Mogg Flunkies",
+    "keyCards": [
+      "Burning-Tree Emissary",
+      "Experiment One",
+      "Rakdos Cackler",
+      "Mogg Flunkies",
+      "Ghor-Clan Rampager"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert splash noir : créatures bon marché comme Rakdos Cackler et Burning-Tree Emissary, avec Dreadbore et Abrupt Decay.",
+      "en": "Red-green aggro splashing black: cheap creatures such as Rakdos Cackler and Burning-Tree Emissary, plus Dreadbore and Abrupt Decay."
+    },
+    "why": {
+      "fr": [
+        "Burning-Tree Emissary permettait des tours explosifs",
+        "Le splash noir donnait un removal efficace contre les bloqueurs",
+        "Le bloodrush de Ghor-Clan Rampager forçait les dégâts"
+      ],
+      "en": [
+        "Burning-Tree Emissary enabled explosive turns",
+        "The black splash brought efficient removal for blockers",
+        "Ghor-Clan Rampager's bloodrush forced damage through"
+      ]
+    }
+  },
+  {
+    "name": "Aristocrats",
+    "slug": "aristocrats",
+    "archetype": "aggro",
+    "titles": [
+      "Aristocrats",
+      "The Aristocrats",
+      "BW Aristocrats"
+    ],
+    "cover": "Falkenrath Aristocrat",
+    "keyCards": [
+      "Cartel Aristocrat",
+      "Falkenrath Aristocrat",
+      "Boros Reckoner",
+      "Doomed Traveler",
+      "Lingering Souls"
+    ],
+    "summary": {
+      "fr": "Aggro-sacrifice Mardu : Doomed Traveler et Lingering Souls nourrissent Cartel Aristocrat et Falkenrath Aristocrat, tandis que Boros Reckoner punit les blocages.",
+      "en": "Mardu sacrifice aggro: Doomed Traveler and Lingering Souls feed Cartel Aristocrat and Falkenrath Aristocrat, while Boros Reckoner punishes blocks."
+    },
+    "why": {
+      "fr": [
+        "Les sacrifices protégeaient les créatures et gênaient le removal",
+        "Falkenrath Aristocrat frappait vite et devenait indestructible",
+        "A remporté le Pro Tour Gatecrash"
+      ],
+      "en": [
+        "Sacrifice outlets protected creatures and blunted removal",
+        "Falkenrath Aristocrat hit fast and could become indestructible",
+        "Won Pro Tour Gatecrash"
+      ]
+    }
+  },
+  {
+    "name": "Junk Aristocrats",
+    "slug": "junk-aristocrats",
+    "archetype": "midrange",
+    "titles": [
+      "Junk (BWG)",
+      "Junk"
+    ],
+    "cover": "Varolz, the Scar-Striped",
+    "keyCards": [
+      "Varolz, the Scar-Striped",
+      "Voice of Resurgence",
+      "Cartel Aristocrat",
+      "Blood Artist",
+      "Lingering Souls"
+    ],
+    "summary": {
+      "fr": "Version vert-blanc-noir d'Aristocrats : Voice of Resurgence, Lingering Souls et Blood Artist, avec Varolz pour recycler les créatures mortes.",
+      "en": "Green-white-black Aristocrats: Voice of Resurgence, Lingering Souls and Blood Artist, with Varolz to scavenge dead creatures."
+    },
+    "why": {
+      "fr": [
+        "Chaque mort de créature drainait l'adversaire via Blood Artist",
+        "Voice of Resurgence punissait les decks à vitesse instant",
+        "Varolz transformait le cimetière en compteurs +1/+1"
+      ],
+      "en": [
+        "Every creature death drained the opponent through Blood Artist",
+        "Voice of Resurgence punished instant-speed decks",
+        "Varolz turned the graveyard into +1/+1 counters"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "Burn / Heavy Red"
+    ],
+    "cover": "Burning Earth",
+    "keyCards": [
+      "Boros Reckoner",
+      "Ash Zealot",
+      "Hellrider",
+      "Thundermaw Hellkite",
+      "Burning Earth"
+    ],
+    "summary": {
+      "fr": "Mono-rouge milieu de courbe : Ash Zealot, Boros Reckoner, Hellrider et Thundermaw Hellkite, avec brûlures et Burning Earth.",
+      "en": "Mono-red with a midrange curve: Ash Zealot, Boros Reckoner, Hellrider and Thundermaw Hellkite, with burn and Burning Earth."
+    },
+    "why": {
+      "fr": [
+        "Burning Earth punissait les bases de mana à shocklands et guildgates",
+        "Boros Reckoner décourageait les attaques et les blocages",
+        "Thundermaw Hellkite et Hellrider donnaient de la portée"
+      ],
+      "en": [
+        "Burning Earth punished mana bases built on shocklands and Guildgates",
+        "Boros Reckoner discouraged attacks and blocks",
+        "Thundermaw Hellkite and Hellrider provided reach"
+      ]
+    }
+  },
+  {
+    "name": "Selesnya Aggro",
+    "slug": "selesnya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Aggro",
+      "Selesnya",
+      "WG Humans",
+      "WG Humains"
+    ],
+    "cover": "Champion of the Parish",
+    "keyCards": [
+      "Champion of the Parish",
+      "Silverblade Paladin",
+      "Mayor of Avabruck",
+      "Rancor",
+      "Garruk Relentless"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc : Humains au début de saison puis Voice of Resurgence et Advent of the Wurm, avec Rancor pour forcer les dégâts.",
+      "en": "Green-white aggro: Humans early in the season, later Voice of Resurgence and Advent of the Wurm, with Rancor to push damage."
+    },
+    "why": {
+      "fr": [
+        "Des créatures efficaces dès le premier tour",
+        "Rancor et Silverblade Paladin faisaient beaucoup de dégâts par attaque",
+        "Cavern of Souls et Voice of Resurgence gênaient les decks contrôle"
+      ],
+      "en": [
+        "Efficient creatures from turn one",
+        "Rancor and Silverblade Paladin made each attack hit hard",
+        "Cavern of Souls and Voice of Resurgence troubled control decks"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Control",
+    "slug": "golgari-control",
+    "archetype": "control",
+    "titles": [
+      "Golgari Control",
+      "MBC Golgari",
+      "Mono Black Control"
+    ],
+    "cover": "Desecration Demon",
+    "keyCards": [
+      "Desecration Demon",
+      "Lifebane Zombie",
+      "Thragtusk",
+      "Liliana of the Veil",
+      "Mutilate"
+    ],
+    "summary": {
+      "fr": "Contrôle noir-vert de l'été : removal, Mutilate et Liliana of the Veil, puis Desecration Demon, Lifebane Zombie et Thragtusk.",
+      "en": "Summer black-green control: removal, Mutilate and Liliana of the Veil, then Desecration Demon, Lifebane Zombie and Thragtusk."
+    },
+    "why": {
+      "fr": [
+        "Mutilate et le removal ponctuel géraient les decks de créatures",
+        "Desecration Demon était une menace efficace pour son coût",
+        "Lifebane Zombie retirait les menaces vertes et blanches adverses"
+      ],
+      "en": [
+        "Mutilate and spot removal handled creature decks",
+        "Desecration Demon was an efficient threat for its cost",
+        "Lifebane Zombie stripped green and white threats from the opponent"
+      ]
+    }
+  },
+  {
+    "name": "Junk Tokens",
+    "slug": "junk-tokens",
+    "archetype": "midrange",
+    "titles": [
+      "Tokens",
+      "4c Token"
+    ],
+    "cover": "Intangible Virtue",
+    "keyCards": [
+      "Lingering Souls",
+      "Intangible Virtue",
+      "Sorin, Lord of Innistrad",
+      "Garruk Relentless",
+      "Thragtusk"
+    ],
+    "summary": {
+      "fr": "Midrange jetons vert-blanc-noir : Lingering Souls, Sorin et Garruk Relentless créent des jetons que Intangible Virtue et Gavony Township renforcent.",
+      "en": "Green-white-black token midrange: Lingering Souls, Sorin and Garruk Relentless make tokens that Intangible Virtue and Gavony Township pump."
+    },
+    "why": {
+      "fr": [
+        "Les jetons résistaient au removal à l'unité",
+        "Les planeswalkers créaient des jetons à chaque tour",
+        "Thragtusk ajoutait gain de vie et valeur"
+      ],
+      "en": [
+        "Tokens shrugged off one-for-one removal",
+        "Planeswalkers produced tokens every turn",
+        "Thragtusk added life gain and value"
+      ]
+    }
+  },
+  {
+    "name": "W/u Humans",
+    "slug": "wu-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White",
+      "Wu Humans",
+      "Wr Humans",
+      "Azorius Humans"
+    ],
+    "cover": "Precinct Captain",
+    "keyCards": [
+      "Champion of the Parish",
+      "Precinct Captain",
+      "Silverblade Paladin",
+      "Geist of Saint Traft",
+      "Thalia, Guardian of Thraben"
+    ],
+    "summary": {
+      "fr": "Aggro humains blanc splash bleu : Champion of the Parish, Precinct Captain et Knight of Glory, puis Silverblade Paladin et Geist of Saint Traft.",
+      "en": "White Humans splashing blue: Champion of the Parish, Precinct Captain and Knight of Glory, then Silverblade Paladin and Geist of Saint Traft."
+    },
+    "why": {
+      "fr": [
+        "Une courbe très basse mettait la pression dès le premier tour",
+        "Cavern of Souls rendait les créatures impossibles à contrer",
+        "Knight of Glory et Precinct Captain gênaient les decks noirs et les bloqueurs"
+      ],
+      "en": [
+        "A very low curve applied pressure from turn one",
+        "Cavern of Souls made the creatures uncounterable",
+        "Knight of Glory and Precinct Captain troubled black decks and blockers"
+      ]
+    }
+  }
+]

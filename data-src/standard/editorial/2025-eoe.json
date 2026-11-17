@@ -1,0 +1,1096 @@
+[
+  {
+    "name": "Izzet Prowess",
+    "slug": "izzet-prowess",
+    "archetype": "aggro",
+    "titles": [
+      "Izzet Prowess",
+      "Izzet Aggro",
+      "Temur Prowess",
+      "UR Prowess"
+    ],
+    "cover": "Slickshot Show-Off",
+    "keyCards": [
+      "Slickshot Show-Off",
+      "Eddymurk Crab",
+      "Stormchaser's Talent",
+      "Boomerang Basics",
+      "Burst Lightning"
+    ],
+    "summary": {
+      "fr": "Deck de sorts bleu-rouge : cantrips et sorts bon marché font grandir Slickshot Show-Off et réduisent le coût d'Eddymurk Crab.",
+      "en": "Blue-red spells deck: cantrips and cheap spells pump Slickshot Show-Off and discount Eddymurk Crab."
+    },
+    "why": {
+      "fr": [
+        "Opt et Sleight of Hand garantissaient un flux constant de sorts",
+        "Stormchaser's Talent récupérait un sort et ajoutait une menace",
+        "Présent en top 8 de décembre à la fin de la saison"
+      ],
+      "en": [
+        "Opt and Sleight of Hand kept the spell count high",
+        "Stormchaser's Talent rebought a spell and added a threat",
+        "Made top 8s from December to the end of the season"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Lessons",
+    "slug": "izzet-lessons",
+    "archetype": "control",
+    "titles": [
+      "Izzet Lesson",
+      "Izzet Lessons",
+      "Izzet Pixie",
+      "Izzet Monument",
+      "Izzet Control"
+    ],
+    "cover": "Gran-Gran",
+    "keyCards": [
+      "Gran-Gran",
+      "Firebending Lesson",
+      "Combustion Technique",
+      "Monument to Endurance",
+      "Artist's Talent"
+    ],
+    "summary": {
+      "fr": "Deck de sorts Izzet bâti sur les cartes Lesson d'Avatar : burn et filtrage de pioche, Gran-Gran et Monument to Endurance comme moteurs.",
+      "en": "Izzet spells deck built on Avatar Lesson cards: burn and card filtering, with Gran-Gran and Monument to Endurance as engines."
+    },
+    "why": {
+      "fr": [
+        "Firebending Lesson et Combustion Technique servaient de removal",
+        "Artist's Talent et Accumulate Wisdom filtraient la pioche",
+        "Vainqueur du championnat du monde à Seattle"
+      ],
+      "en": [
+        "Firebending Lesson and Combustion Technique served as removal",
+        "Artist's Talent and Accumulate Wisdom filtered draws",
+        "Won the World Championship in Seattle"
+      ]
+    },
+    "note": "Izzet Control title is mixed (Lessons early, Colorstorm Stallion lists later); attached here by majority."
+  },
+  {
+    "name": "Mono-Green Landfall",
+    "slug": "mono-green-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Green Landfall",
+      "Mono-green Landfall",
+      "Mono Green Aggro"
+    ],
+    "cover": "Mightform Harmonizer",
+    "keyCards": [
+      "Mightform Harmonizer",
+      "Sazh's Chocobo",
+      "Icetill Explorer",
+      "Badgermole Cub",
+      "Earthbender Ascension"
+    ],
+    "summary": {
+      "fr": "Aggro mono-vert centré sur les terrains : Fabled Passage, Escape Tunnel et Earthbender Ascension alimentent Sazh's Chocobo et Mightform Harmonizer.",
+      "en": "Mono-green aggro built around lands: Fabled Passage, Escape Tunnel and Earthbender Ascension feed Sazh's Chocobo and Mightform Harmonizer."
+    },
+    "why": {
+      "fr": [
+        "Les terrains qui se sacrifient doublaient les déclenchements d'atterrissage",
+        "Llanowar Elves et Badgermole Cub accéléraient la courbe",
+        "Présence régulière en top 8 sur toute la saison"
+      ],
+      "en": [
+        "Self-sacrificing lands doubled landfall triggers",
+        "Llanowar Elves and Badgermole Cub accelerated the curve",
+        "Steady top 8 presence across the whole season"
+      ]
+    }
+  },
+  {
+    "name": "Selesnya Landfall",
+    "slug": "selesnya-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Landfall"
+    ],
+    "cover": "Sazh's Chocobo",
+    "keyCards": [
+      "Mightform Harmonizer",
+      "Sazh's Chocobo",
+      "Earthbender Ascension",
+      "Lumbering Worldwagon",
+      "Erode"
+    ],
+    "summary": {
+      "fr": "Version vert-blanc du deck landfall : même noyau de créatures et de terrains, avec Erode en removal blanc.",
+      "en": "Green-white version of the landfall deck: the same creature and land core, with Erode as white removal."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Pro Tour Secrets of Strixhaven",
+        "Erode ajoutait une réponse aux permanents adverses",
+        "Temple Garden et Hushwood Verge rendaient le splash quasi gratuit"
+      ],
+      "en": [
+        "Won Pro Tour Secrets of Strixhaven",
+        "Erode added an answer to opposing permanents",
+        "Temple Garden and Hushwood Verge made the splash nearly free"
+      ]
+    }
+  },
+  {
+    "name": "Simic Ouroboroid",
+    "slug": "simic-ouroboroid",
+    "archetype": "aggro",
+    "titles": [
+      "Simic Aggro"
+    ],
+    "cover": "Ouroboroid",
+    "keyCards": [
+      "Ouroboroid",
+      "Innkeeper's Talent",
+      "Jackal, Genius Geneticist",
+      "Gene Pollinator",
+      "Pawpatch Recruit"
+    ],
+    "summary": {
+      "fr": "Aggro Simic de créatures à marqueurs +1/+1, autour d'Ouroboroid, d'Innkeeper's Talent et de créatures bon marché comme Llanowar Elves.",
+      "en": "Simic creature aggro on +1/+1 counters, built around Ouroboroid, Innkeeper's Talent and cheap creatures such as Llanowar Elves."
+    },
+    "why": {
+      "fr": [
+        "Innkeeper's Talent ajoutait des marqueurs à chaque combat",
+        "Vainqueur d'un MTGO RC Super Qualifier en début de saison",
+        "Surtout joué à l'automne, avant les versions Nature's Rhythm"
+      ],
+      "en": [
+        "Innkeeper's Talent added counters every combat",
+        "Won an MTGO RC Super Qualifier early in the season",
+        "Mostly played in the autumn, before Nature's Rhythm builds"
+      ]
+    }
+  },
+  {
+    "name": "Simic Nature's Rhythm",
+    "slug": "simic-natures-rhythm",
+    "archetype": "ramp",
+    "titles": [
+      "Simic Nature's Rhythm",
+      "Simic Ouroboroid",
+      "Simic Cub",
+      "Bant Rhythm",
+      "Four-color Rhythm",
+      "Bant Nature's Rhythm",
+      "Selesnya Nature's Rhythm",
+      "Selesnya Aggro Nature's Rhythm"
+    ],
+    "cover": "Nature's Rhythm",
+    "keyCards": [
+      "Nature's Rhythm",
+      "Spider Manifestation",
+      "Gene Pollinator",
+      "Quantum Riddler",
+      "Craterhoof Behemoth"
+    ],
+    "summary": {
+      "fr": "Rampe de créatures à base verte : créatures à mana et Spider Manifestation alimentent Nature's Rhythm, qui va chercher une créature dans la bibliothèque.",
+      "en": "Green-based creature ramp: mana creatures and Spider Manifestation fuel Nature's Rhythm, which fetches a creature from the library."
+    },
+    "why": {
+      "fr": [
+        "Nature's Rhythm trouvait Craterhoof Behemoth ou une créature utilitaire",
+        "Vainqueur du Regional Championship de Turin",
+        "Des versions Selesnya et quatre couleurs partageaient le même moteur"
+      ],
+      "en": [
+        "Nature's Rhythm found Craterhoof Behemoth or a utility creature",
+        "Won the Regional Championship in Turin",
+        "Selesnya and four-colour builds shared the same engine"
+      ]
+    },
+    "note": "Simic Ouroboroid title is mostly Nature's Rhythm lists from January on; early ones belong with Simic Ouroboroid aggro."
+  },
+  {
+    "name": "Selesnya Aggro",
+    "slug": "selesnya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Aggro"
+    ],
+    "rep": 912137,
+    "cover": "Michelangelo, Weirdness to 11",
+    "keyCards": [
+      "Ouroboroid",
+      "Michelangelo, Weirdness to 11",
+      "Bejeweled Warg",
+      "Pawpatch Recruit",
+      "Gene Pollinator"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc de créatures : accélérateurs comme Llanowar Elves puis Ouroboroid, Michelangelo, Weirdness to 11 et Bejeweled Warg.",
+      "en": "Green-white creature aggro: accelerants like Llanowar Elves lead into Ouroboroid, Michelangelo, Weirdness to 11 and Bejeweled Warg."
+    },
+    "why": {
+      "fr": [
+        "Finaliste du championnat du monde à Atlanta",
+        "Llanowar Elves et Gene Pollinator permettaient des départs rapides",
+        "Présent en top 8 de l'automne à la fin de la saison"
+      ],
+      "en": [
+        "Reached the World Championship final in Atlanta",
+        "Llanowar Elves and Gene Pollinator allowed fast starts",
+        "Made top 8s from the autumn to the end of the season"
+      ]
+    },
+    "note": "Title is mixed (some Nature's Rhythm and landfall lists); rep set to the Worlds finalist list."
+  },
+  {
+    "name": "Izzet Cauldron",
+    "slug": "izzet-cauldron",
+    "archetype": "combo",
+    "titles": [
+      "UR Soul Cauldron",
+      "UR Aggro"
+    ],
+    "cover": "Vivi Ornitier",
+    "keyCards": [
+      "Agatha's Soul Cauldron",
+      "Vivi Ornitier",
+      "Proft's Eidetic Memory",
+      "Fear of Missing Out",
+      "Quantum Riddler"
+    ],
+    "summary": {
+      "fr": "Izzet de pioche et défausse : Agatha's Soul Cauldron partage les capacités de Vivi Ornitier avec les créatures portant des marqueurs.",
+      "en": "Izzet draw-and-discard deck: Agatha's Soul Cauldron shares Vivi Ornitier's abilities with creatures carrying counters."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur de l'Arena Championship en ouverture de saison",
+        "Winternight Stories et Opt remplissaient le cimetière pour le Cauldron",
+        "Vivi Ornitier et Proft's Eidetic Memory bannis en novembre"
+      ],
+      "en": [
+        "Won the Arena Championship at the start of the season",
+        "Winternight Stories and Opt stocked the graveyard for the Cauldron",
+        "Vivi Ornitier and Proft's Eidetic Memory were banned in November"
+      ]
+    },
+    "note": "UR Aggro title later also covers post-ban prowess lists."
+  },
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Dimir Aggro",
+      "Dimir Tempo"
+    ],
+    "cover": "Kaito, Bane of Nightmares",
+    "keyCards": [
+      "Kaito, Bane of Nightmares",
+      "Enduring Curiosity",
+      "Floodpits Drowner",
+      "Deep-Cavern Bat",
+      "Requiting Hex"
+    ],
+    "summary": {
+      "fr": "Midrange bleu-noir hérité de la saison précédente : créatures flash, removals instantanés et Kaito, Bane of Nightmares.",
+      "en": "Blue-black midrange carried over from the previous season: flash creatures, instant removal and Kaito, Bane of Nightmares."
+    },
+    "why": {
+      "fr": [
+        "Kaito restait une menace difficile à gérer",
+        "Floodpits Drowner et Tishana's Tidebinder donnaient du tempo au flash",
+        "Vainqueur du Regional Championship de Vancouver"
+      ],
+      "en": [
+        "Kaito remained a hard threat to answer",
+        "Floodpits Drowner and Tishana's Tidebinder gave flash tempo",
+        "Won the Regional Championship in Vancouver"
+      ]
+    }
+  },
+  {
+    "name": "Esper Pixie",
+    "slug": "esper-pixie",
+    "archetype": "tempo",
+    "titles": [
+      "Esper Aggro"
+    ],
+    "cover": "Nurturing Pixie",
+    "keyCards": [
+      "Nurturing Pixie",
+      "Sunpearl Kirin",
+      "Kaito, Bane of Nightmares",
+      "Floodpits Drowner",
+      "Nowhere to Run"
+    ],
+    "summary": {
+      "fr": "Tempo Esper : Nurturing Pixie et Sunpearl Kirin rejouent Nowhere to Run, avec le noyau Dimir de Kaito et Floodpits Drowner.",
+      "en": "Esper tempo: Nurturing Pixie and Sunpearl Kirin replay Nowhere to Run, alongside the Dimir core of Kaito and Floodpits Drowner."
+    },
+    "why": {
+      "fr": [
+        "Finaliste du Regional Championship de Turin",
+        "Les bounces de Pixie et Kirin piochaient et rejouaient du removal"
+      ],
+      "en": [
+        "Reached the Regional Championship final in Turin",
+        "Pixie and Kirin bounces drew cards and replayed removal"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Spellementals",
+    "slug": "izzet-spellementals",
+    "archetype": "tempo",
+    "titles": [
+      "Izzet Spellementals"
+    ],
+    "cover": "Hearth Elemental",
+    "keyCards": [
+      "Eddymurk Crab",
+      "Hearth Elemental",
+      "Sunderflock",
+      "Traumatic Critique",
+      "Prismari Charm"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge mêlant interaction bon marché et filtrage de pioche à de grosses menaces : Hearth Elemental, Sunderflock et Eddymurk Crab.",
+      "en": "Blue-red tempo pairing cheap interaction and card selection with large threats: Hearth Elemental, Sunderflock and Eddymurk Crab."
+    },
+    "why": {
+      "fr": [
+        "Eddymurk Crab coûtait moins cher à mesure que le cimetière se remplissait",
+        "Spell Snare et Prismari Charm gênaient les decks adverses à faible coût",
+        "Apparu avec Lorwyn Eclipsed et joué jusqu'à la fin de la saison"
+      ],
+      "en": [
+        "Eddymurk Crab got cheaper as the graveyard filled",
+        "Spell Snare and Prismari Charm disrupted cheap opposing plays",
+        "Appeared with Lorwyn Eclipsed and lasted to the end of the season"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": [
+      "4/5C Control",
+      "Jeskai Control",
+      "4C Control",
+      "Jeskai",
+      "UWR"
+    ],
+    "cover": "Jeskai Revelation",
+    "keyCards": [
+      "Jeskai Revelation",
+      "Tablet of Discovery",
+      "Consult the Star Charts",
+      "Inevitable Defeat",
+      "Stock Up"
+    ],
+    "summary": {
+      "fr": "Contrôle à base Jeskai, pioche et removals, qui finit avec Jeskai Revelation ; la liste type splashe le noir pour Inevitable Defeat.",
+      "en": "Jeskai-based control on card draw and removal, finishing with Jeskai Revelation; the typical list splashes black for Inevitable Defeat."
+    },
+    "why": {
+      "fr": [
+        "Consult the Star Charts et Stock Up maintenaient l'avantage de cartes",
+        "Vainqueur des Regional Championships d'Europe et de Cincinnati",
+        "Les premières versions s'appuyaient sur Shiko et Lightning Helix"
+      ],
+      "en": [
+        "Consult the Star Charts and Stock Up kept the card flow",
+        "Won the European and Cincinnati Regional Championships",
+        "Early builds relied on Shiko and Lightning Helix"
+      ]
+    },
+    "note": "Merges three-colour Jeskai Control and four/five-colour builds sharing the same draw-go plan."
+  },
+  {
+    "name": "Boros Dragons",
+    "slug": "boros-dragons",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Aggro",
+      "Boros Dragons"
+    ],
+    "cover": "Magmatic Hellkite",
+    "keyCards": [
+      "Sarkhan, Dragon Ascendant",
+      "Nova Hellkite",
+      "Magmatic Hellkite",
+      "Clarion Conqueror",
+      "Momo, Friendly Flier"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-blanc de dragons : petits dragons et Sarkhan, Dragon Ascendant mènent à Magmatic Hellkite, avec Cavern of Souls pour le mana.",
+      "en": "Red-white dragon midrange: cheap dragons and Sarkhan, Dragon Ascendant lead into Magmatic Hellkite, with Cavern of Souls for mana."
+    },
+    "why": {
+      "fr": [
+        "Clarion Conqueror bloquait les capacités activées adverses",
+        "Maelstrom of the Spirit Dragon et Cavern of Souls fixaient les dragons",
+        "Vainqueur du Regional Championship d'Amérique du Sud"
+      ],
+      "en": [
+        "Clarion Conqueror shut off opposing activated abilities",
+        "Maelstrom of the Spirit Dragon and Cavern of Souls supported the dragons",
+        "Won the South American Regional Championship"
+      ]
+    },
+    "note": "Boros Aggro title also includes early Boros Mice lists."
+  },
+  {
+    "name": "Azorius Momo",
+    "slug": "azorius-momo",
+    "archetype": "aggro",
+    "titles": [
+      "Azorius Momo",
+      "Azorius Aggro",
+      "Weenie White",
+      "Azorius Fliers"
+    ],
+    "cover": "Momo, Friendly Flier",
+    "keyCards": [
+      "Momo, Friendly Flier",
+      "Sage of the Skies",
+      "Starfield Shepherd",
+      "Springleaf Drum",
+      "Quantum Riddler"
+    ],
+    "summary": {
+      "fr": "Aggro volant blanc-bleu : petites créatures accélérées par Springleaf Drum, Momo, Friendly Flier et Sage of the Skies, relancées par Quantum Riddler.",
+      "en": "White-blue flier aggro: cheap creatures accelerated by Springleaf Drum, Momo, Friendly Flier and Sage of the Skies, refuelled by Quantum Riddler."
+    },
+    "why": {
+      "fr": [
+        "Les menaces volantes passaient les bloqueurs des decks verts",
+        "Vainqueur du Regional Championship de Washington",
+        "Une version mono-blanche jouait le même noyau"
+      ],
+      "en": [
+        "Flying threats got past the green decks' blockers",
+        "Won the Regional Championship in Washington",
+        "A mono-white build ran the same core"
+      ]
+    }
+  },
+  {
+    "name": "Boros Momo",
+    "slug": "boros-momo",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Momo",
+      "Boros Pixie"
+    ],
+    "cover": "Captain James T. Kirk",
+    "keyCards": [
+      "Momo, Friendly Flier",
+      "Captain James T. Kirk",
+      "The Naked Time",
+      "Nova Hellkite",
+      "Torch the Tower"
+    ],
+    "summary": {
+      "fr": "Version rouge-blanc du deck Momo, qui ajoute Torch the Tower, Nova Hellkite et Captain James T. Kirk.",
+      "en": "Red-white take on the Momo fliers deck, adding Torch the Tower, Nova Hellkite and Captain James T. Kirk."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au championnat du monde à Atlanta",
+        "Torch the Tower apportait un removal bon marché absent de la version Azorius"
+      ],
+      "en": [
+        "Top 4 at the World Championship in Atlanta",
+        "Torch the Tower gave cheap removal the Azorius build lacked"
+      ]
+    },
+    "note": "Appeared only in the last week of the season."
+  },
+  {
+    "name": "Azorius Flash",
+    "slug": "azorius-flash",
+    "archetype": "tempo",
+    "titles": [
+      "Azorius Flash"
+    ],
+    "cover": "Aven Interrupter",
+    "keyCards": [
+      "Aven Interrupter",
+      "Floodpits Drowner",
+      "Voice of Victory",
+      "High Noon",
+      "Aang, Swift Savior"
+    ],
+    "summary": {
+      "fr": "Tempo blanc-bleu à créatures flash comme Aven Interrupter et Floodpits Drowner, avec Voice of Victory, High Noon et des contresorts.",
+      "en": "White-blue tempo with flash creatures such as Aven Interrupter and Floodpits Drowner, plus Voice of Victory, High Noon and counterspells."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur d'un Ultimate Guard Open à Turin",
+        "Les menaces flash punissaient l'adversaire qui engageait son mana"
+      ],
+      "en": [
+        "Won an Ultimate Guard Open in Turin",
+        "Flash threats punished opponents who tapped out"
+      ]
+    },
+    "note": "Single result, included because it won an event."
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "UW Artifact Control"
+    ],
+    "cover": "Ugin, Eye of the Storms",
+    "keyCards": [
+      "No More Lies",
+      "Three Steps Ahead",
+      "Day of Judgment",
+      "Ugin, Eye of the Storms",
+      "Aang's Iceberg"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu de contresorts et balayages, qui gagne avec Ugin, Eye of the Storms ou Marang River Regent.",
+      "en": "White-blue control on counterspells and sweepers, winning with Ugin, Eye of the Storms or Marang River Regent."
+    },
+    "why": {
+      "fr": [
+        "Day of Judgment balayait les decks de créatures du format",
+        "No More Lies et Three Steps Ahead couvraient les sorts clés",
+        "Top 8 réguliers sans victoire majeure"
+      ],
+      "en": [
+        "Day of Judgment swept the format's creature decks",
+        "No More Lies and Three Steps Ahead covered key spells",
+        "Regular top 8s without a major win"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "Resonance Deck Wins"
+    ],
+    "cover": "Screaming Nemesis",
+    "keyCards": [
+      "Burnout Bashtronaut",
+      "Razorkin Needlehead",
+      "Hired Claw",
+      "Screaming Nemesis",
+      "Nova Hellkite"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge à courbe basse, avec des burns comme Burst Lightning et Scorching Shot pour dégager le passage.",
+      "en": "Low-curve mono-red aggro with burn such as Burst Lightning and Scorching Shot to clear the way."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du premier Spotlight de la saison",
+        "Les burns instantanés réglaient les créatures à mana adverses",
+        "Screaming Nemesis banni en novembre"
+      ],
+      "en": [
+        "Won the first Spotlight event of the season",
+        "Instant burn dealt with opposing mana creatures",
+        "Screaming Nemesis was banned in November"
+      ]
+    }
+  },
+  {
+    "name": "Superior Doomsday",
+    "slug": "superior-doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Superior Doomsday"
+    ],
+    "cover": "Doomsday Excruciator",
+    "keyCards": [
+      "Doomsday Excruciator",
+      "Superior Spider-Man",
+      "Deceit",
+      "Insatiable Avarice",
+      "Requiting Hex"
+    ],
+    "summary": {
+      "fr": "Combo-contrôle Dimir autour de Doomsday Excruciator, qui réduit les bibliothèques, avec Insatiable Avarice ; Superior Spider-Man et Deceit soutiennent le plan.",
+      "en": "Dimir combo-control around Doomsday Excruciator, which shrinks libraries, with Insatiable Avarice; Superior Spider-Man and Deceit support the plan."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Pro Tour Lorwyn Eclipsed",
+        "Vainqueur du Regional Championship d'Amérique du Sud",
+        "Requiting Hex et Bitter Triumph couvraient les débuts de partie"
+      ],
+      "en": [
+        "Won Pro Tour Lorwyn Eclipsed",
+        "Won the South American Regional Championship",
+        "Requiting Hex and Bitter Triumph covered the early turns"
+      ]
+    },
+    "note": "Name taken from mtgtop8; community name uncertain."
+  },
+  {
+    "name": "Sultai Reanimator",
+    "slug": "sultai-reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Superior Reanimator",
+      "Sultai Reanimator",
+      "Reanimator"
+    ],
+    "cover": "Bringer of the Last Gift",
+    "keyCards": [
+      "Bringer of the Last Gift",
+      "Superior Spider-Man",
+      "Formidable Speaker",
+      "Something Worth Saving",
+      "Terror of the Peaks"
+    ],
+    "summary": {
+      "fr": "Deck cimetière Sultai qui met de grosses créatures au cimetière et les ramène, avec Bringer of the Last Gift et Terror of the Peaks comme cibles.",
+      "en": "Sultai graveyard deck that bins large creatures and brings them back, with Bringer of the Last Gift and Terror of the Peaks as targets."
+    },
+    "why": {
+      "fr": [
+        "Bringer of the Last Gift ramenait toutes les créatures des cimetières",
+        "Cavern of Souls protégeait les créatures clés des contresorts",
+        "Top 8 réguliers d'octobre à la fin de la saison"
+      ],
+      "en": [
+        "Bringer of the Last Gift returned every creature from the graveyards",
+        "Cavern of Souls protected key creatures from counterspells",
+        "Regular top 8s from October to the end of the season"
+      ]
+    }
+  },
+  {
+    "name": "Sultai Control",
+    "slug": "sultai-control",
+    "archetype": "control",
+    "titles": [
+      "Sultai Control"
+    ],
+    "cover": "Uldaros Theorix",
+    "keyCards": [
+      "Uldaros Theorix",
+      "Superior Spider-Man",
+      "Awaken the Honored Dead",
+      "Theorix Charm",
+      "Steamcore Scholar"
+    ],
+    "summary": {
+      "fr": "Contrôle Sultai orienté cimetière : removals, Awaken the Honored Dead et Superior Spider-Man, avec Uldaros Theorix pour finir.",
+      "en": "Graveyard-based Sultai control: removal, Awaken the Honored Dead and Superior Spider-Man, finishing with Uldaros Theorix."
+    },
+    "why": {
+      "fr": [
+        "Requiting Hex et Bitter Triumph géraient les menaces précoces",
+        "Top 4 au Regional Championship de Chine"
+      ],
+      "en": [
+        "Requiting Hex and Bitter Triumph handled early threats",
+        "Top 4 at the Chinese Regional Championship"
+      ]
+    },
+    "note": "Title mixes several Sultai shells over the season."
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": [
+      "Dimir Control"
+    ],
+    "rep": 806939,
+    "cover": "Deadly Cover-Up",
+    "keyCards": [
+      "Consult the Star Charts",
+      "Three Steps Ahead",
+      "Spell Snare",
+      "Deadly Cover-Up",
+      "Wan Shi Tong, Librarian"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir de contresorts, pioche et Deadly Cover-Up, avec peu de créatures comme Wan Shi Tong, Librarian.",
+      "en": "Blue-black control on counterspells, card draw and Deadly Cover-Up, with few creatures such as Wan Shi Tong, Librarian."
+    },
+    "why": {
+      "fr": [
+        "Contresorts et Deadly Cover-Up couvraient créatures et sorts",
+        "Demolition Field répondait aux terrains utilitaires"
+      ],
+      "en": [
+        "Counterspells and Deadly Cover-Up covered creatures and spells",
+        "Demolition Field answered utility lands"
+      ]
+    },
+    "note": "Title also covers a Fear of Isolation bounce list; rep set to the draw-go build."
+  },
+  {
+    "name": "Bant Airbending",
+    "slug": "bant-airbending",
+    "archetype": "midrange",
+    "titles": [
+      "Bant Airbending"
+    ],
+    "cover": "Aang, at the Crossroads",
+    "keyCards": [
+      "Aang, at the Crossroads",
+      "Aang, Swift Savior",
+      "Appa, Steadfast Guardian",
+      "Airbender Ascension",
+      "Interdimensional Web Watch"
+    ],
+    "summary": {
+      "fr": "Deck de créatures Bant issu d'Avatar : Aang et Appa mènent un plan airbending, soutenu par des créatures à mana et Airbender Ascension.",
+      "en": "Bant creature deck from Avatar: Aang and Appa lead an airbending plan, supported by mana creatures and Airbender Ascension."
+    },
+    "why": {
+      "fr": [
+        "Llanowar Elves et Bramble Familiar accéléraient la courbe",
+        "Vainqueur d'un Spotlight à Atlanta",
+        "Top 4 au Regional Championship de Milwaukee"
+      ],
+      "en": [
+        "Llanowar Elves and Bramble Familiar accelerated the curve",
+        "Won a Spotlight event in Atlanta",
+        "Top 4 at the Regional Championship in Milwaukee"
+      ]
+    }
+  },
+  {
+    "name": "Allies",
+    "slug": "allies",
+    "archetype": "aggro",
+    "titles": [
+      "Allies"
+    ],
+    "cover": "Allies at Last",
+    "keyCards": [
+      "Aang, Swift Savior",
+      "Earth King's Lieutenant",
+      "Earthen Ally",
+      "Great Divide Guide",
+      "Allies at Last"
+    ],
+    "summary": {
+      "fr": "Tribal Allies multicolore issu d'Avatar, avec des créatures du royaume de la Terre et Allies at Last, sur Cavern of Souls et Starting Town.",
+      "en": "Multicolour Ally tribal deck from Avatar, with Earth Kingdom creatures and Allies at Last, on Cavern of Souls and Starting Town."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur d'un MTGO RC Super Qualifier",
+        "Cavern of Souls fixait le mana et protégeait les créatures"
+      ],
+      "en": [
+        "Won an MTGO RC Super Qualifier",
+        "Cavern of Souls fixed mana and protected the creatures"
+      ]
+    },
+    "note": "Single top 8, included because it won an event."
+  },
+  {
+    "name": "Jund Sacrifice",
+    "slug": "jund-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Sacrifice",
+      "Jund Aggro"
+    ],
+    "cover": "The Sackville-Bagginses",
+    "keyCards": [
+      "Greedy Freebooter",
+      "Biotech Specialist",
+      "The Sackville-Bagginses",
+      "Lively Dirge",
+      "Obsessive Pursuit"
+    ],
+    "summary": {
+      "fr": "Midrange Jund de sacrifice : petites créatures à valeur comme Greedy Freebooter et Biotech Specialist, recyclées par Lively Dirge.",
+      "en": "Jund sacrifice midrange: small value creatures such as Greedy Freebooter and Biotech Specialist, recurred by Lively Dirge."
+    },
+    "why": {
+      "fr": [
+        "Lively Dirge remettait plusieurs créatures en jeu depuis le cimetière",
+        "Apparu en fin de saison, avec plusieurs victoires en quelques semaines"
+      ],
+      "en": [
+        "Lively Dirge returned several creatures from the graveyard",
+        "Appeared late in the season and won several events within weeks"
+      ]
+    }
+  },
+  {
+    "name": "Mardu Aggro",
+    "slug": "mardu-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Aggro",
+      "Rakdos Aggro"
+    ],
+    "cover": "Moonshadow",
+    "keyCards": [
+      "Bloodghast",
+      "Moonshadow",
+      "Hardened Academic",
+      "Iron-Shield Elf",
+      "Cool but Rude"
+    ],
+    "summary": {
+      "fr": "Aggro Mardu orienté cimetière : défausses et créatures récursives comme Bloodghast font grandir Moonshadow et Marauding Mako.",
+      "en": "Mardu graveyard aggro: discard and recursive creatures such as Bloodghast grow Moonshadow and Marauding Mako."
+    },
+    "why": {
+      "fr": [
+        "Bloodghast revenait du cimetière à chaque terrain joué",
+        "Vainqueur du Regional Championship d'Ottawa",
+        "Une version Rakdos suivait le même plan"
+      ],
+      "en": [
+        "Bloodghast returned from the graveyard with each land drop",
+        "Won the Regional Championship in Ottawa",
+        "A Rakdos build followed the same plan"
+      ]
+    }
+  },
+  {
+    "name": "Elementals",
+    "slug": "elementals",
+    "archetype": "midrange",
+    "titles": [
+      "Roaming Elementals",
+      "Temur Aggro",
+      "4c Elementals",
+      "W-u-r-g Elementals",
+      "Temur Roaming Elemental",
+      "4/5c Elementals",
+      "4c Roaming Elementals",
+      "Elementals"
+    ],
+    "cover": "Ashling, Rekindled",
+    "keyCards": [
+      "Ashling, Rekindled",
+      "Flamebraider",
+      "Roaming Throne",
+      "Vibrance",
+      "Wistfulness"
+    ],
+    "summary": {
+      "fr": "Tribal Élémentaux de Lorwyn Eclipsed : Flamebraider et Roaming Throne soutiennent des élémentaux comme Vibrance, Wistfulness et Deceit.",
+      "en": "Elemental tribal from Lorwyn Eclipsed: Flamebraider and Roaming Throne support Elementals such as Vibrance, Wistfulness and Deceit."
+    },
+    "why": {
+      "fr": [
+        "Roaming Throne doublait les capacités déclenchées des élémentaux",
+        "Cavern of Souls fixait le mana et empêchait les contresorts",
+        "Top 4 au Pro Tour Lorwyn Eclipsed"
+      ],
+      "en": [
+        "Roaming Throne doubled Elemental triggered abilities",
+        "Cavern of Souls fixed mana and stopped counterspells",
+        "Top 4 at Pro Tour Lorwyn Eclipsed"
+      ]
+    },
+    "note": "Temur Aggro title is mostly Elementals from January; earlier Temur Battlecrier lists are few."
+  },
+  {
+    "name": "Temur Harmonizer",
+    "slug": "temur-harmonizer",
+    "archetype": "tempo",
+    "titles": [
+      "Temur Full Bore Harmonizer",
+      "Temur Harmonizer",
+      "Temur Control",
+      "Temur Full Bore"
+    ],
+    "cover": "Mightform Harmonizer",
+    "keyCards": [
+      "Mightform Harmonizer",
+      "Full Bore",
+      "Consult the Star Charts",
+      "Stock Up",
+      "Burst Lightning"
+    ],
+    "summary": {
+      "fr": "Deck de sorts temur à peu de créatures : Mightform Harmonizer est soutenu par Full Bore, des burns, des contresorts et de la pioche.",
+      "en": "Temur spells deck with few creatures: Mightform Harmonizer is backed by Full Bore, burn, counterspells and card draw."
+    },
+    "why": {
+      "fr": [
+        "Finaliste du Pro Tour Lorwyn Eclipsed",
+        "Stock Up et Consult the Star Charts gardaient la main pleine",
+        "Burst Lightning et Sear géraient les créatures adverses"
+      ],
+      "en": [
+        "Reached the final of Pro Tour Lorwyn Eclipsed",
+        "Stock Up and Consult the Star Charts kept the hand full",
+        "Burst Lightning and Sear handled opposing creatures"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Amalia",
+    "slug": "orzhov-amalia",
+    "archetype": "combo",
+    "titles": [
+      "Orzhov Amalia",
+      "Orzhov Aggro"
+    ],
+    "cover": "Amalia Benavides Aguirre",
+    "keyCards": [
+      "Amalia Benavides Aguirre",
+      "Case of the Uneaten Feast",
+      "Hinterland Sanctifier",
+      "Haliya, Guided by Light",
+      "Lunar Convocation"
+    ],
+    "summary": {
+      "fr": "Gain de vie blanc-noir autour d'Amalia Benavides Aguirre, qui explore à chaque gain de vie, alimenté par Case of the Uneaten Feast.",
+      "en": "White-black lifegain built around Amalia Benavides Aguirre, which explores on each life gain, fed by Case of the Uneaten Feast."
+    },
+    "why": {
+      "fr": [
+        "Case of the Uneaten Feast transformait chaque créature en gain de vie",
+        "Plusieurs top 8 dans les dernières semaines de la saison"
+      ],
+      "en": [
+        "Case of the Uneaten Feast turned each creature into life gain",
+        "Several top 8s in the last weeks of the season"
+      ]
+    },
+    "note": "Orzhov Aggro title also has one early Pixie list."
+  },
+  {
+    "name": "Omniscience Combo",
+    "slug": "omniscience-combo",
+    "archetype": "combo",
+    "titles": [
+      "Omniscience Combo",
+      "Bant Omniscience"
+    ],
+    "cover": "Omniscience",
+    "keyCards": [
+      "Omniscience",
+      "Kona, Rescue Beastie",
+      "Formidable Speaker",
+      "Ashling, Rekindled",
+      "Marang River Regent"
+    ],
+    "summary": {
+      "fr": "Combo temur qui cherche à mettre Omniscience en jeu tôt via Kona, Rescue Beastie et Formidable Speaker, puis lance ses sorts gratuitement.",
+      "en": "Temur combo aiming to put Omniscience into play early through Kona, Rescue Beastie and Formidable Speaker, then cast spells for free."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Regional Championship de Cincinnati",
+        "Marang River Regent et Into the Flood Maw ralentissaient l'adversaire"
+      ],
+      "en": [
+        "Top 4 at the Regional Championship in Cincinnati",
+        "Marang River Regent and Into the Flood Maw slowed opponents"
+      ]
+    }
+  },
+  {
+    "name": "Temur Otters",
+    "slug": "temur-otters",
+    "archetype": "combo",
+    "titles": [
+      "Temur Otters"
+    ],
+    "cover": "Valley Floodcaller",
+    "keyCards": [
+      "Valley Floodcaller",
+      "Enduring Vitality",
+      "Song of Totentanz",
+      "Thundertrap Trainer",
+      "Stormchaser's Talent"
+    ],
+    "summary": {
+      "fr": "Combo-tempo temur autour de Valley Floodcaller, Enduring Vitality et Song of Totentanz, avec bounces et pioche autour.",
+      "en": "Temur combo-tempo around Valley Floodcaller, Enduring Vitality and Song of Totentanz, with bounce and card draw around it."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au championnat du monde à Seattle",
+        "Thundertrap Trainer trouvait les pièces non-créatures du combo"
+      ],
+      "en": [
+        "Top 4 at the World Championship in Seattle",
+        "Thundertrap Trainer found the combo's noncreature pieces"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Mission",
+    "slug": "izzet-mission",
+    "archetype": "control",
+    "titles": [
+      "Izzet Mission"
+    ],
+    "cover": "Anthropological Mission",
+    "keyCards": [
+      "Anthropological Mission",
+      "Ral, Crackling Wit",
+      "Flashback",
+      "Into the Flood Maw",
+      "Consult the Star Charts"
+    ],
+    "summary": {
+      "fr": "Contrôle de sorts Izzet, contresorts, removals et filtrage de pioche, autour d'Anthropological Mission et Ral, Crackling Wit.",
+      "en": "Izzet spells control with counterspells, removal and card selection, built around Anthropological Mission and Ral, Crackling Wit."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du championnat du monde à Atlanta",
+        "Une autre victoire le lendemain, en toute fin de saison"
+      ],
+      "en": [
+        "Won the World Championship in Atlanta",
+        "Won another event the next day, at the very end of the season"
+      ]
+    },
+    "note": "Very recent; only a few results so far."
+  },
+  {
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Aggro"
+    ],
+    "cover": "Patchwork Beastie",
+    "keyCards": [
+      "Badgermole Cub",
+      "Patchwork Beastie",
+      "Ouroboroid",
+      "Tersa Lightshatter",
+      "Fear of Missing Out"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert de créatures, avec créatures à mana, Patchwork Beastie et Ouroboroid, protégées par Overprotect.",
+      "en": "Red-green creature aggro with mana creatures, Patchwork Beastie and Ouroboroid, protected by Overprotect."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur d'une Japan Cup",
+        "Fear of Missing Out et Tersa Lightshatter remplissaient le cimetière pour le délire"
+      ],
+      "en": [
+        "Won a Japan Cup",
+        "Fear of Missing Out and Tersa Lightshatter filled the graveyard for delirium"
+      ]
+    }
+  }
+]
