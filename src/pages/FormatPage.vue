@@ -67,6 +67,15 @@ const seasons = computed<Row[]>(() => {
 
 // newest season first
 const visible = computed(() => seasons.value.filter((s) => s.shown.length).reverse())
+// start year as short label; full "1996–97" form when two seasons start the same year
+const jumps = computed(() =>
+  visible.value.map((s, _i, all) => {
+    const year = s.start.slice(0, 4)
+    const title = seasonYears(s.start, s.end)
+    const clash = all.some((o) => o.id !== s.id && o.start.slice(0, 4) === year)
+    return { id: s.id, label: clash ? title : year, title }
+  }),
+)
 const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.length, 0))
 const shownDecks = computed(() => visible.value.reduce((n, s) => n + s.shown.length, 0))
 const filtering = computed(() => !!(archetype.value || colors.value.length || query.value.trim()))
@@ -80,19 +89,13 @@ const banLine = (s: Row) =>
   <SoonState v-if="format && !format.ready" :label="format.label" />
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
   <div v-else class="format-page">
-    <header class="intro">
-      <h1>{{ format?.label }}</h1>
-      <p class="intro-meta">
-        {{ seasons[0]?.start.slice(0, 4) }}–{{ new Date().getFullYear() }},
-        {{ filtering ? `${shownDecks} / ${totalDecks}` : totalDecks }} {{ t('decksCount') }}
-      </p>
-    </header>
-
+    <h1 class="sr-only">{{ format?.label }}</h1>
     <div class="tools">
-      <nav class="jump" aria-label="Seasons">
-        <a v-for="s in visible" :key="s.id" :href="`#s-${s.id}`">{{ seasonYears(s.start, s.end) }}</a>
-      </nav>
       <div class="filters">
+        <p class="intro-meta">
+          {{ filtering ? `${shownDecks} / ${totalDecks}` : totalDecks }} {{ t('decksCount') }},
+          {{ seasons[0]?.start.slice(0, 4) }}–{{ new Date().getFullYear() }}
+        </p>
         <div class="arch">
           <button type="button" :class="{ on: !archetype }" @click="archetype = ''">{{ t('all') }}</button>
           <button
@@ -121,6 +124,9 @@ const banLine = (s: Row) =>
         </div>
         <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Chercher un deck ou une carte' : 'Search a deck or a card'" />
       </div>
+      <nav class="jump" aria-label="Seasons">
+        <a v-for="j in jumps" :key="j.id" :href="`#s-${j.id}`" :title="j.title">{{ j.label }}</a>
+      </nav>
     </div>
 
     <section v-for="s in visible" :id="`s-${s.id}`" :key="s.id" class="season">
@@ -139,24 +145,10 @@ const banLine = (s: Row) =>
 </template>
 
 <style scoped>
-.intro {
-  display: flex;
-  align-items: baseline;
-  gap: var(--space-md);
-  flex-wrap: wrap;
-  padding-top: var(--space-md);
-}
-
-h1 {
-  font-size: clamp(3rem, 8vw, 5.5rem);
-  line-height: 0.9;
-  letter-spacing: -0.035em;
-}
-
 .intro-meta {
   font-style: italic;
-  font-size: 1.05rem;
   color: var(--muted);
+  white-space: nowrap;
 }
 
 .tools {
@@ -165,16 +157,19 @@ h1 {
   z-index: 20;
   background: var(--paper);
   border-bottom: 1px solid var(--line);
-  padding: var(--space-sm) 0;
-  margin: var(--space-md) 0 var(--space-xl);
+  padding: var(--space-sm) 0 var(--space-xs);
+  margin: calc(-1 * var(--space-lg) + var(--space-xs)) 0 var(--space-lg);
 }
 
 .jump {
   display: flex;
-  gap: 0.15rem 0.7rem;
-  flex-wrap: wrap;
+  gap: 0.6rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  white-space: nowrap;
+  margin-top: var(--space-xs);
   font-family: var(--font-heading);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
 }
 
 .jump a {
@@ -190,9 +185,8 @@ h1 {
 .filters {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  gap: var(--space-sm) var(--space-lg);
-  margin-top: var(--space-sm);
+  align-items: baseline;
+  gap: var(--space-xs) var(--space-lg);
 }
 
 .arch {
@@ -270,8 +264,8 @@ h1 {
 }
 
 .season {
-  margin-bottom: var(--space-2xl);
-  scroll-margin-top: calc(var(--header-h) + 110px);
+  margin-bottom: var(--space-xl);
+  scroll-margin-top: calc(var(--header-h) + 80px);
 }
 
 .season-head {
@@ -279,18 +273,18 @@ h1 {
   align-items: baseline;
   gap: var(--space-md);
   flex-wrap: wrap;
-  border-top: 3px solid var(--ink);
+  border-top: 2px solid var(--ink);
   padding-top: var(--space-xs);
 }
 
 .season-years {
-  font-size: 3.2rem;
+  font-size: 2.1rem;
   line-height: 1;
-  letter-spacing: -0.04em;
+  letter-spacing: -0.03em;
 }
 
 .season-set {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-style: italic;
 }
 
@@ -314,8 +308,8 @@ h1 {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   grid-auto-flow: dense;
-  gap: var(--space-lg) var(--space-md);
-  margin-top: var(--space-md);
+  gap: var(--space-md) var(--space-sm);
+  margin-top: var(--space-sm);
 }
 
 @media (max-width: 640px) {
@@ -329,7 +323,7 @@ h1 {
   }
 
   .season-years {
-    font-size: 2.4rem;
+    font-size: 1.8rem;
   }
 
   .grid {
