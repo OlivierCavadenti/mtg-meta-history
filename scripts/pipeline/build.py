@@ -44,6 +44,7 @@ total_top8 = {}
 for sid in season_ids:
     total_top8[sid] = sum(1 for r in season_rows(sid) if r['rank'] in TOP8)
 first_season = {}
+firsts = collections.Counter(r['e'] for r in rows() if r['rank'] == '1')
 all_decks = {}
 missing = set()
 for sid in season_ids:
@@ -59,7 +60,8 @@ for sid in season_ids:
         main = [[n, canon(c)] for n, c in main if c != 'Unknown Card']
         side = [[n, canon(c)] for n, c in side if c != 'Unknown Card']
         top8 = sum(1 for r in rs if r['rank'] in TOP8)
-        wins = sum(1 for r in rs if r['rank'] == '1')
+        # league weekends list several rank-1 rows: only count an event win when it is unique
+        wins = sum(1 for r in rs if r['rank'] == '1' and firsts[r['e']] == 1)
         share = round(100 * top8 / max(1, total_top8[sid]), 1)
         # colors from non-land main cards, a color counts with >= 3 copies
         cc = {c: 0 for c in ORDER}
@@ -72,6 +74,13 @@ for sid in season_ids:
         colors = ''.join(c for c in ORDER if cc[c] >= 3)
         for n, name in main + side:
             first_season.setdefault(name, sid)
+        # sanity check: a card with no core/expansion printing before the season ends
+        # suggests a list from another format mislabelled as Standard
+        for n, name in main:
+            pr = lookup(name)
+            if not pr or name in ('Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'): continue
+            if not any(p['st'] in ('core', 'expansion') and p['r'] < season_end[sid] for p in pr['prints']):
+                print(f'  WARN {sid}/{e["slug"]}: {name} not printed in a Standard set before season end')
         decks.append({
             'id': f"{e['slug']}-{sid}", 'name': e['name'], 'season': sid, 'archetype': e['archetype'], 'colors': colors,
             'tier': 3, 'first': min(r['iso'] for r in rs), 'last': max(r['iso'] for r in rs),
