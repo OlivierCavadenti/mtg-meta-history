@@ -66,7 +66,7 @@ const STRINGS = {
     fr: "Résultats et listes : MTGTop8. Images : Scryfall. Les noms de cartes appartiennent à Wizards of the Coast ; site non affilié.",
     en: 'Results and lists: MTGTop8. Images: Scryfall. Card names belong to Wizards of the Coast; not affiliated.',
   },
-  staplesIntro: { fr: 'cartes, dans l’ordre où elles sont devenues incontournables', en: 'cards, in the order they became format staples' },
+  staplesIntro: { fr: 'cartes, classées par saison où elles sont devenues incontournables, de la plus récente à la plus ancienne', en: 'cards, by the season they became format staples, newest first' },
 } satisfies Record<string, L10n>
 
 export type StringKey = keyof typeof STRINGS

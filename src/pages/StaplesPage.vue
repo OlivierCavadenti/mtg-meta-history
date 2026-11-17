@@ -8,7 +8,8 @@ import SoonState from '../components/SoonState.vue'
 
 const { format, data, loading } = useFormat()
 
-const seasons = computed(() => (data.value ? computeStaples(data.value) : []))
+// staples are computed oldest-first (a card belongs to the season it first became a staple), shown newest-first
+const seasons = computed(() => (data.value ? computeStaples(data.value).reverse() : []))
 const total = computed(() => seasons.value.reduce((n, s) => n + s.cards.length, 0))
 </script>
 

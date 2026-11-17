@@ -47,7 +47,8 @@ const seasons = computed<Row[]>(() => {
   return data.value.seasons.map((s) => ({ ...s, shown: s.decks.filter(matches) }))
 })
 
-const visible = computed(() => seasons.value.filter((s) => s.shown.length))
+// newest season first
+const visible = computed(() => seasons.value.filter((s) => s.shown.length).reverse())
 const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.length, 0))
 const shownDecks = computed(() => visible.value.reduce((n, s) => n + s.shown.length, 0))
 const filtering = computed(() => !!(archetype.value || colors.value.length || query.value.trim()))
