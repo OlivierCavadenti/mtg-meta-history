@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Tooth and Nail",
+    "slug": "tooth-and-nail",
+    "archetype": "ramp",
+    "titles": ["Tooth And Nail", "Tooth and Nail"],
+    "rep": 603803,
+    "cover": "Tooth and Nail",
+    "keyCards": ["Tooth and Nail", "Kiki-Jiki, Mirror Breaker", "Sakura-Tribe Elder", "Reap and Sow", "Urza's Tower"],
+    "summary": {
+      "fr": "Ramp vert qui assemble les terrains d'Urza, puis lance Tooth and Nail avec entwine pour mettre en jeu ses créatures clés.",
+      "en": "Green ramp that assembles the Urza lands, then casts an entwined Tooth and Nail to put its key creatures into play."
+    },
+    "why": {
+      "fr": ["Sakura-Tribe Elder et Reap and Sow accéléraient vers les terrains d'Urza", "Kiki-Jiki et Sundering Titan formaient des combinaisons décisives", "Sensei's Divining Top filtrait les pioches"],
+      "en": ["Sakura-Tribe Elder and Reap and Sow ramped into the Urza lands", "Kiki-Jiki and Sundering Titan formed decisive combinations", "Sensei's Divining Top filtered draws"]
+    }
+  },
+  {
+    "name": "Mono-Blue Tron",
+    "slug": "mono-blue-tron",
+    "archetype": "control",
+    "titles": ["Mono-blue Tron", "Mono Blue Tron", "Nobu Tron"],
+    "cover": "Memnarch",
+    "keyCards": ["Mindslaver", "Memnarch", "Triskelion", "Condescend", "Thirst for Knowledge"],
+    "summary": {
+      "fr": "Contrôle mono-bleu qui utilise les terrains d'Urza pour lancer tôt Mindslaver, Memnarch et Triskelion derrière des contresorts.",
+      "en": "Mono-blue control that uses the Urza lands to cast Mindslaver, Memnarch and Triskelion early behind counterspells."
+    },
+    "why": {
+      "fr": ["Les terrains d'Urza fournissaient sept manas dès le troisième terrain", "Mindslaver prenait le contrôle des tours adverses", "Condescend et Mana Leak protégeaient la montée en puissance"],
+      "en": ["The Urza lands made seven mana from three lands", "Mindslaver took control of opposing turns", "Condescend and Mana Leak protected the build-up"]
+    }
+  },
+  {
+    "name": "Big Red",
+    "slug": "big-red",
+    "archetype": "aggro",
+    "titles": ["Big Red", "Red Aggro", "Mono-red Aggro"],
+    "cover": "Arc-Slogger",
+    "keyCards": ["Arc-Slogger", "Slith Firewalker", "Zo-Zu the Punisher", "Frostling", "Seething Song"],
+    "summary": {
+      "fr": "Mono-rouge qui accélère avec Chrome Mox et Seething Song vers Arc-Slogger, avec Frostling et Magma Jet comme retrait.",
+      "en": "Mono-red deck that ramps with Chrome Mox and Seething Song into Arc-Slogger, using Frostling and Magma Jet as removal."
+    },
+    "why": {
+      "fr": ["Arc-Slogger servait à la fois de menace et de retrait répété", "Zo-Zu the Punisher pénalisait les decks à terrains d'Urza", "Frostling et Magma Jet géraient les petites créatures"],
+      "en": ["Arc-Slogger served as both threat and repeatable removal", "Zo-Zu the Punisher punished Urza-land decks", "Frostling and Magma Jet handled small creatures"]
+    }
+  },
+  {
+    "name": "Rats",
+    "slug": "rats",
+    "archetype": "aggro",
+    "titles": ["Viridian Rats", "Mono-black Rats", "Mono Black Aggro"],
+    "cover": "Chittering Rats",
+    "keyCards": ["Chittering Rats", "Ravenous Rats", "Umezawa's Jitte", "Aether Vial", "Nezumi Shortfang"],
+    "summary": {
+      "fr": "Aggro noir, parfois à touche verte, qui attaque la main adverse avec des Rats et prend l'avantage avec Umezawa's Jitte.",
+      "en": "Black aggro, sometimes splashing green, that attacks the opponent's hand with Rats and takes over with Umezawa's Jitte."
+    },
+    "why": {
+      "fr": ["Ravenous Rats et Chittering Rats freinaient les decks lents", "Umezawa's Jitte dominait les combats de créatures", "Aether Vial mettait les créatures en jeu sans être contrées"],
+      "en": ["Ravenous Rats and Chittering Rats slowed down big decks", "Umezawa's Jitte dominated creature combat", "Aether Vial put creatures into play uncounterably"]
+    },
+    "note": "Viridian Shaman splash (Viridian Rats) and mono-black versions merged."
+  },
+  {
+    "name": "Jushi Blue",
+    "slug": "jushi-blue",
+    "archetype": "control",
+    "titles": ["Jushi Blue"],
+    "cover": "Jushi Apprentice",
+    "keyCards": ["Jushi Apprentice", "Vedalken Shackles", "Hinder", "Spire Golem", "Stalking Stones"],
+    "summary": {
+      "fr": "Contrôle mono-bleu sans terrains d'Urza qui vole les créatures avec Vedalken Shackles et pioche avec Jushi Apprentice.",
+      "en": "Mono-blue control without Urza lands that steals creatures with Vedalken Shackles and draws with Jushi Apprentice."
+    },
+    "why": {
+      "fr": ["Vedalken Shackles profitait d'un grand nombre d'Island", "Hinder, Mana Leak et Rewind contraient les sorts clés", "Stalking Stones et Spire Golem donnaient des menaces résistantes"],
+      "en": ["Vedalken Shackles benefited from a high Island count", "Hinder, Mana Leak and Rewind countered key spells", "Stalking Stones and Spire Golem gave resilient threats"]
+    }
+  },
+  {
+    "name": "BG Death Cloud",
+    "slug": "bg-death-cloud",
+    "archetype": "ramp",
+    "titles": ["B/g Death Cloud", "Death Cloud"],
+    "cover": "Death Cloud",
+    "keyCards": ["Death Cloud", "Kokusho, the Evening Star", "Plow Under", "Eternal Witness", "Sakura-Tribe Elder"],
+    "summary": {
+      "fr": "Ramp vert-noir qui accélère avec Sakura-Tribe Elder et Kodama's Reach, puis joue Death Cloud et Kokusho.",
+      "en": "Green-black ramp that accelerates with Sakura-Tribe Elder and Kodama's Reach, then plays Death Cloud and Kokusho."
+    },
+    "why": {
+      "fr": ["L'avance en terrains rendait Death Cloud asymétrique", "Plow Under et Eternal Witness ralentissaient l'adversaire", "Kokusho drainait des points de vie en mourant"],
+      "en": ["Extra lands made Death Cloud one-sided", "Plow Under and Eternal Witness slowed opponents", "Kokusho drained life when it died"]
+    }
+  },
+  {
+    "name": "Mono-Green Aggro",
+    "slug": "mono-green-aggro",
+    "archetype": "aggro",
+    "titles": ["Mono Green Aggro"],
+    "cover": "Troll Ascetic",
+    "keyCards": ["Troll Ascetic", "Blanchwood Armor", "Eternal Witness", "Viridian Shaman", "Beacon of Creation"],
+    "summary": {
+      "fr": "Aggro mono-vert qui renforce des créatures comme Troll Ascetic avec Blanchwood Armor et Might of Oaks.",
+      "en": "Mono-green aggro that pumps creatures such as Troll Ascetic with Blanchwood Armor and Might of Oaks."
+    },
+    "why": {
+      "fr": ["Troll Ascetic résistait au retrait ciblé", "Blanchwood Armor grandissait avec les Forest", "Viridian Shaman retirait les artefacts adverses"],
+      "en": ["Troll Ascetic resisted targeted removal", "Blanchwood Armor grew with the Forest count", "Viridian Shaman removed opposing artifacts"]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": ["White Weenie"],
+    "cover": "Isamaru, Hound of Konda",
+    "keyCards": ["Isamaru, Hound of Konda", "Glorious Anthem", "Hokori, Dust Drinker", "Leonin Skyhunter", "Raise the Alarm"],
+    "summary": {
+      "fr": "Aggro mono-blanc de petites créatures renforcées par Glorious Anthem, avec Hokori et Damping Matrix contre les decks lents.",
+      "en": "Mono-white aggro of small creatures pumped by Glorious Anthem, with Hokori and Damping Matrix against slower decks."
+    },
+    "why": {
+      "fr": ["Les créatures à un mana mettaient une pression immédiate", "Hokori, Dust Drinker gênait les decks à terrains d'Urza", "Damping Matrix bloquait les artefacts activés"],
+      "en": ["One-drop creatures applied immediate pressure", "Hokori, Dust Drinker hindered Urza-land decks", "Damping Matrix shut down activated artifacts"]
+    }
+  },
+  {
+    "name": "Sea Stompy",
+    "slug": "sea-stompy",
+    "archetype": "tempo",
+    "titles": ["Sea Stompy"],
+    "cover": "Erayo, Soratami Ascendant",
+    "keyCards": ["Erayo, Soratami Ascendant", "Thieving Magpie", "Spire Golem", "Umezawa's Jitte", "Chrome Mox"],
+    "summary": {
+      "fr": "Tempo mono-bleu qui pose vite des créatures volantes à bas coût et les protège avec Boomerang et des contresorts.",
+      "en": "Mono-blue tempo that deploys cheap flying creatures quickly and protects them with Boomerang and counterspells."
+    },
+    "why": {
+      "fr": ["Chrome Mox et Spire Golem, souvent gratuit, aidaient à retourner Erayo", "Thieving Magpie et Umezawa's Jitte créaient de l'avantage", "Boomerang ralentissait les decks à terrains d'Urza"],
+      "en": ["Chrome Mox and an often-free Spire Golem helped flip Erayo", "Thieving Magpie and Umezawa's Jitte generated advantage", "Boomerang slowed Urza-land decks"]
+    }
+  }
+]
