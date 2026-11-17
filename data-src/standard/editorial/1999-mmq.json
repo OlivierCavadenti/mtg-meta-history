@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Accelerated Blue",
+    "slug": "accelerated-blue",
+    "archetype": "control",
+    "titles": ["Accelerated Blue", "Mono Blue Control"],
+    "cover": "Morphling",
+    "keyCards": ["Grim Monolith", "Morphling", "Masticore", "Treachery", "Rewind"],
+    "summary": {
+      "fr": "Contrôle mono-bleu qui utilise Grim Monolith pour lancer Morphling, Masticore et ses contresorts en avance, avec Treachery et des sorts gratuits.",
+      "en": "Mono-blue control using Grim Monolith to cast Morphling, Masticore and counters ahead of schedule, backed by Treachery and free spells."
+    },
+    "why": {
+      "fr": ["Grim Monolith posait les menaces plusieurs tours en avance", "Daze, Treachery et Rewind laissaient du mana pour d'autres sorts"],
+      "en": ["Grim Monolith put threats down several turns early", "Daze, Treachery and Rewind left mana free for other plays"]
+    }
+  },
+  {
+    "name": "Replenish",
+    "slug": "replenish",
+    "archetype": "combo",
+    "titles": ["Replenish", "UW Replenish"],
+    "cover": "Parallax Wave",
+    "keyCards": ["Replenish", "Opalescence", "Parallax Wave", "Attunement", "Frantic Search"],
+    "summary": {
+      "fr": "Combo d'enchantements blanc-bleu qui défausse avec Attunement et Frantic Search, puis ramène tout avec Replenish ; Opalescence anime alors les enchantements.",
+      "en": "White-blue enchantment combo that discards with Attunement and Frantic Search, then returns everything with Replenish while Opalescence animates the enchantments."
+    },
+    "why": {
+      "fr": ["Opalescence transformait les enchantements revenus en armée", "Enlightened Tutor trouvait les enchantements manquants"],
+      "en": ["Opalescence turned the returned enchantments into an army", "Enlightened Tutor found missing enchantments"]
+    }
+  },
+  {
+    "name": "Magpie",
+    "slug": "magpie",
+    "archetype": "control",
+    "titles": ["Magpie"],
+    "rep": 253180,
+    "cover": "Thieving Magpie",
+    "keyCards": ["Thieving Magpie", "Powder Keg", "Morphling", "Masticore", "Daze"],
+    "summary": {
+      "fr": "Contrôle mono-bleu avec contresorts gratuits et Powder Keg, qui pioche avec Thieving Magpie et conclut avec Morphling ou Masticore.",
+      "en": "Mono-blue control with free counterspells and Powder Keg, drawing cards with Thieving Magpie and finishing with Morphling or Masticore."
+    },
+    "why": {
+      "fr": ["Powder Keg nettoyait les petites créatures et les artefacts", "Thieving Magpie piochait une carte à chaque attaque réussie"],
+      "en": ["Powder Keg cleared small creatures and artifacts", "Thieving Magpie drew a card each time it connected"]
+    },
+    "note": "Rep = Worlds 2000 top 8 list."
+  },
+  {
+    "name": "Rebels",
+    "slug": "rebels",
+    "archetype": "aggro",
+    "titles": ["Rebels"],
+    "cover": "Lin Sivvi, Defiant Hero",
+    "keyCards": ["Ramosian Sergeant", "Lin Sivvi, Defiant Hero", "Steadfast Guard", "Mother of Runes", "Masticore"],
+    "summary": {
+      "fr": "Mono-blanc rebelles qui va chercher ses créatures dans la bibliothèque avec Ramosian Sergeant et Lin Sivvi, et construit sa table tour après tour.",
+      "en": "Mono-white rebels deck that searches its library for creatures with Ramosian Sergeant and Lin Sivvi, building a board turn after turn."
+    },
+    "why": {
+      "fr": ["Chaque capacité de recherche créait de l'avantage de cartes en partie longue", "Mother of Runes et Masticore aidaient à contrôler les combats"],
+      "en": ["Each rebel search created card advantage in long games", "Mother of Runes and Masticore helped control combat"]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": ["White Weenie", "Weenie White"],
+    "cover": "Crusade",
+    "keyCards": ["Crusade", "Armageddon", "Ramosian Sergeant", "Mother of Runes", "Fresh Volunteers"],
+    "summary": {
+      "fr": "Mono-blanc aggro avec Crusade et Glorious Anthem, qui lance Armageddon après une pression précoce et cherche des attaquants avec Ramosian Sergeant.",
+      "en": "Mono-white aggro with Crusade and Glorious Anthem, casting Armageddon after early pressure and finding attackers with Ramosian Sergeant."
+    },
+    "why": {
+      "fr": ["Armageddon sur une table installée laissait l'adversaire sans réponse", "Rishadan Port ralentissait le développement adverse"],
+      "en": ["Armageddon on an established board left opponents without answers", "Rishadan Port slowed the opponent's development"]
+    }
+  },
+  {
+    "name": "Trinity Green",
+    "slug": "trinity-green",
+    "archetype": "ramp",
+    "titles": ["Trinity Green", "Trinity"],
+    "rep": 253181,
+    "cover": "Rofellos, Llanowar Emissary",
+    "keyCards": ["Rofellos, Llanowar Emissary", "Priest of Titania", "Deranged Hermit", "Plow Under", "Masticore"],
+    "summary": {
+      "fr": "Ramp vert qui produit beaucoup de mana avec Rofellos et Priest of Titania, ralentit l'adversaire avec Plow Under et Tangle Wire, puis conclut avec Masticore et Deranged Hermit.",
+      "en": "Green ramp producing large amounts of mana with Rofellos and Priest of Titania, slowing opponents with Plow Under and Tangle Wire before Masticore and Deranged Hermit."
+    },
+    "why": {
+      "fr": ["Les elfes et Gaea's Cradle lançaient Masticore et Hermit très tôt", "Plow Under faisait perdre deux pioches à l'adversaire"],
+      "en": ["Elves and Gaea's Cradle cast Masticore and Hermit early", "Plow Under cost the opponent two draws"]
+    },
+    "note": "Rep = Klauser, Worlds 2000 top 4. Some 'Trinity Green' lists are R/g with Blastoderm; kept together under the period name."
+  },
+  {
+    "name": "Angry Hermit",
+    "slug": "angry-hermit",
+    "archetype": "midrange",
+    "titles": ["Angry Hermit", "Rg Aggro", "Ice Age.dec", "Angry Non-Hermit"],
+    "cover": "Deranged Hermit",
+    "keyCards": ["Deranged Hermit", "Arc Lightning", "Plow Under", "Avalanche Riders", "Masticore"],
+    "summary": {
+      "fr": "Ramp rouge-vert qui combine Deranged Hermit et ses écureuils avec Arc Lightning, Avalanche Riders et Plow Under.",
+      "en": "Red-green ramp combining Deranged Hermit and its squirrels with Arc Lightning, Avalanche Riders and Plow Under."
+    },
+    "why": {
+      "fr": ["Arc Lightning gérait plusieurs petites créatures à la fois", "Plow Under et Avalanche Riders privaient l'adversaire de mana et de pioches"],
+      "en": ["Arc Lightning handled several small creatures at once", "Plow Under and Avalanche Riders denied the opponent mana and draws"]
+    },
+    "note": "'Ice Age.dec' and 'Angry Non-Hermit' are the same R/G Plow Under + Arc Lightning shell with Blastoderm instead of Hermit."
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "midrange",
+    "titles": ["Ponza"],
+    "cover": "Stone Rain",
+    "keyCards": ["Stone Rain", "Pillage", "Avalanche Riders", "Earthquake", "Masticore"],
+    "summary": {
+      "fr": "Destruction de terrains mono-rouge avec Stone Rain, Pillage et Avalanche Riders, qui contrôle la table avec Earthquake et le burn avant que Masticore conclue.",
+      "en": "Mono-red land destruction with Stone Rain, Pillage and Avalanche Riders, controlling the board with Earthquake and burn before Masticore finishes."
+    },
+    "why": {
+      "fr": ["Rishadan Port et Dust Bowl ajoutaient du déni de mana", "Earthquake nettoyait les petites créatures"],
+      "en": ["Rishadan Port and Dust Bowl added further mana denial", "Earthquake cleared small creatures"]
+    }
+  },
+  {
+    "name": "Stompy",
+    "slug": "stompy",
+    "archetype": "aggro",
+    "titles": ["Stompy", "Mono-green Stompy"],
+    "cover": "Vine Dryad",
+    "keyCards": ["Rancor", "Vine Dryad", "River Boa", "Tangle Wire", "Wild Dogs"],
+    "summary": {
+      "fr": "Mono-vert aggro de créatures bon marché, Rancor et Tangle Wire, avec Vine Dryad pour des sorts gratuits.",
+      "en": "Mono-green aggro with cheap creatures, Rancor and Tangle Wire, using Vine Dryad for free plays."
+    },
+    "why": {
+      "fr": ["Tangle Wire ralentissait l'adversaire une fois Stompy déjà développé", "Vine Dryad se lançait gratuitement en exilant une carte verte"],
+      "en": ["Tangle Wire slowed opponents after Stompy had already developed", "Vine Dryad could be cast for free by exiling a green card"]
+    }
+  },
+  {
+    "name": "Tinker",
+    "slug": "tinker",
+    "archetype": "ramp",
+    "titles": ["Tinker", "MUD"],
+    "cover": "Tinker",
+    "keyCards": ["Tinker", "Phyrexian Processor", "Metalworker", "Masticore", "Tangle Wire"],
+    "summary": {
+      "fr": "Deck d'artefacts bleu qui accélère avec Grim Monolith, Thran Dynamo et Metalworker vers Phyrexian Processor et Masticore, Tinker allant chercher le bon artefact.",
+      "en": "Blue artifact deck accelerating with Grim Monolith, Thran Dynamo and Metalworker into Phyrexian Processor and Masticore, with Tinker fetching the right artifact."
+    },
+    "why": {
+      "fr": ["Metalworker produisait plusieurs manas en révélant des artefacts", "Phyrexian Processor créait de gros jetons supérieurs aux créatures vertes"],
+      "en": ["Metalworker produced several mana from revealed artifacts", "Phyrexian Processor made large tokens that outsized green creatures"]
+    }
+  },
+  {
+    "name": "Napster",
+    "slug": "napster",
+    "archetype": "control",
+    "titles": ["Napster"],
+    "cover": "Phyrexian Negator",
+    "keyCards": ["Duress", "Vampiric Tutor", "Yawgmoth's Will", "Phyrexian Negator", "Skittering Skirge"],
+    "summary": {
+      "fr": "Disruption mono-noire avec Duress et Unmask, des réponses ciblées trouvées par Vampiric Tutor et Yawgmoth's Will pour les rejouer.",
+      "en": "Mono-black disruption with Duress and Unmask, toolbox answers found with Vampiric Tutor, and Yawgmoth's Will to replay them."
+    },
+    "why": {
+      "fr": ["Massacre, Perish et Engineered Plague en un exemplaire visaient des matchups précis", "Rishadan Port et Dust Bowl ralentissaient le mana adverse"],
+      "en": ["Single Massacre, Perish and Engineered Plague targeted specific matchups", "Rishadan Port and Dust Bowl slowed the opponent's mana"]
+    }
+  },
+  {
+    "name": "Mercenaries",
+    "slug": "mercenaries",
+    "archetype": "midrange",
+    "titles": ["Mercenaries"],
+    "cover": "Cateran Persuader",
+    "keyCards": ["Cateran Persuader", "Cateran Brute", "Rathi Intimidator", "Phyrexian Negator", "Delraich"],
+    "summary": {
+      "fr": "Mono-noir de créatures qui utilise des mercenaires chercheurs comme Cateran Persuader pour trouver le bon mercenaire, soutenu par Duress et le removal noir.",
+      "en": "Mono-black creature deck using mercenary searchers like Cateran Persuader to find the right mercenary, backed by Duress and black removal."
+    },
+    "why": {
+      "fr": ["Les capacités de recherche transformaient une créature en la réponse adaptée", "Snuff Out et Vendetta retiraient les menaces à bas coût"],
+      "en": ["Mercenary searches turned one creature into the right answer", "Snuff Out and Vendetta removed threats cheaply"]
+    }
+  },
+  {
+    "name": "Wildfire",
+    "slug": "wildfire",
+    "archetype": "ramp",
+    "titles": ["Artifact Red"],
+    "cover": "Covetous Dragon",
+    "keyCards": ["Wildfire", "Covetous Dragon", "Grim Monolith", "Karn, Silver Golem", "Masticore"],
+    "summary": {
+      "fr": "Ramp rouge d'artefacts qui lance Wildfire grâce à Grim Monolith, Thran Dynamo et Fire Diamond, puis joue Covetous Dragon, Karn et Masticore.",
+      "en": "Red artifact ramp casting Wildfire off Grim Monolith, Thran Dynamo and Fire Diamond, then playing Covetous Dragon, Karn and Masticore."
+    },
+    "why": {
+      "fr": ["Le mana d'artefact n'était pas touché par la destruction de terrains de Wildfire", "Covetous Dragon survivait aux dégâts de son propre Wildfire"],
+      "en": ["Artifact mana was untouched by Wildfire's land destruction", "Covetous Dragon survived the damage from its own Wildfire"]
+    },
+    "note": "mtgtop8 title 'Artifact Red'."
+  },
+  {
+    "name": "Fecundity Combo",
+    "slug": "fecundity-combo",
+    "archetype": "combo",
+    "titles": ["Chimera"],
+    "cover": "Fecundity",
+    "keyCards": ["Fecundity", "Saproling Cluster", "Ashnod's Altar", "Academy Rector", "Priest of Titania"],
+    "summary": {
+      "fr": "Combo vert-blanc qui génère mana et cartes avec Fecundity, Saproling Cluster et Ashnod's Altar, Academy Rector allant chercher les enchantements clés.",
+      "en": "Green-white combo generating mana and cards with Fecundity, Saproling Cluster and Ashnod's Altar, with Academy Rector fetching key enchantments."
+    },
+    "why": {
+      "fr": ["Academy Rector trouvait Fecundity ou Yawgmoth's Bargain en mourant", "Les elfes et Priest of Titania accéléraient la mise en place"],
+      "en": ["Academy Rector found Fecundity or Yawgmoth's Bargain when it died", "Elves and Priest of Titania sped up the setup"]
+    },
+    "note": "mtgtop8 title 'Chimera' (Labarre, Worlds 2000); renamed after its engine."
+  },
+  {
+    "name": "Sneak Attack",
+    "slug": "sneak-attack",
+    "archetype": "combo",
+    "titles": ["Sneak Attack"],
+    "cover": "Sneak Attack",
+    "keyCards": ["Sneak Attack", "Academy Rector", "Serra Avatar", "Crater Hellion", "Shivan Phoenix"],
+    "summary": {
+      "fr": "Deck rouge-blanc qui met en jeu de grosses créatures avec Sneak Attack pour une attaque immédiate, Academy Rector pouvant chercher l'enchantement.",
+      "en": "Red-white deck putting large creatures into play with Sneak Attack for an immediate attack, with Academy Rector able to fetch the enchantment."
+    },
+    "why": {
+      "fr": ["Sneak Attack faisait attaquer Serra Avatar ou Crater Hellion sans payer leur coût", "Grim Monolith aidait aussi à les lancer normalement"],
+      "en": ["Sneak Attack let Serra Avatar or Crater Hellion attack without paying their cost", "Grim Monolith also helped cast them normally"]
+    }
+  },
+  {
+    "name": "UG Opposition",
+    "slug": "ug-opposition",
+    "archetype": "control",
+    "titles": ["Squirrel Opposition"],
+    "cover": "Opposition",
+    "keyCards": ["Opposition", "Deranged Hermit", "Yavimaya Granger", "Rising Waters", "Treachery"],
+    "summary": {
+      "fr": "Contrôle bleu-vert qui engage les permanents adverses avec Opposition, en s'appuyant sur les écureuils de Deranged Hermit et ses autres créatures.",
+      "en": "Blue-green control tapping down the opponent's permanents with Opposition, fuelled by squirrels from Deranged Hermit and other creatures."
+    },
+    "why": {
+      "fr": ["Chaque créature engageait un terrain ou un bloqueur via Opposition", "Rising Waters et Treachery limitaient le mana adverse"],
+      "en": ["Each creature could tap a land or blocker through Opposition", "Rising Waters and Treachery limited the opponent's mana"]
+    }
+  },
+  {
+    "name": "Bargain",
+    "slug": "bargain",
+    "archetype": "combo",
+    "titles": ["Bargain", "Sabre Bargain"],
+    "cover": "Academy Rector",
+    "keyCards": ["Yawgmoth's Bargain", "Academy Rector", "Soul Feast", "Skirge Familiar", "Phyrexian Tower"],
+    "summary": {
+      "fr": "Combo blanc-noir qui pose Yawgmoth's Bargain, souvent via Academy Rector, pioche son deck puis draine l'adversaire avec Soul Feast.",
+      "en": "White-black combo that puts Yawgmoth's Bargain into play, often via Academy Rector, draws through the deck and drains the opponent with Soul Feast."
+    },
+    "why": {
+      "fr": ["Academy Rector sacrifié à Phyrexian Tower allait chercher Bargain", "Skirge Familiar transformait les cartes piochées en mana"],
+      "en": ["Academy Rector sacrificed to Phyrexian Tower fetched Bargain", "Skirge Familiar turned the cards drawn into mana"]
+    }
+  }
+]

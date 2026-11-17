@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Temur Energy",
+    "slug": "temur-energy",
+    "archetype": "midrange",
+    "titles": ["Temur Energy", "Teur Energy", "4c Energy", "4 Colors Energy"],
+    "rep": 305889,
+    "cover": "Rogue Refiner",
+    "keyCards": ["Rogue Refiner", "Longtusk Cub", "Glorybringer", "Whirler Virtuoso", "Attune with Aether"],
+    "summary": {
+      "fr": "Midrange vert-rouge à l'énergie avec touche bleue, hérité de la saison précédente : Attune with Aether et Rogue Refiner alimentent Longtusk Cub, Whirler Virtuoso et Glorybringer.",
+      "en": "Green-red energy midrange splashing blue, carried over from the previous season: Attune with Aether and Rogue Refiner feed Longtusk Cub, Whirler Virtuoso and Glorybringer."
+    },
+    "why": {
+      "fr": ["N'a presque rien perdu à la rotation d'Ixalan", "Victoire au Championnat du monde en début de saison", "Attune with Aether et Rogue Refiner ont été bannis en janvier"],
+      "en": ["Lost almost nothing at the Ixalan rotation", "Won the World Championship early in the season", "Attune with Aether and Rogue Refiner were banned in January"]
+    },
+    "note": "4c Energy (Temur splashing The Scarab God) merged; titles are used interchangeably. Rep = Worlds 2017 winning list (pure Temur) instead of the WMC 4c list."
+  },
+  {
+    "name": "Ramunap Red",
+    "slug": "ramunap-red",
+    "archetype": "aggro",
+    "titles": ["Ramunap Red", "Desert Red"],
+    "rep": 308464,
+    "cover": "Rampaging Ferocidon",
+    "keyCards": ["Ramunap Ruins", "Rampaging Ferocidon", "Hazoret the Fervent", "Soul-Scar Mage", "Earthshaker Khenra"],
+    "summary": {
+      "fr": "Aggro mono-rouge hérité du Standard Hour of Devastation, renforcé par Rampaging Ferocidon d'Ixalan, avec Ramunap Ruins et Hazoret pour la portée.",
+      "en": "Mono-red aggro carried over from Hour of Devastation Standard, adding Rampaging Ferocidon from Ixalan, with Ramunap Ruins and Hazoret for reach."
+    },
+    "why": {
+      "fr": ["Rampaging Ferocidon empêchait le gain de vie et punissait les jetons", "Ramunap Ruins apportait de la portée depuis un slot de terrain", "Ramunap Ruins et Rampaging Ferocidon ont été bannis en janvier"],
+      "en": ["Rampaging Ferocidon stopped lifegain and punished token strategies", "Ramunap Ruins gave reach from the land slot", "Ramunap Ruins and Rampaging Ferocidon were banned in January"]
+    },
+    "note": "Many pre-ban Ramunap lists sit under the 'Red Deck Wins' title, which is assigned to Mono-Red Aggro (title spans the whole season)."
+  },
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": ["Red Deck Wins", "Mono Red", "RedDeck Wins", "Monored Flame Of Keld", "Monored Keld", "Mono Red Aggro"],
+    "cover": "Hazoret the Fervent",
+    "keyCards": ["Goblin Chainwhirler", "Rekindling Phoenix", "Hazoret the Fervent", "Earthshaker Khenra", "Soul-Scar Mage"],
+    "summary": {
+      "fr": "Aggro mono-rouge reconstruit après le bannissement de Ramunap Ruins : Goblin Chainwhirler, Rekindling Phoenix et Hazoret par-dessus des créatures bon marché et du burn.",
+      "en": "Mono-red aggro rebuilt after the Ramunap Ruins ban: Goblin Chainwhirler, Rekindling Phoenix and Hazoret on top of cheap creatures and burn."
+    },
+    "why": {
+      "fr": ["Victoire au Pro Tour Dominaria", "Goblin Chainwhirler balayait créatures X/1 et jetons à son arrivée", "Rekindling Phoenix revenait après la plupart des removals"],
+      "en": ["Won Pro Tour Dominaria", "Goblin Chainwhirler swept X/1 creatures and tokens on arrival", "Rekindling Phoenix came back from most removal"]
+    },
+    "note": "'Red Deck Wins' title also covers pre-ban Ramunap lists (Oct-Dec 2017). Flame of Keld wizards-red builds merged."
+  },
+  {
+    "name": "Rakdos Aggro",
+    "slug": "rakdos-aggro",
+    "archetype": "aggro",
+    "titles": ["Rakdos Aggro", "Rb Aggro", "Br Aggro", "Rakdos", "Rb", "Kappa", "Brmidrange", "Br Midrange", "Rakdos Midrange", "Rakdos Agro", "Rakdos Deck Wins"],
+    "cover": "Goblin Chainwhirler",
+    "keyCards": ["Goblin Chainwhirler", "Scrapheap Scrounger", "Heart of Kiran", "Chandra, Torch of Defiance", "Glorybringer"],
+    "summary": {
+      "fr": "Aggro rouge à touche noire pour le removal et Scrapheap Scrounger : Goblin Chainwhirler, Heart of Kiran et des planeswalkers sur une courbe basse.",
+      "en": "Red aggro splashing black for removal and Scrapheap Scrounger: Goblin Chainwhirler, Heart of Kiran and planeswalkers on a low curve."
+    },
+    "why": {
+      "fr": ["Victoire au Championnat du monde en fin de saison", "Chandra et Karn pouvaient piloter Heart of Kiran avec leur loyauté", "La touche noire ajoutait Doomfall et Cut/Ribbons pour l'interaction"],
+      "en": ["Won the World Championship at the end of the season", "Chandra and Karn could crew Heart of Kiran with loyalty", "The black splash added Doomfall and Cut/Ribbons for interaction"]
+    },
+    "note": "Dominaria/M19 BR deck; Rakdos Midrange titles merged. A handful of Oct 2017 rows predate Chainwhirler."
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": ["UW Control", "Uw Control"],
+    "cover": "Teferi, Hero of Dominaria",
+    "keyCards": ["Teferi, Hero of Dominaria", "Settle the Wreckage", "Seal Away", "Search for Azcanta", "Cast Out"],
+    "summary": {
+      "fr": "Contrôle blanc-bleu de l'époque Dominaria : contresorts, Seal Away et Settle the Wreckage, avec Teferi, Hero of Dominaria comme moteur et finisseur.",
+      "en": "White-blue control of the Dominaria era: counterspells, Seal Away and Settle the Wreckage, with Teferi, Hero of Dominaria as engine and finisher."
+    },
+    "why": {
+      "fr": ["Teferi piochait, dégageait des terrains pour contrer et renvoyait des permanents", "Settle the Wreckage punissait les attaques massives des decks aggro", "Devenu le principal deck de contrôle après Dominaria"],
+      "en": ["Teferi drew cards, untapped lands for countermagic and tucked permanents", "Settle the Wreckage punished all-in attacks from aggro decks", "Became the main control deck after Dominaria"]
+    }
+  },
+  {
+    "name": "Esper Control",
+    "slug": "esper-control",
+    "archetype": "control",
+    "titles": ["Esper Control"],
+    "cover": "Vraska's Contempt",
+    "keyCards": ["Teferi, Hero of Dominaria", "Vraska's Contempt", "Torrential Gearhulk", "Fatal Push", "Disallow"],
+    "summary": {
+      "fr": "Contrôle bleu-noir avec touche blanche pour Teferi, Hero of Dominaria : removal noir bon marché, contresorts et Torrential Gearhulk.",
+      "en": "Blue-black control splashing white for Teferi, Hero of Dominaria: cheap black removal, counterspells and Torrential Gearhulk."
+    },
+    "why": {
+      "fr": ["Fatal Push et Cast Down offraient des réponses peu chères en éphémère contre l'aggro", "Vraska's Contempt exilait Hazoret, Rekindling Phoenix et les planeswalkers"],
+      "en": ["Fatal Push and Cast Down gave cheap instant-speed answers to aggro", "Vraska's Contempt exiled Hazoret, Rekindling Phoenix and planeswalkers"]
+    }
+  },
+  {
+    "name": "UB Control",
+    "slug": "ub-control",
+    "archetype": "control",
+    "titles": ["UB Control", "Ub Control", "U/b Control", "BU Control", "Dimir Control"],
+    "cover": "Torrential Gearhulk",
+    "keyCards": ["The Scarab God", "Torrential Gearhulk", "Search for Azcanta", "Vraska's Contempt", "Censor"],
+    "summary": {
+      "fr": "Contrôle bleu-noir fondé sur les contresorts, Fatal Push et Vraska's Contempt, avec The Scarab God et Torrential Gearhulk comme menaces.",
+      "en": "Blue-black control built on counterspells, Fatal Push and Vraska's Contempt, with The Scarab God and Torrential Gearhulk as threats."
+    },
+    "why": {
+      "fr": ["Victoire aux Nationals américains en début de saison", "Vraska's Contempt répondait à toute créature ou planeswalker en éphémère", "Search for Azcanta filtrait la pioche puis devenait un terrain"],
+      "en": ["Won US Nationals early in the season", "Vraska's Contempt answered any creature or planeswalker at instant speed", "Search for Azcanta smoothed draws, then turned into a land"]
+    }
+  },
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": ["Dimir Midrange", "UB Midrange", "Ub Midrange", "Esper Midrange"],
+    "cover": "The Scarab God",
+    "keyCards": ["The Scarab God", "Champion of Wits", "Glint-Sleeve Siphoner", "Vraska's Contempt", "Dusk Legion Zealot"],
+    "summary": {
+      "fr": "Midrange bleu-noir avec des créatures bon marché qui piochent, du removal noir et The Scarab God en haut de courbe.",
+      "en": "Blue-black midrange with cheap card-drawing creatures, black removal and The Scarab God at the top of the curve."
+    },
+    "why": {
+      "fr": ["The Scarab God prenait le contrôle des parties longues et était difficile à gérer", "Victoire en Grand Prix par équipes après les bannissements de janvier"],
+      "en": ["The Scarab God took over long games and was hard to answer for good", "Won a team Grand Prix after the January bans"]
+    }
+  },
+  {
+    "name": "Grixis Energy",
+    "slug": "grixis-energy",
+    "archetype": "midrange",
+    "titles": ["Grixis Control", "Grixis Energy", "Grixis Midrange", "Grixis Aggro", "Negative Experience", "Ub"],
+    "cover": "Whirler Virtuoso",
+    "keyCards": ["The Scarab God", "Whirler Virtuoso", "Glint-Sleeve Siphoner", "Harnessed Lightning", "Vraska's Contempt"],
+    "summary": {
+      "fr": "Midrange énergie bleu-noir-rouge après les bannissements de janvier : Harnessed Lightning, Whirler Virtuoso et Glint-Sleeve Siphoner, avec The Scarab God au sommet.",
+      "en": "Blue-black-red energy midrange after the January bans: Harnessed Lightning, Whirler Virtuoso and Glint-Sleeve Siphoner, topped by The Scarab God."
+    },
+    "why": {
+      "fr": ["A conservé le paquet énergie épargné par les bannissements", "Combinait removal rouge et noir pour gérer la plupart des menaces", "Victoire au Grand Prix par équipes de Madrid"],
+      "en": ["Kept the energy package that survived the bans", "Combined red and black removal to handle most threats", "Won the team Grand Prix in Madrid"]
+    },
+    "note": "Grixis Control / Midrange / Energy titles are the same Scarab God + energy shell; M19 Bolas builds (Grixis Aggro, Negative Experience, 'Ub') merged."
+  },
+  {
+    "name": "Sultai Energy",
+    "slug": "sultai-energy",
+    "archetype": "midrange",
+    "titles": ["Sultai Constrictor", "Sultai Energy", "Sultai Energy Constrictor", "Sutai Energy", "Bug Energy", "Sultai", "Sultai Aggro", "Bg Energy Constrictor"],
+    "cover": "Hostage Taker",
+    "keyCards": ["Winding Constrictor", "Rogue Refiner", "Longtusk Cub", "Hostage Taker", "Walking Ballista"],
+    "summary": {
+      "fr": "Énergie et marqueurs +1/+1 vert-noir avec touche bleue pour Hostage Taker : Winding Constrictor amplifie Longtusk Cub, Walking Ballista et l'énergie de Rogue Refiner.",
+      "en": "Green-black energy and +1/+1 counters splashing blue for Hostage Taker: Winding Constrictor boosts Longtusk Cub, Walking Ballista and Rogue Refiner's energy."
+    },
+    "why": {
+      "fr": ["Victoire au Pro Tour Ixalan", "Winding Constrictor ajoutait à la fois des marqueurs et de l'énergie supplémentaires", "Hostage Taker volait les créatures et véhicules adverses"],
+      "en": ["Won Pro Tour Ixalan", "Winding Constrictor added extra counters and extra energy at once", "Hostage Taker stole opposing creatures and vehicles"]
+    },
+    "note": "'Sultai Aggro' (Jan 2018, post-ban Constrictor without Refiner) kept here rather than in Golgari Constrictor."
+  },
+  {
+    "name": "Golgari Constrictor",
+    "slug": "golgari-constrictor",
+    "archetype": "midrange",
+    "titles": ["Golgari Constrictor", "Bg Constrictor", "Sultai Midrange"],
+    "cover": "Jadelight Ranger",
+    "keyCards": ["Winding Constrictor", "Jadelight Ranger", "Walking Ballista", "Llanowar Elves", "Ravenous Chupacabra"],
+    "summary": {
+      "fr": "Midrange noir-vert à marqueurs après les bannissements : Winding Constrictor et Walking Ballista, avec Jadelight Ranger, Llanowar Elves et Ravenous Chupacabra.",
+      "en": "Black-green counters midrange after the bans: Winding Constrictor and Walking Ballista with Jadelight Ranger, Llanowar Elves and Ravenous Chupacabra."
+    },
+    "why": {
+      "fr": ["Jadelight Ranger et Chupacabra apportaient filtrage et removal sur des créatures", "Llanowar Elves, réimprimé dans Dominaria, accélérait la courbe"],
+      "en": ["Jadelight Ranger and Chupacabra put card selection and removal on bodies", "Llanowar Elves, reprinted in Dominaria, sped up the curve"]
+    },
+    "note": "Two Oct 2017 rows under this title are pre-ban energy lists."
+  },
+  {
+    "name": "Mardu Vehicles",
+    "slug": "mardu-vehicles",
+    "archetype": "aggro",
+    "titles": ["Mardu Vehicle", "Mardu Vehicles", "Mardu Aggro"],
+    "cover": "Heart of Kiran",
+    "keyCards": ["Heart of Kiran", "Toolcraft Exemplar", "Scrapheap Scrounger", "Hazoret the Fervent", "Unlicensed Disintegration"],
+    "summary": {
+      "fr": "Le deck véhicules hérité du Standard Kaladesh, désormais avec Hazoret et Bomat Courier aux côtés de Heart of Kiran et Unlicensed Disintegration.",
+      "en": "The vehicles deck carried over from Kaladesh Standard, now with Hazoret and Bomat Courier alongside Heart of Kiran and Unlicensed Disintegration."
+    },
+    "why": {
+      "fr": ["A gardé son cœur Kaladesh après la rotation d'Ixalan", "A progressé après les bannissements de janvier qui affaiblissaient Temur Energy"],
+      "en": ["Kept its Kaladesh core after the Ixalan rotation", "Gained ground after the January bans weakened Temur Energy"]
+    }
+  },
+  {
+    "name": "Green Stompy",
+    "slug": "green-stompy",
+    "archetype": "aggro",
+    "titles": ["Mono Green Aggro", "Bg Stompy", "Gb Stompy", "Stompy"],
+    "cover": "Steel Leaf Champion",
+    "keyCards": ["Steel Leaf Champion", "Ghalta, Primal Hunger", "Llanowar Elves", "Rhonas the Indomitable", "Thorn Lieutenant"],
+    "summary": {
+      "fr": "Aggro créatures vert de l'époque Dominaria : Llanowar Elves puis Steel Leaf Champion, avec Ghalta et Rhonas pour un board rapide et imposant.",
+      "en": "Green creature aggro from the Dominaria era: Llanowar Elves into Steel Leaf Champion, with Ghalta and Rhonas for a fast, large board."
+    },
+    "why": {
+      "fr": ["Steel Leaf Champion ne pouvait pas être bloqué par les petites créatures du format", "Ses grosses créatures résistaient au burn des decks rouges"],
+      "en": ["Steel Leaf Champion could not be blocked by the format's small creatures", "Its large creatures held up against red decks' burn"]
+    },
+    "note": "Mono-green and GB builds merged."
+  },
+  {
+    "name": "UW God-Pharaoh's Gift",
+    "slug": "god-pharaohs-gift",
+    "archetype": "combo",
+    "titles": ["God-Pharaoh's Gift", "God-Pharaoh's Gift Control", "UW God-Pharaoh's Gift", "Uw Gift", "Uw Gpg", "WU God-Pharaoh's Gift", "God-pharaoh's Gift Control", "UW God-Pharaoh", "Ub Gpg", "UB God Pharaoh's Gifts", "Esper God-Pharaoh's Gift", "Dimir God-Pharaoh's Gift"],
+    "cover": "God-Pharaoh's Gift",
+    "keyCards": ["God-Pharaoh's Gift", "Refurbish", "Angel of Invention", "Minister of Inquiries", "Strategic Planning"],
+    "summary": {
+      "fr": "Deck cimetière blanc-bleu qui remplit son cimetière avec Minister of Inquiries et Strategic Planning, puis met God-Pharaoh's Gift en jeu avec Refurbish.",
+      "en": "White-blue graveyard deck that mills itself with Minister of Inquiries and Strategic Planning, then puts God-Pharaoh's Gift into play with Refurbish."
+    },
+    "why": {
+      "fr": ["Refurbish mettait le Gift en jeu depuis le cimetière pour peu de mana", "Angel of Invention et les autres créatures revenaient en copies avec célérité", "Finaliste du Pro Tour Ixalan"],
+      "en": ["Refurbish put the Gift into play from the graveyard for little mana", "Angel of Invention and other creatures came back as hasty copies", "Reached the final of Pro Tour Ixalan"]
+    },
+    "note": "Esper/UB Gate to the Afterlife builds (few results) merged; UR Gift kept separate."
+  },
+  {
+    "name": "UR Gift",
+    "slug": "ur-gift",
+    "archetype": "aggro",
+    "titles": ["Ur Gift"],
+    "cover": "Warkite Marauder",
+    "keyCards": ["Gate to the Afterlife", "God-Pharaoh's Gift", "Warkite Marauder", "Combat Celebrant", "Champion of Wits"],
+    "summary": {
+      "fr": "Aggro créatures bleu-rouge qui peut aussi aller chercher God-Pharaoh's Gift avec Gate to the Afterlife, ramenant des créatures avec célérité comme Combat Celebrant.",
+      "en": "Blue-red creature aggro that can also fetch God-Pharaoh's Gift with Gate to the Afterlife, returning hasty creatures such as Combat Celebrant."
+    },
+    "why": {
+      "fr": ["Jouait comme un deck aggro classique quand le plan Gift était perturbé", "Les copies de Combat Celebrant offraient des phases de combat supplémentaires"],
+      "en": ["Played as a fair aggro deck when the Gift plan was disrupted", "Combat Celebrant copies from the Gift gave extra combat steps"]
+    }
+  },
+  {
+    "name": "Orzhov Tokens",
+    "slug": "orzhov-tokens",
+    "archetype": "midrange",
+    "titles": ["Tokens", "Abzan Tokens", "Esper Tokens", "Estrattoken"],
+    "cover": "Anointed Procession",
+    "keyCards": ["Anointed Procession", "Hidden Stockpile", "Anointer Priest", "Legion's Landing", "Fumigate"],
+    "summary": {
+      "fr": "Deck jetons blanc-noir : Anointed Procession double les jetons de Hidden Stockpile et Legion's Landing, Anointer Priest faisant gagner de la vie.",
+      "en": "White-black token deck: Anointed Procession doubles the tokens from Hidden Stockpile and Legion's Landing, while Anointer Priest gains life."
+    },
+    "why": {
+      "fr": ["Anointed Procession doublait chaque source de jetons", "Le gain de vie et Fumigate tenaient les decks aggro à distance"],
+      "en": ["Anointed Procession doubled every token maker", "Lifegain and Fumigate held aggro decks at bay"]
+    },
+    "note": "WB base with Abzan/Esper splashes merged."
+  },
+  {
+    "name": "Selesnya Tokens",
+    "slug": "selesnya-tokens",
+    "archetype": "aggro",
+    "titles": ["WG Tokens"],
+    "cover": "Sram's Expertise",
+    "keyCards": ["Sram's Expertise", "Servo Exhibition", "Appeal/Authority", "Adorned Pouncer", "Legion's Landing"],
+    "summary": {
+      "fr": "Deck go-wide vert-blanc de l'époque Rivals of Ixalan : Servo Exhibition et Sram's Expertise créent des jetons, Appeal/Authority et Adorned Pouncer concluent.",
+      "en": "Green-white go-wide deck from the Rivals of Ixalan era: Servo Exhibition and Sram's Expertise make tokens, Appeal/Authority and Adorned Pouncer finish."
+    },
+    "why": {
+      "fr": ["Sram's Expertise remplissait le board et lançait un sort gratuit", "Appeal/Authority transformait un board large en attaque létale"],
+      "en": ["Sram's Expertise filled the board and cast a cheap spell for free", "Appeal/Authority turned a wide board into a lethal attack"]
+    },
+    "note": "Included only on a single MTGO PTQ win; thin data."
+  },
+  {
+    "name": "Orzhov Vehicles",
+    "slug": "orzhov-vehicles",
+    "archetype": "aggro",
+    "titles": ["Orzhov Vehicles", "Orzhov Aggro", "Orzhov"],
+    "cover": "History of Benalia",
+    "keyCards": ["History of Benalia", "Heart of Kiran", "Karn, Scion of Urza", "Knight of Malice", "Toolcraft Exemplar"],
+    "summary": {
+      "fr": "Aggro blanc-noir de l'époque Dominaria : History of Benalia, Knight of Malice et Toolcraft Exemplar avec Heart of Kiran, piloté aussi par Karn et Gideon.",
+      "en": "White-black aggro from the Dominaria era: History of Benalia, Knight of Malice and Toolcraft Exemplar with Heart of Kiran, also crewed by Karn and Gideon."
+    },
+    "why": {
+      "fr": ["History of Benalia fournissait des jetons Chevalier et un bonus d'attaque", "La défense talismanique contre le blanc de Knight of Malice esquivait Seal Away et Cast Out"],
+      "en": ["History of Benalia provided Knight tokens and a pump from a single card", "Knight of Malice's hexproof from white dodged Seal Away and Cast Out"]
+    }
+  },
+  {
+    "name": "Mono-Black Aggro",
+    "slug": "mono-black-aggro",
+    "archetype": "aggro",
+    "titles": ["Mono Black Aggro"],
+    "cover": "Bone Picker",
+    "keyCards": ["Bone Picker", "Night Market Lookout", "Glint-Sleeve Siphoner", "Dread Wanderer", "Yahenni, Undying Partisan"],
+    "summary": {
+      "fr": "Aggro mono-noir du début du Standard Ixalan : créatures bon marché et récursives, Glint-Sleeve Siphoner pour piocher et Bone Picker après les échanges.",
+      "en": "Mono-black aggro from early Ixalan Standard: cheap recursive creatures, Glint-Sleeve Siphoner for cards and Bone Picker after trades."
+    },
+    "why": {
+      "fr": ["Fatal Push et Walk the Plank dégageaient les bloqueurs à bas coût", "Glint-Sleeve Siphoner gardait la main pleine face au midrange"],
+      "en": ["Fatal Push and Walk the Plank cleared blockers cheaply", "Glint-Sleeve Siphoner kept the hand full against midrange"]
+    }
+  },
+  {
+    "name": "Approach Control",
+    "slug": "approach-control",
+    "archetype": "control",
+    "titles": ["Uw Approach", "Esper Approach", "Jeskai Approach", "Rw Approach", "Mono White Control"],
+    "cover": "Approach of the Second Sun",
+    "keyCards": ["Approach of the Second Sun", "Settle the Wreckage", "Censor", "Disallow", "Glimmer of Genius"],
+    "summary": {
+      "fr": "Contrôle à base blanc-bleu, parfois avec du noir ou du rouge, qui gagne en lançant deux fois Approach of the Second Sun derrière contresorts et Settle the Wreckage.",
+      "en": "White-blue based control, sometimes splashing black or red, that wins by casting Approach of the Second Sun twice behind counterspells and Settle the Wreckage."
+    },
+    "why": {
+      "fr": ["Settle the Wreckage punissait les attaques de Temur Energy", "Victoire au Grand Prix d'Atlanta dans sa version Esper"],
+      "en": ["Settle the Wreckage punished Temur Energy's attacks", "Won Grand Prix Atlanta in its Esper version"]
+    },
+    "note": "Pre-Dominaria control; Teferi-era UW Control is a separate entry."
+  },
+  {
+    "name": "Gruul Monsters",
+    "slug": "gruul-monsters",
+    "archetype": "midrange",
+    "titles": ["Gruul Aggro", "Rg Monsters", "Dinosaurs", "Naya Monsters"],
+    "cover": "Glorybringer",
+    "keyCards": ["Glorybringer", "Rekindling Phoenix", "Jadelight Ranger", "Merfolk Branchwalker", "Earthshaker Khenra"],
+    "summary": {
+      "fr": "Midrange vert-rouge de l'époque Rivals of Ixalan : créatures à exploration, Earthshaker Khenra et un haut de courbe Glorybringer et Rekindling Phoenix.",
+      "en": "Red-green midrange from the Rivals of Ixalan era: explore creatures, Earthshaker Khenra and a top end of Glorybringer and Rekindling Phoenix."
+    },
+    "why": {
+      "fr": ["Victoire au Grand Prix de Memphis", "Glorybringer et Rekindling Phoenix étaient difficiles à gérer avec une seule carte"],
+      "en": ["Won Grand Prix Memphis", "Glorybringer and Rekindling Phoenix were hard to answer with a single card"]
+    },
+    "note": "Dinosaurs (Commune with Dinosaurs, MOCS win) merged as the same RG creature midrange."
+  },
+  {
+    "name": "Turbo Fog",
+    "slug": "turbo-fog",
+    "archetype": "control",
+    "titles": ["Fog", "Turbo Fog", "Bant Nexus"],
+    "rep": 327938,
+    "cover": "Nexus of Fate",
+    "keyCards": ["Nexus of Fate", "Teferi, Hero of Dominaria", "Haze of Pollen", "Root Snare", "Gift of Paradise"],
+    "summary": {
+      "fr": "Contrôle vert-bleu qui temporise avec des Fogs et enchaîne les tours supplémentaires avec Nexus of Fate, qui retourne dans la bibliothèque.",
+      "en": "Green-blue control that stalls with Fog effects and takes repeated extra turns with Nexus of Fate, which shuffles back into the library."
+    },
+    "why": {
+      "fr": ["Nexus of Fate retournait dans la bibliothèque et pouvait être repioché", "Teferi dégageait des terrains pour lancer des Fogs pendant le tour adverse"],
+      "en": ["Nexus of Fate went back into the library and could be drawn again", "Teferi untapped lands to cast Fogs on the opponent's turn"]
+    },
+    "note": "Rep = GP Brussels top-4 list instead of the Brazil Nationals Bant build."
+  },
+  {
+    "name": "Selesnya Midrange",
+    "slug": "selesnya-midrange",
+    "archetype": "midrange",
+    "titles": ["Selesnya Aggro", "Bant Aggro"],
+    "cover": "Lyra Dawnbringer",
+    "keyCards": ["Lyra Dawnbringer", "Shanna, Sisay's Legacy", "Karn, Scion of Urza", "Llanowar Elves", "Walking Ballista"],
+    "summary": {
+      "fr": "Midrange créatures vert-blanc de l'époque Dominaria : Llanowar Elves accélère vers Shanna, Karn et Lyra Dawnbringer.",
+      "en": "Green-white creature midrange from the Dominaria era: Llanowar Elves ramps into Shanna, Karn and Lyra Dawnbringer."
+    },
+    "why": {
+      "fr": ["Le lien de vie et le vol de Lyra Dawnbringer freinaient l'aggro rouge", "Karn, Scion of Urza fournissait un avantage de cartes régulier"],
+      "en": ["Lyra Dawnbringer's flying and lifelink slowed red aggro down", "Karn, Scion of Urza provided steady card advantage"]
+    }
+  },
+  {
+    "name": "Paradoxical Outcome",
+    "slug": "paradoxical-outcome",
+    "archetype": "combo",
+    "titles": ["Mono-Blue Reservoir", "Reservoir", "It's A Paradox", "Paradoxical Outcome", "Paradoxical Storm"],
+    "cover": "Sai, Master Thopterist",
+    "keyCards": ["Paradoxical Outcome", "Aetherflux Reservoir", "Sai, Master Thopterist", "Inspiring Statuary", "Renegade Map"],
+    "summary": {
+      "fr": "Combo artefacts mono-bleu : artefacts bon marché et Inspiring Statuary s'enchaînent vers Paradoxical Outcome, puis Aetherflux Reservoir gagne de la vie et achève l'adversaire.",
+      "en": "Mono-blue artifact combo: cheap artifacts and Inspiring Statuary chain into Paradoxical Outcome, then Aetherflux Reservoir gains life and deals the final damage."
+    },
+    "why": {
+      "fr": ["Paradoxical Outcome renvoyait les artefacts en main et piochait pour continuer la chaîne", "Sai, Master Thopterist créait des bloqueurs pendant la mise en place"],
+      "en": ["Paradoxical Outcome rebought the artifacts and drew cards to keep the chain going", "Sai, Master Thopterist made blockers while the combo came together"]
+    },
+    "note": "Late-season (M19) deck."
+  },
+  {
+    "name": "Electrostatic Pummeler",
+    "slug": "pummeler",
+    "archetype": "combo",
+    "titles": ["Pummeler", "Rg Pummeler", "Ug Pummeler", "UG Pummeler"],
+    "cover": "Electrostatic Pummeler",
+    "keyCards": ["Electrostatic Pummeler", "Invigorated Rampage", "Blossoming Defense", "Voltaic Brawler", "Bristling Hydra"],
+    "summary": {
+      "fr": "Aggro-combo vert à l'énergie, en version rouge ou bleue, qui gonfle Electrostatic Pummeler avec l'énergie et des pumps pour un kill soudain.",
+      "en": "Green energy aggro-combo, in red or blue builds, that pumps Electrostatic Pummeler with energy and pump spells for a sudden kill."
+    },
+    "why": {
+      "fr": ["L'énergie d'Attune et de Servant alimentait les pumps de Pummeler", "A disparu avec les bannissements de janvier visant l'énergie"],
+      "en": ["Energy from Attune and Servant fed Pummeler's pump ability", "Disappeared with the January bans on energy cards"]
+    }
+  }
+]

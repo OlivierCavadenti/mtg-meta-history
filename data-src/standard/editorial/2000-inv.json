@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Fires",
+    "slug": "fires",
+    "archetype": "aggro",
+    "titles": ["Fires", "My Fires", "Long Fire", "Dark Fires", "Fires of Yavimaya"],
+    "cover": "Fires of Yavimaya",
+    "keyCards": ["Fires of Yavimaya", "Saproling Burst", "Blastoderm", "Flametongue Kavu", "Shivan Wurm"],
+    "summary": {
+      "fr": "Aggro rouge-vert qui donne la célérité à ses créatures avec Fires of Yavimaya, en jouant Blastoderm, Saproling Burst et Flametongue Kavu grâce aux elfes.",
+      "en": "Red-green aggro giving its creatures haste with Fires of Yavimaya, playing Blastoderm, Saproling Burst and Flametongue Kavu off mana elves."
+    },
+    "why": {
+      "fr": ["La célérité de Fires faisait frapper Saproling Burst et Blastoderm aussitôt", "Flametongue Kavu retirait une créature tout en ajoutant un gros corps"],
+      "en": ["Haste from Fires let Saproling Burst and Blastoderm hit at once", "Flametongue Kavu removed a creature while adding a large body"]
+    },
+    "note": "'Dark Fires' adds a black splash for Spiritmonger; same Fires shell."
+  },
+  {
+    "name": "Nether-Go",
+    "slug": "nether-go",
+    "archetype": "control",
+    "titles": ["Nether Go", "Mori-katsu Go (Nether  Go)", "Counter Crosis"],
+    "rep": 599596,
+    "cover": "Nether Spirit",
+    "keyCards": ["Nether Spirit", "Counterspell", "Undermine", "Fact or Fiction", "Accumulated Knowledge"],
+    "summary": {
+      "fr": "Contrôle draw-go bleu-noir avec contresorts et pioche, qui utilise Nether Spirit comme menace récurrente.",
+      "en": "Blue-black draw-go control with counterspells and card draw, using Nether Spirit as a recurring threat."
+    },
+    "why": {
+      "fr": ["Nether Spirit revenait du cimetière s'il y était la seule créature", "Fact or Fiction et Accumulated Knowledge gardaient la main pleine"],
+      "en": ["Nether Spirit returned from the graveyard when it was the only creature there", "Fact or Fiction and Accumulated Knowledge kept the hand full"]
+    },
+    "note": "Several lists (incl. 'Counter Crosis' and Ruel's Worlds list) splash red for Urza's Rage and Fire/Ice; rep = straight UB list."
+  },
+  {
+    "name": "Probe-Go",
+    "slug": "probe-go",
+    "archetype": "control",
+    "titles": ["Probe Go", "Probe Dromar Go", "Dromar Probe Go"],
+    "cover": "Probe",
+    "keyCards": ["Probe", "Dromar's Charm", "Fact or Fiction", "Wrath of God", "Nether Spirit"],
+    "summary": {
+      "fr": "Contrôle blanc-bleu-noir avec Probe, Dromar's Charm et Wrath of God, qui gagne avec Nether Spirit et Dromar, the Banisher.",
+      "en": "White-blue-black control with Probe, Dromar's Charm and Wrath of God, winning with Nether Spirit and Dromar, the Banisher."
+    },
+    "why": {
+      "fr": ["Probe avec kicker piochait et forçait une défausse", "Dromar's Charm contrait, faisait gagner de la vie ou tuait selon le besoin"],
+      "en": ["Kicked Probe drew cards and forced discards", "Dromar's Charm countered, gained life or killed a creature as needed"]
+    }
+  },
+  {
+    "name": "Counter-Rebels",
+    "slug": "counter-rebels",
+    "archetype": "tempo",
+    "titles": ["Counter Rebels", "Counter Rebel"],
+    "cover": "Meddling Mage",
+    "keyCards": ["Lin Sivvi, Defiant Hero", "Ramosian Sergeant", "Meddling Mage", "Parallax Wave", "Absorb"],
+    "summary": {
+      "fr": "Rebelles blanc-bleu avec contresorts et Meddling Mage, qui cherche ses créatures avec Ramosian Sergeant et Lin Sivvi.",
+      "en": "White-blue rebels with counterspells and Meddling Mage, searching for creatures with Ramosian Sergeant and Lin Sivvi."
+    },
+    "why": {
+      "fr": ["Les capacités de recherche des rebelles fournissaient des créatures en continu", "Counterspell et Absorb protégeaient la table contre les balais"],
+      "en": ["Rebel search abilities provided a steady supply of creatures", "Counterspell and Absorb protected the board against sweepers"]
+    }
+  },
+  {
+    "name": "Rebels",
+    "slug": "rebels",
+    "archetype": "aggro",
+    "titles": ["Rebels"],
+    "cover": "Parallax Wave",
+    "keyCards": ["Lin Sivvi, Defiant Hero", "Ramosian Sergeant", "Parallax Wave", "Wax/Wane", "Chimeric Idol"],
+    "summary": {
+      "fr": "Rebelles blancs splash vert pour Wax/Wane, qui cherchent leurs créatures avec Ramosian Sergeant et Lin Sivvi et écartent les bloqueurs avec Parallax Wave.",
+      "en": "White rebels splashing green for Wax/Wane, searching for creatures with Ramosian Sergeant and Lin Sivvi and clearing blockers with Parallax Wave."
+    },
+    "why": {
+      "fr": ["Parallax Wave écartait les bloqueurs pendant plusieurs tours", "Rishadan Port et Dust Bowl perturbaient le mana adverse"],
+      "en": ["Parallax Wave removed blockers for several turns", "Rishadan Port and Dust Bowl disrupted the opponent's mana"]
+    }
+  },
+  {
+    "name": "Orbosition",
+    "slug": "orbosition",
+    "archetype": "control",
+    "titles": ["Orbosition", "Opposition"],
+    "cover": "Static Orb",
+    "keyCards": ["Static Orb", "Opposition", "Thieving Magpie", "Spiketail Hatchling", "Glacial Wall"],
+    "summary": {
+      "fr": "Verrou mono-bleu où Static Orb limite les dégagements et Opposition engage les terrains et créatures adverses.",
+      "en": "Mono-blue lock where Static Orb limits untapping and Opposition taps down the opponent's lands and creatures."
+    },
+    "why": {
+      "fr": ["Static Orb et Opposition gardaient les terrains adverses engagés", "Thieving Magpie ajoutait des cartes pendant que le verrou tenait"],
+      "en": ["Static Orb and Opposition kept the opponent's lands tapped", "Thieving Magpie added cards while the lock held"]
+    }
+  },
+  {
+    "name": "Merfolk Opposition",
+    "slug": "merfolk-opposition",
+    "archetype": "tempo",
+    "titles": ["Merfolk Oppo", "Merfolk Opposition"],
+    "cover": "Lord of Atlantis",
+    "keyCards": ["Lord of Atlantis", "Opposition", "Static Orb", "Merfolk Looter", "Gush"],
+    "summary": {
+      "fr": "Mono-bleu ondins qui combine les seigneurs à traversée des îles avec Opposition et Static Orb pour verrouiller l'adversaire.",
+      "en": "Mono-blue merfolk deck combining islandwalking lords with Opposition and Static Orb to lock the opponent."
+    },
+    "why": {
+      "fr": ["Lord of Atlantis donnait la traversée des îles contre les decks bleus", "Gush piochait sans dépenser de mana"],
+      "en": ["Lord of Atlantis gave islandwalk against blue decks", "Gush drew cards without spending mana"]
+    }
+  },
+  {
+    "name": "UG Opposition",
+    "slug": "ug-opposition",
+    "archetype": "midrange",
+    "titles": ["UG Aggro Opposition"],
+    "cover": "Opposition",
+    "keyCards": ["Opposition", "Saproling Burst", "Blastoderm", "Gush", "Silt Crawler"],
+    "summary": {
+      "fr": "Deck bleu-vert qui alimente Opposition avec les jetons de Saproling Burst et des créatures vertes, et pioche avec Gush et Fact or Fiction.",
+      "en": "Blue-green deck fuelling Opposition with Saproling Burst tokens and green creatures, drawing with Gush and Fact or Fiction."
+    },
+    "why": {
+      "fr": ["Saproling Burst créait plusieurs créatures à engager pour Opposition", "Blastoderm mettait la pression sans craindre le removal ciblé"],
+      "en": ["Saproling Burst made several creatures to tap for Opposition", "Blastoderm applied pressure without exposure to targeted removal"]
+    }
+  },
+  {
+    "name": "Blue Skies",
+    "slug": "blue-skies",
+    "archetype": "tempo",
+    "titles": ["Blue Skies", "Mono Blue"],
+    "cover": "Rishadan Airship",
+    "keyCards": ["Rishadan Airship", "Troublesome Spirit", "Spiketail Hatchling", "Chimeric Idol", "Rising Waters"],
+    "summary": {
+      "fr": "Tempo mono-bleu de volants avec Rishadan Airship, Troublesome Spirit et Spiketail Hatchling, protégés par des contresorts gratuits comme Daze et Foil.",
+      "en": "Mono-blue flier tempo with Rishadan Airship, Troublesome Spirit and Spiketail Hatchling, protected by free counters like Daze and Foil."
+    },
+    "why": {
+      "fr": ["Les volants bon marché frappaient pendant que Thwart et Daze ne coûtaient aucun mana", "Rising Waters et Rishadan Port freinaient le développement adverse"],
+      "en": ["Cheap fliers attacked while Thwart and Daze cost no mana", "Rising Waters and Rishadan Port slowed the opponent's development"]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": ["UW Control", "U/w Control", "U/W Millstone", "U/W Control"],
+    "cover": "Story Circle",
+    "keyCards": ["Absorb", "Fact or Fiction", "Wrath of God", "Story Circle", "Millstone"],
+    "summary": {
+      "fr": "Contrôle blanc-bleu avec Absorb, Fact or Fiction et Wrath of God, qui se protège avec Story Circle et gagne lentement avec Millstone.",
+      "en": "White-blue control with Absorb, Fact or Fiction and Wrath of God, protecting itself with Story Circle and winning slowly with Millstone."
+    },
+    "why": {
+      "fr": ["Story Circle coupait les dégâts de la couleur choisie", "Absorb contrait tout en faisant gagner de la vie contre l'aggro"],
+      "en": ["Story Circle shut off damage from the chosen colour", "Absorb countered spells while gaining life against aggro"]
+    }
+  },
+  {
+    "name": "Red Zone",
+    "slug": "red-zone",
+    "archetype": "aggro",
+    "titles": ["Red Zone", "No Fires"],
+    "cover": "Armageddon",
+    "keyCards": ["Armageddon", "Blastoderm", "River Boa", "Ancient Hydra", "Wax/Wane"],
+    "summary": {
+      "fr": "Beatdown à base verte splash rouge et blanc, qui pose Blastoderm, River Boa et Ancient Hydra avant de lancer Armageddon.",
+      "en": "Green-based beatdown splashing red and white, deploying Blastoderm, River Boa and Ancient Hydra before casting Armageddon."
+    },
+    "why": {
+      "fr": ["Armageddon après des créatures précoces empêchait l'adversaire de revenir", "Les créatures à disparition comme Blastoderm frappaient fort tôt"],
+      "en": ["Armageddon after early creatures left opponents unable to recover", "Fading creatures like Blastoderm and Ancient Hydra hit hard early"]
+    },
+    "note": "'No Fires' (Kibler, PT Chicago) is the same R/G/w Armageddon beatdown without Fires of Yavimaya."
+  },
+  {
+    "name": "Machine Head",
+    "slug": "machine-head",
+    "archetype": "midrange",
+    "titles": ["Machine Head", "Machinehead"],
+    "cover": "Blazing Specter",
+    "keyCards": ["Blazing Specter", "Plague Spitter", "Phyrexian Scuta", "Terminate", "Duress"],
+    "summary": {
+      "fr": "Midrange noir-rouge avec Duress, Terminate et Vendetta, et des créatures comme Blazing Specter, Phyrexian Scuta et Plague Spitter.",
+      "en": "Black-red midrange with Duress, Terminate and Vendetta, and creatures such as Blazing Specter, Phyrexian Scuta and Plague Spitter."
+    },
+    "why": {
+      "fr": ["Plague Spitter punissait chaque tour les jetons Saproling et les petites créatures", "Dark Ritual posait Blazing Specter très tôt"],
+      "en": ["Plague Spitter punished Saproling tokens and small creatures every turn", "Dark Ritual powered out Blazing Specter early"]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": ["RDW", "Red Deck Wins"],
+    "cover": "Skizzik",
+    "keyCards": ["Kris Mage", "Skizzik", "Flametongue Kavu", "Urza's Rage", "Seal of Fire"],
+    "summary": {
+      "fr": "Mono-rouge aggro avec Kris Mage, Skizzik et Flametongue Kavu, soutenu par Seal of Fire, Shock et Urza's Rage.",
+      "en": "Mono-red aggro with Kris Mage, Skizzik and Flametongue Kavu, backed by Seal of Fire, Shock and Urza's Rage."
+    },
+    "why": {
+      "fr": ["Le burn servait à la fois de removal et de portée", "Urza's Rage ne pouvait pas être contré par les decks de contrôle"],
+      "en": ["Burn doubled as removal and reach", "Urza's Rage could not be countered by control decks"]
+    }
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "aggro",
+    "titles": ["Ponza", "Ponza Aggro"],
+    "cover": "Pillage",
+    "keyCards": ["Stone Rain", "Pillage", "Kris Mage", "Goblin Raider", "Urza's Rage"],
+    "summary": {
+      "fr": "Destruction de terrains mono-rouge agressive, qui mêle Stone Rain et Pillage à des créatures bon marché et du burn.",
+      "en": "Aggressive mono-red land destruction, mixing Stone Rain and Pillage with cheap creatures and burn."
+    },
+    "why": {
+      "fr": ["Rishadan Port et Dust Bowl ajoutaient du déni de mana", "Le burn gardait la table propre pendant la destruction de terrains"],
+      "en": ["Rishadan Port and Dust Bowl added further mana denial", "Burn kept the board clear while lands were destroyed"]
+    }
+  },
+  {
+    "name": "UB Gating",
+    "slug": "ub-gating",
+    "archetype": "midrange",
+    "titles": ["Digger"],
+    "cover": "Gravedigger",
+    "keyCards": ["Gravedigger", "Cavern Harpy", "Doomsday Specter", "Ravenous Rats", "Crypt Angel"],
+    "summary": {
+      "fr": "Deck de créatures bleu-noir qui réutilise les effets d'arrivée : Cavern Harpy et Doomsday Specter renvoient Gravedigger ou Ravenous Rats en main.",
+      "en": "Blue-black creature deck reusing comes-into-play effects: Cavern Harpy and Doomsday Specter return Gravedigger or Ravenous Rats to hand."
+    },
+    "why": {
+      "fr": ["Chaque renvoi rejouait une défausse ou une récursion", "Recoil et Counterspell soutenaient le plan de créatures"],
+      "en": ["Each bounce replayed a discard or recursion effect", "Recoil and Counterspell supported the creature plan"]
+    },
+    "note": "mtgtop8 title 'Digger' (single top 8, Canada Nationals); name uncertain."
+  },
+  {
+    "name": "BR Void",
+    "slug": "br-void",
+    "archetype": "control",
+    "titles": ["Square Void", "Lovely Sunshine"],
+    "cover": "Void",
+    "keyCards": ["Void", "Terminate", "Plague Spitter", "Pyre Zombie", "Assault/Battery"],
+    "summary": {
+      "fr": "Contrôle noir-rouge avec Void, Terminate et Plague Spitter, qui finit avec Pyre Zombie, Assault/Battery et Urza's Rage.",
+      "en": "Black-red control with Void, Terminate and Plague Spitter, finishing with Pyre Zombie, Assault/Battery and Urza's Rage."
+    },
+    "why": {
+      "fr": ["Void détruisait artefacts et créatures et retirait une carte de la main", "Pyre Zombie revenait du cimetière en partie longue"],
+      "en": ["Void destroyed artifacts and creatures and stripped a card from hand", "Pyre Zombie returned from the graveyard in long games"]
+    },
+    "note": "'Lovely Sunshine' is a land-destruction-heavy version (Stone Rain, Despoil) of the same B/R Void shell."
+  },
+  {
+    "name": "Burning Bridge",
+    "slug": "burning-bridge",
+    "archetype": "control",
+    "titles": ["Burning Bridge"],
+    "cover": "Ensnaring Bridge",
+    "keyCards": ["Ensnaring Bridge", "Grafted Skullcap", "Pyre Zombie", "Addle", "Duress"],
+    "summary": {
+      "fr": "Verrou noir-rouge qui vide vite sa main avec Grafted Skullcap pour qu'Ensnaring Bridge bloque les attaquants, la défausse retirant les réponses adverses.",
+      "en": "Black-red lock that empties its hand quickly with Grafted Skullcap so Ensnaring Bridge stops attackers, while discard strips the opponent's answers."
+    },
+    "why": {
+      "fr": ["Ensnaring Bridge empêchait les attaques tant que la main était vide", "Duress, Addle et Persecute retiraient les réponses au Bridge"],
+      "en": ["Ensnaring Bridge stopped attacks while the hand was empty", "Duress, Addle and Persecute removed answers to the Bridge"]
+    }
+  },
+  {
+    "name": "Wildfire Bridge",
+    "slug": "wildfire-bridge",
+    "archetype": "control",
+    "titles": ["Bridge Wildfire"],
+    "cover": "Wildfire",
+    "keyCards": ["Wildfire", "Ensnaring Bridge", "Grafted Skullcap", "Stone Rain", "Millstone"],
+    "summary": {
+      "fr": "Verrou mono-rouge qui combine destruction de terrains et Wildfire avec Ensnaring Bridge, puis gagne avec Millstone.",
+      "en": "Mono-red lock combining land destruction and Wildfire with Ensnaring Bridge, then winning with Millstone."
+    },
+    "why": {
+      "fr": ["Ensnaring Bridge bloquait les créatures une fois la main vide", "Fire Diamond gardait du mana disponible après Wildfire"],
+      "en": ["Ensnaring Bridge kept creatures from attacking once the hand was empty", "Fire Diamond kept mana available after Wildfire"]
+    }
+  },
+  {
+    "name": "Netherhaups",
+    "slug": "netherhaups",
+    "archetype": "control",
+    "titles": ["Netherhaups"],
+    "cover": "Obliterate",
+    "keyCards": ["Jokulhaups", "Obliterate", "Nether Spirit", "Chimeric Idol", "Vampiric Tutor"],
+    "summary": {
+      "fr": "Contrôle noir-rouge qui détruit tous les terrains et créatures avec Jokulhaups ou Obliterate, puis se reconstruit plus vite grâce à Nether Spirit et Chimeric Idol.",
+      "en": "Black-red control that destroys every land and creature with Jokulhaups or Obliterate, then rebuilds faster with Nether Spirit and Chimeric Idol."
+    },
+    "why": {
+      "fr": ["Obliterate ne pouvait pas être contré", "Nether Spirit et Chimeric Idol revenaient vite après la remise à zéro"],
+      "en": ["Obliterate could not be countered", "Nether Spirit and Chimeric Idol came back quickly after the reset"]
+    }
+  }
+]

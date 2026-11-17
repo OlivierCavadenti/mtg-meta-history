@@ -1,0 +1,1214 @@
+[
+ {
+  "name": "Mono-Red Aggro",
+  "slug": "mono-red-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Red Deck Wins",
+   "Mono Red",
+   "Mono-red Aggro",
+   "Frenzy Red",
+   "Monored Aggro",
+   "Red Aggro",
+   "Mono Red Aggro"
+  ],
+  "rep": 333499,
+  "cover": "Goblin Chainwhirler",
+  "keyCards": [
+   "Goblin Chainwhirler",
+   "Runaway Steam-Kin",
+   "Experimental Frenzy",
+   "Viashino Pyromancer",
+   "Wizard's Lightning"
+  ],
+  "summary": {
+   "fr": "Aggro mono-rouge fondé sur des Wizards bon marché et des burns, qui recharge sa main en fin de partie avec Experimental Frenzy.",
+   "en": "Mono-red aggro built on cheap Wizards and burn, refuelling in the late game with Experimental Frenzy."
+  },
+  "why": {
+   "fr": [
+    "Goblin Chainwhirler punissait les decks de créatures x/1 et de jetons",
+    "Wizard's Lightning coûtait souvent moins cher grâce aux nombreux Wizards",
+    "Experimental Frenzy prolongeait la pression une fois l'adversaire stabilisé"
+   ],
+   "en": [
+    "Goblin Chainwhirler punished decks of x/1 creatures and tokens",
+    "Wizard's Lightning was often cheap thanks to the many Wizards",
+    "Experimental Frenzy kept the pressure on once the opponent had stabilised"
+   ]
+  },
+  "note": "Merged Red Deck Wins and all mono-red aggro titles; rep = GP Lille winner (default had no sideboard)."
+ },
+ {
+  "name": "Esper Control",
+  "slug": "esper-control",
+  "archetype": "control",
+  "titles": [
+   "Esper Control",
+   "Esper PW",
+   "Esper Superfriends"
+  ],
+  "rep": 341192,
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "Thought Erasure",
+   "Kaya's Wrath",
+   "Absorb",
+   "Vraska's Contempt"
+  ],
+  "summary": {
+   "fr": "Contrôle tricolore qui gagne avec Teferi, Hero of Dominaria, soutenu par Kaya's Wrath, des contresorts et des removals bon marché.",
+   "en": "Three-colour control that wins with Teferi, Hero of Dominaria, backed by Kaya's Wrath, counters and cheap removal."
+  },
+  "why": {
+   "fr": [
+    "Kaya's Wrath et les removals ciblés répondaient aux decks de créatures",
+    "Teferi se protégeait et dégageait des terrains pour garder Absorb",
+    "Thought Erasure retirait les cartes clés de la main adverse"
+   ],
+   "en": [
+    "Kaya's Wrath and spot removal answered the format's creature decks",
+    "Teferi protected itself and untapped lands to hold up Absorb",
+    "Thought Erasure took key cards from the opponent's hand"
+   ]
+  },
+  "note": "Hero-less Esper lists; Esper PW / Superfriends merged here. Rep = Mythic Championship I top 2."
+ },
+ {
+  "name": "Esper Hero",
+  "slug": "esper-hero",
+  "archetype": "midrange",
+  "titles": [
+   "Esper Precinct One",
+   "Esper Hero Control",
+   "Esper Hero",
+   "Esper Hero PW",
+   "Esper PW Hero",
+   "Esper Midrange",
+   "Precinct One Esper",
+   "Esper Citadel",
+   "Bant Precinct One"
+  ],
+  "rep": 349929,
+  "cover": "Hero of Precinct One",
+  "keyCards": [
+   "Hero of Precinct One",
+   "Teferi, Time Raveler",
+   "Teferi, Hero of Dominaria",
+   "Oath of Kaya",
+   "Narset, Parter of Veils"
+  ],
+  "summary": {
+   "fr": "Midrange Esper qui associe Hero of Precinct One à des sorts multicolores et à des planeswalkers, dont les deux Teferi.",
+   "en": "Esper midrange pairing Hero of Precinct One with multicoloured spells and planeswalkers, including both Teferis."
+  },
+  "why": {
+   "fr": [
+    "La plupart des sorts étant multicolores, Hero of Precinct One créait un jeton presque chaque tour",
+    "Teferi, Time Raveler limitait l'adversaire aux sorts à vitesse de rituel",
+    "Les planeswalkers donnaient un avantage de cartes difficile à suivre pour les decks de créatures"
+   ],
+   "en": [
+    "Most spells were multicoloured, so Hero of Precinct One made a token almost every turn",
+    "Teferi, Time Raveler limited opponents to sorcery-speed spells",
+    "Planeswalkers produced card advantage that creature decks struggled to match"
+   ]
+  },
+  "note": "Includes pre-War Esper Midrange (Thief of Sanity + Hero) and Esper Citadel lists."
+ },
+ {
+  "name": "White Weenie",
+  "slug": "white-weenie",
+  "archetype": "aggro",
+  "titles": [
+   "Weenie White",
+   "White Weenie",
+   "Mono White",
+   "Mono-white Aggro",
+   "WeenieWhite",
+   "Wu Aggro",
+   "Azorius Aggro"
+  ],
+  "rep": 339926,
+  "cover": "Benalish Marshal",
+  "keyCards": [
+   "Benalish Marshal",
+   "History of Benalia",
+   "Legion's Landing",
+   "Venerated Loxodon",
+   "Adanto Vanguard"
+  ],
+  "summary": {
+   "fr": "Aggro mono-blanc de créatures, avec le bonus de Benalish Marshal et des menaces à convocation comme Venerated Loxodon, parfois teinté bleu.",
+   "en": "Mono-white creature aggro with the anthem of Benalish Marshal and convoke threats like Venerated Loxodon, sometimes splashing blue."
+  },
+  "why": {
+   "fr": [
+    "Les nombreuses Plains permettaient de lancer tôt Benalish Marshal",
+    "Legion's Landing et History of Benalia fournissaient des corps pour Venerated Loxodon",
+    "Conclave Tribunal retirait un bloqueur pour peu de mana grâce à la convocation"
+   ],
+   "en": [
+    "Plains-heavy mana made Benalish Marshal easy to cast early",
+    "Legion's Landing and History of Benalia supplied bodies for Venerated Loxodon",
+    "Conclave Tribunal removed a blocker for little mana thanks to convoke"
+   ]
+  },
+  "note": "Azorius Aggro title mostly mono-W splash U; its single Sephara flyers list is absorbed here."
+ },
+ {
+  "name": "Boros Aggro",
+  "slug": "boros-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Aggro",
+   "Boros Mentor"
+  ],
+  "rep": 337837,
+  "cover": "Heroic Reinforcements",
+  "keyCards": [
+   "Heroic Reinforcements",
+   "Adanto Vanguard",
+   "History of Benalia",
+   "Legion's Landing",
+   "Aurelia, Exemplar of Justice"
+  ],
+  "summary": {
+   "fr": "Aggro blanc-rouge qui occupe la table avec de petites créatures et des jetons, puis conclut avec Heroic Reinforcements ou Aurelia.",
+   "en": "White-red aggro that goes wide with small creatures and tokens, then finishes with Heroic Reinforcements or Aurelia."
+  },
+  "why": {
+   "fr": [
+    "Legion's Landing et History of Benalia créaient des corps pour Heroic Reinforcements",
+    "Adanto Vanguard pouvait devenir indestructible face aux removals et aux bloqueurs",
+    "Heroic Reinforcements donnait célérité et bonus pour une attaque létale inattendue"
+   ],
+   "en": [
+    "Legion's Landing and History of Benalia made bodies for Heroic Reinforcements",
+    "Adanto Vanguard could turn indestructible against removal and blockers",
+    "Heroic Reinforcements gave haste and a pump for a surprise lethal attack"
+   ]
+  },
+  "note": "Title mixes red-splash white weenie (PT GRN lists) and true Boros; rep = The Finals 2018 winner with Heroic Reinforcements."
+ },
+ {
+  "name": "Golgari Midrange",
+  "slug": "golgari-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Golgari Aggro",
+   "Golgari Midrange",
+   "Golgari Explore",
+   "Golgari Citadel"
+  ],
+  "cover": "Jadelight Ranger",
+  "keyCards": [
+   "Jadelight Ranger",
+   "Merfolk Branchwalker",
+   "Wildgrowth Walker",
+   "Vivien Reid",
+   "Carnage Tyrant"
+  ],
+  "summary": {
+   "fr": "Midrange vert-noir fondé sur les créatures à exploration et des removals efficaces, avec des menaces tardives comme Carnage Tyrant et Vivien Reid.",
+   "en": "Green-black midrange built on explore creatures and efficient removal, with late threats like Carnage Tyrant and Vivien Reid."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à exploration fluidifiaient la pioche et faisaient grandir Wildgrowth Walker",
+    "Vraska's Contempt et Find/Finality géraient créatures et planeswalkers",
+    "Carnage Tyrant échappait aux contresorts et aux removals ciblés des decks de contrôle"
+   ],
+   "en": [
+    "Explore creatures smoothed draws and grew Wildgrowth Walker",
+    "Vraska's Contempt and Find/Finality handled creatures and planeswalkers",
+    "Carnage Tyrant could not be countered or targeted by control decks"
+   ]
+  },
+  "note": "Golgari Aggro / Midrange / Explore / Citadel merged."
+ },
+ {
+  "name": "Jeskai Control",
+  "slug": "jeskai-control",
+  "archetype": "control",
+  "titles": [
+   "Jeskai Control"
+  ],
+  "cover": "Deafening Clarion",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "Deafening Clarion",
+   "Expansion/Explosion",
+   "Chemister's Insight",
+   "Settle the Wreckage"
+  ],
+  "summary": {
+   "fr": "Contrôle bleu-rouge-blanc qui gère l'aggro avec Deafening Clarion et Settle the Wreckage, puis conclut avec Teferi et Expansion/Explosion.",
+   "en": "Blue-red-white control that handles aggro with Deafening Clarion and Settle the Wreckage, then closes with Teferi and Expansion/Explosion."
+  },
+  "why": {
+   "fr": [
+    "Deafening Clarion balayait les petites créatures agressives du format",
+    "Chemister's Insight offrait de l'avantage de cartes grâce au jump-start",
+    "Expansion/Explosion servait à la fois de pioche et de conclusion"
+   ],
+   "en": [
+    "Deafening Clarion swept the format's small aggressive creatures",
+    "Chemister's Insight provided card advantage through jump-start",
+    "Expansion/Explosion served as both card draw and a finisher"
+   ]
+  }
+ },
+ {
+  "name": "Orzhov Vampires",
+  "slug": "orzhov-vampires",
+  "archetype": "aggro",
+  "titles": [
+   "Orzhov Aggro",
+   "Orzhov Vampires"
+  ],
+  "cover": "Sorin, Imperious Bloodlord",
+  "keyCards": [
+   "Champion of Dusk",
+   "Legion Lieutenant",
+   "Sorin, Imperious Bloodlord",
+   "Knight of the Ebon Legion",
+   "Adanto Vanguard"
+  ],
+  "summary": {
+   "fr": "Aggro Vampires blanc-noir construit sur Legion Lieutenant et Sorin, Imperious Bloodlord, avec Champion of Dusk pour recharger la main.",
+   "en": "White-black Vampire aggro built on Legion Lieutenant and Sorin, Imperious Bloodlord, with Champion of Dusk to refill the hand."
+  },
+  "why": {
+   "fr": [
+    "Core Set 2020 ajoutait Sorin et Knight of the Ebon Legion aux Vampires d'Ixalan",
+    "Knight of the Ebon Legion restait utile en fin de partie malgré son faible coût",
+    "Champion of Dusk piochait plusieurs cartes dans un deck rempli de Vampires"
+   ],
+   "en": [
+    "Core Set 2020 added Sorin and Knight of the Ebon Legion to the Ixalan Vampires",
+    "Knight of the Ebon Legion was a cheap creature that stayed relevant late",
+    "Champion of Dusk drew several cards in a deck full of Vampires"
+   ]
+  },
+  "note": "Orzhov Aggro title = M20 Vampires/Knights lists."
+ },
+ {
+  "name": "Sultai Midrange",
+  "slug": "sultai-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Sultai Aggro",
+   "Sultai Midrange",
+   "Sultai Dreadhorde",
+   "Sultaï Dreadhorde"
+  ],
+  "rep": 339478,
+  "cover": "Hydroid Krasis",
+  "keyCards": [
+   "Hydroid Krasis",
+   "Jadelight Ranger",
+   "Wildgrowth Walker",
+   "Vivien Reid",
+   "Find/Finality"
+  ],
+  "summary": {
+   "fr": "Midrange Golgari à exploration qui ajoute le bleu pour Hydroid Krasis, rejoint ensuite par Nissa et Tamiyo après War of the Spark.",
+   "en": "Golgari explore midrange adding blue for Hydroid Krasis, later joined by Nissa and Tamiyo after War of the Spark."
+  },
+  "why": {
+   "fr": [
+    "Hydroid Krasis piochait et faisait gagner des points de vie sans pouvoir être contré",
+    "Les shocklands rendaient le splash bleu presque gratuit",
+    "Il conservait les créatures à exploration et les removals du Golgari"
+   ],
+   "en": [
+    "Hydroid Krasis drew cards and gained life, and could not be countered",
+    "Shocklands made the blue splash nearly free",
+    "It kept the explore creatures and removal of Golgari Midrange"
+   ]
+  },
+  "note": "Sultai Aggro/Midrange/Dreadhorde titles; rep = SCG Open Indianapolis winner (RNA version)."
+ },
+ {
+  "name": "Bant Scapeshift",
+  "slug": "bant-scapeshift",
+  "archetype": "ramp",
+  "titles": [
+   "Bant Scapeshift",
+   "Scapeshift Bant",
+   "5c Scapeshift",
+   "Sultai Scapeshift"
+  ],
+  "cover": "Scapeshift",
+  "keyCards": [
+   "Field of the Dead",
+   "Scapeshift",
+   "Hydroid Krasis",
+   "Teferi, Time Raveler",
+   "Circuitous Route"
+  ],
+  "summary": {
+   "fr": "Deck de rampe de terrains qui va chercher de nombreux terrains différents avec Scapeshift pour que Field of the Dead produise des Zombies en série.",
+   "en": "Land ramp deck that fetches many different lands with Scapeshift so that Field of the Dead produces a stream of Zombies."
+  },
+  "why": {
+   "fr": [
+    "Field of the Dead créait un Zombie par terrain posé avec assez de terrains différents",
+    "Scapeshift déclenchait Field of the Dead de nombreuses fois d'un coup",
+    "Teferi, Time Raveler ralentissait l'interaction adverse"
+   ],
+   "en": [
+    "Field of the Dead made a Zombie per land drop once enough different lands were in play",
+    "Scapeshift triggered Field of the Dead many times at once",
+    "Teferi, Time Raveler slowed opposing interaction"
+   ]
+  }
+ },
+ {
+  "name": "Izzet Phoenix",
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "titles": [
+   "UR Aggro",
+   "Izzet Phoenix",
+   "Izzet Drakes",
+   "Izzet Spells",
+   "UR Phoenix"
+  ],
+  "rep": 341194,
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Crackling Drake",
+   "Goblin Electromancer",
+   "Radical Idea",
+   "Chart a Course"
+  ],
+  "summary": {
+   "fr": "Deck de sorts bleu-rouge qui défausse et enchaîne des sorts bon marché pour ramener Arclight Phoenix du cimetière.",
+   "en": "Blue-red spells deck that loots and chains cheap spells to return Arclight Phoenix from the graveyard."
+  },
+  "why": {
+   "fr": [
+    "Chart a Course et Tormenting Voice mettaient tôt le Phoenix au cimetière",
+    "Goblin Electromancer réduisait les coûts pour lancer plusieurs sorts par tour",
+    "Crackling Drake piochait une carte et grandissait avec chaque éphémère ou rituel"
+   ],
+   "en": [
+    "Chart a Course and Tormenting Voice put Phoenix in the graveyard early",
+    "Goblin Electromancer reduced costs so several spells per turn came easily",
+    "Crackling Drake drew a card and grew with every instant and sorcery"
+   ]
+  },
+  "note": "Phoenix lists, incl. the 'Izzet Drakes' title (GRN lists mostly ran Phoenix). Rep = Mythic Championship I top 4."
+ },
+ {
+  "name": "Izzet Drakes",
+  "slug": "izzet-drakes",
+  "archetype": "tempo",
+  "titles": [
+   "Grixis Drakes",
+   "Grixis Drake",
+   "Drakes",
+   "Jeskai Midrange",
+   "Temur Midrange"
+  ],
+  "cover": "Enigma Drake",
+  "keyCards": [
+   "Crackling Drake",
+   "Enigma Drake",
+   "Niv-Mizzet, Parun",
+   "Discovery/Dispersal",
+   "Dive Down"
+  ],
+  "summary": {
+   "fr": "Tempo bleu-rouge sans Arclight Phoenix, qui compte sur Crackling Drake, Enigma Drake et Niv-Mizzet derrière de l'interaction bon marché.",
+   "en": "Blue-red tempo without Arclight Phoenix, relying on Crackling Drake, Enigma Drake and Niv-Mizzet behind cheap interaction."
+  },
+  "why": {
+   "fr": [
+    "Les deux Drakes grandissaient grâce aux nombreux éphémères et rituels",
+    "Dive Down et Spell Pierce protégeaient les menaces des removals",
+    "Lava Coil et Shock géraient les créatures agressives"
+   ],
+   "en": [
+    "Both Drakes grew with the many instants and sorceries",
+    "Dive Down and Spell Pierce protected threats from removal",
+    "Lava Coil and Shock handled aggressive creatures"
+   ]
+  },
+  "note": "Phoenix-less Drakes (titles Grixis Drakes, Drakes, Jeskai/Temur Midrange). Name kept despite the 'Izzet Drakes' mtgtop8 title sitting in Izzet Phoenix."
+ },
+ {
+  "name": "Bant Midrange",
+  "slug": "bant-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Bant Aggro",
+   "Bant Midrange",
+   "Bant Flash",
+   "Bant"
+  ],
+  "cover": "Vivien, Champion of the Wilds",
+  "keyCards": [
+   "Teferi, Time Raveler",
+   "Hydroid Krasis",
+   "Wildgrowth Walker",
+   "Vivien, Champion of the Wilds",
+   "Jadelight Ranger"
+  ],
+  "summary": {
+   "fr": "Midrange vert à exploration qui ajoute le blanc et le bleu pour Teferi, Time Raveler, Hydroid Krasis et Vivien, Champion of the Wilds.",
+   "en": "Green explore midrange adding white and blue for Teferi, Time Raveler, Hydroid Krasis and Vivien, Champion of the Wilds."
+  },
+  "why": {
+   "fr": [
+    "Teferi, Time Raveler limitait l'adversaire aux sorts à vitesse de rituel",
+    "Vivien permettait de lancer les créatures à vitesse instantanée et d'en trouver d'autres",
+    "Les créatures à exploration et Hydroid Krasis offraient une courbe solide"
+   ],
+   "en": [
+    "Teferi, Time Raveler limited opponents to sorcery-speed spells",
+    "Vivien let creatures be cast at instant speed and dug for more",
+    "Explore creatures and Hydroid Krasis gave a resilient curve"
+   ]
+  },
+  "note": "Bant Aggro title is War of the Spark Bant midrange; late (Aug-Sep) lists add Risen Reef."
+ },
+ {
+  "name": "Selesnya Tokens",
+  "slug": "selesnya-tokens",
+  "archetype": "midrange",
+  "titles": [
+   "Selesnya Tokens",
+   "Selesnya Aggro",
+   "Bant Tokens"
+  ],
+  "cover": "March of the Multitudes",
+  "keyCards": [
+   "March of the Multitudes",
+   "Saproling Migration",
+   "Flower/Flourish",
+   "Trostani Discordant",
+   "Emmara, Soul of the Accord"
+  ],
+  "summary": {
+   "fr": "Deck vert-blanc qui inonde la table de jetons et les renforce avec Trostani Discordant ou Flower/Flourish.",
+   "en": "Green-white go-wide deck that floods the board with tokens and pumps them with Trostani Discordant or Flower/Flourish."
+  },
+  "why": {
+   "fr": [
+    "Saproling Migration et History of Benalia alimentaient la convocation",
+    "March of the Multitudes pouvait être lancé à la fin du tour adverse",
+    "Les effets de bonus transformaient de nombreux petits corps en horloge rapide"
+   ],
+   "en": [
+    "Saproling Migration and History of Benalia fuelled convoke",
+    "March of the Multitudes could be cast at the end of the opponent's turn",
+    "Anthem effects turned many small bodies into a fast clock"
+   ]
+  }
+ },
+ {
+  "name": "Simic Nexus",
+  "slug": "simic-nexus",
+  "archetype": "combo",
+  "titles": [
+   "Nexus Reclamation",
+   "Simic Nexus",
+   "Fog",
+   "Simic Ramp",
+   "Temur Elemental Nexus"
+  ],
+  "cover": "Nexus of Fate",
+  "keyCards": [
+   "Nexus of Fate",
+   "Wilderness Reclamation",
+   "Root Snare",
+   "Growth Spiral",
+   "Tamiyo, Collector of Tales"
+  ],
+  "summary": {
+   "fr": "Deck de tours supplémentaires qui dégage ses terrains avec Wilderness Reclamation pour enchaîner Nexus of Fate, en survivant grâce à Root Snare.",
+   "en": "Extra-turn deck that untaps lands with Wilderness Reclamation to chain Nexus of Fate, surviving on Root Snare fogs."
+  },
+  "why": {
+   "fr": [
+    "Wilderness Reclamation doublait le mana disponible pour jouer à vitesse instantanée",
+    "Nexus of Fate retournait dans la bibliothèque, ce qui répétait les tours supplémentaires",
+    "Tamiyo récupérait Nexus of Fate et les fogs au cimetière"
+   ],
+   "en": [
+    "Wilderness Reclamation doubled the mana available for instant-speed turns",
+    "Nexus of Fate shuffled back into the library, so extra turns kept coming",
+    "Tamiyo returned Nexus of Fate and fogs from the graveyard"
+   ]
+  },
+  "note": "Nexus Reclamation + Simic Nexus (some WAR lists are Nissa ramp with Nexus) + Fog. Rep = Mythic Championship III winner list per mtgtop8."
+ },
+ {
+  "name": "Kethis Combo",
+  "slug": "kethis-combo",
+  "archetype": "combo",
+  "titles": [
+   "Kethis Combo",
+   "Kethis"
+  ],
+  "cover": "Kethis, the Hidden Hand",
+  "keyCards": [
+   "Kethis, the Hidden Hand",
+   "Diligent Excavator",
+   "Mox Amber",
+   "Fblthp, the Lost",
+   "Lazav, the Multifarious"
+  ],
+  "summary": {
+   "fr": "Combo légendaire qui relance Mox Amber et d'autres cartes historiques depuis le cimetière avec Kethis, pour meuler l'adversaire avec Diligent Excavator.",
+   "en": "Legendary combo that recasts Mox Amber and other historic cards from the graveyard with Kethis, milling the opponent with Diligent Excavator."
+  },
+  "why": {
+   "fr": [
+    "Mox Amber pouvait être relancé en boucle, déclenchant Diligent Excavator à chaque fois",
+    "Lazav pouvait copier Kethis au cimetière pour doubler le moteur",
+    "La boucle gagnait en meulant toute la bibliothèque adverse"
+   ],
+   "en": [
+    "Mox Amber could be recast repeatedly, triggering Diligent Excavator each time",
+    "Lazav could copy Kethis from the graveyard as a second engine",
+    "The loop won by milling the opponent's library"
+   ]
+  }
+ },
+ {
+  "name": "Gruul Aggro",
+  "slug": "gruul-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Gruul Aggro",
+   "Gruul Midrange",
+   "Gruul PW Aggro",
+   "Chainwhirler Forest",
+   "Jund Aggro",
+   "Grb Midrange",
+   "Jund Midrange",
+   "Gruul Monsters"
+  ],
+  "rep": 349928,
+  "cover": "Gruul Spellbreaker",
+  "keyCards": [
+   "Gruul Spellbreaker",
+   "Skarrgan Hellkite",
+   "Rekindling Phoenix",
+   "Domri, Anarch of Bolas",
+   "Llanowar Elves"
+  ],
+  "summary": {
+   "fr": "Beatdown rouge-vert qui accélère avec Llanowar Elves vers des menaces efficaces comme Gruul Spellbreaker, Rekindling Phoenix et Skarrgan Hellkite.",
+   "en": "Red-green beatdown accelerating with Llanowar Elves into efficient threats such as Gruul Spellbreaker, Rekindling Phoenix and Skarrgan Hellkite."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à émeute attaquaient tout de suite ou dépassaient les bloqueurs",
+    "Rekindling Phoenix et Skarrgan Hellkite résistaient bien aux decks de removals",
+    "Les burns dégageaient les bloqueurs et achevaient l'adversaire"
+   ],
+   "en": [
+    "Riot creatures attacked at once or grew past blockers",
+    "Rekindling Phoenix and Skarrgan Hellkite were hard for removal decks to answer",
+    "Burn spells cleared blockers and finished opponents"
+   ]
+  },
+  "note": "Includes Gruul Midrange / PW / Jund Aggro / Chainwhirler variants. Rep = GP Kansas City finalist."
+ },
+ {
+  "name": "Mono-Blue Tempo",
+  "slug": "mono-blue-tempo",
+  "archetype": "tempo",
+  "titles": [
+   "Mono Blue Aggro",
+   "Mono Blue Tempo"
+  ],
+  "cover": "Curious Obsession",
+  "keyCards": [
+   "Curious Obsession",
+   "Tempest Djinn",
+   "Merfolk Trickster",
+   "Siren Stormtamer",
+   "Wizard's Retort"
+  ],
+  "summary": {
+   "fr": "Tempo mono-bleu avec des volants bon marché, Curious Obsession pour piocher et Tempest Djinn, protégés par des contresorts et Dive Down.",
+   "en": "Mono-blue tempo with cheap fliers, Curious Obsession for card draw and Tempest Djinn, protected by counters and Dive Down."
+  },
+  "why": {
+   "fr": [
+    "Curious Obsession sur une créature évasive précoce piochait une carte de plus par tour",
+    "Tempest Djinn frappait fort avec une base de mana composée uniquement d'Island",
+    "Wizard's Retort et Spell Pierce contraient removals et balayages pour peu de mana"
+   ],
+   "en": [
+    "Curious Obsession on an early evasive creature drew an extra card each turn",
+    "Tempest Djinn hit hard with an all-Island mana base",
+    "Wizard's Retort and Spell Pierce answered removal and sweepers cheaply"
+   ]
+  },
+  "note": "Rep = Mythic Championship I winner."
+ },
+ {
+  "name": "Boros Feather",
+  "slug": "boros-feather",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Feather",
+   "Naya Feather"
+  ],
+  "rep": 354886,
+  "cover": "Feather, the Redeemed",
+  "keyCards": [
+   "Feather, the Redeemed",
+   "Dreadhorde Arcanist",
+   "Gods Willing",
+   "Defiant Strike",
+   "Tenth District Legionnaire"
+  ],
+  "summary": {
+   "fr": "Deck Boros qui cible ses propres créatures avec des sorts bon marché et les récupère en main grâce à Feather, the Redeemed.",
+   "en": "Boros deck that targets its own creatures with cheap spells and gets those spells back in hand with Feather, the Redeemed."
+  },
+  "why": {
+   "fr": [
+    "Feather renvoyait en main chaque sort qui ciblait une créature alliée",
+    "Dreadhorde Arcanist relançait Defiant Strike et Gods Willing depuis le cimetière",
+    "Tenth District Legionnaire grandissait et regardait le dessus de la bibliothèque à chaque sort ciblé"
+   ],
+   "en": [
+    "Feather returned each targeting spell to hand for reuse",
+    "Dreadhorde Arcanist recast Defiant Strike and Gods Willing from the graveyard",
+    "Tenth District Legionnaire grew and scried with every targeting spell"
+   ]
+  },
+  "note": "Naya Feather merged. Rep = Boros list (MTGO MCQ winner) instead of default Naya list."
+ },
+ {
+  "name": "Grixis Control",
+  "slug": "grixis-control",
+  "archetype": "control",
+  "titles": [
+   "Grixis Control",
+   "Grixis-control"
+  ],
+  "cover": "Nicol Bolas, Dragon-God",
+  "keyCards": [
+   "Nicol Bolas, Dragon-God",
+   "Nicol Bolas, the Ravager",
+   "Thought Erasure",
+   "Discovery/Dispersal",
+   "Bedevil"
+  ],
+  "summary": {
+   "fr": "Contrôle tricolore construit autour des deux cartes Nicol Bolas, avec défausse et removals pour atteindre Nicol Bolas, Dragon-God.",
+   "en": "Three-colour control built around both Nicol Bolas cards, using discard and removal to reach Nicol Bolas, Dragon-God."
+  },
+  "why": {
+   "fr": [
+    "Nicol Bolas, Dragon-God piochait et forçait l'adversaire à exiler cartes ou permanents",
+    "Bedevil et Ritual of Soot géraient créatures et planeswalkers",
+    "Thought Erasure et Discovery/Dispersal filtraient la pioche tout en perturbant"
+   ],
+   "en": [
+    "Nicol Bolas, Dragon-God drew cards and made opponents exile cards or permanents",
+    "Bedevil and Ritual of Soot handled creatures and planeswalkers",
+    "Thought Erasure and Discovery/Dispersal filtered draws while disrupting"
+   ]
+  }
+ },
+ {
+  "name": "Jeskai Superfriends",
+  "slug": "jeskai-superfriends",
+  "archetype": "control",
+  "titles": [
+   "Jeskai PW",
+   "Jeskai Planeswalker",
+   "Jeskai Superfriends",
+   "Jeskai Walkers"
+  ],
+  "cover": "Sarkhan the Masterless",
+  "keyCards": [
+   "Narset, Parter of Veils",
+   "Sarkhan the Masterless",
+   "Teferi, Time Raveler",
+   "Kasmina, Enigmatic Mentor",
+   "Deafening Clarion"
+  ],
+  "summary": {
+   "fr": "Contrôle Jeskai rempli de planeswalkers de War of the Spark, que Sarkhan the Masterless transforme en Dragons attaquants.",
+   "en": "Jeskai control packed with War of the Spark planeswalkers, which Sarkhan the Masterless turns into attacking Dragons."
+  },
+  "why": {
+   "fr": [
+    "Interplanar Beacon aidait à lancer de nombreux planeswalkers et faisait gagner des points de vie",
+    "Narset et Teferi, Time Raveler perturbaient la pioche et les réponses instantanées",
+    "Sarkhan transformait chaque planeswalker en Dragon volant pour le tour"
+   ],
+   "en": [
+    "Interplanar Beacon helped cast many planeswalkers and gained life",
+    "Narset and Teferi, Time Raveler disrupted card draw and instant-speed answers",
+    "Sarkhan turned every planeswalker into a flying Dragon for the turn"
+   ]
+  },
+  "note": "Jeskai PW / Planeswalker / Superfriends / Walkers titles."
+ },
+ {
+  "name": "4c Dreadhorde",
+  "slug": "4c-dreadhorde",
+  "archetype": "midrange",
+  "titles": [
+   "Command the Dreadhorde",
+   "4c Dreadhorde"
+  ],
+  "cover": "Command the Dreadhorde",
+  "keyCards": [
+   "Command the Dreadhorde",
+   "Tamiyo, Collector of Tales",
+   "Teferi, Time Raveler",
+   "Wildgrowth Walker",
+   "Massacre Girl"
+  ],
+  "summary": {
+   "fr": "Midrange quatre couleurs qui combine les créatures à exploration Sultai et Teferi avec Command the Dreadhorde pour réanimer des permanents clés.",
+   "en": "Four-colour midrange combining Sultai explore creatures and Teferi with Command the Dreadhorde to reanimate key permanents."
+  },
+  "why": {
+   "fr": [
+    "Wildgrowth Walker et l'exploration rapportaient des points de vie pour Command the Dreadhorde",
+    "Command the Dreadhorde ramenait créatures et planeswalkers de n'importe quel cimetière",
+    "Interplanar Beacon aidait à lancer des planeswalkers sur quatre couleurs"
+   ],
+   "en": [
+    "Wildgrowth Walker and explore gained life to pay for Command the Dreadhorde",
+    "Command the Dreadhorde returned creatures and planeswalkers from any graveyard",
+    "Interplanar Beacon helped cast planeswalkers in four colours"
+   ]
+  },
+  "note": "Results come mostly from MPL Spark Split weeks."
+ },
+ {
+  "name": "Dimir Control",
+  "slug": "dimir-control",
+  "archetype": "control",
+  "titles": [
+   "UB Control"
+  ],
+  "cover": "Enter the God-Eternals",
+  "keyCards": [
+   "Enter the God-Eternals",
+   "Thief of Sanity",
+   "God-Eternal Kefnet",
+   "Thought Erasure",
+   "Augur of Bolas"
+  ],
+  "summary": {
+   "fr": "Contrôle bleu-noir avec Augur of Bolas, des removals et Thief of Sanity, qui renverse les courses avec Enter the God-Eternals.",
+   "en": "Blue-black control with Augur of Bolas, removal and Thief of Sanity, swinging races with Enter the God-Eternals."
+  },
+  "why": {
+   "fr": [
+    "Enter the God-Eternals tuait une créature, faisait gagner des points de vie et créait une Armée",
+    "Thief of Sanity lançait des sorts pris dans la bibliothèque adverse",
+    "Deux couleurs offraient une base de mana plus stable qu'Esper ou Grixis"
+   ],
+   "en": [
+    "Enter the God-Eternals killed a creature, gained life and added an Army",
+    "Thief of Sanity cast spells taken from the opponent's library",
+    "Two colours gave a steadier mana base than Esper or Grixis"
+   ]
+  },
+  "note": "UB Control title."
+ },
+ {
+  "name": "Jund Dinosaurs",
+  "slug": "jund-dinosaurs",
+  "archetype": "midrange",
+  "titles": [
+   "DinoJund",
+   "Dino Jund",
+   "Jund Dinosaurs",
+   "Gr Dinosaurs"
+  ],
+  "cover": "Marauding Raptor",
+  "keyCards": [
+   "Marauding Raptor",
+   "Ripjaw Raptor",
+   "Regisaur Alpha",
+   "Ghalta, Primal Hunger",
+   "Rotting Regisaur"
+  ],
+  "summary": {
+   "fr": "Deck Dinosaures Gruul teinté noir, qui utilise Marauding Raptor pour réduire le coût des menaces et déclencher l'enrage de Ripjaw Raptor.",
+   "en": "Gruul Dinosaur deck splashing black, using Marauding Raptor to cheapen threats and trigger Ripjaw Raptor's enrage."
+  },
+  "why": {
+   "fr": [
+    "Marauding Raptor blessait les Dinosaures arrivants, ce qui faisait piocher avec Ripjaw Raptor",
+    "Rotting Regisaur offrait un corps démesuré dès le début de partie",
+    "Ghalta, Primal Hunger arrivait pour peu de mana derrière de grosses créatures"
+   ],
+   "en": [
+    "Marauding Raptor damaged incoming Dinosaurs, drawing cards with Ripjaw Raptor",
+    "Rotting Regisaur provided an oversized early body",
+    "Ghalta, Primal Hunger came down cheaply behind big creatures"
+   ]
+  },
+  "note": "M20 Jund Dinos plus one GRN Gruul Dinosaurs list."
+ },
+ {
+  "name": "Temur Reclamation",
+  "slug": "temur-reclamation",
+  "archetype": "control",
+  "titles": [
+   "Temur Reclamation"
+  ],
+  "cover": "Wilderness Reclamation",
+  "keyCards": [
+   "Wilderness Reclamation",
+   "Expansion/Explosion",
+   "Growth Spiral",
+   "Ral, Storm Conduit",
+   "Chemister's Insight"
+  ],
+  "summary": {
+   "fr": "Contrôle bleu-rouge-vert qui dégage ses terrains avec Wilderness Reclamation pour jouer des éphémères à chaque tour et conclure avec Expansion/Explosion.",
+   "en": "Blue-red-green control that untaps lands with Wilderness Reclamation to cast instants on both turns and finish with Expansion/Explosion."
+  },
+  "why": {
+   "fr": [
+    "Wilderness Reclamation permettait de garder du mana ouvert sans le perdre",
+    "Explosion transformait le mana en trop en dégâts et en pioche",
+    "Burns et contresorts couvraient les matchs contre l'aggro et le contrôle"
+   ],
+   "en": [
+    "Wilderness Reclamation let the deck hold up mana and still spend it",
+    "Explosion turned surplus mana into damage and card draw",
+    "Burn and counterspells covered both aggro and control matchups"
+   ]
+  }
+ },
+ {
+  "name": "Bant Ramp",
+  "slug": "bant-ramp",
+  "archetype": "ramp",
+  "titles": [
+   "Bant Control",
+   "Bant Ramp",
+   "Bant Manipulation",
+   "Bant Ramp Manipulation",
+   "Bant Mass Manipulation",
+   "Simic Mass Manipulation",
+   "Simic Manipulation",
+   "Bant Hydra"
+  ],
+  "rep": 350315,
+  "cover": "Mass Manipulation",
+  "keyCards": [
+   "Nissa, Who Shakes the World",
+   "Mass Manipulation",
+   "Hydroid Krasis",
+   "Incubation Druid",
+   "Paradise Druid"
+  ],
+  "summary": {
+   "fr": "Rampe verte à base de créatures à mana vers Nissa, Who Shakes the World, Hydroid Krasis et Mass Manipulation, avec un splash blanc pour Teferi.",
+   "en": "Green mana-creature ramp into Nissa, Who Shakes the World, Hydroid Krasis and Mass Manipulation, splashing white for Teferi."
+  },
+  "why": {
+   "fr": [
+    "Nissa doublait le mana des Forest pour des sorts X massifs",
+    "Mass Manipulation volait plusieurs des meilleurs permanents adverses",
+    "Incubation Druid et Paradise Druid accéléraient dès les premiers tours"
+   ],
+   "en": [
+    "Nissa doubled the mana from Forests to power large X spells",
+    "Mass Manipulation stole several of the opponent's best permanents",
+    "Incubation Druid and Paradise Druid accelerated from the first turns"
+   ]
+  },
+  "note": "Bant/Simic Mass Manipulation ramp titles merged; rep = GP Taipei winner."
+ },
+ {
+  "name": "Boros Angels",
+  "slug": "boros-angels",
+  "archetype": "midrange",
+  "titles": [
+   "Boros Angels",
+   "Jeskai Aggro"
+  ],
+  "cover": "Lyra Dawnbringer",
+  "keyCards": [
+   "Lyra Dawnbringer",
+   "Resplendent Angel",
+   "Aurelia, Exemplar of Justice",
+   "Rekindling Phoenix",
+   "History of Benalia"
+  ],
+  "summary": {
+   "fr": "Midrange rouge-blanc avec une courbe de volants résistants, de Resplendent Angel et Rekindling Phoenix jusqu'à Lyra Dawnbringer.",
+   "en": "Red-white midrange with a curve of resilient fliers, from Resplendent Angel and Rekindling Phoenix up to Lyra Dawnbringer."
+  },
+  "why": {
+   "fr": [
+    "Lyra Dawnbringer donnait le lien de vie aux Anges face à l'aggro rouge",
+    "Aurelia faisait de n'importe quelle créature une menace rapide et évasive",
+    "Lava Coil et Ixalan's Binding dégageaient le passage"
+   ],
+   "en": [
+    "Lyra Dawnbringer gave Angels lifelink against red aggro",
+    "Aurelia turned any creature into a fast evasive threat",
+    "Lava Coil and Ixalan's Binding cleared the way"
+   ]
+  },
+  "note": "Early-season deck; Jeskai Aggro (Angels + Teferi) merged."
+ },
+ {
+  "name": "Rakdos Aggro",
+  "slug": "rakdos-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Rakdos Aggro"
+  ],
+  "cover": "Rotting Regisaur",
+  "keyCards": [
+   "Rotting Regisaur",
+   "Knight of the Ebon Legion",
+   "Gutterbones",
+   "Dreadhorde Butcher",
+   "Experimental Frenzy"
+  ],
+  "summary": {
+   "fr": "Aggro noir-rouge qui utilise les menaces de Core Set 2020 comme Rotting Regisaur et Knight of the Ebon Legion, avec Experimental Frenzy pour recharger.",
+   "en": "Black-red aggro using Core Set 2020 threats such as Rotting Regisaur and Knight of the Ebon Legion, with Experimental Frenzy as reload."
+  },
+  "why": {
+   "fr": [
+    "Rotting Regisaur offrait un corps démesuré dès le début de partie",
+    "Gutterbones et Dreadhorde Butcher mettaient la pression dès les premiers tours",
+    "Lava Coil exilait les bloqueurs, y compris les créatures récursives"
+   ],
+   "en": [
+    "Rotting Regisaur provided an oversized early body",
+    "Gutterbones and Dreadhorde Butcher pressured from the first turns",
+    "Lava Coil exiled blockers such as recursive creatures"
+   ]
+  }
+ },
+ {
+  "name": "Temur Elementals",
+  "slug": "temur-elementals",
+  "archetype": "midrange",
+  "titles": [
+   "Temur Elemental",
+   "Temur Elementals",
+   "Temur Elemental aggro"
+  ],
+  "cover": "Omnath, Locus of the Roil",
+  "keyCards": [
+   "Risen Reef",
+   "Omnath, Locus of the Roil",
+   "Leafkin Druid",
+   "Creeping Trailblazer",
+   "Cavalier of Thorns"
+  ],
+  "summary": {
+   "fr": "Midrange tribal Élémentaux de Core Set 2020, qui enchaîne les déclenchements de Risen Reef vers Omnath, Locus of the Roil et Cavalier of Thorns.",
+   "en": "Elemental tribal midrange from Core Set 2020, chaining Risen Reef triggers into Omnath, Locus of the Roil and Cavalier of Thorns."
+  },
+  "why": {
+   "fr": [
+    "Risen Reef piochait ou accélérait à chaque Élémental",
+    "Leafkin Druid et Creeping Trailblazer étaient des Élémentaux bon marché",
+    "Omnath infligeait des blessures à chaque arrivée d'Élémental"
+   ],
+   "en": [
+    "Risen Reef drew cards or ramped with each Elemental",
+    "Leafkin Druid and Creeping Trailblazer were cheap Elementals",
+    "Omnath dealt damage whenever another Elemental entered"
+   ]
+  }
+ },
+ {
+  "name": "Golos Field",
+  "slug": "golos-field",
+  "archetype": "ramp",
+  "titles": [
+   "Golos Nexus",
+   "Bant Nexus Golos",
+   "Incomplete 5c Nexus",
+   "Jund Golos",
+   "Golos Ramp",
+   "Nexus Elementals"
+  ],
+  "cover": "Golos, Tireless Pilgrim",
+  "keyCards": [
+   "Golos, Tireless Pilgrim",
+   "Field of the Dead",
+   "Nexus of Fate",
+   "Circuitous Route",
+   "Risen Reef"
+  ],
+  "summary": {
+   "fr": "Rampe multicolore jouant Guildgates et Temples pour activer Field of the Dead, avec Golos qui cherche des terrains et lance des sorts gratuits.",
+   "en": "Multicolour ramp running Guildgates and Temples to enable Field of the Dead, with Golos fetching lands and casting free spells."
+  },
+  "why": {
+   "fr": [
+    "Golos cherchait un terrain en arrivant puis lançait gratuitement des cartes de la bibliothèque",
+    "Les nombreux terrains en un exemplaire activaient vite les Zombies de Field of the Dead",
+    "Nexus of Fate ajoutait des tours supplémentaires une fois le mana abondant"
+   ],
+   "en": [
+    "Golos fetched a land on arrival and later cast cards from the library for free",
+    "Many singleton lands quickly enabled Field of the Dead Zombies",
+    "Nexus of Fate added extra turns once mana was plentiful"
+   ]
+  },
+  "note": "Golos-based Field decks (Nexus, Jund, 5c). Golos Ramp from first ELD-legal week merged."
+ },
+ {
+  "name": "Simic Food",
+  "slug": "simic-food",
+  "archetype": "ramp",
+  "titles": [
+   "Simic PW",
+   "Simic Aggro",
+   "Simic Oko",
+   "Bant PW",
+   "Simic Emry"
+  ],
+  "cover": "Oko, Thief of Crowns",
+  "keyCards": [
+   "Oko, Thief of Crowns",
+   "Gilded Goose",
+   "Nissa, Who Shakes the World",
+   "Hydroid Krasis",
+   "Wicked Wolf"
+  ],
+  "summary": {
+   "fr": "Rampe Simic des premières semaines de Throne of Eldraine, qui combine Gilded Goose et créatures à mana avec Oko, Thief of Crowns et Nissa.",
+   "en": "Simic ramp from the first Throne of Eldraine weeks, combining Gilded Goose and mana creatures with Oko, Thief of Crowns and Nissa."
+  },
+  "why": {
+   "fr": [
+    "Oko créait de la Food chaque tour ou transformait une menace adverse en simple Élan",
+    "Gilded Goose accélérait Oko et fournissait de la Food",
+    "Wicked Wolf éliminait des créatures et utilisait la Food pour se protéger"
+   ],
+   "en": [
+    "Oko made Food each turn or turned an opposing threat into a plain Elk",
+    "Gilded Goose accelerated Oko and supplied Food",
+    "Wicked Wolf removed creatures and used Food for protection"
+   ]
+  },
+  "note": "Late-September 2019 events (ELD legal online before the season boundary). One unrelated May 'Simic Aggro' row included in stats."
+ },
+ {
+  "name": "Esper Doom",
+  "slug": "esper-doom",
+  "archetype": "control",
+  "titles": [
+   "Esper Doom"
+  ],
+  "cover": "Doom Foretold",
+  "keyCards": [
+   "Doom Foretold",
+   "Golden Egg",
+   "Guild Globe",
+   "Dance of the Manse",
+   "Kaya's Wrath"
+  ],
+  "summary": {
+   "fr": "Contrôle-prison Esper qui sacrifie des artefacts bon marché comme Golden Egg à Doom Foretold, puis les ramène avec Dance of the Manse.",
+   "en": "Esper prison-control that feeds cheap artifacts like Golden Egg to Doom Foretold, then returns them with Dance of the Manse."
+  },
+  "why": {
+   "fr": [
+    "Golden Egg et Guild Globe servaient de fourrage bon marché pour Doom Foretold",
+    "Kaya's Wrath et Oath of Kaya limitaient la table adverse",
+    "Dance of the Manse ramenait les artefacts sacrifiés sous forme de créatures"
+   ],
+   "en": [
+    "Golden Egg and Guild Globe were cheap fodder for Doom Foretold",
+    "Kaya's Wrath and Oath of Kaya kept the opponent's board small",
+    "Dance of the Manse returned sacrificed artifacts as creatures"
+   ]
+  },
+  "note": "Only two results, first ELD-legal week online."
+ },
+ {
+  "name": "Mono-Green Aggro",
+  "slug": "mono-green-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Mono Green Aggro",
+   "Ug Monsters"
+  ],
+  "cover": "Steel Leaf Champion",
+  "keyCards": [
+   "Steel Leaf Champion",
+   "Pelt Collector",
+   "Vivien, Arkbow Ranger",
+   "Hadana's Climb",
+   "Barkhide Troll"
+  ],
+  "summary": {
+   "fr": "Stompy vert avec Pelt Collector, Steel Leaf Champion et Vivien, Arkbow Ranger, qui ne joue le bleu que pour Hadana's Climb.",
+   "en": "Green stompy with Pelt Collector, Steel Leaf Champion and Vivien, Arkbow Ranger, splashing blue only for Hadana's Climb."
+  },
+  "why": {
+   "fr": [
+    "Steel Leaf Champion ne pouvait pas être bloqué par les petites créatures",
+    "Vivien, Arkbow Ranger renforçait l'équipe et combattait les bloqueurs",
+    "Pelt Collector et Barkhide Troll grandissaient vite grâce aux marqueurs"
+   ],
+   "en": [
+    "Steel Leaf Champion could not be blocked by small creatures",
+    "Vivien, Arkbow Ranger pumped the team and fought blockers",
+    "Pelt Collector and Barkhide Troll grew quickly with counters"
+   ]
+  },
+  "note": "Ug Monsters (RNA green stompy) merged."
+ },
+ {
+  "name": "Izzet Wizards",
+  "slug": "izzet-wizards",
+  "archetype": "tempo",
+  "titles": [
+   "UR Wizards Aggro"
+  ],
+  "cover": "Adeliz, the Cinder Wind",
+  "keyCards": [
+   "Adeliz, the Cinder Wind",
+   "Dreadhorde Arcanist",
+   "Wizard's Lightning",
+   "Goblin Electromancer",
+   "Naru Meha, Master Wizard"
+  ],
+  "summary": {
+   "fr": "Tempo Wizards bleu-rouge construit autour d'Adeliz, the Cinder Wind, qui renforce l'équipe à chaque éphémère ou rituel.",
+   "en": "Blue-red Wizard tempo built around Adeliz, the Cinder Wind, which pumps the team with each instant and sorcery."
+  },
+  "why": {
+   "fr": [
+    "Adeliz renforçait chaque Wizard à chaque éphémère ou rituel lancé",
+    "Dreadhorde Arcanist relançait des sorts bon marché comme Opt et Shock",
+    "Wizard's Lightning et Wizard's Retort coûtaient moins cher avec des Wizards en jeu"
+   ],
+   "en": [
+    "Adeliz pumped every Wizard whenever an instant or sorcery was cast",
+    "Dreadhorde Arcanist recast cheap spells such as Opt and Shock",
+    "Wizard's Lightning and Wizard's Retort got cheaper with Wizards in play"
+   ]
+  },
+  "note": "Single MPL Spark Split result (counted as a win); weak evidence."
+ }
+]

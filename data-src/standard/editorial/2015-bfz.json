@@ -1,0 +1,1086 @@
+[
+  {
+    "name": "Bant Company",
+    "slug": "bant-company",
+    "archetype": "midrange",
+    "titles": [
+      "Collected Bant",
+      "Bant Company",
+      "Bant Aggro",
+      "HQ Collected Bant",
+      "Company"
+    ],
+    "cover": "Collected Company",
+    "keyCards": [
+      "Collected Company",
+      "Reflector Mage",
+      "Sylvan Advocate",
+      "Duskwatch Recruiter",
+      "Jace, Vryn's Prodigy"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc-bleu à base de créatures à trois mana ou moins, mises en jeu par paires avec Collected Company.",
+      "en": "Green-white-blue creature midrange built on three-drops or less, put into play two at a time by Collected Company."
+    },
+    "why": {
+      "fr": [
+        "Reflector Mage renvoyait une créature et l'empêchait de revenir pendant un tour",
+        "Collected Company donnait de l'avantage de cartes à vitesse instantanée",
+        "Duskwatch Recruiter assurait un flux de créatures en fin de partie"
+      ],
+      "en": [
+        "Reflector Mage bounced a creature and kept it off the table for a turn",
+        "Collected Company provided instant-speed card advantage",
+        "Duskwatch Recruiter kept creatures flowing in the late game"
+      ]
+    },
+    "note": "Covers the OGW-SOI version and the EMN version with Spell Queller ('HQ Collected Bant'). A few early 'Bant Aggro' rows are other green-white decks."
+  },
+  {
+    "name": "GW Tokens",
+    "slug": "gw-tokens",
+    "archetype": "midrange",
+    "titles": [
+      "Selesnya Tokens",
+      "GW Tokens",
+      "Green-White Tokens",
+      "Selesnya Token",
+      "Selesnya Aggro",
+      "Selesnya PW",
+      "Naya PW"
+    ],
+    "rep": 269918,
+    "cover": "Archangel Avacyn",
+    "keyCards": [
+      "Gideon, Ally of Zendikar",
+      "Nissa, Voice of Zendikar",
+      "Archangel Avacyn",
+      "Sylvan Advocate",
+      "Hangarback Walker"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc fondé sur les planeswalkers : Gideon et Nissa produisent des jetons, Archangel Avacyn et Westvale Abbey complètent la pression.",
+      "en": "Planeswalker-based green-white midrange: Gideon and Nissa make tokens, Archangel Avacyn and Westvale Abbey add pressure."
+    },
+    "why": {
+      "fr": [
+        "Gideon, Ally of Zendikar produisait une menace chaque tour",
+        "Archangel Avacyn protégeait le board au moment des combats",
+        "Les jetons supportaient bien le removal ciblé"
+      ],
+      "en": [
+        "Gideon, Ally of Zendikar created a threat every turn",
+        "Archangel Avacyn protected the board during combat",
+        "Tokens made targeted removal less effective"
+      ]
+    },
+    "note": "Rep = Steve Rubin's Pro Tour Shadows Over Innistrad winning list. Early-season 'Selesnya Aggro' rows are GW Megamorph lists; 'Naya PW' adds Arlinn Kord to the same shell."
+  },
+  {
+    "name": "Abzan Midrange",
+    "slug": "abzan-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Abzan Midrange",
+      "Abzan",
+      "Abzan Aggro"
+    ],
+    "rep": 261044,
+    "cover": "Siege Rhino",
+    "keyCards": [
+      "Siege Rhino",
+      "Anafenza, the Foremost",
+      "Gideon, Ally of Zendikar",
+      "Den Protector",
+      "Abzan Charm"
+    ],
+    "summary": {
+      "fr": "Abzan d'après la rotation : courbe de créatures efficaces avec Warden of the First Tree et Anafenza, Siege Rhino et Gideon pour finir.",
+      "en": "Post-rotation Abzan: an efficient creature curve with Warden of the First Tree and Anafenza, Siege Rhino and Gideon on top."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands et les nouvelles terres de Battle for Zendikar stabilisaient la manabase tricolore",
+        "Gideon et Siege Rhino gagnaient les échanges midrange",
+        "Abzan Charm et Dromoka's Command couvraient les menaces adverses"
+      ],
+      "en": [
+        "Fetchlands and the new Zendikar dual lands made three colours reliable",
+        "Gideon and Siege Rhino won midrange exchanges",
+        "Abzan Charm and Dromoka's Command covered opposing threats"
+      ]
+    },
+    "note": "Rep = Pro Tour Battle for Zendikar winning list. Mostly Khans-era lists until the April 2016 rotation."
+  },
+  {
+    "name": "Mono-White Humans",
+    "slug": "mono-white-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White",
+      "W/U Humans",
+      "Mono-White Humans",
+      "RW Humans",
+      "RW Aggro"
+    ],
+    "cover": "Thalia's Lieutenant",
+    "keyCards": [
+      "Thalia's Lieutenant",
+      "Always Watching",
+      "Declaration in Stone",
+      "Town Gossipmonger",
+      "Thraben Inspector"
+    ],
+    "summary": {
+      "fr": "Aggro blanc à base d'Humains bon marché, gonflés par Thalia's Lieutenant, Always Watching et Gryff's Boon.",
+      "en": "White aggro built on cheap Humans, pumped by Thalia's Lieutenant, Always Watching and Gryff's Boon."
+    },
+    "why": {
+      "fr": [
+        "Une courbe très basse et une manabase quasi mono-couleur",
+        "Declaration in Stone gérait les bloqueurs pour deux mana"
+      ],
+      "en": [
+        "A very low curve and a near-mono-colour mana base",
+        "Declaration in Stone removed blockers for two mana"
+      ]
+    },
+    "note": "Some lists splash red (Battlefield Forge) or green; all share the white Humans core."
+  },
+  {
+    "name": "Bant Humans",
+    "slug": "bant-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Bant Humans"
+    ],
+    "cover": "Thalia, Heretic Cathar",
+    "keyCards": [
+      "Thalia's Lieutenant",
+      "Thalia, Heretic Cathar",
+      "Reflector Mage",
+      "Collected Company",
+      "Tireless Tracker"
+    ],
+    "summary": {
+      "fr": "Aggro Humains vert-blanc splash bleu, qui combine Thalia's Lieutenant, Reflector Mage et Collected Company.",
+      "en": "Green-white Humans splashing blue, combining Thalia's Lieutenant, Reflector Mage and Collected Company."
+    },
+    "why": {
+      "fr": [
+        "Thalia, Heretic Cathar ralentissait les créatures et les terres adverses",
+        "Collected Company trouvait des Humains à vitesse instantanée"
+      ],
+      "en": [
+        "Thalia, Heretic Cathar slowed opposing creatures and lands",
+        "Collected Company found Humans at instant speed"
+      ]
+    },
+    "note": "Rep = Brian Braun-Duin's 2016 World Championship winning list."
+  },
+  {
+    "name": "Esper Dragons",
+    "slug": "esper-dragons",
+    "archetype": "control",
+    "titles": [
+      "Esper Control",
+      "Esper Dragons",
+      "Esper Dragon"
+    ],
+    "cover": "Dragonlord Ojutai",
+    "keyCards": [
+      "Dragonlord Ojutai",
+      "Dragonlord Silumgar",
+      "Silumgar's Scorn",
+      "Jace, Vryn's Prodigy",
+      "Foul-Tongue Invocation"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-blanc qui utilise les dragons pour bonifier contresorts et removal, avec Dragonlord Ojutai et Silumgar pour gagner.",
+      "en": "Blue-black-white control using dragons to power counterspells and removal, with Dragonlord Ojutai and Silumgar as finishers."
+    },
+    "why": {
+      "fr": [
+        "Jace, Vryn's Prodigy filtrait la pioche et rejouait les sorts du cimetière",
+        "Dragonlord Silumgar volait la meilleure menace adverse"
+      ],
+      "en": [
+        "Jace, Vryn's Prodigy filtered draws and recast spells from the graveyard",
+        "Dragonlord Silumgar stole the opponent's best threat"
+      ]
+    },
+    "note": "The 'Esper Control' title also holds dragon-less Esper lists (Ugin, Narset, Sphinx of the Final Word)."
+  },
+  {
+    "name": "Esper Midrange",
+    "slug": "esper-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Esper Midrange"
+    ],
+    "cover": "Monastery Mentor",
+    "keyCards": [
+      "Monastery Mentor",
+      "Gideon, Ally of Zendikar",
+      "Jace, Vryn's Prodigy",
+      "Seeker of the Way",
+      "Silkwrap"
+    ],
+    "summary": {
+      "fr": "Midrange tricolore à base de sorts bon marché, Monastery Mentor et Seeker of the Way, avec Gideon et Dragonlord Ojutai en haut de courbe.",
+      "en": "Three-colour midrange with cheap spells, Monastery Mentor and Seeker of the Way, topped by Gideon and Dragonlord Ojutai."
+    },
+    "why": {
+      "fr": [
+        "Monastery Mentor transformait discard et removal en jetons",
+        "Silkwrap et Duress gardaient la courbe basse"
+      ],
+      "en": [
+        "Monastery Mentor turned discard and removal into tokens",
+        "Silkwrap and Duress kept the curve low"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Control",
+    "slug": "orzhov-control",
+    "archetype": "control",
+    "titles": [
+      "Orzhov Control",
+      "BW Control",
+      "White-Black Control",
+      "WB Control",
+      "Orzhov Token",
+      "Abzan PW Control"
+    ],
+    "cover": "Languish",
+    "keyCards": [
+      "Languish",
+      "Grasp of Darkness",
+      "Sorin, Grim Nemesis",
+      "Ob Nixilis Reignited",
+      "Read the Bones"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-noir : removal ponctuel, Languish et pioche, puis planeswalkers et anges pour finir.",
+      "en": "White-black control: spot removal, Languish and card draw, then planeswalkers and angels to finish."
+    },
+    "why": {
+      "fr": [
+        "Languish balayait les decks de jetons et d'Humains",
+        "Les planeswalkers donnaient de l'avantage dans les parties longues",
+        "Une manabase bicolore stable avec Shambling Vent"
+      ],
+      "en": [
+        "Languish swept token and Humans decks",
+        "Planeswalkers produced advantage in long games",
+        "A stable two-colour mana base with Shambling Vent"
+      ]
+    },
+    "note": "Pre-rotation (late 2015) rows are WB Gideon midrange lists with Knight of the White Orchid and Wingmate Roc; post-SOI rows are draw-go control. Rep = Pro Tour Eldritch Moon list ranked 1 on mtgtop8."
+  },
+  {
+    "name": "Abzan Control",
+    "slug": "abzan-control",
+    "archetype": "control",
+    "titles": [
+      "Abzan Control",
+      "Seasons Control",
+      "Abzan Seasons Past"
+    ],
+    "cover": "Seasons Past",
+    "keyCards": [
+      "Languish",
+      "Sylvan Advocate",
+      "Read the Bones",
+      "Sorin, Grim Nemesis",
+      "Seasons Past"
+    ],
+    "summary": {
+      "fr": "Contrôle noir splash vert et blanc : removal, Languish et pioche, avec Seasons Past pour récupérer ses meilleurs sorts.",
+      "en": "Black control splashing green and white: removal, Languish and card draw, with Seasons Past to buy back its best spells."
+    },
+    "why": {
+      "fr": [
+        "Seasons Past rendait plusieurs sorts de removal en fin de partie",
+        "Sylvan Advocate tenait le sol et devenait une menace tardive"
+      ],
+      "en": [
+        "Seasons Past returned several removal spells late in the game",
+        "Sylvan Advocate held the ground and became a late threat"
+      ]
+    },
+    "note": "Mixed title: one early-season Siege Rhino list; the rest are post-SOI Seasons Past builds."
+  },
+  {
+    "name": "Atarka Red",
+    "slug": "atarka-red",
+    "archetype": "aggro",
+    "titles": [
+      "Atarka Red",
+      "Atarka Deck Wins",
+      "Red Deck Wins",
+      "E7DW"
+    ],
+    "cover": "Atarka's Command",
+    "keyCards": [
+      "Atarka's Command",
+      "Become Immense",
+      "Temur Battle Rage",
+      "Monastery Swiftspear",
+      "Abbot of Keral Keep"
+    ],
+    "summary": {
+      "fr": "Aggro rouge splash vert à base de jetons et de prowess, qui finit avec Become Immense et Temur Battle Rage sur une seule créature.",
+      "en": "Red aggro splashing green with tokens and prowess, finishing with Become Immense and Temur Battle Rage on a single creature."
+    },
+    "why": {
+      "fr": [
+        "Become Immense et Temur Battle Rage permettaient de gagner en une attaque",
+        "Les fetchlands remplissaient le cimetière pour delve"
+      ],
+      "en": [
+        "Become Immense and Temur Battle Rage could win in a single attack",
+        "Fetchlands filled the graveyard for delve"
+      ]
+    },
+    "note": "Khans-era deck; leaves the format at the April 2016 rotation."
+  },
+  {
+    "name": "RG Landfall",
+    "slug": "rg-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Aggro",
+      "Gruul Landfall"
+    ],
+    "cover": "Scythe Leopard",
+    "keyCards": [
+      "Scythe Leopard",
+      "Snapping Gnarlid",
+      "Become Immense",
+      "Temur Battle Rage",
+      "Atarka's Command"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert qui exploite les fetchlands pour déclencher le landfall deux fois, puis finit avec Become Immense et Temur Battle Rage.",
+      "en": "Red-green aggro using fetchlands to trigger landfall twice, then finishing with Become Immense and Temur Battle Rage."
+    },
+    "why": {
+      "fr": [
+        "Les créatures landfall frappaient fort dès les premiers tours",
+        "Le même plan de pump que l'Atarka Red, avec des créatures plus grosses"
+      ],
+      "en": [
+        "Landfall creatures hit hard from the first turns",
+        "The same pump plan as Atarka Red, with bigger creatures"
+      ]
+    }
+  },
+  {
+    "name": "Four-Color Rally",
+    "slug": "four-color-rally",
+    "archetype": "combo",
+    "titles": [
+      "Abzan Rally",
+      "4c Rally",
+      "Rally - Collected 4c",
+      "4C Rally"
+    ],
+    "cover": "Rally the Ancestors",
+    "keyCards": [
+      "Rally the Ancestors",
+      "Collected Company",
+      "Zulaport Cutthroat",
+      "Nantuko Husk",
+      "Jace, Vryn's Prodigy"
+    ],
+    "summary": {
+      "fr": "Combo cimetière : remplit le cimetière de créatures, puis Rally the Ancestors les ramène et Nantuko Husk les sacrifie pour drainer avec Zulaport Cutthroat.",
+      "en": "Graveyard combo: fills the graveyard with creatures, then Rally the Ancestors returns them and Nantuko Husk sacrifices them to drain with Zulaport Cutthroat."
+    },
+    "why": {
+      "fr": [
+        "Le combo à vitesse instantanée échappait à l'interaction lente",
+        "Collected Company offrait un plan B de créatures"
+      ],
+      "en": [
+        "The instant-speed combo got around most sorcery-speed interaction",
+        "Collected Company gave a creature-based plan B"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control"
+    ],
+    "cover": "Kalitas, Traitor of Ghet",
+    "keyCards": [
+      "Kalitas, Traitor of Ghet",
+      "Jace, Vryn's Prodigy",
+      "Dig Through Time",
+      "Ruinous Path",
+      "Chandra, Flamecaller"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge à base de removal, de discard et de Dig Through Time, avec Kalitas et Chandra pour finir.",
+      "en": "Blue-black-red control built on removal, discard and Dig Through Time, with Kalitas and Chandra to close."
+    },
+    "why": {
+      "fr": [
+        "Kalitas punissait les decks de créatures et Rally the Ancestors",
+        "Le removal rouge et noir couvrait presque toutes les menaces"
+      ],
+      "en": [
+        "Kalitas punished creature decks and Rally the Ancestors",
+        "Red and black removal covered nearly every threat"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Black",
+    "slug": "jeskai-black",
+    "archetype": "midrange",
+    "titles": [
+      "Dark Jeskai",
+      "4/5C Control",
+      "4c Control",
+      "4c Control Control"
+    ],
+    "cover": "Soulfire Grand Master",
+    "keyCards": [
+      "Soulfire Grand Master",
+      "Jace, Vryn's Prodigy",
+      "Crackling Doom",
+      "Kolaghan's Command",
+      "Monastery Mentor"
+    ],
+    "summary": {
+      "fr": "Midrange-contrôle quadricolore autour du Jeskai splash noir : removal, Kolaghan's Command, Soulfire Grand Master et Monastery Mentor.",
+      "en": "Four-colour midrange-control around Jeskai splashing black: removal, Kolaghan's Command, Soulfire Grand Master and Monastery Mentor."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands rendaient la manabase à quatre couleurs viable",
+        "Soulfire Grand Master permettait de rejouer les sorts clés",
+        "Crackling Doom gérait les grosses créatures"
+      ],
+      "en": [
+        "Fetchlands made the four-colour mana base workable",
+        "Soulfire Grand Master allowed key spells to be reused",
+        "Crackling Doom handled large creatures"
+      ]
+    },
+    "note": "Includes 'Dark Jeskai' Mantis Rider builds (Jon Finkel, PT BFZ top 4) and 4c control builds; same Jeskai-black core."
+  },
+  {
+    "name": "Jeskai Midrange",
+    "slug": "jeskai-midrange",
+    "archetype": "tempo",
+    "titles": [
+      "Jeskai Midrange",
+      "Jeskai",
+      "4c Midrange"
+    ],
+    "cover": "Mantis Rider",
+    "keyCards": [
+      "Mantis Rider",
+      "Jace, Vryn's Prodigy",
+      "Ojutai's Command",
+      "Crackling Doom",
+      "Tasigur, the Golden Fang"
+    ],
+    "summary": {
+      "fr": "Tempo-midrange tricolore autour de Mantis Rider et Jace, avec Ojutai's Command et Crackling Doom en interaction.",
+      "en": "Three-colour tempo-midrange around Mantis Rider and Jace, with Ojutai's Command and Crackling Doom as interaction."
+    },
+    "why": {
+      "fr": [
+        "Mantis Rider mettait une pression rapide et évasive",
+        "Ojutai's Command rendait une créature tout en contrant un sort"
+      ],
+      "en": [
+        "Mantis Rider applied fast, evasive pressure",
+        "Ojutai's Command returned a creature while countering a spell"
+      ]
+    },
+    "note": "Overlaps with Jeskai Black; kept separate as the Mantis Rider-centred build."
+  },
+  {
+    "name": "Mardu Midrange",
+    "slug": "mardu-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Mardu Midrange",
+      "Mardu Aggro"
+    ],
+    "cover": "Monastery Mentor",
+    "keyCards": [
+      "Monastery Mentor",
+      "Crackling Doom",
+      "Abbot of Keral Keep",
+      "Kolaghan's Command",
+      "Gideon, Ally of Zendikar"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-blanc-noir à base de créatures prowess, de removal bon marché et de Gideon, Ally of Zendikar.",
+      "en": "Red-white-black midrange with prowess creatures, cheap removal and Gideon, Ally of Zendikar."
+    },
+    "why": {
+      "fr": [
+        "Crackling Doom et Fiery Impulse offraient du removal efficace",
+        "Monastery Mentor profitait des nombreux sorts non-créature"
+      ],
+      "en": [
+        "Crackling Doom and Fiery Impulse provided efficient removal",
+        "Monastery Mentor benefited from many noncreature spells"
+      ]
+    }
+  },
+  {
+    "name": "RG Ramp",
+    "slug": "rg-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Gruul Ramp",
+      "Green Ramp",
+      "RG Ramp",
+      "Delirium Ramp"
+    ],
+    "cover": "Ulamog, the Ceaseless Hunger",
+    "keyCards": [
+      "Ulamog, the Ceaseless Hunger",
+      "World Breaker",
+      "Chandra, Flamecaller",
+      "Explosive Vegetation",
+      "Kozilek's Return"
+    ],
+    "summary": {
+      "fr": "Ramp vert-rouge : Explosive Vegetation et Nissa's Pilgrimage accélèrent vers Chandra, World Breaker et Ulamog.",
+      "en": "Green-red ramp: Explosive Vegetation and Nissa's Pilgrimage accelerate into Chandra, World Breaker and Ulamog."
+    },
+    "why": {
+      "fr": [
+        "Kozilek's Return gérait les petites créatures à vitesse instantanée",
+        "Ulamog exilait les permanents adverses dès son lancement"
+      ],
+      "en": [
+        "Kozilek's Return handled small creatures at instant speed",
+        "Ulamog exiled opposing permanents on cast"
+      ]
+    },
+    "note": "Includes the Shrine of the Forsaken Gods builds and SOI/EMN Traverse-Atarka-Emrakul builds."
+  },
+  {
+    "name": "Eldrazi Ramp",
+    "slug": "eldrazi-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Mono Green Ramp"
+    ],
+    "cover": "Ulamog, the Ceaseless Hunger",
+    "keyCards": [
+      "Ulamog, the Ceaseless Hunger",
+      "Hedron Archive",
+      "Sanctum of Ugin",
+      "Thought-Knot Seer",
+      "Ugin, the Spirit Dragon"
+    ],
+    "summary": {
+      "fr": "Ramp vert à base de mana dorks, Hedron Archive et terres incolores, qui vise les Eldrazi et Ugin.",
+      "en": "Green ramp with mana creatures, Hedron Archive and colourless lands, aiming for Eldrazi and Ugin."
+    },
+    "why": {
+      "fr": [
+        "Sanctum of Ugin trouvait un nouvel Eldrazi après chaque titan lancé",
+        "Ugin nettoyait le board face aux decks de créatures"
+      ],
+      "en": [
+        "Sanctum of Ugin fetched another Eldrazi after each one was cast",
+        "Ugin cleared the board against creature decks"
+      ]
+    }
+  },
+  {
+    "name": "Goggles Ramp",
+    "slug": "goggles-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Goggles Ramp"
+    ],
+    "cover": "Pyromancer's Goggles",
+    "keyCards": [
+      "Pyromancer's Goggles",
+      "Fall of the Titans",
+      "Dragonlord Atarka",
+      "Traverse the Ulvenwald",
+      "Drownyard Temple"
+    ],
+    "summary": {
+      "fr": "Ramp rouge-vert qui copie Fall of the Titans avec Pyromancer's Goggles, avec Dragonlord Atarka comme autre finisher.",
+      "en": "Red-green ramp that copies Fall of the Titans with Pyromancer's Goggles, with Dragonlord Atarka as another finisher."
+    },
+    "why": {
+      "fr": [
+        "Fall of the Titans copié infligeait des dégâts directs importants",
+        "Tormenting Voice et Magmatic Insight transformaient les terres en trop en cartes"
+      ],
+      "en": [
+        "A copied Fall of the Titans dealt a large burst of direct damage",
+        "Tormenting Voice and Magmatic Insight turned extra lands into cards"
+      ]
+    }
+  },
+  {
+    "name": "Simic Crush",
+    "slug": "simic-crush",
+    "archetype": "ramp",
+    "titles": [
+      "Simic Ramp",
+      "Simic Crush",
+      "Simic Aggro"
+    ],
+    "cover": "Crush of Tentacles",
+    "keyCards": [
+      "Crush of Tentacles",
+      "Part the Waterveil",
+      "Explosive Vegetation",
+      "Den Protector",
+      "Nissa's Pilgrimage"
+    ],
+    "summary": {
+      "fr": "Ramp bleu-vert qui renvoie le board avec Crush of Tentacles en surge, puis prend un tour supplémentaire avec Part the Waterveil.",
+      "en": "Blue-green ramp that bounces the board with surged Crush of Tentacles, then takes an extra turn with Part the Waterveil."
+    },
+    "why": {
+      "fr": [
+        "Crush of Tentacles laissait un 8/8 face à un board vide",
+        "Den Protector récupérait les sorts clés"
+      ],
+      "en": [
+        "Crush of Tentacles left an 8/8 against an empty board",
+        "Den Protector recovered key spells"
+      ]
+    },
+    "note": "Small sample at the end of the season."
+  },
+  {
+    "name": "UR Eldrazi Control",
+    "slug": "ur-eldrazi-control",
+    "archetype": "control",
+    "titles": [
+      "Izzet Control"
+    ],
+    "cover": "Drowner of Hope",
+    "keyCards": [
+      "Ulamog, the Ceaseless Hunger",
+      "Drowner of Hope",
+      "Spell Shrivel",
+      "Spatial Contortion",
+      "Hedron Archive"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge à base de contresorts et de removal incolore, qui monte vers Drowner of Hope et Ulamog.",
+      "en": "Blue-red control with counterspells and colourless removal, ramping into Drowner of Hope and Ulamog."
+    },
+    "why": {
+      "fr": [
+        "Les terres à mana incolore alimentaient les sorts Eldrazi",
+        "Clash of Wills et Spell Shrivel protégeaient le plan de ramp"
+      ],
+      "en": [
+        "Colourless-producing lands powered the Eldrazi spells",
+        "Clash of Wills and Spell Shrivel protected the ramp plan"
+      ]
+    }
+  },
+  {
+    "name": "4C Rites",
+    "slug": "4c-rites",
+    "archetype": "combo",
+    "titles": [
+      "4c Rites",
+      "4c Cryptolith Rite",
+      "4c Rite",
+      "Golgari Aristocrats",
+      "Golgari Aritocrats"
+    ],
+    "cover": "Cryptolith Rite",
+    "keyCards": [
+      "Cryptolith Rite",
+      "Eldrazi Displacer",
+      "Catacomb Sifter",
+      "Zulaport Cutthroat",
+      "Collected Company"
+    ],
+    "summary": {
+      "fr": "Deck de créatures qui en tire du mana avec Cryptolith Rite ; Eldrazi Displacer fait clignoter Brood Monitor et Catacomb Sifter pour des Scions qui drainent via Zulaport Cutthroat.",
+      "en": "Creature deck turning its creatures into mana with Cryptolith Rite; Eldrazi Displacer blinks Brood Monitor and Catacomb Sifter for Scions that drain via Zulaport Cutthroat."
+    },
+    "why": {
+      "fr": [
+        "Cryptolith Rite donnait une grande quantité de mana avec les jetons",
+        "Eldrazi Displacer engageait les créatures adverses en boucle"
+      ],
+      "en": [
+        "Cryptolith Rite produced large amounts of mana from tokens",
+        "Eldrazi Displacer repeatedly tapped down opposing creatures"
+      ]
+    }
+  },
+  {
+    "name": "GW Megamorph",
+    "slug": "gw-megamorph",
+    "archetype": "midrange",
+    "titles": [
+      "Bant Megamorph",
+      "Selesnya Megamorph"
+    ],
+    "cover": "Deathmist Raptor",
+    "keyCards": [
+      "Deathmist Raptor",
+      "Den Protector",
+      "Gideon, Ally of Zendikar",
+      "Hangarback Walker",
+      "Wingmate Roc"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc du début de saison autour des megamorphs, de Hangarback Walker et de Gideon, Ally of Zendikar.",
+      "en": "Early-season green-white midrange built around megamorph creatures, Hangarback Walker and Gideon, Ally of Zendikar."
+    },
+    "why": {
+      "fr": [
+        "Deathmist Raptor et Den Protector donnaient de la valeur répétée",
+        "Gideon et Wingmate Roc fournissaient des menaces volantes ou en jetons"
+      ],
+      "en": [
+        "Deathmist Raptor and Den Protector produced repeated value",
+        "Gideon and Wingmate Roc supplied token and flying threats"
+      ]
+    }
+  },
+  {
+    "name": "Temur Megamorph",
+    "slug": "temur-megamorph",
+    "archetype": "midrange",
+    "titles": [
+      "Temur Megamorph"
+    ],
+    "cover": "Savage Knuckleblade",
+    "keyCards": [
+      "Savage Knuckleblade",
+      "Collected Company",
+      "Deathmist Raptor",
+      "Den Protector",
+      "Bounding Krasis"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-vert-bleu à base de Collected Company, de megamorphs et de Savage Knuckleblade, avec quelques contresorts.",
+      "en": "Red-green-blue midrange with Collected Company, megamorph creatures and Savage Knuckleblade, plus a few counterspells."
+    },
+    "why": {
+      "fr": [
+        "Bounding Krasis et Collected Company jouaient à vitesse instantanée",
+        "Savage Knuckleblade résistait au removal ciblé"
+      ],
+      "en": [
+        "Bounding Krasis and Collected Company played at instant speed",
+        "Savage Knuckleblade dodged targeted removal"
+      ]
+    },
+    "note": "Single list (World Magic Cup 2015, Team Italy, ranked 1)."
+  },
+  {
+    "name": "Temur Emerge",
+    "slug": "temur-emerge",
+    "archetype": "ramp",
+    "titles": [
+      "Temur Emerge",
+      "Temur Emerge Emrakul",
+      "Emerge"
+    ],
+    "cover": "Elder Deep-Fiend",
+    "keyCards": [
+      "Emrakul, the Promised End",
+      "Elder Deep-Fiend",
+      "Kozilek's Return",
+      "Vessel of Nascency",
+      "Grapple with the Past"
+    ],
+    "summary": {
+      "fr": "Deck emerge qui remplit le cimetière pour réduire le coût d'Emrakul, the Promised End, avec Elder Deep-Fiend pour gagner du tempo.",
+      "en": "Emerge deck filling its graveyard to reduce the cost of Emrakul, the Promised End, with Elder Deep-Fiend for tempo."
+    },
+    "why": {
+      "fr": [
+        "Emrakul prenait le contrôle du tour adverse",
+        "Elder Deep-Fiend, avec flash, engageait bloqueurs ou terrains adverses"
+      ],
+      "en": [
+        "Emrakul took control of the opponent's turn",
+        "Elder Deep-Fiend, with flash, tapped down opposing blockers or lands"
+      ]
+    },
+    "note": "Eldritch Moon deck; rep = Owen Turtenwald's PT Eldritch Moon finalist list."
+  },
+  {
+    "name": "Rakdos Dragons",
+    "slug": "rakdos-dragons",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Dragons",
+      "Rakdos Draons",
+      "Rakdos Aggro",
+      "Grixis Dragon"
+    ],
+    "cover": "Thunderbreak Regent",
+    "keyCards": [
+      "Thunderbreak Regent",
+      "Kolaghan, the Storm's Fury",
+      "Draconic Roar",
+      "Kolaghan's Command",
+      "Hangarback Walker"
+    ],
+    "summary": {
+      "fr": "Midrange noir-rouge à base de dragons, de Draconic Roar et de Kolaghan's Command, avec Hangarback Walker en début de partie.",
+      "en": "Black-red dragon midrange with Draconic Roar and Kolaghan's Command, and Hangarback Walker in the early game."
+    },
+    "why": {
+      "fr": [
+        "Draconic Roar et Thunderbreak Regent punissaient les adversaires",
+        "Kolaghan donnait de la célérité à toute l'équipe"
+      ],
+      "en": [
+        "Draconic Roar and Thunderbreak Regent punished opponents",
+        "Kolaghan gave haste to the whole team"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Delirium",
+    "slug": "golgari-delirium",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari Delirium",
+      "Golgari Delerium",
+      "Golrari Delirium",
+      "Golgari Control",
+      "Golgari Midrange"
+    ],
+    "cover": "Grim Flayer",
+    "keyCards": [
+      "Grim Flayer",
+      "Liliana, the Last Hope",
+      "Traverse the Ulvenwald",
+      "Ishkanah, Grafwidow",
+      "Languish"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert qui active le délire pour Grim Flayer et Traverse the Ulvenwald, avec Liliana et le removal noir.",
+      "en": "Black-green midrange that turns on delirium for Grim Flayer and Traverse the Ulvenwald, backed by Liliana and black removal."
+    },
+    "why": {
+      "fr": [
+        "Liliana, the Last Hope tuait les créatures à une endurance",
+        "Ishkanah bloquait les decks de créatures volantes et terrestres"
+      ],
+      "en": [
+        "Liliana, the Last Hope killed X/1 creatures",
+        "Ishkanah blocked both ground and flying creature decks"
+      ]
+    }
+  },
+  {
+    "name": "Jund Delirium",
+    "slug": "jund-delirium",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Delerium",
+      "Jund Delirium",
+      "Jund"
+    ],
+    "cover": "Ishkanah, Grafwidow",
+    "keyCards": [
+      "Liliana, the Last Hope",
+      "Ishkanah, Grafwidow",
+      "Kozilek's Return",
+      "Emrakul, the Promised End",
+      "Grapple with the Past"
+    ],
+    "summary": {
+      "fr": "Variante jund du délire : remplit le cimetière, gère le board avec Kozilek's Return et Languish, puis lance Emrakul.",
+      "en": "The Jund take on delirium: fills the graveyard, controls the board with Kozilek's Return and Languish, then casts Emrakul."
+    },
+    "why": {
+      "fr": [
+        "Kozilek's Return se rejouait depuis le cimetière",
+        "Emrakul arrivait tôt grâce aux types de cartes variés"
+      ],
+      "en": [
+        "Kozilek's Return could be reused from the graveyard",
+        "Emrakul came down early thanks to varied card types"
+      ]
+    },
+    "note": "Rep = Grand Prix Portland winning list."
+  },
+  {
+    "name": "Sultai Midrange",
+    "slug": "sultai-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Sultai Midrange",
+      "Sultai Control",
+      "Sultai Aggro"
+    ],
+    "cover": "Liliana, the Last Hope",
+    "keyCards": [
+      "Liliana, the Last Hope",
+      "Languish",
+      "Jace, Vryn's Prodigy",
+      "Sylvan Advocate",
+      "Hedron Archive"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert splash bleu à base de removal, Languish et planeswalkers, avec quelques grosses menaces.",
+      "en": "Black-green midrange splashing blue, built on removal, Languish and planeswalkers, with a few large threats."
+    },
+    "why": {
+      "fr": [
+        "Le removal noir couvrait les principales menaces du format",
+        "Les planeswalkers donnaient de l'avantage dans les parties longues"
+      ],
+      "en": [
+        "Black removal covered the format's main threats",
+        "Planeswalkers produced advantage in long games"
+      ]
+    },
+    "note": "Loose group of Sultai lists (Gitrog/Tracker builds and Liliana/Emrakul builds)."
+  },
+  {
+    "name": "UR Spells",
+    "slug": "ur-spells",
+    "archetype": "aggro",
+    "titles": [
+      "Izzet Machinegun"
+    ],
+    "cover": "Thermo-Alchemist",
+    "keyCards": [
+      "Thermo-Alchemist",
+      "Fevered Visions",
+      "Stormchaser Mage",
+      "Collective Defiance",
+      "Fiery Temper"
+    ],
+    "summary": {
+      "fr": "Deck de sorts bleu-rouge qui inflige des dégâts répétés avec Thermo-Alchemist et Fevered Visions, en finissant au burn.",
+      "en": "Blue-red spells deck dealing repeated damage with Thermo-Alchemist and Fevered Visions, then finishing with burn."
+    },
+    "why": {
+      "fr": [
+        "Thermo-Alchemist infligeait des dégâts sans attaquer",
+        "Fevered Visions donnait de la pioche et des dégâts face aux decks lents"
+      ],
+      "en": [
+        "Thermo-Alchemist dealt damage without attacking",
+        "Fevered Visions provided cards and damage against slow decks"
+      ]
+    }
+  },
+  {
+    "name": "Naya Midrange",
+    "slug": "naya-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Naya Aggro",
+      "Naya Midrange"
+    ],
+    "cover": "Nahiri, the Harbinger",
+    "keyCards": [
+      "Nahiri, the Harbinger",
+      "Archangel Avacyn",
+      "Tireless Tracker",
+      "Sylvan Advocate",
+      "Stasis Snare"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc-rouge avec Nahiri, Archangel Avacyn et Tireless Tracker, et Dragonlord Atarka en haut de courbe.",
+      "en": "Green-white-red midrange with Nahiri, Archangel Avacyn and Tireless Tracker, topped by Dragonlord Atarka."
+    },
+    "why": {
+      "fr": [
+        "Nahiri exilait enchantements et créatures ou artefacts engagés",
+        "Tireless Tracker donnait de l'avantage de cartes dans les parties longues"
+      ],
+      "en": [
+        "Nahiri exiled enchantments and tapped creatures or artifacts",
+        "Tireless Tracker provided card advantage in long games"
+      ]
+    },
+    "note": "Rep = Grand Prix Tokyo 2016 winning list."
+  },
+  {
+    "name": "Bring to Light",
+    "slug": "bring-to-light",
+    "archetype": "midrange",
+    "titles": [
+      "Bring to Light",
+      "5c Bring to Light"
+    ],
+    "cover": "Bring to Light",
+    "keyCards": [
+      "Bring to Light",
+      "Siege Rhino",
+      "Jace, Vryn's Prodigy",
+      "Abzan Charm",
+      "Den Protector"
+    ],
+    "summary": {
+      "fr": "Midrange cinq couleurs qui utilise Bring to Light comme tuteur pour trouver le bon sort, avec Siege Rhino en menace principale.",
+      "en": "Five-colour midrange using Bring to Light as a tutor for the right spell, with Siege Rhino as the main threat."
+    },
+    "why": {
+      "fr": [
+        "Bring to Light donnait accès au sort adapté à chaque situation",
+        "Les fetchlands et les nouvelles terres rendaient le cinq couleurs viable"
+      ],
+      "en": [
+        "Bring to Light gave access to the right spell for each situation",
+        "Fetchlands and the new dual lands made five colours workable"
+      ]
+    }
+  },
+  {
+    "name": "UR Prowess",
+    "slug": "ur-prowess",
+    "archetype": "aggro",
+    "titles": [
+      "UR Aggro"
+    ],
+    "cover": "Stormchaser Mage",
+    "keyCards": [
+      "Stormchaser Mage",
+      "Monastery Swiftspear",
+      "Slip Through Space",
+      "Titan's Strength",
+      "Treasure Cruise"
+    ],
+    "summary": {
+      "fr": "Aggro bleu-rouge à base de créatures prowess et de cantrips, qui rend un attaquant imblocable avec Slip Through Space.",
+      "en": "Blue-red prowess aggro with cheap creatures and cantrips, making an attacker unblockable with Slip Through Space."
+    },
+    "why": {
+      "fr": [
+        "Les cantrips déclenchaient prowess sans perte de cartes",
+        "Treasure Cruise rechargeait la main en fin de partie"
+      ],
+      "en": [
+        "Cantrips triggered prowess without losing cards",
+        "Treasure Cruise refilled the hand late in the game"
+      ]
+    },
+    "note": "Small sample; included via an MTGO Standard Championship win."
+  }
+]
