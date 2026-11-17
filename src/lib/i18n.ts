@@ -58,6 +58,8 @@ const STRINGS = {
   results: { fr: 'résultats', en: 'results' },
   seasonOpens: { fr: 'ouvre la saison', en: 'opens the season' },
   all: { fr: 'Tous', en: 'All' },
+  sortRecent: { fr: 'Chronologique', en: 'Chronological' },
+  sortTop: { fr: 'Dominance', en: 'Dominance' },
   bySeason: { fr: 'Par saison', en: 'By season' },
   byColor: { fr: 'Par couleur', en: 'By color' },
   byType: { fr: 'Par type', en: 'By type' },

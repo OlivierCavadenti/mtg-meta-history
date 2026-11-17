@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, nextTick, ref, watch } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import type { Archetype, Deck, SeasonWithDecks } from '../data/types'
 import { useFormat } from '../lib/useFormat'
 import { archetypeLabel, formatMonth, locale, seasonYears, t } from '../lib/i18n'
@@ -23,6 +23,21 @@ const COLORS = ['W', 'U', 'B', 'R', 'G']
 const archetype = ref<Archetype | ''>('')
 const colors = ref<string[]>([])
 const query = ref('')
+// 'recent': newest first, by each deck's first recorded result; 'top': by dominance
+// (tier, then share of top 8s). Kept in the URL: ?tri=dominance
+const router = useRouter()
+const sort = computed<'recent' | 'top'>(() => (route.query.tri === 'dominance' ? 'top' : 'recent'))
+function setSort(s: 'recent' | 'top') {
+  router.replace({ query: s === 'top' ? { tri: 'dominance' } : {}, hash: route.hash })
+}
+
+function byRecent(a: Deck, b: Deck): number {
+  return b.first.localeCompare(a.first) || b.last.localeCompare(a.last)
+}
+
+function byTop(a: Deck, b: Deck): number {
+  return a.tier - b.tier || b.stats.share - a.stats.share
+}
 
 function toggleColor(c: string) {
   colors.value = colors.value.includes(c) ? colors.value.filter((x) => x !== c) : [...colors.value, c]
@@ -44,7 +59,10 @@ type Row = SeasonWithDecks & { shown: Deck[] }
 
 const seasons = computed<Row[]>(() => {
   if (!data.value) return []
-  return data.value.seasons.map((s) => ({ ...s, shown: s.decks.filter(matches) }))
+  return data.value.seasons.map((s) => ({
+    ...s,
+    shown: s.decks.filter(matches).sort(sort.value === 'recent' ? byRecent : byTop),
+  }))
 })
 
 // newest season first
@@ -96,6 +114,10 @@ const banLine = (s: Row) =>
             :aria-label="c"
             @click="toggleColor(c)"
           ></button>
+        </div>
+        <div class="sort">
+          <button type="button" :class="{ on: sort === 'top' }" @click="setSort('top')">{{ t('sortTop') }}</button>
+          <button type="button" :class="{ on: sort === 'recent' }" @click="setSort('recent')">{{ t('sortRecent') }}</button>
         </div>
         <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Chercher un deck ou une carte' : 'Search a deck or a card'" />
       </div>
@@ -179,7 +201,15 @@ h1 {
   gap: 0 var(--space-md);
 }
 
-.arch button {
+.sort {
+  display: flex;
+  gap: 0 var(--space-md);
+  padding-left: var(--space-lg);
+  border-left: 1px solid var(--line);
+}
+
+.arch button,
+.sort button {
   font-family: var(--font-body);
   font-size: 0.95rem;
   background: none;
@@ -189,7 +219,8 @@ h1 {
   cursor: pointer;
 }
 
-.arch button.on {
+.arch button.on,
+.sort button.on {
   color: var(--ink);
   text-decoration: underline;
   text-underline-offset: 4px;
