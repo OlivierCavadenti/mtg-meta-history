@@ -19,7 +19,8 @@
             var v = kv.slice(eq + 1).replace(/~and~/g, '&');
             q[k] = v;
           });
-          var newPath = l.pathname + (q.p || '') + (q.q ? '?' + q.q : '') + l.hash;
+          // pathname is '/mtg-meta-history/' and p starts with '/': avoid a double slash
+          var newPath = l.pathname.replace(/\/$/, '') + (q.p || '/') + (q.q ? '?' + q.q : '') + l.hash;
           window.history.replaceState(null, '', newPath);
         }
       })(window.location);

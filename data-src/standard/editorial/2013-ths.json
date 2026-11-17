@@ -1,0 +1,923 @@
+[
+  {
+    "name": "Mono-Blue Devotion",
+    "slug": "mono-blue-devotion",
+    "archetype": "tempo",
+    "titles": [
+      "Devotion to Blue"
+    ],
+    "cover": "Thassa, God of the Sea",
+    "keyCards": [
+      "Thassa, God of the Sea",
+      "Master of Waves",
+      "Nightveil Specter",
+      "Tidebinder Mage",
+      "Cloudfin Raptor"
+    ],
+    "summary": {
+      "fr": "Deck mono-bleu de permanents qui accumule les symboles de mana bleu pour Thassa et Master of Waves, avec des créatures tempo comme Tidebinder Mage.",
+      "en": "Mono-blue permanents deck that stacks blue mana symbols for Thassa and Master of Waves, with tempo creatures such as Tidebinder Mage."
+    },
+    "why": {
+      "fr": [
+        "Master of Waves pouvait créer une armée d'Élémentaux en un seul tour",
+        "Thassa devenait une attaquante indestructible avec assez de dévotion",
+        "A remporté le Pro Tour Theros et est resté présent en top 8 toute la saison"
+      ],
+      "en": [
+        "Master of Waves could create an army of Elementals in a single turn",
+        "Thassa became an indestructible attacker once devotion was high",
+        "Won Pro Tour Theros and stayed a regular in top 8s all season"
+      ]
+    }
+  },
+  {
+    "name": "UW Devotion",
+    "slug": "uw-devotion",
+    "archetype": "tempo",
+    "titles": [
+      "Devotion to Azorius",
+      "Azorius Devotion",
+      "UW Thassa"
+    ],
+    "cover": "Ephara, God of the Polis",
+    "keyCards": [
+      "Thassa, God of the Sea",
+      "Master of Waves",
+      "Detention Sphere",
+      "Ephara, God of the Polis",
+      "Nightveil Specter"
+    ],
+    "summary": {
+      "fr": "Dévotion bleue splash blanc pour Detention Sphere et Ephara, God of the Polis, construite pour le reste comme la version mono-bleue.",
+      "en": "Blue devotion splashing white for Detention Sphere and Ephara, God of the Polis, otherwise built like the mono-blue version."
+    },
+    "why": {
+      "fr": [
+        "Detention Sphere répondait aux permanents gênants que la version mono-bleue ne gérait pas",
+        "Ephara piochait des cartes grâce au flux de créatures",
+        "Conservait Thassa et Master of Waves comme cœur du deck"
+      ],
+      "en": [
+        "Detention Sphere answered problem permanents the mono-blue build could not",
+        "Ephara drew extra cards from a steady flow of creatures",
+        "Kept Thassa and Master of Waves as the core"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Black Devotion",
+    "slug": "mono-black-devotion",
+    "archetype": "midrange",
+    "titles": [
+      "Devotion to Black",
+      "Devotion to Dimir",
+      "",
+      "Devotion to Orzhov",
+      "Devotion to Rakdos"
+    ],
+    "cover": "Gray Merchant of Asphodel",
+    "keyCards": [
+      "Gray Merchant of Asphodel",
+      "Pack Rat",
+      "Desecration Demon",
+      "Thoughtseize",
+      "Underworld Connections"
+    ],
+    "summary": {
+      "fr": "Midrange mono-noir : Thoughtseize et removal, puis Pack Rat, Desecration Demon et Gray Merchant of Asphodel qui draine selon la dévotion au noir.",
+      "en": "Mono-black midrange: Thoughtseize and removal, then Pack Rat, Desecration Demon and Gray Merchant of Asphodel draining for each black symbol."
+    },
+    "why": {
+      "fr": [
+        "Gray Merchant of Asphodel transformait la dévotion en gros transferts de points de vie",
+        "Underworld Connections apportait un avantage de cartes régulier",
+        "Thoughtseize et Hero's Downfall répondaient à presque tout"
+      ],
+      "en": [
+        "Gray Merchant of Asphodel turned devotion into large life swings",
+        "Underworld Connections provided steady card advantage",
+        "Thoughtseize and Hero's Downfall answered almost anything"
+      ]
+    },
+    "note": "Builds labelled Dimir/Orzhov/Rakdos (light splashes) and an untitled mono-black group merged here."
+  },
+  {
+    "name": "BG Devotion",
+    "slug": "bg-devotion",
+    "archetype": "midrange",
+    "titles": [
+      "Devotion to Golgari",
+      "Golgari Control",
+      "Edel devote Golgari OBV"
+    ],
+    "cover": "Abrupt Decay",
+    "keyCards": [
+      "Gray Merchant of Asphodel",
+      "Abrupt Decay",
+      "Lifebane Zombie",
+      "Pack Rat",
+      "Desecration Demon"
+    ],
+    "summary": {
+      "fr": "Dévotion noire splash vert pour Abrupt Decay, qui garde Gray Merchant, Pack Rat et Desecration Demon comme cœur.",
+      "en": "Black devotion splashing green for Abrupt Decay, keeping Gray Merchant, Pack Rat and Desecration Demon as the core."
+    },
+    "why": {
+      "fr": [
+        "Abrupt Decay répondait aux menaces bon marché et ne pouvait pas être contré",
+        "Lifebane Zombie retirait les menaces vertes et blanches de la main adverse",
+        "Conservait le drain et l'avantage de cartes de la version mono-noire"
+      ],
+      "en": [
+        "Abrupt Decay answered cheap threats and could not be countered",
+        "Lifebane Zombie took green and white threats from the opponent's hand",
+        "Kept the drain and card advantage of the mono-black version"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "Azorius Control"
+    ],
+    "cover": "Elspeth, Sun's Champion",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Supreme Verdict",
+      "Elspeth, Sun's Champion",
+      "Jace, Architect of Thought",
+      "Detention Sphere"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc avec Supreme Verdict, Detention Sphere et Dissolve, qui pioche avec Sphinx's Revelation et conclut avec Elspeth ou Aetherling.",
+      "en": "Blue-white control with Supreme Verdict, Detention Sphere and Dissolve, drawing with Sphinx's Revelation and closing with Elspeth or Aetherling."
+    },
+    "why": {
+      "fr": [
+        "Sphinx's Revelation gagnait les parties longues contre midrange et dévotion",
+        "Elspeth, Sun's Champion dominait le terrain et tuait les grosses créatures",
+        "A remporté le Pro Tour de Portland en fin de saison"
+      ],
+      "en": [
+        "Sphinx's Revelation won long games against midrange and devotion",
+        "Elspeth, Sun's Champion took over boards and killed big creatures",
+        "Won the end-of-season Pro Tour in Portland"
+      ]
+    }
+  },
+  {
+    "name": "Esper Control",
+    "slug": "esper-control",
+    "archetype": "control",
+    "titles": [
+      "Esper Control"
+    ],
+    "cover": "Sphinx's Revelation",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Supreme Verdict",
+      "Thoughtseize",
+      "Elspeth, Sun's Champion",
+      "Jace, Architect of Thought"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc splash noir pour Thoughtseize et plus de removal, construit pour le reste sur Supreme Verdict, Sphinx's Revelation et Elspeth.",
+      "en": "Blue-white control splashing black for Thoughtseize and extra removal, otherwise built on Supreme Verdict, Sphinx's Revelation and Elspeth."
+    },
+    "why": {
+      "fr": [
+        "Thoughtseize offrait une interaction proactive contre combo et contrôle",
+        "Doom Blade ajoutait un removal bon marché contre les créatures",
+        "Conservait la fin de partie Sphinx's Revelation et Elspeth"
+      ],
+      "en": [
+        "Thoughtseize gave proactive interaction against combo and control",
+        "Doom Blade added cheap creature removal",
+        "Kept the Sphinx's Revelation and Elspeth late game"
+      ]
+    }
+  },
+  {
+    "name": "UWR Control",
+    "slug": "uwr-control",
+    "archetype": "control",
+    "titles": [
+      "UWr Control"
+    ],
+    "cover": "Assemble the Legion",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Supreme Verdict",
+      "Mizzium Mortars",
+      "Assemble the Legion",
+      "Counterflux"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc splash rouge pour Mizzium Mortars, Counterflux et Warleader's Helix, avec Assemble the Legion comme finisseur supplémentaire.",
+      "en": "Blue-white control splashing red for Mizzium Mortars, Counterflux and Warleader's Helix, with Assemble the Legion as an extra finisher."
+    },
+    "why": {
+      "fr": [
+        "Mizzium Mortars offrait un removal bon marché ou un balai unilatéral",
+        "Counterflux gagnait les batailles de contresorts dans les miroirs",
+        "Assemble the Legion battait seul les autres decks contrôle"
+      ],
+      "en": [
+        "Mizzium Mortars gave cheap removal or a one-sided sweeper",
+        "Counterflux won counterspell wars in control mirrors",
+        "Assemble the Legion beat other control decks on its own"
+      ]
+    }
+  },
+  {
+    "name": "Bant Control",
+    "slug": "bant-control",
+    "archetype": "control",
+    "titles": [
+      "Bant Control",
+      "Bant PW Control"
+    ],
+    "cover": "Kiora, the Crashing Wave",
+    "keyCards": [
+      "Sphinx's Revelation",
+      "Courser of Kruphix",
+      "Kiora, the Crashing Wave",
+      "Supreme Verdict",
+      "Sylvan Caryatid"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc splash vert pour Sylvan Caryatid, Courser of Kruphix et Kiora, qui ajoutent défense précoce et accélération.",
+      "en": "Blue-white control splashing green for Sylvan Caryatid, Courser of Kruphix and Kiora, adding early defence and acceleration."
+    },
+    "why": {
+      "fr": [
+        "Courser of Kruphix et Sylvan Caryatid bloquaient tôt et fixaient le mana",
+        "Kiora et Elspeth apportaient plusieurs menaces planeswalker",
+        "Advent of the Wurm ajoutait une menace à vitesse instant"
+      ],
+      "en": [
+        "Courser of Kruphix and Sylvan Caryatid blocked early and fixed mana",
+        "Kiora and Elspeth provided several planeswalker threats",
+        "Advent of the Wurm added an instant-speed threat"
+      ]
+    },
+    "note": "Included on a win (TCGplayer 5K Orlando); 3 top 8s."
+  },
+  {
+    "name": "Orzhov Control",
+    "slug": "orzhov-control",
+    "archetype": "midrange",
+    "titles": [
+      "Orzhov Control"
+    ],
+    "cover": "Blood Baron of Vizkopa",
+    "keyCards": [
+      "Blood Baron of Vizkopa",
+      "Desecration Demon",
+      "Pack Rat",
+      "Thoughtseize",
+      "Hero's Downfall"
+    ],
+    "summary": {
+      "fr": "Midrange noir-blanc proche de la dévotion noire mais sans Gray Merchant, avec Blood Baron of Vizkopa et du removal blanc comme Last Breath.",
+      "en": "Black-white midrange close to Mono-Black Devotion but without Gray Merchant, adding Blood Baron of Vizkopa and white removal such as Last Breath."
+    },
+    "why": {
+      "fr": [
+        "Blood Baron of Vizkopa, protégé du blanc et du noir, échappait à beaucoup de removal",
+        "Thoughtseize et Hero's Downfall géraient la plupart des menaces",
+        "Les versions ultérieures ajoutaient Elspeth, Sun's Champion en finisseur"
+      ],
+      "en": [
+        "Blood Baron of Vizkopa's protection from white and black dodged much removal",
+        "Thoughtseize and Hero's Downfall handled most threats",
+        "Later builds added Elspeth, Sun's Champion as a finisher"
+      ]
+    },
+    "note": "Top 4 at PT Magic 2015 (Portland)."
+  },
+  {
+    "name": "Boros Burn",
+    "slug": "boros-burn",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Aggro",
+      "Boros Burn"
+    ],
+    "cover": "Boros Charm",
+    "keyCards": [
+      "Boros Charm",
+      "Lightning Strike",
+      "Skullcrack",
+      "Chandra's Phoenix",
+      "Young Pyromancer"
+    ],
+    "summary": {
+      "fr": "Burn rouge-blanc : Lightning Strike, Magma Jet, Skullcrack et Boros Charm vers l'adversaire, avec Chandra's Phoenix et Young Pyromancer.",
+      "en": "Red-white burn: Lightning Strike, Magma Jet, Skullcrack and Boros Charm aimed at the opponent, with Chandra's Phoenix and Young Pyromancer."
+    },
+    "why": {
+      "fr": [
+        "Les brûlures ignoraient les nombreux gros bloqueurs du format",
+        "Skullcrack empêchait Sphinx's Revelation et le lien de vie de rendre des points",
+        "Chandra's Phoenix revenait sans cesse du cimetière"
+      ],
+      "en": [
+        "Burn ignored the format's many large blockers",
+        "Skullcrack stopped Sphinx's Revelation and lifelink from gaining life",
+        "Chandra's Phoenix kept returning from the graveyard"
+      ]
+    },
+    "note": "mtgtop8 'Boros Aggro' title is in practice this burn deck (checked across lists)."
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White",
+      "Boros WW",
+      "Boros White",
+      "Boros  Aggro",
+      "WW Anthem",
+      "WW",
+      "Boros",
+      "Boroos"
+    ],
+    "cover": "Soldier of the Pantheon",
+    "keyCards": [
+      "Soldier of the Pantheon",
+      "Precinct Captain",
+      "Banisher Priest",
+      "Brave the Elements",
+      "Spear of Heliod"
+    ],
+    "summary": {
+      "fr": "White weenie avec des créatures bon marché comme Soldier of the Pantheon et Precinct Captain, Spear of Heliod en anthem et Brave the Elements.",
+      "en": "White weenie with cheap creatures such as Soldier of the Pantheon and Precinct Captain, Spear of Heliod as an anthem and Brave the Elements."
+    },
+    "why": {
+      "fr": [
+        "Soldier of the Pantheon ignorait de nombreux bloqueurs et sorts multicolores",
+        "Brave the Elements faisait passer l'équipe ou la protégeait du removal",
+        "Banisher Priest retirait un bloqueur tout en ajoutant un corps"
+      ],
+      "en": [
+        "Soldier of the Pantheon shrugged off many multicolour blockers and spells",
+        "Brave the Elements pushed the team through or saved it from removal",
+        "Banisher Priest removed a blocker while adding a body"
+      ]
+    },
+    "note": "Mono-white and light Boros/Orzhov splashes merged."
+  },
+  {
+    "name": "Orzhov Humans",
+    "slug": "orzhov-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Orzhov Human",
+      "Orzhov Midrange",
+      "Esper Midrange"
+    ],
+    "rep": 241957,
+    "cover": "Xathrid Necromancer",
+    "keyCards": [
+      "Xathrid Necromancer",
+      "Soldier of the Pantheon",
+      "Banisher Priest",
+      "Obzedat, Ghost Council",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Aggro blanc-noir à base d'Humains : Soldier of the Pantheon, Daring Skyjek et Xathrid Necromancer, avec du removal noir et Obzedat, Ghost Council.",
+      "en": "White-black Humans aggro: Soldier of the Pantheon, Daring Skyjek and Xathrid Necromancer, with black removal and Obzedat, Ghost Council."
+    },
+    "why": {
+      "fr": [
+        "Xathrid Necromancer laissait des Zombies à la mort des Humains, limitant les balais",
+        "Le removal noir et Thoughtseize ouvraient la voie aux petites créatures",
+        "Obzedat drainait l'adversaire et échappait au removal à vitesse rituel"
+      ],
+      "en": [
+        "Xathrid Necromancer left Zombies when Humans died, blunting sweepers",
+        "Black removal and Thoughtseize cleared the way for small creatures",
+        "Obzedat drained the opponent and dodged sorcery-speed removal"
+      ]
+    },
+    "note": "Rep overridden from an Esper-coloured GP Shizuoka list to a W/b list. Esper Midrange (1 top 8) attached."
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "RDW",
+      "Boros Deck Wins"
+    ],
+    "rep": 246617,
+    "cover": "Goblin Rabblemaster",
+    "keyCards": [
+      "Firedrinker Satyr",
+      "Burning-Tree Emissary",
+      "Goblin Rabblemaster",
+      "Firefist Striker",
+      "Ash Zealot"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge avec des one-drops comme Firedrinker Satyr et Rakdos Cackler, Burning-Tree Emissary pour des débuts rapides et des brûlures pour finir.",
+      "en": "Mono-red aggro with one-drops such as Firedrinker Satyr and Rakdos Cackler, Burning-Tree Emissary for fast starts and burn to finish."
+    },
+    "why": {
+      "fr": [
+        "Une courbe très basse punissait les débuts lents des decks de dévotion et de contrôle",
+        "Le battalion de Firefist Striker empêchait les bloqueurs clés de bloquer",
+        "Mutavault ajoutait une menace qui échappait aux balais"
+      ],
+      "en": [
+        "A very low curve punished slow starts from devotion and control decks",
+        "Firefist Striker's battalion stopped key blockers",
+        "Mutavault added a threat that dodged sweepers"
+      ]
+    },
+    "note": "Rep overridden from a heroic-style list to a more typical winning list (SCG Invitational)."
+  },
+  {
+    "name": "Rakdos Aggro",
+    "slug": "rakdos-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Rakdos Aggro",
+      "Rakdos Deck Wins - 7/1"
+    ],
+    "cover": "Spike Jester",
+    "keyCards": [
+      "Spike Jester",
+      "Tormented Hero",
+      "Exava, Rakdos Blood Witch",
+      "Rakdos Cackler",
+      "Madcap Skills"
+    ],
+    "summary": {
+      "fr": "Aggro noir-rouge avec des créatures rapides comme Spike Jester, Tormented Hero et Rakdos Cackler, plus Madcap Skills et des brûlures.",
+      "en": "Black-red aggro with fast creatures such as Spike Jester, Tormented Hero and Rakdos Cackler, plus Madcap Skills and burn."
+    },
+    "why": {
+      "fr": [
+        "Célérité et unleash infligeaient des dégâts avant l'arrivée des bloqueurs",
+        "Madcap Skills punissait les decks lents sans removal précoce",
+        "Lightning Strike et Doom Blade éliminaient les bloqueurs"
+      ],
+      "en": [
+        "Haste and unleash creatures dealt damage before blockers arrived",
+        "Madcap Skills punished slower decks without early removal",
+        "Lightning Strike and Doom Blade cleared blockers"
+      ]
+    },
+    "note": "Included on a win (GP Santiago); only one top 8."
+  },
+  {
+    "name": "Mono-Black Aggro",
+    "slug": "mono-black-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Black Aggro"
+    ],
+    "cover": "Herald of Torment",
+    "keyCards": [
+      "Pain Seer",
+      "Tormented Hero",
+      "Herald of Torment",
+      "Lifebane Zombie",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir avec Tormented Hero, Pain Seer et Herald of Torment, soutenus par Thoughtseize, Hero's Downfall et Desecration Demon.",
+      "en": "Mono-black aggro with Tormented Hero, Pain Seer and Herald of Torment, backed by Thoughtseize, Hero's Downfall and Desecration Demon."
+    },
+    "why": {
+      "fr": [
+        "Des créatures noires bon marché passaient sous les decks de dévotion plus lents",
+        "Pain Seer piochait des cartes en se dégageant après une attaque",
+        "Partageait le removal efficace de la dévotion noire"
+      ],
+      "en": [
+        "Cheap black creatures got under the slower devotion decks",
+        "Pain Seer drew cards when it untapped after attacking",
+        "Shared the efficient removal of Mono-Black Devotion"
+      ]
+    }
+  },
+  {
+    "name": "Red Devotion",
+    "slug": "red-devotion",
+    "archetype": "aggro",
+    "titles": [
+      "Devotion to Red",
+      "Devotion to Boros",
+      "Devotion to Gruul",
+      "Gruul Devotion",
+      "Boros Midrange"
+    ],
+    "cover": "Fanatic of Mogis",
+    "keyCards": [
+      "Fanatic of Mogis",
+      "Burning-Tree Emissary",
+      "Stormbreath Dragon",
+      "Boros Reckoner",
+      "Frostburn Weird"
+    ],
+    "summary": {
+      "fr": "Dévotion rouge : Ash Zealot, Boros Reckoner et Burning-Tree Emissary accumulent les symboles rouges pour Fanatic of Mogis et Nykthos.",
+      "en": "Red devotion: Ash Zealot, Boros Reckoner and Burning-Tree Emissary stack red symbols for Fanatic of Mogis and Nykthos."
+    },
+    "why": {
+      "fr": [
+        "Fanatic of Mogis infligeait de gros dégâts en arrivant avec une forte dévotion",
+        "Burning-Tree Emissary remboursait son coût et augmentait la dévotion",
+        "Célérité et protection contre le blanc rendaient Stormbreath Dragon difficile à arrêter"
+      ],
+      "en": [
+        "Fanatic of Mogis dealt heavy damage when it arrived with high devotion",
+        "Burning-Tree Emissary refunded its cost and added devotion",
+        "Haste and protection from white made Stormbreath Dragon hard to stop"
+      ]
+    },
+    "note": "Mono-red, R/w and R/g devotion titles merged (same Fanatic/Nykthos engine)."
+  },
+  {
+    "name": "Jund Monsters",
+    "slug": "jund-monsters",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Aggro",
+      "Jund Monsters",
+      "Jund Control",
+      "Jund Midrange"
+    ],
+    "cover": "Polukranos, World Eater",
+    "keyCards": [
+      "Polukranos, World Eater",
+      "Stormbreath Dragon",
+      "Courser of Kruphix",
+      "Xenagos, the Reveler",
+      "Domri Rade"
+    ],
+    "summary": {
+      "fr": "Midrange Jund construit sur de grosses créatures comme Polukranos et Stormbreath Dragon, accéléré par Elvish Mystic et Sylvan Caryatid.",
+      "en": "Jund midrange built on big creatures such as Polukranos and Stormbreath Dragon, accelerated by Elvish Mystic and Sylvan Caryatid."
+    },
+    "why": {
+      "fr": [
+        "La monstruosité donnait un usage au mana et du removal en fin de partie",
+        "Les planeswalkers comme Xenagos et Domri ajoutaient pression et valeur",
+        "Le splash noir apportait Dreadbore et Vraska comme removal"
+      ],
+      "en": [
+        "Monstrosity gave mana sinks and removal late in the game",
+        "Planeswalkers such as Xenagos and Domri added pressure and value",
+        "The black splash brought Dreadbore and Vraska as removal"
+      ]
+    }
+  },
+  {
+    "name": "Jund Planeswalkers",
+    "slug": "jund-planeswalkers",
+    "archetype": "midrange",
+    "titles": [
+      "Jund",
+      "Jund PW",
+      "Jund Walkers"
+    ],
+    "cover": "Nissa, Worldwaker",
+    "keyCards": [
+      "Xenagos, the Reveler",
+      "Nissa, Worldwaker",
+      "Chandra, Pyromaster",
+      "Courser of Kruphix",
+      "Sylvan Caryatid"
+    ],
+    "summary": {
+      "fr": "Jund de fin de saison qui mise surtout sur des planeswalkers comme Xenagos, Nissa et Chandra, protégés par Courser of Kruphix et Sylvan Caryatid.",
+      "en": "Late-season Jund relying mostly on planeswalkers such as Xenagos, Nissa and Chandra, protected by Courser of Kruphix and Sylvan Caryatid."
+    },
+    "why": {
+      "fr": [
+        "La masse de planeswalkers rendait le removal de créatures adverse peu utile",
+        "Courser of Kruphix et Sylvan Caryatid défendaient les planeswalkers",
+        "A atteint les demi-finales du Pro Tour de Portland"
+      ],
+      "en": [
+        "Many planeswalkers made opposing creature removal weak",
+        "Courser of Kruphix and Sylvan Caryatid defended the planeswalkers",
+        "Reached the semifinals of the Pro Tour in Portland"
+      ]
+    }
+  },
+  {
+    "name": "Gruul Monsters",
+    "slug": "gruul-monsters",
+    "archetype": "midrange",
+    "titles": [
+      "Gruul Team",
+      "Gruul Aggro",
+      "Gruul Monsters",
+      "RG Fat",
+      "Gruul Midrange",
+      "Gruul",
+      "Safekeeper Gruul"
+    ],
+    "cover": "Stormbreath Dragon",
+    "keyCards": [
+      "Polukranos, World Eater",
+      "Stormbreath Dragon",
+      "Domri Rade",
+      "Xenagos, the Reveler",
+      "Ember Swallower"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-vert : Elvish Mystic et Sylvan Caryatid puis Polukranos, Stormbreath Dragon et Ember Swallower, avec Domri Rade et Xenagos.",
+      "en": "Red-green midrange: Elvish Mystic and Sylvan Caryatid into Polukranos, Stormbreath Dragon and Ember Swallower, with Domri Rade and Xenagos."
+    },
+    "why": {
+      "fr": [
+        "Des créatures massives dépassaient celles des decks aggro",
+        "Stormbreath Dragon mettait la pression sur le contrôle et les planeswalkers",
+        "La monstruosité donnait un usage aux terrains en trop"
+      ],
+      "en": [
+        "Large creatures outsized those of aggro decks",
+        "Stormbreath Dragon pressured control and planeswalkers",
+        "Monstrosity gave a use for extra lands"
+      ]
+    }
+  },
+  {
+    "name": "Naya Midrange",
+    "slug": "naya-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Naya Control",
+      "Naya PW",
+      "Naya"
+    ],
+    "cover": "Chained to the Rocks",
+    "keyCards": [
+      "Elspeth, Sun's Champion",
+      "Stormbreath Dragon",
+      "Chained to the Rocks",
+      "Anger of the Gods",
+      "Xenagos, the Reveler"
+    ],
+    "summary": {
+      "fr": "Midrange Naya avec du removal comme Chained to the Rocks et Anger of the Gods, qui finit avec Stormbreath Dragon, Xenagos et Elspeth.",
+      "en": "Naya midrange with removal such as Chained to the Rocks and Anger of the Gods, finishing with Stormbreath Dragon, Xenagos and Elspeth."
+    },
+    "why": {
+      "fr": [
+        "Anger of the Gods balayait les créatures aggro et de dévotion",
+        "Planeswalkers et Stormbreath Dragon mettaient la pression sur le contrôle",
+        "Chained to the Rocks offrait un removal bon marché contre toute créature"
+      ],
+      "en": [
+        "Anger of the Gods swept aggro and devotion creatures",
+        "Planeswalkers and Stormbreath Dragon pressured control decks",
+        "Chained to the Rocks gave cheap removal for any creature"
+      ]
+    }
+  },
+  {
+    "name": "Selesnya Aggro",
+    "slug": "selesnya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Aggro"
+    ],
+    "cover": "Fleecemane Lion",
+    "keyCards": [
+      "Fleecemane Lion",
+      "Voice of Resurgence",
+      "Advent of the Wurm",
+      "Boon Satyr",
+      "Selesnya Charm"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc avec des créatures efficaces comme Fleecemane Lion, Voice of Resurgence et Boon Satyr, et des menaces flash comme Advent of the Wurm.",
+      "en": "Green-white aggro with efficient creatures such as Fleecemane Lion, Voice of Resurgence and Boon Satyr, plus flash threats like Advent of the Wurm."
+    },
+    "why": {
+      "fr": [
+        "Voice of Resurgence punissait les decks contrôle à vitesse instant",
+        "Advent of the Wurm et Boon Satyr contournaient les balais",
+        "A atteint la finale du Pro Tour de Portland"
+      ],
+      "en": [
+        "Voice of Resurgence punished instant-speed control decks",
+        "Advent of the Wurm and Boon Satyr played around sweepers",
+        "Reached the final of the Pro Tour in Portland"
+      ]
+    }
+  },
+  {
+    "name": "Naya Aggro",
+    "slug": "naya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Naya Aggro"
+    ],
+    "cover": "Ghor-Clan Rampager",
+    "keyCards": [
+      "Fleecemane Lion",
+      "Voice of Resurgence",
+      "Ghor-Clan Rampager",
+      "Boros Reckoner",
+      "Boros Charm"
+    ],
+    "summary": {
+      "fr": "Aggro Selesnya splash rouge pour Boros Charm, Ghor-Clan Rampager et Boros Reckoner, en plus de Fleecemane Lion et Voice of Resurgence.",
+      "en": "Selesnya aggro splashing red for Boros Charm, Ghor-Clan Rampager and Boros Reckoner on top of Fleecemane Lion and Voice of Resurgence."
+    },
+    "why": {
+      "fr": [
+        "Boros Charm donnait de la portée ou une protection contre les balais",
+        "Le bloodrush de Ghor-Clan Rampager forçait les dégâts malgré les bloqueurs",
+        "Brave the Elements aidait l'équipe à survivre au removal"
+      ],
+      "en": [
+        "Boros Charm gave reach or protection against sweepers",
+        "Ghor-Clan Rampager's bloodrush pushed damage past blockers",
+        "Brave the Elements helped the team survive removal"
+      ]
+    }
+  },
+  {
+    "name": "Naya Hexproof",
+    "slug": "naya-hexproof",
+    "archetype": "aggro",
+    "titles": [
+      "Naya Aura",
+      "Naya Auras"
+    ],
+    "cover": "Gladecover Scout",
+    "keyCards": [
+      "Gladecover Scout",
+      "Witchstalker",
+      "Ethereal Armor",
+      "Unflinching Courage",
+      "Madcap Skills"
+    ],
+    "summary": {
+      "fr": "Aggro auras avec des créatures hexproof comme Gladecover Scout et Witchstalker, chargées d'Ethereal Armor, Unflinching Courage et Madcap Skills.",
+      "en": "Aura aggro with hexproof creatures such as Gladecover Scout and Witchstalker, loaded with Ethereal Armor, Unflinching Courage and Madcap Skills."
+    },
+    "why": {
+      "fr": [
+        "Les créatures hexproof rendaient le removal ciblé inutile",
+        "Les auras faisaient d'une seule créature une horloge rapide",
+        "Selesnya Charm et Boros Charm aidaient contre les sacrifices forcés et les balais"
+      ],
+      "en": [
+        "Hexproof creatures made targeted removal useless",
+        "Auras turned a single creature into a fast clock",
+        "Selesnya Charm and Boros Charm helped against edicts and sweepers"
+      ]
+    }
+  },
+  {
+    "name": "Green Devotion",
+    "slug": "green-devotion",
+    "archetype": "ramp",
+    "titles": [
+      "Devotion to Green",
+      "Mono Green Aggro",
+      "Devotion to Simic"
+    ],
+    "cover": "Garruk, Caller of Beasts",
+    "keyCards": [
+      "Garruk, Caller of Beasts",
+      "Polukranos, World Eater",
+      "Arbor Colossus",
+      "Voyaging Satyr",
+      "Burning-Tree Emissary"
+    ],
+    "summary": {
+      "fr": "Ramp de dévotion verte : créatures de mana et Nykthos accélèrent vers Garruk, Caller of Beasts, Polukranos et Arbor Colossus.",
+      "en": "Green devotion ramp: mana creatures and Nykthos power out Garruk, Caller of Beasts, Polukranos and Arbor Colossus."
+    },
+    "why": {
+      "fr": [
+        "Voyaging Satyr dégageait Nykthos pour de grandes quantités de mana",
+        "Garruk, Caller of Beasts rechargeait la main en créatures",
+        "De grosses créatures vertes dépassaient celles des decks aggro"
+      ],
+      "en": [
+        "Voyaging Satyr untapped Nykthos for large amounts of mana",
+        "Garruk, Caller of Beasts refilled the hand with creatures",
+        "Large green creatures outsized those of aggro decks"
+      ]
+    },
+    "note": "Rep is G/r (Domri, Xenagos splash). Top 4 at PT Theros."
+  },
+  {
+    "name": "Golgari Aggro",
+    "slug": "golgari-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Golgari Aggro"
+    ],
+    "cover": "Lotleth Troll",
+    "keyCards": [
+      "Lotleth Troll",
+      "Dreg Mangler",
+      "Varolz, the Scar-Striped",
+      "Boon Satyr",
+      "Reaper of the Wilds"
+    ],
+    "summary": {
+      "fr": "Aggro noir-vert avec des créatures scavenge comme Dreg Mangler, Varolz et Lotleth Troll, soutenues par Thoughtseize et Abrupt Decay.",
+      "en": "Black-green aggro with scavenge creatures such as Dreg Mangler, Varolz and Lotleth Troll, backed by Thoughtseize and Abrupt Decay."
+    },
+    "why": {
+      "fr": [
+        "Le scavenge transformait les créatures mortes en marqueurs +1/+1",
+        "Lotleth Troll se régénérait face au removal et en combat",
+        "Abrupt Decay et Hero's Downfall éliminaient les bloqueurs"
+      ],
+      "en": [
+        "Scavenge turned dead creatures into +1/+1 counters",
+        "Lotleth Troll regenerated through removal and combat",
+        "Abrupt Decay and Hero's Downfall cleared blockers"
+      ]
+    }
+  },
+  {
+    "name": "Junk Midrange",
+    "slug": "junk-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Junk (BWG)",
+      "Junk",
+      "Junk Control"
+    ],
+    "cover": "Obzedat, Ghost Council",
+    "keyCards": [
+      "Voice of Resurgence",
+      "Loxodon Smiter",
+      "Obzedat, Ghost Council",
+      "Elspeth, Sun's Champion",
+      "Abrupt Decay"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc-noir avec créatures efficaces, removal noir et menaces de fin de partie comme Obzedat et Elspeth, Sun's Champion.",
+      "en": "Green-white-black midrange with efficient creatures, black removal and late threats such as Obzedat and Elspeth, Sun's Champion."
+    },
+    "why": {
+      "fr": [
+        "Sylvan Caryatid et Elvish Mystic fixaient une base de mana tricolore",
+        "Abrupt Decay et Hero's Downfall répondaient aux menaces de tous les decks",
+        "Elspeth concluait les parties contre les decks de créatures"
+      ],
+      "en": [
+        "Sylvan Caryatid and Elvish Mystic fixed a three-colour mana base",
+        "Abrupt Decay and Hero's Downfall answered threats from every deck",
+        "Elspeth closed games against creature decks"
+      ]
+    }
+  },
+  {
+    "name": "BWR Control",
+    "slug": "bwr-control",
+    "archetype": "control",
+    "titles": [
+      "BWR Control"
+    ],
+    "cover": "Anger of the Gods",
+    "keyCards": [
+      "Desecration Demon",
+      "Blood Baron of Vizkopa",
+      "Boros Reckoner",
+      "Anger of the Gods",
+      "Obzedat, Ghost Council"
+    ],
+    "summary": {
+      "fr": "Contrôle noir-blanc-rouge avec removal, Anger of the Gods et Read the Bones, qui finit avec Desecration Demon, Blood Baron et Obzedat.",
+      "en": "Black-white-red control with removal, Anger of the Gods and Read the Bones, finishing with Desecration Demon, Blood Baron and Obzedat."
+    },
+    "why": {
+      "fr": [
+        "Le removal des trois couleurs répondait à tous les types de menaces",
+        "Anger of the Gods balayait les decks aggro",
+        "Des finisseurs résistants comme Blood Baron étaient difficiles à gérer"
+      ],
+      "en": [
+        "Removal in three colours answered every type of threat",
+        "Anger of the Gods swept aggro decks",
+        "Resilient finishers such as Blood Baron were hard to answer"
+      ]
+    }
+  }
+]

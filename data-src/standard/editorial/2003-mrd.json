@@ -1,0 +1,735 @@
+[
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity",
+      "BRU Raffinity"
+    ],
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Disciple of the Vault",
+      "Skullclamp",
+      "Frogmite",
+      "Shrapnel Blast"
+    ],
+    "summary": {
+      "fr": "Aggro artefact qui joue des sorts à affinité presque gratuits grâce aux terrains-artefacts, avec Arcbound Ravager et Skullclamp.",
+      "en": "Artifact aggro that casts near-free affinity spells off artifact lands, backed by Arcbound Ravager and Skullclamp."
+    },
+    "why": {
+      "fr": [
+        "Les terrains-artefacts rendaient Frogmite et Thoughtcast quasi gratuits",
+        "Skullclamp transformait les petites créatures en pioche massive",
+        "Disciple of the Vault et Shrapnel Blast infligeaient des dégâts directs"
+      ],
+      "en": [
+        "Artifact lands made Frogmite and Thoughtcast nearly free",
+        "Skullclamp turned small creatures into large card draw",
+        "Disciple of the Vault and Shrapnel Blast dealt direct damage"
+      ]
+    },
+    "note": "Cranial Plating version (BRU Raffinity) merged."
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins",
+      "R/g Goblins"
+    ],
+    "rep": 603383,
+    "cover": "Goblin Warchief",
+    "keyCards": [
+      "Goblin Warchief",
+      "Goblin Piledriver",
+      "Siege-Gang Commander",
+      "Electrostatic Bolt",
+      "Oxidize"
+    ],
+    "summary": {
+      "fr": "Aggro Goblins rouge à touche verte qui attaque vite et joue Electrostatic Bolt et Oxidize contre les artefacts.",
+      "en": "Red Goblin aggro splashing green that attacks quickly and uses Electrostatic Bolt and Oxidize against artifacts."
+    },
+    "why": {
+      "fr": [
+        "Goblin Warchief accélérait toute la courbe de Goblins",
+        "Electrostatic Bolt et Oxidize visaient directement Affinity",
+        "Siege-Gang Commander et Goblin Sharpshooter contrôlaient le terrain"
+      ],
+      "en": [
+        "Goblin Warchief sped up the whole Goblin curve",
+        "Electrostatic Bolt and Oxidize targeted Affinity directly",
+        "Siege-Gang Commander and Goblin Sharpshooter controlled the board"
+      ]
+    }
+  },
+  {
+    "name": "Goblin Bidding",
+    "slug": "goblin-bidding",
+    "archetype": "aggro",
+    "titles": [
+      "Goblin Bidding",
+      "Read the Goblin Bidding",
+      "Swelter-Go"
+    ],
+    "cover": "Patriarch's Bidding",
+    "keyCards": [
+      "Patriarch's Bidding",
+      "Goblin Piledriver",
+      "Goblin Warchief",
+      "Siege-Gang Commander",
+      "Skirk Prospector"
+    ],
+    "summary": {
+      "fr": "Aggro Goblins rouge à touche noire qui garde Patriarch's Bidding pour reconstruire son armée après un balayage.",
+      "en": "Red Goblin aggro splashing black that keeps Patriarch's Bidding to rebuild its army after a sweeper."
+    },
+    "why": {
+      "fr": [
+        "Patriarch's Bidding ramenait tous les Goblins du cimetière",
+        "Skirk Prospector et Goblin Sledder alimentaient le cimetière",
+        "La base Goblins restait rapide face aux decks lents"
+      ],
+      "en": [
+        "Patriarch's Bidding returned every Goblin from the graveyard",
+        "Skirk Prospector and Goblin Sledder fuelled the graveyard",
+        "The Goblin core stayed fast against slow decks"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "U/w Control",
+      "UW Cloudpost",
+      "Uw Cloudpost"
+    ],
+    "cover": "Decree of Justice",
+    "keyCards": [
+      "Decree of Justice",
+      "Akroma's Vengeance",
+      "Thirst for Knowledge",
+      "Eternal Dragon",
+      "Mana Leak"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc qui contre et balaie avec Wrath of God et Akroma's Vengeance, puis gagne avec Decree of Justice et Eternal Dragon.",
+      "en": "Blue-white control that counters and sweeps with Wrath of God and Akroma's Vengeance, then wins with Decree of Justice and Eternal Dragon."
+    },
+    "why": {
+      "fr": [
+        "Akroma's Vengeance détruisait aussi les artefacts d'Affinity",
+        "Les cartes à cyclage limitaient les pioches inutiles",
+        "Certaines versions utilisaient Cloudpost pour accélérer le mana"
+      ],
+      "en": [
+        "Akroma's Vengeance also destroyed Affinity's artifacts",
+        "Cycling cards smoothed draws",
+        "Some versions used Cloudpost to accelerate mana"
+      ]
+    }
+  },
+  {
+    "name": "Tooth and Nail",
+    "slug": "tooth-and-nail",
+    "archetype": "ramp",
+    "titles": [
+      "Tooth And Nail",
+      "Tooth & Nail",
+      "Tooth and Nail"
+    ],
+    "cover": "Tooth and Nail",
+    "keyCards": [
+      "Tooth and Nail",
+      "Urza's Tower",
+      "Reap and Sow",
+      "Darksteel Colossus",
+      "Mindslaver"
+    ],
+    "summary": {
+      "fr": "Ramp vert qui assemble les terrains d'Urza pour lancer Tooth and Nail avec entwine et mettre en jeu ses créatures clés.",
+      "en": "Green ramp that assembles the Urza lands to cast an entwined Tooth and Nail and put its key creatures into play."
+    },
+    "why": {
+      "fr": [
+        "Sylvan Scrying et Reap and Sow trouvaient les terrains d'Urza",
+        "Tooth and Nail mettait en jeu deux créatures décisives",
+        "Oblivion Stone servait de balayage contre l'aggro"
+      ],
+      "en": [
+        "Sylvan Scrying and Reap and Sow found the Urza lands",
+        "Tooth and Nail put two decisive creatures into play",
+        "Oblivion Stone served as a sweeper against aggro"
+      ]
+    }
+  },
+  {
+    "name": "Elf and Nail",
+    "slug": "elf-and-nail",
+    "archetype": "ramp",
+    "titles": [
+      "Elf And Nail"
+    ],
+    "cover": "Wirewood Symbiote",
+    "keyCards": [
+      "Tooth and Nail",
+      "Wirewood Symbiote",
+      "Wood Elves",
+      "Skullclamp",
+      "Vernal Bloom"
+    ],
+    "summary": {
+      "fr": "Ramp mono-vert qui accélère avec des Elfes et Vernal Bloom, pioche avec Skullclamp et termine avec Tooth and Nail.",
+      "en": "Mono-green ramp that accelerates with Elves and Vernal Bloom, draws with Skullclamp and finishes with Tooth and Nail."
+    },
+    "why": {
+      "fr": [
+        "Vernal Bloom et les Elfes produisaient beaucoup de mana",
+        "Skullclamp sur les Elfes donnait une pioche importante",
+        "Viridian Shaman détruisait les artefacts adverses"
+      ],
+      "en": [
+        "Vernal Bloom and Elves produced a lot of mana",
+        "Skullclamp on Elves drew many cards",
+        "Viridian Shaman destroyed opposing artifacts"
+      ]
+    }
+  },
+  {
+    "name": "March of the Machines",
+    "slug": "march-of-the-machines",
+    "archetype": "control",
+    "titles": [
+      "Obliterate March",
+      "March of the Machines",
+      "March Of The Machines",
+      "Myco March",
+      "26 Crazy Cards"
+    ],
+    "cover": "March of the Machines",
+    "keyCards": [
+      "March of the Machines",
+      "Darksteel Ingot",
+      "Obliterate",
+      "Wrath of God",
+      "Thirst for Knowledge"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc qui anime les artefacts adverses avec March of the Machines et se protège avec des artefacts indestructibles.",
+      "en": "Blue-white control that animates opposing artifacts with March of the Machines and relies on indestructible artifacts."
+    },
+    "why": {
+      "fr": [
+        "March of the Machines détruisait les terrains-artefacts d'Affinity",
+        "Darksteel Ingot et Darksteel Pendant survivaient à Obliterate",
+        "Wrath of God et les contresorts couvraient les autres decks"
+      ],
+      "en": [
+        "March of the Machines killed Affinity's artifact lands",
+        "Darksteel Ingot and Darksteel Pendant survived Obliterate",
+        "Wrath of God and counters covered other matchups"
+      ]
+    },
+    "note": "Merged several March shells (Obliterate, Mycosynth Lattice, GW '26 Crazy Cards')."
+  },
+  {
+    "name": "Proteus Staff",
+    "slug": "proteus-staff",
+    "archetype": "combo",
+    "titles": [
+      "UW Proteus Colossus"
+    ],
+    "cover": "Proteus Staff",
+    "keyCards": [
+      "Proteus Staff",
+      "Darksteel Colossus",
+      "Raise the Alarm",
+      "Decree of Justice",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc qui utilise Proteus Staff sur un jeton pour aller chercher son unique créature, Darksteel Colossus.",
+      "en": "Blue-white control that uses Proteus Staff on a token to dig up its only real creature, Darksteel Colossus."
+    },
+    "why": {
+      "fr": [
+        "Raise the Alarm fournissait des cibles pour Proteus Staff",
+        "Darksteel Colossus arrivait sans payer son coût",
+        "La base de contrôle bleu-blanc gérait l'aggro"
+      ],
+      "en": [
+        "Raise the Alarm supplied targets for Proteus Staff",
+        "Darksteel Colossus arrived without paying its cost",
+        "The blue-white control shell handled aggro"
+      ]
+    }
+  },
+  {
+    "name": "GW Astral Slide",
+    "slug": "gw-astral-slide",
+    "archetype": "control",
+    "titles": [
+      "Astral Slide",
+      "GW Astral Slide",
+      "GW Astral Control"
+    ],
+    "cover": "Astral Slide",
+    "keyCards": [
+      "Astral Slide",
+      "Eternal Witness",
+      "Eternal Dragon",
+      "Renewed Faith",
+      "Viridian Shaman"
+    ],
+    "summary": {
+      "fr": "Contrôle vert-blanc basé sur le cyclage et Astral Slide, avec Eternal Witness et Viridian Shaman pour la valeur.",
+      "en": "Green-white control built on cycling and Astral Slide, with Eternal Witness and Viridian Shaman for value."
+    },
+    "why": {
+      "fr": [
+        "Astral Slide réutilisait les créatures à capacité d'arrivée",
+        "Viridian Shaman et Wrath of God gênaient Affinity",
+        "Eternal Dragon et les terrains à cyclage stabilisaient les pioches"
+      ],
+      "en": [
+        "Astral Slide reused enters-the-battlefield creatures",
+        "Viridian Shaman and Wrath of God troubled Affinity",
+        "Eternal Dragon and cycling lands smoothed draws"
+      ]
+    }
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "midrange",
+    "titles": [
+      "Red Land Loss",
+      "Mono Red Land-D",
+      "Ponza"
+    ],
+    "rep": 518640,
+    "cover": "Arc-Slogger",
+    "keyCards": [
+      "Stone Rain",
+      "Molten Rain",
+      "Arc-Slogger",
+      "Dwarven Blastminer",
+      "Electrostatic Bolt"
+    ],
+    "summary": {
+      "fr": "Mono-rouge qui détruit les terrains adverses avec Stone Rain et Molten Rain, puis conclut avec Arc-Slogger.",
+      "en": "Mono-red deck that destroys opposing lands with Stone Rain and Molten Rain, then finishes with Arc-Slogger."
+    },
+    "why": {
+      "fr": [
+        "La destruction de terrains punissait les decks gourmands en mana",
+        "Electrostatic Bolt et Shatter visaient Affinity",
+        "Arc-Slogger offrait une menace et un retrait répété"
+      ],
+      "en": [
+        "Land destruction punished mana-hungry decks",
+        "Electrostatic Bolt and Shatter targeted Affinity",
+        "Arc-Slogger gave a threat and repeated removal"
+      ]
+    }
+  },
+  {
+    "name": "RG Beasts",
+    "slug": "rg-beasts",
+    "archetype": "midrange",
+    "titles": [
+      "RG Beasts with LL",
+      "R/g Beasts",
+      "RG Beats"
+    ],
+    "cover": "Ravenous Baloth",
+    "keyCards": [
+      "Ravenous Baloth",
+      "Eternal Witness",
+      "Molten Rain",
+      "Arc-Slogger",
+      "Contested Cliffs"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-vert qui mêle destruction de terrains, gros Beasts et retrait, avec Eternal Witness pour recycler ses sorts.",
+      "en": "Red-green midrange mixing land destruction, large Beasts and removal, with Eternal Witness to rebuy spells."
+    },
+    "why": {
+      "fr": [
+        "Stone Rain et Molten Rain ralentissaient l'adversaire",
+        "Ravenous Baloth et Contested Cliffs dominaient les combats",
+        "Eternal Witness récupérait le meilleur sort du cimetière"
+      ],
+      "en": [
+        "Stone Rain and Molten Rain slowed opponents",
+        "Ravenous Baloth and Contested Cliffs won creature fights",
+        "Eternal Witness returned the best spell from the graveyard"
+      ]
+    },
+    "note": "GP Rimini 'RG Beats' (no Beasts, Tel-Jilad Justice) merged as same RG midrange-LD family."
+  },
+  {
+    "name": "Big Red",
+    "slug": "big-red",
+    "archetype": "midrange",
+    "titles": [
+      "Big Red",
+      "BR Big Red"
+    ],
+    "rep": 603266,
+    "cover": "Furnace Dragon",
+    "keyCards": [
+      "Furnace Dragon",
+      "Arc-Slogger",
+      "Seething Song",
+      "Shrapnel Blast",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Mono-rouge qui accélère avec Seething Song, Chrome Mox et les Talisman vers Arc-Slogger et Furnace Dragon.",
+      "en": "Mono-red deck that ramps with Seething Song, Chrome Mox and Talismans into Arc-Slogger and Furnace Dragon."
+    },
+    "why": {
+      "fr": [
+        "Furnace Dragon exilait les artefacts d'Affinity",
+        "Arc-Slogger retirait les créatures de manière répétée",
+        "Les terrains-artefacts alimentaient aussi Shrapnel Blast"
+      ],
+      "en": [
+        "Furnace Dragon exiled Affinity's artifacts",
+        "Arc-Slogger removed creatures repeatedly",
+        "Artifact lands also fuelled Shrapnel Blast"
+      ]
+    }
+  },
+  {
+    "name": "KCI",
+    "slug": "kci",
+    "archetype": "combo",
+    "titles": [
+      "KCI",
+      "Incubator Charbelcher"
+    ],
+    "cover": "Krark-Clan Ironworks",
+    "keyCards": [
+      "Krark-Clan Ironworks",
+      "Myr Incubator",
+      "Goblin Charbelcher",
+      "Pentad Prism",
+      "Fabricate"
+    ],
+    "summary": {
+      "fr": "Combo artefact qui génère beaucoup de mana avec Krark-Clan Ironworks pour lancer Myr Incubator puis Goblin Charbelcher.",
+      "en": "Artifact combo that generates large amounts of mana with Krark-Clan Ironworks to cast Myr Incubator, then Goblin Charbelcher."
+    },
+    "why": {
+      "fr": [
+        "Krark-Clan Ironworks convertissait chaque artefact en mana",
+        "Myr Incubator créait une armée de jetons d'un coup",
+        "Fabricate et Thirst for Knowledge assemblaient les pièces"
+      ],
+      "en": [
+        "Krark-Clan Ironworks turned each artifact into mana",
+        "Myr Incubator made an army of tokens at once",
+        "Fabricate and Thirst for Knowledge assembled the pieces"
+      ]
+    }
+  },
+  {
+    "name": "Death Cloud",
+    "slug": "death-cloud",
+    "archetype": "control",
+    "titles": [
+      "Death Cloud"
+    ],
+    "cover": "Death Cloud",
+    "keyCards": [
+      "Death Cloud",
+      "Chittering Rats",
+      "Consume Spirit",
+      "Solemn Simulacrum",
+      "Rotlung Reanimator"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-noir qui accumule l'avantage avec Chittering Rats et Solemn Simulacrum, puis vide le terrain avec Death Cloud.",
+      "en": "Mono-black control that builds advantage with Chittering Rats and Solemn Simulacrum, then wipes the table with Death Cloud."
+    },
+    "why": {
+      "fr": [
+        "Death Cloud détruisait créatures, mains et terrains à la fois",
+        "Les créatures à valeur laissaient un avantage après le sort",
+        "Consume Spirit fournissait une fin de partie"
+      ],
+      "en": [
+        "Death Cloud hit creatures, hands and lands at once",
+        "Value creatures left it ahead after the wipe",
+        "Consume Spirit gave a finisher"
+      ]
+    }
+  },
+  {
+    "name": "GW Control",
+    "slug": "gw-control",
+    "archetype": "control",
+    "titles": [
+      "G/w Control"
+    ],
+    "cover": "Akroma's Vengeance",
+    "keyCards": [
+      "Akroma's Vengeance",
+      "Decree of Justice",
+      "Eternal Dragon",
+      "Cloudpost",
+      "Oxidize"
+    ],
+    "summary": {
+      "fr": "Contrôle vert-blanc qui balaie avec Wrath of God et Akroma's Vengeance et accélère son mana avec Cloudpost.",
+      "en": "Green-white control that sweeps with Wrath of God and Akroma's Vengeance and accelerates with Cloudpost."
+    },
+    "why": {
+      "fr": [
+        "Oxidize et Akroma's Vengeance visaient Affinity",
+        "Cloudpost alimentait de gros Decree of Justice",
+        "Le cyclage d'Eternal Dragon et Renewed Faith lissait les pioches"
+      ],
+      "en": [
+        "Oxidize and Akroma's Vengeance targeted Affinity",
+        "Cloudpost fuelled large Decree of Justice",
+        "Cycling Eternal Dragon and Renewed Faith smoothed draws"
+      ]
+    }
+  },
+  {
+    "name": "Rude March",
+    "slug": "rude-march",
+    "archetype": "control",
+    "titles": [
+      "Rude March"
+    ],
+    "cover": "Rude Awakening",
+    "keyCards": [
+      "March of the Machines",
+      "Rude Awakening",
+      "Eternal Witness",
+      "Viridian Shaman",
+      "Condescend"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert qui joue March of the Machines contre les artefacts et gagne en animant ses terrains avec Rude Awakening.",
+      "en": "Blue-green control that plays March of the Machines against artifacts and wins by animating its lands with Rude Awakening."
+    },
+    "why": {
+      "fr": [
+        "March of the Machines, Oxidize et Viridian Shaman ciblaient Affinity",
+        "Eternal Witness récupérait Rude Awakening",
+        "Condescend et Last Word protégeaient le plan"
+      ],
+      "en": [
+        "March of the Machines, Oxidize and Viridian Shaman targeted Affinity",
+        "Eternal Witness returned Rude Awakening",
+        "Condescend and Last Word protected the plan"
+      ]
+    }
+  },
+  {
+    "name": "Crystal Witness",
+    "slug": "crystal-witness",
+    "archetype": "control",
+    "titles": [
+      "Crystal Witness"
+    ],
+    "cover": "Crystal Shard",
+    "keyCards": [
+      "Crystal Shard",
+      "Eternal Witness",
+      "Viridian Shaman",
+      "Troll Ascetic",
+      "Echoing Truth"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert qui réutilise Eternal Witness et Viridian Shaman avec Crystal Shard pour accumuler l'avantage.",
+      "en": "Blue-green control that reuses Eternal Witness and Viridian Shaman with Crystal Shard to build card advantage."
+    },
+    "why": {
+      "fr": [
+        "Crystal Shard relançait les capacités d'arrivée en jeu",
+        "Viridian Shaman détruisait les artefacts d'Affinity",
+        "Troll Ascetic offrait une menace résistante au retrait"
+      ],
+      "en": [
+        "Crystal Shard repeated enters-the-battlefield effects",
+        "Viridian Shaman destroyed Affinity's artifacts",
+        "Troll Ascetic was a removal-resistant threat"
+      ]
+    }
+  },
+  {
+    "name": "RG Firecat",
+    "slug": "rg-firecat",
+    "archetype": "aggro",
+    "titles": [
+      "Morphs Anonymous"
+    ],
+    "cover": "Blistering Firecat",
+    "keyCards": [
+      "Blistering Firecat",
+      "Slith Firewalker",
+      "Arc-Slogger",
+      "Magma Jet",
+      "Electrostatic Bolt"
+    ],
+    "summary": {
+      "fr": "Aggro rouge à touche verte qui combine Slith Firewalker, Blistering Firecat et sorts de dégâts.",
+      "en": "Red aggro splashing green that combines Slith Firewalker, Blistering Firecat and burn."
+    },
+    "why": {
+      "fr": [
+        "Blistering Firecat infligeait de gros dégâts en un tour",
+        "Electrostatic Bolt et Magma Jet retiraient les créatures-artefacts",
+        "Blinkmoth Nexus ajoutait une menace résistante aux balayages"
+      ],
+      "en": [
+        "Blistering Firecat dealt heavy damage in one turn",
+        "Electrostatic Bolt and Magma Jet removed artifact creatures",
+        "Blinkmoth Nexus added a sweeper-proof threat"
+      ]
+    },
+    "note": "mtgtop8 title 'Morphs Anonymous'; renamed descriptively."
+  },
+  {
+    "name": "BG Cemetery",
+    "slug": "bg-cemetery",
+    "archetype": "midrange",
+    "titles": [
+      "BG Cemetery"
+    ],
+    "cover": "Oversold Cemetery",
+    "keyCards": [
+      "Oversold Cemetery",
+      "Death Cloud",
+      "Eternal Witness",
+      "Ravenous Baloth",
+      "Viridian Shaman"
+    ],
+    "summary": {
+      "fr": "Midrange vert-noir qui récupère ses créatures à valeur avec Oversold Cemetery et joue Death Cloud pour réinitialiser.",
+      "en": "Green-black midrange that recurs value creatures with Oversold Cemetery and plays Death Cloud as a reset."
+    },
+    "why": {
+      "fr": [
+        "Oversold Cemetery transformait chaque créature morte en avantage",
+        "Death Cloud rasait le terrain après accélération",
+        "Viridian Shaman et Bane of the Living géraient l'aggro"
+      ],
+      "en": [
+        "Oversold Cemetery turned each dead creature into advantage",
+        "Death Cloud wiped the board after ramping",
+        "Viridian Shaman and Bane of the Living handled aggro"
+      ]
+    }
+  },
+  {
+    "name": "UR Obliterate",
+    "slug": "ur-obliterate",
+    "archetype": "control",
+    "titles": [
+      "UR Obliterate"
+    ],
+    "cover": "Obliterate",
+    "keyCards": [
+      "Obliterate",
+      "Darksteel Gargoyle",
+      "Darksteel Ingot",
+      "Pyroclasm",
+      "Thirst for Knowledge"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge qui contre, balaie avec Pyroclasm puis joue Obliterate en gardant ses permanents indestructibles.",
+      "en": "Blue-red control that counters, sweeps with Pyroclasm, then casts Obliterate while keeping its indestructible permanents."
+    },
+    "why": {
+      "fr": [
+        "Darksteel Gargoyle et Darksteel Ingot survivaient à Obliterate",
+        "Pyroclasm gérait les petites créatures d'Affinity et des Goblins",
+        "Mana Leak et Condescend protégeaient le sort clé"
+      ],
+      "en": [
+        "Darksteel Gargoyle and Darksteel Ingot survived Obliterate",
+        "Pyroclasm handled Affinity and Goblin creatures",
+        "Mana Leak and Condescend protected the key spell"
+      ]
+    }
+  },
+  {
+    "name": "GW Skullclamp",
+    "slug": "gw-skullclamp",
+    "archetype": "ramp",
+    "titles": [
+      "Gw Skullclamp Control"
+    ],
+    "cover": "Exalted Angel",
+    "keyCards": [
+      "Skullclamp",
+      "Exalted Angel",
+      "Ravenous Baloth",
+      "Vine Trellis",
+      "Akroma's Vengeance"
+    ],
+    "summary": {
+      "fr": "Ramp vert-blanc qui accélère avec Birds of Paradise et Wood Elves, pioche avec Skullclamp et joue de grosses créatures.",
+      "en": "Green-white ramp that accelerates with Birds of Paradise and Wood Elves, draws with Skullclamp and plays large creatures."
+    },
+    "why": {
+      "fr": [
+        "Skullclamp sur les créatures à mana donnait beaucoup de pioche",
+        "Exalted Angel et Ravenous Baloth gagnaient des points de vie",
+        "Wrath of God et Akroma's Vengeance servaient de réinitialisation"
+      ],
+      "en": [
+        "Skullclamp on mana creatures drew many cards",
+        "Exalted Angel and Ravenous Baloth gained life",
+        "Wrath of God and Akroma's Vengeance acted as resets"
+      ]
+    }
+  },
+  {
+    "name": "RGW Control",
+    "slug": "rgw-control",
+    "archetype": "control",
+    "titles": [
+      "Naya Control"
+    ],
+    "cover": "Damping Matrix",
+    "keyCards": [
+      "Damping Matrix",
+      "Silver Knight",
+      "Eternal Dragon",
+      "Exalted Angel",
+      "Electrostatic Bolt"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge-vert-blanc qui neutralise les capacités activées avec Damping Matrix et retire les artefacts.",
+      "en": "Red-green-white control that shuts off activated abilities with Damping Matrix and removes artifacts."
+    },
+    "why": {
+      "fr": [
+        "Damping Matrix bloquait Arcbound Ravager et Skullclamp",
+        "Naturalize et Electrostatic Bolt visaient Affinity",
+        "Silver Knight résistait aux decks rouges"
+      ],
+      "en": [
+        "Damping Matrix blocked Arcbound Ravager and Skullclamp",
+        "Naturalize and Electrostatic Bolt targeted Affinity",
+        "Silver Knight held off red decks"
+      ]
+    },
+    "note": "mtgtop8 title 'Naya Control' is anachronistic; named by colours."
+  }
+]

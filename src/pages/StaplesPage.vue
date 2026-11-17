@@ -42,7 +42,7 @@ const total = computed(() => seasons.value.reduce((n, s) => n + s.cards.length, 
 
 <style scoped>
 .staples {
-  padding: var(--space-sm) 6px 0;
+  padding: var(--space-sm) var(--space-md) 0;
 }
 
 .count {
@@ -54,8 +54,20 @@ const total = computed(() => seasons.value.reduce((n, s) => n + s.cards.length, 
 
 .wall {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 6px;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 8px;
+}
+
+@media (max-width: 1100px) {
+  .wall {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 820px) {
+  .wall {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 
 .divider:first-child {
@@ -111,7 +123,7 @@ const total = computed(() => seasons.value.reduce((n, s) => n + s.cards.length, 
 
 @media (max-width: 640px) {
   .wall {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 4px;
   }
 }
