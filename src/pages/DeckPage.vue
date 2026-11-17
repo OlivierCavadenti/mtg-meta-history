@@ -1,162 +1,287 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, watchEffect } from 'vue'
 import { useRoute } from 'vue-router'
-import { FORMAT_LABELS, ARCHETYPE_LABELS } from '../data/types'
-import { t } from '../lib/i18n'
-import CardGallery from '../components/CardGallery.vue'
-import DecklistView from '../components/DecklistView.vue'
-import { findDeckBySlug } from '../data/years'
-import { getFormat } from '../data/formats'
+import { findDeck } from '../data/load'
+import { useFormat } from '../lib/useFormat'
+import { archetypeLabel, formatDate, formatMonth, formatNumber, locale, seasonYears, t, tx } from '../lib/i18n'
+import { cardImage, scryfallSearch } from '../lib/cards'
+import { hidePreview, movePreview, showPreview } from '../lib/preview'
+import ColorPips from '../components/ColorPips.vue'
+import DeckList from '../components/DeckList.vue'
+import SoonState from '../components/SoonState.vue'
 
 const route = useRoute()
+const { formatId, format, data, loading } = useFormat()
 
-const slug = computed(() => route.params.slug as string)
-const result = computed(() => findDeckBySlug(slug.value))
-const deck = computed(() => result.value?.deck)
-const entry = computed(() => result.value?.entry)
-const formatInfo = computed(() => entry.value ? getFormat(entry.value.format) : undefined)
+const found = computed(() => (data.value ? findDeck(data.value, String(route.params.id)) : undefined))
+const deck = computed(() => found.value?.deck)
+const season = computed(() => found.value?.season)
+const cards = computed(() => data.value?.cards ?? {})
+const why = computed(() => deck.value?.why[locale.value] ?? [])
+
+const years = computed(() => (season.value ? seasonYears(season.value.start, season.value.end) : ''))
+
+const siblings = computed(() => {
+  if (!season.value || !deck.value) return { prev: undefined, next: undefined }
+  const list = season.value.decks
+  const i = list.findIndex((d) => d.id === deck.value!.id)
+  return { prev: list[i - 1], next: list[i + 1] }
+})
+
+const rankLabel = computed(() => {
+  const r = deck.value?.list.rank ?? ''
+  return /^\d/.test(r) ? `#${r}` : r
+})
+
+watchEffect(() => {
+  if (deck.value) document.title = `${deck.value.name} · ${years.value} · MTG Meta History`
+})
 </script>
 
 <template>
-  <div v-if="deck && entry">
-    <header class="page-header">
-      <h1>{{ deck.name }}</h1>
-      <p class="subtitle">
-        {{ ARCHETYPE_LABELS[deck.archetype] }} &mdash;
-        {{ FORMAT_LABELS[entry.format] }} {{ entry.year }}
-      </p>
+  <SoonState v-if="format && !format.ready" :label="format.label" />
+  <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
+  <div v-else-if="!deck || !season" class="state">{{ t('notFound') }}</div>
+  <article v-else class="deck">
+    <nav class="crumbs">
+      <router-link :to="`/${formatId}`">{{ format?.label }}</router-link>,
+      <router-link :to="`/${formatId}#s-${season.id}`">{{ years }}, {{ season.set }}</router-link>
+    </nav>
+
+    <header class="hero">
+      <div class="hero-text">
+        <p v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}</p>
+        <h1>{{ deck.name }}</h1>
+        <p class="byline">
+          <ColorPips :colors="deck.colors" :size="12" />
+          {{ archetypeLabel(deck.archetype) }}. {{ deck.list.player }}, {{ rankLabel }},
+          <a :href="deck.list.url" target="_blank" rel="noopener noreferrer">{{ deck.list.event }}</a>,
+          {{ formatDate(deck.list.date) }}.
+        </p>
+        <p class="summary">{{ tx(deck.summary) }}</p>
+        <p class="record">
+          {{ deck.stats.top8 }} {{ t('top8') }}, {{ deck.stats.wins }} {{ deck.stats.wins > 1 ? t('wins') : t('win') }},
+          {{ formatNumber(deck.stats.share) }} % {{ t('share') }} ({{ formatMonth(deck.first) }} – {{ formatMonth(deck.last) }})
+        </p>
+      </div>
+      <figure class="hero-art">
+        <img :src="cardImage(cards[deck.cover], deck.cover, 'art_crop')" :alt="deck.cover" />
+        <figcaption>{{ deck.cover }}</figcaption>
+      </figure>
     </header>
 
-    <section class="section">
-      <div class="deck-meta-grid">
-        <div class="deck-meta-item">
-          <span class="deck-meta-label">{{ t('deck.format') }}</span>
-          <span class="deck-meta-value format-tag" :style="{ color: formatInfo?.color }">
-            {{ FORMAT_LABELS[entry.format] }}
-          </span>
+    <section class="insight">
+      <div class="keycards">
+        <h2>{{ t('keyCards') }}</h2>
+        <div class="kc-grid">
+          <a
+            v-for="c in deck.keyCards"
+            :key="c"
+            :href="scryfallSearch(c)"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="kc"
+            @mouseenter="showPreview(cardImage(cards[c], c, 'large'), $event)"
+            @mousemove="movePreview"
+            @mouseleave="hidePreview"
+          >
+            <img :src="cardImage(cards[c], c, 'normal')" :alt="c" loading="lazy" />
+          </a>
         </div>
-        <div class="deck-meta-item">
-          <span class="deck-meta-label">{{ t('deck.year') }}</span>
-          <span class="deck-meta-value">{{ entry.year }}</span>
-        </div>
-        <div class="deck-meta-item">
-          <span class="deck-meta-label">{{ t('deck.archetype') }}</span>
-          <span class="deck-meta-value">{{ ARCHETYPE_LABELS[deck.archetype] }}</span>
-        </div>
-        <div class="deck-meta-item">
-          <span class="deck-meta-label">{{ t('deck.period') }}</span>
-          <span class="deck-meta-value">{{ deck.period }}</span>
-        </div>
+      </div>
+      <div class="why">
+        <h2>{{ deck.tier === 1 ? t('why1') : t('why') }}</h2>
+        <ol>
+          <li v-for="(b, i) in why" :key="i">{{ b }}</li>
+        </ol>
       </div>
     </section>
 
-    <section class="section">
-      <h2 class="section-title">{{ t('deck.summary') }}</h2>
-      <p class="deck-summary">{{ deck.summary }}</p>
-    </section>
+    <DeckList :list="deck.list" :cards="cards" />
 
-    <section class="section">
-      <h2 class="section-title">{{ t('deck.key_cards') }}</h2>
-      <CardGallery :cards="deck.keyCards" />
-    </section>
-
-    <section v-if="deck.decklist" class="section">
-      <h2 class="section-title">{{ t('deck.decklists') }}</h2>
-      <DecklistView :decklist="deck.decklist" />
-    </section>
-
-    <section v-else-if="deck.source" class="section">
-      <h2 class="section-title">{{ t('deck.decklists') }}</h2>
-      <p>
-        <a :href="deck.source.url" target="_blank" rel="noopener noreferrer">
-          {{ deck.source.title || t('deck.view_decklists') }}
-        </a>
-        <span v-if="deck.source.publisher" class="source-pub"> &mdash; {{ deck.source.publisher }}</span>
-      </p>
-    </section>
-
-    <section v-else-if="deck.decklistPending" class="section">
-      <h2 class="section-title">{{ t('deck.decklists') }}</h2>
-      <p class="decklist-pending">{{ t('deck.decklist_pending') }}</p>
-    </section>
-
-    <nav class="page-nav">
-      <router-link :to="`/year/${entry.year}/${entry.format}`">
-        &larr; {{ FORMAT_LABELS[entry.format] }} {{ entry.year }}
+    <nav class="siblings">
+      <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">
+        <span class="sib-dir">← {{ t('prev') }}</span>{{ siblings.prev.name }}
       </router-link>
-      <router-link to="/timeline">{{ t('nav.timeline') }}</router-link>
+      <span v-else></span>
+      <router-link v-if="siblings.next" :to="`/${formatId}/deck/${siblings.next.id}`" class="sib sib--next">
+        <span class="sib-dir">{{ t('next') }} →</span>{{ siblings.next.name }}
+      </router-link>
     </nav>
-  </div>
-  <div v-else>
-    <header class="page-header">
-      <h1>{{ t('deck.not_found') }}</h1>
-      <p class="subtitle">{{ t('deck.no_match') }} "{{ slug }}" {{ t('deck.in_archive') }}.</p>
-    </header>
-    <p><router-link to="/timeline">{{ t('year.back_timeline') }}</router-link></p>
-  </div>
+  </article>
 </template>
 
 <style scoped>
-.deck-meta-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: var(--space-md);
-  border: 1px solid var(--line);
-  padding: var(--space-md);
-}
-
-.deck-meta-label {
-  display: block;
-  font-family: var(--font-label);
-  font-size: 0.65rem;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--muted);
-  margin-bottom: 2px;
-}
-
-.deck-meta-value {
-  font-size: 0.95rem;
-  font-weight: 600;
-}
-
-.format-tag {
-  font-family: var(--font-heading);
-}
-
-.deck-summary {
-  font-size: 1rem;
-  line-height: 1.65;
-}
-
-.card-list {
-  columns: 2;
-  column-gap: var(--space-lg);
-  font-size: 0.92rem;
-}
-
-.card-list li {
-  margin-bottom: var(--space-xs);
-}
-
-.source-pub {
-  color: var(--muted);
-  font-size: 0.85rem;
-}
-
-.decklist-pending {
-  border: 1px dashed var(--line);
-  padding: var(--space-md);
-  color: var(--muted);
+.crumbs {
   font-style: italic;
-  text-align: center;
+  color: var(--muted);
+  margin-bottom: var(--space-lg);
 }
 
-.page-nav {
+.crumbs a {
+  color: var(--muted);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: var(--space-xl);
+  align-items: start;
+  margin-bottom: var(--space-xl);
+}
+
+.kicker {
+  font-style: italic;
+  color: var(--accent);
+  font-size: 1.05rem;
+}
+
+h1 {
+  font-size: clamp(2.6rem, 6vw, 4.6rem);
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+}
+
+.byline {
+  margin-top: var(--space-sm);
+  font-size: 0.98rem;
+  color: var(--ink-light);
+}
+
+.byline a {
+  color: var(--ink-light);
+}
+
+.byline .pips {
+  margin-right: 0.3rem;
+}
+
+.summary {
+  margin-top: var(--space-lg);
+  font-size: 1.3rem;
+  line-height: 1.45;
+}
+
+.record {
+  margin-top: var(--space-md);
+  font-style: italic;
+  color: var(--muted);
+}
+
+.hero-art {
+  margin: 0;
+}
+
+.hero-art img {
+  width: 100%;
+  aspect-ratio: 626 / 457;
+  object-fit: cover;
+  display: block;
+  border: 1px solid var(--ink);
+}
+
+figcaption {
+  margin-top: 0.3rem;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--muted);
+  text-align: right;
+}
+
+.insight {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+  gap: var(--space-xl);
+  margin-bottom: var(--space-xl);
+}
+
+.insight h2 {
+  font-size: 1.35rem;
+  border-top: 1px solid var(--ink);
+  padding-top: var(--space-xs);
+  margin-bottom: var(--space-md);
+}
+
+.kc-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: var(--space-sm);
+}
+
+.kc {
+  display: block;
+  aspect-ratio: 488 / 680;
+  border-radius: 4.75% / 3.5%;
+  overflow: hidden;
+  background: var(--paper-deep);
+}
+
+.kc img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.why ol {
+  padding-left: 1.4em;
+}
+
+.why li {
+  padding: 0 0 0.6rem 0.2rem;
+  line-height: 1.45;
+  font-size: 1.02rem;
+}
+
+.why li::marker {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.siblings {
   display: flex;
-  gap: var(--space-lg);
-  padding-top: var(--space-lg);
-  border-top: 1px solid var(--line);
-  font-size: 0.88rem;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-sm);
+  border-top: 1px solid var(--ink);
+}
+
+.sib {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.sib-dir {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.sib--next {
+  text-align: right;
+}
+
+@media (max-width: 860px) {
+  .hero,
+  .insight {
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+  }
+
+  .hero-art {
+    order: -1;
+  }
+
+  .kc-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 </style>

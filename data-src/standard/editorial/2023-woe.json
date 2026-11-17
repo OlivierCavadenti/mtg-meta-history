@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Esper Legends",
+    "slug": "esper-legends",
+    "archetype": "midrange",
+    "titles": ["Esper Raffine", "Esper Midrange"],
+    "cover": "Raffine, Scheming Seer",
+    "keyCards": ["Raffine, Scheming Seer", "Thalia, Guardian of Thraben", "Dennick, Pious Apprentice", "Sheoldred, the Apocalypse", "Plaza of Heroes"],
+    "summary": {
+      "fr": "Midrange Esper bâti sur des créatures légendaires bon marché : connivence de Raffine, taxe de Thalia et Sheoldred en haut de courbe.",
+      "en": "Esper midrange built on cheap legendary creatures: Raffine's connive triggers, Thalia's tax and Sheoldred at the top of the curve."
+    },
+    "why": {
+      "fr": ["Plaza of Heroes fixait les trois couleurs d'une courbe dense de légendes", "Sheoldred et Go for the Throat formaient un cœur midrange solide", "Vainqueur du championnat du monde en début de saison"],
+      "en": ["Plaza of Heroes fixed three colours for a dense curve of legends", "Sheoldred and Go for the Throat gave it a solid midrange core", "Won the World Championship at the start of the season"]
+    },
+    "note": "Most played deck of the season by results; also sold as Esper Midrange."
+  },
+  {
+    "name": "Domain Ramp",
+    "slug": "domain-ramp",
+    "archetype": "ramp",
+    "titles": ["4/5C Control", "5cc", "5C Control"],
+    "cover": "Atraxa, Grand Unifier",
+    "keyCards": ["Leyline Binding", "Up the Beanstalk", "Sunfall", "Archangel of Wrath", "Atraxa, Grand Unifier"],
+    "summary": {
+      "fr": "Rampe cinq couleurs sur tri-lands et domaine : Leyline Binding et Sunfall gèrent la table, Atraxa, Grand Unifier conclut.",
+      "en": "Five-colour ramp on tri-lands and domain: Leyline Binding and Sunfall handle the board, Atraxa, Grand Unifier closes."
+    },
+    "why": {
+      "fr": ["Le domaine faisait de Leyline Binding un removal à un mana", "Sunfall et Archangel of Wrath absorbaient les départs agressifs", "Vainqueur du Pro Tour Thunder Junction"],
+      "en": ["Domain turned Leyline Binding into a one-mana removal spell", "Sunfall and Archangel of Wrath absorbed aggressive starts", "Won Pro Tour Thunder Junction"]
+    }
+  },
+  {
+    "name": "Golgari Midrange",
+    "slug": "golgari-midrange",
+    "archetype": "midrange",
+    "titles": ["Golgari Aggro"],
+    "cover": "Glissa Sunslayer",
+    "keyCards": ["Glissa Sunslayer", "Mosswood Dreadknight", "Caustic Bronco", "Liliana of the Veil", "Go for the Throat"],
+    "summary": {
+      "fr": "Midrange noir-vert : menaces efficaces comme Glissa Sunslayer et Mosswood Dreadknight, beaucoup de removal et Liliana of the Veil.",
+      "en": "Black-green midrange: efficient threats such as Glissa Sunslayer and Mosswood Dreadknight, plenty of removal and Liliana of the Veil."
+    },
+    "why": {
+      "fr": ["Glissa Sunslayer dominait les combats et détruisait les enchantements", "Mosswood Dreadknight et Restless Cottage donnaient de l'avantage sur la durée", "Top 4 au championnat du monde"],
+      "en": ["Glissa Sunslayer won combat and destroyed enchantments", "Mosswood Dreadknight and Restless Cottage generated long-game value", "Top 4 at the World Championship"]
+    }
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": ["UW Control"],
+    "cover": "The Wandering Emperor",
+    "keyCards": ["The Wandering Emperor", "Sunfall", "Memory Deluge", "No More Lies", "Three Steps Ahead"],
+    "summary": {
+      "fr": "Contrôle blanc-bleu classique : contresorts, Sunfall pour nettoyer la table et The Wandering Emperor pour finir.",
+      "en": "Classic white-blue control: counterspells, Sunfall to clear the board and The Wandering Emperor to finish."
+    },
+    "why": {
+      "fr": ["Sunfall exilait les menaces sans laisser de valeur aux decks midrange", "Memory Deluge et Deduce assuraient l'avantage de cartes", "Finaliste du Pro Tour Thunder Junction"],
+      "en": ["Sunfall exiled threats without leaving value for midrange decks", "Memory Deluge and Deduce kept the card flow going", "Reached the final of Pro Tour Thunder Junction"]
+    }
+  },
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": ["Red Deck Wins"],
+    "cover": "Bloodthirsty Adversary",
+    "keyCards": ["Monastery Swiftspear", "Kumano Faces Kakkazan", "Bloodthirsty Adversary", "Urabrask's Forge", "Play with Fire"],
+    "summary": {
+      "fr": "Aggro mono-rouge à courbe basse, burn pour dégager le passage et Urabrask's Forge pour les parties longues.",
+      "en": "Low-curve mono-red aggro with burn to clear blockers and Urabrask's Forge for longer games."
+    },
+    "why": {
+      "fr": ["Punissait les decks domaine et contrôle lents à se mettre en place", "Urabrask's Forge résistait aux removals de créatures", "Mishra's Foundry ajoutait des menaces sans coût en sorts"],
+      "en": ["Punished slow domain and control decks", "Urabrask's Forge dodged creature removal", "Mishra's Foundry added threats without costing spell slots"]
+    }
+  },
+  {
+    "name": "Boros Convoke",
+    "slug": "boros-convoke",
+    "archetype": "aggro",
+    "titles": ["Boros Convoke", "Boros Aggro"],
+    "cover": "Warleader's Call",
+    "keyCards": ["Knight-Errant of Eos", "Imodane's Recruiter", "Gleeful Demolition", "Warleader's Call", "Resolute Reinforcements"],
+    "summary": {
+      "fr": "Aggro go-wide : jetons et petites créatures alimentent la convocation de Knight-Errant of Eos et les dégâts de Warleader's Call.",
+      "en": "Go-wide aggro: tokens and small creatures fuel Knight-Errant of Eos convoke and Warleader's Call damage."
+    },
+    "why": {
+      "fr": ["Gleeful Demolition accélérait la mise en jeu de créatures dès le premier tour", "Warleader's Call infligeait des dégâts même contre des bloqueurs", "Top 4 au Pro Tour Thunder Junction"],
+      "en": ["Gleeful Demolition accelerated creatures from the first turn", "Warleader's Call dealt damage even through blockers", "Top 4 at Pro Tour Thunder Junction"]
+    }
+  },
+  {
+    "name": "Bant Toxic",
+    "slug": "bant-toxic",
+    "archetype": "aggro",
+    "titles": ["Bant Toxic", "Bant Aggro", "WW", "Bant Infect"],
+    "cover": "Venerated Rotpriest",
+    "keyCards": ["Skrelv, Defector Mite", "Venerated Rotpriest", "Crawling Chorus", "March of Swirling Mist", "Skrelv's Hive"],
+    "summary": {
+      "fr": "Aggro poison : petites créatures toxiques et sorts de protection qui accumulent les marqueurs poison via Venerated Rotpriest.",
+      "en": "Poison aggro: small toxic creatures and protection spells that stack poison counters through Venerated Rotpriest."
+    },
+    "why": {
+      "fr": ["Les marqueurs poison contournaient le gain de points de vie adverse", "Les protections réciproques punissaient les removals ciblés", "Une version mono-blanche existait sur le même plan"],
+      "en": ["Poison counters bypassed opposing life gain", "Protection spells punished targeted removal", "A mono-white build ran the same plan"]
+    }
+  },
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": ["Dimir Aggro"],
+    "cover": "Gix, Yawgmoth Praetor",
+    "keyCards": ["Faerie Mastermind", "Deep-Cavern Bat", "Preacher of the Schism", "Gix, Yawgmoth Praetor", "Spyglass Siren"],
+    "summary": {
+      "fr": "Midrange bleu-noir aux créatures volantes et removals instantanés, qui accumule les cartes via Gix et Preacher of the Schism.",
+      "en": "Blue-black midrange with evasive creatures and instant-speed removal, drawing cards through Gix and Preacher of the Schism."
+    },
+    "why": {
+      "fr": ["Deep-Cavern Bat dévoilait la main adverse et retirait la meilleure carte", "Les menaces volantes alimentaient Gix et Preacher of the Schism", "Removals à mana réduit adaptés au métagame créatures"],
+      "en": ["Deep-Cavern Bat revealed the opponent's hand and took the best card", "Evasive threats fed Gix and Preacher of the Schism", "Cheap removal suited a creature-heavy field"]
+    }
+  },
+  {
+    "name": "Temur Analyst",
+    "slug": "temur-analyst",
+    "archetype": "ramp",
+    "titles": ["Temur Control", "Temur Analyst"],
+    "cover": "Aftermath Analyst",
+    "keyCards": ["Aftermath Analyst", "Nissa, Resurgent Animist", "Worldsoul's Rage", "Ill-Timed Explosion", "Memory Deluge"],
+    "summary": {
+      "fr": "Deck de terrains temur : il remplit le cimetière de terrains, les récupère avec Aftermath Analyst et termine avec Worldsoul's Rage.",
+      "en": "Temur lands deck that fills the graveyard with lands, returns them with Aftermath Analyst and finishes with Worldsoul's Rage."
+    },
+    "why": {
+      "fr": ["Aftermath Analyst et Nissa transformaient les terrains en mana et en cartes", "Worldsoul's Rage servait de removal et de condition de victoire", "Peu de créatures, donc peu exposé aux removals des midrange"],
+      "en": ["Aftermath Analyst and Nissa turned lands into mana and cards", "Worldsoul's Rage served as both removal and win condition", "Few creatures meant midrange removal had few targets"]
+    }
+  },
+  {
+    "name": "Four-Color Legends",
+    "slug": "four-color-legends",
+    "archetype": "midrange",
+    "titles": ["4c Legends Aggro", "4c Legends", "Legends Aggro", "4c legends Aggro"],
+    "cover": "Rona, Herald of Invasion",
+    "keyCards": ["Relic of Legends", "Rona, Herald of Invasion", "Inti, Seneschal of the Sun", "Slogurk, the Overslime", "Plaza of Heroes"],
+    "summary": {
+      "fr": "Midrange quatre couleurs de créatures légendaires : Plaza of Heroes et Relic of Legends fournissent le mana, Rona et Inti filtrent la pioche.",
+      "en": "Four-colour midrange of legendary creatures: Plaza of Heroes and Relic of Legends supply mana, Rona and Inti filter draws."
+    },
+    "why": {
+      "fr": ["Les défausses de terrains alimentaient Slogurk, the Overslime", "Plusieurs résultats en Regional Championship en fin de saison", "Boseiju et Otawara servaient de terrains et de sorts"],
+      "en": ["Discarded lands fed Slogurk, the Overslime", "Several Regional Championship finishes late in the season", "Boseiju and Otawara doubled as lands and spells"]
+    }
+  },
+  {
+    "name": "Azorius Soldiers",
+    "slug": "azorius-soldiers",
+    "archetype": "aggro",
+    "titles": ["Azorius Soldier", "Azorius Soldiers"],
+    "cover": "Harbin, Vanguard Aviator",
+    "keyCards": ["Recruitment Officer", "Zephyr Sentinel", "Harbin, Vanguard Aviator", "Resolute Reinforcements", "Wedding Announcement"],
+    "summary": {
+      "fr": "Aggro tribal Soldats blanc-bleu, avec des jetons, du flash et Harbin pour donner le vol à toute l'équipe.",
+      "en": "White-blue Soldier tribal aggro using tokens, flash creatures and Harbin to give the team flying."
+    },
+    "why": {
+      "fr": ["Recruitment Officer offrait de l'avantage de cartes à une créature d'un mana", "Make Disappear et Zephyr Sentinel protégeaient le tempo", "Top 4 au championnat du monde"],
+      "en": ["Recruitment Officer gave card advantage on a one-drop", "Make Disappear and Zephyr Sentinel protected its tempo", "Top 4 at the World Championship"]
+    }
+  },
+  {
+    "name": "Rakdos Midrange",
+    "slug": "rakdos-midrange",
+    "archetype": "midrange",
+    "titles": ["Rakdos Aggro"],
+    "cover": "Trumpeting Carnosaur",
+    "keyCards": ["Deep-Cavern Bat", "Bloodtithe Harvester", "Preacher of the Schism", "Sheoldred, the Apocalypse", "Trumpeting Carnosaur"],
+    "summary": {
+      "fr": "Midrange noir-rouge de créatures à valeur, entre discard de Deep-Cavern Bat, removals et Trumpeting Carnosaur.",
+      "en": "Black-red midrange of value creatures, combining Deep-Cavern Bat disruption, removal and Trumpeting Carnosaur."
+    },
+    "why": {
+      "fr": ["Chaque créature apportait un removal, une pioche ou du discard", "Trumpeting Carnosaur se jouait aussi comme removal depuis la main", "Restless Vents filtrait la pioche en milieu de partie"],
+      "en": ["Every creature brought removal, cards or disruption", "Trumpeting Carnosaur also worked as removal from hand", "Restless Vents filtered draws in the mid-game"]
+    }
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": ["Dimir Control"],
+    "cover": "Deadly Cover-Up",
+    "keyCards": ["Deadly Cover-Up", "Memory Deluge", "Long Goodbye", "Sheoldred, the Apocalypse", "Aclazotz, Deepest Betrayal"],
+    "summary": {
+      "fr": "Contrôle bleu-noir à removals instantanés et Deadly Cover-Up, qui finit avec Sheoldred et Aclazotz.",
+      "en": "Blue-black control with instant removal and Deadly Cover-Up, finishing with Sheoldred and Aclazotz."
+    },
+    "why": {
+      "fr": ["Deadly Cover-Up nettoyait la table et exilait des copies adverses", "Long Goodbye passait les contresorts et Cavern of Souls", "Field of Ruin répondait aux terrains créatures"],
+      "en": ["Deadly Cover-Up swept the board and exiled opposing copies", "Long Goodbye could not be countered", "Field of Ruin answered creature lands"]
+    }
+  },
+  {
+    "name": "Azorius Tempo",
+    "slug": "azorius-tempo",
+    "archetype": "tempo",
+    "titles": ["Azorius Tempo", "Azorius Tokens", "Azorius Aggro"],
+    "rep": 568456,
+    "cover": "Tishana's Tidebinder",
+    "keyCards": ["Tishana's Tidebinder", "Spyglass Siren", "Subterranean Schooner", "Wedding Announcement", "Virtue of Loyalty"],
+    "summary": {
+      "fr": "Tempo blanc-bleu : flash avec Tishana's Tidebinder, petites menaces volantes et enchantements qui produisent des jetons.",
+      "en": "White-blue tempo: flash with Tishana's Tidebinder, small evasive threats and token-making enchantments."
+    },
+    "why": {
+      "fr": ["Tishana's Tidebinder neutralisait capacités et planeswalkers", "Wedding Announcement générait cartes ou jetons pendant plusieurs tours", "Make Disappear protégeait l'avance prise tôt"],
+      "en": ["Tishana's Tidebinder stopped abilities and planeswalkers", "Wedding Announcement produced cards or tokens over several turns", "Make Disappear protected an early lead"]
+    }
+  },
+  {
+    "name": "Gruul Prowess",
+    "slug": "gruul-prowess",
+    "archetype": "aggro",
+    "titles": ["Gruul Aggro"],
+    "cover": "Slickshot Show-Off",
+    "keyCards": ["Monastery Swiftspear", "Slickshot Show-Off", "Questing Druid", "Monstrous Rage", "Snakeskin Veil"],
+    "summary": {
+      "fr": "Aggro rouge-vert à prouesse : créatures bon marché boostées par Monstrous Rage et protégées par Snakeskin Veil.",
+      "en": "Red-green prowess aggro: cheap creatures pumped by Monstrous Rage and protected by Snakeskin Veil."
+    },
+    "why": {
+      "fr": ["Slickshot Show-Off arrivée avec Outlaws of Thunder Junction donnait une menace volante", "Les sorts bon marché permettaient des tours très explosifs", "Vainqueur d'un Regional Championship aux États-Unis"],
+      "en": ["Slickshot Show-Off from Outlaws of Thunder Junction added an evasive threat", "Cheap spells allowed explosive turns", "Won a US Regional Championship"]
+    }
+  },
+  {
+    "name": "Orzhov Midrange",
+    "slug": "orzhov-midrange",
+    "archetype": "midrange",
+    "titles": ["Orzhov Aggro"],
+    "cover": "Steel Seraph",
+    "keyCards": ["Caustic Bronco", "Steel Seraph", "Anointed Peacekeeper", "Sheoldred, the Apocalypse", "Insatiable Avarice"],
+    "summary": {
+      "fr": "Midrange blanc-noir combinant créatures efficaces, removals bon marché et Sheoldred, the Apocalypse.",
+      "en": "White-black midrange combining efficient creatures, cheap removal and Sheoldred, the Apocalypse."
+    },
+    "why": {
+      "fr": ["Steel Seraph donnait lien de vie ou vol aux attaquants", "Anointed Peacekeeper désorganisait la main adverse", "Base de removals partagée avec les autres decks noirs"],
+      "en": ["Steel Seraph granted lifelink or flying to attackers", "Anointed Peacekeeper disrupted the opponent's plan", "Shared the black removal base of the format"]
+    }
+  },
+  {
+    "name": "Rakdos Control",
+    "slug": "rakdos-control",
+    "archetype": "control",
+    "titles": ["Rakdos Control"],
+    "cover": "Etali, Primal Conqueror",
+    "keyCards": ["Big Score", "Decadent Dragon", "Etali, Primal Conqueror", "Brotherhood's End", "Burn Down the House"],
+    "summary": {
+      "fr": "Contrôle noir-rouge : balayages et removals, trésors de Big Score, puis Decadent Dragon et Etali pour conclure.",
+      "en": "Black-red control: sweepers and removal, Treasures from Big Score, then Decadent Dragon and Etali to close."
+    },
+    "why": {
+      "fr": ["Brotherhood's End et Burn Down the House punissaient les decks go-wide", "Les trésors accéléraient vers Etali, Primal Conqueror", "Field of Ruin et Demolition Field gênaient les terrains utilitaires"],
+      "en": ["Brotherhood's End and Burn Down the House punished go-wide decks", "Treasures accelerated into Etali, Primal Conqueror", "Field of Ruin and Demolition Field hit utility lands"]
+    }
+  },
+  {
+    "name": "Bant Beanstalk",
+    "slug": "bant-beanstalk",
+    "archetype": "control",
+    "titles": ["Bant Beanstalk", "Bant Beanstalk Control", "Bant Control"],
+    "cover": "Up the Beanstalk",
+    "keyCards": ["Up the Beanstalk", "Leyline Binding", "Lay Down Arms", "Sunfall", "The Wandering Emperor"],
+    "summary": {
+      "fr": "Contrôle Bant sur tri-lands : Up the Beanstalk pioche sur chaque gros sort, Leyline Binding et Lay Down Arms gèrent les créatures.",
+      "en": "Bant control on tri-lands: Up the Beanstalk draws off each big spell, Leyline Binding and Lay Down Arms handle creatures."
+    },
+    "why": {
+      "fr": ["Les tri-lands typés réduisaient le coût de Leyline Binding et Lay Down Arms", "Up the Beanstalk générait des cartes sur Sunfall et Leyline Binding", "Une liste a atteint le top 8 du championnat du monde"],
+      "en": ["Typed tri-lands made Leyline Binding and Lay Down Arms cheap", "Up the Beanstalk drew cards off Sunfall and Leyline Binding", "A list reached the World Championship top 8"]
+    }
+  },
+  {
+    "name": "Naya Midrange",
+    "slug": "naya-midrange",
+    "archetype": "midrange",
+    "titles": ["Naya Aggro"],
+    "cover": "Pia Nalaar, Consul of Revival",
+    "keyCards": ["Pia Nalaar, Consul of Revival", "Questing Druid", "Wedding Announcement", "Virtue of Loyalty", "Reckless Impulse"],
+    "summary": {
+      "fr": "Midrange Naya à base d'enchantements générateurs de jetons et de pioche exilée, que Pia Nalaar convertit en Thopters.",
+      "en": "Naya midrange built on token-making enchantments and impulse draw, which Pia Nalaar converts into Thopters."
+    },
+    "why": {
+      "fr": ["Pia Nalaar récompensait la pioche par exil de Reckless Impulse et Wrenn's Resolve", "Wedding Announcement et Virtue of Loyalty élargissaient la table", "Victoire en tournoi au Japon en tout début de saison"],
+      "en": ["Pia Nalaar rewarded exile draw from Reckless Impulse and Wrenn's Resolve", "Wedding Announcement and Virtue of Loyalty widened the board", "Won an event in Japan at the very start of the season"]
+    },
+    "note": "Name is descriptive; few results."
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": ["Reanimator", "Squirming Emergence"],
+    "cover": "Squirming Emergence",
+    "keyCards": ["Squirming Emergence", "Atraxa, Grand Unifier", "Founding the Third Path", "Picklock Prankster", "Fallaji Archaeologist"],
+    "summary": {
+      "fr": "Réanimation : le deck remplit son cimetière puis ramène Atraxa, Grand Unifier en jeu bien avant son coût normal.",
+      "en": "Reanimator: the deck fills its graveyard, then returns Atraxa, Grand Unifier to play well ahead of its normal cost."
+    },
+    "why": {
+      "fr": ["Atraxa en jeu tôt apportait cartes et avantage de table", "Picklock Prankster et Founding the Third Path défaussaient la cible", "Plusieurs moteurs de réanimation existaient en parallèle"],
+      "en": ["An early Atraxa brought cards and board presence", "Picklock Prankster and Founding the Third Path discarded the target", "Several reanimation engines existed side by side"]
+    },
+    "note": "Merges Squirming Emergence (Sultai) and No One Left Behind (Grixis) reanimator lists; both target Atraxa."
+  },
+  {
+    "name": "Simic Artifacts",
+    "slug": "simic-artifacts",
+    "archetype": "aggro",
+    "titles": ["Simic Aggro", "Zoetic Simic", "Simic Zoetic Glyph"],
+    "cover": "Zoetic Glyph",
+    "keyCards": ["Zoetic Glyph", "Agatha's Soul Cauldron", "Tough Cookie", "Teething Wurmlet", "Sentinel of the Nameless City"],
+    "summary": {
+      "fr": "Aggro artefacts Simic : petits artefacts et créatures Food deviennent de grosses menaces grâce à Zoetic Glyph.",
+      "en": "Simic artifact aggro: small artifacts and Food creatures become large threats through Zoetic Glyph."
+    },
+    "why": {
+      "fr": ["Zoetic Glyph transformait un artefact bon marché en grosse créature", "Agatha's Soul Cauldron partageait les capacités des créatures exilées", "Top 8 en Regional Championship"],
+      "en": ["Zoetic Glyph turned a cheap artifact into a large creature", "Agatha's Soul Cauldron shared the abilities of exiled creatures", "Reached Regional Championship top 8s"]
+    },
+    "note": "Community name uncertain (also called Simic Zoetic)."
+  },
+  {
+    "name": "Sultai Analyst",
+    "slug": "sultai-analyst",
+    "archetype": "ramp",
+    "titles": ["Sultai Control"],
+    "cover": "Aftermath Analyst",
+    "keyCards": ["Aftermath Analyst", "Nissa, Resurgent Animist", "Splendid Reclamation", "Atraxa, Grand Unifier", "Slogurk, the Overslime"],
+    "summary": {
+      "fr": "Variante Sultai du deck de terrains : Splendid Reclamation et Aftermath Analyst ramènent les terrains, Atraxa et Slogurk finissent.",
+      "en": "Sultai take on the lands deck: Splendid Reclamation and Aftermath Analyst return lands, Atraxa and Slogurk finish."
+    },
+    "why": {
+      "fr": ["Les retours massifs de terrains déclenchaient Nissa et Slogurk", "Memory Deluge et Jace assuraient l'avantage de cartes", "Vainqueur de l'Open de la MagicCon Chicago"],
+      "en": ["Mass land returns triggered Nissa and Slogurk", "Memory Deluge and Jace kept the card flow", "Won the Open at MagicCon Chicago"]
+    },
+    "note": "Single result, included because it won an event."
+  }
+]

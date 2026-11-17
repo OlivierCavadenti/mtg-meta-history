@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Necro",
+    "slug": "necro",
+    "archetype": "midrange",
+    "titles": ["Necropotence", "Mono B Nevinyrral's Necro", "Br Nevinyrral's Necro", "Mono Black Aggro"],
+    "cover": "Necropotence",
+    "keyCards": ["Necropotence", "Hymn to Tourach", "Hypnotic Specter", "Dark Ritual", "Black Knight"],
+    "summary": {
+      "fr": "Deck noir qui échange ses points de vie contre des cartes avec Necropotence, et met la pression avec Hymn to Tourach, Hypnotic Specter et des chevaliers.",
+      "en": "Black deck trading life for cards with Necropotence, pressuring the opponent with Hymn to Tourach, Hypnotic Specter and cheap knights."
+    },
+    "why": {
+      "fr": ["Necropotence convertissait la vie en un grand nombre de cartes", "Hymn to Tourach et Hypnotic Specter vidaient les mains très tôt", "Les versions avec Nevinyrral's Disk jouaient un rôle de contrôle"],
+      "en": ["Necropotence converted life into a large number of extra cards", "Hymn to Tourach and Hypnotic Specter stripped hands early", "Versions with Nevinyrral's Disk took a slower control role"]
+    },
+    "note": "Merged aggressive B/r Necro and Nevinyrral's Disk Necro builds: same Necropotence engine."
+  },
+  {
+    "name": "Turbo Stasis",
+    "slug": "turbo-stasis",
+    "archetype": "control",
+    "titles": ["Turbo Stasis", "Stasis !"],
+    "cover": "Stasis",
+    "keyCards": ["Stasis", "Howling Mine", "Force of Will", "Despotic Scepter", "Kismet"],
+    "summary": {
+      "fr": "Deck de verrouillage bleu qui fige la partie avec Stasis, pioche avec Howling Mine et protège le verrou avec des contresorts.",
+      "en": "Blue lock deck that freezes the board with Stasis, drawing with Howling Mine and protecting the lock with counterspells."
+    },
+    "why": {
+      "fr": ["Sous Stasis, l'adversaire ne pouvait pas dégager ses terrains pour répondre", "Boomerang et Despotic Scepter permettaient de retirer sa propre Stasis"],
+      "en": ["Under Stasis the opponent could not untap lands to answer the lock", "Boomerang and Despotic Scepter let the deck remove its own Stasis when needed"]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": ["UW Control"],
+    "cover": "Millstone",
+    "keyCards": ["Millstone", "Counterspell", "Wrath of God", "Swords to Plowshares", "Control Magic"],
+    "summary": {
+      "fr": "Contrôle blanc-bleu avec Counterspell, Wrath of God et Swords to Plowshares, qui gagne lentement avec Millstone et Mishra's Factory.",
+      "en": "White-blue control with Counterspell, Wrath of God and Swords to Plowshares, winning slowly with Millstone and Mishra's Factory."
+    },
+    "why": {
+      "fr": ["Un large éventail de réponses couvrait les decks de créatures et d'artefacts", "Millstone offrait une condition de victoire qui ignorait le gain de vie"],
+      "en": ["A wide range of answers covered both creature and artifact decks", "Millstone gave a win condition that ignored life gain"]
+    }
+  },
+  {
+    "name": "Erhnam-Geddon",
+    "slug": "erhnam-geddon",
+    "archetype": "aggro",
+    "titles": ["WG Aggro", "Erhnam Gueddon", "Erhnam-geddon", "Erhnamgeddon"],
+    "cover": "Erhnam Djinn",
+    "keyCards": ["Erhnam Djinn", "Armageddon", "Swords to Plowshares", "Land Tax", "Spectral Bears"],
+    "summary": {
+      "fr": "Beatdown vert-blanc qui pose Erhnam Djinn tôt, puis lance Armageddon pour laisser l'adversaire sans mana pendant que les créatures attaquent.",
+      "en": "Green-white beatdown that lands Erhnam Djinn early, then casts Armageddon to leave the opponent without mana while its creatures attack."
+    },
+    "why": {
+      "fr": ["Erhnam Djinn était une grosse menace pour quatre manas", "Armageddon après une bonne pose empêchait le contrôle de se reconstruire"],
+      "en": ["Erhnam Djinn was a large threat for four mana", "Armageddon after a strong board left control decks unable to rebuild"]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": ["Blueless Weenie White", "White Weenie"],
+    "cover": "White Knight",
+    "keyCards": ["White Knight", "Order of Leitbur", "Savannah Lions", "Order of the White Shield", "Swords to Plowshares"],
+    "summary": {
+      "fr": "Mono-blanc de petites créatures à initiative et protection, soutenu par Swords to Plowshares et un Armageddon.",
+      "en": "Mono-white creature deck of first strikers and protection knights, backed by Swords to Plowshares and a single Armageddon."
+    },
+    "why": {
+      "fr": ["White Knight et Order of Leitbur avaient protection contre le noir face à Necro", "La courbe basse et Strip Mine pressaient les decks de contrôle"],
+      "en": ["White Knight and Order of Leitbur had protection from black against Necro", "A low curve and Strip Mine pressured slow control decks"]
+    }
+  },
+  {
+    "name": "Prison",
+    "slug": "prison",
+    "archetype": "control",
+    "titles": ["Titania's Lock", "4c Prison", "Elkin Bottle Challenge Deck"],
+    "cover": "Winter Orb",
+    "keyCards": ["Winter Orb", "Icy Manipulator", "Armageddon", "Serrated Arrows", "Titania's Song"],
+    "summary": {
+      "fr": "Deck de déni de mana qui verrouille la partie avec Winter Orb, Icy Manipulator et Armageddon, en jouant du mana d'artefact pour fonctionner sous son propre verrou.",
+      "en": "Mana-denial deck that locks the game with Winter Orb, Icy Manipulator and Armageddon, using artifact mana to operate under its own lock."
+    },
+    "why": {
+      "fr": ["Fellwar Stone contournait la restriction de Winter Orb", "Les sorts coûteux adverses devenaient rarement jouables sous le verrou"],
+      "en": ["Fellwar Stone worked around Winter Orb's restriction", "Opponents' expensive spells rarely became castable under the lock"]
+    },
+    "note": "Merged three Winter Orb + Icy Manipulator prison builds (W/g, 4c with Erhnam, R/W with Howling Mine)."
+  },
+  {
+    "name": "Stormbind Control",
+    "slug": "stormbind-control",
+    "archetype": "control",
+    "titles": ["Stormbind Control", "GWR Aggro"],
+    "cover": "Stormbind",
+    "keyCards": ["Stormbind", "Icy Manipulator", "Lightning Bolt", "Swords to Plowshares", "Wrath of God"],
+    "summary": {
+      "fr": "Contrôle rouge-vert-blanc qui gère les menaces avec le burn, Swords to Plowshares et Icy Manipulator, et convertit les cartes en trop en dégâts via Stormbind.",
+      "en": "Red-green-white control that handles threats with burn, Swords to Plowshares and Icy Manipulator, turning spare cards into damage with Stormbind."
+    },
+    "why": {
+      "fr": ["Stormbind transformait terrains et cartes en trop en dégâts répétables", "Trois couleurs de removal répondaient à tous les types de créatures"],
+      "en": ["Stormbind turned spare lands and cards into repeatable damage", "Three colours of removal answered creatures of every type"]
+    }
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "midrange",
+    "titles": ["RG Ponza"],
+    "cover": "Pillage",
+    "keyCards": ["Pillage", "Stone Rain", "Erhnam Djinn", "Lightning Bolt", "Incinerate"],
+    "summary": {
+      "fr": "Destruction de terrains rouge-vert avec Pillage et Stone Rain, qui contrôle la table au burn et conclut avec Erhnam Djinn.",
+      "en": "Red-green land destruction with Pillage and Stone Rain, controlling the board with burn and closing with Erhnam Djinn."
+    },
+    "why": {
+      "fr": ["Pillage touchait aussi bien les terrains que les artefacts comme Zuran Orb", "La destruction de terrains répétée punissait les manabases gourmandes"],
+      "en": ["Pillage hit both lands and artifacts such as Zuran Orb", "Repeated land destruction punished greedy mana bases"]
+    }
+  },
+  {
+    "name": "Sligh",
+    "slug": "sligh",
+    "archetype": "aggro",
+    "titles": ["Sligh"],
+    "cover": "Ironclaw Orcs",
+    "keyCards": ["Ironclaw Orcs", "Dwarven Lieutenant", "Brass Man", "Dragon Whelp", "Lightning Bolt"],
+    "summary": {
+      "fr": "Mono-rouge aggro construit sur une courbe de mana de petites créatures, puis le burn pour finir ; la liste qui a donné son nom à l'archétype.",
+      "en": "Mono-red aggro built on a mana curve of cheap creatures, then burn to finish; the list that gave the archetype its name."
+    },
+    "why": {
+      "fr": ["Une courbe de créatures à un et deux manas pressait dès le premier tour", "Lightning Bolt et Incinerate retiraient les bloqueurs ou finissaient"],
+      "en": ["A curve of one- and two-drops pressured opponents from the first turn", "Lightning Bolt and Incinerate cleared blockers or dealt the last points"]
+    }
+  },
+  {
+    "name": "Rack Discard",
+    "slug": "rack-discard",
+    "archetype": "control",
+    "titles": ["Mardu Necropotence"],
+    "cover": "The Rack",
+    "keyCards": ["Hymn to Tourach", "The Rack", "Hypnotic Specter", "Dance of the Dead", "Lightning Bolt"],
+    "summary": {
+      "fr": "Contrôle noir-rouge de défausse qui vide la main avec Hymn to Tourach et Hypnotic Specter, puis inflige des dégâts avec The Rack.",
+      "en": "Black-red discard control that strips the hand with Hymn to Tourach and Hypnotic Specter, then deals damage with The Rack."
+    },
+    "why": {
+      "fr": ["Dark Ritual permettait une défausse dès le premier tour", "Lightning Bolt et Icy Manipulator géraient les créatures adverses"],
+      "en": ["Dark Ritual enabled first-turn discard", "Lightning Bolt and Icy Manipulator handled opposing creatures"]
+    },
+    "note": "mtgtop8 title 'Mardu Necropotence' but the list (Krebs) plays no Necropotence: B/R Rack discard with a Balance splash."
+  },
+  {
+    "name": "BRG Aggro",
+    "slug": "brg-aggro",
+    "archetype": "aggro",
+    "titles": ["Brg Aggro"],
+    "cover": "Hypnotic Specter",
+    "keyCards": ["Hypnotic Specter", "Hymn to Tourach", "Erhnam Djinn", "Knight of Stromgald", "Order of the Ebon Hand"],
+    "summary": {
+      "fr": "Beatdown à base noire avec chevaliers, Hypnotic Specter et Hymn to Tourach, qui splashe Lightning Bolt et Erhnam Djinn.",
+      "en": "Black-based beatdown with knights, Hypnotic Specter and Hymn to Tourach, splashing Lightning Bolt and Erhnam Djinn."
+    },
+    "why": {
+      "fr": ["Dark Ritual vers Specter ou Hymn créait un avantage de cartes précoce", "Les chevaliers et Erhnam Djinn imposaient une horloge rapide"],
+      "en": ["Dark Ritual into Specter or Hymn created early card advantage", "Pumpable knights and Erhnam Djinn set a fast clock"]
+    }
+  }
+]

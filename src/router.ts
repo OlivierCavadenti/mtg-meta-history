@@ -1,40 +1,21 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
+  { path: '/', redirect: '/standard' },
   {
-    path: '/',
-    name: 'home',
-    component: () => import('./pages/HomePage.vue'),
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)',
+    name: 'format',
+    component: () => import('./pages/FormatPage.vue'),
   },
   {
-    path: '/timeline',
-    name: 'timeline',
-    component: () => import('./pages/TimelinePage.vue'),
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/staples',
+    name: 'staples',
+    component: () => import('./pages/StaplesPage.vue'),
   },
   {
-    path: '/year/:year',
-    name: 'year',
-    component: () => import('./pages/YearPage.vue'),
-  },
-  {
-    path: '/year/:year/:format',
-    name: 'year-format',
-    component: () => import('./pages/YearFormatPage.vue'),
-  },
-  {
-    path: '/decks',
-    name: 'decks',
-    component: () => import('./pages/DecksPage.vue'),
-  },
-  {
-    path: '/decks/:slug',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/deck/:id',
     name: 'deck',
     component: () => import('./pages/DeckPage.vue'),
-  },
-  {
-    path: '/about',
-    name: 'about',
-    component: () => import('./pages/AboutPage.vue'),
   },
   {
     path: '/:pathMatch(.*)*',
@@ -47,13 +28,8 @@ export const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes,
   scrollBehavior(to, _from, savedPosition) {
-    if (to.hash) {
-      return new Promise((resolve) => {
-        setTimeout(() => {
-          resolve({ el: to.hash, behavior: 'smooth', top: 80 })
-        }, 300)
-      })
-    }
-    return savedPosition || { top: 0 }
+    if (savedPosition) return savedPosition
+    if (to.hash) return { el: to.hash, top: 110 }
+    return { top: 0 }
   },
 })

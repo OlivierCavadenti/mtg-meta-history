@@ -1,153 +1,82 @@
-export type FormatId =
-  | 'standard'
-  | 'modern'
-  | 'legacy'
-  | 'vintage'
-  | 'extended'
-  | 'pioneer'
-  | 'old-school'
-  | 'premodern'
+export type FormatId = 'standard' | 'pioneer' | 'modern' | 'legacy' | 'vintage' | 'pauper'
 
-export type ArchetypeType =
-  | 'aggro'
-  | 'control'
-  | 'combo'
-  | 'midrange'
-  | 'tempo'
-  | 'ramp'
-  | 'prison'
-  | 'hybrid'
+export type Archetype = 'aggro' | 'midrange' | 'control' | 'combo' | 'tempo' | 'ramp'
 
-export type Source = {
-  title: string
+export type L10n = { fr: string; en: string }
+
+/** [count, card name] */
+export type CardLine = [number, string]
+
+export type CardKind =
+  | 'creature'
+  | 'planeswalker'
+  | 'battle'
+  | 'instant'
+  | 'sorcery'
+  | 'artifact'
+  | 'enchantment'
+  | 'land'
+  | 'other'
+
+/** Compact card record generated from Scryfall data. */
+export type CardInfo = {
+  /** mana cost, Scryfall notation: "{1}{B}" */
+  m: string
+  /** mana value */
+  c: number
+  t: CardKind
+  /** colors, WUBRG letters */
+  k: string
+  /** Scryfall image id (printing chosen to match the era the card was first played in) */
+  i: string
+}
+
+export type DeckList = {
+  main: CardLine[]
+  side: CardLine[]
+  player: string
+  event: string
+  rank: string
+  date: string
+  /** mtgtop8 deck page */
   url: string
-  publisher?: string
-  date?: string
-  note?: string
 }
 
-export type KeyCard = {
-  name: string
-  role: string
-}
-
-export type MetaEra = {
+export type Deck = {
   id: string
   name: string
-  start: string
-  end: string
-  dominantDecks: string[]
-  challengers: string[]
-  keyCards: KeyCard[]
-  summary: string
-  whyItDominated: string[]
-  whyItEnded: string
-  confidence: 'high' | 'medium' | 'low'
-  sources: Source[]
-}
-
-export type BanEntry = {
-  date: string
-  cards: string[]
-  explanation: string
-  source?: Source
-}
-
-export type SetRelease = {
-  date: string
-  name: string
-  code: string
-  note?: string
-}
-
-export type DecklistEntry = {
-  count: number
-  name: string
-}
-
-export type Decklist = {
-  mainboard: DecklistEntry[]
-  sideboard?: DecklistEntry[]
-  player?: string
-  event?: string
-  date?: string
-  source?: Source
-}
-
-export type RepresentativeDeck = {
-  name: string
-  slug: string
-  period: string
-  archetype: ArchetypeType
-  summary: string
+  season: string
+  archetype: Archetype
+  colors: string
+  /** 1 = deck to beat, 2 = top tier, 3 = solid performer */
+  tier: 1 | 2 | 3
+  /** first and last recorded result in the season (ISO dates) */
+  first: string
+  last: string
+  /** counts from mtgtop8 high-level events in the season */
+  stats: { results: number; top8: number; wins: number; share: number }
+  summary: L10n
+  why: { fr: string[]; en: string[] }
   keyCards: string[]
-  decklist?: Decklist
-  // True when no verified real decklist is available yet. The UI shows a
-  // "decklist coming soon" notice instead of fabricated/indicative data.
-  decklistPending?: boolean
-  source?: Source
+  cover: string
+  list: DeckList
 }
 
-export type YearFormatEntry = {
-  year: number
-  format: FormatId
-  title: string
-  subtitle: string
-  shortLabel: string
-  summary: string
-  headlineDeck: string
-  eras: MetaEra[]
-  bans?: BanEntry[]
-  setReleases?: SetRelease[]
-  representativeDecks: RepresentativeDeck[]
+export type Ban = { date: string; cards: string[] }
+
+export type Season = {
+  id: string
+  /** ISO date of the season-opening set release */
+  start: string
+  /** first set of the season */
+  set: string
+  bans: Ban[]
 }
 
-export type DeckProfile = {
-  slug: string
-  name: string
-  formats: FormatId[]
-  years: number[]
-  archetype: ArchetypeType
-  gameplan: string
-  keyCards: KeyCard[]
-  matchups: { deck: string; rating: 'favorable' | 'even' | 'unfavorable'; note?: string }[]
-  mainWeakness: string
-  whyDominant: string
-  whyDeclined: string
-  coreCards?: string[]
-  decklistUrl?: string
-  sources: Source[]
-}
+/** end = start of the following season (undefined for the current one) */
+export type SeasonWithDecks = Season & { end?: string; decks: Deck[] }
 
-export const FORMAT_LABELS: Record<FormatId, string> = {
-  standard: 'Standard',
-  modern: 'Modern',
-  legacy: 'Legacy',
-  vintage: 'Vintage',
-  extended: 'Extended',
-  pioneer: 'Pioneer',
-  'old-school': 'Old School',
-  premodern: 'Premodern',
-}
-
-export const FORMAT_ORDER: FormatId[] = [
-  'standard',
-  'modern',
-  'pioneer',
-  'legacy',
-  'vintage',
-  'extended',
-  'old-school',
-  'premodern',
-]
-
-export const ARCHETYPE_LABELS: Record<ArchetypeType, string> = {
-  aggro: 'Aggro',
-  control: 'Control',
-  combo: 'Combo',
-  midrange: 'Midrange',
-  tempo: 'Tempo',
-  ramp: 'Ramp',
-  prison: 'Prison',
-  hybrid: 'Hybrid',
+export type FormatData = {
+  seasons: SeasonWithDecks[]
+  cards: Record<string, CardInfo>
 }

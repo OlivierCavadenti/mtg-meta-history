@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Jund",
+      "Rampant Jund"
+    ],
+    "cover": "Bloodbraid Elf",
+    "keyCards": [
+      "Bloodbraid Elf",
+      "Sprouting Thrinax",
+      "Blightning",
+      "Putrid Leech",
+      "Broodmate Dragon"
+    ],
+    "summary": {
+      "fr": "Midrange Jund à cascade : Bloodbraid Elf, créatures à valeur, Blightning et removal rouge-noir, jusqu'à Broodmate Dragon.",
+      "en": "Jund cascade midrange: Bloodbraid Elf, value creatures, Blightning and red-black removal, up to Broodmate Dragon."
+    },
+    "why": {
+      "fr": [
+        "Presque chaque carte valait deux pour un",
+        "Savage Lands et les fetchlands de Zendikar fiabilisaient les trois couleurs"
+      ],
+      "en": [
+        "Nearly every card was a two-for-one",
+        "Savage Lands and Zendikar fetchlands made the three colours reliable"
+      ]
+    }
+  },
+  {
+    "name": "Mythic Conscription",
+    "slug": "mythic-conscription",
+    "archetype": "ramp",
+    "titles": [
+      "Mythic Conscription",
+      "Bant Conscription"
+    ],
+    "cover": "Sovereigns of Lost Alara",
+    "keyCards": [
+      "Sovereigns of Lost Alara",
+      "Eldrazi Conscription",
+      "Lotus Cobra",
+      "Knight of the Reliquary",
+      "Jace, the Mind Sculptor"
+    ],
+    "summary": {
+      "fr": "Bant à accélération : Lotus Cobra et Noble Hierarch, puis Sovereigns of Lost Alara qui attache Eldrazi Conscription au premier attaquant.",
+      "en": "Bant acceleration: Lotus Cobra and Noble Hierarch, then Sovereigns of Lost Alara puts Eldrazi Conscription on the first attacker."
+    },
+    "why": {
+      "fr": [
+        "L'accélération permettait de jouer des menaces chères très tôt",
+        "Sovereigns et Conscription gagnaient souvent en une ou deux attaques"
+      ],
+      "en": [
+        "Acceleration put expensive threats into play early",
+        "Sovereigns plus Conscription often won in one or two attacks"
+      ]
+    }
+  },
+  {
+    "name": "Mythic Bant",
+    "slug": "mythic-bant",
+    "archetype": "midrange",
+    "titles": [
+      "Mythic Bant",
+      "Bant"
+    ],
+    "cover": "Baneslayer Angel",
+    "keyCards": [
+      "Lotus Cobra",
+      "Knight of the Reliquary",
+      "Rhox War Monk",
+      "Baneslayer Angel",
+      "Finest Hour"
+    ],
+    "summary": {
+      "fr": "Midrange Bant à créatures rares et mythiques : accélération verte, Knight of the Reliquary et Baneslayer Angel.",
+      "en": "Bant midrange built on rare and mythic creatures: green acceleration, Knight of the Reliquary and Baneslayer Angel."
+    },
+    "why": {
+      "fr": [
+        "Baneslayer Angel dominait les decks aggro et midrange",
+        "Les fetchlands faisaient grandir Knight of the Reliquary"
+      ],
+      "en": [
+        "Baneslayer Angel dominated aggro and midrange decks",
+        "Fetchlands made Knight of the Reliquary grow quickly"
+      ]
+    }
+  },
+  {
+    "name": "Next Level Bant",
+    "slug": "next-level-bant",
+    "archetype": "midrange",
+    "titles": [
+      "Next Level Bant"
+    ],
+    "cover": "Vengevine",
+    "keyCards": [
+      "Vengevine",
+      "Jace, the Mind Sculptor",
+      "Elspeth, Knight-Errant",
+      "Wall of Omens",
+      "Sea Gate Oracle"
+    ],
+    "summary": {
+      "fr": "Bant midrange qui joue des créatures à valeur comme Wall of Omens et Sea Gate Oracle, avec Vengevine et planeswalkers.",
+      "en": "Bant midrange playing value creatures like Wall of Omens and Sea Gate Oracle, with Vengevine and planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Les créatures à valeur ralentissaient Jund et l'aggro",
+        "Vengevine revenait après les removals et les balayages"
+      ],
+      "en": [
+        "Value creatures slowed down Jund and aggro",
+        "Vengevine came back after removal and sweepers"
+      ]
+    }
+  },
+  {
+    "name": "Naya",
+    "slug": "naya",
+    "archetype": "aggro",
+    "titles": [
+      "Naya Lightsaber",
+      "Naya",
+      "Big Zoo",
+      "Boss Naya"
+    ],
+    "rep": 253193,
+    "cover": "Woolly Thoctar",
+    "keyCards": [
+      "Woolly Thoctar",
+      "Bloodbraid Elf",
+      "Baneslayer Angel",
+      "Ranger of Eos",
+      "Ajani Vengeant"
+    ],
+    "summary": {
+      "fr": "Aggro-midrange Naya : Wild Nacatl et Noble Hierarch, gros corps comme Woolly Thoctar, burn et Baneslayer Angel.",
+      "en": "Naya aggro-midrange: Wild Nacatl and Noble Hierarch, large bodies like Woolly Thoctar, burn and Baneslayer Angel."
+    },
+    "why": {
+      "fr": [
+        "Des créatures plus grosses que la moyenne pour leur coût",
+        "Lightning Bolt et Path to Exile dégageaient les bloqueurs"
+      ],
+      "en": [
+        "Creatures that were larger than usual for their cost",
+        "Lightning Bolt and Path to Exile cleared blockers"
+      ]
+    },
+    "note": "Includes later Knight of the Reliquary / Stoneforge builds (Big Zoo, Boss Naya)."
+  },
+  {
+    "name": "Boros Bushwhacker",
+    "slug": "boros-bushwhacker",
+    "archetype": "aggro",
+    "titles": [
+      "Boros"
+    ],
+    "cover": "Steppe Lynx",
+    "keyCards": [
+      "Steppe Lynx",
+      "Plated Geopede",
+      "Goblin Guide",
+      "Goblin Bushwhacker",
+      "Kor Skyfisher"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc landfall : Steppe Lynx et Plated Geopede grandissent avec les fetchlands, Bushwhacker conclut.",
+      "en": "Red-white landfall aggro: Steppe Lynx and Plated Geopede grow with fetchlands, Goblin Bushwhacker finishes."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands doublaient les déclenchements de landfall",
+        "Lightning Bolt et Path to Exile gardaient la voie libre"
+      ],
+      "en": [
+        "Fetchlands doubled landfall triggers",
+        "Lightning Bolt and Path to Exile kept the way clear"
+      ]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": [
+      "White Weenie",
+      "Mono W Tokens"
+    ],
+    "cover": "Elspeth, Knight-Errant",
+    "keyCards": [
+      "Elspeth, Knight-Errant",
+      "Steppe Lynx",
+      "Kor Skyfisher",
+      "Stoneforge Mystic",
+      "White Knight"
+    ],
+    "summary": {
+      "fr": "Aggro mono-blanc : petites créatures efficaces, équipements via Stoneforge Mystic et Elspeth, Knight-Errant.",
+      "en": "Mono-white aggro: efficient small creatures, equipment via Stoneforge Mystic and Elspeth, Knight-Errant."
+    },
+    "why": {
+      "fr": [
+        "Elspeth rendait un attaquant volant et énorme chaque tour",
+        "Kor Firewalker et White Knight résistaient au rouge et au noir"
+      ],
+      "en": [
+        "Elspeth made an attacker huge and flying every turn",
+        "Kor Firewalker and White Knight resisted red and black removal"
+      ]
+    },
+    "note": "Merged with Worlds 2009 Mono W Tokens (Honor of the Pure, Conqueror's Pledge)."
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control"
+    ],
+    "cover": "Sedraxis Specter",
+    "keyCards": [
+      "Sedraxis Specter",
+      "Blightning",
+      "Jace, the Mind Sculptor",
+      "Cruel Ultimatum",
+      "Spreading Seas"
+    ],
+    "summary": {
+      "fr": "Contrôle Grixis : discard via Blightning et Sedraxis Specter, removal, Jace, the Mind Sculptor et Cruel Ultimatum.",
+      "en": "Grixis control: discard from Blightning and Sedraxis Specter, removal, Jace, the Mind Sculptor and Cruel Ultimatum."
+    },
+    "why": {
+      "fr": [
+        "Spreading Seas gênait les manabases à trois couleurs",
+        "Les manlands donnaient des menaces résistantes aux balayages"
+      ],
+      "en": [
+        "Spreading Seas disrupted three-colour mana bases",
+        "Manlands provided threats that survived sweepers"
+      ]
+    }
+  },
+  {
+    "name": "UG Polymorph",
+    "slug": "ug-polymorph",
+    "archetype": "combo",
+    "titles": [
+      "UG Polymorph"
+    ],
+    "cover": "Polymorph",
+    "keyCards": [
+      "Polymorph",
+      "Emrakul, the Aeons Torn",
+      "Awakening Zone",
+      "Khalni Garden",
+      "Jace, the Mind Sculptor"
+    ],
+    "summary": {
+      "fr": "Combo bleu-vert sans vraie créature : jetons d'Awakening Zone et Khalni Garden transformés en Emrakul par Polymorph.",
+      "en": "Blue-green combo with almost no real creatures: tokens from Awakening Zone and Khalni Garden become Emrakul via Polymorph."
+    },
+    "why": {
+      "fr": [
+        "Polymorph sur un jeton trouvait forcément Emrakul",
+        "Contresorts et Jace protégeaient la combinaison"
+      ],
+      "en": [
+        "Polymorph on a token was guaranteed to find Emrakul",
+        "Counterspells and Jace protected the combo"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UWr Walker",
+      "UW Tapout",
+      "UW Control"
+    ],
+    "cover": "Jace, the Mind Sculptor",
+    "keyCards": [
+      "Jace, the Mind Sculptor",
+      "Elspeth, Knight-Errant",
+      "Gideon Jura",
+      "Wall of Omens",
+      "Day of Judgment"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu à planeswalkers : balayages, Wall of Omens et Spreading Seas, puis Jace, Elspeth et Gideon.",
+      "en": "White-blue planeswalker control: sweepers, Wall of Omens and Spreading Seas, then Jace, Elspeth and Gideon."
+    },
+    "why": {
+      "fr": [
+        "Les planeswalkers donnaient un avantage durable une fois la table vide",
+        "Celestial Colonnade servait de finisher résistant aux balayages"
+      ],
+      "en": [
+        "Planeswalkers gave a lasting edge once the board was clear",
+        "Celestial Colonnade was a finisher that survived sweepers"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Red Aggro",
+      "Red Deck Wins"
+    ],
+    "cover": "Hellspark Elemental",
+    "keyCards": [
+      "Goblin Guide",
+      "Hellspark Elemental",
+      "Searing Blaze",
+      "Ball Lightning",
+      "Plated Geopede"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge de l'ère Zendikar : créatures à haste, landfall et burn comme Searing Blaze et Lightning Bolt.",
+      "en": "Zendikar-era mono-red aggro: haste creatures, landfall and burn such as Searing Blaze and Lightning Bolt."
+    },
+    "why": {
+      "fr": [
+        "Les créatures à haste frappaient avant que l'adversaire ne s'installe",
+        "Searing Blaze tuait un bloqueur tout en touchant le joueur"
+      ],
+      "en": [
+        "Haste creatures hit before opponents could set up",
+        "Searing Blaze killed a blocker while hitting the player"
+      ]
+    }
+  },
+  {
+    "name": "BGW Angels",
+    "slug": "bgw-angels",
+    "archetype": "midrange",
+    "titles": [
+      "BGW Angels"
+    ],
+    "cover": "Emeria Angel",
+    "keyCards": [
+      "Emeria Angel",
+      "Baneslayer Angel",
+      "Knight of the Reliquary",
+      "Lotus Cobra",
+      "Maelstrom Pulse"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc-noir : accélération et landfall avec Lotus Cobra et Emeria Angel, Baneslayer Angel en haut de courbe.",
+      "en": "Green-white-black midrange: acceleration and landfall with Lotus Cobra and Emeria Angel, Baneslayer Angel on top."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands alimentaient Emeria Angel et Lotus Cobra",
+        "Maelstrom Pulse ajoutait une réponse à tout"
+      ],
+      "en": [
+        "Fetchlands fuelled Emeria Angel and Lotus Cobra",
+        "Maelstrom Pulse added a catch-all answer"
+      ]
+    }
+  },
+  {
+    "name": "Open the Vaults",
+    "slug": "open-the-vaults",
+    "archetype": "combo",
+    "titles": [
+      "Open Filigree"
+    ],
+    "cover": "Filigree Angel",
+    "keyCards": [
+      "Open the Vaults",
+      "Filigree Angel",
+      "Glassdust Hulk",
+      "Architects of Will",
+      "Courier's Capsule"
+    ],
+    "summary": {
+      "fr": "Combo Esper par le cimetière : les artefacts à cycling remplissent le cimetière, Open the Vaults les ramène tous.",
+      "en": "Esper graveyard combo: cycling artifacts fill the graveyard, then Open the Vaults returns them all at once."
+    },
+    "why": {
+      "fr": [
+        "Filigree Angel faisait gagner beaucoup de points de vie au retour",
+        "Les balayages blancs gardaient l'aggro à distance"
+      ],
+      "en": [
+        "Filigree Angel gained a large amount of life on return",
+        "White sweepers kept aggro at bay"
+      ]
+    }
+  },
+  {
+    "name": "UW Conscription",
+    "slug": "uw-conscription",
+    "archetype": "midrange",
+    "titles": [
+      "UW Conscription"
+    ],
+    "cover": "Eldrazi Conscription",
+    "keyCards": [
+      "Sovereigns of Lost Alara",
+      "Eldrazi Conscription",
+      "Elspeth, Knight-Errant",
+      "Jace, the Mind Sculptor",
+      "Knight of the White Orchid"
+    ],
+    "summary": {
+      "fr": "Version blanc-bleu de la combinaison Sovereigns of Lost Alara et Eldrazi Conscription, dans une coque à planeswalkers.",
+      "en": "White-blue take on the Sovereigns of Lost Alara and Eldrazi Conscription plan, inside a planeswalker shell."
+    },
+    "why": {
+      "fr": [
+        "Spreading Seas et Elspeth soutenaient un plan plus contrôle",
+        "Sovereigns offrait une victoire rapide sortie de nulle part"
+      ],
+      "en": [
+        "Spreading Seas and Elspeth supported a more controlling plan",
+        "Sovereigns offered a sudden fast win"
+      ]
+    }
+  }
+]

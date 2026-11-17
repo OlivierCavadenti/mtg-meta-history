@@ -4,6 +4,5 @@ import { router } from './router'
 import './styles/tokens.css'
 import './styles/base.css'
 import './styles/layout.css'
-import './styles/timeline.css'
 
 createApp(App).use(router).mount('#app')

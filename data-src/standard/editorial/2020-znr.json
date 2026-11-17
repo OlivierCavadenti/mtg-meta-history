@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
+    "archetype": "aggro",
+    "titles": ["Gruul Aggro", "Gruul Adventure Aggro"],
+    "cover": "Embercleave",
+    "keyCards": ["Edgewall Innkeeper", "Lovestruck Beast", "Bonecrusher Giant", "Embercleave", "Kazandu Mammoth"],
+    "summary": {
+      "fr": "Aggro rouge-vert construit sur les créatures à aventure, les menaces de landfall et Embercleave, avec The Great Henge comme moteur en fin de partie.",
+      "en": "Red-green aggro built on adventure creatures, landfall threats and Embercleave, with The Great Henge as a late-game engine."
+    },
+    "why": {
+      "fr": ["Edgewall Innkeeper et les créatures à aventure donnaient de l'avantage de cartes sans ralentir la courbe", "Embercleave offrait des tours létaux soudains malgré les bloqueurs", "Présent de Zendikar Rising jusqu'à la fin de la saison, avec Magda et Goldspan Dragon"],
+      "en": ["Edgewall Innkeeper and the adventure creatures drew cards without slowing the curve", "Embercleave gave sudden lethal turns through blockers", "Stayed in the format from Zendikar Rising to the end of the season, later with Magda and Goldspan"]
+    },
+    "note": "Merged 'Gruul Adventure Aggro' (Magda / Goldspan builds from Kaldheim on); same Edgewall + Lovestruck + Embercleave core."
+  },
+  {
+    "name": "Sultai Ultimatum",
+    "slug": "sultai-ultimatum",
+    "archetype": "ramp",
+    "titles": ["Sultai Yorion Ultimatum", "Sultai Yorion", "Sultai Yorion Control"],
+    "cover": "Emergent Ultimatum",
+    "keyCards": ["Emergent Ultimatum", "Binding the Old Gods", "Cultivate", "Esika's Chariot", "Shadows' Verdict"],
+    "summary": {
+      "fr": "Rampe-contrôle Sultai à 80 cartes avec Yorion : Cultivate et Binding the Old Gods mènent à Emergent Ultimatum, qui lance gratuitement deux des meilleures cartes du deck.",
+      "en": "Sultai ramp-control in an 80-card Yorion shell: Cultivate and Binding the Old Gods lead to Emergent Ultimatum, which casts two of the deck's best cards for free."
+    },
+    "why": {
+      "fr": ["Emergent Ultimatum transformait un sort en deux menaces ou sorts gratuits", "Binding the Old Gods accélérait le mana tout en détruisant un permanent", "Yorion et Omen of the Sea ajoutaient de la valeur au prix d'un deck de 80 cartes"],
+      "en": ["Emergent Ultimatum turned one spell into two free threats or spells", "Binding the Old Gods ramped while destroying a permanent", "Yorion and Omen of the Sea added value at the cost of an 80-card deck"]
+    }
+  },
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": ["Red Deck Wins"],
+    "cover": "Torbran, Thane of Red Fell",
+    "keyCards": ["Anax, Hardened in the Forge", "Fervent Champion", "Robber of the Rich", "Embercleave", "Torbran, Thane of Red Fell"],
+    "summary": {
+      "fr": "Aggro mono-rouge à courbe basse sur Montagnes enneigées, avec Embercleave, Torbran et Faceless Haven pour finir les parties.",
+      "en": "Low-curve mono-red aggro on snow Mountains, with Embercleave, Torbran and Faceless Haven to close games."
+    },
+    "why": {
+      "fr": ["Les créatures bon marché punissaient la rampe et les decks Ultimatum, trop lents", "Faceless Haven offrait un terrain qui attaque et résiste aux balais", "A remporté le Strixhaven Championship"],
+      "en": ["Cheap creatures punished slow ramp and Ultimatum decks", "Faceless Haven gave a land that attacks and survives sweepers", "Won the Strixhaven Championship"]
+    }
+  },
+  {
+    "name": "Dimir Rogues",
+    "slug": "dimir-rogues",
+    "archetype": "tempo",
+    "titles": ["Dimir Mill", "Dimir Rogue", "UB Mill", "Dimir Mill Rogue", "Grixis Control", "UB Control", "Dimir Control", "Dimir Aggro", "Sultai Aggro"],
+    "rep": 433691,
+    "cover": "Soaring Thought-Thief",
+    "keyCards": ["Soaring Thought-Thief", "Thieves' Guild Enforcer", "Ruin Crab", "Drown in the Loch", "Into the Story"],
+    "summary": {
+      "fr": "Deck flash Dimir qui meule l'adversaire pour activer Soaring Thought-Thief, Thieves' Guild Enforcer et Drown in the Loch.",
+      "en": "Dimir flash deck that mills the opponent to switch on Soaring Thought-Thief, Thieves' Guild Enforcer and Drown in the Loch."
+    },
+    "why": {
+      "fr": ["Le meulage activait les bonus des Rogues et rendait Drown in the Loch très efficace", "Menaces flash et contresorts gênaient la rampe et les decks Ultimatum", "A remporté le Kaldheim Championship"],
+      "en": ["Milling switched on the Rogues' bonuses and made Drown in the Loch efficient", "Flash threats and counters troubled ramp and Ultimatum decks", "Won the Kaldheim Championship"]
+    },
+    "note": "Merged all Thought-Thief / Enforcer / Drown in the Loch titles: mill (Ruin Crab) and control-flash variants. 'Grixis Control' and 'Sultai Aggro' lists are the same Rogues core with a splash."
+  },
+  {
+    "name": "Naya Adventures",
+    "slug": "naya-adventures",
+    "archetype": "midrange",
+    "titles": ["Naya Aggro"],
+    "cover": "Showdown of the Skalds",
+    "keyCards": ["Edgewall Innkeeper", "Showdown of the Skalds", "Goldspan Dragon", "Giant Killer", "Lovestruck Beast"],
+    "summary": {
+      "fr": "Midrange Naya à aventures : Edgewall Innkeeper et ses créatures, Showdown of the Skalds pour l'avantage de cartes et Goldspan Dragon en haut de courbe.",
+      "en": "Naya adventure midrange: Edgewall Innkeeper and adventure creatures, Showdown of the Skalds for card advantage and Goldspan Dragon on top."
+    },
+    "why": {
+      "fr": ["Showdown of the Skalds rechargeait la main après les échanges de removal", "Giant Killer et Bonecrusher Giant servaient à la fois de removal et de créatures", "Goldspan Dragon, issu de Kaldheim, ajoutait un finisher avec la célérité"],
+      "en": ["Showdown of the Skalds refilled the hand after removal trades", "Giant Killer and Bonecrusher Giant doubled as removal and bodies", "Kaldheim's Goldspan Dragon added a hasty top end"]
+    }
+  },
+  {
+    "name": "Doom Foretold Yorion",
+    "slug": "doom-foretold-yorion",
+    "archetype": "control",
+    "titles": ["Esper DOOM Yorion", "Esper DOOM", "Abzan DOOM Yorion", "Abzan DOOM", "4c Yorion", "4v Yorion", "Abzan Yorion", "Orzhov Aggro", "Orzhov Control", "Abzan Yorion Control", "Bant Yorion", "Mardu Doom", "Mardu DOOM Yorion"],
+    "cover": "Doom Foretold",
+    "keyCards": ["Doom Foretold", "Treacherous Blessing", "Archon of Sun's Grace", "Yorion, Sky Nomad", "Omen of the Forge"],
+    "summary": {
+      "fr": "Contrôle Yorion à base d'enchantements : les enchantements bon marché alimentent Doom Foretold et Archon of Sun's Grace, et Yorion recycle Omens et removal.",
+      "en": "Enchantment-based Yorion control: cheap enchantments feed Doom Foretold and Archon of Sun's Grace, while Yorion blinks Omens and removal."
+    },
+    "why": {
+      "fr": ["Doom Foretold transformait les enchantements en trop en sacrifices répétés", "Archon of Sun's Grace créait un volant à chaque enchantement posé", "Joué en Esper, Abzan ou quatre couleurs autour du même moteur"],
+      "en": ["Doom Foretold turned spare enchantments into repeated sacrifice effects", "Archon of Sun's Grace made a flier with every enchantment", "Built in Esper, Abzan or four colours around the same engine"]
+    },
+    "note": "Merged every Doom Foretold / enchantment-Yorion title across colours (Esper, Abzan, Orzhov, Mardu, 4c)."
+  },
+  {
+    "name": "Rakdos Sacrifice",
+    "slug": "rakdos-sacrifice",
+    "archetype": "midrange",
+    "titles": ["Rakdos Aggro", "Jund"],
+    "cover": "Claim the Firstborn",
+    "keyCards": ["Claim the Firstborn", "Village Rites", "Kroxa, Titan of Death's Hunger", "Mire Triton", "Woe Strider"],
+    "summary": {
+      "fr": "Midrange sacrifice Rakdos : Claim the Firstborn vole une créature qui est ensuite sacrifiée à Village Rites ou Woe Strider, et Kroxa revient du cimetière.",
+      "en": "Rakdos sacrifice midrange: Claim the Firstborn steals a creature that is then sacrificed to Village Rites or Woe Strider, and Kroxa returns from the graveyard."
+    },
+    "why": {
+      "fr": ["Claim the Firstborn et les outils de sacrifice punissaient les grosses créatures", "Mire Triton et Woe Strider remplissaient le cimetière pour Kroxa", "La récursion tenait tête aux decks riches en removal"],
+      "en": ["Claim the Firstborn plus sacrifice outlets punished big creatures", "Mire Triton and Woe Strider fuelled Kroxa escapes", "Recursion gave staying power against removal-heavy decks"]
+    },
+    "note": "Merged 'Jund' (same sacrifice core plus Korvold)."
+  },
+  {
+    "name": "Temur Adventures",
+    "slug": "temur-adventures",
+    "archetype": "midrange",
+    "titles": ["Temur Aggro Adventure", "Temur Aggro", "Temur Midrange", "Temur midrange", "Temur Control"],
+    "cover": "Goldspan Dragon",
+    "keyCards": ["Goldspan Dragon", "Edgewall Innkeeper", "Brazen Borrower", "Lovestruck Beast", "Alrund's Epiphany"],
+    "summary": {
+      "fr": "Midrange Temur à aventures avec Edgewall Innkeeper, Brazen Borrower et Goldspan Dragon, plus Alrund's Epiphany pour des tours supplémentaires.",
+      "en": "Temur adventure midrange with Edgewall Innkeeper, Brazen Borrower and Goldspan Dragon, plus Alrund's Epiphany for extra turns."
+    },
+    "why": {
+      "fr": ["Les créatures à aventure valaient deux sorts par carte", "Le bleu ajoutait contresorts, Brazen Borrower et Alrund's Epiphany au socle Gruul", "Les Trésors de Goldspan Dragon permettaient de gros tours"],
+      "en": ["Adventure creatures gave two spells per card", "Blue added counters, Brazen Borrower and Alrund's Epiphany to the Gruul shell", "Goldspan Dragon's Treasures enabled big turns"]
+    }
+  },
+  {
+    "name": "Mono-White Aggro",
+    "slug": "mono-white-aggro",
+    "archetype": "aggro",
+    "titles": ["Weenie White", "WW"],
+    "cover": "Luminarch Aspirant",
+    "keyCards": ["Luminarch Aspirant", "Seasoned Hallowblade", "Selfless Savior", "Maul of the Skyclaves", "Faceless Haven"],
+    "summary": {
+      "fr": "Aggro mono-blanc sur Plaines enneigées avec des deux-drops efficaces, Maul of the Skyclaves et Faceless Haven, parfois avec Lurrus.",
+      "en": "Snow mono-white aggro with efficient two-drops, Maul of the Skyclaves and Faceless Haven, sometimes with Lurrus."
+    },
+    "why": {
+      "fr": ["Luminarch Aspirant faisait grandir le board à chaque tour", "Faceless Haven et les terrains enneigés offraient une menace résistante aux balais", "Selfless Savior protégeait les créatures clés du removal"],
+      "en": ["Luminarch Aspirant grew the board every turn", "Faceless Haven and snow lands gave a threat that survived sweepers", "Selfless Savior protected key creatures from removal"]
+    }
+  },
+  {
+    "name": "Mono-Green Food",
+    "slug": "mono-green-food",
+    "archetype": "midrange",
+    "titles": ["Mono Green Aggro", "Mono Green Food", "Mono Green Aggro Aggro", "Mono Green Negate", "Simic Aggro"],
+    "cover": "Feasting Troll King",
+    "keyCards": ["Gilded Goose", "Trail of Crumbs", "Feasting Troll King", "Wicked Wolf", "The Great Henge"],
+    "summary": {
+      "fr": "Midrange mono-vert Food : Gilded Goose et Trail of Crumbs pour la valeur et le mana, Wicked Wolf comme removal, Feasting Troll King qui revient du cimetière.",
+      "en": "Mono-green Food midrange: Gilded Goose and Trail of Crumbs for value and mana, Wicked Wolf as removal, Feasting Troll King returning from the graveyard."
+    },
+    "why": {
+      "fr": ["Les jetons Food alimentaient Trail of Crumbs, Wicked Wolf et le Troll King", "Lovestruck Beast et The Great Henge donnaient un haut de courbe solide", "Les versions de fin de saison sont devenues plus agressives"],
+      "en": ["Food tokens fuelled Trail of Crumbs, Wicked Wolf and the Troll King", "Lovestruck Beast and The Great Henge gave a sturdy top end", "Late-season builds moved to more aggressive green creatures"]
+    },
+    "note": "The 'Mono Green Aggro' title is mostly Food early on, then Kaldheim/AFR stompy lists (Ranger Class, Werewolf Pack Leader). 'Simic Aggro' (green stompy with a blue splash) merged."
+  },
+  {
+    "name": "Boros Cycling",
+    "slug": "boros-cycling",
+    "archetype": "aggro",
+    "titles": ["Boros Cycling Aggro", "Jeskai Cycling Aggro", "Jeskai Cycling", "Izzet Draw Again"],
+    "cover": "Zenith Flare",
+    "keyCards": ["Zenith Flare", "Flourishing Fox", "Drannith Stinger", "Valiant Rescuer", "Improbable Alliance"],
+    "summary": {
+      "fr": "Deck cycling d'Ikoria : les cartes à cycler font grandir Flourishing Fox et déclenchent Drannith Stinger, Valiant Rescuer et Improbable Alliance, avec Zenith Flare pour finir.",
+      "en": "Ikoria cycling deck: cheap cyclers grow Flourishing Fox and trigger Drannith Stinger, Valiant Rescuer and Improbable Alliance, with Zenith Flare as reach."
+    },
+    "why": {
+      "fr": ["Chaque carte cyclée piochait et déclenchait plusieurs payoffs à la fois", "Zenith Flare convertissait les cartes cyclées en dégâts directs", "Les versions Jeskai ajoutaient cycleurs bleus et interaction"],
+      "en": ["Each cycled card drew a card and fed several payoffs at once", "Zenith Flare turned cycled cards in the graveyard into direct damage", "Jeskai builds added blue cyclers and interaction"]
+    },
+    "note": "Merged Boros and Jeskai cycling titles plus 'Izzet Draw Again' (same Improbable Alliance / Startling Development cycling engine)."
+  },
+  {
+    "name": "Izzet Control",
+    "slug": "izzet-control",
+    "archetype": "control",
+    "titles": ["Izzet Control", "Izzet Yorion Control"],
+    "cover": "Shark Typhoon",
+    "keyCards": ["Shark Typhoon", "Neutralize", "Storm's Wrath", "Brazen Borrower", "Midnight Clock"],
+    "summary": {
+      "fr": "Contrôle Izzet draw-go avec contresorts, Storm's Wrath et des menaces à cycler comme Shark Typhoon, qui finit avec Brazen Borrower et Castle Vantress.",
+      "en": "Izzet draw-go control with counterspells, Storm's Wrath and cycling threats like Shark Typhoon, finishing with Brazen Borrower and Castle Vantress."
+    },
+    "why": {
+      "fr": ["Shark Typhoon offrait une menace à vitesse instantanée qui pouvait aussi cycler", "Contresorts et balais tenaient bien face à la rampe et à Gruul", "Les versions tardives intégraient Expressive Iteration et Prismari Command"],
+      "en": ["Shark Typhoon gave an instant-speed threat that could also cycle", "Counters and sweepers lined up well against ramp and Gruul", "Later builds took in Expressive Iteration and Prismari Command"]
+    }
+  },
+  {
+    "name": "Omnath Ramp",
+    "slug": "omnath-ramp",
+    "archetype": "ramp",
+    "titles": ["Omnath Ramp", "Omnath", "Adventure", "Temur Adventure"],
+    "cover": "Omnath, Locus of Creation",
+    "keyCards": ["Omnath, Locus of Creation", "Lucky Clover", "Escape to the Wilds", "Edgewall Innkeeper", "Fae of Wishes"],
+    "summary": {
+      "fr": "Rampe quatre couleurs autour d'Omnath, Locus of Creation et du landfall, avec Lucky Clover qui copie les sorts d'aventure.",
+      "en": "Four-colour ramp around Omnath, Locus of Creation and landfall, with Lucky Clover copying adventure spells."
+    },
+    "why": {
+      "fr": ["Omnath convertissait les terrains supplémentaires en mana et en points de vie", "Lucky Clover copiait les sorts d'aventure pour l'avantage de cartes", "Omnath, Lucky Clover et Escape to the Wilds ont été bannis quelques semaines après la sortie"],
+      "en": ["Omnath turned extra land drops into mana and life", "Lucky Clover copied adventure spells for card advantage", "Omnath, Lucky Clover and Escape to the Wilds were banned a few weeks into the season"]
+    },
+    "note": "Merged the pre-ban Clover titles 'Adventure' and 'Temur Adventure' (Lucky Clover + Escape to the Wilds lists). Ban: 2020-10-12 announcement."
+  },
+  {
+    "name": "Temur Ramp",
+    "slug": "temur-ramp",
+    "archetype": "ramp",
+    "titles": ["Temur Ultimatum", "Temur Ramp Ultimatum", "Temur Ramp"],
+    "cover": "Genesis Ultimatum",
+    "keyCards": ["Genesis Ultimatum", "Ugin, the Spirit Dragon", "Beanstalk Giant", "Cultivate", "Shark Typhoon"],
+    "summary": {
+      "fr": "Rampe Temur d'après le ban d'Omnath : Cultivate et Beanstalk Giant accélèrent vers Genesis Ultimatum et Ugin, the Spirit Dragon.",
+      "en": "Temur ramp after the Omnath ban: Cultivate and Beanstalk Giant ramp into Genesis Ultimatum and Ugin, the Spirit Dragon."
+    },
+    "why": {
+      "fr": ["Genesis Ultimatum mettait plusieurs permanents en jeu d'un coup", "Ugin, the Spirit Dragon exilait les permanents colorés adverses", "Jwari Disruption et Shark Typhoon couvraient les premiers tours"],
+      "en": ["Genesis Ultimatum put several permanents onto the battlefield at once", "Ugin, the Spirit Dragon exiled opposing coloured permanents", "Jwari Disruption and Shark Typhoon covered the early turns"]
+    }
+  },
+  {
+    "name": "Temur Lukka",
+    "slug": "temur-lukka",
+    "archetype": "combo",
+    "titles": ["Temur Lukka"],
+    "cover": "Lukka, Coppercoat Outcast",
+    "keyCards": ["Lukka, Coppercoat Outcast", "Koma, Cosmos Serpent", "Llanowar Visionary", "Edgewall Innkeeper", "Brazen Borrower"],
+    "summary": {
+      "fr": "Base Temur à aventures avec une finition combo : Lukka, Coppercoat Outcast exile une créature à trois manas pour mettre Koma, Cosmos Serpent en jeu.",
+      "en": "Temur adventure shell with a combo finish: Lukka, Coppercoat Outcast exiles a three-drop creature to put Koma, Cosmos Serpent onto the battlefield."
+    },
+    "why": {
+      "fr": ["Les autres créatures coûtaient trois ou moins, donc Lukka trouvait toujours Koma", "Le paquet aventure permettait aussi une partie midrange classique", "Koma ne pouvait pas être contré et créait des serpents à chaque tour"],
+      "en": ["Every other creature cost three or less, so Lukka always found Koma", "The adventure package also allowed a normal midrange game", "Koma could not be countered and made serpents every turn"]
+    }
+  },
+  {
+    "name": "Selesnya Yorion",
+    "slug": "selesnya-yorion",
+    "archetype": "midrange",
+    "titles": ["Selesnya Aggro", "Abzan Aggro", "Bant Yorion Control"],
+    "rep": 422234,
+    "cover": "Wicked Wolf",
+    "keyCards": ["Yorion, Sky Nomad", "Wicked Wolf", "Trail of Crumbs", "Skyclave Apparition", "Glass Casket"],
+    "summary": {
+      "fr": "Midrange Food vert-blanc : Gilded Goose et Trail of Crumbs pour la valeur, Wicked Wolf et Skyclave Apparition comme removal, Yorion pour réutiliser les effets d'arrivée.",
+      "en": "Green-white Food midrange: Gilded Goose and Trail of Crumbs for value, Wicked Wolf and Skyclave Apparition as removal, Yorion to reuse enter-the-battlefield effects."
+    },
+    "why": {
+      "fr": ["Les créatures-removal et Glass Casket freinaient les départs aggro", "Yorion relançait Skyclave Apparition et Glass Casket pour plus de valeur", "Les versions Abzan et Bant partageaient le même cœur Food"],
+      "en": ["Removal creatures and Glass Casket slowed aggro starts", "Yorion reset Skyclave Apparition and Glass Casket for more value", "Abzan and Bant builds shared the same Food core"]
+    },
+    "note": "'Selesnya Aggro' title is mixed (Food Yorion, Yasharn Yorion, some Selesnya adventure/aggro lists); Food Yorion is the most common and best-finishing version. Rep set to a Selesnya list rather than the Abzan default."
+  },
+  {
+    "name": "Naya Winota",
+    "slug": "naya-winota",
+    "archetype": "aggro",
+    "titles": ["Winota"],
+    "cover": "Winota, Joiner of Forces",
+    "keyCards": ["Winota, Joiner of Forces", "Prosperous Innkeeper", "Jaspera Sentinel", "Esika's Chariot", "Elite Spellbinder"],
+    "summary": {
+      "fr": "Aggro Naya où les attaquants non-Humains (Jaspera Sentinel, Lotus Cobra, Chats d'Esika's Chariot) déclenchent Winota pour mettre des Humains en jeu depuis la bibliothèque.",
+      "en": "Naya aggro where non-Human attackers such as Jaspera Sentinel, Lotus Cobra and Esika's Chariot Cats trigger Winota to put Humans from the library onto the battlefield."
+    },
+    "why": {
+      "fr": ["Winota mettait Kenrith ou Blade Historian en jeu en plein combat", "Trésors et créatures à mana permettaient une Winota rapide", "Esika's Chariot fournissait des attaquants non-Humains résistants"],
+      "en": ["Winota's trigger put Kenrith or Blade Historian into play mid-combat", "Treasure and mana creatures enabled an early Winota", "Esika's Chariot supplied resilient non-Human attackers"]
+    }
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": ["UW Control", "UW Yorion", "UW Yorion Control", "Azorius Aggro"],
+    "cover": "Dream Trawler",
+    "keyCards": ["Dream Trawler", "Shatter the Sky", "Elspeth Conquers Death", "Glass Casket", "Skyclave Apparition"],
+    "summary": {
+      "fr": "Contrôle Azorius, souvent avec Yorion : balais, contresorts et enchantements de removal, conclus par Dream Trawler.",
+      "en": "Azorius control, often with Yorion: sweepers, counterspells and removal enchantments, finished by Dream Trawler."
+    },
+    "why": {
+      "fr": ["Dream Trawler était difficile à retirer et finissait vite les parties", "Le removal sous forme d'enchantements se combinait avec le blink de Yorion", "Les versions Kaldheim utilisaient Doomskar et Saw It Coming"],
+      "en": ["Dream Trawler was hard to remove and ended games quickly", "Enchantment-based removal combined with Yorion's blink", "Kaldheim builds used Doomskar and Saw It Coming"]
+    },
+    "note": "'Azorius Aggro' list is actually a UW Yorion control deck (Dream Trawler, Shatter the Sky); merged."
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": ["Jeskai Control"],
+    "cover": "Skyclave Apparition",
+    "keyCards": ["Dream Trawler", "Bonecrusher Giant", "Skyclave Apparition", "Scorching Dragonfire", "Shark Typhoon"],
+    "summary": {
+      "fr": "Contrôle Jeskai qui ajoute le removal rouge (Scorching Dragonfire, Bonecrusher Giant) aux cartes Azorius, avec Dream Trawler et Shark Typhoon pour gagner.",
+      "en": "Jeskai control adding red removal such as Scorching Dragonfire and Bonecrusher Giant to Azorius cards, winning with Dream Trawler and Shark Typhoon."
+    },
+    "why": {
+      "fr": ["Le removal rouge gérait à bas coût les créatures Gruul et mono-rouges", "Skyclave Apparition et Glass Casket répondaient aux menaces bon marché", "Shark Typhoon et Dream Trawler offraient des conditions de victoire résistantes"],
+      "en": ["Red removal handled Gruul and Mono-Red creatures cheaply", "Skyclave Apparition and Glass Casket answered cheap threats", "Shark Typhoon and Dream Trawler were resilient win conditions"]
+    }
+  },
+  {
+    "name": "Jeskai Mutate",
+    "slug": "jeskai-mutate",
+    "archetype": "midrange",
+    "titles": ["Jeskai Mutate", "Jeskai mutate", "Jeskai Midrange"],
+    "cover": "Vadrok, Apex of Thunder",
+    "keyCards": ["Vadrok, Apex of Thunder", "Lore Drakkis", "Goldspan Dragon", "Expressive Iteration", "Prismari Command"],
+    "summary": {
+      "fr": "Midrange Jeskai dont les créatures à mutation, Lore Drakkis et Vadrok, Apex of Thunder, réutilisent les éphémères et rituels du cimetière.",
+      "en": "Jeskai midrange whose mutate creatures, Lore Drakkis and Vadrok, Apex of Thunder, reuse instants and sorceries from the graveyard."
+    },
+    "why": {
+      "fr": ["Chaque mutation récupérait un removal ou une pioche", "Goldspan Dragon apportait des Trésors et une horloge rapide", "Expressive Iteration et Prismari Command, de Strixhaven, ajoutaient de la sélection"],
+      "en": ["Each mutate trigger recovered a removal spell or card draw", "Goldspan Dragon gave Treasures and a fast clock", "Strixhaven's Expressive Iteration and Prismari Command added selection"]
+    },
+    "note": "Merged 'Jeskai Midrange' (same Vadrok / Lore Drakkis list)."
+  },
+  {
+    "name": "Sultai Control",
+    "slug": "sultai-control",
+    "archetype": "control",
+    "titles": ["Sultai Control"],
+    "cover": "Titans' Nest",
+    "keyCards": ["Titans' Nest", "Strategic Planning", "Shark Typhoon", "Alrund's Epiphany", "Heartless Act"],
+    "summary": {
+      "fr": "Contrôle Sultai qui remplit son cimetière avec Strategic Planning et Thirst for Meaning, puis utilise Titans' Nest pour lancer tôt Alrund's Epiphany et Shark Typhoon.",
+      "en": "Sultai control that fills its graveyard with Strategic Planning and Thirst for Meaning, then uses Titans' Nest to cast Alrund's Epiphany and Shark Typhoon early."
+    },
+    "why": {
+      "fr": ["Titans' Nest exilait le cimetière pour produire du mana", "Alrund's Epiphany donnait des tours supplémentaires, Shark Typhoon finissait", "Removal et contresorts encaissaient les départs agressifs"],
+      "en": ["Titans' Nest exiled graveyard cards for extra mana", "Alrund's Epiphany gave extra turns and Shark Typhoon closed games", "Removal and counters absorbed aggressive starts"]
+    },
+    "note": "Title also covers a few earlier Sultai control lists; rep is the Titans' Nest version."
+  },
+  {
+    "name": "Golgari Adventures",
+    "slug": "golgari-adventures",
+    "archetype": "midrange",
+    "titles": ["Golgari Aggro"],
+    "cover": "Murderous Rider",
+    "keyCards": ["Murderous Rider", "Edgewall Innkeeper", "Lovestruck Beast", "Foulmire Knight", "The Great Henge"],
+    "summary": {
+      "fr": "Midrange noir-vert à aventures qui utilise Murderous Rider et Foulmire Knight comme removal et pioche, avec The Great Henge en haut de courbe.",
+      "en": "Black-green adventure midrange using Murderous Rider and Foulmire Knight as removal and card draw, with The Great Henge on top."
+    },
+    "why": {
+      "fr": ["L'aventure de Murderous Rider offrait du removal main deck", "Edgewall Innkeeper piochait avec chaque créature à aventure", "Scavenging Ooze et Polukranos ajoutaient de la valeur en fin de partie"],
+      "en": ["Murderous Rider's adventure gave main-deck removal", "Edgewall Innkeeper drew cards off every adventure creature", "Scavenging Ooze and Polukranos added late-game value"]
+    }
+  },
+  {
+    "name": "Rakdos Ugin",
+    "slug": "rakdos-ugin",
+    "archetype": "ramp",
+    "titles": ["Rakdos Control", "Mono Red Control"],
+    "rep": 422253,
+    "cover": "Ugin, the Spirit Dragon",
+    "keyCards": ["Ugin, the Spirit Dragon", "Irencrag Feat", "Solemn Simulacrum", "Mazemind Tome", "Bonecrusher Giant"],
+    "summary": {
+      "fr": "Contrôle à base rouge qui utilise Irencrag Feat pour lancer tôt Ugin, the Spirit Dragon, puis nettoie la table des permanents colorés.",
+      "en": "Red-based control that uses Irencrag Feat to cast Ugin, the Spirit Dragon early, then clears the board of coloured permanents."
+    },
+    "why": {
+      "fr": ["Irencrag Feat rendait possible un Ugin très rapide", "Ugin épargnait les artefacts incolores du deck comme Solemn Simulacrum", "Removal bon marché et Mazemind Tome faisaient gagner du temps"],
+      "en": ["Irencrag Feat made a very early Ugin possible", "Ugin spared the deck's colourless artifacts such as Solemn Simulacrum", "Cheap removal and Mazemind Tome bought time"]
+    },
+    "note": "Merged 'Mono Red Control' (same Irencrag Feat + Ugin list without black). Rep set to the Rakdos list."
+  },
+  {
+    "name": "Gyruda Midrange",
+    "slug": "gyruda-midrange",
+    "archetype": "midrange",
+    "titles": ["Gyruda"],
+    "cover": "Gyruda, Doom of Depths",
+    "keyCards": ["Gyruda, Doom of Depths", "Shepherd of the Cosmos", "Thassa, Deep-Dwelling", "Charming Prince", "Kaervek, the Spiteful"],
+    "summary": {
+      "fr": "Deck de valeur quatre couleurs fondé sur les effets d'arrivée : Thassa, Charming Prince et Shepherd of the Cosmos les répètent, Gyruda récupère une créature meulée.",
+      "en": "Four-colour value deck built on enter-the-battlefield effects: Thassa, Charming Prince and Shepherd of the Cosmos repeat them, Gyruda steals a milled creature."
+    },
+    "why": {
+      "fr": ["Gyruda mettait en jeu une créature meulée chez l'un ou l'autre joueur", "Thassa et Charming Prince répétaient les capacités d'arrivée", "Port of Karfell ramenait des créatures meulées en fin de partie"],
+      "en": ["Gyruda put a creature from either player's milled cards onto the battlefield", "Thassa and Charming Prince repeated enter-the-battlefield triggers", "Port of Karfell returned milled creatures late in the game"]
+    },
+    "note": "Included on the win rule only (one top 8, a league-weekend 'win'); low sample."
+  },
+  {
+    "name": "Mono-Blue Snow",
+    "slug": "mono-blue-snow",
+    "archetype": "tempo",
+    "titles": ["Mono Blue Control", "Mono Blue Snow"],
+    "cover": "Ascendant Spirit",
+    "keyCards": ["Ascendant Spirit", "Frost Augur", "Saw It Coming", "Alrund's Epiphany", "Shark Typhoon"],
+    "summary": {
+      "fr": "Tempo mono-bleu enneigé avec Ascendant Spirit et Frost Augur, soutenu par des contresorts présagés, Shark Typhoon et Alrund's Epiphany.",
+      "en": "Snow mono-blue tempo with Ascendant Spirit and Frost Augur, backed by foretold counterspells, Shark Typhoon and Alrund's Epiphany."
+    },
+    "why": {
+      "fr": ["Les Îles enneigées alimentaient Ascendant Spirit et la pioche de Frost Augur", "Le présage permettait de garder des contresorts comme Saw It Coming à bas coût", "Faceless Haven ajoutait une menace hors de portée du removal de rituel"],
+      "en": ["Snow Islands powered Ascendant Spirit and Frost Augur's card draw", "Foretell let it hold up counters like Saw It Coming cheaply", "Faceless Haven added a threat that dodged sorcery-speed removal"]
+    },
+    "note": "Small sample (two top 8s, one win)."
+  }
+]

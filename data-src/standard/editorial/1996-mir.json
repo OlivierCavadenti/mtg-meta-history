@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Prison",
+    "slug": "prison",
+    "archetype": "control",
+    "titles": ["Prison", "White Trash"],
+    "rep": 769403,
+    "cover": "Winter Orb",
+    "keyCards": ["Winter Orb", "Armageddon", "Icy Manipulator", "Arcane Denial", "Wrath of God"],
+    "summary": {
+      "fr": "Prison blanc-bleu qui restreint le mana avec Winter Orb et Armageddon, en jouant les diamants de Mirage et Icy Manipulator pour fonctionner sous le verrou.",
+      "en": "White-blue prison that restricts mana with Winter Orb and Armageddon, using Mirage diamonds and Icy Manipulator to keep functioning under the lock."
+    },
+    "why": {
+      "fr": ["Marble Diamond et Sky Diamond gardaient du mana disponible sous Winter Orb", "Wrath of God et Serrated Arrows géraient les créatures qui passaient"],
+      "en": ["Marble Diamond and Sky Diamond kept mana available under Winter Orb", "Wrath of God and Serrated Arrows dealt with creatures that got through"]
+    },
+    "note": "Rep = Zila's PT Dallas finalist list (main event) rather than the Juniors winner. 'White Trash' is the mono-white version of the same lock."
+  },
+  {
+    "name": "Sligh",
+    "slug": "sligh",
+    "archetype": "aggro",
+    "titles": ["Sligh"],
+    "cover": "Orcish Artillery",
+    "keyCards": ["Ironclaw Orcs", "Goblin Balloon Brigade", "Orcish Artillery", "Lightning Bolt", "Pillage"],
+    "summary": {
+      "fr": "Mono-rouge en courbe de gobelins et d'orques bon marché, soutenu par Lightning Bolt, Incinerate et Pillage.",
+      "en": "Mono-red curve deck of cheap goblins and orcs, supported by Lightning Bolt, Incinerate and Pillage."
+    },
+    "why": {
+      "fr": ["La courbe basse punissait les débuts lents des decks de contrôle", "Orcish Artillery et le burn retiraient les petits bloqueurs"],
+      "en": ["The low curve punished slow starts from control decks", "Orcish Artillery and burn spells removed small blockers"]
+    }
+  },
+  {
+    "name": "Necro",
+    "slug": "necro",
+    "archetype": "control",
+    "titles": ["Necropotence", "Necro Control", "Black Aggro", "Hybrid Necro (Pikulapotence)", "Beatdown Necro"],
+    "cover": "Necropotence",
+    "keyCards": ["Necropotence", "Nevinyrral's Disk", "Drain Life", "Hypnotic Specter", "Stupor"],
+    "summary": {
+      "fr": "Mono-noir Necropotence en rôle de contrôle, qui nettoie la table avec Nevinyrral's Disk et gagne avec Drain Life et Hypnotic Specter.",
+      "en": "Mono-black Necropotence deck in a control role, clearing the board with Nevinyrral's Disk and winning with Drain Life and Hypnotic Specter."
+    },
+    "why": {
+      "fr": ["Necropotence piochait assez pour se reconstruire après chaque Disk", "Stupor ajoutait de la défausse, Drain Life regagnait la vie payée"],
+      "en": ["Necropotence drew enough cards to rebuild after each Disk", "Stupor added discard; Drain Life regained the life paid"]
+    },
+    "note": "Merged control and beatdown Necro builds (incl. Pikula's B/r hybrid and Chinnock's Worlds 1997 list)."
+  },
+  {
+    "name": "RGW Control",
+    "slug": "rgw-control",
+    "archetype": "control",
+    "titles": ["WRG Control"],
+    "cover": "Stormbind",
+    "keyCards": ["Winter Orb", "Icy Manipulator", "Stormbind", "Wildfire Emissary", "Deadly Insect"],
+    "summary": {
+      "fr": "Contrôle tricolore avec Winter Orb et Icy Manipulator, qui joue les diamants pour son mana et Stormbind, Wildfire Emissary et Deadly Insect comme menaces.",
+      "en": "Three-colour control with Winter Orb and Icy Manipulator, using diamonds for mana and Stormbind, Wildfire Emissary and Deadly Insect as threats."
+    },
+    "why": {
+      "fr": ["Les diamants de Mirage permettaient de jouer sous son propre Winter Orb", "Deadly Insect ne pouvait pas être ciblé par le removal"],
+      "en": ["Mirage diamonds let the deck operate under its own Winter Orb", "Deadly Insect could not be targeted by removal"]
+    }
+  },
+  {
+    "name": "GW Shroud",
+    "slug": "gw-shroud",
+    "archetype": "midrange",
+    "titles": ["WG Control Shroud"],
+    "cover": "Autumn Willow",
+    "keyCards": ["Armageddon", "Deadly Insect", "Jolrael's Centaur", "Autumn Willow", "Icy Manipulator"],
+    "summary": {
+      "fr": "Deck Armageddon vert-blanc qui s'appuie sur des créatures impossibles à cibler comme Deadly Insect, Jolrael's Centaur et Autumn Willow.",
+      "en": "Green-white Armageddon deck relying on untargetable creatures such as Deadly Insect, Jolrael's Centaur and Autumn Willow."
+    },
+    "why": {
+      "fr": ["Ces créatures ignoraient le removal ciblé de Necro et des decks burn", "Armageddon avec une créature en jeu ne laissait aucune porte de sortie"],
+      "en": ["These creatures ignored the targeted removal of Necro and burn decks", "Armageddon with a creature in play left opponents with no way back"]
+    }
+  },
+  {
+    "name": "RG Aggro",
+    "slug": "rg-aggro",
+    "archetype": "aggro",
+    "titles": ["GR Aggro"],
+    "cover": "Erhnam Djinn",
+    "keyCards": ["Erhnam Djinn", "Jolrael's Centaur", "Elvish Archers", "Lightning Bolt", "Stormbind"],
+    "summary": {
+      "fr": "Beatdown rouge-vert avec elfes, Erhnam Djinn et Jolrael's Centaur, soutenu par Lightning Bolt, Incinerate et Fireball.",
+      "en": "Red-green beatdown with mana elves, Erhnam Djinn and Jolrael's Centaur, supported by Lightning Bolt, Incinerate and Fireball."
+    },
+    "why": {
+      "fr": ["Les elfes posaient les menaces à quatre manas en avance", "Le burn retirait les bloqueurs et servait de portée"],
+      "en": ["Elves put four-mana threats on the board early", "Burn cleared blockers and doubled as reach"]
+    }
+  },
+  {
+    "name": "CounterPost",
+    "slug": "counterpost",
+    "archetype": "control",
+    "titles": ["Counter-Post", "The 1:30 Special"],
+    "rep": 272056,
+    "cover": "Counterspell",
+    "keyCards": ["Kjeldoran Outpost", "Counterspell", "Wrath of God", "Abeyance", "Swords to Plowshares"],
+    "summary": {
+      "fr": "Contrôle draw-go blanc-bleu qui contre et retire tout, puis gagne avec les jetons soldats de Kjeldoran Outpost.",
+      "en": "White-blue draw-go control that counters and removes everything, then wins with soldier tokens from Kjeldoran Outpost."
+    },
+    "why": {
+      "fr": ["Kjeldoran Outpost produisait des jetons sans occuper de place de sort", "Counterspell, Force of Will et Wrath of God répondaient à la plupart des menaces"],
+      "en": ["Kjeldoran Outpost produced tokens without taking a spell slot", "Counterspell, Force of Will and Wrath of God answered most threats"]
+    },
+    "note": "'The 1:30 Special' (Tao, PT Dallas Juniors) is a UW Outpost control list; rep = Finkel's US Nationals 1997 list."
+  },
+  {
+    "name": "Counter-Hammer",
+    "slug": "counter-hammer",
+    "archetype": "control",
+    "titles": ["Counter-Hammer"],
+    "cover": "Hammer of Bogardan",
+    "keyCards": ["Hammer of Bogardan", "Counterspell", "Force of Will", "Fireball", "Pillage"],
+    "summary": {
+      "fr": "Contrôle bleu-rouge qui contre les sorts clés et utilise Hammer of Bogardan comme source de dégâts récurrente, avec Fireball pour finir.",
+      "en": "Blue-red control that counters key spells and uses Hammer of Bogardan as a recurring damage source, with Fireball to finish."
+    },
+    "why": {
+      "fr": ["Hammer of Bogardan revenait du cimetière pour des dégâts réguliers", "Thawing Glaciers et les contresorts aidaient à gagner les parties longues"],
+      "en": ["Hammer of Bogardan came back from the graveyard for steady damage", "Thawing Glaciers and counterspells helped win long games"]
+    }
+  },
+  {
+    "name": "UR Control",
+    "slug": "ur-control",
+    "archetype": "control",
+    "titles": ["UR Control", "UR Aggro", "URw Aggro"],
+    "cover": "Man-o'-War",
+    "keyCards": ["Man-o'-War", "Counterspell", "Force of Will", "Rainbow Efreet", "Earthquake"],
+    "summary": {
+      "fr": "Counter-burn bleu-rouge avec Counterspell et Force of Will, des créatures tempo comme Man-o'-War et du burn comme Incinerate et Earthquake.",
+      "en": "Blue-red counter-burn with Counterspell and Force of Will, tempo creatures such as Man-o'-War and burn like Incinerate and Earthquake."
+    },
+    "why": {
+      "fr": ["Man-o'-War gagnait du tempo tout en ajoutant une créature", "Le phasing de Rainbow Efreet le rendait difficile à retirer"],
+      "en": ["Man-o'-War gained tempo while adding a body to the board", "Rainbow Efreet's phasing made it hard to remove"]
+    },
+    "note": "Merged three 1997 UR counter + burn + creature lists (Gary, McCabe, Kuhn with a white splash)."
+  },
+  {
+    "name": "Five-Color Black",
+    "slug": "five-color-black",
+    "archetype": "midrange",
+    "titles": ["Black Five", "4CB"],
+    "cover": "Nekrataal",
+    "keyCards": ["Nekrataal", "Fallen Askari", "Man-o'-War", "Contagion", "Knight of Stromgald"],
+    "summary": {
+      "fr": "Deck de créatures noir qui splashe plusieurs couleurs via Gemstone Mine et Undiscovered Paradise pour Man-o'-War, Incinerate et Uktabi Orangutan.",
+      "en": "Black creature deck splashing several colours through Gemstone Mine and Undiscovered Paradise for Man-o'-War, Incinerate and Uktabi Orangutan."
+    },
+    "why": {
+      "fr": ["Nekrataal et Man-o'-War combinaient removal ou tempo et créature", "Fallen Askari et les chevaliers mettaient une pression précoce"],
+      "en": ["Nekrataal and Man-o'-War combined removal or tempo with a creature", "Fallen Askari and the knights applied early pressure"]
+    }
+  },
+  {
+    "name": "Buried Alive",
+    "slug": "buried-alive",
+    "archetype": "aggro",
+    "titles": ["Buried Alive", "Bone Dancer"],
+    "cover": "Buried Alive",
+    "keyCards": ["Buried Alive", "Nether Shadow", "Ashen Ghoul", "Krovikan Horror", "Black Knight"],
+    "summary": {
+      "fr": "Aggro noir-rouge de récursion qui remplit le cimetière avec Buried Alive, de créatures comme Nether Shadow et Ashen Ghoul qui reviennent seules en jeu.",
+      "en": "Black-red recursion aggro that fills the graveyard with Buried Alive, using creatures like Nether Shadow and Ashen Ghoul that return on their own."
+    },
+    "why": {
+      "fr": ["Les créatures récursives revenaient après le removal ou Nevinyrral's Disk", "Buried Alive préparait plusieurs menaces en une seule carte"],
+      "en": ["Recursive creatures came back after removal or Nevinyrral's Disk", "Buried Alive set up several returning threats with one card"]
+    }
+  },
+  {
+    "name": "Stompy",
+    "slug": "stompy",
+    "archetype": "aggro",
+    "titles": ["Stompy"],
+    "cover": "Quirion Ranger",
+    "keyCards": ["Quirion Ranger", "Winter Orb", "Spectral Bears", "Rogue Elephant", "Giant Growth"],
+    "summary": {
+      "fr": "Mono-vert aggro de créatures bon marché et Giant Growth, qui ralentit l'adversaire avec Winter Orb tout en gardant ses menaces actives.",
+      "en": "Mono-green aggro with cheap creatures and Giant Growth, slowing opponents with Winter Orb while keeping its own threats active."
+    },
+    "why": {
+      "fr": ["La courbe basse fonctionnait bien sous Winter Orb", "Quirion Ranger dégageait une créature en recyclant une forêt"],
+      "en": ["The low curve worked well under Winter Orb", "Quirion Ranger untapped a creature by returning a Forest"]
+    }
+  },
+  {
+    "name": "Five-Color Green",
+    "slug": "five-color-green",
+    "archetype": "midrange",
+    "titles": ["5CGreen"],
+    "cover": "Maro",
+    "keyCards": ["River Boa", "Maro", "Granger Guildmage", "Quirion Ranger", "Winter Orb"],
+    "summary": {
+      "fr": "Deck de créatures vert qui splashe Arcane Denial, Incinerate et Terror grâce à Birds of Paradise, City of Brass et Undiscovered Paradise.",
+      "en": "Green creature deck splashing Arcane Denial, Incinerate and Terror through Birds of Paradise, City of Brass and Undiscovered Paradise."
+    },
+    "why": {
+      "fr": ["River Boa et Maro étaient des menaces vertes efficaces", "Les sorts splashés couvraient les faiblesses d'un mono-vert"],
+      "en": ["River Boa and Maro were efficient green threats", "Splashed spells covered the weaknesses of a mono-green build"]
+    }
+  }
+]

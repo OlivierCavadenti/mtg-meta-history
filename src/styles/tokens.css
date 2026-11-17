@@ -1,30 +1,41 @@
 :root {
-  --paper: #f3ede4;
-  --paper-dark: #e8e0d4;
-  --ink: #1e1a15;
+  --paper: #f4efe6;
+  --paper-dark: #e9e1d4;
+  --paper-deep: #ddd3c3;
+  --ink: #1b1814;
   --ink-light: #3d3630;
-  --muted: #76695b;
+  --muted: #74685a;
   --faint: #a59888;
   --line: #c5b8a6;
   --line-light: #ddd4c6;
+  --accent: #7a3826;
 
-  --standard: #7a3826;
-  --modern: #2d5a78;
-  --legacy: #4a5e3f;
-  --vintage: #5b4576;
-  --extended: #6b5a3d;
-  --pioneer: #8c5c2a;
-  --old-school: #5c4a35;
-  --premodern: #4a6670;
+  /* Card row tones (decklist bars), one per card color */
+  --tone-w: #b9a777;
+  --tone-u: #2f5f93;
+  --tone-b: #3a332d;
+  --tone-r: #a8382a;
+  --tone-g: #2f6b48;
+  --tone-m: #a7842c;
+  --tone-c: #6e6a66;
+  --tone-land: #7d6e5c;
+  --row-ink: #fbf8f2;
 
-  --confidence-high: #4a5e3f;
-  --confidence-medium: #8c7a3d;
-  --confidence-low: #8c5040;
+  /* Color pips */
+  --pip-w: #efe6c4;
+  --pip-u: #2f6db0;
+  --pip-b: #2b2622;
+  --pip-r: #c4412d;
+  --pip-g: #2f7d4f;
 
-  --font-body: 'Georgia', 'Times New Roman', serif;
-  --font-heading: 'Arial Narrow', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+
+  --tier1: #7a3826;
+  --tier2: #3d3630;
+
+  --font-body: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-heading: 'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
+  --font-label: 'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
   --font-mono: 'Consolas', 'Monaco', 'Courier New', monospace;
-  --font-label: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
 
   --space-xs: 0.25rem;
   --space-sm: 0.5rem;
@@ -34,8 +45,9 @@
   --space-2xl: 4rem;
 
   --radius-sm: 2px;
-  --radius-md: 3px;
+  --radius-md: 4px;
 
   --measure: 68ch;
-  --sidebar: 240px;
+  --page-max: 1320px;
+  --header-h: 56px;
 }

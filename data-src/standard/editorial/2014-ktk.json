@@ -1,0 +1,1189 @@
+[
+  {
+    "name": "Abzan Midrange",
+    "slug": "abzan-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Abzan Midrange",
+      "Abzan Megamorph"
+    ],
+    "rep": 247645,
+    "cover": "Siege Rhino",
+    "keyCards": [
+      "Siege Rhino",
+      "Courser of Kruphix",
+      "Abzan Charm",
+      "Elspeth, Sun's Champion",
+      "Wingmate Roc"
+    ],
+    "summary": {
+      "fr": "Midrange blanc-noir-vert qui combine discard, removal efficace et créatures à forte valeur, avec Elspeth et des planeswalkers pour finir.",
+      "en": "White-black-green midrange combining discard, efficient removal and high-value creatures, with Elspeth and other planeswalkers to close."
+    },
+    "why": {
+      "fr": [
+        "Siege Rhino et Courser of Kruphix gagnaient la plupart des échanges de cartes",
+        "Thoughtseize et Abzan Charm répondaient à presque tout",
+        "Le deck s'adaptait à chaque extension de la saison"
+      ],
+      "en": [
+        "Siege Rhino and Courser of Kruphix won most card-for-card exchanges",
+        "Thoughtseize and Abzan Charm answered almost anything",
+        "The shell adapted to every set released during the season"
+      ]
+    },
+    "note": "Catch-all title on mtgtop8: includes some Abzan Aggro lists and Den Protector builds (Abzan Megamorph). Rep = Pro Tour Khans of Tarkir winning list instead of the WMC Whip build."
+  },
+  {
+    "name": "Abzan Control",
+    "slug": "abzan-control",
+    "archetype": "control",
+    "titles": [
+      "Abzan Control",
+      "Abzan Midrange Control"
+    ],
+    "cover": "Elspeth, Sun's Champion",
+    "keyCards": [
+      "Siege Rhino",
+      "Elspeth, Sun's Champion",
+      "Hero's Downfall",
+      "Read the Bones",
+      "Sorin, Solemn Visitor"
+    ],
+    "summary": {
+      "fr": "Version lente de l'Abzan : plus de removal, de pioche et de planeswalkers, autour de Siege Rhino, Courser of Kruphix et Elspeth.",
+      "en": "The slower Abzan build: more removal, card draw and planeswalkers around Siege Rhino, Courser of Kruphix and Elspeth."
+    },
+    "why": {
+      "fr": [
+        "Utter End, Hero's Downfall et Abzan Charm couvraient toutes les menaces",
+        "Elspeth dominait les parties longues face aux decks de créatures"
+      ],
+      "en": [
+        "Utter End, Hero's Downfall and Abzan Charm covered every kind of threat",
+        "Elspeth took over long games against creature decks"
+      ]
+    }
+  },
+  {
+    "name": "Abzan Aggro",
+    "slug": "abzan-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Abzan Aggro",
+      "Azban Midrange"
+    ],
+    "cover": "Anafenza, the Foremost",
+    "keyCards": [
+      "Fleecemane Lion",
+      "Rakshasa Deathdealer",
+      "Anafenza, the Foremost",
+      "Siege Rhino"
+    ],
+    "summary": {
+      "fr": "Version agressive de l'Abzan : créatures efficaces dès le deuxième tour, soutenues par le removal noir et Thoughtseize.",
+      "en": "The aggressive Abzan build: efficient creatures from turn two, backed by black removal and Thoughtseize."
+    },
+    "why": {
+      "fr": [
+        "Fleecemane Lion et Rakshasa Deathdealer mettaient la pression tout en survivant au removal",
+        "Il gardait le removal de l'Abzan Midrange avec une courbe plus basse"
+      ],
+      "en": [
+        "Fleecemane Lion and Rakshasa Deathdealer pressured opponents and survived removal",
+        "It kept Abzan Midrange's removal suite on a lower curve"
+      ]
+    },
+    "note": "Azban Midrange = Mike Sigrist's PT KTK top-4 list, an Abzan Aggro build."
+  },
+  {
+    "name": "Abzan Reanimator",
+    "slug": "abzan-reanimator",
+    "archetype": "midrange",
+    "titles": [
+      "Abzan Reanimator",
+      "Abzan Graveyard"
+    ],
+    "rep": 254854,
+    "cover": "Whip of Erebos",
+    "keyCards": [
+      "Satyr Wayfinder",
+      "Whip of Erebos",
+      "Siege Rhino",
+      "Hornet Queen",
+      "Doomwake Giant"
+    ],
+    "summary": {
+      "fr": "Abzan orienté cimetière : Satyr Wayfinder et Commune with the Gods remplissent le cimetière, Whip of Erebos ramène Siege Rhino et Hornet Queen.",
+      "en": "Graveyard-based Abzan: Satyr Wayfinder and Commune with the Gods fill the graveyard, Whip of Erebos brings back Siege Rhino and Hornet Queen."
+    },
+    "why": {
+      "fr": [
+        "Whip of Erebos transformait les créatures défaussées en avantage de cartes",
+        "Hornet Queen bloquait les decks aggro et les dragons"
+      ],
+      "en": [
+        "Whip of Erebos turned milled creatures into card advantage",
+        "Hornet Queen stopped aggro decks and dragons alike"
+      ]
+    },
+    "note": "Two event wins (SCG Open Indianapolis, SCG Open Providence) under two different titles."
+  },
+  {
+    "name": "Green Devotion",
+    "slug": "green-devotion",
+    "archetype": "ramp",
+    "titles": [
+      "Devotion to Green",
+      "GW Devotion",
+      "Devotion to Selesnya",
+      "Devotion to Naya"
+    ],
+    "cover": "Whisperwood Elemental",
+    "keyCards": [
+      "Nykthos, Shrine to Nyx",
+      "Polukranos, World Eater",
+      "Whisperwood Elemental",
+      "Genesis Hydra",
+      "Mastery of the Unseen"
+    ],
+    "summary": {
+      "fr": "Ramp vert à base de mana dorks et de permanents verts, qui utilise Nykthos pour lancer de grosses Genesis Hydra ou activer Mastery of the Unseen.",
+      "en": "Green ramp built on mana creatures and green permanents, using Nykthos to cast large Genesis Hydras or fuel Mastery of the Unseen."
+    },
+    "why": {
+      "fr": [
+        "Nykthos produisait des quantités de mana importantes dès le tour quatre",
+        "Whisperwood Elemental et Mastery of the Unseen gagnaient les parties longues"
+      ],
+      "en": [
+        "Nykthos produced large amounts of mana by turn four",
+        "Whisperwood Elemental and Mastery of the Unseen won long games"
+      ]
+    }
+  },
+  {
+    "name": "RG Devotion",
+    "slug": "rg-devotion",
+    "archetype": "ramp",
+    "titles": [
+      "Devotion to Gruul",
+      "See the Unwritten",
+      "See The Unwritten",
+      "Devotion to Temur"
+    ],
+    "cover": "Dragonlord Atarka",
+    "keyCards": [
+      "See the Unwritten",
+      "Dragonlord Atarka",
+      "Whisperwood Elemental",
+      "Polukranos, World Eater",
+      "Rattleclaw Mystic"
+    ],
+    "summary": {
+      "fr": "Ramp vert splash rouge : accélération par créatures et Nykthos, puis See the Unwritten ou mana brut pour poser Dragonlord Atarka.",
+      "en": "Green ramp splashing red: creature acceleration and Nykthos, then See the Unwritten or raw mana to put Dragonlord Atarka into play."
+    },
+    "why": {
+      "fr": [
+        "See the Unwritten mettait Dragonlord Atarka en jeu en avance",
+        "Atarka détruisait les créatures adverses en arrivant"
+      ],
+      "en": [
+        "See the Unwritten put Dragonlord Atarka into play ahead of schedule",
+        "Atarka removed opposing creatures as it entered"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Constellation",
+    "slug": "golgari-constellation",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari Constelation",
+      "Devotion to Constelation",
+      "Devotion to Golgari"
+    ],
+    "cover": "Doomwake Giant",
+    "keyCards": [
+      "Doomwake Giant",
+      "Eidolon of Blossoms",
+      "Whip of Erebos",
+      "Hornet Queen",
+      "Courser of Kruphix"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert basé sur les enchantements : Eidolon of Blossoms pioche, Doomwake Giant balaie les petites créatures, Hornet Queen verrouille le sol.",
+      "en": "Black-green enchantment midrange: Eidolon of Blossoms draws cards, Doomwake Giant sweeps small creatures, Hornet Queen locks the board."
+    },
+    "why": {
+      "fr": [
+        "Doomwake Giant punissait les decks de jetons et l'aggro",
+        "Satyr Wayfinder et Whip of Erebos donnaient de l'avantage dans les parties longues"
+      ],
+      "en": [
+        "Doomwake Giant punished token and aggro decks",
+        "Satyr Wayfinder and Whip of Erebos provided late-game card advantage"
+      ]
+    }
+  },
+  {
+    "name": "Esper Dragons",
+    "slug": "esper-dragons",
+    "archetype": "control",
+    "titles": [
+      "Esper Dragons",
+      "Esper Dragon",
+      "Esper Control",
+      "Esper Dragon- Mentor",
+      "UBw Control Dragon",
+      "Full Dragons"
+    ],
+    "cover": "Dragonlord Ojutai",
+    "keyCards": [
+      "Dragonlord Ojutai",
+      "Silumgar's Scorn",
+      "Dig Through Time",
+      "Foul-Tongue Invocation",
+      "Hero's Downfall"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir splash blanc qui révèle des dragons pour alimenter Silumgar's Scorn et Foul-Tongue Invocation, et gagne avec Dragonlord Ojutai.",
+      "en": "Blue-black control splashing white that reveals dragons to power Silumgar's Scorn and Foul-Tongue Invocation, then wins with Dragonlord Ojutai."
+    },
+    "why": {
+      "fr": [
+        "Les dragons servaient à la fois de condition de victoire et de bonus pour les contresorts",
+        "Dig Through Time trouvait les réponses au bon moment"
+      ],
+      "en": [
+        "Dragons doubled as win conditions and enablers for counterspells and removal",
+        "Dig Through Time found the right answers at the right time"
+      ]
+    },
+    "note": "Pre-Dragons Esper Control lists (Nov 2014) sit under the 'Esper Control' title and are folded in. 'Full Dragons' (multi-colour Dragonlord control, RPTQ win) attached here: same Scorn/Dig/Dragonlord plan."
+  },
+  {
+    "name": "UB Control",
+    "slug": "ub-control",
+    "archetype": "control",
+    "titles": [
+      "UB Control",
+      "UB Control Dragon",
+      "UB Control Dragonless",
+      "UB Dragons"
+    ],
+    "rep": 254542,
+    "cover": "Dragonlord Silumgar",
+    "keyCards": [
+      "Dragonlord Silumgar",
+      "Silumgar's Scorn",
+      "Dig Through Time",
+      "Crux of Fate",
+      "Icefall Regent"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir classique : contresorts, removal ponctuel et de masse, Dig Through Time, puis dragons ou planeswalkers pour finir.",
+      "en": "Classic blue-black control: counterspells, spot and mass removal, Dig Through Time, then dragons or planeswalkers to finish."
+    },
+    "why": {
+      "fr": [
+        "Le noir offrait le meilleur removal du format",
+        "Crux of Fate et Dissolve tenaient face aux decks midrange",
+        "Dragonlord Silumgar volait la meilleure menace adverse"
+      ],
+      "en": [
+        "Black supplied the format's strongest removal",
+        "Crux of Fate and Dissolve held off midrange decks",
+        "Dragonlord Silumgar stole the opponent's best threat"
+      ]
+    },
+    "note": "Pre-DTK lists are Ashiok/Perilous Vault builds; rep = Shota Yasooka's PT Dragons of Tarkir finalist list."
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control"
+    ],
+    "cover": "End Hostilities",
+    "keyCards": [
+      "End Hostilities",
+      "Elspeth, Sun's Champion",
+      "Dissolve",
+      "Banishing Light",
+      "Dig Through Time"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu avec contresorts, End Hostilities et Banishing Light, qui gagne avec Elspeth, Sun's Champion.",
+      "en": "White-blue control with counterspells, End Hostilities and Banishing Light, winning with Elspeth, Sun's Champion."
+    },
+    "why": {
+      "fr": [
+        "End Hostilities répondait aux decks de créatures",
+        "Elspeth gagnait les parties longues sans aide"
+      ],
+      "en": [
+        "End Hostilities answered creature decks",
+        "Elspeth won long games on her own"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins"
+    ],
+    "cover": "Abbot of Keral Keep",
+    "keyCards": [
+      "Monastery Swiftspear",
+      "Abbot of Keral Keep",
+      "Exquisite Firecraft",
+      "Stoke the Flames",
+      "Searing Blood"
+    ],
+    "summary": {
+      "fr": "Aggro rouge mono-couleur : créatures prowess bon marché et burn, avec Stoke the Flames et Exquisite Firecraft pour finir.",
+      "en": "Mono-red aggro: cheap prowess creatures and burn, with Stoke the Flames and Exquisite Firecraft to finish."
+    },
+    "why": {
+      "fr": [
+        "Une manabase sans faille face aux decks tricolores",
+        "Le burn faisait aussi office de removal contre les créatures adverses"
+      ],
+      "en": [
+        "A flawless mana base against three-colour decks",
+        "Burn doubled as removal against opposing creatures"
+      ]
+    },
+    "note": "Rep = Joel Larsson's Pro Tour Magic Origins winning list."
+  },
+  {
+    "name": "Atarka Red",
+    "slug": "atarka-red",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Deck Wins"
+    ],
+    "cover": "Atarka's Command",
+    "keyCards": [
+      "Atarka's Command",
+      "Hordeling Outburst",
+      "Monastery Swiftspear",
+      "Foundry Street Denizen",
+      "Become Immense"
+    ],
+    "summary": {
+      "fr": "Aggro rouge splash vert qui produit des jetons et les transforme en dégâts avec Atarka's Command et Become Immense.",
+      "en": "Red aggro splashing green that makes tokens and turns them into damage with Atarka's Command and Become Immense."
+    },
+    "why": {
+      "fr": [
+        "Atarka's Command transformait une armée de jetons en dégâts massifs",
+        "Il punissait les decks lents et les manabases douloureuses"
+      ],
+      "en": [
+        "Atarka's Command turned a wide board of tokens into a large burst of damage",
+        "It punished slow decks and painful mana bases"
+      ]
+    },
+    "note": "Rep = Martin Dang's Pro Tour Dragons of Tarkir winning list."
+  },
+  {
+    "name": "RG Aggro",
+    "slug": "rg-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "RG Aggro",
+      "Gruul Dragon"
+    ],
+    "cover": "Thunderbreak Regent",
+    "keyCards": [
+      "Goblin Rabblemaster",
+      "Thunderbreak Regent",
+      "Stormbreath Dragon",
+      "Boon Satyr",
+      "Crater's Claws"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert à courbe moyenne : Rabblemaster, Heir of the Wilds et Boon Satyr, puis dragons rouges et Crater's Claws.",
+      "en": "Red-green aggro on a mid-range curve: Rabblemaster, Heir of the Wilds and Boon Satyr, then red dragons and Crater's Claws."
+    },
+    "why": {
+      "fr": [
+        "Des menaces à chaque point de la courbe",
+        "Thunderbreak Regent rendait le removal ciblé coûteux"
+      ],
+      "en": [
+        "Threats at every point of the curve",
+        "Thunderbreak Regent made targeted removal costly"
+      ]
+    },
+    "note": "Small sample: SCG Invitational and SCG Richmond in March 2015."
+  },
+  {
+    "name": "Gruul Dragons",
+    "slug": "gruul-dragons",
+    "archetype": "ramp",
+    "titles": [
+      "Gruul Dragons",
+      "Gruul Aggro"
+    ],
+    "rep": 256255,
+    "cover": "Stormbreath Dragon",
+    "keyCards": [
+      "Stormbreath Dragon",
+      "Thunderbreak Regent",
+      "Dragonlord Atarka",
+      "Draconic Roar",
+      "Xenagos, the Reveler"
+    ],
+    "summary": {
+      "fr": "Ramp rouge-vert qui accélère avec Elvish Mystic et Sylvan Caryatid vers des dragons, de Thunderbreak Regent à Dragonlord Atarka.",
+      "en": "Red-green ramp accelerating with Elvish Mystic and Sylvan Caryatid into dragons, from Thunderbreak Regent to Dragonlord Atarka."
+    },
+    "why": {
+      "fr": [
+        "Stormbreath Dragon passait les blockers et la protection contre le blanc",
+        "Draconic Roar donnait du removal bonifié par les dragons"
+      ],
+      "en": [
+        "Stormbreath Dragon flew over blockers and dodged white removal",
+        "Draconic Roar gave removal with a dragon bonus"
+      ]
+    },
+    "note": "The 'Gruul Aggro' title on mtgtop8 mostly holds this ramp deck (best result is a ramp list); a few aggro lists under it are tolerated."
+  },
+  {
+    "name": "Gruul Monsters",
+    "slug": "gruul-monsters",
+    "archetype": "ramp",
+    "titles": [
+      "Gruul Monsters",
+      "Gruul Midrange"
+    ],
+    "cover": "Polukranos, World Eater",
+    "keyCards": [
+      "Polukranos, World Eater",
+      "Stormbreath Dragon",
+      "Xenagos, the Reveler",
+      "Courser of Kruphix",
+      "Crater's Claws"
+    ],
+    "summary": {
+      "fr": "Ramp rouge-vert du début de saison, héritier de l'ère Theros : accélération par créatures, Polukranos, Stormbreath Dragon et Xenagos.",
+      "en": "Early-season red-green ramp carried over from the Theros era: creature acceleration, Polukranos, Stormbreath Dragon and Xenagos."
+    },
+    "why": {
+      "fr": [
+        "Ses menaces étaient plus grosses que celles des decks midrange adverses",
+        "Crater's Claws servait de removal et de finisher"
+      ],
+      "en": [
+        "Its threats outsized those of rival midrange decks",
+        "Crater's Claws served as both removal and finisher"
+      ]
+    }
+  },
+  {
+    "name": "Naya Dragons",
+    "slug": "naya-dragons",
+    "archetype": "ramp",
+    "titles": [
+      "Naya Dragons"
+    ],
+    "cover": "Dragonlord Dromoka",
+    "keyCards": [
+      "Dragonlord Dromoka",
+      "Dragonlord Atarka",
+      "Whisperwood Elemental",
+      "Xenagos, the Reveler",
+      "Rattleclaw Mystic"
+    ],
+    "summary": {
+      "fr": "Ramp vert splash rouge et blanc qui vise Dragonlord Atarka et Dragonlord Dromoka après des accélérateurs de mana.",
+      "en": "Green ramp splashing red and white, aiming for Dragonlord Atarka and Dragonlord Dromoka after its mana accelerants."
+    },
+    "why": {
+      "fr": [
+        "Dromoka ne pouvait pas être contrée, un atout contre les decks Dragons",
+        "Atarka donnait du removal en arrivant en jeu"
+      ],
+      "en": [
+        "Dromoka could not be countered, an edge against Dragons control",
+        "Atarka provided removal on arrival"
+      ]
+    },
+    "note": "Single list (SCG Invitational Columbus win)."
+  },
+  {
+    "name": "Jeskai Tempo",
+    "slug": "jeskai-tempo",
+    "archetype": "tempo",
+    "titles": [
+      "Jeskai Tempo",
+      "Jeskai  Midrange",
+      "Jeskai Midrange",
+      "Jeskai Aggro"
+    ],
+    "cover": "Mantis Rider",
+    "keyCards": [
+      "Mantis Rider",
+      "Seeker of the Way",
+      "Goblin Rabblemaster",
+      "Jeskai Charm",
+      "Stoke the Flames"
+    ],
+    "summary": {
+      "fr": "Tempo blanc-bleu-rouge : créatures rapides et évasives, burn et Jeskai Charm, avec Dig Through Time dans les versions plus lentes.",
+      "en": "White-blue-red tempo: fast, evasive creatures, burn and Jeskai Charm, with Dig Through Time in the slower builds."
+    },
+    "why": {
+      "fr": [
+        "Mantis Rider frappait vite et contournait les blockers",
+        "Le burn servait de removal ou de dégâts directs selon la partie"
+      ],
+      "en": [
+        "Mantis Rider hit fast and got past blockers",
+        "Burn served as removal or reach depending on the game"
+      ]
+    },
+    "note": "Merged early Jeskai Tempo with the 2015 'Jeskai Midrange' (Soulfire Grand Master, Dig Through Time): same Mantis Rider/burn core."
+  },
+  {
+    "name": "Jeskai Tokens",
+    "slug": "jeskai-tokens",
+    "archetype": "aggro",
+    "titles": [
+      "Jeskai Token",
+      "Jeskai Tokens",
+      "JeskaiToken"
+    ],
+    "cover": "Jeskai Ascendancy",
+    "keyCards": [
+      "Jeskai Ascendancy",
+      "Raise the Alarm",
+      "Hordeling Outburst",
+      "Goblin Rabblemaster",
+      "Monastery Swiftspear"
+    ],
+    "summary": {
+      "fr": "Aggro tricolore qui produit des jetons et les gonfle avec Jeskai Ascendancy à chaque sort non-créature lancé.",
+      "en": "Three-colour aggro that makes tokens and pumps them with Jeskai Ascendancy on every noncreature spell."
+    },
+    "why": {
+      "fr": [
+        "Raise the Alarm et Hordeling Outburst occupaient le board pour peu de mana",
+        "Jeskai Ascendancy rendait chaque sort offensif"
+      ],
+      "en": [
+        "Raise the Alarm and Hordeling Outburst filled the board cheaply",
+        "Jeskai Ascendancy made every spell an attack"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Ascendancy Combo",
+    "slug": "jeskai-ascendancy-combo",
+    "archetype": "combo",
+    "titles": [
+      "Jeskai Ascendancy",
+      "Ascendancy Combo"
+    ],
+    "cover": "Jeskai Ascendancy",
+    "keyCards": [
+      "Jeskai Ascendancy",
+      "Retraction Helix",
+      "Sylvan Caryatid",
+      "Dragon Mantle",
+      "Briber's Purse"
+    ],
+    "summary": {
+      "fr": "Combo : avec Jeskai Ascendancy et des mana dorks en jeu, Retraction Helix et des artefacts gratuits en boucle génèrent mana et pioche illimités.",
+      "en": "Combo: with Jeskai Ascendancy and mana creatures out, Retraction Helix loops free artifacts for effectively unlimited mana and cards."
+    },
+    "why": {
+      "fr": [
+        "Il pouvait gagner d'un coup sans combat",
+        "Les decks midrange avaient peu d'interaction contre un enchantement"
+      ],
+      "en": [
+        "It could win in a single turn without combat",
+        "Midrange decks had little interaction for an enchantment"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Heroic",
+    "slug": "jeskai-heroic",
+    "archetype": "aggro",
+    "titles": [
+      "Jeskai Heroic"
+    ],
+    "cover": "Akroan Crusader",
+    "keyCards": [
+      "Jeskai Ascendancy",
+      "Favored Hoplite",
+      "Akroan Crusader",
+      "Gods Willing",
+      "Springleaf Drum"
+    ],
+    "summary": {
+      "fr": "Heroic tricolore : petites créatures heroic, sorts de protection bon marché et Jeskai Ascendancy pour multiplier les déclenchements.",
+      "en": "Three-colour heroic: small heroic creatures, cheap protection spells and Jeskai Ascendancy to stack triggers."
+    },
+    "why": {
+      "fr": [
+        "Gods Willing et Defiant Strike protégeaient les créatures tout en les gonflant",
+        "Il gagnait vite contre les decks lents"
+      ],
+      "en": [
+        "Gods Willing and Defiant Strike protected creatures while pumping them",
+        "It won quickly against slow decks"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": [
+      "Jeskai Control"
+    ],
+    "cover": "Prognostic Sphinx",
+    "keyCards": [
+      "Anger of the Gods",
+      "End Hostilities",
+      "Dissolve",
+      "Prognostic Sphinx",
+      "Nyx-Fleece Ram"
+    ],
+    "summary": {
+      "fr": "Contrôle tricolore à base de balayages, de contresorts et de burn, avec Prognostic Sphinx et Pearl Lake Ancient pour gagner.",
+      "en": "Three-colour control built on sweepers, counterspells and burn, with Prognostic Sphinx and Pearl Lake Ancient as finishers."
+    },
+    "why": {
+      "fr": [
+        "Anger of the Gods et End Hostilities nettoyaient le board des decks agressifs",
+        "Nyx-Fleece Ram ralentissait l'aggro rouge"
+      ],
+      "en": [
+        "Anger of the Gods and End Hostilities cleared the board against aggro",
+        "Nyx-Fleece Ram slowed down red aggro"
+      ]
+    },
+    "note": "Single list (Lars Dam, 2014 World Championship standings rank 4). Included under the Worlds top-4 rule; mtgtop8 'Day 2' event may be standings rather than a final top 4."
+  },
+  {
+    "name": "UW Heroic",
+    "slug": "uw-heroic",
+    "archetype": "aggro",
+    "titles": [
+      "Azorius Heroic",
+      "Bant Heroic"
+    ],
+    "cover": "Hero of Iroas",
+    "keyCards": [
+      "Hero of Iroas",
+      "Favored Hoplite",
+      "Gods Willing",
+      "Ordeal of Thassa",
+      "Defiant Strike"
+    ],
+    "summary": {
+      "fr": "Aggro blanc-bleu qui empile auras et sorts de protection sur des créatures heroic pour attaquer avec une seule grosse menace.",
+      "en": "White-blue aggro stacking auras and protection spells on heroic creatures to attack with one large threat."
+    },
+    "why": {
+      "fr": [
+        "Les sorts à un mana protégeaient contre le removal ciblé",
+        "Ordeal of Thassa et Hero of Iroas donnaient de l'avantage de cartes"
+      ],
+      "en": [
+        "One-mana spells protected against targeted removal",
+        "Ordeal of Thassa and Hero of Iroas generated card advantage"
+      ]
+    }
+  },
+  {
+    "name": "Bant Megamorph",
+    "slug": "bant-megamorph",
+    "archetype": "midrange",
+    "titles": [
+      "Bant Aggro",
+      "Bant Megamorph"
+    ],
+    "cover": "Deathmist Raptor",
+    "keyCards": [
+      "Deathmist Raptor",
+      "Den Protector",
+      "Fleecemane Lion",
+      "Dragonlord Ojutai",
+      "Dromoka's Command"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc splash bleu autour des créatures megamorph de Dragons of Tarkir, avec Dragonlord Ojutai en haut de courbe.",
+      "en": "Green-white midrange splashing blue, built around Dragons of Tarkir megamorph creatures with Dragonlord Ojutai at the top."
+    },
+    "why": {
+      "fr": [
+        "Den Protector et Deathmist Raptor rendaient de la valeur dans les parties longues",
+        "Dromoka's Command servait de removal et de réponse aux enchantements"
+      ],
+      "en": [
+        "Den Protector and Deathmist Raptor recurred value in long games",
+        "Dromoka's Command acted as removal and an answer to enchantments"
+      ]
+    }
+  },
+  {
+    "name": "GW Megamorph",
+    "slug": "gw-megamorph",
+    "archetype": "midrange",
+    "titles": [
+      "Selesnya Aggro"
+    ],
+    "cover": "Collected Company",
+    "keyCards": [
+      "Collected Company",
+      "Den Protector",
+      "Deathmist Raptor",
+      "Fleecemane Lion",
+      "Mastery of the Unseen"
+    ],
+    "summary": {
+      "fr": "Midrange vert-blanc à megamorph, accéléré par Collected Company à partir de Dragons of Tarkir.",
+      "en": "Green-white megamorph midrange, accelerated by Collected Company from Dragons of Tarkir onward."
+    },
+    "why": {
+      "fr": [
+        "Collected Company mettait deux créatures en jeu à vitesse instantanée",
+        "Deathmist Raptor revenait du cimetière à chaque créature retournée"
+      ],
+      "en": [
+        "Collected Company put two creatures into play at instant speed",
+        "Deathmist Raptor returned from the graveyard whenever a creature turned face up"
+      ]
+    }
+  },
+  {
+    "name": "Boros Aggro",
+    "slug": "boros-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Aggro",
+      "Boros Burn",
+      "Boros Midrange"
+    ],
+    "cover": "Goblin Rabblemaster",
+    "keyCards": [
+      "Goblin Rabblemaster",
+      "Seeker of the Way",
+      "Stormbreath Dragon",
+      "Hordeling Outburst",
+      "Chained to the Rocks"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc : jetons, Goblin Rabblemaster et Seeker of the Way, Chained to the Rocks en removal et Stormbreath Dragon pour finir.",
+      "en": "Red-white aggro: tokens, Goblin Rabblemaster and Seeker of the Way, Chained to the Rocks as removal and Stormbreath Dragon to finish."
+    },
+    "why": {
+      "fr": [
+        "Une manabase bicolore plus stable que celle des decks tricolores",
+        "Chained to the Rocks donnait un removal à un mana"
+      ],
+      "en": [
+        "A two-colour mana base more stable than the three-colour decks",
+        "Chained to the Rocks gave one-mana removal"
+      ]
+    }
+  },
+  {
+    "name": "Sultai Reanimator",
+    "slug": "sultai-reanimator",
+    "archetype": "midrange",
+    "titles": [
+      "Sultai Whip",
+      "Sultai  Whip",
+      "Sultai Reanimator",
+      "Sultai",
+      "Sultai Aggro"
+    ],
+    "cover": "Sidisi, Brood Tyrant",
+    "keyCards": [
+      "Sidisi, Brood Tyrant",
+      "Satyr Wayfinder",
+      "Whip of Erebos",
+      "Hornet Queen",
+      "Murderous Cut"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert-bleu qui remplit son cimetière avec Satyr Wayfinder et Sidisi, puis réanime les créatures avec Whip of Erebos.",
+      "en": "Black-green-blue midrange that fills its graveyard with Satyr Wayfinder and Sidisi, then reanimates creatures with Whip of Erebos."
+    },
+    "why": {
+      "fr": [
+        "Sidisi produisait des Zombies à chaque créature meulée",
+        "Le cimetière plein rendait Murderous Cut très bon marché"
+      ],
+      "en": [
+        "Sidisi made Zombies whenever a creature was milled",
+        "A full graveyard made Murderous Cut very cheap"
+      ]
+    },
+    "note": "Includes post-DTK 'Sultai Aggro' lists with Den Protector and Deathmist Raptor on the same self-mill shell."
+  },
+  {
+    "name": "Sultai Control",
+    "slug": "sultai-control",
+    "archetype": "control",
+    "titles": [
+      "Sultai Control"
+    ],
+    "cover": "Ugin, the Spirit Dragon",
+    "keyCards": [
+      "Ugin, the Spirit Dragon",
+      "Dig Through Time",
+      "Sultai Charm",
+      "Crux of Fate",
+      "Kiora, the Crashing Wave"
+    ],
+    "summary": {
+      "fr": "Contrôle noir-vert-bleu fondé sur le removal, Dig Through Time et des planeswalkers, avec Ugin pour nettoyer le board.",
+      "en": "Black-green-blue control relying on removal, Dig Through Time and planeswalkers, with Ugin to clear the board."
+    },
+    "why": {
+      "fr": [
+        "Satyr Wayfinder alimentait Dig Through Time et Treasure Cruise",
+        "Les planeswalkers multipliaient les menaces difficiles à gérer"
+      ],
+      "en": [
+        "Satyr Wayfinder fuelled Dig Through Time and Treasure Cruise",
+        "Planeswalkers added threats that were hard to answer"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Megamorph",
+    "slug": "golgari-megamorph",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari Aggro",
+      "Jund Megamorph"
+    ],
+    "cover": "Den Protector",
+    "keyCards": [
+      "Den Protector",
+      "Deathmist Raptor",
+      "Satyr Wayfinder",
+      "Whisperwood Elemental",
+      "Hero's Downfall"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert à megamorph : Satyr Wayfinder met Deathmist Raptor au cimetière, Den Protector récupère removal et menaces.",
+      "en": "Black-green megamorph midrange: Satyr Wayfinder bins Deathmist Raptor, Den Protector buys back removal and threats."
+    },
+    "why": {
+      "fr": [
+        "Deathmist Raptor revenait sans cesse du cimetière",
+        "Le removal noir couvrait les dragons adverses"
+      ],
+      "en": [
+        "Deathmist Raptor kept returning from the graveyard",
+        "Black removal covered opposing dragons"
+      ]
+    },
+    "note": "Merged an RPTQ-winning Golgari list with two MOCS Jund Megamorph lists (same Raptor/Den Protector/Wayfinder core, Jund adds Atarka and Xenagos)."
+  },
+  {
+    "name": "Mardu Midrange",
+    "slug": "mardu-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Mardu Midrange",
+      "Mardru Midrange",
+      "Mardu Control",
+      "Mardru Control"
+    ],
+    "cover": "Butcher of the Horde",
+    "keyCards": [
+      "Butcher of the Horde",
+      "Goblin Rabblemaster",
+      "Crackling Doom",
+      "Sarkhan, the Dragonspeaker",
+      "Hordeling Outburst"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-blanc-noir : jetons et Goblin Rabblemaster, removal comme Crackling Doom, puis Butcher of the Horde et planeswalkers.",
+      "en": "Red-white-black midrange: tokens and Goblin Rabblemaster, removal such as Crackling Doom, then Butcher of the Horde and planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Crackling Doom répondait aux grosses créatures comme Siege Rhino",
+        "Les jetons nourrissaient Butcher of the Horde"
+      ],
+      "en": [
+        "Crackling Doom answered large creatures such as Siege Rhino",
+        "Tokens fed Butcher of the Horde"
+      ]
+    },
+    "note": "'Mardu Control' lists are Rabblemaster/Seeker midrange with more removal; merged."
+  },
+  {
+    "name": "Mardu Aggro",
+    "slug": "mardu-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Aggro"
+    ],
+    "cover": "Soulfire Grand Master",
+    "keyCards": [
+      "Monastery Swiftspear",
+      "Goblin Rabblemaster",
+      "Soulfire Grand Master",
+      "Crackling Doom",
+      "Outpost Siege"
+    ],
+    "summary": {
+      "fr": "Aggro rouge splash blanc et noir : créatures bon marché, burn, Crackling Doom en removal et Outpost Siege pour l'avantage de cartes.",
+      "en": "Red aggro splashing white and black: cheap creatures, burn, Crackling Doom as removal and Outpost Siege for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Crackling Doom gérait les gros bloqueurs et les dragons",
+        "Outpost Siege prolongeait la pression"
+      ],
+      "en": [
+        "Crackling Doom handled large blockers and dragons",
+        "Outpost Siege sustained the pressure"
+      ]
+    }
+  },
+  {
+    "name": "Temur Aggro",
+    "slug": "temur-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Temur Aggro"
+    ],
+    "cover": "Savage Knuckleblade",
+    "keyCards": [
+      "Savage Knuckleblade",
+      "Stormbreath Dragon",
+      "Thunderbreak Regent",
+      "Crater's Claws",
+      "Stubborn Denial"
+    ],
+    "summary": {
+      "fr": "Aggro-midrange rouge-vert-bleu : Savage Knuckleblade, dragons rouges et Crater's Claws, avec Stubborn Denial pour protéger.",
+      "en": "Red-green-blue aggro-midrange: Savage Knuckleblade, red dragons and Crater's Claws, with Stubborn Denial for protection."
+    },
+    "why": {
+      "fr": [
+        "Des créatures efficaces pour leur coût",
+        "Stubborn Denial protégeait les menaces contre le removal"
+      ],
+      "en": [
+        "Creatures that were efficient for their cost",
+        "Stubborn Denial protected threats from removal"
+      ]
+    }
+  },
+  {
+    "name": "UR Artifacts",
+    "slug": "ur-artifacts",
+    "archetype": "aggro",
+    "titles": [
+      "UR Artifacts",
+      "URArtifacts",
+      "UR Scissors"
+    ],
+    "rep": 258503,
+    "cover": "Ensoul Artifact",
+    "keyCards": [
+      "Ensoul Artifact",
+      "Hangarback Walker",
+      "Shrapnel Blast",
+      "Ghostfire Blade",
+      "Chief of the Foundry"
+    ],
+    "summary": {
+      "fr": "Aggro artefacts bleu-rouge : Ensoul Artifact sur Darksteel Citadel ou Ornithopter, Hangarback Walker et Shrapnel Blast en finisher.",
+      "en": "Blue-red artifact aggro: Ensoul Artifact on Darksteel Citadel or Ornithopter, Hangarback Walker and Shrapnel Blast as a finisher."
+    },
+    "why": {
+      "fr": [
+        "Ensoul Artifact créait une menace de 5/5 dès le deuxième tour",
+        "Hangarback Walker résistait au removal et aux balayages"
+      ],
+      "en": [
+        "Ensoul Artifact created a 5/5 threat on turn two",
+        "Hangarback Walker shrugged off removal and sweepers"
+      ]
+    },
+    "note": "Rep = Mike Sigrist's Pro Tour Magic Origins finalist list."
+  },
+  {
+    "name": "UR Tutelage",
+    "slug": "ur-tutelage",
+    "archetype": "control",
+    "titles": [
+      "UR Control",
+      "UR Mill"
+    ],
+    "cover": "Sphinx's Tutelage",
+    "keyCards": [
+      "Sphinx's Tutelage",
+      "Jace, Vryn's Prodigy",
+      "Anger of the Gods",
+      "Magmatic Insight",
+      "Treasure Cruise"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge qui meule l'adversaire avec Sphinx's Tutelage en piochant beaucoup, protégé par des balayages et du tempo.",
+      "en": "Blue-red control that mills the opponent with Sphinx's Tutelage while drawing many cards, protected by sweepers and tempo spells."
+    },
+    "why": {
+      "fr": [
+        "Les decks midrange avaient peu de réponses aux enchantements",
+        "Anger of the Gods et Whelming Wave ralentissaient les decks de créatures"
+      ],
+      "en": [
+        "Midrange decks carried few answers to enchantments",
+        "Anger of the Gods and Whelming Wave slowed creature decks"
+      ]
+    },
+    "note": "Rep = Michael Majors' Grand Prix San Diego winning list."
+  },
+  {
+    "name": "Rakdos Dragons",
+    "slug": "rakdos-dragons",
+    "archetype": "midrange",
+    "titles": [
+      "Black-Red Dragons",
+      "Rakdos Control",
+      "Rakdos Midrange",
+      "Rakdos Aggro",
+      "Rakdos Dragons"
+    ],
+    "cover": "Kolaghan, the Storm's Fury",
+    "keyCards": [
+      "Thunderbreak Regent",
+      "Stormbreath Dragon",
+      "Kolaghan's Command",
+      "Draconic Roar",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Midrange noir-rouge : removal et discard, puis Thunderbreak Regent, Stormbreath Dragon et Kolaghan pour fermer la partie.",
+      "en": "Black-red midrange: removal and discard, then Thunderbreak Regent, Stormbreath Dragon and Kolaghan to close the game."
+    },
+    "why": {
+      "fr": [
+        "Draconic Roar et Kolaghan's Command étaient bonifiés par les dragons",
+        "Une manabase bicolore dans un format tricolore"
+      ],
+      "en": [
+        "Draconic Roar and Kolaghan's Command gained value from dragons",
+        "A two-colour mana base in a three-colour format"
+      ]
+    },
+    "note": "Rep = Grand Prix Prague winning list."
+  },
+  {
+    "name": "Jund Soulflayer",
+    "slug": "jund-soulflayer",
+    "archetype": "combo",
+    "titles": [
+      "Jund",
+      "Chromanticore"
+    ],
+    "cover": "Soulflayer",
+    "keyCards": [
+      "Soulflayer",
+      "Chromanticore",
+      "Satyr Wayfinder",
+      "Commune with the Gods",
+      "Sagu Mauler"
+    ],
+    "summary": {
+      "fr": "Deck cimetière qui défausse ou meule Chromanticore et Sagu Mauler, puis lance Soulflayer pour lui donner toutes leurs capacités.",
+      "en": "Graveyard deck that mills or discards Chromanticore and Sagu Mauler, then delves them into Soulflayer to grant their abilities."
+    },
+    "why": {
+      "fr": [
+        "Soulflayer pouvait devenir une menace volante, avec hexproof et lien de vie",
+        "Peu de decks jouaient de la haine de cimetière en main"
+      ],
+      "en": [
+        "Soulflayer could become a flying, hexproof, lifelinking threat",
+        "Few decks maindecked graveyard hate"
+      ]
+    },
+    "note": "The 'Jund' title also holds an early-season Jund Monsters list (SCG Indianapolis 5-8). Rep = RPTQ Lenexa winning list."
+  },
+  {
+    "name": "Mono-White Aggro",
+    "slug": "mono-white-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White"
+    ],
+    "cover": "Archangel of Tithes",
+    "keyCards": [
+      "Archangel of Tithes",
+      "Wingmate Roc",
+      "Brimaz, King of Oreskos",
+      "Mastery of the Unseen",
+      "Nykthos, Shrine to Nyx"
+    ],
+    "summary": {
+      "fr": "Aggro mono-blanc à base de petites créatures, Brimaz et Wingmate Roc, avec Nykthos pour alimenter Mastery of the Unseen.",
+      "en": "Mono-white aggro with small creatures, Brimaz and Wingmate Roc, using Nykthos to fuel Mastery of the Unseen."
+    },
+    "why": {
+      "fr": [
+        "Une manabase parfaite dans un format de decks tricolores",
+        "Archangel of Tithes taxait les attaques et les blocages adverses"
+      ],
+      "en": [
+        "A perfect mana base in a format of three-colour decks",
+        "Archangel of Tithes taxed opposing attacks and blocks"
+      ]
+    },
+    "note": "Included via Samuel Black's 2015 World Championship top 4."
+  },
+  {
+    "name": "Abzan Rally",
+    "slug": "abzan-rally",
+    "archetype": "combo",
+    "titles": [
+      "Abzan Rally"
+    ],
+    "cover": "Rally the Ancestors",
+    "keyCards": [
+      "Rally the Ancestors",
+      "Collected Company",
+      "Nantuko Husk",
+      "Grim Haruspex",
+      "Liliana, Heretical Healer"
+    ],
+    "summary": {
+      "fr": "Combo cimetière : sacrifie ses créatures pour piocher, puis Rally the Ancestors les ramène toutes pour un tour final avec Nantuko Husk.",
+      "en": "Graveyard combo: sacrifices creatures to draw cards, then Rally the Ancestors returns them all for a final turn with Nantuko Husk."
+    },
+    "why": {
+      "fr": [
+        "Collected Company assemblait les pièces à vitesse instantanée",
+        "Le combo contournait les plans midrange basés sur le combat"
+      ],
+      "en": [
+        "Collected Company assembled pieces at instant speed",
+        "The combo sidestepped combat-based midrange plans"
+      ]
+    }
+  }
+]

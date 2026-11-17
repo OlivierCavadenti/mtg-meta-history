@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Psychatog",
+    "slug": "psychatog",
+    "archetype": "control",
+    "titles": [
+      "Psychatog",
+      "Bug Psychatog",
+      "Frog in a Blender",
+      "BUG Tog with Pernicious"
+    ],
+    "rep": 253051,
+    "cover": "Psychatog",
+    "keyCards": [
+      "Psychatog",
+      "Upheaval",
+      "Cunning Wish",
+      "Fact or Fiction",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir qui contre, pioche et remplit son cimetière avant de conclure avec un Psychatog géant, souvent après un Upheaval.",
+      "en": "Blue-black control that counters, draws and fills its graveyard, then wins with a huge Psychatog, often after Upheaval."
+    },
+    "why": {
+      "fr": [
+        "Psychatog transformait cartes en main et cimetière en dégâts massifs",
+        "Fact or Fiction et Deep Analysis assuraient un avantage de cartes constant",
+        "Upheaval suivi de Nightscape Familiar permettait de reprendre la partie d'avance"
+      ],
+      "en": [
+        "Psychatog turned cards in hand and graveyard into lethal damage",
+        "Fact or Fiction and Deep Analysis gave steady card advantage",
+        "Upheaval plus Nightscape Familiar let it replay its hand a turn ahead"
+      ]
+    },
+    "note": "Bug Psychatog (Pernicious Deed splash), Frog in a Blender and BUG Tog with Pernicious (lists unavailable) merged here."
+  },
+  {
+    "name": "Burning Tog",
+    "slug": "burning-tog",
+    "archetype": "control",
+    "titles": [
+      "Burning Tog",
+      "BurningTog",
+      "Red Psychatog",
+      "3 Color Psychatog"
+    ],
+    "cover": "Burning Wish",
+    "keyCards": [
+      "Psychatog",
+      "Burning Wish",
+      "Fire/Ice",
+      "Flametongue Kavu",
+      "Nightscape Familiar"
+    ],
+    "summary": {
+      "fr": "Variante bleu-noir-rouge de Psychatog qui ajoute Fire/Ice, Flametongue Kavu et Burning Wish pour aller chercher des sorts dans le sideboard.",
+      "en": "Blue-black-red Psychatog variant adding Fire/Ice, Flametongue Kavu and Burning Wish to fetch spells from the sideboard."
+    },
+    "why": {
+      "fr": [
+        "Le rouge apportait du retrait de créatures contre les decks aggro",
+        "Burning Wish donnait accès à des réponses ciblées du sideboard",
+        "Nightscape Familiar réduisait le coût des sorts bleus et rouges"
+      ],
+      "en": [
+        "Red added creature removal against aggro decks",
+        "Burning Wish gave access to targeted sideboard answers",
+        "Nightscape Familiar cut the cost of blue and red spells"
+      ]
+    }
+  },
+  {
+    "name": "UG Madness",
+    "slug": "ug-madness",
+    "archetype": "tempo",
+    "titles": [
+      "UG Madness",
+      "UGw Madness",
+      "UGr Madness",
+      "RUG Madness",
+      "Rug Madness"
+    ],
+    "rep": 258614,
+    "cover": "Wild Mongrel",
+    "keyCards": [
+      "Wild Mongrel",
+      "Arrogant Wurm",
+      "Basking Rootwalla",
+      "Merfolk Looter",
+      "Circular Logic"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert qui défausse ses cartes avec Wild Mongrel et Merfolk Looter pour lancer Arrogant Wurm et Basking Rootwalla à prix réduit.",
+      "en": "Blue-green tempo that discards cards to Wild Mongrel and Merfolk Looter to cast Arrogant Wurm and Basking Rootwalla cheaply."
+    },
+    "why": {
+      "fr": [
+        "La mécanique madness permettait des tours très efficaces en mana",
+        "Circular Logic et Aether Burst protégeaient une pression rapide",
+        "Des variantes à touche rouge ajoutaient Fire/Ice et Flametongue Kavu"
+      ],
+      "en": [
+        "Madness produced highly mana-efficient turns",
+        "Circular Logic and Aether Burst protected early pressure",
+        "Red-splash versions added Fire/Ice and Flametongue Kavu"
+      ]
+    },
+    "note": "Red-splash versions (RUG/UGr Madness) merged: same madness core."
+  },
+  {
+    "name": "Squirrel Opposition",
+    "slug": "squirrel-opposition",
+    "archetype": "control",
+    "titles": [
+      "Squirrel Opposition UGr",
+      "Squirrel Oppo",
+      "Squirrel Opposition",
+      "Squirrel oppo UGr"
+    ],
+    "cover": "Opposition",
+    "keyCards": [
+      "Opposition",
+      "Squirrel Nest",
+      "Wild Mongrel",
+      "Deep Analysis",
+      "Circular Logic"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert qui utilise les jetons Squirrel et Opposition pour engager les terrains et créatures adverses à chaque tour.",
+      "en": "Blue-green control that taps Squirrel tokens with Opposition to lock down the opponent's lands and creatures each turn."
+    },
+    "why": {
+      "fr": [
+        "Squirrel Nest fournissait un jeton par tour pour alimenter Opposition",
+        "Le verrou empêchait l'adversaire de lancer ses sorts",
+        "La base madness fournissait des créatures efficaces avant le verrou"
+      ],
+      "en": [
+        "Squirrel Nest supplied a token every turn to fuel Opposition",
+        "The lock stopped opponents from casting spells",
+        "A madness creature base gave it early pressure before the lock"
+      ]
+    }
+  },
+  {
+    "name": "RG Beats",
+    "slug": "rg-beats",
+    "archetype": "aggro",
+    "titles": [
+      "RG Beats"
+    ],
+    "cover": "Call of the Herd",
+    "keyCards": [
+      "Call of the Herd",
+      "Flametongue Kavu",
+      "Kavu Titan",
+      "Firebolt",
+      "Wild Mongrel"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert à base de créatures efficaces et de sorts à flashback, avec Flametongue Kavu pour dégager le terrain.",
+      "en": "Red-green aggro built on efficient creatures and flashback spells, with Flametongue Kavu clearing blockers."
+    },
+    "why": {
+      "fr": [
+        "Call of the Herd et Firebolt offraient deux utilisations par carte",
+        "Flametongue Kavu combinait créature et retrait",
+        "Llanowar Elves accélérait les menaces dès le premier tour"
+      ],
+      "en": [
+        "Call of the Herd and Firebolt gave two uses per card",
+        "Flametongue Kavu combined a body with removal",
+        "Llanowar Elves sped out threats from turn one"
+      ]
+    }
+  },
+  {
+    "name": "RG Madness",
+    "slug": "rg-madness",
+    "archetype": "aggro",
+    "titles": [
+      "RG Madness",
+      "RG Flashback"
+    ],
+    "rep": 601649,
+    "cover": "Grim Lavamancer",
+    "keyCards": [
+      "Wild Mongrel",
+      "Basking Rootwalla",
+      "Grim Lavamancer",
+      "Fiery Temper",
+      "Call of the Herd"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert qui exploite madness et flashback avec Wild Mongrel, Fiery Temper et Grim Lavamancer.",
+      "en": "Red-green aggro that uses madness and flashback through Wild Mongrel, Fiery Temper and Grim Lavamancer."
+    },
+    "why": {
+      "fr": [
+        "Wild Mongrel servait d'outil de défausse pour Fiery Temper et Rootwalla",
+        "Grim Lavamancer recyclait le cimetière en dégâts directs",
+        "Meteor Storm donnait une fin de partie contre le contrôle"
+      ],
+      "en": [
+        "Wild Mongrel discarded into Fiery Temper and Rootwalla",
+        "Grim Lavamancer turned the graveyard into direct damage",
+        "Meteor Storm gave a late game against control"
+      ]
+    }
+  },
+  {
+    "name": "Goblin Trenches",
+    "slug": "goblin-trenches",
+    "archetype": "control",
+    "titles": [
+      "Trenches",
+      "Goblin Trenches",
+      "Goblin Trenches Control",
+      "Goblin Trenches Aggro"
+    ],
+    "cover": "Goblin Trenches",
+    "keyCards": [
+      "Goblin Trenches",
+      "Absorb",
+      "Fact or Fiction",
+      "Fire/Ice",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc-rouge qui contre et retire les menaces, puis transforme ses terrains en Goblins avec Goblin Trenches.",
+      "en": "Blue-white-red control that counters and removes threats, then turns spare lands into Goblins with Goblin Trenches."
+    },
+    "why": {
+      "fr": [
+        "Absorb et Counterspell gagnaient du temps contre les decks rapides",
+        "Goblin Trenches offrait une condition de victoire difficile à contrer",
+        "Fire/Ice et Wrath of God couvraient les créatures adverses"
+      ],
+      "en": [
+        "Absorb and Counterspell bought time against fast decks",
+        "Goblin Trenches was a win condition that was hard to answer",
+        "Fire/Ice and Wrath of God handled opposing creatures"
+      ]
+    },
+    "note": "Goblin Trenches Aggro (Meddling Mage, Lightning Angel) merged as a more aggressive variant."
+  },
+  {
+    "name": "UG Threshold",
+    "slug": "ug-threshold",
+    "archetype": "tempo",
+    "titles": [
+      "UG Threshold",
+      "UGr Threshold"
+    ],
+    "cover": "Werebear",
+    "keyCards": [
+      "Werebear",
+      "Wild Mongrel",
+      "Roar of the Wurm",
+      "Careful Study",
+      "Wonder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert qui remplit rapidement son cimetière pour activer le seuil de Werebear et la capacité de Wonder.",
+      "en": "Blue-green tempo that fills its graveyard quickly to turn on Werebear's threshold and Wonder's ability."
+    },
+    "why": {
+      "fr": [
+        "Careful Study et Deep Analysis atteignaient le seuil en peu de tours",
+        "Wonder dans le cimetière donnait le vol aux créatures",
+        "Les contresorts protégeaient des menaces peu coûteuses"
+      ],
+      "en": [
+        "Careful Study and Deep Analysis reached threshold in few turns",
+        "Wonder in the graveyard gave its creatures flying",
+        "Counterspells protected cheap threats"
+      ]
+    }
+  },
+  {
+    "name": "Hunting Grounds",
+    "slug": "hunting-grounds",
+    "archetype": "control",
+    "titles": [
+      "Hunting Grounds"
+    ],
+    "cover": "Hunting Grounds",
+    "keyCards": [
+      "Hunting Grounds",
+      "Mystic Snake",
+      "Absorb",
+      "Living Wish",
+      "Genesis"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert-blanc qui, une fois le seuil atteint, met des créatures en jeu gratuitement grâce à Hunting Grounds.",
+      "en": "Blue-green-white control that, once at threshold, puts creatures onto the battlefield for free with Hunting Grounds."
+    },
+    "why": {
+      "fr": [
+        "Hunting Grounds lançait Mystic Snake et Genesis sans payer leur coût",
+        "Absorb, Counterspell et Wrath of God couvraient le début de partie",
+        "Living Wish allait chercher les créatures du sideboard"
+      ],
+      "en": [
+        "Hunting Grounds put Mystic Snake and Genesis into play for free",
+        "Absorb, Counterspell and Wrath of God covered the early game",
+        "Living Wish fetched creatures from the sideboard"
+      ]
+    }
+  },
+  {
+    "name": "Enforcer Control",
+    "slug": "enforcer-control",
+    "archetype": "control",
+    "titles": [
+      "Enforcer Control"
+    ],
+    "cover": "Mystic Enforcer",
+    "keyCards": [
+      "Mystic Enforcer",
+      "Absorb",
+      "Fact or Fiction",
+      "Wrath of God",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc à touche verte qui s'appuie sur les contresorts et Fact or Fiction, puis gagne avec Mystic Enforcer.",
+      "en": "Blue-white control splashing green that relies on counters and Fact or Fiction, then wins with Mystic Enforcer."
+    },
+    "why": {
+      "fr": [
+        "Mystic Enforcer devenait une menace volante avec le seuil",
+        "Le paquet de contresorts répondait aux sorts adverses",
+        "Wrath of God et Repulse ralentissaient les decks de créatures"
+      ],
+      "en": [
+        "Mystic Enforcer became a flying threat at threshold",
+        "A dense counterspell suite answered opposing spells",
+        "Wrath of God and Repulse slowed creature decks"
+      ]
+    }
+  },
+  {
+    "name": "BW Braids",
+    "slug": "bw-braids",
+    "archetype": "midrange",
+    "titles": [
+      "White Braids",
+      "BW Braids"
+    ],
+    "cover": "Braids, Cabal Minion",
+    "keyCards": [
+      "Braids, Cabal Minion",
+      "Nantuko Shade",
+      "Phyrexian Rager",
+      "Vindicate",
+      "Chainer's Edict"
+    ],
+    "summary": {
+      "fr": "Midrange noir à touche blanche qui use l'adversaire avec Braids, Cabal Minion et des créatures qui se recyclent depuis le cimetière.",
+      "en": "Black midrange splashing white that grinds opponents with Braids, Cabal Minion and creatures that recur from the graveyard."
+    },
+    "why": {
+      "fr": [
+        "Braids forçait l'adversaire à sacrifier un permanent chaque tour",
+        "Ichorid et Shambling Swarm nourrissaient Braids à moindre coût",
+        "Vindicate et Chainer's Edict retiraient les menaces adverses"
+      ],
+      "en": [
+        "Braids forced opponents to sacrifice a permanent every turn",
+        "Ichorid and Shambling Swarm fed Braids at low cost",
+        "Vindicate and Chainer's Edict removed opposing threats"
+      ]
+    }
+  },
+  {
+    "name": "Four-Color Braids",
+    "slug": "four-color-braids",
+    "archetype": "midrange",
+    "titles": [
+      "4 Color Braids"
+    ],
+    "cover": "Braids, Cabal Minion",
+    "keyCards": [
+      "Braids, Cabal Minion",
+      "Mesmeric Fiend",
+      "Flametongue Kavu",
+      "Call of the Herd",
+      "Blazing Specter"
+    ],
+    "summary": {
+      "fr": "Midrange multicolore qui accélère avec Birds of Paradise et Llanowar Elves vers Braids, Blazing Specter et des créatures à valeur.",
+      "en": "Multicolour midrange that ramps with Birds of Paradise and Llanowar Elves into Braids, Blazing Specter and value creatures."
+    },
+    "why": {
+      "fr": [
+        "Les elfes et Birds of Paradise permettaient un Braids rapide",
+        "Flametongue Kavu et Firebolt retiraient les bloqueurs",
+        "Mesmeric Fiend perturbait la main adverse"
+      ],
+      "en": [
+        "Mana creatures enabled an early Braids",
+        "Flametongue Kavu and Firebolt removed blockers",
+        "Mesmeric Fiend disrupted the opponent's hand"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Black Control",
+    "slug": "mono-black-control",
+    "archetype": "control",
+    "titles": [
+      "Mono-black Control"
+    ],
+    "cover": "Corrupt",
+    "keyCards": [
+      "Corrupt",
+      "Cabal Coffers",
+      "Mutilate",
+      "Phyrexian Arena",
+      "Haunting Echoes"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-noir qui exploite Cabal Coffers pour des Corrupt et Soul Burn massifs, avec Mutilate pour balayer le terrain.",
+      "en": "Mono-black control that uses Cabal Coffers for large Corrupt and Soul Burn, with Mutilate as a sweeper."
+    },
+    "why": {
+      "fr": [
+        "Cabal Coffers et les Swamp produisaient beaucoup de mana noir",
+        "Mutilate et Innocent Blood géraient les decks de créatures",
+        "Phyrexian Arena fournissait un avantage de cartes durable"
+      ],
+      "en": [
+        "Cabal Coffers and Swamps produced large amounts of black mana",
+        "Mutilate and Innocent Blood handled creature decks",
+        "Phyrexian Arena provided lasting card advantage"
+      ]
+    }
+  },
+  {
+    "name": "Battle of Wits",
+    "slug": "battle-of-wits",
+    "archetype": "control",
+    "titles": [
+      "Battle of Wits"
+    ],
+    "cover": "Battle of Wits",
+    "keyCards": [
+      "Battle of Wits",
+      "Diabolic Tutor",
+      "Fact or Fiction",
+      "Counterspell",
+      "Absorb"
+    ],
+    "summary": {
+      "fr": "Contrôle multicolore de plus de 200 cartes qui cherche Battle of Wits avec Diabolic Tutor pour gagner à l'entretien.",
+      "en": "Multicolour control deck of over 200 cards that tutors for Battle of Wits to win during upkeep."
+    },
+    "why": {
+      "fr": [
+        "Le paquet surdimensionné remplissait la condition de Battle of Wits",
+        "Diabolic Tutor et Tainted Pact allaient chercher la carte maîtresse",
+        "Les contresorts protégeaient la condition de victoire"
+      ],
+      "en": [
+        "The oversized deck met Battle of Wits' condition",
+        "Diabolic Tutor and Tainted Pact found the win condition",
+        "Counterspells protected the win condition"
+      ]
+    }
+  },
+  {
+    "name": "Balancing Tings",
+    "slug": "balancing-tings",
+    "archetype": "control",
+    "titles": [
+      "Balancing Tings"
+    ],
+    "cover": "Balancing Act",
+    "keyCards": [
+      "Balancing Act",
+      "Terravore",
+      "Nimble Mongoose",
+      "Obliterate",
+      "Orim's Chant"
+    ],
+    "summary": {
+      "fr": "Deck de destruction de terrains qui joue Balancing Act et Obliterate puis gagne avec Terravore, nourri par les terrains au cimetière.",
+      "en": "Land destruction deck that plays Balancing Act and Obliterate, then wins with Terravore fed by lands in graveyards."
+    },
+    "why": {
+      "fr": [
+        "Balancing Act et Obliterate réinitialisaient la partie à son avantage",
+        "Terravore grandissait avec chaque terrain détruit",
+        "Orim's Chant protégeait les tours clés contre les contresorts"
+      ],
+      "en": [
+        "Balancing Act and Obliterate reset the game in its favour",
+        "Terravore grew with each land destroyed",
+        "Orim's Chant protected key turns from counterspells"
+      ]
+    }
+  }
+]

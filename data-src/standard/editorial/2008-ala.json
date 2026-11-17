@@ -1,0 +1,536 @@
+[
+  {
+    "name": "Faeries",
+    "slug": "faeries",
+    "archetype": "tempo",
+    "titles": [
+      "Faeries",
+      "Ubr Faeries"
+    ],
+    "rep": 132884,
+    "cover": "Mistbind Clique",
+    "keyCards": [
+      "Bitterblossom",
+      "Spellstutter Sprite",
+      "Mistbind Clique",
+      "Cryptic Command",
+      "Agony Warp"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir à flash hérité de Lorwyn : jetons de Bitterblossom, Spellstutter Sprite et Mistbind Clique au tour adverse.",
+      "en": "Blue-black flash tempo carried over from Lorwyn: Bitterblossom tokens, Spellstutter Sprite and Mistbind Clique on the opponent's turn."
+    },
+    "why": {
+      "fr": [
+        "Bitterblossom imposait une horloge volante dès les premiers tours",
+        "Agony Warp et Thoughtseize ajoutaient de l'interaction à bas coût"
+      ],
+      "en": [
+        "Bitterblossom set up a flying clock from the early turns",
+        "Agony Warp and Thoughtseize added cheap interaction"
+      ]
+    }
+  },
+  {
+    "name": "Cascade Swans",
+    "slug": "cascade-swans",
+    "archetype": "combo",
+    "titles": [
+      "Cascade Swans"
+    ],
+    "cover": "Seismic Assault",
+    "keyCards": [
+      "Seismic Assault",
+      "Swans of Bryn Argoll",
+      "Bloodbraid Elf",
+      "Ad Nauseam",
+      "Captured Sunlight"
+    ],
+    "summary": {
+      "fr": "Combo Seismic Assault et Swans of Bryn Argoll, avec des sorts à cascade sans cible qui protègent la mise en place.",
+      "en": "Seismic Assault and Swans of Bryn Argoll combo, with cascade spells that dodge whiffs and protect the setup."
+    },
+    "why": {
+      "fr": [
+        "Avec peu de cartes chères, la cascade touchait presque toujours une pièce utile",
+        "Seismic Assault servait aussi de removal sur les créatures adverses"
+      ],
+      "en": [
+        "With few expensive cards, cascade nearly always hit something useful",
+        "Seismic Assault also acted as removal against creatures"
+      ]
+    }
+  },
+  {
+    "name": "Kithkin",
+    "slug": "kithkin",
+    "archetype": "aggro",
+    "titles": [
+      "Kithkins",
+      "Zealous Kithkins",
+      "WR Kithkins"
+    ],
+    "rep": 148107,
+    "cover": "Cloudgoat Ranger",
+    "keyCards": [
+      "Figure of Destiny",
+      "Knight of Meadowgrain",
+      "Spectral Procession",
+      "Cloudgoat Ranger",
+      "Glorious Anthem"
+    ],
+    "summary": {
+      "fr": "White Weenie à base de Kithkin et de jetons : petites créatures efficaces, Glorious Anthem et Windbrisk Heights.",
+      "en": "Kithkin and token White Weenie: efficient small creatures, Glorious Anthem and Windbrisk Heights."
+    },
+    "why": {
+      "fr": [
+        "Spectral Procession et Cloudgoat Ranger mettaient plusieurs corps en jeu",
+        "Les anthems rendaient les jetons menaçants"
+      ],
+      "en": [
+        "Spectral Procession and Cloudgoat Ranger put several bodies into play",
+        "Anthem effects made the tokens a real threat"
+      ]
+    }
+  },
+  {
+    "name": "BW Tokens",
+    "slug": "bw-tokens",
+    "archetype": "midrange",
+    "titles": [
+      "BW Tokens",
+      "BW Persist",
+      "WB Tokens"
+    ],
+    "cover": "Spectral Procession",
+    "keyCards": [
+      "Bitterblossom",
+      "Spectral Procession",
+      "Tidehollow Sculler",
+      "Glorious Anthem",
+      "Ajani Goldmane"
+    ],
+    "summary": {
+      "fr": "Midrange blanc-noir à jetons : Bitterblossom et Spectral Procession, renforcés par Glorious Anthem et Ajani Goldmane.",
+      "en": "White-black token midrange: Bitterblossom and Spectral Procession, pumped by Glorious Anthem and Ajani Goldmane."
+    },
+    "why": {
+      "fr": [
+        "Les volants en grand nombre passaient au-dessus des decks midrange",
+        "Tidehollow Sculler et Kitchen Finks ajoutaient discard et résistance"
+      ],
+      "en": [
+        "A wide board of fliers went over midrange decks",
+        "Tidehollow Sculler and Kitchen Finks added disruption and resilience"
+      ]
+    }
+  },
+  {
+    "name": "RB Blightning",
+    "slug": "rb-blightning",
+    "archetype": "aggro",
+    "titles": [
+      "Blightning",
+      "Boddy Red",
+      "RB Sauce"
+    ],
+    "cover": "Blightning",
+    "keyCards": [
+      "Blightning",
+      "Demigod of Revenge",
+      "Anathemancer",
+      "Hellspark Elemental",
+      "Figure of Destiny"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-noir : burn, créatures rapides et Blightning, avec Anathemancer contre les manabases à plusieurs couleurs.",
+      "en": "Red-black aggro: burn, fast creatures and Blightning, with Anathemancer against multicolour mana bases."
+    },
+    "why": {
+      "fr": [
+        "Blightning infligeait dégâts et défausse en une carte",
+        "Anathemancer et Volcanic Fallout punissaient les decks cinq couleurs"
+      ],
+      "en": [
+        "Blightning dealt damage and forced discard in one card",
+        "Anathemancer and Volcanic Fallout punished five-colour decks"
+      ]
+    },
+    "note": "RB Sauce (Worlds 2008, Bitterblossom/Siege-Gang) merged as an earlier RB build."
+  },
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Aggro",
+      "5C Blood",
+      "Jund Blood"
+    ],
+    "cover": "Bloodbraid Elf",
+    "keyCards": [
+      "Bloodbraid Elf",
+      "Putrid Leech",
+      "Boggart Ram-Gang",
+      "Maelstrom Pulse",
+      "Jund Charm"
+    ],
+    "summary": {
+      "fr": "Midrange Jund d'Alara Reborn : créatures efficaces, cascade de Bloodbraid Elf et removal polyvalent.",
+      "en": "Alara Reborn Jund midrange: efficient creatures, Bloodbraid Elf cascade and flexible removal."
+    },
+    "why": {
+      "fr": [
+        "Bloodbraid Elf donnait deux cartes pour une",
+        "Maelstrom Pulse et Jund Charm répondaient à presque tout"
+      ],
+      "en": [
+        "Bloodbraid Elf delivered two cards for one",
+        "Maelstrom Pulse and Jund Charm answered almost anything"
+      ]
+    },
+    "note": "5C Blood (Jund splashing blue for Cryptic Command) merged."
+  },
+  {
+    "name": "Doran",
+    "slug": "doran",
+    "archetype": "midrange",
+    "titles": [
+      "Doran"
+    ],
+    "cover": "Doran, the Siege Tower",
+    "keyCards": [
+      "Doran, the Siege Tower",
+      "Treefolk Harbinger",
+      "Wilt-Leaf Liege",
+      "Noble Hierarch",
+      "Knotvine Paladin"
+    ],
+    "summary": {
+      "fr": "Midrange Junk à base de Treefolk : Doran, the Siege Tower fait frapper les créatures avec leur endurance.",
+      "en": "Junk Treefolk midrange: Doran, the Siege Tower makes creatures deal combat damage equal to their toughness."
+    },
+    "why": {
+      "fr": [
+        "Treefolk Harbinger allait chercher Doran ou Murmuring Bosk",
+        "Path to Exile et Maelstrom Pulse complétaient un removal efficace"
+      ],
+      "en": [
+        "Treefolk Harbinger fetched Doran or Murmuring Bosk",
+        "Path to Exile and Maelstrom Pulse provided efficient removal"
+      ]
+    }
+  },
+  {
+    "name": "Dark Exalted",
+    "slug": "dark-exalted",
+    "archetype": "midrange",
+    "titles": [
+      "Dark Exalted"
+    ],
+    "cover": "Rafiq of the Many",
+    "keyCards": [
+      "Rafiq of the Many",
+      "Rhox War Monk",
+      "Doran, the Siege Tower",
+      "Noble Hierarch",
+      "Tidehollow Sculler"
+    ],
+    "summary": {
+      "fr": "Midrange quatre couleurs à exalté : une seule créature attaque, renforcée par Noble Hierarch et Rafiq of the Many.",
+      "en": "Four-colour exalted midrange: a single attacker gets pumped by Noble Hierarch and Rafiq of the Many."
+    },
+    "why": {
+      "fr": [
+        "L'exalté rendait chaque attaquant difficile à bloquer",
+        "Tidehollow Sculler et Gaddock Teeg gênaient les decks de contrôle"
+      ],
+      "en": [
+        "Exalted made each lone attacker hard to block",
+        "Tidehollow Sculler and Gaddock Teeg disrupted control decks"
+      ]
+    }
+  },
+  {
+    "name": "Boros Reveillark",
+    "slug": "boros-reveillark",
+    "archetype": "midrange",
+    "titles": [
+      "WR Vengeant",
+      "Toutounaze",
+      "Boros Reveillark"
+    ],
+    "rep": 138500,
+    "cover": "Ajani Vengeant",
+    "keyCards": [
+      "Ajani Vengeant",
+      "Reveillark",
+      "Ranger of Eos",
+      "Siege-Gang Commander",
+      "Figure of Destiny"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-blanc : créatures à valeur, Ajani Vengeant et Reveillark pour récupérer Ranger of Eos et compagnie.",
+      "en": "Red-white midrange: value creatures, Ajani Vengeant and Reveillark to bring back Ranger of Eos and friends."
+    },
+    "why": {
+      "fr": [
+        "Ranger of Eos et Reveillark généraient un avantage de cartes constant",
+        "Ajani Vengeant contrôlait la table et le mana adverse"
+      ],
+      "en": [
+        "Ranger of Eos and Reveillark generated steady card advantage",
+        "Ajani Vengeant controlled the board and the opponent's mana"
+      ]
+    }
+  },
+  {
+    "name": "Five-Color Control",
+    "slug": "five-color-control",
+    "archetype": "control",
+    "titles": [
+      "5C Control",
+      "5c Control",
+      "5CC",
+      "Cruel Control"
+    ],
+    "rep": 138503,
+    "cover": "Cruel Ultimatum",
+    "keyCards": [
+      "Cruel Ultimatum",
+      "Cryptic Command",
+      "Esper Charm",
+      "Broodmate Dragon",
+      "Volcanic Fallout"
+    ],
+    "summary": {
+      "fr": "Contrôle cinq couleurs sur Reflecting Pool et lands Vivid : contresorts, Volcanic Fallout et Cruel Ultimatum en fin de partie.",
+      "en": "Five-colour control on Reflecting Pool and Vivid lands: counterspells, Volcanic Fallout and Cruel Ultimatum in the late game."
+    },
+    "why": {
+      "fr": [
+        "Volcanic Fallout tuait Faeries et jetons à vitesse instantanée",
+        "Cruel Ultimatum assurait un avantage décisif une fois résolu"
+      ],
+      "en": [
+        "Volcanic Fallout killed Faeries and tokens at instant speed",
+        "Cruel Ultimatum gave a decisive edge once it resolved"
+      ]
+    }
+  },
+  {
+    "name": "Quick 'n Toast",
+    "slug": "quick-n-toast",
+    "archetype": "control",
+    "titles": [
+      "Quick' n Toast"
+    ],
+    "cover": "Mulldrifter",
+    "keyCards": [
+      "Mulldrifter",
+      "Rhox War Monk",
+      "Cryptic Command",
+      "Esper Charm",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Version Shards du contrôle multicolore Toast : Mulldrifter, Cryptic Command, Wrath of God et Rhox War Monk.",
+      "en": "Shards version of the Toast multicolour control: Mulldrifter, Cryptic Command, Wrath of God and Rhox War Monk."
+    },
+    "why": {
+      "fr": [
+        "Rhox War Monk gagnait du temps contre les decks aggro",
+        "Esper Charm et Mulldrifter offraient de l'avantage de cartes"
+      ],
+      "en": [
+        "Rhox War Monk bought time against aggro decks",
+        "Esper Charm and Mulldrifter provided card advantage"
+      ]
+    },
+    "note": "Kept separate from Five-Color Control (Worlds 2008 list, pre-Conflux shell)."
+  },
+  {
+    "name": "BG Elves",
+    "slug": "bg-elves",
+    "archetype": "midrange",
+    "titles": [
+      "Elf Rock",
+      "Elves Aggro",
+      "GB Elves"
+    ],
+    "rep": 151389,
+    "cover": "Wren's Run Vanquisher",
+    "keyCards": [
+      "Wren's Run Vanquisher",
+      "Putrid Leech",
+      "Wilt-Leaf Liege",
+      "Great Sable Stag",
+      "Maelstrom Pulse"
+    ],
+    "summary": {
+      "fr": "Midrange vert-noir sur les Elfes et créatures efficaces : Putrid Leech, Great Sable Stag et Maelstrom Pulse.",
+      "en": "Green-black midrange on Elves and efficient creatures: Putrid Leech, Great Sable Stag and Maelstrom Pulse."
+    },
+    "why": {
+      "fr": [
+        "Great Sable Stag résistait aux contresorts des Faeries",
+        "Wilt-Leaf Liege et Kitchen Finks renforçaient la table"
+      ],
+      "en": [
+        "Great Sable Stag could not be countered by Faeries",
+        "Wilt-Leaf Liege and Kitchen Finks strengthened the board"
+      ]
+    }
+  },
+  {
+    "name": "Time Sieve",
+    "slug": "time-sieve",
+    "archetype": "combo",
+    "titles": [
+      "Time Sieve"
+    ],
+    "cover": "Time Sieve",
+    "keyCards": [
+      "Time Sieve",
+      "Open the Vaults",
+      "Howling Mine",
+      "Time Warp",
+      "Kaleidostone"
+    ],
+    "summary": {
+      "fr": "Combo artefacts Esper : Open the Vaults ramène les artefacts, Time Sieve les sacrifie pour enchaîner les tours supplémentaires.",
+      "en": "Esper artifact combo: Open the Vaults returns artifacts, which Time Sieve sacrifices to chain extra turns."
+    },
+    "why": {
+      "fr": [
+        "Les Borderposts et Kaleidostone fournissaient des artefacts à bas coût",
+        "Pollen Lullaby et Howling Mine faisaient durer la partie"
+      ],
+      "en": [
+        "Borderposts and Kaleidostone supplied cheap artifacts",
+        "Pollen Lullaby and Howling Mine stretched the game out"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins"
+    ],
+    "cover": "Ball Lightning",
+    "keyCards": [
+      "Figure of Destiny",
+      "Ball Lightning",
+      "Tattermunge Maniac",
+      "Boggart Ram-Gang",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge de l'ère M10 : créatures hybrides rapides, Ball Lightning et Lightning Bolt.",
+      "en": "M10-era mono-red aggro: fast hybrid creatures, Ball Lightning and Lightning Bolt."
+    },
+    "why": {
+      "fr": [
+        "Lightning Bolt rendait le burn plus efficace",
+        "Une courbe très basse mettait la pression sur les decks lents"
+      ],
+      "en": [
+        "Lightning Bolt made the burn suite more efficient",
+        "A very low curve pressured slow decks"
+      ]
+    }
+  },
+  {
+    "name": "UW Reveillark",
+    "slug": "uw-reveillark",
+    "archetype": "control",
+    "titles": [
+      "UW Llark"
+    ],
+    "cover": "Reveillark",
+    "keyCards": [
+      "Reveillark",
+      "Meddling Mage",
+      "Sower of Temptation",
+      "Glen Elendra Archmage",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu à créatures : Reveillark ramène Meddling Mage, Kitchen Finks ou Mulldrifter.",
+      "en": "White-blue creature control: Reveillark returns Meddling Mage, Kitchen Finks or Mulldrifter."
+    },
+    "why": {
+      "fr": [
+        "Reveillark offrait de la valeur après chaque Wrath of God",
+        "Meddling Mage et Glen Elendra Archmage gênaient le contrôle adverse"
+      ],
+      "en": [
+        "Reveillark gave value after each Wrath of God",
+        "Meddling Mage and Glen Elendra Archmage disrupted opposing control"
+      ]
+    }
+  },
+  {
+    "name": "GW Overrun",
+    "slug": "gw-overrun",
+    "archetype": "aggro",
+    "titles": [
+      "GW Overrun"
+    ],
+    "cover": "Overrun",
+    "keyCards": [
+      "Overrun",
+      "Wilt-Leaf Liege",
+      "Spectral Procession",
+      "Cloudgoat Ranger",
+      "Noble Hierarch"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc à jetons : Spectral Procession et Cloudgoat Ranger élargissent la table, Overrun conclut.",
+      "en": "Green-white token aggro: Spectral Procession and Cloudgoat Ranger go wide, then Overrun finishes."
+    },
+    "why": {
+      "fr": [
+        "Wilt-Leaf Liege et Ajani Goldmane renforçaient toute l'équipe",
+        "Overrun transformait une table large en attaque létale"
+      ],
+      "en": [
+        "Wilt-Leaf Liege and Ajani Goldmane pumped the whole team",
+        "Overrun turned a wide board into a lethal attack"
+      ]
+    }
+  },
+  {
+    "name": "Cascade Control",
+    "slug": "cascade-control",
+    "archetype": "control",
+    "titles": [
+      "Cascade Control"
+    ],
+    "cover": "Enlisted Wurm",
+    "keyCards": [
+      "Bloodbraid Elf",
+      "Enlisted Wurm",
+      "Captured Sunlight",
+      "Primal Command",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Contrôle Naya à cascade : Wrath of God et Volcanic Fallout, puis Bloodbraid Elf et Enlisted Wurm pour la valeur.",
+      "en": "Naya cascade control: Wrath of God and Volcanic Fallout, then Bloodbraid Elf and Enlisted Wurm for value."
+    },
+    "why": {
+      "fr": [
+        "Chaque sort à cascade valait deux cartes",
+        "Balayages et Kitchen Finks tenaient face à l'aggro"
+      ],
+      "en": [
+        "Every cascade spell was worth two cards",
+        "Sweepers and Kitchen Finks held off aggro"
+      ]
+    }
+  }
+]

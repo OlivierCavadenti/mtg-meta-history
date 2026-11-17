@@ -1,178 +1,140 @@
 <script setup lang="ts">
-import { ref } from 'vue'
-import { t, locale, toggleLocale } from '../lib/i18n'
+import { computed } from 'vue'
+import { useRoute } from 'vue-router'
+import { FORMATS } from '../data/formats'
+import { locale, t, toggleLocale } from '../lib/i18n'
 
-const menuOpen = ref(false)
+const route = useRoute()
+const current = computed(() => (typeof route.params.format === 'string' ? route.params.format : 'standard'))
+const onStaples = computed(() => route.name === 'staples')
 </script>
 
 <template>
-  <header class="site-header">
-    <div class="site-header-inner">
-      <router-link to="/" class="site-title">
-        <span class="site-title-mtg">MTG</span>
-        <span class="site-title-meta">Meta History</span>
-      </router-link>
-      <div class="site-header-right">
-        <button class="locale-toggle" @click="toggleLocale()" :title="locale === 'en' ? 'Passer en français' : 'Switch to English'">
-          {{ locale === 'en' ? 'FR' : 'EN' }}
-        </button>
-        <button
-          class="menu-toggle"
-          :class="{ open: menuOpen }"
-          @click="menuOpen = !menuOpen"
-          aria-label="Toggle menu"
-        >
-          <span></span><span></span><span></span>
-        </button>
-      </div>
-      <nav class="site-nav" :class="{ open: menuOpen }" @click="menuOpen = false">
-        <router-link to="/timeline">{{ t('nav.timeline') }}</router-link>
-        <router-link to="/decks">{{ t('nav.decks') }}</router-link>
-        <router-link to="/about">{{ t('nav.about') }}</router-link>
+  <header class="header">
+    <div class="inner">
+      <router-link to="/standard" class="brand">MTG Meta History</router-link>
+      <nav class="formats" aria-label="Formats">
+        <router-link
+          v-for="f in FORMATS"
+          :key="f.id"
+          :to="onStaples ? `/${f.id}/staples` : `/${f.id}`"
+          class="format"
+          :class="{ active: current === f.id, soon: !f.ready }"
+        >{{ f.label }}</router-link>
       </nav>
+      <div class="views">
+        <router-link :to="`/${current}`" class="view" :class="{ active: !onStaples }">{{ t('decks') }}</router-link>
+        <router-link :to="`/${current}/staples`" class="view" :class="{ active: onStaples }">{{ t('staples') }}</router-link>
+        <button class="locale" type="button" @click="toggleLocale()">{{ locale === 'fr' ? 'en' : 'fr' }}</button>
+      </div>
     </div>
   </header>
 </template>
 
 <style scoped>
-.site-header {
-  border-bottom: 2px solid var(--ink);
-  background: var(--paper);
+.header {
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 50;
+  background: var(--paper);
+  border-bottom: 1px solid var(--ink);
 }
 
-.site-header-inner {
-  max-width: 960px;
+.inner {
+  max-width: var(--page-max);
   margin: 0 auto;
-  padding: var(--space-sm) var(--space-lg);
+  padding: 0 var(--space-md);
+  height: var(--header-h);
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  gap: var(--space-xl);
 }
 
-.site-title {
+.brand {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1.15rem;
   text-decoration: none;
+  white-space: nowrap;
+}
+
+.formats {
+  display: flex;
+  align-self: stretch;
+  gap: var(--space-lg);
+  overflow-x: auto;
+  scrollbar-width: none;
+  flex: 1;
+}
+
+.format {
+  display: flex;
+  align-items: center;
+  font-family: var(--font-heading);
+  font-size: 1.02rem;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  color: var(--ink);
+  border-bottom: 3px solid transparent;
+}
+
+.format.soon {
+  color: var(--faint);
+}
+
+.format.active {
+  border-bottom-color: var(--accent);
+}
+
+.views {
   display: flex;
   align-items: baseline;
-  gap: var(--space-xs);
+  gap: var(--space-md);
 }
 
-.site-title-mtg {
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 1.3rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.site-title-meta {
+.view,
+.locale {
   font-family: var(--font-body);
   font-size: 0.95rem;
-  font-style: italic;
-  color: var(--muted);
-}
-
-.site-nav {
-  display: flex;
-  gap: var(--space-lg);
-}
-
-.site-nav a {
-  font-family: var(--font-label);
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
   text-decoration: none;
   color: var(--muted);
-  padding: var(--space-xs) 0;
-  border-bottom: 2px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.site-nav a:hover,
-.site-nav a.router-link-active {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
-}
-
-.site-header-right {
-  display: flex;
-  align-items: center;
-  gap: var(--space-sm);
-}
-
-.locale-toggle {
-  font-family: var(--font-label);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  padding: 2px 8px;
-  border: 1px solid var(--line);
-  background: none;
-  color: var(--muted);
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.locale-toggle:hover {
-  border-color: var(--ink);
-  color: var(--ink);
-}
-
-.menu-toggle {
-  display: none;
   background: none;
   border: none;
+  padding: 0;
   cursor: pointer;
-  padding: var(--space-xs);
-  flex-direction: column;
-  gap: 4px;
 }
 
-.menu-toggle span {
-  display: block;
-  width: 20px;
-  height: 2px;
-  background: var(--ink);
-  transition: transform 0.2s, opacity 0.2s;
+.view.active {
+  color: var(--ink);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
 }
 
-.menu-toggle.open span:nth-child(1) {
-  transform: rotate(45deg) translate(4px, 4px);
-}
-.menu-toggle.open span:nth-child(2) {
-  opacity: 0;
-}
-.menu-toggle.open span:nth-child(3) {
-  transform: rotate(-45deg) translate(4px, -4px);
+.locale {
+  font-style: italic;
 }
 
-@media (max-width: 600px) {
-  .site-header-inner {
-    padding: var(--space-sm) var(--space-md);
+@media (max-width: 760px) {
+  .inner {
+    height: auto;
+    flex-wrap: wrap;
+    gap: var(--space-xs) var(--space-md);
+    padding-top: var(--space-sm);
   }
 
-  .menu-toggle {
-    display: flex;
+  .brand {
+    flex: 1;
   }
 
-  .site-nav {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: var(--paper);
-    border-bottom: 2px solid var(--ink);
-    flex-direction: column;
-    padding: var(--space-md) var(--space-lg);
-    gap: var(--space-sm);
+  .formats {
+    order: 3;
+    flex-basis: 100%;
   }
 
-  .site-nav.open {
-    display: flex;
+  .format {
+    padding-bottom: var(--space-xs);
   }
 }
 </style>

@@ -1,237 +1,85 @@
-# AGENTS.md — Research Protocol for Adding Year+Format Entries
+# AGENTS.md — Building or extending a format's deck encyclopedia
 
-This document defines the protocol for an AI agent to research and create a new year+format data entry for MTG Meta History.
+The site lists every archetype that performed in a format, season by season, each with a real
+decklist. Content is produced by a small pipeline (`scripts/pipeline/`, Python 3 stdlib) plus an
+editorial pass that a human or an agent performs per season.
 
-## Trigger
+Work files (scraped results, cached decklists, Scryfall bulk index) go to `.pipeline/`
+(git-ignored). Override with `MTG_PIPELINE_WORK=/some/dir`.
 
-The agent receives a request like:
+## 1. Scrape tournament results
 
+```bash
+python3 scripts/pipeline/scrape_search.py 1994 2026
 ```
-Add Standard 2005.
-Add Modern 2019.
-Add Legacy 2012.
-Add Vintage 2003.
+
+Queries mtgtop8's search for Standard decks at Professional + Major events per year (+ Competitive
+up to 2004, where data is sparse) → `.pipeline/search.json`.
+
+## 2. Group by season
+
+```bash
+python3 scripts/pipeline/cluster.py
 ```
 
-## Objective
+Seasons are defined in `scripts/pipeline/seasons.json` (keep in sync with
+`src/data/standard/seasons.ts`). Produces `.pipeline/candidates/{season}.json`: each mtgtop8 deck
+title with result counts and best finishes.
 
-Identify the dominant decks of a given year and format, break the year into meta eras, source everything, and produce a valid `YearFormatEntry` TypeScript file.
+## 3. Editorial pass (one season at a time)
 
----
+Output: `data-src/standard/editorial/{season}.json`, an array of:
 
-## Step 1: Establish the legal context
-
-For the requested year and format, determine:
-
-- Which sets were legal at the start of the year
-- Which sets were released during the year
-- When rotation occurred (if applicable, e.g., Standard)
-- Any bans or restrictions announced during the year
-- Any rules changes that affected the format
-
-Search for:
-- Ban announcements on magic.wizards.com or DailyMTG
-- Set release dates on Wikipedia or Scryfall
-- Format legality timelines
-
-## Step 2: Identify major competitive events
-
-Find the major tournaments held during the year for this format:
-
-- Pro Tour / Players Tour / Mythic Championship
-- World Championship
-- Grand Prix / MagicFest
-- National Championships
-- SCG Opens / Invitationals (for US-centric formats)
-- MTGO Championships / Challenges
-- Arena Championships (2020+)
-
-For each event, note:
-- Date
-- Format
-- Winner and Top 8 decks
-- Metagame breakdown if available
-
-Sources to search:
-- magic.wizards.com/en/events/coverage/
-- mtgtop8.com
-- mtggoldfish.com/tournament/
-- mtgdecks.net
-
-## Step 3: Identify dominant archetypes
-
-From tournament results and articles, identify:
-
-- Which decks won the most events
-- Which decks appeared most frequently in Top 8s
-- Which decks were described as "the deck to beat"
-- Which decks caused bans
-- Which decks had the highest metagame share
-
-Cross-reference across multiple sources. A deck is "dominant" if:
-- Multiple sources agree it was the top performer
-- It appeared consistently in Top 8s across multiple events
-- Articles from the period explicitly describe it as dominant
-
-## Step 4: Break the year into meta eras
-
-Divide the year into periods where the metagame was relatively stable. Natural breakpoints:
-
-- Set releases
-- Ban announcements
-- Major tournament results that shifted the meta
-- Rotation dates
-
-Each era should have:
-- A name (e.g., "Hogaak Summer", "Jund Era")
-- A start and end month (YYYY-MM format)
-- 1-3 dominant decks
-- 2-5 challengers
-- Key cards with their roles
-- A summary paragraph
-- Why the dominant decks were dominant (bullet points)
-- Why the era ended
-- Confidence level
-- At least one source
-
-## Step 5: Document bans
-
-For each ban during the year:
-- Date (YYYY-MM-DD)
-- Cards banned
-- Explanation
-- Official source URL
-
-## Step 6: Create representative deck entries
-
-For each major deck of the year:
-- Name
-- Slug: `{deck-name-kebab}-{format}-{year}`
-- Period it was dominant
-- Archetype classification
-- Summary (2-3 sentences)
-- Key cards (5-8 cards)
-- Source link to decklists (MTGTop8, MTGGoldfish, event coverage)
-
-## Step 7: Write the file
-
-Create `src/data/years/{year}.{format}.ts` following this template:
-
-```typescript
-import type { YearFormatEntry } from '../types'
-
-export const {format}{year}: YearFormatEntry = {
-  year: {year},
-  format: '{format}',
-  title: '{Format} {Year}',
-  subtitle: '{evocative one-liner}',
-  shortLabel: '{2-4 word label}',
-  summary: '{3-5 sentence overview}',
-  headlineDeck: '{main deck of the year}',
-  eras: [
-    // ... MetaEra objects
-  ],
-  bans: [
-    // ... BanEntry objects (if any)
-  ],
-  representativeDecks: [
-    // ... RepresentativeDeck objects
-  ],
+```json
+{
+  "name": "Ghazi-Glare",
+  "slug": "ghazi-glare",
+  "archetype": "midrange",
+  "titles": ["Ghazi Glare"],
+  "rep": 253153,
+  "cover": "Glare of Subdual",
+  "keyCards": ["Glare of Subdual", "Vitu-Ghazi, the City-Tree", "Selesnya Guildmage"],
+  "summary": { "fr": "…", "en": "…" },
+  "why": { "fr": ["…", "…"], "en": ["…", "…"] }
 }
 ```
 
-## Step 8: Register the entry
+- Merge mtgtop8 titles that are the same archetype (`titles`). A title belongs to one deck only.
+- Inclusion: up to 2009, every archetype with a top 8; from 2010, top8 ≥ 3, or an event win, or a
+  top 4 at a Pro Tour / Worlds / World or Regional Championship.
+- `rep` (optional): mtgtop8 deck id of the list to show; defaults to the best finish at the
+  biggest event.
+- `cover` and `keyCards` must be in the representative list. `cover` is a non-land card.
+- Texts: 1–2 sentence summary, 2–3 bullets ≤ 110 chars, FR + EN, historian tone, no numbers.
 
-Add the import and entry to `src/data/years/index.ts`:
+Tools:
 
-```typescript
-import { {format}{year} } from './{year}.{format}'
-
-// Add to allEntries array:
-const allEntries: YearFormatEntry[] = [
-  // ... existing entries
-  {format}{year},
-]
-```
-
-## Step 9: Validate
-
-Run:
 ```bash
-npm run validate:content
-npm run typecheck
+python3 scripts/pipeline/deckinfo.py 2005-rav "Ghazi Glare" "GW Glare"   # merged stats + rep list
+python3 scripts/pipeline/check_editorial.py 2005-rav                     # validate a season
 ```
 
-Fix any errors before considering the entry complete.
+## 4. Card data and build
 
----
+```bash
+python3 scripts/pipeline/prints.py      # needs .pipeline/default.jsonl.gz (Scryfall "default_cards" bulk)
+python3 scripts/pipeline/build.py
+npm run validate:content && npm run typecheck
+```
 
-## Source priorities
+`build.py` writes `src/data/standard/decks/{season}.json` and `src/data/standard/cards.json`.
+Card art uses the newest regular printing released before the end of the season in which the card
+first appears, so a 1997 deck shows 1997 frames.
 
-In order of reliability:
+## Adding another format
 
-1. **Official Wizards announcements** — Ban announcements, event coverage on magic.wizards.com
-2. **Tournament results** — MTGTop8, MTGGoldfish tournament pages, event coverage
-3. **Contemporary articles** — Articles written during the period by known authors
-4. **Metagame analyses** — MTGGoldfish metagame pages, format breakdowns
-5. **Retrospective articles** — Later analyses of historical periods
-6. **Community consensus** — Forum discussions, Reddit threads (lowest confidence)
+1. Generalise the format code (`ST`) in `scrape_search.py` / `common.py`.
+2. Define its seasons (`seasons.json` + `src/data/{format}/seasons.ts`).
+3. Run the pipeline into `src/data/{format}/`, extend `src/data/load.ts`, set `ready: true` in
+   `src/data/formats.ts`.
 
-### Recommended search targets
+## Rules
 
-- mtgtop8.com — Tournament results and metagame breakdowns
-- mtggoldfish.com — Metagame shares, deck prices, tournament results
-- magic.wizards.com — Official coverage, ban announcements
-- magic.gg — Recent event coverage
-- mtgdecks.net — Additional tournament results
-- starcitygames.com — Articles and tournament results
-- channelfireball.com — Articles from the period
-
-For older formats:
-- themanadrain.com — Vintage community
-- mtgthesource.com — Legacy community
-- oldschool-mtg.blogspot.com — Old School community
-- premodernmagic.com — Premodern community
-
-## Confidence guidelines
-
-- **high**: 3+ concordant sources, clear tournament data, well-documented period
-- **medium**: 1-2 solid sources, some gaps in data, or minor disagreements between sources
-- **low**: Pre-internet era, limited tournament data, community formats with sparse records, or significant historical debate
-
-## Editorial tone
-
-### Good examples
-
-> "Tooth and Nail became the defining big-mana deck of the post-Affinity format."
-
-> "Jund was one of the most consistently performing midrange decks in Standard history, though its exact metagame share varied by region."
-
-> "The ban of Hogaak, Arisen Necropolis in August 2019 ended one of Modern's most dramatic periods of format warping."
-
-### Bad examples
-
-> "This insane deck completely destroyed everything in its path!"
-
-> "Affinity was literally the most broken deck ever printed."
-
-> "Everyone knows this was the best deck."
-
-### Rules
-
-- No superlatives without sourcing
-- No invented statistics or percentages
-- Flag conflicting sources in the `note` field
-- Use hedging language for uncertain claims: "appears to have been", "was widely considered", "sources suggest"
-- Write as a historian, not a hype writer
-- No promotional language, no excitement markers
-- Short, dense paragraphs
-
-## Intellectual property
-
-- Card names and deck names are factual references — acceptable
-- Do not copy full decklists from other sites — link to them instead
-- A "core package" of 5-10 key cards is acceptable as textual reference
-- No official logos, card images, mana symbols, or artwork
-- No large passages copied from articles
-- No premium/paywalled content reproduced
+- Never invent results or statistics. Numbers on the site come from the scraped data.
+- Decklists come from public mtgtop8 tournament pages only.
+- Bans: official Banned & Restricted announcements (MTG Wiki timeline as index).

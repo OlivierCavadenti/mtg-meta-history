@@ -1,0 +1,558 @@
+[
+  {
+    "name": "Caw-Blade",
+    "slug": "caw-blade",
+    "archetype": "control",
+    "titles": [
+      "Caw-Blade",
+      "Mystic Caw Go",
+      "Bolt Caw-Blade",
+      "Lightning Caw-Blade",
+      "Caw Go",
+      "Caw Go - 21 points"
+    ],
+    "rep": 209238,
+    "cover": "Squadron Hawk",
+    "keyCards": [
+      "Squadron Hawk",
+      "Stoneforge Mystic",
+      "Jace, the Mind Sculptor",
+      "Sword of Feast and Famine",
+      "Gideon Jura"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu : Stoneforge Mystic va chercher une Sword que portent les Squadron Hawk, Jace, the Mind Sculptor gère la partie.",
+      "en": "White-blue control: Stoneforge Mystic fetches a Sword for Squadron Hawks to carry, while Jace, the Mind Sculptor runs the game."
+    },
+    "why": {
+      "fr": [
+        "Squadron Hawk protégeait Jace et portait les équipements",
+        "Sword of Feast and Famine dominait les duels de créatures et de contrôle"
+      ],
+      "en": [
+        "Squadron Hawk protected Jace and carried equipment",
+        "Sword of Feast and Famine dominated both creature and control matchups"
+      ]
+    },
+    "note": "Includes early Caw-Go (no Stoneforge) and the red-splash Bolt/Lightning builds."
+  },
+  {
+    "name": "Esper Caw-Blade",
+    "slug": "esper-caw-blade",
+    "archetype": "control",
+    "titles": [
+      "Kozilek Caw-Blade",
+      "Darkblade"
+    ],
+    "cover": "Sword of Feast and Famine",
+    "keyCards": [
+      "Inquisition of Kozilek",
+      "Stoneforge Mystic",
+      "Squadron Hawk",
+      "Jace, the Mind Sculptor",
+      "Sword of Feast and Famine"
+    ],
+    "summary": {
+      "fr": "Caw-Blade avec une touche noire : Inquisition of Kozilek et removal noir s'ajoutent au moteur Stoneforge et Jace.",
+      "en": "Caw-Blade splashing black: Inquisition of Kozilek and black removal join the Stoneforge and Jace engine."
+    },
+    "why": {
+      "fr": [
+        "Inquisition of Kozilek protégeait Jace et l'équipement",
+        "Le removal noir gérait les créatures sans dépendre de Day of Judgment"
+      ],
+      "en": [
+        "Inquisition of Kozilek protected Jace and the equipment",
+        "Black removal answered creatures without needing Day of Judgment"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "Red Deck wins",
+      "Red deck wins",
+      "Red Deck Equip"
+    ],
+    "cover": "Koth of the Hammer",
+    "keyCards": [
+      "Koth of the Hammer",
+      "Goblin Guide",
+      "Plated Geopede",
+      "Ember Hauler",
+      "Searing Blaze"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge : créatures rapides, landfall, burn et Koth of the Hammer pour forcer les derniers dégâts.",
+      "en": "Mono-red aggro: fast creatures, landfall, burn and Koth of the Hammer to force through the last points."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands déclenchaient Plated Geopede et Searing Blaze",
+        "Le burn finissait les adversaires qui se stabilisaient"
+      ],
+      "en": [
+        "Fetchlands triggered Plated Geopede and Searing Blaze",
+        "Burn finished opponents who stabilised the board"
+      ]
+    }
+  },
+  {
+    "name": "Valakut Ramp",
+    "slug": "valakut-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Valakut Ramp",
+      "Valakut ramp",
+      "Valakut",
+      "Cobra Valakut"
+    ],
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Primeval Titan",
+      "Valakut, the Molten Pinnacle",
+      "Summoning Trap",
+      "Avenger of Zendikar",
+      "Khalni Heart Expedition"
+    ],
+    "summary": {
+      "fr": "Rampe rouge-vert : sorts de terrain accélèrent vers Primeval Titan, qui va chercher des Mountain pour déclencher Valakut.",
+      "en": "Red-green ramp: land spells accelerate into Primeval Titan, which fetches Mountains to trigger Valakut."
+    },
+    "why": {
+      "fr": [
+        "Valakut infligeait des dégâts sans créature à contrer",
+        "Summoning Trap punissait les contresorts sur Primeval Titan"
+      ],
+      "en": [
+        "Valakut dealt damage without a creature to counter",
+        "Summoning Trap punished counterspells on Primeval Titan"
+      ]
+    }
+  },
+  {
+    "name": "UB Control",
+    "slug": "ub-control",
+    "archetype": "control",
+    "titles": [
+      "UB Control",
+      "UB control",
+      "UB Control with Persecutor",
+      "UB Control with Persecutors"
+    ],
+    "cover": "Grave Titan",
+    "keyCards": [
+      "Jace, the Mind Sculptor",
+      "Grave Titan",
+      "Preordain",
+      "Mana Leak",
+      "Inquisition of Kozilek"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir : contresorts, discard et removal, avec Jace, the Mind Sculptor et Grave Titan pour conclure.",
+      "en": "Blue-black control: counterspells, discard and removal, with Jace, the Mind Sculptor and Grave Titan to close."
+    },
+    "why": {
+      "fr": [
+        "Grave Titan apportait une menace difficile à gérer en un sort",
+        "Creeping Tar Pit offrait une menace imblocable et résistante aux balayages"
+      ],
+      "en": [
+        "Grave Titan was a threat that one removal spell could not fully answer",
+        "Creeping Tar Pit was an unblockable threat immune to sweepers"
+      ]
+    }
+  },
+  {
+    "name": "RUG Control",
+    "slug": "rug-control",
+    "archetype": "ramp",
+    "titles": [
+      "RUG Control",
+      "RUG",
+      "RUG Force"
+    ],
+    "cover": "Inferno Titan",
+    "keyCards": [
+      "Lotus Cobra",
+      "Inferno Titan",
+      "Precursor Golem",
+      "Jace, the Mind Sculptor",
+      "Avenger of Zendikar"
+    ],
+    "summary": {
+      "fr": "Rampe-contrôle bleu-vert-rouge : Lotus Cobra et Explore accélèrent, Mana Leak protège, Inferno Titan et Avenger concluent.",
+      "en": "Blue-green-red ramp-control: Lotus Cobra and Explore accelerate, Mana Leak protects, Inferno Titan and Avenger finish."
+    },
+    "why": {
+      "fr": [
+        "Lotus Cobra permettait de jouer les Titans très tôt",
+        "Inferno Titan nettoyait les petites créatures en arrivant"
+      ],
+      "en": [
+        "Lotus Cobra let the deck cast its Titans early",
+        "Inferno Titan cleared small creatures on arrival"
+      ]
+    }
+  },
+  {
+    "name": "Tempered Steel",
+    "slug": "tempered-steel",
+    "archetype": "aggro",
+    "titles": [
+      "Tempered Steel"
+    ],
+    "cover": "Tempered Steel",
+    "keyCards": [
+      "Tempered Steel",
+      "Steel Overseer",
+      "Glint Hawk",
+      "Memnite",
+      "Mox Opal"
+    ],
+    "summary": {
+      "fr": "Aggro artefacts blanc : petites créatures artefact à bas coût, renforcées par Tempered Steel et Steel Overseer.",
+      "en": "White artifact aggro: cheap artifact creatures, pumped by Tempered Steel and Steel Overseer."
+    },
+    "why": {
+      "fr": [
+        "Memnite et Mox Opal permettaient des débuts explosifs",
+        "Tempered Steel transformait de petits artefacts en grosses menaces"
+      ],
+      "en": [
+        "Memnite and Mox Opal allowed explosive starts",
+        "Tempered Steel turned small artifacts into large threats"
+      ]
+    }
+  },
+  {
+    "name": "Vampires",
+    "slug": "vampires",
+    "archetype": "aggro",
+    "titles": [
+      "Br Vampires",
+      "Vampires",
+      "Mono B Vampires"
+    ],
+    "cover": "Kalastria Highborn",
+    "keyCards": [
+      "Kalastria Highborn",
+      "Bloodghast",
+      "Gatekeeper of Malakir",
+      "Viscera Seer",
+      "Vampire Lacerator"
+    ],
+    "summary": {
+      "fr": "Aggro noir tribal à touche rouge : Vampires agressifs, sacrifice via Viscera Seer et drain de Kalastria Highborn.",
+      "en": "Black tribal aggro with a red splash: aggressive Vampires, sacrifice via Viscera Seer and Kalastria Highborn drains."
+    },
+    "why": {
+      "fr": [
+        "Bloodghast revenait sans cesse pour alimenter le sacrifice",
+        "Gatekeeper of Malakir et le removal gardaient la voie libre"
+      ],
+      "en": [
+        "Bloodghast kept returning to fuel sacrifices",
+        "Gatekeeper of Malakir and removal kept the path clear"
+      ]
+    }
+  },
+  {
+    "name": "Boros Landfall",
+    "slug": "boros-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Landfall",
+      "Boros landfall"
+    ],
+    "cover": "Steppe Lynx",
+    "keyCards": [
+      "Steppe Lynx",
+      "Plated Geopede",
+      "Goblin Guide",
+      "Squadron Hawk",
+      "Adventuring Gear"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc landfall : Steppe Lynx et Plated Geopede grandissent avec les fetchlands, Stoneforge apporte l'équipement.",
+      "en": "Red-white landfall aggro: Steppe Lynx and Plated Geopede grow with fetchlands, Stoneforge Mystic adds equipment."
+    },
+    "why": {
+      "fr": [
+        "Les fetchlands doublaient les déclenchements de landfall",
+        "Squadron Hawk et Stoneforge donnaient de la résistance au removal"
+      ],
+      "en": [
+        "Fetchlands doubled landfall triggers",
+        "Squadron Hawk and Stoneforge gave resilience against removal"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "UW Artifact Control",
+      "Old School UW"
+    ],
+    "cover": "Sun Titan",
+    "keyCards": [
+      "Sun Titan",
+      "Wall of Omens",
+      "Elspeth Tirel",
+      "Jace, the Mind Sculptor",
+      "Venser, the Sojourner"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu classique à planeswalkers : Wall of Omens, Day of Judgment, contresorts et Sun Titan.",
+      "en": "Classic white-blue planeswalker control: Wall of Omens, Day of Judgment, counterspells and Sun Titan."
+    },
+    "why": {
+      "fr": [
+        "Sun Titan récupérait Wall of Omens et les permanents à bas coût",
+        "Plusieurs planeswalkers surchargeaient les réponses adverses"
+      ],
+      "en": [
+        "Sun Titan recurred Wall of Omens and cheap permanents",
+        "Several planeswalkers overloaded opposing answers"
+      ]
+    }
+  },
+  {
+    "name": "Splinter Twin",
+    "slug": "splinter-twin",
+    "archetype": "combo",
+    "titles": [
+      "UR Exarch Twin",
+      "UR ExarchTwin",
+      "UR Twin Exarch",
+      "UR exarch Twin",
+      "Splinter Twin",
+      "UR Pyro Twin",
+      "Grixis Twin Exarch",
+      "Grixis Twin",
+      "RUG Twin Exarch"
+    ],
+    "rep": 213867,
+    "cover": "Splinter Twin",
+    "keyCards": [
+      "Splinter Twin",
+      "Deceiver Exarch",
+      "Shrine of Piercing Vision",
+      "Gitaxian Probe",
+      "Dispel"
+    ],
+    "summary": {
+      "fr": "Combo bleu-rouge : Splinter Twin sur Deceiver Exarch crée des copies à l'infini, entouré de cantrips et de contresorts.",
+      "en": "Blue-red combo: Splinter Twin on Deceiver Exarch makes infinite copies, surrounded by cantrips and counterspells."
+    },
+    "why": {
+      "fr": [
+        "La combinaison à deux cartes gagnait d'un coup, souvent très tôt",
+        "Dispel et Mana Leak protégeaient la tentative de combo"
+      ],
+      "en": [
+        "The two-card combo won on the spot, often very early",
+        "Dispel and Mana Leak protected the combo turn"
+      ]
+    },
+    "note": "Grixis and RUG (Lotus Cobra / Inferno Titan) Twin builds merged: same Exarch-Twin engine."
+  },
+  {
+    "name": "Twinblade",
+    "slug": "twinblade",
+    "archetype": "combo",
+    "titles": [
+      "Twinblade"
+    ],
+    "cover": "Deceiver Exarch",
+    "keyCards": [
+      "Deceiver Exarch",
+      "Splinter Twin",
+      "Stoneforge Mystic",
+      "Jace, the Mind Sculptor",
+      "Batterskull"
+    ],
+    "summary": {
+      "fr": "Hybride blanc-bleu-rouge de Caw-Blade et Splinter Twin : Stoneforge et Jace en plan principal, combo Exarch-Twin en alternative.",
+      "en": "White-blue-red hybrid of Caw-Blade and Splinter Twin: Stoneforge and Jace as the main plan, Exarch-Twin combo as an alternative."
+    },
+    "why": {
+      "fr": [
+        "Deux plans de victoire différents compliquaient le sideboard adverse",
+        "Deceiver Exarch servait aussi de tempo sans le combo"
+      ],
+      "en": [
+        "Two different win plans complicated opposing sideboarding",
+        "Deceiver Exarch also provided tempo without the combo"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi Green",
+    "slug": "eldrazi-green",
+    "archetype": "ramp",
+    "titles": [
+      "Eldrazi Green"
+    ],
+    "cover": "Emrakul, the Aeons Torn",
+    "keyCards": [
+      "Primeval Titan",
+      "Eldrazi Temple",
+      "Green Sun's Zenith",
+      "Joraga Treespeaker",
+      "Emrakul, the Aeons Torn"
+    ],
+    "summary": {
+      "fr": "Rampe mono-verte : Joraga Treespeaker, Overgrown Battlement et Eldrazi Temple accélèrent vers Primeval Titan et les Eldrazi.",
+      "en": "Mono-green ramp: Joraga Treespeaker, Overgrown Battlement and Eldrazi Temple accelerate into Primeval Titan and the Eldrazi."
+    },
+    "why": {
+      "fr": [
+        "Eldrazi Temple et les accélérateurs sautaient plusieurs tours de mana",
+        "Primeval Titan allait chercher les lands utilitaires"
+      ],
+      "en": [
+        "Eldrazi Temple and mana creatures skipped several turns of mana",
+        "Primeval Titan fetched utility lands"
+      ]
+    }
+  },
+  {
+    "name": "Fauna Shaman Vengevine",
+    "slug": "fauna-shaman-vengevine",
+    "archetype": "midrange",
+    "titles": [
+      "Vengevine Naya",
+      "GW Aggro",
+      "UG Fauna",
+      "WG Fauna",
+      "Fauna Naya"
+    ],
+    "cover": "Vengevine",
+    "keyCards": [
+      "Fauna Shaman",
+      "Vengevine",
+      "Squadron Hawk",
+      "Stoneforge Mystic",
+      "Sword of Feast and Famine"
+    ],
+    "summary": {
+      "fr": "Midrange vert à boîte à outils : Fauna Shaman défausse Vengevine pour aller chercher la bonne créature.",
+      "en": "Green toolbox midrange: Fauna Shaman discards Vengevine to find the right creature."
+    },
+    "why": {
+      "fr": [
+        "Vengevine revenait du cimetière après chaque défausse",
+        "Fauna Shaman trouvait la créature adaptée à chaque duel"
+      ],
+      "en": [
+        "Vengevine returned from the graveyard after being discarded",
+        "Fauna Shaman found the right creature for each matchup"
+      ]
+    },
+    "note": "Merged GW, Naya and UG Fauna Shaman shells (same Fauna + Vengevine engine)."
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins Deck Wins",
+      "Goblin Deck Wins"
+    ],
+    "cover": "Goblin Chieftain",
+    "keyCards": [
+      "Goblin Chieftain",
+      "Goblin Bushwhacker",
+      "Goblin Guide",
+      "Goblin Wardriver",
+      "Spikeshot Elder"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge sur la tribu Gobelin : petites créatures à haste, Goblin Chieftain et burn.",
+      "en": "Mono-red Goblin tribal aggro: small haste creatures, Goblin Chieftain and burn."
+    },
+    "why": {
+      "fr": [
+        "Goblin Chieftain et Bushwhacker donnaient la haste à toute l'équipe",
+        "Le burn complétait une courbe très basse"
+      ],
+      "en": [
+        "Goblin Chieftain and Bushwhacker gave the whole team haste",
+        "Burn backed up a very low curve"
+      ]
+    }
+  },
+  {
+    "name": "Tezzeret Control",
+    "slug": "tezzeret-control",
+    "archetype": "control",
+    "titles": [
+      "Tezzeret Control",
+      "Torpor Tezz",
+      "Tezzeret Forgemaster"
+    ],
+    "cover": "Tezzeret, Agent of Bolas",
+    "keyCards": [
+      "Tezzeret, Agent of Bolas",
+      "Jace, the Mind Sculptor",
+      "Everflowing Chalice",
+      "Prophetic Prism",
+      "Wurmcoil Engine"
+    ],
+    "summary": {
+      "fr": "Contrôle artefacts bleu-noir : Tezzeret, Agent of Bolas anime les artefacts de mana ou draine, Jace gère la pioche.",
+      "en": "Blue-black artifact control: Tezzeret, Agent of Bolas animates mana artifacts or drains, Jace handles card selection."
+    },
+    "why": {
+      "fr": [
+        "Tezzeret transformait les artefacts de mana en grosses menaces",
+        "Tumble Magnet et le removal ralentissaient Caw-Blade et l'aggro"
+      ],
+      "en": [
+        "Tezzeret turned mana artifacts into large threats",
+        "Tumble Magnet and removal slowed Caw-Blade and aggro"
+      ]
+    }
+  },
+  {
+    "name": "RUG Pod",
+    "slug": "rug-pod",
+    "archetype": "midrange",
+    "titles": [
+      "UGR Pod",
+      "RUG Pod",
+      "RUG Twin Pod"
+    ],
+    "rep": 214054,
+    "cover": "Birthing Pod",
+    "keyCards": [
+      "Birthing Pod",
+      "Lotus Cobra",
+      "Acidic Slime",
+      "Inferno Titan",
+      "Phyrexian Metamorph"
+    ],
+    "summary": {
+      "fr": "Midrange bleu-vert-rouge à boîte à outils : Birthing Pod sacrifie chaque créature pour aller chercher la suivante.",
+      "en": "Blue-green-red toolbox midrange: Birthing Pod sacrifices each creature to fetch the next one up the curve."
+    },
+    "why": {
+      "fr": [
+        "Birthing Pod transformait chaque créature en réponse ciblée",
+        "Les créatures à effet d'arrivée généraient de la valeur à chaque étape"
+      ],
+      "en": [
+        "Birthing Pod turned every creature into a tutor for a specific answer",
+        "Enters-the-battlefield creatures generated value at each step"
+      ]
+    },
+    "note": "RUG Twin Pod (Pod plus Exarch-Twin) merged here; it holds the win."
+  }
+]
