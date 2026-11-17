@@ -75,7 +75,24 @@ const curve = computed(() => {
 
 const side = computed(() => [...props.list.side].sort(byCmcThenName))
 
-const visualMain = computed(() => [...spells.value].sort(byCmcThenName).concat(lands.value))
+type Column = { label: string; total: number; lines: CardLine[] }
+
+/** Sideboard columns for the card view: one per mana value, lands last. */
+const sideColumns = computed<Column[]>(() => {
+  const map = new Map<number, CardLine[]>()
+  for (const line of side.value) {
+    const k = isLand(line[1]) ? 99 : bucket(line[1])
+    if (!map.has(k)) map.set(k, [])
+    map.get(k)!.push(line)
+  }
+  return [...map.entries()]
+    .sort((a, b) => a[0] - b[0])
+    .map(([k, lines]) => ({
+      label: k === 99 ? t('lands') : k === 6 ? '6+' : String(k),
+      total: sum(lines),
+      lines: lines.sort((a, b) => b[0] - a[0] || a[1].localeCompare(b[1])),
+    }))
+})
 
 const copied = ref(false)
 async function copy() {
@@ -134,36 +151,69 @@ async function copy() {
     </template>
 
     <template v-else>
-      <div class="visual">
-        <a
-          v-for="[n, name] in visualMain"
-          :key="name"
-          class="vcard"
-          :href="scryfallSearch(name)"
-          target="_blank"
-          rel="noopener noreferrer"
-          @mouseenter="showPreview(cardImage(info(name), name, 'normal'), $event)"
-          @mousemove="movePreview"
-          @mouseleave="hidePreview"
-        >
-          <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
-          <span class="vcount">{{ n }}</span>
-        </a>
+      <div class="main main--stack">
+        <div class="stacks">
+          <div v-for="col in columns" :key="col.label" class="stack-col">
+            <div class="col-head"><span>{{ col.label }}</span><span>{{ col.total }}</span></div>
+            <div class="stack">
+              <a
+                v-for="[n, name] in col.lines"
+                :key="name"
+                class="scard"
+                :href="scryfallSearch(name)"
+                target="_blank"
+                rel="noopener noreferrer"
+                @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+                @mousemove="movePreview"
+                @mouseleave="hidePreview"
+              >
+                <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+                <span class="scount">&times;{{ n }}</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div v-if="lands.length" class="lands lands--stack">
+          <div class="col-head"><span>{{ t('lands') }}</span><span>{{ totalLands }}</span></div>
+          <div class="stack">
+            <a
+              v-for="[n, name] in lands"
+              :key="name"
+              class="scard"
+              :href="scryfallSearch(name)"
+              target="_blank"
+              rel="noopener noreferrer"
+              @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+              @mousemove="movePreview"
+              @mouseleave="hidePreview"
+            >
+              <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+              <span class="scount">&times;{{ n }}</span>
+            </a>
+          </div>
+        </div>
       </div>
       <div v-if="side.length" class="side">
         <div class="col-head"><span>{{ t('sideboard') }}</span><span>{{ totalSide }}</span></div>
-        <div class="visual visual--side">
-          <a
-            v-for="[n, name] in side"
-            :key="name"
-            class="vcard"
-            :href="scryfallSearch(name)"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
-            <span class="vcount">{{ n }}</span>
-          </a>
+        <div class="stacks stacks--side">
+          <div v-for="col in sideColumns" :key="col.label" class="stack-col">
+            <div class="stack">
+              <a
+                v-for="[n, name] in col.lines"
+                :key="name"
+                class="scard"
+                :href="scryfallSearch(name)"
+                target="_blank"
+                rel="noopener noreferrer"
+                @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+                @mousemove="movePreview"
+                @mouseleave="hidePreview"
+              >
+                <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+                <span class="scount">&times;{{ n }}</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </template>
@@ -310,46 +360,71 @@ async function copy() {
   gap: 3px var(--space-sm);
 }
 
-.visual {
+/* Card view: columns of overlapping cards. Each card leaves visible its title bar
+   (name and mana cost) plus a thin band of art that holds the count, so nothing on the
+   title line is hidden. Vertical margins in % resolve against the column width, which
+   is also the card width: a card is 139.3% of its width tall. */
+.stacks {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
-  gap: var(--space-sm);
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--space-md) var(--space-sm);
+  align-content: start;
 }
 
-.visual--side {
-  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+.stacks--side {
+  margin-top: var(--space-xs);
 }
 
-.vcard {
+.main--stack {
+  grid-template-columns: minmax(0, 1fr) 190px;
+}
+
+.stack {
+  display: flex;
+  flex-direction: column;
+  padding-top: 2px;
+}
+
+.scard {
   position: relative;
   display: block;
   aspect-ratio: 488 / 680;
-  border-radius: 4.75% / 3.5%;
+  border-radius: 4.75% / 3.4%;
   overflow: hidden;
   background: var(--paper-deep);
+  outline: 1px solid rgb(0 0 0 / 0.25);
 }
 
-.vcard img {
+.scard + .scard {
+  /* show 30% of the previous card's width (about 21% of its height): the title bar
+     plus a band of art that holds the count */
+  margin-top: -109.3%;
+}
+
+.scard:hover {
+  outline: 2px solid var(--accent);
+  z-index: 1;
+}
+
+.scard img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
 }
 
-.vcount {
+.scount {
   position: absolute;
-  top: 34%;
-  right: 0;
-  min-width: 1.8rem;
-  padding: 0.1rem 0.4rem;
-  background: var(--paper);
-  color: var(--ink);
-  border: 1px solid var(--ink);
-  border-right: none;
+  top: 11.5%;
+  right: 7%;
+  padding: 0 0.35rem;
+  background: var(--ink);
+  color: var(--paper);
+  border-radius: 3px;
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1rem;
-  text-align: center;
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 @media (max-width: 720px) {
