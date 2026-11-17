@@ -1,0 +1,969 @@
+[
+  {
+    "name": "Dragonstorm",
+    "slug": "dragonstorm",
+    "archetype": "combo",
+    "titles": [
+      "Dragonstorm"
+    ],
+    "cover": "Dragonstorm",
+    "keyCards": [
+      "Dragonstorm",
+      "Bogardan Hellkite",
+      "Lotus Bloom",
+      "Seething Song",
+      "Gigadrowse"
+    ],
+    "summary": {
+      "fr": "Combo rouge-bleu qui enchaîne rituels et Lotus Bloom pour lancer un Dragonstorm et mettre en jeu plusieurs Bogardan Hellkite.",
+      "en": "Blue-red combo that chains rituals and Lotus Bloom into a large Dragonstorm, putting several Bogardan Hellkite into play."
+    },
+    "why": {
+      "fr": [
+        "Lotus Bloom, Rite of Flame et Seething Song gonflaient le compte de tempête",
+        "Les Bogardan Hellkite infligeaient des dégâts dès leur arrivée",
+        "Gigadrowse engageait les terrains adverses pour passer les contresorts"
+      ],
+      "en": [
+        "Lotus Bloom, Rite of Flame and Seething Song built the storm count",
+        "Bogardan Hellkites dealt damage as they arrived",
+        "Gigadrowse tapped opposing lands to get past counterspells"
+      ]
+    }
+  },
+  {
+    "name": "Solar Flare",
+    "slug": "solar-flare",
+    "archetype": "control",
+    "titles": [
+      "Solar Flare",
+      "Solar Flare III",
+      "Solar Flare IIII",
+      "[Top 8 - T2] Solar Flare II"
+    ],
+    "cover": "Angel of Despair",
+    "keyCards": [
+      "Angel of Despair",
+      "Skeletal Vampire",
+      "Aeon Chronicler",
+      "Court Hussar",
+      "Damnation"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc-noir qui pioche avec Compulsive Research et Court Hussar, balaie avec Damnation et termine avec de grosses créatures.",
+      "en": "Blue-white-black control that draws with Compulsive Research and Court Hussar, sweeps with Damnation and finishes with large creatures."
+    },
+    "why": {
+      "fr": [
+        "Damnation et Wrath of God géraient les decks de créatures",
+        "Angel of Despair et Skeletal Vampire offraient des finisseurs à valeur",
+        "Castigate et Persecute perturbaient les decks de contrôle"
+      ],
+      "en": [
+        "Damnation and Wrath of God handled creature decks",
+        "Angel of Despair and Skeletal Vampire gave value finishers",
+        "Castigate and Persecute disrupted control decks"
+      ]
+    }
+  },
+  {
+    "name": "Blink Riders",
+    "slug": "blink-riders",
+    "archetype": "tempo",
+    "titles": [
+      "WUR Blink LL",
+      "Wur Blink",
+      "UWR Blink",
+      "Blink Patriot IIII",
+      "[Top 8 - T2] Blink Patriot",
+      "[Top 8 - T2] Blink Patriot II",
+      "Blink Raiders"
+    ],
+    "cover": "Riftwing Cloudskate",
+    "keyCards": [
+      "Riftwing Cloudskate",
+      "Momentary Blink",
+      "Venser, Shaper Savant",
+      "Lightning Angel",
+      "Grand Arbiter Augustin IV"
+    ],
+    "summary": {
+      "fr": "Tempo blanc-bleu-rouge qui réutilise Riftwing Cloudskate, Venser et Court Hussar avec Momentary Blink.",
+      "en": "White-blue-red tempo that reuses Riftwing Cloudskate, Venser and Court Hussar with Momentary Blink."
+    },
+    "why": {
+      "fr": [
+        "Momentary Blink et son flashback doublaient les capacités d'arrivée",
+        "Riftwing Cloudskate et Venser renvoyaient les permanents adverses",
+        "Grand Arbiter Augustin IV ralentissait les sorts adverses"
+      ],
+      "en": [
+        "Momentary Blink and its flashback doubled enters-the-battlefield effects",
+        "Riftwing Cloudskate and Venser bounced opposing permanents",
+        "Grand Arbiter Augustin IV taxed opposing spells"
+      ]
+    }
+  },
+  {
+    "name": "Blink-Touch",
+    "slug": "blink-touch",
+    "archetype": "midrange",
+    "titles": [
+      "Blink-Touch",
+      "Blink-Touch II",
+      "Blink-Touch III",
+      "Blink-Touch UWB",
+      "Blink-Touch UWB II"
+    ],
+    "cover": "Aethermage's Touch",
+    "keyCards": [
+      "Aethermage's Touch",
+      "Bogardan Hellkite",
+      "Momentary Blink",
+      "Riftwing Cloudskate",
+      "Court Hussar"
+    ],
+    "summary": {
+      "fr": "Variante de Blink qui ajoute Aethermage's Touch pour mettre en jeu Bogardan Hellkite ou Angel of Despair à vitesse éphémère.",
+      "en": "Blink variant that adds Aethermage's Touch to put Bogardan Hellkite or Angel of Despair into play at instant speed."
+    },
+    "why": {
+      "fr": [
+        "Aethermage's Touch renvoyait la créature en main pour la réutiliser",
+        "Les capacités d'arrivée se cumulaient avec Momentary Blink",
+        "Les versions blanc-bleu-noir utilisaient Angel of Despair comme cible"
+      ],
+      "en": [
+        "Aethermage's Touch returned the creature to hand for reuse",
+        "Enters-the-battlefield effects stacked with Momentary Blink",
+        "Blue-white-black versions used Angel of Despair as the target"
+      ]
+    }
+  },
+  {
+    "name": "Angelfire",
+    "slug": "angelfire",
+    "archetype": "control",
+    "titles": [
+      "Angelfire",
+      "AngelFire V",
+      "[Top 8 - T2] AngelFire II",
+      "UWr Control",
+      "Uwr Control"
+    ],
+    "cover": "Firemane Angel",
+    "keyCards": [
+      "Firemane Angel",
+      "Lightning Angel",
+      "Lightning Helix",
+      "Wrath of God",
+      "Compulsive Research"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu-rouge qui gagne des points de vie avec Lightning Helix et termine avec Lightning Angel et Firemane Angel.",
+      "en": "White-blue-red control that gains life with Lightning Helix and finishes with Lightning Angel and Firemane Angel."
+    },
+    "why": {
+      "fr": [
+        "Lightning Helix et Wrath of God stabilisaient contre l'aggro",
+        "Firemane Angel revenait du cimetière en fin de partie",
+        "Remand et Compulsive Research gardaient la main pleine"
+      ],
+      "en": [
+        "Lightning Helix and Wrath of God stabilised against aggro",
+        "Firemane Angel returned from the graveyard late",
+        "Remand and Compulsive Research kept the hand full"
+      ]
+    },
+    "note": "UWr Control lists (Worlds 2006, GP Kyoto) without Firemane Angel merged: same Lightning Angel control shell."
+  },
+  {
+    "name": "RG Aggro",
+    "slug": "rg-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Rg Aggro",
+      "Rg Aggro II",
+      "Rg Aggro IIII",
+      "Rg Aggro VII",
+      "RDW 2k7",
+      "Gruul Gargadon",
+      "[Top 8 - T2] Rg Aggro III"
+    ],
+    "cover": "Tarmogoyf",
+    "keyCards": [
+      "Tarmogoyf",
+      "Greater Gargadon",
+      "Mogg War Marshal",
+      "Keldon Marauders",
+      "Incinerate"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert qui combine Tarmogoyf, des Goblins à sacrifier pour Greater Gargadon et beaucoup de sorts de dégâts.",
+      "en": "Red-green aggro combining Tarmogoyf, Goblins to sacrifice into Greater Gargadon and plenty of burn."
+    },
+    "why": {
+      "fr": [
+        "Tarmogoyf grandissait vite avec sorts et créatures au cimetière",
+        "Mogg War Marshal et Mogg Fanatic accéléraient Greater Gargadon",
+        "Incinerate, Char et Rift Bolt finissaient les parties"
+      ],
+      "en": [
+        "Tarmogoyf grew quickly with spells and creatures in graveyards",
+        "Mogg War Marshal and Mogg Fanatic sped up Greater Gargadon",
+        "Incinerate, Char and Rift Bolt closed games"
+      ]
+    }
+  },
+  {
+    "name": "Gruul Beats",
+    "slug": "gruul-beats",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul",
+      "Gruul Beats",
+      "[Top 8 - T2] Gruul II"
+    ],
+    "cover": "Giant Solifuge",
+    "keyCards": [
+      "Giant Solifuge",
+      "Kird Ape",
+      "Scab-Clan Mauler",
+      "Call of the Herd",
+      "Stonewood Invocation"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert de créatures efficaces et difficiles à gérer, appuyé par Char et Seal of Fire.",
+      "en": "Red-green aggro of efficient, hard-to-answer creatures, backed by Char and Seal of Fire."
+    },
+    "why": {
+      "fr": [
+        "Giant Solifuge ne pouvait être ni ciblé ni contré",
+        "Kird Ape et Scab-Clan Mauler frappaient fort dès le début",
+        "Stonewood Invocation protégeait une créature au moment clé"
+      ],
+      "en": [
+        "Giant Solifuge could not be targeted or countered",
+        "Kird Ape and Scab-Clan Mauler hit hard early",
+        "Stonewood Invocation protected a creature at the key moment"
+      ]
+    }
+  },
+  {
+    "name": "Rakdos Aggro",
+    "slug": "rakdos-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Rakdos VI",
+      "Rakdos II",
+      "Rakdos III",
+      "Rakdos IIII"
+    ],
+    "cover": "Dark Confidant",
+    "keyCards": [
+      "Dark Confidant",
+      "Giant Solifuge",
+      "Demonfire",
+      "Hit/Run",
+      "Rift Bolt"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-noir riche en sorts de dégâts, avec Dark Confidant pour la pioche et Giant Solifuge comme menace.",
+      "en": "Burn-heavy red-black aggro, with Dark Confidant for cards and Giant Solifuge as a threat."
+    },
+    "why": {
+      "fr": [
+        "Dark Confidant compensait le manque d'avantage de cartes",
+        "Giant Solifuge échappait au retrait ciblé et aux contresorts",
+        "Demonfire et Hit/Run donnaient de la portée"
+      ],
+      "en": [
+        "Dark Confidant offset the lack of card advantage",
+        "Giant Solifuge dodged targeted removal and counters",
+        "Demonfire and Hit/Run gave reach"
+      ]
+    }
+  },
+  {
+    "name": "Project X",
+    "slug": "project-x",
+    "archetype": "combo",
+    "titles": [
+      "Project X"
+    ],
+    "cover": "Saffi Eriksdotter",
+    "keyCards": [
+      "Saffi Eriksdotter",
+      "Crypt Champion",
+      "Essence Warden",
+      "Teysa, Orzhov Scion",
+      "Chord of Calling"
+    ],
+    "summary": {
+      "fr": "Combo vert-blanc-noir qui boucle Saffi Eriksdotter et Crypt Champion pour gagner des points de vie ou drainer avec Teysa.",
+      "en": "Green-white-black combo that loops Saffi Eriksdotter and Crypt Champion to gain life or drain with Teysa."
+    },
+    "why": {
+      "fr": [
+        "Chord of Calling allait chercher la pièce manquante",
+        "Les pièces de la combinaison étaient aussi des créatures jouables seules",
+        "Loxodon Hierarch et Dark Confidant donnaient un plan midrange"
+      ],
+      "en": [
+        "Chord of Calling fetched the missing piece",
+        "The combo pieces were playable creatures on their own",
+        "Loxodon Hierarch and Dark Confidant gave a midrange plan"
+      ]
+    }
+  },
+  {
+    "name": "Pickles",
+    "slug": "pickles",
+    "archetype": "control",
+    "titles": [
+      "Mono-blue Pickles",
+      "UBw Pickles",
+      "UB Pickles"
+    ],
+    "cover": "Brine Elemental",
+    "keyCards": [
+      "Brine Elemental",
+      "Vesuvan Shapeshifter",
+      "Teferi, Mage of Zhalfir",
+      "Spell Snare",
+      "Cancel"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu qui retourne Vesuvan Shapeshifter copiant Brine Elemental pour empêcher l'adversaire de dégager ses permanents.",
+      "en": "Blue control that flips Vesuvan Shapeshifter copying Brine Elemental to stop the opponent untapping."
+    },
+    "why": {
+      "fr": [
+        "La combinaison Brine Elemental et Vesuvan Shapeshifter verrouillait l'adversaire",
+        "Teferi permettait de jouer les créatures en flash",
+        "Les nombreux contresorts protégeaient le verrou"
+      ],
+      "en": [
+        "Brine Elemental plus Vesuvan Shapeshifter locked the opponent",
+        "Teferi let it cast creatures at instant speed",
+        "A dense counterspell suite protected the lock"
+      ]
+    }
+  },
+  {
+    "name": "UB Teachings",
+    "slug": "ub-teachings",
+    "archetype": "control",
+    "titles": [
+      "UB Dralnu",
+      "UB Teachings - Dralnu Style",
+      "UBr Teachings",
+      "UBgw Teachings"
+    ],
+    "rep": 601684,
+    "cover": "Mystical Teachings",
+    "keyCards": [
+      "Mystical Teachings",
+      "Dralnu, Lich Lord",
+      "Teferi, Mage of Zhalfir",
+      "Damnation",
+      "Spell Snare"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir à base de sorts éphémères, qui cherche ses réponses avec Mystical Teachings et les rejoue avec Dralnu.",
+      "en": "Blue-black instant-speed control that finds answers with Mystical Teachings and replays them with Dralnu."
+    },
+    "why": {
+      "fr": [
+        "Teferi permettait de jouer tous les sorts à vitesse éphémère",
+        "Mystical Teachings allait chercher la réponse adaptée",
+        "Damnation et les contresorts couvraient les decks aggro et contrôle"
+      ],
+      "en": [
+        "Teferi let it play everything at instant speed",
+        "Mystical Teachings fetched the right answer",
+        "Damnation and counters covered aggro and control"
+      ]
+    },
+    "note": "Often called Dralnu du Louvre; UBr Teachings variant merged."
+  },
+  {
+    "name": "BG Rack",
+    "slug": "bg-rack",
+    "archetype": "control",
+    "titles": [
+      "Goyf Rack",
+      "TarmoRack"
+    ],
+    "cover": "The Rack",
+    "keyCards": [
+      "The Rack",
+      "Smallpox",
+      "Stupor",
+      "Augur of Skulls",
+      "Tarmogoyf"
+    ],
+    "summary": {
+      "fr": "Défausse vert-noir qui vide la main adverse avec Stupor, Augur of Skulls et Smallpox, puis punit avec The Rack.",
+      "en": "Green-black discard deck that empties the opponent's hand with Stupor, Augur of Skulls and Smallpox, then punishes with The Rack."
+    },
+    "why": {
+      "fr": [
+        "The Rack infligeait des dégâts chaque tour à une main vide",
+        "Smallpox et Augur of Skulls cumulaient défausse et pression",
+        "Tarmogoyf et Dark Confidant donnaient des menaces efficaces"
+      ],
+      "en": [
+        "The Rack dealt damage every turn to an empty hand",
+        "Smallpox and Augur of Skulls combined discard and pressure",
+        "Tarmogoyf and Dark Confidant gave efficient threats"
+      ]
+    }
+  },
+  {
+    "name": "Boros Aggro",
+    "slug": "boros-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Boros"
+    ],
+    "cover": "Knight of the Holy Nimbus",
+    "keyCards": [
+      "Knight of the Holy Nimbus",
+      "Soltari Priest",
+      "Lightning Helix",
+      "Rift Bolt",
+      "Char"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc de petites créatures évasives ou résistantes, soutenu par de nombreux sorts de dégâts.",
+      "en": "Red-white aggro of small evasive or resilient creatures, backed by plenty of burn."
+    },
+    "why": {
+      "fr": [
+        "Soltari Priest et Knight of the Holy Nimbus résistaient au retrait courant",
+        "Lightning Helix, Char et Rift Bolt finissaient les parties",
+        "Icatian Javelineers et Savannah Lions mettaient une pression immédiate"
+      ],
+      "en": [
+        "Soltari Priest and Knight of the Holy Nimbus shrugged off common removal",
+        "Lightning Helix, Char and Rift Bolt closed games",
+        "Icatian Javelineers and Savannah Lions applied immediate pressure"
+      ]
+    }
+  },
+  {
+    "name": "UW Tron",
+    "slug": "uw-tron",
+    "archetype": "control",
+    "titles": [
+      "UWTron"
+    ],
+    "cover": "Triskelavus",
+    "keyCards": [
+      "Teferi, Mage of Zhalfir",
+      "Triskelavus",
+      "Mystical Teachings",
+      "Wrath of God",
+      "Urza's Tower"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc qui assemble les terrains d'Urza et des Signets, contre et balaie, puis gagne avec Triskelavus.",
+      "en": "Blue-white control that assembles the Urza lands and Signets, counters and sweeps, then wins with Triskelavus."
+    },
+    "why": {
+      "fr": [
+        "Les terrains d'Urza donnaient un surplus de mana tôt",
+        "Teferi et Mystical Teachings permettaient de jouer à vitesse éphémère",
+        "Remand et Wrath of God ralentissaient les decks rapides"
+      ],
+      "en": [
+        "The Urza lands supplied extra mana early",
+        "Teferi and Mystical Teachings allowed instant-speed play",
+        "Remand and Wrath of God slowed fast decks"
+      ]
+    }
+  },
+  {
+    "name": "Martyr Tron",
+    "slug": "martyr-tron",
+    "archetype": "control",
+    "titles": [
+      "Tron Martyr Life"
+    ],
+    "cover": "Martyr of Sands",
+    "keyCards": [
+      "Martyr of Sands",
+      "Proclamation of Rebirth",
+      "Chronosavant",
+      "Wrath of God",
+      "Urza's Tower"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc sur terrains d'Urza qui gagne beaucoup de points de vie en recyclant Martyr of Sands avec Proclamation of Rebirth.",
+      "en": "Blue-white Urza-land control that gains large amounts of life by recurring Martyr of Sands with Proclamation of Rebirth."
+    },
+    "why": {
+      "fr": [
+        "Proclamation of Rebirth ramenait Martyr of Sands chaque tour",
+        "Le gain de vie répété épuisait les decks aggro",
+        "Les terrains d'Urza fournissaient le mana nécessaire"
+      ],
+      "en": [
+        "Proclamation of Rebirth returned Martyr of Sands every turn",
+        "Repeated life gain wore down aggro decks",
+        "The Urza lands provided the mana required"
+      ]
+    }
+  },
+  {
+    "name": "Korlash Black",
+    "slug": "korlash-black",
+    "archetype": "midrange",
+    "titles": [
+      "Korlash Black"
+    ],
+    "cover": "Korlash, Heir to Blackblade",
+    "keyCards": [
+      "Korlash, Heir to Blackblade",
+      "Hypnotic Specter",
+      "Dark Confidant",
+      "Tendrils of Corruption",
+      "Damnation"
+    ],
+    "summary": {
+      "fr": "Midrange mono-noir qui exploite le grand nombre de Swamp pour Korlash et Tendrils of Corruption.",
+      "en": "Mono-black midrange that uses a high Swamp count for Korlash and Tendrils of Corruption."
+    },
+    "why": {
+      "fr": [
+        "Korlash et Tendrils of Corruption grandissaient avec les Swamp",
+        "Hypnotic Specter et Stupor attaquaient la main adverse",
+        "Dark Confidant et Graveborn Muse fournissaient de l'avantage"
+      ],
+      "en": [
+        "Korlash and Tendrils of Corruption scaled with Swamps",
+        "Hypnotic Specter and Stupor attacked hands",
+        "Dark Confidant and Graveborn Muse supplied card advantage"
+      ]
+    }
+  },
+  {
+    "name": "Snow Korlash",
+    "slug": "snow-korlash",
+    "archetype": "control",
+    "titles": [
+      "E7 Snow Korlash"
+    ],
+    "cover": "Scrying Sheets",
+    "keyCards": [
+      "Korlash, Heir to Blackblade",
+      "Scrying Sheets",
+      "Twisted Abomination",
+      "Damnation",
+      "Tendrils of Corruption"
+    ],
+    "summary": {
+      "fr": "Contrôle noir à base de terrains neigeux qui pioche avec Scrying Sheets et gagne avec Korlash et Twisted Abomination.",
+      "en": "Black snow-land control that draws with Scrying Sheets and wins with Korlash and Twisted Abomination."
+    },
+    "why": {
+      "fr": [
+        "Scrying Sheets transformait les terrains neigeux en pioche",
+        "Damnation et Tendrils of Corruption géraient les créatures",
+        "Twisted Abomination se régénérait et pouvait chercher un Swamp en début de partie"
+      ],
+      "en": [
+        "Scrying Sheets turned snow lands into card draw",
+        "Damnation and Tendrils of Corruption handled creatures",
+        "Twisted Abomination regenerated and could swampcycle early on"
+      ]
+    }
+  },
+  {
+    "name": "Swath Storm",
+    "slug": "swath-storm",
+    "archetype": "combo",
+    "titles": [
+      "Swath Storm",
+      "Aussie Storm"
+    ],
+    "cover": "Pyromancer's Swath",
+    "keyCards": [
+      "Pyromancer's Swath",
+      "Grapeshot",
+      "Empty the Warrens",
+      "Lotus Bloom",
+      "Hatching Plans"
+    ],
+    "summary": {
+      "fr": "Combo rouge-bleu qui sacrifie Hatching Plans et des artefacts pour piocher, puis gagne avec Grapeshot amplifié par Pyromancer's Swath.",
+      "en": "Blue-red combo that sacrifices Hatching Plans and artifacts to draw, then wins with Grapeshot boosted by Pyromancer's Swath."
+    },
+    "why": {
+      "fr": [
+        "Pyromancer's Swath ajoutait des dégâts à chaque copie de Grapeshot",
+        "Claws of Gix et Perilous Research convertissaient les permanents en pioche",
+        "Empty the Warrens offrait un plan de victoire alternatif"
+      ],
+      "en": [
+        "Pyromancer's Swath added damage to each Grapeshot copy",
+        "Claws of Gix and Perilous Research turned permanents into cards",
+        "Empty the Warrens gave an alternative win"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge-Bridge",
+      "Dredge-Bridge II"
+    ],
+    "cover": "Golgari Grave-Troll",
+    "keyCards": [
+      "Golgari Grave-Troll",
+      "Bridge from Below",
+      "Dread Return",
+      "Narcomoeba",
+      "Magus of the Bazaar"
+    ],
+    "summary": {
+      "fr": "Combo cimetière qui remplit son cimetière grâce au dredge, puis utilise Dread Return et Bridge from Below pour gagner.",
+      "en": "Graveyard combo that fills its graveyard with dredge, then uses Dread Return and Bridge from Below to win."
+    },
+    "why": {
+      "fr": [
+        "Magus of the Bazaar et Merfolk Looter activaient le dredge chaque tour",
+        "Narcomoeba fournissait des créatures à sacrifier pour Dread Return",
+        "Bridge from Below créait des jetons à chaque créature morte"
+      ],
+      "en": [
+        "Magus of the Bazaar and Merfolk Looter enabled dredge every turn",
+        "Narcomoeba supplied creatures to sacrifice for Dread Return",
+        "Bridge from Below made tokens whenever a creature died"
+      ]
+    }
+  },
+  {
+    "name": "OmniChord",
+    "slug": "omnichord",
+    "archetype": "midrange",
+    "titles": [
+      "OmniChord"
+    ],
+    "cover": "Chord of Calling",
+    "keyCards": [
+      "Chord of Calling",
+      "Mystic Snake",
+      "Vesuvan Shapeshifter",
+      "Wall of Roots",
+      "Loxodon Hierarch"
+    ],
+    "summary": {
+      "fr": "Midrange vert-bleu-blanc qui utilise Chord of Calling pour trouver la créature adaptée, souvent à vitesse éphémère.",
+      "en": "Green-blue-white midrange that uses Chord of Calling to find the right creature, often at instant speed."
+    },
+    "why": {
+      "fr": [
+        "Chord of Calling allait chercher une réponse en créature au moment voulu",
+        "Mystic Snake et Willbender servaient de contresorts sur pattes",
+        "Wall of Roots fournissait du mana et bloquait l'aggro"
+      ],
+      "en": [
+        "Chord of Calling fetched a creature answer at the right moment",
+        "Mystic Snake and Willbender acted as counterspells on bodies",
+        "Wall of Roots supplied mana and blocked aggro"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Green Aggro",
+    "slug": "mono-green-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MGA"
+    ],
+    "cover": "Silhana Ledgewalker",
+    "keyCards": [
+      "Silhana Ledgewalker",
+      "Troll Ascetic",
+      "Moldervine Cloak",
+      "Might of Old Krosa",
+      "Scryb Ranger"
+    ],
+    "summary": {
+      "fr": "Aggro mono-vert qui renforce des créatures difficiles à bloquer ou à cibler avec Moldervine Cloak et Might of Old Krosa.",
+      "en": "Mono-green aggro that pumps hard-to-block or hard-to-target creatures with Moldervine Cloak and Might of Old Krosa."
+    },
+    "why": {
+      "fr": [
+        "Silhana Ledgewalker ne pouvait être bloquée que par des volants",
+        "Troll Ascetic et Giant Solifuge résistaient au retrait ciblé",
+        "Boreal Druid et Llanowar Elves accéléraient le départ"
+      ],
+      "en": [
+        "Silhana Ledgewalker could only be blocked by fliers",
+        "Troll Ascetic and Giant Solifuge resisted targeted removal",
+        "Boreal Druid and Llanowar Elves sped up starts"
+      ]
+    }
+  },
+  {
+    "name": "UR Tron",
+    "slug": "ur-tron",
+    "archetype": "control",
+    "titles": [
+      "UR Tron"
+    ],
+    "cover": "Bogardan Hellkite",
+    "keyCards": [
+      "Bogardan Hellkite",
+      "Sulfur Elemental",
+      "Electrolyze",
+      "Izzet Signet",
+      "Urza's Tower"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge qui assemble les terrains d'Urza, contre et retire les menaces, puis gagne avec Bogardan Hellkite.",
+      "en": "Blue-red control that assembles the Urza lands, counters and removes threats, then wins with Bogardan Hellkite."
+    },
+    "why": {
+      "fr": [
+        "Sulfur Elemental gênait les decks blancs et les jetons",
+        "Electrolyze et Demonfire retiraient les créatures",
+        "Les terrains d'Urza rendaient les gros sorts disponibles tôt"
+      ],
+      "en": [
+        "Sulfur Elemental troubled white decks and tokens",
+        "Electrolyze and Demonfire removed creatures",
+        "The Urza lands made big spells available early"
+      ]
+    }
+  },
+  {
+    "name": "UG Tron",
+    "slug": "ug-tron",
+    "archetype": "ramp",
+    "titles": [
+      "UG Tron"
+    ],
+    "cover": "Thelonite Hermit",
+    "keyCards": [
+      "Chord of Calling",
+      "Thelonite Hermit",
+      "Vesuvan Shapeshifter",
+      "Wall of Roots",
+      "Urza's Tower"
+    ],
+    "summary": {
+      "fr": "Ramp vert-bleu sur terrains d'Urza qui utilise Chord of Calling pour trouver Thelonite Hermit ou d'autres créatures utiles.",
+      "en": "Green-blue Urza-land ramp that uses Chord of Calling to find Thelonite Hermit or other utility creatures."
+    },
+    "why": {
+      "fr": [
+        "Les terrains d'Urza et Wall of Roots alimentaient de gros Chord of Calling",
+        "Thelonite Hermit créait plusieurs Saprolings renforcés",
+        "Remand et Repeal gagnaient du temps"
+      ],
+      "en": [
+        "The Urza lands and Wall of Roots fuelled large Chord of Calling",
+        "Thelonite Hermit produced several pumped Saprolings",
+        "Remand and Repeal bought time"
+      ]
+    }
+  },
+  {
+    "name": "Greater Goyf",
+    "slug": "greater-goyf",
+    "archetype": "aggro",
+    "titles": [
+      "Greater Goyf"
+    ],
+    "cover": "Greater Gargadon",
+    "keyCards": [
+      "Greater Gargadon",
+      "Tarmogoyf",
+      "Perilous Research",
+      "Mogg War Marshal",
+      "Lightning Helix"
+    ],
+    "summary": {
+      "fr": "Aggro multicolore qui sacrifie artefacts et jetons pour Greater Gargadon et Perilous Research, avec Tarmogoyf en soutien.",
+      "en": "Multicolour aggro that sacrifices artifacts and tokens to Greater Gargadon and Perilous Research, with Tarmogoyf in support."
+    },
+    "why": {
+      "fr": [
+        "Chromatic Star et Terrarion piochaient une carte en étant sacrifiés",
+        "Les sacrifices accéléraient l'arrivée de Greater Gargadon",
+        "Tarmogoyf grandissait grâce aux artefacts au cimetière"
+      ],
+      "en": [
+        "Chromatic Star and Terrarion drew a card when sacrificed",
+        "Sacrifices sped up Greater Gargadon",
+        "Tarmogoyf grew from artifacts in graveyards"
+      ]
+    }
+  },
+  {
+    "name": "UG Graft",
+    "slug": "ug-graft",
+    "archetype": "midrange",
+    "titles": [
+      "Graft UG"
+    ],
+    "cover": "Plaxcaster Frogling",
+    "keyCards": [
+      "Plaxcaster Frogling",
+      "Cytoplast Root-Kin",
+      "Spike Feeder",
+      "Chord of Calling",
+      "Voidslime"
+    ],
+    "summary": {
+      "fr": "Midrange vert-bleu de créatures à greffe qui déplacent leurs marqueurs et protègent l'équipe avec Plaxcaster Frogling.",
+      "en": "Green-blue midrange of graft creatures that move counters around, with Plaxcaster Frogling protecting the team."
+    },
+    "why": {
+      "fr": [
+        "Plaxcaster Frogling donnait la défense talismanique aux créatures avec des marqueurs",
+        "Cytoplast Root-Kin multipliait les marqueurs +1/+1",
+        "Voidslime et Spell Snare contraient les sorts clés"
+      ],
+      "en": [
+        "Plaxcaster Frogling gave shroud to creatures with counters",
+        "Cytoplast Root-Kin multiplied +1/+1 counters",
+        "Voidslime and Spell Snare countered key spells"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control"
+    ],
+    "cover": "Teferi, Mage of Zhalfir",
+    "keyCards": [
+      "Teferi, Mage of Zhalfir",
+      "Court Hussar",
+      "Sacred Mesa",
+      "Wrath of God",
+      "Careful Consideration"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc classique qui contre, balaie avec Wrath of God et gagne avec Sacred Mesa ou des créatures volantes.",
+      "en": "Classic blue-white control that counters, sweeps with Wrath of God and wins with Sacred Mesa or flying creatures."
+    },
+    "why": {
+      "fr": [
+        "Teferi empêchait l'adversaire de jouer à vitesse éphémère",
+        "Condemn et Wrath of God géraient l'aggro",
+        "Careful Consideration et Court Hussar assuraient la pioche"
+      ],
+      "en": [
+        "Teferi stopped opponents from playing at instant speed",
+        "Condemn and Wrath of God handled aggro",
+        "Careful Consideration and Court Hussar supplied card draw"
+      ]
+    }
+  },
+  {
+    "name": "GUW Blink",
+    "slug": "guw-blink",
+    "archetype": "midrange",
+    "titles": [
+      "Blink"
+    ],
+    "cover": "Momentary Blink",
+    "keyCards": [
+      "Momentary Blink",
+      "Tarmogoyf",
+      "Venser, Shaper Savant",
+      "Riftwing Cloudskate",
+      "Loxodon Hierarch"
+    ],
+    "summary": {
+      "fr": "Midrange vert-bleu-blanc qui associe Tarmogoyf et Loxodon Hierarch aux créatures à capacité d'arrivée et à Momentary Blink.",
+      "en": "Green-blue-white midrange pairing Tarmogoyf and Loxodon Hierarch with enters-the-battlefield creatures and Momentary Blink."
+    },
+    "why": {
+      "fr": [
+        "Momentary Blink réutilisait Venser et Riftwing Cloudskate",
+        "Tarmogoyf apportait une menace bon marché",
+        "Wall of Roots et Edge of Autumn accéléraient le mana"
+      ],
+      "en": [
+        "Momentary Blink reused Venser and Riftwing Cloudskate",
+        "Tarmogoyf provided a cheap threat",
+        "Wall of Roots and Edge of Autumn accelerated mana"
+      ]
+    }
+  },
+  {
+    "name": "Rakdos Gargadon",
+    "slug": "rakdos-gargadon",
+    "archetype": "aggro",
+    "titles": [
+      "Rakdos 10 (Gargadon on Bob)"
+    ],
+    "cover": "Threaten",
+    "keyCards": [
+      "Greater Gargadon",
+      "Threaten",
+      "Dark Confidant",
+      "Epochrasite",
+      "Keldon Marauders"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-noir qui vole les créatures adverses avec Threaten puis les sacrifie à Greater Gargadon.",
+      "en": "Red-black aggro that steals opposing creatures with Threaten, then sacrifices them to Greater Gargadon."
+    },
+    "why": {
+      "fr": [
+        "Threaten et Greater Gargadon retiraient définitivement les bloqueurs",
+        "Epochrasite revenait après chaque sacrifice",
+        "Keldon Marauders et Mogg Fanatic infligeaient des dégâts directs"
+      ],
+      "en": [
+        "Threaten plus Greater Gargadon permanently removed blockers",
+        "Epochrasite came back after each sacrifice",
+        "Keldon Marauders and Mogg Fanatic dealt direct damage"
+      ]
+    }
+  },
+  {
+    "name": "GW Aggro",
+    "slug": "gw-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Glare"
+    ],
+    "cover": "Saffi Eriksdotter",
+    "keyCards": [
+      "Watchwolf",
+      "Serra Avenger",
+      "Saffi Eriksdotter",
+      "Selesnya Guildmage",
+      "Glare of Subdual"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc de créatures efficaces, avec Selesnya Guildmage, Glare of Subdual et Gather Courage en soutien.",
+      "en": "Green-white aggro of efficient creatures, supported by Selesnya Guildmage, Glare of Subdual and Gather Courage."
+    },
+    "why": {
+      "fr": [
+        "Watchwolf et Tarmogoyf frappaient fort dès les premiers tours",
+        "Saffi Eriksdotter protégeait une créature clé du retrait",
+        "Selesnya Guildmage renforçait l'équipe en fin de partie"
+      ],
+      "en": [
+        "Watchwolf and Tarmogoyf hit hard early",
+        "Saffi Eriksdotter protected a key creature from removal",
+        "Selesnya Guildmage pumped the team late"
+      ]
+    }
+  }
+]
