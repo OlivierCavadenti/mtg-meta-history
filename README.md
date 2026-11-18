@@ -25,6 +25,9 @@ npm run dev
 ## Data
 
 - Tournament results and decklists: [MTGTop8](https://www.mtgtop8.com) (public event pages)
+- Seasons MTGTop8 barely covers (1996–2007): [Classic Dojo archive](https://classicdojo.org) tournament
+  reports and the [StarCityGames deck database](https://starcitygames.com/decklists/), each list linked
+  to the page that publishes it
 - Card data and images: [Scryfall](https://scryfall.com)
 - Bans: official Banned & Restricted announcements
 

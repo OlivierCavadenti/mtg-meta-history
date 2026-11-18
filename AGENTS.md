@@ -73,6 +73,10 @@ python3 scripts/pipeline/check_editorial.py 2005-rav                     # valid
   `data-src/standard/extra/{season}.json` (format documented in `scripts/pipeline/common.py`,
   `load_extra`). A list must be copied from a page that shows it card by card; its URL is
   mandatory and becomes the deck's source link. A result without a list counts in stats only.
+  Reachable period sources so far: classicdojo.org (Dojo tournament reports, 1996 – Dec 1998) and
+  the StarCityGames deck database from Oct 2002 (`https://ajax.starcitygames.com/decks/deck/N/user-display`
+  returns the list behind `https://starcitygames.com/decklists/deck/?id=N`). web.archive.org is not
+  reachable from the build environment; Oct 2001 – 2002 and 1999 – 2001 Regionals remain thin.
 
 ## 4. Card data and build
 
