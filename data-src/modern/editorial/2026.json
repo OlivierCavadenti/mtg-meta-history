@@ -1,0 +1,778 @@
+[
+  {
+    "name": "Broodscale Combo",
+    "slug": "broodscale-combo",
+    "archetype": "combo",
+    "titles": [
+      "Broodscale Bloodchief",
+      "Eldrazi Broodscale Combo",
+      "Mono-green Basking Broodscale Combo",
+      "Broodscale Combo"
+    ],
+    "cover": "Basking Broodscale",
+    "keyCards": [
+      "Basking Broodscale",
+      "Blade of the Bloodchief",
+      "Sowing Mycospawn",
+      "Kozilek's Command",
+      "Emrakul, the Promised End"
+    ],
+    "summary": {
+      "fr": "Combo Eldrazi : Blade of the Bloodchief sur Basking Broodscale transforme chaque Eldrazi Spawn sacrifié en un nouveau ; Sowing Mycospawn et Ugin's Labyrinth ajoutent un plan de rampe vers Emrakul.",
+      "en": "Eldrazi combo: Blade of the Bloodchief on Basking Broodscale turns each sacrificed Eldrazi Spawn into a new one; Sowing Mycospawn and Ugin's Labyrinth add a ramp plan to Emrakul."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship européen de Gand",
+        "Deuxième du Pro Tour Marvel Super Heroes",
+        "Finaliste de plusieurs Regional Championships à l'automne"
+      ],
+      "en": [
+        "Won the European Regional Championship in Ghent",
+        "Second at Pro Tour Marvel Super Heroes",
+        "Reached the final of several Regional Championships in the autumn"
+      ]
+    },
+    "rep": 899958
+  },
+  {
+    "name": "Boros Energy",
+    "slug": "boros-energy",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Energy",
+      "Boros Aggro",
+      "Mardu Energy"
+    ],
+    "cover": "Guide of Souls",
+    "keyCards": [
+      "Guide of Souls",
+      "Ocelot Pride",
+      "Ajani, Nacatl Pariah",
+      "Voice of Victory",
+      "Goblin Bombardment"
+    ],
+    "summary": {
+      "fr": "Aggro énergie rouge-blanc : Guide of Souls, Ocelot Pride et Ajani construisent la table, Galvanic Discharge retire les bloqueurs, Goblin Bombardment convertit les jetons en dégâts.",
+      "en": "Red-white energy aggro: Guide of Souls, Ocelot Pride and Ajani build a board, Galvanic Discharge clears blockers, and Goblin Bombardment converts tokens into damage."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Pro Tour Marvel Super Heroes",
+        "A remporté le Regional Championship sud-américain de Buenos Aires après le ban de Phlage en mai",
+        "Seasoned Pyromancer et Voice of Victory occupaient le haut de courbe"
+      ],
+      "en": [
+        "Top 4 at Pro Tour Marvel Super Heroes",
+        "Won the South American Regional Championship in Buenos Aires after Phlage's May ban",
+        "Seasoned Pyromancer and Voice of Victory filled the upper curve"
+      ]
+    },
+    "rep": 905610
+  },
+  {
+    "name": "Izzet Prowess",
+    "slug": "izzet-prowess",
+    "archetype": "aggro",
+    "titles": [
+      "UR Cutter Prowess",
+      "UR Aggro",
+      "Izzet Prowess",
+      "Gruul Prowess",
+      "Ur Cutter Prowess"
+    ],
+    "cover": "Cori-Steel Cutter",
+    "keyCards": [
+      "Cori-Steel Cutter",
+      "Slickshot Show-Off",
+      "Dragon's Rage Channeler",
+      "Lava Dart",
+      "Mutagenic Growth"
+    ],
+    "summary": {
+      "fr": "Aggro prouesse bleu-rouge : cantrips, Mishra's Bauble et sorts gratuits déclenchent Monastery Swiftspear et Slickshot Show-Off, Cori-Steel Cutter ajoutant un Moine à chaque deuxième sort.",
+      "en": "Blue-red prowess aggro: cantrips, Mishra's Bauble and free spells trigger Monastery Swiftspear and Slickshot Show-Off, while Cori-Steel Cutter adds a Monk token on each second spell."
+    },
+    "why": {
+      "fr": [
+        "A remporté les Magic Spotlight: The Hobbit de Brisbane et de Dallas",
+        "Deuxième au Regional Championship japonais de Yokohama",
+        "Expressive Iteration et Preordain maintenaient un flux de sorts"
+      ],
+      "en": [
+        "Won Magic Spotlight: The Hobbit events in Brisbane and Dallas",
+        "Second at the Japanese Regional Championship in Yokohama",
+        "Expressive Iteration and Preordain kept the spell count high"
+      ]
+    },
+    "rep": 885065
+  },
+  {
+    "name": "Esper Goryo's",
+    "slug": "esper-goryos",
+    "archetype": "combo",
+    "titles": [
+      "Instant Reanimator",
+      "Goryo's Vengeance",
+      "Esper Reanimator"
+    ],
+    "cover": "Goryo's Vengeance",
+    "keyCards": [
+      "Goryo's Vengeance",
+      "Atraxa, Grand Unifier",
+      "Psychic Frog",
+      "Ephemerate",
+      "Griselbrand"
+    ],
+    "summary": {
+      "fr": "Combo de réanimation : Psychic Frog ou Faithful Mending défausse Atraxa ou Griselbrand, Goryo's Vengeance la ramène à vitesse éphémère et Ephemerate la garde en jeu.",
+      "en": "Reanimation combo: Psychic Frog or Faithful Mending discards Atraxa or Griselbrand, Goryo's Vengeance returns it at instant speed, and Ephemerate keeps it on the battlefield."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Pro Tour Marvel Super Heroes",
+        "Deuxième et top 4 au Regional Championship d'Amérique centrale à Mexico",
+        "Solitude et Thoughtseize donnaient au deck un plan de jeu classique"
+      ],
+      "en": [
+        "Top 4 at Pro Tour Marvel Super Heroes",
+        "Second and top 4 at the Central American Regional Championship in Mexico City",
+        "Solitude and Thoughtseize gave the deck a fair game plan"
+      ]
+    },
+    "rep": 870512
+  },
+  {
+    "name": "Izzet Affinity",
+    "slug": "izzet-affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Pinnacle Affinity",
+      "Affinity",
+      "Manufacturing Affinity",
+      "Jeskai Affinity",
+      "Affinity (izzet Affinity)"
+    ],
+    "cover": "Kappa Cannoneer",
+    "keyCards": [
+      "Kappa Cannoneer",
+      "Pinnacle Emissary",
+      "Weapons Manufacturing",
+      "Mox Opal",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Aggro artefacts bleu-rouge : Mox Opal, Mishra's Bauble et Urza's Saga accélèrent Kappa Cannoneer et Pinnacle Emissary, et Weapons Manufacturing convertit les artefacts en dégâts.",
+      "en": "Blue-red artifact aggro: Mox Opal, Mishra's Bauble and Urza's Saga power out Kappa Cannoneer and Pinnacle Emissary, and Weapons Manufacturing turns artifacts into extra damage."
+    },
+    "why": {
+      "fr": [
+        "Top 8 aux Regional Championships canadien, sud-américain et taïwanais",
+        "Emry, Lurker of the Loch rejouait les artefacts bon marché depuis le cimetière",
+        "Engineered Explosives et Tormod's Crypt répondaient aux jetons et aux cimetières"
+      ],
+      "en": [
+        "Top 8s at the Canadian, South American and Taiwanese Regional Championships",
+        "Emry, Lurker of the Loch recast cheap artifacts from the graveyard",
+        "Engineered Explosives and Tormod's Crypt answered tokens and graveyards"
+      ]
+    },
+    "rep": 858828
+  },
+  {
+    "name": "Azorius Chant",
+    "slug": "azorius-chant",
+    "archetype": "control",
+    "titles": [
+      "Scepter Chant",
+      "UW Control",
+      "Uw Control",
+      "Uwr Control",
+      "Uw Control Thundertrap"
+    ],
+    "cover": "Isochron Scepter",
+    "keyCards": [
+      "Isochron Scepter",
+      "Orim's Chant",
+      "Narset, Parter of Veils",
+      "Day's Undoing",
+      "Teferi, Time Raveler"
+    ],
+    "summary": {
+      "fr": "Contrôle Azorius bâti sur Orim's Chant et Silence : Isochron Scepter peut les rejouer chaque tour, Narset avec Day's Undoing ne recharge que son camp, Solitude gère les créatures.",
+      "en": "Azorius control built on Orim's Chant and Silence: Isochron Scepter can repeat them each turn, Narset with Day's Undoing refills only its controller, Solitude handles creatures."
+    },
+    "why": {
+      "fr": [
+        "A remporté les Regional Championships de Gatineau, Los Angeles et Sydney",
+        "Teferi, Time Raveler limitait l'adversaire à la vitesse rituel",
+        "Wrath of the Skies et Supreme Verdict nettoyaient la table"
+      ],
+      "en": [
+        "Won the Regional Championships in Gatineau, Los Angeles and Sydney",
+        "Teferi, Time Raveler kept opponents to sorcery speed",
+        "Wrath of the Skies and Supreme Verdict reset the board"
+      ]
+    },
+    "rep": 896256,
+    "include": [
+      858971
+    ]
+  },
+  {
+    "name": "Ruby Storm",
+    "slug": "ruby-storm",
+    "archetype": "combo",
+    "titles": [
+      "Ruby Storm",
+      "UR Storm"
+    ],
+    "cover": "Ruby Medallion",
+    "keyCards": [
+      "Ruby Medallion",
+      "Ral, Monsoon Mage",
+      "Desperate Ritual",
+      "Past in Flames",
+      "Wrenn's Resolve"
+    ],
+    "summary": {
+      "fr": "Combo storm rouge : Ruby Medallion et Ral, Monsoon Mage réduisent le coût des rituels et de la pioche, Past in Flames les rejoue et Grapeshot conclut.",
+      "en": "Red storm combo: Ruby Medallion and Ral, Monsoon Mage reduce the cost of rituals and card draw, Past in Flames recasts them, and Grapeshot ends the game."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Regional Championship canadien de Gatineau",
+        "A remporté le main event 4Seasons Winter de Bologne",
+        "Reckless Impulse et Wrenn's Resolve creusaient deux cartes à la fois"
+      ],
+      "en": [
+        "Top 4 at the Canadian Regional Championship in Gatineau",
+        "Won the 4Seasons Winter main event in Bologna",
+        "Reckless Impulse and Wrenn's Resolve dug two cards at a time"
+      ]
+    },
+    "rep": 896259
+  },
+  {
+    "name": "Esper Blink",
+    "slug": "esper-blink",
+    "archetype": "midrange",
+    "titles": [
+      "Esper Blink",
+      "Esper & Taxes"
+    ],
+    "cover": "Phelia, Exuberant Shepherd",
+    "keyCards": [
+      "Phelia, Exuberant Shepherd",
+      "Overlord of the Balemurk",
+      "Quantum Riddler",
+      "Solitude",
+      "Witch Enchanter"
+    ],
+    "summary": {
+      "fr": "Deck de créatures Esper qui réutilise ses effets d'arrivée : Phelia, Ephemerate et Flickerwisp font clignoter Solitude, Quantum Riddler et Overlord of the Balemurk.",
+      "en": "Esper creature deck that reuses enters-the-battlefield effects: Phelia, Ephemerate and Flickerwisp blink Solitude, Quantum Riddler and Overlord of the Balemurk."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship d'Amérique centrale à Mexico",
+        "Deux top 8 au Regional Championship de Baltimore",
+        "Thoughtseize et Fatal Push fournissaient l'interaction bon marché"
+      ],
+      "en": [
+        "Won the Central American Regional Championship in Mexico City",
+        "Two top 8s at the Baltimore Regional Championship",
+        "Thoughtseize and Fatal Push supplied cheap interaction"
+      ]
+    },
+    "rep": 900393
+  },
+  {
+    "name": "Rakdos Delirium",
+    "slug": "rakdos-delirium",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Delirium",
+      "Rakdos Aggro",
+      "Br Midrange"
+    ],
+    "cover": "Nethergoyf",
+    "keyCards": [
+      "Nethergoyf",
+      "Moonshadow",
+      "Dark Matter Manipulator",
+      "Fear of Missing Out",
+      "Detective's Phoenix"
+    ],
+    "summary": {
+      "fr": "Midrange cimetière noir-rouge : Street Wraith, Mishra's Bauble et Stitcher's Supplier remplissent le cimetière pour Nethergoyf et le délire, aux côtés de Moonshadow et Fear of Missing Out.",
+      "en": "Black-red graveyard midrange: Street Wraith, Mishra's Bauble and Stitcher's Supplier fill the graveyard to grow Nethergoyf and enable delirium, beside Moonshadow and Fear of Missing Out."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship taïwanais (MIT Championship) à Taipei",
+        "Deuxième et top 4 au Regional Championship d'Asie du Sud-Est à Bangkok",
+        "Premiers résultats enregistrés en octobre"
+      ],
+      "en": [
+        "Won the Taiwanese Regional Championship (MIT Championship) in Taipei",
+        "Second and top 4 at the Southeast Asia Regional Championship in Bangkok",
+        "First recorded results in October"
+      ]
+    },
+    "rep": 907298
+  },
+  {
+    "name": "Jeskai Blink",
+    "slug": "jeskai-blink",
+    "archetype": "midrange",
+    "titles": [
+      "Death And Taxes",
+      "Jeskai Control",
+      "Jeskai Phelia",
+      "Jeskai Blink",
+      "Jeskai Ephemerate"
+    ],
+    "cover": "Phelia, Exuberant Shepherd",
+    "keyCards": [
+      "Phelia, Exuberant Shepherd",
+      "Phlage, Titan of Fire's Fury",
+      "Quantum Riddler",
+      "Solitude",
+      "Galvanic Discharge"
+    ],
+    "summary": {
+      "fr": "Midrange Jeskai sur le clignotement : Phelia et Ephemerate réutilisent Phlage, Solitude et Quantum Riddler ; après le ban de Phlage en mai, les listes gardent Phelia et Ragavan.",
+      "en": "Jeskai midrange on flicker: Phelia and Ephemerate reuse Phlage, Solitude and Quantum Riddler; after Phlage's ban in May the lists kept the Phelia and Ragavan core."
+    },
+    "why": {
+      "fr": [
+        "Deuxième du main event 4Seasons Winter de Bologne",
+        "Top 8 aux Regional Championships canadien et d'Amérique centrale en octobre",
+        "Phlage, Titan of Fire's Fury est banni en mai"
+      ],
+      "en": [
+        "Second at the 4Seasons Winter main event in Bologna",
+        "Top 8s at the Canadian and Central American Regional Championships in October",
+        "Phlage, Titan of Fire's Fury was banned in May"
+      ]
+    },
+    "rep": 818074
+  },
+  {
+    "name": "Eldrazi Tron",
+    "slug": "eldrazi-tron",
+    "archetype": "ramp",
+    "titles": [
+      "UrzaTron",
+      "Eldrazi Tron",
+      "Urzatron",
+      "Tron"
+    ],
+    "cover": "Karn, the Great Creator",
+    "keyCards": [
+      "Karn, the Great Creator",
+      "Ugin, Eye of the Storms",
+      "Devourer of Destiny",
+      "Thought-Knot Seer",
+      "Kozilek's Command"
+    ],
+    "summary": {
+      "fr": "Terrains d'Urza avec Eldrazi Temple et Ugin's Labyrinth : le mana incolore lance tôt Thought-Knot Seer, Karn, the Great Creator, Devourer of Destiny et Ugin, Eye of the Storms.",
+      "en": "Urza's lands with Eldrazi Temple and Ugin's Labyrinth: colorless mana casts Thought-Knot Seer, Karn, the Great Creator, Devourer of Destiny and Ugin, Eye of the Storms early."
+    },
+    "why": {
+      "fr": [
+        "A remporté la finale CdF Modern de Tours en juin",
+        "Top 8 au Regional Championship sud-américain",
+        "Karn, the Great Creator allait chercher des artefacts en réserve"
+      ],
+      "en": [
+        "Won the CdF Modern finale in Tours in June",
+        "Top 8 at the South American Regional Championship",
+        "Karn, the Great Creator fetched artifacts from the sideboard"
+      ]
+    },
+    "rep": 856480
+  },
+  {
+    "name": "Domain Zoo",
+    "slug": "domain-zoo",
+    "archetype": "aggro",
+    "titles": [
+      "4/5c Aggro",
+      "5c Domain Aggro",
+      "5c Domain",
+      "Domain Zoo",
+      "Doorkeeper Zoo"
+    ],
+    "cover": "Scion of Draco",
+    "keyCards": [
+      "Scion of Draco",
+      "Territorial Kavu",
+      "Leyline of the Guildpact",
+      "Tribal Flames",
+      "Leyline Binding"
+    ],
+    "summary": {
+      "fr": "Aggro cinq couleurs sur le domaine : Leyline of the Guildpact et les shocklands font grandir Territorial Kavu et Wild Nacatl, réduisent le coût de Scion of Draco et renforcent Tribal Flames.",
+      "en": "Five-color aggro using domain: Leyline of the Guildpact and shocklands grow Territorial Kavu and Wild Nacatl, reduce Scion of Draco's cost and power up Tribal Flames."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship japonais (Champions Cup Final) à Yokohama",
+        "Top 4 au Regional Championship de Los Angeles",
+        "Leyline Binding exilait n'importe quel permanent pour un seul mana"
+      ],
+      "en": [
+        "Won the Japanese Regional Championship (Champions Cup Final) in Yokohama",
+        "Top 4 at the Los Angeles Regional Championship",
+        "Leyline Binding exiled any permanent for a single mana"
+      ]
+    },
+    "rep": 896184
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": [
+      "Living End",
+      "Temur Living End"
+    ],
+    "cover": "Living End",
+    "keyCards": [
+      "Living End",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Subtlety",
+      "Wistfulness"
+    ],
+    "summary": {
+      "fr": "Combo cascade : créatures à recyclage et élémentaux évoqués remplissent le cimetière, puis Shardless Agent ou Violent Outburst cascade sur Living End pour tout ramener.",
+      "en": "Cascade combo: cycling creatures and evoked elementals fill the graveyard, then Shardless Agent or Violent Outburst cascades into Living End to return them all."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Regional Championship européen de Gand",
+        "Violent Outburst, débanni en mai, revient dans le deck",
+        "A remporté la finale de l'Unity League allemande en novembre"
+      ],
+      "en": [
+        "Top 4 at the European Regional Championship in Ghent",
+        "Violent Outburst, unbanned in May, returned to the deck",
+        "Won the German Unity League finals in November"
+      ]
+    },
+    "rep": 899960
+  },
+  {
+    "name": "Amulet Titan",
+    "slug": "amulet-titan",
+    "archetype": "ramp",
+    "titles": [
+      "Amulet Titan"
+    ],
+    "cover": "Amulet of Vigor",
+    "keyCards": [
+      "Amulet of Vigor",
+      "Primeval Titan",
+      "Scapeshift",
+      "Spelunking",
+      "Zuran Orb"
+    ],
+    "summary": {
+      "fr": "Les bounce lands dégagés par Amulet of Vigor accélèrent vers Primeval Titan ; Spelunking et Arboreal Grazer accélèrent, et Scapeshift offre une seconde ligne.",
+      "en": "Bounce lands untapped by Amulet of Vigor ramp into Primeval Titan; Spelunking and Arboreal Grazer accelerate, and Scapeshift offers a second line."
+    },
+    "why": {
+      "fr": [
+        "Lotus Field est banni en mai ; Zuran Orb apparaît dans les listes suivantes",
+        "A remporté le LDXP 10k d'Issaquah et le main event 4Seasons Spring de Bologne",
+        "Top 8 aux Regional Championships de Baltimore, Sydney et Taipei"
+      ],
+      "en": [
+        "Lotus Field was banned in May; Zuran Orb appeared in later lists",
+        "Won the LDXP 10k in Issaquah and the 4Seasons Spring main event in Bologna",
+        "Top 8s at the Baltimore, Sydney and Taipei Regional Championships"
+      ]
+    },
+    "rep": 858966
+  },
+  {
+    "name": "Eldrazi Ramp",
+    "slug": "eldrazi-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Eldrazi Ramp",
+      "Eldrazi Ramp Rg"
+    ],
+    "cover": "Emrakul, the Promised End",
+    "keyCards": [
+      "Emrakul, the Promised End",
+      "Utopia Sprawl",
+      "Sowing Mycospawn",
+      "Devourer of Destiny",
+      "World Breaker"
+    ],
+    "summary": {
+      "fr": "Rampe verte aux menaces Eldrazi : Utopia Sprawl, Talisman of Impulse, Eldrazi Temple et Ugin's Labyrinth lancent tôt Devourer of Destiny, World Breaker et Emrakul, the Promised End.",
+      "en": "Green ramp with Eldrazi payoffs: Utopia Sprawl, Talisman of Impulse, Eldrazi Temple and Ugin's Labyrinth cast Devourer of Destiny, World Breaker and Emrakul, the Promised End early."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au Pro Tour Marvel Super Heroes",
+        "Deuxième de la finale CdF Modern de Tours",
+        "Kozilek's Command et Malevolent Rumble remplissaient le cimetière pour Emrakul"
+      ],
+      "en": [
+        "Top 8 at Pro Tour Marvel Super Heroes",
+        "Second at the CdF Modern finale in Tours",
+        "Kozilek's Command and Malevolent Rumble filled the graveyard for Emrakul"
+      ]
+    },
+    "rep": 856481
+  },
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Dimir Control"
+    ],
+    "cover": "Psychic Frog",
+    "keyCards": [
+      "Psychic Frog",
+      "Orcish Bowmasters",
+      "Quantum Riddler",
+      "Subtlety",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Midrange bleu-noir : Psychic Frog, Orcish Bowmasters et Quantum Riddler soutenus par Counterspell, Fatal Push et Thoughtseize, Subtlety et Force of Negation servant de réponses gratuites.",
+      "en": "Blue-black midrange: Psychic Frog, Orcish Bowmasters and Quantum Riddler backed by Counterspell, Fatal Push and Thoughtseize, with Subtlety and Force of Negation as free answers."
+    },
+    "why": {
+      "fr": [
+        "A remporté un $uper $unday ReCQ à SCG CON Baltimore",
+        "Kaito, Bane of Nightmares et Tamiyo apportaient l'avantage de cartes",
+        "Murktide Regent est réduit à un exemplaire, voire retiré"
+      ],
+      "en": [
+        "Won a $uper $unday ReCQ at SCG CON Baltimore",
+        "Kaito, Bane of Nightmares and Tamiyo added card advantage",
+        "Murktide Regent was down to a single copy or cut"
+      ]
+    },
+    "rep": 889587
+  },
+  {
+    "name": "Devoted Druid Combo",
+    "slug": "devoted-druid-combo",
+    "archetype": "combo",
+    "titles": [
+      "Devoted Combo",
+      "Creatures Toolbox"
+    ],
+    "cover": "Devoted Druid",
+    "keyCards": [
+      "Devoted Druid",
+      "Vizier of Remedies",
+      "Tyvar, Jubilant Brawler",
+      "Green Sun's Zenith",
+      "Nature's Rhythm"
+    ],
+    "summary": {
+      "fr": "Combo de créatures vert : Devoted Druid avec Vizier of Remedies se dégage pour un mana illimité, Green Sun's Zenith et Nature's Rhythm trouvent les pièces, Craterhoof Behemoth conclut.",
+      "en": "Green creature combo: Devoted Druid with Vizier of Remedies untaps for unlimited mana, Green Sun's Zenith and Nature's Rhythm find the pieces, and Craterhoof Behemoth ends the game."
+    },
+    "why": {
+      "fr": [
+        "A remporté les Regional Championships de Baltimore et d'Asie du Sud-Est",
+        "Top 4 au Regional Championship européen de Gand",
+        "Tyvar, Jubilant Brawler permettait d'activer Devoted Druid dès son arrivée"
+      ],
+      "en": [
+        "Won the Baltimore and Southeast Asia Regional Championships",
+        "Top 4 at the European Regional Championship in Ghent",
+        "Tyvar, Jubilant Brawler let Devoted Druid use its ability the turn it arrived"
+      ]
+    },
+    "rep": 889130
+  },
+  {
+    "name": "Tameshi Belcher",
+    "slug": "tameshi-belcher",
+    "archetype": "combo",
+    "titles": [
+      "Landless Belcher",
+      "Belcher (goblin Charbelcher)",
+      "Tameshi Belcher"
+    ],
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Tameshi, Reality Architect",
+      "Lotus Bloom",
+      "Whir of Invention",
+      "Hydroelectric Specimen"
+    ],
+    "summary": {
+      "fr": "Combo sans terrains : des sorts modaux à double face en tiennent lieu, Lotus Bloom et Tameshi produisent le mana, et Goblin Charbelcher révèle toute la bibliothèque pour des dégâts létaux.",
+      "en": "Combo deck without lands: modal double-faced spells stand in for them, Lotus Bloom and Tameshi make mana, and Goblin Charbelcher reveals the whole library for lethal damage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième du Magic Spotlight: The Hobbit de Dallas",
+        "Disrupting Shoal, Force of Negation et Jwari Disruption protégeaient le combo",
+        "Whir of Invention allait chercher Goblin Charbelcher à vitesse éphémère"
+      ],
+      "en": [
+        "Second at Magic Spotlight: The Hobbit in Dallas",
+        "Disrupting Shoal, Force of Negation and Jwari Disruption protected the combo",
+        "Whir of Invention fetched Goblin Charbelcher at instant speed"
+      ]
+    },
+    "rep": 887533
+  },
+  {
+    "name": "Sewer-veillance Cam Combo",
+    "slug": "sewer-veillance-cam-combo",
+    "archetype": "combo",
+    "titles": [
+      "Oswald Cam",
+      "Oswald Emry Cam",
+      "Urza",
+      "Oswald Grinding Cam",
+      "Grinding Station Affinity",
+      "Kethis Sewer-veillance Cam",
+      "Emry Grinding Cam"
+    ],
+    "cover": "Sewer-veillance Cam",
+    "keyCards": [
+      "Sewer-veillance Cam",
+      "Emry, Lurker of the Loch",
+      "Oswald Fiddlebender",
+      "Grinding Station",
+      "Mox Amber"
+    ],
+    "summary": {
+      "fr": "Combo artefacts : Sewer-veillance Cam, Grinding Station et Emry, Lurker of the Loch forment une boucle alimentée par Mox Amber et Mox Opal ; Oswald Fiddlebender et Urza's Saga trouvent les pièces.",
+      "en": "Artifact combo: Sewer-veillance Cam, Grinding Station and Emry, Lurker of the Loch form a loop fuelled by Mox Amber and Mox Opal; Oswald Fiddlebender and Urza's Saga find the pieces."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Magic Spotlight: The Hobbit de Brisbane",
+        "Deux top 8 au Regional Championship ANZ de Sydney",
+        "Oswald Fiddlebender sacrifiait un artefact pour chercher le suivant dans la courbe"
+      ],
+      "en": [
+        "Top 4 at Magic Spotlight: The Hobbit in Brisbane",
+        "Two top 8s at the ANZ Regional Championship in Sydney",
+        "Oswald Fiddlebender sacrificed an artifact to fetch the next one up the curve"
+      ]
+    },
+    "rep": 885067
+  },
+  {
+    "name": "Grixis Reanimator",
+    "slug": "grixis-reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator"
+    ],
+    "cover": "Archon of Cruelty",
+    "keyCards": [
+      "Archon of Cruelty",
+      "Persist",
+      "Unearth",
+      "Abhorrent Oculus",
+      "Faithless Looting"
+    ],
+    "summary": {
+      "fr": "Combo cimetière : Faithless Looting et Thought Scour défaussent Archon of Cruelty, Persist le ramène, et Unearth fait revenir Abhorrent Oculus ou Psychic Frog.",
+      "en": "Graveyard combo: Faithless Looting and Thought Scour bin Archon of Cruelty, Persist returns it, and Unearth brings back Abhorrent Oculus or Psychic Frog."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Regional Championship taïwanais de Taipei",
+        "Top 8 aux Regional Championships d'Asie du Sud-Est et sud-américain",
+        "A remporté un MTGO Showcase Challenge en mai"
+      ],
+      "en": [
+        "Top 4 at the Taiwanese Regional Championship in Taipei",
+        "Top 8s at the Southeast Asia and South American Regional Championships",
+        "Won an MTGO Showcase Challenge in May"
+      ]
+    },
+    "rep": 902228
+  },
+  {
+    "name": "Simic Neoform",
+    "slug": "simic-neoform",
+    "archetype": "combo",
+    "titles": [
+      "Allosaurus Combo",
+      "Neoform"
+    ],
+    "cover": "Allosaurus Rider",
+    "keyCards": [
+      "Allosaurus Rider",
+      "Neoform",
+      "Eldritch Evolution",
+      "Ghalta, Stampede Tyrant",
+      "Summoner's Pact"
+    ],
+    "summary": {
+      "fr": "Combo de créatures vert-bleu : Allosaurus Rider est lancé gratuitement, Neoform ou Eldritch Evolution le change en Ghalta, Stampede Tyrant, qui met en jeu les créatures de la main.",
+      "en": "Green-blue creature combo: Allosaurus Rider is cast for free, Neoform or Eldritch Evolution turns it into Ghalta, Stampede Tyrant, which puts the hand's creatures onto the battlefield."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Pro Tour Marvel Super Heroes",
+        "Summoner's Pact trouvait Allosaurus Rider sans coût en mana",
+        "Pact of Negation et Veil of Summer protégeaient le tour du combo"
+      ],
+      "en": [
+        "Won Pro Tour Marvel Super Heroes",
+        "Summoner's Pact found Allosaurus Rider at no mana cost",
+        "Pact of Negation and Veil of Summer protected the combo turn"
+      ]
+    },
+    "rep": 870528
+  },
+  {
+    "name": "Simic Ritual",
+    "slug": "simic-ritual",
+    "archetype": "midrange",
+    "titles": [
+      "Simic Birthing Ritual",
+      "Sultai Birthing Ritual"
+    ],
+    "cover": "Birthing Ritual",
+    "keyCards": [
+      "Birthing Ritual",
+      "Abhorrent Oculus",
+      "Coiling Oracle",
+      "Ice-Fang Coatl",
+      "Shardless Agent"
+    ],
+    "summary": {
+      "fr": "Valeur de créatures bleu-vert : Birthing Ritual sacrifie Coiling Oracle ou Ice-Fang Coatl pour mettre en jeu une créature plus grosse de la bibliothèque, jusqu'à Abhorrent Oculus.",
+      "en": "Blue-green creature value: Birthing Ritual sacrifices Coiling Oracle or Ice-Fang Coatl to put a bigger creature from the library onto the battlefield, up to Abhorrent Oculus."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au LDXP 10k d'Issaquah",
+        "Shardless Agent cascadait sur une créature ou un sort bon marché",
+        "Flare of Denial et Sink into Stupor protégeaient le moteur"
+      ],
+      "en": [
+        "Top 4 at the LDXP 10k in Issaquah",
+        "Shardless Agent cascaded into a cheap creature or spell",
+        "Flare of Denial and Sink into Stupor protected the engine"
+      ]
+    },
+    "rep": 828526
+  }
+]

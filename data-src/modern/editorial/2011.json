@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Splinter Twin",
+    "slug": "splinter-twin",
+    "archetype": "combo",
+    "titles": [
+      "Splinter Twin",
+      "Exarch Twin"
+    ],
+    "rep": 214162,
+    "cover": "Splinter Twin",
+    "keyCards": [
+      "Splinter Twin",
+      "Deceiver Exarch",
+      "Pestermite",
+      "Kiki-Jiki, Mirror Breaker",
+      "Remand"
+    ],
+    "summary": {
+      "fr": "Combo bleu-rouge : Splinter Twin ou Kiki-Jiki, Mirror Breaker sur Deceiver Exarch ou Pestermite crée une infinité de copies, derrière un tapis de contresorts et de sorts de pioche.",
+      "en": "Blue-red combo: Splinter Twin or Kiki-Jiki, Mirror Breaker on Deceiver Exarch or Pestermite makes endless copies, behind counterspells and cantrips."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Pro Tour Philadelphia 2011, premier Pro Tour du format",
+        "Le combo tenait en deux cartes et pouvait tuer à la fin du tour adverse",
+        "Ponder et Preordain trouvaient les pièces jusqu'à leur bannissement en septembre"
+      ],
+      "en": [
+        "Won Pro Tour Philadelphia 2011, the format's first Pro Tour",
+        "The two-card combo could win at the end of the opponent's turn",
+        "Ponder and Preordain found the pieces until their September ban"
+      ]
+    },
+    "note": "Exarch Twin merged (Mihara's win in the Worlds 2011 national team final, Martell and Kaji at Worlds). Hive Mind (Pact combo) kept out."
+  },
+  {
+    "name": "Zoo",
+    "slug": "zoo",
+    "archetype": "aggro",
+    "titles": [
+      "Zoo",
+      "Counter-Cat",
+      "Counter Cat",
+      "Punishing Big Zoo",
+      "Punishing Zoo",
+      "Boom/Bust Zoo",
+      "Naya Zoo",
+      "Blue Zoo",
+      "Tribal Zoo",
+      "Molten Zoo",
+      "Moon Zoo",
+      "5c Zoo",
+      "Zoo Domain",
+      "Blood Zoo"
+    ],
+    "include": [
+      214015
+    ],
+    "rep": 214158,
+    "cover": "Wild Nacatl",
+    "keyCards": [
+      "Wild Nacatl",
+      "Knight of the Reliquary",
+      "Tarmogoyf",
+      "Green Sun's Zenith",
+      "Bant Charm"
+    ],
+    "summary": {
+      "fr": "Aggro multicolore sur fetchlands et shocklands : Wild Nacatl, Tarmogoyf et Knight of the Reliquary, appuyés par Lightning Bolt et Path to Exile.",
+      "en": "Multicolour aggro on fetchlands and shocklands: Wild Nacatl, Tarmogoyf and Knight of the Reliquary, backed by Lightning Bolt and Path to Exile."
+    },
+    "why": {
+      "fr": [
+        "La version Counter-Cat a terminé deuxième du Pro Tour Philadelphia",
+        "Green Sun's Zenith servait de cinq créatures supplémentaires jusqu'en septembre",
+        "Les variantes Punishing Fire et Blood Moon punissaient les decks à plusieurs couleurs"
+      ],
+      "en": [
+        "The Counter-Cat build finished second at Pro Tour Philadelphia",
+        "Green Sun's Zenith acted as extra creatures until its September ban",
+        "Punishing Fire and Blood Moon builds punished greedy multicolour mana"
+      ]
+    },
+    "note": "All Wild Nacatl / Knight decks merged, including Domain and Punishing Fire builds. 214015 (filed as Jund) is a Domain Zoo list. Zoo 5c (Bituminous Blast wish deck) left out. Wild Nacatl and Punishing Fire banned December 2011."
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity",
+      "Mono-Red Affinity"
+    ],
+    "rep": 214160,
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Cranial Plating",
+      "Atog",
+      "Mox Opal",
+      "Galvanic Blast"
+    ],
+    "summary": {
+      "fr": "Aggro artefact : des créatures à coût nul ou faible, Mox Opal et Springleaf Drum pour tout poser vite, puis Cranial Plating ou Arcbound Ravager pour conclure.",
+      "en": "Artifact aggro: free or cheap creatures, Mox Opal and Springleaf Drum to dump the hand fast, then Cranial Plating or Arcbound Ravager to close."
+    },
+    "why": {
+      "fr": [
+        "La version rouge à Atog et Fling a atteint le top 4 du Pro Tour Philadelphia",
+        "Pouvait vider sa main dès les deux premiers tours",
+        "Inkmoth Nexus et Blinkmoth Nexus ajoutaient des menaces qui échappaient aux rituels"
+      ],
+      "en": [
+        "The red Atog and Fling build reached the Pro Tour Philadelphia top 4",
+        "Could empty its hand within the first two turns",
+        "Inkmoth and Blinkmoth Nexus added threats that dodged sorcery-speed removal"
+      ]
+    }
+  },
+  {
+    "name": "Infect",
+    "slug": "infect",
+    "archetype": "combo",
+    "titles": [
+      "Mono-Blue Infect",
+      "Infect Combo"
+    ],
+    "rep": 214164,
+    "cover": "Blazing Shoal",
+    "keyCards": [
+      "Blazing Shoal",
+      "Blighted Agent",
+      "Inkmoth Nexus",
+      "Dragonstorm",
+      "Progenitus"
+    ],
+    "summary": {
+      "fr": "Combo bleu : Blighted Agent ou Inkmoth Nexus attaque, puis Blazing Shoal, payé en exilant Dragonstorm ou Progenitus, lui donne neuf de force d'un coup.",
+      "en": "Blue combo: Blighted Agent or Inkmoth Nexus attacks, then Blazing Shoal, pitching Dragonstorm or Progenitus, gives it nine power at once."
+    },
+    "why": {
+      "fr": [
+        "A atteint le top 4 du Pro Tour Philadelphia",
+        "Le poison ne demandait qu'une attaque réussie, souvent dès le deuxième tour",
+        "Blazing Shoal a été banni en septembre 2011, ce qui a mis fin à cette version"
+      ],
+      "en": [
+        "Reached the Pro Tour Philadelphia top 4",
+        "Poison needed only one connected attack, often on turn two",
+        "Blazing Shoal was banned in September 2011, ending this build"
+      ]
+    }
+  },
+  {
+    "name": "Pyromancer Ascension",
+    "slug": "pyromancer-ascension",
+    "archetype": "combo",
+    "titles": [
+      "Pyromancer Ascension"
+    ],
+    "rep": 214157,
+    "cover": "Pyromancer Ascension",
+    "keyCards": [
+      "Pyromancer Ascension",
+      "Rite of Flame",
+      "Manamorphose",
+      "Peer Through Depths",
+      "Grapeshot"
+    ],
+    "summary": {
+      "fr": "Combo bleu-rouge : Pyromancer Ascension activée copie chaque éphémère et rituel, jusqu'à un Grapeshot ou un Banefire fatal.",
+      "en": "Blue-red combo: an active Pyromancer Ascension copies every instant and ritual, building to a lethal Grapeshot or Banefire."
+    },
+    "why": {
+      "fr": [
+        "Deux exemplaires dans le top 8 du Pro Tour Philadelphia",
+        "Ponder, Preordain et Rite of Flame alimentaient le moteur",
+        "Ces trois cartes ont été bannies en septembre 2011"
+      ],
+      "en": [
+        "Two copies made the Pro Tour Philadelphia top 8",
+        "Ponder, Preordain and Rite of Flame fuelled the engine",
+        "All three were banned in September 2011"
+      ]
+    }
+  },
+  {
+    "name": "Cloudpost",
+    "slug": "cloudpost",
+    "archetype": "ramp",
+    "titles": [
+      "BreachPost",
+      "12post",
+      "Gr 12post",
+      "Eldrazi Ramp"
+    ],
+    "rep": 214159,
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Primeval Titan",
+      "Through the Breach",
+      "Emrakul, the Aeons Torn",
+      "Cloudpost",
+      "Vesuva"
+    ],
+    "summary": {
+      "fr": "Rampe verte sur Cloudpost, Glimmerpost et Vesuva, qui produisent beaucoup de mana dès le troisième tour pour Primeval Titan, Karn Liberated ou les Eldrazi.",
+      "en": "Green ramp on Cloudpost, Glimmerpost and Vesuva, making large amounts of mana by turn three for Primeval Titan, Karn Liberated or the Eldrazi."
+    },
+    "why": {
+      "fr": [
+        "La version Through the Breach a fait le top 8 du Pro Tour Philadelphia",
+        "Primeval Titan allait chercher d'autres Cloudpost et Vesuva",
+        "Cloudpost a été banni en septembre 2011"
+      ],
+      "en": [
+        "The Through the Breach build made the Pro Tour Philadelphia top 8",
+        "Primeval Titan fetched more Cloudposts and Vesuvas",
+        "Cloudpost was banned in September 2011"
+      ]
+    },
+    "note": "BreachPost (PT top 8) merged with 12-Post / Eldrazi Ramp (Summoning Trap, Karn) lists from August 2011."
+  },
+  {
+    "name": "Birthing Pod",
+    "slug": "birthing-pod",
+    "archetype": "midrange",
+    "titles": [
+      "Birthing Pod",
+      "Melira Pod"
+    ],
+    "rep": 213842,
+    "cover": "Birthing Pod",
+    "keyCards": [
+      "Birthing Pod",
+      "Fauna Shaman",
+      "Reveillark",
+      "Noble Hierarch",
+      "Elesh Norn, Grand Cenobite"
+    ],
+    "summary": {
+      "fr": "Toolbox de créatures : Birthing Pod sacrifie une créature pour aller chercher celle d'un cran au-dessus, de Noble Hierarch jusqu'à Elesh Norn, Grand Cenobite.",
+      "en": "Creature toolbox: Birthing Pod sacrifices a creature to fetch one a step higher, climbing from Noble Hierarch to Elesh Norn, Grand Cenobite."
+    },
+    "why": {
+      "fr": [
+        "Chaque créature à un exemplaire devenait accessible via Pod ou Fauna Shaman",
+        "Reveillark et Kitchen Finks créaient de la valeur à chaque sacrifice",
+        "Les versions Melira, Sylvok Outcast ajoutaient une combo infinie avec les créatures persist"
+      ],
+      "en": [
+        "Each one-of creature was reachable through Pod or Fauna Shaman",
+        "Reveillark and Kitchen Finks generated value on every sacrifice",
+        "Melira, Sylvok Outcast builds added an infinite combo with persist creatures"
+      ]
+    }
+  },
+  {
+    "name": "The Rock",
+    "slug": "the-rock",
+    "archetype": "midrange",
+    "titles": [
+      "Doran",
+      "The Rock",
+      "G/B Rock"
+    ],
+    "include": [
+      214134
+    ],
+    "rep": 214134,
+    "cover": "Doran, the Siege Tower",
+    "keyCards": [
+      "Doran, the Siege Tower",
+      "Treefolk Harbinger",
+      "Tarmogoyf",
+      "Dark Confidant",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Midrange noir-vert, souvent avec du blanc : défausse ciblée, Tarmogoyf et Dark Confidant, et dans la version Doran des créatures qui attaquent avec leur endurance.",
+      "en": "Black-green midrange, often with white: targeted discard, Tarmogoyf and Dark Confidant, and in Doran builds creatures that attack with their toughness."
+    },
+    "why": {
+      "fr": [
+        "Thoughtseize et Inquisition of Kozilek démontaient les combos du format",
+        "Doran, the Siege Tower faisait de Tarmogoyf et des Treefolk de gros attaquants",
+        "Green Sun's Zenith et Treefolk Harbinger trouvaient Doran jusqu'en septembre"
+      ],
+      "en": [
+        "Thoughtseize and Inquisition of Kozilek picked apart the format's combo decks",
+        "Doran, the Siege Tower turned Tarmogoyf and Treefolk into large attackers",
+        "Green Sun's Zenith and Treefolk Harbinger found Doran until September"
+      ]
+    },
+    "note": "214134 (filed as Jund, Magic-League Master win) is a Doran list. Merged with BGW Rock and BG Death Cloud. Real Jund (Bloodbraid Elf) has one top 8 in 2011 and is not included."
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk",
+      "Merflok"
+    ],
+    "rep": 214208,
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Merrow Reejerey",
+      "Aether Vial",
+      "Silvergill Adept",
+      "Cursecatcher"
+    ],
+    "summary": {
+      "fr": "Tribal bleu : des seigneurs Merfolk qui se renforcent mutuellement, posés par Aether Vial, avec quelques contresorts bon marché.",
+      "en": "Blue tribal: Merfolk lords that pump each other, cast through Aether Vial, with a few cheap counterspells."
+    },
+    "why": {
+      "fr": [
+        "Lord of Atlantis donnait l'islandwalk contre les decks à Steam Vents et Breeding Pool",
+        "Aether Vial contournait les contresorts adverses",
+        "Cursecatcher et Spell Pierce gênaient les combos sur un tour"
+      ],
+      "en": [
+        "Lord of Atlantis gave islandwalk against Steam Vents and Breeding Pool decks",
+        "Aether Vial dodged opposing counterspells",
+        "Cursecatcher and Spell Pierce disrupted one-turn combo"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn"
+    ],
+    "rep": 214175,
+    "cover": "Goblin Guide",
+    "keyCards": [
+      "Goblin Guide",
+      "Lightning Bolt",
+      "Rift Bolt",
+      "Lava Spike",
+      "Keldon Marauders"
+    ],
+    "summary": {
+      "fr": "Rouge mono : des créatures hâtives et des brûlures à un mana pour retirer vingt points de vie en quatre ou cinq tours.",
+      "en": "Mono-red: hasty creatures and one-mana burn spells to deal twenty damage in four or five turns."
+    },
+    "why": {
+      "fr": [
+        "Presque chaque carte infligeait au moins trois dégâts pour un mana",
+        "Les fetchlands et shocklands du format coûtaient des points de vie à l'adversaire",
+        "Peu sensible à la défausse et aux contresorts chers"
+      ],
+      "en": [
+        "Nearly every card dealt three damage for one mana",
+        "The format's fetchlands and shocklands cost opponents life",
+        "Largely immune to discard and expensive counterspells"
+      ]
+    }
+  },
+  {
+    "name": "Boros Landfall",
+    "slug": "boros-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Landfall",
+      "Boros Landfall",
+      "Brozek Deck Wins"
+    ],
+    "rep": 213835,
+    "cover": "Steppe Lynx",
+    "keyCards": [
+      "Steppe Lynx",
+      "Plated Geopede",
+      "Goblin Guide",
+      "Searing Blaze",
+      "Zektar Shrine Expedition"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc à landfall : Steppe Lynx et Plated Geopede frappent fort grâce aux fetchlands, Searing Blaze et Lightning Helix finissent le travail.",
+      "en": "Red-white landfall aggro: Steppe Lynx and Plated Geopede hit hard off fetchlands, Searing Blaze and Lightning Helix finish the job."
+    },
+    "why": {
+      "fr": [
+        "Chaque fetchland déclenchait deux fois le landfall",
+        "Searing Blaze tuait un bloqueur et infligeait des dégâts directs",
+        "Ghost Quarter et Flagstones of Trokair servaient de terrains supplémentaires à sacrifier"
+      ],
+      "en": [
+        "Each fetchland triggered landfall twice",
+        "Searing Blaze killed a blocker and dealt direct damage",
+        "Ghost Quarter and Flagstones of Trokair provided extra lands to crack"
+      ]
+    }
+  },
+  {
+    "name": "Maverick",
+    "slug": "maverick",
+    "archetype": "midrange",
+    "titles": [
+      "Maverick",
+      "GW Aggro"
+    ],
+    "rep": 214136,
+    "cover": "Fauna Shaman",
+    "keyCards": [
+      "Fauna Shaman",
+      "Vengevine",
+      "Green Sun's Zenith",
+      "Sword of Fire and Ice",
+      "Knight of the Reliquary"
+    ],
+    "summary": {
+      "fr": "Créatures vert-blanc : Fauna Shaman défausse Vengevine pour aller chercher la bonne réponse, Green Sun's Zenith et Sword of Fire and Ice complètent la boîte à outils.",
+      "en": "Green-white creatures: Fauna Shaman discards Vengevine to fetch the right answer, with Green Sun's Zenith and Sword of Fire and Ice rounding out the toolbox."
+    },
+    "why": {
+      "fr": [
+        "Vengevine défaussé revenait gratuitement dès le tour suivant",
+        "Gaddock Teeg et Qasali Pridemage servaient de cartes anti-combo",
+        "Green Sun's Zenith a été banni en septembre 2011"
+      ],
+      "en": [
+        "A discarded Vengevine returned for free the following turn",
+        "Gaddock Teeg and Qasali Pridemage acted as hate cards",
+        "Green Sun's Zenith was banned in September 2011"
+      ]
+    },
+    "note": "Same player filed the deck under both 'Maverick' and 'GW Aggro'."
+  },
+  {
+    "name": "Caw-Blade",
+    "slug": "caw-blade",
+    "archetype": "control",
+    "titles": [
+      "Caw-Blade"
+    ],
+    "rep": 214139,
+    "cover": "Squadron Hawk",
+    "keyCards": [
+      "Squadron Hawk",
+      "Sword of Feast and Famine",
+      "Cryptic Command",
+      "Vendilion Clique",
+      "Timely Reinforcements"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc venu du Standard : Squadron Hawk porte les épées, Cryptic Command et Mana Leak tiennent la partie.",
+      "en": "Blue-white control carried over from Standard: Squadron Hawks carry the Swords while Cryptic Command and Mana Leak hold the game."
+    },
+    "why": {
+      "fr": [
+        "Sword of Feast and Famine dominait les duels de créatures",
+        "Celestial Colonnade et Mutavault ajoutaient des menaces sur les terrains",
+        "Timely Reinforcements et Wrath of God tenaient face à l'aggro"
+      ],
+      "en": [
+        "Sword of Feast and Famine dominated creature matchups",
+        "Celestial Colonnade and Mutavault added threats on lands",
+        "Timely Reinforcements and Wrath of God held off aggro"
+      ]
+    },
+    "note": "214016 under this title is a Tarmogoyf Sword control list (UWg), kept as a variant."
+  },
+  {
+    "name": "Ad Nauseam",
+    "slug": "ad-nauseam",
+    "archetype": "combo",
+    "titles": [
+      "Ad Nauseam!"
+    ],
+    "rep": 213843,
+    "cover": "Ad Nauseam",
+    "keyCards": [
+      "Ad Nauseam",
+      "Angel's Grace",
+      "Conflagrate",
+      "Lotus Bloom",
+      "Pact of Negation"
+    ],
+    "summary": {
+      "fr": "Combo : Angel's Grace empêche de perdre pendant qu'Ad Nauseam pioche presque toute la bibliothèque, puis un Conflagrate en flashback défausse la main pour infliger les dégâts.",
+      "en": "Combo: Angel's Grace stops the loss while Ad Nauseam draws most of the library, then a flashed-back Conflagrate discards the hand to deal the damage."
+    },
+    "why": {
+      "fr": [
+        "Angel's Grace en éphémère permettait de combo à la fin du tour adverse",
+        "Simian Spirit Guide et Lotus Bloom accéléraient le mana",
+        "Pact of Negation protégeait le combo sans coût immédiat"
+      ],
+      "en": [
+        "Instant-speed Angel's Grace allowed comboing at the end of the opponent's turn",
+        "Simian Spirit Guide and Lotus Bloom accelerated the mana",
+        "Pact of Negation protected the combo at no upfront cost"
+      ]
+    }
+  }
+]

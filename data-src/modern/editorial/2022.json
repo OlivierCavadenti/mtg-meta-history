@@ -1,0 +1,815 @@
+[
+ {
+  "name": "Izzet Murktide",
+  "titles": [
+   "UR Aggro",
+   "Murktide Regent",
+   "Izzet Murktide",
+   "Ur Murktide",
+   "Ur Murtkide"
+  ],
+  "exclude": [
+   497876,
+   497933,
+   497886
+  ],
+  "slug": "izzet-murktide",
+  "archetype": "tempo",
+  "cover": "Murktide Regent",
+  "keyCards": [
+   "Murktide Regent",
+   "Ragavan, Nimble Pilferer",
+   "Dragon's Rage Channeler",
+   "Expressive Iteration",
+   "Counterspell"
+  ],
+  "summary": {
+   "fr": "Tempo Izzet issu de Modern Horizons 2 : menaces bon marché, Counterspell et Unholy Heat, puis Murktide Regent lancé pour un ou deux manas grâce aux éphémères du cimetière.",
+   "en": "Izzet tempo built on Modern Horizons 2: cheap threats, Counterspell and Unholy Heat, then Murktide Regent cast for one or two mana by delving instants."
+  },
+  "why": {
+   "fr": [
+    "Murktide Regent grandissait avec chaque éphémère et rituel exilé",
+    "Ragavan et Dragon's Rage Channeler mettaient la pression dès le premier tour",
+    "Expressive Iteration et Consider assuraient un flux de cartes constant"
+   ],
+   "en": [
+    "Murktide Regent grew with every instant and sorcery it delved",
+    "Ragavan and Dragon's Rage Channeler applied pressure from turn one",
+    "Expressive Iteration and Consider kept the cards flowing"
+   ]
+  },
+  "note": "mtgtop8 title 'UR Aggro'; 3 Izzet Prowess/Breach lists without Murktide excluded."
+ },
+ {
+  "name": "Hammer Time",
+  "titles": [
+   "Hammer Time",
+   "Hammertime",
+   "Uw Hammer",
+   "Hammer",
+   "Puresteel Paladin"
+  ],
+  "slug": "hammer-time",
+  "archetype": "aggro",
+  "cover": "Colossus Hammer",
+  "keyCards": [
+   "Colossus Hammer",
+   "Sigarda's Aid",
+   "Puresteel Paladin",
+   "Stoneforge Mystic",
+   "Urza's Saga"
+  ],
+  "summary": {
+   "fr": "Aggro d'équipements qui attache Colossus Hammer pour zéro mana grâce à Sigarda's Aid ou Puresteel Paladin, souvent dès le deuxième tour.",
+   "en": "Equipment aggro deck that attaches Colossus Hammer for zero mana through Sigarda's Aid or Puresteel Paladin, often on turn two."
+  },
+  "why": {
+   "fr": [
+    "Colossus Hammer donnait +10/+10 sans payer son coût d'équipement",
+    "Urza's Saga allait chercher Shadowspear ou Colossus Hammer",
+    "Joua Lurrus en compagnon jusqu'à son interdiction en mars"
+   ],
+   "en": [
+    "Colossus Hammer gave +10/+10 without paying its equip cost",
+    "Urza's Saga fetched Shadowspear or Colossus Hammer",
+    "Ran Lurrus as companion until its March ban"
+   ]
+  }
+ },
+ {
+  "name": "4c Omnath",
+  "titles": [
+   "4c Yorion",
+   "4cc",
+   "4c Money Pile",
+   "4c Yorion Elementals",
+   "Yorion Elementals",
+   "4c Elementals Yorion"
+  ],
+  "slug": "4c-omnath",
+  "archetype": "midrange",
+  "cover": "Omnath, Locus of Creation",
+  "keyCards": [
+   "Omnath, Locus of Creation",
+   "Wrenn and Six",
+   "Solitude",
+   "Teferi, Time Raveler",
+   "Yorion, Sky Nomad"
+  ],
+  "summary": {
+   "fr": "Midrange à quatre couleurs autour d'Omnath, Locus of Creation, Wrenn and Six et Solitude, joué en 80 cartes avec Yorion jusqu'à l'interdiction du compagnon en octobre.",
+   "en": "Four-colour midrange around Omnath, Locus of Creation, Wrenn and Six and Solitude, played at 80 cards with Yorion until the companion was banned in October."
+  },
+  "why": {
+   "fr": [
+    "Omnath gagnait des points de vie et du mana à chaque terrain posé",
+    "Solitude et Prismatic Ending répondaient aux créatures pour peu ou pas de mana",
+    "L'interdiction de Yorion en octobre fit nettement reculer ses résultats"
+   ],
+   "en": [
+    "Omnath gained life and mana with each land drop",
+    "Solitude and Prismatic Ending answered creatures for little or no mana",
+    "Yorion's October ban sharply cut its results"
+   ]
+  },
+  "note": "Titles '4c Yorion' (pre-ban) and '4cc' (post-ban). Yorion is in the rep sideboard as companion."
+ },
+ {
+  "name": "4c Elementals",
+  "titles": [
+   "Omnath Elementals",
+   "Elementals",
+   "4c Elementals",
+   "4c Omnath"
+  ],
+  "slug": "4c-elementals",
+  "archetype": "midrange",
+  "cover": "Risen Reef",
+  "keyCards": [
+   "Risen Reef",
+   "Omnath, Locus of Creation",
+   "Fury",
+   "Solitude",
+   "Ephemerate"
+  ],
+  "summary": {
+   "fr": "Variante d'Omnath bâtie sur les Élémentaux : Risen Reef pioche à chaque arrivée et Ephemerate rejoue Fury, Solitude ou Omnath pour un second effet.",
+   "en": "Elemental take on Omnath: Risen Reef draws on each arrival and Ephemerate blinks Fury, Solitude or Omnath for a second trigger."
+  },
+  "why": {
+   "fr": [
+    "Ephemerate doublait les effets d'arrivée des Élémentaux",
+    "Les Élémentaux à évocation de Modern Horizons 2 servaient de réponses gratuites",
+    "Eladamri's Call allait chercher la créature voulue"
+   ],
+   "en": [
+    "Ephemerate doubled the elementals' enter triggers",
+    "The Modern Horizons 2 evoke elementals worked as free answers",
+    "Eladamri's Call fetched the creature needed"
+   ]
+  },
+  "note": "mtgtop8 'Omnath Elementals' / 'Elementals'. Split from 4c Omnath on Risen Reef + Ephemerate."
+ },
+ {
+  "name": "Amulet Titan",
+  "titles": [
+   "Amulet Titan"
+  ],
+  "slug": "amulet-titan",
+  "archetype": "ramp",
+  "cover": "Amulet of Vigor",
+  "keyCards": [
+   "Amulet of Vigor",
+   "Primeval Titan",
+   "Dryad of the Ilysian Grove",
+   "Arboreal Grazer",
+   "Urza's Saga"
+  ],
+  "summary": {
+   "fr": "Rampe qui dégage les bounce lands avec Amulet of Vigor pour lancer Primeval Titan dès le deuxième ou troisième tour, puis enchaîne les terrains utilitaires.",
+   "en": "Ramp deck that untaps bounce lands with Amulet of Vigor to cast Primeval Titan on turn two or three, then chains utility lands."
+  },
+  "why": {
+   "fr": [
+    "Dryad of the Ilysian Grove et Arboreal Grazer ajoutaient des poses de terrain",
+    "Urza's Saga allait chercher Amulet of Vigor",
+    "Cultivator Colossus offrait un second gros sort après Primeval Titan"
+   ],
+   "en": [
+    "Dryad of the Ilysian Grove and Arboreal Grazer added land drops",
+    "Urza's Saga fetched Amulet of Vigor",
+    "Cultivator Colossus gave a second big threat after Primeval Titan"
+   ]
+  }
+ },
+ {
+  "name": "Living End",
+  "titles": [
+   "Living End"
+  ],
+  "slug": "living-end",
+  "archetype": "combo",
+  "cover": "Living End",
+  "keyCards": [
+   "Living End",
+   "Violent Outburst",
+   "Shardless Agent",
+   "Grief",
+   "Curator of Mysteries"
+  ],
+  "summary": {
+   "fr": "Combo de cascade qui recycle de grosses créatures dans le cimetière puis lance Living End au deuxième ou troisième tour par Violent Outburst ou Shardless Agent.",
+   "en": "Cascade combo deck that cycles large creatures into the graveyard, then casts Living End on turn two or three through Violent Outburst or Shardless Agent."
+  },
+  "why": {
+   "fr": [
+    "Sans autre sort à bas coût, la cascade trouvait toujours Living End",
+    "Grief et Force of Negation protégeaient le combo sans mana",
+    "Gagna deux MTGO Showcase Challenges en mai et juin"
+   ],
+   "en": [
+    "With no other cheap spells, cascade always hit Living End",
+    "Grief and Force of Negation protected the combo for no mana",
+    "Won two MTGO Showcase Challenges, in May and June"
+   ]
+  }
+ },
+ {
+  "name": "Indomitable Creativity",
+  "titles": [
+   "Creativity",
+   "4c Creativity",
+   "5 Colors Creativity",
+   "5c Creativity",
+   "Indomitable Creativity"
+  ],
+  "slug": "indomitable-creativity",
+  "archetype": "combo",
+  "cover": "Indomitable Creativity",
+  "keyCards": [
+   "Indomitable Creativity",
+   "Archon of Cruelty",
+   "Fable of the Mirror-Breaker",
+   "Prismari Command",
+   "Persist"
+  ],
+  "summary": {
+   "fr": "Combo qui transforme ses propres jetons, issus de Fable of the Mirror-Breaker ou Prismari Command, en Archon of Cruelty avec Indomitable Creativity.",
+   "en": "Combo deck that turns its own tokens from Fable of the Mirror-Breaker or Prismari Command into Archon of Cruelty with Indomitable Creativity."
+  },
+  "why": {
+   "fr": [
+    "Archon of Cruelty était la seule créature du deck, donc la seule cible possible",
+    "Persist servait de second chemin vers Archon",
+    "Fable of the Mirror-Breaker (Kamigawa: Neon Dynasty) fournit jetons et pioche"
+   ],
+   "en": [
+    "Archon of Cruelty was the deck's only creature, so the only possible hit",
+    "Persist gave a second route to Archon",
+    "Fable of the Mirror-Breaker (Kamigawa: Neon Dynasty) supplied tokens and card flow"
+   ]
+  }
+ },
+ {
+  "name": "Crashing Footfalls",
+  "titles": [
+   "Crashing Footfalls Cascade",
+   "Crashing Footfalls",
+   "Crashing Cascade",
+   "Temur Rhinos",
+   "Temur Rhino",
+   "5c Rhinos",
+   "Rhino"
+  ],
+  "slug": "crashing-footfalls",
+  "archetype": "midrange",
+  "cover": "Crashing Footfalls",
+  "keyCards": [
+   "Crashing Footfalls",
+   "Shardless Agent",
+   "Violent Outburst",
+   "Fury",
+   "Force of Negation"
+  ],
+  "summary": {
+   "fr": "Deck Temur de cascade qui suspend normalement Crashing Footfalls mais le lance gratuitement via Shardless Agent ou Violent Outburst, avec Fury et Force of Negation en soutien.",
+   "en": "Temur cascade deck that casts Crashing Footfalls for free through Shardless Agent or Violent Outburst, with Fury and Force of Negation in support."
+  },
+  "why": {
+   "fr": [
+    "Deux Rhinos 4/4 piétinement dès le deuxième tour",
+    "Aucun autre sort de valeur de mana inférieure à trois, pour fiabiliser la cascade",
+    "Les Élémentaux à évocation et Force of Negation tenaient la table sans mana"
+   ],
+   "en": [
+    "Two 4/4 trampling Rhinos as early as turn two",
+    "No other spell with mana value below three, to keep cascade reliable",
+    "Evoke elementals and Force of Negation held the table for no mana"
+   ]
+  },
+  "note": "mtgtop8 'Crashing Footfalls Cascade', also 'Temur Rhinos' and '5c Rhinos'."
+ },
+ {
+  "name": "Grixis Shadow",
+  "titles": [
+   "Death's Shadow",
+   "Grixis Shadow",
+   "Grixis Death's Shadow",
+   "Grixis Death\u0092s Shadow",
+   "Death Shadow"
+  ],
+  "slug": "grixis-shadow",
+  "archetype": "aggro",
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Ragavan, Nimble Pilferer",
+   "Dragon's Rage Channeler",
+   "Drown in the Loch",
+   "Kroxa, Titan of Death's Hunger"
+  ],
+  "summary": {
+   "fr": "Version Grixis de Death's Shadow modernisée par Modern Horizons 2, avec Ragavan, Dragon's Rage Channeler et Unholy Heat ; Lurrus servait de compagnon jusqu'en mars.",
+   "en": "Grixis Death's Shadow updated by Modern Horizons 2 with Ragavan, Dragon's Rage Channeler and Unholy Heat; Lurrus was its companion until March."
+  },
+  "why": {
+   "fr": [
+    "Fetchlands et Thoughtseize faisaient baisser les points de vie pour Death's Shadow",
+    "Drown in the Loch contrait ou détruisait selon le cimetière adverse",
+    "Sa meilleure période fut janvier-février, avant l'interdiction de Lurrus"
+   ],
+   "en": [
+    "Fetchlands and Thoughtseize lowered life for Death's Shadow",
+    "Drown in the Loch countered or killed depending on the opposing graveyard",
+    "Its best stretch was January and February, before the Lurrus ban"
+   ]
+  }
+ },
+ {
+  "name": "Rakdos Scam",
+  "titles": [
+   "Rakdos Aggro",
+   "Rakdos Midrange",
+   "Br Scam",
+   "Rakdos Rebirth"
+  ],
+  "exclude": [
+   462011,
+   479016,
+   494613,
+   478114,
+   466759,
+   468882,
+   468886,
+   485489,
+   487874
+  ],
+  "slug": "rakdos-scam",
+  "archetype": "midrange",
+  "cover": "Grief",
+  "keyCards": [
+   "Grief",
+   "Fury",
+   "Undying Malice",
+   "Ragavan, Nimble Pilferer",
+   "Blood Moon"
+  ],
+  "summary": {
+   "fr": "Midrange Rakdos qui évoque Grief ou Fury puis les garde en jeu avec Undying Malice ou Feign Death, prenant une carte adverse dès le premier tour.",
+   "en": "Rakdos midrange that evokes Grief or Fury, then keeps it on the battlefield with Undying Malice or Feign Death, taking a card on turn one."
+  },
+  "why": {
+   "fr": [
+    "Grief retirait la meilleure carte adverse et restait en jeu en 4/3",
+    "Blood Moon punissait les manabases à plusieurs couleurs",
+    "Apparut en juin et devint courant dans les top 8 en fin d'année"
+   ],
+   "en": [
+    "Grief took the opponent's best card and stayed as a 4/3",
+    "Blood Moon punished multicolour mana bases",
+    "Appeared in June and became common in top 8s late in the year"
+   ]
+  },
+  "note": "Rakdos Kroxa midrange lists without Grief excluded (not enough results to stand alone)."
+ },
+ {
+  "name": "Burn",
+  "titles": [
+   "Burn"
+  ],
+  "slug": "burn",
+  "archetype": "aggro",
+  "cover": "Lightning Bolt",
+  "keyCards": [
+   "Lightning Bolt",
+   "Goblin Guide",
+   "Eidolon of the Great Revel",
+   "Boros Charm",
+   "Searing Blaze"
+  ],
+  "summary": {
+   "fr": "Aggro Boros qui attaque avec Goblin Guide et Monastery Swiftspear puis finit avec Lightning Bolt, Boros Charm et Skewer the Critics.",
+   "en": "Boros aggro deck that attacks with Goblin Guide and Monastery Swiftspear, then finishes with Lightning Bolt, Boros Charm and Skewer the Critics."
+  },
+  "why": {
+   "fr": [
+    "Liste quasi inchangée depuis des années, simple à jouer",
+    "Eidolon of the Great Revel taxait les decks à sorts bon marché",
+    "Searing Blaze et Skullcrack couvraient les créatures et le gain de vie"
+   ],
+   "en": [
+    "A list barely changed for years and simple to pilot",
+    "Eidolon of the Great Revel taxed decks of cheap spells",
+    "Searing Blaze and Skullcrack covered creatures and life gain"
+   ]
+  }
+ },
+ {
+  "name": "UW Control",
+  "titles": [
+   "UW Control"
+  ],
+  "slug": "uw-control",
+  "archetype": "control",
+  "cover": "Solitude",
+  "keyCards": [
+   "Solitude",
+   "Teferi, Time Raveler",
+   "Prismatic Ending",
+   "Counterspell",
+   "Archmage's Charm"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius qui s'appuie sur Solitude, Prismatic Ending et Counterspell de Modern Horizons 2, avec Teferi et Jace pour finir.",
+   "en": "Azorius control relying on Solitude, Prismatic Ending and Counterspell from Modern Horizons 2, with Teferi and Jace to finish."
+  },
+  "why": {
+   "fr": [
+    "Solitude répondait gratuitement à une créature dès le premier tour",
+    "Chalice of the Void à un compteur gênait les decks de cascade et de sorts à un mana",
+    "La plupart des listes jouaient Kaheera, the Orphanguard en compagnon"
+   ],
+   "en": [
+    "Solitude answered a creature for free from turn one",
+    "Chalice of the Void on one hurt cascade decks and one-mana spells",
+    "Most lists ran Kaheera, the Orphanguard as companion"
+   ]
+  }
+ },
+ {
+  "name": "Grinding Breach",
+  "titles": [
+   "Breach",
+   "Jeskai Breach"
+  ],
+  "slug": "grinding-breach",
+  "archetype": "combo",
+  "cover": "Underworld Breach",
+  "keyCards": [
+   "Underworld Breach",
+   "Grinding Station",
+   "Emry, Lurker of the Loch",
+   "Mox Amber",
+   "Ragavan, Nimble Pilferer"
+  ],
+  "summary": {
+   "fr": "Combo d'artefacts Izzet qui meule sa bibliothèque en boucle avec Grinding Station et Underworld Breach, sous un châssis de tempo avec Ragavan et Ledger Shredder.",
+   "en": "Izzet artifact combo that mills its library in a loop with Grinding Station and Underworld Breach, inside a tempo shell with Ragavan and Ledger Shredder."
+  },
+  "why": {
+   "fr": [
+    "Grinding Station et des artefacts à zéro mana bouclaient sous Underworld Breach",
+    "Thassa's Oracle ou Lightning Bolt concluaient la boucle",
+    "Urza's Saga trouvait les artefacts du combo"
+   ],
+   "en": [
+    "Grinding Station and zero-mana artifacts looped under Underworld Breach",
+    "Thassa's Oracle or Lightning Bolt closed the loop",
+    "Urza's Saga found the combo artifacts"
+   ]
+  }
+ },
+ {
+  "name": "Yawgmoth",
+  "titles": [
+   "Creatures Toolbox",
+   "Chord Toolbox",
+   "Bg Yawgmoth",
+   "Yawgmoth Chord Toolbox",
+   "Yawgmoth"
+  ],
+  "slug": "yawgmoth",
+  "archetype": "combo",
+  "cover": "Yawgmoth, Thran Physician",
+  "keyCards": [
+   "Yawgmoth, Thran Physician",
+   "Young Wolf",
+   "Strangleroot Geist",
+   "Chord of Calling",
+   "Grist, the Hunger Tide"
+  ],
+  "summary": {
+   "fr": "Combo-midrange Golgari autour de Yawgmoth, Thran Physician et de créatures à ténacité qui reviennent sans fin en se sacrifiant.",
+   "en": "Golgari combo-midrange around Yawgmoth, Thran Physician and undying creatures that return endlessly as they are sacrificed."
+  },
+  "why": {
+   "fr": [
+    "Yawgmoth retirait les marqueurs -1/-1 et piochait à chaque sacrifice",
+    "Chord of Calling et Eldritch Evolution allaient chercher les pièces",
+    "Blood Artist transformait la boucle en victoire"
+   ],
+   "en": [
+    "Yawgmoth removed -1/-1 counters and drew on every sacrifice",
+    "Chord of Calling and Eldritch Evolution found the pieces",
+    "Blood Artist turned the loop into a win"
+   ]
+  },
+  "note": "mtgtop8 'Creatures Toolbox' / 'Chord Toolbox'."
+ },
+ {
+  "name": "Jund",
+  "titles": [
+   "Jund"
+  ],
+  "slug": "jund",
+  "archetype": "midrange",
+  "cover": "Wrenn and Six",
+  "keyCards": [
+   "Wrenn and Six",
+   "Tarmogoyf",
+   "Ragavan, Nimble Pilferer",
+   "Tireless Tracker",
+   "Urza's Saga"
+  ],
+  "summary": {
+   "fr": "Midrange Jund qui garde défausse, Lightning Bolt et Tarmogoyf, ajoute Ragavan et Urza's Saga de Modern Horizons 2.",
+   "en": "Jund midrange that keeps discard, Lightning Bolt and Tarmogoyf, adding Ragavan and Urza's Saga from Modern Horizons 2."
+  },
+  "why": {
+   "fr": [
+    "Wrenn and Six recyclait les fetchlands et tuait les créatures à une endurance",
+    "Urza's Saga fournissait des artefacts utilitaires",
+    "Trois finales dans de grands tournois papier américains"
+   ],
+   "en": [
+    "Wrenn and Six regrew fetchlands and killed one-toughness creatures",
+    "Urza's Saga supplied utility artifacts",
+    "Three finals at large American paper events"
+   ]
+  }
+ },
+ {
+  "name": "Tron",
+  "titles": [
+   "UrzaTron"
+  ],
+  "slug": "tron",
+  "archetype": "ramp",
+  "rep": 478244,
+  "cover": "Karn Liberated",
+  "keyCards": [
+   "Karn Liberated",
+   "Karn, the Great Creator",
+   "Ulamog, the Ceaseless Hunger",
+   "Ancient Stirrings",
+   "Sylvan Scrying"
+  ],
+  "summary": {
+   "fr": "Rampe mono-verte qui assemble les trois terrains d'Urza pour lancer Karn Liberated, Ugin ou Ulamog dès le troisième ou quatrième tour.",
+   "en": "Mono-green ramp deck that assembles the three Urza lands to cast Karn Liberated, Ugin or Ulamog on turn three or four."
+  },
+  "why": {
+   "fr": [
+    "Ancient Stirrings et Sylvan Scrying trouvaient les pièces de Tron",
+    "Karn, the Great Creator allait chercher des artefacts dans la réserve",
+    "Certaines listes passèrent à Mystic Forge et Urza's Saga"
+   ],
+   "en": [
+    "Ancient Stirrings and Sylvan Scrying found the Tron pieces",
+    "Karn, the Great Creator fetched artifacts from the sideboard",
+    "Some lists moved to Mystic Forge and Urza's Saga"
+   ]
+  },
+  "note": "Rep = Campeonato de España finalist (classic Mono-Green Tron)."
+ },
+ {
+  "name": "Goblins",
+  "titles": [
+   "Goblins"
+  ],
+  "slug": "goblins",
+  "archetype": "aggro",
+  "cover": "Conspicuous Snoop",
+  "keyCards": [
+   "Conspicuous Snoop",
+   "Goblin Matron",
+   "Goblin Ringleader",
+   "Kiki-Jiki, Mirror Breaker",
+   "Munitions Expert"
+  ],
+  "summary": {
+   "fr": "Tribal Gobelins Rakdos qui enchaîne Goblin Matron et Goblin Ringleader pour l'avantage de cartes, avec Kiki-Jiki en combo via Conspicuous Snoop.",
+   "en": "Rakdos Goblin tribal that chains Goblin Matron and Goblin Ringleader for card advantage, with a Kiki-Jiki combo through Conspicuous Snoop."
+  },
+  "why": {
+   "fr": [
+    "Conspicuous Snoop copiait les capacités des Gobelins du dessus de bibliothèque",
+    "Goblin Matron allait chercher Kiki-Jiki ou une pièce utile",
+    "Aether Vial et Cavern of Souls contournaient les contresorts"
+   ],
+   "en": [
+    "Conspicuous Snoop copied abilities of Goblins on top of the library",
+    "Goblin Matron fetched Kiki-Jiki or whatever piece was needed",
+    "Aether Vial and Cavern of Souls got around counterspells"
+   ]
+  }
+ },
+ {
+  "name": "Merfolk",
+  "titles": [
+   "Merfolk"
+  ],
+  "slug": "merfolk",
+  "archetype": "aggro",
+  "cover": "Svyelun of Sea and Sky",
+  "keyCards": [
+   "Svyelun of Sea and Sky",
+   "Lord of Atlantis",
+   "Master of the Pearl Trident",
+   "Tide Shaper",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Aggro tribal Ondins qui pose des seigneurs avec Aether Vial et Cavern of Souls ; Modern Horizons 2 lui apporta Svyelun et Tide Shaper.",
+   "en": "Merfolk tribal aggro that deploys lords through Aether Vial and Cavern of Souls; Modern Horizons 2 added Svyelun and Tide Shaper."
+  },
+  "why": {
+   "fr": [
+    "Tide Shaper transformait un terrain adverse en île pour l'îlemarche",
+    "Svyelun of Sea and Sky piochait et protégeait les Ondins",
+    "Subtlety servait de réponse gratuite aux menaces adverses"
+   ],
+   "en": [
+    "Tide Shaper turned an opposing land into an Island for islandwalk",
+    "Svyelun of Sea and Sky drew cards and protected the Merfolk",
+    "Subtlety worked as a free answer to opposing threats"
+   ]
+  }
+ },
+ {
+  "name": "Dredge",
+  "titles": [
+   "Dredge"
+  ],
+  "slug": "dredge",
+  "archetype": "combo",
+  "cover": "Creeping Chill",
+  "keyCards": [
+   "Creeping Chill",
+   "Prized Amalgam",
+   "Otherworldly Gaze",
+   "Golgari Thug",
+   "Silversmote Ghoul"
+  ],
+  "summary": {
+   "fr": "Dredge sans Faithless Looting : Otherworldly Gaze, Thrilling Discovery et Cathartic Reunion remplissent le cimetière, et Prized Amalgam revient en masse.",
+   "en": "Dredge without Faithless Looting: Otherworldly Gaze, Thrilling Discovery and Cathartic Reunion fill the graveyard, and Prized Amalgam comes back in numbers."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à récupération revenaient sans coût",
+    "Creeping Chill et Darkblast agissaient depuis le cimetière",
+    "Resta un choix marginal, avec des top 8 épars toute l'année"
+   ],
+   "en": [
+    "Recursive creatures returned for free",
+    "Creeping Chill and Darkblast worked from the graveyard",
+    "Stayed a fringe choice, with scattered top 8s through the year"
+   ]
+  }
+ },
+ {
+  "name": "Domain Zoo",
+  "titles": [
+   "5c Domain",
+   "Zoo Domain",
+   "Domain Zoo",
+   "Zoo"
+  ],
+  "slug": "domain-zoo",
+  "archetype": "aggro",
+  "rep": 496397,
+  "cover": "Territorial Kavu",
+  "keyCards": [
+   "Territorial Kavu",
+   "Leyline Binding",
+   "Scion of Draco",
+   "Tribal Flames",
+   "Ragavan, Nimble Pilferer"
+  ],
+  "summary": {
+   "fr": "Aggro à cinq couleurs qui récupère tous les types de terrain de base avec Triomes et chocs, pour Territorial Kavu, Tribal Flames et Leyline Binding à un mana.",
+   "en": "Five-colour aggro that gathers every basic land type with Triomes and shocks, powering Territorial Kavu, Tribal Flames and a one-mana Leyline Binding."
+  },
+  "why": {
+   "fr": [
+    "Leyline Binding (Dominaria United) exilait n'importe quel permanent pour un mana",
+    "Scion of Draco coûtait deux manas et donnait des capacités aux créatures",
+    "Les listes plus anciennes jouaient Shardless Agent et Bloodbraid Elf"
+   ],
+   "en": [
+    "Leyline Binding (Dominaria United) exiled any permanent for one mana",
+    "Scion of Draco cost two mana and granted abilities to creatures",
+    "Earlier lists played Shardless Agent and Bloodbraid Elf"
+   ]
+  }
+ },
+ {
+  "name": "Affinity",
+  "titles": [
+   "Plating Affinity",
+   "Azorius Affinity",
+   "Azorius Urza",
+   "Uw Urza",
+   "Affinity"
+  ],
+  "slug": "affinity",
+  "archetype": "aggro",
+  "cover": "Urza, Lord High Artificer",
+  "keyCards": [
+   "Urza, Lord High Artificer",
+   "Thought Monitor",
+   "Esper Sentinel",
+   "Ingenious Smith",
+   "Urza's Saga"
+  ],
+  "summary": {
+   "fr": "Aggro d'artefacts Azorius qui vide sa main grâce aux terrains-artefacts, pioche avec Thought Monitor et Thoughtcast, et frappe avec Urza et les jetons de Urza's Saga.",
+   "en": "Azorius artifact aggro that dumps its hand through artifact lands, draws with Thought Monitor and Thoughtcast, and attacks with Urza and Urza's Saga constructs."
+  },
+  "why": {
+   "fr": [
+    "Les terrains-artefacts de Modern Horizons 2 réduisaient le coût des sorts à affinité",
+    "Urza's Saga créait des créatures-artefacts de plus en plus grandes",
+    "Deuxième au MTGO Showcase Challenge de mai"
+   ],
+   "en": [
+    "Modern Horizons 2 artifact lands made affinity spells cheap",
+    "Urza's Saga made ever larger artifact creatures",
+    "Second at the May MTGO Showcase Challenge"
+   ]
+  },
+  "note": "Merges Azorius/Urza Affinity and Cranial Plating Affinity."
+ },
+ {
+  "name": "Scapeshift",
+  "titles": [
+   "Scapeshift",
+   "Ugx Scapeshift",
+   "Valakut",
+   "Titanshift",
+   "Bring to Scapeshift"
+  ],
+  "slug": "scapeshift",
+  "archetype": "ramp",
+  "cover": "Primeval Titan",
+  "keyCards": [
+   "Primeval Titan",
+   "Valakut, the Molten Pinnacle",
+   "Scapeshift",
+   "Dryad of the Ilysian Grove",
+   "Wrenn and Six"
+  ],
+  "summary": {
+   "fr": "Rampe autour de Valakut, the Molten Pinnacle : Primeval Titan ou Scapeshift mettent plusieurs Montagnes en jeu d'un coup ; versions Gruul, Temur ou à cinq couleurs.",
+   "en": "Ramp around Valakut, the Molten Pinnacle: Primeval Titan or Scapeshift put several Mountains into play at once; Gruul, Temur or five-colour builds."
+  },
+  "why": {
+   "fr": [
+    "Dryad of the Ilysian Grove faisait de chaque terrain une Montagne",
+    "Wish allait chercher Scapeshift ou une carte de réserve",
+    "Gagna le Grand Open Qualifier de l'European Legacy Tour à Copenhague"
+   ],
+   "en": [
+    "Dryad of the Ilysian Grove made every land a Mountain",
+    "Wish fetched Scapeshift or a sideboard card",
+    "Won the Legacy European Tour Grand Open Qualifier in Copenhagen"
+   ]
+  },
+  "note": "Merges Titanshift, Temur Scapeshift and Bring to Scapeshift (same Valakut engine). Rep = Grand Open Qualifier Copenhagen winner."
+ },
+ {
+  "name": "Tameshi Bloom",
+  "titles": [
+   "Tameshi Bloom",
+   "Tameshi Wargate"
+  ],
+  "slug": "tameshi-bloom",
+  "archetype": "combo",
+  "cover": "Tameshi, Reality Architect",
+  "keyCards": [
+   "Tameshi, Reality Architect",
+   "Lotus Bloom",
+   "Wargate",
+   "Cultivator Colossus",
+   "Eladamri's Call"
+  ],
+  "summary": {
+   "fr": "Combo de rampe qui suspend Lotus Bloom et le ramène en main avec Tameshi, Reality Architect pour générer du mana, puis lance Wargate ou Cultivator Colossus.",
+   "en": "Ramp combo that suspends Lotus Bloom and returns it to hand with Tameshi, Reality Architect for repeated mana, then casts Wargate or Cultivator Colossus."
+  },
+  "why": {
+   "fr": [
+    "Tameshi renvoyait Lotus Bloom pour le resuspendre gratuitement",
+    "Wargate et Eladamri's Call allaient chercher les pièces",
+    "Cultivator Colossus mettait en jeu une série de terrains"
+   ],
+   "en": [
+    "Tameshi bounced Lotus Bloom to suspend it again for free",
+    "Wargate and Eladamri's Call fetched the pieces",
+    "Cultivator Colossus put a stream of lands into play"
+   ]
+  }
+ }
+]

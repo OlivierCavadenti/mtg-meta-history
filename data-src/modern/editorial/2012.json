@@ -1,0 +1,613 @@
+[
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": ["Jund"],
+    "rep": 222208,
+    "cover": "Bloodbraid Elf",
+    "keyCards": ["Bloodbraid Elf", "Liliana of the Veil", "Tarmogoyf", "Dark Confidant", "Deathrite Shaman"],
+    "summary": {
+      "fr": "Midrange noir-rouge-vert : défausse, Lightning Bolt et Liliana of the Veil pour gêner l'adversaire, Tarmogoyf, Dark Confidant et Bloodbraid Elf pour la pression.",
+      "en": "Black-red-green midrange: discard, Lightning Bolt and Liliana of the Veil to disrupt, Tarmogoyf, Dark Confidant and Bloodbraid Elf for pressure."
+    },
+    "why": {
+      "fr": [
+        "A remporté les Grand Prix de Lyon, Chicago et Toronto en fin d'année",
+        "Deathrite Shaman et Abrupt Decay, arrivés avec Return to Ravnica, ont renforcé la liste",
+        "Bloodbraid Elf a été banni début 2013"
+      ],
+      "en": [
+        "Won Grands Prix Lyon, Chicago and Toronto late in the year",
+        "Deathrite Shaman and Abrupt Decay, from Return to Ravnica, strengthened the list",
+        "Bloodbraid Elf was banned at the start of 2013"
+      ]
+    }
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": ["Affinity", "Rw Affinity", "Mono-Red Affinity", "Mono Red Affinity", "Tezzeret Affinity", "Ru Affinity", "UR Affinity", "UB Affinity", "Ub Affinity", "Steel Affinity", "Robots"],
+    "rep": 218101,
+    "cover": "Arcbound Ravager",
+    "keyCards": ["Arcbound Ravager", "Cranial Plating", "Etched Champion", "Mox Opal", "Galvanic Blast"],
+    "summary": {
+      "fr": "Aggro artefact : Memnite, Ornithopter et Signal Pest arrivent dès les premiers tours, Cranial Plating, Steel Overseer ou Arcbound Ravager transforment la horde en menace létale.",
+      "en": "Artifact aggro: Memnite, Ornithopter and Signal Pest hit the table early, then Cranial Plating, Steel Overseer or Arcbound Ravager turn the swarm lethal."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Grand Prix Columbus",
+        "Etched Champion devenait imblocable par les créatures colorées grâce au metalcraft",
+        "Inkmoth Nexus et Blinkmoth Nexus résistaient aux balais de rituels"
+      ],
+      "en": [
+        "Won Grand Prix Columbus",
+        "Etched Champion's metalcraft made it unblockable by coloured creatures",
+        "Inkmoth and Blinkmoth Nexus survived sorcery-speed sweepers"
+      ]
+    },
+    "note": "All Ravager / Plating variants merged (red, blue, Tezzeret, Tempered Steel, 'Robots')."
+  },
+  {
+    "name": "Melira Pod",
+    "slug": "melira-pod",
+    "archetype": "midrange",
+    "titles": ["Melira Pod", "Melira pod", "Melira Angel Pod"],
+    "include": [223323, 223981],
+    "rep": 216409,
+    "cover": "Melira, Sylvok Outcast",
+    "keyCards": ["Birthing Pod", "Melira, Sylvok Outcast", "Kitchen Finks", "Viscera Seer", "Chord of Calling"],
+    "summary": {
+      "fr": "Toolbox Birthing Pod noir-vert-blanc : Melira, Sylvok Outcast avec Kitchen Finks et Viscera Seer donne une combo de vie ou de scry infinie, trouvée par Pod ou Chord of Calling.",
+      "en": "Black-green-white Birthing Pod toolbox: Melira, Sylvok Outcast with Kitchen Finks and Viscera Seer gives infinite life or scry, found by Pod or Chord of Calling."
+    },
+    "why": {
+      "fr": [
+        "Deuxième aux Grand Prix Lincoln et Toronto",
+        "Chaque pièce de la combo restait une créature utile seule",
+        "Birthing Pod enchaînait les créatures à un exemplaire selon l'adversaire"
+      ],
+      "en": [
+        "Finished second at Grands Prix Lincoln and Toronto",
+        "Each combo piece was a useful creature on its own",
+        "Birthing Pod chained one-of creatures tailored to the opponent"
+      ]
+    },
+    "note": "Split from Kiki Pod by engine (Melira + persist vs Kiki-Jiki + Restoration Angel). 223323 (Pardee, GP Toronto) and 223981 filed as 'Birthing Pod' are Melira lists."
+  },
+  {
+    "name": "Kiki Pod",
+    "slug": "kiki-pod",
+    "archetype": "midrange",
+    "titles": ["Birthing Pod", "Angel Pod", "Pod", "Melira Angel pod"],
+    "rep": 218104,
+    "cover": "Kiki-Jiki, Mirror Breaker",
+    "keyCards": ["Birthing Pod", "Kiki-Jiki, Mirror Breaker", "Restoration Angel", "Chord of Calling", "Kitchen Finks"],
+    "summary": {
+      "fr": "Birthing Pod rouge-vert-blanc : Kiki-Jiki, Mirror Breaker copie Restoration Angel ou Deceiver Exarch à l'infini, et Pod ou Chord of Calling assemblent la combo.",
+      "en": "Red-green-white Birthing Pod: Kiki-Jiki, Mirror Breaker copies Restoration Angel or Deceiver Exarch endlessly, with Pod or Chord of Calling assembling the combo."
+    },
+    "why": {
+      "fr": [
+        "Restoration Angel, arrivée avec Avacyn Restored, a créé cette version au printemps",
+        "Top 4 aux Grand Prix Yokohama et Columbus",
+        "Sans la combo, Pod restait un moteur de valeur créature après créature"
+      ],
+      "en": [
+        "Restoration Angel, from Avacyn Restored, created this build in the spring",
+        "Reached the top 4 at Grands Prix Yokohama and Columbus",
+        "Without the combo, Pod remained a creature-by-creature value engine"
+      ]
+    }
+  },
+  {
+    "name": "Splinter Twin",
+    "slug": "splinter-twin",
+    "archetype": "combo",
+    "titles": ["Twin Exarch", "Exarch Twin", "Splinter Twin", "Twin"],
+    "rep": 217154,
+    "cover": "Splinter Twin",
+    "keyCards": ["Splinter Twin", "Deceiver Exarch", "Pestermite", "Kiki-Jiki, Mirror Breaker", "Serum Visions"],
+    "summary": {
+      "fr": "Combo bleu-rouge : Splinter Twin ou Kiki-Jiki, Mirror Breaker sur Deceiver Exarch ou Pestermite, protégé par Remand, Dispel et les sorts de pioche.",
+      "en": "Blue-red combo: Splinter Twin or Kiki-Jiki, Mirror Breaker on Deceiver Exarch or Pestermite, protected by Remand, Dispel and cantrips."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Grand Prix Turin",
+        "Serum Visions et Sleight of Hand remplaçaient Ponder et Preordain bannis",
+        "La menace du combo à la fin du tour obligeait l'adversaire à garder son removal"
+      ],
+      "en": [
+        "Reached the Grand Prix Turin top 4",
+        "Serum Visions and Sleight of Hand replaced the banned Ponder and Preordain",
+        "The end-of-turn combo threat forced opponents to hold up removal"
+      ]
+    }
+  },
+  {
+    "name": "UWR Delver",
+    "slug": "uwr-delver",
+    "archetype": "tempo",
+    "titles": ["Boremandos", "Delver Scepter", "UWR Tempo", "Patriot Delver"],
+    "rep": 218103,
+    "cover": "Geist of Saint Traft",
+    "keyCards": ["Delver of Secrets", "Geist of Saint Traft", "Steppe Lynx", "Remand", "Lightning Helix"],
+    "summary": {
+      "fr": "Tempo bleu-blanc-rouge : Delver of Secrets, Steppe Lynx et Geist of Saint Traft attaquent tôt, Remand, Lightning Bolt et Lightning Helix tiennent le rythme.",
+      "en": "Blue-white-red tempo: Delver of Secrets, Steppe Lynx and Geist of Saint Traft attack early, while Remand, Lightning Bolt and Lightning Helix keep tempo."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Grand Prix Columbus, trois exemplaires dans le top 8",
+        "Remand ralentissait les combos et les decks à gros sorts",
+        "Une variante jouait Isochron Scepter avec Lightning Helix"
+      ],
+      "en": [
+        "Reached the Grand Prix Columbus top 4, with three copies in the top 8",
+        "Remand slowed down combo and big-spell decks",
+        "One variant played Isochron Scepter with Lightning Helix"
+      ]
+    },
+    "note": "mtgtop8 files most lists as 'Boremandos' (Boros + Remand); Delver Scepter is the Isochron variant of the same Geist/Delver/Lynx shell."
+  },
+  {
+    "name": "Caw-Blade",
+    "slug": "caw-blade",
+    "archetype": "control",
+    "titles": ["Caw-Blade", "Caw Blade", "Esper Blade"],
+    "exclude": [219068, 221863, 222384, 221890, 221958, 221894, 221916, 221930, 221940, 221950, 221957, 221943],
+    "rep": 216753,
+    "cover": "Squadron Hawk",
+    "keyCards": ["Squadron Hawk", "Snapcaster Mage", "Cryptic Command", "Vendilion Clique", "Vedalken Shackles"],
+    "summary": {
+      "fr": "Contrôle bleu-blanc à créatures flash : Squadron Hawk, Snapcaster Mage et Vendilion Clique, Cryptic Command et Path to Exile pour tenir la partie.",
+      "en": "Blue-white control with flash creatures: Squadron Hawk, Snapcaster Mage and Vendilion Clique, with Cryptic Command and Path to Exile to hold the game."
+    },
+    "why": {
+      "fr": [
+        "Très présent dans la saison de PTQ du début d'année",
+        "Snapcaster Mage rejouait les contresorts et le removal",
+        "Vedalken Shackles volait les créatures des decks aggro"
+      ],
+      "en": [
+        "A fixture of the early-year PTQ season",
+        "Snapcaster Mage reused counterspells and removal",
+        "Vedalken Shackles stole creatures from aggro decks"
+      ]
+    },
+    "note": "Squadron Hawk lists only. Later lists filed as Caw-Blade (Geist + Restoration Angel, incl. PT RTR and GP Chicago) moved to UW Midrange."
+  },
+  {
+    "name": "UW Midrange",
+    "slug": "uw-midrange",
+    "archetype": "midrange",
+    "titles": ["UW Angel", "UW Angels"],
+    "include": [219068, 221863, 222384, 221890, 221958, 221894, 221916, 221930, 221940, 221950, 221957, 221943, 222243, 221931],
+    "rep": 218180,
+    "cover": "Restoration Angel",
+    "keyCards": ["Restoration Angel", "Geist of Saint Traft", "Snapcaster Mage", "Remand", "Cryptic Command"],
+    "summary": {
+      "fr": "Bleu-blanc à flash : Restoration Angel, Snapcaster Mage et Vendilion Clique se jouent au tour adverse, Geist of Saint Traft met la pression.",
+      "en": "Blue-white flash: Restoration Angel, Snapcaster Mage and Vendilion Clique are cast on the opponent's turn while Geist of Saint Traft applies pressure."
+    },
+    "why": {
+      "fr": [
+        "Restoration Angel a déplacé le bleu-blanc des épées vers le flash",
+        "Top 8 au Pro Tour Return to Ravnica et top 3 au Grand Prix Chicago",
+        "Celestial Colonnade et Tectonic Edge complétaient une base de terrains solide"
+      ],
+      "en": [
+        "Restoration Angel shifted blue-white from Swords to flash",
+        "Made the Pro Tour Return to Ravnica top 8 and the Grand Prix Chicago top 3",
+        "Celestial Colonnade and Tectonic Edge rounded out a solid mana base"
+      ]
+    },
+    "note": "Geist/Restoration Angel lists merged from 'UW Angel', 'UW Angels' and the post-May lists filed as Caw-Blade or UW Control. True UW Control (223319, Supreme Verdict) left out."
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": ["UR Storm", "Pyromancer Storm", "Gifts Storm", "Swath Storm", "Storm", "Mono Red Storm"],
+    "rep": 217156,
+    "cover": "Past in Flames",
+    "keyCards": ["Past in Flames", "Grapeshot", "Seething Song", "Manamorphose", "Pyretic Ritual"],
+    "summary": {
+      "fr": "Combo bleu-rouge : rituels et sorts de pioche augmentent le compteur de tempête, Past in Flames les rejoue depuis le cimetière, Grapeshot conclut.",
+      "en": "Blue-red combo: rituals and cantrips build the storm count, Past in Flames recasts them from the graveyard, and Grapeshot finishes."
+    },
+    "why": {
+      "fr": [
+        "Past in Flames, arrivé avec Innistrad, doublait le nombre de sorts d'un tour",
+        "Top 4 au Grand Prix Turin avec la version Gifts Ungiven",
+        "Seething Song a été banni début 2013"
+      ],
+      "en": [
+        "Past in Flames, from Innistrad, doubled the number of spells in a turn",
+        "Reached the Grand Prix Turin top 4 with a Gifts Ungiven build",
+        "Seething Song was banned at the start of 2013"
+      ]
+    }
+  },
+  {
+    "name": "Faeries",
+    "slug": "faeries",
+    "archetype": "tempo",
+    "titles": ["Faeries", "UR Faeries", "Mono U Faeries", "Patriot Faeries"],
+    "rep": 217953,
+    "cover": "Spellstutter Sprite",
+    "keyCards": ["Spellstutter Sprite", "Mistbind Clique", "Scion of Oona", "Vedalken Shackles", "Cryptic Command"],
+    "summary": {
+      "fr": "Tempo bleu à flash : les Faeries de Lorwyn se jouent au tour adverse, Spellstutter Sprite contre les petits sorts, Vedalken Shackles vole les créatures.",
+      "en": "Blue flash tempo: the Lorwyn Faeries are cast on the opponent's turn, Spellstutter Sprite counters small spells and Vedalken Shackles steals creatures."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Grand Prix Yokohama",
+        "Mistbind Clique attaquait l'adversaire pendant son entretien",
+        "La version mono-bleue profitait pleinement de Vedalken Shackles"
+      ],
+      "en": [
+        "Finished second at Grand Prix Yokohama",
+        "Mistbind Clique tapped the opponent out during their upkeep",
+        "The mono-blue build made full use of Vedalken Shackles"
+      ]
+    }
+  },
+  {
+    "name": "Bant",
+    "slug": "bant",
+    "archetype": "midrange",
+    "titles": ["Bant", "4 Swords Bant", "T-Bant", "Bant Sword"],
+    "rep": 216456,
+    "cover": "Geist of Saint Traft",
+    "keyCards": ["Geist of Saint Traft", "Knight of the Reliquary", "Noble Hierarch", "Elspeth, Knight-Errant", "Tarmogoyf"],
+    "summary": {
+      "fr": "Midrange vert-blanc-bleu : mana de Noble Hierarch, Knight of the Reliquary et Tarmogoyf, Geist of Saint Traft et Elspeth, Knight-Errant pour finir.",
+      "en": "Green-white-blue midrange: Noble Hierarch mana, Knight of the Reliquary and Tarmogoyf, with Geist of Saint Traft and Elspeth, Knight-Errant to close."
+    },
+    "why": {
+      "fr": [
+        "Geist of Saint Traft protégé par Elspeth ou une épée frappait vite",
+        "Qasali Pridemage gérait Affinity et les artefacts de combo",
+        "Mana Leak et Spell Pierce gardaient un œil sur les combos"
+      ],
+      "en": [
+        "Geist of Saint Traft with Elspeth or a Sword hit fast",
+        "Qasali Pridemage handled Affinity and combo artifacts",
+        "Mana Leak and Spell Pierce kept combo decks in check"
+      ]
+    }
+  },
+  {
+    "name": "Boros Landfall",
+    "slug": "boros-landfall",
+    "archetype": "aggro",
+    "titles": ["Boros"],
+    "rep": 216089,
+    "cover": "Steppe Lynx",
+    "keyCards": ["Steppe Lynx", "Plated Geopede", "Goblin Guide", "Chandra's Phoenix", "Lightning Helix"],
+    "summary": {
+      "fr": "Aggro rouge-blanc : Steppe Lynx et Plated Geopede grandissent à chaque fetchland, Chandra's Phoenix revient sur les brûlures.",
+      "en": "Red-white aggro: Steppe Lynx and Plated Geopede grow with each fetchland, Chandra's Phoenix returns off burn."
+    },
+    "why": {
+      "fr": [
+        "Douze fetchlands déclenchaient le landfall plusieurs fois",
+        "Path to Exile et Lightning Helix nettoyaient les bloqueurs",
+        "Chandra's Phoenix revenait en main quand les brûlures touchaient l'adversaire"
+      ],
+      "en": [
+        "Twelve fetchlands triggered landfall repeatedly",
+        "Path to Exile and Lightning Helix cleared blockers",
+        "Chandra's Phoenix returned to hand when burn hit the opponent"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": ["Aggro Loam"],
+    "rep": 216408,
+    "cover": "Life from the Loam",
+    "keyCards": ["Life from the Loam", "Seismic Assault", "Raven's Crime", "Liliana of the Veil", "Countryside Crusher"],
+    "summary": {
+      "fr": "Midrange noir-rouge-vert : Life from the Loam recycle les terrains, transformés en dégâts par Seismic Assault ou en défausse par Raven's Crime.",
+      "en": "Black-red-green midrange: Life from the Loam recycles lands, turned into damage by Seismic Assault or discard by Raven's Crime."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Grand Prix Lincoln, premier Grand Prix Modern de l'année",
+        "Le Loam générait un avantage de cartes que les decks midrange ne suivaient pas",
+        "Liliana of the Veil et Raven's Crime vidaient la main adverse"
+      ],
+      "en": [
+        "Won Grand Prix Lincoln, the year's first Modern Grand Prix",
+        "Loam generated card advantage midrange decks could not match",
+        "Liliana of the Veil and Raven's Crime emptied the opponent's hand"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": ["Red Deck Wins", "Burn", "Dark Burn", "Red Deck Wins splash green"],
+    "rep": 216513,
+    "cover": "Goblin Guide",
+    "keyCards": ["Goblin Guide", "Lightning Bolt", "Bump in the Night", "Grim Lavamancer", "Dark Confidant"],
+    "summary": {
+      "fr": "Rouge splash noir : créatures hâtives et brûlures à un mana, avec Bump in the Night en flashback et parfois Dark Confidant pour piocher.",
+      "en": "Red splashing black: hasty creatures and one-mana burn, with flashback Bump in the Night and sometimes Dark Confidant for cards."
+    },
+    "why": {
+      "fr": [
+        "Presque chaque sort infligeait trois dégâts pour un mana",
+        "Blackcleave Cliffs permettait un splash noir sans affaiblir la base",
+        "Searing Blaze et Grim Lavamancer gênaient les decks à créatures"
+      ],
+      "en": [
+        "Nearly every spell dealt three damage for one mana",
+        "Blackcleave Cliffs allowed a black splash without weakening the mana",
+        "Searing Blaze and Grim Lavamancer held off creature decks"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "rug-delver",
+    "archetype": "tempo",
+    "titles": ["RUG Delver", "RUG Tempo", "RUG Aggro"],
+    "rep": 217151,
+    "cover": "Delver of Secrets",
+    "keyCards": ["Delver of Secrets", "Tarmogoyf", "Snapcaster Mage", "Vedalken Shackles", "Lightning Bolt"],
+    "summary": {
+      "fr": "Tempo bleu-rouge-vert : Delver of Secrets et Tarmogoyf comme menaces, contresorts bon marché et Lightning Bolt pour les protéger.",
+      "en": "Blue-red-green tempo: Delver of Secrets and Tarmogoyf as threats, with cheap counterspells and Lightning Bolt to protect them."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Grand Prix Turin",
+        "Deuxième au Grand Prix Columbus sous le nom de RUG Tempo",
+        "Snapcaster Mage rejouait Lightning Bolt et les contresorts"
+      ],
+      "en": [
+        "Won Grand Prix Turin",
+        "Finished second at Grand Prix Columbus as RUG Tempo",
+        "Snapcaster Mage recast Lightning Bolt and counterspells"
+      ]
+    }
+  },
+  {
+    "name": "UB Delver",
+    "slug": "ub-delver",
+    "archetype": "tempo",
+    "titles": ["UB Delver", "Grixis Delver"],
+    "rep": 216261,
+    "cover": "Dark Confidant",
+    "keyCards": ["Delver of Secrets", "Dark Confidant", "Snapcaster Mage", "Inquisition of Kozilek", "Creeping Tar Pit"],
+    "summary": {
+      "fr": "Tempo bleu-noir : Delver of Secrets et Dark Confidant, Inquisition of Kozilek et Mana Leak, avec Creeping Tar Pit et Mutavault comme menaces supplémentaires.",
+      "en": "Blue-black tempo: Delver of Secrets and Dark Confidant, Inquisition of Kozilek and Mana Leak, with Creeping Tar Pit and Mutavault as extra threats."
+    },
+    "why": {
+      "fr": [
+        "Dark Confidant apportait un avantage de cartes constant à faible coût",
+        "Creeping Tar Pit, imblocable, contournait les créatures adverses",
+        "Plusieurs victoires de PTQ lors de la saison de janvier"
+      ],
+      "en": [
+        "Dark Confidant provided steady card advantage at low cost",
+        "Unblockable Creeping Tar Pit got around opposing creatures",
+        "Several PTQ wins during the January season"
+      ]
+    }
+  },
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "ramp",
+    "titles": ["Gr Tron", "Green Tron"],
+    "rep": 218108,
+    "cover": "Karn Liberated",
+    "keyCards": ["Karn Liberated", "Wurmcoil Engine", "Ancient Stirrings", "Expedition Map", "Oblivion Stone"],
+    "summary": {
+      "fr": "Rampe vert-incolore : les trois Urza's lands donnent sept manas au troisième tour pour Karn Liberated, Wurmcoil Engine ou Emrakul.",
+      "en": "Green colourless ramp: the three Urza lands give seven mana on turn three for Karn Liberated, Wurmcoil Engine or Emrakul."
+    },
+    "why": {
+      "fr": [
+        "Ancient Stirrings, Sylvan Scrying et Expedition Map assemblaient Tron",
+        "Karn Liberated, imprimé en 2011, offrait une menace incolore à sept manas",
+        "Oblivion Stone et Pyroclasm couvraient les decks aggro"
+      ],
+      "en": [
+        "Ancient Stirrings, Sylvan Scrying and Expedition Map assembled Tron",
+        "Karn Liberated, printed in 2011, gave a colourless seven-mana threat",
+        "Oblivion Stone and Pyroclasm covered aggro decks"
+      ]
+    }
+  },
+  {
+    "name": "UW Tron",
+    "slug": "uw-tron",
+    "archetype": "control",
+    "titles": ["UW Tron", "Urza Eldrazi", "Tron Eldrazi", "Gift Tron", "Gifts Tron", "Rite Tron", "Urza Gift Rite", "Unburial Gift"],
+    "rep": 216410,
+    "cover": "Gifts Ungiven",
+    "keyCards": ["Gifts Ungiven", "Thirst for Knowledge", "Unburial Rites", "Elesh Norn, Grand Cenobite", "Remand"],
+    "summary": {
+      "fr": "Contrôle bleu-blanc sur les Urza's lands : Remand et Path to Exile pour durer, Gifts Ungiven et Unburial Rites pour ramener Elesh Norn ou Iona.",
+      "en": "Blue-white control on the Urza lands: Remand and Path to Exile to survive, Gifts Ungiven and Unburial Rites to bring back Elesh Norn or Iona."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Grand Prix Lincoln",
+        "Gifts Ungiven trouvait Unburial Rites et une cible à réanimer",
+        "Thirst for Knowledge et Azorius Signet complétaient le mana de Tron"
+      ],
+      "en": [
+        "Reached the Grand Prix Lincoln top 4",
+        "Gifts Ungiven found Unburial Rites plus a reanimation target",
+        "Thirst for Knowledge and Azorius Signet supported the Tron mana"
+      ]
+    }
+  },
+  {
+    "name": "Martyr-Proc",
+    "slug": "martyr-proc",
+    "archetype": "control",
+    "titles": ["Martyr Life", "WB Martyr"],
+    "exclude": [223557, 221902, 221910],
+    "rep": 216085,
+    "cover": "Martyr of Sands",
+    "keyCards": ["Martyr of Sands", "Proclamation of Rebirth", "Serra Ascendant", "Ranger of Eos", "Squadron Hawk"],
+    "summary": {
+      "fr": "Contrôle blanc : Martyr of Sands gagne de grandes quantités de vie, Proclamation of Rebirth le ramenait chaque tour, Serra Ascendant conclut.",
+      "en": "White control: Martyr of Sands gains large amounts of life, Proclamation of Rebirth returns it every turn, and Serra Ascendant closes."
+    },
+    "why": {
+      "fr": [
+        "Le gain de vie répété épuisait Burn, Zoo et les decks aggro",
+        "Squadron Hawk et Ranger of Eos alimentaient Martyr of Sands en cartes",
+        "Serra Ascendant devenait un 6/6 volant une fois la vie au-dessus de trente"
+      ],
+      "en": [
+        "Repeated life gain wore down Burn, Zoo and aggro decks",
+        "Squadron Hawk and Ranger of Eos fed cards to Martyr of Sands",
+        "Serra Ascendant became a 6/6 flyer once life passed thirty"
+      ]
+    },
+    "note": "Soul Sisters lists (Soul Warden, Ajani's Pridemate: 217152 GP Turin 2nd, 216992, 223557 and the PT RTR lists) kept out; three top 8s on their own."
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": ["Living End"],
+    "rep": 216967,
+    "cover": "Living End",
+    "keyCards": ["Living End", "Violent Outburst", "Demonic Dread", "Street Wraith", "Monstrous Carabid"],
+    "summary": {
+      "fr": "Combo cascade : les créatures sont cyclées vers le cimetière, puis Violent Outburst ou Demonic Dread révèle Living End, qui les ramène toutes et efface celles de l'adversaire.",
+      "en": "Cascade combo: creatures are cycled into the graveyard, then Violent Outburst or Demonic Dread reveals Living End, returning them all and wiping the opponent's."
+    },
+    "why": {
+      "fr": [
+        "Aucun sort à coût inférieur à trois sauf Living End, révélé à coup sûr",
+        "Street Wraith se cyclait sans payer de mana",
+        "Fulminator Mage et Beast Within gênaient le mana adverse"
+      ],
+      "en": [
+        "No spell under three mana except Living End, so cascade always found it",
+        "Street Wraith cycled without paying mana",
+        "Fulminator Mage and Beast Within attacked opposing mana"
+      ]
+    }
+  },
+  {
+    "name": "Scapeshift",
+    "slug": "scapeshift",
+    "archetype": "combo",
+    "titles": ["Scapeshift", "Unknown Scapeshift"],
+    "rep": 221858,
+    "cover": "Scapeshift",
+    "keyCards": ["Scapeshift", "Valakut, the Molten Pinnacle", "Sakura-Tribe Elder", "Cryptic Command", "Remand"],
+    "summary": {
+      "fr": "Combo bleu-rouge-vert : rampe vers sept terrains, puis Scapeshift va chercher des Mountain et Valakut, the Molten Pinnacle pour infliger les dégâts d'un coup.",
+      "en": "Blue-red-green combo: ramp to seven lands, then Scapeshift fetches Mountains and Valakut, the Molten Pinnacle to deal the damage at once."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Pro Tour Return to Ravnica et au Grand Prix Toronto",
+        "Remand et Cryptic Command protégeaient le sort décisif",
+        "Le combo passait à travers les blocages et la plupart des removals"
+      ],
+      "en": [
+        "Reached the top 4 at Pro Tour Return to Ravnica and Grand Prix Toronto",
+        "Remand and Cryptic Command protected the decisive spell",
+        "The combo went through blockers and most removal"
+      ]
+    }
+  },
+  {
+    "name": "BW Tokens",
+    "slug": "bw-tokens",
+    "archetype": "aggro",
+    "titles": ["BW Tokens", "WB Tokens"],
+    "rep": 217952,
+    "cover": "Lingering Souls",
+    "keyCards": ["Lingering Souls", "Spectral Procession", "Tidehollow Sculler", "Hero of Bladehold", "Honor of the Pure"],
+    "summary": {
+      "fr": "Aggro blanc-noir : Lingering Souls et Spectral Procession produisent des jetons volants, renforcés par Honor of the Pure et Intangible Virtue.",
+      "en": "White-black aggro: Lingering Souls and Spectral Procession make flying tokens, pumped by Honor of the Pure and Intangible Virtue."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Grand Prix Yokohama",
+        "Tidehollow Sculler et Thoughtseize retiraient la meilleure carte adverse",
+        "Les jetons multiples débordaient le removal à cible unique"
+      ],
+      "en": [
+        "Won Grand Prix Yokohama",
+        "Tidehollow Sculler and Thoughtseize took the opponent's best card",
+        "Multiple tokens overwhelmed one-for-one removal"
+      ]
+    }
+  },
+  {
+    "name": "Eggs",
+    "slug": "eggs",
+    "archetype": "combo",
+    "titles": ["Sunny Side Up"],
+    "rep": 221862,
+    "cover": "Second Sunrise",
+    "keyCards": ["Second Sunrise", "Faith's Reward", "Lotus Bloom", "Reshape", "Pyrite Spellbomb"],
+    "summary": {
+      "fr": "Combo artefact : des artefacts bon marché qui se sacrifient en piochant, puis Second Sunrise ou Faith's Reward les ramène tous pour recommencer la boucle.",
+      "en": "Artifact combo: cheap artifacts that sacrifice to draw, then Second Sunrise or Faith's Reward returns them all to repeat the loop."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Pro Tour Return to Ravnica",
+        "Chaque boucle piochait des cartes et produisait du mana",
+        "Pyrite Spellbomb, ramenée en boucle, infligeait les derniers dégâts"
+      ],
+      "en": [
+        "Won Pro Tour Return to Ravnica",
+        "Each loop drew cards and produced mana",
+        "Pyrite Spellbomb, looped back repeatedly, dealt the final damage"
+      ]
+    },
+    "note": "mtgtop8 title 'Sunny Side Up'; coverage name Eggs. Second Sunrise banned May 2013."
+  },
+  {
+    "name": "Zoo",
+    "slug": "zoo",
+    "archetype": "aggro",
+    "titles": ["Naya Zoo", "Tribal Zoo", "Boom Zoo", "Saint Zoo", "Sword Zoo", "Faithless Naya", "Boom/Bust Zoo"],
+    "rep": 217009,
+    "cover": "Kird Ape",
+    "keyCards": ["Kird Ape", "Loam Lion", "Tarmogoyf", "Lightning Helix", "Searing Blaze"],
+    "summary": {
+      "fr": "Aggro rouge-vert-blanc après le bannissement de Wild Nacatl : Kird Ape, Loam Lion et Tarmogoyf, soutenus par Lightning Bolt et Lightning Helix.",
+      "en": "Red-green-white aggro after the Wild Nacatl ban: Kird Ape, Loam Lion and Tarmogoyf, backed by Lightning Bolt and Lightning Helix."
+    },
+    "why": {
+      "fr": [
+        "Des créatures à un mana qui frappaient comme des créatures à deux",
+        "Les brûlures servaient à la fois de removal et de dégâts directs",
+        "Les versions Domain gardaient Tribal Flames et Steppe Lynx"
+      ],
+      "en": [
+        "One-drops that hit like two-drops",
+        "Burn doubled as removal and direct damage",
+        "Domain builds kept Tribal Flames and Steppe Lynx"
+      ]
+    }
+  }
+]

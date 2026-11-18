@@ -1,0 +1,767 @@
+[
+ {
+  "name": "Jund Shadow",
+  "slug": "jund-shadow",
+  "archetype": "aggro",
+  "titles": [
+   "Jund Shadow",
+   "Shadow In The Jund Bush"
+  ],
+  "include": [
+   371042,
+   373024,
+   373171,
+   373846,
+   373878,
+   374257,
+   374259,
+   374337,
+   374368,
+   374417,
+   374418,
+   374469,
+   374475,
+   381055,
+   382732,
+   394639,
+   394642,
+   394647,
+   394652,
+   404715,
+   404778,
+   406219,
+   409094,
+   410189,
+   418889,
+   420366,
+   421768,
+   422371,
+   422953,
+   423153,
+   423595,
+   425182,
+   426078
+  ]
+ },
+ {
+  "name": "Rakdos Shadow",
+  "slug": "rakdos-shadow",
+  "archetype": "aggro",
+  "titles": [
+   "Br Shadow",
+   "Mardu Shadow"
+  ],
+  "include": [
+   375439,
+   417521,
+   418888,
+   419223,
+   419411,
+   419695,
+   420070,
+   420368,
+   420369,
+   420894,
+   421102,
+   422359,
+   422362,
+   422365,
+   422583,
+   422677,
+   422680,
+   422957,
+   423144,
+   423158,
+   424035,
+   424037,
+   424649,
+   424897,
+   425079,
+   425186,
+   425489,
+   426071,
+   426076,
+   427048,
+   427059
+  ]
+ },
+ {
+  "name": "Grixis Shadow",
+  "slug": "grixis-shadow",
+  "archetype": "aggro",
+  "titles": [
+   "Death's Shadow",
+   "Grixis Shadow",
+   "Grixis Death's Shadow"
+  ]
+ },
+ {
+  "name": "Sultai Shadow",
+  "slug": "sultai-shadow",
+  "archetype": "aggro",
+  "titles": [
+   "4c Death Shadow",
+   "Oko Shadow",
+   "4 Color Shadow"
+  ],
+  "include": [
+   369046,
+   369083,
+   369125,
+   369346,
+   372075,
+   372522,
+   372523,
+   372529,
+   372567,
+   372724,
+   373181,
+   373551,
+   374102,
+   374264,
+   374423,
+   374459,
+   374586,
+   375429,
+   419416
+  ]
+ },
+ {
+  "name": "Amulet Titan",
+  "slug": "amulet-titan",
+  "archetype": "combo",
+  "titles": [
+   "Amulet Titan",
+   "Amulet titan",
+   "Salt Mine",
+   "Michael Hennick"
+  ]
+ },
+ {
+  "name": "Jund",
+  "slug": "jund",
+  "archetype": "midrange",
+  "titles": [
+   "Jund",
+   "Jund Midrange",
+   "4c Jund"
+  ]
+ },
+ {
+  "name": "The Rock",
+  "slug": "the-rock",
+  "archetype": "midrange",
+  "titles": [
+   "The Rock",
+   "Abzan Lurrus"
+  ]
+ },
+ {
+  "name": "Eldrazi Tron",
+  "slug": "eldrazi-tron",
+  "archetype": "ramp",
+  "titles": [
+   "Eldra Tron",
+   "Eldrazi Tron",
+   "Eldratron",
+   "Eldrazi Trom",
+   "E Tron",
+   "Eldrazi",
+   "Colorless Eldrazi"
+  ]
+ },
+ {
+  "name": "Mono-Green Tron",
+  "slug": "mono-green-tron",
+  "archetype": "ramp",
+  "titles": [
+   "UrzaTron",
+   "Monogreen Tron",
+   "Tron",
+   "G Tron",
+   "Mono Green Tron",
+   "Green Tron",
+   "100% Foil Mono Green Tron",
+   "Wish Tron"
+  ]
+ },
+ {
+  "name": "Red Deck Wins",
+  "slug": "red-deck-wins",
+  "archetype": "aggro",
+  "titles": [
+   "Red Deck Wins",
+   "Obosh Prowess"
+  ],
+  "include": [
+   420263,
+   422370
+  ]
+ },
+ {
+  "name": "Boros Prowess",
+  "slug": "boros-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "Boros"
+  ],
+  "include": [
+   393844,
+   416783
+  ]
+ },
+ {
+  "name": "Mono-Red Prowess",
+  "slug": "mono-red-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "Prowess Deck Wins",
+   "Mono Red Prowess",
+   "Mono-red Prowess",
+   "Prowess",
+   "RDW",
+   "Gruul Aggro"
+  ]
+ },
+ {
+  "name": "Izzet Prowess",
+  "slug": "izzet-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "UR Aggro",
+   "Ur Prowess",
+   "UR Prowess"
+  ]
+ },
+ {
+  "name": "Rakdos Prowess",
+  "slug": "rakdos-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "Rakdos Aggro",
+   "Mardu Lurrus"
+  ]
+ },
+ {
+  "name": "Burn",
+  "slug": "burn",
+  "archetype": "aggro",
+  "titles": [
+   "Burn",
+   "Naya Burn",
+   "Lurrus Burn",
+   "Boros Burn"
+  ]
+ },
+ {
+  "name": "Dredge",
+  "slug": "dredge",
+  "archetype": "aggro",
+  "titles": [
+   "Dredge",
+   "Other - Aggro"
+  ]
+ },
+ {
+  "name": "Humans",
+  "slug": "humans",
+  "archetype": "aggro",
+  "titles": [
+   "Humans",
+   "Human",
+   "5c Humans"
+  ]
+ },
+ {
+  "name": "Urza Oko",
+  "slug": "urza-oko",
+  "archetype": "midrange",
+  "titles": [
+   "Urza Oko",
+   "Simic Urza",
+   "Sultai Urza",
+   "Rug Oko",
+   "Bant Urza"
+  ],
+  "include": [
+   369836,
+   370021
+  ]
+ },
+ {
+  "name": "Whirza",
+  "slug": "whirza",
+  "archetype": "combo",
+  "titles": [
+   "Urza",
+   "Temur Urza",
+   "Whurza",
+   "Grixis Whirza",
+   "4-color Whirza",
+   "4c Whirza",
+   "Jeskai Urza",
+   "4c Urza",
+   "Urza Ascendancy"
+  ]
+ },
+ {
+  "name": "Grinding Breach",
+  "slug": "grinding-breach",
+  "archetype": "combo",
+  "titles": [
+   "Breach"
+  ]
+ },
+ {
+  "name": "Bant Snow",
+  "slug": "bant-snow",
+  "archetype": "control",
+  "titles": [
+   "Snow Bant Control",
+   "Bant Control",
+   "Bant Snowblade",
+   "Bant Stoneblade",
+   "BantYorion Control",
+   "Bant Snowblade Control",
+   "Stone Bant",
+   "Bant Stone PW",
+   "Bant Midrange",
+   "UWg",
+   "Bant Aggro",
+   "Sneaky Snake"
+  ]
+ },
+ {
+  "name": "Sultai Uro",
+  "slug": "sultai-uro",
+  "archetype": "control",
+  "titles": [
+   "Sultai Control",
+   "UGb",
+   "Sultai Uro"
+  ]
+ },
+ {
+  "name": "Temur Uro",
+  "slug": "temur-uro",
+  "archetype": "control",
+  "titles": [
+   "Temur Control",
+   "Snow Temur Control",
+   "Temur Control PW"
+  ]
+ },
+ {
+  "name": "4c Snow Control",
+  "slug": "4c-snow-control",
+  "archetype": "control",
+  "titles": [
+   "4cc",
+   "4c Control",
+   "4c Snow Control",
+   "Yorion 4c Control",
+   "4c Yorion Control",
+   "4c Yorion control",
+   "4c Snow"
+  ]
+ },
+ {
+  "name": "4c Omnath",
+  "slug": "4c-omnath",
+  "archetype": "ramp",
+  "titles": [
+   "4c Ramp Control",
+   "4c Ramp",
+   "4c Omnath Ramp",
+   "4c Omnath",
+   "Omnath Ramp",
+   "Omnath",
+   "Money Tribal"
+  ],
+  "include": [
+   419415,
+   423421
+  ]
+ },
+ {
+  "name": "Temur Reclamation",
+  "slug": "temur-reclamation",
+  "archetype": "control",
+  "titles": [
+   "Temur Reclamation",
+   "Simic Control",
+   "Simic Reclamation",
+   "Sultai Reclamation",
+   "Bant Reclamation"
+  ]
+ },
+ {
+  "name": "UW Control",
+  "slug": "uw-control",
+  "archetype": "control",
+  "titles": [
+   "UW Control",
+   "Uw Control",
+   "Esper Control"
+  ]
+ },
+ {
+  "name": "UW Stoneblade",
+  "slug": "uw-stoneblade",
+  "archetype": "control",
+  "titles": [
+   "UWx Midrange",
+   "W/u Stoneblade",
+   "UW Stoneblade",
+   "Uw Stoneblade",
+   "Esper Stoneblade"
+  ]
+ },
+ {
+  "name": "Jeskai Control",
+  "slug": "jeskai-control",
+  "archetype": "control",
+  "titles": [
+   "Jeskai Control"
+  ]
+ },
+ {
+  "name": "Gruul Midrange",
+  "slug": "gruul-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Gruul Utopia",
+   "Utopia Gruul",
+   "Gruul Ramp",
+   "Ponza",
+   "Gruul Midrange",
+   "Gr Ponza",
+   "Gruul Pillage",
+   "Rg Midrange",
+   "Gruul Utopia - Stoneforge",
+   "Temur Aggro"
+  ]
+ },
+ {
+  "name": "Titan Valakut",
+  "slug": "titan-valakut",
+  "archetype": "ramp",
+  "titles": [
+   "Valakut",
+   "Titanshift",
+   "Rg Valakut",
+   "Titan Breach",
+   "Realmshift",
+   "Simic Ramp"
+  ]
+ },
+ {
+  "name": "Simic Titan",
+  "slug": "simic-titan",
+  "archetype": "ramp",
+  "titles": [
+   "Simic Ramp Field of the Dead",
+   "Bant Field"
+  ]
+ },
+ {
+  "name": "Temur Scapeshift",
+  "slug": "temur-scapeshift",
+  "archetype": "ramp",
+  "titles": [
+   "Scapeshift",
+   "Temur Scapeshift"
+  ]
+ },
+ {
+  "name": "Heliod Company",
+  "slug": "heliod-company",
+  "archetype": "combo",
+  "titles": [
+   "Heliod Life",
+   "Heliod",
+   "Heliod Toolbox",
+   "Heliod Company",
+   "Heliod Scales",
+   "Devoted Heliod",
+   "Selesnya Heliod",
+   "Abzan Heliod",
+   "Selesnya Scales",
+   "Hardened Scales Heliod",
+   "Heliod Karn",
+   "Creatures Toolobox"
+  ],
+  "include": [
+   370475,
+   371566,
+   373851,
+   374384,
+   374401,
+   374412,
+   420382,
+   420385,
+   424192,
+   424949,
+   426766
+  ]
+ },
+ {
+  "name": "Yawgmoth",
+  "slug": "yawgmoth",
+  "archetype": "combo",
+  "titles": [
+   "Yawgmoth Chord",
+   "Toolbox Undying Retribution"
+  ],
+  "include": [
+   369507,
+   371069,
+   371119,
+   371398,
+   371401,
+   371563,
+   371899,
+   372744,
+   374409,
+   410191,
+   425654
+  ]
+ },
+ {
+  "name": "Devoted Druid",
+  "slug": "devoted-druid",
+  "archetype": "combo",
+  "titles": [
+   "Creatures Toolbox",
+   "Devoted Combo",
+   "Gw Devoted Druid",
+   "Abzan Devoted Druid",
+   "Lurrus Devoted Druid",
+   "4c Devoted Combo",
+   "Devoted Company",
+   "Devoted Devastation",
+   "Tarmo Druid",
+   "Bant Druid",
+   "Creature's Toolbox"
+  ]
+ },
+ {
+  "name": "Ad Nauseam",
+  "slug": "ad-nauseam",
+  "archetype": "combo",
+  "titles": [
+   "Ad Nauseam",
+   "As Nauseam"
+  ]
+ },
+ {
+  "name": "Infect",
+  "slug": "infect",
+  "archetype": "aggro",
+  "titles": [
+   "Infect"
+  ]
+ },
+ {
+  "name": "UR Storm",
+  "slug": "ur-storm",
+  "archetype": "combo",
+  "titles": [
+   "UR Storm",
+   "UR Gifts Storm",
+   "U/r Storm",
+   "Storm"
+  ]
+ },
+ {
+  "name": "Death and Taxes",
+  "slug": "death-and-taxes",
+  "archetype": "aggro",
+  "titles": [
+   "Hatebear",
+   "Gw Hatebears",
+   "Eldrazi & Taxes"
+  ]
+ },
+ {
+  "name": "Spirits",
+  "slug": "spirits",
+  "archetype": "aggro",
+  "titles": [
+   "Spirit Aggro",
+   "Bant Spirit",
+   "Bant Spirits",
+   "Esper Tallowisp"
+  ]
+ },
+ {
+  "name": "Merfolk",
+  "slug": "merfolk",
+  "archetype": "aggro",
+  "titles": [
+   "Merfolk",
+   "Ug Merfoulk",
+   "Bant Merfolk"
+  ]
+ },
+ {
+  "name": "Goblins",
+  "slug": "goblins",
+  "archetype": "aggro",
+  "titles": [
+   "Goblins",
+   "Snoop Goblins",
+   "Rakdos Goblins"
+  ]
+ },
+ {
+  "name": "Hardened Scales",
+  "slug": "hardened-scales",
+  "archetype": "aggro",
+  "titles": [
+   "Hardened Scales",
+   "Gruul Hardened Scales"
+  ]
+ },
+ {
+  "name": "Bogles",
+  "slug": "bogles",
+  "archetype": "aggro",
+  "titles": [
+   "Aura Hexproof",
+   "Hexproof Auras"
+  ]
+ },
+ {
+  "name": "Neobrand",
+  "slug": "neobrand",
+  "archetype": "combo",
+  "titles": [
+   "Allosaurus Combo",
+   "Neo-brand Combo"
+  ]
+ },
+ {
+  "name": "Dimir Mill",
+  "slug": "dimir-mill",
+  "archetype": "control",
+  "titles": [
+   "UB Mill",
+   "Mill",
+   "Ub Mill",
+   "Ub Lurrus Mill"
+  ]
+ },
+ {
+  "name": "Jeskai Ascendancy",
+  "slug": "jeskai-ascendancy",
+  "archetype": "combo",
+  "titles": [
+   "Jeskai Ascendancy",
+   "Ascendancy Combo"
+  ]
+ },
+ {
+  "name": "Goblin Charbelcher",
+  "slug": "belcher",
+  "archetype": "combo",
+  "titles": [
+   "Belcher",
+   "Gr Belcher"
+  ]
+ },
+ {
+  "name": "Copycat",
+  "slug": "copycat",
+  "archetype": "combo",
+  "titles": [
+   "CopyCat",
+   "Jeskai Copycat",
+   "Yorion Copycat",
+   "4c Cat Omnath"
+  ]
+ },
+ {
+  "name": "Niv to Light",
+  "slug": "niv-to-light",
+  "archetype": "midrange",
+  "titles": [
+   "Niv-Mizzet Reborn",
+   "5c Niv-mizzet",
+   "5-color Niv-mizzet",
+   "5c Niv To Light",
+   "Niv-Mizzet - Omnath",
+   "Niv Mizzet",
+   "Niv-Omnath-Uro"
+  ]
+ },
+ {
+  "name": "Gruul Eldrazi",
+  "slug": "gruul-eldrazi",
+  "archetype": "aggro",
+  "titles": [
+   "Eldrazi Aggro",
+   "Rg Eldrazi"
+  ]
+ },
+ {
+  "name": "Blue Moon",
+  "slug": "blue-moon",
+  "archetype": "control",
+  "titles": [
+   "Blue Moon",
+   "UR Control",
+   "Blue Moon Surprise"
+  ]
+ },
+ {
+  "name": "Kiki Exarch",
+  "slug": "kiki-exarch",
+  "archetype": "combo",
+  "titles": [
+   "Twinless Exarch"
+  ]
+ },
+ {
+  "name": "Grixis Delver",
+  "slug": "grixis-delver",
+  "archetype": "tempo",
+  "titles": [
+   "Grixis Delver",
+   "Grixis Lurrus Delver",
+   "Lurrus Grixis"
+  ]
+ },
+ {
+  "name": "Dimir Control",
+  "slug": "dimir-control",
+  "archetype": "control",
+  "titles": [
+   "UB Control",
+   "Ub Control",
+   "UB Faeries",
+   "Dimir Lurrus"
+  ]
+ },
+ {
+  "name": "Rakdos Midrange",
+  "slug": "rakdos-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Midrange",
+   "Rakdos midrange",
+   "Mardu Midrange",
+   "Mardu Pyromancer"
+  ]
+ },
+ {
+  "name": "Oops All Spells",
+  "slug": "oops-all-spells",
+  "archetype": "combo",
+  "titles": [
+   "Landless",
+   "Landless Spy",
+   "Oops, All Spells!"
+  ]
+ }
+]

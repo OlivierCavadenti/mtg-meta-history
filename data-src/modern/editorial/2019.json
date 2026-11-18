@@ -1,0 +1,1201 @@
+[
+ {
+  "name": "Dredge",
+  "titles": [
+   "Dredge"
+  ],
+  "slug": "dredge",
+  "archetype": "combo",
+  "cover": "Creeping Chill",
+  "keyCards": [
+   "Creeping Chill",
+   "Prized Amalgam",
+   "Life from the Loam",
+   "Stinkweed Imp",
+   "Narcomoeba"
+  ],
+  "summary": {
+   "fr": "Dredge à base de Faithless Looting et Cathartic Reunion qui remplit son cimetière pour ramener Bloodghast et Prized Amalgam ; Creeping Chill et Conflagrate finissent la partie.",
+   "en": "Graveyard deck built on Faithless Looting and Cathartic Reunion that fills its graveyard to return Bloodghast and Prized Amalgam; Creeping Chill and Conflagrate close games."
+  },
+  "why": {
+   "fr": [
+    "Life from the Loam et Stinkweed Imp fournissaient un moteur de dredge répétable",
+    "Creeping Chill infligeait des dégâts gratuits en meulant",
+    "Les listes passèrent l'interdiction de Faithless Looting en août et restèrent dans les top 8"
+   ],
+   "en": [
+    "Life from the Loam and Stinkweed Imp gave a repeatable dredge engine",
+    "Creeping Chill dealt free damage when milled",
+    "Lists outlived the August Faithless Looting ban and kept reaching top 8s"
+   ]
+  },
+  "note": "Hogaak lists filed as 'Dredge' moved to Hogaak via include."
+ },
+ {
+  "name": "Hogaak",
+  "titles": [
+   "Hogaak Dredge",
+   "Hogaakvine",
+   "Hoogak"
+  ],
+  "include": [
+   354413,
+   355390,
+   356578,
+   354306,
+   355391,
+   356114,
+   356019,
+   356579,
+   354307,
+   355393,
+   356017,
+   356577,
+   354416,
+   354134,
+   354309,
+   354311,
+   353808,
+   354333,
+   355517,
+   355394,
+   355396,
+   356031,
+   356014,
+   356576,
+   356581,
+   353281,
+   353277,
+   353278,
+   353264,
+   354318,
+   354412,
+   354400,
+   354402,
+   354403,
+   354404,
+   354140,
+   354138,
+   354139,
+   354141,
+   354145,
+   354148,
+   354151,
+   354152,
+   354153,
+   354155
+  ],
+  "slug": "hogaak",
+  "archetype": "aggro",
+  "rep": 356578,
+  "cover": "Hogaak, Arisen Necropolis",
+  "keyCards": [
+   "Hogaak, Arisen Necropolis",
+   "Vengevine",
+   "Altar of Dementia",
+   "Stitcher's Supplier",
+   "Carrion Feeder"
+  ],
+  "summary": {
+   "fr": "Deck de cimetière bâti autour de Hogaak, Arisen Necropolis (Modern Horizons), lancé dès le deuxième tour en convoquant des créatures qui reviennent seules du cimetière.",
+   "en": "Graveyard deck built around Hogaak, Arisen Necropolis from Modern Horizons, cast as early as turn two by convoking with creatures that return from the graveyard on their own."
+  },
+  "why": {
+   "fr": [
+    "Hogaak ignorait son coût en mana grâce à la convocation et à l'exploration",
+    "Après l'interdiction de Bridge from Below en juillet, Altar of Dementia prit le relais",
+    "Remporta les Grands Prix de Minneapolis et Las Vegas ; Hogaak et Faithless Looting furent interdits en août"
+   ],
+   "en": [
+    "Convoke and delve let Hogaak ignore its mana cost",
+    "After Bridge from Below was banned in July, Altar of Dementia took its slot",
+    "Won Grand Prix Minneapolis and Las Vegas; Hogaak and Faithless Looting were banned in August"
+   ]
+  },
+  "note": "Includes 45 Hogaak results filed under 'Dredge'. Rep = GP Las Vegas winner (Simon Nielsen)."
+ },
+ {
+  "name": "Izzet Phoenix",
+  "titles": [
+   "Izzet Phoenix",
+   "Ur Phoenix",
+   "Izzet Arclight",
+   "Arclight Phoenix"
+  ],
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Thing in the Ice",
+   "Faithless Looting",
+   "Manamorphose",
+   "Thought Scour"
+  ],
+  "summary": {
+   "fr": "Tempo Izzet qui lance trois sorts par tour avec des sorts à un mana pour ramener Arclight Phoenix du cimetière, Faithless Looting servant à le défausser.",
+   "en": "Izzet tempo deck that casts three spells a turn with cheap cantrips to return Arclight Phoenix from the graveyard, using Faithless Looting to discard it."
+  },
+  "why": {
+   "fr": [
+    "Faithless Looting mettait les Phoenix au cimetière dès le premier tour",
+    "Thing in the Ice renvoyait les bloqueurs adverses en main",
+    "Gagna les Grands Prix d'Oakland, Los Angeles et Bilbao avant l'interdiction de Looting"
+   ],
+   "en": [
+    "Faithless Looting binned Phoenixes on turn one",
+    "Thing in the Ice bounced opposing blockers",
+    "Won Grand Prix Oakland, Los Angeles and Bilbao before Looting was banned"
+   ]
+  },
+  "note": "Rep = 2018 Magic Online Championship winner (Mattia Oneto), held May 2019."
+ },
+ {
+  "name": "Mono-Red Phoenix",
+  "titles": [
+   "Phoenix Deck Wins",
+   "Mono R Phoenix",
+   "Mono Red Phoenix"
+  ],
+  "slug": "mono-red-phoenix",
+  "archetype": "aggro",
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Bedlam Reveler",
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Faithless Looting"
+  ],
+  "summary": {
+   "fr": "Version mono-rouge et plus agressive de Phoenix, avec Monastery Swiftspear et Soul-Scar Mage, qui ramène Arclight Phoenix et recharge sa main avec Bedlam Reveler.",
+   "en": "Mono-red, more aggressive take on Phoenix with Monastery Swiftspear and Soul-Scar Mage, returning Arclight Phoenix and refilling with Bedlam Reveler."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à prouesse profitaient des nombreux sorts bon marché",
+    "Bedlam Reveler coûtait peu grâce aux éphémères et rituels du cimetière",
+    "Atteignit le top 8 du Mythic Championship IV"
+   ],
+   "en": [
+    "Prowess creatures benefited from the many cheap spells",
+    "Bedlam Reveler was cheap thanks to instants and rituals in the graveyard",
+    "Reached the top 8 of Mythic Championship IV"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Red Prowess",
+  "titles": [
+   "Prowess Deck Wins",
+   "Mono R Prowess",
+   "Mono Red Flame"
+  ],
+  "slug": "mono-red-prowess",
+  "archetype": "aggro",
+  "cover": "Light Up the Stage",
+  "keyCards": [
+   "Light Up the Stage",
+   "Runaway Steam-Kin",
+   "Soul-Scar Mage",
+   "Lava Dart",
+   "Bedlam Reveler"
+  ],
+  "summary": {
+   "fr": "Aggro mono-rouge à prouesse : créatures à un mana, Lava Dart et Light Up the Stage pour enchaîner les sorts, puis brûlures pour finir.",
+   "en": "Mono-red prowess aggro: one-mana creatures, Lava Dart and Light Up the Stage to chain spells, then burn to finish."
+  },
+  "why": {
+   "fr": [
+    "Light Up the Stage donnait deux cartes pour un mana après une attaque",
+    "Lava Dart se lançait deux fois, du main puis du cimetière",
+    "Reprit la place de Phoenix après l'interdiction de Faithless Looting"
+   ],
+   "en": [
+    "Light Up the Stage drew two cards for one mana after an attack",
+    "Lava Dart could be cast twice, from hand and from the graveyard",
+    "Took over from Phoenix after Faithless Looting was banned"
+   ]
+  }
+ },
+ {
+  "name": "Tron",
+  "titles": [
+   "UrzaTron",
+   "Mono Green Tron",
+   "Mono G Tron",
+   "Mono-green Tron",
+   "Tron"
+  ],
+  "slug": "tron",
+  "archetype": "ramp",
+  "cover": "Karn Liberated",
+  "keyCards": [
+   "Karn Liberated",
+   "Wurmcoil Engine",
+   "Ugin, the Spirit Dragon",
+   "Ulamog, the Ceaseless Hunger",
+   "Ancient Stirrings"
+  ],
+  "summary": {
+   "fr": "Rampe mono-verte qui assemble les trois terrains d'Urza pour produire sept manas dès le troisième tour et lancer Karn Liberated, Wurmcoil Engine ou Ugin.",
+   "en": "Mono-green ramp deck that assembles the three Urza lands for seven mana on turn three and casts Karn Liberated, Wurmcoil Engine or Ugin."
+  },
+  "why": {
+   "fr": [
+    "Ancient Stirrings, Sylvan Scrying et Expedition Map trouvaient les pièces de Tron",
+    "Oblivion Stone et Ugin nettoyaient la table",
+    "Thoralf Severin gagna le Mythic Championship IV ; deux top 4 au Mythic Championship II"
+   ],
+   "en": [
+    "Ancient Stirrings, Sylvan Scrying and Expedition Map found the Tron pieces",
+    "Oblivion Stone and Ugin wiped the board",
+    "Thoralf Severin won Mythic Championship IV; two top 4s at Mythic Championship II"
+   ]
+  },
+  "note": "Rep = Mythic Championship IV winner."
+ },
+ {
+  "name": "Eldrazi Tron",
+  "titles": [
+   "Eldra Tron",
+   "Eldrazi Tron",
+   "EldraTron"
+  ],
+  "slug": "eldrazi-tron",
+  "archetype": "ramp",
+  "rep": 354131,
+  "cover": "Thought-Knot Seer",
+  "keyCards": [
+   "Thought-Knot Seer",
+   "Reality Smasher",
+   "Karn, the Great Creator",
+   "Chalice of the Void",
+   "Matter Reshaper"
+  ],
+  "summary": {
+   "fr": "Rampe incolore qui combine terrains d'Urza et Eldrazi Temple pour poser tôt Thought-Knot Seer et Reality Smasher, avec Chalice of the Void contre les sorts bon marché.",
+   "en": "Colorless ramp deck combining Urza lands and Eldrazi Temple to deploy Thought-Knot Seer and Reality Smasher early, with Chalice of the Void against cheap spells."
+  },
+  "why": {
+   "fr": [
+    "Karn, the Great Creator (War of the Spark) allait chercher des artefacts dans la réserve",
+    "Chalice of the Void à un compteur gênait Phoenix, Burn et Dredge",
+    "Top 4 au Mythic Championship IV et aux Grands Prix de Dallas et Las Vegas"
+   ],
+   "en": [
+    "Karn, the Great Creator (War of the Spark) fetched artifacts from the sideboard",
+    "Chalice of the Void on one hurt Phoenix, Burn and Dredge",
+    "Top 4 at Mythic Championship IV and at Grand Prix Dallas and Las Vegas"
+   ]
+  },
+  "note": "Rep = Mythic Championship IV top 4 (Sean Gifford)."
+ },
+ {
+  "name": "Burn",
+  "titles": [
+   "Burn",
+   "Boros Burn",
+   "Naya Burn",
+   "Red Deck Wins"
+  ],
+  "slug": "burn",
+  "archetype": "aggro",
+  "cover": "Lightning Helix",
+  "keyCards": [
+   "Lightning Helix",
+   "Goblin Guide",
+   "Eidolon of the Great Revel",
+   "Boros Charm",
+   "Skewer the Critics"
+  ],
+  "summary": {
+   "fr": "Aggro Boros qui attaque avec Goblin Guide et Monastery Swiftspear puis finit avec des brûlures, Lightning Helix et Boros Charm ciblant directement le joueur.",
+   "en": "Boros aggro deck that attacks with Goblin Guide and Monastery Swiftspear, then finishes with burn, Lightning Helix and Boros Charm aimed at the opponent."
+  },
+  "why": {
+   "fr": [
+    "Une liste stable qui gagnait sans dépendre d'une carte ou d'un moteur",
+    "Eidolon of the Great Revel punissait les decks à sorts bon marché",
+    "Skewer the Critics ajoutait trois dégâts pour un mana après une attaque"
+   ],
+   "en": [
+    "A stable list that won without relying on any one card or engine",
+    "Eidolon of the Great Revel punished decks of cheap spells",
+    "Skewer the Critics added three damage for one mana after an attack"
+   ]
+  }
+ },
+ {
+  "name": "Humans",
+  "titles": [
+   "Humans"
+  ],
+  "slug": "humans",
+  "archetype": "aggro",
+  "cover": "Champion of the Parish",
+  "keyCards": [
+   "Champion of the Parish",
+   "Thalia's Lieutenant",
+   "Meddling Mage",
+   "Reflector Mage",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Aggro tribal Humains à cinq couleurs, porté par Aether Vial et Cavern of Souls, dont les créatures perturbent l'adversaire tout en attaquant.",
+   "en": "Five-colour Human tribal aggro deck run on Aether Vial and Cavern of Souls, whose creatures disrupt the opponent while attacking."
+  },
+  "why": {
+   "fr": [
+    "Meddling Mage, Thalia et Kitesail Freebooter gênaient les plans adverses",
+    "Unclaimed Territory et Ancient Ziggurat fournissaient toutes les couleurs",
+    "Eli Loveman gagna le Mythic Championship II à Londres"
+   ],
+   "en": [
+    "Meddling Mage, Thalia and Kitesail Freebooter disrupted opposing plans",
+    "Unclaimed Territory and Ancient Ziggurat provided every colour",
+    "Eli Loveman won Mythic Championship II in London"
+   ]
+  },
+  "note": "Rep = Mythic Championship II winner."
+ },
+ {
+  "name": "UW Control",
+  "titles": [
+   "UW Control",
+   "Uw Control",
+   "Azorius Control"
+  ],
+  "slug": "uw-control",
+  "archetype": "control",
+  "rep": 352054,
+  "cover": "Teferi, Time Raveler",
+  "keyCards": [
+   "Teferi, Time Raveler",
+   "Narset, Parter of Veils",
+   "Jace, the Mind Sculptor",
+   "Cryptic Command",
+   "Snapcaster Mage"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius qui répond avec contresorts et Path to Exile puis gagne avec des planeswalkers ; War of the Spark lui apporta Teferi, Time Raveler et Narset.",
+   "en": "Azorius control deck that answers with counterspells and Path to Exile, then wins with planeswalkers; War of the Spark added Teferi, Time Raveler and Narset."
+  },
+  "why": {
+   "fr": [
+    "Teferi, Time Raveler empêchait les sorts à vitesse instantanée adverses",
+    "Narset, Parter of Veils limitait la pioche adverse et creusait la bibliothèque",
+    "Austin Bursavich gagna le Grand Prix de Dallas"
+   ],
+   "en": [
+    "Teferi, Time Raveler stopped opponents casting spells at instant speed",
+    "Narset, Parter of Veils capped opposing draws and dug for answers",
+    "Austin Bursavich won Grand Prix Dallas"
+   ]
+  },
+  "note": "Rep = GP Dallas winner."
+ },
+ {
+  "name": "Death's Shadow",
+  "titles": [
+   "Death's Shadow",
+   "Grixis Death's Shadow",
+   "Grixis Shadow"
+  ],
+  "slug": "deaths-shadow",
+  "archetype": "aggro",
+  "rep": 340417,
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Gurmag Angler",
+   "Street Wraith",
+   "Thoughtseize",
+   "Stubborn Denial"
+  ],
+  "summary": {
+   "fr": "Aggro qui fait baisser son propre total de points de vie avec fetchlands, Thoughtseize et Street Wraith pour lancer Death's Shadow à bas coût ; surtout en version Grixis.",
+   "en": "Aggro deck that lowers its own life total with fetchlands, Thoughtseize and Street Wraith to cast Death's Shadow cheaply, mostly in Grixis colours."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize et Inquisition of Kozilek retiraient la meilleure carte adverse",
+    "Stubborn Denial protégeait les grosses créatures",
+    "Remporta les Grands Prix de Toronto, Tampa et Birmingham"
+   ],
+   "en": [
+    "Thoughtseize and Inquisition of Kozilek took the opponent's best card",
+    "Stubborn Denial protected the large threats",
+    "Won Grand Prix Toronto, Tampa and Birmingham"
+   ]
+  },
+  "note": "Rep = GP Toronto winner (Grixis). GP Birmingham winner was a Mardu build with Ranger-Captain of Eos."
+ },
+ {
+  "name": "Amulet Titan",
+  "titles": [
+   "Amulet Titan",
+   "Bloomless Titan"
+  ],
+  "slug": "amulet-titan",
+  "archetype": "ramp",
+  "cover": "Amulet of Vigor",
+  "keyCards": [
+   "Amulet of Vigor",
+   "Primeval Titan",
+   "Azusa, Lost but Seeking",
+   "Summoner's Pact",
+   "Simic Growth Chamber"
+  ],
+  "summary": {
+   "fr": "Rampe qui dégage les bounce lands avec Amulet of Vigor pour lancer Primeval Titan dès le deuxième ou troisième tour, puis va chercher des terrains utilitaires.",
+   "en": "Ramp deck that untaps bounce lands with Amulet of Vigor to cast Primeval Titan on turn two or three, then fetches utility lands."
+  },
+  "why": {
+   "fr": [
+    "Amulet of Vigor et Azusa transformaient chaque bounce land en accélération",
+    "Primeval Titan trouvait Slayers' Stronghold et Tolaria West",
+    "Once Upon a Time et Oko entrèrent dans les listes en fin d'année"
+   ],
+   "en": [
+    "Amulet of Vigor and Azusa turned each bounce land into acceleration",
+    "Primeval Titan fetched Slayers' Stronghold and Tolaria West",
+    "Once Upon a Time and Oko joined the lists late in the year"
+   ]
+  }
+ },
+ {
+  "name": "Whirza",
+  "titles": [
+   "Urza",
+   "Whirza",
+   "4-c Whirza",
+   "Four-color Whirza",
+   "Four-colour Whirza",
+   "Thoptersword",
+   "Urza Thopter Combo",
+   "Urza Thopter Sword",
+   "Stoneforge Urza",
+   "Urza Stoneforge Combo"
+  ],
+  "slug": "whirza",
+  "archetype": "combo",
+  "rep": 356018,
+  "cover": "Urza, Lord High Artificer",
+  "keyCards": [
+   "Urza, Lord High Artificer",
+   "Thopter Foundry",
+   "Sword of the Meek",
+   "Whir of Invention",
+   "Mox Opal"
+  ],
+  "summary": {
+   "fr": "Deck d'artefacts autour d'Urza, Lord High Artificer (Modern Horizons) et de la combinaison Thopter Foundry plus Sword of the Meek, trouvée avec Whir of Invention.",
+   "en": "Artifact deck built around Urza, Lord High Artificer from Modern Horizons and the Thopter Foundry plus Sword of the Meek combo, found with Whir of Invention."
+  },
+  "why": {
+   "fr": [
+    "Urza transformait chaque artefact en mana bleu",
+    "Thopter Foundry et Sword of the Meek créaient des Thopters et des points de vie en boucle",
+    "Top 8 au Mythic Championship IV, top 4 au Grand Prix de Birmingham"
+   ],
+   "en": [
+    "Urza turned every artifact into blue mana",
+    "Thopter Foundry and Sword of the Meek looped for Thopters and life",
+    "Top 8 at Mythic Championship IV, top 4 at Grand Prix Birmingham"
+   ]
+  },
+  "note": "mtgtop8 'Urza' title is the Thopter-Sword build. Rep = GP Birmingham top 4."
+ },
+ {
+  "name": "Urza Oko",
+  "titles": [
+   "Urza Oko",
+   "Emry"
+  ],
+  "slug": "urza-oko",
+  "archetype": "midrange",
+  "rep": 367641,
+  "cover": "Oko, Thief of Crowns",
+  "keyCards": [
+   "Oko, Thief of Crowns",
+   "Urza, Lord High Artificer",
+   "Emry, Lurker of the Loch",
+   "Gilded Goose",
+   "Arcum's Astrolabe"
+  ],
+  "summary": {
+   "fr": "Midrange Simic à artefacts apparu avec Throne of Eldraine : Urza, Emry et Mox Opal autour d'Oko, Thief of Crowns, qui transforme les menaces adverses en élans.",
+   "en": "Simic artifact midrange that appeared with Throne of Eldraine: Urza, Emry and Mox Opal around Oko, Thief of Crowns, which turns opposing threats into Elk."
+  },
+  "why": {
+   "fr": [
+    "Oko produisait des Food que Urza et Emry exploitaient comme artefacts",
+    "Arcum's Astrolabe et Mox Opal réglaient le mana",
+    "Oliver Tomajko gagna le Players' Championship ; Oko et Mox Opal furent interdits en janvier 2020"
+   ],
+   "en": [
+    "Oko made Food that Urza and Emry used as artifacts",
+    "Arcum's Astrolabe and Mox Opal fixed the mana",
+    "Oliver Tomajko won the Players' Championship; Oko and Mox Opal were banned in January 2020"
+   ]
+  },
+  "note": "Rep = SCG Players' Championship winner."
+ },
+ {
+  "name": "Jund",
+  "titles": [
+   "Jund",
+   "Jund Midrange"
+  ],
+  "slug": "jund",
+  "archetype": "midrange",
+  "rep": 354137,
+  "cover": "Wrenn and Six",
+  "keyCards": [
+   "Wrenn and Six",
+   "Liliana of the Veil",
+   "Tarmogoyf",
+   "Bloodbraid Elf",
+   "Lightning Bolt"
+  ],
+  "summary": {
+   "fr": "Midrange Jund classique, défausse, Lightning Bolt et Liliana of the Veil, auquel Modern Horizons ajouta Wrenn and Six.",
+   "en": "Classic Jund midrange with discard, Lightning Bolt and Liliana of the Veil, to which Modern Horizons added Wrenn and Six."
+  },
+  "why": {
+   "fr": [
+    "Wrenn and Six récupérait des fetchlands et tuait les créatures à une endurance",
+    "Bloodbraid Elf donnait un sort gratuit par cascade",
+    "Deux places dans le top 8 du Mythic Championship IV, dont un top 4"
+   ],
+   "en": [
+    "Wrenn and Six regrew fetchlands and killed one-toughness creatures",
+    "Bloodbraid Elf gave a free spell through cascade",
+    "Two places in the Mythic Championship IV top 8, one of them a top 4"
+   ]
+  },
+  "note": "Rep = Mythic Championship IV top 4 (Zhiyang Zhang)."
+ },
+ {
+  "name": "Titanshift",
+  "titles": [
+   "Valakut",
+   "Titanshift",
+   "Rg Valakut",
+   "Scapeshift"
+  ],
+  "slug": "titanshift",
+  "archetype": "ramp",
+  "cover": "Scapeshift",
+  "keyCards": [
+   "Scapeshift",
+   "Primeval Titan",
+   "Valakut, the Molten Pinnacle",
+   "Search for Tomorrow",
+   "Sakura-Tribe Elder"
+  ],
+  "summary": {
+   "fr": "Rampe Gruul qui accélère jusqu'à six ou sept terrains puis lance Scapeshift ou Primeval Titan pour déclencher plusieurs Valakut, the Molten Pinnacle à la fois.",
+   "en": "Gruul ramp deck that reaches six or seven lands, then casts Scapeshift or Primeval Titan to trigger several Valakut, the Molten Pinnacle at once."
+  },
+  "why": {
+   "fr": [
+    "Deux plans de victoire, Scapeshift et Primeval Titan, autour de Valakut",
+    "Les sorts de rampe évitaient de dépendre des créatures",
+    "Top 8 au Mythic Championship II, top 4 au Grand Prix de Toronto"
+   ],
+   "en": [
+    "Two routes to win, Scapeshift and Primeval Titan, around Valakut",
+    "Ramp spells avoided relying on creatures",
+    "Top 8 at Mythic Championship II, top 4 at Grand Prix Toronto"
+   ]
+  }
+ },
+ {
+  "name": "Hardened Scales",
+  "titles": [
+   "Hardened Modular",
+   "Hardened Scales",
+   "Hardened Affinity"
+  ],
+  "slug": "hardened-scales",
+  "archetype": "aggro",
+  "rep": 345998,
+  "cover": "Hardened Scales",
+  "keyCards": [
+   "Hardened Scales",
+   "Arcbound Ravager",
+   "Walking Ballista",
+   "Animation Module",
+   "Hangarback Walker"
+  ],
+  "summary": {
+   "fr": "Aggro d'artefacts à marqueurs +1/+1 : Hardened Scales augmente chaque marqueur de Walking Ballista, Hangarback Walker et des créatures à modularité.",
+   "en": "Artifact aggro built on +1/+1 counters: Hardened Scales grows every counter from Walking Ballista, Hangarback Walker and modular creatures."
+  },
+  "why": {
+   "fr": [
+    "Arcbound Ravager déplaçait les marqueurs vers une créature non bloquée",
+    "Animation Module créait des serviteurs à chaque marqueur",
+    "Gagna le Grand Prix de Yokohama ; deuxième au Mythic Championship IV"
+   ],
+   "en": [
+    "Arcbound Ravager moved counters onto an unblocked creature",
+    "Animation Module made Servos whenever counters were placed",
+    "Won Grand Prix Yokohama; second at Mythic Championship IV"
+   ]
+  },
+  "note": "Rep = GP Yokohama winner."
+ },
+ {
+  "name": "Golgari Rock",
+  "titles": [
+   "The Rock",
+   "Golgari Midrange"
+  ],
+  "slug": "golgari-rock",
+  "archetype": "midrange",
+  "cover": "Dark Confidant",
+  "keyCards": [
+   "Dark Confidant",
+   "Liliana of the Veil",
+   "Tireless Tracker",
+   "Assassin's Trophy",
+   "Tarmogoyf"
+  ],
+  "summary": {
+   "fr": "Midrange Golgari qui combine défausse, Assassin's Trophy et Fatal Push avec Dark Confidant, Tireless Tracker et Tarmogoyf pour l'avantage de cartes.",
+   "en": "Golgari midrange combining discard, Assassin's Trophy and Fatal Push with Dark Confidant, Tireless Tracker and Tarmogoyf for card advantage."
+  },
+  "why": {
+   "fr": [
+    "Assassin's Trophy répondait à n'importe quel permanent",
+    "Dark Confidant et Tireless Tracker rechargeaient la main",
+    "Top 4 au Grand Prix de Yokohama, deux top 8 au Grand Prix de Toronto"
+   ],
+   "en": [
+    "Assassin's Trophy answered any permanent",
+    "Dark Confidant and Tireless Tracker refilled the hand",
+    "Top 4 at Grand Prix Yokohama, two top 8s at Grand Prix Toronto"
+   ]
+  }
+ },
+ {
+  "name": "Whir Prison",
+  "titles": [
+   "Lanternless",
+   "Whir Prison"
+  ],
+  "slug": "whir-prison",
+  "archetype": "control",
+  "cover": "Ensnaring Bridge",
+  "keyCards": [
+   "Ensnaring Bridge",
+   "Whir of Invention",
+   "Thopter Foundry",
+   "Sword of the Meek",
+   "Mox Opal"
+  ],
+  "summary": {
+   "fr": "Prison d'artefacts sans Lantern of Insight : Ensnaring Bridge bloque les attaques, Whir of Invention va chercher la pièce manquante et Thopter Foundry gagne la partie.",
+   "en": "Artifact prison without Lantern of Insight: Ensnaring Bridge stops attacks, Whir of Invention finds the missing piece and Thopter Foundry wins the game."
+  },
+  "why": {
+   "fr": [
+    "Ensnaring Bridge neutralisait les decks de créatures",
+    "Whir of Invention servait de tuteur à vitesse instantanée",
+    "Deuxième aux Grands Prix de Toronto et de Bilbao"
+   ],
+   "en": [
+    "Ensnaring Bridge shut down creature decks",
+    "Whir of Invention acted as an instant-speed tutor",
+    "Second at Grand Prix Toronto and Grand Prix Bilbao"
+   ]
+  },
+  "note": "mtgtop8 title 'Lanternless'."
+ },
+ {
+  "name": "Infect",
+  "titles": [
+   "Infect",
+   "Ug Infect"
+  ],
+  "slug": "infect",
+  "archetype": "aggro",
+  "cover": "Blighted Agent",
+  "keyCards": [
+   "Blighted Agent",
+   "Glistener Elf",
+   "Inkmoth Nexus",
+   "Might of Old Krosa",
+   "Vines of Vastwood"
+  ],
+  "summary": {
+   "fr": "Aggro Simic à infection qui gonfle Glistener Elf, Blighted Agent ou Inkmoth Nexus avec des pumps pour infliger dix marqueurs poison.",
+   "en": "Simic infect aggro deck that pumps Glistener Elf, Blighted Agent or Inkmoth Nexus to deal ten poison counters."
+  },
+  "why": {
+   "fr": [
+    "Les pumps à un mana pouvaient gagner dès le troisième tour",
+    "Vines of Vastwood et Blossoming Defense protégeaient l'attaquant",
+    "Inkmoth Nexus échappait aux rituels de destruction de créatures"
+   ],
+   "en": [
+    "One-mana pump spells could win as early as turn three",
+    "Vines of Vastwood and Blossoming Defense protected the attacker",
+    "Inkmoth Nexus dodged sorcery-speed creature removal"
+   ]
+  }
+ },
+ {
+  "name": "Devoted Druid",
+  "titles": [
+   "Creatures Toolbox",
+   "Creature's Toolbox",
+   "Bant Devoted",
+   "Devoted Company"
+  ],
+  "slug": "devoted-druid",
+  "archetype": "combo",
+  "rep": 367642,
+  "cover": "Devoted Druid",
+  "keyCards": [
+   "Devoted Druid",
+   "Vizier of Remedies",
+   "Finale of Devastation",
+   "Eladamri's Call",
+   "Giver of Runes"
+  ],
+  "summary": {
+   "fr": "Combo de créatures : Devoted Druid et Vizier of Remedies génèrent un mana infini, converti par Walking Ballista ; les listes de fin d'année jouaient Oko et Finale of Devastation.",
+   "en": "Creature combo deck: Devoted Druid and Vizier of Remedies make infinite mana, spent on Walking Ballista; late-year lists played Oko and Finale of Devastation."
+  },
+  "why": {
+   "fr": [
+    "Eladamri's Call et Finale of Devastation allaient chercher les pièces",
+    "Giver of Runes protégeait le combo des réponses ciblées",
+    "Trois places dans le top 8 du Players' Championship"
+   ],
+   "en": [
+    "Eladamri's Call and Finale of Devastation tutored the pieces",
+    "Giver of Runes protected the combo from targeted answers",
+    "Three places in the Players' Championship top 8"
+   ]
+  },
+  "note": "mtgtop8 'Creatures Toolbox'. Rep = SCG Players' Championship 3rd (Bant)."
+ },
+ {
+  "name": "Eldrazi Aggro",
+  "titles": [
+   "Eldrazi Aggro",
+   "Rg Eldrazi"
+  ],
+  "slug": "eldrazi-aggro",
+  "archetype": "aggro",
+  "cover": "Reality Smasher",
+  "keyCards": [
+   "Reality Smasher",
+   "Thought-Knot Seer",
+   "Eldrazi Obligator",
+   "Noble Hierarch",
+   "Bloodbraid Elf"
+  ],
+  "summary": {
+   "fr": "Aggro Eldrazi qui accélère avec Eldrazi Temple et les mana elves pour poser Thought-Knot Seer et Reality Smasher dès le deuxième ou troisième tour.",
+   "en": "Eldrazi aggro deck that ramps with Eldrazi Temple and mana elves to deploy Thought-Knot Seer and Reality Smasher on turn two or three."
+  },
+  "why": {
+   "fr": [
+    "Eldrazi Temple payait double pour les Eldrazi incolores",
+    "Thought-Knot Seer exilait la meilleure carte adverse",
+    "Les versions Gruul ajoutaient Bloodbraid Elf et Lightning Bolt"
+   ],
+   "en": [
+    "Eldrazi Temple paid double for colorless Eldrazi",
+    "Thought-Knot Seer exiled the opponent's best card",
+    "Gruul builds added Bloodbraid Elf and Lightning Bolt"
+   ]
+  }
+ },
+ {
+  "name": "Affinity",
+  "titles": [
+   "Affinity",
+   "Modular"
+  ],
+  "slug": "affinity",
+  "archetype": "aggro",
+  "rep": 346273,
+  "cover": "Cranial Plating",
+  "keyCards": [
+   "Cranial Plating",
+   "Arcbound Ravager",
+   "Steel Overseer",
+   "Signal Pest",
+   "Mox Opal"
+  ],
+  "summary": {
+   "fr": "Aggro d'artefacts qui vide sa main dès les premiers tours grâce à Mox Opal et Springleaf Drum, puis frappe avec Cranial Plating ou les Nexus.",
+   "en": "Artifact aggro deck that empties its hand in the first turns with Mox Opal and Springleaf Drum, then hits with Cranial Plating or the manlands."
+  },
+  "why": {
+   "fr": [
+    "Cranial Plating transformait une créature volante en menace létale",
+    "Arcbound Ravager sauvait les artefacts des destructions",
+    "Matthew Sperling termina deuxième du Mythic Championship II"
+   ],
+   "en": [
+    "Cranial Plating turned an evasive creature into a lethal threat",
+    "Arcbound Ravager saved artifacts from removal",
+    "Matthew Sperling finished second at Mythic Championship II"
+   ]
+  },
+  "note": "Rep = Mythic Championship II finalist."
+ },
+ {
+  "name": "Hollow One",
+  "titles": [
+   "Hollow One"
+  ],
+  "slug": "hollow-one",
+  "archetype": "aggro",
+  "cover": "Hollow One",
+  "keyCards": [
+   "Hollow One",
+   "Burning Inquiry",
+   "Goblin Lore",
+   "Flamewake Phoenix",
+   "Bloodghast"
+  ],
+  "summary": {
+   "fr": "Aggro Rakdos qui défausse des cartes avec Burning Inquiry, Goblin Lore et Faithless Looting pour lancer Hollow One gratuitement et ramener Bloodghast.",
+   "en": "Rakdos aggro deck that discards cards with Burning Inquiry, Goblin Lore and Faithless Looting to cast Hollow One for free and return Bloodghast."
+  },
+  "why": {
+   "fr": [
+    "Hollow One coûtait zéro après trois défausses ou pioches",
+    "Bloodghast et Flamewake Phoenix revenaient du cimetière",
+    "Faithless Looting, interdit en août, était au cœur du moteur"
+   ],
+   "en": [
+    "Hollow One cost zero after three cycled or discarded cards",
+    "Bloodghast and Flamewake Phoenix came back from the graveyard",
+    "Faithless Looting, banned in August, was core to the engine"
+   ]
+  }
+ },
+ {
+  "name": "Krark-Clan Ironworks",
+  "titles": [
+   "KCI",
+   "Kci"
+  ],
+  "slug": "krark-clan-ironworks",
+  "archetype": "combo",
+  "cover": "Krark-Clan Ironworks",
+  "keyCards": [
+   "Krark-Clan Ironworks",
+   "Scrap Trawler",
+   "Ancient Stirrings",
+   "Mox Opal",
+   "Engineered Explosives"
+  ],
+  "summary": {
+   "fr": "Combo d'artefacts qui sacrifie des artefacts bon marché à Krark-Clan Ironworks et les récupère en boucle avec Scrap Trawler et Myr Retriever.",
+   "en": "Artifact combo deck that sacrifices cheap artifacts to Krark-Clan Ironworks and loops them back with Scrap Trawler and Myr Retriever."
+  },
+  "why": {
+   "fr": [
+    "Scrap Trawler ramenait des artefacts de coût inférieur en chaîne",
+    "Les longues boucles rendaient les tours interminables",
+    "Quatre copies au top 8 du Grand Prix d'Oakland, puis interdiction en janvier"
+   ],
+   "en": [
+    "Scrap Trawler chained back cheaper artifacts",
+    "Long loops made turns drag on",
+    "Four copies in the Grand Prix Oakland top 8, then banned in January"
+   ]
+  },
+  "note": "KCI banned 21 Jan 2019."
+ },
+ {
+  "name": "Jeskai Control",
+  "titles": [
+   "Jeskai Control"
+  ],
+  "slug": "jeskai-control",
+  "archetype": "control",
+  "cover": "Lightning Helix",
+  "keyCards": [
+   "Lightning Helix",
+   "Cryptic Command",
+   "Snapcaster Mage",
+   "Teferi, Hero of Dominaria",
+   "Search for Azcanta"
+  ],
+  "summary": {
+   "fr": "Contrôle Jeskai qui ajoute Lightning Bolt et Lightning Helix aux contresorts Azorius et gagne avec Teferi, Hero of Dominaria ou Celestial Colonnade.",
+   "en": "Jeskai control that adds Lightning Bolt and Lightning Helix to Azorius counterspells and wins with Teferi, Hero of Dominaria or Celestial Colonnade."
+  },
+  "why": {
+   "fr": [
+    "Les brûlures répondaient aux créatures rapides à moindre coût",
+    "Snapcaster Mage réutilisait la meilleure réponse",
+    "Surtout joué en début d'année, avant War of the Spark"
+   ],
+   "en": [
+    "Burn spells answered fast creatures cheaply",
+    "Snapcaster Mage reused the best answer",
+    "Mostly played early in the year, before War of the Spark"
+   ]
+  }
+ },
+ {
+  "name": "Stoneblade",
+  "titles": [
+   "UWx Midrange",
+   "Uw Stoneblade",
+   "Stoneblade",
+   "Uw Stoneforge",
+   "Jeskai Stoneblade",
+   "Bant Stoneblade"
+  ],
+  "slug": "stoneblade",
+  "archetype": "control",
+  "cover": "Stoneforge Mystic",
+  "keyCards": [
+   "Stoneforge Mystic",
+   "Batterskull",
+   "Sword of Feast and Famine",
+   "Teferi, Time Raveler",
+   "Force of Negation"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius qui ajoute Stoneforge Mystic, Batterskull et Sword of Feast and Famine, après le retour de Stoneforge Mystic en août.",
+   "en": "Azorius control that adds Stoneforge Mystic, Batterskull and Sword of Feast and Famine after Stoneforge Mystic was unbanned in August."
+  },
+  "why": {
+   "fr": [
+    "Stoneforge Mystic mettait Batterskull en jeu dès le troisième tour",
+    "Force of Negation protégeait le plan pendant le tour adverse",
+    "Plusieurs top 4 en Mythic Championship Qualifier à l'automne"
+   ],
+   "en": [
+    "Stoneforge Mystic put Batterskull into play on turn three",
+    "Force of Negation protected the plan on the opponent's turn",
+    "Several top 4s at Mythic Championship Qualifiers in the autumn"
+   ]
+  },
+  "note": "mtgtop8 'UWx Midrange', 'Uw Stoneblade' and similar; first list Sept 2019."
+ },
+ {
+  "name": "Merfolk",
+  "titles": [
+   "Merfolk"
+  ],
+  "slug": "merfolk",
+  "archetype": "aggro",
+  "cover": "Master of the Pearl Trident",
+  "keyCards": [
+   "Master of the Pearl Trident",
+   "Lord of Atlantis",
+   "Silvergill Adept",
+   "Merrow Reejerey",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Aggro tribal Ondins qui pose des seigneurs avec Aether Vial et traverse les adversaires bleus grâce à l'îlemarche.",
+   "en": "Merfolk tribal aggro that deploys lords through Aether Vial and walks through blue opponents with islandwalk."
+  },
+  "why": {
+   "fr": [
+    "Les seigneurs donnaient l'îlemarche et des bonus cumulés",
+    "Spreading Seas transformait les terrains adverses en îles",
+    "Harbinger of the Tides renvoyait un bloqueur en main"
+   ],
+   "en": [
+    "Lords granted islandwalk and stacking bonuses",
+    "Spreading Seas turned opposing lands into Islands",
+    "Harbinger of the Tides bounced a blocker"
+   ]
+  }
+ },
+ {
+  "name": "Spirits",
+  "titles": [
+   "Bant Spirit",
+   "Spirit Aggro",
+   "Bant Spirits",
+   "Spirits",
+   "Spirit",
+   "Uw Spirits"
+  ],
+  "slug": "spirits",
+  "archetype": "aggro",
+  "rep": 345997,
+  "cover": "Spell Queller",
+  "keyCards": [
+   "Spell Queller",
+   "Drogskol Captain",
+   "Supreme Phantom",
+   "Mausoleum Wanderer",
+   "Collected Company"
+  ],
+  "summary": {
+   "fr": "Aggro tribal Esprits, souvent Bant, qui joue ses créatures volantes à vitesse instantanée avec Collected Company et Aether Vial, Spell Queller exilant un sort adverse.",
+   "en": "Spirit tribal aggro, usually Bant, that casts its fliers at instant speed through Collected Company and Aether Vial, with Spell Queller exiling a spell."
+  },
+  "why": {
+   "fr": [
+    "Drogskol Captain et Supreme Phantom renforçaient tous les Esprits",
+    "Le flash permettait de jouer pendant le tour adverse",
+    "Deuxième au Grand Prix de Yokohama"
+   ],
+   "en": [
+    "Drogskol Captain and Supreme Phantom pumped every Spirit",
+    "Flash let the deck play on the opponent's turn",
+    "Second at Grand Prix Yokohama"
+   ]
+  },
+  "note": "Rep = GP Yokohama finalist."
+ },
+ {
+  "name": "Eldrazi and Taxes",
+  "titles": [
+   "Hatebear",
+   "Bw Eldrazi And Taxes"
+  ],
+  "slug": "eldrazi-and-taxes",
+  "archetype": "aggro",
+  "cover": "Eldrazi Displacer",
+  "keyCards": [
+   "Eldrazi Displacer",
+   "Thalia, Guardian of Thraben",
+   "Leonin Arbiter",
+   "Thought-Knot Seer",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Death and Taxes blanc à touche Eldrazi : Thalia et Leonin Arbiter taxent les sorts et les recherches, Eldrazi Displacer et Flickerwisp rejouent les créatures.",
+   "en": "White Death and Taxes with an Eldrazi package: Thalia and Leonin Arbiter tax spells and searches, while Eldrazi Displacer and Flickerwisp blink creatures."
+  },
+  "why": {
+   "fr": [
+    "Leonin Arbiter et Ghost Quarter privaient l'adversaire de terrains",
+    "Eldrazi Temple accélérait Thought-Knot Seer",
+    "Aether Vial contournait les contresorts"
+   ],
+   "en": [
+    "Leonin Arbiter with Ghost Quarter denied opposing lands",
+    "Eldrazi Temple sped out Thought-Knot Seer",
+    "Aether Vial got around counterspells"
+   ]
+  },
+  "note": "mtgtop8 'Hatebear'."
+ },
+ {
+  "name": "Storm",
+  "titles": [
+   "UR Storm",
+   "Ur Storm",
+   "Storm",
+   "Gifts Storm"
+  ],
+  "slug": "storm",
+  "archetype": "combo",
+  "cover": "Gifts Ungiven",
+  "keyCards": [
+   "Gifts Ungiven",
+   "Past in Flames",
+   "Baral, Chief of Compliance",
+   "Goblin Electromancer",
+   "Grapeshot"
+  ],
+  "summary": {
+   "fr": "Combo Izzet qui réduit le coût de ses sorts avec Baral et Goblin Electromancer, enchaîne rituels et pioches, puis finit avec Grapeshot.",
+   "en": "Izzet combo deck that reduces spell costs with Baral and Goblin Electromancer, chains rituals and cantrips, then finishes with Grapeshot."
+  },
+  "why": {
+   "fr": [
+    "Gifts Ungiven trouvait Past in Flames et Grapeshot",
+    "Past in Flames rejouait les rituels du cimetière",
+    "Drake Sasser gagna l'Open SCG d'Indianapolis en octobre"
+   ],
+   "en": [
+    "Gifts Ungiven found Past in Flames and Grapeshot",
+    "Past in Flames recast rituals from the graveyard",
+    "Drake Sasser won SCG Open Indianapolis in October"
+   ]
+  }
+ },
+ {
+  "name": "Bogles",
+  "titles": [
+   "Aura Hexproof",
+   "Bogles",
+   "Boggle"
+  ],
+  "slug": "bogles",
+  "archetype": "aggro",
+  "cover": "Ethereal Armor",
+  "keyCards": [
+   "Ethereal Armor",
+   "Slippery Bogle",
+   "Gladecover Scout",
+   "Daybreak Coronet",
+   "Kor Spiritdancer"
+  ],
+  "summary": {
+   "fr": "Aggro Selesnya qui enchante Slippery Bogle ou Gladecover Scout, créatures à défense talismanique, jusqu'à obtenir un attaquant énorme.",
+   "en": "Selesnya aggro deck that stacks auras on hexproof Slippery Bogle or Gladecover Scout until it has one huge attacker."
+  },
+  "why": {
+   "fr": [
+    "La défense talismanique rendait la plupart des réponses inutiles",
+    "Les Umbras empêchaient les sacrifices de suffire",
+    "Top 4 aux Grands Prix de Tampa et de São Paulo"
+   ],
+   "en": [
+    "Hexproof blanked most removal",
+    "Umbras protected against destruction",
+    "Top 4 at Grand Prix Tampa and Grand Prix São Paulo"
+   ]
+  },
+  "note": "mtgtop8 'Aura Hexproof'."
+ },
+ {
+  "name": "Goryo's Vengeance",
+  "titles": [
+   "Instant Reanimator"
+  ],
+  "slug": "goryos-vengeance",
+  "archetype": "combo",
+  "cover": "Goryo's Vengeance",
+  "keyCards": [
+   "Goryo's Vengeance",
+   "Griselbrand",
+   "Through the Breach",
+   "Emrakul, the Aeons Torn",
+   "Faithless Looting"
+  ],
+  "summary": {
+   "fr": "Combo de réanimation qui défausse Griselbrand avec Faithless Looting ou Cathartic Reunion puis le ramène avec Goryo's Vengeance ; Through the Breach sert de second plan.",
+   "en": "Reanimator combo that discards Griselbrand with Faithless Looting or Cathartic Reunion and returns it with Goryo's Vengeance; Through the Breach is a second route."
+  },
+  "why": {
+   "fr": [
+    "Goryo's Vengeance réanimait à vitesse instantanée pour deux manas",
+    "Griselbrand piochait de quoi finir la partie",
+    "Top 4 à la Magic Online Championship 2018, disputée en mai"
+   ],
+   "en": [
+    "Goryo's Vengeance reanimated at instant speed for two mana",
+    "Griselbrand drew enough to finish the game",
+    "Top 4 at the 2018 Magic Online Championship, played in May"
+   ]
+  },
+  "note": "Included on top 4 at the Magic Online Championship (bigstar event); 3 top 8s only."
+ }
+]

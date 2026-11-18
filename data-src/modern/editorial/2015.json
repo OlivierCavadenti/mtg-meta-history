@@ -1,0 +1,549 @@
+[
+  {
+    "name": "Splinter Twin",
+    "slug": "splinter-twin",
+    "archetype": "combo",
+    "titles": ["Twin Exarch", "UWR Twin"],
+    "rep": 251632,
+    "cover": "Splinter Twin",
+    "keyCards": ["Splinter Twin", "Deceiver Exarch", "Pestermite", "Snapcaster Mage", "Remand"],
+    "summary": {
+      "fr": "Splinter Twin bleu-rouge : le combo Deceiver Exarch ou Pestermite derrière Lightning Bolt, Remand et Snapcaster Mage. Antonio Del Moral León a remporté le Pro Tour Fate Reforged avec ce deck.",
+      "en": "Blue-red Splinter Twin: the Deceiver Exarch or Pestermite combo behind Lightning Bolt, Remand and Snapcaster Mage. Antonio Del Moral León won Pro Tour Fate Reforged with it."
+    },
+    "why": {
+      "fr": [
+        "La menace du combo à vitesse instantanée dictait l'usage du removal adverse",
+        "A aussi gagné le Grand Prix Vancouver et, en version Restoration Angel, le Grand Prix Pittsburgh",
+        "Légal toute l'année ; banni en janvier 2016"
+      ],
+      "en": [
+        "The threat of an instant-speed combo dictated how opponents used their removal",
+        "Also won Grand Prix Vancouver and, in a Restoration Angel version, Grand Prix Pittsburgh",
+        "Legal all year; banned in January 2016"
+      ]
+    },
+    "note": "Blue-red lists plus the UWR (Restoration Angel, Kiki-Jiki) version that won GP Pittsburgh. Black and Tarmogoyf versions are split out as Grixis Twin and Temur Twin."
+  },
+  {
+    "name": "Grixis Twin",
+    "slug": "grixis-twin",
+    "archetype": "combo",
+    "titles": ["Evil Twin"],
+    "include": [254303, 257707, 256849, 260119, 257387, 252737, 256492, 256812, 256847, 259694, 263472, 259470],
+    "rep": 258332,
+    "cover": "Tasigur, the Golden Fang",
+    "keyCards": ["Splinter Twin", "Deceiver Exarch", "Tasigur, the Golden Fang", "Kolaghan's Command", "Terminate"],
+    "summary": {
+      "fr": "Splinter Twin avec une touche noire pour Tasigur, Kolaghan's Command et Terminate, ce qui le rendait plus solide en midrange quand le combo n'était pas disponible.",
+      "en": "Splinter Twin splashing black for Tasigur, Kolaghan's Command and Terminate, which made it a sturdier midrange deck when the combo was not available."
+    },
+    "why": {
+      "fr": [
+        "Tasigur, issu de Fate Reforged, devenait une grosse menace bon marché grâce à la fouille",
+        "Kolaghan's Command, issu de Dragons of Tarkir, offrait du deux-pour-un contre les decks de créatures",
+        "Terminate gérait les créatures que Lightning Bolt ne tuait pas"
+      ],
+      "en": [
+        "Tasigur, from Fate Reforged, was a cheap large threat thanks to delve",
+        "Kolaghan's Command, from Dragons of Tarkir, gave two-for-ones against creature decks",
+        "Terminate handled creatures that Lightning Bolt could not kill"
+      ]
+    },
+    "note": "Black Twin lists (Watery Grave, Tasigur, Kolaghan's Command), most filed by mtgtop8 as 'Twin Exarch'."
+  },
+  {
+    "name": "Temur Twin",
+    "slug": "temur-twin",
+    "archetype": "combo",
+    "titles": ["Tarmo Twin"],
+    "include": [263393, 257546, 252991, 258323, 252540],
+    "rep": 263393,
+    "cover": "Tarmogoyf",
+    "keyCards": ["Tarmogoyf", "Splinter Twin", "Deceiver Exarch", "Snapcaster Mage", "Remand"],
+    "summary": {
+      "fr": "Splinter Twin avec une touche verte pour Tarmogoyf : même combo Deceiver Exarch, et un plan créatures plus résistant quand l'adversaire gardait son removal.",
+      "en": "Splinter Twin splashing green for Tarmogoyf: the same Deceiver Exarch combo, and a sturdier creature plan when opponents held their removal."
+    },
+    "why": {
+      "fr": [
+        "Tarmogoyf mettait la pression sur l'adversaire qui gardait son removal pour le combo",
+        "Top 4 de la SCG Invitational de Las Vegas"
+      ],
+      "en": [
+        "Tarmogoyf pressured opponents who saved their removal for the combo",
+        "Top four at the SCG Invitational in Las Vegas"
+      ]
+    },
+    "note": "Tarmogoyf Twin lists, most filed by mtgtop8 as 'Twin Exarch'."
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": ["Affinity", "Tez Affinity", "Affinty"],
+    "cover": "Arcbound Ravager",
+    "keyCards": ["Arcbound Ravager", "Cranial Plating", "Mox Opal", "Etched Champion", "Steel Overseer"],
+    "summary": {
+      "fr": "Aggro artefacts fondé sur Mox Opal, Springleaf Drum et des créatures artefacts à zéro ou un mana, conclu par Cranial Plating, Arcbound Ravager ou les terrains Nexus.",
+      "en": "Artifact aggro built on Mox Opal, Springleaf Drum and zero- or one-mana artifact creatures, finished by Cranial Plating, Arcbound Ravager or the Nexus lands."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Grand Prix Singapore, avec Affinity aussi à la deuxième place",
+        "Trois des quatre premiers du Championnat du monde 2015 le jouaient en Modern",
+        "Avec trois artefacts, Etched Champion ne pouvait plus être bloqué par des créatures colorées"
+      ],
+      "en": [
+        "Won Grand Prix Singapore, with Affinity also in second place",
+        "Three of the top four at the 2015 World Championship played it in Modern",
+        "With three artifacts, Etched Champion could not be blocked by colored creatures"
+      ]
+    }
+  },
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": ["Jund"],
+    "rep": 257550,
+    "cover": "Kolaghan's Command",
+    "keyCards": ["Tarmogoyf", "Dark Confidant", "Liliana of the Veil", "Kolaghan's Command", "Tasigur, the Golden Fang"],
+    "summary": {
+      "fr": "Midrange noir-rouge-vert, mis à jour avec Tasigur et Kolaghan's Command : défausse et removal à l'unité, puis Tarmogoyf, Dark Confidant et Liliana of the Veil.",
+      "en": "Black-red-green midrange, updated with Tasigur and Kolaghan's Command: one-for-one discard and removal, then Tarmogoyf, Dark Confidant and Liliana of the Veil."
+    },
+    "why": {
+      "fr": [
+        "Kolaghan's Command gérait artefacts et petites créatures tout en récupérant une menace",
+        "Deux listes Jund en top 4 du Grand Prix Singapore",
+        "Ses réponses couvraient la majeure partie d'un métagame ouvert"
+      ],
+      "en": [
+        "Kolaghan's Command answered artifacts and small creatures while returning a threat",
+        "Two Jund lists reached the top four of Grand Prix Singapore",
+        "Its answers covered most of an open field"
+      ]
+    }
+  },
+  {
+    "name": "Abzan",
+    "slug": "abzan",
+    "archetype": "midrange",
+    "titles": ["Junk", "Abzan", "Abzan Wish", "Liege Junk", "Abzan Ranks"],
+    "rep": 251635,
+    "cover": "Siege Rhino",
+    "keyCards": ["Siege Rhino", "Tarmogoyf", "Lingering Souls", "Liliana of the Veil", "Tasigur, the Golden Fang"],
+    "summary": {
+      "fr": "Midrange noir-vert-blanc : Siege Rhino, Tarmogoyf et Lingering Souls derrière Thoughtseize, Abrupt Decay et Path to Exile.",
+      "en": "Black-green-white midrange: Siege Rhino, Tarmogoyf and Lingering Souls behind Thoughtseize, Abrupt Decay and Path to Exile."
+    },
+    "why": {
+      "fr": [
+        "Trois listes Abzan en top 8 du Pro Tour Fate Reforged, dont une en demi-finale",
+        "Siege Rhino drainait trois points à son arrivée et bloquait les créatures agressives",
+        "Tasigur, issu de Fate Reforged, ajoutait une deuxième grosse menace bon marché"
+      ],
+      "en": [
+        "Three Abzan lists made the top eight of Pro Tour Fate Reforged, one reaching the semifinals",
+        "Siege Rhino drained three on arrival and stopped aggressive creatures",
+        "Tasigur, from Fate Reforged, added a second cheap large threat"
+      ]
+    },
+    "note": "Rep = Jesse Hampton, PT Fate Reforged semifinalist."
+  },
+  {
+    "name": "Abzan Company",
+    "slug": "abzan-company",
+    "archetype": "combo",
+    "titles": ["Podless Collected", "Collected Melira"],
+    "rep": 257072,
+    "cover": "Collected Company",
+    "keyCards": ["Collected Company", "Chord of Calling", "Melira, Sylvok Outcast", "Kitchen Finks", "Viscera Seer"],
+    "summary": {
+      "fr": "Après le bannissement de Birthing Pod, le combo Melira est passé à Collected Company et Chord of Calling : Kitchen Finks, Viscera Seer et Melira pour une vie infinie.",
+      "en": "After the Birthing Pod ban, the Melira combo moved to Collected Company and Chord of Calling: Kitchen Finks, Viscera Seer and Melira for infinite life."
+    },
+    "why": {
+      "fr": [
+        "Collected Company mettait deux créatures en jeu à vitesse instantanée, souvent la moitié du combo",
+        "Gardait la toolbox d'exemplaires uniques de l'époque Pod",
+        "Top 8 des Grand Prix Charlotte et Singapore"
+      ],
+      "en": [
+        "Collected Company put two creatures into play at instant speed, often half of the combo",
+        "Kept the toolbox of single copies from the Pod era",
+        "Top eight at Grand Prix Charlotte and Grand Prix Singapore"
+      ]
+    }
+  },
+  {
+    "name": "Abzan Pod",
+    "slug": "abzan-pod",
+    "archetype": "midrange",
+    "titles": ["Birthing Pod", "Thune Pod"],
+    "cover": "Birthing Pod",
+    "keyCards": ["Birthing Pod", "Siege Rhino", "Kitchen Finks", "Voice of Resurgence", "Restoration Angel"],
+    "summary": {
+      "fr": "Derniers résultats de Birthing Pod avant son bannissement en janvier 2015 : la version Siege Rhino a gagné le Grand Prix Omaha peu avant l'annonce.",
+      "en": "The last Birthing Pod results before the card was banned in January 2015: the Siege Rhino version won Grand Prix Omaha shortly before the announcement."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Grand Prix Omaha",
+        "Birthing Pod a été banni en même temps que Treasure Cruise et Dig Through Time",
+        "Sa toolbox de créatures est passée aux listes Collected Company"
+      ],
+      "en": [
+        "Won Grand Prix Omaha",
+        "Birthing Pod was banned along with Treasure Cruise and Dig Through Time",
+        "Its creature toolbox moved on to Collected Company lists"
+      ]
+    }
+  },
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "ramp",
+    "titles": ["Gr Tron", "UrzaTron", "Mono Green Tron", "E7 Gr Tron"],
+    "cover": "Karn Liberated",
+    "keyCards": ["Karn Liberated", "Wurmcoil Engine", "Ancient Stirrings", "Expedition Map", "Oblivion Stone"],
+    "summary": {
+      "fr": "Rampe verte qui assemble Urza's Tower, Mine et Power Plant grâce à Sylvan Scrying, Expedition Map et Ancient Stirrings, pour sept manas au troisième tour et Karn Liberated.",
+      "en": "Green ramp that assembles Urza's Tower, Mine and Power Plant with Sylvan Scrying, Expedition Map and Ancient Stirrings, for seven mana on turn three and Karn Liberated."
+    },
+    "why": {
+      "fr": [
+        "Karn Liberated exilait un permanent par tour dès le troisième tour",
+        "Oblivion Stone et Pyroclasm nettoyaient la table le temps d'assembler Tron",
+        "Vainqueur de la SCG Invitational de Columbus"
+      ],
+      "en": [
+        "Karn Liberated exiled a permanent each turn from turn three",
+        "Oblivion Stone and Pyroclasm cleared the board while Tron came together",
+        "Won the SCG Invitational in Columbus"
+      ]
+    }
+  },
+  {
+    "name": "Amulet Bloom",
+    "slug": "amulet-bloom",
+    "archetype": "combo",
+    "titles": ["Bloom Titan"],
+    "rep": 251633,
+    "cover": "Amulet of Vigor",
+    "keyCards": ["Amulet of Vigor", "Summer Bloom", "Primeval Titan", "Hive Mind", "Summoner's Pact"],
+    "summary": {
+      "fr": "Rampe-combo verte : Amulet of Vigor dégage les karoos, Summer Bloom ajoute des poses de terrain, et Primeval Titan ou Hive Mind avec Summoner's Pact arrive au tour deux ou trois.",
+      "en": "Green ramp-combo: Amulet of Vigor untaps bounce lands, Summer Bloom adds land drops, and Primeval Titan or Hive Mind with Summoner's Pact arrives on turn two or three."
+    },
+    "why": {
+      "fr": [
+        "Justin Cohen a terminé deuxième du Pro Tour Fate Reforged avec ce deck",
+        "Primeval Titan allait chercher Slayers' Stronghold pour attaquer avec la célérité dès son arrivée",
+        "Hive Mind copiait Summoner's Pact ou Pact of Negation, et l'adversaire perdait à son entretien"
+      ],
+      "en": [
+        "Justin Cohen finished second at Pro Tour Fate Reforged with it",
+        "Primeval Titan fetched Slayers' Stronghold to attack with haste the turn it landed",
+        "Hive Mind copied Summoner's Pact or Pact of Negation, and the opponent lost on their upkeep"
+      ]
+    }
+  },
+  {
+    "name": "Scapeshift",
+    "slug": "scapeshift",
+    "archetype": "combo",
+    "titles": ["Scapeshift", "Scapegift", "Valakut", "Trap Valakut"],
+    "rep": 257372,
+    "cover": "Scapeshift",
+    "keyCards": ["Scapeshift", "Valakut, the Molten Pinnacle", "Sakura-Tribe Elder", "Search for Tomorrow", "Cryptic Command"],
+    "summary": {
+      "fr": "Rampe-combo bleu-rouge-vert : Sakura-Tribe Elder et Search for Tomorrow mènent à sept terrains, puis Scapeshift va chercher Valakut et des Mountains pour des dégâts mortels.",
+      "en": "Blue-red-green ramp-combo: Sakura-Tribe Elder and Search for Tomorrow reach seven lands, then Scapeshift fetches Valakut and Mountains for lethal damage."
+    },
+    "why": {
+      "fr": [
+        "Finaliste du Grand Prix Copenhagen",
+        "Remand et Cryptic Command protégeaient le tour du combo",
+        "Certaines listes remplaçaient les contresorts par Primeval Titan ou Through the Breach"
+      ],
+      "en": [
+        "Finalist at Grand Prix Copenhagen",
+        "Remand and Cryptic Command protected the combo turn",
+        "Some lists replaced the counters with Primeval Titan or Through the Breach"
+      ]
+    },
+    "note": "Merges the UR(g) Scapeshift lists with Valakut lists built on Primeval Titan or Through the Breach."
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": ["UR Aggro", "Jeskai Delver", "RUG Aggro"],
+    "include": [259480],
+    "rep": 250717,
+    "cover": "Delver of Secrets",
+    "keyCards": ["Delver of Secrets", "Young Pyromancer", "Monastery Swiftspear", "Treasure Cruise", "Lightning Bolt"],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets, Young Pyromancer et Monastery Swiftspear avec des cantrips bon marché ; après le bannissement de Treasure Cruise en janvier, Snapcaster Mage a pris le relais.",
+      "en": "Blue-red tempo: Delver of Secrets, Young Pyromancer and Monastery Swiftspear with cheap cantrips; after the Treasure Cruise ban in January, Snapcaster Mage took over."
+    },
+    "why": {
+      "fr": [
+        "Top 4 du Grand Prix Omaha, avant le bannissement de Treasure Cruise",
+        "Les sorts bon marché déclenchaient Young Pyromancer et la prouesse à chaque tour",
+        "Quelques listes ajoutaient du vert pour Tarmogoyf"
+      ],
+      "en": [
+        "Top four at Grand Prix Omaha, before the Treasure Cruise ban",
+        "Cheap spells triggered Young Pyromancer and prowess every turn",
+        "A few lists splashed green for Tarmogoyf"
+      ]
+    },
+    "note": "Merges UR Delver, Temur Delver ('RUG Aggro') and Shaun McLaren's UR Pyromancer list (Worlds 2015). The 'UR Pyromancer' title otherwise holds Pyromancer Ascension combo, left out."
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": ["Merfolk"],
+    "cover": "Master of the Pearl Trident",
+    "keyCards": ["Aether Vial", "Lord of Atlantis", "Master of the Pearl Trident", "Silvergill Adept", "Spreading Seas"],
+    "summary": {
+      "fr": "Aggro tribal bleu : Aether Vial et des seigneurs comme Lord of Atlantis et Master of the Pearl Trident ; la traversée des îles punissait les bases de mana bleues.",
+      "en": "Blue tribal aggro: Aether Vial and lords such as Lord of Atlantis and Master of the Pearl Trident, with islandwalk punishing blue mana bases."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Grand Prix Copenhagen",
+        "Aether Vial mettait les seigneurs en jeu à vitesse instantanée, hors de portée des contresorts",
+        "Spreading Seas transformait un terrain adverse en Island pour la traversée des îles"
+      ],
+      "en": [
+        "Won Grand Prix Copenhagen",
+        "Aether Vial put lords into play at instant speed, out of reach of counterspells",
+        "Spreading Seas turned an opposing land into an Island for islandwalk"
+      ]
+    }
+  },
+  {
+    "name": "Infect",
+    "slug": "infect",
+    "archetype": "aggro",
+    "titles": ["Infect", "Ug Infect"],
+    "cover": "Glistener Elf",
+    "keyCards": ["Glistener Elf", "Blighted Agent", "Inkmoth Nexus", "Become Immense", "Vines of Vastwood"],
+    "summary": {
+      "fr": "Aggro-combo vert-bleu : Glistener Elf, Blighted Agent et Inkmoth Nexus, gonflés par Might of Old Krosa et Become Immense, pour dix marqueurs poison dès le troisième tour.",
+      "en": "Green-blue aggro-combo: Glistener Elf, Blighted Agent and Inkmoth Nexus, pumped by Might of Old Krosa and Become Immense, for ten poison counters as early as turn three."
+    },
+    "why": {
+      "fr": [
+        "Vines of Vastwood et Apostle's Blessing protégeaient la menace isolée du removal",
+        "Become Immense, de Khans of Tarkir, donnait +6/+6 pour un mana grâce à la fouille",
+        "Inkmoth Nexus échappait au removal de rituel"
+      ],
+      "en": [
+        "Vines of Vastwood and Apostle's Blessing protected the lone threat from removal",
+        "Become Immense, from Khans of Tarkir, gave +6/+6 for one mana thanks to delve",
+        "Inkmoth Nexus dodged sorcery-speed removal"
+      ]
+    }
+  },
+  {
+    "name": "Zoo",
+    "slug": "zoo",
+    "archetype": "aggro",
+    "titles": ["Zoo", "Tribal Zoo"],
+    "cover": "Knight of the Reliquary",
+    "keyCards": ["Wild Nacatl", "Tarmogoyf", "Knight of the Reliquary", "Path to Exile", "Collected Company"],
+    "summary": {
+      "fr": "Aggro de créatures Naya : Wild Nacatl, Tarmogoyf et Knight of the Reliquary avec Path to Exile et Lightning Bolt ; certaines listes ajoutaient Collected Company ou Atarka's Command.",
+      "en": "Naya creature aggro: Wild Nacatl, Tarmogoyf and Knight of the Reliquary with Path to Exile and Lightning Bolt; some lists added Collected Company or Atarka's Command."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Grand Prix Porto Alegre",
+        "Des créatures efficaces à chaque palier de la courbe, soutenues par du removal",
+        "Knight of the Reliquary grandissait avec chaque fetchland et allait chercher Kessig Wolf Run"
+      ],
+      "en": [
+        "Won Grand Prix Porto Alegre",
+        "Efficient creatures at every point of the curve, backed by removal",
+        "Knight of the Reliquary grew with each fetch land and found Kessig Wolf Run"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": ["Burn", "Naya Burn", "Burn Boros", "Gruul Burn", "Boros Burn", "Patriot Burn", "Red Deck Wins", "RDW"],
+    "rep": 261795,
+    "cover": "Atarka's Command",
+    "keyCards": ["Goblin Guide", "Eidolon of the Great Revel", "Atarka's Command", "Boros Charm", "Wild Nacatl"],
+    "summary": {
+      "fr": "Burn rouge-blanc avec une touche verte pour Wild Nacatl et Atarka's Command, issu de Dragons of Tarkir : créatures rapides, puis sorts de burn directement sur l'adversaire.",
+      "en": "Red-white burn splashing green for Wild Nacatl and Atarka's Command, from Dragons of Tarkir: fast creatures, then burn spells aimed at the opponent."
+    },
+    "why": {
+      "fr": [
+        "Atarka's Command empêchait le gain de vie et ajoutait des dégâts à vitesse instantanée",
+        "Deux listes en top 8 du Pro Tour Fate Reforged",
+        "Deuxième place au Grand Prix Porto Alegre"
+      ],
+      "en": [
+        "Atarka's Command stopped lifegain and added damage at instant speed",
+        "Two lists reached the top eight of Pro Tour Fate Reforged",
+        "Finished second at Grand Prix Porto Alegre"
+      ]
+    },
+    "note": "mtgtop8's 'Red Deck Wins' rows this year are Naya Burn lists (Goblin Guide, Atarka's Command, Boros Charm)."
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": ["Grixis Control"],
+    "cover": "Kolaghan's Command",
+    "keyCards": ["Kolaghan's Command", "Tasigur, the Golden Fang", "Snapcaster Mage", "Jace, Vryn's Prodigy", "Lightning Bolt"],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge construit sur Fate Reforged et Dragons of Tarkir : Tasigur, Kolaghan's Command et Snapcaster Mage derrière du removal et des contresorts.",
+      "en": "Blue-black-red control built on Fate Reforged and Dragons of Tarkir: Tasigur, Kolaghan's Command and Snapcaster Mage behind removal and counterspells."
+    },
+    "why": {
+      "fr": [
+        "Kolaghan's Command et Snapcaster Mage produisaient de l'avantage de cartes en partie longue",
+        "Jace, Vryn's Prodigy, issu de Magic Origins, rejouait des sorts une fois retourné",
+        "Deuxième place à la SCG Invitational de Las Vegas"
+      ],
+      "en": [
+        "Kolaghan's Command and Snapcaster Mage generated card advantage in long games",
+        "Jace, Vryn's Prodigy, from Magic Origins, flashed back spells once flipped",
+        "Finished second at the SCG Invitational in Las Vegas"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": ["UW Control", "UW Control Titan", "UWx Midrange", "Jeskai Control", "UWrb Control", "UWr Midrange"],
+    "cover": "Sphinx's Revelation",
+    "keyCards": ["Supreme Verdict", "Cryptic Command", "Sphinx's Revelation", "Restoration Angel", "Celestial Colonnade"],
+    "summary": {
+      "fr": "Contrôle bleu-blanc, parfois avec une touche rouge : Path to Exile, Supreme Verdict et contresorts, puis Celestial Colonnade, Restoration Angel ou Sphinx's Revelation pour conclure.",
+      "en": "Blue-white control, sometimes splashing red: Path to Exile, Supreme Verdict and counters, then Celestial Colonnade, Restoration Angel or Sphinx's Revelation to close."
+    },
+    "why": {
+      "fr": [
+        "Supreme Verdict, impossible à contrer, nettoyait les boards de créatures",
+        "Celestial Colonnade attaquait sans s'exposer au removal de rituel",
+        "Deux SCG Premier IQ gagnés au second semestre"
+      ],
+      "en": [
+        "Supreme Verdict could not be countered and reset creature boards",
+        "Celestial Colonnade attacked without being exposed to sorcery-speed removal",
+        "Won two SCG Premier IQs in the second half of the year"
+      ]
+    },
+    "note": "Merges UW and Jeskai (UWR) control and Restoration Angel midrange lists."
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": ["Living End"],
+    "cover": "Living End",
+    "keyCards": ["Living End", "Violent Outburst", "Demonic Dread", "Street Wraith", "Fulminator Mage"],
+    "summary": {
+      "fr": "Combo cascade : Violent Outburst et Demonic Dread cascadent sur Living End, qui échange les créatures de l'adversaire contre celles que le deck a recyclées dans son cimetière.",
+      "en": "Cascade combo: Violent Outburst and Demonic Dread cascade into Living End, which swaps the opponent's creatures for those the deck cycled into its graveyard."
+    },
+    "why": {
+      "fr": [
+        "Deux joueurs Living End dans le top 8 du Championnat du monde 2015",
+        "Tous les autres sorts coûtaient trois ou plus : la cascade ne pouvait trouver que Living End",
+        "Les créatures à cyclage comme Street Wraith remplissaient le cimetière"
+      ],
+      "en": [
+        "Two Living End players finished in the top eight of the 2015 World Championship",
+        "Every other spell cost three or more, so cascade could only hit Living End",
+        "Cycling creatures such as Street Wraith filled the graveyard"
+      ]
+    }
+  },
+  {
+    "name": "Bogles",
+    "slug": "bogles",
+    "archetype": "aggro",
+    "titles": ["Aura Hexproof"],
+    "cover": "Slippery Bogle",
+    "keyCards": ["Slippery Bogle", "Gladecover Scout", "Ethereal Armor", "Daybreak Coronet", "Kor Spiritdancer"],
+    "summary": {
+      "fr": "Aggro hexproof : Slippery Bogle et Gladecover Scout portent des auras comme Ethereal Armor, Daybreak Coronet et Rancor, et le removal ciblé n'a rien à viser.",
+      "en": "Hexproof aggro: Slippery Bogle and Gladecover Scout wear auras such as Ethereal Armor, Daybreak Coronet and Rancor, leaving targeted removal nothing to aim at."
+    },
+    "why": {
+      "fr": [
+        "Seth Manfield l'a joué dans les rondes Modern du Championnat du monde 2015, qu'il a remporté",
+        "Kor Spiritdancer piochait une carte à chaque aura lancée",
+        "Leyline of Sanctity en réserve neutralisait défausse et burn"
+      ],
+      "en": [
+        "Seth Manfield played it in the Modern rounds of the 2015 World Championship, which he won",
+        "Kor Spiritdancer drew a card for each aura cast",
+        "Leyline of Sanctity in the sideboard blanked discard and burn"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": ["Elves"],
+    "cover": "Elvish Archdruid",
+    "keyCards": ["Heritage Druid", "Elvish Archdruid", "Nettle Sentinel", "Ezuri, Renegade Leader", "Collected Company"],
+    "summary": {
+      "fr": "Combo de créatures vert : elfes de mana, Heritage Druid et Elvish Archdruid produisent beaucoup de mana pour Ezuri ou Collected Company, et Nettle Sentinel se dégage pour en produire encore.",
+      "en": "Green creature combo: mana elves, Heritage Druid and Elvish Archdruid make large amounts of mana for Ezuri or Collected Company, while Nettle Sentinel untaps to make more."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur du Grand Prix Charlotte",
+        "Collected Company, issu de Dragons of Tarkir, mettait deux elfes en jeu à vitesse instantanée",
+        "Ezuri, Renegade Leader renforçait toute l'équipe pour une grande attaque"
+      ],
+      "en": [
+        "Won Grand Prix Charlotte",
+        "Collected Company, from Dragons of Tarkir, put two elves into play at instant speed",
+        "Ezuri, Renegade Leader pumped the whole team for one large attack"
+      ]
+    }
+  },
+  {
+    "name": "Lantern Control",
+    "slug": "lantern-control",
+    "archetype": "control",
+    "titles": ["Lantern Control"],
+    "cover": "Lantern of Insight",
+    "keyCards": ["Lantern of Insight", "Codex Shredder", "Ghoulcaller's Bell", "Ensnaring Bridge", "Mox Opal"],
+    "summary": {
+      "fr": "Lock artefacts : Lantern of Insight révèle le dessus des bibliothèques, et des artefacts de meule comme Codex Shredder et Ghoulcaller's Bell choisissent les pioches adverses pendant qu'Ensnaring Bridge bloque les attaques.",
+      "en": "Artifact lock: Lantern of Insight reveals the top of each library, and mill artifacts such as Codex Shredder and Ghoulcaller's Bell choose the opponent's draws while Ensnaring Bridge stops attacks."
+    },
+    "why": {
+      "fr": [
+        "Zac Elsik a remporté le Grand Prix Oklahoma City avec ce deck",
+        "La défausse et Pithing Needle retiraient les rares réponses piochées par l'adversaire",
+        "Mox Opal et Ancient Stirrings assemblaient vite les pièces du lock"
+      ],
+      "en": [
+        "Zac Elsik won Grand Prix Oklahoma City with it",
+        "Discard and Pithing Needle stripped the few answers the opponent drew",
+        "Mox Opal and Ancient Stirrings put the lock pieces together early"
+      ]
+    }
+  }
+]

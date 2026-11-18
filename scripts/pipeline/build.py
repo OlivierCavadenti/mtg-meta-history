@@ -43,6 +43,8 @@ def pick_print(ps, before):
 total_top8 = {}
 for sid in season_ids:
     total_top8[sid] = sum(1 for r in season_rows(sid) if r['rank'] in TOP8)
+# set types whose cards enter the format (Modern also takes the Modern Horizons sets)
+LEGAL_SET_TYPES = {'core', 'expansion'} | ({'draft_innovation'} if FORMAT == 'modern' else set())
 first_season = {}
 seasons_of = collections.defaultdict(set)
 firsts = collections.Counter(r['e'] for r in rows() if r['rank'] == '1')
@@ -83,8 +85,8 @@ for sid in season_ids:
         for n, name in main:
             pr = lookup(name)
             if not pr or name in ('Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'): continue
-            if not any(p['st'] in ('core', 'expansion') and p['r'] < season_end[sid] for p in pr['prints']):
-                print(f'  WARN {sid}/{e["slug"]}: {name} not printed in a Standard set before season end')
+            if not any(p['st'] in LEGAL_SET_TYPES and p['r'] < season_end[sid] for p in pr['prints']):
+                print(f'  WARN {sid}/{e["slug"]}: {name} not printed in a {FORMAT}-legal set before season end')
         decks.append({
             'id': f"{e['slug']}-{sid}", 'name': e['name'], 'season': sid, 'archetype': e['archetype'], 'colors': colors,
             'tier': 3, 'first': min(r['iso'] for r in rs), 'last': max(r['iso'] for r in rs),
