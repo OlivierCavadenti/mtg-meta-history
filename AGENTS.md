@@ -68,7 +68,7 @@ python3 scripts/pipeline/check_editorial.py 2005-rav                     # valid
   in one event (league weekends, Arena 7-win lists, standings pages), those ranks do not count as
   top 8s or wins (World Magic Cup winning teams excepted).
 - **Wrong dates**: `data-src/standard/date-fixes.json` maps an mtgtop8 event id to its real date,
-  with a source. Years written in an event name also override a stored date more than a year off.
+  with a source, or `"drop": true` with a reason to exclude a non-competitive event. Years written in an event name also override a stored date more than a year off.
 - **Seasons mtgtop8 barely covers** (1990s, 2004-05…): add results from period sources in
   `data-src/standard/extra/{season}.json` (format documented in `scripts/pipeline/common.py`,
   `load_extra`). A list must be copied from a page that shows it card by card; its URL is

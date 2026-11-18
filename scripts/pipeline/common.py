@@ -73,7 +73,7 @@ def _fix_date(r):
     """mtgtop8 occasionally stores an old event under a recent date (e.g. 'Nationals - New Zealand
     2002' dated 2022): trust the year in the event name when it is far from the stored year."""
     fix = _date_fixes.get(str(r['e']))
-    if fix:
+    if fix and fix.get('date'):
         r['iso'] = fix['date']
         return
     m = re.search(r'\b(199\d|20[0-2]\d)\b', r['event'])
@@ -99,6 +99,8 @@ def rows():
             for r in rs:
                 if not r['date']:
                     continue
+                if _date_fixes.get(str(r['e']), {}).get('drop'):
+                    continue  # event excluded on purpose (see date-fixes.json)
                 r['iso'] = iso(r['date'])
                 _fix_date(r)
                 r['has_list'] = True
