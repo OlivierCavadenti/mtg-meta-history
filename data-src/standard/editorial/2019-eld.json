@@ -111,6 +111,67 @@
     "note": "mtgtop8 'Rakdos Aggro' is mostly Cat-Oven sacrifice, with a few Knights aggro lists; Mardu Aggro/Sacrifice merged."
   },
   {
+    "name": "Rakdos Knights",
+    "slug": "rakdos-knights",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Knight",
+      "Mardu Knights",
+      "Mardu Knights Aggro",
+      "Mardu Knight Aggro",
+      "Rakdos Knights"
+    ],
+    "include": [
+      368245,
+      367882,
+      364714,
+      368239,
+      398639,
+      398659,
+      398684,
+      398708,
+      398812,
+      398461,
+      365339,
+      398468,
+      398475,
+      398483,
+      398484,
+      398488,
+      362730,
+      405544,
+      396963,
+      396563,
+      394901,
+      377533
+    ],
+    "rep": 368245,
+    "cover": "Embercleave",
+    "keyCards": [
+      "Knight of the Ebon Legion",
+      "Blacklance Paragon",
+      "Stormfist Crusader",
+      "Rotting Regisaur",
+      "Embercleave"
+    ],
+    "summary": {
+      "fr": "Aggro Chevaliers noir-rouge, parfois avec du blanc : Knight of the Ebon Legion, Blacklance Paragon et Stormfist Crusader mènent à Embercleave.",
+      "en": "Black-red Knight aggro, sometimes adding white: Knight of the Ebon Legion, Blacklance Paragon and Stormfist Crusader lead into Embercleave."
+    },
+    "why": {
+      "fr": [
+        "A remporté la MagicFest Portland",
+        "Blacklance Paragon surgissait en flash pour piéger un bloqueur",
+        "Les versions Mardu ajoutaient Inspiring Veteran via Tournament Grounds"
+      ],
+      "en": [
+        "Won MagicFest Portland",
+        "Blacklance Paragon flashed in to ambush a blocker or attacker",
+        "Mardu builds added Inspiring Veteran through Tournament Grounds"
+      ]
+    }
+  },
+  {
     "name": "Sultai Control",
     "slug": "sultai-control",
     "archetype": "control",
@@ -546,7 +607,10 @@
         "Time Wipe and Teferi bought time against aggro"
       ]
     },
-    "note": "Oct 2019 only. Rep = Mythic Championship V finalist."
+    "note": "Oct 2019 only. Rep = Mythic Championship V finalist.",
+    "include": [
+      361214
+    ]
   },
   {
     "name": "Simic Food",
@@ -587,7 +651,12 @@
       ]
     },
     "note": "Simic/Bant Oko titles merged (Simic Control = MC VI winner, default rep). Jan-2020 'Bant Aggro' rows are post-Oko Bant lists.",
-    "rep": 363797
+    "rep": 363797,
+    "exclude": [
+      370385,
+      370387,
+      370392
+    ]
   },
   {
     "name": "Gruul Aggro",
@@ -762,7 +831,11 @@
         "Quasiduplicate copied Agent of Treachery or Cavalier of Thorns"
       ]
     },
-    "note": "Rep = Mythic Championship VII top 4."
+    "note": "Rep = Mythic Championship VII top 4.",
+    "include": [
+      402503,
+      398116
+    ]
   },
   {
     "name": "Temur Elementals",
