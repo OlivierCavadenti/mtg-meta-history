@@ -1,0 +1,821 @@
+[
+  {
+    "name": "Grixis Death's Shadow",
+    "slug": "grixis-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Grixis Death's Shadow",
+      "Grixis Death´s Shadow",
+      "Esper Death's Shadow",
+      "UBr"
+    ],
+    "include": [
+      296160,
+      296508,
+      310864,
+      292709,
+      295682,
+      299109,
+      302179,
+      310472,
+      295992,
+      302317,
+      297284,
+      299113,
+      305149,
+      309772,
+      309773,
+      310324,
+      310860,
+      302191,
+      302314,
+      297280,
+      297282,
+      297293,
+      301664,
+      299643,
+      304296,
+      305147,
+      304727,
+      310351,
+      310862,
+      296507,
+      296505,
+      296151,
+      295998,
+      302193,
+      302305,
+      302307,
+      302310,
+      297289,
+      297290,
+      296501,
+      309528,
+      291921
+    ],
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Street Wraith",
+      "Snapcaster Mage",
+      "Gurmag Angler",
+      "Stubborn Denial"
+    ],
+    "summary": {
+      "en": "From spring 2017 Death's Shadow moved into Grixis colours: Snapcaster Mage, Gurmag Angler and Stubborn Denial replaced Tarmogoyf and Traverse the Ulvenwald.",
+      "fr": "À partir du printemps 2017, Death's Shadow passe en Grixis : Snapcaster Mage, Gurmag Angler et Stubborn Denial remplacent Tarmogoyf et Traverse the Ulvenwald."
+    },
+    "why": {
+      "en": [
+        "Fetchlands, shocklands and Street Wraith cost life, which made Death's Shadow bigger",
+        "Thoughtseize and Inquisition of Kozilek stripped answers before the threats landed",
+        "Mattia Rizzi won GP Copenhagen; Brad Nelson won SCG events in Baltimore"
+      ],
+      "fr": [
+        "Fetchlands, shocklands et Street Wraith coûtaient des points de vie et grossissaient Death's Shadow",
+        "Thoughtseize et Inquisition of Kozilek retiraient les réponses avant l'arrivée des menaces",
+        "Mattia Rizzi gagne le GP Copenhague ; Brad Nelson gagne des tournois SCG à Baltimore"
+      ]
+    },
+    "note": "Split from the generic 'Death's Shadow' title by list content: Snapcaster Mage or Gurmag Angler without Tarmogoyf = Grixis (include). Esper and Delver Shadow ('UBr') variants folded in."
+  },
+  {
+    "name": "Jund Death's Shadow",
+    "slug": "jund-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow",
+      "Death's Shadow Aggro",
+      "Jund Death's Shadow",
+      "4 Color Death's Shadow",
+      "5c Death's Shadow"
+    ],
+    "cover": "Traverse the Ulvenwald",
+    "keyCards": [
+      "Death's Shadow",
+      "Traverse the Ulvenwald",
+      "Tarmogoyf",
+      "Street Wraith",
+      "Temur Battle Rage"
+    ],
+    "summary": {
+      "en": "The Death's Shadow build that opened 2017: black-green with a red splash, Tarmogoyf and Traverse the Ulvenwald, and Temur Battle Rage to end games in one attack.",
+      "fr": "La version de Death's Shadow qui ouvre 2017 : noir-vert teinté rouge, avec Tarmogoyf, Traverse the Ulvenwald et Temur Battle Rage pour finir en une attaque."
+    },
+    "why": {
+      "en": [
+        "Josh Utter-Leyton won GP Vancouver, where the deck also took other top 4 slots",
+        "Traverse the Ulvenwald found Death's Shadow or a land once delirium was on",
+        "Mishra's Bauble and Street Wraith thinned the deck at no mana cost"
+      ],
+      "fr": [
+        "Josh Utter-Leyton gagne le GP Vancouver, où le deck occupe aussi d'autres places du top 4",
+        "Traverse the Ulvenwald cherchait Death's Shadow ou un terrain une fois le délire atteint",
+        "Mishra's Bauble et Street Wraith affinaient le deck sans coûter de mana"
+      ]
+    },
+    "note": "Death's Shadow lists with Tarmogoyf/Traverse; 4c and 5c Traverse builds kept here."
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity"
+    ],
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Cranial Plating",
+      "Mox Opal",
+      "Steel Overseer",
+      "Signal Pest"
+    ],
+    "summary": {
+      "en": "Artifact aggro built on zero- and one-mana creatures, Mox Opal and Springleaf Drum, with Cranial Plating and Arcbound Ravager to turn the board into damage.",
+      "fr": "Aggro artefacts fondé sur des créatures à zéro ou un mana, Mox Opal et Springleaf Drum, avec Cranial Plating et Arcbound Ravager pour convertir la table en dégâts."
+    },
+    "why": {
+      "en": [
+        "Mani Davoudi won GP Las Vegas in June 2017",
+        "Inkmoth Nexus and Blinkmoth Nexus dodged sorcery-speed removal",
+        "Very fast starts punished slow hands; artifact hate was its main weakness"
+      ],
+      "fr": [
+        "Mani Davoudi gagne le GP Las Vegas en juin 2017",
+        "Inkmoth Nexus et Blinkmoth Nexus esquivaient les removals à vitesse de rituel",
+        "Ses débuts très rapides punissaient les mains lentes ; les cartes anti-artefacts restaient sa faiblesse"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi Tron",
+    "slug": "eldrazi-tron",
+    "archetype": "ramp",
+    "titles": [
+      "Eldra Tron",
+      "Eldrazi Tron",
+      "EldraTron"
+    ],
+    "cover": "Thought-Knot Seer",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Chalice of the Void",
+      "Walking Ballista",
+      "Matter Reshaper"
+    ],
+    "summary": {
+      "en": "Colorless ramp combining the Urza lands and Eldrazi Temple to cast Thought-Knot Seer and Reality Smasher early, behind Chalice of the Void.",
+      "fr": "Rampe incolore qui combine les terrains d'Urza et Eldrazi Temple pour lancer tôt Thought-Knot Seer et Reality Smasher, derrière Chalice of the Void."
+    },
+    "why": {
+      "en": [
+        "Chalice of the Void on one shut off much of Modern's cheap interaction",
+        "Walking Ballista, new in Aether Revolt, scaled with Tron mana",
+        "Won SCG Opens in Charlotte and Syracuse"
+      ],
+      "fr": [
+        "Chalice of the Void sur un neutralisait une grande partie des sorts bon marché du format",
+        "Walking Ballista, arrivé avec Aether Revolt, profitait du mana de Tron",
+        "Victoires aux SCG Opens de Charlotte et de Syracuse"
+      ]
+    }
+  },
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "ramp",
+    "titles": [
+      "UrzaTron",
+      "Mono G Tron",
+      "Bg Tron",
+      "B/g Tron",
+      "G/b Tron"
+    ],
+    "rep": 310422,
+    "cover": "Karn Liberated",
+    "keyCards": [
+      "Karn Liberated",
+      "Wurmcoil Engine",
+      "Ancient Stirrings",
+      "Oblivion Stone",
+      "Ugin, the Spirit Dragon"
+    ],
+    "summary": {
+      "en": "Green big-mana deck that assembles Urza's Mine, Power Plant and Tower by turn three for Karn Liberated, Wurmcoil Engine and Ugin; some lists splashed black for Fatal Push.",
+      "fr": "Deck de gros mana vert qui réunit Urza's Mine, Power Plant et Tower dès le troisième tour pour Karn Liberated, Wurmcoil Engine et Ugin ; certaines listes ajoutent du noir pour Fatal Push."
+    },
+    "why": {
+      "en": [
+        "Ancient Stirrings, Expedition Map and Sylvan Scrying found the missing Tron land",
+        "Oblivion Stone and Ugin reset the boards that creature decks built",
+        "Seth Manfield's black-green version reached the top 4 of GP Oklahoma City"
+      ],
+      "fr": [
+        "Ancient Stirrings, Expedition Map et Sylvan Scrying trouvaient le terrain de Tron manquant",
+        "Oblivion Stone et Ugin effaçaient les tables construites par les decks de créatures",
+        "La version noir-vert de Seth Manfield atteint le top 4 du GP Oklahoma City"
+      ]
+    },
+    "note": "Mono-green and BG Tron titles merged. Rep = GP Oklahoma City top 4 (default was a local Japanese final)."
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn",
+      "Boros Burn",
+      "Naya Burn",
+      "Red Deck Wins"
+    ],
+    "cover": "Goblin Guide",
+    "keyCards": [
+      "Goblin Guide",
+      "Monastery Swiftspear",
+      "Lightning Helix",
+      "Boros Charm",
+      "Searing Blaze"
+    ],
+    "summary": {
+      "en": "Red-white burn: hasty one-drops, then Lightning Bolt, Lightning Helix and Boros Charm aimed at the opponent. Naya builds added Wild Nacatl.",
+      "fr": "Burn rouge-blanc : des créatures à un mana avec la célérité, puis Lightning Bolt, Lightning Helix et Boros Charm vers l'adversaire. Les versions Naya ajoutent Wild Nacatl."
+    },
+    "why": {
+      "en": [
+        "Loïc Le Briand won GP Birmingham in August 2017",
+        "Opposing fetchlands and shocklands did part of the damage",
+        "Skullcrack and Searing Blaze answered lifegain and blockers"
+      ],
+      "fr": [
+        "Loïc Le Briand gagne le GP Birmingham en août 2017",
+        "Les fetchlands et shocklands adverses faisaient une partie des dégâts",
+        "Skullcrack et Searing Blaze répondaient au gain de vie et aux bloqueurs"
+      ]
+    },
+    "note": "Burn, Boros Burn, Naya Burn and the Burn-shaped 'Red Deck Wins' lists merged."
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 288718,
+    "cover": "Prized Amalgam",
+    "keyCards": [
+      "Prized Amalgam",
+      "Narcomoeba",
+      "Bloodghast",
+      "Cathartic Reunion",
+      "Life from the Loam"
+    ],
+    "summary": {
+      "en": "Graveyard aggro that dredges and discards creatures that come back on their own: Bloodghast, Narcomoeba, Prized Amalgam. It survived the January 2017 ban of Golgari Grave-Troll.",
+      "fr": "Aggro cimetière qui meule et défausse des créatures revenant seules en jeu : Bloodghast, Narcomoeba, Prized Amalgam. Il survit à l'interdiction de Golgari Grave-Troll en janvier 2017."
+    },
+    "why": {
+      "en": [
+        "Faithless Looting and Cathartic Reunion filled the graveyard from the first turns",
+        "Conflagrate and Life from the Loam gave reach and card advantage",
+        "Finished second at GP Brisbane and GP Kobe"
+      ],
+      "fr": [
+        "Faithless Looting et Cathartic Reunion remplissaient le cimetière dès les premiers tours",
+        "Conflagrate et Life from the Loam apportaient portée et avantage de cartes",
+        "Deuxième place au GP Brisbane et au GP Kobe"
+      ]
+    },
+    "note": "Rep = GP Brisbane finalist (default was an MTGO PTQ)."
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "UR Storm",
+      "Ur Storm",
+      "Gifts Storm"
+    ],
+    "cover": "Grapeshot",
+    "keyCards": [
+      "Baral, Chief of Compliance",
+      "Gifts Ungiven",
+      "Past in Flames",
+      "Grapeshot",
+      "Goblin Electromancer"
+    ],
+    "summary": {
+      "en": "Blue-red storm combo: Baral and Goblin Electromancer reduce costs, rituals and cantrips build the count, then Grapeshot. Gifts Ungiven and Past in Flames rebuild the chain.",
+      "fr": "Combo storm bleu-rouge : Baral et Goblin Electromancer réduisent les coûts, rituels et cantrips montent le compte, puis Grapeshot. Gifts Ungiven et Past in Flames relancent la chaîne."
+    },
+    "why": {
+      "en": [
+        "Baral, Chief of Compliance arrived with Aether Revolt in January 2017",
+        "Gifts Ungiven found Past in Flames and Grapeshot at instant speed",
+        "Won SCG Opens in Richmond and Charlotte, and the December SCG Invitational"
+      ],
+      "fr": [
+        "Baral, Chief of Compliance arrive avec Aether Revolt en janvier 2017",
+        "Gifts Ungiven allait chercher Past in Flames et Grapeshot à vitesse instantanée",
+        "Victoires aux SCG Opens de Richmond et Charlotte, et à l'Invitational SCG de décembre"
+      ]
+    },
+    "note": "UR Storm / Ur Storm / Gifts Storm merged."
+  },
+  {
+    "name": "Titanshift",
+    "slug": "titanshift",
+    "archetype": "ramp",
+    "titles": [
+      "Valakut",
+      "Titanshift",
+      "Scapeshift"
+    ],
+    "cover": "Scapeshift",
+    "keyCards": [
+      "Scapeshift",
+      "Valakut, the Molten Pinnacle",
+      "Primeval Titan",
+      "Sakura-Tribe Elder",
+      "Search for Tomorrow"
+    ],
+    "summary": {
+      "en": "Red-green ramp to seven lands, then Scapeshift or Primeval Titan fetches Valakut, the Molten Pinnacle and enough Mountains for lethal damage.",
+      "fr": "Rampe rouge-vert jusqu'à sept terrains, puis Scapeshift ou Primeval Titan va chercher Valakut, the Molten Pinnacle et assez de Mountains pour des dégâts létaux."
+    },
+    "why": {
+      "en": [
+        "Larry Li won GP Oklahoma City in December 2017",
+        "Search for Tomorrow, Farseek and Sakura-Tribe Elder ramped from the first turns",
+        "Lightning Bolt and Sweltering Suns slowed aggro until the combo turn"
+      ],
+      "fr": [
+        "Larry Li gagne le GP Oklahoma City en décembre 2017",
+        "Search for Tomorrow, Farseek et Sakura-Tribe Elder accéléraient dès les premiers tours",
+        "Lightning Bolt et Sweltering Suns ralentissaient l'aggro jusqu'au tour du combo"
+      ]
+    },
+    "note": "mtgtop8 'Valakut', 'Titanshift' and 'Scapeshift' are all RG Titan/Scapeshift lists this year (a few Prismatic Omen/black splash builds)."
+  },
+  {
+    "name": "Abzan",
+    "slug": "abzan",
+    "archetype": "midrange",
+    "titles": [
+      "Junk",
+      "Abzan"
+    ],
+    "rep": 302196,
+    "cover": "Lingering Souls",
+    "keyCards": [
+      "Tarmogoyf",
+      "Liliana of the Veil",
+      "Lingering Souls",
+      "Grim Flayer",
+      "Fatal Push"
+    ],
+    "summary": {
+      "en": "Black-green-white midrange: discard, cheap removal and resilient threats such as Tarmogoyf, Grim Flayer and Lingering Souls. Aether Revolt's Fatal Push joined the removal suite.",
+      "fr": "Midrange noir-vert-blanc : défausse, removals bon marché et menaces résistantes comme Tarmogoyf, Grim Flayer et Lingering Souls. Fatal Push, issu d'Aether Revolt, rejoint les removals."
+    },
+    "why": {
+      "en": [
+        "Thoughtseize and Inquisition of Kozilek took the opponent's best card",
+        "Lingering Souls gave flying blockers and attackers from a single card",
+        "Reached the top 4 of GP Birmingham in August 2017"
+      ],
+      "fr": [
+        "Thoughtseize et Inquisition of Kozilek prenaient la meilleure carte adverse",
+        "Lingering Souls fournissait bloqueurs et attaquants volants à partir d'une seule carte",
+        "Top 4 au GP Birmingham en août 2017"
+      ]
+    },
+    "note": "'Junk' and 'Abzan' merged. Rep = GP Birmingham top 4 (default was an MTGO PTQ)."
+  },
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Jund"
+    ],
+    "rep": 296268,
+    "cover": "Dark Confidant",
+    "keyCards": [
+      "Tarmogoyf",
+      "Dark Confidant",
+      "Liliana of the Veil",
+      "Lightning Bolt",
+      "Abrupt Decay"
+    ],
+    "summary": {
+      "en": "Black-red-green midrange of discard, Lightning Bolt and efficient threats, still without Bloodbraid Elf, which stayed banned until February 2018.",
+      "fr": "Midrange noir-rouge-vert fait de défausse, de Lightning Bolt et de menaces efficaces, encore privé de Bloodbraid Elf, interdit jusqu'en février 2018."
+    },
+    "why": {
+      "en": [
+        "Dark Confidant drew extra cards off a curve of cheap spells",
+        "Liliana of the Veil and Kolaghan's Command ground down the opponent's resources",
+        "Reid Duke reached SCG Open top 4s with it in Baltimore"
+      ],
+      "fr": [
+        "Dark Confidant piochait des cartes en plus grâce à une courbe de sorts bon marché",
+        "Liliana of the Veil et Kolaghan's Command usaient les ressources adverses",
+        "Reid Duke atteint des tops 4 de SCG Open à Baltimore avec ce deck"
+      ]
+    },
+    "note": "Rep = Reid Duke, SCG Baltimore Open top 4 (default was a local Italian event)."
+  },
+  {
+    "name": "Lantern Control",
+    "slug": "lantern-control",
+    "archetype": "control",
+    "titles": [
+      "Lantern Control"
+    ],
+    "cover": "Lantern of Insight",
+    "keyCards": [
+      "Lantern of Insight",
+      "Ensnaring Bridge",
+      "Codex Shredder",
+      "Mox Opal",
+      "Ancient Stirrings"
+    ],
+    "summary": {
+      "en": "Artifact prison: Lantern of Insight reveals the top of each library, mill artifacts discard the opponent's good draws and Ensnaring Bridge stops attackers.",
+      "fr": "Prison d'artefacts : Lantern of Insight révèle le dessus de chaque bibliothèque, des artefacts de meule écartent les bonnes pioches adverses et Ensnaring Bridge bloque les attaquants."
+    },
+    "why": {
+      "en": [
+        "Oliver Oks won GP Brisbane in February 2017",
+        "Thoughtseize and Inquisition of Kozilek removed answers to Ensnaring Bridge",
+        "Pithing Needle shut off planeswalkers and activated abilities"
+      ],
+      "fr": [
+        "Oliver Oks gagne le GP Brisbane en février 2017",
+        "Thoughtseize et Inquisition of Kozilek retiraient les réponses à Ensnaring Bridge",
+        "Pithing Needle bloquait planeswalkers et capacités activées"
+      ]
+    }
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": [
+      "Living End"
+    ],
+    "rep": 296145,
+    "cover": "Living End",
+    "keyCards": [
+      "Living End",
+      "Violent Outburst",
+      "Demonic Dread",
+      "Street Wraith",
+      "Fulminator Mage"
+    ],
+    "summary": {
+      "en": "Cascade combo: no other spell costs less than three, so Violent Outburst and Demonic Dread always find Living End, which swaps cycled creatures for the opponent's board.",
+      "fr": "Combo cascade : aucun autre sort ne coûte moins de trois, donc Violent Outburst et Demonic Dread trouvent toujours Living End, qui échange les créatures cyclées contre la table adverse."
+    },
+    "why": {
+      "en": [
+        "Cycling creatures such as Street Wraith and Horror of the Broken Lands stocked the graveyard",
+        "Fulminator Mage and Beast Within attacked lands and permanents while setting up",
+        "Finished second at GP Copenhagen in May 2017"
+      ],
+      "fr": [
+        "Des créatures à recyclage comme Street Wraith et Horror of the Broken Lands remplissaient le cimetière",
+        "Fulminator Mage et Beast Within attaquaient terrains et permanents en attendant",
+        "Deuxième place au GP Copenhague en mai 2017"
+      ]
+    },
+    "note": "Rep = GP Copenhagen finalist (default was a Japanese local final)."
+  },
+  {
+    "name": "Jeskai Midrange",
+    "slug": "jeskai-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "UWx Midrange",
+      "UWr Midrange",
+      "Jeskai Geist"
+    ],
+    "exclude": [
+      295991
+    ],
+    "cover": "Spell Queller",
+    "keyCards": [
+      "Spell Queller",
+      "Geist of Saint Traft",
+      "Snapcaster Mage",
+      "Lightning Helix",
+      "Cryptic Command"
+    ],
+    "summary": {
+      "en": "Blue-white-red flash midrange: Spell Queller, Snapcaster Mage and Geist of Saint Traft on top of Lightning Bolt, Lightning Helix, Path to Exile and Cryptic Command.",
+      "fr": "Midrange flash bleu-blanc-rouge : Spell Queller, Snapcaster Mage et Geist of Saint Traft, avec Lightning Bolt, Lightning Helix, Path to Exile et Cryptic Command."
+    },
+    "why": {
+      "en": [
+        "Spell Queller exiled a spell and left a flying body",
+        "Celestial Colonnade closed games once the opponent ran out of threats",
+        "Took first and second place at SCG Open Louisville in September 2017"
+      ],
+      "fr": [
+        "Spell Queller exilait un sort et laissait un corps volant",
+        "Celestial Colonnade concluait les parties une fois l'adversaire à court de menaces",
+        "Première et deuxième places au SCG Open de Louisville en septembre 2017"
+      ]
+    },
+    "note": "mtgtop8 'UWx Midrange' / 'UWr Midrange' / 'Jeskai Geist' = Spell Queller Jeskai. One Esper list filed as UWx Midrange excluded."
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "Uw Control"
+    ],
+    "rep": 301674,
+    "cover": "Supreme Verdict",
+    "keyCards": [
+      "Supreme Verdict",
+      "Cryptic Command",
+      "Spreading Seas",
+      "Gideon Jura",
+      "Sphinx's Revelation"
+    ],
+    "summary": {
+      "en": "Azorius draw-go: counterspells, Path to Exile and Supreme Verdict, then planeswalkers and Celestial Colonnade to win. Some lists added red for Lightning Helix.",
+      "fr": "Contrôle Azorius : contresorts, Path to Exile et Supreme Verdict, puis planeswalkers et Celestial Colonnade pour gagner. Certaines listes ajoutent du rouge pour Lightning Helix."
+    },
+    "why": {
+      "en": [
+        "Spreading Seas replaced itself while disrupting Tron and Valakut mana",
+        "Supreme Verdict could not be countered and swept creature decks",
+        "Sphinx's Revelation and planeswalkers gave late-game card advantage"
+      ],
+      "fr": [
+        "Spreading Seas se remplaçait tout en gênant le mana de Tron et de Valakut",
+        "Supreme Verdict ne pouvait pas être contré et balayait les decks de créatures",
+        "Sphinx's Revelation et les planeswalkers donnaient l'avantage de cartes en fin de partie"
+      ]
+    },
+    "note": "Rep = a straight UW list (default SCG Classic winner was a Jeskai-splash build)."
+  },
+  {
+    "name": "Humans",
+    "slug": "humans",
+    "archetype": "aggro",
+    "titles": [
+      "Humans"
+    ],
+    "cover": "Champion of the Parish",
+    "keyCards": [
+      "Champion of the Parish",
+      "Thalia's Lieutenant",
+      "Meddling Mage",
+      "Mantis Rider",
+      "Aether Vial"
+    ],
+    "summary": {
+      "en": "Five-colour Human aggro made possible by Ixalan's Unclaimed Territory, Cavern of Souls and Ancient Ziggurat, with disruptive creatures such as Meddling Mage, Kitesail Freebooter and Thalia.",
+      "fr": "Aggro Humains cinq couleurs rendu possible par Unclaimed Territory (Ixalan), Cavern of Souls et Ancient Ziggurat, avec des créatures perturbatrices comme Meddling Mage, Kitesail Freebooter et Thalia."
+    },
+    "why": {
+      "en": [
+        "Collins Mullen won SCG Open Cincinnati in October 2017, weeks after Ixalan's release",
+        "Aether Vial put creatures into play at instant speed, past counterspells",
+        "Disruption came on creatures, so every card added pressure"
+      ],
+      "fr": [
+        "Collins Mullen gagne le SCG Open de Cincinnati en octobre 2017, quelques semaines après Ixalan",
+        "Aether Vial mettait les créatures en jeu à vitesse instantanée, hors de portée des contresorts",
+        "La perturbation était portée par des créatures, donc chaque carte ajoutait de la pression"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk",
+      "Ug Merfolk"
+    ],
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Master of the Pearl Trident",
+      "Aether Vial",
+      "Spreading Seas",
+      "Master of Waves"
+    ],
+    "summary": {
+      "en": "Blue tribal aggro: lords that pump the team and grant islandwalk, Aether Vial for tempo and Spreading Seas to turn opposing lands into Islands.",
+      "fr": "Aggro tribal bleu : des seigneurs qui renforcent l'équipe et donnent la traversée des îles, Aether Vial pour le tempo et Spreading Seas pour changer les terrains adverses en Islands."
+    },
+    "why": {
+      "en": [
+        "Jonathon Zaczek finished second at GP Vancouver in February 2017",
+        "Islandwalk plus Spreading Seas made attacks unblockable",
+        "Some late-2017 lists went blue-green with Ixalan's Kumena's Speaker"
+      ],
+      "fr": [
+        "Jonathon Zaczek termine deuxième du GP Vancouver en février 2017",
+        "Traversée des îles et Spreading Seas rendaient les attaques imblocables",
+        "Fin 2017, certaines listes passent bleu-vert avec Kumena's Speaker (Ixalan)"
+      ]
+    },
+    "note": "Merfolk + Ug Merfolk merged."
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Hatebear",
+      "Bw Eldrazi Taxes",
+      "Eldrazi Orzhov Hatebear",
+      "Vialess Taxes"
+    ],
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Leonin Arbiter",
+      "Aether Vial",
+      "Flickerwisp",
+      "Restoration Angel"
+    ],
+    "summary": {
+      "en": "White hatebear aggro: Thalia, Leonin Arbiter and Ghost Quarter tax spells and mana while Aether Vial and Flickerwisp keep the tempo. Some builds added Eldrazi and black.",
+      "fr": "Aggro hatebears blanc : Thalia, Leonin Arbiter et Ghost Quarter taxent sorts et mana, tandis qu'Aether Vial et Flickerwisp gardent le tempo. Certaines versions ajoutent Eldrazi et noir."
+    },
+    "why": {
+      "en": [
+        "Brian Coval won the SCG Invitational in Roanoke in June 2017",
+        "Leonin Arbiter with Ghost Quarter or Tectonic Edge cut opponents off basic lands",
+        "Theau Mery finished second at GP Las Vegas in June 2017"
+      ],
+      "fr": [
+        "Brian Coval gagne l'Invitational SCG de Roanoke en juin 2017",
+        "Leonin Arbiter avec Ghost Quarter ou Tectonic Edge privait l'adversaire de ses terrains de base",
+        "Theau Mery termine deuxième du GP Las Vegas en juin 2017"
+      ]
+    },
+    "note": "mtgtop8 'Hatebear' plus the Eldrazi & Taxes titles (BW Eldrazi Taxes, Vialess Taxes)."
+  },
+  {
+    "name": "Abzan Company",
+    "slug": "abzan-company",
+    "archetype": "combo",
+    "titles": [
+      "Creatures Toolbox",
+      "Creature Toolbox",
+      "Abzan Company",
+      "Counters Company",
+      "Podless Collected",
+      "Collected Company"
+    ],
+    "rep": 302197,
+    "cover": "Collected Company",
+    "keyCards": [
+      "Collected Company",
+      "Chord of Calling",
+      "Devoted Druid",
+      "Vizier of Remedies",
+      "Walking Ballista"
+    ],
+    "summary": {
+      "en": "Green creature toolbox that finds its combos with Chord of Calling and Collected Company. In 2017 Devoted Druid and Amonkhet's Vizier of Remedies made infinite mana for Walking Ballista.",
+      "fr": "Toolbox de créatures vertes qui trouve ses combos avec Chord of Calling et Collected Company. En 2017, Devoted Druid et Vizier of Remedies (Amonkhet) produisent un mana infini pour Walking Ballista."
+    },
+    "why": {
+      "en": [
+        "Vizier of Remedies stopped Devoted Druid's -1/-1 counters, allowing unlimited untaps",
+        "The same shell played a fair game with Kitchen Finks and Eternal Witness",
+        "Reached the top 4 of GP Birmingham in August 2017"
+      ],
+      "fr": [
+        "Vizier of Remedies empêchait les marqueurs -1/-1 de Devoted Druid, d'où des dégagements illimités",
+        "Le même squelette jouait aussi une partie classique avec Kitchen Finks et Eternal Witness",
+        "Top 4 au GP Birmingham en août 2017"
+      ]
+    },
+    "note": "'Creatures Toolbox', 'Counters Company', 'Abzan Company' and related CoCo/Chord titles. Rep = GP Birmingham top 4."
+  },
+  {
+    "name": "Bant Eldrazi",
+    "slug": "bant-eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Bant Eldrazi",
+      "Eldrazi Bant"
+    ],
+    "include": [
+      299629,
+      300200,
+      291915,
+      291918
+    ],
+    "cover": "Eldrazi Displacer",
+    "keyCards": [
+      "Eldrazi Displacer",
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Noble Hierarch",
+      "Drowner of Hope"
+    ],
+    "summary": {
+      "en": "Eldrazi Temple and Noble Hierarch ramp into Thought-Knot Seer and Reality Smasher, with Eldrazi Displacer flickering Drowner of Hope and blockers in green-white-blue.",
+      "fr": "Eldrazi Temple et Noble Hierarch accélèrent vers Thought-Knot Seer et Reality Smasher, et Eldrazi Displacer fait clignoter Drowner of Hope et les bloqueurs, en vert-blanc-bleu."
+    },
+    "why": {
+      "en": [
+        "Eldrazi Displacer with Drowner of Hope's scions tapped down blockers each turn",
+        "Cavern of Souls protected the threats from counterspells",
+        "Ancient Stirrings dug for Eldrazi Temple and colourless threats"
+      ],
+      "fr": [
+        "Eldrazi Displacer et les rejetons de Drowner of Hope engageaient des bloqueurs chaque tour",
+        "Cavern of Souls protégeait les menaces des contresorts",
+        "Ancient Stirrings cherchait Eldrazi Temple et des menaces incolores"
+      ]
+    },
+    "note": "Eldrazi Aggro lists with Noble Hierarch moved here (include)."
+  },
+  {
+    "name": "BW Eldrazi",
+    "slug": "bw-eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro",
+      "Bw Eldrazi"
+    ],
+    "cover": "Tidehollow Sculler",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Tidehollow Sculler",
+      "Lingering Souls",
+      "Wasteland Strangler",
+      "Reality Smasher"
+    ],
+    "summary": {
+      "en": "Black-white Eldrazi: Eldrazi Temple casts Thought-Knot Seer and Reality Smasher early, while Tidehollow Sculler, discard and Lingering Souls add disruption and bodies.",
+      "fr": "Eldrazi noir-blanc : Eldrazi Temple lance tôt Thought-Knot Seer et Reality Smasher, tandis que Tidehollow Sculler, la défausse et Lingering Souls ajoutent perturbation et corps."
+    },
+    "why": {
+      "en": [
+        "Joe Soh won GP Kobe in May 2017",
+        "Thought-Knot Seer and Tidehollow Sculler stacked hand disruption",
+        "Wasteland Strangler used exiled cards to kill small creatures"
+      ],
+      "fr": [
+        "Joe Soh gagne le GP Kobe en mai 2017",
+        "Thought-Knot Seer et Tidehollow Sculler accumulaient la perturbation de main",
+        "Wasteland Strangler utilisait les cartes exilées pour tuer les petites créatures"
+      ]
+    },
+    "note": "Included on the GP Kobe win; few other results."
+  },
+  {
+    "name": "Bant Knightfall",
+    "slug": "bant-knightfall",
+    "archetype": "combo",
+    "titles": [
+      "Collected Bant",
+      "Bant Company",
+      "Coralhelm Human"
+    ],
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Retreat to Coralhelm",
+      "Collected Company",
+      "Spell Queller",
+      "Noble Hierarch"
+    ],
+    "summary": {
+      "en": "Green-white-blue creature deck around Knight of the Reliquary and Retreat to Coralhelm, which untaps Knight on each landfall and makes it far larger in one turn.",
+      "fr": "Deck de créatures vert-blanc-bleu autour de Knight of the Reliquary et Retreat to Coralhelm, qui dégage le Knight à chaque arrivée de terrain et le fait grossir en un seul tour."
+    },
+    "why": {
+      "en": [
+        "João Lelis won GP São Paulo in August 2017",
+        "Collected Company and Spell Queller gave instant-speed plays",
+        "Sejiri Steppe gave the oversized Knight protection from a colour"
+      ],
+      "fr": [
+        "João Lelis gagne le GP São Paulo en août 2017",
+        "Collected Company et Spell Queller offraient des actions à vitesse instantanée",
+        "Sejiri Steppe donnait au Knight géant une protection contre une couleur"
+      ]
+    },
+    "note": "'Collected Bant', 'Bant Company', 'Coralhelm Human'. Included on the GP São Paulo win."
+  }
+]

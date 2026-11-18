@@ -1,0 +1,1209 @@
+[
+  {
+    "name": "Humans",
+    "slug": "humans",
+    "archetype": "aggro",
+    "titles": [
+      "Humans"
+    ],
+    "cover": "Champion of the Parish",
+    "keyCards": [
+      "Champion of the Parish",
+      "Thalia's Lieutenant",
+      "Meddling Mage",
+      "Reflector Mage",
+      "Aether Vial"
+    ],
+    "summary": {
+      "en": "The five-colour Human deck of late 2017 stayed a fixture of 2018 with the same core: Unclaimed Territory and Cavern of Souls mana, Aether Vial and disruptive Humans.",
+      "fr": "Le deck Humains cinq couleurs de fin 2017 reste un pilier en 2018 avec le même cœur : mana Unclaimed Territory et Cavern of Souls, Aether Vial et Humains perturbateurs."
+    },
+    "why": {
+      "en": [
+        "Steve Locke won GP Phoenix in March 2018",
+        "Meddling Mage and Kitesail Freebooter named or took the opponent's key spell",
+        "Thalia and Reflector Mage slowed combo and midrange decks alike"
+      ],
+      "fr": [
+        "Steve Locke gagne le GP Phoenix en mars 2018",
+        "Meddling Mage et Kitesail Freebooter nommaient ou prenaient le sort clé adverse",
+        "Thalia et Reflector Mage ralentissaient autant le combo que le midrange"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "Uw Control",
+      "UW",
+      "U/w Control",
+      "Azorius Control"
+    ],
+    "rep": 330614,
+    "cover": "Jace, the Mind Sculptor",
+    "keyCards": [
+      "Jace, the Mind Sculptor",
+      "Teferi, Hero of Dominaria",
+      "Terminus",
+      "Cryptic Command",
+      "Search for Azcanta"
+    ],
+    "summary": {
+      "en": "Azorius control rebuilt in 2018 around Jace, the Mind Sculptor, unbanned in February, and Teferi, Hero of Dominaria, with Terminus and Settle the Wreckage as sweepers.",
+      "fr": "Contrôle Azorius reconstruit en 2018 autour de Jace, the Mind Sculptor, autorisé de nouveau en février, et de Teferi, Hero of Dominaria, avec Terminus et Settle the Wreckage pour balayer."
+    },
+    "why": {
+      "en": [
+        "Teferi drew, untapped two lands and tucked permanents back into the library",
+        "Search for Azcanta and Ancestral Vision supplied card advantage",
+        "Finished second at GP Stockholm in September 2018"
+      ],
+      "fr": [
+        "Teferi piochait, dégageait deux terrains et renvoyait des permanents dans la bibliothèque",
+        "Search for Azcanta et Ancestral Vision fournissaient l'avantage de cartes",
+        "Deuxième place au GP Stockholm en septembre 2018"
+      ]
+    },
+    "note": "UW Control title variants merged; lists with Lightning Helix moved to Jeskai Control. Rep = GP Stockholm finalist."
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": [
+      "Jeskai Control",
+      "Jeskai",
+      "UWR Control",
+      "Uwr Control",
+      "Jeskai Miracles"
+    ],
+    "include": [
+      312887,
+      313461
+    ],
+    "rep": 325049,
+    "cover": "Teferi, Hero of Dominaria",
+    "keyCards": [
+      "Teferi, Hero of Dominaria",
+      "Lightning Helix",
+      "Snapcaster Mage",
+      "Cryptic Command",
+      "Search for Azcanta"
+    ],
+    "summary": {
+      "en": "Blue-white-red control: Lightning Bolt and Lightning Helix against aggro, counterspells and Snapcaster Mage, then Teferi, Hero of Dominaria and Celestial Colonnade to finish.",
+      "fr": "Contrôle bleu-blanc-rouge : Lightning Bolt et Lightning Helix contre l'aggro, contresorts et Snapcaster Mage, puis Teferi, Hero of Dominaria et Celestial Colonnade pour conclure."
+    },
+    "why": {
+      "en": [
+        "Lightning Helix gained life against Burn and Humans while removing creatures",
+        "Electrolyze killed two small creatures and drew a card",
+        "Finished third at GP Barcelona in July 2018"
+      ],
+      "fr": [
+        "Lightning Helix faisait gagner des points de vie contre Burn et Humains tout en tuant",
+        "Electrolyze tuait deux petites créatures et piochait une carte",
+        "Troisième place au GP Barcelone en juillet 2018"
+      ]
+    },
+    "note": "Jeskai / UWR Control / Jeskai Miracles titles, plus UW-titled lists with Lightning Helix (include). Rep = GP Barcelona."
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn",
+      "Red Deck Wins"
+    ],
+    "rep": 314590,
+    "cover": "Eidolon of the Great Revel",
+    "keyCards": [
+      "Goblin Guide",
+      "Monastery Swiftspear",
+      "Eidolon of the Great Revel",
+      "Lightning Helix",
+      "Boros Charm"
+    ],
+    "summary": {
+      "en": "Red-white burn: one-mana creatures and burn spells aimed at the opponent, with Eidolon of the Great Revel punishing both players for casting cheap spells.",
+      "fr": "Burn rouge-blanc : créatures à un mana et sorts de dégâts dirigés vers l'adversaire, avec Eidolon of the Great Revel qui punit les deux joueurs pour chaque sort bon marché."
+    },
+    "why": {
+      "en": [
+        "Jon Stern finished second at GP Toronto in February 2018",
+        "Boros Charm and Skullcrack got around lifegain and protection",
+        "Inspiring Vantage smoothed the mana of the two-colour builds"
+      ],
+      "fr": [
+        "Jon Stern termine deuxième du GP Toronto en février 2018",
+        "Boros Charm et Skullcrack contournaient gain de vie et protection",
+        "Inspiring Vantage fluidifiait le mana des versions bicolores"
+      ]
+    },
+    "note": "Burn + Burn-shaped 'Red Deck Wins'. Rep = GP Toronto finalist."
+  },
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "ramp",
+    "titles": [
+      "UrzaTron",
+      "Urzatron",
+      "Mono G Tron",
+      "Mono-green Tron",
+      "Bg Tron",
+      "Gr Tron",
+      "G Tron"
+    ],
+    "rep": 330581,
+    "cover": "Karn Liberated",
+    "keyCards": [
+      "Karn Liberated",
+      "Wurmcoil Engine",
+      "Walking Ballista",
+      "Ancient Stirrings",
+      "Ulamog, the Ceaseless Hunger"
+    ],
+    "summary": {
+      "en": "Mono-green Tron: Ancient Stirrings, Expedition Map and Sylvan Scrying assemble the Urza lands for Karn Liberated, Wurmcoil Engine and Ulamog.",
+      "fr": "Tron mono-vert : Ancient Stirrings, Expedition Map et Sylvan Scrying réunissent les terrains d'Urza pour Karn Liberated, Wurmcoil Engine et Ulamog."
+    },
+    "why": {
+      "en": [
+        "Xu Fei won GP Hong Kong in September 2018",
+        "Walking Ballista gave the deck an early play and a late mana sink",
+        "Oblivion Stone and Ugin answered wide boards such as Humans and Spirits"
+      ],
+      "fr": [
+        "Xu Fei gagne le GP Hong Kong en septembre 2018",
+        "Walking Ballista donnait au deck un jeu précoce et un puits à mana en fin de partie",
+        "Oblivion Stone et Ugin répondaient aux tables larges comme Humains et Spirits"
+      ]
+    },
+    "note": "All Gx Tron titles merged. Rep = GP Hong Kong winner."
+  },
+  {
+    "name": "Eldrazi Tron",
+    "slug": "eldrazi-tron",
+    "archetype": "ramp",
+    "titles": [
+      "Eldrazi Tron",
+      "Eldra Tron",
+      "EldraTron"
+    ],
+    "cover": "Reality Smasher",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Chalice of the Void",
+      "Walking Ballista",
+      "Karn Liberated"
+    ],
+    "summary": {
+      "en": "Colorless Eldrazi ramp on the Urza lands and Eldrazi Temple, with Chalice of the Void and Thought-Knot Seer as disruption and Reality Smasher as the clock.",
+      "fr": "Rampe Eldrazi incolore sur les terrains d'Urza et Eldrazi Temple, avec Chalice of the Void et Thought-Knot Seer comme perturbation et Reality Smasher pour frapper."
+    },
+    "why": {
+      "en": [
+        "Chalice of the Void on one stopped the cheap spells of Burn, Storm and Death's Shadow",
+        "Expedition Map found Tron pieces or Eldrazi Temple",
+        "Finished second at SCG Open Indianapolis in February 2018"
+      ],
+      "fr": [
+        "Chalice of the Void sur un bloquait les sorts bon marché de Burn, Storm et Death's Shadow",
+        "Expedition Map trouvait les pièces de Tron ou Eldrazi Temple",
+        "Deuxième place au SCG Open d'Indianapolis en février 2018"
+      ]
+    },
+    "note": "Eldrazi Aggro lists with Urza lands moved here; Colorless Eldrazi stompy lists (no Tron) left out."
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity",
+      "Affinty"
+    ],
+    "cover": "Cranial Plating",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Cranial Plating",
+      "Mox Opal",
+      "Steel Overseer",
+      "Etched Champion"
+    ],
+    "summary": {
+      "en": "Artifact aggro: cheap artifact creatures, Mox Opal and Springleaf Drum, then Cranial Plating or Steel Overseer to make the board lethal.",
+      "fr": "Aggro artefacts : créatures-artefacts bon marché, Mox Opal et Springleaf Drum, puis Cranial Plating ou Steel Overseer pour rendre la table létale."
+    },
+    "why": {
+      "en": [
+        "Etched Champion gained protection from all colours with metalcraft",
+        "Arcbound Ravager moved counters away from removal",
+        "Inkmoth Nexus and Blinkmoth Nexus added threats that dodged sweepers"
+      ],
+      "fr": [
+        "Etched Champion gagnait la protection contre toutes les couleurs avec l'affinité métallique",
+        "Arcbound Ravager déplaçait ses marqueurs avant un removal",
+        "Inkmoth Nexus et Blinkmoth Nexus ajoutaient des menaces à l'abri des balais"
+      ]
+    }
+  },
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Jund"
+    ],
+    "cover": "Bloodbraid Elf",
+    "keyCards": [
+      "Bloodbraid Elf",
+      "Tarmogoyf",
+      "Liliana of the Veil",
+      "Dark Confidant",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "en": "Black-red-green midrange regained Bloodbraid Elf when it was unbanned in February 2018, adding cascade card advantage to discard, Lightning Bolt and Tarmogoyf.",
+      "fr": "Le midrange noir-rouge-vert récupère Bloodbraid Elf, autorisé de nouveau en février 2018, qui ajoute l'avantage de la cascade à la défausse, Lightning Bolt et Tarmogoyf."
+    },
+    "why": {
+      "en": [
+        "Bloodbraid Elf cascaded into a free removal spell or threat",
+        "Liliana of the Veil punished decks that kept few cards in hand",
+        "Pierson Laughlin finished second at GP Phoenix in March 2018"
+      ],
+      "fr": [
+        "Bloodbraid Elf cascadait sur un removal ou une menace gratuite",
+        "Liliana of the Veil punissait les decks qui gardaient peu de cartes en main",
+        "Pierson Laughlin termine deuxième du GP Phoenix en mars 2018"
+      ]
+    }
+  },
+  {
+    "name": "Hollow One",
+    "slug": "hollow-one",
+    "archetype": "aggro",
+    "titles": [
+      "Hollow One",
+      "Br Hollow One",
+      "Rakdos Hollow One"
+    ],
+    "cover": "Hollow One",
+    "keyCards": [
+      "Hollow One",
+      "Flamewake Phoenix",
+      "Bloodghast",
+      "Burning Inquiry",
+      "Goblin Lore"
+    ],
+    "summary": {
+      "en": "Red-black discard aggro: Burning Inquiry, Goblin Lore and Faithless Looting make Hollow One free and fill the graveyard with Bloodghast and Flamewake Phoenix.",
+      "fr": "Aggro de défausse rouge-noir : Burning Inquiry, Goblin Lore et Faithless Looting rendent Hollow One gratuit et remplissent le cimetière de Bloodghast et Flamewake Phoenix."
+    },
+    "why": {
+      "en": [
+        "Ken Yukuhiro reached the top 4 of Pro Tour Rivals of Ixalan with it",
+        "Random discard mattered less when the discarded threats came back",
+        "Street Wraith cycled for no mana toward Hollow One's cost reduction"
+      ],
+      "fr": [
+        "Ken Yukuhiro atteint le top 4 du Pro Tour Rivals of Ixalan avec ce deck",
+        "La défausse aléatoire pesait peu quand les menaces défaussées revenaient",
+        "Street Wraith se recyclait sans mana et réduisait le coût de Hollow One"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge",
+      "Creeping Dredge"
+    ],
+    "rep": 325051,
+    "cover": "Prized Amalgam",
+    "keyCards": [
+      "Prized Amalgam",
+      "Narcomoeba",
+      "Stinkweed Imp",
+      "Bloodghast",
+      "Cathartic Reunion"
+    ],
+    "summary": {
+      "en": "Graveyard aggro: Faithless Looting and Cathartic Reunion dredge Stinkweed Imp and Golgari Thug, returning Bloodghast, Narcomoeba and Prized Amalgam for free.",
+      "fr": "Aggro cimetière : Faithless Looting et Cathartic Reunion font meuler Stinkweed Imp et Golgari Thug, et Bloodghast, Narcomoeba et Prized Amalgam reviennent gratuitement."
+    },
+    "why": {
+      "en": [
+        "Matti Kuisma won GP Barcelona in July 2018",
+        "Conflagrate cast from the graveyard killed creatures or finished games",
+        "Creeping Chill from Guilds of Ravnica added reach late in the year"
+      ],
+      "fr": [
+        "Matti Kuisma gagne le GP Barcelone en juillet 2018",
+        "Conflagrate lancé depuis le cimetière tuait des créatures ou concluait",
+        "Creeping Chill, issu de Guilds of Ravnica, ajoute de la portée en fin d'année"
+      ]
+    },
+    "note": "Bridge from Below/Vengevine lists filed as Dredge moved to Bridgevine. Rep = GP Barcelona winner (individual GP rather than team)."
+  },
+  {
+    "name": "Bridgevine",
+    "slug": "bridgevine",
+    "archetype": "aggro",
+    "titles": [
+      "Bridgevine",
+      "Dredgevine",
+      "BR Vengevine"
+    ],
+    "include": [
+      334207,
+      328770,
+      337580,
+      330063,
+      329081,
+      328964,
+      327927,
+      334198
+    ],
+    "cover": "Vengevine",
+    "keyCards": [
+      "Vengevine",
+      "Bridge from Below",
+      "Stitcher's Supplier",
+      "Gravecrawler",
+      "Goblin Bushwhacker"
+    ],
+    "summary": {
+      "en": "Black-red graveyard aggro on recursive creatures: Vengevine, Bloodghast and Gravecrawler come back from the graveyard, Bridge from Below makes Zombies as they die.",
+      "fr": "Aggro cimetière noir-rouge sur des créatures récurrentes : Vengevine, Bloodghast et Gravecrawler reviennent du cimetière, Bridge from Below crée des Zombies quand elles meurent."
+    },
+    "why": {
+      "en": [
+        "Stitcher's Supplier from Core Set 2019 milled cards and fed Viscera Seer",
+        "Cheap creatures such as Goblin Bushwhacker returned Vengevine from the graveyard",
+        "Finished second at GP Hong Kong in September 2018"
+      ],
+      "fr": [
+        "Stitcher's Supplier (Core Set 2019) meulait des cartes et nourrissait Viscera Seer",
+        "Des créatures bon marché comme Goblin Bushwhacker ramenaient Vengevine du cimetière",
+        "Deuxième place au GP Hong Kong en septembre 2018"
+      ]
+    },
+    "note": "Bridgevine / Dredgevine / BR Vengevine + Dredge-titled lists with Bridge from Below and Vengevine (include)."
+  },
+  {
+    "name": "Grixis Death's Shadow",
+    "slug": "grixis-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow",
+      "Grixis Death's Shadow",
+      "Grixis Shadow"
+    ],
+    "exclude": [
+      333128,
+      312233,
+      324186,
+      325940,
+      318370
+    ],
+    "rep": 336696,
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Street Wraith",
+      "Snapcaster Mage",
+      "Gurmag Angler",
+      "Stubborn Denial"
+    ],
+    "summary": {
+      "en": "Grixis Death's Shadow kept its 2017 core through 2018: Thoughtseize, Street Wraith, Snapcaster Mage and Gurmag Angler around Death's Shadow.",
+      "fr": "Grixis Death's Shadow garde en 2018 son cœur de 2017 : Thoughtseize, Street Wraith, Snapcaster Mage et Gurmag Angler autour de Death's Shadow."
+    },
+    "why": {
+      "en": [
+        "Tyler Putnam won GP Portland in December 2018",
+        "Stubborn Denial protected Death's Shadow from removal",
+        "Temur Battle Rage turned a single attacker into a lethal hit"
+      ],
+      "fr": [
+        "Tyler Putnam gagne le GP Portland en décembre 2018",
+        "Stubborn Denial protégeait Death's Shadow des removals",
+        "Temur Battle Rage transformait un seul attaquant en coup létal"
+      ]
+    },
+    "note": "Tarmogoyf/Traverse Shadow lists excluded (too few for an entry). Rep = GP Portland winner."
+  },
+  {
+    "name": "Hardened Scales",
+    "slug": "hardened-scales",
+    "archetype": "aggro",
+    "titles": [
+      "Hardened Modular",
+      "Hardened Scales"
+    ],
+    "cover": "Hardened Scales",
+    "keyCards": [
+      "Hardened Scales",
+      "Arcbound Ravager",
+      "Walking Ballista",
+      "Hangarback Walker",
+      "Steel Overseer"
+    ],
+    "summary": {
+      "en": "Green artifact deck pairing Hardened Scales with modular creatures: Arcbound Ravager, Walking Ballista, Hangarback Walker and Steel Overseer grow and move +1/+1 counters.",
+      "fr": "Deck d'artefacts vert qui associe Hardened Scales aux créatures modulaires : Arcbound Ravager, Walking Ballista, Hangarback Walker et Steel Overseer accumulent et déplacent les marqueurs +1/+1."
+    },
+    "why": {
+      "en": [
+        "Lauri Pispa won GP Prague in August 2018",
+        "Ancient Stirrings found the pieces and Mox Opal sped up the start",
+        "Ravager and Ballista moved or fired counters when removal arrived"
+      ],
+      "fr": [
+        "Lauri Pispa gagne le GP Prague en août 2018",
+        "Ancient Stirrings trouvait les pièces et Mox Opal accélérait le départ",
+        "Ravager et Ballista déplaçaient ou tiraient les marqueurs face aux removals"
+      ]
+    },
+    "note": "mtgtop8 'Hardened Modular' + 'Hardened Scales'."
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "UR Storm",
+      "Storm",
+      "Ur Storm"
+    ],
+    "cover": "Gifts Ungiven",
+    "keyCards": [
+      "Baral, Chief of Compliance",
+      "Gifts Ungiven",
+      "Past in Flames",
+      "Grapeshot",
+      "Goblin Electromancer"
+    ],
+    "summary": {
+      "en": "Blue-red storm: Baral and Goblin Electromancer reduce costs, rituals and cantrips build the count, Gifts Ungiven and Past in Flames lead to a lethal Grapeshot.",
+      "fr": "Storm bleu-rouge : Baral et Goblin Electromancer réduisent les coûts, rituels et cantrips montent le compte, Gifts Ungiven et Past in Flames mènent à un Grapeshot létal."
+    },
+    "why": {
+      "en": [
+        "Remand bought time while setting up the combo turn",
+        "Manamorphose and Desperate Ritual added to the storm count at no card cost"
+      ],
+      "fr": [
+        "Remand faisait gagner du temps en préparant le tour du combo",
+        "Manamorphose et Desperate Ritual augmentaient le compte de storm sans coûter de carte"
+      ]
+    },
+    "note": "UR Storm / Storm / Ur Storm merged."
+  },
+  {
+    "name": "KCI",
+    "slug": "kci",
+    "archetype": "combo",
+    "titles": [
+      "KCI",
+      "Kci",
+      "Ironworks",
+      "Ironworks Combo",
+      "Krark-clan Ironworks"
+    ],
+    "cover": "Krark-Clan Ironworks",
+    "keyCards": [
+      "Krark-Clan Ironworks",
+      "Scrap Trawler",
+      "Myr Retriever",
+      "Ichor Wellspring",
+      "Mox Opal"
+    ],
+    "summary": {
+      "en": "Artifact combo around Krark-Clan Ironworks: cheap artifacts are sacrificed for mana while Scrap Trawler and Myr Retriever loop them back, until Pyrite Spellbomb or a wide board wins.",
+      "fr": "Combo d'artefacts autour de Krark-Clan Ironworks : des artefacts bon marché sont sacrifiés pour du mana et Scrap Trawler et Myr Retriever les font revenir, jusqu'à Pyrite Spellbomb ou une large table."
+    },
+    "why": {
+      "en": [
+        "Matt Nass won GP Hartford in April and GP Las Vegas in June 2018",
+        "Ancient Stirrings and Mox Opal found and accelerated the engine",
+        "Krark-Clan Ironworks was banned in January 2019"
+      ],
+      "fr": [
+        "Matt Nass gagne le GP Hartford en avril et le GP Las Vegas en juin 2018",
+        "Ancient Stirrings et Mox Opal trouvaient et accéléraient le moteur",
+        "Krark-Clan Ironworks est interdit en janvier 2019"
+      ]
+    },
+    "note": "KCI / Ironworks / Krark-Clan Ironworks titles merged."
+  },
+  {
+    "name": "Mardu Pyromancer",
+    "slug": "mardu-pyromancer",
+    "archetype": "midrange",
+    "titles": [
+      "Mardu Pyromancer",
+      "Mardu Midrange"
+    ],
+    "rep": 313974,
+    "cover": "Young Pyromancer",
+    "keyCards": [
+      "Young Pyromancer",
+      "Bedlam Reveler",
+      "Lingering Souls",
+      "Faithless Looting",
+      "Blood Moon"
+    ],
+    "summary": {
+      "en": "Mardu discard and token midrange: Thoughtseize, Inquisition and removal fuel Young Pyromancer and Bedlam Reveler, while Faithless Looting sets up Lingering Souls flashbacks.",
+      "fr": "Midrange Mardu de défausse et de jetons : Thoughtseize, Inquisition et removals alimentent Young Pyromancer et Bedlam Reveler, et Faithless Looting prépare le flashback de Lingering Souls."
+    },
+    "why": {
+      "en": [
+        "Gerry Thompson finished second at Pro Tour Rivals of Ixalan in February 2018",
+        "Jose Echeverria won GP São Paulo in July 2018",
+        "Blood Moon in the main deck punished greedy mana bases"
+      ],
+      "fr": [
+        "Gerry Thompson termine deuxième du Pro Tour Rivals of Ixalan en février 2018",
+        "Jose Echeverria gagne le GP São Paulo en juillet 2018",
+        "Blood Moon dans le deck principal punissait les bases de mana gourmandes"
+      ]
+    },
+    "note": "'Mardu Midrange' lists are the same deck. Rep = PT Rivals of Ixalan finalist."
+  },
+  {
+    "name": "Bant Spirits",
+    "slug": "bant-spirits",
+    "archetype": "tempo",
+    "titles": [
+      "Bant Spirit",
+      "Bant Spirits",
+      "Spirit Aggro",
+      "Bant"
+    ],
+    "cover": "Spell Queller",
+    "keyCards": [
+      "Spell Queller",
+      "Drogskol Captain",
+      "Mausoleum Wanderer",
+      "Supreme Phantom",
+      "Collected Company"
+    ],
+    "summary": {
+      "en": "Green-white-blue flash tribal: Spirit lords, Spell Queller and Collected Company, often with Aether Vial and Noble Hierarch, attacking in the air.",
+      "fr": "Tribal flash vert-blanc-bleu : seigneurs Esprits, Spell Queller et Collected Company, souvent avec Aether Vial et Noble Hierarch, qui attaquent par les airs."
+    },
+    "why": {
+      "en": [
+        "Won GP Stockholm in September and GP Atlanta in November 2018",
+        "Supreme Phantom from Core Set 2019 added a second lord to Drogskol Captain",
+        "Mausoleum Wanderer and Selfless Spirit protected the team from spells and sweepers"
+      ],
+      "fr": [
+        "Victoires au GP Stockholm en septembre et au GP Atlanta en novembre 2018",
+        "Supreme Phantom (Core Set 2019) ajoutait un second seigneur à Drogskol Captain",
+        "Mausoleum Wanderer et Selfless Spirit protégeaient l'équipe des sorts et des balais"
+      ]
+    },
+    "note": "Bant Spirit(s) / Spirit Aggro / 'Bant' (all Spirits lists) merged."
+  },
+  {
+    "name": "Infect",
+    "slug": "infect",
+    "archetype": "aggro",
+    "titles": [
+      "Infect"
+    ],
+    "cover": "Blighted Agent",
+    "keyCards": [
+      "Glistener Elf",
+      "Blighted Agent",
+      "Inkmoth Nexus",
+      "Become Immense",
+      "Vines of Vastwood"
+    ],
+    "summary": {
+      "en": "Green-blue Infect: Glistener Elf, Blighted Agent and Inkmoth Nexus kill with poison counters, pushed through by pump spells such as Become Immense and Might of Old Krosa.",
+      "fr": "Infect vert-bleu : Glistener Elf, Blighted Agent et Inkmoth Nexus tuent par marqueurs poison, poussés par des sorts de renfort comme Become Immense et Might of Old Krosa."
+    },
+    "why": {
+      "en": [
+        "Vines of Vastwood and Blossoming Defense both protected and pumped the attacker",
+        "Inkmoth Nexus dodged sorcery-speed removal",
+        "Kazu Negri reached the top 4 of GP Atlanta in November 2018"
+      ],
+      "fr": [
+        "Vines of Vastwood et Blossoming Defense protégeaient et renforçaient l'attaquant",
+        "Inkmoth Nexus esquivait les removals à vitesse de rituel",
+        "Kazu Negri atteint le top 4 du GP Atlanta en novembre 2018"
+      ]
+    }
+  },
+  {
+    "name": "Amulet Titan",
+    "slug": "amulet-titan",
+    "archetype": "ramp",
+    "titles": [
+      "Bloomless Titan",
+      "Amulet Titan"
+    ],
+    "rep": 319625,
+    "cover": "Amulet of Vigor",
+    "keyCards": [
+      "Amulet of Vigor",
+      "Primeval Titan",
+      "Azusa, Lost but Seeking",
+      "Summoner's Pact",
+      "Sakura-Tribe Scout"
+    ],
+    "summary": {
+      "en": "Green ramp around Amulet of Vigor, which untaps bounce lands as they enter; Azusa and Sakura-Tribe Scout put extra lands into play to cast Primeval Titan early.",
+      "fr": "Rampe verte autour d'Amulet of Vigor, qui dégage les terrains rebond à leur arrivée ; Azusa et Sakura-Tribe Scout mettent des terrains en plus pour lancer tôt Primeval Titan."
+    },
+    "why": {
+      "en": [
+        "Michael Mapson finished second at GP Hartford in April 2018",
+        "Played without Summer Bloom, banned in 2016, hence the 'Bloomless' label",
+        "Tolaria West transmuted for answers and Primeval Titan fetched utility lands"
+      ],
+      "fr": [
+        "Michael Mapson termine deuxième du GP Hartford en avril 2018",
+        "Joué sans Summer Bloom, interdit en 2016, d'où l'étiquette « Bloomless »",
+        "Tolaria West cherchait des réponses et Primeval Titan des terrains utilitaires"
+      ]
+    },
+    "note": "'Bloomless Titan' + 'Amulet Titan'. Rep = GP Hartford finalist."
+  },
+  {
+    "name": "Titanshift",
+    "slug": "titanshift",
+    "archetype": "ramp",
+    "titles": [
+      "Valakut",
+      "Titanshift",
+      "Rg Titan Shift"
+    ],
+    "rep": 317134,
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Scapeshift",
+      "Valakut, the Molten Pinnacle",
+      "Primeval Titan",
+      "Sakura-Tribe Elder",
+      "Search for Tomorrow"
+    ],
+    "summary": {
+      "en": "Red-green ramp that reaches seven lands and uses Scapeshift or Primeval Titan to fetch Valakut, the Molten Pinnacle and Mountains for lethal triggers.",
+      "fr": "Rampe rouge-vert qui atteint sept terrains et utilise Scapeshift ou Primeval Titan pour aller chercher Valakut, the Molten Pinnacle et des Mountains aux déclenchements létaux."
+    },
+    "why": {
+      "en": [
+        "Lightning Bolt and Sweltering Suns slowed creature decks",
+        "Summoner's Pact worked as extra copies of Primeval Titan",
+        "Some lists added Bloodbraid Elf after its February 2018 unban"
+      ],
+      "fr": [
+        "Lightning Bolt et Sweltering Suns ralentissaient les decks de créatures",
+        "Summoner's Pact servait de Primeval Titan supplémentaire",
+        "Certaines listes ajoutent Bloodbraid Elf après son retour en février 2018"
+      ]
+    },
+    "note": "'Valakut' + 'Rg Titan Shift'. Rep = GP Madrid (team) Modern seat, 2nd."
+  },
+  {
+    "name": "Scapeshift",
+    "slug": "scapeshift",
+    "archetype": "combo",
+    "titles": [
+      "Scapeshift",
+      "Bring To Scapeshift",
+      "Lightshift",
+      "Light Scapeshift"
+    ],
+    "cover": "Scapeshift",
+    "keyCards": [
+      "Scapeshift",
+      "Valakut, the Molten Pinnacle",
+      "Remand",
+      "Cryptic Command",
+      "Jace, the Mind Sculptor"
+    ],
+    "summary": {
+      "en": "Blue-green-red Scapeshift: ramp spells plus Remand and Cryptic Command to protect the combo turn; some lists used Bring to Light to find Scapeshift.",
+      "fr": "Scapeshift bleu-vert-rouge : sorts d'accélération plus Remand et Cryptic Command pour protéger le tour du combo ; certaines listes utilisent Bring to Light pour trouver Scapeshift."
+    },
+    "why": {
+      "en": [
+        "Counterspells covered the combo turn against other combo decks",
+        "Jace, the Mind Sculptor, back in February 2018, gave a second way to win",
+        "A Bring to Light version reached the top 8 of GP Phoenix"
+      ],
+      "fr": [
+        "Les contresorts couvraient le tour du combo face aux autres decks combo",
+        "Jace, the Mind Sculptor, de retour en février 2018, offrait une seconde condition de victoire",
+        "Une version Bring to Light atteint le top 8 du GP Phoenix"
+      ]
+    },
+    "note": "UGr Scapeshift and Bring to Light Scapeshift titles; RG Titanshift kept separate."
+  },
+  {
+    "name": "Abzan Company",
+    "slug": "abzan-company",
+    "archetype": "combo",
+    "titles": [
+      "Creatures Toolbox",
+      "Counters Company",
+      "Vizier Coco",
+      "Selesnya Company"
+    ],
+    "include": [
+      328775,
+      326445,
+      328774,
+      328969
+    ],
+    "rep": 312247,
+    "cover": "Vizier of Remedies",
+    "keyCards": [
+      "Devoted Druid",
+      "Vizier of Remedies",
+      "Collected Company",
+      "Chord of Calling",
+      "Kitchen Finks"
+    ],
+    "summary": {
+      "en": "Creature toolbox with Collected Company and Chord of Calling, built around the Devoted Druid and Vizier of Remedies infinite-mana combo; green-white builds were common too.",
+      "fr": "Toolbox de créatures avec Collected Company et Chord of Calling, bâtie autour du combo de mana infini Devoted Druid et Vizier of Remedies ; les versions vert-blanc étaient aussi courantes."
+    },
+    "why": {
+      "en": [
+        "Vizier of Remedies also let Kitchen Finks persist forever with Viscera Seer",
+        "Eternal Witness and Duskwatch Recruiter ground out fair games"
+      ],
+      "fr": [
+        "Vizier of Remedies permettait aussi à Kitchen Finks de persister sans fin avec Viscera Seer",
+        "Eternal Witness et Duskwatch Recruiter assuraient les parties d'usure"
+      ]
+    },
+    "note": "Creatures Toolbox / Counters Company / Vizier Coco / Selesnya Company + 'Selesnya Value' lists with Devoted Druid (include). Rep = an Abzan list."
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "aggro",
+    "titles": [
+      "Elves",
+      "Elves!"
+    ],
+    "cover": "Heritage Druid",
+    "keyCards": [
+      "Heritage Druid",
+      "Nettle Sentinel",
+      "Elvish Archdruid",
+      "Ezuri, Renegade Leader",
+      "Collected Company"
+    ],
+    "summary": {
+      "en": "Green elf aggro: Heritage Druid and Nettle Sentinel produce large amounts of mana, spent on Elvish Archdruid and Ezuri's overrun or through Collected Company.",
+      "fr": "Aggro elfes vert : Heritage Druid et Nettle Sentinel produisent beaucoup de mana, dépensé pour Elvish Archdruid et le renfort d'Ezuri ou via Collected Company."
+    },
+    "why": {
+      "en": [
+        "Chord of Calling and Collected Company found Ezuri or Devoted Druid as needed",
+        "Cavern of Souls protected key elves from counterspells",
+        "Reached the top 8 of GP Toronto and GP Hartford"
+      ],
+      "fr": [
+        "Chord of Calling et Collected Company trouvaient Ezuri ou Devoted Druid selon le besoin",
+        "Cavern of Souls protégeait les elfes clés des contresorts",
+        "Top 8 au GP Toronto et au GP Hartford"
+      ]
+    }
+  },
+  {
+    "name": "Ad Nauseam",
+    "slug": "ad-nauseam",
+    "archetype": "combo",
+    "titles": [
+      "Ad Nauseam"
+    ],
+    "cover": "Ad Nauseam",
+    "keyCards": [
+      "Ad Nauseam",
+      "Angel's Grace",
+      "Phyrexian Unlife",
+      "Lotus Bloom",
+      "Pentad Prism"
+    ],
+    "summary": {
+      "en": "Combo that casts Ad Nauseam under Angel's Grace or Phyrexian Unlife to draw most of the deck, then wins with Lightning Storm or Laboratory Maniac.",
+      "fr": "Combo qui lance Ad Nauseam sous Angel's Grace ou Phyrexian Unlife pour piocher l'essentiel du deck, puis gagne avec Lightning Storm ou Laboratory Maniac."
+    },
+    "why": {
+      "en": [
+        "Lotus Bloom and Simian Spirit Guide allowed an early combo turn",
+        "Pact of Negation protected the combo turn at no mana cost"
+      ],
+      "fr": [
+        "Lotus Bloom et Simian Spirit Guide permettaient un tour de combo précoce",
+        "Pact of Negation protégeait le tour du combo sans coût de mana"
+      ]
+    }
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": [
+      "Living End",
+      "As Foretold - Living End"
+    ],
+    "cover": "Living End",
+    "keyCards": [
+      "Living End",
+      "Violent Outburst",
+      "Demonic Dread",
+      "Archfiend of Ifnir",
+      "Street Wraith"
+    ],
+    "summary": {
+      "en": "Cascade combo: with no other spell under three mana, Violent Outburst and Demonic Dread always find Living End, which returns the cycled creatures and wipes the opponent's.",
+      "fr": "Combo cascade : sans autre sort à moins de trois mana, Violent Outburst et Demonic Dread trouvent toujours Living End, qui rend les créatures cyclées et balaie celles de l'adversaire."
+    },
+    "why": {
+      "en": [
+        "Benjamin Lao won SCG Open Syracuse in September 2018",
+        "Amonkhet cyclers Archfiend of Ifnir and Desert Cerodon deepened the creature base"
+      ],
+      "fr": [
+        "Benjamin Lao gagne le SCG Open de Syracuse en septembre 2018",
+        "Les créatures à recyclage d'Amonkhet, Archfiend of Ifnir et Desert Cerodon, étoffaient le deck"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Phoenix",
+    "slug": "izzet-phoenix",
+    "archetype": "tempo",
+    "titles": [
+      "Izzet Phoenix",
+      "UR Phoenix",
+      "UR Spells"
+    ],
+    "rep": 336693,
+    "cover": "Arclight Phoenix",
+    "keyCards": [
+      "Arclight Phoenix",
+      "Thing in the Ice",
+      "Crackling Drake",
+      "Faithless Looting",
+      "Manamorphose"
+    ],
+    "summary": {
+      "en": "Blue-red spells deck born with Guilds of Ravnica: cheap cantrips and free spells return Arclight Phoenix from the graveyard and transform Thing in the Ice.",
+      "fr": "Deck de sorts bleu-rouge né avec Guilds of Ravnica : cantrips bon marché et sorts gratuits ramènent Arclight Phoenix du cimetière et transforment Thing in the Ice."
+    },
+    "why": {
+      "en": [
+        "Faithless Looting discarded Phoenix, and three spells in a turn brought it back",
+        "Manamorphose and Gut Shot added spells at no mana cost",
+        "Richard Tan reached the top 4 of GP Portland in December 2018"
+      ],
+      "fr": [
+        "Faithless Looting défaussait Phoenix, et trois sorts dans le tour le ramenaient",
+        "Manamorphose et Gut Shot ajoutaient des sorts sans coût de mana",
+        "Richard Tan atteint le top 4 du GP Portland en décembre 2018"
+      ]
+    },
+    "note": "Izzet/UR Phoenix titles (late 2018). Mono-red 'Phoenix Deck Wins' left out. Rep = GP Portland top 4."
+  },
+  {
+    "name": "Hexproof",
+    "slug": "hexproof",
+    "archetype": "aggro",
+    "titles": [
+      "Aura Hexproof",
+      "Bogles",
+      "G/w Hexproof"
+    ],
+    "cover": "Slippery Bogle",
+    "keyCards": [
+      "Slippery Bogle",
+      "Gladecover Scout",
+      "Daybreak Coronet",
+      "Ethereal Armor",
+      "Kor Spiritdancer"
+    ],
+    "summary": {
+      "en": "Green-white auras on hexproof creatures, Slippery Bogle and Gladecover Scout, so targeted removal has nothing to hit; Spider Umbra and Rancor add protection or trample.",
+      "fr": "Auras vert-blanc sur des créatures à la défense talismanique, Slippery Bogle et Gladecover Scout, que les removals ciblés ne peuvent viser ; Spider Umbra et Rancor protègent ou donnent le piétinement."
+    },
+    "why": {
+      "en": [
+        "Dan Ward won GP Toronto in February 2018",
+        "Leyline of Sanctity in the main deck blanked discard and burn",
+        "Kor Spiritdancer drew a card for each aura cast"
+      ],
+      "fr": [
+        "Dan Ward gagne le GP Toronto en février 2018",
+        "Leyline of Sanctity dans le deck principal neutralisait défausse et burn",
+        "Kor Spiritdancer piochait une carte pour chaque aura lancée"
+      ]
+    },
+    "note": "Aura Hexproof / Bogles / G/W Hexproof merged."
+  },
+  {
+    "name": "RG Eldrazi",
+    "slug": "rg-eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Rg Eldrazi",
+      "Gr Eldrazi",
+      "Eldrazi Aggro"
+    ],
+    "exclude": [
+      316440,
+      331798,
+      329085,
+      336270
+    ],
+    "cover": "Eldrazi Obligator",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Eldrazi Obligator",
+      "Noble Hierarch",
+      "Ancient Stirrings"
+    ],
+    "summary": {
+      "en": "Red-green Eldrazi aggro: Eldrazi Temple and Noble Hierarch accelerate into Thought-Knot Seer and Reality Smasher, with Lightning Bolt and Eldrazi Obligator for reach.",
+      "fr": "Aggro Eldrazi rouge-vert : Eldrazi Temple et Noble Hierarch accélèrent vers Thought-Knot Seer et Reality Smasher, avec Lightning Bolt et Eldrazi Obligator pour finir."
+    },
+    "why": {
+      "en": [
+        "Grzegorz Kowalski won GP Lyon in February 2018",
+        "Ancient Stirrings dug for Eldrazi Temple and colourless threats",
+        "Eldrazi Obligator could steal a blocker for the turn"
+      ],
+      "fr": [
+        "Grzegorz Kowalski gagne le GP Lyon en février 2018",
+        "Ancient Stirrings cherchait Eldrazi Temple et des menaces incolores",
+        "Eldrazi Obligator pouvait voler un bloqueur pour le tour"
+      ]
+    },
+    "note": "'Eldrazi Aggro' lists with Noble Hierarch kept here; colorless and Tron-based Eldrazi lists excluded."
+  },
+  {
+    "name": "Abzan",
+    "slug": "abzan",
+    "archetype": "midrange",
+    "titles": [
+      "Abzan",
+      "Junk"
+    ],
+    "rep": 314919,
+    "cover": "Lingering Souls",
+    "keyCards": [
+      "Tarmogoyf",
+      "Liliana of the Veil",
+      "Lingering Souls",
+      "Dark Confidant",
+      "Grim Flayer"
+    ],
+    "summary": {
+      "en": "Abzan midrange: discard, Fatal Push and Abrupt Decay, Lingering Souls and Tarmogoyf; several 2018 lists played Dark Confidant next to Grim Flayer.",
+      "fr": "Midrange Abzan : défausse, Fatal Push et Abrupt Decay, Lingering Souls et Tarmogoyf ; plusieurs listes de 2018 jouent Dark Confidant à côté de Grim Flayer."
+    },
+    "why": {
+      "en": [
+        "Márcio Carvalho finished second at GP Lyon in February 2018",
+        "Leonardo Giucci finished second at GP São Paulo in July 2018",
+        "Lingering Souls gave flying blockers and attackers from one card"
+      ],
+      "fr": [
+        "Márcio Carvalho termine deuxième du GP Lyon en février 2018",
+        "Leonardo Giucci termine deuxième du GP São Paulo en juillet 2018",
+        "Lingering Souls fournissait bloqueurs et attaquants volants avec une seule carte"
+      ]
+    },
+    "note": "'Abzan' + 'Junk'. Rep = GP Lyon finalist."
+  },
+  {
+    "name": "Golgari Midrange",
+    "slug": "golgari-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "The Rock",
+      "Golgari Midrange"
+    ],
+    "rep": 336695,
+    "cover": "Tarmogoyf",
+    "keyCards": [
+      "Tarmogoyf",
+      "Liliana of the Veil",
+      "Assassin's Trophy",
+      "Dark Confidant",
+      "Tireless Tracker"
+    ],
+    "summary": {
+      "en": "Black-green Rock: discard, Fatal Push and Assassin's Trophy from Guilds of Ravnica, backed by Tarmogoyf, Scavenging Ooze and Dark Confidant.",
+      "fr": "Rock noir-vert : défausse, Fatal Push et Assassin's Trophy (Guilds of Ravnica), soutenus par Tarmogoyf, Scavenging Ooze et Dark Confidant."
+    },
+    "why": {
+      "en": [
+        "Daniel Geiter finished second at GP Portland in December 2018",
+        "Assassin's Trophy answered any permanent for two mana",
+        "Field of Ruin and Liliana of the Veil pressured opposing lands and hands"
+      ],
+      "fr": [
+        "Daniel Geiter termine deuxième du GP Portland en décembre 2018",
+        "Assassin's Trophy répondait à n'importe quel permanent pour deux mana",
+        "Field of Ruin et Liliana of the Veil pesaient sur les terrains et la main adverses"
+      ]
+    },
+    "note": "mtgtop8 'The Rock'. Rep = GP Portland finalist."
+  },
+  {
+    "name": "Blue Moon",
+    "slug": "blue-moon",
+    "archetype": "control",
+    "titles": [
+      "Blue Moon"
+    ],
+    "cover": "Blood Moon",
+    "keyCards": [
+      "Blood Moon",
+      "Snapcaster Mage",
+      "Cryptic Command",
+      "Remand",
+      "Jace, the Mind Sculptor"
+    ],
+    "summary": {
+      "en": "Blue-red control with Blood Moon: a mana base of mostly basic Islands keeps working while opposing nonbasic lands become Mountains.",
+      "fr": "Contrôle bleu-rouge avec Blood Moon : une base de mana faite surtout d'Islands de base continue de fonctionner quand les terrains non-base adverses deviennent des Mountains."
+    },
+    "why": {
+      "en": [
+        "Remand and Cryptic Command delayed opponents already short on mana",
+        "Jace, the Mind Sculptor returned in February 2018 and fit the deck",
+        "Lightning Bolt and Electrolyze covered early creatures"
+      ],
+      "fr": [
+        "Remand et Cryptic Command retardaient des adversaires déjà à court de mana",
+        "Jace, the Mind Sculptor revient en février 2018 et trouve sa place dans le deck",
+        "Lightning Bolt et Electrolyze géraient les premières créatures"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Hatebear",
+      "Bw Eldrazi And Taxes",
+      "Mono White Taxes",
+      "Eldrazi Taxes"
+    ],
+    "cover": "Leonin Arbiter",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Leonin Arbiter",
+      "Aether Vial",
+      "Thought-Knot Seer",
+      "Eldrazi Displacer"
+    ],
+    "summary": {
+      "en": "White hatebears, here with Eldrazi and black: Thalia, Leonin Arbiter and Ghost Quarter tax the opponent, Thought-Knot Seer and Tidehollow Sculler take cards, Aether Vial keeps tempo.",
+      "fr": "Hatebears blancs, ici avec Eldrazi et noir : Thalia, Leonin Arbiter et Ghost Quarter taxent l'adversaire, Thought-Knot Seer et Tidehollow Sculler prennent des cartes, Aether Vial garde le tempo."
+    },
+    "why": {
+      "en": [
+        "Eldrazi Displacer and Flickerwisp reset blockers and reused enter-the-battlefield effects",
+        "Leonin Arbiter with Ghost Quarter denied basic land searches"
+      ],
+      "fr": [
+        "Eldrazi Displacer et Flickerwisp écartaient des bloqueurs et réutilisaient les effets d'arrivée",
+        "Leonin Arbiter avec Ghost Quarter empêchait de chercher des terrains de base"
+      ]
+    },
+    "note": "'Hatebear' + Eldrazi & Taxes + Mono White Taxes. GW Hatebears left out."
+  },
+  {
+    "name": "Lantern Control",
+    "slug": "lantern-control",
+    "archetype": "control",
+    "titles": [
+      "Lantern Control"
+    ],
+    "cover": "Lantern of Insight",
+    "keyCards": [
+      "Lantern of Insight",
+      "Ensnaring Bridge",
+      "Codex Shredder",
+      "Whir of Invention",
+      "Mox Opal"
+    ],
+    "summary": {
+      "en": "Artifact prison that sees the top of every library with Lantern of Insight, mills away the opponent's good draws and stops attacks with Ensnaring Bridge.",
+      "fr": "Prison d'artefacts qui voit le dessus de chaque bibliothèque avec Lantern of Insight, meule les bonnes pioches adverses et bloque les attaques avec Ensnaring Bridge."
+    },
+    "why": {
+      "en": [
+        "Luis Salvatto won Pro Tour Rivals of Ixalan in February 2018",
+        "Whir of Invention fetched the right lock piece at instant speed",
+        "Pithing Needle and discard stopped planeswalkers and answers"
+      ],
+      "fr": [
+        "Luis Salvatto gagne le Pro Tour Rivals of Ixalan en février 2018",
+        "Whir of Invention allait chercher la bonne pièce du verrou à vitesse instantanée",
+        "Pithing Needle et la défausse arrêtaient planeswalkers et réponses"
+      ]
+    },
+    "note": "Included on the PT win. 'Lanternless' Whir/Thopter prison lists left out."
+  },
+  {
+    "name": "UR Pyromancer",
+    "slug": "ur-pyromancer",
+    "archetype": "tempo",
+    "titles": [
+      "UR Pyromancer"
+    ],
+    "cover": "Thing in the Ice",
+    "keyCards": [
+      "Young Pyromancer",
+      "Thing in the Ice",
+      "Ancestral Vision",
+      "Snapcaster Mage",
+      "Cryptic Command"
+    ],
+    "summary": {
+      "en": "Blue-red tempo-control with Young Pyromancer and Thing in the Ice behind counterspells, burn and Ancestral Vision; a Pro Tour list with few other results.",
+      "fr": "Tempo-contrôle bleu-rouge avec Young Pyromancer et Thing in the Ice derrière contresorts, burn et Ancestral Vision ; une liste de Pro Tour sans autres grands résultats."
+    },
+    "why": {
+      "en": [
+        "Pascal Vieren reached the top 4 of Pro Tour Rivals of Ixalan in February 2018",
+        "Cheap instants and sorceries made Elemental tokens and flipped Thing in the Ice",
+        "Field of Ruin answered Tron and Valakut lands"
+      ],
+      "fr": [
+        "Pascal Vieren atteint le top 4 du Pro Tour Rivals of Ixalan en février 2018",
+        "Les éphémères et rituels bon marché créaient des Élémentaires et transformaient Thing in the Ice",
+        "Field of Ruin répondait aux terrains de Tron et à Valakut"
+      ]
+    },
+    "note": "Included on the PT top 4 (single result)."
+  }
+]
