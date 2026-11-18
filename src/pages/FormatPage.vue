@@ -5,6 +5,7 @@ import type { Archetype, Deck, SeasonWithDecks } from '../data/types'
 import { useFormat } from '../lib/useFormat'
 import { archetypeLabel, formatMonth, locale, seasonYears, t } from '../lib/i18n'
 import DeckTile from '../components/DeckTile.vue'
+import { symbolUrl } from '../lib/cards'
 import SoonState from '../components/SoonState.vue'
 
 const { formatId, format, data, loading } = useFormat()
@@ -112,17 +113,17 @@ const banLine = (s: Row) =>
             :key="c"
             type="button"
             class="cpip"
-            :class="[`cpip-${c.toLowerCase()}`, { on: colors.includes(c) }]"
+            :class="{ on: colors.includes(c) }"
             :aria-pressed="colors.includes(c)"
             :aria-label="c"
             @click="toggleColor(c)"
-          ></button>
+          ><img :src="symbolUrl(c)" alt="" /></button>
         </div>
         <div class="sort">
           <button type="button" :class="{ on: sort === 'top' }" @click="setSort('top')">{{ t('sortTop') }}</button>
           <button type="button" :class="{ on: sort === 'recent' }" @click="setSort('recent')">{{ t('sortRecent') }}</button>
         </div>
-        <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Chercher un deck ou une carte' : 'Search a deck or a card'" />
+        <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Deck ou carte' : 'Deck or card'" />
       </div>
       <nav class="jump" aria-label="Seasons">
         <a v-for="j in jumps" :key="j.id" :href="`#s-${j.id}`" :title="j.title">{{ j.label }}</a>
@@ -239,24 +240,38 @@ const banLine = (s: Row) =>
 }
 
 .cpip {
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  border: 1px solid var(--ink);
-  cursor: pointer;
-  opacity: 0.3;
+  width: 18px;
+  height: 18px;
   padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  border-radius: 50%;
 }
 
-.cpip.on {
+.cpip img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border-radius: 50%;
+  filter: grayscale(1);
+  opacity: 0.35;
+  transition: opacity 0.15s, filter 0.15s;
+}
+
+.cpip:hover img {
+  opacity: 0.7;
+}
+
+.cpip.on img {
+  filter: none;
   opacity: 1;
 }
 
-.cpip-w { background: var(--pip-w); }
-.cpip-u { background: var(--pip-u); }
-.cpip-b { background: var(--pip-b); }
-.cpip-r { background: var(--pip-r); }
-.cpip-g { background: var(--pip-g); }
+.cpip.on {
+  outline: 1px solid var(--ink);
+  outline-offset: 2px;
+}
 
 .search {
   margin-left: auto;

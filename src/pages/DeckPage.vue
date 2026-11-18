@@ -53,7 +53,7 @@ watchEffect(() => {
         <p v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}</p>
         <h1>{{ deck.name }}</h1>
         <p class="byline">
-          <ColorPips :colors="deck.colors" :size="12" />
+          <ColorPips :colors="deck.colors" :size="15" />
           {{ archetypeLabel(deck.archetype) }}. {{ deck.list.player }}, {{ rankLabel }},
           <a :href="deck.list.url" target="_blank" rel="noopener noreferrer">{{ deck.list.event }}</a>,
           {{ formatDate(deck.list.date) }}.

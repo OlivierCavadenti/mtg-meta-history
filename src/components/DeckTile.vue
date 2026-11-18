@@ -16,7 +16,7 @@ const wins = computed(() => props.deck.stats.wins)
     <div class="frame">
       <img :src="art" :alt="deck.cover" loading="lazy" />
     </div>
-    <h3>{{ deck.name }} <ColorPips :colors="deck.colors" :size="9" /></h3>
+    <h3>{{ deck.name }} <ColorPips :colors="deck.colors" :size="13" /></h3>
     <p class="meta">
       <span v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}.</span>
       {{ archetypeLabel(deck.archetype) }}, {{ deck.stats.top8 }} {{ t('top8') }}<template v-if="wins">, {{ wins }} {{ wins > 1 ? t('wins') : t('win') }}</template>

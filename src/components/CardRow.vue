@@ -39,9 +39,9 @@ const tone = computed(() => cardTone(props.info))
   height: 28px;
   padding: 0 0.45rem 0 0.55rem;
   overflow: hidden;
-  border-radius: var(--radius-md);
-  border-left: 5px solid color-mix(in srgb, var(--tone) 60%, black);
-  background: var(--tone);
+  border-radius: var(--radius-sm);
+  border-left: 4px solid var(--tone);
+  background: var(--row-ground);
   color: var(--row-ink);
   text-decoration: none;
   font-family: var(--font-label);
@@ -55,16 +55,19 @@ const tone = computed(() => cardTone(props.info))
   top: 0;
   right: 0;
   height: 100%;
-  width: 72%;
+  width: 70%;
   object-fit: cover;
   object-position: center 30%;
+  opacity: 0.5;
+  filter: saturate(0.55) contrast(0.95);
   -webkit-mask-image: linear-gradient(to right, transparent 0%, rgb(0 0 0 / 0.85) 55%, black 100%);
   mask-image: linear-gradient(to right, transparent 0%, rgb(0 0 0 / 0.85) 55%, black 100%);
-  transition: transform 0.25s ease;
+  transition: opacity 0.2s ease, filter 0.2s ease;
 }
 
 .row:hover .art {
-  transform: scale(1.06);
+  opacity: 0.85;
+  filter: none;
 }
 
 .count,
@@ -72,13 +75,13 @@ const tone = computed(() => cardTone(props.info))
 .cost {
   position: relative;
   z-index: 1;
-  text-shadow: 0 1px 2px rgb(0 0 0 / 0.75);
+  text-shadow: 0 1px 2px rgb(0 0 0 / 0.6);
 }
 
 .count {
   width: 1ch;
   text-align: right;
-  opacity: 0.9;
+  color: var(--tone);
 }
 
 .name {
@@ -92,6 +95,6 @@ const tone = computed(() => cardTone(props.info))
 .cost {
   padding: 2px 3px;
   border-radius: 8px;
-  background: rgb(0 0 0 / 0.35);
+  background: rgb(0 0 0 / 0.45);
 }
 </style>

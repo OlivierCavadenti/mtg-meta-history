@@ -10,24 +10,18 @@
   --line-light: #ddd4c6;
   --accent: #7a3826;
 
-  /* Card row tones (decklist bars), one per card color */
-  --tone-w: #b9a777;
-  --tone-u: #2f5f93;
-  --tone-b: #3a332d;
-  --tone-r: #a8382a;
-  --tone-g: #2f6b48;
-  --tone-m: #a7842c;
-  --tone-c: #6e6a66;
-  --tone-land: #7d6e5c;
-  --row-ink: #fbf8f2;
-
-  /* Color pips */
-  --pip-w: #efe6c4;
-  --pip-u: #2f6db0;
-  --pip-b: #2b2622;
-  --pip-r: #c4412d;
-  --pip-g: #2f7d4f;
-
+  /* Decklist rows: one dark ground for every card; the card's color is a thin
+     side rule in muted printed-ink tones (bone, slate, graphite, oxide, moss, old gold) */
+  --row-ground: #26221e;
+  --row-ink: #f4efe6;
+  --tone-w: #d8ccaa;
+  --tone-u: #5d7f9e;
+  --tone-b: #8b8279;
+  --tone-r: #b0614c;
+  --tone-g: #73885e;
+  --tone-m: #b89a56;
+  --tone-c: #9a958e;
+  --tone-land: #7f7262;
 
   --tier1: #7a3826;
   --tier2: #3d3630;
