@@ -13,6 +13,11 @@ const routes = [
     component: () => import('./pages/StaplesPage.vue'),
   },
   {
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/colors',
+    name: 'colors',
+    component: () => import('./pages/ColorsPage.vue'),
+  },
+  {
     path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/deck/:id',
     name: 'deck',
     component: () => import('./pages/DeckPage.vue'),

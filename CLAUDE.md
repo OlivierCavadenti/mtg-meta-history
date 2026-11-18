@@ -31,7 +31,7 @@ npm run validate:content  # validate generated deck data
 - `src/data/standard/cards.json` — GENERATED card data (mana cost, mana value, type, colors, Scryfall image id)
 - `src/data/load.ts` — lazy loader for a format
 - `src/components/` — `DeckTile`, `DeckList` (bar-style decklist), `CardRow`, `ManaCost`, `ColorPips`…
-- `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`
+- `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`, `ColorsPage` (color evolution, small multiples; data in `src/lib/colorStats.ts`)
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
 - `scripts/pipeline/` — data pipeline (Python 3, stdlib only). See `AGENTS.md`.
 
@@ -72,6 +72,9 @@ results only. Never type numbers by hand.
   `prefers-reduced-motion`. Use the directives in `src/lib/directives.ts`: `v-reveal` (scroll-in,
   staggered by index), `v-fade` (image fade on load), `v-tilt` (card leans toward the pointer).
   Do not combine `v-reveal` and `v-tilt` on the same element (both use `transform`)
+- Charts: hand-drawn SVG, no chart library. Five Magic colors overlaid fail colorblind checks
+  (white, red, green share a lightness), so color trends are small multiples on a shared scale,
+  each panel named by its mana symbol; series hues are `--series-*` tokens
 - Card images and art come from the Scryfall CDN (`cards.scryfall.io`); mana symbols from `svgs.scryfall.io`
 
 ## Forbidden patterns

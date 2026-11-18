@@ -23,6 +23,13 @@
   --tone-c: #9a958e;
   --tone-land: #7f7262;
 
+  /* Color-evolution chart: one hue per Magic color, each >= 3:1 on --paper (validated) */
+  --series-w: #937221;
+  --series-u: #2b6cc4;
+  --series-b: #4a4048;
+  --series-r: #c43f2d;
+  --series-g: #2e7a4c;
+
   --tier1: #7a3826;
   --tier2: #3d3630;
 

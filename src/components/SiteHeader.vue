@@ -7,6 +7,7 @@ import { locale, t, toggleLocale } from '../lib/i18n'
 const route = useRoute()
 const current = computed(() => (typeof route.params.format === 'string' ? route.params.format : 'standard'))
 const onStaples = computed(() => route.name === 'staples')
+const onColors = computed(() => route.name === 'colors')
 </script>
 
 <template>
@@ -17,14 +18,15 @@ const onStaples = computed(() => route.name === 'staples')
         <router-link
           v-for="f in FORMATS"
           :key="f.id"
-          :to="onStaples ? `/${f.id}/staples` : `/${f.id}`"
+          :to="onStaples ? `/${f.id}/staples` : onColors ? `/${f.id}/colors` : `/${f.id}`"
           class="format"
           :class="{ active: current === f.id, soon: !f.ready }"
         >{{ f.label }}</router-link>
       </nav>
       <div class="views">
-        <router-link :to="`/${current}`" class="view" :class="{ active: !onStaples }">{{ t('decks') }}</router-link>
+        <router-link :to="`/${current}`" class="view" :class="{ active: !onStaples && !onColors }">{{ t('decks') }}</router-link>
         <router-link :to="`/${current}/staples`" class="view" :class="{ active: onStaples }">{{ t('staples') }}</router-link>
+        <router-link :to="`/${current}/colors`" class="view" :class="{ active: onColors }">{{ t('colorsView') }}</router-link>
         <button class="locale" type="button" @click="toggleLocale()">{{ locale === 'fr' ? 'en' : 'fr' }}</button>
       </div>
     </div>
