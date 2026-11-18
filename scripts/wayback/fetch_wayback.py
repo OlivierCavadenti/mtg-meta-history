@@ -29,12 +29,22 @@ PRESETS = {
     'dojo': ['thedojo.com/tourney/*', 'www.thedojo.com/tourney/*', 'thedojo.com/tourney97/*',
              'www.thedojo.com/tourney97/*', 'thedojo.com/t*', 'www.thedojo.com/t*'],
     # Wizards' Sideboard: official coverage of Pro Tours, Worlds, Nationals, Regionals 1998-2002
-    'sideboard': ['www.wizards.com/sideboard/*', 'wizards.com/sideboard/*'],
+    # (2002 pages live under default.asp?x=sideboard/..., outside the /sideboard/ path)
+    'sideboard': ['www.wizards.com/sideboard/*', 'wizards.com/sideboard/*',
+                  'www.wizards.com/default.asp?x=sideboard*', 'www.wizards.com/default.asp?x=mtgcom*'],
     # Brainburst and Mindripper: tournament reports 1999-2002
     'brainburst': ['www.brainburst.com/*', 'brainburst.com/*'],
     'mindripper': ['www.mindripper.com/*', 'mindripper.com/*'],
+    # New Wave and Neutral Ground: Regionals / States reports 1999-2001
+    'newwave': ['newwave.org/strategy/*', 'www.newwave.org/strategy/*'],
+    'neutralground': ['www.neutralground.com/*', 'neutralground.com/*'],
 }
 
+# Priority pages for the 1998-2002 gaps (all under the presets above):
+#   Sideboard article.asp?x=sb19991124a (States 1999), sb20001106b (States 2000 lists),
+#   sb20011114a (States 2001 top 8 lists), sb20000508a / sb20000502a (Regionals 2000),
+#   default.asp?x=sideboard/info/2002regionals (Regionals 2002 lists),
+#   Dojo t991/t8.* and t991/t2.* (Regionals and Nationals 1999).
 # Only keep pages that can hold tournament results or decklists (skip images, scripts, forums...)
 KEEP_MIME = ('text/html', 'text/plain')
 SKIP_HINTS = ('forum', 'board', 'login', 'cgi-bin/ubb', '.gif', '.jpg', '.png', '.css', '.js')

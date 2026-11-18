@@ -132,7 +132,8 @@
     "archetype": "aggro",
     "titles": [
       "White Weenie",
-      "Weenie White"
+      "Weenie White",
+      "WW"
     ],
     "cover": "Crusade",
     "keyCards": [
@@ -263,7 +264,8 @@
     "archetype": "aggro",
     "titles": [
       "Stompy",
-      "Mono-green Stompy"
+      "Mono-green Stompy",
+      "Green Beats"
     ],
     "cover": "Vine Dryad",
     "keyCards": [
@@ -540,5 +542,39 @@
       ]
     },
     "rep": 252699
+  },
+  {
+    "name": "Tangle Negator",
+    "slug": "tangle-negator",
+    "archetype": "aggro",
+    "titles": [
+      "Tangle Negator"
+    ],
+    "rep": "x-2000-regionals-southeast-2-ikerd",
+    "cover": "Phyrexian Negator",
+    "keyCards": [
+      "Phyrexian Negator",
+      "Tangle Wire",
+      "Lurking Evil",
+      "Flesh Reaver",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir de la saison Masques : Dark Ritual accélère Phyrexian Negator, Lurking Evil et Flesh Reaver, puis Tangle Wire bloque le mana adverse pendant quelques tours.",
+      "en": "Mono-black aggro of the Masques season: Dark Ritual speeds out Phyrexian Negator, Lurking Evil and Flesh Reaver, then Tangle Wire ties up the opponent's mana for a few turns."
+    },
+    "why": {
+      "fr": [
+        "Dark Ritual puis Phyrexian Negator posait une grosse menace dès le premier tour.",
+        "Duress et Tangle Wire retardaient les réponses adverses pendant que l'attaque avançait.",
+        "Lurking Evil et Flesh Reaver offraient de gros corps pour peu de mana, payés en points de vie."
+      ],
+      "en": [
+        "Dark Ritual into Phyrexian Negator could put a large threat on the table on the first turn.",
+        "Duress and Tangle Wire delayed the opponent's answers while the attack went on.",
+        "Lurking Evil and Flesh Reaver gave large bodies for little mana, paid for in life."
+      ]
+    },
+    "note": "Period name used by Omeed Dariani (StarCityGames, May 2000) for two near-identical Regionals 2000 finalist lists."
   }
 ]
