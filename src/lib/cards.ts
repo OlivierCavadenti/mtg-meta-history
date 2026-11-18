@@ -4,9 +4,10 @@ const CDN = 'https://cards.scryfall.io'
 
 export type ImageVersion = 'art_crop' | 'normal' | 'large' | 'small'
 
-export function cardImage(info: CardInfo | undefined, name: string, version: ImageVersion = 'normal'): string {
+/** Image of a card as printed during `season` (the deck's season) when known. */
+export function cardImage(info: CardInfo | undefined, name: string, version: ImageVersion = 'normal', season?: string): string {
   if (info?.i) {
-    const id = info.i
+    const id = (season && info.e?.[season]) || info.i
     return `${CDN}/${version}/front/${id[0]}/${id[1]}/${id}.jpg`
   }
   return `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}&format=image&version=${version}`

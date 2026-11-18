@@ -5,10 +5,10 @@ import { cardImage, cardTone, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import ManaCost from './ManaCost.vue'
 
-const props = defineProps<{ name: string; count: number; info?: CardInfo }>()
+const props = defineProps<{ name: string; count: number; info?: CardInfo; season?: string }>()
 
-const art = computed(() => cardImage(props.info, props.name, 'art_crop'))
-const full = computed(() => cardImage(props.info, props.name, 'normal'))
+const art = computed(() => cardImage(props.info, props.name, 'art_crop', props.season))
+const full = computed(() => cardImage(props.info, props.name, 'normal', props.season))
 const tone = computed(() => cardTone(props.info))
 </script>
 

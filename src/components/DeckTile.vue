@@ -7,7 +7,7 @@ import ColorPips from './ColorPips.vue'
 
 const props = defineProps<{ deck: Deck; cards: Record<string, CardInfo>; format: string }>()
 
-const art = computed(() => cardImage(props.cards[props.deck.cover], props.deck.cover, 'art_crop'))
+const art = computed(() => cardImage(props.cards[props.deck.cover], props.deck.cover, 'art_crop', props.deck.season))
 const wins = computed(() => props.deck.stats.wins)
 </script>
 

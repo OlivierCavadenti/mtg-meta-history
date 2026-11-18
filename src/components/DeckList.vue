@@ -6,7 +6,7 @@ import { t } from '../lib/i18n'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import CardRow from './CardRow.vue'
 
-const props = defineProps<{ list: DeckList; cards: Record<string, CardInfo> }>()
+const props = defineProps<{ list: DeckList; cards: Record<string, CardInfo>; season?: string }>()
 
 type Mode = 'list' | 'visual'
 const MODE_KEY = 'mtg-decklist-mode'
@@ -133,19 +133,19 @@ async function copy() {
         <div class="spells">
           <div v-for="col in columns" :key="col.label" class="col">
             <div class="col-head"><span>{{ col.label }}</span><span>{{ col.total }}</span></div>
-            <CardRow v-for="[n, name] in col.lines" :key="name" :name="name" :count="n" :info="info(name)" />
+            <CardRow v-for="[n, name] in col.lines" :key="name" :name="name" :count="n" :info="info(name)" :season="season" />
           </div>
         </div>
         <div v-if="lands.length" class="lands">
           <div class="col-head"><span>{{ t('lands') }}</span><span>{{ totalLands }}</span></div>
-          <CardRow v-for="[n, name] in lands" :key="name" :name="name" :count="n" :info="info(name)" />
+          <CardRow v-for="[n, name] in lands" :key="name" :name="name" :count="n" :info="info(name)" :season="season" />
         </div>
       </div>
 
       <div v-if="side.length" class="side">
         <div class="col-head"><span>{{ t('sideboard') }}</span><span>{{ totalSide }}</span></div>
         <div class="side-grid">
-          <CardRow v-for="[n, name] in side" :key="name" :name="name" :count="n" :info="info(name)" />
+          <CardRow v-for="[n, name] in side" :key="name" :name="name" :count="n" :info="info(name)" :season="season" />
         </div>
       </div>
     </template>
@@ -163,11 +163,11 @@ async function copy() {
                 :href="scryfallSearch(name)"
                 target="_blank"
                 rel="noopener noreferrer"
-                @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+                @mouseenter="showPreview(cardImage(info(name), name, 'large', season), $event)"
                 @mousemove="movePreview"
                 @mouseleave="hidePreview"
               >
-                <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+                <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
                 <span class="scount">&times;{{ n }}</span>
               </a>
             </div>
@@ -183,11 +183,11 @@ async function copy() {
               :href="scryfallSearch(name)"
               target="_blank"
               rel="noopener noreferrer"
-              @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+              @mouseenter="showPreview(cardImage(info(name), name, 'large', season), $event)"
               @mousemove="movePreview"
               @mouseleave="hidePreview"
             >
-              <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+              <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
               <span class="scount">&times;{{ n }}</span>
             </a>
           </div>
@@ -205,11 +205,11 @@ async function copy() {
                 :href="scryfallSearch(name)"
                 target="_blank"
                 rel="noopener noreferrer"
-                @mouseenter="showPreview(cardImage(info(name), name, 'large'), $event)"
+                @mouseenter="showPreview(cardImage(info(name), name, 'large', season), $event)"
                 @mousemove="movePreview"
                 @mouseleave="hidePreview"
               >
-                <img :src="cardImage(info(name), name, 'normal')" :alt="name" loading="lazy" />
+                <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
                 <span class="scount">&times;{{ n }}</span>
               </a>
             </div>
@@ -401,9 +401,11 @@ async function copy() {
   margin-top: -109.3%;
 }
 
+/* No z-index change on hover: raising the hovered card would cover the cards stacked
+   below it and keep it "stuck" under the pointer. The full card shows in the preview. */
 .scard:hover {
   outline: 2px solid var(--accent);
-  z-index: 1;
+  outline-offset: -2px;
 }
 
 .scard img {

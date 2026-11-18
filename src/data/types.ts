@@ -27,8 +27,10 @@ export type CardInfo = {
   t: CardKind
   /** colors, WUBRG letters */
   k: string
-  /** Scryfall image id (printing chosen to match the era the card was first played in) */
+  /** Scryfall image id: printing of the era the card was first played in */
   i: string
+  /** season id -> Scryfall image id, for later seasons where a newer printing existed */
+  e?: Record<string, string>
 }
 
 export type DeckList = {

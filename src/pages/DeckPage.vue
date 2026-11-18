@@ -65,7 +65,7 @@ watchEffect(() => {
         </p>
       </div>
       <figure class="hero-art">
-        <img :src="cardImage(cards[deck.cover], deck.cover, 'art_crop')" :alt="deck.cover" />
+        <img :src="cardImage(cards[deck.cover], deck.cover, 'art_crop', deck.season)" :alt="deck.cover" />
         <figcaption>{{ deck.cover }}</figcaption>
       </figure>
     </header>
@@ -81,11 +81,11 @@ watchEffect(() => {
             target="_blank"
             rel="noopener noreferrer"
             class="kc"
-            @mouseenter="showPreview(cardImage(cards[c], c, 'large'), $event)"
+            @mouseenter="showPreview(cardImage(cards[c], c, 'large', deck.season), $event)"
             @mousemove="movePreview"
             @mouseleave="hidePreview"
           >
-            <img :src="cardImage(cards[c], c, 'normal')" :alt="c" loading="lazy" />
+            <img :src="cardImage(cards[c], c, 'normal', deck.season)" :alt="c" loading="lazy" />
           </a>
         </div>
       </div>
@@ -97,7 +97,7 @@ watchEffect(() => {
       </div>
     </section>
 
-    <DeckList :list="deck.list" :cards="cards" />
+    <DeckList :list="deck.list" :cards="cards" :season="deck.season" />
 
     <nav class="siblings">
       <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">

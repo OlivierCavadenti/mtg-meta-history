@@ -25,6 +25,8 @@ function setMode(m: Mode) {
 const seasons = computed(() => (data.value ? computeStaples(data.value).reverse() : []))
 const ordered = computed(() => seasons.value.flatMap((s) => s.cards.map((c) => c.name)))
 const total = computed(() => ordered.value.length)
+// each card is shown as printed in the season it became a staple
+const stapleSeason = computed(() => new Map(seasons.value.flatMap((s) => s.cards.map((c) => [c.name, s.id] as const))))
 
 const COLOR_GROUPS: { key: string; label: StringKey }[] = [
   { key: 'W', label: 'colorW' },
@@ -105,7 +107,7 @@ const groups = computed<Group[]>(() => {
           rel="noopener noreferrer"
           :title="name"
         >
-          <img :src="cardImage(data.cards[name], name, 'normal')" :alt="name" loading="lazy" />
+          <img :src="cardImage(data.cards[name], name, 'normal', stapleSeason.get(name))" :alt="name" loading="lazy" />
         </a>
       </template>
     </div>

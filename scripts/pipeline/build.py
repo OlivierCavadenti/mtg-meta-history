@@ -44,6 +44,7 @@ total_top8 = {}
 for sid in season_ids:
     total_top8[sid] = sum(1 for r in season_rows(sid) if r['rank'] in TOP8)
 first_season = {}
+seasons_of = collections.defaultdict(set)
 firsts = collections.Counter(r['e'] for r in rows() if r['rank'] == '1')
 all_decks = {}
 missing = set()
@@ -76,6 +77,7 @@ for sid in season_ids:
         colors = ''.join(c for c in ORDER if cc[c] >= 3)
         for n, name in main + side:
             first_season.setdefault(name, sid)
+            seasons_of[name].add(sid)
         # sanity check: a card with no core/expansion printing before the season ends
         # suggests a list from another format mislabelled as Standard
         for n, name in main:
@@ -107,5 +109,13 @@ for name, sid in first_season.items():
     info = pr['info']
     p = pick_print(pr['prints'], season_end[sid])
     cards[name] = {'m': info['m'], 'c': info['c'], 't': kind(info['t']), 'k': ''.join(c for c in ORDER if c in (info['k'] or '')), 'i': p['id']}
+    # printing of the era for every other season the card is played in, when it differs
+    eras = {}
+    for other in sorted(seasons_of[name]):
+        q = pick_print(pr['prints'], season_end[other])
+        if q['id'] != p['id']:
+            eras[other] = q['id']
+    if eras:
+        cards[name]['e'] = eras
 json.dump(dict(sorted(cards.items())), open(f'{REPO}/src/data/standard/cards.json', 'w'), ensure_ascii=False, separators=(',', ':'))
 print('cards', len(cards), 'missing', sorted(missing))

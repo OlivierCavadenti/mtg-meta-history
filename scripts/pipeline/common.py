@@ -4,7 +4,7 @@ import json, re, os, time, urllib.request, collections
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(os.path.dirname(HERE))
 WORK = os.environ.get('MTG_PIPELINE_WORK', os.path.join(REPO, '.pipeline'))
-EDITORIAL = os.path.join(REPO, 'data-src', 'standard', 'editorial')
+EDITORIAL = os.environ.get('MTG_EDITORIAL', os.path.join(REPO, 'data-src', 'standard', 'editorial'))
 UA = {'User-Agent': 'Mozilla/5.0 (mtg-meta-history archive script)'}
 TOP8 = {'1', '2', '3', '4', '3-4', '5', '6', '7', '8', '5-8'}
 SEASONS = json.load(open(os.path.join(HERE, 'seasons.json')))
