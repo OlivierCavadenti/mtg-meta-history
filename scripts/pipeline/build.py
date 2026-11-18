@@ -53,9 +53,9 @@ for sid in season_ids:
     ed = json.load(open(p))
     decks = []
     for e in ed:
-        rs = merged(sid, e['titles'])
+        rs = deck_rows(sid, ed, e)
         if not rs: continue
-        rep = next((r for r in rs if r['d'] == e.get('rep')), rs[0])
+        rep = next((r for r in rs if str(r['d']) == str(e.get('rep'))), rs[0])
         if not rep['has_list']:
             print(f'  SKIP {sid}/{e["slug"]}: no published list among its results'); continue
         main, side = get_list(rep['d'])

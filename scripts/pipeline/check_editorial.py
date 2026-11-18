@@ -21,10 +21,13 @@ for d in decks:
         if t not in titles: errs.append(f'{n}: unknown title {t!r}')
         if t in used: errs.append(f'{n}: title {t!r} already used by {used[t]}')
         used[t] = n
-    rs = merged(sid, d.get('titles', []))
+    rs = deck_rows(sid, decks, d)
     if not rs: errs.append(f'{n}: no rows'); continue
     main, side = get_list(d.get('rep') or rs[0]['d'])
-    if d.get('rep') and d['rep'] not in {r['d'] for r in rs}: errs.append(f'{n}: rep not among merged rows')
+    if d.get('rep') and str(d['rep']) not in {str(r['d']) for r in rs}: errs.append(f'{n}: rep not among merged rows')
+    allids = {str(r['d']) for r in season_rows(sid)}
+    for i in d.get('include', []) + d.get('exclude', []):
+        if str(i) not in allids: errs.append(f'{n}: include/exclude id {i} not in this season')
     names = {c for _, c in main} | {c for _, c in side}
     if sum(c for c, _ in main) < 40: errs.append(f'{n}: rep list main has {sum(c for c,_ in main)} cards')
     for c in d.get('keyCards', []) + [d.get('cover')]:

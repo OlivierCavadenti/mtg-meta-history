@@ -65,9 +65,17 @@ def load_extra():
     return out
 
 
+DATE_FIXES = os.path.join(REPO, 'data-src', 'standard', 'date-fixes.json')
+_date_fixes = json.load(open(DATE_FIXES)) if os.path.exists(DATE_FIXES) else {}
+
+
 def _fix_date(r):
     """mtgtop8 occasionally stores an old event under a recent date (e.g. 'Nationals - New Zealand
     2002' dated 2022): trust the year in the event name when it is far from the stored year."""
+    fix = _date_fixes.get(str(r['e']))
+    if fix:
+        r['iso'] = fix['date']
+        return
     m = re.search(r'\b(199\d|20[0-2]\d)\b', r['event'])
     if m and abs(int(m.group(1)) - int(r['iso'][:4])) > 1:
         r['iso'] = m.group(1) + r['iso'][4:]
@@ -119,12 +127,24 @@ def best_key(r):
     return (rank_key(r['rank']), 0 if r['level'] == 'bigstar' else 1, -r['evsize'], r['iso'])
 
 
-def merged(sid, titles):
-    """Results of the given titles in a season, best first. Rows without a list sort last."""
+def merged(sid, titles, include=(), exclude=()):
+    """Results of the given titles in a season, best first. Rows without a list sort last.
+
+    include: extra deck ids (results filed under another title); exclude: deck ids to drop.
+    """
     ts = set(titles)
-    rs = [r for r in season_rows(sid) if r['name'] in ts]
+    inc = {str(i) for i in include}
+    exc = {str(i) for i in exclude}
+    rs = [r for r in season_rows(sid) if (r['name'] in ts or str(r['d']) in inc) and str(r['d']) not in exc]
     rs.sort(key=lambda r: (not r['has_list'],) + best_key(r))
     return rs
+
+
+def deck_rows(sid, decks, deck):
+    """Rows of one editorial deck: its titles and includes, minus its excludes and minus the
+    results another deck of the season claims through its own `include`."""
+    claimed = {str(i) for d in decks if d is not deck for i in d.get('include', [])}
+    return merged(sid, deck.get('titles', []), deck.get('include', []), set(map(str, deck.get('exclude', []))) | claimed)
 
 
 def deck_url(r):

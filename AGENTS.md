@@ -45,6 +45,9 @@ Output: `data-src/standard/editorial/{season}.json`, an array of:
 ```
 
 - Merge mtgtop8 titles that are the same archetype (`titles`). A title belongs to one deck only.
+- To move single results filed under the wrong title, use `"include": [deck ids]` on the deck that
+  should own them (they are removed from every other deck of the season) and `"exclude": [deck ids]`
+  to drop results from a deck. `deckinfo.py SEASON "Title" --all` lists every result with its id.
 - Inclusion: up to 2009, every archetype with a top 8; from 2010, top8 ≥ 3, or an event win, or a
   top 4 at a Pro Tour / Worlds / World or Regional Championship.
 - `rep` (optional): mtgtop8 deck id of the list to show; defaults to the best finish at the
@@ -58,6 +61,18 @@ Tools:
 python3 scripts/pipeline/deckinfo.py 2005-rav "Ghazi Glare" "GW Glare"   # merged stats + rep list
 python3 scripts/pipeline/check_editorial.py 2005-rav                     # validate a season
 ```
+
+## 3b. Corrections and sourced additions
+
+- **Ranks that are not finishes** are ignored automatically: when many players share rank 1 or 2
+  in one event (league weekends, Arena 7-win lists, standings pages), those ranks do not count as
+  top 8s or wins (World Magic Cup winning teams excepted).
+- **Wrong dates**: `data-src/standard/date-fixes.json` maps an mtgtop8 event id to its real date,
+  with a source. Years written in an event name also override a stored date more than a year off.
+- **Seasons mtgtop8 barely covers** (1990s, 2004-05…): add results from period sources in
+  `data-src/standard/extra/{season}.json` (format documented in `scripts/pipeline/common.py`,
+  `load_extra`). A list must be copied from a page that shows it card by card; its URL is
+  mandatory and becomes the deck's source link. A result without a list counts in stats only.
 
 ## 4. Card data and build
 
