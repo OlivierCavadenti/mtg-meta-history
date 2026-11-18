@@ -1,11 +1,11 @@
 """Usage: python3 scripts/pipeline/scrape_search.py FIRST_YEAR LAST_YEAR"""
 import re, sys, json, time, urllib.request, urllib.parse, html, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import work, UA
+from common import work, UA, FORMAT, FORMAT_CODE
 OUT = work('search.json')
 years = range(int(sys.argv[1]), int(sys.argv[2]) + 1)
 def fetch(page, y, levels):
-    data = {'current_page': str(page), 'format': 'ST', 'date_start': f'01/01/{y}', 'date_end': f'31/12/{y}'}
+    data = {'current_page': str(page), 'format': FORMAT_CODE, 'date_start': f'01/01/{y}', 'date_end': f'31/12/{y}'}
     for l in levels: data[f'compet_check[{l}]'] = '1'
     req = urllib.request.Request('https://www.mtgtop8.com/search', data=urllib.parse.urlencode(data).encode(), headers=UA)
     for attempt in range(4):
@@ -18,16 +18,16 @@ row_re = re.compile(r'<tr class=hover_tr>(.*?)</tr>', re.S)
 results = json.load(open(OUT)) if os.path.exists(OUT) else {}
 for y in years:
     if str(y) in results: continue
-    levels = ['P', 'M', 'C'] if y <= 2004 else ['P', 'M']
+    levels = ['P', 'M', 'C'] if (FORMAT == 'standard' and y <= 2004) else ['P', 'M']
     rows = []
     page = 1
     while True:
         h = fetch(page, y, levels)
         found = row_re.findall(h)
         for r in found:
-            m = re.search(r'event\?e=(\d+)&d=(\d+)&f=ST>([^<]*)</a>', r)
+            m = re.search(r'event\?e=(\d+)&d=(\d+)&f=\w+>([^<]*)</a>', r)
             pl = re.search(r'class=player[^>]*>([^<]*)<', r)
-            ev = re.search(r'<td class=S11><a href=event\?e=\d+&f=ST>([^<]*)</a>', r)
+            ev = re.search(r'<td class=S11><a href=event\?e=\d+&f=\w+>([^<]*)</a>', r)
             lvl = re.findall(r'/graph/(\w+)\.png', r)
             tds = re.findall(r'<td class=S1[12][^>]*>([^<]*)</td>', r)
             dt = re.findall(r'(\d\d/\d\d/\d\d)', r)

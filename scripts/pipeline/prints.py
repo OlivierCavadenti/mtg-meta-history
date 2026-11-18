@@ -1,7 +1,7 @@
 """Scryfall default_cards bulk (WORK/default.jsonl.gz) -> WORK/prints.json (printings per card name)"""
 import gzip, json, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import work
+from common import work, PRINTS
 out = {}
 for line in gzip.open(work('default.jsonl.gz'), 'rt'):
     line = line.strip().rstrip(',')
@@ -30,5 +30,5 @@ for line in gzip.open(work('default.jsonl.gz'), 'rt'):
         e = out.setdefault(n, {'info': info, 'prints': []})
         if n == c['name']: e['info'] = info
         e['prints'].append(p)
-json.dump(out, open(work('prints.json'), 'w'))
+json.dump(out, open(PRINTS, 'w'))
 print(len(out))

@@ -1,12 +1,12 @@
-"""Builds src/data/standard/decks/*.json and src/data/standard/cards.json from data-src/standard/editorial/*.json."""
+"""Builds src/data/{format}/decks/*.json and src/data/{format}/cards.json from data-src/{format}/editorial/*.json."""
 import sys, os, json, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
-OUT = f'{REPO}/src/data/standard/decks'
+OUT = os.path.join(OUT_DIR, 'decks')
 os.makedirs(OUT, exist_ok=True)
 season_ids = [s[0] for s in SEASONS]
 season_end = {s[0]: (SEASONS[i+1][1] if i + 1 < len(SEASONS) else '2099-01-01') for i, s in enumerate(SEASONS)}
-prints = json.load(open(work('prints.json')))
+prints = json.load(open(PRINTS))
 ORDER = 'WUBRG'
 def kind(tl):
     t = tl.lower().split('//')[0]
@@ -117,5 +117,5 @@ for name, sid in first_season.items():
             eras[other] = q['id']
     if eras:
         cards[name]['e'] = eras
-json.dump(dict(sorted(cards.items())), open(f'{REPO}/src/data/standard/cards.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+json.dump(dict(sorted(cards.items())), open(os.path.join(OUT_DIR, 'cards.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 print('cards', len(cards), 'missing', sorted(missing))

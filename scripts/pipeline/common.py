@@ -3,11 +3,19 @@ import json, re, os, time, urllib.request, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(os.path.dirname(HERE))
-WORK = os.environ.get('MTG_PIPELINE_WORK', os.path.join(REPO, '.pipeline'))
-EDITORIAL = os.environ.get('MTG_EDITORIAL', os.path.join(REPO, 'data-src', 'standard', 'editorial'))
+# Format: MTG_FORMAT=standard (default) | modern. Each format has its own work dir, editorial
+# layer, extra results, date fixes, seasons file and output folder.
+FORMAT = os.environ.get('MTG_FORMAT', 'standard')
+FORMAT_CODE = {'standard': 'ST', 'modern': 'MO', 'pioneer': 'PI', 'legacy': 'LE', 'vintage': 'VI', 'pauper': 'PAU'}[FORMAT]
+WORK = os.environ.get('MTG_PIPELINE_WORK', os.path.join(REPO, '.pipeline', FORMAT))
+SRC = os.path.join(REPO, 'data-src', FORMAT)
+EDITORIAL = os.environ.get('MTG_EDITORIAL', os.path.join(SRC, 'editorial'))
+OUT_DIR = os.path.join(REPO, 'src', 'data', FORMAT)
+# Scryfall printings index is shared by every format (built once by prints.py)
+PRINTS = os.environ.get('MTG_PRINTS', os.path.join(WORK, 'prints.json'))
 UA = {'User-Agent': 'Mozilla/5.0 (mtg-meta-history archive script)'}
 TOP8 = {'1', '2', '3', '4', '3-4', '5', '6', '7', '8', '5-8'}
-SEASONS = json.load(open(os.path.join(HERE, 'seasons.json')))
+SEASONS = json.load(open(os.path.join(HERE, 'seasons.json' if FORMAT == 'standard' else f'seasons.{FORMAT}.json')))
 os.makedirs(WORK, exist_ok=True)
 _rows = None
 
@@ -36,7 +44,7 @@ def rank_key(r):
     return int(m.group(1)) if m else 99
 
 
-EXTRA = os.path.join(REPO, 'data-src', 'standard', 'extra')
+EXTRA = os.path.join(SRC, 'extra')
 _extra_lists = {}
 
 
@@ -65,7 +73,7 @@ def load_extra():
     return out
 
 
-DATE_FIXES = os.path.join(REPO, 'data-src', 'standard', 'date-fixes.json')
+DATE_FIXES = os.path.join(SRC, 'date-fixes.json')
 _date_fixes = json.load(open(DATE_FIXES)) if os.path.exists(DATE_FIXES) else {}
 
 
@@ -152,7 +160,7 @@ def deck_rows(sid, decks, deck):
 def deck_url(r):
     if r.get('source'):
         return r['source']
-    return f"https://www.mtgtop8.com/event?e={r['e']}&d={r['d']}&f=ST"
+    return f"https://www.mtgtop8.com/event?e={r['e']}&d={r['d']}&f={FORMAT_CODE}"
 
 
 def get_list(deck_id):
