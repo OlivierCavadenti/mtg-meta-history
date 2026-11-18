@@ -41,7 +41,32 @@
    423595,
    425182,
    426078
-  ]
+  ],
+  "rep": 371042,
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Tarmogoyf",
+   "Traverse the Ulvenwald",
+   "Street Wraith",
+   "Temur Battle Rage"
+  ],
+  "summary": {
+   "fr": "Version Jund de Death's Shadow : fetchlands, shocklands et Street Wraith font baisser ses propres points de vie, Tarmogoyf épaule Shadow et Temur Battle Rage conclut les parties.",
+   "en": "Jund version of Death's Shadow: fetchlands, shocklands and Street Wraith lower its own life total, Tarmogoyf backs up Shadow and Temur Battle Rage ends games."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize et Inquisition of Kozilek retiraient les réponses tout en coûtant des vies",
+    "Traverse the Ulvenwald allait chercher Death's Shadow une fois le délire activé",
+    "Le vert ajoutait Tarmogoyf, seconde grosse menace bon marché"
+   ],
+   "en": [
+    "Thoughtseize and Inquisition of Kozilek took answers while paying life",
+    "Traverse the Ulvenwald found Death's Shadow once delirium was on",
+    "Green added Tarmogoyf as a second cheap, large threat"
+   ]
+  }
  },
  {
   "name": "Rakdos Shadow",
@@ -83,7 +108,32 @@
    426076,
    427048,
    427059
-  ]
+  ],
+  "rep": 423144,
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Scourge of the Skyclaves",
+   "Bomat Courier",
+   "Monastery Swiftspear",
+   "Temur Battle Rage"
+  ],
+  "summary": {
+   "fr": "Death's Shadow noir-rouge épuré de fin 2020 : Monastery Swiftspear, Bomat Courier et Scourge of the Skyclaves rejoignent Shadow sur une courbe très basse conclue par Temur Battle Rage.",
+   "en": "Lean black-red Death's Shadow of late 2020: Monastery Swiftspear, Bomat Courier and Scourge of the Skyclaves join Shadow on a very low curve closed by Temur Battle Rage."
+  },
+  "why": {
+   "fr": [
+    "Scourge of the Skyclaves, issu de Zendikar Rising, grandissait à mesure que les vies chutaient",
+    "Deux couleurs et Mishra's Bauble gardaient une base de mana et une courbe légères",
+    "Apostle's Blessing et Mutagenic Growth protégeaient les menaces contre des vies plutôt que du mana"
+   ],
+   "en": [
+    "Scourge of the Skyclaves, from Zendikar Rising, grew as both life totals fell",
+    "Two colours and Mishra's Bauble kept the mana base and curve lean",
+    "Apostle's Blessing and Mutagenic Growth protected threats for life instead of mana"
+   ]
+  }
  },
  {
   "name": "Grixis Shadow",
@@ -93,11 +143,36 @@
    "Death's Shadow",
    "Grixis Shadow",
    "Grixis Death's Shadow"
-  ]
+  ],
+  "rep": 414320,
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Gurmag Angler",
+   "Snapcaster Mage",
+   "Stubborn Denial",
+   "Thought Scour"
+  ],
+  "summary": {
+   "fr": "Death's Shadow bleu-noir avec une touche de rouge : Thought Scour et Street Wraith alimentent Gurmag Angler, Snapcaster Mage réutilise les sorts et Stubborn Denial protège les menaces.",
+   "en": "Blue-black Death's Shadow splashing red: Thought Scour and Street Wraith fuel Gurmag Angler, Snapcaster Mage reuses spells and Stubborn Denial protects the threats."
+  },
+  "why": {
+   "fr": [
+    "Les menaces à delve arrivaient tôt grâce à un cimetière rempli par les cantrips",
+    "Stubborn Denial devenait un vrai contresort dès que Shadow ou Angler était en jeu",
+    "Défausse et Fatal Push dégageaient la voie pour une victoire rapide"
+   ],
+   "en": [
+    "Delve threats came down early off a graveyard filled by cantrips",
+    "Stubborn Denial became a hard counter once Shadow or Angler was in play",
+    "Discard and Fatal Push cleared the way for a fast kill"
+   ]
+  }
  },
  {
-  "name": "Sultai Shadow",
-  "slug": "sultai-shadow",
+  "name": "4c Shadow",
+  "slug": "4c-shadow",
   "archetype": "aggro",
   "titles": [
    "4c Death Shadow",
@@ -124,7 +199,32 @@
    374586,
    375429,
    419416
-  ]
+  ],
+  "rep": 372529,
+  "cover": "Death's Shadow",
+  "keyCards": [
+   "Death's Shadow",
+   "Tarmogoyf",
+   "Stubborn Denial",
+   "Traverse the Ulvenwald",
+   "Once Upon a Time"
+  ],
+  "summary": {
+   "fr": "Death's Shadow quadricolore du début 2020 alliant Tarmogoyf et Traverse the Ulvenwald à Stubborn Denial ; les listes de janvier jouaient aussi Oko, Thief of Crowns jusqu'à son bannissement.",
+   "en": "Four-colour Death's Shadow of early 2020 combining Tarmogoyf and Traverse the Ulvenwald with Stubborn Denial; January lists also ran Oko, Thief of Crowns until its ban."
+  },
+  "why": {
+   "fr": [
+    "Fetchlands et shocklands rendaient quatre couleurs peu coûteuses pour un deck qui voulait perdre des vies",
+    "Once Upon a Time trouvait Shadow ou Tarmogoyf pour les premiers tours",
+    "Stubborn Denial et Temur Battle Rage offraient une conclusion rapide et protégée"
+   ],
+   "en": [
+    "Fetchlands and shocklands made four colours cheap for a deck that wanted to lose life",
+    "Once Upon a Time found Shadow or Tarmogoyf for the opening turns",
+    "Stubborn Denial and Temur Battle Rage gave a protected, fast finish"
+   ]
+  }
  },
  {
   "name": "Amulet Titan",
@@ -135,7 +235,32 @@
    "Amulet titan",
    "Salt Mine",
    "Michael Hennick"
-  ]
+  ],
+  "rep": 372580,
+  "cover": "Amulet of Vigor",
+  "keyCards": [
+   "Amulet of Vigor",
+   "Primeval Titan",
+   "Dryad of the Ilysian Grove",
+   "Summoner's Pact",
+   "Azusa, Lost but Seeking"
+  ],
+  "summary": {
+   "fr": "Les bounce lands dégagées par Amulet of Vigor produisent assez de mana pour lancer Primeval Titan au tour deux ou trois ; Titan va ensuite chercher les terrains utilitaires qui gagnent la partie.",
+   "en": "Bounce lands untapped by Amulet of Vigor produce enough mana to cast Primeval Titan on turn two or three; Titan then fetches utility lands that win the game."
+  },
+  "why": {
+   "fr": [
+    "Dryad of the Ilysian Grove et Azusa ajoutaient des poses de terrain",
+    "Summoner's Pact trouvait Titan ou une créature d'accélération sans coût immédiat",
+    "Plusieurs démarrages rapides le rendaient difficile à cibler au sideboard"
+   ],
+   "en": [
+    "Dryad of the Ilysian Grove and Azusa added extra land drops",
+    "Summoner's Pact found Titan or a ramp creature at no immediate cost",
+    "Several fast starts made it hard to sideboard against"
+   ]
+  }
  },
  {
   "name": "Jund",
@@ -145,7 +270,32 @@
    "Jund",
    "Jund Midrange",
    "4c Jund"
-  ]
+  ],
+  "rep": 373023,
+  "cover": "Wrenn and Six",
+  "keyCards": [
+   "Tarmogoyf",
+   "Liliana of the Veil",
+   "Bloodbraid Elf",
+   "Wrenn and Six",
+   "Kroxa, Titan of Death's Hunger"
+  ],
+  "summary": {
+   "fr": "Midrange noir-rouge-vert qui échange carte pour carte avec défausse, Lightning Bolt et removal, puis gagne avec Tarmogoyf, Bloodbraid Elf et des planeswalkers.",
+   "en": "Black-red-green midrange that trades one for one with discard, Lightning Bolt and removal, then wins with Tarmogoyf, Bloodbraid Elf and planeswalkers."
+  },
+  "why": {
+   "fr": [
+    "Wrenn and Six tuait les créatures d'endurance 1 et récupérait les fetchlands",
+    "Kroxa, Titan of Death's Hunger apportait de l'avantage en fin de partie",
+    "Thoughtseize, Inquisition et Liliana perturbaient les decks combo"
+   ],
+   "en": [
+    "Wrenn and Six killed one-toughness creatures and recurred fetchlands",
+    "Kroxa, Titan of Death's Hunger added late-game card advantage",
+    "Thoughtseize, Inquisition and Liliana disrupted combo decks"
+   ]
+  }
  },
  {
   "name": "The Rock",
@@ -154,7 +304,32 @@
   "titles": [
    "The Rock",
    "Abzan Lurrus"
-  ]
+  ],
+  "rep": 371770,
+  "cover": "Liliana of the Veil",
+  "keyCards": [
+   "Dark Confidant",
+   "Liliana of the Veil",
+   "Tarmogoyf",
+   "Scavenging Ooze",
+   "Hexdrinker"
+  ],
+  "summary": {
+   "fr": "Midrange Golgari sans rouge : défausse, Fatal Push et Abrupt Decay soutenus par Tarmogoyf, Dark Confidant et Liliana of the Veil.",
+   "en": "Golgari midrange without red: discard, Fatal Push and Abrupt Decay backed by Tarmogoyf, Dark Confidant and Liliana of the Veil."
+  },
+  "why": {
+   "fr": [
+    "Abandonner le rouge donnait une base de mana bicolore plus sûre",
+    "Dark Confidant remplissait la main dans les parties longues",
+    "Scavenging Ooze et Hexdrinker étaient des deux-drops qui grandissaient en fin de partie"
+   ],
+   "en": [
+    "Dropping red gave a cleaner two-colour mana base",
+    "Dark Confidant refilled the hand in grinding matchups",
+    "Scavenging Ooze and Hexdrinker were two-drops that scaled late"
+   ]
+  }
  },
  {
   "name": "Eldrazi Tron",
@@ -168,7 +343,32 @@
    "E Tron",
    "Eldrazi",
    "Colorless Eldrazi"
-  ]
+  ],
+  "rep": 404712,
+  "cover": "Thought-Knot Seer",
+  "keyCards": [
+   "Thought-Knot Seer",
+   "Reality Smasher",
+   "Karn, the Great Creator",
+   "Chalice of the Void",
+   "Matter Reshaper"
+  ],
+  "summary": {
+   "fr": "Rampe incolore qui utilise Eldrazi Temple et les terrains Tron pour poser tôt Chalice of the Void, Thought-Knot Seer et Reality Smasher ; Karn, the Great Creator va chercher des artefacts au sideboard.",
+   "en": "Colourless ramp using Eldrazi Temple and the Tron lands to deploy Chalice of the Void, Thought-Knot Seer and Reality Smasher early; Karn, the Great Creator fetches artifacts from the sideboard."
+  },
+  "why": {
+   "fr": [
+    "Chalice of the Void sur un bloquait les sorts bon marché de l'aggro et du combo",
+    "Thought-Knot Seer alliait perturbation et gros corps dès le tour trois",
+    "Karn, the Great Creator donnait accès à une panoplie d'artefacts du sideboard"
+   ],
+   "en": [
+    "Chalice of the Void on one shut off cheap spells from aggro and combo",
+    "Thought-Knot Seer combined disruption with a large body on turn three",
+    "Karn, the Great Creator gave a toolbox of sideboard artifacts"
+   ]
+  }
  },
  {
   "name": "Mono-Green Tron",
@@ -183,7 +383,32 @@
    "Green Tron",
    "100% Foil Mono Green Tron",
    "Wish Tron"
-  ]
+  ],
+  "rep": 373593,
+  "cover": "Karn Liberated",
+  "keyCards": [
+   "Karn Liberated",
+   "Wurmcoil Engine",
+   "Ugin, the Spirit Dragon",
+   "Ancient Stirrings",
+   "Expedition Map"
+  ],
+  "summary": {
+   "fr": "Assemble Urza's Mine, Power Plant et Tower avec Expedition Map, Sylvan Scrying et Ancient Stirrings pour lancer Karn Liberated, Wurmcoil Engine et Ugin dès le tour trois ou quatre.",
+   "en": "Assembles Urza's Mine, Power Plant and Tower with Expedition Map, Sylvan Scrying and Ancient Stirrings to cast Karn Liberated, Wurmcoil Engine and Ugin by turn three or four."
+  },
+  "why": {
+   "fr": [
+    "Chromatic Star et Chromatic Sphere corrigeaient les couleurs et piochaient",
+    "Ugin et Oblivion Stone balayaient le board des decks agressifs",
+    "Ulamog et Emrakul, the Promised End servaient de conclusions tardives"
+   ],
+   "en": [
+    "Chromatic Star and Chromatic Sphere fixed colours and replaced themselves",
+    "Ugin and Oblivion Stone swept the boards of aggressive decks",
+    "Ulamog and Emrakul, the Promised End were late-game finishers"
+   ]
+  }
  },
  {
   "name": "Red Deck Wins",
@@ -196,7 +421,32 @@
   "include": [
    420263,
    422370
-  ]
+  ],
+  "rep": 417514,
+  "cover": "Bonecrusher Giant",
+  "keyCards": [
+   "Bonecrusher Giant",
+   "Seasoned Pyromancer",
+   "Soul-Scar Mage",
+   "Monastery Swiftspear",
+   "Firebolt"
+  ],
+  "summary": {
+   "fr": "Aggro mono-rouge à la courbe un peu plus haute que Prowess : Bonecrusher Giant et Seasoned Pyromancer ajoutent de l'avantage aux Swiftspear, Soul-Scar Mage et burn. Des listes ont gagné les MTGO Modern Champs de septembre et un Champions Showcase.",
+   "en": "Mono-red aggro with a slightly higher curve than Prowess: Bonecrusher Giant and Seasoned Pyromancer add card advantage to Swiftspear, Soul-Scar Mage and burn. Lists won the September MTGO Modern Champs and a Champions Showcase."
+  },
+  "why": {
+   "fr": [
+    "Bonecrusher Giant était à la fois removal et créature",
+    "Seasoned Pyromancer rechargeait la main dans les parties longues",
+    "Firebolt et Flame Slash s'occupaient des petites créatures"
+   ],
+   "en": [
+    "Bonecrusher Giant was removal and a body in one card",
+    "Seasoned Pyromancer refuelled the hand in longer games",
+    "Firebolt and Flame Slash handled small creatures"
+   ]
+  }
  },
  {
   "name": "Boros Prowess",
@@ -208,7 +458,32 @@
   "include": [
    393844,
    416783
-  ]
+  ],
+  "rep": 390010,
+  "cover": "Soul-Scar Mage",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Abbot of Keral Keep",
+   "Path to Exile",
+   "Lurrus of the Dream-Den"
+  ],
+  "summary": {
+   "fr": "Version blanc-rouge des decks prowess Lurrus du printemps 2020 : petites créatures rouges, Lava Dart et Seal of Fire, avec Path to Exile et Lurrus of the Dream-Den en compagnon.",
+   "en": "White-red version of the Lurrus prowess decks of spring 2020: cheap red creatures, Lava Dart and Seal of Fire, with Path to Exile and Lurrus of the Dream-Den as companion."
+  },
+  "why": {
+   "fr": [
+    "Lurrus relançait Mishra's Bauble, Seal of Fire et Soul-Guide Lantern depuis le cimetière",
+    "Path to Exile répondait aux créatures que le burn ne tuait pas",
+    "Lava Dart déclenchait deux fois prowess pour une seule carte"
+   ],
+   "en": [
+    "Lurrus recast Mishra's Bauble, Seal of Fire and Soul-Guide Lantern from the graveyard",
+    "Path to Exile answered creatures that burn could not",
+    "Lava Dart triggered prowess twice for one card"
+   ]
+  }
  },
  {
   "name": "Mono-Red Prowess",
@@ -221,7 +496,32 @@
    "Prowess",
    "RDW",
    "Gruul Aggro"
-  ]
+  ],
+  "rep": 369845,
+  "cover": "Monastery Swiftspear",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Bedlam Reveler",
+   "Runaway Steam-Kin",
+   "Crash Through"
+  ],
+  "summary": {
+   "fr": "Prowess mono-rouge rempli de sorts bon marché : Swiftspear, Soul-Scar Mage et Runaway Steam-Kin attaquent pendant que Manamorphose, Crash Through et le burn les déclenchent ; Bedlam Reveler recharge la main.",
+   "en": "Mono-red prowess deck full of cheap spells: Swiftspear, Soul-Scar Mage and Runaway Steam-Kin attack while Manamorphose, Crash Through and burn trigger them; Bedlam Reveler refills the hand."
+  },
+  "why": {
+   "fr": [
+    "Manamorphose et Crash Through déclenchaient prowess sans coûter de carte",
+    "Light Up the Stage et Bedlam Reveler apportaient de l'avantage de cartes",
+    "Après Ikoria, beaucoup de listes ajoutèrent Lurrus of the Dream-Den en compagnon"
+   ],
+   "en": [
+    "Manamorphose and Crash Through triggered prowess at no card cost",
+    "Light Up the Stage and Bedlam Reveler supplied card advantage",
+    "After Ikoria many lists added Lurrus of the Dream-Den as companion"
+   ]
+  }
  },
  {
   "name": "Izzet Prowess",
@@ -231,7 +531,32 @@
    "UR Aggro",
    "Ur Prowess",
    "UR Prowess"
-  ]
+  ],
+  "rep": 426064,
+  "cover": "Sprite Dragon",
+  "keyCards": [
+   "Stormwing Entity",
+   "Sprite Dragon",
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Lava Dart"
+  ],
+  "summary": {
+   "fr": "Prowess bleu-rouge de la seconde moitié de 2020 : Sprite Dragon (Ikoria) et Stormwing Entity (Édition de base 2021) rejoignent Swiftspear et Soul-Scar Mage derrière cantrips et burn.",
+   "en": "Blue-red prowess of the second half of 2020: Sprite Dragon from Ikoria and Stormwing Entity from Core Set 2021 join Swiftspear and Soul-Scar Mage behind cantrips and burn."
+  },
+  "why": {
+   "fr": [
+    "Opt et Manamorphose entretenaient le flux de sorts pour prowess et Sprite Dragon",
+    "Stormwing Entity arrivait souvent pour un seul mana bleu",
+    "Lightning Bolt et Lava Dart infligeaient les derniers points de dégâts"
+   ],
+   "en": [
+    "Opt and Manamorphose kept spells flowing for prowess and Sprite Dragon",
+    "Stormwing Entity often came down for a single blue mana",
+    "Lightning Bolt and Lava Dart pushed through the last points of damage"
+   ]
+  }
  },
  {
   "name": "Rakdos Prowess",
@@ -240,7 +565,32 @@
   "titles": [
    "Rakdos Aggro",
    "Mardu Lurrus"
-  ]
+  ],
+  "rep": 411739,
+  "cover": "Kiln Fiend",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Kiln Fiend",
+   "Thoughtseize",
+   "Lurrus of the Dream-Den"
+  ],
+  "summary": {
+   "fr": "Prowess noir-rouge construit autour de Lurrus of the Dream-Den : Thoughtseize et Cling to Dust rejoignent créatures rouges, Mishra's Bauble et Seal of Fire que Lurrus peut relancer.",
+   "en": "Black-red prowess built around Lurrus of the Dream-Den: Thoughtseize and Cling to Dust join red creatures, Mishra's Bauble and Seal of Fire that Lurrus can recast."
+  },
+  "why": {
+   "fr": [
+    "Lurrus récupérait les permanents à un et deux mana dans les parties longues",
+    "Thoughtseize donnait à ce deck agressif de la perturbation contre le combo",
+    "Kiln Fiend transformait une chaîne de petits sorts en grosses attaques"
+   ],
+   "en": [
+    "Lurrus recurred one- and two-mana permanents in long games",
+    "Thoughtseize gave the aggressive shell disruption against combo",
+    "Kiln Fiend turned a chain of cheap spells into large attacks"
+   ]
+  }
  },
  {
   "name": "Burn",
@@ -251,7 +601,32 @@
    "Naya Burn",
    "Lurrus Burn",
    "Boros Burn"
-  ]
+  ],
+  "rep": 378921,
+  "cover": "Goblin Guide",
+  "keyCards": [
+   "Goblin Guide",
+   "Eidolon of the Great Revel",
+   "Lightning Bolt",
+   "Boros Charm",
+   "Skewer the Critics"
+  ],
+  "summary": {
+   "fr": "Burn Boros : créatures à un mana avec la célérité et dégâts directs comme Lightning Bolt, Rift Bolt, Lava Spike et Boros Charm visant l'adversaire, Eidolon of the Great Revel punissant les sorts bon marché.",
+   "en": "Boros burn: hasty one-drops and direct damage such as Lightning Bolt, Rift Bolt, Lava Spike and Boros Charm aimed at the opponent, with Eidolon of the Great Revel punishing cheap spells."
+  },
+  "why": {
+   "fr": [
+    "Skewer the Critics coûtait un mana dès qu'un dégât avait été infligé",
+    "Searing Blaze et Skullcrack géraient créatures et gains de vie",
+    "Fetchlands et shocklands adverses faisaient une partie du travail"
+   ],
+   "en": [
+    "Skewer the Critics cost one mana after any damage was dealt",
+    "Searing Blaze and Skullcrack handled creatures and lifegain",
+    "Fetchlands and shocklands in opposing decks did part of the work"
+   ]
+  }
  },
  {
   "name": "Dredge",
@@ -260,7 +635,32 @@
   "titles": [
    "Dredge",
    "Other - Aggro"
-  ]
+  ],
+  "rep": 376041,
+  "cover": "Prized Amalgam",
+  "keyCards": [
+   "Prized Amalgam",
+   "Creeping Chill",
+   "Stinkweed Imp",
+   "Bloodghast",
+   "Cathartic Reunion"
+  ],
+  "summary": {
+   "fr": "Deck cimetière qui défausse et dredge avec Cathartic Reunion et Stinkweed Imp, puis récupère gratuitement Prized Amalgam, Bloodghast et Narcomoeba pour attaquer.",
+   "en": "Graveyard deck that discards and dredges with Cathartic Reunion and Stinkweed Imp, returning Prized Amalgam, Bloodghast and Narcomoeba for free attacks."
+  },
+  "why": {
+   "fr": [
+    "Creeping Chill infligeait des dégâts et rendait des vies quand il était meulé",
+    "Life from the Loam fournissait des terrains et relançait le dredge",
+    "Les adversaires devaient consacrer des places de sideboard à la haine de cimetière"
+   ],
+   "en": [
+    "Creeping Chill dealt damage and gained life when milled",
+    "Life from the Loam supplied lands and kept dredging going",
+    "Opponents had to spend sideboard slots on graveyard hate"
+   ]
+  }
  },
  {
   "name": "Humans",
@@ -270,7 +670,32 @@
    "Humans",
    "Human",
    "5c Humans"
-  ]
+  ],
+  "rep": 375075,
+  "cover": "Thalia's Lieutenant",
+  "keyCards": [
+   "Champion of the Parish",
+   "Thalia's Lieutenant",
+   "Meddling Mage",
+   "Reflector Mage",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Aggro tribal pentacolore sur Ancient Ziggurat, Cavern of Souls et Aether Vial, mêlant Humains rapides et perturbation comme Thalia, Meddling Mage et Kitesail Freebooter.",
+   "en": "Five-colour tribal aggro on Ancient Ziggurat, Cavern of Souls and Aether Vial, mixing fast Humans with disruption such as Thalia, Meddling Mage and Kitesail Freebooter."
+  },
+  "why": {
+   "fr": [
+    "Cavern of Souls rendait les créatures impossibles à contrer",
+    "Meddling Mage et Kitesail Freebooter nommaient ou prenaient les sorts clés",
+    "Thalia's Lieutenant et Champion of the Parish faisaient grandir l'équipe"
+   ],
+   "en": [
+    "Cavern of Souls made the creatures uncounterable",
+    "Meddling Mage and Kitesail Freebooter named or took key spells",
+    "Thalia's Lieutenant and Champion of the Parish grew the team"
+   ]
+  }
  },
  {
   "name": "Urza Oko",
@@ -286,7 +711,32 @@
   "include": [
    369836,
    370021
-  ]
+  ],
+  "rep": 369601,
+  "cover": "Oko, Thief of Crowns",
+  "keyCards": [
+   "Urza, Lord High Artificer",
+   "Oko, Thief of Crowns",
+   "Mox Opal",
+   "Emry, Lurker of the Loch",
+   "Gilded Goose"
+  ],
+  "summary": {
+   "fr": "Deck d'artefacts Simic associant Urza, Lord High Artificer à Oko, Thief of Crowns, Mox Opal et Gilded Goose ; il prit la deuxième place et une place du top 4 du Grand Prix Austin avant les bannissements d'Oko et Mox Opal en janvier.",
+   "en": "Simic artifact deck pairing Urza, Lord High Artificer with Oko, Thief of Crowns, Mox Opal and Gilded Goose; it took second and a top-four seat at Grand Prix Austin before the January bans of Oko and Mox Opal."
+  },
+  "why": {
+   "fr": [
+    "Oko transformait artefacts et menaces adverses en Élans 3/3",
+    "Mox Opal et Arcum's Astrolabe facilitaient métallurgie et mana",
+    "Urza transformait les petits artefacts en mana et en Construct"
+   ],
+   "en": [
+    "Oko turned artifacts and opposing threats into 3/3 Elks",
+    "Mox Opal and Arcum's Astrolabe made metalcraft and mana easy",
+    "Urza turned cheap artifacts into mana and a Construct"
+   ]
+  }
  },
  {
   "name": "Whirza",
@@ -302,7 +752,32 @@
    "Jeskai Urza",
    "4c Urza",
    "Urza Ascendancy"
-  ]
+  ],
+  "rep": 374472,
+  "cover": "Urza, Lord High Artificer",
+  "keyCards": [
+   "Urza, Lord High Artificer",
+   "Thopter Foundry",
+   "Sword of the Meek",
+   "Whir of Invention",
+   "Emry, Lurker of the Loch"
+  ],
+  "summary": {
+   "fr": "Deck d'artefacts Urza après les bannissements de janvier, bâti sur le combo Thopter Foundry et Sword of the Meek trouvé par Whir of Invention ; Arcum's Astrolabe corrigeait le mana jusqu'à son bannissement en juillet.",
+   "en": "Urza artifact deck after the January bans, built on the Thopter Foundry and Sword of the Meek combo found by Whir of Invention; Arcum's Astrolabe fixed the mana until its July ban."
+  },
+  "why": {
+   "fr": [
+    "Chaque boucle de Sword of the Meek avec Thopter Foundry créait un Thopter et rendait une vie",
+    "Urza engageait les artefacts pour payer les boucles",
+    "Emry permettait de relancer Mishra's Bauble et Astrolabe depuis le cimetière"
+   ],
+   "en": [
+    "Each Sword of the Meek loop through Thopter Foundry made a Thopter and gained life",
+    "Urza tapped artifacts for mana to pay for the loops",
+    "Emry let Mishra's Bauble and Astrolabe be cast again from the graveyard"
+   ]
+  }
  },
  {
   "name": "Grinding Breach",
@@ -310,7 +785,32 @@
   "archetype": "combo",
   "titles": [
    "Breach"
-  ]
+  ],
+  "rep": 373850,
+  "cover": "Underworld Breach",
+  "keyCards": [
+   "Underworld Breach",
+   "Grinding Station",
+   "Mox Amber",
+   "Emry, Lurker of the Loch",
+   "Thassa's Oracle"
+  ],
+  "summary": {
+   "fr": "Combo éphémère du printemps 2020 : Underworld Breach relance depuis le cimetière des artefacts à zéro ou un mana, chacun dégageant Grinding Station, jusqu'à meuler une bibliothèque entière.",
+   "en": "Short-lived spring 2020 combo: Underworld Breach recasts zero- and one-mana artifacts from the graveyard, each untapping Grinding Station, until a library is milled out."
+  },
+  "why": {
+   "fr": [
+    "Mox Amber et Mishra's Bauble coûtaient assez peu pour être relancés souvent",
+    "Thassa's Oracle offrait une seconde façon de gagner avec le même moteur",
+    "Teferi, Time Raveler et Metallic Rebuke protégeaient le tour du combo"
+   ],
+   "en": [
+    "Mox Amber and Mishra's Bauble were cheap enough to recast many times",
+    "Thassa's Oracle offered a second way to win with the same engine",
+    "Teferi, Time Raveler and Metallic Rebuke protected the combo turn"
+   ]
+  }
  },
  {
   "name": "Bant Snow",
@@ -329,7 +829,32 @@
    "UWg",
    "Bant Aggro",
    "Sneaky Snake"
-  ]
+  ],
+  "rep": 374451,
+  "cover": "Uro, Titan of Nature's Wrath",
+  "keyCards": [
+   "Uro, Titan of Nature's Wrath",
+   "Teferi, Time Raveler",
+   "Jace, the Mind Sculptor",
+   "Ice-Fang Coatl",
+   "Arcum's Astrolabe"
+  ],
+  "summary": {
+   "fr": "Contrôle Bant sur terrains de base neigeux : Arcum's Astrolabe et Ice-Fang Coatl lissaient le mana jusqu'en juillet, tandis qu'Uro, Teferi, Time Raveler et Jace, the Mind Sculptor apportaient avantage et conclusion.",
+   "en": "Bant control on snow basics: Arcum's Astrolabe and Ice-Fang Coatl smoothed the mana until July, while Uro, Teferi, Time Raveler and Jace, the Mind Sculptor gave card advantage and a finish."
+  },
+  "why": {
+   "fr": [
+    "Uro rendait des vies, piochait et accélérait, puis revenait du cimetière",
+    "Teferi, Time Raveler coupait l'interaction adverse à vitesse instantanée",
+    "Certaines listes ajoutaient Stoneforge Mystic et Batterskull"
+   ],
+   "en": [
+    "Uro gained life, drew and ramped, then returned from the graveyard",
+    "Teferi, Time Raveler shut off opposing instant-speed interaction",
+    "Some lists added Stoneforge Mystic and Batterskull"
+   ]
+  }
  },
  {
   "name": "Sultai Uro",
@@ -339,7 +864,32 @@
    "Sultai Control",
    "UGb",
    "Sultai Uro"
-  ]
+  ],
+  "rep": 374460,
+  "cover": "Uro, Titan of Nature's Wrath",
+  "keyCards": [
+   "Uro, Titan of Nature's Wrath",
+   "Ice-Fang Coatl",
+   "Tarmogoyf",
+   "Thought Scour",
+   "Assassin's Trophy"
+  ],
+  "summary": {
+   "fr": "Version Sultai des decks Uro : Ice-Fang Coatl, Fatal Push et Assassin's Trophy avec Uro et Tarmogoyf comme menaces, Thought Scour alimentant l'évasion d'Uro.",
+   "en": "Sultai take on the Uro decks: Ice-Fang Coatl, Fatal Push and Assassin's Trophy with Uro and Tarmogoyf as threats, Thought Scour feeding Uro's escape."
+  },
+  "why": {
+   "fr": [
+    "Thought Scour remplissait le cimetière pour faire revenir Uro tôt",
+    "Fatal Push et Assassin's Trophy répondaient aux menaces que Bant ne gérait pas",
+    "Ice-Fang Coatl bloquait avec contact mortel et remplaçait sa carte"
+   ],
+   "en": [
+    "Thought Scour filled the graveyard to escape Uro early",
+    "Fatal Push and Assassin's Trophy answered threats Bant could not",
+    "Ice-Fang Coatl was a deathtouch blocker that replaced itself"
+   ]
+  }
  },
  {
   "name": "Temur Uro",
@@ -349,7 +899,32 @@
    "Temur Control",
    "Snow Temur Control",
    "Temur Control PW"
-  ]
+  ],
+  "rep": 400304,
+  "cover": "Uro, Titan of Nature's Wrath",
+  "keyCards": [
+   "Uro, Titan of Nature's Wrath",
+   "Wrenn and Six",
+   "Ice-Fang Coatl",
+   "Brazen Borrower",
+   "Cryptic Command"
+  ],
+  "summary": {
+   "fr": "Contrôle Temur neigeux : Wrenn and Six, Lightning Bolt et Ice-Fang Coatl gèrent les petites créatures, Uro et Cryptic Command prennent le dessus dans les parties longues.",
+   "en": "Temur snow control: Wrenn and Six, Lightning Bolt and Ice-Fang Coatl handle small creatures while Uro and Cryptic Command take over longer games."
+  },
+  "why": {
+   "fr": [
+    "Wrenn and Six tuait les créatures x/1 et récupérait les fetchlands",
+    "Brazen Borrower servait à la fois de sort de tempo et de menace à flash",
+    "Lightning Bolt donnait la portée qui manquait aux listes vert-bleu"
+   ],
+   "en": [
+    "Wrenn and Six pinged x/1 creatures and recurred fetchlands",
+    "Brazen Borrower doubled as tempo spell and flash threat",
+    "Lightning Bolt gave reach that green-blue lists lacked"
+   ]
+  }
  },
  {
   "name": "4c Snow Control",
@@ -363,7 +938,32 @@
    "4c Yorion Control",
    "4c Yorion control",
    "4c Snow"
-  ]
+  ],
+  "rep": 392907,
+  "cover": "Uro, Titan of Nature's Wrath",
+  "keyCards": [
+   "Uro, Titan of Nature's Wrath",
+   "Teferi, Hero of Dominaria",
+   "Kaya's Guile",
+   "Abundant Growth",
+   "Yorion, Sky Nomad"
+  ],
+  "summary": {
+   "fr": "Contrôle neigeux quadricolore sur Arcum's Astrolabe, Abundant Growth et Uro, ajoutant Abrupt Decay, Assassin's Trophy et Kaya's Guile au noyau Bant ; beaucoup de listes prenaient Yorion, Sky Nomad en compagnon.",
+   "en": "Four-colour snow control on Arcum's Astrolabe, Abundant Growth and Uro, adding Abrupt Decay, Assassin's Trophy and Kaya's Guile to the Bant core; many lists used Yorion, Sky Nomad as companion."
+  },
+  "why": {
+   "fr": [
+    "Astrolabe et Abundant Growth permettaient à un contrôle de jouer quatre couleurs",
+    "Le removal noir couvrait les menaces que les réponses blanc-bleu manquaient",
+    "Yorion autorisait un deck de 80 cartes et offrait un coup de valeur tardif"
+   ],
+   "en": [
+    "Astrolabe and Abundant Growth let a control deck play four colours",
+    "Black removal covered threats that blue-white answers missed",
+    "Yorion supported an 80-card deck and gave a late value play"
+   ]
+  }
  },
  {
   "name": "4c Omnath",
@@ -381,7 +981,32 @@
   "include": [
    419415,
    423421
-  ]
+  ],
+  "rep": 421766,
+  "cover": "Omnath, Locus of Creation",
+  "keyCards": [
+   "Omnath, Locus of Creation",
+   "Uro, Titan of Nature's Wrath",
+   "Wrenn and Six",
+   "Teferi, Time Raveler",
+   "Growth Spiral"
+  ],
+  "summary": {
+   "fr": "Rampe Uro quadricolore de fin 2020 : Omnath, Locus of Creation (Zendikar Rising) transforme fetchlands et poses de terrain supplémentaires en vies et en mana, aux côtés d'Uro, Wrenn and Six et Teferi.",
+   "en": "Four-colour Uro ramp of late 2020: Omnath, Locus of Creation from Zendikar Rising turns fetchlands and extra land drops into life and mana, alongside Uro, Wrenn and Six and Teferi."
+  },
+  "why": {
+   "fr": [
+    "Growth Spiral, Uro et les fetchlands déclenchaient plusieurs fois par tour l'atterrissage d'Omnath",
+    "Wrenn and Six et Path to Exile géraient les menaces précoces",
+    "Cryptic Command et Force of Negation protégeaient le plan"
+   ],
+   "en": [
+    "Growth Spiral, Uro and fetchlands triggered Omnath's landfall several times a turn",
+    "Wrenn and Six and Path to Exile handled early threats",
+    "Cryptic Command and Force of Negation protected the plan"
+   ]
+  }
  },
  {
   "name": "Temur Reclamation",
@@ -393,7 +1018,32 @@
    "Simic Reclamation",
    "Sultai Reclamation",
    "Bant Reclamation"
-  ]
+  ],
+  "rep": 374268,
+  "cover": "Wilderness Reclamation",
+  "keyCards": [
+   "Wilderness Reclamation",
+   "Uro, Titan of Nature's Wrath",
+   "Remand",
+   "Fact or Fiction",
+   "Nexus of Fate"
+  ],
+  "summary": {
+   "fr": "Contrôle Temur à vitesse instantanée : Wilderness Reclamation dégage les terrains en fin de tour pour Fact or Fiction et Cryptic Command, avec Uro et Nexus of Fate comme menaces tardives.",
+   "en": "Instant-speed Temur control: Wilderness Reclamation untaps lands at the end of turn for Fact or Fiction and Cryptic Command, with Uro and Nexus of Fate as later threats."
+  },
+  "why": {
+   "fr": [
+    "Wilderness Reclamation doublait le mana des sorts lancés pendant le tour adverse",
+    "Remand et Force of Negation tenaient les decks plus rapides à distance",
+    "Nexus of Fate donnait des tours supplémentaires une fois le mana abondant"
+   ],
+   "en": [
+    "Wilderness Reclamation doubled mana for spells cast on the opponent's turn",
+    "Remand and Force of Negation held off faster decks",
+    "Nexus of Fate took extra turns once mana was abundant"
+   ]
+  }
  },
  {
   "name": "UW Control",
@@ -403,7 +1053,32 @@
    "UW Control",
    "Uw Control",
    "Esper Control"
-  ]
+  ],
+  "rep": 370329,
+  "cover": "Jace, the Mind Sculptor",
+  "keyCards": [
+   "Jace, the Mind Sculptor",
+   "Teferi, Hero of Dominaria",
+   "Narset, Parter of Veils",
+   "Supreme Verdict",
+   "Snapcaster Mage"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius draw-go : contresorts, Path to Exile et Supreme Verdict, avec Jace, the Mind Sculptor, Teferi et Narset, Parter of Veils comme moteurs et conditions de victoire.",
+   "en": "Azorius draw-go control: counterspells, Path to Exile and Supreme Verdict, with Jace, the Mind Sculptor, Teferi and Narset, Parter of Veils as card engines and win conditions."
+  },
+  "why": {
+   "fr": [
+    "Supreme Verdict et Path to Exile couvraient les decks de créatures",
+    "Narset, Parter of Veils limitait la pioche adverse",
+    "Snapcaster Mage réutilisait contresorts et removal"
+   ],
+   "en": [
+    "Supreme Verdict and Path to Exile covered creature decks",
+    "Narset, Parter of Veils limited opposing card draw",
+    "Snapcaster Mage reused counters and removal"
+   ]
+  }
  },
  {
   "name": "UW Stoneblade",
@@ -415,7 +1090,32 @@
    "UW Stoneblade",
    "Uw Stoneblade",
    "Esper Stoneblade"
-  ]
+  ],
+  "rep": 372123,
+  "cover": "Stoneforge Mystic",
+  "keyCards": [
+   "Stoneforge Mystic",
+   "Batterskull",
+   "Spell Queller",
+   "Snapcaster Mage",
+   "Jace, the Mind Sculptor"
+  ],
+  "summary": {
+   "fr": "Tempo-contrôle Azorius qui utilise Stoneforge Mystic pour mettre tôt en jeu Batterskull ou Sword of Feast and Famine, soutenu par Spell Queller, des contresorts et Jace, the Mind Sculptor.",
+   "en": "Azorius tempo-control using Stoneforge Mystic to put Batterskull or Sword of Feast and Famine into play early, backed by Spell Queller, counterspells and Jace, the Mind Sculptor."
+  },
+  "why": {
+   "fr": [
+    "Stoneforge Mystic mettait Batterskull en jeu pour deux mana",
+    "Spell Queller exilait un sort et laissait une créature volante",
+    "Teferi, Time Raveler émoussait les réponses à vitesse instantanée"
+   ],
+   "en": [
+    "Stoneforge Mystic put Batterskull into play for two mana",
+    "Spell Queller exiled a spell and left a flying body",
+    "Teferi, Time Raveler blunted instant-speed answers"
+   ]
+  }
  },
  {
   "name": "Jeskai Control",
@@ -423,7 +1123,32 @@
   "archetype": "control",
   "titles": [
    "Jeskai Control"
-  ]
+  ],
+  "rep": 426411,
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "Lightning Helix",
+   "Snapcaster Mage",
+   "Shark Typhoon",
+   "Cleansing Wildfire"
+  ],
+  "summary": {
+   "fr": "Contrôle Jeskai qui ajoute Lightning Bolt et Lightning Helix au noyau Azorius de contresorts, Teferi et Jace ; les listes tardives jouaient Shark Typhoon et Cleansing Wildfire.",
+   "en": "Jeskai control adding Lightning Bolt and Lightning Helix to the Azorius core of counterspells, Teferi and Jace; late lists used Shark Typhoon and Cleansing Wildfire."
+  },
+  "why": {
+   "fr": [
+    "Le burn rouge répondait aux créatures précoces et rendait des vies",
+    "Shark Typhoon était une menace instantanée qu'on pouvait recycler",
+    "Teferi, Hero of Dominaria concluait les parties longues"
+   ],
+   "en": [
+    "Red burn answered early creatures and gained life",
+    "Shark Typhoon was an instant-speed threat that cycled when not needed",
+    "Teferi, Hero of Dominaria closed long games"
+   ]
+  }
  },
  {
   "name": "Gruul Midrange",
@@ -440,7 +1165,32 @@
    "Rg Midrange",
    "Gruul Utopia - Stoneforge",
    "Temur Aggro"
-  ]
+  ],
+  "rep": 407148,
+  "cover": "Klothys, God of Destiny",
+  "keyCards": [
+   "Utopia Sprawl",
+   "Arbor Elf",
+   "Klothys, God of Destiny",
+   "Glorybringer",
+   "Bloodbraid Elf"
+  ],
+  "summary": {
+   "fr": "Midrange rouge-vert héritier de Ponza : Utopia Sprawl et Arbor Elf accélèrent vers Bloodbraid Elf, Glorybringer et Chandra, avec Pillage et des effets Blood Moon contre les bases de mana gourmandes.",
+   "en": "Red-green midrange descended from Ponza: Utopia Sprawl and Arbor Elf ramp into Bloodbraid Elf, Glorybringer and Chandra, with Pillage and Blood Moon effects against greedy mana bases."
+  },
+  "why": {
+   "fr": [
+    "Arbor Elf dégageant Utopia Sprawl donnait trois mana au tour deux",
+    "Klothys, God of Destiny était une source de dégâts et de mana difficile à retirer",
+    "Magus of the Moon et Blood Moon punissaient les decks tri- et quadricolores"
+   ],
+   "en": [
+    "Arbor Elf untapping Utopia Sprawl gave three mana on turn two",
+    "Klothys, God of Destiny was a hard-to-remove source of damage and mana",
+    "Magus of the Moon and Blood Moon punished three- and four-colour decks"
+   ]
+  }
  },
  {
   "name": "Titan Valakut",
@@ -453,7 +1203,32 @@
    "Titan Breach",
    "Realmshift",
    "Simic Ramp"
-  ]
+  ],
+  "rep": 375442,
+  "cover": "Primeval Titan",
+  "keyCards": [
+   "Primeval Titan",
+   "Dryad of the Ilysian Grove",
+   "Summoner's Pact",
+   "Arboreal Grazer",
+   "Karn, the Great Creator"
+  ],
+  "summary": {
+   "fr": "Rampe verte sur Primeval Titan, Valakut, the Molten Pinnacle et Field of the Dead : Sakura-Tribe Elder, Explore et Dryad of the Ilysian Grove mènent à six mana, puis Titan va chercher les terrains qui gagnent.",
+   "en": "Green ramp on Primeval Titan, Valakut, the Molten Pinnacle and Field of the Dead: Sakura-Tribe Elder, Explore and Dryad of the Ilysian Grove reach six mana, then Titan fetches the lands that win."
+  },
+  "why": {
+   "fr": [
+    "Dryad of the Ilysian Grove faisait de chaque terrain une Montagne pour Valakut",
+    "Field of the Dead offrait une seconde victoire par les terrains",
+    "Summoner's Pact trouvait Titan sans dépenser de mana ce tour-là"
+   ],
+   "en": [
+    "Dryad of the Ilysian Grove made every land a Mountain for Valakut",
+    "Field of the Dead gave a second land-based way to win",
+    "Summoner's Pact found Titan without spending mana that turn"
+   ]
+  }
  },
  {
   "name": "Simic Titan",
@@ -462,7 +1237,32 @@
   "titles": [
    "Simic Ramp Field of the Dead",
    "Bant Field"
-  ]
+  ],
+  "rep": 369600,
+  "cover": "Primeval Titan",
+  "keyCards": [
+   "Primeval Titan",
+   "Oko, Thief of Crowns",
+   "Arboreal Grazer",
+   "Field of the Dead",
+   "Castle Garenbrig"
+  ],
+  "summary": {
+   "fr": "Rampe Primeval Titan Simic avec Field of the Dead et Castle Garenbrig, plus Oko, Thief of Crowns ; une liste a gagné le Grand Prix Austin en janvier, juste avant le bannissement d'Oko.",
+   "en": "Simic Primeval Titan ramp with Field of the Dead and Castle Garenbrig, plus Oko, Thief of Crowns; a list won Grand Prix Austin in January, just before Oko was banned."
+  },
+  "why": {
+   "fr": [
+    "Castle Garenbrig et Arboreal Grazer accéléraient vers Titan",
+    "Field of the Dead transformait les recherches de terrains de Titan en Zombies",
+    "Craterhoof Behemoth concluait une fois les Zombies en jeu"
+   ],
+   "en": [
+    "Castle Garenbrig and Arboreal Grazer accelerated into Titan",
+    "Field of the Dead turned Titan's land searches into Zombies",
+    "Craterhoof Behemoth ended games once the Zombies were out"
+   ]
+  }
  },
  {
   "name": "Temur Scapeshift",
@@ -471,7 +1271,32 @@
   "titles": [
    "Scapeshift",
    "Temur Scapeshift"
-  ]
+  ],
+  "rep": 393850,
+  "cover": "Scapeshift",
+  "keyCards": [
+   "Scapeshift",
+   "Uro, Titan of Nature's Wrath",
+   "Remand",
+   "Bring to Light",
+   "Growth Spiral"
+  ],
+  "summary": {
+   "fr": "Contrôle Scapeshift bleu-vert-rouge : Remand, Cryptic Command et Uro gagnent du temps jusqu'à ce que Scapeshift, ou Bring to Light qui le trouve, sacrifie les terrains pour des déclenchements létaux de Valakut.",
+   "en": "Blue-green-red Scapeshift control: Remand, Cryptic Command and Uro buy time until Scapeshift, or Bring to Light into it, sacrifices lands for lethal Valakut triggers."
+  },
+  "why": {
+   "fr": [
+    "Growth Spiral et Uro menaient aux sept terrains nécessaires à Scapeshift",
+    "Bring to Light servait de deuxième exemplaire de Scapeshift",
+    "Ice-Fang Coatl et Lightning Bolt contenaient la pression précoce"
+   ],
+   "en": [
+    "Growth Spiral and Uro reached the seven lands Scapeshift needed",
+    "Bring to Light acted as a second copy of Scapeshift",
+    "Ice-Fang Coatl and Lightning Bolt handled early pressure"
+   ]
+  }
  },
  {
   "name": "Heliod Company",
@@ -503,7 +1328,32 @@
    424192,
    424949,
    426766
-  ]
+  ],
+  "rep": 374435,
+  "cover": "Heliod, Sun-Crowned",
+  "keyCards": [
+   "Heliod, Sun-Crowned",
+   "Spike Feeder",
+   "Walking Ballista",
+   "Collected Company",
+   "Devoted Druid"
+  ],
+  "summary": {
+   "fr": "Combo de créatures Selesnya : Heliod, Sun-Crowned avec Walking Ballista ou Spike Feeder produit des dégâts ou des vies sans limite, trouvés par Collected Company ; beaucoup de listes portaient aussi le combo Devoted Druid.",
+   "en": "Selesnya creature combo: Heliod, Sun-Crowned with Walking Ballista or Spike Feeder makes unbounded damage or life, found by Collected Company; many lists also carried the Devoted Druid combo."
+  },
+  "why": {
+   "fr": [
+    "Des combos à deux cartes se cachaient dans un deck de créatures honnêtes",
+    "Collected Company et Chord of Calling allaient chercher la pièce manquante",
+    "Ranger-Captain of Eos empêchait les sorts adverses pendant le tour du combo"
+   ],
+   "en": [
+    "Two-card combos sat inside a deck of reasonable creatures",
+    "Collected Company and Chord of Calling dug for the missing piece",
+    "Ranger-Captain of Eos stopped opposing spells during the combo turn"
+   ]
+  }
  },
  {
   "name": "Yawgmoth",
@@ -525,7 +1375,32 @@
    374409,
    410191,
    425654
-  ]
+  ],
+  "rep": 369507,
+  "cover": "Yawgmoth, Thran Physician",
+  "keyCards": [
+   "Yawgmoth, Thran Physician",
+   "Young Wolf",
+   "Strangleroot Geist",
+   "Geralf's Messenger",
+   "Chord of Calling"
+  ],
+  "summary": {
+   "fr": "Combo undying Golgari : Yawgmoth, Thran Physician sacrifie des créatures à persistance et retire leurs marqueurs pour les boucler, en piochant et drainant avec Blood Artist.",
+   "en": "Golgari undying combo: Yawgmoth, Thran Physician sacrifices undying creatures and removes their counters to loop them, drawing cards and draining with Blood Artist."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à persistance comme Young Wolf nourrissaient Yawgmoth gratuitement",
+    "Les marqueurs -1/-1 de Yawgmoth balayaient les petites créatures",
+    "Chord of Calling et Eldritch Evolution allaient chercher Yawgmoth"
+   ],
+   "en": [
+    "Undying creatures such as Young Wolf were free fodder for Yawgmoth",
+    "Yawgmoth's -1/-1 counters swept small creatures",
+    "Chord of Calling and Eldritch Evolution found Yawgmoth"
+   ]
+  }
  },
  {
   "name": "Devoted Druid",
@@ -543,7 +1418,32 @@
    "Tarmo Druid",
    "Bant Druid",
    "Creature's Toolbox"
-  ]
+  ],
+  "rep": 421335,
+  "cover": "Devoted Druid",
+  "keyCards": [
+   "Devoted Druid",
+   "Vizier of Remedies",
+   "Finale of Devastation",
+   "Postmortem Lunge",
+   "Eladamri's Call"
+  ],
+  "summary": {
+   "fr": "Combo de créatures où Vizier of Remedies permet à Devoted Druid de se dégager sans fin pour produire du mana, investi dans Finale of Devastation ou Walking Ballista pour gagner.",
+   "en": "Creature combo in which Vizier of Remedies lets Devoted Druid untap endlessly for mana, spent on Finale of Devastation or Walking Ballista to win."
+  },
+  "why": {
+   "fr": [
+    "Eladamri's Call et Postmortem Lunge trouvaient la pièce manquante",
+    "Giver of Runes protégeait Devoted Druid du removal",
+    "Finale of Devastation avec un mana illimité allait chercher n'importe quelle conclusion"
+   ],
+   "en": [
+    "Eladamri's Call and Postmortem Lunge found the missing combo piece",
+    "Giver of Runes protected Devoted Druid from removal",
+    "Finale of Devastation with unbounded mana fetched any finisher"
+   ]
+  }
  },
  {
   "name": "Ad Nauseam",
@@ -552,7 +1452,32 @@
   "titles": [
    "Ad Nauseam",
    "As Nauseam"
-  ]
+  ],
+  "rep": 381056,
+  "cover": "Ad Nauseam",
+  "keyCards": [
+   "Ad Nauseam",
+   "Angel's Grace",
+   "Phyrexian Unlife",
+   "Thassa's Oracle",
+   "Lotus Bloom"
+  ],
+  "summary": {
+   "fr": "Deck combo qui lance Ad Nauseam sous Angel's Grace ou Phyrexian Unlife pour piocher presque tout le deck, puis gagne avec Thassa's Oracle ou Lightning Storm.",
+   "en": "Combo deck that casts Ad Nauseam under Angel's Grace or Phyrexian Unlife to draw most of the deck, then wins with Thassa's Oracle or Lightning Storm."
+  },
+  "why": {
+   "fr": [
+    "Angel's Grace et Phyrexian Unlife rendaient la perte de vie sans effet",
+    "Thassa's Oracle donnait une victoire compacte en une carte",
+    "Spoils of the Vault et Simian Spirit Guide accéléraient la victoire"
+   ],
+   "en": [
+    "Angel's Grace and Phyrexian Unlife made the life loss irrelevant",
+    "Thassa's Oracle gave a compact one-card win",
+    "Spoils of the Vault and Simian Spirit Guide sped up the kill"
+   ]
+  }
  },
  {
   "name": "Infect",
@@ -560,7 +1485,32 @@
   "archetype": "aggro",
   "titles": [
    "Infect"
-  ]
+  ],
+  "rep": 372747,
+  "cover": "Glistener Elf",
+  "keyCards": [
+   "Glistener Elf",
+   "Blighted Agent",
+   "Might of Old Krosa",
+   "Vines of Vastwood",
+   "Scale Up"
+  ],
+  "summary": {
+   "fr": "Aggro vert-bleu qui renforce Glistener Elf ou Blighted Agent avec des sorts bon marché pour infliger dix marqueurs poison dès le tour trois.",
+   "en": "Green-blue aggro that pumps Glistener Elf or Blighted Agent with cheap spells to deal ten poison counters as early as turn three."
+  },
+  "why": {
+   "fr": [
+    "Scale Up, Might of Old Krosa et Groundswell donnaient de gros bonus pour peu de mana",
+    "Vines of Vastwood protégeait une créature tout en la renforçant",
+    "Blighted Agent, imblocable, passait les bloqueurs"
+   ],
+   "en": [
+    "Scale Up, Might of Old Krosa and Groundswell gave large cheap boosts",
+    "Vines of Vastwood protected a creature and pumped it",
+    "Blighted Agent's unblockability got through blockers"
+   ]
+  }
  },
  {
   "name": "UR Storm",
@@ -571,7 +1521,32 @@
    "UR Gifts Storm",
    "U/r Storm",
    "Storm"
-  ]
+  ],
+  "rep": 372180,
+  "cover": "Gifts Ungiven",
+  "keyCards": [
+   "Baral, Chief of Compliance",
+   "Goblin Electromancer",
+   "Gifts Ungiven",
+   "Past in Flames",
+   "Grapeshot"
+  ],
+  "summary": {
+   "fr": "Combo storm Izzet : réducteurs de coût Baral et Goblin Electromancer, rituels et cantrips s'enchaînent vers Gifts Ungiven et Past in Flames pour un Grapeshot létal.",
+   "en": "Izzet storm combo: cost reducers Baral and Goblin Electromancer, rituals and cantrips chain into Gifts Ungiven and Past in Flames for a lethal Grapeshot."
+  },
+  "why": {
+   "fr": [
+    "Deux réducteurs de coût rendaient chaque rituel plus rentable",
+    "Past in Flames relançait les rituels et cantrips du cimetière",
+    "Gifts Ungiven trouvait les pièces de la chaîne finale"
+   ],
+   "en": [
+    "Two cost reducers made each ritual net more mana",
+    "Past in Flames recast the rituals and cantrips in the graveyard",
+    "Gifts Ungiven found the pieces for the final chain"
+   ]
+  }
  },
  {
   "name": "Death and Taxes",
@@ -581,7 +1556,32 @@
    "Hatebear",
    "Gw Hatebears",
    "Eldrazi & Taxes"
-  ]
+  ],
+  "rep": 419692,
+  "cover": "Thalia, Guardian of Thraben",
+  "keyCards": [
+   "Thalia, Guardian of Thraben",
+   "Leonin Arbiter",
+   "Flickerwisp",
+   "Skyclave Apparition",
+   "Stoneforge Mystic"
+  ],
+  "summary": {
+   "fr": "Hatebears mono-blanc : Aether Vial pose Thalia, Leonin Arbiter et Flickerwisp, Stoneforge Mystic trouve l'équipement et Skyclave Apparition s'ajouta fin 2020.",
+   "en": "Mono-white hatebears: Aether Vial puts out Thalia, Leonin Arbiter and Flickerwisp, Stoneforge Mystic finds equipment, and Skyclave Apparition joined in late 2020."
+  },
+  "why": {
+   "fr": [
+    "Les effets de taxe ralentissaient combo et rampe",
+    "Leonin Arbiter bloquait les recherches de terrains adverses",
+    "Stoneforge Mystic mettait tôt Batterskull en jeu"
+   ],
+   "en": [
+    "Tax effects slowed combo and ramp decks",
+    "Leonin Arbiter stopped opposing land searches",
+    "Stoneforge Mystic put Batterskull into play early"
+   ]
+  }
  },
  {
   "name": "Spirits",
@@ -592,7 +1592,32 @@
    "Bant Spirit",
    "Bant Spirits",
    "Esper Tallowisp"
-  ]
+  ],
+  "rep": 417516,
+  "cover": "Drogskol Captain",
+  "keyCards": [
+   "Drogskol Captain",
+   "Spell Queller",
+   "Supreme Phantom",
+   "Mausoleum Wanderer",
+   "Aether Vial"
+  ],
+  "summary": {
+   "fr": "Aggro tribal Azorius à flash : Aether Vial, Supreme Phantom et Drogskol Captain bâtissent une armée volante pendant que Spell Queller et Mausoleum Wanderer interrompent les sorts.",
+   "en": "Azorius flash tribal aggro: Aether Vial, Supreme Phantom and Drogskol Captain build a flying army while Spell Queller and Mausoleum Wanderer interrupt spells."
+  },
+  "why": {
+   "fr": [
+    "Le flash permettait de jouer pendant le tour adverse",
+    "Deux seigneurs rendaient dangereux de petits volants",
+    "Spell Queller et Mausoleum Wanderer protégeaient le board"
+   ],
+   "en": [
+    "Flash let the deck play on the opponent's turn",
+    "Two lords made small fliers dangerous",
+    "Spell Queller and Mausoleum Wanderer protected the board"
+   ]
+  }
  },
  {
   "name": "Merfolk",
@@ -602,7 +1627,32 @@
    "Merfolk",
    "Ug Merfoulk",
    "Bant Merfolk"
-  ]
+  ],
+  "rep": 409088,
+  "cover": "Lord of Atlantis",
+  "keyCards": [
+   "Lord of Atlantis",
+   "Master of the Pearl Trident",
+   "Harbinger of the Tides",
+   "Merfolk Trickster",
+   "Spreading Seas"
+  ],
+  "summary": {
+   "fr": "Aggro tribal bleu : Aether Vial et les seigneurs Ondins renforcent un board large avec traversée des îles, pendant que Spreading Seas transforme les terrains adverses en Îles.",
+   "en": "Blue tribal aggro: Aether Vial and Merfolk lords pump a wide board with islandwalk, while Spreading Seas turns opposing lands into Islands."
+  },
+  "why": {
+   "fr": [
+    "Spreading Seas activait la traversée des îles et gênait le mana adverse",
+    "Merfolk Trickster et Harbinger of the Tides apportaient du tempo instantané",
+    "Force of Negation protégeait le plan face au combo"
+   ],
+   "en": [
+    "Spreading Seas enabled islandwalk and hurt opposing mana",
+    "Merfolk Trickster and Harbinger of the Tides gave tempo at instant speed",
+    "Force of Negation protected the plan against combo"
+   ]
+  }
  },
  {
   "name": "Goblins",
@@ -612,7 +1662,32 @@
    "Goblins",
    "Snoop Goblins",
    "Rakdos Goblins"
-  ]
+  ],
+  "rep": 426048,
+  "cover": "Conspicuous Snoop",
+  "keyCards": [
+   "Conspicuous Snoop",
+   "Goblin Ringleader",
+   "Goblin Matron",
+   "Kiki-Jiki, Mirror Breaker",
+   "Skirk Prospector"
+  ],
+  "summary": {
+   "fr": "Goblins tribal rouge construit autour de Conspicuous Snoop (Édition de base 2021) : Goblin Matron et Boggart Harbinger préparent la bibliothèque et Snoop joue les Gobelins du dessus.",
+   "en": "Red Goblins tribal built around Conspicuous Snoop from Core Set 2021: Goblin Matron and Boggart Harbinger stack the library and Snoop plays Goblins from its top."
+  },
+  "why": {
+   "fr": [
+    "Snoop gagnait les capacités du Gobelin au-dessus de la bibliothèque",
+    "Goblin Ringleader remplissait la main de Gobelins",
+    "Kiki-Jiki et Aether Vial donnaient des démarrages rapides et difficiles à gérer"
+   ],
+   "en": [
+    "Snoop gained the abilities of the Goblin on top of the library",
+    "Goblin Ringleader refilled the hand with Goblins",
+    "Kiki-Jiki and Aether Vial gave fast, hard-to-answer starts"
+   ]
+  }
  },
  {
   "name": "Hardened Scales",
@@ -621,7 +1696,32 @@
   "titles": [
    "Hardened Scales",
    "Gruul Hardened Scales"
-  ]
+  ],
+  "rep": 374392,
+  "cover": "Hardened Scales",
+  "keyCards": [
+   "Hardened Scales",
+   "Arcbound Ravager",
+   "Walking Ballista",
+   "Heliod, Sun-Crowned",
+   "Collected Company"
+  ],
+  "summary": {
+   "fr": "Deck de marqueurs +1/+1 sur Hardened Scales et créatures-artefacts ; après le bannissement de Mox Opal, certaines listes passèrent vert-blanc avec Collected Company et le combo Heliod et Walking Ballista.",
+   "en": "+1/+1 counter deck on Hardened Scales and artifact creatures; after Mox Opal's ban some lists turned green-white with Collected Company and the Heliod and Walking Ballista combo."
+  },
+  "why": {
+   "fr": [
+    "Hardened Scales ajoutait un marqueur à chaque marqueur placé",
+    "Arcbound Ravager déplaçait les marqueurs loin du removal",
+    "Walking Ballista devenait énorme et servait de removal"
+   ],
+   "en": [
+    "Hardened Scales added a counter to every counter placed",
+    "Arcbound Ravager moved counters away from removal",
+    "Walking Ballista grew large and served as removal"
+   ]
+  }
  },
  {
   "name": "Bogles",
@@ -630,7 +1730,32 @@
   "titles": [
    "Aura Hexproof",
    "Hexproof Auras"
-  ]
+  ],
+  "rep": 391072,
+  "cover": "Slippery Bogle",
+  "keyCards": [
+   "Slippery Bogle",
+   "Gladecover Scout",
+   "Kor Spiritdancer",
+   "Ethereal Armor",
+   "Daybreak Coronet"
+  ],
+  "summary": {
+   "fr": "Deck d'auras Selesnya : les créatures avec la défense talismanique Slippery Bogle et Gladecover Scout portent Ethereal Armor, Daybreak Coronet et des umbras jusqu'à gagner en quelques attaques.",
+   "en": "Selesnya auras deck: hexproof creatures Slippery Bogle and Gladecover Scout wear Ethereal Armor, Daybreak Coronet and umbras until they win in a few attacks."
+  },
+  "why": {
+   "fr": [
+    "La défense talismanique neutralisait le removal ciblé",
+    "Les umbras à armure totémique protégeaient des balayages",
+    "Kor Spiritdancer piochait une carte pour chaque aura"
+   ],
+   "en": [
+    "Hexproof shut off targeted removal",
+    "Totem armor umbras protected against wraths",
+    "Kor Spiritdancer drew a card for each aura"
+   ]
+  }
  },
  {
   "name": "Neobrand",
@@ -639,7 +1764,32 @@
   "titles": [
    "Allosaurus Combo",
    "Neo-brand Combo"
-  ]
+  ],
+  "rep": 369887,
+  "cover": "Allosaurus Rider",
+  "keyCards": [
+   "Allosaurus Rider",
+   "Neoform",
+   "Griselbrand",
+   "Nourishing Shoal",
+   "Autochthon Wurm"
+  ],
+  "summary": {
+   "fr": "Combo du premier tour : sorts gratuits comme Allosaurus Rider et Nourishing Shoal et Simian Spirit Guide permettent Neoform ou Eldritch Evolution vers Griselbrand, qui pioche jusqu'à la victoire.",
+   "en": "Turn-one combo: free spells such as Allosaurus Rider and Nourishing Shoal and Simian Spirit Guide enable Neoform or Eldritch Evolution into Griselbrand, which draws into a win."
+  },
+  "why": {
+   "fr": [
+    "Nourishing Shoal en exilant Autochthon Wurm rendait les vies pour piocher avec Griselbrand",
+    "Les Chancellors et Simian Spirit Guide fournissaient le mana",
+    "Laboratory Maniac concluait après avoir pioché tout le deck"
+   ],
+   "en": [
+    "Nourishing Shoal exiling Autochthon Wurm gained the life to draw with Griselbrand",
+    "Chancellors and Simian Spirit Guide supplied the mana",
+    "Laboratory Maniac ended the game after drawing the deck"
+   ]
+  }
  },
  {
   "name": "Dimir Mill",
@@ -650,7 +1800,32 @@
    "Mill",
    "Ub Mill",
    "Ub Lurrus Mill"
-  ]
+  ],
+  "rep": 397170,
+  "cover": "Hedron Crab",
+  "keyCards": [
+   "Hedron Crab",
+   "Mesmeric Orb",
+   "Archive Trap",
+   "Glimpse the Unthinkable",
+   "Visions of Beyond"
+  ],
+  "summary": {
+   "fr": "Meule bleu-noir : Hedron Crab, Mesmeric Orb et Glimpse the Unthinkable vident la bibliothèque adverse, Archive Trap étant gratuit contre les fetchlands ; Ruin Crab arriva avec Zendikar Rising.",
+   "en": "Blue-black mill: Hedron Crab, Mesmeric Orb and Glimpse the Unthinkable empty the opponent's library, with Archive Trap free against fetchlands; Ruin Crab joined from Zendikar Rising."
+  },
+  "why": {
+   "fr": [
+    "Les fetchlands adverses déclenchaient Hedron Crab et rendaient Archive Trap gratuit",
+    "Visions of Beyond piochait trois cartes une fois le cimetière rempli",
+    "Fatal Push et la défausse couvraient les démarrages agressifs"
+   ],
+   "en": [
+    "Opposing fetchlands triggered Hedron Crab and made Archive Trap free",
+    "Visions of Beyond drew three once the graveyard was full",
+    "Fatal Push and discard covered aggressive starts"
+   ]
+  }
  },
  {
   "name": "Jeskai Ascendancy",
@@ -659,7 +1834,32 @@
   "titles": [
    "Jeskai Ascendancy",
    "Ascendancy Combo"
-  ]
+  ],
+  "rep": 425030,
+  "cover": "Jeskai Ascendancy",
+  "keyCards": [
+   "Jeskai Ascendancy",
+   "Fatestitcher",
+   "Sylvan Caryatid",
+   "Birds of Paradise",
+   "Glittering Wish"
+  ],
+  "summary": {
+   "fr": "Combo Jeskai Ascendancy : chaque sort non-créature dégage des créatures de mana comme Birds of Paradise et Sylvan Caryatid, si bien que les cantrips rapportent du mana et creusent jusqu'à la victoire.",
+   "en": "Jeskai Ascendancy combo: each noncreature spell untaps mana creatures such as Birds of Paradise and Sylvan Caryatid, so cheap cantrips net mana and dig until the deck wins."
+  },
+  "why": {
+   "fr": [
+    "Cantrips et Manamorphose rapportaient du mana sous Ascendancy",
+    "Fatestitcher dégageait terrains ou créatures et revenait par exhumation",
+    "Glittering Wish allait chercher une conclusion au sideboard"
+   ],
+   "en": [
+    "Cheap cantrips and Manamorphose netted mana under Ascendancy",
+    "Fatestitcher untapped lands or creatures and could be unearthed",
+    "Glittering Wish fetched a finisher from the sideboard"
+   ]
+  }
  },
  {
   "name": "Goblin Charbelcher",
@@ -668,7 +1868,32 @@
   "titles": [
    "Belcher",
    "Gr Belcher"
-  ]
+  ],
+  "rep": 426180,
+  "cover": "Goblin Charbelcher",
+  "keyCards": [
+   "Goblin Charbelcher",
+   "Recross the Paths",
+   "Shatterskull Smashing",
+   "Desperate Ritual",
+   "Simian Spirit Guide"
+  ],
+  "summary": {
+   "fr": "Combo Goblin Charbelcher reconstruit avec les cartes modales double face de Zendikar Rising : sans vrai terrain dans la bibliothèque, une activation inflige des dégâts égaux à tout le deck.",
+   "en": "Goblin Charbelcher combo rebuilt with Zendikar Rising's modal double-faced cards: with no true lands in the library, one activation deals damage equal to the whole deck."
+  },
+  "why": {
+   "fr": [
+    "Rituels et Simian Spirit Guide lançaient et activaient Charbelcher au tour un ou deux",
+    "Les sorts-terrains modaux donnaient du mana sans laisser de terrain dans la bibliothèque",
+    "Pact of Negation protégeait l'activation"
+   ],
+   "en": [
+    "Rituals and Simian Spirit Guide cast and activated Charbelcher on turn one or two",
+    "Modal spell-lands gave mana without putting lands in the library",
+    "Pact of Negation protected the activation"
+   ]
+  }
  },
  {
   "name": "Copycat",
@@ -679,7 +1904,32 @@
    "Jeskai Copycat",
    "Yorion Copycat",
    "4c Cat Omnath"
-  ]
+  ],
+  "rep": 420950,
+  "cover": "Felidar Guardian",
+  "keyCards": [
+   "Saheeli Rai",
+   "Felidar Guardian",
+   "Omnath, Locus of Creation",
+   "Wrenn and Six",
+   "Oath of Nissa"
+  ],
+  "summary": {
+   "fr": "Midrange quadricolore qui cache le combo de jetons infinis Saheeli Rai et Felidar Guardian dans un ensemble d'Uro, Wrenn and Six et, dès l'automne, Omnath, Locus of Creation.",
+   "en": "Four-colour midrange hiding the Saheeli Rai and Felidar Guardian infinite-token combo in a shell of Uro, Wrenn and Six and, from the autumn, Omnath, Locus of Creation."
+  },
+  "why": {
+   "fr": [
+    "Deux cartes gagnaient sur-le-champ tandis que le reste jouait honnêtement",
+    "Teferi, Time Raveler empêchait les réponses adverses à vitesse instantanée",
+    "Utopia Sprawl et Oath of Nissa lissaient le mana"
+   ],
+   "en": [
+    "Two cards won on the spot while the rest played fair",
+    "Teferi, Time Raveler kept opponents from answering at instant speed",
+    "Utopia Sprawl and Oath of Nissa smoothed the mana"
+   ]
+  }
  },
  {
   "name": "Niv to Light",
@@ -693,7 +1943,32 @@
    "Niv-Mizzet - Omnath",
    "Niv Mizzet",
    "Niv-Omnath-Uro"
-  ]
+  ],
+  "rep": 376435,
+  "cover": "Niv-Mizzet Reborn",
+  "keyCards": [
+   "Niv-Mizzet Reborn",
+   "Bring to Light",
+   "Wrenn and Six",
+   "Teferi, Time Raveler",
+   "Arcum's Astrolabe"
+  ],
+  "summary": {
+   "fr": "Midrange pentacolore qui lance Niv-Mizzet Reborn et, via Bring to Light, la réponse voulue ; Arcum's Astrolabe et les terrains neigeux faisaient tenir le mana jusqu'en juillet.",
+   "en": "Five-colour midrange casting Niv-Mizzet Reborn and, through Bring to Light, the answer it needs; Arcum's Astrolabe and snow lands made the mana work until July."
+  },
+  "why": {
+   "fr": [
+    "Niv-Mizzet Reborn piochait les cartes multicolores parmi les dix du dessus",
+    "Bring to Light allait chercher removal ou menace",
+    "Des sorts bicolores comme Kaya's Guile et Lightning Helix alimentaient Niv"
+   ],
+   "en": [
+    "Niv-Mizzet Reborn drew gold cards from the top ten",
+    "Bring to Light tutored removal or threats",
+    "Two-colour spells like Kaya's Guile and Lightning Helix fed Niv"
+   ]
+  }
  },
  {
   "name": "Gruul Eldrazi",
@@ -702,7 +1977,32 @@
   "titles": [
    "Eldrazi Aggro",
    "Rg Eldrazi"
-  ]
+  ],
+  "rep": 372079,
+  "cover": "Reality Smasher",
+  "keyCards": [
+   "Thought-Knot Seer",
+   "Reality Smasher",
+   "Eldrazi Obligator",
+   "Gruul Spellbreaker",
+   "Noble Hierarch"
+  ],
+  "summary": {
+   "fr": "Aggro Eldrazi rouge-vert du début 2020 : Eldrazi Temple et Noble Hierarch accélèrent vers Thought-Knot Seer et Reality Smasher, soutenus par Bloodbraid Elf et Lightning Bolt.",
+   "en": "Red-green Eldrazi aggro of early 2020: Eldrazi Temple and Noble Hierarch ramp into Thought-Knot Seer and Reality Smasher, backed by Bloodbraid Elf and Lightning Bolt."
+  },
+  "why": {
+   "fr": [
+    "Temple ou Hierarch permettaient des trois-drops au tour deux",
+    "Eldrazi Obligator volait un bloqueur pour un tour",
+    "Once Upon a Time améliorait les mains de départ jusqu'à son bannissement"
+   ],
+   "en": [
+    "Turn-two three-drops came from Temple or Hierarch",
+    "Eldrazi Obligator stole blockers for a turn",
+    "Once Upon a Time improved opening hands until its ban"
+   ]
+  }
  },
  {
   "name": "Blue Moon",
@@ -712,7 +2012,32 @@
    "Blue Moon",
    "UR Control",
    "Blue Moon Surprise"
-  ]
+  ],
+  "rep": 372203,
+  "cover": "Thing in the Ice",
+  "keyCards": [
+   "Thing in the Ice",
+   "Blood Moon",
+   "Snapcaster Mage",
+   "Cryptic Command",
+   "Remand"
+  ],
+  "summary": {
+   "fr": "Contrôle Izzet sur Îles et Montagnes de base, avec Blood Moon contre les terrains non-base, contresorts, burn et Thing in the Ice comme menace.",
+   "en": "Izzet control on basic Islands and Mountains with Blood Moon against nonbasic mana, counterspells, burn and Thing in the Ice as a threat."
+  },
+  "why": {
+   "fr": [
+    "Une base de mana surtout basique rendait Blood Moon presque sans contrepartie",
+    "Thing in the Ice se transformait vite grâce aux nombreux petits sorts et renvoyait les créatures",
+    "Snapcaster Mage réutilisait Lightning Bolt et contresorts"
+   ],
+   "en": [
+    "A mostly basic mana base made Blood Moon nearly free",
+    "Thing in the Ice flipped to bounce creatures thanks to many cheap spells",
+    "Snapcaster Mage reused Lightning Bolt and counters"
+   ]
+  }
  },
  {
   "name": "Kiki Exarch",
@@ -720,7 +2045,32 @@
   "archetype": "combo",
   "titles": [
    "Twinless Exarch"
-  ]
+  ],
+  "rep": 422582,
+  "cover": "Kiki-Jiki, Mirror Breaker",
+  "keyCards": [
+   "Kiki-Jiki, Mirror Breaker",
+   "Deceiver Exarch",
+   "Snapcaster Mage",
+   "Remand",
+   "Crackling Drake"
+  ],
+  "summary": {
+   "fr": "Contrôle Izzet qui porte le combo de Splinter Twin sans Twin : Kiki-Jiki copie Deceiver Exarch, dont la copie dégage Kiki-Jiki pour des jetons à célérité illimités.",
+   "en": "Izzet control carrying the Splinter Twin combo without Twin: Kiki-Jiki copies Deceiver Exarch, whose copy untaps Kiki-Jiki for unlimited hasty tokens."
+  },
+  "why": {
+   "fr": [
+    "Remand et Archmage's Charm protégeaient le tour du combo",
+    "Snapcaster Mage et le burn en faisaient un contrôle jouable",
+    "Les adversaires devaient garder du removal pour une pièce à quatre mana"
+   ],
+   "en": [
+    "Remand and Archmage's Charm protected the combo turn",
+    "Snapcaster Mage and burn made a playable control deck around it",
+    "Opponents had to keep removal for a four-mana combo piece"
+   ]
+  }
  },
  {
   "name": "Grixis Delver",
@@ -730,7 +2080,32 @@
    "Grixis Delver",
    "Grixis Lurrus Delver",
    "Lurrus Grixis"
-  ]
+  ],
+  "rep": 394638,
+  "cover": "Delver of Secrets",
+  "keyCards": [
+   "Delver of Secrets",
+   "Sprite Dragon",
+   "Snapcaster Mage",
+   "Kolaghan's Command",
+   "Lurrus of the Dream-Den"
+  ],
+  "summary": {
+   "fr": "Tempo Grixis du printemps 2020 avec Lurrus of the Dream-Den en compagnon : Delver of Secrets et Sprite Dragon soutenus par contresorts bon marché, Lightning Bolt et Kolaghan's Command.",
+   "en": "Grixis tempo of spring 2020 with Lurrus of the Dream-Den as companion: Delver of Secrets and Sprite Dragon backed by cheap counters, Lightning Bolt and Kolaghan's Command."
+  },
+  "why": {
+   "fr": [
+    "Les menaces bon marché respectaient la contrainte de Lurrus",
+    "Mishra's Bauble et les cantrips retournaient Delver et faisaient grandir Sprite Dragon",
+    "Kolaghan's Command et Lurrus donnaient de l'avantage tardif"
+   ],
+   "en": [
+    "Cheap threats fitted Lurrus's companion restriction",
+    "Mishra's Bauble and cantrips flipped Delver and grew Sprite Dragon",
+    "Kolaghan's Command and Lurrus gave late card advantage"
+   ]
+  }
  },
  {
   "name": "Dimir Control",
@@ -741,7 +2116,32 @@
    "Ub Control",
    "UB Faeries",
    "Dimir Lurrus"
-  ]
+  ],
+  "rep": 370328,
+  "cover": "Narset, Parter of Veils",
+  "keyCards": [
+   "Narset, Parter of Veils",
+   "Liliana of the Veil",
+   "Jace, the Mind Sculptor",
+   "Snapcaster Mage",
+   "Damnation"
+  ],
+  "summary": {
+   "fr": "Contrôle bleu-noir mêlant défausse et Liliana of the Veil à des contresorts, Damnation, Jace, the Mind Sculptor et Narset, Parter of Veils.",
+   "en": "Blue-black control mixing discard and Liliana of the Veil with counterspells, Damnation, Jace, the Mind Sculptor and Narset, Parter of Veils."
+  },
+  "why": {
+   "fr": [
+    "Fatal Push et Damnation géraient les decks de créatures",
+    "Inquisition et Liliana attaquaient les mains combo",
+    "Snapcaster Mage réutilisait le meilleur sort du tour"
+   ],
+   "en": [
+    "Fatal Push and Damnation handled creature decks",
+    "Inquisition and Liliana attacked combo hands",
+    "Snapcaster Mage reused the best spell of the turn"
+   ]
+  }
  },
  {
   "name": "Rakdos Midrange",
@@ -752,7 +2152,32 @@
    "Rakdos midrange",
    "Mardu Midrange",
    "Mardu Pyromancer"
-  ]
+  ],
+  "rep": 425488,
+  "cover": "Kroxa, Titan of Death's Hunger",
+  "keyCards": [
+   "Kroxa, Titan of Death's Hunger",
+   "Seasoned Pyromancer",
+   "Liliana of the Veil",
+   "Blood Moon",
+   "Magmatic Channeler"
+  ],
+  "summary": {
+   "fr": "Midrange noir-rouge avec défausse, Liliana of the Veil et Kroxa, utilisant Blood Moon contre les bases de mana gourmandes.",
+   "en": "Black-red midrange with discard, Liliana of the Veil and Kroxa, using Blood Moon against greedy mana bases."
+  },
+  "why": {
+   "fr": [
+    "Kroxa revenait du cimetière comme menace récurrente",
+    "Seasoned Pyromancer changeait les cartes inutiles et créait des jetons",
+    "Deux couleurs rendaient Blood Moon sûr à jouer"
+   ],
+   "en": [
+    "Kroxa returned from the graveyard as a repeatable threat",
+    "Seasoned Pyromancer turned dead cards into new ones and tokens",
+    "Two colours made Blood Moon safe to play"
+   ]
+  }
  },
  {
   "name": "Oops All Spells",
@@ -762,6 +2187,31 @@
    "Landless",
    "Landless Spy",
    "Oops, All Spells!"
-  ]
+  ],
+  "rep": 424944,
+  "cover": "Balustrade Spy",
+  "keyCards": [
+   "Balustrade Spy",
+   "Undercity Informer",
+   "Narcomoeba",
+   "Creeping Chill",
+   "Vengevine"
+  ],
+  "summary": {
+   "fr": "Combo reconstruit avec les terrains modaux de Zendikar Rising : sans vrai terrain, Balustrade Spy ou Undercity Informer meule toute la bibliothèque, puis les cartes de cimetière concluent la partie.",
+   "en": "Combo rebuilt with Zendikar Rising's modal lands: with no true lands, Balustrade Spy or Undercity Informer mills the whole library, then graveyard payoffs finish the game."
+  },
+  "why": {
+   "fr": [
+    "Les sorts-terrains modaux fournissaient du mana sans laisser de terrain dans le deck",
+    "Narcomoeba et Vengevine revenaient du cimetière meulé",
+    "Creeping Chill drainait l'adversaire en étant meulé"
+   ],
+   "en": [
+    "Modal spell-lands provided mana without leaving lands in the deck",
+    "Narcomoeba and Vengevine came back from the milled graveyard",
+    "Creeping Chill drained the opponent as it was milled"
+   ]
+  }
  }
 ]
