@@ -16,18 +16,18 @@
       "Galvanic Iteration"
     ],
     "summary": {
-      "fr": "Contrôle Izzet à sorts : les Trésors d'Unexpected Windfall et les copies de Galvanic Iteration alimentent les tours supplémentaires d'Alrund's Epiphany.",
-      "en": "Izzet spells control: Treasures from Unexpected Windfall and copies from Galvanic Iteration fuel extra turns with Alrund's Epiphany."
+      "fr": "Contrôle Izzet à sorts : les Trésors d'Unexpected Windfall et les copies de Galvanic Iteration alimentent les tours supplémentaires d'Alrund's Epiphany ; les premières versions jouaient Goldspan Dragon et Smoldering Egg.",
+      "en": "Izzet spells control: Treasures from Unexpected Windfall and copies from Galvanic Iteration fuel extra turns with Alrund's Epiphany; early builds ran Goldspan Dragon and Smoldering Egg."
     },
     "why": {
       "fr": [
         "Les chaînes d'Alrund's Epiphany donnaient des tours supplémentaires qui concluaient la partie",
-        "A remporté le championnat du monde et l'Innistrad Championship",
+        "A remporté le World Championship XXVII en version Izzet Dragons, puis l'Innistrad Championship",
         "Alrund's Epiphany et Divide by Zero ont été bannis en janvier"
       ],
       "en": [
         "Chained Alrund's Epiphany extra turns ended games",
-        "Won the World Championship and the Innistrad Championship",
+        "Won World Championship XXVII as Izzet Dragons, then the Innistrad Championship",
         "Alrund's Epiphany and Divide by Zero were banned in January"
       ]
     },
@@ -173,40 +173,40 @@
     "rep": 454294
   },
   {
-    "name": "Gruul Werewolves",
-    "slug": "gruul-werewolves",
+    "name": "Temur Treasures",
+    "slug": "temur-treasures",
     "archetype": "aggro",
     "titles": [
       "Temur Aggro",
       "Gruul Werewolves",
       "Gruul Aggro"
     ],
-    "cover": "Tovolar, Dire Overlord",
+    "cover": "Magda, Brazen Outlaw",
     "keyCards": [
-      "Tovolar, Dire Overlord",
-      "Werewolf Pack Leader",
-      "Reckless Stormseeker",
-      "Wrenn and Seven",
-      "Esika's Chariot"
+      "Magda, Brazen Outlaw",
+      "Jaspera Sentinel",
+      "Goldspan Dragon",
+      "Esika's Chariot",
+      "Ranger Class"
     ],
     "summary": {
-      "fr": "Loups-garous rouge-vert : Kessig Naturalist, Reckless Stormseeker et Tovolar passent à la nuit, appuyés par Esika's Chariot et Wrenn and Seven.",
-      "en": "Red-green werewolves: Kessig Naturalist, Reckless Stormseeker and Tovolar flip at night, backed by Esika's Chariot and Wrenn and Seven."
+      "fr": "Aggro rouge-vert aux Trésors, souvent bleu grâce aux Pathways : Jaspera Sentinel et Prosperous Innkeeper mènent à Magda, Goldspan Dragon et Esika's Chariot.",
+      "en": "Red-green Treasure aggro, often with blue from Pathway lands: Jaspera Sentinel and Prosperous Innkeeper lead to Magda, Goldspan Dragon and Esika's Chariot."
     },
     "why": {
       "fr": [
-        "Le cycle jour/nuit forçait l'adversaire à lancer deux sorts par tour",
-        "Esika's Chariot et Wrenn and Seven créaient des menaces résistantes au removal",
-        "Les versions Magda et Goldspan Dragon partageaient le même socle Gruul"
+        "Finaliste du World Championship XXVII",
+        "Magda et Goldspan Dragon produisaient des Trésors qui accéléraient les menaces",
+        "Des versions plus tardives ajoutaient les loups-garous Tovolar et Kessig Naturalist"
       ],
       "en": [
-        "Day/night pushed opponents to cast two spells a turn",
-        "Esika's Chariot and Wrenn and Seven made threats that survived removal",
-        "Magda and Goldspan Dragon builds shared the same Gruul core"
+        "Reached the final of World Championship XXVII",
+        "Magda and Goldspan Dragon made Treasure that sped up the threats",
+        "Later builds added the Werewolves Tovolar and Kessig Naturalist"
       ]
     },
     "note": "Merged 'Temur Aggro' (Gruul lists on Pathway lands, some with a blue splash) and 'Gruul Aggro' (Magda / Goldspan builds).",
-    "rep": 450135
+    "rep": 450595
   },
   {
     "name": "Esper Midrange",
@@ -468,12 +468,12 @@
       "fr": [
         "Fable et Corpse Appraiser tiraient de l'avantage de cartes de créatures bon marché",
         "Bloodtithe Harvester et Voltage Surge retiraient les petites créatures",
-        "A atteint les demi-finales du New Capenna Championship"
+        "A terminé dans les quatre premiers du New Capenna Championship"
       ],
       "en": [
         "Fable and Corpse Appraiser drew value from cheap bodies",
         "Bloodtithe Harvester and Voltage Surge removed small creatures",
-        "Reached the semifinals of the New Capenna Championship"
+        "Finished in the top four of the New Capenna Championship"
       ]
     },
     "rep": 473517
@@ -578,11 +578,10 @@
     "rep": 466555
   },
   {
-    "name": "Mono-Black Midrange",
-    "slug": "mono-black-midrange",
+    "name": "Mono-Black Zombies",
+    "slug": "mono-black-zombies",
     "archetype": "midrange",
     "titles": [
-      "Mono Black Control",
       "Mono Black Midrange",
       "Mono Black Aggro"
     ],
@@ -636,12 +635,12 @@
       "fr": [
         "Wedding Announcement et Esika's Chariot élargissaient le board",
         "Voltage Surge et The Wandering Emperor géraient les créatures adverses",
-        "A atteint les demi-finales du New Capenna Championship"
+        "A terminé troisième du New Capenna Championship"
       ],
       "en": [
         "Wedding Announcement and Esika's Chariot went wide",
         "Voltage Surge and The Wandering Emperor handled opposing creatures",
-        "Reached the semifinals of the New Capenna Championship"
+        "Finished third at the New Capenna Championship"
       ]
     },
     "note": "Only one top 8 (3rd at the New Capenna Championship). Included by treating the Set Championship as a top-tier event; drop if the rule is read strictly.",

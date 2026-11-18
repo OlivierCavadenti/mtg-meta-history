@@ -5,9 +5,7 @@
     "archetype": "midrange",
     "titles": [
       "Temur Energy",
-      "Teur Energy",
-      "4c Energy",
-      "4 Colors Energy"
+      "Teur Energy"
     ],
     "rep": 305889,
     "cover": "Rogue Refiner",
@@ -35,6 +33,40 @@
       ]
     },
     "note": "4c Energy (Temur splashing The Scarab God) merged; titles are used interchangeably. Rep = Worlds 2017 winning list (pure Temur) instead of the WMC 4c list."
+  },
+  {
+    "name": "4c Energy",
+    "slug": "4c-energy",
+    "archetype": "midrange",
+    "titles": [
+      "4c Energy",
+      "4 Colors Energy"
+    ],
+    "rep": 308387,
+    "cover": "The Scarab God",
+    "keyCards": [
+      "The Scarab God",
+      "Vraska, Relic Seeker",
+      "Rogue Refiner",
+      "Whirler Virtuoso",
+      "Harnessed Lightning"
+    ],
+    "summary": {
+      "fr": "Temur Energy avec une touche de noir pour The Scarab God et Vraska, Relic Seeker : les mêmes créatures à énergie, avec des menaces plus lourdes pour le miroir.",
+      "en": "Temur Energy splashing black for The Scarab God and Vraska, Relic Seeker: the same energy creatures, with heavier threats for the mirror."
+    },
+    "why": {
+      "fr": [
+        "Classé à part de Temur Energy dans les métagames de la couverture officielle",
+        "The Scarab God dominait les fins de partie du miroir des decks énergie",
+        "A perdu Attune with Aether et Rogue Refiner lors des bannissements de janvier"
+      ],
+      "en": [
+        "Counted apart from Temur Energy in official coverage metagame breakdowns",
+        "The Scarab God took over the late game of energy mirrors",
+        "Lost Attune with Aether and Rogue Refiner in the January bans"
+      ]
+    }
   },
   {
     "name": "Ramunap Red",

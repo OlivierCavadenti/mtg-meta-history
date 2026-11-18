@@ -111,9 +111,7 @@
       "Dimir Rogue",
       "UB Mill",
       "Dimir Mill Rogue",
-      "Grixis Control",
       "UB Control",
-      "Dimir Control",
       "Dimir Aggro",
       "Sultai Aggro"
     ],
@@ -143,6 +141,39 @@
       ]
     },
     "note": "Merged all Thought-Thief / Enforcer / Drown in the Loch titles: mill (Ruin Crab) and control-flash variants. 'Grixis Control' and 'Sultai Aggro' lists are the same Rogues core with a splash."
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": [
+      "Dimir Control"
+    ],
+    "rep": 424323,
+    "cover": "Ashiok, Nightmare Muse",
+    "keyCards": [
+      "Extinction Event",
+      "Ugin, the Spirit Dragon",
+      "Ashiok, Nightmare Muse",
+      "Mazemind Tome",
+      "Jwari Disruption"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir en draw-go : contresorts, Heartless Act et Extinction Event, Mazemind Tome pour les cartes, Ashiok et Ugin, the Spirit Dragon pour conclure.",
+      "en": "Blue-black draw-go control: counterspells, Heartless Act and Extinction Event, Mazemind Tome for cards, and Ashiok or Ugin, the Spirit Dragon to finish."
+    },
+    "why": {
+      "fr": [
+        "Extinction Event exilait toutes les créatures paires ou impaires adverses",
+        "Ugin balayait les permanents colorés et épargnait Mazemind Tome",
+        "Crawling Barrens donnait une menace qui survivait aux balayages"
+      ],
+      "en": [
+        "Extinction Event exiled every odd or every even creature on the other side",
+        "Ugin swept coloured permanents while sparing Mazemind Tome",
+        "Crawling Barrens gave a threat that survived sweepers"
+      ]
+    }
   },
   {
     "name": "Naya Adventures",
@@ -786,8 +817,8 @@
     "rep": 422219
   },
   {
-    "name": "Rakdos Ugin",
-    "slug": "rakdos-ugin",
+    "name": "Rakdos Control",
+    "slug": "rakdos-control",
     "archetype": "ramp",
     "titles": [
       "Rakdos Control",
@@ -819,40 +850,6 @@
       ]
     },
     "note": "Merged 'Mono Red Control' (same Irencrag Feat + Ugin list without black). Rep set to the Rakdos list."
-  },
-  {
-    "name": "Gyruda Midrange",
-    "slug": "gyruda-midrange",
-    "archetype": "midrange",
-    "titles": [
-      "Gyruda"
-    ],
-    "cover": "Gyruda, Doom of Depths",
-    "keyCards": [
-      "Gyruda, Doom of Depths",
-      "Shepherd of the Cosmos",
-      "Thassa, Deep-Dwelling",
-      "Charming Prince",
-      "Kaervek, the Spiteful"
-    ],
-    "summary": {
-      "fr": "Deck de valeur quatre couleurs fondé sur les effets d'arrivée : Thassa, Charming Prince et Shepherd of the Cosmos les répètent, Gyruda récupère une créature meulée.",
-      "en": "Four-colour value deck built on enter-the-battlefield effects: Thassa, Charming Prince and Shepherd of the Cosmos repeat them, Gyruda steals a milled creature."
-    },
-    "why": {
-      "fr": [
-        "Gyruda mettait en jeu une créature meulée chez l'un ou l'autre joueur",
-        "Thassa et Charming Prince répétaient les capacités d'arrivée",
-        "Port of Karfell ramenait des créatures meulées en fin de partie"
-      ],
-      "en": [
-        "Gyruda put a creature from either player's milled cards onto the battlefield",
-        "Thassa and Charming Prince repeated enter-the-battlefield triggers",
-        "Port of Karfell returned milled creatures late in the game"
-      ]
-    },
-    "note": "Included on the win rule only (one top 8, a league-weekend 'win'); low sample.",
-    "rep": 435616
   },
   {
     "name": "Mono-Blue Snow",

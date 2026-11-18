@@ -386,40 +386,40 @@
     "rep": 236428
   },
   {
-    "name": "Orzhov Humans",
-    "slug": "orzhov-humans",
-    "archetype": "aggro",
+    "name": "Orzhov Midrange",
+    "slug": "orzhov-midrange",
+    "archetype": "midrange",
     "titles": [
       "Orzhov Human",
       "Orzhov Midrange",
       "Esper Midrange"
     ],
-    "rep": 241957,
-    "cover": "Xathrid Necromancer",
+    "rep": 233546,
+    "cover": "Precinct Captain",
     "keyCards": [
-      "Xathrid Necromancer",
       "Soldier of the Pantheon",
-      "Banisher Priest",
+      "Precinct Captain",
+      "Desecration Demon",
       "Obzedat, Ghost Council",
       "Thoughtseize"
     ],
     "summary": {
-      "fr": "Aggro blanc-noir à base d'Humains : Soldier of the Pantheon, Daring Skyjek et Xathrid Necromancer, avec du removal noir et Obzedat, Ghost Council.",
-      "en": "White-black Humans aggro: Soldier of the Pantheon, Daring Skyjek and Xathrid Necromancer, with black removal and Obzedat, Ghost Council."
+      "fr": "Midrange blanc-noir : petites créatures blanches comme Soldier of the Pantheon et Precinct Captain, discard et removal noir, puis Desecration Demon et Obzedat, Ghost Council.",
+      "en": "White-black midrange: small white creatures such as Soldier of the Pantheon and Precinct Captain, black discard and removal, then Desecration Demon and Obzedat, Ghost Council."
     },
     "why": {
       "fr": [
-        "Xathrid Necromancer laissait des Zombies à la mort des Humains, limitant les balais",
-        "Le removal noir et Thoughtseize ouvraient la voie aux petites créatures",
-        "Obzedat drainait l'adversaire et échappait au removal à vitesse rituel"
+        "Thoughtseize et Hero's Downfall ouvraient la voie aux petites créatures",
+        "Desecration Demon et Obzedat prenaient le relais en milieu de partie",
+        "Soldier of the Pantheon résistait aux removals des decks multicolores"
       ],
       "en": [
-        "Xathrid Necromancer left Zombies when Humans died, blunting sweepers",
-        "Black removal and Thoughtseize cleared the way for small creatures",
-        "Obzedat drained the opponent and dodged sorcery-speed removal"
+        "Thoughtseize and Hero's Downfall cleared the way for small creatures",
+        "Desecration Demon and Obzedat took over in the midgame",
+        "Soldier of the Pantheon dodged removal from multicolour decks"
       ]
     },
-    "note": "Rep overridden from an Esper-coloured GP Shizuoka list to a W/b list. Esper Midrange (1 top 8) attached."
+    "note": "Renamed from 'Orzhov Humans': the group's main title is 'Orzhov Midrange' (Paul Rietzl, PT Theros top 8; GP Shizuoka 2013 2nd). Rep = Rietzl's PT Theros list. Later W/b Xathrid Necromancer lists ('Orzhov Human') and Esper Midrange stay attached."
   },
   {
     "name": "Red Deck Wins",

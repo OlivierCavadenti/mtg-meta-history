@@ -44,8 +44,8 @@
     "note": "Merged all mono-U / UW Delver variants (Talrand, Humans, Angel, Pike). Rep overridden from 'Delver Blade' default to GP Baltimore winning list."
   },
   {
-    "name": "Esper Delver",
-    "slug": "esper-delver",
+    "name": "Delver Spirits",
+    "slug": "delver-spirits",
     "archetype": "tempo",
     "titles": [
       "UWb Delver",
@@ -77,7 +77,7 @@
         "Kept the Delver, Ponder and Snapcaster Mage core of the blue-white build"
       ]
     },
-    "note": "Spirit variant kept separate from UW Delver (different engine: Lingering Souls + Drogskol Captain). Top 4 at PT Dark Ascension.",
+    "note": "Renamed from 'Esper Delver': mtg.wiki lists Jon Finkel's and Jelger Wiegersma's PT Dark Ascension decks as 'Delver Spirits' (https://mtg.wiki/page/Pro_Tour_Dark_Ascension). Kept separate from UW Delver (Lingering Souls + Drogskol Captain). Rep = Finkel's PT Dark Ascension top-4 list.",
     "rep": 216330
   },
   {
@@ -223,12 +223,11 @@
     "rep": 218966
   },
   {
-    "name": "Wolf Run Black",
-    "slug": "wolf-run-black",
+    "name": "Jund Wolf Run",
+    "slug": "jund-wolf-run",
     "archetype": "ramp",
     "titles": [
-      "Black Kessig",
-      "Kessigless"
+      "Black Kessig"
     ],
     "cover": "Grave Titan",
     "keyCards": [
@@ -239,8 +238,8 @@
       "Doom Blade"
     ],
     "summary": {
-      "fr": "Ramp vert-noir : Primeval Titan et Grave Titan, avec Doom Blade et Black Sun's Zenith pour un plan plus contrôle.",
-      "en": "Green-black ramp: Primeval Titan and Grave Titan, with Doom Blade and Black Sun's Zenith for a more controlling plan."
+      "fr": "Ramp Wolf Run vert-noir avec une touche de rouge : Primeval Titan et Grave Titan, avec Doom Blade et Black Sun's Zenith pour un plan plus contrôle.",
+      "en": "Green-black Wolf Run ramp with a touch of red: Primeval Titan and Grave Titan, with Doom Blade and Black Sun's Zenith for a more controlling plan."
     },
     "why": {
       "fr": [
@@ -254,7 +253,7 @@
         "Kept the Rampant Growth and Sphere of the Suns ramp package"
       ]
     },
-    "note": "Kessigless (Junk Titan ramp, 1 top 8) attached here. Win at GP Orlando, top 4 at PT Dark Ascension.",
+    "note": "Renamed from 'Wolf Run Black': mtg.wiki lists Mamoru Nagai's PT Dark Ascension top-4 deck as 'Jund Wolf Run Ramp' (https://mtg.wiki/page/Pro_Tour_Dark_Ascension). Black Kessig only: GP Orlando 2012 win (Conley Woods), PT Dark Ascension top 4 (Nagai). Kessigless (GWB ramp without Kessig Wolf Run) detached: different deck, single top 8.",
     "rep": 216064
   },
   {
@@ -459,40 +458,6 @@
       ]
     },
     "note": "Rep: GP Orlando 2nd place instead of the Worlds 15-point list."
-  },
-  {
-    "name": "Tezzeret Control",
-    "slug": "tezzeret-control",
-    "archetype": "control",
-    "titles": [
-      "Tezzeret Control"
-    ],
-    "cover": "Tezzeret, Agent of Bolas",
-    "keyCards": [
-      "Tezzeret, Agent of Bolas",
-      "Consecrated Sphinx",
-      "Bloodline Keeper",
-      "Ratchet Bomb",
-      "Black Sun's Zenith"
-    ],
-    "summary": {
-      "fr": "Contrôle bleu-noir à artefacts : Ratchet Bomb, Tumble Magnet et Sphere of the Suns alimentent Tezzeret, Agent of Bolas.",
-      "en": "Blue-black artifact control: Ratchet Bomb, Tumble Magnet and Sphere of the Suns fuel Tezzeret, Agent of Bolas."
-    },
-    "why": {
-      "fr": [
-        "Tezzeret transformait les artefacts du deck en menaces ou en drain de vie",
-        "Bloodline Keeper et Consecrated Sphinx gagnaient les parties longues",
-        "Black Sun's Zenith et Ratchet Bomb répondaient aux terrains chargés"
-      ],
-      "en": [
-        "Tezzeret turned the deck's artifacts into threats or a life drain",
-        "Bloodline Keeper and Consecrated Sphinx won long games",
-        "Black Sun's Zenith and Ratchet Bomb answered wide boards"
-      ]
-    },
-    "note": "Borderline: 3 top 8 counted, but one is the Worlds 15-point decklist page (only 2 real top 8s).",
-    "rep": 215340
   },
   {
     "name": "RG Aggro",
@@ -937,7 +902,8 @@
         "Cavern of Souls made the threats uncounterable"
       ]
     },
-    "rep": 218188
+    "rep": 218093,
+    "note": "Rep = SCG Open Las Vegas 2012 winning list (Han Kyu) instead of a World Magic Cup team list."
   },
   {
     "name": "UB Zombies",

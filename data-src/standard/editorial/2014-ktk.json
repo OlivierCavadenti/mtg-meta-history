@@ -64,7 +64,8 @@
         "Elspeth took over long games against creature decks"
       ]
     },
-    "rep": 249574
+    "rep": 249734,
+    "note": "Rep = SCG Open Portland (Dec 2014) winning list instead of Shaun McLaren's 2014 World Championship Day 2 standings list."
   },
   {
     "name": "Abzan Aggro",
@@ -95,8 +96,8 @@
         "It kept Abzan Midrange's removal suite on a lower curve"
       ]
     },
-    "note": "Azban Midrange = Mike Sigrist's PT KTK top-4 list, an Abzan Aggro build.",
-    "rep": 254158
+    "note": "Azban Midrange = Mike Sigrist's PT KTK top-4 list (now the rep), an Abzan Aggro build. Some Abzan Aggro lists sit under mtgtop8's catch-all 'Abzan Midrange' title and cannot be split out.",
+    "rep": 247646
   },
   {
     "name": "Abzan Reanimator",
@@ -230,7 +231,8 @@
         "Satyr Wayfinder and Whip of Erebos provided late-game card advantage"
       ]
     },
-    "rep": 249562
+    "rep": 248141,
+    "note": "Rep = Lukas Blohon's GP Stockholm 2014 top-4 list instead of a 2014 World Championship Day 2 standings list."
   },
   {
     "name": "Esper Dragons",
@@ -600,38 +602,6 @@
     "rep": 249226
   },
   {
-    "name": "Jeskai Ascendancy Combo",
-    "slug": "jeskai-ascendancy-combo",
-    "archetype": "combo",
-    "titles": [
-      "Jeskai Ascendancy",
-      "Ascendancy Combo"
-    ],
-    "cover": "Jeskai Ascendancy",
-    "keyCards": [
-      "Jeskai Ascendancy",
-      "Retraction Helix",
-      "Sylvan Caryatid",
-      "Dragon Mantle",
-      "Briber's Purse"
-    ],
-    "summary": {
-      "fr": "Combo : avec Jeskai Ascendancy et des mana dorks en jeu, Retraction Helix et des artefacts gratuits en boucle génèrent mana et pioche illimités.",
-      "en": "Combo: with Jeskai Ascendancy and mana creatures out, Retraction Helix loops free artifacts for effectively unlimited mana and cards."
-    },
-    "why": {
-      "fr": [
-        "Il pouvait gagner d'un coup sans combat",
-        "Les decks midrange avaient peu d'interaction contre un enchantement"
-      ],
-      "en": [
-        "It could win in a single turn without combat",
-        "Midrange decks had little interaction for an enchantment"
-      ]
-    },
-    "rep": 250499
-  },
-  {
     "name": "Jeskai Heroic",
     "slug": "jeskai-heroic",
     "archetype": "aggro",
@@ -661,38 +631,6 @@
       ]
     },
     "rep": 248334
-  },
-  {
-    "name": "Jeskai Control",
-    "slug": "jeskai-control",
-    "archetype": "control",
-    "titles": [
-      "Jeskai Control"
-    ],
-    "cover": "Prognostic Sphinx",
-    "keyCards": [
-      "Anger of the Gods",
-      "End Hostilities",
-      "Dissolve",
-      "Prognostic Sphinx",
-      "Nyx-Fleece Ram"
-    ],
-    "summary": {
-      "fr": "Contrôle tricolore à base de balayages, de contresorts et de burn, avec Prognostic Sphinx et Pearl Lake Ancient pour gagner.",
-      "en": "Three-colour control built on sweepers, counterspells and burn, with Prognostic Sphinx and Pearl Lake Ancient as finishers."
-    },
-    "why": {
-      "fr": [
-        "Anger of the Gods et End Hostilities nettoyaient le board des decks agressifs",
-        "Nyx-Fleece Ram ralentissait l'aggro rouge"
-      ],
-      "en": [
-        "Anger of the Gods and End Hostilities cleared the board against aggro",
-        "Nyx-Fleece Ram slowed down red aggro"
-      ]
-    },
-    "note": "Single list (Lars Dam, 2014 World Championship standings rank 4). Included under the Worlds top-4 rule; mtgtop8 'Day 2' event may be standings rather than a final top 4.",
-    "rep": 249577
   },
   {
     "name": "UW Heroic",
@@ -954,8 +892,8 @@
         "Tokens fed Butcher of the Horde"
       ]
     },
-    "note": "'Mardu Control' lists are Rabblemaster/Seeker midrange with more removal; merged.",
-    "rep": 249652
+    "note": "'Mardu Control' lists are Rabblemaster/Seeker midrange with more removal; merged. Rep = GP San Antonio 2014 winning list instead of a World Magic Cup team list.",
+    "rep": 249427
   },
   {
     "name": "Mardu Aggro",
@@ -1123,8 +1061,8 @@
     "rep": 259504
   },
   {
-    "name": "Jund Soulflayer",
-    "slug": "jund-soulflayer",
+    "name": "Soulflayer",
+    "slug": "soulflayer",
     "archetype": "combo",
     "titles": [
       "Jund",
@@ -1145,19 +1083,19 @@
     "why": {
       "fr": [
         "Soulflayer pouvait devenir une menace volante, avec hexproof et lien de vie",
-        "Peu de decks jouaient de la haine de cimetière en main"
+        "Peu de decks jouaient de la haine de cimetière dans leur deck principal"
       ],
       "en": [
         "Soulflayer could become a flying, hexproof, lifelinking threat",
         "Few decks maindecked graveyard hate"
       ]
     },
-    "note": "The 'Jund' title also holds an early-season Jund Monsters list (SCG Indianapolis 5-8). Rep = RPTQ Lenexa winning list.",
+    "note": "Renamed from 'Jund Soulflayer': the rep list (RPTQ Lenexa win) runs Tasigur and Chromanticore on a five-colour mana base. The 'Jund' title also holds an early-season Jund Monsters list (SCG Indianapolis 5-8).",
     "rep": 255789
   },
   {
-    "name": "Mono-White Aggro",
-    "slug": "mono-white-aggro",
+    "name": "Mono-White Devotion",
+    "slug": "mono-white-devotion",
     "archetype": "aggro",
     "titles": [
       "Weenie White"
@@ -1171,8 +1109,8 @@
       "Nykthos, Shrine to Nyx"
     ],
     "summary": {
-      "fr": "Aggro mono-blanc à base de petites créatures, Brimaz et Wingmate Roc, avec Nykthos pour alimenter Mastery of the Unseen.",
-      "en": "Mono-white aggro with small creatures, Brimaz and Wingmate Roc, using Nykthos to fuel Mastery of the Unseen."
+      "fr": "Mono-blanc agressif construit pour la dévotion : petites créatures, Brimaz et Wingmate Roc, avec Nykthos pour alimenter Mastery of the Unseen.",
+      "en": "Aggressive mono-white built for devotion: small creatures, Brimaz and Wingmate Roc, with Nykthos fuelling Mastery of the Unseen."
     },
     "why": {
       "fr": [
@@ -1184,7 +1122,7 @@
         "Archangel of Tithes taxed opposing attacks and blocks"
       ]
     },
-    "note": "Included via Samuel Black's 2015 World Championship top 4.",
+    "note": "Renamed from 'Mono-White Aggro': Samuel Black's 2015 World Championship top-4 deck is listed as 'Mono-White Devotion' (https://articles.starcitygames.com/articles/analyzing-the-standard-decks-of-the-2015-world-championships/). Included via that top 4 (https://mtg.wiki/page/2015_World_Championship).",
     "rep": 259455
   },
   {

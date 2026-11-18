@@ -6,8 +6,7 @@
     "titles": [
       "Fires of Invention",
       "Jeskai Fires",
-      "4c Fires Yorion",
-      "Jeskai Control"
+      "4c Fires Yorion"
     ],
     "rep": 372294,
     "cover": "Fires of Invention",
@@ -514,77 +513,6 @@
     }
   },
   {
-    "name": "All That Glitters",
-    "slug": "all-that-glitters",
-    "archetype": "aggro",
-    "titles": [
-      "Selesnya All That Glitters",
-      "WW All That Glitters",
-      "Bant All That Glitters"
-    ],
-    "rep": 392111,
-    "cover": "All That Glitters",
-    "keyCards": [
-      "All That Glitters",
-      "Sentinel's Eyes",
-      "Alseid of Life's Bounty",
-      "Glaring Aegis",
-      "Gingerbrute"
-    ],
-    "summary": {
-      "fr": "Deck d'auras Selesnya qui empile des enchantements bon marché sur des créatures évasives, All That Glitters grandissant avec chaque artefact et enchantement.",
-      "en": "Selesnya aura deck that stacks cheap enchantments on evasive creatures, with All That Glitters growing for each artifact and enchantment."
-    },
-    "why": {
-      "fr": [
-        "Des auras bon marché comme Sentinel's Eyes faisaient vite grandir All That Glitters",
-        "Gingerbrute et Alseid étaient difficiles à bloquer ou à tuer",
-        "Gods Willing et Alseid protégeaient la créature enchantée"
-      ],
-      "en": [
-        "Cheap auras such as Sentinel's Eyes made All That Glitters large quickly",
-        "Gingerbrute and Alseid were hard to block or kill",
-        "Gods Willing and Alseid protected the enchanted creature"
-      ]
-    },
-    "note": "Most results come from The Arena Open (7-win lists)."
-  },
-  {
-    "name": "Umori Mutate",
-    "slug": "umori-mutate",
-    "archetype": "aggro",
-    "titles": [
-      "Simic Umori Aggro",
-      "Gruul Umori Aggro"
-    ],
-    "rep": 395566,
-    "cover": "Gemrazer",
-    "keyCards": [
-      "Gemrazer",
-      "Pollywog Symbiote",
-      "Migratory Greathorn",
-      "Auspicious Starrix",
-      "Umori, the Collector"
-    ],
-    "summary": {
-      "fr": "Deck mutation composé uniquement de créatures, avec Umori en compagnon, qui empile les mutations pour l'avantage de cartes et de grosses attaques.",
-      "en": "Creature-only mutate deck with Umori as companion, stacking mutate creatures for card advantage and big attacks."
-    },
-    "why": {
-      "fr": [
-        "Une liste composée uniquement de créatures remplissait sans coût la condition de compagnon d'Umori",
-        "Pollywog Symbiote réduisait le coût de mutation et filtrait la pioche",
-        "Auspicious Starrix et Migratory Greathorn ajoutaient des permanents en mutant"
-      ],
-      "en": [
-        "A creature-only list met Umori's companion condition for free",
-        "Pollywog Symbiote made mutate cheaper and looted",
-        "Auspicious Starrix and Migratory Greathorn added permanents when mutating"
-      ]
-    },
-    "note": "Simic and Gruul Umori merged; almost all results from The Arena Open (7-win lists)."
-  },
-  {
     "name": "Bant Golos",
     "slug": "bant-golos",
     "archetype": "ramp",
@@ -730,44 +658,6 @@
     "note": "Rep = Players Tour Finals finalist."
   },
   {
-    "name": "Mardu Knights",
-    "slug": "mardu-knights",
-    "archetype": "aggro",
-    "titles": [
-      "Mardu Knight",
-      "Mardu Knights",
-      "Mardu Knights Aggro",
-      "Mardu Knight Aggro",
-      "Rakdos Knights"
-    ],
-    "rep": 361200,
-    "cover": "Blacklance Paragon",
-    "keyCards": [
-      "Embercleave",
-      "Steelclaw Lance",
-      "Inspiring Veteran",
-      "Acclaimed Contender",
-      "Fervent Champion"
-    ],
-    "summary": {
-      "fr": "Aggro tribal Chevaliers en rouge, blanc et noir, qui utilise Inspiring Veteran, Steelclaw Lance et Embercleave pour pousser les dégâts.",
-      "en": "Knight tribal aggro across red, white and black, using Inspiring Veteran, Steelclaw Lance and Embercleave to push damage."
-    },
-    "why": {
-      "fr": [
-        "Inspiring Veteran et Steelclaw Lance renforçaient les Chevaliers",
-        "Acclaimed Contender trouvait Embercleave ou un autre Chevalier",
-        "Tournament Grounds soutenait une base tricolore de Chevaliers"
-      ],
-      "en": [
-        "Inspiring Veteran and Steelclaw Lance pumped the Knights",
-        "Acclaimed Contender found Embercleave or another Knight",
-        "Tournament Grounds supported a three-colour Knight base"
-      ]
-    },
-    "note": "Mardu/Rakdos Knights titles. Rep = Mythic Championship V top 8."
-  },
-  {
     "name": "Orzhov Doom",
     "slug": "orzhov-doom",
     "archetype": "control",
@@ -838,41 +728,6 @@
       ]
     },
     "note": "Rep = Core Set 2021-era list (Red Bull Untapped qualifier winner)."
-  },
-  {
-    "name": "Azorius Blink",
-    "slug": "azorius-blink",
-    "archetype": "midrange",
-    "titles": [
-      "Azorius Aggro",
-      "UW Midrange"
-    ],
-    "rep": 376065,
-    "cover": "Thassa, Deep-Dwelling",
-    "keyCards": [
-      "Thassa, Deep-Dwelling",
-      "Agent of Treachery",
-      "Charming Prince",
-      "Elite Guardmage",
-      "Teferi, Time Raveler"
-    ],
-    "summary": {
-      "fr": "Deck de valeur blanc-bleu qui fait clignoter ses créatures avec Thassa, Deep-Dwelling pour réutiliser Charming Prince et Agent of Treachery.",
-      "en": "White-blue value deck that blinks creatures with Thassa, Deep-Dwelling, reusing Charming Prince and Agent of Treachery triggers."
-    },
-    "why": {
-      "fr": [
-        "Thassa faisait clignoter une créature à chaque fin de tour",
-        "Agent of Treachery volait un permanent à chaque nouvelle arrivée",
-        "Elite Guardmage et Charming Prince rapportaient points de vie et cartes"
-      ],
-      "en": [
-        "Thassa flickered a creature at each end step",
-        "Agent of Treachery stole a permanent each time it re-entered",
-        "Elite Guardmage and Charming Prince gave life and cards"
-      ]
-    },
-    "note": "Qualifies via top8 count only; results are Arena daily/7-win style events. Weak evidence."
   },
   {
     "name": "Simic Ramp",

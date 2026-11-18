@@ -6,9 +6,6 @@
     "titles": [
       "Temur Energy",
       "Temer Energy",
-      "4c Energy",
-      "4 Color Energy",
-      "Dark Temur",
       "Temur Energy Aggro",
       "Rg Energy"
     ],
@@ -38,6 +35,39 @@
       ]
     },
     "note": "4c Energy / Dark Temur (Temur splashing The Scarab God) merged in. One early 'Temur Energy' row (GP Denver 2016) is actually a Marvel list."
+  },
+  {
+    "name": "4c Energy",
+    "slug": "4c-energy",
+    "archetype": "midrange",
+    "titles": [
+      "4c Energy",
+      "4 Color Energy",
+      "Dark Temur"
+    ],
+    "rep": 304030,
+    "cover": "The Scarab God",
+    "keyCards": [
+      "The Scarab God",
+      "Rogue Refiner",
+      "Whirler Virtuoso",
+      "Glorybringer",
+      "Harnessed Lightning"
+    ],
+    "summary": {
+      "fr": "Temur Energy avec une touche de noir pour The Scarab God, arrivé avec Hour of Devastation : apparu dans les dernières semaines avant la rotation d'Ixalan.",
+      "en": "Temur Energy splashing black for The Scarab God, which arrived with Hour of Devastation; it appeared in the last weeks before the Ixalan rotation."
+    },
+    "why": {
+      "fr": [
+        "A remporté les championnats nationaux du Japon et d'Angleterre",
+        "The Scarab God donnait l'avantage en fin de partie dans le miroir Temur Energy"
+      ],
+      "en": [
+        "Won the Japanese and English national championships",
+        "The Scarab God gave the edge in the late game of the Temur Energy mirror"
+      ]
+    }
   },
   {
     "name": "Mardu Vehicles",
@@ -415,14 +445,14 @@
     },
     "why": {
       "fr": [
+        "A remporté le Pro Tour Hour of Devastation",
         "Ramunap Ruins et les déserts donnaient de la portée sans coûter de slot de sort",
-        "Earthshaker Khenra et Ahn-Crop Crasher neutralisaient les bloqueurs au bon moment",
-        "Principal deck aggro face à Temur Energy avant la rotation"
+        "Earthshaker Khenra et Ahn-Crop Crasher neutralisaient les bloqueurs au bon moment"
       ],
       "en": [
+        "Won Pro Tour Hour of Devastation",
         "Ramunap Ruins and the deserts gave reach without taking spell slots",
-        "Earthshaker Khenra and Ahn-Crop Crasher stopped blockers at key moments",
-        "Main aggro counterpart to Temur Energy before rotation"
+        "Earthshaker Khenra and Ahn-Crop Crasher stopped blockers at key moments"
       ]
     },
     "note": "Kiwi Red (red splashing Eldrazi) merged. PT HOU rank-1 row listed as 'Comeback Red' is used as default rep; not cited in text.",

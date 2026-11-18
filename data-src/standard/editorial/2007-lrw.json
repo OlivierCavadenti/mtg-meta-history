@@ -527,38 +527,6 @@
     }
   },
   {
-    "name": "The Rack",
-    "slug": "the-rack",
-    "archetype": "control",
-    "titles": [
-      "Goyf Rack",
-      "Tarmo Rack"
-    ],
-    "cover": "The Rack",
-    "keyCards": [
-      "The Rack",
-      "Smallpox",
-      "Augur of Skulls",
-      "Funeral Charm",
-      "Tarmogoyf"
-    ],
-    "summary": {
-      "fr": "Contrôle noir-vert de défausse : vider la main adverse avec Smallpox et Augur of Skulls, puis infliger des dégâts via The Rack.",
-      "en": "Black-green discard control: empty the opponent's hand with Smallpox and Augur of Skulls, then let The Rack deal damage."
-    },
-    "why": {
-      "fr": [
-        "La défausse en masse désarmait les decks de contrôle",
-        "Tarmogoyf grandissait avec les cartes envoyées au cimetière"
-      ],
-      "en": [
-        "Mass discard dismantled control decks",
-        "Tarmogoyf grew with all the cards sent to the graveyard"
-      ]
-    },
-    "rep": 604364
-  },
-  {
     "name": "Doran Rock",
     "slug": "doran-rock",
     "archetype": "midrange",
@@ -592,136 +560,11 @@
     }
   },
   {
-    "name": "Angelfire",
-    "slug": "angelfire",
-    "archetype": "control",
-    "titles": [
-      "Angelfire"
-    ],
-    "cover": "Firemane Angel",
-    "keyCards": [
-      "Lightning Angel",
-      "Firemane Angel",
-      "Lightning Helix",
-      "Compulsive Research",
-      "Wrath of God"
-    ],
-    "summary": {
-      "fr": "Contrôle Boros-bleu de l'ère Ravnica : signets, Wrath of God, burn et anges comme finishers.",
-      "en": "Ravnica-era blue-red-white control: Signets, Wrath of God, burn and angels as finishers."
-    },
-    "why": {
-      "fr": [
-        "Lightning Helix et Wrath of God stabilisaient face à l'aggro",
-        "Firemane Angel revenait du cimetière en fin de partie"
-      ],
-      "en": [
-        "Lightning Helix and Wrath of God stabilised against aggro",
-        "Firemane Angel returned from the graveyard in the late game"
-      ]
-    },
-    "rep": 604363
-  },
-  {
-    "name": "Omni-Chord",
-    "slug": "omni-chord",
-    "archetype": "midrange",
-    "titles": [
-      "Omni-chord"
-    ],
-    "cover": "Chord of Calling",
-    "keyCards": [
-      "Chord of Calling",
-      "Vesuvan Shapeshifter",
-      "Court Hussar",
-      "Loxodon Hierarch",
-      "Tarmogoyf"
-    ],
-    "summary": {
-      "fr": "Midrange bleu-vert-blanc : Chord of Calling va chercher la bonne créature, de Loxodon Hierarch à Mystic Snake.",
-      "en": "Blue-green-white midrange: Chord of Calling finds the right creature, from Loxodon Hierarch to Mystic Snake."
-    },
-    "why": {
-      "fr": [
-        "Chord of Calling offrait une boîte à outils de créatures à vitesse instantanée",
-        "Remand et Rune Snag ralentissaient l'adversaire"
-      ],
-      "en": [
-        "Chord of Calling gave an instant-speed creature toolbox",
-        "Remand and Rune Snag slowed opponents down"
-      ]
-    },
-    "rep": 604365
-  },
-  {
-    "name": "Junk Midrange",
-    "slug": "junk-midrange",
-    "archetype": "midrange",
-    "titles": [
-      "Junk Midrange"
-    ],
-    "cover": "Skeletal Vampire",
-    "keyCards": [
-      "Hypnotic Specter",
-      "Skeletal Vampire",
-      "Castigate",
-      "Crime/Punishment",
-      "Birds of Paradise"
-    ],
-    "summary": {
-      "fr": "Midrange blanc-noir-vert de l'ère Ravnica : discard, Hypnotic Specter et grosses créatures comme Skeletal Vampire.",
-      "en": "Ravnica-era white-black-green midrange: discard, Hypnotic Specter and large threats such as Skeletal Vampire."
-    },
-    "why": {
-      "fr": [
-        "Castigate et Funeral Charm retiraient les cartes clés adverses",
-        "Les shocklands de Ravnica rendaient la manabase à trois couleurs fiable"
-      ],
-      "en": [
-        "Castigate and Funeral Charm stripped key cards from opponents",
-        "Ravnica shocklands made the three-colour mana reliable"
-      ]
-    },
-    "rep": 604366
-  },
-  {
-    "name": "Wish Control",
-    "slug": "wish-control",
-    "archetype": "control",
-    "titles": [
-      "Wish Control"
-    ],
-    "cover": "Glittering Wish",
-    "keyCards": [
-      "Glittering Wish",
-      "Wrath of God",
-      "Teneb, the Harvester",
-      "Angel of Despair",
-      "Loxodon Hierarch"
-    ],
-    "summary": {
-      "fr": "Contrôle Junk qui utilise Glittering Wish pour aller chercher des réponses multicolores dans le sideboard.",
-      "en": "Junk control that uses Glittering Wish to fetch multicolour answers from the sideboard."
-    },
-    "why": {
-      "fr": [
-        "Glittering Wish donnait accès à une boîte à outils dans le sideboard",
-        "Wrath of God et Putrefy géraient les créatures adverses"
-      ],
-      "en": [
-        "Glittering Wish accessed a toolbox in the sideboard",
-        "Wrath of God and Putrefy handled opposing creatures"
-      ]
-    },
-    "rep": 604367
-  },
-  {
     "name": "RG Aggro",
     "slug": "rg-aggro",
     "archetype": "aggro",
     "titles": [
       "GR Aggro",
-      "Gruul Beats",
       "Rg Aggro"
     ],
     "rep": 124472,
@@ -747,36 +590,5 @@
         "Tarmogoyf and Kavu Predator quickly outgrew other red creatures"
       ]
     }
-  },
-  {
-    "name": "UW Snow Control",
-    "slug": "uw-snow-control",
-    "archetype": "control",
-    "titles": [
-      "UW Snow Control"
-    ],
-    "cover": "Martyr of Sands",
-    "keyCards": [
-      "Martyr of Sands",
-      "Crovax, Ascendant Hero",
-      "Sacred Mesa",
-      "Scrying Sheets",
-      "Faith's Fetters"
-    ],
-    "summary": {
-      "fr": "Contrôle blanc à base de lands neigeux : Martyr of Sands gagne beaucoup de points de vie, Scrying Sheets fait piocher.",
-      "en": "Snow-based white control: Martyr of Sands gains large amounts of life and Scrying Sheets draws extra cards."
-    },
-    "why": {
-      "fr": [
-        "Le gain de vie massif neutralisait les decks aggro",
-        "Wrath of God et Faith's Fetters géraient les menaces"
-      ],
-      "en": [
-        "Large life gains neutralised aggro decks",
-        "Wrath of God and Faith's Fetters handled threats"
-      ]
-    },
-    "rep": 604369
   }
 ]

@@ -168,7 +168,6 @@
     "archetype": "midrange",
     "titles": [
       "Jund Aggro",
-      "5C Blood",
       "Jund Blood"
     ],
     "cover": "Bloodbraid Elf",
@@ -193,8 +192,43 @@
         "Maelstrom Pulse and Jund Charm answered almost anything"
       ]
     },
-    "note": "5C Blood (Jund splashing blue for Cryptic Command) merged.",
+    "note": "5C Blood split out as Five-Color Blood (named archetype at GP Seattle 2009).",
     "rep": 435791
+  },
+  {
+    "name": "Five-Color Blood",
+    "slug": "five-color-blood",
+    "archetype": "midrange",
+    "titles": [
+      "5C Blood"
+    ],
+    "rep": 146957,
+    "cover": "Sygg, River Cutthroat",
+    "keyCards": [
+      "Bloodbraid Elf",
+      "Putrid Leech",
+      "Sygg, River Cutthroat",
+      "Cryptic Command",
+      "Anathemancer",
+      "Cruel Ultimatum"
+    ],
+    "summary": {
+      "fr": "Midrange Jund étendu au bleu sur Reflecting Pool et lands Vivid : Bloodbraid Elf et Putrid Leech, avec Cryptic Command, Sygg, River Cutthroat et Cruel Ultimatum.",
+      "en": "Jund midrange stretched into blue on Reflecting Pool and Vivid lands: Bloodbraid Elf and Putrid Leech, plus Cryptic Command, Sygg, River Cutthroat and Cruel Ultimatum."
+    },
+    "why": {
+      "fr": [
+        "Les créatures de Jund mettaient la pression tôt",
+        "Cryptic Command et Cruel Ultimatum gagnaient les parties longues",
+        "Sygg piochait une carte les tours où l'adversaire perdait 3 points de vie ou plus"
+      ],
+      "en": [
+        "The Jund creatures applied early pressure",
+        "Cryptic Command and Cruel Ultimatum won the long games",
+        "Sygg drew a card on turns where the opponent lost 3 or more life"
+      ]
+    },
+    "note": "Split from Jund: 'Five-Color Blood' was discussed as its own deck at GP Seattle 2009 (https://articles.starcitygames.com/articles/innovations-five-color-blood-sygg-the-missing-link/)."
   },
   {
     "name": "Doran",
@@ -299,7 +333,8 @@
       "5C Control",
       "5c Control",
       "5CC",
-      "Cruel Control"
+      "Cruel Control",
+      "Quick' n Toast"
     ],
     "rep": 138503,
     "cover": "Cruel Ultimatum",
@@ -323,39 +358,8 @@
         "Volcanic Fallout killed Faeries and tokens at instant speed",
         "Cruel Ultimatum gave a decisive edge once it resolved"
       ]
-    }
-  },
-  {
-    "name": "Quick 'n Toast",
-    "slug": "quick-n-toast",
-    "archetype": "control",
-    "titles": [
-      "Quick' n Toast"
-    ],
-    "cover": "Mulldrifter",
-    "keyCards": [
-      "Mulldrifter",
-      "Rhox War Monk",
-      "Cryptic Command",
-      "Esper Charm",
-      "Wrath of God"
-    ],
-    "summary": {
-      "fr": "Version Shards du contrôle multicolore Toast : Mulldrifter, Cryptic Command, Wrath of God et Rhox War Monk.",
-      "en": "Shards version of the Toast multicolour control: Mulldrifter, Cryptic Command, Wrath of God and Rhox War Monk."
     },
-    "why": {
-      "fr": [
-        "Rhox War Monk gagnait du temps contre les decks aggro",
-        "Esper Charm et Mulldrifter offraient de l'avantage de cartes"
-      ],
-      "en": [
-        "Rhox War Monk bought time against aggro decks",
-        "Esper Charm and Mulldrifter provided card advantage"
-      ]
-    },
-    "note": "Kept separate from Five-Color Control (Worlds 2008 list, pre-Conflux shell).",
-    "rep": 132881
+    "note": "Jamie Parke's Worlds 2008 runner-up list (mtgtop8 title \"Quick' n Toast\") merged: mtg.wiki files it as Five-Color Control (Cruel Ultimatum, Esper Charm)."
   },
   {
     "name": "BG Elves",
