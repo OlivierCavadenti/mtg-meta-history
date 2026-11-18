@@ -3,17 +3,33 @@
     "name": "Esper Midrange",
     "slug": "esper-midrange",
     "archetype": "midrange",
-    "titles": ["Esper Raffine"],
+    "titles": [
+      "Esper Raffine"
+    ],
     "rep": 486261,
     "cover": "Raffine, Scheming Seer",
-    "keyCards": ["Raffine, Scheming Seer", "The Wandering Emperor", "Wedding Announcement", "Ao, the Dawn Sky", "Tenacious Underdog"],
+    "keyCards": [
+      "Raffine, Scheming Seer",
+      "The Wandering Emperor",
+      "Wedding Announcement",
+      "Ao, the Dawn Sky",
+      "Tenacious Underdog"
+    ],
     "summary": {
       "fr": "Midrange Esper avec Raffine, Ao et Tenacious Underdog, soutenus par The Wandering Emperor, Wedding Announcement et du removal bon marché. Les versions suivantes ont glissé vers les légendaires et Plaza of Heroes.",
       "en": "Esper midrange with Raffine, Ao and Tenacious Underdog, backed by The Wandering Emperor, Wedding Announcement and cheap removal. Later builds moved to legends and Plaza of Heroes."
     },
     "why": {
-      "fr": ["Raffine et Ao étaient des menaces qui génèrent de la valeur immédiatement", "Planeswalker flash et interaction bon marché punissaient l'adversaire engagé", "Présent dans les top 8 des grands tournois toute la saison"],
-      "en": ["Raffine and Ao were threats that produced value at once", "A flash planeswalker and cheap interaction punished tapped-out opponents", "Made top 8s at major events throughout the season"]
+      "fr": [
+        "Raffine et Ao étaient des menaces qui génèrent de la valeur immédiatement",
+        "Planeswalker flash et interaction bon marché punissaient l'adversaire engagé",
+        "Présent dans les top 8 des grands tournois toute la saison"
+      ],
+      "en": [
+        "Raffine and Ao were threats that produced value at once",
+        "A flash planeswalker and cheap interaction punished tapped-out opponents",
+        "Made top 8s at major events throughout the season"
+      ]
     },
     "note": "Title covers classic Esper midrange (autumn 2022) and the 2023 Esper Legends builds (Plaza of Heroes, Dennick, Thalia, Skrelv). Rep set to a Japan Open top 8 list of the classic version; default was a 2023 Legends list."
   },
@@ -21,17 +37,36 @@
     "name": "Grixis Midrange",
     "slug": "grixis-midrange",
     "archetype": "midrange",
-    "titles": ["Grixis Control", "GrixisControl", "Grixis Midrange", "Grixis Aggro"],
+    "titles": [
+      "Grixis Control",
+      "GrixisControl",
+      "Grixis Midrange",
+      "Grixis Aggro"
+    ],
     "rep": 491664,
     "cover": "Corpse Appraiser",
-    "keyCards": ["Corpse Appraiser", "Fable of the Mirror-Breaker", "Sheoldred, the Apocalypse", "Invoke Despair", "Make Disappear"],
+    "keyCards": [
+      "Corpse Appraiser",
+      "Fable of the Mirror-Breaker",
+      "Sheoldred, the Apocalypse",
+      "Invoke Despair",
+      "Make Disappear"
+    ],
     "summary": {
       "fr": "Midrange Grixis avec Fable, Bloodtithe Harvester, Corpse Appraiser et Sheoldred, the Apocalypse, qui ajoute Make Disappear et Invoke Despair au socle Rakdos.",
       "en": "Grixis midrange with Fable, Bloodtithe Harvester, Corpse Appraiser and Sheoldred, the Apocalypse, adding Make Disappear and Invoke Despair to the Rakdos core."
     },
     "why": {
-      "fr": ["A remporté le championnat du monde", "Fable, Reckoner Bankbuster et Invoke Despair donnaient l'avantage de cartes", "Make Disappear et Corpse Appraiser étaient les apports bleus au Rakdos"],
-      "en": ["Won the World Championship", "Fable, Reckoner Bankbuster and Invoke Despair provided card advantage", "Make Disappear and Corpse Appraiser were the blue additions to Rakdos"]
+      "fr": [
+        "A remporté le championnat du monde",
+        "Fable, Reckoner Bankbuster et Invoke Despair donnaient l'avantage de cartes",
+        "Make Disappear et Corpse Appraiser étaient les apports bleus au Rakdos"
+      ],
+      "en": [
+        "Won the World Championship",
+        "Fable, Reckoner Bankbuster and Invoke Despair provided card advantage",
+        "Make Disappear and Corpse Appraiser were the blue additions to Rakdos"
+      ]
     },
     "note": "'Grixis Control' and 'Grixis Midrange' are the same Fable / Appraiser / Invoke Despair deck; merged with the early 'Grixis Aggro' (Sol'Kanar) list. Rep set to the World Championship XXVIII winner."
   },
@@ -39,100 +74,204 @@
     "name": "Mono-White Midrange",
     "slug": "mono-white-midrange",
     "archetype": "midrange",
-    "titles": ["Mono White Control"],
+    "titles": [
+      "Mono White Control"
+    ],
     "cover": "Lay Down Arms",
-    "keyCards": ["Lay Down Arms", "The Wandering Emperor", "Wedding Announcement", "Reckoner Bankbuster", "Serra Paragon"],
+    "keyCards": [
+      "Lay Down Arms",
+      "The Wandering Emperor",
+      "Wedding Announcement",
+      "Reckoner Bankbuster",
+      "Serra Paragon"
+    ],
     "summary": {
       "fr": "Midrange mono-blanc sur Plaines : Lay Down Arms comme removal bon marché, Wedding Announcement et The Wandering Emperor comme menaces, Bankbuster et Serra Paragon pour la valeur.",
       "en": "Mono-white midrange on Plains: Lay Down Arms as cheap removal, Wedding Announcement and The Wandering Emperor as threats, Bankbuster and Serra Paragon for value."
     },
     "why": {
-      "fr": ["Le grand nombre de Plaines rendait Lay Down Arms très bon marché", "Wedding Announcement et Bankbuster donnaient l'avantage de cartes", "Loran of the Third Path répondait aux artefacts et enchantements comme Fable"],
-      "en": ["A Plains-heavy mana base made Lay Down Arms very cheap removal", "Wedding Announcement and Bankbuster gave card advantage", "Loran of the Third Path answered artifacts and enchantments such as Fable"]
-    }
+      "fr": [
+        "Le grand nombre de Plaines rendait Lay Down Arms très bon marché",
+        "Wedding Announcement et Bankbuster donnaient l'avantage de cartes",
+        "Loran of the Third Path répondait aux artefacts et enchantements comme Fable"
+      ],
+      "en": [
+        "A Plains-heavy mana base made Lay Down Arms very cheap removal",
+        "Wedding Announcement and Bankbuster gave card advantage",
+        "Loran of the Third Path answered artifacts and enchantments such as Fable"
+      ]
+    },
+    "rep": 513203
   },
   {
     "name": "Rakdos Midrange",
     "slug": "rakdos-midrange",
     "archetype": "midrange",
-    "titles": ["Rakdos Control", "Rakdos Midrange"],
+    "titles": [
+      "Rakdos Control",
+      "Rakdos Midrange"
+    ],
     "cover": "Sheoldred, the Apocalypse",
-    "keyCards": ["Sheoldred, the Apocalypse", "Fable of the Mirror-Breaker", "Invoke Despair", "Bloodtithe Harvester", "Reckoner Bankbuster"],
+    "keyCards": [
+      "Sheoldred, the Apocalypse",
+      "Fable of the Mirror-Breaker",
+      "Invoke Despair",
+      "Bloodtithe Harvester",
+      "Reckoner Bankbuster"
+    ],
     "summary": {
       "fr": "Midrange Rakdos avec Sheoldred, the Apocalypse, Fable, Bloodtithe Harvester et Invoke Despair, plus du removal efficace comme Cut Down et Go for the Throat.",
       "en": "Rakdos midrange with Sheoldred, the Apocalypse, Fable, Bloodtithe Harvester and Invoke Despair, plus efficient removal like Cut Down and Go for the Throat."
     },
     "why": {
-      "fr": ["A remporté le Pro Tour March of the Machine", "Sheoldred punissait les decks qui piochent beaucoup et exigeait une réponse immédiate", "Fable, Invoke Despair et Reckoner Bankbuster ont été bannis peu après ce Pro Tour"],
-      "en": ["Won Pro Tour March of the Machine", "Sheoldred punished draw-heavy decks and demanded an immediate answer", "Fable, Invoke Despair and Reckoner Bankbuster were banned soon after that Pro Tour"]
+      "fr": [
+        "A remporté le Pro Tour March of the Machine",
+        "Sheoldred punissait les decks qui piochent beaucoup et exigeait une réponse immédiate",
+        "Fable, Invoke Despair et Reckoner Bankbuster ont été bannis peu après ce Pro Tour"
+      ],
+      "en": [
+        "Won Pro Tour March of the Machine",
+        "Sheoldred punished draw-heavy decks and demanded an immediate answer",
+        "Fable, Invoke Despair and Reckoner Bankbuster were banned soon after that Pro Tour"
+      ]
     },
-    "note": "Main title is 'Rakdos Control' on mtgtop8. Empty-title group (89 PT March of the Machine rows, no top 8) dropped as unattributable. Ban: 2023-05-29 announcement."
+    "note": "Main title is 'Rakdos Control' on mtgtop8. Empty-title group (89 PT March of the Machine rows, no top 8) dropped as unattributable. Ban: 2023-05-29 announcement.",
+    "rep": 524758
   },
   {
     "name": "Rakdos Reanimator",
     "slug": "rakdos-reanimator",
     "archetype": "combo",
-    "titles": ["The Cruelty of Gix", "Reanimator"],
+    "titles": [
+      "The Cruelty of Gix",
+      "Reanimator"
+    ],
     "cover": "Atraxa, Grand Unifier",
-    "keyCards": ["The Cruelty of Gix", "Atraxa, Grand Unifier", "Fable of the Mirror-Breaker", "Bloodtithe Harvester", "Liliana of the Veil"],
+    "keyCards": [
+      "The Cruelty of Gix",
+      "Atraxa, Grand Unifier",
+      "Fable of the Mirror-Breaker",
+      "Bloodtithe Harvester",
+      "Liliana of the Veil"
+    ],
     "summary": {
       "fr": "Midrange Rakdos qui défausse Atraxa, Grand Unifier avec Fable et des effets similaires, puis la ramène avec le dernier chapitre de The Cruelty of Gix.",
       "en": "Rakdos midrange that discards Atraxa, Grand Unifier with Fable and similar effects, then returns it with the final chapter of The Cruelty of Gix."
     },
     "why": {
-      "fr": ["Une Atraxa en jeu tôt apportait un énorme avantage de cartes", "Sans elle, le deck jouait une partie Rakdos classique avec Fable et Sheoldred", "A remporté un Regional Championship américain"],
-      "en": ["An early Atraxa produced a large card advantage", "Without it, the deck played a normal Rakdos game with Fable and Sheoldred", "Won a U.S. Regional Championship"]
+      "fr": [
+        "Une Atraxa en jeu tôt apportait un énorme avantage de cartes",
+        "Sans elle, le deck jouait une partie Rakdos classique avec Fable et Sheoldred",
+        "A remporté un Regional Championship américain"
+      ],
+      "en": [
+        "An early Atraxa produced a large card advantage",
+        "Without it, the deck played a normal Rakdos game with Fable and Sheoldred",
+        "Won a U.S. Regional Championship"
+      ]
     },
-    "note": "Merged the early-season 'Reanimator' list (Cruelty of Gix into Junji / Titan of Industry)."
+    "note": "Merged the early-season 'Reanimator' list (Cruelty of Gix into Junji / Titan of Industry).",
+    "rep": 520595
   },
   {
     "name": "Azorius Soldiers",
     "slug": "azorius-soldiers",
     "archetype": "aggro",
-    "titles": ["Azorius Soldier"],
+    "titles": [
+      "Azorius Soldier"
+    ],
     "cover": "Valiant Veteran",
-    "keyCards": ["Valiant Veteran", "Recruitment Officer", "Skystrike Officer", "Siege Veteran", "Thalia, Guardian of Thraben"],
+    "keyCards": [
+      "Valiant Veteran",
+      "Recruitment Officer",
+      "Skystrike Officer",
+      "Siege Veteran",
+      "Thalia, Guardian of Thraben"
+    ],
     "summary": {
       "fr": "Aggro tribal Soldats Azorius de The Brothers' War, avec des lords comme Valiant Veteran, la pioche de Recruitment Officer et Skystrike Officer, et Thalia pour la disruption.",
       "en": "Azorius Soldiers tribal aggro from The Brothers' War, with lords like Valiant Veteran, card flow from Recruitment Officer and Skystrike Officer, and Thalia for disruption."
     },
     "why": {
-      "fr": ["Les lords Soldats rendaient chaque petite créature menaçante", "Recruitment Officer et Skystrike Officer assuraient le flux de cartes", "Thalia et Skrelv compliquaient le removal adverse"],
-      "en": ["Soldier lords made every cheap creature a real threat", "Recruitment Officer and Skystrike Officer kept cards flowing", "Thalia and Skrelv made opposing removal harder to use"]
-    }
+      "fr": [
+        "Les lords Soldats rendaient chaque petite créature menaçante",
+        "Recruitment Officer et Skystrike Officer assuraient le flux de cartes",
+        "Thalia et Skrelv compliquaient le removal adverse"
+      ],
+      "en": [
+        "Soldier lords made every cheap creature a real threat",
+        "Recruitment Officer and Skystrike Officer kept cards flowing",
+        "Thalia and Skrelv made opposing removal harder to use"
+      ]
+    },
+    "rep": 513205
   },
   {
     "name": "Selesnya Toxic",
     "slug": "selesnya-toxic",
     "archetype": "aggro",
-    "titles": ["Selesnya Toxic", "Selesnya Aggro"],
+    "titles": [
+      "Selesnya Toxic",
+      "Selesnya Aggro"
+    ],
     "cover": "Venerated Rotpriest",
-    "keyCards": ["Venerated Rotpriest", "Skrelv, Defector Mite", "Tyvar's Stand", "Bloated Contaminator", "Skrelv's Hive"],
+    "keyCards": [
+      "Venerated Rotpriest",
+      "Skrelv, Defector Mite",
+      "Tyvar's Stand",
+      "Bloated Contaminator",
+      "Skrelv's Hive"
+    ],
     "summary": {
       "fr": "Aggro poison Selesnya de Phyrexia: All Will Be One : créatures toxiques, prolifération et sorts de protection qui déclenchent aussi Venerated Rotpriest.",
       "en": "Selesnya poison aggro from Phyrexia: All Will Be One: toxic creatures, proliferate and protection spells that also trigger Venerated Rotpriest."
     },
     "why": {
-      "fr": ["Tyvar's Stand protégeait une menace et ajoutait du poison via Rotpriest", "La prolifération de Bloated Contaminator accélérait l'horloge poison", "Skrelv et Skrelv's Hive ajoutaient des corps toxiques difficiles à bloquer"],
-      "en": ["Tyvar's Stand protected a threat and added poison through Rotpriest", "Bloated Contaminator's proliferate sped up the poison clock", "Skrelv and Skrelv's Hive added hard-to-block toxic bodies"]
+      "fr": [
+        "Tyvar's Stand protégeait une menace et ajoutait du poison via Rotpriest",
+        "La prolifération de Bloated Contaminator accélérait l'horloge poison",
+        "Skrelv et Skrelv's Hive ajoutaient des corps toxiques difficiles à bloquer"
+      ],
+      "en": [
+        "Tyvar's Stand protected a threat and added poison through Rotpriest",
+        "Bloated Contaminator's proliferate sped up the poison clock",
+        "Skrelv and Skrelv's Hive added hard-to-block toxic bodies"
+      ]
     },
-    "note": "'Selesnya Aggro' lists are the same toxic deck; merged."
+    "note": "'Selesnya Aggro' lists are the same toxic deck; merged.",
+    "rep": 511992
   },
   {
     "name": "Jund Midrange",
     "slug": "jund-midrange",
     "archetype": "midrange",
-    "titles": ["Jund"],
+    "titles": [
+      "Jund"
+    ],
     "rep": 520656,
     "cover": "Unleash the Inferno",
-    "keyCards": ["Invoke Despair", "Fable of the Mirror-Breaker", "Sheoldred, the Apocalypse", "Graveyard Trespasser", "Unleash the Inferno"],
+    "keyCards": [
+      "Invoke Despair",
+      "Fable of the Mirror-Breaker",
+      "Sheoldred, the Apocalypse",
+      "Graveyard Trespasser",
+      "Unleash the Inferno"
+    ],
     "summary": {
       "fr": "Midrange Rakdos avec une touche verte pour Unleash the Inferno et Riveteers Charm, autour du socle habituel Fable, Sheoldred et Invoke Despair.",
       "en": "Rakdos midrange splashing green for Unleash the Inferno and Riveteers Charm, around the usual Fable, Sheoldred and Invoke Despair core."
     },
     "why": {
-      "fr": ["La touche verte ajoutait des réponses aux permanents adverses", "Partageait avec le Rakdos le cœur Fable, Bankbuster et Sheoldred", "Les tri-lands comme Ziatora's Proving Ground rendaient la touche peu coûteuse"],
-      "en": ["The green splash added answers to opposing permanents", "Shared the Fable, Bankbuster and Sheoldred core with Rakdos", "Tri-lands such as Ziatora's Proving Ground made the splash cheap"]
+      "fr": [
+        "La touche verte ajoutait des réponses aux permanents adverses",
+        "Partageait avec le Rakdos le cœur Fable, Bankbuster et Sheoldred",
+        "Les tri-lands comme Ziatora's Proving Ground rendaient la touche peu coûteuse"
+      ],
+      "en": [
+        "The green splash added answers to opposing permanents",
+        "Shared the Fable, Bankbuster and Sheoldred core with Rakdos",
+        "Tri-lands such as Ziatora's Proving Ground made the splash cheap"
+      ]
     },
     "note": "Rep set to a typical Jund list; the default (Tyvar / Armored Scrapgorger / Atraxa) is an outlier."
   },
@@ -140,17 +279,35 @@
     "name": "Mono-Red Aggro",
     "slug": "mono-red-aggro",
     "archetype": "aggro",
-    "titles": ["Red Deck Wins", "RDW", "Rakdos Aggro"],
+    "titles": [
+      "Red Deck Wins",
+      "RDW",
+      "Rakdos Aggro"
+    ],
     "rep": 513009,
     "cover": "Monastery Swiftspear",
-    "keyCards": ["Monastery Swiftspear", "Kumano Faces Kakkazan", "Bloodthirsty Adversary", "Phoenix Chick", "Squee, Dubious Monarch"],
+    "keyCards": [
+      "Monastery Swiftspear",
+      "Kumano Faces Kakkazan",
+      "Bloodthirsty Adversary",
+      "Phoenix Chick",
+      "Squee, Dubious Monarch"
+    ],
     "summary": {
       "fr": "Aggro mono-rouge avec Monastery Swiftspear, Phoenix Chick et Kumano Faces Kakkazan, du burn comme Play with Fire et des menaces récursives comme Squee.",
       "en": "Mono-red aggro with Monastery Swiftspear, Phoenix Chick and Kumano Faces Kakkazan, burn like Play with Fire and recursive threats such as Squee."
     },
     "why": {
-      "fr": ["La courbe basse punissait les decks contrôle et midrange lents", "Phoenix Chick et Squee revenaient après le removal", "Certaines versions jouaient une touche noire pour Go for the Throat"],
-      "en": ["A low curve punished slow control and midrange decks", "Phoenix Chick and Squee came back after removal", "Some builds splashed black for Go for the Throat"]
+      "fr": [
+        "La courbe basse punissait les decks contrôle et midrange lents",
+        "Phoenix Chick et Squee revenaient après le removal",
+        "Certaines versions jouaient une touche noire pour Go for the Throat"
+      ],
+      "en": [
+        "A low curve punished slow control and midrange decks",
+        "Phoenix Chick and Squee came back after removal",
+        "Some builds splashed black for Go for the Throat"
+      ]
     },
     "note": "Merged 'Rakdos Aggro' (red aggro with a black splash); rep set to a mono-red winning list."
   },
@@ -158,82 +315,168 @@
     "name": "Esper Control",
     "slug": "esper-control",
     "archetype": "control",
-    "titles": ["Esper Control"],
+    "titles": [
+      "Esper Control"
+    ],
     "cover": "Archangel of Wrath",
-    "keyCards": ["Archangel of Wrath", "The Wandering Emperor", "Reckoner Bankbuster", "Kaito Shizuki", "Sanctuary Warden"],
+    "keyCards": [
+      "Archangel of Wrath",
+      "The Wandering Emperor",
+      "Reckoner Bankbuster",
+      "Kaito Shizuki",
+      "Sanctuary Warden"
+    ],
     "summary": {
       "fr": "Contrôle Esper avec beaucoup de removal, Farewell et Void Rend, et Archangel of Wrath, Sanctuary Warden et The Wandering Emperor comme menaces.",
       "en": "Esper control with plenty of removal, Farewell and Void Rend, using Archangel of Wrath, Sanctuary Warden and The Wandering Emperor as threats."
     },
     "why": {
-      "fr": ["Archangel of Wrath tuait des créatures tout en ajoutant un volant", "Removal bon marché et Farewell répondaient à l'aggro comme au midrange", "Reckoner Bankbuster et Memory Deluge gardaient la main pleine"],
-      "en": ["Archangel of Wrath killed creatures while adding a flying body", "Cheap removal and Farewell answered both aggro and midrange", "Reckoner Bankbuster and Memory Deluge kept the hand full"]
-    }
+      "fr": [
+        "Archangel of Wrath tuait des créatures tout en ajoutant un volant",
+        "Removal bon marché et Farewell répondaient à l'aggro comme au midrange",
+        "Reckoner Bankbuster et Memory Deluge gardaient la main pleine"
+      ],
+      "en": [
+        "Archangel of Wrath killed creatures while adding a flying body",
+        "Cheap removal and Farewell answered both aggro and midrange",
+        "Reckoner Bankbuster and Memory Deluge kept the hand full"
+      ]
+    },
+    "rep": 500159
   },
   {
     "name": "Domain Control",
     "slug": "domain-control",
     "archetype": "control",
-    "titles": ["5cc", "4/5C Control"],
+    "titles": [
+      "5cc",
+      "4/5C Control"
+    ],
     "cover": "Leyline Binding",
-    "keyCards": ["Leyline Binding", "Atraxa, Grand Unifier", "Herd Migration", "The Eternal Wanderer", "Wedding Announcement"],
+    "keyCards": [
+      "Leyline Binding",
+      "Atraxa, Grand Unifier",
+      "Herd Migration",
+      "The Eternal Wanderer",
+      "Wedding Announcement"
+    ],
     "summary": {
       "fr": "Contrôle cinq couleurs sur Triomes : le domaine rend Leyline Binding presque gratuit, puis Atraxa, Herd Migration et The Eternal Wanderer concluent.",
       "en": "Five-colour control on Triomes: domain makes Leyline Binding nearly free, then Atraxa, Herd Migration and The Eternal Wanderer close the game."
     },
     "why": {
-      "fr": ["Triomes et terrains de base activaient le domaine pour Leyline Binding et Herd Migration", "Atraxa, Grand Unifier apportait un gros avantage de cartes une fois résolue", "A remporté un Regional Championship sud-américain"],
-      "en": ["Triomes and basics turned on domain for Leyline Binding and Herd Migration", "Atraxa, Grand Unifier gave a large card advantage once it resolved", "Won a South American Regional Championship"]
+      "fr": [
+        "Triomes et terrains de base activaient le domaine pour Leyline Binding et Herd Migration",
+        "Atraxa, Grand Unifier apportait un gros avantage de cartes une fois résolue",
+        "A remporté un Regional Championship sud-américain"
+      ],
+      "en": [
+        "Triomes and basics turned on domain for Leyline Binding and Herd Migration",
+        "Atraxa, Grand Unifier gave a large card advantage once it resolved",
+        "Won a South American Regional Championship"
+      ]
     },
-    "note": "Merged '5cc' and '4/5C Control' (Leyline Binding / Atraxa domain decks)."
+    "note": "Merged '5cc' and '4/5C Control' (Leyline Binding / Atraxa domain decks).",
+    "rep": 519078
   },
   {
     "name": "Mono-Blue Tempo",
     "slug": "mono-blue-tempo",
     "archetype": "tempo",
-    "titles": ["Mono Blue Tempo"],
+    "titles": [
+      "Mono Blue Tempo"
+    ],
     "cover": "Haughty Djinn",
-    "keyCards": ["Haughty Djinn", "Delver of Secrets", "Fading Hope", "Make Disappear", "Consider"],
+    "keyCards": [
+      "Haughty Djinn",
+      "Delver of Secrets",
+      "Fading Hope",
+      "Make Disappear",
+      "Consider"
+    ],
     "summary": {
       "fr": "Tempo mono-bleu avec Delver of Secrets, Haughty Djinn et de nombreux éphémères et rituels bon marché, qui protège ses menaces avec des contresorts.",
       "en": "Mono-blue tempo with Delver of Secrets, Haughty Djinn and many cheap instants and sorceries, protecting its threats with counterspells."
     },
     "why": {
-      "fr": ["Haughty Djinn grandissait avec chaque éphémère et rituel au cimetière", "Contresorts et bounce bon marché gardaient le tempo face au midrange", "Haughty Djinn réduisait aussi le coût des sorts du deck"],
-      "en": ["Haughty Djinn grew with every instant and sorcery in the graveyard", "Cheap counters and bounce kept tempo against midrange decks", "Haughty Djinn also reduced the cost of the deck's spells"]
-    }
+      "fr": [
+        "Haughty Djinn grandissait avec chaque éphémère et rituel au cimetière",
+        "Contresorts et bounce bon marché gardaient le tempo face au midrange",
+        "Haughty Djinn réduisait aussi le coût des sorts du deck"
+      ],
+      "en": [
+        "Haughty Djinn grew with every instant and sorcery in the graveyard",
+        "Cheap counters and bounce kept tempo against midrange decks",
+        "Haughty Djinn also reduced the cost of the deck's spells"
+      ]
+    },
+    "rep": 511075
   },
   {
     "name": "Jeskai Control",
     "slug": "jeskai-control",
     "archetype": "control",
-    "titles": ["Jeskai Control"],
+    "titles": [
+      "Jeskai Control"
+    ],
     "cover": "Zurgo and Ojutai",
-    "keyCards": ["Zurgo and Ojutai", "Invasion of Gobakhan", "The Wandering Emperor", "Fable of the Mirror-Breaker", "Make Disappear"],
+    "keyCards": [
+      "Zurgo and Ojutai",
+      "Invasion of Gobakhan",
+      "The Wandering Emperor",
+      "Fable of the Mirror-Breaker",
+      "Make Disappear"
+    ],
     "summary": {
       "fr": "Contrôle Jeskai de March of the Machine qui joue à vitesse instantanée avec Make Disappear et The Wandering Emperor, et menace avec Zurgo and Ojutai et Fable.",
       "en": "Jeskai control from March of the Machine, playing at instant speed with Make Disappear and The Wandering Emperor, and threatening with Zurgo and Ojutai and Fable."
     },
     "why": {
-      "fr": ["Make Disappear et le planeswalker flash récompensaient le mana gardé ouvert", "Zurgo and Ojutai frappait vite et filtrait les pioches", "A atteint la finale d'un Arena Championship"],
-      "en": ["Make Disappear and a flash planeswalker rewarded holding mana up", "Zurgo and Ojutai hit quickly and filtered draws", "Reached the final of an Arena Championship"]
-    }
+      "fr": [
+        "Make Disappear et le planeswalker flash récompensaient le mana gardé ouvert",
+        "Zurgo and Ojutai frappait vite et filtrait les pioches",
+        "A atteint la finale d'un Arena Championship"
+      ],
+      "en": [
+        "Make Disappear and a flash planeswalker rewarded holding mana up",
+        "Zurgo and Ojutai hit quickly and filtered draws",
+        "Reached the final of an Arena Championship"
+      ]
+    },
+    "rep": 529265
   },
   {
     "name": "Orzhov Control",
     "slug": "orzhov-control",
     "archetype": "control",
-    "titles": ["Orzhov Control"],
+    "titles": [
+      "Orzhov Control"
+    ],
     "cover": "The Eternal Wanderer",
-    "keyCards": ["Lay Down Arms", "The Eternal Wanderer", "The Wandering Emperor", "Wedding Announcement", "Breach the Multiverse"],
+    "keyCards": [
+      "Lay Down Arms",
+      "The Eternal Wanderer",
+      "The Wandering Emperor",
+      "Wedding Announcement",
+      "Breach the Multiverse"
+    ],
     "summary": {
       "fr": "Version Orzhov du deck Lay Down Arms : surtout des Plaines pour le removal, le noir pour Breach the Multiverse, avec The Eternal Wanderer et Sunfall comme balais.",
       "en": "Orzhov take on the Lay Down Arms deck: mostly Plains for the removal, black for Breach the Multiverse, with The Eternal Wanderer and Sunfall as sweepers."
     },
     "why": {
-      "fr": ["Lay Down Arms restait bon marché grâce à une manabase riche en Plaines", "Breach the Multiverse ajoutait un énorme retournement en fin de partie", "A atteint les demi-finales du Pro Tour March of the Machine"],
-      "en": ["Lay Down Arms stayed cheap thanks to a Plains-heavy mana base", "Breach the Multiverse added a huge late-game swing", "Reached the semifinals of Pro Tour March of the Machine"]
+      "fr": [
+        "Lay Down Arms restait bon marché grâce à une manabase riche en Plaines",
+        "Breach the Multiverse ajoutait un énorme retournement en fin de partie",
+        "A atteint les demi-finales du Pro Tour March of the Machine"
+      ],
+      "en": [
+        "Lay Down Arms stayed cheap thanks to a Plains-heavy mana base",
+        "Breach the Multiverse added a huge late-game swing",
+        "Reached the semifinals of Pro Tour March of the Machine"
+      ]
     },
-    "note": "Two top 8s; included for the Pro Tour top 4. Close to Mono-White Midrange but kept separate (black splash for Breach the Multiverse)."
+    "note": "Two top 8s; included for the Pro Tour top 4. Close to Mono-White Midrange but kept separate (black splash for Breach the Multiverse).",
+    "rep": 524765
   }
 ]

@@ -3,17 +3,43 @@
     "name": "UW Delver",
     "slug": "uw-delver",
     "archetype": "tempo",
-    "titles": ["UW Delver", "UW Talrand Delver", "UW Angel Delver", "Mono U Delver", "UW Aggro Delver", "Aura Delver", "Delver Humans", "UW Human Delver", "Delver Blade", "Mono U", "UW Delver Human"],
+    "titles": [
+      "UW Delver",
+      "UW Talrand Delver",
+      "UW Angel Delver",
+      "Mono U Delver",
+      "UW Aggro Delver",
+      "Aura Delver",
+      "Delver Humans",
+      "UW Human Delver",
+      "Delver Blade",
+      "Mono U",
+      "UW Delver Human"
+    ],
     "rep": 216588,
     "cover": "Delver of Secrets",
-    "keyCards": ["Delver of Secrets", "Snapcaster Mage", "Geist of Saint Traft", "Vapor Snag", "Ponder"],
+    "keyCards": [
+      "Delver of Secrets",
+      "Snapcaster Mage",
+      "Geist of Saint Traft",
+      "Vapor Snag",
+      "Ponder"
+    ],
     "summary": {
       "fr": "Tempo bleu-blanc : des menaces bon marché comme Delver of Secrets, soutenues par Mana Leak et Vapor Snag pour protéger une pression précoce.",
       "en": "Blue-white tempo: cheap threats such as Delver of Secrets, backed by Mana Leak and Vapor Snag to protect an early clock."
     },
     "why": {
-      "fr": ["Ponder et Gitaxian Probe aidaient à retourner Delver of Secrets très tôt", "Snapcaster Mage rejouait les sorts bon marché et apportait de l'avantage de cartes", "Les épées et Runechanter's Pike transformaient les créatures évasives en horloges rapides"],
-      "en": ["Ponder and Gitaxian Probe helped flip Delver of Secrets early", "Snapcaster Mage reused cheap spells and provided card advantage", "Swords and Runechanter's Pike turned evasive creatures into fast clocks"]
+      "fr": [
+        "Ponder et Gitaxian Probe aidaient à retourner Delver of Secrets très tôt",
+        "Snapcaster Mage rejouait les sorts bon marché et apportait de l'avantage de cartes",
+        "Les épées et Runechanter's Pike transformaient les créatures évasives en horloges rapides"
+      ],
+      "en": [
+        "Ponder and Gitaxian Probe helped flip Delver of Secrets early",
+        "Snapcaster Mage reused cheap spells and provided card advantage",
+        "Swords and Runechanter's Pike turned evasive creatures into fast clocks"
+      ]
     },
     "note": "Merged all mono-U / UW Delver variants (Talrand, Humans, Angel, Pike). Rep overridden from 'Delver Blade' default to GP Baltimore winning list."
   },
@@ -21,150 +47,316 @@
     "name": "Esper Delver",
     "slug": "esper-delver",
     "archetype": "tempo",
-    "titles": ["UWb Delver", "Esper Delver", "Delver Spirit", "Spirit Delver"],
+    "titles": [
+      "UWb Delver",
+      "Esper Delver",
+      "Delver Spirit",
+      "Spirit Delver"
+    ],
     "cover": "Drogskol Captain",
-    "keyCards": ["Delver of Secrets", "Drogskol Captain", "Lingering Souls", "Snapcaster Mage", "Vapor Snag"],
+    "keyCards": [
+      "Delver of Secrets",
+      "Drogskol Captain",
+      "Lingering Souls",
+      "Snapcaster Mage",
+      "Vapor Snag"
+    ],
     "summary": {
       "fr": "Delver splash noir pour Lingering Souls, avec Drogskol Captain qui renforce et protège une équipe d'Esprits volants.",
       "en": "Delver tempo splashing black for Lingering Souls, with Drogskol Captain pumping and protecting a team of Spirit flyers."
     },
     "why": {
-      "fr": ["Lingering Souls fournissait plusieurs corps volants à partir d'une seule carte", "Drogskol Captain faisait des jetons Esprit une horloge rapide et hexproof", "Conservait le cœur Delver, Ponder et Snapcaster Mage de la version bleu-blanc"],
-      "en": ["Lingering Souls provided several flying bodies from a single card", "Drogskol Captain made the Spirit tokens a fast, hexproof clock", "Kept the Delver, Ponder and Snapcaster Mage core of the blue-white build"]
+      "fr": [
+        "Lingering Souls fournissait plusieurs corps volants à partir d'une seule carte",
+        "Drogskol Captain faisait des jetons Esprit une horloge rapide et hexproof",
+        "Conservait le cœur Delver, Ponder et Snapcaster Mage de la version bleu-blanc"
+      ],
+      "en": [
+        "Lingering Souls provided several flying bodies from a single card",
+        "Drogskol Captain made the Spirit tokens a fast, hexproof clock",
+        "Kept the Delver, Ponder and Snapcaster Mage core of the blue-white build"
+      ]
     },
-    "note": "Spirit variant kept separate from UW Delver (different engine: Lingering Souls + Drogskol Captain). Top 4 at PT Dark Ascension."
+    "note": "Spirit variant kept separate from UW Delver (different engine: Lingering Souls + Drogskol Captain). Top 4 at PT Dark Ascension.",
+    "rep": 216330
   },
   {
     "name": "UR Delver",
     "slug": "ur-delver",
     "archetype": "tempo",
-    "titles": ["UR Delver", "UR Aggro"],
+    "titles": [
+      "UR Delver",
+      "UR Aggro"
+    ],
     "cover": "Runechanter's Pike",
-    "keyCards": ["Delver of Secrets", "Snapcaster Mage", "Runechanter's Pike", "Pillar of Flame", "Bonfire of the Damned"],
+    "keyCards": [
+      "Delver of Secrets",
+      "Snapcaster Mage",
+      "Runechanter's Pike",
+      "Pillar of Flame",
+      "Bonfire of the Damned"
+    ],
     "summary": {
       "fr": "Delver bleu-rouge qui utilise des brûlures comme Pillar of Flame et Bonfire of the Damned pour dégager le terrain, avec Runechanter's Pike pour les dégâts.",
       "en": "Blue-red Delver tempo using burn such as Pillar of Flame and Bonfire of the Damned to clear blockers, with Runechanter's Pike for damage."
     },
     "why": {
-      "fr": ["Les brûlures géraient les créatures adverses et pouvaient achever l'adversaire", "Thought Scour et Ponder remplissaient le cimetière pour Snapcaster Mage et la Pike", "Invisible Stalker portait Runechanter's Pike sans craindre bloqueurs ni removal"],
-      "en": ["Burn handled opposing creatures and could finish the opponent", "Thought Scour and Ponder filled the graveyard for Snapcaster Mage and the Pike", "Invisible Stalker carried Runechanter's Pike past blockers and removal"]
+      "fr": [
+        "Les brûlures géraient les créatures adverses et pouvaient achever l'adversaire",
+        "Thought Scour et Ponder remplissaient le cimetière pour Snapcaster Mage et la Pike",
+        "Invisible Stalker portait Runechanter's Pike sans craindre bloqueurs ni removal"
+      ],
+      "en": [
+        "Burn handled opposing creatures and could finish the opponent",
+        "Thought Scour and Ponder filled the graveyard for Snapcaster Mage and the Pike",
+        "Invisible Stalker carried Runechanter's Pike past blockers and removal"
+      ]
     },
-    "note": "Included on a win (GP Minneapolis)."
+    "note": "Included on a win (GP Minneapolis).",
+    "rep": 217662
   },
   {
     "name": "Illusions",
     "slug": "illusions",
     "archetype": "tempo",
-    "titles": ["Illusions", "Illusion", "UW Illusions"],
+    "titles": [
+      "Illusions",
+      "Illusion",
+      "UW Illusions"
+    ],
     "cover": "Lord of the Unreal",
-    "keyCards": ["Lord of the Unreal", "Phantasmal Bear", "Phantasmal Image", "Delver of Secrets", "Geist of Saint Traft"],
+    "keyCards": [
+      "Lord of the Unreal",
+      "Phantasmal Bear",
+      "Phantasmal Image",
+      "Delver of Secrets",
+      "Geist of Saint Traft"
+    ],
     "summary": {
       "fr": "Tempo bleu construit autour d'Illusions bon marché, que Lord of the Unreal rend plus fortes et hexproof.",
       "en": "Blue tempo deck built around cheap Illusions, with Lord of the Unreal giving them extra power and hexproof."
     },
     "why": {
-      "fr": ["Phantasmal Bear et Delver of Secrets mettaient la pression dès le premier tour", "Lord of the Unreal protégeait les Illusions du removal ciblé", "Phantasmal Image copiait la meilleure créature en jeu"],
-      "en": ["Phantasmal Bear and Delver of Secrets applied pressure from turn one", "Lord of the Unreal shielded the Illusions from targeted removal", "Phantasmal Image copied the best creature on the battlefield"]
+      "fr": [
+        "Phantasmal Bear et Delver of Secrets mettaient la pression dès le premier tour",
+        "Lord of the Unreal protégeait les Illusions du removal ciblé",
+        "Phantasmal Image copiait la meilleure créature en jeu"
+      ],
+      "en": [
+        "Phantasmal Bear and Delver of Secrets applied pressure from turn one",
+        "Lord of the Unreal shielded the Illusions from targeted removal",
+        "Phantasmal Image copied the best creature on the battlefield"
+      ]
     },
-    "note": "Several top-8 counts come from the Worlds '15 points' decklist page (rank 2 there is not a real finish)."
+    "note": "Several top-8 counts come from the Worlds '15 points' decklist page (rank 2 there is not a real finish).",
+    "rep": 215637
   },
   {
     "name": "Wolf Run Ramp",
     "slug": "wolf-run-ramp",
     "archetype": "ramp",
-    "titles": ["Kessig Titan", "Kessig", "Kessig Titan Artifact", "Counter Kessig"],
+    "titles": [
+      "Kessig Titan",
+      "Kessig",
+      "Kessig Titan Artifact",
+      "Counter Kessig"
+    ],
     "cover": "Primeval Titan",
-    "keyCards": ["Primeval Titan", "Kessig Wolf Run", "Inkmoth Nexus", "Huntmaster of the Fells", "Slagstorm"],
+    "keyCards": [
+      "Primeval Titan",
+      "Kessig Wolf Run",
+      "Inkmoth Nexus",
+      "Huntmaster of the Fells",
+      "Slagstorm"
+    ],
     "summary": {
       "fr": "Ramp rouge-vert : Rampant Growth et Sphere of the Suns mènent à Primeval Titan, qui va chercher Kessig Wolf Run et Inkmoth Nexus.",
       "en": "Red-green ramp: Rampant Growth and Sphere of the Suns lead to Primeval Titan, which fetches Kessig Wolf Run and Inkmoth Nexus."
     },
     "why": {
-      "fr": ["Kessig Wolf Run faisait de toute créature, Inkmoth Nexus compris, une grosse menace", "Slagstorm et Galvanic Blast ralentissaient l'aggro et Delver", "A remporté le Pro Tour Dark Ascension et les Worlds durant la saison"],
-      "en": ["Kessig Wolf Run turned any creature, Inkmoth Nexus included, into a large threat", "Slagstorm and Galvanic Blast slowed down aggro and Delver", "Won Pro Tour Dark Ascension and Worlds during the season"]
-    }
+      "fr": [
+        "Kessig Wolf Run faisait de toute créature, Inkmoth Nexus compris, une grosse menace",
+        "Slagstorm et Galvanic Blast ralentissaient l'aggro et Delver",
+        "A remporté le Pro Tour Dark Ascension et les Worlds durant la saison"
+      ],
+      "en": [
+        "Kessig Wolf Run turned any creature, Inkmoth Nexus included, into a large threat",
+        "Slagstorm and Galvanic Blast slowed down aggro and Delver",
+        "Won Pro Tour Dark Ascension and Worlds during the season"
+      ]
+    },
+    "rep": 216333
   },
   {
     "name": "Wolf Run Blue",
     "slug": "wolf-run-blue",
     "archetype": "ramp",
-    "titles": ["Blue Kessig", "Kessig U"],
+    "titles": [
+      "Blue Kessig",
+      "Kessig U"
+    ],
     "cover": "Temporal Mastery",
-    "keyCards": ["Primeval Titan", "Temporal Mastery", "Frost Titan", "Bonfire of the Damned", "Thragtusk"],
+    "keyCards": [
+      "Primeval Titan",
+      "Temporal Mastery",
+      "Frost Titan",
+      "Bonfire of the Damned",
+      "Thragtusk"
+    ],
     "summary": {
       "fr": "Ramp vert-rouge splash bleu pour Temporal Mastery et Frost Titan, avec toujours Primeval Titan et Kessig Wolf Run en finition.",
       "en": "Green-red ramp splashing blue for Temporal Mastery and Frost Titan, still using Primeval Titan and Kessig Wolf Run to finish."
     },
     "why": {
-      "fr": ["Ponder aidait à préparer Temporal Mastery en miracle pour des tours supplémentaires", "Thragtusk et Bonfire of the Damned tenaient les decks agressifs à distance", "Primeval Titan allait chercher Kessig Wolf Run et Inkmoth Nexus pour conclure"],
-      "en": ["Ponder helped set up Temporal Mastery as a miracle for extra turns", "Thragtusk and Bonfire of the Damned held off aggressive decks", "Primeval Titan fetched Kessig Wolf Run and Inkmoth Nexus to close games"]
+      "fr": [
+        "Ponder aidait à préparer Temporal Mastery en miracle pour des tours supplémentaires",
+        "Thragtusk et Bonfire of the Damned tenaient les decks agressifs à distance",
+        "Primeval Titan allait chercher Kessig Wolf Run et Inkmoth Nexus pour conclure"
+      ],
+      "en": [
+        "Ponder helped set up Temporal Mastery as a miracle for extra turns",
+        "Thragtusk and Bonfire of the Damned held off aggressive decks",
+        "Primeval Titan fetched Kessig Wolf Run and Inkmoth Nexus to close games"
+      ]
     },
-    "note": "Summer (M13) version."
+    "note": "Summer (M13) version.",
+    "rep": 218966
   },
   {
     "name": "Wolf Run Black",
     "slug": "wolf-run-black",
     "archetype": "ramp",
-    "titles": ["Black Kessig", "Kessigless"],
+    "titles": [
+      "Black Kessig",
+      "Kessigless"
+    ],
     "cover": "Grave Titan",
-    "keyCards": ["Primeval Titan", "Grave Titan", "Black Sun's Zenith", "Kessig Wolf Run", "Doom Blade"],
+    "keyCards": [
+      "Primeval Titan",
+      "Grave Titan",
+      "Black Sun's Zenith",
+      "Kessig Wolf Run",
+      "Doom Blade"
+    ],
     "summary": {
       "fr": "Ramp vert-noir : Primeval Titan et Grave Titan, avec Doom Blade et Black Sun's Zenith pour un plan plus contrôle.",
       "en": "Green-black ramp: Primeval Titan and Grave Titan, with Doom Blade and Black Sun's Zenith for a more controlling plan."
     },
     "why": {
-      "fr": ["Le removal noir et Black Sun's Zenith géraient Delver et l'aggro", "Grave Titan offrait un second six-drop capable de dominer seul la partie", "Conservait le package de ramp Rampant Growth et Sphere of the Suns"],
-      "en": ["Black removal and Black Sun's Zenith handled Delver and aggro", "Grave Titan gave a second six-drop able to take over a game alone", "Kept the Rampant Growth and Sphere of the Suns ramp package"]
+      "fr": [
+        "Le removal noir et Black Sun's Zenith géraient Delver et l'aggro",
+        "Grave Titan offrait un second six-drop capable de dominer seul la partie",
+        "Conservait le package de ramp Rampant Growth et Sphere of the Suns"
+      ],
+      "en": [
+        "Black removal and Black Sun's Zenith handled Delver and aggro",
+        "Grave Titan gave a second six-drop able to take over a game alone",
+        "Kept the Rampant Growth and Sphere of the Suns ramp package"
+      ]
     },
-    "note": "Kessigless (Junk Titan ramp, 1 top 8) attached here. Win at GP Orlando, top 4 at PT Dark Ascension."
+    "note": "Kessigless (Junk Titan ramp, 1 top 8) attached here. Win at GP Orlando, top 4 at PT Dark Ascension.",
+    "rep": 216064
   },
   {
     "name": "Naya Wolf Run",
     "slug": "naya-wolf-run",
     "archetype": "ramp",
-    "titles": ["W Kessig Titan"],
+    "titles": [
+      "W Kessig Titan"
+    ],
     "cover": "Karn Liberated",
-    "keyCards": ["Primeval Titan", "Day of Judgment", "Green Sun's Zenith", "Karn Liberated", "Gideon Jura"],
+    "keyCards": [
+      "Primeval Titan",
+      "Day of Judgment",
+      "Green Sun's Zenith",
+      "Karn Liberated",
+      "Gideon Jura"
+    ],
     "summary": {
       "fr": "Wolf Run Ramp splash blanc pour Day of Judgment et Gideon Jura, avec Primeval Titan et Karn Liberated en haut de courbe.",
       "en": "Wolf Run ramp splashing white for Day of Judgment and Gideon Jura, with Primeval Titan and Karn Liberated at the top."
     },
     "why": {
-      "fr": ["Day of Judgment remettait le terrain à zéro contre les decks de créatures", "Green Sun's Zenith trouvait des créatures de mana tôt et de grosses menaces ensuite", "Les planeswalkers ajoutaient des menaces insensibles au removal de créatures"],
-      "en": ["Day of Judgment reset the board against creature decks", "Green Sun's Zenith found mana creatures early and big threats later", "Planeswalkers added threats that ignored creature removal"]
-    }
+      "fr": [
+        "Day of Judgment remettait le terrain à zéro contre les decks de créatures",
+        "Green Sun's Zenith trouvait des créatures de mana tôt et de grosses menaces ensuite",
+        "Les planeswalkers ajoutaient des menaces insensibles au removal de créatures"
+      ],
+      "en": [
+        "Day of Judgment reset the board against creature decks",
+        "Green Sun's Zenith found mana creatures early and big threats later",
+        "Planeswalkers added threats that ignored creature removal"
+      ]
+    },
+    "rep": 216822
   },
   {
     "name": "Solar Flare",
     "slug": "solar-flare",
     "archetype": "control",
-    "titles": ["Solar Flare", "4c Solar Flare"],
+    "titles": [
+      "Solar Flare",
+      "4c Solar Flare"
+    ],
     "cover": "Sun Titan",
-    "keyCards": ["Forbidden Alchemy", "Unburial Rites", "Sun Titan", "Elesh Norn, Grand Cenobite", "Lingering Souls"],
+    "keyCards": [
+      "Forbidden Alchemy",
+      "Unburial Rites",
+      "Sun Titan",
+      "Elesh Norn, Grand Cenobite",
+      "Lingering Souls"
+    ],
     "summary": {
       "fr": "Contrôle Esper qui remplit son cimetière avec Forbidden Alchemy et ramène Sun Titan ou Elesh Norn avec Unburial Rites.",
       "en": "Esper control that fills its graveyard with Forbidden Alchemy and returns Sun Titan or Elesh Norn with Unburial Rites."
     },
     "why": {
-      "fr": ["Forbidden Alchemy creusait vers les réponses tout en préparant les flashbacks", "Lingering Souls et Unburial Rites tiraient de la valeur du cimetière", "Balais et contresorts permettaient de suivre le rythme des decks agressifs"],
-      "en": ["Forbidden Alchemy dug for answers while setting up flashback cards", "Lingering Souls and Unburial Rites got value from the graveyard", "Sweepers and counterspells kept pace with aggressive decks"]
-    }
+      "fr": [
+        "Forbidden Alchemy creusait vers les réponses tout en préparant les flashbacks",
+        "Lingering Souls et Unburial Rites tiraient de la valeur du cimetière",
+        "Balais et contresorts permettaient de suivre le rythme des decks agressifs"
+      ],
+      "en": [
+        "Forbidden Alchemy dug for answers while setting up flashback cards",
+        "Lingering Souls and Unburial Rites got value from the graveyard",
+        "Sweepers and counterspells kept pace with aggressive decks"
+      ]
+    },
+    "rep": 217795
   },
   {
     "name": "UW Control",
     "slug": "uw-control",
     "archetype": "control",
-    "titles": ["UW Control", "Unsolar Flare", "UWb Blade"],
+    "titles": [
+      "UW Control",
+      "Unsolar Flare",
+      "UWb Blade"
+    ],
     "rep": 214655,
     "cover": "Gideon Jura",
-    "keyCards": ["Snapcaster Mage", "Think Twice", "Mana Leak", "Timely Reinforcements", "Gideon Jura"],
+    "keyCards": [
+      "Snapcaster Mage",
+      "Think Twice",
+      "Mana Leak",
+      "Timely Reinforcements",
+      "Gideon Jura"
+    ],
     "summary": {
       "fr": "Contrôle bleu-blanc draw-go avec Mana Leak, Think Twice et Snapcaster Mage, qui conclut avec des planeswalkers ou Inkmoth Nexus.",
       "en": "Blue-white draw-go control with Mana Leak, Think Twice and Snapcaster Mage, closing with planeswalkers or Inkmoth Nexus."
     },
     "why": {
-      "fr": ["La pioche à flashback et Snapcaster Mage usaient les autres decks contrôle", "Timely Reinforcements et Day of Judgment faisaient gagner du temps face à l'aggro", "Peu de créatures, ce qui rendait le removal adverse peu utile"],
-      "en": ["Flashback card draw and Snapcaster Mage ground out other control decks", "Timely Reinforcements and Day of Judgment bought time against aggro", "A low creature count left opposing removal with few targets"]
+      "fr": [
+        "La pioche à flashback et Snapcaster Mage usaient les autres decks contrôle",
+        "Timely Reinforcements et Day of Judgment faisaient gagner du temps face à l'aggro",
+        "Peu de créatures, ce qui rendait le removal adverse peu utile"
+      ],
+      "en": [
+        "Flashback card draw and Snapcaster Mage ground out other control decks",
+        "Timely Reinforcements and Day of Judgment bought time against aggro",
+        "A low creature count left opposing removal with few targets"
+      ]
     },
     "note": "Unsolar Flare (UW control without Rites) and UWb Blade (Worlds 15-point list) merged here. Rep overridden away from the Worlds 15-point list."
   },
@@ -172,49 +364,99 @@
     "name": "Esper Control",
     "slug": "esper-control",
     "archetype": "control",
-    "titles": ["Esper Control"],
+    "titles": [
+      "Esper Control"
+    ],
     "cover": "Sorin, Lord of Innistrad",
-    "keyCards": ["Liliana of the Veil", "Sorin, Lord of Innistrad", "Gideon Jura", "Lingering Souls", "Consecrated Sphinx"],
+    "keyCards": [
+      "Liliana of the Veil",
+      "Sorin, Lord of Innistrad",
+      "Gideon Jura",
+      "Lingering Souls",
+      "Consecrated Sphinx"
+    ],
     "summary": {
       "fr": "Contrôle Esper qui s'appuie sur des planeswalkers comme Liliana of the Veil, Sorin et Gideon Jura, avec Lingering Souls et des balais.",
       "en": "Esper control leaning on planeswalkers such as Liliana of the Veil, Sorin and Gideon Jura, with Lingering Souls and sweepers."
     },
     "why": {
-      "fr": ["La densité de planeswalkers débordait les réponses adverses", "Lingering Souls protégeait les planeswalkers et bloquait l'aggro", "Day of Judgment et le removal bon marché couvraient les decks de créatures"],
-      "en": ["The density of planeswalkers overloaded opposing answers", "Lingering Souls protected planeswalkers and blocked aggro", "Day of Judgment and cheap removal covered creature decks"]
-    }
+      "fr": [
+        "La densité de planeswalkers débordait les réponses adverses",
+        "Lingering Souls protégeait les planeswalkers et bloquait l'aggro",
+        "Day of Judgment et le removal bon marché couvraient les decks de créatures"
+      ],
+      "en": [
+        "The density of planeswalkers overloaded opposing answers",
+        "Lingering Souls protected planeswalkers and blocked aggro",
+        "Day of Judgment and cheap removal covered creature decks"
+      ]
+    },
+    "rep": 216945
   },
   {
     "name": "UB Control",
     "slug": "ub-control",
     "archetype": "control",
-    "titles": ["UB Control"],
+    "titles": [
+      "UB Control"
+    ],
     "cover": "Consecrated Sphinx",
-    "keyCards": ["Consecrated Sphinx", "Snapcaster Mage", "Doom Blade", "Think Twice", "Forbidden Alchemy"],
+    "keyCards": [
+      "Consecrated Sphinx",
+      "Snapcaster Mage",
+      "Doom Blade",
+      "Think Twice",
+      "Forbidden Alchemy"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir draw-go : contresorts, Doom Blade et pioche à flashback, avec Consecrated Sphinx ou Grave Titan en finition.",
       "en": "Blue-black draw-go control: counterspells, Doom Blade and flashback card draw, finishing with Consecrated Sphinx or Grave Titan."
     },
     "why": {
-      "fr": ["Doom Blade tuait la plupart des menaces, les contresorts géraient le reste", "Think Twice, Forbidden Alchemy et Snapcaster Mage donnaient de l'avantage de cartes", "Nephalia Drownyard offrait une condition de victoire alternative"],
-      "en": ["Doom Blade killed most threats while counters handled the rest", "Think Twice, Forbidden Alchemy and Snapcaster Mage generated card advantage", "Nephalia Drownyard offered an alternative win condition"]
-    }
+      "fr": [
+        "Doom Blade tuait la plupart des menaces, les contresorts géraient le reste",
+        "Think Twice, Forbidden Alchemy et Snapcaster Mage donnaient de l'avantage de cartes",
+        "Nephalia Drownyard offrait une condition de victoire alternative"
+      ],
+      "en": [
+        "Doom Blade killed most threats while counters handled the rest",
+        "Think Twice, Forbidden Alchemy and Snapcaster Mage generated card advantage",
+        "Nephalia Drownyard offered an alternative win condition"
+      ]
+    },
+    "rep": 214584
   },
   {
     "name": "Grixis Control",
     "slug": "grixis-control",
     "archetype": "control",
-    "titles": ["Grixis Control"],
+    "titles": [
+      "Grixis Control"
+    ],
     "rep": 216065,
     "cover": "Olivia Voldaren",
-    "keyCards": ["Olivia Voldaren", "Liliana of the Veil", "Desperate Ravings", "Forbidden Alchemy", "Curse of Death's Hold"],
+    "keyCards": [
+      "Olivia Voldaren",
+      "Liliana of the Veil",
+      "Desperate Ravings",
+      "Forbidden Alchemy",
+      "Curse of Death's Hold"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir-rouge avec brûlures, removal et pioche via le cimetière, qui finit avec Olivia Voldaren et Inferno Titan.",
       "en": "Blue-black-red control with burn, removal and graveyard card draw, finishing with Olivia Voldaren and Inferno Titan."
     },
     "why": {
-      "fr": ["Olivia Voldaren dominait les matchs de créatures si elle n'était pas gérée", "Le removal et Whipflare répondaient à Delver et aux petites créatures", "Curse of Death's Hold neutralisait les jetons et les Esprits"],
-      "en": ["Olivia Voldaren dominated creature matchups if left unanswered", "Removal and Whipflare answered Delver and small creatures", "Curse of Death's Hold shut down tokens and Spirits"]
+      "fr": [
+        "Olivia Voldaren dominait les matchs de créatures si elle n'était pas gérée",
+        "Le removal et Whipflare répondaient à Delver et aux petites créatures",
+        "Curse of Death's Hold neutralisait les jetons et les Esprits"
+      ],
+      "en": [
+        "Olivia Voldaren dominated creature matchups if left unanswered",
+        "Removal and Whipflare answered Delver and small creatures",
+        "Curse of Death's Hold shut down tokens and Spirits"
+      ]
     },
     "note": "Rep: GP Orlando 2nd place instead of the Worlds 15-point list."
   },
@@ -222,356 +464,766 @@
     "name": "Tezzeret Control",
     "slug": "tezzeret-control",
     "archetype": "control",
-    "titles": ["Tezzeret Control"],
+    "titles": [
+      "Tezzeret Control"
+    ],
     "cover": "Tezzeret, Agent of Bolas",
-    "keyCards": ["Tezzeret, Agent of Bolas", "Consecrated Sphinx", "Bloodline Keeper", "Ratchet Bomb", "Black Sun's Zenith"],
+    "keyCards": [
+      "Tezzeret, Agent of Bolas",
+      "Consecrated Sphinx",
+      "Bloodline Keeper",
+      "Ratchet Bomb",
+      "Black Sun's Zenith"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir à artefacts : Ratchet Bomb, Tumble Magnet et Sphere of the Suns alimentent Tezzeret, Agent of Bolas.",
       "en": "Blue-black artifact control: Ratchet Bomb, Tumble Magnet and Sphere of the Suns fuel Tezzeret, Agent of Bolas."
     },
     "why": {
-      "fr": ["Tezzeret transformait les artefacts du deck en menaces ou en drain de vie", "Bloodline Keeper et Consecrated Sphinx gagnaient les parties longues", "Black Sun's Zenith et Ratchet Bomb répondaient aux terrains chargés"],
-      "en": ["Tezzeret turned the deck's artifacts into threats or a life drain", "Bloodline Keeper and Consecrated Sphinx won long games", "Black Sun's Zenith and Ratchet Bomb answered wide boards"]
+      "fr": [
+        "Tezzeret transformait les artefacts du deck en menaces ou en drain de vie",
+        "Bloodline Keeper et Consecrated Sphinx gagnaient les parties longues",
+        "Black Sun's Zenith et Ratchet Bomb répondaient aux terrains chargés"
+      ],
+      "en": [
+        "Tezzeret turned the deck's artifacts into threats or a life drain",
+        "Bloodline Keeper and Consecrated Sphinx won long games",
+        "Black Sun's Zenith and Ratchet Bomb answered wide boards"
+      ]
     },
-    "note": "Borderline: 3 top 8 counted, but one is the Worlds 15-point decklist page (only 2 real top 8s)."
+    "note": "Borderline: 3 top 8 counted, but one is the Worlds 15-point decklist page (only 2 real top 8s).",
+    "rep": 215340
   },
   {
     "name": "RG Aggro",
     "slug": "rg-aggro",
     "archetype": "aggro",
-    "titles": ["Gr Aggro", "RG Aggro", "GR Control"],
+    "titles": [
+      "Gr Aggro",
+      "RG Aggro",
+      "GR Control"
+    ],
     "cover": "Strangleroot Geist",
-    "keyCards": ["Strangleroot Geist", "Huntmaster of the Fells", "Green Sun's Zenith", "Sword of War and Peace", "Kessig Wolf Run"],
+    "keyCards": [
+      "Strangleroot Geist",
+      "Huntmaster of the Fells",
+      "Green Sun's Zenith",
+      "Sword of War and Peace",
+      "Kessig Wolf Run"
+    ],
     "summary": {
       "fr": "Deck de créatures vert-rouge : elfes de mana puis Strangleroot Geist et Huntmaster of the Fells, avec épées et Kessig Wolf Run pour finir.",
       "en": "Green-red creature deck: mana elves into Strangleroot Geist and Huntmaster of the Fells, with Swords and Kessig Wolf Run to finish."
     },
     "why": {
-      "fr": ["Undying et Huntmaster donnaient des créatures résistantes au removal et aux balais", "Green Sun's Zenith apportait de la régularité en trouvant la bonne créature", "Sword of War and Peace punissait les decks bleu-blanc"],
-      "en": ["Undying and Huntmaster gave creatures that survived removal and sweepers", "Green Sun's Zenith added consistency by finding the right creature", "Sword of War and Peace punished blue-white decks"]
-    }
+      "fr": [
+        "Undying et Huntmaster donnaient des créatures résistantes au removal et aux balais",
+        "Green Sun's Zenith apportait de la régularité en trouvant la bonne créature",
+        "Sword of War and Peace punissait les decks bleu-blanc"
+      ],
+      "en": [
+        "Undying and Huntmaster gave creatures that survived removal and sweepers",
+        "Green Sun's Zenith added consistency by finding the right creature",
+        "Sword of War and Peace punished blue-white decks"
+      ]
+    },
+    "rep": 217245
   },
   {
     "name": "Mono-Green Aggro",
     "slug": "mono-green-aggro",
     "archetype": "aggro",
-    "titles": ["Mono Green Aggro"],
+    "titles": [
+      "Mono Green Aggro"
+    ],
     "cover": "Dungrove Elder",
-    "keyCards": ["Dungrove Elder", "Strangleroot Geist", "Predator Ooze", "Rancor", "Revenge of the Hunted"],
+    "keyCards": [
+      "Dungrove Elder",
+      "Strangleroot Geist",
+      "Predator Ooze",
+      "Rancor",
+      "Revenge of the Hunted"
+    ],
     "summary": {
       "fr": "Beatdown mono-vert avec Dungrove Elder, Strangleroot Geist et Predator Ooze, qui force les dégâts avec Rancor et Revenge of the Hunted.",
       "en": "Mono-green beatdown with Dungrove Elder, Strangleroot Geist and Predator Ooze, pushing damage with Rancor and Revenge of the Hunted."
     },
     "why": {
-      "fr": ["Des menaces hexproof ou indestructibles esquivaient l'essentiel du removal", "Rancor et Revenge of the Hunted faisaient passer les dégâts malgré les bloqueurs", "Les elfes de mana permettaient des débuts rapides"],
-      "en": ["Hexproof and indestructible threats dodged most removal", "Rancor and Revenge of the Hunted pushed damage past blockers", "Mana elves allowed fast starts"]
-    }
+      "fr": [
+        "Des menaces hexproof ou indestructibles esquivaient l'essentiel du removal",
+        "Rancor et Revenge of the Hunted faisaient passer les dégâts malgré les bloqueurs",
+        "Les elfes de mana permettaient des débuts rapides"
+      ],
+      "en": [
+        "Hexproof and indestructible threats dodged most removal",
+        "Rancor and Revenge of the Hunted pushed damage past blockers",
+        "Mana elves allowed fast starts"
+      ]
+    },
+    "rep": 218064
   },
   {
     "name": "GW Aggro",
     "slug": "gw-aggro",
     "archetype": "aggro",
-    "titles": ["GW Aggro", "GW Human", "GW/Naya Aggro"],
+    "titles": [
+      "GW Aggro",
+      "GW Human",
+      "GW/Naya Aggro"
+    ],
     "cover": "Hero of Bladehold",
-    "keyCards": ["Hero of Bladehold", "Mirran Crusader", "Garruk Relentless", "Elspeth Tirel", "Overrun"],
+    "keyCards": [
+      "Hero of Bladehold",
+      "Mirran Crusader",
+      "Garruk Relentless",
+      "Elspeth Tirel",
+      "Overrun"
+    ],
     "summary": {
       "fr": "Aggro vert-blanc : créatures de mana puis Hero of Bladehold et Mirran Crusader, soutenus par Garruk Relentless, Elspeth Tirel et Gavony Township.",
       "en": "Green-white aggro: mana creatures into Hero of Bladehold and Mirran Crusader, backed by Garruk Relentless, Elspeth Tirel and Gavony Township."
     },
     "why": {
-      "fr": ["Hero of Bladehold exigeait une réponse dès son arrivée", "Mirran Crusader était difficile à bloquer ou à tuer pour les decks noirs et verts", "Gavony Township et Overrun rendaient les terrains de jetons mortels"],
-      "en": ["Hero of Bladehold demanded an answer as soon as it landed", "Mirran Crusader was hard for black and green decks to block or kill", "Gavony Township and Overrun made token boards lethal"]
-    }
+      "fr": [
+        "Hero of Bladehold exigeait une réponse dès son arrivée",
+        "Mirran Crusader était difficile à bloquer ou à tuer pour les decks noirs et verts",
+        "Gavony Township et Overrun rendaient les terrains de jetons mortels"
+      ],
+      "en": [
+        "Hero of Bladehold demanded an answer as soon as it landed",
+        "Mirran Crusader was hard for black and green decks to block or kill",
+        "Gavony Township and Overrun made token boards lethal"
+      ]
+    },
+    "rep": 214960
   },
   {
     "name": "Naya Midrange",
     "slug": "naya-midrange",
     "archetype": "midrange",
-    "titles": ["Naya Aggro", "Naya Humans"],
+    "titles": [
+      "Naya Aggro",
+      "Naya Humans"
+    ],
     "cover": "Restoration Angel",
-    "keyCards": ["Restoration Angel", "Huntmaster of the Fells", "Thragtusk", "Bonfire of the Damned", "Blade Splicer"],
+    "keyCards": [
+      "Restoration Angel",
+      "Huntmaster of the Fells",
+      "Thragtusk",
+      "Bonfire of the Damned",
+      "Blade Splicer"
+    ],
     "summary": {
       "fr": "Midrange Naya de l'été : créatures de mana puis Blade Splicer, Huntmaster, Restoration Angel et Thragtusk, avec Bonfire of the Damned.",
       "en": "Summer Naya midrange: mana creatures into Blade Splicer, Huntmaster, Restoration Angel and Thragtusk, with Bonfire of the Damned."
     },
     "why": {
-      "fr": ["Les créatures à effet d'arrivée donnaient de la valeur même échangées", "Restoration Angel faisait clignoter Blade Splicer et Thragtusk", "Cavern of Souls protégeait les créatures clés des contresorts"],
-      "en": ["Enter-the-battlefield creatures gave value even when traded off", "Restoration Angel blinked Blade Splicer and Thragtusk for more value", "Cavern of Souls protected key creatures from counterspells"]
-    }
+      "fr": [
+        "Les créatures à effet d'arrivée donnaient de la valeur même échangées",
+        "Restoration Angel faisait clignoter Blade Splicer et Thragtusk",
+        "Cavern of Souls protégeait les créatures clés des contresorts"
+      ],
+      "en": [
+        "Enter-the-battlefield creatures gave value even when traded off",
+        "Restoration Angel blinked Blade Splicer and Thragtusk for more value",
+        "Cavern of Souls protected key creatures from counterspells"
+      ]
+    },
+    "rep": 218062
   },
   {
     "name": "Tempered Steel",
     "slug": "tempered-steel",
     "archetype": "aggro",
-    "titles": ["Tempered Steel"],
+    "titles": [
+      "Tempered Steel"
+    ],
     "cover": "Tempered Steel",
-    "keyCards": ["Tempered Steel", "Glint Hawk Idol", "Signal Pest", "Etched Champion", "Mox Opal"],
+    "keyCards": [
+      "Tempered Steel",
+      "Glint Hawk Idol",
+      "Signal Pest",
+      "Etched Champion",
+      "Mox Opal"
+    ],
     "summary": {
       "fr": "Aggro artefacts qui inonde le terrain de petites créatures-artefacts et les renforce toutes avec Tempered Steel.",
       "en": "Artifact aggro that floods the board with cheap artifact creatures and pumps them all with Tempered Steel."
     },
     "why": {
-      "fr": ["Des débuts très rapides avec Memnite, Mox Opal et des one-drops", "Tempered Steel transformait de petits artefacts en terrain mortel", "Etched Champion devenait difficile à bloquer une fois le metalcraft actif"],
-      "en": ["Very fast starts with Memnite, Mox Opal and one-drops", "Tempered Steel turned small artifacts into a lethal board", "Etched Champion was hard to block once metalcraft was online"]
-    }
+      "fr": [
+        "Des débuts très rapides avec Memnite, Mox Opal et des one-drops",
+        "Tempered Steel transformait de petits artefacts en terrain mortel",
+        "Etched Champion devenait difficile à bloquer une fois le metalcraft actif"
+      ],
+      "en": [
+        "Very fast starts with Memnite, Mox Opal and one-drops",
+        "Tempered Steel turned small artifacts into a lethal board",
+        "Etched Champion was hard to block once metalcraft was online"
+      ]
+    },
+    "rep": 215631
   },
   {
     "name": "Red Deck Wins",
     "slug": "red-deck-wins",
     "archetype": "aggro",
-    "titles": ["Red Deck Wins"],
+    "titles": [
+      "Red Deck Wins"
+    ],
     "cover": "Chandra's Phoenix",
-    "keyCards": ["Stormblood Berserker", "Chandra's Phoenix", "Shrine of Burning Rage", "Stromkirk Noble", "Volt Charge"],
+    "keyCards": [
+      "Stormblood Berserker",
+      "Chandra's Phoenix",
+      "Shrine of Burning Rage",
+      "Stromkirk Noble",
+      "Volt Charge"
+    ],
     "summary": {
       "fr": "Aggro rouge avec créatures bon marché, brûlures et Shrine of Burning Rage, et Chandra's Phoenix pour maintenir la pression.",
       "en": "Red aggro with cheap creatures, burn and Shrine of Burning Rage, plus Chandra's Phoenix to keep up the pressure."
     },
     "why": {
-      "fr": ["Les brûlures bon marché éliminaient les bloqueurs ou visaient l'adversaire", "Chandra's Phoenix revenait du cimetière quand une brûlure touchait l'adversaire", "Shrine of Burning Rage donnait de la portée contre les decks lents"],
-      "en": ["Cheap burn cleared blockers or went to the face", "Chandra's Phoenix returned from the graveyard when burn hit the opponent", "Shrine of Burning Rage gave reach against slower decks"]
-    }
+      "fr": [
+        "Les brûlures bon marché éliminaient les bloqueurs ou visaient l'adversaire",
+        "Chandra's Phoenix revenait du cimetière quand une brûlure touchait l'adversaire",
+        "Shrine of Burning Rage donnait de la portée contre les decks lents"
+      ],
+      "en": [
+        "Cheap burn cleared blockers or went to the face",
+        "Chandra's Phoenix returned from the graveyard when burn hit the opponent",
+        "Shrine of Burning Rage gave reach against slower decks"
+      ]
+    },
+    "rep": 215507
   },
   {
     "name": "Naya Pod",
     "slug": "naya-pod",
     "archetype": "midrange",
-    "titles": ["Naya Pod", "Naya Podlight", "Birthing Pod"],
+    "titles": [
+      "Naya Pod",
+      "Naya Podlight",
+      "Birthing Pod"
+    ],
     "cover": "Birthing Pod",
-    "keyCards": ["Birthing Pod", "Blade Splicer", "Restoration Angel", "Huntmaster of the Fells", "Elesh Norn, Grand Cenobite"],
+    "keyCards": [
+      "Birthing Pod",
+      "Blade Splicer",
+      "Restoration Angel",
+      "Huntmaster of the Fells",
+      "Elesh Norn, Grand Cenobite"
+    ],
     "summary": {
       "fr": "Toolbox de créatures à base verte qui utilise Birthing Pod pour enchaîner des créatures à valeur jusqu'à Elesh Norn ou Wurmcoil Engine.",
       "en": "Green-based creature toolbox that uses Birthing Pod to chain value creatures up the curve to Elesh Norn or Wurmcoil Engine."
     },
     "why": {
-      "fr": ["Les créatures à effet d'arrivée rapportaient de la valeur avant d'être sacrifiées", "Les exemplaires uniques offraient des réponses pour de nombreux matchs", "Gavony Township et les créatures de mana le rendaient jouable sans Pod"],
-      "en": ["Enter-the-battlefield creatures gained value before being sacrificed", "Single copies gave answers for many matchups", "Gavony Township and mana creatures kept it playable without Pod"]
-    }
+      "fr": [
+        "Les créatures à effet d'arrivée rapportaient de la valeur avant d'être sacrifiées",
+        "Les exemplaires uniques offraient des réponses pour de nombreux matchs",
+        "Gavony Township et les créatures de mana le rendaient jouable sans Pod"
+      ],
+      "en": [
+        "Enter-the-battlefield creatures gained value before being sacrificed",
+        "Single copies gave answers for many matchups",
+        "Gavony Township and mana creatures kept it playable without Pod"
+      ]
+    },
+    "rep": 218061
   },
   {
     "name": "Bant Pod",
     "slug": "bant-pod",
     "archetype": "midrange",
-    "titles": ["Bant Pod", "Bant Birthing Pod"],
+    "titles": [
+      "Bant Pod",
+      "Bant Birthing Pod"
+    ],
     "cover": "Venser, the Sojourner",
-    "keyCards": ["Birthing Pod", "Phantasmal Image", "Sun Titan", "Elesh Norn, Grand Cenobite", "Venser, the Sojourner"],
+    "keyCards": [
+      "Birthing Pod",
+      "Phantasmal Image",
+      "Sun Titan",
+      "Elesh Norn, Grand Cenobite",
+      "Venser, the Sojourner"
+    ],
     "summary": {
       "fr": "Birthing Pod bleu-vert-blanc, avec des créatures bleues comme Phantasmal Image et Frost Titan aux côtés de Sun Titan et Elesh Norn.",
       "en": "Blue-green-white Birthing Pod, with blue creatures such as Phantasmal Image and Frost Titan alongside Sun Titan and Elesh Norn."
     },
     "why": {
-      "fr": ["Birthing Pod enchaînait les créatures à valeur jusqu'à Sun Titan et Elesh Norn", "Phantasmal Image copiait la meilleure créature en jeu", "Venser faisait clignoter les créatures pour réutiliser leurs effets d'arrivée"],
-      "en": ["Birthing Pod chained value creatures up to Sun Titan and Elesh Norn", "Phantasmal Image copied the best creature on the battlefield", "Venser blinked creatures to reuse their enter-the-battlefield effects"]
-    }
+      "fr": [
+        "Birthing Pod enchaînait les créatures à valeur jusqu'à Sun Titan et Elesh Norn",
+        "Phantasmal Image copiait la meilleure créature en jeu",
+        "Venser faisait clignoter les créatures pour réutiliser leurs effets d'arrivée"
+      ],
+      "en": [
+        "Birthing Pod chained value creatures up to Sun Titan and Elesh Norn",
+        "Phantasmal Image copied the best creature on the battlefield",
+        "Venser blinked creatures to reuse their enter-the-battlefield effects"
+      ]
+    },
+    "rep": 214992
   },
   {
     "name": "RUG Pod",
     "slug": "rug-pod",
     "archetype": "midrange",
-    "titles": ["RUG Pod"],
+    "titles": [
+      "RUG Pod"
+    ],
     "cover": "Huntmaster of the Fells",
-    "keyCards": ["Birthing Pod", "Strangleroot Geist", "Huntmaster of the Fells", "Green Sun's Zenith", "Zealous Conscripts"],
+    "keyCards": [
+      "Birthing Pod",
+      "Strangleroot Geist",
+      "Huntmaster of the Fells",
+      "Green Sun's Zenith",
+      "Zealous Conscripts"
+    ],
     "summary": {
       "fr": "Birthing Pod rouge-vert-bleu, avec Strangleroot Geist et Huntmaster of the Fells comme cœur et Green Sun's Zenith pour trouver les cibles.",
       "en": "Red-green-blue Birthing Pod with Strangleroot Geist and Huntmaster of the Fells at its core and Green Sun's Zenith to find targets."
     },
     "why": {
-      "fr": ["Les créatures undying pouvaient être sacrifiées au Pod puis revenir", "Green Sun's Zenith donnait plus de façons de trouver les créatures du moteur", "Le bleu ajoutait Phantasmal Image et des créatures tempo à la toolbox"],
-      "en": ["Undying creatures could be sacrificed to Pod and come back", "Green Sun's Zenith gave more ways to find the engine's creatures", "Blue added Phantasmal Image and tempo creatures to the toolbox"]
-    }
+      "fr": [
+        "Les créatures undying pouvaient être sacrifiées au Pod puis revenir",
+        "Green Sun's Zenith donnait plus de façons de trouver les créatures du moteur",
+        "Le bleu ajoutait Phantasmal Image et des créatures tempo à la toolbox"
+      ],
+      "en": [
+        "Undying creatures could be sacrificed to Pod and come back",
+        "Green Sun's Zenith gave more ways to find the engine's creatures",
+        "Blue added Phantasmal Image and tempo creatures to the toolbox"
+      ]
+    },
+    "rep": 217899
   },
   {
     "name": "W/u Humans",
     "slug": "wu-humans",
     "archetype": "aggro",
-    "titles": ["Saint WW", "Saint WW with Leaks", "Thalia WW", "Sword WW", "Thalia WW with Leaks"],
+    "titles": [
+      "Saint WW",
+      "Saint WW with Leaks",
+      "Thalia WW",
+      "Sword WW",
+      "Thalia WW with Leaks"
+    ],
     "cover": "Champion of the Parish",
-    "keyCards": ["Champion of the Parish", "Hero of Bladehold", "Geist of Saint Traft", "Honor of the Pure", "Angelic Destiny"],
+    "keyCards": [
+      "Champion of the Parish",
+      "Hero of Bladehold",
+      "Geist of Saint Traft",
+      "Honor of the Pure",
+      "Angelic Destiny"
+    ],
     "summary": {
       "fr": "Aggro humains blanc splash bleu pour Geist of Saint Traft, avec Champion of the Parish, Honor of the Pure et Hero of Bladehold.",
       "en": "White Humans aggro splashing blue for Geist of Saint Traft, with Champion of the Parish, Honor of the Pure and Hero of Bladehold."
     },
     "why": {
-      "fr": ["Champion of the Parish grandissait vite dans un deck rempli d'Humains", "Honor of the Pure et Angelic Destiny faisaient frapper fort de petites créatures", "Certaines versions ajoutaient Mana Leak ou Thalia contre les decks contrôle"],
-      "en": ["Champion of the Parish grew quickly in a deck full of Humans", "Honor of the Pure and Angelic Destiny made small creatures hit hard", "Some versions added Mana Leak or Thalia against control decks"]
-    }
+      "fr": [
+        "Champion of the Parish grandissait vite dans un deck rempli d'Humains",
+        "Honor of the Pure et Angelic Destiny faisaient frapper fort de petites créatures",
+        "Certaines versions ajoutaient Mana Leak ou Thalia contre les decks contrôle"
+      ],
+      "en": [
+        "Champion of the Parish grew quickly in a deck full of Humans",
+        "Honor of the Pure and Angelic Destiny made small creatures hit hard",
+        "Some versions added Mana Leak or Thalia against control decks"
+      ]
+    },
+    "rep": 214705
   },
   {
     "name": "RW Humans",
     "slug": "rw-humans",
     "archetype": "aggro",
-    "titles": ["RW Humans", "WR Humans", "WR Aggro"],
+    "titles": [
+      "RW Humans",
+      "WR Humans",
+      "WR Aggro"
+    ],
     "cover": "Silverblade Paladin",
-    "keyCards": ["Champion of the Parish", "Silverblade Paladin", "Lightning Mauler", "Hero of Bladehold", "Thalia, Guardian of Thraben"],
+    "keyCards": [
+      "Champion of the Parish",
+      "Silverblade Paladin",
+      "Lightning Mauler",
+      "Hero of Bladehold",
+      "Thalia, Guardian of Thraben"
+    ],
     "summary": {
       "fr": "Humains rouge-blanc de l'époque Avacyn Restored, avec des créatures soulbond comme Silverblade Paladin et Lightning Mauler.",
       "en": "Red-white Humans from the Avacyn Restored era, built on soulbond creatures such as Silverblade Paladin and Lightning Mauler."
     },
     "why": {
-      "fr": ["Les paires soulbond donnaient double initiative ou célérité pour des dégâts soudains", "Cavern of Souls rendait les créatures impossibles à contrer", "Thalia, Guardian of Thraben taxait les sorts des decks contrôle"],
-      "en": ["Soulbond pairs gave double strike or haste for sudden damage", "Cavern of Souls made the creatures uncounterable", "Thalia, Guardian of Thraben taxed control decks' spells"]
-    }
+      "fr": [
+        "Les paires soulbond donnaient double initiative ou célérité pour des dégâts soudains",
+        "Cavern of Souls rendait les créatures impossibles à contrer",
+        "Thalia, Guardian of Thraben taxait les sorts des decks contrôle"
+      ],
+      "en": [
+        "Soulbond pairs gave double strike or haste for sudden damage",
+        "Cavern of Souls made the creatures uncounterable",
+        "Thalia, Guardian of Thraben taxed control decks' spells"
+      ]
+    },
+    "rep": 217524
   },
   {
     "name": "UW Blade",
     "slug": "uw-blade",
     "archetype": "aggro",
-    "titles": ["UW Blade"],
+    "titles": [
+      "UW Blade"
+    ],
     "cover": "Sword of Feast and Famine",
-    "keyCards": ["Blade Splicer", "Sword of Feast and Famine", "Hero of Bladehold", "Mirran Crusader", "Snapcaster Mage"],
+    "keyCards": [
+      "Blade Splicer",
+      "Sword of Feast and Famine",
+      "Hero of Bladehold",
+      "Mirran Crusader",
+      "Snapcaster Mage"
+    ],
     "summary": {
       "fr": "Aggro-contrôle bleu-blanc du début de saison : des créatures efficaces équipées d'épées, avec Mana Leak et Snapcaster Mage en soutien.",
       "en": "Early-season blue-white aggro-control: efficient creatures carrying Swords, with Mana Leak and Snapcaster Mage in support."
     },
     "why": {
-      "fr": ["Sword of Feast and Famine donnait une protection et dégageait les terrains", "Blade Splicer et Hero of Bladehold construisaient vite un terrain", "Mana Leak protégeait les menaces contre le contrôle et le ramp"],
-      "en": ["Sword of Feast and Famine gave protection and untapped lands", "Blade Splicer and Hero of Bladehold built a board quickly", "Mana Leak protected threats against control and ramp"]
+      "fr": [
+        "Sword of Feast and Famine donnait une protection et dégageait les terrains",
+        "Blade Splicer et Hero of Bladehold construisaient vite un terrain",
+        "Mana Leak protégeait les menaces contre le contrôle et le ramp"
+      ],
+      "en": [
+        "Sword of Feast and Famine gave protection and untapped lands",
+        "Blade Splicer and Hero of Bladehold built a board quickly",
+        "Mana Leak protected threats against control and ramp"
+      ]
     },
-    "note": "Included on a win (SCG Open Kansas City); only 2 top 8s."
+    "note": "Included on a win (SCG Open Kansas City); only 2 top 8s.",
+    "rep": 214968
   },
   {
     "name": "BR Zombies",
     "slug": "br-zombies",
     "archetype": "aggro",
-    "titles": ["BR Zombies", "Br Zombie"],
+    "titles": [
+      "BR Zombies",
+      "Br Zombie"
+    ],
     "cover": "Geralf's Messenger",
-    "keyCards": ["Gravecrawler", "Geralf's Messenger", "Blood Artist", "Falkenrath Aristocrat", "Diregraf Ghoul"],
+    "keyCards": [
+      "Gravecrawler",
+      "Geralf's Messenger",
+      "Blood Artist",
+      "Falkenrath Aristocrat",
+      "Diregraf Ghoul"
+    ],
     "summary": {
       "fr": "Zombies noir-rouge qui recyclent Gravecrawler et Geralf's Messenger, avec Blood Artist et Falkenrath Aristocrat pour convertir les sacrifices en dégâts.",
       "en": "Black-red Zombies that recur Gravecrawler and Geralf's Messenger, with Blood Artist and Falkenrath Aristocrat turning sacrifices into damage."
     },
     "why": {
-      "fr": ["Les zombies récursifs continuaient d'attaquer malgré le removal", "Blood Artist et Mortarpod drainaient l'adversaire à chaque mort de créature", "Cavern of Souls rendait les menaces impossibles à contrer"],
-      "en": ["Recursive Zombies kept attacking through removal", "Blood Artist and Mortarpod drained the opponent as creatures died", "Cavern of Souls made the threats uncounterable"]
-    }
+      "fr": [
+        "Les zombies récursifs continuaient d'attaquer malgré le removal",
+        "Blood Artist et Mortarpod drainaient l'adversaire à chaque mort de créature",
+        "Cavern of Souls rendait les menaces impossibles à contrer"
+      ],
+      "en": [
+        "Recursive Zombies kept attacking through removal",
+        "Blood Artist and Mortarpod drained the opponent as creatures died",
+        "Cavern of Souls made the threats uncounterable"
+      ]
+    },
+    "rep": 218188
   },
   {
     "name": "UB Zombies",
     "slug": "ub-zombies",
     "archetype": "aggro",
-    "titles": ["UB Zombies", "UB Zombi", "Zombies", "UB Zombie", "BU Zombies", "Zombi UB", "Zombi", "Mono Black Zombies", "Bw Zombi", "Zombie Pod"],
+    "titles": [
+      "UB Zombies",
+      "UB Zombi",
+      "Zombies",
+      "UB Zombie",
+      "BU Zombies",
+      "Zombi UB",
+      "Zombi",
+      "Mono Black Zombies",
+      "Bw Zombi",
+      "Zombie Pod"
+    ],
     "cover": "Diregraf Captain",
-    "keyCards": ["Diregraf Captain", "Geralf's Messenger", "Gravecrawler", "Phantasmal Image", "Tragic Slip"],
+    "keyCards": [
+      "Diregraf Captain",
+      "Geralf's Messenger",
+      "Gravecrawler",
+      "Phantasmal Image",
+      "Tragic Slip"
+    ],
     "summary": {
       "fr": "Zombies bleu-noir : zombies récursifs menés par Diregraf Captain, Phantasmal Image pour copier Geralf's Messenger, et du removal noir.",
       "en": "Blue-black Zombies: recursive Zombies led by Diregraf Captain, Phantasmal Image to copy Geralf's Messenger, and black removal."
     },
     "why": {
-      "fr": ["Diregraf Captain drainait l'adversaire à chaque mort de Zombie", "Tragic Slip et Geth's Verdict ouvraient la voie, y compris contre les hexproof", "Une base de mana surtout noire permettait de jouer Phyrexian Obliterator"],
-      "en": ["Diregraf Captain drained the opponent whenever a Zombie died", "Tragic Slip and Geth's Verdict cleared the way, even against hexproof threats", "A mostly black mana base supported Phyrexian Obliterator"]
+      "fr": [
+        "Diregraf Captain drainait l'adversaire à chaque mort de Zombie",
+        "Tragic Slip et Geth's Verdict ouvraient la voie, y compris contre les hexproof",
+        "Une base de mana surtout noire permettait de jouer Phyrexian Obliterator"
+      ],
+      "en": [
+        "Diregraf Captain drained the opponent whenever a Zombie died",
+        "Tragic Slip and Geth's Verdict cleared the way, even against hexproof threats",
+        "A mostly black mana base supported Phyrexian Obliterator"
+      ]
     },
-    "note": "Mono-black, B/w and Zombie Pod variants attached here (1 top 8 each)."
+    "note": "Mono-black, B/w and Zombie Pod variants attached here (1 top 8 each).",
+    "rep": 216631
   },
   {
     "name": "Frites",
     "slug": "frites",
     "archetype": "combo",
-    "titles": ["FRites", "FRittes"],
+    "titles": [
+      "FRites",
+      "FRittes"
+    ],
     "cover": "Unburial Rites",
-    "keyCards": ["Unburial Rites", "Elesh Norn, Grand Cenobite", "Mulch", "Faithless Looting", "Lingering Souls"],
+    "keyCards": [
+      "Unburial Rites",
+      "Elesh Norn, Grand Cenobite",
+      "Mulch",
+      "Faithless Looting",
+      "Lingering Souls"
+    ],
     "summary": {
       "fr": "Reanimator qui met Elesh Norn et Inferno Titan au cimetière avec Mulch et Faithless Looting, puis les ramène avec Unburial Rites.",
       "en": "Reanimator deck that bins Elesh Norn and Inferno Titan with Mulch and Faithless Looting, then returns them with Unburial Rites."
     },
     "why": {
-      "fr": ["Unburial Rites pouvait être lancé deux fois grâce au flashback", "Elesh Norn en jeu mettait fin à la plupart des matchs de créatures", "Lingering Souls offrait un plan de secours depuis le cimetière"],
-      "en": ["Unburial Rites could be cast twice thanks to flashback", "Elesh Norn on the battlefield ended most creature matchups", "Lingering Souls offered a backup plan from the graveyard"]
-    }
+      "fr": [
+        "Unburial Rites pouvait être lancé deux fois grâce au flashback",
+        "Elesh Norn en jeu mettait fin à la plupart des matchs de créatures",
+        "Lingering Souls offrait un plan de secours depuis le cimetière"
+      ],
+      "en": [
+        "Unburial Rites could be cast twice thanks to flashback",
+        "Elesh Norn on the battlefield ended most creature matchups",
+        "Lingering Souls offered a backup plan from the graveyard"
+      ]
+    },
+    "rep": 216942
   },
   {
     "name": "Heartless Summoning",
     "slug": "heartless-summoning",
     "archetype": "ramp",
-    "titles": ["UB Heartless", "Heartless Lich", "Hearthless Control", "Heartless Rites", "Grand Heart-chitect"],
+    "titles": [
+      "UB Heartless",
+      "Heartless Lich",
+      "Hearthless Control",
+      "Heartless Rites",
+      "Grand Heart-chitect"
+    ],
     "cover": "Heartless Summoning",
-    "keyCards": ["Heartless Summoning", "Solemn Simulacrum", "Wurmcoil Engine", "Massacre Wurm", "Havengul Lich"],
+    "keyCards": [
+      "Heartless Summoning",
+      "Solemn Simulacrum",
+      "Wurmcoil Engine",
+      "Massacre Wurm",
+      "Havengul Lich"
+    ],
     "summary": {
       "fr": "Deck bleu-noir qui réduit le coût des créatures avec Heartless Summoning pour poser Wurmcoil Engine, Massacre Wurm ou Frost Titan en avance.",
       "en": "Blue-black deck that makes creatures cheaper with Heartless Summoning to deploy Wurmcoil Engine, Massacre Wurm or Frost Titan early."
     },
     "why": {
-      "fr": ["Heartless Summoning rendait Solemn Simulacrum et Phyrexian Metamorph quasi gratuits", "Les grosses créatures arrivaient bien avant leur tour normal", "Massacre Wurm et Black Sun's Zenith répondaient aux terrains agressifs"],
-      "en": ["Heartless Summoning made Solemn Simulacrum and Phyrexian Metamorph almost free", "Large creatures came down well ahead of their usual turn", "Massacre Wurm and Black Sun's Zenith answered aggressive boards"]
-    }
+      "fr": [
+        "Heartless Summoning rendait Solemn Simulacrum et Phyrexian Metamorph quasi gratuits",
+        "Les grosses créatures arrivaient bien avant leur tour normal",
+        "Massacre Wurm et Black Sun's Zenith répondaient aux terrains agressifs"
+      ],
+      "en": [
+        "Heartless Summoning made Solemn Simulacrum and Phyrexian Metamorph almost free",
+        "Large creatures came down well ahead of their usual turn",
+        "Massacre Wurm and Black Sun's Zenith answered aggressive boards"
+      ]
+    },
+    "rep": 217352
   },
   {
     "name": "Mono-Green Infect",
     "slug": "mono-green-infect",
     "archetype": "aggro",
-    "titles": ["Infect", "Mono Green Infect"],
+    "titles": [
+      "Infect",
+      "Mono Green Infect"
+    ],
     "cover": "Glistener Elf",
-    "keyCards": ["Glistener Elf", "Ichorclaw Myr", "Rancor", "Apostle's Blessing", "Mutagenic Growth"],
+    "keyCards": [
+      "Glistener Elf",
+      "Ichorclaw Myr",
+      "Rancor",
+      "Apostle's Blessing",
+      "Mutagenic Growth"
+    ],
     "summary": {
       "fr": "Aggro infect avec Glistener Elf, Ichorclaw Myr et Inkmoth Nexus, qui gagne vite grâce aux pumps, à Rancor et aux sorts à mana phyrexian.",
       "en": "Infect aggro with Glistener Elf, Ichorclaw Myr and Inkmoth Nexus, winning quickly with pump spells, Rancor and Phyrexian-mana spells."
     },
     "why": {
-      "fr": ["L'infect demandait bien moins de dégâts qu'une horloge classique", "Apostle's Blessing et Mutagenic Growth protégeaient ou renforçaient pour peu de mana", "Wild Defiance renforçait chaque créature ciblée par un pump"],
-      "en": ["Infect needed far less damage than a normal clock", "Apostle's Blessing and Mutagenic Growth protected or pumped for little mana", "Wild Defiance boosted each creature targeted by a pump spell"]
-    }
+      "fr": [
+        "L'infect demandait bien moins de dégâts qu'une horloge classique",
+        "Apostle's Blessing et Mutagenic Growth protégeaient ou renforçaient pour peu de mana",
+        "Wild Defiance renforçait chaque créature ciblée par un pump"
+      ],
+      "en": [
+        "Infect needed far less damage than a normal clock",
+        "Apostle's Blessing and Mutagenic Growth protected or pumped for little mana",
+        "Wild Defiance boosted each creature targeted by a pump spell"
+      ]
+    },
+    "rep": 218967
   },
   {
     "name": "Mono-Black Infect",
     "slug": "mono-black-infect",
     "archetype": "aggro",
-    "titles": ["Mono Black Infect"],
+    "titles": [
+      "Mono Black Infect"
+    ],
     "cover": "Skithiryx, the Blight Dragon",
-    "keyCards": ["Phyrexian Crusader", "Plague Stinger", "Skithiryx, the Blight Dragon", "Lashwrithe", "Liliana of the Veil"],
+    "keyCards": [
+      "Phyrexian Crusader",
+      "Plague Stinger",
+      "Skithiryx, the Blight Dragon",
+      "Lashwrithe",
+      "Liliana of the Veil"
+    ],
     "summary": {
       "fr": "Infect mono-noir avec des créatures évasives ou protégées, Lashwrithe pour plus de puissance et du removal noir contre les bloqueurs.",
       "en": "Mono-black infect with evasive or protected poison creatures, Lashwrithe for extra power and black removal for blockers."
     },
     "why": {
-      "fr": ["La protection rouge et blanc de Phyrexian Crusader neutralisait beaucoup de removal", "Lashwrithe grandissait avec chaque Swamp en jeu", "Removal et défausse noirs dégageaient la voie"],
-      "en": ["Phyrexian Crusader's protection from red and white blanked much removal", "Lashwrithe grew with every Swamp on the battlefield", "Black removal and discard kept the path clear"]
-    }
+      "fr": [
+        "La protection rouge et blanc de Phyrexian Crusader neutralisait beaucoup de removal",
+        "Lashwrithe grandissait avec chaque Swamp en jeu",
+        "Removal et défausse noirs dégageaient la voie"
+      ],
+      "en": [
+        "Phyrexian Crusader's protection from red and white blanked much removal",
+        "Lashwrithe grew with every Swamp on the battlefield",
+        "Black removal and discard kept the path clear"
+      ]
+    },
+    "rep": 214970
   },
   {
     "name": "Tokens",
     "slug": "tokens",
     "archetype": "midrange",
-    "titles": ["BW Tokens", "UW Token", "GW Token", "W/B/G Tokens"],
+    "titles": [
+      "BW Tokens",
+      "UW Token",
+      "GW Token",
+      "W/B/G Tokens"
+    ],
     "cover": "Intangible Virtue",
-    "keyCards": ["Intangible Virtue", "Midnight Haunting", "Shrine of Loyal Legions", "Elspeth Tirel", "Hero of Bladehold"],
+    "keyCards": [
+      "Intangible Virtue",
+      "Midnight Haunting",
+      "Shrine of Loyal Legions",
+      "Elspeth Tirel",
+      "Hero of Bladehold"
+    ],
     "summary": {
       "fr": "Tokens à base blanche : Midnight Haunting, Shrine of Loyal Legions et Elspeth Tirel créent des jetons, Intangible Virtue et Honor of the Pure les renforcent.",
       "en": "White-based tokens: Midnight Haunting, Shrine of Loyal Legions and Elspeth Tirel make tokens, Intangible Virtue and Honor of the Pure pump them."
     },
     "why": {
-      "fr": ["Les nombreux petits corps résistaient au removal à l'unité", "Les anthems transformaient des jetons créés à vitesse instant en horloge rapide", "Les versions plus tardives jouaient Lingering Souls en noir-blanc"],
-      "en": ["Many small bodies were hard for one-for-one removal to handle", "Anthems turned instant-speed tokens into a fast clock", "Later builds played Lingering Souls in black-white"]
+      "fr": [
+        "Les nombreux petits corps résistaient au removal à l'unité",
+        "Les anthems transformaient des jetons créés à vitesse instant en horloge rapide",
+        "Les versions plus tardives jouaient Lingering Souls en noir-blanc"
+      ],
+      "en": [
+        "Many small bodies were hard for one-for-one removal to handle",
+        "Anthems turned instant-speed tokens into a fast clock",
+        "Later builds played Lingering Souls in black-white"
+      ]
     },
-    "note": "UW, GW, BW and Junk token builds merged (same anthem plan)."
+    "note": "UW, GW, BW and Junk token builds merged (same anthem plan).",
+    "rep": 214653
   },
   {
     "name": "Mono-Blue Architect",
     "slug": "mono-blue-architect",
     "archetype": "ramp",
-    "titles": ["Architect Aggro", "Mono-Blue Architect", "Architect"],
+    "titles": [
+      "Architect Aggro",
+      "Mono-Blue Architect",
+      "Architect"
+    ],
     "cover": "Grand Architect",
-    "keyCards": ["Grand Architect", "Wurmcoil Engine", "Phyrexian Metamorph", "Phantasmal Image", "Merfolk Looter"],
+    "keyCards": [
+      "Grand Architect",
+      "Wurmcoil Engine",
+      "Phyrexian Metamorph",
+      "Phantasmal Image",
+      "Merfolk Looter"
+    ],
     "summary": {
       "fr": "Mono-bleu à artefacts : Grand Architect transforme les créatures bleues en mana pour sortir tôt Wurmcoil Engine, puis les copies le dupliquent.",
       "en": "Mono-blue artifact deck: Grand Architect turns blue creatures into mana for an early Wurmcoil Engine, which copy effects then duplicate."
     },
     "why": {
-      "fr": ["Grand Architect permettait de lancer Wurmcoil Engine plusieurs tours en avance", "Les effets de copie doublaient Wurmcoil Engine ou la meilleure créature adverse", "Merfolk Looter et Buried Ruin assuraient un flux de menaces"],
-      "en": ["Grand Architect enabled Wurmcoil Engine several turns early", "Copy effects doubled Wurmcoil Engine or the opponent's best creature", "Merfolk Looter and Buried Ruin kept threats coming"]
-    }
+      "fr": [
+        "Grand Architect permettait de lancer Wurmcoil Engine plusieurs tours en avance",
+        "Les effets de copie doublaient Wurmcoil Engine ou la meilleure créature adverse",
+        "Merfolk Looter et Buried Ruin assuraient un flux de menaces"
+      ],
+      "en": [
+        "Grand Architect enabled Wurmcoil Engine several turns early",
+        "Copy effects doubled Wurmcoil Engine or the opponent's best creature",
+        "Merfolk Looter and Buried Ruin kept threats coming"
+      ]
+    },
+    "rep": 217642
   },
   {
     "name": "Esper Midrange",
     "slug": "esper-midrange",
     "archetype": "midrange",
-    "titles": ["Esper Midrange", "UWx Midrange"],
+    "titles": [
+      "Esper Midrange",
+      "UWx Midrange"
+    ],
     "cover": "Lingering Souls",
-    "keyCards": ["Restoration Angel", "Blade Splicer", "Lingering Souls", "Snapcaster Mage", "Gideon Jura"],
+    "keyCards": [
+      "Restoration Angel",
+      "Blade Splicer",
+      "Lingering Souls",
+      "Snapcaster Mage",
+      "Gideon Jura"
+    ],
     "summary": {
       "fr": "Midrange flash Esper de l'époque Avacyn Restored : Restoration Angel, Blade Splicer et Lingering Souls, soutenus par Snapcaster Mage et du removal.",
       "en": "Esper flash midrange from the Avacyn Restored era: Restoration Angel, Blade Splicer and Lingering Souls, backed by Snapcaster Mage and removal."
     },
     "why": {
-      "fr": ["Restoration Angel faisait clignoter Blade Splicer pour des Golems supplémentaires", "Lingering Souls fournissait de nombreux corps pour bloquer ou attaquer", "Snapcaster Mage rejouait le removal et les cantrips"],
-      "en": ["Restoration Angel blinked Blade Splicer for extra Golems", "Lingering Souls gave many bodies for blocking or attacking", "Snapcaster Mage reused removal and cantrips"]
-    }
+      "fr": [
+        "Restoration Angel faisait clignoter Blade Splicer pour des Golems supplémentaires",
+        "Lingering Souls fournissait de nombreux corps pour bloquer ou attaquer",
+        "Snapcaster Mage rejouait le removal et les cantrips"
+      ],
+      "en": [
+        "Restoration Angel blinked Blade Splicer for extra Golems",
+        "Lingering Souls gave many bodies for blocking or attacking",
+        "Snapcaster Mage reused removal and cantrips"
+      ]
+    },
+    "rep": 217942
   }
 ]

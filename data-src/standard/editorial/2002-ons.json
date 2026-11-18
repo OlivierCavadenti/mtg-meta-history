@@ -3,322 +3,674 @@
     "name": "Mirari's Wake",
     "slug": "mirari-s-wake",
     "archetype": "control",
-    "titles": ["Wake"],
+    "titles": [
+      "Wake"
+    ],
     "cover": "Mirari's Wake",
-    "keyCards": ["Mirari's Wake", "Mirari", "Moment's Peace", "Decree of Justice", "Wrath of God"],
+    "keyCards": [
+      "Mirari's Wake",
+      "Mirari",
+      "Moment's Peace",
+      "Decree of Justice",
+      "Wrath of God"
+    ],
     "summary": {
       "fr": "Contrôle bleu-vert-blanc qui survit avec Moment's Peace et Wrath of God, puis gagne grâce au mana doublé de Mirari's Wake.",
       "en": "Blue-green-white control that survives with Moment's Peace and Wrath of God, then wins off the doubled mana of Mirari's Wake."
     },
     "why": {
-      "fr": ["Moment's Peace et Renewed Faith gagnaient du temps avec le flashback et le cyclage", "Mirari's Wake permettait de copier Mirari ou de lancer de gros Decree of Justice", "Cunning Wish donnait accès aux réponses du sideboard"],
-      "en": ["Moment's Peace and Renewed Faith bought time through flashback and cycling", "Mirari's Wake fuelled Mirari copies and large Decree of Justice", "Cunning Wish gave access to sideboard answers"]
-    }
+      "fr": [
+        "Moment's Peace et Renewed Faith gagnaient du temps avec le flashback et le cyclage",
+        "Mirari's Wake permettait de copier Mirari ou de lancer de gros Decree of Justice",
+        "Cunning Wish donnait accès aux réponses du sideboard"
+      ],
+      "en": [
+        "Moment's Peace and Renewed Faith bought time through flashback and cycling",
+        "Mirari's Wake fuelled Mirari copies and large Decree of Justice",
+        "Cunning Wish gave access to sideboard answers"
+      ]
+    },
+    "rep": 252487
   },
   {
     "name": "UG Madness",
     "slug": "ug-madness",
     "archetype": "tempo",
-    "titles": ["UG Madness", "U/g Madness", "UG Standstill Madness", "Bug Madness"],
+    "titles": [
+      "UG Madness",
+      "U/g Madness",
+      "UG Standstill Madness",
+      "Bug Madness"
+    ],
     "cover": "Wild Mongrel",
-    "keyCards": ["Wild Mongrel", "Aquamoeba", "Basking Rootwalla", "Roar of the Wurm", "Circular Logic"],
+    "keyCards": [
+      "Wild Mongrel",
+      "Aquamoeba",
+      "Basking Rootwalla",
+      "Roar of the Wurm",
+      "Circular Logic"
+    ],
     "summary": {
       "fr": "Tempo bleu-vert qui défausse ses cartes madness et flashback avec Wild Mongrel et Aquamoeba pour mettre une pression rapide.",
       "en": "Blue-green tempo that discards madness and flashback cards to Wild Mongrel and Aquamoeba to apply fast pressure."
     },
     "why": {
-      "fr": ["Les outils de défausse transformaient les cartes madness en tempo", "Circular Logic grandissait avec le cimetière bien rempli", "Wonder donnait le vol à toute l'équipe depuis le cimetière"],
-      "en": ["Discard outlets turned madness cards into tempo", "Circular Logic grew with a full graveyard", "Wonder in the graveyard gave the team flying"]
+      "fr": [
+        "Les outils de défausse transformaient les cartes madness en tempo",
+        "Circular Logic grandissait avec le cimetière bien rempli",
+        "Wonder donnait le vol à toute l'équipe depuis le cimetière"
+      ],
+      "en": [
+        "Discard outlets turned madness cards into tempo",
+        "Circular Logic grew with a full graveyard",
+        "Wonder in the graveyard gave the team flying"
+      ]
     },
-    "note": "Standstill and black-splash (Smother, Zombie Infestation) variants merged."
+    "note": "Standstill and black-splash (Smother, Zombie Infestation) variants merged.",
+    "rep": 601655
   },
   {
     "name": "Psychatog",
     "slug": "psychatog",
     "archetype": "control",
-    "titles": ["Psychatog"],
+    "titles": [
+      "Psychatog"
+    ],
     "cover": "Psychatog",
-    "keyCards": ["Psychatog", "Upheaval", "Smother", "Deep Analysis", "Counterspell"],
+    "keyCards": [
+      "Psychatog",
+      "Upheaval",
+      "Smother",
+      "Deep Analysis",
+      "Counterspell"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir qui contre et pioche, puis gagne avec Psychatog en exilant son cimetière, avec Smother en nouveau retrait.",
       "en": "Blue-black control that counters and draws, then wins with Psychatog by exiling its graveyard, now with Smother as removal."
     },
     "why": {
-      "fr": ["Psychatog restait une condition de victoire compacte et difficile à bloquer", "Smother d'Onslaught améliorait le retrait à bas coût", "Les fetchlands remplissaient le cimetière"],
-      "en": ["Psychatog remained a compact, hard-to-block win condition", "Onslaught's Smother improved cheap removal", "Fetchlands helped fill the graveyard"]
-    }
+      "fr": [
+        "Psychatog restait une condition de victoire compacte et difficile à bloquer",
+        "Smother d'Onslaught améliorait le retrait à bas coût",
+        "Les fetchlands remplissaient le cimetière"
+      ],
+      "en": [
+        "Psychatog remained a compact, hard-to-block win condition",
+        "Onslaught's Smother improved cheap removal",
+        "Fetchlands helped fill the graveyard"
+      ]
+    },
+    "rep": 605023
   },
   {
     "name": "RG Beats",
     "slug": "rg-beats",
     "archetype": "aggro",
-    "titles": ["R/g Beats", "Red-green Beats", "RG Madness"],
+    "titles": [
+      "R/g Beats",
+      "Red-green Beats",
+      "RG Madness"
+    ],
     "cover": "Phantom Centaur",
-    "keyCards": ["Wild Mongrel", "Call of the Herd", "Phantom Centaur", "Grim Lavamancer", "Violent Eruption"],
+    "keyCards": [
+      "Wild Mongrel",
+      "Call of the Herd",
+      "Phantom Centaur",
+      "Grim Lavamancer",
+      "Violent Eruption"
+    ],
     "summary": {
       "fr": "Aggro rouge-vert qui combine créatures efficaces, madness et sorts de dégâts directs pour finir la partie vite.",
       "en": "Red-green aggro combining efficient creatures, madness and burn to end games quickly."
     },
     "why": {
-      "fr": ["Wild Mongrel et Basking Rootwalla exploitaient la madness", "Firebolt, Volcanic Hammer et Violent Eruption retiraient les bloqueurs", "Phantom Centaur résistait au retrait noir"],
-      "en": ["Wild Mongrel and Basking Rootwalla exploited madness", "Firebolt, Volcanic Hammer and Violent Eruption cleared blockers", "Phantom Centaur was immune to black removal"]
-    }
+      "fr": [
+        "Wild Mongrel et Basking Rootwalla exploitaient la madness",
+        "Firebolt, Volcanic Hammer et Violent Eruption retiraient les bloqueurs",
+        "Phantom Centaur résistait au retrait noir"
+      ],
+      "en": [
+        "Wild Mongrel and Basking Rootwalla exploited madness",
+        "Firebolt, Volcanic Hammer and Violent Eruption cleared blockers",
+        "Phantom Centaur was immune to black removal"
+      ]
+    },
+    "rep": 599809
   },
   {
     "name": "Mono-Black Control",
     "slug": "mono-black-control",
     "archetype": "control",
-    "titles": ["Mono-black Control"],
+    "titles": [
+      "Mono-black Control"
+    ],
     "cover": "Corrupt",
-    "keyCards": ["Corrupt", "Cabal Coffers", "Mutilate", "Visara the Dreadful", "Smother"],
+    "keyCards": [
+      "Corrupt",
+      "Cabal Coffers",
+      "Mutilate",
+      "Visara the Dreadful",
+      "Smother"
+    ],
     "summary": {
       "fr": "Contrôle mono-noir qui retire les créatures avec Smother et Mutilate, puis gagne avec Corrupt et Visara the Dreadful.",
       "en": "Mono-black control that removes creatures with Smother and Mutilate, then wins with Corrupt and Visara the Dreadful."
     },
     "why": {
-      "fr": ["Cabal Coffers alimentait Corrupt et Mutilate", "Le retrait abondant gênait les decks de créatures", "Duress et Mind Sludge attaquaient les mains des decks de contrôle"],
-      "en": ["Cabal Coffers powered Corrupt and Mutilate", "Plentiful removal troubled creature decks", "Duress and Mind Sludge attacked control players' hands"]
-    }
+      "fr": [
+        "Cabal Coffers alimentait Corrupt et Mutilate",
+        "Le retrait abondant gênait les decks de créatures",
+        "Duress et Mind Sludge attaquaient les mains des decks de contrôle"
+      ],
+      "en": [
+        "Cabal Coffers powered Corrupt and Mutilate",
+        "Plentiful removal troubled creature decks",
+        "Duress and Mind Sludge attacked control players' hands"
+      ]
+    },
+    "rep": 601640
   },
   {
     "name": "Goblin Bidding",
     "slug": "goblin-bidding",
     "archetype": "aggro",
-    "titles": ["Goblin Bidding", "Goblin-Bidding", "Read the Gob Bidding"],
+    "titles": [
+      "Goblin Bidding",
+      "Goblin-Bidding",
+      "Read the Gob Bidding"
+    ],
     "cover": "Patriarch's Bidding",
-    "keyCards": ["Patriarch's Bidding", "Goblin Piledriver", "Goblin Warchief", "Siege-Gang Commander", "Skirk Prospector"],
+    "keyCards": [
+      "Patriarch's Bidding",
+      "Goblin Piledriver",
+      "Goblin Warchief",
+      "Siege-Gang Commander",
+      "Skirk Prospector"
+    ],
     "summary": {
       "fr": "Aggro Goblins rouge à touche noire qui sacrifie ses créatures puis les ramène toutes en jeu avec Patriarch's Bidding.",
       "en": "Red Goblin aggro splashing black that sacrifices its creatures, then returns them all with Patriarch's Bidding."
     },
     "why": {
-      "fr": ["Goblin Warchief et Goblin Piledriver donnaient une attaque rapide", "Patriarch's Bidding reconstruisait le terrain après un balayage", "Skirk Prospector et Goblin Sledder remplissaient le cimetière"],
-      "en": ["Goblin Warchief and Goblin Piledriver gave a fast clock", "Patriarch's Bidding rebuilt the board after a sweeper", "Skirk Prospector and Goblin Sledder filled the graveyard"]
-    }
+      "fr": [
+        "Goblin Warchief et Goblin Piledriver donnaient une attaque rapide",
+        "Patriarch's Bidding reconstruisait le terrain après un balayage",
+        "Skirk Prospector et Goblin Sledder remplissaient le cimetière"
+      ],
+      "en": [
+        "Goblin Warchief and Goblin Piledriver gave a fast clock",
+        "Patriarch's Bidding rebuilt the board after a sweeper",
+        "Skirk Prospector and Goblin Sledder filled the graveyard"
+      ]
+    },
+    "rep": 603367
   },
   {
     "name": "Mono-Red Goblins",
     "slug": "mono-red-goblins",
     "archetype": "aggro",
-    "titles": ["Goblins"],
+    "titles": [
+      "Goblins"
+    ],
     "cover": "Goblin Piledriver",
-    "keyCards": ["Goblin Piledriver", "Goblin Warchief", "Sparksmith", "Sulfuric Vortex", "Siege-Gang Commander"],
+    "keyCards": [
+      "Goblin Piledriver",
+      "Goblin Warchief",
+      "Sparksmith",
+      "Sulfuric Vortex",
+      "Siege-Gang Commander"
+    ],
     "summary": {
       "fr": "Aggro mono-rouge Goblins qui attaque dès les premiers tours et termine avec des sorts de dégâts et Sulfuric Vortex.",
       "en": "Mono-red Goblin aggro that attacks from the first turns and finishes with burn and Sulfuric Vortex."
     },
     "why": {
-      "fr": ["Goblin Warchief rendait les Goblins moins chers et leur donnait la célérité", "Sparksmith retirait les petites créatures adverses", "Sulfuric Vortex empêchait l'adversaire de regagner des points de vie"],
-      "en": ["Goblin Warchief made Goblins cheaper and gave them haste", "Sparksmith removed small opposing creatures", "Sulfuric Vortex stopped opponents from gaining life"]
-    }
+      "fr": [
+        "Goblin Warchief rendait les Goblins moins chers et leur donnait la célérité",
+        "Sparksmith retirait les petites créatures adverses",
+        "Sulfuric Vortex empêchait l'adversaire de regagner des points de vie"
+      ],
+      "en": [
+        "Goblin Warchief made Goblins cheaper and gave them haste",
+        "Sparksmith removed small opposing creatures",
+        "Sulfuric Vortex stopped opponents from gaining life"
+      ]
+    },
+    "rep": 489124
   },
   {
     "name": "Mono-Black Zombies",
     "slug": "mono-black-zombies",
     "archetype": "aggro",
-    "titles": ["Mono-black Zombies", "Zombie Clerics"],
+    "titles": [
+      "Mono-black Zombies",
+      "Zombie Clerics"
+    ],
     "cover": "Rotlung Reanimator",
-    "keyCards": ["Rotlung Reanimator", "Withered Wretch", "Nantuko Shade", "Graveborn Muse", "Cabal Archon"],
+    "keyCards": [
+      "Rotlung Reanimator",
+      "Withered Wretch",
+      "Nantuko Shade",
+      "Graveborn Muse",
+      "Cabal Archon"
+    ],
     "summary": {
       "fr": "Aggro mono-noir de Zombies et Clercs qui cumule avantage de cartes avec Graveborn Muse et résilience avec Rotlung Reanimator.",
       "en": "Mono-black Zombie and Cleric aggro that gains cards with Graveborn Muse and resilience with Rotlung Reanimator."
     },
     "why": {
-      "fr": ["Graveborn Muse piochait plusieurs cartes par tour", "Withered Wretch exilait les cimetières dont dépendaient les decks adverses", "Smother et Corrupt dégageaient la voie"],
-      "en": ["Graveborn Muse drew several cards each turn", "Withered Wretch exiled graveyards that opposing decks relied on", "Smother and Corrupt cleared the way"]
-    }
+      "fr": [
+        "Graveborn Muse piochait plusieurs cartes par tour",
+        "Withered Wretch exilait les cimetières dont dépendaient les decks adverses",
+        "Smother et Corrupt dégageaient la voie"
+      ],
+      "en": [
+        "Graveborn Muse drew several cards each turn",
+        "Withered Wretch exiled graveyards that opposing decks relied on",
+        "Smother and Corrupt cleared the way"
+      ]
+    },
+    "rep": 600604
   },
   {
     "name": "Reanimator",
     "slug": "reanimator",
     "archetype": "combo",
-    "titles": ["Reanimator"],
+    "titles": [
+      "Reanimator"
+    ],
     "cover": "Doomed Necromancer",
-    "keyCards": ["Doomed Necromancer", "Zombify", "Entomb", "Buried Alive", "Akroma, Angel of Wrath"],
+    "keyCards": [
+      "Doomed Necromancer",
+      "Zombify",
+      "Entomb",
+      "Buried Alive",
+      "Akroma, Angel of Wrath"
+    ],
     "summary": {
       "fr": "Combo noir-rouge qui met de grosses créatures au cimetière avec Entomb et Buried Alive puis les réanime tôt.",
       "en": "Black-red combo that puts large creatures in the graveyard with Entomb and Buried Alive, then reanimates them early."
     },
     "why": {
-      "fr": ["Entomb et Buried Alive préparaient la réanimation dès le deuxième tour", "Doomed Necromancer et Zombify offraient plusieurs façons de réanimer", "Burning Wish allait chercher la cible ou le sort adapté"],
-      "en": ["Entomb and Buried Alive set up reanimation from turn two", "Doomed Necromancer and Zombify gave several reanimation routes", "Burning Wish fetched the right target or spell"]
-    }
+      "fr": [
+        "Entomb et Buried Alive préparaient la réanimation dès le deuxième tour",
+        "Doomed Necromancer et Zombify offraient plusieurs façons de réanimer",
+        "Burning Wish allait chercher la cible ou le sort adapté"
+      ],
+      "en": [
+        "Entomb and Buried Alive set up reanimation from turn two",
+        "Doomed Necromancer and Zombify gave several reanimation routes",
+        "Burning Wish fetched the right target or spell"
+      ]
+    },
+    "rep": 601656
   },
   {
     "name": "Astral Slide",
     "slug": "astral-slide",
     "archetype": "control",
-    "titles": ["Astral Slide", "BW Astral Slide"],
+    "titles": [
+      "Astral Slide",
+      "BW Astral Slide"
+    ],
     "cover": "Astral Slide",
-    "keyCards": ["Astral Slide", "Lightning Rift", "Exalted Angel", "Renewed Faith", "Wrath of God"],
+    "keyCards": [
+      "Astral Slide",
+      "Lightning Rift",
+      "Exalted Angel",
+      "Renewed Faith",
+      "Wrath of God"
+    ],
     "summary": {
       "fr": "Contrôle à base de cyclage qui exile temporairement les créatures avec Astral Slide et inflige des dégâts avec Lightning Rift.",
       "en": "Cycling-based control that blinks creatures with Astral Slide and deals damage with Lightning Rift."
     },
     "why": {
-      "fr": ["Chaque cyclage déclenchait Astral Slide ou Lightning Rift", "Les terrains à cyclage limitaient les mauvaises pioches", "Exalted Angel jouée en face cachée gagnait la partie seule"],
-      "en": ["Every cycle triggered Astral Slide or Lightning Rift", "Cycling lands reduced flood", "Exalted Angel played as a morph could win games on its own"]
+      "fr": [
+        "Chaque cyclage déclenchait Astral Slide ou Lightning Rift",
+        "Les terrains à cyclage limitaient les mauvaises pioches",
+        "Exalted Angel jouée en face cachée gagnait la partie seule"
+      ],
+      "en": [
+        "Every cycle triggered Astral Slide or Lightning Rift",
+        "Cycling lands reduced flood",
+        "Exalted Angel played as a morph could win games on its own"
+      ]
     },
-    "note": "BW version (Spirit Cairn, no Lightning Rift) merged: same Slide engine."
+    "note": "BW version (Spirit Cairn, no Lightning Rift) merged: same Slide engine.",
+    "rep": 599807
   },
   {
     "name": "WB Control",
     "slug": "wb-control",
     "archetype": "control",
-    "titles": ["Black-white Control", "WB Decree Control"],
+    "titles": [
+      "Black-white Control",
+      "WB Decree Control"
+    ],
     "cover": "Decree of Justice",
-    "keyCards": ["Decree of Justice", "Akroma's Vengeance", "Exalted Angel", "Eternal Dragon", "Cabal Therapy"],
+    "keyCards": [
+      "Decree of Justice",
+      "Akroma's Vengeance",
+      "Exalted Angel",
+      "Eternal Dragon",
+      "Cabal Therapy"
+    ],
     "summary": {
       "fr": "Contrôle blanc-noir qui balaie le terrain avec Wrath of God et Akroma's Vengeance et attaque la main adverse avec Cabal Therapy.",
       "en": "White-black control that sweeps the board with Wrath of God and Akroma's Vengeance and attacks hands with Cabal Therapy."
     },
     "why": {
-      "fr": ["Deux balayages différents géraient créatures et artefacts", "Decree of Justice et Eternal Dragon offraient du cyclage et une fin de partie", "Cabal Therapy et Duress perturbaient les decks combo"],
-      "en": ["Two kinds of sweeper handled creatures and other permanents", "Decree of Justice and Eternal Dragon gave cycling and a late game", "Cabal Therapy disrupted combo decks"]
-    }
+      "fr": [
+        "Deux balayages différents géraient créatures et artefacts",
+        "Decree of Justice et Eternal Dragon offraient du cyclage et une fin de partie",
+        "Cabal Therapy et Duress perturbaient les decks combo"
+      ],
+      "en": [
+        "Two kinds of sweeper handled creatures and other permanents",
+        "Decree of Justice and Eternal Dragon gave cycling and a late game",
+        "Cabal Therapy disrupted combo decks"
+      ]
+    },
+    "rep": 489122
   },
   {
     "name": "Beasts",
     "slug": "beasts",
     "archetype": "midrange",
-    "titles": ["Beasts"],
+    "titles": [
+      "Beasts"
+    ],
     "cover": "Anurid Brushhopper",
-    "keyCards": ["Anurid Brushhopper", "Ravenous Baloth", "Contested Cliffs", "Living Wish", "Leery Fogbeast"],
+    "keyCards": [
+      "Anurid Brushhopper",
+      "Ravenous Baloth",
+      "Contested Cliffs",
+      "Living Wish",
+      "Leery Fogbeast"
+    ],
     "summary": {
       "fr": "Midrange vert à touches blanche et rouge qui accélère son mana et joue des Beasts, avec Contested Cliffs comme retrait.",
       "en": "Green midrange splashing white and red that ramps into Beasts, using Contested Cliffs as removal."
     },
     "why": {
-      "fr": ["Contested Cliffs transformait chaque Beast en sort de retrait", "Ravenous Baloth gagnait des points de vie contre l'aggro", "Living Wish allait chercher la créature ou le terrain adapté"],
-      "en": ["Contested Cliffs turned each Beast into removal", "Ravenous Baloth gained life against aggro", "Living Wish fetched the right creature or land"]
-    }
+      "fr": [
+        "Contested Cliffs transformait chaque Beast en sort de retrait",
+        "Ravenous Baloth gagnait des points de vie contre l'aggro",
+        "Living Wish allait chercher la créature ou le terrain adapté"
+      ],
+      "en": [
+        "Contested Cliffs turned each Beast into removal",
+        "Ravenous Baloth gained life against aggro",
+        "Living Wish fetched the right creature or land"
+      ]
+    },
+    "rep": 600061
   },
   {
     "name": "BUG Opposition",
     "slug": "bug-opposition",
     "archetype": "control",
-    "titles": ["BUG Squirrel Opposition", "Bug Squirrel Opposition", "Squirrel Orbosition UGb"],
+    "titles": [
+      "BUG Squirrel Opposition",
+      "Bug Squirrel Opposition",
+      "Squirrel Orbosition UGb"
+    ],
     "cover": "Opposition",
-    "keyCards": ["Opposition", "Squirrel Nest", "Wild Mongrel", "Smother", "Cabal Therapy"],
+    "keyCards": [
+      "Opposition",
+      "Squirrel Nest",
+      "Wild Mongrel",
+      "Smother",
+      "Cabal Therapy"
+    ],
     "summary": {
       "fr": "Contrôle bleu-vert à touche noire qui engage terrains et créatures adverses avec Opposition et les jetons de Squirrel Nest.",
       "en": "Blue-green control splashing black that taps down opposing lands and creatures with Opposition and Squirrel Nest tokens."
     },
     "why": {
-      "fr": ["Squirrel Nest fournissait un engageur supplémentaire chaque tour", "Le noir ajoutait Smother et Cabal Therapy", "Les créatures vertes efficaces faisaient pression avant le verrou"],
-      "en": ["Squirrel Nest added another tapper every turn", "Black added Smother and Cabal Therapy", "Efficient green creatures pressured before the lock"]
-    }
+      "fr": [
+        "Squirrel Nest fournissait un engageur supplémentaire chaque tour",
+        "Le noir ajoutait Smother et Cabal Therapy",
+        "Les créatures vertes efficaces faisaient pression avant le verrou"
+      ],
+      "en": [
+        "Squirrel Nest added another tapper every turn",
+        "Black added Smother and Cabal Therapy",
+        "Efficient green creatures pressured before the lock"
+      ]
+    },
+    "rep": 605021
   },
   {
     "name": "Oversold Cemetery",
     "slug": "oversold-cemetery",
     "archetype": "midrange",
-    "titles": ["Oversold Cemetery"],
+    "titles": [
+      "Oversold Cemetery"
+    ],
     "cover": "Oversold Cemetery",
-    "keyCards": ["Oversold Cemetery", "Faceless Butcher", "Stronghold Assassin", "Ravenous Baloth", "Living Wish"],
+    "keyCards": [
+      "Oversold Cemetery",
+      "Faceless Butcher",
+      "Stronghold Assassin",
+      "Ravenous Baloth",
+      "Living Wish"
+    ],
     "summary": {
       "fr": "Midrange vert-noir qui récupère chaque tour ses créatures à valeur depuis le cimetière avec Oversold Cemetery.",
       "en": "Green-black midrange that returns its value creatures from the graveyard every turn with Oversold Cemetery."
     },
     "why": {
-      "fr": ["Oversold Cemetery créait un avantage de cartes répété", "Faceless Butcher et Stronghold Assassin retiraient les créatures adverses", "Cabal Therapy perturbait les plans adverses"],
-      "en": ["Oversold Cemetery generated repeated card advantage", "Faceless Butcher and Stronghold Assassin removed opposing creatures", "Cabal Therapy disrupted opposing plans"]
-    }
+      "fr": [
+        "Oversold Cemetery créait un avantage de cartes répété",
+        "Faceless Butcher et Stronghold Assassin retiraient les créatures adverses",
+        "Cabal Therapy perturbait les plans adverses"
+      ],
+      "en": [
+        "Oversold Cemetery generated repeated card advantage",
+        "Faceless Butcher and Stronghold Assassin removed opposing creatures",
+        "Cabal Therapy disrupted opposing plans"
+      ]
+    },
+    "rep": 601639
   },
   {
     "name": "GW Glory",
     "slug": "gw-glory",
     "archetype": "midrange",
-    "titles": ["G/w Glory"],
+    "titles": [
+      "G/w Glory"
+    ],
     "cover": "Glory",
-    "keyCards": ["Glory", "Anurid Brushhopper", "Exalted Angel", "Wild Mongrel", "Living Wish"],
+    "keyCards": [
+      "Glory",
+      "Anurid Brushhopper",
+      "Exalted Angel",
+      "Wild Mongrel",
+      "Living Wish"
+    ],
     "summary": {
       "fr": "Midrange vert-blanc de créatures efficaces, avec Glory dans le cimetière pour protéger l'équipe.",
       "en": "Green-white midrange of efficient creatures, using Glory from the graveyard to protect the team."
     },
     "why": {
-      "fr": ["Wild Mongrel pouvait défausser Glory pour l'activer depuis le cimetière", "Anurid Brushhopper esquivait le retrait", "Exalted Angel donnait une menace rapide et du gain de vie"],
-      "en": ["Wild Mongrel could discard Glory to use it from the graveyard", "Anurid Brushhopper dodged removal", "Exalted Angel gave a fast threat and life gain"]
-    }
+      "fr": [
+        "Wild Mongrel pouvait défausser Glory pour l'activer depuis le cimetière",
+        "Anurid Brushhopper esquivait le retrait",
+        "Exalted Angel donnait une menace rapide et du gain de vie"
+      ],
+      "en": [
+        "Wild Mongrel could discard Glory to use it from the graveyard",
+        "Anurid Brushhopper dodged removal",
+        "Exalted Angel gave a fast threat and life gain"
+      ]
+    },
+    "rep": 600063
   },
   {
     "name": "Goblin Ponza",
     "slug": "goblin-ponza",
     "archetype": "aggro",
-    "titles": ["Goblin Ponza"],
+    "titles": [
+      "Goblin Ponza"
+    ],
     "cover": "Stone Rain",
-    "keyCards": ["Stone Rain", "Pillage", "Goblin Piledriver", "Blistering Firecat", "Sparksmith"],
+    "keyCards": [
+      "Stone Rain",
+      "Pillage",
+      "Goblin Piledriver",
+      "Blistering Firecat",
+      "Sparksmith"
+    ],
     "summary": {
       "fr": "Aggro mono-rouge qui détruit les terrains adverses avec Stone Rain et Pillage tout en attaquant avec des Goblins.",
       "en": "Mono-red aggro that destroys opposing lands with Stone Rain and Pillage while attacking with Goblins."
     },
     "why": {
-      "fr": ["La destruction de terrains ralentissait les decks de contrôle", "Blistering Firecat infligeait beaucoup de dégâts en un tour", "Les sorts de dégâts retiraient les bloqueurs"],
-      "en": ["Land destruction slowed control decks", "Blistering Firecat dealt heavy damage in one turn", "Burn spells removed blockers"]
-    }
+      "fr": [
+        "La destruction de terrains ralentissait les decks de contrôle",
+        "Blistering Firecat infligeait beaucoup de dégâts en un tour",
+        "Les sorts de dégâts retiraient les bloqueurs"
+      ],
+      "en": [
+        "Land destruction slowed control decks",
+        "Blistering Firecat dealt heavy damage in one turn",
+        "Burn spells removed blockers"
+      ]
+    },
+    "rep": 600062
   },
   {
     "name": "BR Magnivore",
     "slug": "br-magnivore",
     "archetype": "control",
-    "titles": ["B/r Magnivore"],
+    "titles": [
+      "B/r Magnivore"
+    ],
     "cover": "Magnivore",
-    "keyCards": ["Magnivore", "Overmaster", "Slice and Dice", "Chainer's Edict", "Pillage"],
+    "keyCards": [
+      "Magnivore",
+      "Overmaster",
+      "Slice and Dice",
+      "Chainer's Edict",
+      "Pillage"
+    ],
     "summary": {
       "fr": "Contrôle noir-rouge qui détruit terrains et créatures, puis gagne avec un Magnivore grandi par les rituels au cimetière.",
       "en": "Black-red control that destroys lands and creatures, then wins with a Magnivore grown by sorceries in graveyards."
     },
     "why": {
-      "fr": ["Le grand nombre de rituels rendait Magnivore très gros", "Overmaster protégeait le sort clé des contresorts", "Slice and Dice et Pyroclasm balayaient les petites créatures"],
-      "en": ["A sorcery-heavy list made Magnivore very large", "Overmaster protected key spells from counters", "Slice and Dice and Pyroclasm swept small creatures"]
-    }
+      "fr": [
+        "Le grand nombre de rituels rendait Magnivore très gros",
+        "Overmaster protégeait le sort clé des contresorts",
+        "Slice and Dice et Pyroclasm balayaient les petites créatures"
+      ],
+      "en": [
+        "A sorcery-heavy list made Magnivore very large",
+        "Overmaster protected key spells from counters",
+        "Slice and Dice and Pyroclasm swept small creatures"
+      ]
+    },
+    "rep": 600066
   },
   {
     "name": "WB Clerics",
     "slug": "wb-clerics",
     "archetype": "aggro",
-    "titles": ["B/w Clerics"],
+    "titles": [
+      "B/w Clerics"
+    ],
     "cover": "Battle Screech",
-    "keyCards": ["Battle Screech", "Glorious Anthem", "Rotlung Reanimator", "Master Apothecary", "Nova Cleric"],
+    "keyCards": [
+      "Battle Screech",
+      "Glorious Anthem",
+      "Rotlung Reanimator",
+      "Master Apothecary",
+      "Nova Cleric"
+    ],
     "summary": {
       "fr": "Aggro blanc à touche noire qui joue Battle Screech, des Clercs et Glorious Anthem pour élargir son attaque.",
       "en": "White aggro splashing black that plays Battle Screech, Clerics and Glorious Anthem to go wide."
     },
     "why": {
-      "fr": ["Battle Screech créait quatre volants pour une seule carte", "Glorious Anthem renforçait toute l'équipe", "Les Clercs offraient protection et prévention des dégâts"],
-      "en": ["Battle Screech made four fliers from one card", "Glorious Anthem pumped the whole team", "Clerics provided protection and damage prevention"]
-    }
+      "fr": [
+        "Battle Screech créait quatre volants pour une seule carte",
+        "Glorious Anthem renforçait toute l'équipe",
+        "Les Clercs offraient protection et prévention des dégâts"
+      ],
+      "en": [
+        "Battle Screech made four fliers from one card",
+        "Glorious Anthem pumped the whole team",
+        "Clerics provided protection and damage prevention"
+      ]
+    },
+    "rep": 600068
   },
   {
     "name": "UB Zombie Infestation",
     "slug": "ub-zombie-infestation",
     "archetype": "control",
-    "titles": ["Zombie Infestation"],
+    "titles": [
+      "Zombie Infestation"
+    ],
     "cover": "Zombie Infestation",
-    "keyCards": ["Zombie Infestation", "Upheaval", "Future Sight", "Counterspell", "Cunning Wish"],
+    "keyCards": [
+      "Zombie Infestation",
+      "Upheaval",
+      "Future Sight",
+      "Counterspell",
+      "Cunning Wish"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir sans Psychatog qui convertit ses cartes en trop en jetons Zombie avec Zombie Infestation.",
       "en": "Blue-black control without Psychatog that turns excess cards into Zombie tokens with Zombie Infestation."
     },
     "why": {
-      "fr": ["Zombie Infestation donnait une condition de victoire hors des créatures", "Future Sight et Deep Analysis assuraient l'avantage de cartes", "Innocent Blood et Chainer's Edict géraient les créatures"],
-      "en": ["Zombie Infestation gave a non-creature win condition", "Future Sight and Deep Analysis supplied card advantage", "Innocent Blood and Chainer's Edict handled creatures"]
-    }
+      "fr": [
+        "Zombie Infestation donnait une condition de victoire hors des créatures",
+        "Future Sight et Deep Analysis assuraient l'avantage de cartes",
+        "Innocent Blood et Chainer's Edict géraient les créatures"
+      ],
+      "en": [
+        "Zombie Infestation gave a non-creature win condition",
+        "Future Sight and Deep Analysis supplied card advantage",
+        "Innocent Blood and Chainer's Edict handled creatures"
+      ]
+    },
+    "rep": 599803
   },
   {
     "name": "Monastery Control",
     "slug": "monastery-control",
     "archetype": "control",
-    "titles": ["UBgw Monastery Control"],
+    "titles": [
+      "UBgw Monastery Control"
+    ],
     "cover": "Standstill",
-    "keyCards": ["Standstill", "Nantuko Monastery", "Riftstone Portal", "Counterspell", "Cunning Wish"],
+    "keyCards": [
+      "Standstill",
+      "Nantuko Monastery",
+      "Riftstone Portal",
+      "Counterspell",
+      "Cunning Wish"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir qui pose Standstill et attaque avec Nantuko Monastery, activé grâce à Riftstone Portal.",
       "en": "Blue-black control that plays Standstill and attacks with Nantuko Monastery, enabled by Riftstone Portal."
     },
     "why": {
-      "fr": ["Les terrains-créatures attaquaient sans déclencher Standstill", "Riftstone Portal dans le cimetière fournissait le mana vert et blanc", "Smother et Innocent Blood couvraient les créatures adverses"],
-      "en": ["Manlands attacked without triggering Standstill", "Riftstone Portal in the graveyard supplied green and white mana", "Smother and Innocent Blood handled opposing creatures"]
-    }
+      "fr": [
+        "Les terrains-créatures attaquaient sans déclencher Standstill",
+        "Riftstone Portal dans le cimetière fournissait le mana vert et blanc",
+        "Smother et Innocent Blood couvraient les créatures adverses"
+      ],
+      "en": [
+        "Manlands attacked without triggering Standstill",
+        "Riftstone Portal in the graveyard supplied green and white mana",
+        "Smother and Innocent Blood handled opposing creatures"
+      ]
+    },
+    "rep": 601725
   }
 ]

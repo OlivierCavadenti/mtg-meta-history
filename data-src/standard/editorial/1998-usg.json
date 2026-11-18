@@ -3,212 +3,409 @@
     "name": "Stompy",
     "slug": "stompy",
     "archetype": "aggro",
-    "titles": ["Stompy", "Mono Green Aggro"],
+    "titles": [
+      "Stompy",
+      "Mono Green Aggro"
+    ],
     "cover": "Rancor",
-    "keyCards": ["Rancor", "River Boa", "Albino Troll", "Pouncing Jaguar", "Masticore"],
+    "keyCards": [
+      "Rancor",
+      "River Boa",
+      "Albino Troll",
+      "Pouncing Jaguar",
+      "Masticore"
+    ],
     "summary": {
       "fr": "Mono-vert aggro avec des créatures à écho comme Albino Troll et Pouncing Jaguar, Rancor pour la portée et Masticore en haut de courbe.",
       "en": "Mono-green aggro with echo creatures like Albino Troll and Pouncing Jaguar, Rancor for reach and Masticore at the top of the curve."
     },
     "why": {
-      "fr": ["Rancor revenait en main et ajoutait des dégâts piétinants", "Gaea's Cradle et Llanowar Elves accéléraient la courbe"],
-      "en": ["Rancor returned to hand and kept adding trample damage", "Gaea's Cradle and Llanowar Elves accelerated the curve"]
-    }
+      "fr": [
+        "Rancor revenait en main et ajoutait des dégâts piétinants",
+        "Gaea's Cradle et Llanowar Elves accéléraient la courbe"
+      ],
+      "en": [
+        "Rancor returned to hand and kept adding trample damage",
+        "Gaea's Cradle and Llanowar Elves accelerated the curve"
+      ]
+    },
+    "rep": 264714
   },
   {
     "name": "Living Death",
     "slug": "living-death",
     "archetype": "combo",
-    "titles": ["Living Death"],
+    "titles": [
+      "Living Death"
+    ],
     "cover": "Living Death",
-    "keyCards": ["Living Death", "Survival of the Fittest", "Vampiric Tutor", "Deranged Hermit", "Spike Feeder"],
+    "keyCards": [
+      "Living Death",
+      "Survival of the Fittest",
+      "Vampiric Tutor",
+      "Deranged Hermit",
+      "Spike Feeder"
+    ],
     "summary": {
       "fr": "Deck Survival of the Fittest vert-noir qui défausse ses créatures au cimetière, puis les ramène toutes d'un coup avec Living Death.",
       "en": "Green-black Survival of the Fittest deck that discards creatures into the graveyard, then returns them all at once with Living Death."
     },
     "why": {
-      "fr": ["Survival of the Fittest tutorait et remplissait le cimetière à la fois", "Living Death échangeait la table adverse contre un cimetière bien garni"],
-      "en": ["Survival of the Fittest both tutored and filled the graveyard", "Living Death swapped the opponent's board for a stocked graveyard"]
-    }
+      "fr": [
+        "Survival of the Fittest tutorait et remplissait le cimetière à la fois",
+        "Living Death échangeait la table adverse contre un cimetière bien garni"
+      ],
+      "en": [
+        "Survival of the Fittest both tutored and filled the graveyard",
+        "Living Death swapped the opponent's board for a stocked graveyard"
+      ]
+    },
+    "rep": 601332
   },
   {
     "name": "Mono-Black Control",
     "slug": "mono-black-control",
     "archetype": "control",
-    "titles": ["Mono Black Midrange", "Black Control"],
+    "titles": [
+      "Mono Black Midrange",
+      "Black Control"
+    ],
     "rep": 252631,
     "cover": "Powder Keg",
-    "keyCards": ["Powder Keg", "Diabolic Edict", "Duress", "Yawgmoth's Will", "Phyrexian Plaguelord"],
+    "keyCards": [
+      "Powder Keg",
+      "Diabolic Edict",
+      "Duress",
+      "Yawgmoth's Will",
+      "Phyrexian Plaguelord"
+    ],
     "summary": {
       "fr": "Contrôle mono-noir avec Duress, Diabolic Edict et Powder Keg, qui rejoue ses sorts avec Yawgmoth's Will et Corpse Dance.",
       "en": "Mono-black control with Duress, Diabolic Edict and Powder Keg, replaying spells with Yawgmoth's Will and Corpse Dance."
     },
     "why": {
-      "fr": ["Powder Keg répondait aux vagues de petites créatures", "Dark Ritual et Yawgmoth's Will donnaient des tours tardifs explosifs"],
-      "en": ["Powder Keg answered swarms of cheap creatures", "Dark Ritual and Yawgmoth's Will gave explosive late-game turns"]
+      "fr": [
+        "Powder Keg répondait aux vagues de petites créatures",
+        "Dark Ritual et Yawgmoth's Will donnaient des tours tardifs explosifs"
+      ],
+      "en": [
+        "Powder Keg answered swarms of cheap creatures",
+        "Dark Ritual and Yawgmoth's Will gave explosive late-game turns"
+      ]
     }
   },
   {
     "name": "Mono-Red Land Destruction",
     "slug": "mono-red-land-destruction",
     "archetype": "aggro",
-    "titles": ["Mono Red Land D"],
+    "titles": [
+      "Mono Red Land D"
+    ],
     "cover": "Avalanche Riders",
-    "keyCards": ["Avalanche Riders", "Stone Rain", "Pillage", "Arc Lightning", "Cursed Scroll"],
+    "keyCards": [
+      "Avalanche Riders",
+      "Stone Rain",
+      "Pillage",
+      "Arc Lightning",
+      "Cursed Scroll"
+    ],
     "summary": {
       "fr": "Mono-rouge aggro qui associe Jackal Pup et le burn à Stone Rain, Pillage et Avalanche Riders pour priver l'adversaire de mana.",
       "en": "Mono-red aggro pairing Jackal Pup and burn with Stone Rain, Pillage and Avalanche Riders to keep the opponent off mana."
     },
     "why": {
-      "fr": ["Ancient Tomb permettait de détruire un terrain dès le deuxième tour", "Avalanche Riders détruisait un terrain tout en ajoutant une créature"],
-      "en": ["Ancient Tomb enabled land destruction on turn two", "Avalanche Riders destroyed a land while adding a body"]
-    }
+      "fr": [
+        "Ancient Tomb permettait de détruire un terrain dès le deuxième tour",
+        "Avalanche Riders détruisait un terrain tout en ajoutant une créature"
+      ],
+      "en": [
+        "Ancient Tomb enabled land destruction on turn two",
+        "Avalanche Riders destroyed a land while adding a body"
+      ]
+    },
+    "rep": 253017
   },
   {
     "name": "Suicide Black",
     "slug": "suicide-black",
     "archetype": "aggro",
-    "titles": ["Suicide Black"],
+    "titles": [
+      "Suicide Black"
+    ],
     "cover": "Dauthi Slayer",
-    "keyCards": ["Carnophage", "Sarcomancy", "Dauthi Slayer", "Skittering Skirge", "Hatred"],
+    "keyCards": [
+      "Carnophage",
+      "Sarcomancy",
+      "Dauthi Slayer",
+      "Skittering Skirge",
+      "Hatred"
+    ],
     "summary": {
       "fr": "Mono-noir aggro qui paie de sa vie pour aller vite, avec Carnophage, Sarcomancy et des créatures à ombre, et finit avec Hatred.",
       "en": "Mono-black aggro paying life for speed, with Carnophage, Sarcomancy and shadow creatures, finishing through Hatred."
     },
     "why": {
-      "fr": ["Dauthi Slayer et Dauthi Horror échappaient à la plupart des bloqueurs", "Dark Ritual et City of Traitors posaient les menaces très tôt"],
-      "en": ["Dauthi Slayer and Dauthi Horror could not be blocked by most creatures", "Dark Ritual and City of Traitors powered out threats early"]
-    }
+      "fr": [
+        "Dauthi Slayer et Dauthi Horror échappaient à la plupart des bloqueurs",
+        "Dark Ritual et City of Traitors posaient les menaces très tôt"
+      ],
+      "en": [
+        "Dauthi Slayer and Dauthi Horror could not be blocked by most creatures",
+        "Dark Ritual and City of Traitors powered out threats early"
+      ]
+    },
+    "rep": 601328
   },
   {
     "name": "Magpie",
     "slug": "magpie",
     "archetype": "control",
-    "titles": ["Magpie"],
+    "titles": [
+      "Magpie"
+    ],
     "cover": "Thieving Magpie",
-    "keyCards": ["Thieving Magpie", "Morphling", "Masticore", "Powder Keg", "Forbid"],
+    "keyCards": [
+      "Thieving Magpie",
+      "Morphling",
+      "Masticore",
+      "Powder Keg",
+      "Forbid"
+    ],
     "summary": {
       "fr": "Contrôle mono-bleu avec contresorts et Powder Keg, qui pioche avec Thieving Magpie et conclut avec Morphling ou Masticore.",
       "en": "Mono-blue control with counterspells and Powder Keg, drawing cards with Thieving Magpie and finishing with Morphling or Masticore."
     },
     "why": {
-      "fr": ["Thieving Magpie piochait une carte à chaque attaque réussie", "Morphling était difficile à gérer pour la plupart des decks"],
-      "en": ["Thieving Magpie drew a card each time it connected", "Morphling was hard to answer for most decks"]
-    }
+      "fr": [
+        "Thieving Magpie piochait une carte à chaque attaque réussie",
+        "Morphling était difficile à gérer pour la plupart des decks"
+      ],
+      "en": [
+        "Thieving Magpie drew a card each time it connected",
+        "Morphling was hard to answer for most decks"
+      ]
+    },
+    "rep": 601330
   },
   {
     "name": "Replenish",
     "slug": "replenish",
     "archetype": "combo",
-    "titles": ["Replenish Bargain"],
+    "titles": [
+      "Replenish Bargain"
+    ],
     "cover": "Replenish",
-    "keyCards": ["Replenish", "Attunement", "Intuition", "Yawgmoth's Bargain", "Seismic Assault"],
+    "keyCards": [
+      "Replenish",
+      "Attunement",
+      "Intuition",
+      "Yawgmoth's Bargain",
+      "Seismic Assault"
+    ],
     "summary": {
       "fr": "Combo qui défausse ses enchantements avec Attunement et Frantic Search, puis les ramène tous avec Replenish, et gagne via Yawgmoth's Bargain et Seismic Assault.",
       "en": "Combo deck that discards enchantments with Attunement and Frantic Search, returns them all with Replenish, and wins through Yawgmoth's Bargain and Seismic Assault."
     },
     "why": {
-      "fr": ["Intuition et les tuteurs trouvaient les exemplaires uniques du combo", "Mox Diamond et City of Traitors accéléraient la mise en place"],
-      "en": ["Intuition and tutors found the single copies the combo needed", "Mox Diamond and City of Traitors sped up the setup"]
-    }
+      "fr": [
+        "Intuition et les tuteurs trouvaient les exemplaires uniques du combo",
+        "Mox Diamond et City of Traitors accéléraient la mise en place"
+      ],
+      "en": [
+        "Intuition and tutors found the single copies the combo needed",
+        "Mox Diamond and City of Traitors sped up the setup"
+      ]
+    },
+    "rep": 601708
   },
   {
     "name": "White Weenie",
     "slug": "white-weenie",
     "archetype": "aggro",
-    "titles": ["White Weenie (White Lightning)"],
+    "titles": [
+      "White Weenie (White Lightning)"
+    ],
     "cover": "Mother of Runes",
-    "keyCards": ["Crusade", "Glorious Anthem", "Mother of Runes", "Soltari Foot Soldier", "Longbow Archer"],
+    "keyCards": [
+      "Crusade",
+      "Glorious Anthem",
+      "Mother of Runes",
+      "Soltari Foot Soldier",
+      "Longbow Archer"
+    ],
     "summary": {
       "fr": "Mono-blanc aggro de créatures bon marché renforcées par Crusade et Glorious Anthem, protégées par Mother of Runes.",
       "en": "Mono-white aggro with cheap creatures pumped by Crusade and Glorious Anthem, protected by Mother of Runes."
     },
     "why": {
-      "fr": ["Crusade et Glorious Anthem rendaient chaque petite créature menaçante", "Mother of Runes protégeait les attaquants clés du removal"],
-      "en": ["Crusade and Glorious Anthem made each small creature a threat", "Mother of Runes protected key attackers from removal"]
+      "fr": [
+        "Crusade et Glorious Anthem rendaient chaque petite créature menaçante",
+        "Mother of Runes protégeait les attaquants clés du removal"
+      ],
+      "en": [
+        "Crusade and Glorious Anthem made each small creature a threat",
+        "Mother of Runes protected key attackers from removal"
+      ]
     },
-    "note": "Also known as 'White Lightning'."
+    "note": "Also known as 'White Lightning'.",
+    "rep": 601709
   },
   {
     "name": "Wildfire",
     "slug": "wildfire",
     "archetype": "ramp",
-    "titles": ["Wildfire"],
+    "titles": [
+      "Wildfire"
+    ],
     "cover": "Wildfire",
-    "keyCards": ["Wildfire", "Covetous Dragon", "Grim Monolith", "Voltaic Key", "Masticore"],
+    "keyCards": [
+      "Wildfire",
+      "Covetous Dragon",
+      "Grim Monolith",
+      "Voltaic Key",
+      "Masticore"
+    ],
     "summary": {
       "fr": "Ramp rouge d'artefacts qui accélère avec Grim Monolith, Thran Dynamo et Voltaic Key, puis lance Wildfire et des menaces comme Covetous Dragon et Masticore.",
       "en": "Red artifact ramp accelerating with Grim Monolith, Thran Dynamo and Voltaic Key, then casting Wildfire and threats like Covetous Dragon and Masticore."
     },
     "why": {
-      "fr": ["Le mana d'artefact survivait à Wildfire, contrairement aux terrains adverses", "Covetous Dragon survivait aux dégâts de son propre Wildfire"],
-      "en": ["Artifact mana survived Wildfire while the opponent lost lands", "Covetous Dragon survived the damage from its own Wildfire"]
-    }
+      "fr": [
+        "Le mana d'artefact survivait à Wildfire, contrairement aux terrains adverses",
+        "Covetous Dragon survivait aux dégâts de son propre Wildfire"
+      ],
+      "en": [
+        "Artifact mana survived Wildfire while the opponent lost lands",
+        "Covetous Dragon survived the damage from its own Wildfire"
+      ]
+    },
+    "rep": 253016
   },
   {
     "name": "Abducted Drake",
     "slug": "abducted-drake",
     "archetype": "combo",
-    "titles": ["Abducted Drake"],
+    "titles": [
+      "Abducted Drake"
+    ],
     "cover": "Gamekeeper",
-    "keyCards": ["Gamekeeper", "Altar of Dementia", "Iridescent Drake", "Abduction", "Intuition"],
+    "keyCards": [
+      "Gamekeeper",
+      "Altar of Dementia",
+      "Iridescent Drake",
+      "Abduction",
+      "Intuition"
+    ],
     "summary": {
       "fr": "Combo tricolore construit autour de Gamekeeper, Altar of Dementia, Iridescent Drake et Abduction, qui meule l'adversaire avec l'Altar.",
       "en": "Three-colour combo built around Gamekeeper, Altar of Dementia, Iridescent Drake and Abduction, milling the opponent with the Altar."
     },
     "why": {
-      "fr": ["Intuition et Vampiric Tutor réunissaient les pièces", "Mox Diamond, Ancient Tomb et City of Traitors accéléraient la mise en place"],
-      "en": ["Intuition and Vampiric Tutor assembled the pieces", "Mox Diamond, Ancient Tomb and City of Traitors sped up the setup"]
+      "fr": [
+        "Intuition et Vampiric Tutor réunissaient les pièces",
+        "Mox Diamond, Ancient Tomb et City of Traitors accéléraient la mise en place"
+      ],
+      "en": [
+        "Intuition and Vampiric Tutor assembled the pieces",
+        "Mox Diamond, Ancient Tomb and City of Traitors sped up the setup"
+      ]
     },
-    "note": "Single result (Baberowski, European Championship 1999 finalist); name kept from mtgtop8."
+    "note": "Single result (Baberowski, European Championship 1999 finalist); name kept from mtgtop8.",
+    "rep": 264713
   },
   {
     "name": "UG Awakening",
     "slug": "ug-awakening",
     "archetype": "control",
-    "titles": ["Trade Blossom"],
+    "titles": [
+      "Trade Blossom"
+    ],
     "cover": "Tradewind Rider",
-    "keyCards": ["Awakening", "Tradewind Rider", "Propaganda", "Wall of Blossoms", "Forbid"],
+    "keyCards": [
+      "Awakening",
+      "Tradewind Rider",
+      "Propaganda",
+      "Wall of Blossoms",
+      "Forbid"
+    ],
     "summary": {
       "fr": "Contrôle bleu-vert qui freine les créatures avec Propaganda et les murs, dégage ses terrains avec Awakening et renvoie les permanents avec Tradewind Rider.",
       "en": "Blue-green control slowing creatures with Propaganda and walls, untapping lands with Awakening and bouncing permanents with Tradewind Rider."
     },
     "why": {
-      "fr": ["Awakening permettait d'utiliser son mana à chaque tour", "Spike Feeder et Spike Weaver tenaient les decks agressifs"],
-      "en": ["Awakening let the deck use its mana on every turn", "Spike Feeder and Spike Weaver held off aggressive decks"]
+      "fr": [
+        "Awakening permettait d'utiliser son mana à chaque tour",
+        "Spike Feeder et Spike Weaver tenaient les decks agressifs"
+      ],
+      "en": [
+        "Awakening let the deck use its mana on every turn",
+        "Spike Feeder and Spike Weaver held off aggressive decks"
+      ]
     },
-    "note": "mtgtop8 title 'Trade Blossom' (Tradewind Rider + Wall of Blossoms)."
+    "note": "mtgtop8 title 'Trade Blossom' (Tradewind Rider + Wall of Blossoms).",
+    "rep": 601331
   },
   {
     "name": "Bargain",
     "slug": "bargain",
     "archetype": "combo",
-    "titles": ["Bargain", "Phantom Menace"],
+    "titles": [
+      "Bargain",
+      "Phantom Menace"
+    ],
     "cover": "Yawgmoth's Bargain",
-    "keyCards": ["Yawgmoth's Bargain", "Show and Tell", "Delusions of Mediocrity", "Turnabout", "Grim Monolith"],
+    "keyCards": [
+      "Yawgmoth's Bargain",
+      "Show and Tell",
+      "Delusions of Mediocrity",
+      "Turnabout",
+      "Grim Monolith"
+    ],
     "summary": {
       "fr": "Combo qui pose Yawgmoth's Bargain grâce au mana rapide ou à Show and Tell, pioche son deck, compense la perte de vie avec Delusions of Mediocrity et finit avec Blaze.",
       "en": "Combo deck using fast mana or Show and Tell to play Yawgmoth's Bargain, drawing its deck with Delusions of Mediocrity offsetting the life loss and Blaze to finish."
     },
     "why": {
-      "fr": ["Grim Monolith, Voltaic Key et Turnabout produisaient beaucoup de mana", "Vampiric Tutor trouvait Bargain ou Show and Tell"],
-      "en": ["Grim Monolith, Voltaic Key and Turnabout produced large amounts of mana", "Vampiric Tutor found Bargain or Show and Tell"]
-    }
+      "fr": [
+        "Grim Monolith, Voltaic Key et Turnabout produisaient beaucoup de mana",
+        "Vampiric Tutor trouvait Bargain ou Show and Tell"
+      ],
+      "en": [
+        "Grim Monolith, Voltaic Key and Turnabout produced large amounts of mana",
+        "Vampiric Tutor found Bargain or Show and Tell"
+      ]
+    },
+    "rep": 601333
   },
   {
     "name": "Enchantress",
     "slug": "enchantress",
     "archetype": "combo",
-    "titles": ["Enchantress"],
+    "titles": [
+      "Enchantress"
+    ],
     "cover": "Argothian Enchantress",
-    "keyCards": ["Argothian Enchantress", "Verduran Enchantress", "Wild Growth", "Serra's Sanctum", "Stroke of Genius"],
+    "keyCards": [
+      "Argothian Enchantress",
+      "Verduran Enchantress",
+      "Wild Growth",
+      "Serra's Sanctum",
+      "Stroke of Genius"
+    ],
     "summary": {
       "fr": "Deck d'enchantements vert-bleu qui pioche avec Argothian et Verduran Enchantress, produit du mana avec Serra's Sanctum et finit avec Stroke of Genius.",
       "en": "Green-blue enchantment deck drawing cards with Argothian and Verduran Enchantress, making mana with Serra's Sanctum and finishing with Stroke of Genius."
     },
     "why": {
-      "fr": ["Chaque enchantement bon marché piochait une carte avec une Enchantress en jeu", "Argothian Enchantress ne pouvait pas être ciblée par le removal"],
-      "en": ["Each cheap enchantment drew a card with an Enchantress in play", "Argothian Enchantress could not be targeted by removal"]
-    }
+      "fr": [
+        "Chaque enchantement bon marché piochait une carte avec une Enchantress en jeu",
+        "Argothian Enchantress ne pouvait pas être ciblée par le removal"
+      ],
+      "en": [
+        "Each cheap enchantment drew a card with an Enchantress in play",
+        "Argothian Enchantress could not be targeted by removal"
+      ]
+    },
+    "rep": 601713
   }
 ]

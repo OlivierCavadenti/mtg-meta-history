@@ -1,977 +1,981 @@
 [
- {
-  "name": "Jeskai Fires",
-  "slug": "jeskai-fires",
-  "archetype": "midrange",
-  "titles": [
-   "Fires of Invention",
-   "Jeskai Fires",
-   "4c Fires Yorion",
-   "Jeskai Control"
-  ],
-  "rep": 372294,
-  "cover": "Fires of Invention",
-  "keyCards": [
-   "Fires of Invention",
-   "Cavalier of Flame",
-   "Kenrith, the Returned King",
-   "Sphinx of Foresight",
-   "Teferi, Time Raveler"
-  ],
-  "summary": {
-   "fr": "Midrange Jeskai qui lance Cavaliers, Kenrith et Sphinx of Foresight sans dépenser de mana grâce à Fires of Invention ; les listes plus tardives passèrent à Yorion et Lukka.",
-   "en": "Jeskai midrange that casts Cavaliers, Kenrith and Sphinx of Foresight without spending mana under Fires of Invention; later lists moved to Yorion and Lukka."
+  {
+    "name": "Jeskai Fires",
+    "slug": "jeskai-fires",
+    "archetype": "midrange",
+    "titles": [
+      "Fires of Invention",
+      "Jeskai Fires",
+      "4c Fires Yorion",
+      "Jeskai Control"
+    ],
+    "rep": 372294,
+    "cover": "Fires of Invention",
+    "keyCards": [
+      "Fires of Invention",
+      "Cavalier of Flame",
+      "Kenrith, the Returned King",
+      "Sphinx of Foresight",
+      "Teferi, Time Raveler"
+    ],
+    "summary": {
+      "fr": "Midrange Jeskai qui lance Cavaliers, Kenrith et Sphinx of Foresight sans dépenser de mana grâce à Fires of Invention ; les listes plus tardives passèrent à Yorion et Lukka.",
+      "en": "Jeskai midrange that casts Cavaliers, Kenrith and Sphinx of Foresight without spending mana under Fires of Invention; later lists moved to Yorion and Lukka."
+    },
+    "why": {
+      "fr": [
+        "Fires of Invention lançait gratuitement de grosses menaces et laissait les terrains libres",
+        "Teferi, Time Raveler protégeait le plan contre les contresorts",
+        "Deafening Clarion et Bonecrusher Giant couvraient les matchs contre l'aggro"
+      ],
+      "en": [
+        "Fires of Invention cast big threats for free and left lands open for activations",
+        "Teferi, Time Raveler protected the plan from counterspells",
+        "Deafening Clarion and Bonecrusher Giant covered aggressive matchups"
+      ]
+    },
+    "note": "Single mtgtop8 title covers Jeskai Cavalier Fires (ELD/THB) and 80-card Lukka/Agent Fires (IKO); Jeskai Control title = Lukka/Agent lists without Fires. Rep = World Championship XXVI finalist."
   },
-  "why": {
-   "fr": [
-    "Fires of Invention lançait gratuitement de grosses menaces et laissait les terrains libres",
-    "Teferi, Time Raveler protégeait le plan contre les contresorts",
-    "Deafening Clarion et Bonecrusher Giant couvraient les matchs contre l'aggro"
-   ],
-   "en": [
-    "Fires of Invention cast big threats for free and left lands open for activations",
-    "Teferi, Time Raveler protected the plan from counterspells",
-    "Deafening Clarion and Bonecrusher Giant covered aggressive matchups"
-   ]
+  {
+    "name": "Temur Reclamation",
+    "slug": "temur-reclamation",
+    "archetype": "control",
+    "titles": [
+      "Temur Reclamation",
+      "TemurReclamation",
+      "Temur Flash Reclamation",
+      "Temur Control",
+      "Temur Flash Control"
+    ],
+    "rep": 396982,
+    "cover": "Wilderness Reclamation",
+    "keyCards": [
+      "Wilderness Reclamation",
+      "Expansion/Explosion",
+      "Uro, Titan of Nature's Wrath",
+      "Shark Typhoon",
+      "Growth Spiral"
+    ],
+    "summary": {
+      "fr": "Rampe-contrôle qui dégage ses terrains avec Wilderness Reclamation pour garder des contresorts, puis lance une grosse Explosion ou Shark Typhoon à vitesse instantanée.",
+      "en": "Ramp-control deck that untaps its lands with Wilderness Reclamation to hold up counters, then casts a large Explosion or Shark Typhoon at instant speed."
+    },
+    "why": {
+      "fr": [
+        "Growth Spiral et Uro ajoutaient des poses de terrain supplémentaires",
+        "Wilderness Reclamation doublait le mana disponible pendant le tour adverse",
+        "Shark Typhoon et Explosion transformaient le mana en trop en conclusion"
+      ],
+      "en": [
+        "Growth Spiral and Uro added extra land drops",
+        "Wilderness Reclamation doubled the mana available on the opponent's turn",
+        "Shark Typhoon and Explosion turned surplus mana into a finisher"
+      ]
+    },
+    "note": "Rep = Players Tour Online 2 winner (pure Temur; PT Finals winner splashed white)."
   },
-  "note": "Single mtgtop8 title covers Jeskai Cavalier Fires (ELD/THB) and 80-card Lukka/Agent Fires (IKO); Jeskai Control title = Lukka/Agent lists without Fires. Rep = World Championship XXVI finalist."
- },
- {
-  "name": "Temur Reclamation",
-  "slug": "temur-reclamation",
-  "archetype": "control",
-  "titles": [
-   "Temur Reclamation",
-   "TemurReclamation",
-   "Temur Flash Reclamation",
-   "Temur Control",
-   "Temur Flash Control"
-  ],
-  "rep": 396982,
-  "cover": "Wilderness Reclamation",
-  "keyCards": [
-   "Wilderness Reclamation",
-   "Expansion/Explosion",
-   "Uro, Titan of Nature's Wrath",
-   "Shark Typhoon",
-   "Growth Spiral"
-  ],
-  "summary": {
-   "fr": "Rampe-contrôle qui dégage ses terrains avec Wilderness Reclamation pour garder des contresorts, puis lance une grosse Explosion ou Shark Typhoon à vitesse instantanée.",
-   "en": "Ramp-control deck that untaps its lands with Wilderness Reclamation to hold up counters, then casts a large Explosion or Shark Typhoon at instant speed."
+  {
+    "name": "Rakdos Sacrifice",
+    "slug": "rakdos-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Aggro",
+      "Mardu Aggro",
+      "Mardu Sacrifice",
+      "Rakdos Sacrifice"
+    ],
+    "rep": 378895,
+    "cover": "Cauldron Familiar",
+    "keyCards": [
+      "Cauldron Familiar",
+      "Witch's Oven",
+      "Mayhem Devil",
+      "Priest of Forgotten Gods",
+      "Claim the Firstborn"
+    ],
+    "summary": {
+      "fr": "Deck sacrifice noir-rouge qui fait tourner Cauldron Familiar avec Witch's Oven, Mayhem Devil infligeant des blessures à chaque sacrifice.",
+      "en": "Black-red sacrifice deck that loops Cauldron Familiar through Witch's Oven, with Mayhem Devil dealing damage on every sacrifice."
+    },
+    "why": {
+      "fr": [
+        "Cauldron Familiar revenait du cimetière à chaque Food sacrifiée",
+        "Mayhem Devil transformait chaque sacrifice en blessures",
+        "Claim the Firstborn volait un bloqueur puis le donnait au Witch's Oven"
+      ],
+      "en": [
+        "Cauldron Familiar returned from the graveyard whenever a Food was sacrificed",
+        "Mayhem Devil turned each sacrifice into damage",
+        "Claim the Firstborn stole a blocker and then fed it to the Oven"
+      ]
+    },
+    "note": "mtgtop8 'Rakdos Aggro' is mostly Cat-Oven sacrifice, with a few Knights aggro lists; Mardu Aggro/Sacrifice merged."
   },
-  "why": {
-   "fr": [
-    "Growth Spiral et Uro ajoutaient des poses de terrain supplémentaires",
-    "Wilderness Reclamation doublait le mana disponible pendant le tour adverse",
-    "Shark Typhoon et Explosion transformaient le mana en trop en conclusion"
-   ],
-   "en": [
-    "Growth Spiral and Uro added extra land drops",
-    "Wilderness Reclamation doubled the mana available on the opponent's turn",
-    "Shark Typhoon and Explosion turned surplus mana into a finisher"
-   ]
+  {
+    "name": "Sultai Control",
+    "slug": "sultai-control",
+    "archetype": "control",
+    "titles": [
+      "Sultai Control",
+      "Sultai Midrange",
+      "Sultai Aggro",
+      "Sultai Ramp",
+      "Sultai Yorion Control"
+    ],
+    "rep": 410188,
+    "cover": "Uro, Titan of Nature's Wrath",
+    "keyCards": [
+      "Uro, Titan of Nature's Wrath",
+      "Nissa, Who Shakes the World",
+      "Thought Erasure",
+      "Shark Typhoon",
+      "Extinction Event"
+    ],
+    "summary": {
+      "fr": "Rampe-contrôle Sultai : Oko et Food dans les premières listes, puis Uro, Nissa et Shark Typhoon avec défausse et Extinction Event.",
+      "en": "Sultai ramp-control: Oko and Food in early lists, later Uro, Nissa and Shark Typhoon with discard and Extinction Event."
+    },
+    "why": {
+      "fr": [
+        "Uro faisait gagner des points de vie, piochait et revenait du cimetière",
+        "Thought Erasure et Narset perturbaient les plans adverses",
+        "Extinction Event exilait les créatures sans leur laisser de retour possible"
+      ],
+      "en": [
+        "Uro gained life, drew cards and returned from the graveyard",
+        "Thought Erasure and Narset disrupted opposing plans",
+        "Extinction Event exiled creatures without leaving them to recur"
+      ]
+    },
+    "note": "Oct-Nov 2019 rows are Sultai Food (Oko); rep = 2020 Uro version (SCG Tour Online qualifier winner)."
   },
-  "note": "Rep = Players Tour Online 2 winner (pure Temur; PT Finals winner splashed white)."
- },
- {
-  "name": "Rakdos Sacrifice",
-  "slug": "rakdos-sacrifice",
-  "archetype": "midrange",
-  "titles": [
-   "Rakdos Aggro",
-   "Mardu Aggro",
-   "Mardu Sacrifice",
-   "Rakdos Sacrifice"
-  ],
-  "rep": 378895,
-  "cover": "Cauldron Familiar",
-  "keyCards": [
-   "Cauldron Familiar",
-   "Witch's Oven",
-   "Mayhem Devil",
-   "Priest of Forgotten Gods",
-   "Claim the Firstborn"
-  ],
-  "summary": {
-   "fr": "Deck sacrifice noir-rouge qui fait tourner Cauldron Familiar avec Witch's Oven, Mayhem Devil infligeant des blessures à chaque sacrifice.",
-   "en": "Black-red sacrifice deck that loops Cauldron Familiar through Witch's Oven, with Mayhem Devil dealing damage on every sacrifice."
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "UW Yorion Control",
+      "Esper Yorion Control",
+      "Esper Control"
+    ],
+    "cover": "Elspeth Conquers Death",
+    "keyCards": [
+      "Teferi, Time Raveler",
+      "Shatter the Sky",
+      "Elspeth Conquers Death",
+      "Absorb",
+      "Omen of the Sea"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu à base de contresorts, Shatter the Sky et Elspeth Conquers Death, qui gagne avec Dream Trawler ou des planeswalkers ; les listes tardives ajoutèrent Yorion.",
+      "en": "White-blue draw-go control with counters, Shatter the Sky and Elspeth Conquers Death, winning with Dream Trawler or planeswalkers; later lists added Yorion."
+    },
+    "why": {
+      "fr": [
+        "Teferi, Time Raveler empêchait l'adversaire de répondre à vitesse instantanée",
+        "Elspeth Conquers Death retirait une menace et ramenait un planeswalker",
+        "Les Omens et Absorb stabilisaient la pioche et les points de vie"
+      ],
+      "en": [
+        "Teferi, Time Raveler stopped opponents from responding at instant speed",
+        "Elspeth Conquers Death answered a threat and returned a planeswalker",
+        "Omens and Absorb kept card flow and life total stable"
+      ]
+    },
+    "note": "UW Control + UW/Esper Yorion + Esper Control titles. Rep = World Championship XXVI winner.",
+    "rep": 372289
   },
-  "why": {
-   "fr": [
-    "Cauldron Familiar revenait du cimetière à chaque Food sacrifiée",
-    "Mayhem Devil transformait chaque sacrifice en blessures",
-    "Claim the Firstborn volait un bloqueur puis le donnait au Witch's Oven"
-   ],
-   "en": [
-    "Cauldron Familiar returned from the graveyard whenever a Food was sacrificed",
-    "Mayhem Devil turned each sacrifice into damage",
-    "Claim the Firstborn stole a blocker and then fed it to the Oven"
-   ]
+  {
+    "name": "Bant Control",
+    "slug": "bant-control",
+    "archetype": "control",
+    "titles": [
+      "Bant Control",
+      "Bant Yorion Control",
+      "BantControl",
+      "Bant Ramp",
+      "4c Yorion"
+    ],
+    "rep": 398136,
+    "cover": "Nissa, Who Shakes the World",
+    "keyCards": [
+      "Uro, Titan of Nature's Wrath",
+      "Nissa, Who Shakes the World",
+      "Teferi, Time Raveler",
+      "Elspeth Conquers Death",
+      "Growth Spiral"
+    ],
+    "summary": {
+      "fr": "Contrôle à base verte avec Growth Spiral et Uro pour le mana, Teferi et Elspeth Conquers Death comme réponses, et Nissa ou Hydroid Krasis pour conclure.",
+      "en": "Green-based control with Growth Spiral and Uro for mana, Teferi and Elspeth Conquers Death as answers, and Nissa or Hydroid Krasis to close."
+    },
+    "why": {
+      "fr": [
+        "Uro et Growth Spiral accéléraient tout en faisant gagner des points de vie contre l'aggro",
+        "Teferi et Elspeth Conquers Death géraient les menaces principales",
+        "Nissa transformait des terrains en créatures attaquantes"
+      ],
+      "en": [
+        "Uro and Growth Spiral ramped while gaining life against aggro",
+        "Teferi and Elspeth Conquers Death handled the main threats",
+        "Nissa turned lands into attacking creatures"
+      ]
+    },
+    "note": "Early (Nov 2019) rows are Bant with Oko; rep = 2020 Uro version."
   },
-  "note": "mtgtop8 'Rakdos Aggro' is mostly Cat-Oven sacrifice, with a few Knights aggro lists; Mardu Aggro/Sacrifice merged."
- },
- {
-  "name": "Sultai Control",
-  "slug": "sultai-control",
-  "archetype": "control",
-  "titles": [
-   "Sultai Control",
-   "Sultai Midrange",
-   "Sultai Aggro",
-   "Sultai Ramp",
-   "Sultai Yorion Control"
-  ],
-  "rep": 410188,
-  "cover": "Uro, Titan of Nature's Wrath",
-  "keyCards": [
-   "Uro, Titan of Nature's Wrath",
-   "Nissa, Who Shakes the World",
-   "Thought Erasure",
-   "Shark Typhoon",
-   "Extinction Event"
-  ],
-  "summary": {
-   "fr": "Rampe-contrôle Sultai : Oko et Food dans les premières listes, puis Uro, Nissa et Shark Typhoon avec défausse et Extinction Event.",
-   "en": "Sultai ramp-control: Oko and Food in early lists, later Uro, Nissa and Shark Typhoon with discard and Extinction Event."
+  {
+    "name": "Jund Sacrifice",
+    "slug": "jund-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Sacrifice",
+      "Jund",
+      "Jund Oven",
+      "Jund Aggro",
+      "4c Control",
+      "Sultai Sacrifice",
+      "Golgari Sacrifice"
+    ],
+    "cover": "Korvold, Fae-Cursed King",
+    "keyCards": [
+      "Korvold, Fae-Cursed King",
+      "Trail of Crumbs",
+      "Witch's Oven",
+      "Cauldron Familiar",
+      "Mayhem Devil"
+    ],
+    "summary": {
+      "fr": "Midrange Food et sacrifice qui combine Gilded Goose, Trail of Crumbs et la boucle de Cauldron Familiar, Korvold grandissant à chaque sacrifice.",
+      "en": "Food and sacrifice midrange combining Gilded Goose, Trail of Crumbs and the Cauldron Familiar loop, with Korvold growing from each sacrifice."
+    },
+    "why": {
+      "fr": [
+        "Trail of Crumbs creusait la bibliothèque à chaque Food sacrifiée",
+        "Korvold piochait et grandissait à chaque sacrifice",
+        "La boucle de Cauldron Familiar faisait gagner des points de vie et bloquait l'aggro"
+      ],
+      "en": [
+        "Trail of Crumbs dug for cards each time a Food was sacrificed",
+        "Korvold drew cards and grew with every sacrifice",
+        "The Cauldron Familiar loop gained life and blocked aggro decks"
+      ]
+    },
+    "note": "Includes Sultai Sacrifice (Oko + Cat-Oven, GP Richmond) and Jund/Jund Oven titles. Rep = Mythic Championship VII winner.",
+    "rep": 366820
   },
-  "why": {
-   "fr": [
-    "Uro faisait gagner des points de vie, piochait et revenait du cimetière",
-    "Thought Erasure et Narset perturbaient les plans adverses",
-    "Extinction Event exilait les créatures sans leur laisser de retour possible"
-   ],
-   "en": [
-    "Uro gained life, drew cards and returned from the graveyard",
-    "Thought Erasure and Narset disrupted opposing plans",
-    "Extinction Event exiled creatures without leaving them to recur"
-   ]
+  {
+    "name": "Mono-Red Aggro",
+    "slug": "mono-red-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "RDW"
+    ],
+    "rep": 374197,
+    "cover": "Embercleave",
+    "keyCards": [
+      "Embercleave",
+      "Torbran, Thane of Red Fell",
+      "Anax, Hardened in the Forge",
+      "Fervent Champion",
+      "Bonecrusher Giant"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge avec des créatures à célérité bon marché, Torbran pour amplifier les dégâts et Embercleave pour conclure.",
+      "en": "Mono-red aggro with cheap haste creatures, Torbran to amplify damage and Embercleave as a finisher."
+    },
+    "why": {
+      "fr": [
+        "Embercleave coûtait moins cher avec plusieurs attaquants et concluait souvent la partie",
+        "Torbran ajoutait des dégâts à chaque source rouge",
+        "Bonecrusher Giant offrait un removal et une créature en une seule carte"
+      ],
+      "en": [
+        "Embercleave got cheaper with several attackers and often ended the game",
+        "Torbran added damage to every red source",
+        "Bonecrusher Giant was removal and a creature in one card"
+      ]
+    },
+    "note": "Rep = GP Lyon winner."
   },
-  "note": "Oct-Nov 2019 rows are Sultai Food (Oko); rep = 2020 Uro version (SCG Tour Online qualifier winner)."
- },
- {
-  "name": "Azorius Control",
-  "slug": "azorius-control",
-  "archetype": "control",
-  "titles": [
-   "UW Control",
-   "UW Yorion Control",
-   "Esper Yorion Control",
-   "Esper Control"
-  ],
-  "cover": "Elspeth Conquers Death",
-  "keyCards": [
-   "Teferi, Time Raveler",
-   "Shatter the Sky",
-   "Elspeth Conquers Death",
-   "Absorb",
-   "Omen of the Sea"
-  ],
-  "summary": {
-   "fr": "Contrôle blanc-bleu à base de contresorts, Shatter the Sky et Elspeth Conquers Death, qui gagne avec Dream Trawler ou des planeswalkers ; les listes tardives ajoutèrent Yorion.",
-   "en": "White-blue draw-go control with counters, Shatter the Sky and Elspeth Conquers Death, winning with Dream Trawler or planeswalkers; later lists added Yorion."
+  {
+    "name": "Temur Adventure",
+    "slug": "temur-adventure",
+    "archetype": "midrange",
+    "titles": [
+      "Adventure",
+      "Temur Adventure"
+    ],
+    "rep": 390694,
+    "cover": "Lucky Clover",
+    "keyCards": [
+      "Lucky Clover",
+      "Edgewall Innkeeper",
+      "Lovestruck Beast",
+      "Bonecrusher Giant",
+      "Fae of Wishes"
+    ],
+    "summary": {
+      "fr": "Deck de valeur Aventure où Edgewall Innkeeper fait piocher et Lucky Clover copie chaque sort d'aventure.",
+      "en": "Adventure value deck in which Edgewall Innkeeper draws cards and Lucky Clover copies each adventure spell."
+    },
+    "why": {
+      "fr": [
+        "Chaque carte aventure offrait un sort et une créature, le deck manquait rarement de ressources",
+        "Lucky Clover copiait des aventures comme Stomp et Petty Theft",
+        "Escape to the Wilds rechargeait la main dans les parties longues"
+      ],
+      "en": [
+        "Each adventure card offered a spell and a creature, so the deck rarely ran dry",
+        "Lucky Clover copied adventures such as Stomp and Petty Theft",
+        "Escape to the Wilds refilled the hand in long games"
+      ]
+    }
   },
-  "why": {
-   "fr": [
-    "Teferi, Time Raveler empêchait l'adversaire de répondre à vitesse instantanée",
-    "Elspeth Conquers Death retirait une menace et ramenait un planeswalker",
-    "Les Omens et Absorb stabilisaient la pioche et les points de vie"
-   ],
-   "en": [
-    "Teferi, Time Raveler stopped opponents from responding at instant speed",
-    "Elspeth Conquers Death answered a threat and returned a planeswalker",
-    "Omens and Absorb kept card flow and life total stable"
-   ]
+  {
+    "name": "Golgari Adventure",
+    "slug": "golgari-adventure",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari Aggro",
+      "Golgari Adventure",
+      "Golgari Adventures"
+    ],
+    "rep": 363792,
+    "cover": "Murderous Rider",
+    "keyCards": [
+      "Murderous Rider",
+      "Edgewall Innkeeper",
+      "Foulmire Knight",
+      "Lovestruck Beast",
+      "Rankle, Master of Pranks"
+    ],
+    "summary": {
+      "fr": "Midrange Aventure noir-vert qui utilise Edgewall Innkeeper, Foulmire Knight et Murderous Rider pour l'avantage de cartes et les removals.",
+      "en": "Black-green adventure midrange using Edgewall Innkeeper, Foulmire Knight and Murderous Rider for card advantage and removal."
+    },
+    "why": {
+      "fr": [
+        "Murderous Rider et Order of Midnight donnaient un sort et un corps",
+        "Edgewall Innkeeper piochait une carte pour chaque créature aventure",
+        "Rankle mettait la pression sur la main et la table adverses"
+      ],
+      "en": [
+        "Murderous Rider and Order of Midnight gave a spell plus a body",
+        "Edgewall Innkeeper drew a card for each adventure creature",
+        "Rankle pressured both hands and boards"
+      ]
+    },
+    "note": "mtgtop8 'Golgari Aggro'. Rep = Mythic Championship VI top 8."
   },
-  "note": "UW Control + UW/Esper Yorion + Esper Control titles. Rep = World Championship XXVI winner."
- },
- {
-  "name": "Bant Control",
-  "slug": "bant-control",
-  "archetype": "control",
-  "titles": [
-   "Bant Control",
-   "Bant Yorion Control",
-   "BantControl",
-   "Bant Ramp",
-   "4c Yorion"
-  ],
-  "rep": 398136,
-  "cover": "Nissa, Who Shakes the World",
-  "keyCards": [
-   "Uro, Titan of Nature's Wrath",
-   "Nissa, Who Shakes the World",
-   "Teferi, Time Raveler",
-   "Elspeth Conquers Death",
-   "Growth Spiral"
-  ],
-  "summary": {
-   "fr": "Contrôle à base verte avec Growth Spiral et Uro pour le mana, Teferi et Elspeth Conquers Death comme réponses, et Nissa ou Hydroid Krasis pour conclure.",
-   "en": "Green-based control with Growth Spiral and Uro for mana, Teferi and Elspeth Conquers Death as answers, and Nissa or Hydroid Krasis to close."
+  {
+    "name": "Simic Flash",
+    "slug": "simic-flash",
+    "archetype": "tempo",
+    "titles": [
+      "Simic Flash",
+      "Temur Flash",
+      "Simic Flash Aggro",
+      "Bant Flash Control",
+      "Izzet Flash",
+      "SimicFlash Aggro",
+      "Bant Flash",
+      "Bant Flash Aggro"
+    ],
+    "rep": 366780,
+    "cover": "Nightpack Ambusher",
+    "keyCards": [
+      "Nightpack Ambusher",
+      "Frilled Mystic",
+      "Brazen Borrower",
+      "Nissa, Who Shakes the World",
+      "Quench"
+    ],
+    "summary": {
+      "fr": "Deck flash vert-bleu qui passe son tour avec du mana ouvert pour lancer Nightpack Ambusher ou un contresort, Nissa fournissant du mana en plus.",
+      "en": "Green-blue flash deck that passes with mana open, casting Nightpack Ambusher or a counterspell, while Nissa provides extra mana."
+    },
+    "why": {
+      "fr": [
+        "Les menaces à flash punissaient l'adversaire qui jouait autour des contresorts",
+        "Frilled Mystic contrait un sort clé tout en ajoutant un corps",
+        "Nissa fournissait du mana pour les contresorts comme pour les menaces"
+      ],
+      "en": [
+        "Flash threats punished opponents who played around counters",
+        "Frilled Mystic countered a key spell while adding a body",
+        "Nissa gave mana for both counters and threats"
+      ]
+    },
+    "note": "Temur Flash merged. Rep = Mythic Championship VII finalist."
   },
-  "why": {
-   "fr": [
-    "Uro et Growth Spiral accéléraient tout en faisant gagner des points de vie contre l'aggro",
-    "Teferi et Elspeth Conquers Death géraient les menaces principales",
-    "Nissa transformait des terrains en créatures attaquantes"
-   ],
-   "en": [
-    "Uro and Growth Spiral ramped while gaining life against aggro",
-    "Teferi and Elspeth Conquers Death handled the main threats",
-    "Nissa turned lands into attacking creatures"
-   ]
+  {
+    "name": "Winota",
+    "slug": "winota",
+    "archetype": "aggro",
+    "titles": [
+      "Winota",
+      "Winota Fires"
+    ],
+    "rep": 405647,
+    "cover": "Winota, Joiner of Forces",
+    "keyCards": [
+      "Winota, Joiner of Forces",
+      "Raise the Alarm",
+      "Selfless Savior",
+      "Venerated Loxodon",
+      "Lazotep Reaver"
+    ],
+    "summary": {
+      "fr": "Aggro Mardu qui utilise jetons et créatures non-Humaines pour que les attaques déclenchent Winota et mettent des Humains de la bibliothèque en jeu.",
+      "en": "Mardu aggro using tokens and non-Human creatures so that Winota's attack triggers put Humans from the library onto the battlefield."
+    },
+    "why": {
+      "fr": [
+        "Raise the Alarm et Lazotep Reaver donnaient des attaquants non-Humains bon marché",
+        "Winota allait chercher des Humains comme Judith dans la bibliothèque en plein combat",
+        "Selfless Savior protégeait Winota des removals"
+      ],
+      "en": [
+        "Raise the Alarm and Lazotep Reaver gave cheap non-Human attackers",
+        "Winota found Humans such as Judith from the library mid-combat",
+        "Selfless Savior protected Winota from removal"
+      ]
+    },
+    "note": "Rep = Players Tour Finals top 4."
   },
-  "note": "Early (Nov 2019) rows are Bant with Oko; rep = 2020 Uro version."
- },
- {
-  "name": "Jund Sacrifice",
-  "slug": "jund-sacrifice",
-  "archetype": "midrange",
-  "titles": [
-   "Jund Sacrifice",
-   "Jund",
-   "Jund Oven",
-   "Jund Aggro",
-   "4c Control",
-   "Sultai Sacrifice",
-   "Golgari Sacrifice"
-  ],
-  "cover": "Korvold, Fae-Cursed King",
-  "keyCards": [
-   "Korvold, Fae-Cursed King",
-   "Trail of Crumbs",
-   "Witch's Oven",
-   "Cauldron Familiar",
-   "Mayhem Devil"
-  ],
-  "summary": {
-   "fr": "Midrange Food et sacrifice qui combine Gilded Goose, Trail of Crumbs et la boucle de Cauldron Familiar, Korvold grandissant à chaque sacrifice.",
-   "en": "Food and sacrifice midrange combining Gilded Goose, Trail of Crumbs and the Cauldron Familiar loop, with Korvold growing from each sacrifice."
+  {
+    "name": "Boros Cycling",
+    "slug": "boros-cycling",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Cycling Aggro",
+      "Jeskai Aggro Cycling",
+      "Mardu Aggro Cycling"
+    ],
+    "rep": 387698,
+    "cover": "Zenith Flare",
+    "keyCards": [
+      "Zenith Flare",
+      "Flourishing Fox",
+      "Drannith Stinger",
+      "Valiant Rescuer",
+      "Drannith Healer"
+    ],
+    "summary": {
+      "fr": "Aggro Boros construit autour des cartes à recyclage d'Ikoria, avec des créatures récompensées à chaque recyclage et Zenith Flare pour finir.",
+      "en": "Boros aggro built around Ikoria cycling cards, with creatures rewarding each cycle and Zenith Flare as reach."
+    },
+    "why": {
+      "fr": [
+        "Le recyclage fluidifiait la pioche tout en déclenchant Valiant Rescuer et Flourishing Fox",
+        "Drannith Stinger infligeait des blessures à chaque carte recyclée",
+        "Zenith Flare grandissait avec chaque carte à recyclage au cimetière"
+      ],
+      "en": [
+        "Cycling smoothed draws while triggering Valiant Rescuer and Flourishing Fox",
+        "Drannith Stinger dealt damage each time a card was cycled",
+        "Zenith Flare scaled with every cycling card in the graveyard"
+      ]
+    }
   },
-  "why": {
-   "fr": [
-    "Trail of Crumbs creusait la bibliothèque à chaque Food sacrifiée",
-    "Korvold piochait et grandissait à chaque sacrifice",
-    "La boucle de Cauldron Familiar faisait gagner des points de vie et bloquait l'aggro"
-   ],
-   "en": [
-    "Trail of Crumbs dug for cards each time a Food was sacrificed",
-    "Korvold drew cards and grew with every sacrifice",
-    "The Cauldron Familiar loop gained life and blocked aggro decks"
-   ]
+  {
+    "name": "Mono-Green Aggro",
+    "slug": "mono-green-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Green Aggro"
+    ],
+    "rep": 412062,
+    "cover": "Questing Beast",
+    "keyCards": [
+      "Questing Beast",
+      "Pelt Collector",
+      "Stonecoil Serpent",
+      "Lovestruck Beast",
+      "Primal Might"
+    ],
+    "summary": {
+      "fr": "Stompy mono-vert avec des créatures efficaces comme Pelt Collector, Questing Beast et Lovestruck Beast, et Primal Might comme removal.",
+      "en": "Mono-green stompy with efficient creatures like Pelt Collector, Questing Beast and Lovestruck Beast, using Primal Might as removal."
+    },
+    "why": {
+      "fr": [
+        "Questing Beast attaquait les planeswalkers et ignorait les petits bloqueurs",
+        "Primal Might éliminait un bloqueur et renforçait un attaquant",
+        "Stonecoil Serpent s'adaptait au mana disponible"
+      ],
+      "en": [
+        "Questing Beast pressured planeswalkers and ignored small blockers",
+        "Primal Might removed a blocker and pumped an attacker",
+        "Stonecoil Serpent scaled with the mana available"
+      ]
+    }
   },
-  "note": "Includes Sultai Sacrifice (Oko + Cat-Oven, GP Richmond) and Jund/Jund Oven titles. Rep = Mythic Championship VII winner."
- },
- {
-  "name": "Mono-Red Aggro",
-  "slug": "mono-red-aggro",
-  "archetype": "aggro",
-  "titles": [
-   "Red Deck Wins",
-   "RDW"
-  ],
-  "rep": 374197,
-  "cover": "Embercleave",
-  "keyCards": [
-   "Embercleave",
-   "Torbran, Thane of Red Fell",
-   "Anax, Hardened in the Forge",
-   "Fervent Champion",
-   "Bonecrusher Giant"
-  ],
-  "summary": {
-   "fr": "Aggro mono-rouge avec des créatures à célérité bon marché, Torbran pour amplifier les dégâts et Embercleave pour conclure.",
-   "en": "Mono-red aggro with cheap haste creatures, Torbran to amplify damage and Embercleave as a finisher."
+  {
+    "name": "All That Glitters",
+    "slug": "all-that-glitters",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya All That Glitters",
+      "WW All That Glitters",
+      "Bant All That Glitters"
+    ],
+    "rep": 392111,
+    "cover": "All That Glitters",
+    "keyCards": [
+      "All That Glitters",
+      "Sentinel's Eyes",
+      "Alseid of Life's Bounty",
+      "Glaring Aegis",
+      "Gingerbrute"
+    ],
+    "summary": {
+      "fr": "Deck d'auras Selesnya qui empile des enchantements bon marché sur des créatures évasives, All That Glitters grandissant avec chaque artefact et enchantement.",
+      "en": "Selesnya aura deck that stacks cheap enchantments on evasive creatures, with All That Glitters growing for each artifact and enchantment."
+    },
+    "why": {
+      "fr": [
+        "Des auras bon marché comme Sentinel's Eyes faisaient vite grandir All That Glitters",
+        "Gingerbrute et Alseid étaient difficiles à bloquer ou à tuer",
+        "Gods Willing et Alseid protégeaient la créature enchantée"
+      ],
+      "en": [
+        "Cheap auras such as Sentinel's Eyes made All That Glitters large quickly",
+        "Gingerbrute and Alseid were hard to block or kill",
+        "Gods Willing and Alseid protected the enchanted creature"
+      ]
+    },
+    "note": "Most results come from The Arena Open (7-win lists)."
   },
-  "why": {
-   "fr": [
-    "Embercleave coûtait moins cher avec plusieurs attaquants et concluait souvent la partie",
-    "Torbran ajoutait des dégâts à chaque source rouge",
-    "Bonecrusher Giant offrait un removal et une créature en une seule carte"
-   ],
-   "en": [
-    "Embercleave got cheaper with several attackers and often ended the game",
-    "Torbran added damage to every red source",
-    "Bonecrusher Giant was removal and a creature in one card"
-   ]
+  {
+    "name": "Umori Mutate",
+    "slug": "umori-mutate",
+    "archetype": "aggro",
+    "titles": [
+      "Simic Umori Aggro",
+      "Gruul Umori Aggro"
+    ],
+    "rep": 395566,
+    "cover": "Gemrazer",
+    "keyCards": [
+      "Gemrazer",
+      "Pollywog Symbiote",
+      "Migratory Greathorn",
+      "Auspicious Starrix",
+      "Umori, the Collector"
+    ],
+    "summary": {
+      "fr": "Deck mutation composé uniquement de créatures, avec Umori en compagnon, qui empile les mutations pour l'avantage de cartes et de grosses attaques.",
+      "en": "Creature-only mutate deck with Umori as companion, stacking mutate creatures for card advantage and big attacks."
+    },
+    "why": {
+      "fr": [
+        "Une liste composée uniquement de créatures remplissait sans coût la condition de compagnon d'Umori",
+        "Pollywog Symbiote réduisait le coût de mutation et filtrait la pioche",
+        "Auspicious Starrix et Migratory Greathorn ajoutaient des permanents en mutant"
+      ],
+      "en": [
+        "A creature-only list met Umori's companion condition for free",
+        "Pollywog Symbiote made mutate cheaper and looted",
+        "Auspicious Starrix and Migratory Greathorn added permanents when mutating"
+      ]
+    },
+    "note": "Simic and Gruul Umori merged; almost all results from The Arena Open (7-win lists)."
   },
-  "note": "Rep = GP Lyon winner."
- },
- {
-  "name": "Temur Adventure",
-  "slug": "temur-adventure",
-  "archetype": "midrange",
-  "titles": [
-   "Adventure",
-   "Temur Adventure"
-  ],
-  "rep": 390694,
-  "cover": "Lucky Clover",
-  "keyCards": [
-   "Lucky Clover",
-   "Edgewall Innkeeper",
-   "Lovestruck Beast",
-   "Bonecrusher Giant",
-   "Fae of Wishes"
-  ],
-  "summary": {
-   "fr": "Deck de valeur Aventure où Edgewall Innkeeper fait piocher et Lucky Clover copie chaque sort d'aventure.",
-   "en": "Adventure value deck in which Edgewall Innkeeper draws cards and Lucky Clover copies each adventure spell."
+  {
+    "name": "Bant Golos",
+    "slug": "bant-golos",
+    "archetype": "ramp",
+    "titles": [
+      "Bant Golos",
+      "Golos",
+      "Yarok Golos"
+    ],
+    "rep": 361234,
+    "cover": "Golos, Tireless Pilgrim",
+    "keyCards": [
+      "Golos, Tireless Pilgrim",
+      "Field of the Dead",
+      "Circuitous Route",
+      "Once Upon a Time",
+      "Time Wipe"
+    ],
+    "summary": {
+      "fr": "Rampe Field of the Dead des premières semaines d'Eldraine, qui utilise Golos, Circuitous Route et de nombreux terrains uniques pour créer des Zombies à chaque tour.",
+      "en": "Field of the Dead ramp from the first Eldraine weeks, using Golos, Circuitous Route and many singleton lands to create Zombies every turn."
+    },
+    "why": {
+      "fr": [
+        "Field of the Dead créait un Zombie par terrain posé avec assez de terrains différents",
+        "Once Upon a Time trouvait tôt Golos ou les sorts de rampe",
+        "Time Wipe et Teferi faisaient gagner du temps contre l'aggro"
+      ],
+      "en": [
+        "Field of the Dead made a Zombie per land drop once enough different lands were out",
+        "Once Upon a Time found Golos or ramp spells early",
+        "Time Wipe and Teferi bought time against aggro"
+      ]
+    },
+    "note": "Oct 2019 only. Rep = Mythic Championship V finalist."
   },
-  "why": {
-   "fr": [
-    "Chaque carte aventure offrait un sort et une créature, le deck manquait rarement de ressources",
-    "Lucky Clover copiait des aventures comme Stomp et Petty Theft",
-    "Escape to the Wilds rechargeait la main dans les parties longues"
-   ],
-   "en": [
-    "Each adventure card offered a spell and a creature, so the deck rarely ran dry",
-    "Lucky Clover copied adventures such as Stomp and Petty Theft",
-    "Escape to the Wilds refilled the hand in long games"
-   ]
+  {
+    "name": "Simic Food",
+    "slug": "simic-food",
+    "archetype": "ramp",
+    "titles": [
+      "Simic Food",
+      "Simic Aggro",
+      "Simic Control",
+      "Bant PW",
+      "Bant Aggro",
+      "Simic Aggro PW",
+      "Bant Aggro PW",
+      "Temur Aggro PW"
+    ],
+    "cover": "Oko, Thief of Crowns",
+    "keyCards": [
+      "Oko, Thief of Crowns",
+      "Gilded Goose",
+      "Wicked Wolf",
+      "Nissa, Who Shakes the World",
+      "Hydroid Krasis"
+    ],
+    "summary": {
+      "fr": "Rampe vert-bleu construite sur Oko, Thief of Crowns et Gilded Goose, qui transforme les menaces adverses en Élans et conclut avec Nissa ou Hydroid Krasis.",
+      "en": "Green-blue ramp built on Oko, Thief of Crowns and Gilded Goose, turning opposing threats into Elks and closing with Nissa or Hydroid Krasis."
+    },
+    "why": {
+      "fr": [
+        "Oko créait de la Food ou neutralisait chaque tour le meilleur permanent adverse",
+        "Gilded Goose permettait de lancer Oko tôt",
+        "Once Upon a Time et Paradise Druid rendaient les mains régulières"
+      ],
+      "en": [
+        "Oko created Food or neutralised the opponent's best permanent each turn",
+        "Gilded Goose let Oko arrive early",
+        "Once Upon a Time and Paradise Druid made draws consistent"
+      ]
+    },
+    "note": "Simic/Bant Oko titles merged (Simic Control = MC VI winner, default rep). Jan-2020 'Bant Aggro' rows are post-Oko Bant lists.",
+    "rep": 363797
+  },
+  {
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Aggro"
+    ],
+    "cover": "Gruul Spellbreaker",
+    "keyCards": [
+      "Gruul Spellbreaker",
+      "Questing Beast",
+      "Embercleave",
+      "Pelt Collector",
+      "Bonecrusher Giant"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert avec Pelt Collector, des créatures à émeute et Questing Beast, qui conclut avec Embercleave.",
+      "en": "Red-green aggro with Pelt Collector, riot creatures and Questing Beast, using Embercleave to finish."
+    },
+    "why": {
+      "fr": [
+        "Questing Beast et Gruul Spellbreaker étaient efficaces pour leur coût",
+        "Embercleave transformait une seule attaque en dégâts létaux",
+        "Once Upon a Time trouvait des menaces précoces"
+      ],
+      "en": [
+        "Questing Beast and Gruul Spellbreaker were efficient for their cost",
+        "Embercleave turned a single attack into lethal damage",
+        "Once Upon a Time found early threats"
+      ]
+    },
+    "note": "Rep = Mythic Championship V winner (per mtgtop8).",
+    "rep": 361236
+  },
+  {
+    "name": "Mono-Black Aggro",
+    "slug": "mono-black-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Black Aggro"
+    ],
+    "rep": 405545,
+    "cover": "Rankle, Master of Pranks",
+    "keyCards": [
+      "Rankle, Master of Pranks",
+      "Knight of the Ebon Legion",
+      "Gutterbones",
+      "Spawn of Mayhem",
+      "Kitesail Freebooter"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir avec des créatures résistantes comme Gutterbones et Knight of the Ebon Legion, soutenues par Rankle et la défausse.",
+      "en": "Mono-black aggro with resilient creatures like Gutterbones and Knight of the Ebon Legion, backed by Rankle and discard."
+    },
+    "why": {
+      "fr": [
+        "Castle Locthwain piochait sans occuper de place de sort",
+        "Kitesail Freebooter et Duress retiraient les réponses clés",
+        "Rankle mettait la pression sur la main et la table adverses"
+      ],
+      "en": [
+        "Castle Locthwain drew cards without taking a spell slot",
+        "Kitesail Freebooter and Duress took key answers",
+        "Rankle pressured both hands and boards"
+      ]
+    },
+    "note": "Rep = Players Tour Finals finalist."
+  },
+  {
+    "name": "Mardu Knights",
+    "slug": "mardu-knights",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Knight",
+      "Mardu Knights",
+      "Mardu Knights Aggro",
+      "Mardu Knight Aggro",
+      "Rakdos Knights"
+    ],
+    "rep": 361200,
+    "cover": "Blacklance Paragon",
+    "keyCards": [
+      "Embercleave",
+      "Steelclaw Lance",
+      "Inspiring Veteran",
+      "Acclaimed Contender",
+      "Fervent Champion"
+    ],
+    "summary": {
+      "fr": "Aggro tribal Chevaliers en rouge, blanc et noir, qui utilise Inspiring Veteran, Steelclaw Lance et Embercleave pour pousser les dégâts.",
+      "en": "Knight tribal aggro across red, white and black, using Inspiring Veteran, Steelclaw Lance and Embercleave to push damage."
+    },
+    "why": {
+      "fr": [
+        "Inspiring Veteran et Steelclaw Lance renforçaient les Chevaliers",
+        "Acclaimed Contender trouvait Embercleave ou un autre Chevalier",
+        "Tournament Grounds soutenait une base tricolore de Chevaliers"
+      ],
+      "en": [
+        "Inspiring Veteran and Steelclaw Lance pumped the Knights",
+        "Acclaimed Contender found Embercleave or another Knight",
+        "Tournament Grounds supported a three-colour Knight base"
+      ]
+    },
+    "note": "Mardu/Rakdos Knights titles. Rep = Mythic Championship V top 8."
+  },
+  {
+    "name": "Orzhov Doom",
+    "slug": "orzhov-doom",
+    "archetype": "control",
+    "titles": [
+      "Orzhov DOOM",
+      "Esper DOOM",
+      "Esper DOOM Yorion",
+      "Esper Yorion DOOM"
+    ],
+    "rep": 398457,
+    "cover": "Doom Foretold",
+    "keyCards": [
+      "Doom Foretold",
+      "Yorion, Sky Nomad",
+      "Charming Prince",
+      "Treacherous Blessing",
+      "Kaya, Orzhov Usurper"
+    ],
+    "summary": {
+      "fr": "Contrôle-prison blanc-noir avec Yorion en compagnon, qui sacrifie des permanents bon marché à Doom Foretold et les réutilise par des effets de clignotement.",
+      "en": "White-black prison-control with Yorion as companion, feeding cheap permanents to Doom Foretold and reusing them with blink effects."
+    },
+    "why": {
+      "fr": [
+        "Treacherous Blessing piochait puis était sacrifié à Doom Foretold",
+        "Yorion et Charming Prince réutilisaient les effets d'arrivée en jeu",
+        "Burglar Rat et Agonizing Remorse attaquaient la main adverse"
+      ],
+      "en": [
+        "Treacherous Blessing drew cards and was then sacrificed to Doom Foretold",
+        "Yorion and Charming Prince reused enter-the-battlefield effects",
+        "Burglar Rat and Agonizing Remorse attacked the opponent's hand"
+      ]
+    },
+    "note": "Includes late-2019 Esper Doom (Golden Egg) lists. Rep = Players Tour Online 3 top 8 (80-card Yorion list)."
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White",
+      "WW"
+    ],
+    "rep": 404463,
+    "cover": "Venerated Loxodon",
+    "keyCards": [
+      "Venerated Loxodon",
+      "Glorious Anthem",
+      "Raise the Alarm",
+      "Seasoned Hallowblade",
+      "Basri's Solidarity"
+    ],
+    "summary": {
+      "fr": "Aggro mono-blanc à jetons avec des bonus comme Glorious Anthem et des menaces à convocation comme Venerated Loxodon.",
+      "en": "Mono-white token aggro with anthems such as Glorious Anthem and convoke threats like Venerated Loxodon."
+    },
+    "why": {
+      "fr": [
+        "Raise the Alarm et Hunted Witness alimentaient la convocation",
+        "Les bonus faisaient de chaque jeton un véritable attaquant",
+        "Castle Ardenvale créait d'autres jetons dans les parties longues"
+      ],
+      "en": [
+        "Raise the Alarm and Hunted Witness fed convoke",
+        "Anthems made every token a real attacker",
+        "Castle Ardenvale created more tokens in long games"
+      ]
+    },
+    "note": "Rep = Core Set 2021-era list (Red Bull Untapped qualifier winner)."
+  },
+  {
+    "name": "Azorius Blink",
+    "slug": "azorius-blink",
+    "archetype": "midrange",
+    "titles": [
+      "Azorius Aggro",
+      "UW Midrange"
+    ],
+    "rep": 376065,
+    "cover": "Thassa, Deep-Dwelling",
+    "keyCards": [
+      "Thassa, Deep-Dwelling",
+      "Agent of Treachery",
+      "Charming Prince",
+      "Elite Guardmage",
+      "Teferi, Time Raveler"
+    ],
+    "summary": {
+      "fr": "Deck de valeur blanc-bleu qui fait clignoter ses créatures avec Thassa, Deep-Dwelling pour réutiliser Charming Prince et Agent of Treachery.",
+      "en": "White-blue value deck that blinks creatures with Thassa, Deep-Dwelling, reusing Charming Prince and Agent of Treachery triggers."
+    },
+    "why": {
+      "fr": [
+        "Thassa faisait clignoter une créature à chaque fin de tour",
+        "Agent of Treachery volait un permanent à chaque nouvelle arrivée",
+        "Elite Guardmage et Charming Prince rapportaient points de vie et cartes"
+      ],
+      "en": [
+        "Thassa flickered a creature at each end step",
+        "Agent of Treachery stole a permanent each time it re-entered",
+        "Elite Guardmage and Charming Prince gave life and cards"
+      ]
+    },
+    "note": "Qualifies via top8 count only; results are Arena daily/7-win style events. Weak evidence."
+  },
+  {
+    "name": "Simic Ramp",
+    "slug": "simic-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Simic Ramp Elemental",
+      "Simic Ramp"
+    ],
+    "rep": 366773,
+    "cover": "Risen Reef",
+    "keyCards": [
+      "Risen Reef",
+      "Leafkin Druid",
+      "Cavalier of Thorns",
+      "Quasiduplicate",
+      "Agent of Treachery"
+    ],
+    "summary": {
+      "fr": "Rampe Élémentaux Simic qui utilise Risen Reef et Leafkin Druid pour atteindre Nissa, Hydroid Krasis et des menaces copiées par Quasiduplicate.",
+      "en": "Simic Elemental ramp using Risen Reef and Leafkin Druid to reach Nissa, Hydroid Krasis and threats copied with Quasiduplicate."
+    },
+    "why": {
+      "fr": [
+        "Risen Reef piochait ou accélérait à chaque Élémental",
+        "Finale of Devastation allait chercher la créature adaptée",
+        "Quasiduplicate copiait Agent of Treachery ou Cavalier of Thorns"
+      ],
+      "en": [
+        "Risen Reef drew or ramped with each Elemental",
+        "Finale of Devastation fetched the right creature",
+        "Quasiduplicate copied Agent of Treachery or Cavalier of Thorns"
+      ]
+    },
+    "note": "Rep = Mythic Championship VII top 4."
+  },
+  {
+    "name": "Temur Elementals",
+    "slug": "temur-elementals",
+    "archetype": "ramp",
+    "titles": [
+      "Temur Yorion Elementals",
+      "Temur Elemental"
+    ],
+    "rep": 412548,
+    "cover": "Genesis Ultimatum",
+    "keyCards": [
+      "Genesis Ultimatum",
+      "Omnath, Locus of the Roil",
+      "Risen Reef",
+      "Uro, Titan of Nature's Wrath",
+      "Ugin, the Spirit Dragon"
+    ],
+    "summary": {
+      "fr": "Rampe Élémentaux avec Yorion en compagnon, qui utilise Risen Reef et Uro pour atteindre Genesis Ultimatum et Ugin, the Spirit Dragon.",
+      "en": "Elemental ramp with Yorion as companion, using Risen Reef and Uro to reach Genesis Ultimatum and Ugin, the Spirit Dragon."
+    },
+    "why": {
+      "fr": [
+        "Genesis Ultimatum mettait plusieurs permanents en jeu d'un coup",
+        "Cultivate et Uro accéléraient vers les sorts coûteux",
+        "Omnath transformait chaque Élémental en dégâts directs"
+      ],
+      "en": [
+        "Genesis Ultimatum put several permanents onto the battlefield at once",
+        "Cultivate and Uro accelerated toward expensive spells",
+        "Omnath turned each Elemental into direct damage"
+      ]
+    },
+    "note": "Small sample (two top 8s, one qualifier win)."
+  },
+  {
+    "name": "Izzet Tempo",
+    "slug": "izzet-tempo",
+    "archetype": "tempo",
+    "titles": [
+      "UR Aggro"
+    ],
+    "rep": 410178,
+    "cover": "Sprite Dragon",
+    "keyCards": [
+      "Sprite Dragon",
+      "Stormwing Entity",
+      "Dreadhorde Arcanist",
+      "Crash Through",
+      "Riddleform"
+    ],
+    "summary": {
+      "fr": "Tempo de sorts bleu-rouge avec Sprite Dragon et Stormwing Entity, qui enchaîne des sorts de pioche bon marché pour faire grandir ses menaces.",
+      "en": "Blue-red spells tempo with Sprite Dragon and Stormwing Entity, chaining cheap cantrips to grow its threats."
+    },
+    "why": {
+      "fr": [
+        "Sprite Dragon gagnait un marqueur durable à chaque sort non-créature",
+        "Stormwing Entity coûtait peu après un éphémère ou un rituel",
+        "Dreadhorde Arcanist relançait les sorts de pioche depuis le cimetière"
+      ],
+      "en": [
+        "Sprite Dragon gained a lasting counter from each noncreature spell",
+        "Stormwing Entity was cheap once an instant or sorcery had been cast",
+        "Dreadhorde Arcanist recast cantrips from the graveyard"
+      ]
+    },
+    "note": "Core Set 2021-era deck, August 2020 only."
   }
- },
- {
-  "name": "Golgari Adventure",
-  "slug": "golgari-adventure",
-  "archetype": "midrange",
-  "titles": [
-   "Golgari Aggro",
-   "Golgari Adventure",
-   "Golgari Adventures"
-  ],
-  "rep": 363792,
-  "cover": "Murderous Rider",
-  "keyCards": [
-   "Murderous Rider",
-   "Edgewall Innkeeper",
-   "Foulmire Knight",
-   "Lovestruck Beast",
-   "Rankle, Master of Pranks"
-  ],
-  "summary": {
-   "fr": "Midrange Aventure noir-vert qui utilise Edgewall Innkeeper, Foulmire Knight et Murderous Rider pour l'avantage de cartes et les removals.",
-   "en": "Black-green adventure midrange using Edgewall Innkeeper, Foulmire Knight and Murderous Rider for card advantage and removal."
-  },
-  "why": {
-   "fr": [
-    "Murderous Rider et Order of Midnight donnaient un sort et un corps",
-    "Edgewall Innkeeper piochait une carte pour chaque créature aventure",
-    "Rankle mettait la pression sur la main et la table adverses"
-   ],
-   "en": [
-    "Murderous Rider and Order of Midnight gave a spell plus a body",
-    "Edgewall Innkeeper drew a card for each adventure creature",
-    "Rankle pressured both hands and boards"
-   ]
-  },
-  "note": "mtgtop8 'Golgari Aggro'. Rep = Mythic Championship VI top 8."
- },
- {
-  "name": "Simic Flash",
-  "slug": "simic-flash",
-  "archetype": "tempo",
-  "titles": [
-   "Simic Flash",
-   "Temur Flash",
-   "Simic Flash Aggro",
-   "Bant Flash Control",
-   "Izzet Flash",
-   "SimicFlash Aggro",
-   "Bant Flash",
-   "Bant Flash Aggro"
-  ],
-  "rep": 366780,
-  "cover": "Nightpack Ambusher",
-  "keyCards": [
-   "Nightpack Ambusher",
-   "Frilled Mystic",
-   "Brazen Borrower",
-   "Nissa, Who Shakes the World",
-   "Quench"
-  ],
-  "summary": {
-   "fr": "Deck flash vert-bleu qui passe son tour avec du mana ouvert pour lancer Nightpack Ambusher ou un contresort, Nissa fournissant du mana en plus.",
-   "en": "Green-blue flash deck that passes with mana open, casting Nightpack Ambusher or a counterspell, while Nissa provides extra mana."
-  },
-  "why": {
-   "fr": [
-    "Les menaces à flash punissaient l'adversaire qui jouait autour des contresorts",
-    "Frilled Mystic contrait un sort clé tout en ajoutant un corps",
-    "Nissa fournissait du mana pour les contresorts comme pour les menaces"
-   ],
-   "en": [
-    "Flash threats punished opponents who played around counters",
-    "Frilled Mystic countered a key spell while adding a body",
-    "Nissa gave mana for both counters and threats"
-   ]
-  },
-  "note": "Temur Flash merged. Rep = Mythic Championship VII finalist."
- },
- {
-  "name": "Winota",
-  "slug": "winota",
-  "archetype": "aggro",
-  "titles": [
-   "Winota",
-   "Winota Fires"
-  ],
-  "rep": 405647,
-  "cover": "Winota, Joiner of Forces",
-  "keyCards": [
-   "Winota, Joiner of Forces",
-   "Raise the Alarm",
-   "Selfless Savior",
-   "Venerated Loxodon",
-   "Lazotep Reaver"
-  ],
-  "summary": {
-   "fr": "Aggro Mardu qui utilise jetons et créatures non-Humaines pour que les attaques déclenchent Winota et mettent des Humains de la bibliothèque en jeu.",
-   "en": "Mardu aggro using tokens and non-Human creatures so that Winota's attack triggers put Humans from the library onto the battlefield."
-  },
-  "why": {
-   "fr": [
-    "Raise the Alarm et Lazotep Reaver donnaient des attaquants non-Humains bon marché",
-    "Winota allait chercher des Humains comme Judith dans la bibliothèque en plein combat",
-    "Selfless Savior protégeait Winota des removals"
-   ],
-   "en": [
-    "Raise the Alarm and Lazotep Reaver gave cheap non-Human attackers",
-    "Winota found Humans such as Judith from the library mid-combat",
-    "Selfless Savior protected Winota from removal"
-   ]
-  },
-  "note": "Rep = Players Tour Finals top 4."
- },
- {
-  "name": "Boros Cycling",
-  "slug": "boros-cycling",
-  "archetype": "aggro",
-  "titles": [
-   "Boros Cycling Aggro",
-   "Jeskai Aggro Cycling",
-   "Mardu Aggro Cycling"
-  ],
-  "rep": 387698,
-  "cover": "Zenith Flare",
-  "keyCards": [
-   "Zenith Flare",
-   "Flourishing Fox",
-   "Drannith Stinger",
-   "Valiant Rescuer",
-   "Drannith Healer"
-  ],
-  "summary": {
-   "fr": "Aggro Boros construit autour des cartes à recyclage d'Ikoria, avec des créatures récompensées à chaque recyclage et Zenith Flare pour finir.",
-   "en": "Boros aggro built around Ikoria cycling cards, with creatures rewarding each cycle and Zenith Flare as reach."
-  },
-  "why": {
-   "fr": [
-    "Le recyclage fluidifiait la pioche tout en déclenchant Valiant Rescuer et Flourishing Fox",
-    "Drannith Stinger infligeait des blessures à chaque carte recyclée",
-    "Zenith Flare grandissait avec chaque carte à recyclage au cimetière"
-   ],
-   "en": [
-    "Cycling smoothed draws while triggering Valiant Rescuer and Flourishing Fox",
-    "Drannith Stinger dealt damage each time a card was cycled",
-    "Zenith Flare scaled with every cycling card in the graveyard"
-   ]
-  }
- },
- {
-  "name": "Mono-Green Aggro",
-  "slug": "mono-green-aggro",
-  "archetype": "aggro",
-  "titles": [
-   "Mono Green Aggro"
-  ],
-  "rep": 412062,
-  "cover": "Questing Beast",
-  "keyCards": [
-   "Questing Beast",
-   "Pelt Collector",
-   "Stonecoil Serpent",
-   "Lovestruck Beast",
-   "Primal Might"
-  ],
-  "summary": {
-   "fr": "Stompy mono-vert avec des créatures efficaces comme Pelt Collector, Questing Beast et Lovestruck Beast, et Primal Might comme removal.",
-   "en": "Mono-green stompy with efficient creatures like Pelt Collector, Questing Beast and Lovestruck Beast, using Primal Might as removal."
-  },
-  "why": {
-   "fr": [
-    "Questing Beast attaquait les planeswalkers et ignorait les petits bloqueurs",
-    "Primal Might éliminait un bloqueur et renforçait un attaquant",
-    "Stonecoil Serpent s'adaptait au mana disponible"
-   ],
-   "en": [
-    "Questing Beast pressured planeswalkers and ignored small blockers",
-    "Primal Might removed a blocker and pumped an attacker",
-    "Stonecoil Serpent scaled with the mana available"
-   ]
-  }
- },
- {
-  "name": "All That Glitters",
-  "slug": "all-that-glitters",
-  "archetype": "aggro",
-  "titles": [
-   "Selesnya All That Glitters",
-   "WW All That Glitters",
-   "Bant All That Glitters"
-  ],
-  "rep": 392111,
-  "cover": "All That Glitters",
-  "keyCards": [
-   "All That Glitters",
-   "Sentinel's Eyes",
-   "Alseid of Life's Bounty",
-   "Glaring Aegis",
-   "Gingerbrute"
-  ],
-  "summary": {
-   "fr": "Deck d'auras Selesnya qui empile des enchantements bon marché sur des créatures évasives, All That Glitters grandissant avec chaque artefact et enchantement.",
-   "en": "Selesnya aura deck that stacks cheap enchantments on evasive creatures, with All That Glitters growing for each artifact and enchantment."
-  },
-  "why": {
-   "fr": [
-    "Des auras bon marché comme Sentinel's Eyes faisaient vite grandir All That Glitters",
-    "Gingerbrute et Alseid étaient difficiles à bloquer ou à tuer",
-    "Gods Willing et Alseid protégeaient la créature enchantée"
-   ],
-   "en": [
-    "Cheap auras such as Sentinel's Eyes made All That Glitters large quickly",
-    "Gingerbrute and Alseid were hard to block or kill",
-    "Gods Willing and Alseid protected the enchanted creature"
-   ]
-  },
-  "note": "Most results come from The Arena Open (7-win lists)."
- },
- {
-  "name": "Umori Mutate",
-  "slug": "umori-mutate",
-  "archetype": "aggro",
-  "titles": [
-   "Simic Umori Aggro",
-   "Gruul Umori Aggro"
-  ],
-  "rep": 395566,
-  "cover": "Gemrazer",
-  "keyCards": [
-   "Gemrazer",
-   "Pollywog Symbiote",
-   "Migratory Greathorn",
-   "Auspicious Starrix",
-   "Umori, the Collector"
-  ],
-  "summary": {
-   "fr": "Deck mutation composé uniquement de créatures, avec Umori en compagnon, qui empile les mutations pour l'avantage de cartes et de grosses attaques.",
-   "en": "Creature-only mutate deck with Umori as companion, stacking mutate creatures for card advantage and big attacks."
-  },
-  "why": {
-   "fr": [
-    "Une liste composée uniquement de créatures remplissait sans coût la condition de compagnon d'Umori",
-    "Pollywog Symbiote réduisait le coût de mutation et filtrait la pioche",
-    "Auspicious Starrix et Migratory Greathorn ajoutaient des permanents en mutant"
-   ],
-   "en": [
-    "A creature-only list met Umori's companion condition for free",
-    "Pollywog Symbiote made mutate cheaper and looted",
-    "Auspicious Starrix and Migratory Greathorn added permanents when mutating"
-   ]
-  },
-  "note": "Simic and Gruul Umori merged; almost all results from The Arena Open (7-win lists)."
- },
- {
-  "name": "Bant Golos",
-  "slug": "bant-golos",
-  "archetype": "ramp",
-  "titles": [
-   "Bant Golos",
-   "Golos",
-   "Yarok Golos"
-  ],
-  "rep": 361234,
-  "cover": "Golos, Tireless Pilgrim",
-  "keyCards": [
-   "Golos, Tireless Pilgrim",
-   "Field of the Dead",
-   "Circuitous Route",
-   "Once Upon a Time",
-   "Time Wipe"
-  ],
-  "summary": {
-   "fr": "Rampe Field of the Dead des premières semaines d'Eldraine, qui utilise Golos, Circuitous Route et de nombreux terrains uniques pour créer des Zombies à chaque tour.",
-   "en": "Field of the Dead ramp from the first Eldraine weeks, using Golos, Circuitous Route and many singleton lands to create Zombies every turn."
-  },
-  "why": {
-   "fr": [
-    "Field of the Dead créait un Zombie par terrain posé avec assez de terrains différents",
-    "Once Upon a Time trouvait tôt Golos ou les sorts de rampe",
-    "Time Wipe et Teferi faisaient gagner du temps contre l'aggro"
-   ],
-   "en": [
-    "Field of the Dead made a Zombie per land drop once enough different lands were out",
-    "Once Upon a Time found Golos or ramp spells early",
-    "Time Wipe and Teferi bought time against aggro"
-   ]
-  },
-  "note": "Oct 2019 only. Rep = Mythic Championship V finalist."
- },
- {
-  "name": "Simic Food",
-  "slug": "simic-food",
-  "archetype": "ramp",
-  "titles": [
-   "Simic Food",
-   "Simic Aggro",
-   "Simic Control",
-   "Bant PW",
-   "Bant Aggro",
-   "Simic Aggro PW",
-   "Bant Aggro PW",
-   "Temur Aggro PW"
-  ],
-  "cover": "Oko, Thief of Crowns",
-  "keyCards": [
-   "Oko, Thief of Crowns",
-   "Gilded Goose",
-   "Wicked Wolf",
-   "Nissa, Who Shakes the World",
-   "Hydroid Krasis"
-  ],
-  "summary": {
-   "fr": "Rampe vert-bleu construite sur Oko, Thief of Crowns et Gilded Goose, qui transforme les menaces adverses en Élans et conclut avec Nissa ou Hydroid Krasis.",
-   "en": "Green-blue ramp built on Oko, Thief of Crowns and Gilded Goose, turning opposing threats into Elks and closing with Nissa or Hydroid Krasis."
-  },
-  "why": {
-   "fr": [
-    "Oko créait de la Food ou neutralisait chaque tour le meilleur permanent adverse",
-    "Gilded Goose permettait de lancer Oko tôt",
-    "Once Upon a Time et Paradise Druid rendaient les mains régulières"
-   ],
-   "en": [
-    "Oko created Food or neutralised the opponent's best permanent each turn",
-    "Gilded Goose let Oko arrive early",
-    "Once Upon a Time and Paradise Druid made draws consistent"
-   ]
-  },
-  "note": "Simic/Bant Oko titles merged (Simic Control = MC VI winner, default rep). Jan-2020 'Bant Aggro' rows are post-Oko Bant lists."
- },
- {
-  "name": "Gruul Aggro",
-  "slug": "gruul-aggro",
-  "archetype": "aggro",
-  "titles": [
-   "Gruul Aggro"
-  ],
-  "cover": "Gruul Spellbreaker",
-  "keyCards": [
-   "Gruul Spellbreaker",
-   "Questing Beast",
-   "Embercleave",
-   "Pelt Collector",
-   "Bonecrusher Giant"
-  ],
-  "summary": {
-   "fr": "Aggro rouge-vert avec Pelt Collector, des créatures à émeute et Questing Beast, qui conclut avec Embercleave.",
-   "en": "Red-green aggro with Pelt Collector, riot creatures and Questing Beast, using Embercleave to finish."
-  },
-  "why": {
-   "fr": [
-    "Questing Beast et Gruul Spellbreaker étaient efficaces pour leur coût",
-    "Embercleave transformait une seule attaque en dégâts létaux",
-    "Once Upon a Time trouvait des menaces précoces"
-   ],
-   "en": [
-    "Questing Beast and Gruul Spellbreaker were efficient for their cost",
-    "Embercleave turned a single attack into lethal damage",
-    "Once Upon a Time found early threats"
-   ]
-  },
-  "note": "Rep = Mythic Championship V winner (per mtgtop8)."
- },
- {
-  "name": "Mono-Black Aggro",
-  "slug": "mono-black-aggro",
-  "archetype": "aggro",
-  "titles": [
-   "Mono Black Aggro"
-  ],
-  "rep": 405545,
-  "cover": "Rankle, Master of Pranks",
-  "keyCards": [
-   "Rankle, Master of Pranks",
-   "Knight of the Ebon Legion",
-   "Gutterbones",
-   "Spawn of Mayhem",
-   "Kitesail Freebooter"
-  ],
-  "summary": {
-   "fr": "Aggro mono-noir avec des créatures résistantes comme Gutterbones et Knight of the Ebon Legion, soutenues par Rankle et la défausse.",
-   "en": "Mono-black aggro with resilient creatures like Gutterbones and Knight of the Ebon Legion, backed by Rankle and discard."
-  },
-  "why": {
-   "fr": [
-    "Castle Locthwain piochait sans occuper de place de sort",
-    "Kitesail Freebooter et Duress retiraient les réponses clés",
-    "Rankle mettait la pression sur la main et la table adverses"
-   ],
-   "en": [
-    "Castle Locthwain drew cards without taking a spell slot",
-    "Kitesail Freebooter and Duress took key answers",
-    "Rankle pressured both hands and boards"
-   ]
-  },
-  "note": "Rep = Players Tour Finals finalist."
- },
- {
-  "name": "Mardu Knights",
-  "slug": "mardu-knights",
-  "archetype": "aggro",
-  "titles": [
-   "Mardu Knight",
-   "Mardu Knights",
-   "Mardu Knights Aggro",
-   "Mardu Knight Aggro",
-   "Rakdos Knights"
-  ],
-  "rep": 361200,
-  "cover": "Blacklance Paragon",
-  "keyCards": [
-   "Embercleave",
-   "Steelclaw Lance",
-   "Inspiring Veteran",
-   "Acclaimed Contender",
-   "Fervent Champion"
-  ],
-  "summary": {
-   "fr": "Aggro tribal Chevaliers en rouge, blanc et noir, qui utilise Inspiring Veteran, Steelclaw Lance et Embercleave pour pousser les dégâts.",
-   "en": "Knight tribal aggro across red, white and black, using Inspiring Veteran, Steelclaw Lance and Embercleave to push damage."
-  },
-  "why": {
-   "fr": [
-    "Inspiring Veteran et Steelclaw Lance renforçaient les Chevaliers",
-    "Acclaimed Contender trouvait Embercleave ou un autre Chevalier",
-    "Tournament Grounds soutenait une base tricolore de Chevaliers"
-   ],
-   "en": [
-    "Inspiring Veteran and Steelclaw Lance pumped the Knights",
-    "Acclaimed Contender found Embercleave or another Knight",
-    "Tournament Grounds supported a three-colour Knight base"
-   ]
-  },
-  "note": "Mardu/Rakdos Knights titles. Rep = Mythic Championship V top 8."
- },
- {
-  "name": "Orzhov Doom",
-  "slug": "orzhov-doom",
-  "archetype": "control",
-  "titles": [
-   "Orzhov DOOM",
-   "Esper DOOM",
-   "Esper DOOM Yorion",
-   "Esper Yorion DOOM"
-  ],
-  "rep": 398457,
-  "cover": "Doom Foretold",
-  "keyCards": [
-   "Doom Foretold",
-   "Yorion, Sky Nomad",
-   "Charming Prince",
-   "Treacherous Blessing",
-   "Kaya, Orzhov Usurper"
-  ],
-  "summary": {
-   "fr": "Contrôle-prison blanc-noir avec Yorion en compagnon, qui sacrifie des permanents bon marché à Doom Foretold et les réutilise par des effets de clignotement.",
-   "en": "White-black prison-control with Yorion as companion, feeding cheap permanents to Doom Foretold and reusing them with blink effects."
-  },
-  "why": {
-   "fr": [
-    "Treacherous Blessing piochait puis était sacrifié à Doom Foretold",
-    "Yorion et Charming Prince réutilisaient les effets d'arrivée en jeu",
-    "Burglar Rat et Agonizing Remorse attaquaient la main adverse"
-   ],
-   "en": [
-    "Treacherous Blessing drew cards and was then sacrificed to Doom Foretold",
-    "Yorion and Charming Prince reused enter-the-battlefield effects",
-    "Burglar Rat and Agonizing Remorse attacked the opponent's hand"
-   ]
-  },
-  "note": "Includes late-2019 Esper Doom (Golden Egg) lists. Rep = Players Tour Online 3 top 8 (80-card Yorion list)."
- },
- {
-  "name": "White Weenie",
-  "slug": "white-weenie",
-  "archetype": "aggro",
-  "titles": [
-   "Weenie White",
-   "WW"
-  ],
-  "rep": 404463,
-  "cover": "Venerated Loxodon",
-  "keyCards": [
-   "Venerated Loxodon",
-   "Glorious Anthem",
-   "Raise the Alarm",
-   "Seasoned Hallowblade",
-   "Basri's Solidarity"
-  ],
-  "summary": {
-   "fr": "Aggro mono-blanc à jetons avec des bonus comme Glorious Anthem et des menaces à convocation comme Venerated Loxodon.",
-   "en": "Mono-white token aggro with anthems such as Glorious Anthem and convoke threats like Venerated Loxodon."
-  },
-  "why": {
-   "fr": [
-    "Raise the Alarm et Hunted Witness alimentaient la convocation",
-    "Les bonus faisaient de chaque jeton un véritable attaquant",
-    "Castle Ardenvale créait d'autres jetons dans les parties longues"
-   ],
-   "en": [
-    "Raise the Alarm and Hunted Witness fed convoke",
-    "Anthems made every token a real attacker",
-    "Castle Ardenvale created more tokens in long games"
-   ]
-  },
-  "note": "Rep = Core Set 2021-era list (Red Bull Untapped qualifier winner)."
- },
- {
-  "name": "Azorius Blink",
-  "slug": "azorius-blink",
-  "archetype": "midrange",
-  "titles": [
-   "Azorius Aggro",
-   "UW Midrange"
-  ],
-  "rep": 376065,
-  "cover": "Thassa, Deep-Dwelling",
-  "keyCards": [
-   "Thassa, Deep-Dwelling",
-   "Agent of Treachery",
-   "Charming Prince",
-   "Elite Guardmage",
-   "Teferi, Time Raveler"
-  ],
-  "summary": {
-   "fr": "Deck de valeur blanc-bleu qui fait clignoter ses créatures avec Thassa, Deep-Dwelling pour réutiliser Charming Prince et Agent of Treachery.",
-   "en": "White-blue value deck that blinks creatures with Thassa, Deep-Dwelling, reusing Charming Prince and Agent of Treachery triggers."
-  },
-  "why": {
-   "fr": [
-    "Thassa faisait clignoter une créature à chaque fin de tour",
-    "Agent of Treachery volait un permanent à chaque nouvelle arrivée",
-    "Elite Guardmage et Charming Prince rapportaient points de vie et cartes"
-   ],
-   "en": [
-    "Thassa flickered a creature at each end step",
-    "Agent of Treachery stole a permanent each time it re-entered",
-    "Elite Guardmage and Charming Prince gave life and cards"
-   ]
-  },
-  "note": "Qualifies via top8 count only; results are Arena daily/7-win style events. Weak evidence."
- },
- {
-  "name": "Simic Ramp",
-  "slug": "simic-ramp",
-  "archetype": "ramp",
-  "titles": [
-   "Simic Ramp Elemental",
-   "Simic Ramp"
-  ],
-  "rep": 366773,
-  "cover": "Risen Reef",
-  "keyCards": [
-   "Risen Reef",
-   "Leafkin Druid",
-   "Cavalier of Thorns",
-   "Quasiduplicate",
-   "Agent of Treachery"
-  ],
-  "summary": {
-   "fr": "Rampe Élémentaux Simic qui utilise Risen Reef et Leafkin Druid pour atteindre Nissa, Hydroid Krasis et des menaces copiées par Quasiduplicate.",
-   "en": "Simic Elemental ramp using Risen Reef and Leafkin Druid to reach Nissa, Hydroid Krasis and threats copied with Quasiduplicate."
-  },
-  "why": {
-   "fr": [
-    "Risen Reef piochait ou accélérait à chaque Élémental",
-    "Finale of Devastation allait chercher la créature adaptée",
-    "Quasiduplicate copiait Agent of Treachery ou Cavalier of Thorns"
-   ],
-   "en": [
-    "Risen Reef drew or ramped with each Elemental",
-    "Finale of Devastation fetched the right creature",
-    "Quasiduplicate copied Agent of Treachery or Cavalier of Thorns"
-   ]
-  },
-  "note": "Rep = Mythic Championship VII top 4."
- },
- {
-  "name": "Temur Elementals",
-  "slug": "temur-elementals",
-  "archetype": "ramp",
-  "titles": [
-   "Temur Yorion Elementals",
-   "Temur Elemental"
-  ],
-  "rep": 412548,
-  "cover": "Genesis Ultimatum",
-  "keyCards": [
-   "Genesis Ultimatum",
-   "Omnath, Locus of the Roil",
-   "Risen Reef",
-   "Uro, Titan of Nature's Wrath",
-   "Ugin, the Spirit Dragon"
-  ],
-  "summary": {
-   "fr": "Rampe Élémentaux avec Yorion en compagnon, qui utilise Risen Reef et Uro pour atteindre Genesis Ultimatum et Ugin, the Spirit Dragon.",
-   "en": "Elemental ramp with Yorion as companion, using Risen Reef and Uro to reach Genesis Ultimatum and Ugin, the Spirit Dragon."
-  },
-  "why": {
-   "fr": [
-    "Genesis Ultimatum mettait plusieurs permanents en jeu d'un coup",
-    "Cultivate et Uro accéléraient vers les sorts coûteux",
-    "Omnath transformait chaque Élémental en dégâts directs"
-   ],
-   "en": [
-    "Genesis Ultimatum put several permanents onto the battlefield at once",
-    "Cultivate and Uro accelerated toward expensive spells",
-    "Omnath turned each Elemental into direct damage"
-   ]
-  },
-  "note": "Small sample (two top 8s, one qualifier win)."
- },
- {
-  "name": "Izzet Tempo",
-  "slug": "izzet-tempo",
-  "archetype": "tempo",
-  "titles": [
-   "UR Aggro"
-  ],
-  "rep": 410178,
-  "cover": "Sprite Dragon",
-  "keyCards": [
-   "Sprite Dragon",
-   "Stormwing Entity",
-   "Dreadhorde Arcanist",
-   "Crash Through",
-   "Riddleform"
-  ],
-  "summary": {
-   "fr": "Tempo de sorts bleu-rouge avec Sprite Dragon et Stormwing Entity, qui enchaîne des sorts de pioche bon marché pour faire grandir ses menaces.",
-   "en": "Blue-red spells tempo with Sprite Dragon and Stormwing Entity, chaining cheap cantrips to grow its threats."
-  },
-  "why": {
-   "fr": [
-    "Sprite Dragon gagnait un marqueur durable à chaque sort non-créature",
-    "Stormwing Entity coûtait peu après un éphémère ou un rituel",
-    "Dreadhorde Arcanist relançait les sorts de pioche depuis le cimetière"
-   ],
-   "en": [
-    "Sprite Dragon gained a lasting counter from each noncreature spell",
-    "Stormwing Entity was cheap once an instant or sorcery had been cast",
-    "Dreadhorde Arcanist recast cantrips from the graveyard"
-   ]
-  },
-  "note": "Core Set 2021-era deck, August 2020 only."
- }
 ]

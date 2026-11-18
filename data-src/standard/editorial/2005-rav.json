@@ -3,387 +3,804 @@
     "name": "Ghazi-Glare",
     "slug": "ghazi-glare",
     "archetype": "midrange",
-    "titles": ["Ghazi Glare"],
+    "titles": [
+      "Ghazi Glare"
+    ],
     "cover": "Glare of Subdual",
-    "keyCards": ["Glare of Subdual", "Vitu-Ghazi, the City-Tree", "Selesnya Guildmage", "Loxodon Hierarch", "Umezawa's Jitte"],
+    "keyCards": [
+      "Glare of Subdual",
+      "Vitu-Ghazi, the City-Tree",
+      "Selesnya Guildmage",
+      "Loxodon Hierarch",
+      "Umezawa's Jitte"
+    ],
     "summary": {
       "fr": "Midrange vert-blanc qui verrouille les créatures adverses avec Glare of Subdual et des jetons Saproling.",
       "en": "Green-white midrange that locks down opposing creatures with Glare of Subdual and Saproling tokens."
     },
     "why": {
-      "fr": ["Glare of Subdual neutralisait les decks de créatures", "Vitu-Ghazi et la Guildmage fournissaient des jetons en continu", "Umezawa's Jitte et Loxodon Hierarch donnaient des menaces solides"],
-      "en": ["Glare of Subdual neutralised creature decks", "Vitu-Ghazi and the Guildmage produced a steady stream of tokens", "Umezawa's Jitte and Loxodon Hierarch gave solid threats"]
-    }
+      "fr": [
+        "Glare of Subdual neutralisait les decks de créatures",
+        "Vitu-Ghazi et la Guildmage fournissaient des jetons en continu",
+        "Umezawa's Jitte et Loxodon Hierarch donnaient des menaces solides"
+      ],
+      "en": [
+        "Glare of Subdual neutralised creature decks",
+        "Vitu-Ghazi and the Guildmage produced a steady stream of tokens",
+        "Umezawa's Jitte and Loxodon Hierarch gave solid threats"
+      ]
+    },
+    "rep": 253153
   },
   {
     "name": "Solar Flare",
     "slug": "solar-flare",
     "archetype": "control",
-    "titles": ["Solar Flare"],
+    "titles": [
+      "Solar Flare"
+    ],
     "cover": "Angel of Despair",
-    "keyCards": ["Zombify", "Angel of Despair", "Compulsive Research", "Wrath of God", "Court Hussar"],
+    "keyCards": [
+      "Zombify",
+      "Angel of Despair",
+      "Compulsive Research",
+      "Wrath of God",
+      "Court Hussar"
+    ],
     "summary": {
       "fr": "Contrôle bleu-blanc-noir qui défausse de grosses créatures avec Compulsive Research et les réanime avec Zombify.",
       "en": "Blue-white-black control that discards large creatures to Compulsive Research and reanimates them with Zombify."
     },
     "why": {
-      "fr": ["Compulsive Research piochait tout en remplissant le cimetière", "Zombify ramenait Angel of Despair ou Kokusho dès le quatrième tour", "Wrath of God et Mortify couvraient les decks aggro"],
-      "en": ["Compulsive Research drew cards while filling the graveyard", "Zombify returned Angel of Despair or Kokusho from turn four", "Wrath of God and Mortify covered aggro decks"]
-    }
+      "fr": [
+        "Compulsive Research piochait tout en remplissant le cimetière",
+        "Zombify ramenait Angel of Despair ou Kokusho dès le quatrième tour",
+        "Wrath of God et Mortify couvraient les decks aggro"
+      ],
+      "en": [
+        "Compulsive Research drew cards while filling the graveyard",
+        "Zombify returned Angel of Despair or Kokusho from turn four",
+        "Wrath of God and Mortify covered aggro decks"
+      ]
+    },
+    "rep": 544646
   },
   {
     "name": "Orzhov Aggro",
     "slug": "orzhov-aggro",
     "archetype": "aggro",
-    "titles": ["Hand in Hand", "Hand In Hand", "Orzhov Aggro", "WB Aggro"],
+    "titles": [
+      "Hand in Hand",
+      "Hand In Hand",
+      "Orzhov Aggro",
+      "WB Aggro"
+    ],
     "cover": "Ghost Council of Orzhova",
-    "keyCards": ["Dark Confidant", "Ghost Council of Orzhova", "Umezawa's Jitte", "Mortify", "Castigate"],
+    "keyCards": [
+      "Dark Confidant",
+      "Ghost Council of Orzhova",
+      "Umezawa's Jitte",
+      "Mortify",
+      "Castigate"
+    ],
     "summary": {
       "fr": "Aggro blanc-noir qui combine créatures efficaces, Dark Confidant pour piocher et perturbation avec Castigate et Mortify.",
       "en": "White-black aggro combining efficient creatures, Dark Confidant for cards and disruption from Castigate and Mortify."
     },
     "why": {
-      "fr": ["Dark Confidant fournissait une carte supplémentaire par tour", "Castigate retirait les cartes clés des decks de contrôle", "Umezawa's Jitte et Ghost Council gagnaient les parties longues"],
-      "en": ["Dark Confidant supplied an extra card each turn", "Castigate removed key cards from control decks", "Umezawa's Jitte and Ghost Council won longer games"]
+      "fr": [
+        "Dark Confidant fournissait une carte supplémentaire par tour",
+        "Castigate retirait les cartes clés des decks de contrôle",
+        "Umezawa's Jitte et Ghost Council gagnaient les parties longues"
+      ],
+      "en": [
+        "Dark Confidant supplied an extra card each turn",
+        "Castigate removed key cards from control decks",
+        "Umezawa's Jitte and Ghost Council won longer games"
+      ]
     },
-    "note": "Hand in Hand, Orzhov Aggro and WB Aggro (Nantuko Husk) lists merged under one WB aggro entry."
+    "note": "Hand in Hand, Orzhov Aggro and WB Aggro (Nantuko Husk) lists merged under one WB aggro entry.",
+    "rep": 252864
   },
   {
     "name": "Heartbeat",
     "slug": "heartbeat",
     "archetype": "combo",
-    "titles": ["Heartbeat"],
+    "titles": [
+      "Heartbeat"
+    ],
     "cover": "Heartbeat of Spring",
-    "keyCards": ["Heartbeat of Spring", "Early Harvest", "Drift of Phantasms", "Maga, Traitor to Mortals", "Weird Harvest"],
+    "keyCards": [
+      "Heartbeat of Spring",
+      "Early Harvest",
+      "Drift of Phantasms",
+      "Maga, Traitor to Mortals",
+      "Weird Harvest"
+    ],
     "summary": {
       "fr": "Combo vert-bleu qui double le mana avec Heartbeat of Spring, détape ses terrains avec Early Harvest et finit avec Maga.",
       "en": "Green-blue combo that doubles mana with Heartbeat of Spring, untaps lands with Early Harvest and finishes with Maga."
     },
     "why": {
-      "fr": ["Early Harvest sous Heartbeat produisait un mana quasi illimité", "Drift of Phantasms et Muddle the Mixture cherchaient les pièces par transmutation", "Remand protégeait la combinaison"],
-      "en": ["Early Harvest under Heartbeat produced near-unlimited mana", "Drift of Phantasms and Muddle the Mixture transmuted for pieces", "Remand protected the combo"]
-    }
+      "fr": [
+        "Early Harvest sous Heartbeat produisait un mana quasi illimité",
+        "Drift of Phantasms et Muddle the Mixture cherchaient les pièces par transmutation",
+        "Remand protégeait la combinaison"
+      ],
+      "en": [
+        "Early Harvest under Heartbeat produced near-unlimited mana",
+        "Drift of Phantasms and Muddle the Mixture transmuted for pieces",
+        "Remand protected the combo"
+      ]
+    },
+    "rep": 601475
   },
   {
     "name": "Sea Stompy",
     "slug": "sea-stompy",
     "archetype": "tempo",
-    "titles": ["Sea Stompy", "Simic Aggro"],
+    "titles": [
+      "Sea Stompy",
+      "Simic Aggro"
+    ],
     "cover": "Ninja of the Deep Hours",
-    "keyCards": ["Ninja of the Deep Hours", "Trygon Predator", "Ohran Viper", "Umezawa's Jitte", "Remand"],
+    "keyCards": [
+      "Ninja of the Deep Hours",
+      "Trygon Predator",
+      "Ohran Viper",
+      "Umezawa's Jitte",
+      "Remand"
+    ],
     "summary": {
       "fr": "Tempo vert-bleu, parfois à touche rouge, qui attaque avec des créatures efficaces et les protège avec Remand et Mana Leak.",
       "en": "Green-blue tempo, sometimes splashing red, that attacks with efficient creatures and protects them with Remand and Mana Leak."
     },
     "why": {
-      "fr": ["Ninja of the Deep Hours piochait à chaque attaque", "Trygon Predator détruisait Jitte et Signets adverses", "Les contresorts à bas coût gardaient l'avance de tempo"],
-      "en": ["Ninja of the Deep Hours drew a card with each hit", "Trygon Predator destroyed opposing Jittes and Signets", "Cheap counters kept the tempo advantage"]
-    }
+      "fr": [
+        "Ninja of the Deep Hours piochait à chaque attaque",
+        "Trygon Predator détruisait Jitte et Signets adverses",
+        "Les contresorts à bas coût gardaient l'avance de tempo"
+      ],
+      "en": [
+        "Ninja of the Deep Hours drew a card with each hit",
+        "Trygon Predator destroyed opposing Jittes and Signets",
+        "Cheap counters kept the tempo advantage"
+      ]
+    },
+    "rep": 601390
   },
   {
     "name": "Zoo",
     "slug": "zoo",
     "archetype": "aggro",
-    "titles": ["Zoo", "WRG Zoo"],
+    "titles": [
+      "Zoo",
+      "WRG Zoo"
+    ],
     "cover": "Watchwolf",
-    "keyCards": ["Watchwolf", "Kird Ape", "Lightning Helix", "Char", "Isamaru, Hound of Konda"],
+    "keyCards": [
+      "Watchwolf",
+      "Kird Ape",
+      "Lightning Helix",
+      "Char",
+      "Isamaru, Hound of Konda"
+    ],
     "summary": {
       "fr": "Aggro rouge-vert-blanc de créatures à bas coût et de sorts de dégâts, rendu possible par les bi-terres de Ravnica.",
       "en": "Red-green-white aggro of cheap creatures and burn, made possible by the Ravnica dual lands."
     },
     "why": {
-      "fr": ["Les bi-terres de Ravnica stabilisaient une base à trois couleurs", "Kird Ape et Watchwolf frappaient fort dès les premiers tours", "Lightning Helix et Char finissaient les parties"],
-      "en": ["Ravnica dual lands supported a three-colour base", "Kird Ape and Watchwolf hit hard early", "Lightning Helix and Char closed games"]
-    }
+      "fr": [
+        "Les bi-terres de Ravnica stabilisaient une base à trois couleurs",
+        "Kird Ape et Watchwolf frappaient fort dès les premiers tours",
+        "Lightning Helix et Char finissaient les parties"
+      ],
+      "en": [
+        "Ravnica dual lands supported a three-colour base",
+        "Kird Ape and Watchwolf hit hard early",
+        "Lightning Helix and Char closed games"
+      ]
+    },
+    "rep": 252860
   },
   {
     "name": "Izzetron",
     "slug": "izzetron",
     "archetype": "control",
-    "titles": ["Izzetron", "UR Tron"],
+    "titles": [
+      "Izzetron",
+      "UR Tron"
+    ],
     "cover": "Keiga, the Tide Star",
-    "keyCards": ["Wildfire", "Keiga, the Tide Star", "Demonfire", "Izzet Signet", "Urza's Tower"],
+    "keyCards": [
+      "Wildfire",
+      "Keiga, the Tide Star",
+      "Demonfire",
+      "Izzet Signet",
+      "Urza's Tower"
+    ],
     "summary": {
       "fr": "Contrôle bleu-rouge qui assemble les terrains d'Urza et des Signets pour lancer Wildfire, Keiga et de gros Demonfire.",
       "en": "Blue-red control that assembles the Urza lands and Signets to cast Wildfire, Keiga and large Demonfire."
     },
     "why": {
-      "fr": ["Les terrains d'Urza survivaient à Wildfire grâce à leur production de mana", "Remand et Mana Leak protégeaient la montée en puissance", "Compulsive Research et Tidings assuraient la pioche"],
-      "en": ["Urza lands kept producing enough mana after Wildfire", "Remand and Mana Leak protected the build-up", "Compulsive Research and Tidings supplied card draw"]
-    }
+      "fr": [
+        "Les terrains d'Urza survivaient à Wildfire grâce à leur production de mana",
+        "Remand et Mana Leak protégeaient la montée en puissance",
+        "Compulsive Research et Tidings assuraient la pioche"
+      ],
+      "en": [
+        "Urza lands kept producing enough mana after Wildfire",
+        "Remand and Mana Leak protected the build-up",
+        "Compulsive Research and Tidings supplied card draw"
+      ]
+    },
+    "rep": 544647
   },
   {
     "name": "WU Weenie",
     "slug": "wu-weenie",
     "archetype": "aggro",
-    "titles": ["Wu Weenie", "WU Weenie"],
+    "titles": [
+      "Wu Weenie",
+      "WU Weenie"
+    ],
     "cover": "Hand of Honor",
-    "keyCards": ["Isamaru, Hound of Konda", "Hand of Honor", "Glorious Anthem", "Shining Shoal", "Azorius Guildmage"],
+    "keyCards": [
+      "Isamaru, Hound of Konda",
+      "Hand of Honor",
+      "Glorious Anthem",
+      "Shining Shoal",
+      "Azorius Guildmage"
+    ],
     "summary": {
       "fr": "Aggro blanc à touche bleue de petites créatures renforcées par Glorious Anthem et protégées par Shining Shoal.",
       "en": "White aggro splashing blue with small creatures pumped by Glorious Anthem and protected by Shining Shoal."
     },
     "why": {
-      "fr": ["Les créatures à un et deux manas mettaient une pression rapide", "Shining Shoal renvoyait les dégâts sans coût en mana", "Hand of Honor résistait au retrait noir"],
-      "en": ["One- and two-drop creatures applied fast pressure", "Shining Shoal redirected damage at no mana cost", "Hand of Honor shrugged off black removal"]
-    }
+      "fr": [
+        "Les créatures à un et deux manas mettaient une pression rapide",
+        "Shining Shoal renvoyait les dégâts sans coût en mana",
+        "Hand of Honor résistait au retrait noir"
+      ],
+      "en": [
+        "One- and two-drop creatures applied fast pressure",
+        "Shining Shoal redirected damage at no mana cost",
+        "Hand of Honor shrugged off black removal"
+      ]
+    },
+    "rep": 255579
   },
   {
     "name": "Snakes",
     "slug": "snakes",
     "archetype": "midrange",
-    "titles": ["Snakes"],
+    "titles": [
+      "Snakes"
+    ],
     "cover": "Seshiro the Anointed",
-    "keyCards": ["Seshiro the Anointed", "Sosuke's Summons", "Coat of Arms", "Coiling Oracle", "Sakura-Tribe Elder"],
+    "keyCards": [
+      "Seshiro the Anointed",
+      "Sosuke's Summons",
+      "Coat of Arms",
+      "Coiling Oracle",
+      "Sakura-Tribe Elder"
+    ],
     "summary": {
       "fr": "Midrange vert-bleu de Snakes qui recycle Sosuke's Summons et grossit son armée avec Seshiro et Coat of Arms.",
       "en": "Green-blue Snake midrange that recurs Sosuke's Summons and grows its army with Seshiro and Coat of Arms."
     },
     "why": {
-      "fr": ["Sosuke's Summons revenait en main à chaque nouveau Snake", "Coat of Arms et Seshiro rendaient l'équipe très grosse", "Sakura-Tribe Elder fournissait à la fois mana et bloqueur"],
-      "en": ["Sosuke's Summons returned to hand with each new Snake", "Coat of Arms and Seshiro made the team very large", "Sakura-Tribe Elder gave both mana and a blocker"]
-    }
+      "fr": [
+        "Sosuke's Summons revenait en main à chaque nouveau Snake",
+        "Coat of Arms et Seshiro rendaient l'équipe très grosse",
+        "Sakura-Tribe Elder fournissait à la fois mana et bloqueur"
+      ],
+      "en": [
+        "Sosuke's Summons returned to hand with each new Snake",
+        "Coat of Arms and Seshiro made the team very large",
+        "Sakura-Tribe Elder gave both mana and a blocker"
+      ]
+    },
+    "rep": 601476
   },
   {
     "name": "UR Magnivore",
     "slug": "ur-magnivore",
     "archetype": "control",
-    "titles": ["U/r Magnivore", "UR Ponza"],
+    "titles": [
+      "U/r Magnivore",
+      "UR Ponza"
+    ],
     "cover": "Magnivore",
-    "keyCards": ["Magnivore", "Wildfire", "Stone Rain", "Pyroclasm", "Compulsive Research"],
+    "keyCards": [
+      "Magnivore",
+      "Wildfire",
+      "Stone Rain",
+      "Pyroclasm",
+      "Compulsive Research"
+    ],
     "summary": {
       "fr": "Contrôle bleu-rouge qui détruit les terrains et joue Wildfire, puis gagne avec Magnivore nourri par ses rituels.",
       "en": "Blue-red control that destroys lands and casts Wildfire, then wins with Magnivore fuelled by its sorceries."
     },
     "why": {
-      "fr": ["Stone Rain, Demolish et Wildfire privaient l'adversaire de mana", "Magnivore grandissait avec les rituels au cimetière", "Pyroclasm gérait les decks de petites créatures"],
-      "en": ["Stone Rain, Demolish and Wildfire starved opponents of mana", "Magnivore grew with sorceries in graveyards", "Pyroclasm handled small-creature decks"]
-    }
+      "fr": [
+        "Stone Rain, Demolish et Wildfire privaient l'adversaire de mana",
+        "Magnivore grandissait avec les rituels au cimetière",
+        "Pyroclasm gérait les decks de petites créatures"
+      ],
+      "en": [
+        "Stone Rain, Demolish and Wildfire starved opponents of mana",
+        "Magnivore grew with sorceries in graveyards",
+        "Pyroclasm handled small-creature decks"
+      ]
+    },
+    "rep": 255584
   },
   {
     "name": "Counter-Top",
     "slug": "counter-top",
     "archetype": "control",
-    "titles": ["Structure And Force", "Counter-top"],
+    "titles": [
+      "Structure And Force",
+      "Counter-top"
+    ],
     "cover": "Counterbalance",
-    "keyCards": ["Counterbalance", "Sensei's Divining Top", "Dark Confidant", "Meloku the Clouded Mirror", "Court Hussar"],
+    "keyCards": [
+      "Counterbalance",
+      "Sensei's Divining Top",
+      "Dark Confidant",
+      "Meloku the Clouded Mirror",
+      "Court Hussar"
+    ],
     "summary": {
       "fr": "Contrôle bleu-blanc-noir qui verrouille les sorts adverses avec Counterbalance et Sensei's Divining Top, puis gagne avec Meloku.",
       "en": "Blue-white-black control that locks opposing spells with Counterbalance and Sensei's Divining Top, then wins with Meloku."
     },
     "why": {
-      "fr": ["Sensei's Divining Top choisissait la carte révélée par Counterbalance", "Dark Confidant et Court Hussar apportaient l'avantage de cartes", "Remand et Hinder ralentissaient les sorts coûteux"],
-      "en": ["Sensei's Divining Top set up Counterbalance reveals", "Dark Confidant and Court Hussar supplied card advantage", "Remand and Hinder slowed expensive spells"]
-    }
+      "fr": [
+        "Sensei's Divining Top choisissait la carte révélée par Counterbalance",
+        "Dark Confidant et Court Hussar apportaient l'avantage de cartes",
+        "Remand et Hinder ralentissaient les sorts coûteux"
+      ],
+      "en": [
+        "Sensei's Divining Top set up Counterbalance reveals",
+        "Dark Confidant and Court Hussar supplied card advantage",
+        "Remand and Hinder slowed expensive spells"
+      ]
+    },
+    "rep": 601491
   },
   {
     "name": "Enduring Ideal",
     "slug": "enduring-ideal",
     "archetype": "combo",
-    "titles": ["Enduring Ideal"],
+    "titles": [
+      "Enduring Ideal"
+    ],
     "cover": "Enduring Ideal",
-    "keyCards": ["Enduring Ideal", "Form of the Dragon", "Ivory Mask", "Zur's Weirding", "Wrath of God"],
+    "keyCards": [
+      "Enduring Ideal",
+      "Form of the Dragon",
+      "Ivory Mask",
+      "Zur's Weirding",
+      "Wrath of God"
+    ],
     "summary": {
       "fr": "Combo blanc-rouge qui accélère avec Signets et Fellwar Stone vers Enduring Ideal, puis cherche Form of the Dragon chaque tour.",
       "en": "White-red combo that ramps with Signets and Fellwar Stone into Enduring Ideal, then fetches Form of the Dragon each turn."
     },
     "why": {
-      "fr": ["Les copies épiques d'Enduring Ideal ne pouvaient pas être contrées", "Form of the Dragon et Ivory Mask rendaient le verrou difficile à briser", "Wrath of God et Faith's Fetters couvraient le début de partie"],
-      "en": ["The epic copies of Enduring Ideal could not be countered", "Form of the Dragon and Ivory Mask made the lock hard to break", "Wrath of God and Faith's Fetters covered the early game"]
-    }
+      "fr": [
+        "Les copies épiques d'Enduring Ideal ne pouvaient pas être contrées",
+        "Form of the Dragon et Ivory Mask rendaient le verrou difficile à briser",
+        "Wrath of God et Faith's Fetters couvraient le début de partie"
+      ],
+      "en": [
+        "The epic copies of Enduring Ideal could not be countered",
+        "Form of the Dragon and Ivory Mask made the lock hard to break",
+        "Wrath of God and Faith's Fetters covered the early game"
+      ]
+    },
+    "rep": 253156
   },
   {
     "name": "Owling Mine",
     "slug": "owling-mine",
     "archetype": "combo",
-    "titles": ["Owling Mine"],
+    "titles": [
+      "Owling Mine"
+    ],
     "cover": "Ebony Owl Netsuke",
-    "keyCards": ["Howling Mine", "Ebony Owl Netsuke", "Kami of the Crescent Moon", "Exhaustion", "Sudden Impact"],
+    "keyCards": [
+      "Howling Mine",
+      "Ebony Owl Netsuke",
+      "Kami of the Crescent Moon",
+      "Exhaustion",
+      "Sudden Impact"
+    ],
     "summary": {
       "fr": "Deck bleu-rouge qui fait piocher l'adversaire avec Howling Mine puis le punit avec Ebony Owl Netsuke et Sudden Impact.",
       "en": "Blue-red deck that makes the opponent draw extra cards with Howling Mine, then punishes them with Ebony Owl Netsuke and Sudden Impact."
     },
     "why": {
-      "fr": ["Exhaustion et Boomerang empêchaient l'adversaire de développer son jeu", "Ebony Owl Netsuke infligeait des dégâts chaque tour aux mains pleines", "Eye of Nowhere et Remand retardaient les menaces"],
-      "en": ["Exhaustion and Boomerang stopped opponents from developing", "Ebony Owl Netsuke dealt damage each turn to full hands", "Eye of Nowhere and Remand delayed threats"]
-    }
+      "fr": [
+        "Exhaustion et Boomerang empêchaient l'adversaire de développer son jeu",
+        "Ebony Owl Netsuke infligeait des dégâts chaque tour aux mains pleines",
+        "Eye of Nowhere et Remand retardaient les menaces"
+      ],
+      "en": [
+        "Exhaustion and Boomerang stopped opponents from developing",
+        "Ebony Owl Netsuke dealt damage each turn to full hands",
+        "Eye of Nowhere and Remand delayed threats"
+      ]
+    },
+    "rep": 252862
   },
   {
     "name": "Boros Aggro",
     "slug": "boros-aggro",
     "archetype": "aggro",
-    "titles": ["Boros Aggro"],
+    "titles": [
+      "Boros Aggro"
+    ],
     "cover": "Lightning Helix",
-    "keyCards": ["Lightning Helix", "Lava Spike", "Howling Mine", "Savannah Lions", "Char"],
+    "keyCards": [
+      "Lightning Helix",
+      "Lava Spike",
+      "Howling Mine",
+      "Savannah Lions",
+      "Char"
+    ],
     "summary": {
       "fr": "Aggro rouge-blanc qui combine créatures à un mana, nombreux sorts de dégâts et Howling Mine pour ne jamais manquer de cartes.",
       "en": "Red-white aggro combining one-drop creatures, plenty of burn and Howling Mine so it never runs out of cards."
     },
     "why": {
-      "fr": ["Le grand nombre de sorts de dégâts visait directement le joueur", "Howling Mine compensait le manque d'avantage de cartes", "Lightning Helix gagnait des points de vie contre l'aggro"],
-      "en": ["A high burn count aimed straight at the opponent", "Howling Mine made up for a lack of card advantage", "Lightning Helix gained life against aggro"]
-    }
+      "fr": [
+        "Le grand nombre de sorts de dégâts visait directement le joueur",
+        "Howling Mine compensait le manque d'avantage de cartes",
+        "Lightning Helix gagnait des points de vie contre l'aggro"
+      ],
+      "en": [
+        "A high burn count aimed straight at the opponent",
+        "Howling Mine made up for a lack of card advantage",
+        "Lightning Helix gained life against aggro"
+      ]
+    },
+    "rep": 601486
   },
   {
     "name": "Gruul Beats",
     "slug": "gruul-beats",
     "archetype": "aggro",
-    "titles": ["Gruul Beats"],
+    "titles": [
+      "Gruul Beats"
+    ],
     "cover": "Giant Solifuge",
-    "keyCards": ["Giant Solifuge", "Burning-Tree Shaman", "Scab-Clan Mauler", "Kird Ape", "Moldervine Cloak"],
+    "keyCards": [
+      "Giant Solifuge",
+      "Burning-Tree Shaman",
+      "Scab-Clan Mauler",
+      "Kird Ape",
+      "Moldervine Cloak"
+    ],
     "summary": {
       "fr": "Aggro rouge-vert de créatures agressives et difficiles à gérer, appuyé par Char et Flames of the Blood Hand.",
       "en": "Red-green aggro of aggressive, hard-to-answer creatures, backed by Char and Flames of the Blood Hand."
     },
     "why": {
-      "fr": ["Giant Solifuge ne pouvait être ni ciblé ni contré", "Kird Ape et Scab-Clan Mauler frappaient fort dès le début", "Burning-Tree Shaman punissait les capacités activées adverses"],
-      "en": ["Giant Solifuge could not be targeted or countered", "Kird Ape and Scab-Clan Mauler hit hard early", "Burning-Tree Shaman punished opposing activated abilities"]
-    }
+      "fr": [
+        "Giant Solifuge ne pouvait être ni ciblé ni contré",
+        "Kird Ape et Scab-Clan Mauler frappaient fort dès le début",
+        "Burning-Tree Shaman punissait les capacités activées adverses"
+      ],
+      "en": [
+        "Giant Solifuge could not be targeted or countered",
+        "Kird Ape and Scab-Clan Mauler hit hard early",
+        "Burning-Tree Shaman punished opposing activated abilities"
+      ]
+    },
+    "rep": 252866
   },
   {
     "name": "Critical Mass",
     "slug": "critical-mass",
     "archetype": "ramp",
-    "titles": ["Critical Mass"],
+    "titles": [
+      "Critical Mass"
+    ],
     "cover": "Meloku the Clouded Mirror",
-    "keyCards": ["Meloku the Clouded Mirror", "Kodama of the North Tree", "Keiga, the Tide Star", "Umezawa's Jitte", "Wood Elves"],
+    "keyCards": [
+      "Meloku the Clouded Mirror",
+      "Kodama of the North Tree",
+      "Keiga, the Tide Star",
+      "Umezawa's Jitte",
+      "Wood Elves"
+    ],
     "summary": {
       "fr": "Ramp vert-bleu qui accélère avec Elves et Sakura-Tribe Elder vers Meloku, Keiga et Kodama of the North Tree.",
       "en": "Green-blue ramp that accelerates with Elves and Sakura-Tribe Elder into Meloku, Keiga and Kodama of the North Tree."
     },
     "why": {
-      "fr": ["Meloku transformait les terrains en armée de volants", "Kodama of the North Tree résistait au retrait ciblé", "Hinder et Mana Leak protégeaient les grosses menaces"],
-      "en": ["Meloku turned lands into an army of fliers", "Kodama of the North Tree resisted targeted removal", "Hinder and Mana Leak protected big threats"]
-    }
+      "fr": [
+        "Meloku transformait les terrains en armée de volants",
+        "Kodama of the North Tree résistait au retrait ciblé",
+        "Hinder et Mana Leak protégeaient les grosses menaces"
+      ],
+      "en": [
+        "Meloku turned lands into an army of fliers",
+        "Kodama of the North Tree resisted targeted removal",
+        "Hinder and Mana Leak protected big threats"
+      ]
+    },
+    "rep": 253157
   },
   {
     "name": "Greater Gifts",
     "slug": "greater-gifts",
     "archetype": "control",
-    "titles": ["Greater Gift"],
+    "titles": [
+      "Greater Gift"
+    ],
     "cover": "Gifts Ungiven",
-    "keyCards": ["Gifts Ungiven", "Greater Good", "Goryo's Vengeance", "Yosei, the Morning Star", "Kokusho, the Evening Star"],
+    "keyCards": [
+      "Gifts Ungiven",
+      "Greater Good",
+      "Goryo's Vengeance",
+      "Yosei, the Morning Star",
+      "Kokusho, the Evening Star"
+    ],
     "summary": {
       "fr": "Contrôle multicolore qui sacrifie Kokusho et Yosei à Greater Good et les ramène avec Goryo's Vengeance et Gifts Ungiven.",
       "en": "Multicolour control that sacrifices Kokusho and Yosei to Greater Good and brings them back with Goryo's Vengeance and Gifts Ungiven."
     },
     "why": {
-      "fr": ["Gifts Ungiven allait chercher les pièces de recursion voulues", "Les déclenchements de mort des dragons offraient un avantage répété", "Wrath of God tenait les decks aggro à distance"],
-      "en": ["Gifts Ungiven found the recursion pieces it needed", "The dragons' death triggers gave repeated value", "Wrath of God held off aggro decks"]
-    }
+      "fr": [
+        "Gifts Ungiven allait chercher les pièces de recursion voulues",
+        "Les déclenchements de mort des dragons offraient un avantage répété",
+        "Wrath of God tenait les decks aggro à distance"
+      ],
+      "en": [
+        "Gifts Ungiven found the recursion pieces it needed",
+        "The dragons' death triggers gave repeated value",
+        "Wrath of God held off aggro decks"
+      ]
+    },
+    "rep": 253154
   },
   {
     "name": "UB Control",
     "slug": "ub-control",
     "archetype": "control",
-    "titles": ["UB Control"],
+    "titles": [
+      "UB Control"
+    ],
     "cover": "Jushi Apprentice",
-    "keyCards": ["Jushi Apprentice", "Meloku the Clouded Mirror", "Azami, Lady of Scrolls", "Hinder", "Hideous Laughter"],
+    "keyCards": [
+      "Jushi Apprentice",
+      "Meloku the Clouded Mirror",
+      "Azami, Lady of Scrolls",
+      "Hinder",
+      "Hideous Laughter"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir à base de contresorts, de pioche avec Jushi Apprentice et Azami, puis Meloku comme finisseur.",
       "en": "Blue-black control built on counters, card draw from Jushi Apprentice and Azami, with Meloku as the finisher."
     },
     "why": {
-      "fr": ["Jushi Apprentice et Azami offraient une pioche répétée", "Hideous Laughter balayait les petites créatures", "Hinder et Rewind contraient les sorts clés"],
-      "en": ["Jushi Apprentice and Azami gave repeated card draw", "Hideous Laughter swept small creatures", "Hinder and Rewind countered key spells"]
-    }
+      "fr": [
+        "Jushi Apprentice et Azami offraient une pioche répétée",
+        "Hideous Laughter balayait les petites créatures",
+        "Hinder et Rewind contraient les sorts clés"
+      ],
+      "en": [
+        "Jushi Apprentice and Azami gave repeated card draw",
+        "Hideous Laughter swept small creatures",
+        "Hinder and Rewind countered key spells"
+      ]
+    },
+    "rep": 253158
   },
   {
     "name": "Ninjas",
     "slug": "ninjas",
     "archetype": "tempo",
-    "titles": ["Ninjas"],
+    "titles": [
+      "Ninjas"
+    ],
     "cover": "Higure, the Still Wind",
-    "keyCards": ["Ninja of the Deep Hours", "Higure, the Still Wind", "Erayo, Soratami Ascendant", "Ornithopter", "Repeal"],
+    "keyCards": [
+      "Ninja of the Deep Hours",
+      "Higure, the Still Wind",
+      "Erayo, Soratami Ascendant",
+      "Ornithopter",
+      "Repeal"
+    ],
     "summary": {
       "fr": "Tempo vert-bleu qui fait passer ses Ninjas par des créatures évasives et retourne Erayo grâce à des sorts peu coûteux.",
       "en": "Green-blue tempo that ninjutsus through evasive creatures and flips Erayo with cheap spells."
     },
     "why": {
-      "fr": ["Ornithopter et Erayo permettaient d'activer le ninjutsu tôt", "Higure et Ninja of the Deep Hours généraient de l'avantage", "Repeal, Remand et Disrupting Shoal gardaient le tempo"],
-      "en": ["Ornithopter and Erayo enabled early ninjutsu", "Higure and Ninja of the Deep Hours generated advantage", "Repeal, Remand and Disrupting Shoal kept the tempo"]
-    }
+      "fr": [
+        "Ornithopter et Erayo permettaient d'activer le ninjutsu tôt",
+        "Higure et Ninja of the Deep Hours généraient de l'avantage",
+        "Repeal, Remand et Disrupting Shoal gardaient le tempo"
+      ],
+      "en": [
+        "Ornithopter and Erayo enabled early ninjutsu",
+        "Higure and Ninja of the Deep Hours generated advantage",
+        "Repeal, Remand and Disrupting Shoal kept the tempo"
+      ]
+    },
+    "rep": 601483
   },
   {
     "name": "BUG Ninjas",
     "slug": "bug-ninjas",
     "archetype": "tempo",
-    "titles": ["Bug Critical"],
+    "titles": [
+      "Bug Critical"
+    ],
     "cover": "Hypnotic Specter",
-    "keyCards": ["Ninja of the Deep Hours", "Hypnotic Specter", "Dimir Cutpurse", "Threads of Disloyalty", "Umezawa's Jitte"],
+    "keyCards": [
+      "Ninja of the Deep Hours",
+      "Hypnotic Specter",
+      "Dimir Cutpurse",
+      "Threads of Disloyalty",
+      "Umezawa's Jitte"
+    ],
     "summary": {
       "fr": "Tempo bleu-vert-noir qui attaque la main adverse avec Hypnotic Specter et Dimir Cutpurse, appuyé par des contresorts.",
       "en": "Blue-green-black tempo that attacks the opponent's hand with Hypnotic Specter and Dimir Cutpurse, backed by counters."
     },
     "why": {
-      "fr": ["Dimir Cutpurse et Ninja of the Deep Hours créaient un avantage à chaque attaque", "Threads of Disloyalty volait les petites créatures adverses", "Elves of Deep Shadow et Birds of Paradise accéléraient le départ"],
-      "en": ["Dimir Cutpurse and Ninja of the Deep Hours gained value on each hit", "Threads of Disloyalty stole small opposing creatures", "Elves of Deep Shadow and Birds of Paradise sped up starts"]
+      "fr": [
+        "Dimir Cutpurse et Ninja of the Deep Hours créaient un avantage à chaque attaque",
+        "Threads of Disloyalty volait les petites créatures adverses",
+        "Elves of Deep Shadow et Birds of Paradise accéléraient le départ"
+      ],
+      "en": [
+        "Dimir Cutpurse and Ninja of the Deep Hours gained value on each hit",
+        "Threads of Disloyalty stole small opposing creatures",
+        "Elves of Deep Shadow and Birds of Paradise sped up starts"
+      ]
     },
-    "note": "mtgtop8 title 'Bug Critical'; renamed descriptively."
+    "note": "mtgtop8 title 'Bug Critical'; renamed descriptively.",
+    "rep": 253160
   },
   {
     "name": "Rakdos Burn",
     "slug": "rakdos-burn",
     "archetype": "aggro",
-    "titles": ["Sand Burn"],
+    "titles": [
+      "Sand Burn"
+    ],
     "cover": "Rakdos Guildmage",
-    "keyCards": ["Dark Confidant", "Rakdos Guildmage", "Demonfire", "Char", "Seal of Fire"],
+    "keyCards": [
+      "Dark Confidant",
+      "Rakdos Guildmage",
+      "Demonfire",
+      "Char",
+      "Seal of Fire"
+    ],
     "summary": {
       "fr": "Aggro rouge-noir chargé en sorts de dégâts, avec Dark Confidant pour la pioche et Demonfire pour finir.",
       "en": "Burn-heavy red-black aggro, with Dark Confidant for cards and Demonfire to finish."
     },
     "why": {
-      "fr": ["Le grand nombre de sorts de dégâts visait directement le joueur", "Dark Confidant compensait l'épuisement des cartes", "Cruel Edict gérait les créatures difficiles à cibler"],
-      "en": ["A high burn count aimed straight at the opponent", "Dark Confidant offset running out of cards", "Cruel Edict handled hard-to-target creatures"]
+      "fr": [
+        "Le grand nombre de sorts de dégâts visait directement le joueur",
+        "Dark Confidant compensait l'épuisement des cartes",
+        "Cruel Edict gérait les créatures difficiles à cibler"
+      ],
+      "en": [
+        "A high burn count aimed straight at the opponent",
+        "Dark Confidant offset running out of cards",
+        "Cruel Edict handled hard-to-target creatures"
+      ]
     },
-    "note": "mtgtop8 title 'Sand Burn'; renamed descriptively."
+    "note": "mtgtop8 title 'Sand Burn'; renamed descriptively.",
+    "rep": 601493
   },
   {
     "name": "BG Demonfire",
     "slug": "bg-demonfire",
     "archetype": "aggro",
-    "titles": ["Bg Demonfire"],
+    "titles": [
+      "Bg Demonfire"
+    ],
     "cover": "Demonfire",
-    "keyCards": ["Demonfire", "Dark Confidant", "Ohran Viper", "Hypnotic Specter", "Giant Solifuge"],
+    "keyCards": [
+      "Demonfire",
+      "Dark Confidant",
+      "Ohran Viper",
+      "Hypnotic Specter",
+      "Giant Solifuge"
+    ],
     "summary": {
       "fr": "Aggro vert-noir à touche rouge qui accélère avec des créatures à mana vers Hypnotic Specter et Ohran Viper, puis Demonfire.",
       "en": "Green-black aggro splashing red that ramps with mana creatures into Hypnotic Specter and Ohran Viper, then Demonfire."
     },
     "why": {
-      "fr": ["Birds of Paradise et Llanowar Elves permettaient un Specter au deuxième tour", "Ohran Viper et Dark Confidant généraient de l'avantage", "Demonfire servait à la fois de retrait et de finisseur"],
-      "en": ["Birds of Paradise and Llanowar Elves enabled a turn-two Specter", "Ohran Viper and Dark Confidant generated advantage", "Demonfire served as both removal and finisher"]
-    }
+      "fr": [
+        "Birds of Paradise et Llanowar Elves permettaient un Specter au deuxième tour",
+        "Ohran Viper et Dark Confidant généraient de l'avantage",
+        "Demonfire servait à la fois de retrait et de finisseur"
+      ],
+      "en": [
+        "Birds of Paradise and Llanowar Elves enabled a turn-two Specter",
+        "Ohran Viper and Dark Confidant generated advantage",
+        "Demonfire served as both removal and finisher"
+      ]
+    },
+    "rep": 601494
   },
   {
     "name": "Junk",
     "slug": "junk",
     "archetype": "midrange",
-    "titles": ["Junk"],
+    "titles": [
+      "Junk"
+    ],
     "cover": "Okiba-Gang Shinobi",
-    "keyCards": ["Okiba-Gang Shinobi", "Hypnotic Specter", "Ohran Viper", "Loxodon Hierarch", "Umezawa's Jitte"],
+    "keyCards": [
+      "Okiba-Gang Shinobi",
+      "Hypnotic Specter",
+      "Ohran Viper",
+      "Loxodon Hierarch",
+      "Umezawa's Jitte"
+    ],
     "summary": {
       "fr": "Midrange vert-blanc-noir qui accélère avec des créatures à mana et attaque la main adverse avec Specter et Shinobi.",
       "en": "Green-white-black midrange that ramps with mana creatures and attacks the opponent's hand with Specter and Shinobi."
     },
     "why": {
-      "fr": ["Hypnotic Specter et Okiba-Gang Shinobi vidaient la main adverse", "Putrefy et Mortify retiraient les menaces", "Umezawa's Jitte dominait les combats"],
-      "en": ["Hypnotic Specter and Okiba-Gang Shinobi emptied hands", "Putrefy and Mortify removed threats", "Umezawa's Jitte dominated combat"]
-    }
+      "fr": [
+        "Hypnotic Specter et Okiba-Gang Shinobi vidaient la main adverse",
+        "Putrefy et Mortify retiraient les menaces",
+        "Umezawa's Jitte dominait les combats"
+      ],
+      "en": [
+        "Hypnotic Specter and Okiba-Gang Shinobi emptied hands",
+        "Putrefy and Mortify removed threats",
+        "Umezawa's Jitte dominated combat"
+      ]
+    },
+    "rep": 601391
   },
   {
     "name": "Dimir Snow Control",
     "slug": "dimir-snow-control",
     "archetype": "control",
-    "titles": ["Dimir Snow Control"],
+    "titles": [
+      "Dimir Snow Control"
+    ],
     "cover": "Phyrexian Ironfoot",
-    "keyCards": ["Phyrexian Ironfoot", "Scrying Sheets", "Dark Confidant", "Meloku the Clouded Mirror", "Sensei's Divining Top"],
+    "keyCards": [
+      "Phyrexian Ironfoot",
+      "Scrying Sheets",
+      "Dark Confidant",
+      "Meloku the Clouded Mirror",
+      "Sensei's Divining Top"
+    ],
     "summary": {
       "fr": "Contrôle bleu-noir de Coldsnap qui utilise Scrying Sheets pour l'avantage et Phyrexian Ironfoot comme bloqueur.",
       "en": "Blue-black Coldsnap control that uses Scrying Sheets for card advantage and Phyrexian Ironfoot as a blocker."
     },
     "why": {
-      "fr": ["Scrying Sheets transformait les terrains neigeux en pioche", "Remand, Hinder et Spell Snare contraient à bas coût", "Phyrexian Ironfoot bloquait les decks aggro"],
-      "en": ["Scrying Sheets turned snow lands into card draw", "Remand, Hinder and Spell Snare countered cheaply", "Phyrexian Ironfoot walled aggro decks"]
-    }
+      "fr": [
+        "Scrying Sheets transformait les terrains neigeux en pioche",
+        "Remand, Hinder et Spell Snare contraient à bas coût",
+        "Phyrexian Ironfoot bloquait les decks aggro"
+      ],
+      "en": [
+        "Scrying Sheets turned snow lands into card draw",
+        "Remand, Hinder and Spell Snare countered cheaply",
+        "Phyrexian Ironfoot walled aggro decks"
+      ]
+    },
+    "rep": 601495
   }
 ]

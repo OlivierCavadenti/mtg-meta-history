@@ -3,67 +3,136 @@
     "name": "Izzet Epiphany",
     "slug": "izzet-epiphany",
     "archetype": "control",
-    "titles": ["Izzet Control", "Grixis Control"],
+    "titles": [
+      "Izzet Control",
+      "Grixis Control"
+    ],
     "cover": "Alrund's Epiphany",
-    "keyCards": ["Alrund's Epiphany", "Divide by Zero", "Expressive Iteration", "Unexpected Windfall", "Galvanic Iteration"],
+    "keyCards": [
+      "Alrund's Epiphany",
+      "Divide by Zero",
+      "Expressive Iteration",
+      "Unexpected Windfall",
+      "Galvanic Iteration"
+    ],
     "summary": {
       "fr": "Contrôle Izzet à sorts : les Trésors d'Unexpected Windfall et les copies de Galvanic Iteration alimentent les tours supplémentaires d'Alrund's Epiphany.",
       "en": "Izzet spells control: Treasures from Unexpected Windfall and copies from Galvanic Iteration fuel extra turns with Alrund's Epiphany."
     },
     "why": {
-      "fr": ["Les chaînes d'Alrund's Epiphany donnaient des tours supplémentaires qui concluaient la partie", "A remporté le championnat du monde et l'Innistrad Championship", "Alrund's Epiphany et Divide by Zero ont été bannis en janvier"],
-      "en": ["Chained Alrund's Epiphany extra turns ended games", "Won the World Championship and the Innistrad Championship", "Alrund's Epiphany and Divide by Zero were banned in January"]
+      "fr": [
+        "Les chaînes d'Alrund's Epiphany donnaient des tours supplémentaires qui concluaient la partie",
+        "A remporté le championnat du monde et l'Innistrad Championship",
+        "Alrund's Epiphany et Divide by Zero ont été bannis en janvier"
+      ],
+      "en": [
+        "Chained Alrund's Epiphany extra turns ended games",
+        "Won the World Championship and the Innistrad Championship",
+        "Alrund's Epiphany and Divide by Zero were banned in January"
+      ]
     },
-    "note": "Title covers Izzet Dragons (Goldspan, Smoldering Egg) early, Epiphany/Hullbreaker builds, and a few post-ban Izzet Fable lists. 'Grixis Control' rep is the same Epiphany list; merged. Ban: 2022-01-25 announcement."
+    "note": "Title covers Izzet Dragons (Goldspan, Smoldering Egg) early, Epiphany/Hullbreaker builds, and a few post-ban Izzet Fable lists. 'Grixis Control' rep is the same Epiphany list; merged. Ban: 2022-01-25 announcement.",
+    "rep": 456286
   },
   {
     "name": "Mono-White Aggro",
     "slug": "mono-white-aggro",
     "archetype": "aggro",
-    "titles": ["Weenie White"],
+    "titles": [
+      "Weenie White"
+    ],
     "cover": "Adeline, Resplendent Cathar",
-    "keyCards": ["Adeline, Resplendent Cathar", "Luminarch Aspirant", "Intrepid Adversary", "Thalia, Guardian of Thraben", "Faceless Haven"],
+    "keyCards": [
+      "Adeline, Resplendent Cathar",
+      "Luminarch Aspirant",
+      "Intrepid Adversary",
+      "Thalia, Guardian of Thraben",
+      "Faceless Haven"
+    ],
     "summary": {
       "fr": "Aggro mono-blanc enneigé avec Adeline, Luminarch Aspirant, Intrepid Adversary et Faceless Haven, plus la disruption de Thalia et Elite Spellbinder.",
       "en": "Snow mono-white aggro with Adeline, Luminarch Aspirant, Intrepid Adversary and Faceless Haven, plus disruption from Thalia and Elite Spellbinder."
     },
     "why": {
-      "fr": ["Adeline et Intrepid Adversary élargissaient le board plus vite que les balais", "Thalia et Elite Spellbinder taxaient les decks Izzet chargés en sorts", "Est resté jouable après le ban de Faceless Haven grâce aux nouvelles extensions"],
-      "en": ["Adeline and Intrepid Adversary went wide faster than sweepers could answer", "Thalia and Elite Spellbinder taxed the spell-heavy Izzet decks", "Stayed playable after the Faceless Haven ban with cards from new sets"]
-    }
+      "fr": [
+        "Adeline et Intrepid Adversary élargissaient le board plus vite que les balais",
+        "Thalia et Elite Spellbinder taxaient les decks Izzet chargés en sorts",
+        "Est resté jouable après le ban de Faceless Haven grâce aux nouvelles extensions"
+      ],
+      "en": [
+        "Adeline and Intrepid Adversary went wide faster than sweepers could answer",
+        "Thalia and Elite Spellbinder taxed the spell-heavy Izzet decks",
+        "Stayed playable after the Faceless Haven ban with cards from new sets"
+      ]
+    },
+    "rep": 454261
   },
   {
     "name": "Mono-Green Aggro",
     "slug": "mono-green-aggro",
     "archetype": "aggro",
-    "titles": ["Mono Green Aggro", "Simic Aggro"],
+    "titles": [
+      "Mono Green Aggro",
+      "Simic Aggro"
+    ],
     "cover": "Werewolf Pack Leader",
-    "keyCards": ["Werewolf Pack Leader", "Ranger Class", "Esika's Chariot", "Blizzard Brawl", "Old-Growth Troll"],
+    "keyCards": [
+      "Werewolf Pack Leader",
+      "Ranger Class",
+      "Esika's Chariot",
+      "Blizzard Brawl",
+      "Old-Growth Troll"
+    ],
     "summary": {
       "fr": "Aggro mono-vert enneigé avec Werewolf Pack Leader, Ranger Class et Esika's Chariot, et Blizzard Brawl comme combat bon marché.",
       "en": "Snow mono-green aggro with Werewolf Pack Leader, Ranger Class and Esika's Chariot, using Blizzard Brawl as a cheap fight spell."
     },
     "why": {
-      "fr": ["Les Forêts enneigées faisaient de Blizzard Brawl un removal bon marché et unilatéral", "Ranger Class et Werewolf Pack Leader piochaient en attaquant", "Esika's Chariot survivait aux balais et créait des attaquants"],
-      "en": ["Snow Forests made Blizzard Brawl cheap, one-sided removal", "Ranger Class and Werewolf Pack Leader drew cards while attacking", "Esika's Chariot survived sweepers and kept making attackers"]
+      "fr": [
+        "Les Forêts enneigées faisaient de Blizzard Brawl un removal bon marché et unilatéral",
+        "Ranger Class et Werewolf Pack Leader piochaient en attaquant",
+        "Esika's Chariot survivait aux balais et créait des attaquants"
+      ],
+      "en": [
+        "Snow Forests made Blizzard Brawl cheap, one-sided removal",
+        "Ranger Class and Werewolf Pack Leader drew cards while attacking",
+        "Esika's Chariot survived sweepers and kept making attackers"
+      ]
     },
-    "note": "Merged 'Simic Aggro' (same snow green core with Wrenn and Seven and a blue splash)."
+    "note": "Merged 'Simic Aggro' (same snow green core with Wrenn and Seven and a blue splash).",
+    "rep": 450431
   },
   {
     "name": "Jund Midrange",
     "slug": "jund-midrange",
     "archetype": "midrange",
-    "titles": ["Jund"],
+    "titles": [
+      "Jund"
+    ],
     "rep": 473518,
     "cover": "Ziatora, the Incinerator",
-    "keyCards": ["Fable of the Mirror-Breaker", "Esika's Chariot", "Black Market Tycoon", "Jinnie Fay, Jetmir's Second", "Ziatora, the Incinerator"],
+    "keyCards": [
+      "Fable of the Mirror-Breaker",
+      "Esika's Chariot",
+      "Black Market Tycoon",
+      "Jinnie Fay, Jetmir's Second",
+      "Ziatora, the Incinerator"
+    ],
     "summary": {
       "fr": "Midrange Jund des Rues de la Nouvelle-Capenna : Black Market Tycoon et Fable of the Mirror-Breaker créent des Trésors, avec Jinnie Fay, Esika's Chariot et Ziatora comme récompenses.",
       "en": "Jund midrange from Streets of New Capenna: Black Market Tycoon and Fable of the Mirror-Breaker make Treasure, with Jinnie Fay, Esika's Chariot and Ziatora as payoffs."
     },
     "why": {
-      "fr": ["Les Trésors accéléraient et fixaient une manabase à trois couleurs", "Fable et Esika's Chariot donnaient une valeur qui survivait au removal", "Les premières versions étaient Gruul avec Goldspan Dragon et une touche noire"],
-      "en": ["Treasure ramp and fixing supported a three-colour mana base", "Fable and Esika's Chariot gave value that survived removal", "Earlier builds were Gruul-based with Goldspan Dragon and a black splash"]
+      "fr": [
+        "Les Trésors accéléraient et fixaient une manabase à trois couleurs",
+        "Fable et Esika's Chariot donnaient une valeur qui survivait au removal",
+        "Les premières versions étaient Gruul avec Goldspan Dragon et une touche noire"
+      ],
+      "en": [
+        "Treasure ramp and fixing supported a three-colour mana base",
+        "Fable and Esika's Chariot gave value that survived removal",
+        "Earlier builds were Gruul-based with Goldspan Dragon and a black splash"
+      ]
     },
     "note": "Title is heterogeneous (Gruul-Jund Goldspan in autumn, New Capenna Treasure Jund, a few DMU-preview lists in early September). Rep set to the New Capenna Championship top 8 list instead of the default September DMU-card list."
   },
@@ -71,51 +140,106 @@
     "name": "Orzhov Midrange",
     "slug": "orzhov-midrange",
     "archetype": "midrange",
-    "titles": ["Orzhov Control", "Orzhov Aggro", "Orzhov Midrange"],
+    "titles": [
+      "Orzhov Control",
+      "Orzhov Aggro",
+      "Orzhov Midrange"
+    ],
     "cover": "Lolth, Spider Queen",
-    "keyCards": ["Lolth, Spider Queen", "The Meathook Massacre", "Deadly Dispute", "Shambling Ghast", "Vanishing Verse"],
+    "keyCards": [
+      "Lolth, Spider Queen",
+      "The Meathook Massacre",
+      "Deadly Dispute",
+      "Shambling Ghast",
+      "Vanishing Verse"
+    ],
     "summary": {
       "fr": "Midrange sacrifice Orzhov : Shambling Ghast et Eyetwitch alimentent Deadly Dispute, Lolth et The Meathook Massacre, avec Vanishing Verse en removal.",
       "en": "Orzhov sacrifice midrange: Shambling Ghast and Eyetwitch feed Deadly Dispute, Lolth and The Meathook Massacre, with Vanishing Verse as removal."
     },
     "why": {
-      "fr": ["Les créatures qui meurent utilement nourrissaient Lolth et The Meathook Massacre", "Vanishing Verse répondait à la plupart des menaces à vitesse instantanée", "Les versions suivantes ont ajouté Wedding Announcement et Sorin the Mirthless"],
-      "en": ["Creatures that die profitably fed Lolth and The Meathook Massacre", "Vanishing Verse answered most threats at instant speed", "Later builds added Wedding Announcement and Sorin the Mirthless"]
+      "fr": [
+        "Les créatures qui meurent utilement nourrissaient Lolth et The Meathook Massacre",
+        "Vanishing Verse répondait à la plupart des menaces à vitesse instantanée",
+        "Les versions suivantes ont ajouté Wedding Announcement et Sorin the Mirthless"
+      ],
+      "en": [
+        "Creatures that die profitably fed Lolth and The Meathook Massacre",
+        "Vanishing Verse answered most threats at instant speed",
+        "Later builds added Wedding Announcement and Sorin the Mirthless"
+      ]
     },
-    "note": "'Orzhov Control' and 'Orzhov Aggro' lists share the same Ghast / Dispute / Meathook / Wedding Announcement core; merged."
+    "note": "'Orzhov Control' and 'Orzhov Aggro' lists share the same Ghast / Dispute / Meathook / Wedding Announcement core; merged.",
+    "rep": 454294
   },
   {
     "name": "Gruul Werewolves",
     "slug": "gruul-werewolves",
     "archetype": "aggro",
-    "titles": ["Temur Aggro", "Gruul Werewolves", "Gruul Aggro"],
+    "titles": [
+      "Temur Aggro",
+      "Gruul Werewolves",
+      "Gruul Aggro"
+    ],
     "cover": "Tovolar, Dire Overlord",
-    "keyCards": ["Tovolar, Dire Overlord", "Werewolf Pack Leader", "Reckless Stormseeker", "Wrenn and Seven", "Esika's Chariot"],
+    "keyCards": [
+      "Tovolar, Dire Overlord",
+      "Werewolf Pack Leader",
+      "Reckless Stormseeker",
+      "Wrenn and Seven",
+      "Esika's Chariot"
+    ],
     "summary": {
       "fr": "Loups-garous rouge-vert : Kessig Naturalist, Reckless Stormseeker et Tovolar passent à la nuit, appuyés par Esika's Chariot et Wrenn and Seven.",
       "en": "Red-green werewolves: Kessig Naturalist, Reckless Stormseeker and Tovolar flip at night, backed by Esika's Chariot and Wrenn and Seven."
     },
     "why": {
-      "fr": ["Le cycle jour/nuit forçait l'adversaire à lancer deux sorts par tour", "Esika's Chariot et Wrenn and Seven créaient des menaces résistantes au removal", "Les versions Magda et Goldspan Dragon partageaient le même socle Gruul"],
-      "en": ["Day/night pushed opponents to cast two spells a turn", "Esika's Chariot and Wrenn and Seven made threats that survived removal", "Magda and Goldspan Dragon builds shared the same Gruul core"]
+      "fr": [
+        "Le cycle jour/nuit forçait l'adversaire à lancer deux sorts par tour",
+        "Esika's Chariot et Wrenn and Seven créaient des menaces résistantes au removal",
+        "Les versions Magda et Goldspan Dragon partageaient le même socle Gruul"
+      ],
+      "en": [
+        "Day/night pushed opponents to cast two spells a turn",
+        "Esika's Chariot and Wrenn and Seven made threats that survived removal",
+        "Magda and Goldspan Dragon builds shared the same Gruul core"
+      ]
     },
-    "note": "Merged 'Temur Aggro' (Gruul lists on Pathway lands, some with a blue splash) and 'Gruul Aggro' (Magda / Goldspan builds)."
+    "note": "Merged 'Temur Aggro' (Gruul lists on Pathway lands, some with a blue splash) and 'Gruul Aggro' (Magda / Goldspan builds).",
+    "rep": 450135
   },
   {
     "name": "Esper Midrange",
     "slug": "esper-midrange",
     "archetype": "midrange",
-    "titles": ["Esper Aggro", "Esper Raffine"],
+    "titles": [
+      "Esper Aggro",
+      "Esper Raffine"
+    ],
     "rep": 473519,
     "cover": "Raffine, Scheming Seer",
-    "keyCards": ["Raffine, Scheming Seer", "The Wandering Emperor", "Wedding Announcement", "Tenacious Underdog", "Vanishing Verse"],
+    "keyCards": [
+      "Raffine, Scheming Seer",
+      "The Wandering Emperor",
+      "Wedding Announcement",
+      "Tenacious Underdog",
+      "Vanishing Verse"
+    ],
     "summary": {
       "fr": "Midrange Esper des Rues de la Nouvelle-Capenna : Raffine et Tenacious Underdog attaquent, The Wandering Emperor et Wedding Announcement ajoutent menaces flash et jetons.",
       "en": "Esper midrange from Streets of New Capenna: Raffine and Tenacious Underdog attack, while The Wandering Emperor and Wedding Announcement add flash threats and tokens."
     },
     "why": {
-      "fr": ["Raffine filtrait les pioches à chaque attaque", "The Wandering Emperor offrait removal et jetons à vitesse instantanée", "A atteint la finale du New Capenna Championship"],
-      "en": ["Raffine filtered draws on every attack", "The Wandering Emperor gave instant-speed removal and tokens", "Reached the final of the New Capenna Championship"]
+      "fr": [
+        "Raffine filtrait les pioches à chaque attaque",
+        "The Wandering Emperor offrait removal et jetons à vitesse instantanée",
+        "A atteint la finale du New Capenna Championship"
+      ],
+      "en": [
+        "Raffine filtered draws on every attack",
+        "The Wandering Emperor gave instant-speed removal and tokens",
+        "Reached the final of the New Capenna Championship"
+      ]
     },
     "note": "Rep set to the New Capenna Championship finalist list."
   },
@@ -123,197 +247,404 @@
     "name": "Azorius Control",
     "slug": "azorius-control",
     "archetype": "control",
-    "titles": ["UW Control"],
+    "titles": [
+      "UW Control"
+    ],
     "cover": "The Wandering Emperor",
-    "keyCards": ["The Wandering Emperor", "Doomskar", "Memory Deluge", "Teferi, Who Slows the Sunset", "March of Otherworldly Light"],
+    "keyCards": [
+      "The Wandering Emperor",
+      "Doomskar",
+      "Memory Deluge",
+      "Teferi, Who Slows the Sunset",
+      "March of Otherworldly Light"
+    ],
     "summary": {
       "fr": "Contrôle Azorius avec Doomskar et Farewell comme balais, des contresorts, Memory Deluge pour piocher et The Wandering Emperor comme menace flexible.",
       "en": "Azorius control with Doomskar and Farewell as sweepers, counterspells, Memory Deluge for cards and The Wandering Emperor as a flexible threat."
     },
     "why": {
-      "fr": ["Les balais punissaient les nombreux decks de créatures", "Memory Deluge et Teferi assuraient le flux de cartes en partie longue", "The Wandering Emperor, de Kamigawa, offrait un finisher à vitesse instantanée"],
-      "en": ["Sweepers punished the format's creature decks", "Memory Deluge and Teferi kept cards flowing in long games", "Kamigawa's Wandering Emperor gave an instant-speed finisher"]
-    }
+      "fr": [
+        "Les balais punissaient les nombreux decks de créatures",
+        "Memory Deluge et Teferi assuraient le flux de cartes en partie longue",
+        "The Wandering Emperor, de Kamigawa, offrait un finisher à vitesse instantanée"
+      ],
+      "en": [
+        "Sweepers punished the format's creature decks",
+        "Memory Deluge and Teferi kept cards flowing in long games",
+        "Kamigawa's Wandering Emperor gave an instant-speed finisher"
+      ]
+    },
+    "rep": 466552
   },
   {
     "name": "Dimir Control",
     "slug": "dimir-control",
     "archetype": "control",
-    "titles": ["Dimir Control"],
+    "titles": [
+      "Dimir Control"
+    ],
     "cover": "Iymrith, Desert Doom",
-    "keyCards": ["Memory Deluge", "The Meathook Massacre", "Iymrith, Desert Doom", "Infernal Grasp", "Dragon Turtle"],
+    "keyCards": [
+      "Memory Deluge",
+      "The Meathook Massacre",
+      "Iymrith, Desert Doom",
+      "Infernal Grasp",
+      "Dragon Turtle"
+    ],
     "summary": {
       "fr": "Contrôle Dimir draw-go avec Infernal Grasp, The Meathook Massacre et contresorts, Memory Deluge pour l'avantage de cartes et Iymrith pour finir.",
       "en": "Dimir draw-go control with Infernal Grasp, The Meathook Massacre and counters, Memory Deluge for card advantage and Iymrith as a finisher."
     },
     "why": {
-      "fr": ["The Meathook Massacre balayait les boards larges en drainant", "Le flashback de Memory Deluge offrait deux tours de sélection", "Iymrith, Desert Doom était difficile à retirer tant qu'il restait dégagé"],
-      "en": ["The Meathook Massacre swept wide boards while draining", "Memory Deluge's flashback gave two rounds of selection", "Iymrith, Desert Doom was hard to remove while untapped"]
+      "fr": [
+        "The Meathook Massacre balayait les boards larges en drainant",
+        "Le flashback de Memory Deluge offrait deux tours de sélection",
+        "Iymrith, Desert Doom était difficile à retirer tant qu'il restait dégagé"
+      ],
+      "en": [
+        "The Meathook Massacre swept wide boards while draining",
+        "Memory Deluge's flashback gave two rounds of selection",
+        "Iymrith, Desert Doom was hard to remove while untapped"
+      ]
     },
-    "note": "Title mixes several Dimir control builds (Iymrith, Lier/Sedgemoor Witch, Graveyard Trespasser)."
+    "note": "Title mixes several Dimir control builds (Iymrith, Lier/Sedgemoor Witch, Graveyard Trespasser).",
+    "rep": 449633
   },
   {
     "name": "Selesnya Aggro",
     "slug": "selesnya-aggro",
     "archetype": "aggro",
-    "titles": ["Selesnya Aggro"],
+    "titles": [
+      "Selesnya Aggro"
+    ],
     "cover": "Katilda, Dawnhart Prime",
-    "keyCards": ["Adeline, Resplendent Cathar", "Hopeful Initiate", "Luminarch Aspirant", "Katilda, Dawnhart Prime", "Thalia, Guardian of Thraben"],
+    "keyCards": [
+      "Adeline, Resplendent Cathar",
+      "Hopeful Initiate",
+      "Luminarch Aspirant",
+      "Katilda, Dawnhart Prime",
+      "Thalia, Guardian of Thraben"
+    ],
     "summary": {
       "fr": "Aggro Humains Selesnya avec des créatures à entraînement comme Hopeful Initiate, Adeline et Luminarch Aspirant, plus Katilda, Dawnhart Prime pour renforcer l'équipe.",
       "en": "Selesnya Humans aggro with training creatures like Hopeful Initiate, Adeline and Luminarch Aspirant, plus Katilda, Dawnhart Prime to pump the team."
     },
     "why": {
-      "fr": ["L'entraînement et les marqueurs +1/+1 faisaient grandir chaque attaquant", "Hopeful Initiate pouvait aussi détruire un artefact ou un enchantement", "Le vert ajoutait Katilda et Kabira Takedown au cœur mono-blanc"],
-      "en": ["Training and +1/+1 counters grew each attacker quickly", "Hopeful Initiate could also destroy an artifact or enchantment", "Green added Katilda and Kabira Takedown to the mono-white core"]
-    }
+      "fr": [
+        "L'entraînement et les marqueurs +1/+1 faisaient grandir chaque attaquant",
+        "Hopeful Initiate pouvait aussi détruire un artefact ou un enchantement",
+        "Le vert ajoutait Katilda et Kabira Takedown au cœur mono-blanc"
+      ],
+      "en": [
+        "Training and +1/+1 counters grew each attacker quickly",
+        "Hopeful Initiate could also destroy an artifact or enchantment",
+        "Green added Katilda and Kabira Takedown to the mono-white core"
+      ]
+    },
+    "rep": 454295
   },
   {
     "name": "Jeskai Control",
     "slug": "jeskai-control",
     "archetype": "control",
-    "titles": ["Jeskai Control"],
+    "titles": [
+      "Jeskai Control"
+    ],
     "cover": "Lier, Disciple of the Drowned",
-    "keyCards": ["Lier, Disciple of the Drowned", "Goldspan Dragon", "Expressive Iteration", "Unexpected Windfall", "Prismari Command"],
+    "keyCards": [
+      "Lier, Disciple of the Drowned",
+      "Goldspan Dragon",
+      "Expressive Iteration",
+      "Unexpected Windfall",
+      "Prismari Command"
+    ],
     "summary": {
       "fr": "Contrôle Jeskai à sorts d'après le ban d'Epiphany, qui rejoue éphémères et rituels avec Lier, Disciple of the Drowned et menace avec Goldspan Dragon.",
       "en": "Jeskai spells control after the Epiphany ban, replaying instants and sorceries with Lier, Disciple of the Drowned and threatening with Goldspan Dragon."
     },
     "why": {
-      "fr": ["Lier transformait le cimetière en seconde main de sorts", "Unexpected Windfall et Goldspan Dragon produisaient des Trésors pour de gros tours", "Le blanc ajoutait de l'interaction bon marché comme Valorous Stance"],
-      "en": ["Lier turned the graveyard into a second hand of spells", "Unexpected Windfall and Goldspan Dragon made Treasure for big turns", "White added cheap interaction such as Valorous Stance"]
+      "fr": [
+        "Lier transformait le cimetière en seconde main de sorts",
+        "Unexpected Windfall et Goldspan Dragon produisaient des Trésors pour de gros tours",
+        "Le blanc ajoutait de l'interaction bon marché comme Valorous Stance"
+      ],
+      "en": [
+        "Lier turned the graveyard into a second hand of spells",
+        "Unexpected Windfall and Goldspan Dragon made Treasure for big turns",
+        "White added cheap interaction such as Valorous Stance"
+      ]
     },
-    "note": "Title is mixed: Lier control, a Hinata list and a DMU-week Temporal Firestorm list."
+    "note": "Title is mixed: Lier control, a Hinata list and a DMU-week Temporal Firestorm list.",
+    "rep": 463335
   },
   {
     "name": "Naya Runes",
     "slug": "naya-runes",
     "archetype": "aggro",
-    "titles": ["Naya Runes Aggro", "Selesnya Runes Aggro"],
+    "titles": [
+      "Naya Runes Aggro",
+      "Selesnya Runes Aggro"
+    ],
     "cover": "Runeforge Champion",
-    "keyCards": ["Runeforge Champion", "Rune of Might", "Kami of Transience", "Jukai Naturalist", "Showdown of the Skalds"],
+    "keyCards": [
+      "Runeforge Champion",
+      "Rune of Might",
+      "Kami of Transience",
+      "Jukai Naturalist",
+      "Showdown of the Skalds"
+    ],
     "summary": {
       "fr": "Aggro enchantements Naya : Runes et Sagas bon marché font grandir Kami of Transience, et Jukai Naturalist et Runeforge Champion réduisent leur coût.",
       "en": "Naya enchantment aggro: cheap Runes and Sagas grow Kami of Transience, while Jukai Naturalist and Runeforge Champion reduce their cost."
     },
     "why": {
-      "fr": ["Runeforge Champion et Jukai Naturalist rendaient les Runes presque gratuites", "Chaque Rune piochait une carte en arrivant, la main restait pleine", "Kami of Transience grandissait à chaque enchantement lancé"],
-      "en": ["Runeforge Champion and Jukai Naturalist made the Runes nearly free", "Each Rune drew a card on arrival, keeping the hand full", "Kami of Transience grew with every enchantment cast"]
-    }
+      "fr": [
+        "Runeforge Champion et Jukai Naturalist rendaient les Runes presque gratuites",
+        "Chaque Rune piochait une carte en arrivant, la main restait pleine",
+        "Kami of Transience grandissait à chaque enchantement lancé"
+      ],
+      "en": [
+        "Runeforge Champion and Jukai Naturalist made the Runes nearly free",
+        "Each Rune drew a card on arrival, keeping the hand full",
+        "Kami of Transience grew with every enchantment cast"
+      ]
+    },
+    "rep": 464653
   },
   {
     "name": "Rakdos Midrange",
     "slug": "rakdos-midrange",
     "archetype": "midrange",
-    "titles": ["Rakdos Aggro"],
+    "titles": [
+      "Rakdos Aggro"
+    ],
     "cover": "Oni-Cult Anvil",
-    "keyCards": ["Oni-Cult Anvil", "Experimental Synthesizer", "Fable of the Mirror-Breaker", "Voldaren Epicure", "Bloodtithe Harvester"],
+    "keyCards": [
+      "Oni-Cult Anvil",
+      "Experimental Synthesizer",
+      "Fable of the Mirror-Breaker",
+      "Voldaren Epicure",
+      "Bloodtithe Harvester"
+    ],
     "summary": {
       "fr": "Midrange Rakdos à artefacts : Voldaren Epicure, Experimental Synthesizer et Fable créent des artefacts qu'Oni-Cult Anvil sacrifie pour drainer et créer des Constructs.",
       "en": "Rakdos artifact midrange: Voldaren Epicure, Experimental Synthesizer and Fable make artifacts that Oni-Cult Anvil sacrifices to drain and make Constructs."
     },
     "why": {
-      "fr": ["Jetons Sang et Trésors alimentaient Oni-Cult Anvil et Deadly Dispute", "Bloodtithe Harvester et Voltage Surge offraient du removal bon marché", "Fable of the Mirror-Breaker apportait filtrage et menace supplémentaire"],
-      "en": ["Blood and Treasure tokens fed Oni-Cult Anvil and Deadly Dispute", "Bloodtithe Harvester and Voltage Surge gave cheap removal", "Fable of the Mirror-Breaker added card filtering and an extra threat"]
+      "fr": [
+        "Jetons Sang et Trésors alimentaient Oni-Cult Anvil et Deadly Dispute",
+        "Bloodtithe Harvester et Voltage Surge offraient du removal bon marché",
+        "Fable of the Mirror-Breaker apportait filtrage et menace supplémentaire"
+      ],
+      "en": [
+        "Blood and Treasure tokens fed Oni-Cult Anvil and Deadly Dispute",
+        "Bloodtithe Harvester and Voltage Surge gave cheap removal",
+        "Fable of the Mirror-Breaker added card filtering and an extra threat"
+      ]
     },
-    "note": "Title also includes DMU-week Rakdos Sheoldred lists (early September); rep is the Anvil version."
+    "note": "Title also includes DMU-week Rakdos Sheoldred lists (early September); rep is the Anvil version.",
+    "rep": 468148
   },
   {
     "name": "Grixis Midrange",
     "slug": "grixis-midrange",
     "archetype": "midrange",
-    "titles": ["Grixis Aggro"],
+    "titles": [
+      "Grixis Aggro"
+    ],
     "cover": "Corpse Appraiser",
-    "keyCards": ["Corpse Appraiser", "Fable of the Mirror-Breaker", "Bloodtithe Harvester", "Kaito Shizuki", "Evelyn, the Covetous"],
+    "keyCards": [
+      "Corpse Appraiser",
+      "Fable of the Mirror-Breaker",
+      "Bloodtithe Harvester",
+      "Kaito Shizuki",
+      "Evelyn, the Covetous"
+    ],
     "summary": {
       "fr": "Midrange Grixis des Rues de la Nouvelle-Capenna avec Fable, Bloodtithe Harvester, Corpse Appraiser et Kaito, qui combine removal et menaces génératrices de valeur.",
       "en": "Grixis midrange from Streets of New Capenna with Fable, Bloodtithe Harvester, Corpse Appraiser and Kaito, combining removal with value threats."
     },
     "why": {
-      "fr": ["Fable et Corpse Appraiser tiraient de l'avantage de cartes de créatures bon marché", "Bloodtithe Harvester et Voltage Surge retiraient les petites créatures", "A atteint les demi-finales du New Capenna Championship"],
-      "en": ["Fable and Corpse Appraiser drew value from cheap bodies", "Bloodtithe Harvester and Voltage Surge removed small creatures", "Reached the semifinals of the New Capenna Championship"]
-    }
+      "fr": [
+        "Fable et Corpse Appraiser tiraient de l'avantage de cartes de créatures bon marché",
+        "Bloodtithe Harvester et Voltage Surge retiraient les petites créatures",
+        "A atteint les demi-finales du New Capenna Championship"
+      ],
+      "en": [
+        "Fable and Corpse Appraiser drew value from cheap bodies",
+        "Bloodtithe Harvester and Voltage Surge removed small creatures",
+        "Reached the semifinals of the New Capenna Championship"
+      ]
+    },
+    "rep": 473517
   },
   {
     "name": "Esper Control",
     "slug": "esper-control",
     "archetype": "control",
-    "titles": ["Esper Control"],
+    "titles": [
+      "Esper Control"
+    ],
     "cover": "Kaito Shizuki",
-    "keyCards": ["Kaito Shizuki", "The Wandering Emperor", "Lolth, Spider Queen", "Reckoner Bankbuster", "Doomskar"],
+    "keyCards": [
+      "Kaito Shizuki",
+      "The Wandering Emperor",
+      "Lolth, Spider Queen",
+      "Reckoner Bankbuster",
+      "Doomskar"
+    ],
     "summary": {
       "fr": "Contrôle Esper à planeswalkers avec The Wandering Emperor, Kaito, Lolth et Sorin, utilisant Vanishing Verse et Doomskar comme removal et Reckoner Bankbuster pour piocher.",
       "en": "Esper planeswalker control with The Wandering Emperor, Kaito, Lolth and Sorin, using Vanishing Verse and Doomskar as removal and Reckoner Bankbuster for cards."
     },
     "why": {
-      "fr": ["La masse de planeswalkers saturait le removal adverse", "Vanishing Verse et Doomskar répondaient aux départs aggro", "Reckoner Bankbuster piochait puis devenait une menace"],
-      "en": ["A suite of planeswalkers overloaded opposing removal", "Vanishing Verse and Doomskar answered aggro starts", "Reckoner Bankbuster drew cards and then became a threat"]
-    }
+      "fr": [
+        "La masse de planeswalkers saturait le removal adverse",
+        "Vanishing Verse et Doomskar répondaient aux départs aggro",
+        "Reckoner Bankbuster piochait puis devenait une menace"
+      ],
+      "en": [
+        "A suite of planeswalkers overloaded opposing removal",
+        "Vanishing Verse and Doomskar answered aggro starts",
+        "Reckoner Bankbuster drew cards and then became a threat"
+      ]
+    },
+    "rep": 468141
   },
   {
     "name": "Jeskai Hinata",
     "slug": "jeskai-hinata",
     "archetype": "control",
-    "titles": ["Jeskai Hinata"],
+    "titles": [
+      "Jeskai Hinata"
+    ],
     "cover": "Hinata, Dawn-Crowned",
-    "keyCards": ["Hinata, Dawn-Crowned", "Magma Opus", "Fable of the Mirror-Breaker", "Goldspan Dragon", "Expressive Iteration"],
+    "keyCards": [
+      "Hinata, Dawn-Crowned",
+      "Magma Opus",
+      "Fable of the Mirror-Breaker",
+      "Goldspan Dragon",
+      "Expressive Iteration"
+    ],
     "summary": {
       "fr": "Deck de sorts Jeskai où Hinata, Dawn-Crowned réduit le coût des sorts à cibles, rendant Magma Opus et March of Swirling Mist bon marché.",
       "en": "Jeskai spells deck where Hinata, Dawn-Crowned reduces the cost of targeted spells, making Magma Opus and March of Swirling Mist cheap."
     },
     "why": {
-      "fr": ["Hinata rendait les sorts à plusieurs cibles comme Magma Opus bien moins chers", "Magma Opus pouvait aussi être défaussé contre un Trésor en début de partie", "A remporté le New Capenna Championship"],
-      "en": ["Hinata made multi-target spells such as Magma Opus much cheaper", "Magma Opus could also be discarded for a Treasure early on", "Won the New Capenna Championship"]
-    }
+      "fr": [
+        "Hinata rendait les sorts à plusieurs cibles comme Magma Opus bien moins chers",
+        "Magma Opus pouvait aussi être défaussé contre un Trésor en début de partie",
+        "A remporté le New Capenna Championship"
+      ],
+      "en": [
+        "Hinata made multi-target spells such as Magma Opus much cheaper",
+        "Magma Opus could also be discarded for a Treasure early on",
+        "Won the New Capenna Championship"
+      ]
+    },
+    "rep": 473521
   },
   {
     "name": "Boros Aggro",
     "slug": "boros-aggro",
     "archetype": "aggro",
-    "titles": ["Boros Aggro"],
+    "titles": [
+      "Boros Aggro"
+    ],
     "cover": "Kumano Faces Kakkazan",
-    "keyCards": ["Kumano Faces Kakkazan", "Fable of the Mirror-Breaker", "Showdown of the Skalds", "Bloodthirsty Adversary", "Dawnbringer Cleric"],
+    "keyCards": [
+      "Kumano Faces Kakkazan",
+      "Fable of the Mirror-Breaker",
+      "Showdown of the Skalds",
+      "Bloodthirsty Adversary",
+      "Dawnbringer Cleric"
+    ],
     "summary": {
       "fr": "Aggro Boros de l'ère Kamigawa : Kumano Faces Kakkazan et des créatures bon marché mettent la pression, Fable et Showdown of the Skalds rechargent la main.",
       "en": "Kamigawa-era Boros aggro: Kumano Faces Kakkazan and cheap creatures apply early pressure, while Fable and Showdown of the Skalds refill the hand."
     },
     "why": {
-      "fr": ["Showdown of the Skalds et Fable préparaient une seconde vague", "Play with Fire et Abrade dégageaient les bloqueurs", "Bloodthirsty Adversary relançait du removal depuis le cimetière"],
-      "en": ["Showdown of the Skalds and Fable set up a second wave", "Play with Fire and Abrade cleared blockers", "Bloodthirsty Adversary recast removal from the graveyard"]
-    }
+      "fr": [
+        "Showdown of the Skalds et Fable préparaient une seconde vague",
+        "Play with Fire et Abrade dégageaient les bloqueurs",
+        "Bloodthirsty Adversary relançait du removal depuis le cimetière"
+      ],
+      "en": [
+        "Showdown of the Skalds and Fable set up a second wave",
+        "Play with Fire and Abrade cleared blockers",
+        "Bloodthirsty Adversary recast removal from the graveyard"
+      ]
+    },
+    "rep": 466555
   },
   {
     "name": "Mono-Black Midrange",
     "slug": "mono-black-midrange",
     "archetype": "midrange",
-    "titles": ["Mono Black Control", "Mono Black Midrange", "Mono Black Aggro"],
+    "titles": [
+      "Mono Black Control",
+      "Mono Black Midrange",
+      "Mono Black Aggro"
+    ],
     "cover": "Champion of the Perished",
-    "keyCards": ["Champion of the Perished", "Jadar, Ghoulcaller of Nephalia", "Tainted Adversary", "The Meathook Massacre", "Lolth, Spider Queen"],
+    "keyCards": [
+      "Champion of the Perished",
+      "Jadar, Ghoulcaller of Nephalia",
+      "Tainted Adversary",
+      "The Meathook Massacre",
+      "Lolth, Spider Queen"
+    ],
     "summary": {
       "fr": "Midrange mono-noir Zombies : Jadar et Tainted Adversary créent des Zombies qui font grandir Champion of the Perished, avec The Meathook Massacre et Lolth pour la valeur.",
       "en": "Mono-black Zombies midrange: Jadar and Tainted Adversary make Zombies that grow Champion of the Perished, with The Meathook Massacre and Lolth for value."
     },
     "why": {
-      "fr": ["Les Zombies de Jadar servaient au sacrifice et à Champion of the Perished", "The Meathook Massacre balayait les petites créatures en drainant", "A atteint la finale de l'Innistrad Championship"],
-      "en": ["Jadar's Zombie tokens fed sacrifice and Champion of the Perished", "The Meathook Massacre swept small creatures while draining", "Reached the final of the Innistrad Championship"]
+      "fr": [
+        "Les Zombies de Jadar servaient au sacrifice et à Champion of the Perished",
+        "The Meathook Massacre balayait les petites créatures en drainant",
+        "A atteint la finale de l'Innistrad Championship"
+      ],
+      "en": [
+        "Jadar's Zombie tokens fed sacrifice and Champion of the Perished",
+        "The Meathook Massacre swept small creatures while draining",
+        "Reached the final of the Innistrad Championship"
+      ]
     },
-    "note": "Merged Mono-Black Zombies (Champion of the Perished) with the Lolth / Sedgemoor Witch 'Mono Black Control' title: shared Jadar, Shambling Ghast, Meathook core. Three top 8s combined."
+    "note": "Merged Mono-Black Zombies (Champion of the Perished) with the Lolth / Sedgemoor Witch 'Mono Black Control' title: shared Jadar, Shambling Ghast, Meathook core. Three top 8s combined.",
+    "rep": 456258
   },
   {
     "name": "Naya Midrange",
     "slug": "naya-midrange",
     "archetype": "midrange",
-    "titles": ["Naya Aggro"],
+    "titles": [
+      "Naya Aggro"
+    ],
     "cover": "Wedding Announcement",
-    "keyCards": ["Wedding Announcement", "Esika's Chariot", "Fable of the Mirror-Breaker", "The Wandering Emperor", "Gala Greeters"],
+    "keyCards": [
+      "Wedding Announcement",
+      "Esika's Chariot",
+      "Fable of the Mirror-Breaker",
+      "The Wandering Emperor",
+      "Gala Greeters"
+    ],
     "summary": {
       "fr": "Midrange Naya avec Wedding Announcement, Esika's Chariot, Fable et The Wandering Emperor, et Gala Greeters et Luminarch Aspirant en début de partie.",
       "en": "Naya midrange with Wedding Announcement, Esika's Chariot, Fable and The Wandering Emperor, using Gala Greeters and Luminarch Aspirant early."
     },
     "why": {
-      "fr": ["Wedding Announcement et Esika's Chariot élargissaient le board", "Voltage Surge et The Wandering Emperor géraient les créatures adverses", "A atteint les demi-finales du New Capenna Championship"],
-      "en": ["Wedding Announcement and Esika's Chariot went wide", "Voltage Surge and The Wandering Emperor handled opposing creatures", "Reached the semifinals of the New Capenna Championship"]
+      "fr": [
+        "Wedding Announcement et Esika's Chariot élargissaient le board",
+        "Voltage Surge et The Wandering Emperor géraient les créatures adverses",
+        "A atteint les demi-finales du New Capenna Championship"
+      ],
+      "en": [
+        "Wedding Announcement and Esika's Chariot went wide",
+        "Voltage Surge and The Wandering Emperor handled opposing creatures",
+        "Reached the semifinals of the New Capenna Championship"
+      ]
     },
-    "note": "Only one top 8 (3rd at the New Capenna Championship). Included by treating the Set Championship as a top-tier event; drop if the rule is read strictly."
+    "note": "Only one top 8 (3rd at the New Capenna Championship). Included by treating the Set Championship as a top-tier event; drop if the rule is read strictly.",
+    "rep": 473515
   }
 ]

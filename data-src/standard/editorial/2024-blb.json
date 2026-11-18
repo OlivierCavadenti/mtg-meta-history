@@ -3,388 +3,833 @@
     "name": "Izzet Prowess",
     "slug": "izzet-prowess",
     "archetype": "aggro",
-    "titles": ["UR Aggro", "UR Cutter", "Ur Aggro", "Ur Cutter", "Izzet Prowess", "Temur Aggro"],
+    "titles": [
+      "UR Aggro",
+      "UR Cutter",
+      "Ur Aggro",
+      "Ur Cutter",
+      "Izzet Prowess",
+      "Temur Aggro"
+    ],
     "cover": "Cori-Steel Cutter",
-    "keyCards": ["Cori-Steel Cutter", "Monastery Swiftspear", "Slickshot Show-Off", "Monstrous Rage", "Stormchaser's Talent"],
+    "keyCards": [
+      "Cori-Steel Cutter",
+      "Monastery Swiftspear",
+      "Slickshot Show-Off",
+      "Monstrous Rage",
+      "Stormchaser's Talent"
+    ],
     "summary": {
       "fr": "Aggro-prouesse bleu-rouge : cantrips et sorts bon marché déclenchent la prouesse et font naître des Monks avec Cori-Steel Cutter.",
       "en": "Blue-red prowess aggro: cantrips and cheap spells trigger prowess and create Monk tokens with Cori-Steel Cutter."
     },
     "why": {
-      "fr": ["Cori-Steel Cutter créait un Monk dès le deuxième sort du tour", "Opt et Sleight of Hand garantissaient un flux constant de sorts", "Cori-Steel Cutter et Monstrous Rage ont été bannis en fin de saison"],
-      "en": ["Cori-Steel Cutter made a Monk off the second spell each turn", "Opt and Sleight of Hand kept the spell count high", "Cori-Steel Cutter and Monstrous Rage were banned at the end of the season"]
+      "fr": [
+        "Cori-Steel Cutter créait un Monk dès le deuxième sort du tour",
+        "Opt et Sleight of Hand garantissaient un flux constant de sorts",
+        "Cori-Steel Cutter et Monstrous Rage ont été bannis en fin de saison"
+      ],
+      "en": [
+        "Cori-Steel Cutter made a Monk off the second spell each turn",
+        "Opt and Sleight of Hand kept the spell count high",
+        "Cori-Steel Cutter and Monstrous Rage were banned at the end of the season"
+      ]
     },
-    "note": "Includes Vivi Ornitier builds (PT Final Fantasy) and a Temur variant."
+    "note": "Includes Vivi Ornitier builds (PT Final Fantasy) and a Temur variant.",
+    "rep": 714831
   },
   {
     "name": "Mono-Red Aggro",
     "slug": "mono-red-aggro",
     "archetype": "aggro",
-    "titles": ["Red Deck Wins", "Mono-red Aggro"],
+    "titles": [
+      "Red Deck Wins",
+      "Mono-red Aggro"
+    ],
     "cover": "Heartfire Hero",
-    "keyCards": ["Heartfire Hero", "Emberheart Challenger", "Manifold Mouse", "Screaming Nemesis", "Monstrous Rage"],
+    "keyCards": [
+      "Heartfire Hero",
+      "Emberheart Challenger",
+      "Manifold Mouse",
+      "Screaming Nemesis",
+      "Monstrous Rage"
+    ],
     "summary": {
       "fr": "Aggro mono-rouge aux créatures de Bloomburrow : les sorts ciblés font grandir Heartfire Hero et déclenchent Emberheart Challenger.",
       "en": "Mono-red aggro on Bloomburrow creatures: targeted spells grow Heartfire Hero and trigger Emberheart Challenger."
     },
     "why": {
-      "fr": ["Manifold Mouse donnait la double initiative à un héros boosté", "Screaming Nemesis punissait les removals et les bloqueurs", "Vainqueur du Pro Tour Final Fantasy ; Heartfire Hero banni ensuite"],
-      "en": ["Manifold Mouse gave double strike to a pumped hero", "Screaming Nemesis punished removal and blockers", "Won Pro Tour Final Fantasy; Heartfire Hero was banned afterwards"]
-    }
+      "fr": [
+        "Manifold Mouse donnait la double initiative à un héros boosté",
+        "Screaming Nemesis punissait les removals et les bloqueurs",
+        "Vainqueur du Pro Tour Final Fantasy ; Heartfire Hero banni ensuite"
+      ],
+      "en": [
+        "Manifold Mouse gave double strike to a pumped hero",
+        "Screaming Nemesis punished removal and blockers",
+        "Won Pro Tour Final Fantasy; Heartfire Hero was banned afterwards"
+      ]
+    },
+    "rep": 732020
   },
   {
     "name": "Dimir Midrange",
     "slug": "dimir-midrange",
     "archetype": "midrange",
-    "titles": ["Dimir Aggro", "Dimir Midrange", "Dimir Tempo", "Dimir tempo"],
+    "titles": [
+      "Dimir Aggro",
+      "Dimir Midrange",
+      "Dimir Tempo",
+      "Dimir tempo"
+    ],
     "cover": "Kaito, Bane of Nightmares",
-    "keyCards": ["Kaito, Bane of Nightmares", "Enduring Curiosity", "Floodpits Drowner", "Deep-Cavern Bat", "Preacher of the Schism"],
+    "keyCards": [
+      "Kaito, Bane of Nightmares",
+      "Enduring Curiosity",
+      "Floodpits Drowner",
+      "Deep-Cavern Bat",
+      "Preacher of the Schism"
+    ],
     "summary": {
       "fr": "Midrange bleu-noir de créatures efficaces et de removals instantanés, qui accumule les cartes avec Enduring Curiosity et Kaito.",
       "en": "Blue-black midrange of efficient creatures and instant removal, drawing extra cards with Enduring Curiosity and Kaito."
     },
     "why": {
-      "fr": ["Kaito, Bane of Nightmares était une menace difficile à gérer", "Floodpits Drowner et Tishana's Tidebinder ajoutaient du tempo au flash", "Nombreux tops 8 en Regional Championship"],
-      "en": ["Kaito, Bane of Nightmares was a hard threat to answer", "Floodpits Drowner and Tishana's Tidebinder added flash tempo", "Many Regional Championship top 8s"]
-    }
+      "fr": [
+        "Kaito, Bane of Nightmares était une menace difficile à gérer",
+        "Floodpits Drowner et Tishana's Tidebinder ajoutaient du tempo au flash",
+        "Nombreux tops 8 en Regional Championship"
+      ],
+      "en": [
+        "Kaito, Bane of Nightmares was a hard threat to answer",
+        "Floodpits Drowner and Tishana's Tidebinder added flash tempo",
+        "Many Regional Championship top 8s"
+      ]
+    },
+    "rep": 715006
   },
   {
     "name": "Gruul Prowess",
     "slug": "gruul-prowess",
     "archetype": "aggro",
-    "titles": ["Gruul Aggro", "Gruul Resonance"],
+    "titles": [
+      "Gruul Aggro",
+      "Gruul Resonance"
+    ],
     "cover": "Leyline of Resonance",
-    "keyCards": ["Leyline of Resonance", "Heartfire Hero", "Cacophony Scamp", "Questing Druid", "Snakeskin Veil"],
+    "keyCards": [
+      "Leyline of Resonance",
+      "Heartfire Hero",
+      "Cacophony Scamp",
+      "Questing Druid",
+      "Snakeskin Veil"
+    ],
     "summary": {
       "fr": "Aggro rouge-vert à sorts ciblés : Leyline of Resonance copie les boosts et Heartfire Hero ou Cacophony Scamp transforment l'attaque en dégâts.",
       "en": "Red-green aggro on targeted spells: Leyline of Resonance copies pump spells and Heartfire Hero or Cacophony Scamp turn attacks into damage."
     },
     "why": {
-      "fr": ["Leyline of Resonance en main de départ permettait des victoires très rapides", "Snakeskin Veil et Overprotect protégeaient la créature boostée", "Top 4 au Pro Tour Aetherdrift"],
-      "en": ["Leyline of Resonance in the opening hand allowed very fast wins", "Snakeskin Veil and Overprotect protected the pumped creature", "Top 4 at Pro Tour Aetherdrift"]
-    }
+      "fr": [
+        "Leyline of Resonance en main de départ permettait des victoires très rapides",
+        "Snakeskin Veil et Overprotect protégeaient la créature boostée",
+        "Top 4 au Pro Tour Aetherdrift"
+      ],
+      "en": [
+        "Leyline of Resonance in the opening hand allowed very fast wins",
+        "Snakeskin Veil and Overprotect protected the pumped creature",
+        "Top 4 at Pro Tour Aetherdrift"
+      ]
+    },
+    "rep": 678483
   },
   {
     "name": "Omniscience Combo",
     "slug": "omniscience-combo",
     "archetype": "combo",
-    "titles": ["Omniscience Combo", "Azorius Omniscience", "Omniscience control"],
+    "titles": [
+      "Omniscience Combo",
+      "Azorius Omniscience",
+      "Omniscience control"
+    ],
     "cover": "Omniscience",
-    "keyCards": ["Omniscience", "Abuelo's Awakening", "Roiling Dragonstorm", "Marang River Regent", "Temporary Lockdown"],
+    "keyCards": [
+      "Omniscience",
+      "Abuelo's Awakening",
+      "Roiling Dragonstorm",
+      "Marang River Regent",
+      "Temporary Lockdown"
+    ],
     "summary": {
       "fr": "Combo Azorius : le deck met Omniscience au cimetière, la ramène avec Abuelo's Awakening puis lance sa main gratuitement.",
       "en": "Azorius combo: the deck puts Omniscience in the graveyard, returns it with Abuelo's Awakening, then casts its hand for free."
     },
     "why": {
-      "fr": ["Omniscience pouvait arriver en jeu bien avant son coût", "Temporary Lockdown et les contresorts ralentissaient les decks aggro", "Vainqueur de plusieurs Regional Championships ; Abuelo's Awakening banni"],
-      "en": ["Omniscience could hit play well ahead of its cost", "Temporary Lockdown and counterspells slowed aggro decks", "Won several Regional Championships; Abuelo's Awakening was banned"]
-    }
+      "fr": [
+        "Omniscience pouvait arriver en jeu bien avant son coût",
+        "Temporary Lockdown et les contresorts ralentissaient les decks aggro",
+        "Vainqueur de plusieurs Regional Championships ; Abuelo's Awakening banni"
+      ],
+      "en": [
+        "Omniscience could hit play well ahead of its cost",
+        "Temporary Lockdown and counterspells slowed aggro decks",
+        "Won several Regional Championships; Abuelo's Awakening was banned"
+      ]
+    },
+    "rep": 720003
   },
   {
     "name": "Golgari Midrange",
     "slug": "golgari-midrange",
     "archetype": "midrange",
-    "titles": ["Golgari Aggro", "Golgari Midrange"],
+    "titles": [
+      "Golgari Aggro",
+      "Golgari Midrange"
+    ],
     "cover": "Archfiend of the Dross",
-    "keyCards": ["Archfiend of the Dross", "Caustic Bronco", "Mosswood Dreadknight", "Glissa Sunslayer", "Unholy Annex/Ritual Chamber"],
+    "keyCards": [
+      "Archfiend of the Dross",
+      "Caustic Bronco",
+      "Mosswood Dreadknight",
+      "Glissa Sunslayer",
+      "Unholy Annex/Ritual Chamber"
+    ],
     "summary": {
       "fr": "Midrange noir-vert : menaces efficaces comme Archfiend of the Dross et Glissa Sunslayer, appuyées par du discard et du removal.",
       "en": "Black-green midrange: efficient threats such as Archfiend of the Dross and Glissa Sunslayer, backed by discard and removal."
     },
     "why": {
-      "fr": ["Archfiend of the Dross et Unholy Annex mettaient une pression rapide", "Restless Cottage et Mosswood Dreadknight donnaient de la valeur", "Finaliste du championnat du monde"],
-      "en": ["Archfiend of the Dross and Unholy Annex applied fast pressure", "Restless Cottage and Mosswood Dreadknight provided value", "Reached the World Championship final"]
-    }
+      "fr": [
+        "Archfiend of the Dross et Unholy Annex mettaient une pression rapide",
+        "Restless Cottage et Mosswood Dreadknight donnaient de la valeur",
+        "Finaliste du championnat du monde"
+      ],
+      "en": [
+        "Archfiend of the Dross and Unholy Annex applied fast pressure",
+        "Restless Cottage and Mosswood Dreadknight provided value",
+        "Reached the World Championship final"
+      ]
+    },
+    "rep": 658057
   },
   {
     "name": "Domain Overlords",
     "slug": "domain-overlords",
     "archetype": "control",
-    "titles": ["Zur, Eternal Schemer", "Zur", "4/5C Control", "Domain Overlords", "Domain Control", "4/5C Zur, Eternal Schemer", "Zur Control"],
+    "titles": [
+      "Zur, Eternal Schemer",
+      "Zur",
+      "4/5C Control",
+      "Domain Overlords",
+      "Domain Control",
+      "4/5C Zur, Eternal Schemer",
+      "Zur Control"
+    ],
     "cover": "Zur, Eternal Schemer",
-    "keyCards": ["Zur, Eternal Schemer", "Overlord of the Mistmoors", "Overlord of the Hauntwoods", "Leyline Binding", "Up the Beanstalk"],
+    "keyCards": [
+      "Zur, Eternal Schemer",
+      "Overlord of the Mistmoors",
+      "Overlord of the Hauntwoods",
+      "Leyline Binding",
+      "Up the Beanstalk"
+    ],
     "summary": {
       "fr": "Contrôle domaine sur les Overlords de Duskmourn : removals bon marché, Up the Beanstalk et Zur, Eternal Schemer pour transformer les enchantements en menaces.",
       "en": "Domain control on the Duskmourn Overlords: cheap removal, Up the Beanstalk and Zur, Eternal Schemer turning enchantments into threats."
     },
     "why": {
-      "fr": ["Les Overlords offraient valeur immédiate puis menaces durables", "Leyline Binding et Ride's End géraient les menaces à faible coût", "Vainqueur du Pro Tour Aetherdrift"],
-      "en": ["Overlords gave immediate value and later lasting threats", "Leyline Binding and Ride's End handled threats cheaply", "Won Pro Tour Aetherdrift"]
+      "fr": [
+        "Les Overlords offraient valeur immédiate puis menaces durables",
+        "Leyline Binding et Ride's End géraient les menaces à faible coût",
+        "Vainqueur du Pro Tour Aetherdrift"
+      ],
+      "en": [
+        "Overlords gave immediate value and later lasting threats",
+        "Leyline Binding and Ride's End handled threats cheaply",
+        "Won Pro Tour Aetherdrift"
+      ]
     },
-    "note": "Also called Zur Domain or 4c Zur; Up the Beanstalk was banned at season end."
+    "note": "Also called Zur Domain or 4c Zur; Up the Beanstalk was banned at season end.",
+    "rep": 692395
   },
   {
     "name": "Esper Pixie",
     "slug": "esper-pixie",
     "archetype": "tempo",
-    "titles": ["Esper Pixies", "Esper Pixie", "Esper Aggro", "Esper Control", "Esper Enchantment", "Esper Tempo"],
+    "titles": [
+      "Esper Pixies",
+      "Esper Pixie",
+      "Esper Aggro",
+      "Esper Control",
+      "Esper Enchantment",
+      "Esper Tempo"
+    ],
     "cover": "Nurturing Pixie",
-    "keyCards": ["Nurturing Pixie", "Fear of Isolation", "This Town Ain't Big Enough", "Hopeless Nightmare", "Stormchaser's Talent"],
+    "keyCards": [
+      "Nurturing Pixie",
+      "Fear of Isolation",
+      "This Town Ain't Big Enough",
+      "Hopeless Nightmare",
+      "Stormchaser's Talent"
+    ],
     "summary": {
       "fr": "Tempo d'enchantements Esper : Nurturing Pixie et les autres bounces renvoient des enchantements à valeur comme Hopeless Nightmare.",
       "en": "Esper enchantment tempo: Nurturing Pixie and other bounce effects replay value enchantments such as Hopeless Nightmare."
     },
     "why": {
-      "fr": ["Chaque bounce rejouait un enchantement et faisait reculer l'adversaire", "Nowhere to Run gérait les créatures avec protection", "Hopeless Nightmare et This Town Ain't Big Enough ont été bannis"],
-      "en": ["Each bounce replayed an enchantment while setting the opponent back", "Nowhere to Run handled protected creatures", "Hopeless Nightmare and This Town Ain't Big Enough were banned"]
-    }
+      "fr": [
+        "Chaque bounce rejouait un enchantement et faisait reculer l'adversaire",
+        "Nowhere to Run gérait les créatures avec protection",
+        "Hopeless Nightmare et This Town Ain't Big Enough ont été bannis"
+      ],
+      "en": [
+        "Each bounce replayed an enchantment while setting the opponent back",
+        "Nowhere to Run handled protected creatures",
+        "Hopeless Nightmare and This Town Ain't Big Enough were banned"
+      ]
+    },
+    "rep": 699141
   },
   {
     "name": "Azorius Oculus",
     "slug": "azorius-oculus",
     "archetype": "tempo",
-    "titles": ["Azorius Aggro"],
+    "titles": [
+      "Azorius Aggro"
+    ],
     "cover": "Abhorrent Oculus",
-    "keyCards": ["Abhorrent Oculus", "Haughty Djinn", "Picklock Prankster", "Helping Hand", "Moment of Truth"],
+    "keyCards": [
+      "Abhorrent Oculus",
+      "Haughty Djinn",
+      "Picklock Prankster",
+      "Helping Hand",
+      "Moment of Truth"
+    ],
     "summary": {
       "fr": "Tempo blanc-bleu de sorts bon marché : le cimetière se remplit pour Abhorrent Oculus, Haughty Djinn grandit et Helping Hand réanime l'Oculus.",
       "en": "White-blue tempo on cheap spells: the graveyard fills for Abhorrent Oculus, Haughty Djinn grows and Helping Hand reanimates the Oculus."
     },
     "why": {
-      "fr": ["Helping Hand mettait Abhorrent Oculus en jeu dès le deuxième tour", "Picklock Prankster et Moment of Truth alimentaient le cimetière", "Plusieurs victoires en tournois majeurs au Japon"],
-      "en": ["Helping Hand put Abhorrent Oculus into play on turn two", "Picklock Prankster and Moment of Truth stocked the graveyard", "Several major event wins in Japan"]
-    }
+      "fr": [
+        "Helping Hand mettait Abhorrent Oculus en jeu dès le deuxième tour",
+        "Picklock Prankster et Moment of Truth alimentaient le cimetière",
+        "Plusieurs victoires en tournois majeurs au Japon"
+      ],
+      "en": [
+        "Helping Hand put Abhorrent Oculus into play on turn two",
+        "Picklock Prankster and Moment of Truth stocked the graveyard",
+        "Several major event wins in Japan"
+      ]
+    },
+    "rep": 654616
   },
   {
     "name": "Jeskai Oculus",
     "slug": "jeskai-oculus",
     "archetype": "tempo",
-    "titles": ["Jeskai Eidetic Memory", "Jeskai Oculus", "Jesaki Occulus"],
+    "titles": [
+      "Jeskai Eidetic Memory",
+      "Jeskai Oculus",
+      "Jesaki Occulus"
+    ],
     "cover": "Proft's Eidetic Memory",
-    "keyCards": ["Abhorrent Oculus", "Proft's Eidetic Memory", "Fear of Missing Out", "Marauding Mako", "Helping Hand"],
+    "keyCards": [
+      "Abhorrent Oculus",
+      "Proft's Eidetic Memory",
+      "Fear of Missing Out",
+      "Marauding Mako",
+      "Helping Hand"
+    ],
     "summary": {
       "fr": "Tempo Jeskai de défausse et pioche : les créatures grandissent via Marauding Mako et Proft's Eidetic Memory, Helping Hand ramène Abhorrent Oculus.",
       "en": "Jeskai discard-and-draw tempo: creatures grow through Marauding Mako and Proft's Eidetic Memory, Helping Hand brings back Abhorrent Oculus."
     },
     "why": {
-      "fr": ["Les loots remplissaient le cimetière tout en faisant grandir les créatures", "Proft's Eidetic Memory récompensait chaque carte piochée en plus", "Vainqueur d'un Regional Championship à Minneapolis"],
-      "en": ["Looting filled the graveyard while growing creatures", "Proft's Eidetic Memory rewarded every extra card drawn", "Won the Regional Championship at Minneapolis"]
-    }
+      "fr": [
+        "Les loots remplissaient le cimetière tout en faisant grandir les créatures",
+        "Proft's Eidetic Memory récompensait chaque carte piochée en plus",
+        "Vainqueur d'un Regional Championship à Minneapolis"
+      ],
+      "en": [
+        "Looting filled the graveyard while growing creatures",
+        "Proft's Eidetic Memory rewarded every extra card drawn",
+        "Won the Regional Championship at Minneapolis"
+      ]
+    },
+    "rep": 717017
   },
   {
     "name": "Azorius Control",
     "slug": "azorius-control",
     "archetype": "control",
-    "titles": ["UW Control", "Uw Control"],
+    "titles": [
+      "UW Control",
+      "Uw Control"
+    ],
     "cover": "Beza, the Bounding Spring",
-    "keyCards": ["Beza, the Bounding Spring", "Marang River Regent", "Temporary Lockdown", "Stock Up", "No More Lies"],
+    "keyCards": [
+      "Beza, the Bounding Spring",
+      "Marang River Regent",
+      "Temporary Lockdown",
+      "Stock Up",
+      "No More Lies"
+    ],
     "summary": {
       "fr": "Contrôle blanc-bleu avec Stock Up, Temporary Lockdown et des créatures à valeur comme Beza et Marang River Regent.",
       "en": "White-blue control with Stock Up, Temporary Lockdown and value creatures such as Beza and Marang River Regent."
     },
     "why": {
-      "fr": ["Temporary Lockdown nettoyait les petites menaces aggro", "Marang River Regent servait de bounce double et de menace volante", "Finaliste d'un Regional Championship à Hartford"],
-      "en": ["Temporary Lockdown cleared cheap aggro threats", "Marang River Regent doubled as bounce and a flying threat", "Reached a Regional Championship final at Hartford"]
-    }
+      "fr": [
+        "Temporary Lockdown nettoyait les petites menaces aggro",
+        "Marang River Regent servait de bounce double et de menace volante",
+        "Finaliste d'un Regional Championship à Hartford"
+      ],
+      "en": [
+        "Temporary Lockdown cleared cheap aggro threats",
+        "Marang River Regent doubled as bounce and a flying threat",
+        "Reached a Regional Championship final at Hartford"
+      ]
+    },
+    "rep": 724330
   },
   {
     "name": "Boros Aggro",
     "slug": "boros-aggro",
     "archetype": "aggro",
-    "titles": ["Boros Aggro"],
+    "titles": [
+      "Boros Aggro"
+    ],
     "cover": "Manifold Mouse",
-    "keyCards": ["Heartfire Hero", "Emberheart Challenger", "Manifold Mouse", "Sheltered by Ghosts", "Shardmage's Rescue"],
+    "keyCards": [
+      "Heartfire Hero",
+      "Emberheart Challenger",
+      "Manifold Mouse",
+      "Sheltered by Ghosts",
+      "Shardmage's Rescue"
+    ],
     "summary": {
       "fr": "Aggro rouge-blanc sur les héros souris de Bloomburrow, avec des auras qui protègent et déclenchent le valiant.",
       "en": "Red-white aggro on Bloomburrow's mouse heroes, with Auras that protect them and trigger valiant."
     },
     "why": {
-      "fr": ["Sheltered by Ghosts exilait un bloqueur et protégeait la cible", "Les auras bon marché déclenchaient Heartfire Hero et Emberheart Challenger", "Version blanche du plan mono-rouge"],
-      "en": ["Sheltered by Ghosts exiled a blocker and protected the target", "Cheap Auras triggered Heartfire Hero and Emberheart Challenger", "White-splashed version of the mono-red plan"]
-    }
+      "fr": [
+        "Sheltered by Ghosts exilait un bloqueur et protégeait la cible",
+        "Les auras bon marché déclenchaient Heartfire Hero et Emberheart Challenger",
+        "Version blanche du plan mono-rouge"
+      ],
+      "en": [
+        "Sheltered by Ghosts exiled a blocker and protected the target",
+        "Cheap Auras triggered Heartfire Hero and Emberheart Challenger",
+        "White-splashed version of the mono-red plan"
+      ]
+    },
+    "rep": 671245
   },
   {
     "name": "Jeskai Convoke",
     "slug": "jeskai-convoke",
     "archetype": "aggro",
-    "titles": ["Jeskai Convoke", "Jeskai Aggro", "Boros Convoke"],
+    "titles": [
+      "Jeskai Convoke",
+      "Jeskai Aggro",
+      "Boros Convoke"
+    ],
     "cover": "Warleader's Call",
-    "keyCards": ["Gleeful Demolition", "Knight-Errant of Eos", "Imodane's Recruiter", "Warleader's Call", "Spyglass Siren"],
+    "keyCards": [
+      "Gleeful Demolition",
+      "Knight-Errant of Eos",
+      "Imodane's Recruiter",
+      "Warleader's Call",
+      "Spyglass Siren"
+    ],
     "summary": {
       "fr": "Suite du deck Convoke de la saison précédente, avec Spyglass Siren pour le bleu : jetons, convocation et Warleader's Call.",
       "en": "Continuation of the previous season's Convoke deck with blue for Spyglass Siren: tokens, convoke and Warleader's Call."
     },
     "why": {
-      "fr": ["Le plan go-wide restait rapide après la rotation", "Gleeful Demolition et Novice Inspector permettaient des départs explosifs", "Présent surtout dans la première moitié de la saison"],
-      "en": ["The go-wide plan stayed fast after rotation", "Gleeful Demolition and Novice Inspector enabled explosive starts", "Mostly seen in the first half of the season"]
-    }
+      "fr": [
+        "Le plan go-wide restait rapide après la rotation",
+        "Gleeful Demolition et Novice Inspector permettaient des départs explosifs",
+        "Présent surtout dans la première moitié de la saison"
+      ],
+      "en": [
+        "The go-wide plan stayed fast after rotation",
+        "Gleeful Demolition and Novice Inspector enabled explosive starts",
+        "Mostly seen in the first half of the season"
+      ]
+    },
+    "rep": 639951
   },
   {
     "name": "Orzhov Pixie",
     "slug": "orzhov-pixie",
     "archetype": "midrange",
-    "titles": ["Orzhov Aggro", "Orzhov Control", "Abzan Aggro"],
+    "titles": [
+      "Orzhov Aggro",
+      "Orzhov Control",
+      "Abzan Aggro"
+    ],
     "cover": "Sunpearl Kirin",
-    "keyCards": ["Nurturing Pixie", "Sunpearl Kirin", "Hopeless Nightmare", "Temporary Lockdown", "Preacher of the Schism"],
+    "keyCards": [
+      "Nurturing Pixie",
+      "Sunpearl Kirin",
+      "Hopeless Nightmare",
+      "Temporary Lockdown",
+      "Preacher of the Schism"
+    ],
     "summary": {
       "fr": "Midrange blanc-noir d'enchantements : Nurturing Pixie et Sunpearl Kirin rejouent Hopeless Nightmare, Nowhere to Run ou Momentum Breaker.",
       "en": "White-black enchantment midrange: Nurturing Pixie and Sunpearl Kirin replay Hopeless Nightmare, Nowhere to Run or Momentum Breaker."
     },
     "why": {
-      "fr": ["Les bounces de Pixie et Kirin piochaient et rejouaient du removal", "Temporary Lockdown nettoyait les jetons et petites créatures", "Une variante Abzan suivait le même plan"],
-      "en": ["Pixie and Kirin bounces drew cards and replayed removal", "Temporary Lockdown cleared tokens and small creatures", "An Abzan variant ran the same plan"]
-    }
+      "fr": [
+        "Les bounces de Pixie et Kirin piochaient et rejouaient du removal",
+        "Temporary Lockdown nettoyait les jetons et petites créatures",
+        "Une variante Abzan suivait le même plan"
+      ],
+      "en": [
+        "Pixie and Kirin bounces drew cards and replayed removal",
+        "Temporary Lockdown cleared tokens and small creatures",
+        "An Abzan variant ran the same plan"
+      ]
+    },
+    "rep": 717481
   },
   {
     "name": "Mono-Black Midrange",
     "slug": "mono-black-midrange",
     "archetype": "midrange",
-    "titles": ["Mono Black Aggro", "Mono Black Control", "Mono Black Midrange", "Orzhov Midrange"],
+    "titles": [
+      "Mono Black Aggro",
+      "Mono Black Control",
+      "Mono Black Midrange",
+      "Orzhov Midrange"
+    ],
     "cover": "Archfiend of the Dross",
-    "keyCards": ["Archfiend of the Dross", "Unholy Annex/Ritual Chamber", "Preacher of the Schism", "Deep-Cavern Bat", "Go for the Throat"],
+    "keyCards": [
+      "Archfiend of the Dross",
+      "Unholy Annex/Ritual Chamber",
+      "Preacher of the Schism",
+      "Deep-Cavern Bat",
+      "Go for the Throat"
+    ],
     "summary": {
       "fr": "Midrange mono-noir : Unholy Annex et les démons comme Archfiend of the Dross drainent l'adversaire derrière des removals bon marché.",
       "en": "Mono-black midrange: Unholy Annex and demons such as Archfiend of the Dross drain the opponent behind cheap removal."
     },
     "why": {
-      "fr": ["Unholy Annex piochait et drainait chaque tour avec un démon", "Mana de base solide grâce aux terrains utilitaires mono-noirs", "Vainqueur d'une Japan Cup"],
-      "en": ["Unholy Annex drew and drained each turn with a demon in play", "Solid mono-coloured mana with black utility lands", "Won a Japan Cup"]
-    }
+      "fr": [
+        "Unholy Annex piochait et drainait chaque tour avec un démon",
+        "Mana de base solide grâce aux terrains utilitaires mono-noirs",
+        "Vainqueur d'une Japan Cup"
+      ],
+      "en": [
+        "Unholy Annex drew and drained each turn with a demon in play",
+        "Solid mono-coloured mana with black utility lands",
+        "Won a Japan Cup"
+      ]
+    },
+    "rep": 717717
   },
   {
     "name": "Jeskai Control",
     "slug": "jeskai-control",
     "archetype": "control",
-    "titles": ["Jeskai Control"],
+    "titles": [
+      "Jeskai Control"
+    ],
     "cover": "Shiko, Paragon of the Way",
-    "keyCards": ["Shiko, Paragon of the Way", "Lightning Helix", "Beza, the Bounding Spring", "Stock Up", "Temporary Lockdown"],
+    "keyCards": [
+      "Shiko, Paragon of the Way",
+      "Lightning Helix",
+      "Beza, the Bounding Spring",
+      "Stock Up",
+      "Temporary Lockdown"
+    ],
     "summary": {
       "fr": "Contrôle Jeskai : Lightning Helix contre l'aggro, Shiko qui relance Stock Up ou un removal depuis le cimetière.",
       "en": "Jeskai control: Lightning Helix against aggro, Shiko recasting Stock Up or removal from the graveyard."
     },
     "why": {
-      "fr": ["Lightning Helix gagnait de la vie et du tempo contre les decks rouges", "Shiko, Paragon of the Way rejouait un sort depuis le cimetière", "Finaliste d'un Regional Championship à Minneapolis"],
-      "en": ["Lightning Helix gained life and tempo against red decks", "Shiko, Paragon of the Way recast a spell from the graveyard", "Reached a Regional Championship final at Minneapolis"]
-    }
+      "fr": [
+        "Lightning Helix gagnait de la vie et du tempo contre les decks rouges",
+        "Shiko, Paragon of the Way rejouait un sort depuis le cimetière",
+        "Finaliste d'un Regional Championship à Minneapolis"
+      ],
+      "en": [
+        "Lightning Helix gained life and tempo against red decks",
+        "Shiko, Paragon of the Way recast a spell from the graveyard",
+        "Reached a Regional Championship final at Minneapolis"
+      ]
+    },
+    "rep": 716870
   },
   {
     "name": "Mono-White Control",
     "slug": "mono-white-control",
     "archetype": "control",
-    "titles": ["Mono White Control"],
+    "titles": [
+      "Mono White Control"
+    ],
     "cover": "Caretaker's Talent",
-    "keyCards": ["Caretaker's Talent", "Carrot Cake", "Enduring Innocence", "Sunfall", "Lay Down Arms"],
+    "keyCards": [
+      "Caretaker's Talent",
+      "Carrot Cake",
+      "Enduring Innocence",
+      "Sunfall",
+      "Lay Down Arms"
+    ],
     "summary": {
       "fr": "Contrôle mono-blanc à jetons : Carrot Cake et Caretaker's Talent créent pioche et créatures, Sunfall et Lay Down Arms gèrent la table.",
       "en": "Mono-white token control: Carrot Cake and Caretaker's Talent turn tokens into cards, Sunfall and Lay Down Arms run the board."
     },
     "why": {
-      "fr": ["Caretaker's Talent piochait à chaque jeton créé", "Lay Down Arms coûtait très peu avec une base de Plains", "Vainqueur d'un RCQ majeur à Columbus"],
-      "en": ["Caretaker's Talent drew a card off each token wave", "Lay Down Arms was very cheap with a Plains base", "Won a major RCQ at Columbus"]
-    }
+      "fr": [
+        "Caretaker's Talent piochait à chaque jeton créé",
+        "Lay Down Arms coûtait très peu avec une base de Plains",
+        "Vainqueur d'un RCQ majeur à Columbus"
+      ],
+      "en": [
+        "Caretaker's Talent drew a card off each token wave",
+        "Lay Down Arms was very cheap with a Plains base",
+        "Won a major RCQ at Columbus"
+      ]
+    },
+    "rep": 664725
   },
   {
     "name": "Simic Tempo",
     "slug": "simic-tempo",
     "archetype": "tempo",
-    "titles": ["Simic Control"],
+    "titles": [
+      "Simic Control"
+    ],
     "cover": "Eddymurk Crab",
-    "keyCards": ["Eddymurk Crab", "Tolarian Terror", "This Town Ain't Big Enough", "Bushwhack", "Stormchaser's Talent"],
+    "keyCards": [
+      "Eddymurk Crab",
+      "Tolarian Terror",
+      "This Town Ain't Big Enough",
+      "Bushwhack",
+      "Stormchaser's Talent"
+    ],
     "summary": {
       "fr": "Tempo Simic aux sorts bon marché qui réduisent le coût de Tolarian Terror et Eddymurk Crab, avec des bounces pour le tempo.",
       "en": "Simic tempo on cheap spells that discount Tolarian Terror and Eddymurk Crab, with bounce effects for tempo."
     },
     "why": {
-      "fr": ["Les instants et rituels remplissaient le cimetière pour les grosses menaces", "This Town Ain't Big Enough renvoyait bloqueurs ou ressources", "Vainqueur d'un ReCQ à Atlanta"],
-      "en": ["Instants and sorceries discounted the large threats", "This Town Ain't Big Enough bounced blockers or resources", "Won a ReCQ at Atlanta"]
+      "fr": [
+        "Les instants et rituels remplissaient le cimetière pour les grosses menaces",
+        "This Town Ain't Big Enough renvoyait bloqueurs ou ressources",
+        "Vainqueur d'un ReCQ à Atlanta"
+      ],
+      "en": [
+        "Instants and sorceries discounted the large threats",
+        "This Town Ain't Big Enough bounced blockers or resources",
+        "Won a ReCQ at Atlanta"
+      ]
     },
-    "note": "Community name uncertain (Simic Crab / Simic Terror)."
+    "note": "Community name uncertain (Simic Crab / Simic Terror).",
+    "rep": 677559
   },
   {
     "name": "Izzet Cauldron",
     "slug": "izzet-cauldron",
     "archetype": "combo",
-    "titles": ["UR Soul Cauldron", "Izzet Cauldron"],
+    "titles": [
+      "UR Soul Cauldron",
+      "Izzet Cauldron"
+    ],
     "cover": "Vivi Ornitier",
-    "keyCards": ["Agatha's Soul Cauldron", "Vivi Ornitier", "Proft's Eidetic Memory", "Marauding Mako", "Fear of Missing Out"],
+    "keyCards": [
+      "Agatha's Soul Cauldron",
+      "Vivi Ornitier",
+      "Proft's Eidetic Memory",
+      "Marauding Mako",
+      "Fear of Missing Out"
+    ],
     "summary": {
       "fr": "Izzet de défausse et pioche : Agatha's Soul Cauldron partage les capacités de Vivi Ornitier avec des créatures à marqueurs.",
       "en": "Izzet discard-and-draw deck: Agatha's Soul Cauldron shares Vivi Ornitier's abilities with creatures carrying counters."
     },
     "why": {
-      "fr": ["Vivi Ornitier arrivé avec Final Fantasy générait du mana et des marqueurs", "Les loots alimentaient Marauding Mako et Proft's Eidetic Memory", "Apparu en toute fin de saison"],
-      "en": ["Vivi Ornitier from Final Fantasy generated mana and counters", "Looting fed Marauding Mako and Proft's Eidetic Memory", "Appeared at the very end of the season"]
-    }
+      "fr": [
+        "Vivi Ornitier arrivé avec Final Fantasy générait du mana et des marqueurs",
+        "Les loots alimentaient Marauding Mako et Proft's Eidetic Memory",
+        "Apparu en toute fin de saison"
+      ],
+      "en": [
+        "Vivi Ornitier from Final Fantasy generated mana and counters",
+        "Looting fed Marauding Mako and Proft's Eidetic Memory",
+        "Appeared at the very end of the season"
+      ]
+    },
+    "rep": 738954
   },
   {
     "name": "Rakdos Aggro",
     "slug": "rakdos-aggro",
     "archetype": "midrange",
-    "titles": ["Rakdos Aggro"],
+    "titles": [
+      "Rakdos Aggro"
+    ],
     "cover": "Alesha, Who Laughs at Fate",
-    "keyCards": ["Alesha, Who Laughs at Fate", "Tinybones, the Pickpocket", "Inti, Seneschal of the Sun", "Fear of Missing Out", "Deep-Cavern Bat"],
+    "keyCards": [
+      "Alesha, Who Laughs at Fate",
+      "Tinybones, the Pickpocket",
+      "Inti, Seneschal of the Sun",
+      "Fear of Missing Out",
+      "Deep-Cavern Bat"
+    ],
     "summary": {
       "fr": "Rakdos de petites créatures à valeur : Alesha, Who Laughs at Fate les ramène du cimetière pendant que Tinybones et Inti attaquent.",
       "en": "Rakdos deck of small value creatures: Alesha, Who Laughs at Fate returns them from the graveyard while Tinybones and Inti attack."
     },
     "why": {
-      "fr": ["Alesha recyclait les créatures à faible coût à chaque attaque", "Deep-Cavern Bat et Tinybones perturbaient la main adverse", "Finaliste du Regional Championship ANZ"],
-      "en": ["Alesha recurred cheap creatures on each attack", "Deep-Cavern Bat and Tinybones disrupted the opponent's hand", "Reached the ANZ Regional Championship final"]
+      "fr": [
+        "Alesha recyclait les créatures à faible coût à chaque attaque",
+        "Deep-Cavern Bat et Tinybones perturbaient la main adverse",
+        "Finaliste du Regional Championship ANZ"
+      ],
+      "en": [
+        "Alesha recurred cheap creatures on each attack",
+        "Deep-Cavern Bat and Tinybones disrupted the opponent's hand",
+        "Reached the ANZ Regional Championship final"
+      ]
     },
-    "note": "Title also covers a Rakdos Leyline of Resonance list; rep is the Alesha build."
+    "note": "Title also covers a Rakdos Leyline of Resonance list; rep is the Alesha build.",
+    "rep": 719224
   },
   {
     "name": "Dimir Control",
     "slug": "dimir-control",
     "archetype": "control",
-    "titles": ["Dimir Control"],
+    "titles": [
+      "Dimir Control"
+    ],
     "cover": "Archfiend of the Dross",
-    "keyCards": ["Archfiend of the Dross", "Faerie Mastermind", "Unholy Annex/Ritual Chamber", "Duress", "Go for the Throat"],
+    "keyCards": [
+      "Archfiend of the Dross",
+      "Faerie Mastermind",
+      "Unholy Annex/Ritual Chamber",
+      "Duress",
+      "Go for the Throat"
+    ],
     "summary": {
       "fr": "Dimir défensif : discard, removals instantanés et Unholy Annex, avec Archfiend of the Dross et Doomsday Excruciator comme démons.",
       "en": "Defensive Dimir: discard, instant removal and Unholy Annex, with Archfiend of the Dross and Doomsday Excruciator as demons."
     },
     "why": {
-      "fr": ["Duress en main deck gênait les decks contrôle et combo", "Unholy Annex fournissait pioche et drain avec les démons", "Vainqueur du championnat du monde"],
-      "en": ["Main-deck Duress fought control and combo decks", "Unholy Annex provided cards and drain with demons", "Won the World Championship"]
-    }
+      "fr": [
+        "Duress en main deck gênait les decks contrôle et combo",
+        "Unholy Annex fournissait pioche et drain avec les démons",
+        "Vainqueur du championnat du monde"
+      ],
+      "en": [
+        "Main-deck Duress fought control and combo decks",
+        "Unholy Annex provided cards and drain with demons",
+        "Won the World Championship"
+      ]
+    },
+    "rep": 658078
   },
   {
     "name": "Golgari Control",
     "slug": "golgari-control",
     "archetype": "control",
-    "titles": ["Golgari Control"],
+    "titles": [
+      "Golgari Control"
+    ],
     "cover": "Overlord of the Hauntwoods",
-    "keyCards": ["Overlord of the Hauntwoods", "Up the Beanstalk", "Glissa Sunslayer", "Sheoldred, the Apocalypse", "Deadly Cover-Up"],
+    "keyCards": [
+      "Overlord of the Hauntwoods",
+      "Up the Beanstalk",
+      "Glissa Sunslayer",
+      "Sheoldred, the Apocalypse",
+      "Deadly Cover-Up"
+    ],
     "summary": {
       "fr": "Contrôle noir-vert riche en removals, qui pioche avec Up the Beanstalk et gagne avec Overlord of the Hauntwoods, Glissa ou Sheoldred.",
       "en": "Removal-heavy black-green control that draws with Up the Beanstalk and wins with Overlord of the Hauntwoods, Glissa or Sheoldred."
     },
     "why": {
-      "fr": ["Overlord of the Hauntwoods déclenchait Up the Beanstalk et fixait le mana", "Deadly Cover-Up répondait aux decks go-wide", "Top 4 au championnat du monde"],
-      "en": ["Overlord of the Hauntwoods triggered Up the Beanstalk and fixed mana", "Deadly Cover-Up answered go-wide decks", "Top 4 at the World Championship"]
-    }
+      "fr": [
+        "Overlord of the Hauntwoods déclenchait Up the Beanstalk et fixait le mana",
+        "Deadly Cover-Up répondait aux decks go-wide",
+        "Top 4 au championnat du monde"
+      ],
+      "en": [
+        "Overlord of the Hauntwoods triggered Up the Beanstalk and fixed mana",
+        "Deadly Cover-Up answered go-wide decks",
+        "Top 4 at the World Championship"
+      ]
+    },
+    "rep": 658059
   },
   {
     "name": "Boros Control",
     "slug": "boros-control",
     "archetype": "control",
-    "titles": ["Boros Control"],
+    "titles": [
+      "Boros Control"
+    ],
     "cover": "Carrot Cake",
-    "keyCards": ["Caretaker's Talent", "Carrot Cake", "Lightning Helix", "Urabrask's Forge", "Sunfall"],
+    "keyCards": [
+      "Caretaker's Talent",
+      "Carrot Cake",
+      "Lightning Helix",
+      "Urabrask's Forge",
+      "Sunfall"
+    ],
     "summary": {
       "fr": "Contrôle rouge-blanc : Carrot Cake et Caretaker's Talent piochent sur les jetons, Lightning Helix et Sunfall gèrent la table.",
       "en": "Red-white control: Carrot Cake and Caretaker's Talent draw off tokens, Lightning Helix and Sunfall handle the board."
     },
     "why": {
-      "fr": ["Urabrask's Forge offrait une menace hors de portée des removals de créatures", "Lightning Helix et Torch the Tower stabilisaient contre l'aggro", "Vainqueur du MTG Japan Open en début de saison"],
-      "en": ["Urabrask's Forge offered a threat immune to creature removal", "Lightning Helix and Torch the Tower stabilised against aggro", "Won MTG Japan Open early in the season"]
-    }
+      "fr": [
+        "Urabrask's Forge offrait une menace hors de portée des removals de créatures",
+        "Lightning Helix et Torch the Tower stabilisaient contre l'aggro",
+        "Vainqueur du MTG Japan Open en début de saison"
+      ],
+      "en": [
+        "Urabrask's Forge offered a threat immune to creature removal",
+        "Lightning Helix and Torch the Tower stabilised against aggro",
+        "Won MTG Japan Open early in the season"
+      ]
+    },
+    "rep": 635953
   },
   {
     "name": "Selesnya Aggro",
     "slug": "selesnya-aggro",
     "archetype": "aggro",
-    "titles": ["Selesnya Aggro", "Selesnya Cage", "Bant Cage"],
+    "titles": [
+      "Selesnya Aggro",
+      "Selesnya Cage",
+      "Bant Cage"
+    ],
     "cover": "Collector's Cage",
-    "keyCards": ["Collector's Cage", "Pawpatch Recruit", "Tender Wildguide", "Overlord of the Mistmoors", "Sandstorm Salvager"],
+    "keyCards": [
+      "Collector's Cage",
+      "Pawpatch Recruit",
+      "Tender Wildguide",
+      "Overlord of the Mistmoors",
+      "Sandstorm Salvager"
+    ],
     "summary": {
       "fr": "Aggro vert-blanc de créatures et marqueurs +1/+1 : Collector's Cage récompense la diversité de forces, Overlord of the Mistmoors renforce.",
       "en": "Green-white creature aggro on +1/+1 counters: Collector's Cage rewards varied power, Overlord of the Mistmoors adds bodies."
     },
     "why": {
-      "fr": ["Collector's Cage plaçait des marqueurs puis lançait une carte cachée gratuitement", "Tender Wildguide et Llanowar Elves accéléraient vers les gros sorts", "Vainqueur d'un RCQ à Atlanta"],
-      "en": ["Collector's Cage added counters, then cast a hidden card for free", "Tender Wildguide and Llanowar Elves ramped into bigger spells", "Won an RCQ at Atlanta"]
-    }
+      "fr": [
+        "Collector's Cage plaçait des marqueurs puis lançait une carte cachée gratuitement",
+        "Tender Wildguide et Llanowar Elves accéléraient vers les gros sorts",
+        "Vainqueur d'un RCQ à Atlanta"
+      ],
+      "en": [
+        "Collector's Cage added counters, then cast a hidden card for free",
+        "Tender Wildguide and Llanowar Elves ramped into bigger spells",
+        "Won an RCQ at Atlanta"
+      ]
+    },
+    "rep": 678878
   }
 ]

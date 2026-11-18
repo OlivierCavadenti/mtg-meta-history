@@ -3,97 +3,190 @@
     "name": "Recurring Survival",
     "slug": "recurring-survival",
     "archetype": "midrange",
-    "titles": ["Recurring Survival"],
+    "titles": [
+      "Recurring Survival"
+    ],
     "cover": "Recurring Nightmare",
-    "keyCards": ["Survival of the Fittest", "Recurring Nightmare", "Spike Feeder", "Wall of Blossoms", "Nekrataal"],
+    "keyCards": [
+      "Survival of the Fittest",
+      "Recurring Nightmare",
+      "Spike Feeder",
+      "Wall of Blossoms",
+      "Nekrataal"
+    ],
     "summary": {
       "fr": "Deck moteur vert-noir qui tutore ses créatures avec Survival of the Fittest et réutilise leurs effets d'arrivée en jeu avec Recurring Nightmare.",
       "en": "Green-black engine deck that tutors creatures with Survival of the Fittest and reuses their comes-into-play effects with Recurring Nightmare."
     },
     "why": {
-      "fr": ["Survival of the Fittest trouvait la bonne créature pour chaque situation", "Recurring Nightmare réutilisait Nekrataal, Wall of Blossoms et Spike Feeder"],
-      "en": ["Survival of the Fittest found the right creature for each situation", "Recurring Nightmare reused Nekrataal, Wall of Blossoms and Spike Feeder"]
-    }
+      "fr": [
+        "Survival of the Fittest trouvait la bonne créature pour chaque situation",
+        "Recurring Nightmare réutilisait Nekrataal, Wall of Blossoms et Spike Feeder"
+      ],
+      "en": [
+        "Survival of the Fittest found the right creature for each situation",
+        "Recurring Nightmare reused Nekrataal, Wall of Blossoms and Spike Feeder"
+      ]
+    },
+    "rep": 253013
   },
   {
     "name": "Sligh",
     "slug": "sligh",
     "archetype": "aggro",
-    "titles": ["Sligh", "Cursed Sligh", "Deadguy Red"],
+    "titles": [
+      "Sligh",
+      "Cursed Sligh",
+      "Deadguy Red"
+    ],
     "cover": "Cursed Scroll",
-    "keyCards": ["Jackal Pup", "Mogg Fanatic", "Ball Lightning", "Cursed Scroll", "Fireblast"],
+    "keyCards": [
+      "Jackal Pup",
+      "Mogg Fanatic",
+      "Ball Lightning",
+      "Cursed Scroll",
+      "Fireblast"
+    ],
     "summary": {
       "fr": "Mono-rouge aggro avec Jackal Pup, Mogg Fanatic et Ball Lightning, qui finit avec Fireblast et Cursed Scroll.",
       "en": "Mono-red aggro with Jackal Pup, Mogg Fanatic and Ball Lightning, finishing with Fireblast and Cursed Scroll."
     },
     "why": {
-      "fr": ["Cursed Scroll infligeait des dégâts répétés une fois la main vide", "Fireblast se lançait en sacrifiant des Mountains plutôt qu'en payant du mana"],
-      "en": ["Cursed Scroll dealt repeatable damage once the hand was empty", "Fireblast could be cast by sacrificing Mountains instead of paying mana"]
+      "fr": [
+        "Cursed Scroll infligeait des dégâts répétés une fois la main vide",
+        "Fireblast se lançait en sacrifiant des Mountains plutôt qu'en payant du mana"
+      ],
+      "en": [
+        "Cursed Scroll dealt repeatable damage once the hand was empty",
+        "Fireblast could be cast by sacrificing Mountains instead of paying mana"
+      ]
     },
-    "note": "'Deadguy Red' and 'Cursed Sligh' are named variants of the same Jackal Pup + Cursed Scroll red deck."
+    "note": "'Deadguy Red' and 'Cursed Sligh' are named variants of the same Jackal Pup + Cursed Scroll red deck.",
+    "rep": 253014
   },
   {
     "name": "Stupid Green",
     "slug": "stupid-green",
     "archetype": "midrange",
-    "titles": ["Stupid Green Deck"],
+    "titles": [
+      "Stupid Green Deck"
+    ],
     "cover": "Eladamri's Vineyard",
-    "keyCards": ["Eladamri's Vineyard", "Spike Feeder", "Spike Weaver", "Stampeding Wildebeests", "Creeping Mold"],
+    "keyCards": [
+      "Eladamri's Vineyard",
+      "Spike Feeder",
+      "Spike Weaver",
+      "Stampeding Wildebeests",
+      "Creeping Mold"
+    ],
     "summary": {
       "fr": "Mono-vert qui tire du mana en plus d'Eladamri's Vineyard, temporise avec les Spikes et les murs, et utilise Creeping Mold et Desert Twister comme removal.",
       "en": "Mono-green deck using Eladamri's Vineyard for extra mana, Spikes and walls to stall, and Creeping Mold and Desert Twister as removal."
     },
     "why": {
-      "fr": ["Spike Feeder et Spike Weaver freinaient les decks rouges agressifs", "Stampeding Wildebeests réutilisait Wall of Blossoms et les Spikes"],
-      "en": ["Spike Feeder and Spike Weaver blunted aggressive red decks", "Stampeding Wildebeests reused Wall of Blossoms and the Spikes"]
-    }
+      "fr": [
+        "Spike Feeder et Spike Weaver freinaient les decks rouges agressifs",
+        "Stampeding Wildebeests réutilisait Wall of Blossoms et les Spikes"
+      ],
+      "en": [
+        "Spike Feeder and Spike Weaver blunted aggressive red decks",
+        "Stampeding Wildebeests reused Wall of Blossoms and the Spikes"
+      ]
+    },
+    "rep": 599798
   },
   {
     "name": "ProsBloom",
     "slug": "prosbloom",
     "archetype": "combo",
-    "titles": ["Pros Bloom"],
+    "titles": [
+      "Pros Bloom"
+    ],
     "cover": "Cadaverous Bloom",
-    "keyCards": ["Cadaverous Bloom", "Prosperity", "Squandered Resources", "Natural Balance", "Infernal Contract"],
+    "keyCards": [
+      "Cadaverous Bloom",
+      "Prosperity",
+      "Squandered Resources",
+      "Natural Balance",
+      "Infernal Contract"
+    ],
     "summary": {
       "fr": "Combo qui transforme les cartes en mana avec Cadaverous Bloom et les terrains avec Squandered Resources, puis lance une grosse Prosperity et finit avec Drain Life.",
       "en": "Combo deck turning cards into mana with Cadaverous Bloom and lands with Squandered Resources, then casting a large Prosperity and finishing with Drain Life."
     },
     "why": {
-      "fr": ["Meditate et Infernal Contract piochaient rapidement les pièces", "Natural Balance remettait des terrains à sacrifier à Squandered Resources"],
-      "en": ["Meditate and Infernal Contract drew into the pieces quickly", "Natural Balance refilled lands to sacrifice to Squandered Resources"]
-    }
+      "fr": [
+        "Meditate et Infernal Contract piochaient rapidement les pièces",
+        "Natural Balance remettait des terrains à sacrifier à Squandered Resources"
+      ],
+      "en": [
+        "Meditate and Infernal Contract drew into the pieces quickly",
+        "Natural Balance refilled lands to sacrifice to Squandered Resources"
+      ]
+    },
+    "rep": 599796
   },
   {
     "name": "White Weenie",
     "slug": "white-weenie",
     "archetype": "aggro",
-    "titles": ["Weenie White", "White Weenie"],
+    "titles": [
+      "Weenie White",
+      "White Weenie"
+    ],
     "cover": "Soltari Priest",
-    "keyCards": ["Soltari Priest", "Soltari Monk", "Warrior en-Kor", "Empyrial Armor", "Cataclysm"],
+    "keyCards": [
+      "Soltari Priest",
+      "Soltari Monk",
+      "Warrior en-Kor",
+      "Empyrial Armor",
+      "Cataclysm"
+    ],
     "summary": {
       "fr": "Mono-blanc aggro avec des créatures à ombre comme Soltari Priest et Soltari Monk, qui garde l'avantage grâce à Empyrial Armor et Cataclysm.",
       "en": "Mono-white aggro with shadow creatures such as Soltari Priest and Soltari Monk, staying ahead with Empyrial Armor and Cataclysm."
     },
     "why": {
-      "fr": ["Les créatures à ombre ne pouvaient pas être bloquées par la plupart des créatures", "Cataclysm vidait la table adverse en gardant la meilleure menace"],
-      "en": ["Shadow creatures could not be blocked by most opposing creatures", "Cataclysm cleared the opponent's board while the deck kept its best threat"]
-    }
+      "fr": [
+        "Les créatures à ombre ne pouvaient pas être bloquées par la plupart des créatures",
+        "Cataclysm vidait la table adverse en gardant la meilleure menace"
+      ],
+      "en": [
+        "Shadow creatures could not be blocked by most opposing creatures",
+        "Cataclysm cleared the opponent's board while the deck kept its best threat"
+      ]
+    },
+    "rep": 599795
   },
   {
     "name": "Forbidian",
     "slug": "forbidian",
     "archetype": "control",
-    "titles": ["Forbidian"],
+    "titles": [
+      "Forbidian"
+    ],
     "cover": "Ophidian",
-    "keyCards": ["Ophidian", "Forbid", "Whispers of the Muse", "Man-o'-War", "Legacy's Allure"],
+    "keyCards": [
+      "Ophidian",
+      "Forbid",
+      "Whispers of the Muse",
+      "Man-o'-War",
+      "Legacy's Allure"
+    ],
     "summary": {
       "fr": "Contrôle mono-bleu qui pioche avec Ophidian et Whispers of the Muse, et protège son plan avec Forbid et Counterspell.",
       "en": "Mono-blue control drawing cards with Ophidian and Whispers of the Muse, protecting its plan with Forbid and Counterspell."
     },
     "why": {
-      "fr": ["Le rachat de Forbid et Whispers of the Muse les rendait répétables", "Quicksand et Man-o'-War géraient les attaquants précoces"],
-      "en": ["Buyback on Forbid and Whispers of the Muse made them repeatable", "Quicksand and Man-o'-War handled early attackers"]
-    }
+      "fr": [
+        "Le rachat de Forbid et Whispers of the Muse les rendait répétables",
+        "Quicksand et Man-o'-War géraient les attaquants précoces"
+      ],
+      "en": [
+        "Buyback on Forbid and Whispers of the Muse made them repeatable",
+        "Quicksand and Man-o'-War handled early attackers"
+      ]
+    },
+    "rep": 599797
   }
 ]
