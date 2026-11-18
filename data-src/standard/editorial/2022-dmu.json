@@ -4,9 +4,12 @@
     "slug": "esper-midrange",
     "archetype": "midrange",
     "titles": [
-      "Esper Raffine"
+      "Esper Raffine",
+      "Esper Midrange",
+      "Esper Legends",
+      "Esper Aggro"
     ],
-    "rep": 486261,
+    "rep": 491651,
     "cover": "Raffine, Scheming Seer",
     "keyCards": [
       "Raffine, Scheming Seer",
@@ -31,7 +34,7 @@
         "Reached the final of World Championship XXVIII"
       ]
     },
-    "note": "Title covers classic Esper midrange (autumn 2022) and the 2023 Esper Legends builds (Plaza of Heroes, Dennick, Thalia, Skrelv). Rep set to a Japan Open top 8 list of the classic version; default was a 2023 Legends list."
+    "note": "Title covers classic Esper midrange (autumn 2022) and the 2023 Esper Legends builds (Plaza of Heroes, Dennick, Thalia, Skrelv). Rep set to a Japan Open top 8 list of the classic version; default was a 2023 Legends list. Added mtggoldfish 'Esper Midrange', 'Esper Legends', 'Esper Aggro' (Plaza of Heroes appears in almost all lists from World Championship XXVIII on, so the Legends builds stay merged). Rep now Eli Kassis, World Championship XXVIII finalist."
   },
   {
     "name": "Grixis Midrange",
@@ -41,7 +44,8 @@
       "Grixis Control",
       "GrixisControl",
       "Grixis Midrange",
-      "Grixis Aggro"
+      "Grixis Aggro",
+      "UBR"
     ],
     "rep": 491664,
     "cover": "Corpse Appraiser",
@@ -75,7 +79,9 @@
     "slug": "mono-white-midrange",
     "archetype": "midrange",
     "titles": [
-      "Mono White Control"
+      "Mono White Control",
+      "Mono-White Midrange",
+      "WW"
     ],
     "cover": "Lay Down Arms",
     "keyCards": [
@@ -144,7 +150,11 @@
     "archetype": "combo",
     "titles": [
       "The Cruelty of Gix",
-      "Reanimator"
+      "Reanimator",
+      "Rakdos Reanimator",
+      "Jund Reanimator",
+      "5c Reanimator",
+      "5c Midrange"
     ],
     "cover": "Atraxa, Grand Unifier",
     "keyCards": [
@@ -170,7 +180,7 @@
         "Won a U.S. Regional Championship"
       ]
     },
-    "note": "Merged the early-season 'Reanimator' list (Cruelty of Gix into Junji / Titan of Industry).",
+    "note": "Merged the early-season 'Reanimator' list (Cruelty of Gix into Junji / Titan of Industry). Added 'Rakdos Reanimator', 'Jund Reanimator', '5c Reanimator' and mtggoldfish '5c Midrange' (all Cruelty of Gix into Atraxa).",
     "rep": 520595
   },
   {
@@ -178,7 +188,9 @@
     "slug": "azorius-soldiers",
     "archetype": "aggro",
     "titles": [
-      "Azorius Soldier"
+      "Azorius Soldier",
+      "Azorius Soldiers",
+      "Mono-White Soldiers"
     ],
     "cover": "Valiant Veteran",
     "keyCards": [
@@ -212,7 +224,9 @@
     "archetype": "aggro",
     "titles": [
       "Selesnya Toxic",
-      "Selesnya Aggro"
+      "Selesnya Aggro",
+      "Selesnya Poison",
+      "Bant Poison"
     ],
     "cover": "Venerated Rotpriest",
     "keyCards": [
@@ -246,7 +260,9 @@
     "slug": "jund-midrange",
     "archetype": "midrange",
     "titles": [
-      "Jund"
+      "Jund",
+      "Jund Midrange",
+      "Jund Windgrace"
     ],
     "rep": 520656,
     "cover": "Unleash the Inferno",
@@ -282,7 +298,8 @@
     "titles": [
       "Red Deck Wins",
       "RDW",
-      "Rakdos Aggro"
+      "Rakdos Aggro",
+      "Mono-Red Aggro"
     ],
     "rep": 513009,
     "cover": "Monastery Swiftspear",
@@ -350,7 +367,17 @@
     "archetype": "control",
     "titles": [
       "5cc",
-      "4/5C Control"
+      "4/5C Control",
+      "Five-color Control",
+      "4c Control",
+      "WUG",
+      "The Kami War",
+      "4c Ramp",
+      "Naya Ramp",
+      "5c Ramp",
+      "Selesnya Ramp",
+      "Domain",
+      "WURG"
     ],
     "cover": "Leyline Binding",
     "keyCards": [
@@ -361,8 +388,8 @@
       "Wedding Announcement"
     ],
     "summary": {
-      "fr": "Contrôle cinq couleurs sur Triomes : le domaine rend Leyline Binding presque gratuit, puis Atraxa, Herd Migration et The Eternal Wanderer concluent.",
-      "en": "Five-colour control on Triomes: domain makes Leyline Binding nearly free, then Atraxa, Herd Migration and The Eternal Wanderer close the game."
+      "fr": "Contrôle cinq couleurs sur Triomes : le domaine rend Leyline Binding presque gratuit, puis Atraxa, Herd Migration et The Eternal Wanderer concluent. Après March of the Machine, Topiary Stomper et Invasion of Zendikar l'ont tiré vers la rampe.",
+      "en": "Five-colour control on Triomes: domain makes Leyline Binding nearly free, then Atraxa, Herd Migration and The Eternal Wanderer close the game. After March of the Machine, Topiary Stomper and Invasion of Zendikar pushed it towards ramp."
     },
     "why": {
       "fr": [
@@ -376,7 +403,7 @@
         "Won a South American Regional Championship"
       ]
     },
-    "note": "Merged '5cc' and '4/5C Control' (Leyline Binding / Atraxa domain decks).",
+    "note": "Merged '5cc' and '4/5C Control' (Leyline Binding / Atraxa domain decks). Added the MTGO / RC titles of the same domain shell: 'Five-color Control' (SEA RC winner, magic.gg calls it Domain Control), '4c Control', 'WUG', 'The Kami War', and the post-MOM ramp builds ('4c Ramp', 'Naya Ramp', '5c Ramp', 'Selesnya Ramp', 'Domain', 'WURG').",
     "rep": 519078
   },
   {
@@ -384,7 +411,8 @@
     "slug": "mono-blue-tempo",
     "archetype": "tempo",
     "titles": [
-      "Mono Blue Tempo"
+      "Mono Blue Tempo",
+      "Mono-Blue Tempo"
     ],
     "cover": "Haughty Djinn",
     "keyCards": [
@@ -417,7 +445,8 @@
     "slug": "jeskai-control",
     "archetype": "control",
     "titles": [
-      "Jeskai Control"
+      "Jeskai Control",
+      "Jeskai Midrange"
     ],
     "cover": "Zurgo and Ojutai",
     "keyCards": [
@@ -443,14 +472,19 @@
         "Reached the final of an Arena Championship"
       ]
     },
-    "rep": 529265
+    "rep": 529265,
+    "exclude": [
+      "x-2022-09-25-mtgo-standard-challenge-2-lukasdusek"
+    ],
+    "note": " Added mtggoldfish 'Jeskai Midrange' (Zurgo and Ojutai lists); excluded its September 2022 Temporal Firestorm list."
   },
   {
     "name": "Orzhov Midrange",
     "slug": "orzhov-midrange",
     "archetype": "midrange",
     "titles": [
-      "Orzhov Control"
+      "Orzhov Control",
+      "Orzhov Midrange"
     ],
     "cover": "The Eternal Wanderer",
     "keyCards": [
@@ -478,5 +512,375 @@
     },
     "note": "Two top 8s; included for the Pro Tour top 4. Close to Mono-White Midrange but kept separate (black splash for Breach the Multiverse).",
     "rep": 524765
+  },
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Dimir Midrange",
+      "Dimir Aggro",
+      "UB"
+    ],
+    "cover": "Faerie Mastermind",
+    "keyCards": [
+      "Faerie Mastermind",
+      "Evolved Sleeper",
+      "Sheoldred, the Apocalypse",
+      "Make Disappear",
+      "Liliana of the Veil"
+    ],
+    "summary": {
+      "fr": "Midrange Dimir de la fin de saison, après le ban de Fable : Faerie Mastermind et Evolved Sleeper en début de partie, Sheoldred, the Apocalypse au sommet, Make Disappear et removal bon marché en soutien.",
+      "en": "Dimir midrange from the end of the season, after the Fable ban: Faerie Mastermind and Evolved Sleeper early, Sheoldred, the Apocalypse on top, Make Disappear and cheap removal behind them."
+    },
+    "why": {
+      "fr": [
+        "Faerie Mastermind et Kaito Shizuki piochaient grâce à des menaces bon marché",
+        "Make Disappear, Cut Down et Go for the Throat répondaient aux menaces pour peu de mana",
+        "A remporté plusieurs Standard Challenges MTGO pendant l'été qui a suivi les bans"
+      ],
+      "en": [
+        "Faerie Mastermind and Kaito Shizuki drew cards off cheap threats",
+        "Make Disappear, Cut Down and Go for the Throat answered threats for little mana",
+        "Won several MTGO Standard Challenges in the summer after the bans"
+      ]
+    },
+    "rep": "x-2023-08-20-mtgo-standard-challenge-1-alfredtorres",
+    "note": "New deck from MTGO Standard Challenge top 8s (mtgo.com official lists, mtggoldfish names 'Dimir Midrange', 'Dimir Aggro', 'UB')."
+  },
+  {
+    "name": "Mono-Black Midrange",
+    "slug": "mono-black-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Mono-Black Midrange",
+      "Mono Black Control",
+      "Mono Black Aggro",
+      "Mono Black Midrange"
+    ],
+    "cover": "Liliana of the Veil",
+    "keyCards": [
+      "Sheoldred, the Apocalypse",
+      "Liliana of the Veil",
+      "Phyrexian Fleshgorger",
+      "Graveyard Trespasser",
+      "Evolved Sleeper"
+    ],
+    "summary": {
+      "fr": "Midrange mono-noir sur Swamps : Evolved Sleeper, Graveyard Trespasser et Phyrexian Fleshgorger comme menaces, Sheoldred et Liliana of the Veil au sommet, removal noir bon marché partout. Les premières versions jouaient aussi Invoke Despair.",
+      "en": "Mono-black midrange on Swamps: Evolved Sleeper, Graveyard Trespasser and Phyrexian Fleshgorger as threats, Sheoldred and Liliana of the Veil on top, cheap black removal throughout. Early builds also ran Invoke Despair."
+    },
+    "why": {
+      "fr": [
+        "Sheoldred, the Apocalypse faisait perdre des points de vie à chaque pioche adverse",
+        "Cut Down et Go for the Throat répondaient à peu de frais à la plupart des menaces",
+        "Mishra's Foundry et Takenuma ajoutaient menace et récursion depuis les terrains"
+      ],
+      "en": [
+        "Sheoldred, the Apocalypse drained life from every opposing draw",
+        "Cut Down and Go for the Throat were cheap answers to most threats",
+        "Mishra's Foundry and Takenuma added a threat and recursion from the land slots"
+      ]
+    },
+    "rep": "x-2023-07-02-mtgo-standard-challenge-1-fermtg",
+    "note": "New deck: mtggoldfish 'Mono-Black Midrange' (MTGO Challenges) merged with mtgtop8 'Mono Black Control/Aggro/Midrange' (Sheoldred, Evolved Sleeper, Graveyard Trespasser core)."
+  },
+  {
+    "name": "Mardu Midrange",
+    "slug": "mardu-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Mardu Midrange",
+      "Mardu Control"
+    ],
+    "cover": "Archangel of Wrath",
+    "keyCards": [
+      "Archangel of Wrath",
+      "Fable of the Mirror-Breaker",
+      "Reckoner Bankbuster",
+      "The Wandering Emperor",
+      "Steel Seraph"
+    ],
+    "summary": {
+      "fr": "Midrange Mardu de la saison de The Brothers' War, qui ajoute au noyau Fable et Reckoner Bankbuster des menaces blanches comme Archangel of Wrath, Steel Seraph et The Wandering Emperor. D'autres versions jouaient Wedding Announcement et Bloodtithe Harvester.",
+      "en": "Mardu midrange from The Brothers' War season, adding white threats such as Archangel of Wrath, Steel Seraph and The Wandering Emperor to the Fable and Reckoner Bankbuster core. Other builds ran Wedding Announcement and Bloodtithe Harvester."
+    },
+    "why": {
+      "fr": [
+        "Archangel of Wrath, kické, infligeait des blessures en arrivant",
+        "Fable et Reckoner Bankbuster fournissaient l'avantage de cartes",
+        "The Wandering Emperor offrait removal et bloqueurs au flash"
+      ],
+      "en": [
+        "Kicked Archangel of Wrath dealt damage as it arrived",
+        "Fable and Reckoner Bankbuster supplied card advantage",
+        "The Wandering Emperor gave flash removal and blockers"
+      ]
+    },
+    "rep": "x-2022-12-04-mtgo-standard-challenge-1-cabezadebolo",
+    "note": "New deck from MTGO Standard Challenge top 8s ('Mardu Midrange') plus mtgtop8 'Mardu Control'."
+  },
+  {
+    "name": "Rakdos Sacrifice",
+    "slug": "rakdos-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Sacrifice",
+      "Grixis Sacrifice"
+    ],
+    "cover": "Oni-Cult Anvil",
+    "keyCards": [
+      "Oni-Cult Anvil",
+      "Experimental Synthesizer",
+      "Fable of the Mirror-Breaker",
+      "Bloodtithe Harvester",
+      "Sheoldred, the Apocalypse"
+    ],
+    "summary": {
+      "fr": "Le deck Rakdos à artefacts d'Oni-Cult Anvil prolongé dans le Standard de Dominaria United : Experimental Synthesizer, Fable et les jetons Sang alimentent l'Anvil, Sheoldred s'ajoute au sommet.",
+      "en": "The Rakdos Oni-Cult Anvil artifact deck carried into Dominaria United Standard: Experimental Synthesizer, Fable and Blood tokens feed the Anvil, with Sheoldred added on top."
+    },
+    "why": {
+      "fr": [
+        "Chaque artefact sacrifié drainait l'adversaire via Oni-Cult Anvil",
+        "Experimental Synthesizer et les jetons Sang fournissaient le carburant",
+        "Bloodtithe Harvester servait aussi de removal"
+      ],
+      "en": [
+        "Each artifact sacrificed drained the opponent through Oni-Cult Anvil",
+        "Experimental Synthesizer and Blood tokens supplied the fuel",
+        "Bloodtithe Harvester doubled as removal"
+      ]
+    },
+    "rep": "x-2022-10-02-mtgo-standard-challenge-2-graciasportanto",
+    "note": "New deck: mtggoldfish 'Rakdos Sacrifice' and 'Grixis Sacrifice' (MTGO Challenges, September-November 2022); same Anvil shell as 2021-mid Rakdos Midrange."
+  },
+  {
+    "name": "Izzet Powerstones",
+    "slug": "izzet-powerstones",
+    "archetype": "control",
+    "titles": [
+      "Izzet Powerstones",
+      "Izzet Control"
+    ],
+    "exclude": [
+      "x-2022-10-09-mtgo-standard-challenge-2-o-danielakos"
+    ],
+    "cover": "The Mightstone and Weakstone",
+    "keyCards": [
+      "The Mightstone and Weakstone",
+      "Skitterbeam Battalion",
+      "Cityscape Leveler",
+      "Stern Lesson",
+      "Reckoner Bankbuster"
+    ],
+    "summary": {
+      "fr": "Contrôle Izzet à artefacts de The Brothers' War : The Mightstone and Weakstone et Stern Lesson créent des Powerstones, dont le mana lance les gros artefacts Skitterbeam Battalion et Cityscape Leveler.",
+      "en": "Izzet artifact control from The Brothers' War: The Mightstone and Weakstone and Stern Lesson make Powerstones, whose mana casts big artifact threats such as Skitterbeam Battalion and Cityscape Leveler."
+    },
+    "why": {
+      "fr": [
+        "Le mana des Powerstones, réservé aux artefacts, suffisait pour les menaces du deck",
+        "Fable et Reckoner Bankbuster occupaient les premiers tours",
+        "Brotherhood's End balayait les débuts agressifs"
+      ],
+      "en": [
+        "Powerstone mana, limited to artifacts, was enough for the deck's threats",
+        "Fable and Reckoner Bankbuster filled the early turns",
+        "Brotherhood's End swept aggressive starts"
+      ]
+    },
+    "rep": "x-2022-12-18-mtgo-standard-challenge-1-mogged",
+    "note": "New deck: 'Izzet Powerstones' (China RC top 8, melee) plus the Mightstone / Skitterbeam lists filed as 'Izzet Control'; the Haughty Djinn Izzet lists are in Izzet Tempo and one Izzet spells list is excluded."
+  },
+  {
+    "name": "Izzet Tempo",
+    "slug": "izzet-tempo",
+    "archetype": "tempo",
+    "titles": [
+      "UR",
+      "Izzet Tempo"
+    ],
+    "include": [
+      491666
+    ],
+    "cover": "Fable of the Mirror-Breaker",
+    "keyCards": [
+      "Haughty Djinn",
+      "Fable of the Mirror-Breaker",
+      "Impulse",
+      "Consider",
+      "Make Disappear"
+    ],
+    "summary": {
+      "fr": "Tempo bleu avec une touche de rouge pour Fable of the Mirror-Breaker : Haughty Djinn grandit avec des sorts bon marché comme Consider et Impulse, les contresorts le protègent.",
+      "en": "Blue tempo splashing red for Fable of the Mirror-Breaker: Haughty Djinn grows with cheap spells such as Consider and Impulse, while counterspells protect it."
+    },
+    "why": {
+      "fr": [
+        "Haughty Djinn comptait les éphémères et rituels du cimetière",
+        "Fable ajoutait filtrage de cartes et une seconde menace",
+        "Julian Wellman l'a joué dans le top 8 du World Championship XXVIII"
+      ],
+      "en": [
+        "Haughty Djinn counted the instants and sorceries in the graveyard",
+        "Fable added card filtering and a second threat",
+        "Julian Wellman played it in the top eight of World Championship XXVIII"
+      ]
+    },
+    "rep": "x-2022-10-30-mtgo-standard-challenge-1-twinlesstwin",
+    "note": "New deck: mtggoldfish 'UR' and 'Izzet Tempo' plus Wellman's Worlds XXVIII list (mtgtop8 'Izzet Control', moved with include)."
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "Azorius Control",
+      "WU",
+      "UW Control"
+    ],
+    "cover": "Sunfall",
+    "keyCards": [
+      "Sunfall",
+      "Memory Deluge",
+      "The Wandering Emperor",
+      "Lay Down Arms",
+      "Teferi, Temporal Pilgrim"
+    ],
+    "summary": {
+      "fr": "Contrôle Azorius de March of the Machine : Lay Down Arms et Sunfall répondent aux créatures, Memory Deluge recharge la main, The Wandering Emperor et Teferi, Temporal Pilgrim terminent.",
+      "en": "Azorius control from March of the Machine Standard: Lay Down Arms and Sunfall answer creatures, Memory Deluge refills the hand, The Wandering Emperor and Teferi, Temporal Pilgrim finish."
+    },
+    "why": {
+      "fr": [
+        "Une base de Plains gardait Lay Down Arms bon marché",
+        "Sunfall exilait toutes les créatures et laissait un Incubator",
+        "Memory Deluge offrait deux fois de la sélection grâce au flashback"
+      ],
+      "en": [
+        "A Plains-heavy mana base kept Lay Down Arms cheap",
+        "Sunfall exiled every creature and left an Incubator token",
+        "Memory Deluge gave card selection twice thanks to flashback"
+      ]
+    },
+    "rep": "x-2023-06-04-mtgo-standard-challenge-1-oscar-franco",
+    "note": "New deck: mtggoldfish 'Azorius Control' and 'WU' (MTGO Challenges) plus mtgtop8 'UW Control'."
+  },
+  {
+    "name": "Selesnya Enchantments",
+    "slug": "selesnya-enchantments",
+    "archetype": "midrange",
+    "titles": [
+      "Selesnya Enchantments",
+      "Selesnya Enchant"
+    ],
+    "include": [
+      529237,
+      546662,
+      546656,
+      517565,
+      517573,
+      529256,
+      524810
+    ],
+    "cover": "Hallowed Haunting",
+    "keyCards": [
+      "Jukai Naturalist",
+      "Hallowed Haunting",
+      "Generous Visitor",
+      "Calix, Guided by Fate",
+      "The Restoration of Eiganjo"
+    ],
+    "summary": {
+      "fr": "Enchantements Selesnya : Jukai Naturalist réduit leur coût, Generous Visitor et Hallowed Haunting récompensent chaque enchantement lancé, et des sagas comme The Restoration of Eiganjo apportent de la valeur.",
+      "en": "Selesnya enchantments: Jukai Naturalist makes them cheaper, Generous Visitor and Hallowed Haunting reward each one cast, and sagas such as The Restoration of Eiganjo add value."
+    },
+    "why": {
+      "fr": [
+        "Chaque enchantement bon marché déclenchait Generous Visitor et Hallowed Haunting",
+        "Calix, Guided by Fate copiait les enchantements les plus forts",
+        "A atteint le top 4 d'un Arena Championship"
+      ],
+      "en": [
+        "Each cheap enchantment triggered Generous Visitor and Hallowed Haunting",
+        "Calix, Guided by Fate copied the best enchantments",
+        "Reached the top four of an Arena Championship"
+      ]
+    },
+    "rep": 529237,
+    "note": "New deck: mtggoldfish 'Selesnya Enchantments' and mtgtop8 'Selesnya Enchant', plus the enchantment lists mtgtop8 files as 'Selesnya Aggro' (moved with include). Rep is the Arena Championship 3 top 4 list."
+  },
+  {
+    "name": "Invoke Justice",
+    "slug": "invoke-justice",
+    "archetype": "midrange",
+    "titles": [
+      "Mono-White Invoke Justice",
+      "5c Invoke Justice",
+      "Naya Invoke Justice",
+      "Invoke Justice"
+    ],
+    "cover": "Invoke Justice",
+    "keyCards": [
+      "Invoke Justice",
+      "Sanctuary Warden",
+      "Raffine's Informant",
+      "Ao, the Dawn Sky",
+      "The Wandering Emperor"
+    ],
+    "summary": {
+      "fr": "Midrange à base blanche autour d'Invoke Justice, qui ramène un permanent du cimetière : Raffine's Informant, Spirited Companion et The Restoration of Eiganjo le remplissent, Sanctuary Warden et Ao sont les menaces.",
+      "en": "White-based midrange built around Invoke Justice, which returns a permanent from the graveyard: Raffine's Informant, Spirited Companion and The Restoration of Eiganjo fill it, Sanctuary Warden and Ao are the threats."
+    },
+    "why": {
+      "fr": [
+        "Invoke Justice ramenait une menace et répartissait des marqueurs",
+        "Créatures bon marché et sagas fournissaient des cibles au cimetière",
+        "Les versions allaient du mono-blanc au Naya et au cinq couleurs"
+      ],
+      "en": [
+        "Invoke Justice returned a threat and spread counters on creatures",
+        "Cheap creatures and sagas gave it targets in the graveyard",
+        "Builds ranged from mono-white to Naya and five-colour"
+      ]
+    },
+    "rep": "x-2022-09-25-mtgo-standard-challenge-1-jujubean-2004",
+    "note": "New deck from MTGO Challenge top 8s (mtggoldfish 'Mono-White / 5c / Naya Invoke Justice') plus mtgtop8 'Invoke Justice'."
+  },
+  {
+    "name": "Mono-White Aggro",
+    "slug": "mono-white-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mono-White Aggro"
+    ],
+    "cover": "Adeline, Resplendent Cathar",
+    "keyCards": [
+      "Adeline, Resplendent Cathar",
+      "Thalia, Guardian of Thraben",
+      "Hopeful Initiate",
+      "Recruitment Officer",
+      "Anointed Peacekeeper"
+    ],
+    "summary": {
+      "fr": "Aggro mono-blanc à base d'humains en fin de saison : Thalia, Adeline et Hopeful Initiate sur une courbe basse, Recruitment Officer pour recharger.",
+      "en": "Mono-white humans aggro from the end of the season: Thalia, Adeline and Hopeful Initiate on a low curve, with Recruitment Officer to refuel."
+    },
+    "why": {
+      "fr": [
+        "Thalia taxait les sorts non-créatures du contrôle et de la rampe",
+        "Recruitment Officer transformait le mana restant en créatures",
+        "Ossification offrait un removal bon marché sur une base de Plains"
+      ],
+      "en": [
+        "Thalia taxed the noncreature spells of control and ramp decks",
+        "Recruitment Officer turned spare mana into more creatures",
+        "Ossification gave cheap removal on a Plains-heavy mana base"
+      ]
+    },
+    "rep": "x-2023-05-28-mtgo-standard-challenge-5-8-hamuda",
+    "note": "New deck: three MTGO Challenge top 8s (mtggoldfish 'Mono-White Aggro'); two by the same pilot."
   }
 ]
