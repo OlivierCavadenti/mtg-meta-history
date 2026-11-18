@@ -37,7 +37,8 @@
     "slug": "sligh",
     "archetype": "aggro",
     "titles": [
-      "Sligh"
+      "Sligh",
+      "Geeba '97"
     ],
     "cover": "Orcish Artillery",
     "keyCards": [
@@ -72,7 +73,8 @@
       "Necro Control",
       "Black Aggro",
       "Hybrid Necro (Pikulapotence)",
-      "Beatdown Necro"
+      "Beatdown Necro",
+      "Old School Necro"
     ],
     "cover": "Necropotence",
     "keyCards": [
@@ -135,7 +137,10 @@
     "slug": "gw-shroud",
     "archetype": "midrange",
     "titles": [
-      "WG Control Shroud"
+      "WG Control Shroud",
+      "MaroGeddon",
+      "Boa-Geddon",
+      "Green/White Anti-Stasis"
     ],
     "cover": "Autumn Willow",
     "keyCards": [
@@ -166,7 +171,10 @@
     "slug": "rg-aggro",
     "archetype": "aggro",
     "titles": [
-      "GR Aggro"
+      "GR Aggro",
+      "R/G",
+      "R/G Bomb",
+      "Red/Green"
     ],
     "cover": "Erhnam Djinn",
     "keyCards": [
@@ -198,7 +206,11 @@
     "archetype": "control",
     "titles": [
       "Counter-Post",
-      "The 1:30 Special"
+      "The 1:30 Special",
+      "Counterpost",
+      "CounterPost",
+      "Finkelpost",
+      "W/U Outpost"
     ],
     "rep": 272056,
     "cover": "Counterspell",
@@ -263,7 +275,13 @@
     "titles": [
       "UR Control",
       "UR Aggro",
-      "URw Aggro"
+      "URw Aggro",
+      "U/R",
+      "R/U",
+      "R/U Control",
+      "R/U Passive Red",
+      "U/R Beatdown",
+      "R/U Burn"
     ],
     "cover": "Man-o'-War",
     "keyCards": [
@@ -390,7 +408,11 @@
     "slug": "five-color-green",
     "archetype": "midrange",
     "titles": [
-      "5CGreen"
+      "5CGreen",
+      "5CG",
+      "Not So Monogreen",
+      "4CG",
+      "Mono Green Orb"
     ],
     "cover": "Maro",
     "keyCards": [
@@ -415,5 +437,80 @@
       ]
     },
     "rep": 422110
+  },
+  {
+    "name": "Big Blue",
+    "slug": "big-blue",
+    "archetype": "control",
+    "titles": [
+      "BigBlue",
+      "Bigblue",
+      "Big Blue",
+      "Monoblue",
+      "Mono-Blue",
+      "Blue w/ Worb",
+      "BigBlue/Red",
+      "Watergate",
+      "MonoBlue SpiritLink"
+    ],
+    "cover": "Rainbow Efreet",
+    "keyCards": [
+      "Counterspell",
+      "Force of Will",
+      "Dissipate",
+      "Rainbow Efreet",
+      "Waterspout Djinn",
+      "Thawing Glaciers"
+    ],
+    "summary": {
+      "fr": "Contre-contrôle mono-bleu de l'ère Mirage : Force of Will, Counterspell et Dissipate, Quicksand et Thawing Glaciers, et des menaces évasives comme Rainbow Efreet et Waterspout Djinn.",
+      "en": "Mono-blue counter-control of the Mirage era: Force of Will, Counterspell and Dissipate, Quicksand and Thawing Glaciers, and evasive threats such as Rainbow Efreet and Waterspout Djinn."
+    },
+    "why": {
+      "fr": [
+        "Rainbow Efreet se déphasait pour esquiver le removal",
+        "Quicksand et Thawing Glaciers offraient des terrains utiles à un deck mono-bleu",
+        "Jason Schickli remporte les Regionals Mountain avec"
+      ],
+      "en": [
+        "Rainbow Efreet phased out to dodge removal",
+        "Quicksand and Thawing Glaciers gave a mono-blue deck useful lands",
+        "Jason Schickli won the Mountain Regionals with it"
+      ]
+    },
+    "rep": "x-1997-regionals-mountain-1-schickli",
+    "note": "Spring 1997 US Regionals and summer 1997 State Championships from Dojo reports (classicdojo.org/tourdexreg.html, tourdexst97.html)."
+  },
+  {
+    "name": "Gabriel",
+    "slug": "gabriel",
+    "archetype": "control",
+    "titles": [
+      "R/W Gabriel"
+    ],
+    "cover": "Hammer of Bogardan",
+    "keyCards": [
+      "Kjeldoran Outpost",
+      "Wrath of God",
+      "Hammer of Bogardan",
+      "Ivory Gargoyle",
+      "Orgg",
+      "Wildfire Emissary"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge-blanc de Berlin : Wrath of God et Kjeldoran Outpost contre les decks de créatures, Hammer of Bogardan récurrent, et Orgg, Ivory Gargoyle et Wildfire Emissary comme menaces.",
+      "en": "Red-white control from Berlin: Wrath of God and Kjeldoran Outpost against creature decks, recurring Hammer of Bogardan, and Orgg, Ivory Gargoyle and Wildfire Emissary as threats."
+    },
+    "why": {
+      "fr": [
+        "Kjeldoran Outpost et Hammer of Bogardan offraient des menaces répétables contre les decks de contres",
+        "Daniel Brickwell atteint la finale des championnats d'Allemagne avec"
+      ],
+      "en": [
+        "Kjeldoran Outpost and Hammer of Bogardan gave repeatable threats against counterspell decks",
+        "Daniel Brickwell reached the final of the German Nationals with it"
+      ]
+    },
+    "rep": "x-1997-nationals-germany-2-brickwell"
   }
 ]

@@ -1,59 +1,2184 @@
 [
-{"id": "x-1997-regionals-mountain-1-schickli", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "1", "player": "Jason Schickli", "title": "BigBlue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt", "main": [[20, "Island"], [3, "Quicksand"], [3, "Thawing Glaciers"], [3, "Waterspout Djinn"], [1, "Air Elemental"], [3, "Azimaet Drake"], [4, "Cloud Elemental"], [2, "Man-o'-War"], [4, "Dissipate"], [4, "Force of Will"], [4, "Counterspell"], [4, "Rainbow Efreet"], [2, "Nevinyrral's Disk"], [1, "Snake Basket"], [1, "Flood"], [1, "Flooded Shoreline"]], "side": [[3, "Hydroblast"], [2, "Nevinyrral's Disk"], [1, "Snake Basket"], [1, "Flood"], [1, "Flooded Shoreline"], [2, "Disrupting Scepter"], [1, "Desertion"], [3, "Knight of the Mists"], [1, "Energy Flux"]]},
-{"id": "x-1997-regionals-mountain-2-buckingham", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "2", "player": "Taylor Buckingham", "title": "BigBlue/Red", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-mountain-3-floyd", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "3", "player": "Nick Floyd", "title": "Bigblue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-mountain-4-martin", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "4", "player": "Allen Martin", "title": "B/W Flyers", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-mountain-5-tokuda", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "5", "player": "Lance Tokuda", "title": "BigBlue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-mountain-6-kirkman", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "6", "player": "Eric Kirkman", "title": "B/u", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-mountain-8-knapper", "event": "Regionals 1997 (Mountain)", "date": "1997-05-01", "rank": "8", "player": "Josh Knapper", "title": "BigBlue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.denresults.txt"},
-{"id": "x-1997-regionals-northwest-1-kariel", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "1", "player": "Tim Kariel", "title": "Blue w/ Worb", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-2-hilts", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "2", "player": "Will Hilts", "title": "The Broom", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-delaney", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Brendon Delaney", "title": "Green/White Anti-Stasis", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-quorn", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Brett Quorn", "title": "Sq. Stasis", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-wilson", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Brian Wilson", "title": "Sq. Stasis", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-carletonbarnes", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Gabe Carleton-Barnes", "title": "Sligh", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-dees", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Nelson Dees", "title": "Red/Green", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-northwest-5-chamberlin", "event": "Regionals 1997 (Northwest)", "date": "1997-05-01", "rank": "5-8", "player": "Skylr Chamberlin", "title": "Mono-Blue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"},
-{"id": "x-1997-regionals-socal-1-nolasco", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "1", "player": "Victor Nolasco", "title": "Not So Monogreen", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"},
-{"id": "x-1997-regionals-socal-2-comer", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "2", "player": "Alan Comer", "title": "Monoblue", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt", "main": [[4, "Counterspell"], [3, "Dissipate"], [1, "Dream Tides"], [4, "Force of Will"], [4, "Foreshadow"], [4, "Impulse"], [17, "Island"], [4, "Man-o'-War"], [4, "Memory Lapse"], [4, "Portent"], [4, "Power Sink"], [4, "Suq'Ata Firewalker"], [4, "Waterspout Djinn"]], "side": [[4, "Dandân"], [1, "Dissipate"], [1, "Dream Tides"], [3, "Knight of the Mists"], [4, "Hydroblast"], [2, "Sleight of Mind"]]},
-{"id": "x-1997-regionals-socal-3-jones", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "3-4", "player": "Cory Jones", "title": "U/R", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt", "main": [[1, "City of Brass"], [2, "Earthquake"], [1, "Final Fortune"], [4, "Force of Will"], [1, "Hammer of Bogardan"], [3, "Impulse"], [4, "Incinerate"], [7, "Island"], [2, "Kaervek's Torch"], [3, "Man-o'-War"], [4, "Memory Lapse"], [11, "Mountain"], [1, "Mystical Tutor"], [2, "Orgg"], [3, "Pyrokinesis"], [3, "Quicksand"], [4, "Suq'Ata Lancer"], [3, "Talruum Minotaur"], [2, "Undiscovered Paradise"]], "side": [[2, "Dwarven Miner"], [2, "Knight of the Mists"], [2, "Mind Harness"], [3, "Sirocco"], [2, "Sleight of Mind"], [4, "Pyroblast"]]},
-{"id": "x-1997-regionals-socal-3-zila", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "3-4", "player": "Jason Zila", "title": "U/R", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"},
-{"id": "x-1997-regionals-socal-5-frayman", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "5-8", "player": "Igor Frayman", "title": "U/R", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt", "main": [[3, "Binding Grasp"], [4, "Counterspell"], [1, "Desertion"], [2, "Earthquake"], [1, "Fireball"], [3, "Force of Will"], [3, "Frenetic Efreet"], [2, "Hammer of Bogardan"], [3, "Impulse"], [4, "Incinerate"], [10, "Island"], [1, "Kaervek's Torch"], [9, "Mountain"], [4, "Nevinyrral's Disk"], [2, "Pillage"], [1, "Rainbow Efreet"], [1, "Soldevi Excavations"], [2, "Suq'Ata Firewalker"], [4, "Thawing Glaciers"]], "side": [[1, "Disrupting Scepter"], [2, "Dissipate"], [1, "Hydroblast"], [3, "Mind Harness"], [2, "Pillage"], [4, "Pyroblast"], [2, "Pyrokinesis"]]},
-{"id": "x-1997-regionals-socal-5-robaina", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "5-8", "player": "Mario Robaina", "title": "Not So Monogreen", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt", "main": [[3, "Arcane Denial"], [1, "Armageddon"], [3, "Armor of Thorns"], [4, "Birds of Paradise"], [3, "City of Brass"], [10, "Forest"], [4, "Granger Guildmage"], [4, "Incinerate"], [2, "Jolrael's Centaur"], [4, "Maro"], [4, "Quirion Ranger"], [4, "River Boa"], [2, "Terror"], [4, "Undiscovered Paradise"], [1, "Vampiric Tutor"], [4, "Whirling Dervish"], [3, "Winter Orb"]], "side": [[2, "Disenchant"], [2, "Emerald Charm"], [2, "Hydroblast"], [2, "Mind Harness"], [3, "Pyroblast"], [3, "Simoon"], [1, "Terror"]]},
-{"id": "x-1997-regionals-socal-5-smith", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "5-8", "player": "Mike Smith", "title": "R/G", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt", "main": [[2, "City of Brass"], [4, "Elvish Archers"], [2, "Fireball"], [10, "Forest"], [4, "Giant Growth"], [4, "Granger Guildmage"], [4, "Incinerate"], [4, "Karplusan Forest"], [3, "Lhurgoyf"], [4, "Llanowar Elves"], [4, "Mountain"], [1, "Mtenda Lion"], [4, "River Boa"], [4, "Suq'Ata Lancer"], [2, "Undiscovered Paradise"], [4, "Yavimaya Ants"]], "side": [[2, "Dwarven Miner"], [3, "Emerald Charm"], [3, "Hall of Gemstone"], [1, "Karoo Meerkat"], [4, "Pyroblast"], [2, "Simoon"]]},
-{"id": "x-1997-regionals-socal-5-simpkins", "event": "Regionals 1997 (Southern California)", "date": "1997-05-25", "rank": "5-8", "player": "Ryan Simpkins", "title": "White Weenie", "level": "star+star+star", "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"},
-{"id": "x-1997-nationals-germany-1-krebs", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "1", "player": "Oliver Krebs", "title": "R/G Bomb", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-germany-2-brickwell", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "2", "player": "Daniel Brickwell", "title": "R/W Gabriel", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt", "main": [[3, "Orgg"], [3, "Wildfire"], [3, "Ivory Gargoyle"], [2, "Dwarven Miner"], [3, "Kjeldoran Outpost"], [4, "Wrath of God"], [2, "Armageddon"], [3, "Disenchant"], [4, "Incinerate"], [2, "Disintegrate"], [2, "Spirit Link"], [2, "Hammer of Bogardan"], [2, "Marble Diamond"], [2, "Fire Diamond"], [4, "Thawing Glaciers"], [3, "Quicksand"], [8, "Plains"], [8, "Mountain"]], "side": [[2, "Pyrokinesis"], [1, "Armageddon"], [1, "Nevinyrral's Disk"], [4, "Pyroblast"], [3, "Circle of Protection: Red"], [2, "Honorable Passage"], [1, "Mangara's Blessing"], [1, "Disenchant"]]},
-{"id": "x-1997-nationals-germany-3-liersch", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "3-4", "player": "David Liersch", "title": "5CG", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-germany-3-kuehn", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "3-4", "player": "Janosh Kuehn", "title": "CounterPost", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-germany-5-konstanzer", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "5-8", "player": "Andre Konstanzer", "title": "R/G Bomb", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-germany-5-baran", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "5-8", "player": "Marcel Baran", "title": "U/R Beatdown", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-germany-5-kroeger", "event": "Nationals - Germany 1997", "date": "1997-06-01", "rank": "5-8", "player": "Peer Kroeger", "title": "R/U Burn", "level": "bigstar", "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"},
-{"id": "x-1997-nationals-switzerland-1-grob", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "1", "player": "Eric Grob", "title": "Sligh", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Keeper of Kookus"], [4, "Ironclaw Orcs"], [2, "Dwarven Soldier"], [2, "Dwarven Miner"], [4, "Suq'Ata Lancer"], [4, "Orcish Artillery"], [3, "Viashino Sandstalker"], [4, "Incinerate"], [3, "Death Spark"], [2, "Hammer of Bogardan"], [4, "Fireblast"], [2, "Disintegrate"], [2, "Quicksand"], [16, "Mountain"], [2, "Thawing Glaciers"], [2, "Balduvian Trading Post"]], "side": [[3, "Winter Orb"], [2, "Nevinyrral's Disk"], [2, "Pyrokinesis"], [4, "Pyroblast"], [2, "Earthquake"], [2, "Flashfires"]]},
-{"id": "x-1997-nationals-switzerland-2-leimbach", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "2", "player": "Alex Leimbach", "title": "5CG", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Birds of Paradise"], [4, "Quirion Ranger"], [3, "Granger Guildmage"], [4, "River Boa"], [3, "Whirling Dervish"], [2, "Jolrael's Centaur"], [2, "Lhurgoyf"], [3, "Maro"], [2, "Armor of Thorns"], [4, "Incinerate"], [4, "Arcane Denial"], [2, "Terror"], [2, "Vampiric Tutor"], [1, "Armageddon"], [1, "Disenchant"], [3, "Winter Orb"], [3, "City of Brass"], [9, "Forest"], [4, "Undiscovered Paradise"]], "side": [[1, "Disenchant"], [3, "Hydroblast"], [3, "Simoon"], [3, "Pyroblast"], [1, "Terror"], [2, "Emerald Charm"], [1, "Whirling Dervish"], [1, "Mind Harness"]]},
-{"id": "x-1997-nationals-switzerland-3-dogan", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "3", "player": "Timur Dogan", "title": "Big Blue", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Suq'Ata Firewalker"], [2, "Air Elemental"], [2, "Waterspout Djinn"], [4, "Wall of Air"], [1, "Time Elemental"], [4, "Counterspell"], [4, "Force of Will"], [4, "Dissipate"], [1, "Arcane Denial"], [1, "Power Sink"], [1, "Desertion"], [3, "Boomerang"], [3, "Impulse"], [2, "Browse"], [1, "Nevinyrral's Disk"], [14, "Island"], [4, "Thawing Glaciers"], [4, "Quicksand"], [1, "Soldevi Excavations"]], "side": [[3, "Hydroblast"], [3, "Sleight of Mind"], [2, "Mind Harness"], [2, "Dream Tides"], [1, "Rod of Ruin"], [2, "Arcane Denial"], [2, "Knight of the Mists"]]},
-{"id": "x-1997-nationals-switzerland-4-suwald", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "4", "player": "Michael Suwald", "title": "5CG", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Birds of Paradise"], [4, "Quirion Ranger"], [4, "Granger Guildmage"], [4, "River Boa"], [4, "Whirling Dervish"], [4, "Jolrael's Centaur"], [3, "Maro"], [2, "Giant Growth"], [1, "Armor of Thorns"], [4, "Incinerate"], [4, "Arcane Denial"], [1, "Armageddon"], [2, "Terror"], [3, "Winter Orb"], [3, "City of Brass"], [9, "Forest"], [4, "Undiscovered Paradise"]], "side": [[3, "Pyroblast"], [2, "Terror"], [2, "City of Solitude"], [2, "Disenchant"], [4, "Hydroblast"], [2, "Simoon"]]},
-{"id": "x-1997-nationals-switzerland-5-probst", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "5", "player": "Marc Probst", "title": "Boa-Geddon", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[1, "Creeping Mold"], [1, "Disenchant"], [3, "Armageddon"], [2, "Hurricane"], [4, "Giant Growth"], [2, "Snake Basket"], [1, "Wrath of God"], [4, "Llanowar Elves"], [4, "Wall of Roots"], [4, "River Boa"], [1, "Maro"], [4, "Juniper Order Advocate"], [2, "Radiant Essence"], [1, "Asmira, Holy Avenger"], [2, "Lhurgoyf"], [2, "Kaysa"], [4, "Brushland"], [2, "Thawing Glaciers"], [10, "Forest"], [6, "Plains"]], "side": [[2, "Disenchant"], [3, "Exile"], [2, "Karoo Meerkat"], [3, "City of Solitude"], [2, "Tsunami"], [2, "Whirling Dervish"], [1, "Jester's Cap"]]},
-{"id": "x-1997-nationals-switzerland-6-feldman", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "6", "player": "Amiel Feldman", "title": "MonoBlue SpiritLink", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[2, "Rainbow Efreet"], [1, "Waterspout Djinn"], [3, "Suq'Ata Firewalker"], [3, "Air Elemental"], [4, "Counterspell"], [4, "Force of Will"], [4, "Dissipate"], [2, "Desertion"], [2, "Binding Grasp"], [3, "Spirit Link"], [3, "Impulse"], [4, "Nevinyrral's Disk"], [3, "Thawing Glaciers"], [2, "Flood Plain"], [4, "Quicksand"], [1, "Plains"], [10, "Island"], [3, "Adarkar Wastes"], [2, "Soldevi Excavations"]], "side": [[2, "Political Trickery"], [4, "Wall of Air"], [4, "Hydroblast"], [1, "Soldevi Digger"], [2, "Disenchant"], [1, "Circle of Protection: Black"], [1, "Circle of Protection: Red"]]},
-{"id": "x-1997-nationals-switzerland-7-meylan", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "7", "player": "Nicolas Meylan", "title": "Fish Deck", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Merfolk of the Pearl Trident"], [4, "Storm Crow"], [4, "Lord of Atlantis"], [4, "Cloud Elemental"], [3, "Suq'Ata Firewalker"], [4, "Waterspout Djinn"], [4, "Unstable Mutation"], [2, "Impulse"], [4, "Counterspell"], [2, "Browse"], [4, "Force of Will"], [3, "Quicksand"], [18, "Island"]], "side": [[2, "Arcane Denial"], [2, "Mind Harness"], [2, "Suffocation"], [2, "Knight of the Mists"], [2, "Steal Artifact"], [1, "Political Trickery"], [2, "Dream Tides"], [2, "Hydroblast"]]},
-{"id": "x-1997-nationals-switzerland-8-heuscher", "event": "Nationals - Switzerland 1997", "date": "1997-06-29", "rank": "8", "player": "Stephan Heuscher", "title": "5CG", "level": "star+star+star", "source": "https://classicdojo.org/deck/swissdecks97.html", "main": [[4, "Birds of Paradise"], [4, "Quirion Ranger"], [4, "Granger Guildmage"], [3, "River Boa"], [2, "Whirling Dervish"], [1, "Elvish Archers"], [1, "Karoo Meerkat"], [1, "Lhurgoyf"], [2, "Maro"], [1, "Derelor"], [2, "Giant Growth"], [1, "Armor of Thorns"], [2, "Sylvan Library"], [4, "Incinerate"], [1, "Terror"], [1, "Vampiric Tutor"], [2, "Arcane Denial"], [1, "Fireball"], [1, "Jokulhaups"], [1, "Spirit Link"], [1, "Phyrexian War Beast"], [1, "Armageddon"], [4, "City of Brass"], [12, "Forest"], [4, "Undiscovered Paradise"]], "side": [[1, "Whirling Dervish"], [1, "Gloom"], [2, "Hydroblast"], [2, "Simoon"], [3, "City of Solitude"], [3, "Pyroblast"], [3, "Emerald Charm"]]},
-{"id": "x-1997-states-georgia-1-leonhardt", "event": "State Championship 1997 (Georgia)", "date": "1997-08-02", "rank": "1", "player": "Doug Leonhardt", "title": "Watergate", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970808dl.txt", "main": [[2, "Force Spike"], [4, "Counterspell"], [4, "Dissipate"], [4, "Force of Will"], [2, "Vanishing"], [4, "Impulse"], [1, "Enervate"], [1, "Wall of Air"], [4, "Man-o'-War"], [3, "Floodgate"], [3, "Rainbow Efreet"], [4, "Nevinyrral's Disk"], [1, "Phyrexian Furnace"], [3, "Thawing Glaciers"], [17, "Island"], [4, "Quicksand"]]},
-{"id": "x-1997-states-georgia-2-sligh", "event": "State Championship 1997 (Georgia)", "date": "1997-08-02", "rank": "2", "player": "Paul Sligh", "title": "Sligh", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804sm.txt"},
-{"id": "x-1997-states-montana-1-rider", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "1", "player": "Justin Rider", "title": "Buried Alive", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-2-smith", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "2", "player": "Adam Smith", "title": "Old School Necro", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-3-christensen", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "3-4", "player": "Joe Christensen", "title": "Good Stuff", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-3-helmer", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "3-4", "player": "Kit Helmer", "title": "R/G Land D", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-5-knaff", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "5-8", "player": "Andy Knaff", "title": "Counterpost", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-5-duffon", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "5-8", "player": "Dan Duffon", "title": "R/G Land D", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-5-mcelray", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "5-8", "player": "Jeff McElray", "title": "Buried Alive", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-montana-5-brunsvold", "event": "State Championship 1997 (Montana)", "date": "1997-08-02", "rank": "5-8", "player": "Sterling Brunsvold", "title": "Counterpost", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"},
-{"id": "x-1997-states-northcarolina-1-krzywicki", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "1", "player": "Mike Krzywicki", "title": "4CG", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-2-albertson", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "2", "player": "Norm Albertson", "title": "R/U", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-3-irwin", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "3-4", "player": "Bailey Irwin", "title": "Mono Green Orb", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-3-lee", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "3-4", "player": "Dennis Lee", "title": "Finkelpost", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-5-killmeyer", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "5-8", "player": "Chris Killmeyer", "title": "R/G", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-5-wright", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "5-8", "player": "Chuck Wright", "title": "W/U Outpost", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-5-kidd", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "5-8", "player": "James Kidd", "title": "R/U Passive Red", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-northcarolina-5-shinook", "event": "State Championship 1997 (North Carolina)", "date": "1997-08-02", "rank": "5-8", "player": "Rick Shinook", "title": "R/U Control", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"},
-{"id": "x-1997-states-vermont-1-mclaughlin", "event": "State Championship 1997 (Vermont)", "date": "1997-08-02", "rank": "1", "player": "Kevin McLaughlin", "title": "MaroGeddon", "level": "star+star+star", "source": "https://classicdojo.org/tourney/t2s.970805kmc.txt", "main": [[2, "Autumn Willow"], [3, "Scalebane Elite"], [4, "Maro"], [2, "Jolrael's Centaur"], [2, "Benalish Knight"], [2, "River Boa"], [4, "Wall of Roots"], [3, "Armageddon"], [4, "Abeyance"], [2, "Wrath of God"], [3, "Swords to Plowshares"], [2, "Icy Manipulator"], [1, "Disenchant"], [2, "Creeping Mold"], [2, "Sylvan Library"], [1, "Gerrard's Wisdom"], [6, "Forest"], [5, "Plains"], [3, "Quicksand"], [3, "Thawing Glaciers"], [1, "Undiscovered Paradise"], [4, "Brushland"]], "side": [[2, "Disenchant"], [1, "Aura of Silence"], [3, "City of Solitude"], [2, "Honorable Passage"], [3, "Whirling Dervish"], [1, "Swords to Plowshares"], [1, "Wrath of God"], [2, "Serrated Arrows"]]}
+  {
+    "id": "x-1997-regionals-mountain-1-schickli",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "1",
+    "player": "Jason Schickli",
+    "title": "BigBlue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt",
+    "main": [
+      [
+        20,
+        "Island"
+      ],
+      [
+        3,
+        "Quicksand"
+      ],
+      [
+        3,
+        "Thawing Glaciers"
+      ],
+      [
+        3,
+        "Waterspout Djinn"
+      ],
+      [
+        1,
+        "Air Elemental"
+      ],
+      [
+        3,
+        "Azimaet Drake"
+      ],
+      [
+        4,
+        "Cloud Elemental"
+      ],
+      [
+        2,
+        "Man-o'-War"
+      ],
+      [
+        4,
+        "Dissipate"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        4,
+        "Rainbow Efreet"
+      ],
+      [
+        2,
+        "Nevinyrral's Disk"
+      ],
+      [
+        1,
+        "Snake Basket"
+      ],
+      [
+        1,
+        "Flood"
+      ],
+      [
+        1,
+        "Flooded Shoreline"
+      ]
+    ],
+    "side": [
+      [
+        3,
+        "Hydroblast"
+      ],
+      [
+        2,
+        "Nevinyrral's Disk"
+      ],
+      [
+        1,
+        "Snake Basket"
+      ],
+      [
+        1,
+        "Flood"
+      ],
+      [
+        1,
+        "Flooded Shoreline"
+      ],
+      [
+        2,
+        "Disrupting Scepter"
+      ],
+      [
+        1,
+        "Desertion"
+      ],
+      [
+        3,
+        "Knight of the Mists"
+      ],
+      [
+        1,
+        "Energy Flux"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-mountain-2-buckingham",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "2",
+    "player": "Taylor Buckingham",
+    "title": "BigBlue/Red",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-mountain-3-floyd",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "3",
+    "player": "Nick Floyd",
+    "title": "Bigblue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-mountain-4-martin",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "4",
+    "player": "Allen Martin",
+    "title": "B/W Flyers",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-mountain-5-tokuda",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "5",
+    "player": "Lance Tokuda",
+    "title": "BigBlue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-mountain-6-kirkman",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "6",
+    "player": "Eric Kirkman",
+    "title": "B/u",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-mountain-8-knapper",
+    "event": "Regionals 1997 (Mountain)",
+    "date": "1997-05-01",
+    "rank": "8",
+    "player": "Josh Knapper",
+    "title": "BigBlue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.denresults.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-1-kariel",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "1",
+    "player": "Tim Kariel",
+    "title": "Blue w/ Worb",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-2-hilts",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "2",
+    "player": "Will Hilts",
+    "title": "The Broom",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-delaney",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Brendon Delaney",
+    "title": "Green/White Anti-Stasis",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-quorn",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Brett Quorn",
+    "title": "Sq. Stasis",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-wilson",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Brian Wilson",
+    "title": "Sq. Stasis",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-carletonbarnes",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Gabe Carleton-Barnes",
+    "title": "Sligh",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-dees",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Nelson Dees",
+    "title": "Red/Green",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-northwest-5-chamberlin",
+    "event": "Regionals 1997 (Northwest)",
+    "date": "1997-05-01",
+    "rank": "5-8",
+    "player": "Skylr Chamberlin",
+    "title": "Mono-Blue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/reg.resultswa0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-socal-1-nolasco",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "1",
+    "player": "Victor Nolasco",
+    "title": "Not So Monogreen",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-socal-2-comer",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "2",
+    "player": "Alan Comer",
+    "title": "Monoblue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt",
+    "main": [
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        3,
+        "Dissipate"
+      ],
+      [
+        1,
+        "Dream Tides"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        4,
+        "Foreshadow"
+      ],
+      [
+        4,
+        "Impulse"
+      ],
+      [
+        17,
+        "Island"
+      ],
+      [
+        4,
+        "Man-o'-War"
+      ],
+      [
+        4,
+        "Memory Lapse"
+      ],
+      [
+        4,
+        "Portent"
+      ],
+      [
+        4,
+        "Power Sink"
+      ],
+      [
+        4,
+        "Suq'Ata Firewalker"
+      ],
+      [
+        4,
+        "Waterspout Djinn"
+      ]
+    ],
+    "side": [
+      [
+        4,
+        "Dandân"
+      ],
+      [
+        1,
+        "Dissipate"
+      ],
+      [
+        1,
+        "Dream Tides"
+      ],
+      [
+        3,
+        "Knight of the Mists"
+      ],
+      [
+        4,
+        "Hydroblast"
+      ],
+      [
+        2,
+        "Sleight of Mind"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-socal-3-jones",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "3-4",
+    "player": "Cory Jones",
+    "title": "U/R",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt",
+    "main": [
+      [
+        1,
+        "City of Brass"
+      ],
+      [
+        2,
+        "Earthquake"
+      ],
+      [
+        1,
+        "Final Fortune"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        1,
+        "Hammer of Bogardan"
+      ],
+      [
+        3,
+        "Impulse"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        7,
+        "Island"
+      ],
+      [
+        2,
+        "Kaervek's Torch"
+      ],
+      [
+        3,
+        "Man-o'-War"
+      ],
+      [
+        4,
+        "Memory Lapse"
+      ],
+      [
+        11,
+        "Mountain"
+      ],
+      [
+        1,
+        "Mystical Tutor"
+      ],
+      [
+        2,
+        "Orgg"
+      ],
+      [
+        3,
+        "Pyrokinesis"
+      ],
+      [
+        3,
+        "Quicksand"
+      ],
+      [
+        4,
+        "Suq'Ata Lancer"
+      ],
+      [
+        3,
+        "Talruum Minotaur"
+      ],
+      [
+        2,
+        "Undiscovered Paradise"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Dwarven Miner"
+      ],
+      [
+        2,
+        "Knight of the Mists"
+      ],
+      [
+        2,
+        "Mind Harness"
+      ],
+      [
+        3,
+        "Sirocco"
+      ],
+      [
+        2,
+        "Sleight of Mind"
+      ],
+      [
+        4,
+        "Pyroblast"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-socal-3-zila",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "3-4",
+    "player": "Jason Zila",
+    "title": "U/R",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"
+  },
+  {
+    "id": "x-1997-regionals-socal-5-frayman",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "5-8",
+    "player": "Igor Frayman",
+    "title": "U/R",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt",
+    "main": [
+      [
+        3,
+        "Binding Grasp"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        1,
+        "Desertion"
+      ],
+      [
+        2,
+        "Earthquake"
+      ],
+      [
+        1,
+        "Fireball"
+      ],
+      [
+        3,
+        "Force of Will"
+      ],
+      [
+        3,
+        "Frenetic Efreet"
+      ],
+      [
+        2,
+        "Hammer of Bogardan"
+      ],
+      [
+        3,
+        "Impulse"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        10,
+        "Island"
+      ],
+      [
+        1,
+        "Kaervek's Torch"
+      ],
+      [
+        9,
+        "Mountain"
+      ],
+      [
+        4,
+        "Nevinyrral's Disk"
+      ],
+      [
+        2,
+        "Pillage"
+      ],
+      [
+        1,
+        "Rainbow Efreet"
+      ],
+      [
+        1,
+        "Soldevi Excavations"
+      ],
+      [
+        2,
+        "Suq'Ata Firewalker"
+      ],
+      [
+        4,
+        "Thawing Glaciers"
+      ]
+    ],
+    "side": [
+      [
+        1,
+        "Disrupting Scepter"
+      ],
+      [
+        2,
+        "Dissipate"
+      ],
+      [
+        1,
+        "Hydroblast"
+      ],
+      [
+        3,
+        "Mind Harness"
+      ],
+      [
+        2,
+        "Pillage"
+      ],
+      [
+        4,
+        "Pyroblast"
+      ],
+      [
+        2,
+        "Pyrokinesis"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-socal-5-robaina",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "5-8",
+    "player": "Mario Robaina",
+    "title": "Not So Monogreen",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt",
+    "main": [
+      [
+        3,
+        "Arcane Denial"
+      ],
+      [
+        1,
+        "Armageddon"
+      ],
+      [
+        3,
+        "Armor of Thorns"
+      ],
+      [
+        4,
+        "Birds of Paradise"
+      ],
+      [
+        3,
+        "City of Brass"
+      ],
+      [
+        10,
+        "Forest"
+      ],
+      [
+        4,
+        "Granger Guildmage"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        2,
+        "Jolrael's Centaur"
+      ],
+      [
+        4,
+        "Maro"
+      ],
+      [
+        4,
+        "Quirion Ranger"
+      ],
+      [
+        4,
+        "River Boa"
+      ],
+      [
+        2,
+        "Terror"
+      ],
+      [
+        4,
+        "Undiscovered Paradise"
+      ],
+      [
+        1,
+        "Vampiric Tutor"
+      ],
+      [
+        4,
+        "Whirling Dervish"
+      ],
+      [
+        3,
+        "Winter Orb"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Disenchant"
+      ],
+      [
+        2,
+        "Emerald Charm"
+      ],
+      [
+        2,
+        "Hydroblast"
+      ],
+      [
+        2,
+        "Mind Harness"
+      ],
+      [
+        3,
+        "Pyroblast"
+      ],
+      [
+        3,
+        "Simoon"
+      ],
+      [
+        1,
+        "Terror"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-socal-5-smith",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "5-8",
+    "player": "Mike Smith",
+    "title": "R/G",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt",
+    "main": [
+      [
+        2,
+        "City of Brass"
+      ],
+      [
+        4,
+        "Elvish Archers"
+      ],
+      [
+        2,
+        "Fireball"
+      ],
+      [
+        10,
+        "Forest"
+      ],
+      [
+        4,
+        "Giant Growth"
+      ],
+      [
+        4,
+        "Granger Guildmage"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        4,
+        "Karplusan Forest"
+      ],
+      [
+        3,
+        "Lhurgoyf"
+      ],
+      [
+        4,
+        "Llanowar Elves"
+      ],
+      [
+        4,
+        "Mountain"
+      ],
+      [
+        1,
+        "Mtenda Lion"
+      ],
+      [
+        4,
+        "River Boa"
+      ],
+      [
+        4,
+        "Suq'Ata Lancer"
+      ],
+      [
+        2,
+        "Undiscovered Paradise"
+      ],
+      [
+        4,
+        "Yavimaya Ants"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Dwarven Miner"
+      ],
+      [
+        3,
+        "Emerald Charm"
+      ],
+      [
+        3,
+        "Hall of Gemstone"
+      ],
+      [
+        1,
+        "Karoo Meerkat"
+      ],
+      [
+        4,
+        "Pyroblast"
+      ],
+      [
+        2,
+        "Simoon"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-regionals-socal-5-simpkins",
+    "event": "Regionals 1997 (Southern California)",
+    "date": "1997-05-25",
+    "rank": "5-8",
+    "player": "Ryan Simpkins",
+    "title": "White Weenie",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/regsca.listing.0525.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-1-krebs",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "1",
+    "player": "Oliver Krebs",
+    "title": "R/G Bomb",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-2-brickwell",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "2",
+    "player": "Daniel Brickwell",
+    "title": "R/W Gabriel",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt",
+    "main": [
+      [
+        3,
+        "Orgg"
+      ],
+      [
+        3,
+        "Wildfire Emissary"
+      ],
+      [
+        3,
+        "Ivory Gargoyle"
+      ],
+      [
+        2,
+        "Dwarven Miner"
+      ],
+      [
+        3,
+        "Kjeldoran Outpost"
+      ],
+      [
+        4,
+        "Wrath of God"
+      ],
+      [
+        2,
+        "Armageddon"
+      ],
+      [
+        3,
+        "Disenchant"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        2,
+        "Disintegrate"
+      ],
+      [
+        2,
+        "Spirit Link"
+      ],
+      [
+        2,
+        "Hammer of Bogardan"
+      ],
+      [
+        2,
+        "Marble Diamond"
+      ],
+      [
+        2,
+        "Fire Diamond"
+      ],
+      [
+        4,
+        "Thawing Glaciers"
+      ],
+      [
+        3,
+        "Quicksand"
+      ],
+      [
+        8,
+        "Plains"
+      ],
+      [
+        8,
+        "Mountain"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Pyrokinesis"
+      ],
+      [
+        1,
+        "Armageddon"
+      ],
+      [
+        1,
+        "Nevinyrral's Disk"
+      ],
+      [
+        4,
+        "Pyroblast"
+      ],
+      [
+        3,
+        "Circle of Protection: Red"
+      ],
+      [
+        2,
+        "Honorable Passage"
+      ],
+      [
+        1,
+        "Mangara's Blessing"
+      ],
+      [
+        1,
+        "Disenchant"
+      ]
+    ],
+    "note": "Source writes '3 Wildfire'; the report shows it is a creature hit by Contagion, i.e. Wildfire Emissary (Mirage), the only such card legal in 1997."
+  },
+  {
+    "id": "x-1997-nationals-germany-3-liersch",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "3-4",
+    "player": "David Liersch",
+    "title": "5CG",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-3-kuehn",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "3-4",
+    "player": "Janosh Kuehn",
+    "title": "CounterPost",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-5-konstanzer",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "5-8",
+    "player": "Andre Konstanzer",
+    "title": "R/G Bomb",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-5-baran",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "5-8",
+    "player": "Marcel Baran",
+    "title": "U/R Beatdown",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-germany-5-kroeger",
+    "event": "Nationals - Germany 1997",
+    "date": "1997-06-01",
+    "rank": "5-8",
+    "player": "Peer Kroeger",
+    "title": "R/U Burn",
+    "level": "bigstar",
+    "source": "https://classicdojo.org/tourney/reg.970630gedb.txt"
+  },
+  {
+    "id": "x-1997-nationals-switzerland-1-grob",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "1",
+    "player": "Eric Grob",
+    "title": "Sligh",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Keeper of Kookus"
+      ],
+      [
+        4,
+        "Ironclaw Orcs"
+      ],
+      [
+        2,
+        "Dwarven Soldier"
+      ],
+      [
+        2,
+        "Dwarven Miner"
+      ],
+      [
+        4,
+        "Suq'Ata Lancer"
+      ],
+      [
+        4,
+        "Orcish Artillery"
+      ],
+      [
+        3,
+        "Viashino Sandstalker"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        3,
+        "Death Spark"
+      ],
+      [
+        2,
+        "Hammer of Bogardan"
+      ],
+      [
+        4,
+        "Fireblast"
+      ],
+      [
+        2,
+        "Disintegrate"
+      ],
+      [
+        2,
+        "Quicksand"
+      ],
+      [
+        16,
+        "Mountain"
+      ],
+      [
+        2,
+        "Thawing Glaciers"
+      ],
+      [
+        2,
+        "Balduvian Trading Post"
+      ]
+    ],
+    "side": [
+      [
+        3,
+        "Winter Orb"
+      ],
+      [
+        2,
+        "Nevinyrral's Disk"
+      ],
+      [
+        2,
+        "Pyrokinesis"
+      ],
+      [
+        4,
+        "Pyroblast"
+      ],
+      [
+        2,
+        "Earthquake"
+      ],
+      [
+        2,
+        "Flashfires"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-2-leimbach",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "2",
+    "player": "Alex Leimbach",
+    "title": "5CG",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Birds of Paradise"
+      ],
+      [
+        4,
+        "Quirion Ranger"
+      ],
+      [
+        3,
+        "Granger Guildmage"
+      ],
+      [
+        4,
+        "River Boa"
+      ],
+      [
+        3,
+        "Whirling Dervish"
+      ],
+      [
+        2,
+        "Jolrael's Centaur"
+      ],
+      [
+        2,
+        "Lhurgoyf"
+      ],
+      [
+        3,
+        "Maro"
+      ],
+      [
+        2,
+        "Armor of Thorns"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        4,
+        "Arcane Denial"
+      ],
+      [
+        2,
+        "Terror"
+      ],
+      [
+        2,
+        "Vampiric Tutor"
+      ],
+      [
+        1,
+        "Armageddon"
+      ],
+      [
+        1,
+        "Disenchant"
+      ],
+      [
+        3,
+        "Winter Orb"
+      ],
+      [
+        3,
+        "City of Brass"
+      ],
+      [
+        9,
+        "Forest"
+      ],
+      [
+        4,
+        "Undiscovered Paradise"
+      ]
+    ],
+    "side": [
+      [
+        1,
+        "Disenchant"
+      ],
+      [
+        3,
+        "Hydroblast"
+      ],
+      [
+        3,
+        "Simoon"
+      ],
+      [
+        3,
+        "Pyroblast"
+      ],
+      [
+        1,
+        "Terror"
+      ],
+      [
+        2,
+        "Emerald Charm"
+      ],
+      [
+        1,
+        "Whirling Dervish"
+      ],
+      [
+        1,
+        "Mind Harness"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-3-dogan",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "3",
+    "player": "Timur Dogan",
+    "title": "Big Blue",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Suq'Ata Firewalker"
+      ],
+      [
+        2,
+        "Air Elemental"
+      ],
+      [
+        2,
+        "Waterspout Djinn"
+      ],
+      [
+        4,
+        "Wall of Air"
+      ],
+      [
+        1,
+        "Time Elemental"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        4,
+        "Dissipate"
+      ],
+      [
+        1,
+        "Arcane Denial"
+      ],
+      [
+        1,
+        "Power Sink"
+      ],
+      [
+        1,
+        "Desertion"
+      ],
+      [
+        3,
+        "Boomerang"
+      ],
+      [
+        3,
+        "Impulse"
+      ],
+      [
+        2,
+        "Browse"
+      ],
+      [
+        1,
+        "Nevinyrral's Disk"
+      ],
+      [
+        14,
+        "Island"
+      ],
+      [
+        4,
+        "Thawing Glaciers"
+      ],
+      [
+        4,
+        "Quicksand"
+      ],
+      [
+        1,
+        "Soldevi Excavations"
+      ]
+    ],
+    "side": [
+      [
+        3,
+        "Hydroblast"
+      ],
+      [
+        3,
+        "Sleight of Mind"
+      ],
+      [
+        2,
+        "Mind Harness"
+      ],
+      [
+        2,
+        "Dream Tides"
+      ],
+      [
+        1,
+        "Rod of Ruin"
+      ],
+      [
+        2,
+        "Arcane Denial"
+      ],
+      [
+        2,
+        "Knight of the Mists"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-4-suwald",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "4",
+    "player": "Michael Suwald",
+    "title": "5CG",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Birds of Paradise"
+      ],
+      [
+        4,
+        "Quirion Ranger"
+      ],
+      [
+        4,
+        "Granger Guildmage"
+      ],
+      [
+        4,
+        "River Boa"
+      ],
+      [
+        4,
+        "Whirling Dervish"
+      ],
+      [
+        4,
+        "Jolrael's Centaur"
+      ],
+      [
+        3,
+        "Maro"
+      ],
+      [
+        2,
+        "Giant Growth"
+      ],
+      [
+        1,
+        "Armor of Thorns"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        4,
+        "Arcane Denial"
+      ],
+      [
+        1,
+        "Armageddon"
+      ],
+      [
+        2,
+        "Terror"
+      ],
+      [
+        3,
+        "Winter Orb"
+      ],
+      [
+        3,
+        "City of Brass"
+      ],
+      [
+        9,
+        "Forest"
+      ],
+      [
+        4,
+        "Undiscovered Paradise"
+      ]
+    ],
+    "side": [
+      [
+        3,
+        "Pyroblast"
+      ],
+      [
+        2,
+        "Terror"
+      ],
+      [
+        2,
+        "City of Solitude"
+      ],
+      [
+        2,
+        "Disenchant"
+      ],
+      [
+        4,
+        "Hydroblast"
+      ],
+      [
+        2,
+        "Simoon"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-5-probst",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "5",
+    "player": "Marc Probst",
+    "title": "Boa-Geddon",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        1,
+        "Creeping Mold"
+      ],
+      [
+        1,
+        "Disenchant"
+      ],
+      [
+        3,
+        "Armageddon"
+      ],
+      [
+        2,
+        "Hurricane"
+      ],
+      [
+        4,
+        "Giant Growth"
+      ],
+      [
+        2,
+        "Snake Basket"
+      ],
+      [
+        1,
+        "Wrath of God"
+      ],
+      [
+        4,
+        "Llanowar Elves"
+      ],
+      [
+        4,
+        "Wall of Roots"
+      ],
+      [
+        4,
+        "River Boa"
+      ],
+      [
+        1,
+        "Maro"
+      ],
+      [
+        4,
+        "Juniper Order Advocate"
+      ],
+      [
+        2,
+        "Radiant Essence"
+      ],
+      [
+        1,
+        "Asmira, Holy Avenger"
+      ],
+      [
+        2,
+        "Lhurgoyf"
+      ],
+      [
+        2,
+        "Kaysa"
+      ],
+      [
+        4,
+        "Brushland"
+      ],
+      [
+        2,
+        "Thawing Glaciers"
+      ],
+      [
+        10,
+        "Forest"
+      ],
+      [
+        6,
+        "Plains"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Disenchant"
+      ],
+      [
+        3,
+        "Exile"
+      ],
+      [
+        2,
+        "Karoo Meerkat"
+      ],
+      [
+        3,
+        "City of Solitude"
+      ],
+      [
+        2,
+        "Tsunami"
+      ],
+      [
+        2,
+        "Whirling Dervish"
+      ],
+      [
+        1,
+        "Jester's Cap"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-6-feldman",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "6",
+    "player": "Amiel Feldman",
+    "title": "MonoBlue SpiritLink",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        2,
+        "Rainbow Efreet"
+      ],
+      [
+        1,
+        "Waterspout Djinn"
+      ],
+      [
+        3,
+        "Suq'Ata Firewalker"
+      ],
+      [
+        3,
+        "Air Elemental"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        4,
+        "Dissipate"
+      ],
+      [
+        2,
+        "Desertion"
+      ],
+      [
+        2,
+        "Binding Grasp"
+      ],
+      [
+        3,
+        "Spirit Link"
+      ],
+      [
+        3,
+        "Impulse"
+      ],
+      [
+        4,
+        "Nevinyrral's Disk"
+      ],
+      [
+        3,
+        "Thawing Glaciers"
+      ],
+      [
+        2,
+        "Flood Plain"
+      ],
+      [
+        4,
+        "Quicksand"
+      ],
+      [
+        1,
+        "Plains"
+      ],
+      [
+        10,
+        "Island"
+      ],
+      [
+        3,
+        "Adarkar Wastes"
+      ],
+      [
+        2,
+        "Soldevi Excavations"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Political Trickery"
+      ],
+      [
+        4,
+        "Wall of Air"
+      ],
+      [
+        4,
+        "Hydroblast"
+      ],
+      [
+        1,
+        "Soldevi Digger"
+      ],
+      [
+        2,
+        "Disenchant"
+      ],
+      [
+        1,
+        "Circle of Protection: Black"
+      ],
+      [
+        1,
+        "Circle of Protection: Red"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-7-meylan",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "7",
+    "player": "Nicolas Meylan",
+    "title": "Fish Deck",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Merfolk of the Pearl Trident"
+      ],
+      [
+        4,
+        "Storm Crow"
+      ],
+      [
+        4,
+        "Lord of Atlantis"
+      ],
+      [
+        4,
+        "Cloud Elemental"
+      ],
+      [
+        3,
+        "Suq'Ata Firewalker"
+      ],
+      [
+        4,
+        "Waterspout Djinn"
+      ],
+      [
+        4,
+        "Unstable Mutation"
+      ],
+      [
+        2,
+        "Impulse"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        2,
+        "Browse"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        3,
+        "Quicksand"
+      ],
+      [
+        18,
+        "Island"
+      ]
+    ],
+    "side": [
+      [
+        2,
+        "Arcane Denial"
+      ],
+      [
+        2,
+        "Mind Harness"
+      ],
+      [
+        2,
+        "Suffocation"
+      ],
+      [
+        2,
+        "Knight of the Mists"
+      ],
+      [
+        2,
+        "Steal Artifact"
+      ],
+      [
+        1,
+        "Political Trickery"
+      ],
+      [
+        2,
+        "Dream Tides"
+      ],
+      [
+        2,
+        "Hydroblast"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-nationals-switzerland-8-heuscher",
+    "event": "Nationals - Switzerland 1997",
+    "date": "1997-06-29",
+    "rank": "8",
+    "player": "Stephan Heuscher",
+    "title": "5CG",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/deck/swissdecks97.html",
+    "main": [
+      [
+        4,
+        "Birds of Paradise"
+      ],
+      [
+        4,
+        "Quirion Ranger"
+      ],
+      [
+        4,
+        "Granger Guildmage"
+      ],
+      [
+        3,
+        "River Boa"
+      ],
+      [
+        2,
+        "Whirling Dervish"
+      ],
+      [
+        1,
+        "Elvish Archers"
+      ],
+      [
+        1,
+        "Karoo Meerkat"
+      ],
+      [
+        1,
+        "Lhurgoyf"
+      ],
+      [
+        2,
+        "Maro"
+      ],
+      [
+        1,
+        "Derelor"
+      ],
+      [
+        2,
+        "Giant Growth"
+      ],
+      [
+        1,
+        "Armor of Thorns"
+      ],
+      [
+        2,
+        "Sylvan Library"
+      ],
+      [
+        4,
+        "Incinerate"
+      ],
+      [
+        1,
+        "Terror"
+      ],
+      [
+        1,
+        "Vampiric Tutor"
+      ],
+      [
+        2,
+        "Arcane Denial"
+      ],
+      [
+        1,
+        "Fireball"
+      ],
+      [
+        1,
+        "Jokulhaups"
+      ],
+      [
+        1,
+        "Spirit Link"
+      ],
+      [
+        1,
+        "Phyrexian War Beast"
+      ],
+      [
+        1,
+        "Armageddon"
+      ],
+      [
+        4,
+        "City of Brass"
+      ],
+      [
+        12,
+        "Forest"
+      ],
+      [
+        4,
+        "Undiscovered Paradise"
+      ]
+    ],
+    "side": [
+      [
+        1,
+        "Whirling Dervish"
+      ],
+      [
+        1,
+        "Gloom"
+      ],
+      [
+        2,
+        "Hydroblast"
+      ],
+      [
+        2,
+        "Simoon"
+      ],
+      [
+        3,
+        "City of Solitude"
+      ],
+      [
+        3,
+        "Pyroblast"
+      ],
+      [
+        3,
+        "Emerald Charm"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-states-georgia-1-leonhardt",
+    "event": "State Championship 1997 (Georgia)",
+    "date": "1997-08-02",
+    "rank": "1",
+    "player": "Doug Leonhardt",
+    "title": "Watergate",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970808dl.txt",
+    "main": [
+      [
+        2,
+        "Force Spike"
+      ],
+      [
+        4,
+        "Counterspell"
+      ],
+      [
+        4,
+        "Dissipate"
+      ],
+      [
+        4,
+        "Force of Will"
+      ],
+      [
+        2,
+        "Vanishing"
+      ],
+      [
+        4,
+        "Impulse"
+      ],
+      [
+        1,
+        "Enervate"
+      ],
+      [
+        1,
+        "Wall of Air"
+      ],
+      [
+        4,
+        "Man-o'-War"
+      ],
+      [
+        3,
+        "Floodgate"
+      ],
+      [
+        3,
+        "Rainbow Efreet"
+      ],
+      [
+        4,
+        "Nevinyrral's Disk"
+      ],
+      [
+        1,
+        "Phyrexian Furnace"
+      ],
+      [
+        3,
+        "Thawing Glaciers"
+      ],
+      [
+        17,
+        "Island"
+      ],
+      [
+        4,
+        "Quicksand"
+      ]
+    ]
+  },
+  {
+    "id": "x-1997-states-georgia-2-sligh",
+    "event": "State Championship 1997 (Georgia)",
+    "date": "1997-08-02",
+    "rank": "2",
+    "player": "Paul Sligh",
+    "title": "Geeba '97",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970808dl.txt"
+  },
+  {
+    "id": "x-1997-states-montana-1-rider",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "1",
+    "player": "Justin Rider",
+    "title": "Buried Alive",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-2-smith",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "2",
+    "player": "Adam Smith",
+    "title": "Old School Necro",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-3-christensen",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "3-4",
+    "player": "Joe Christensen",
+    "title": "Good Stuff",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-3-helmer",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "3-4",
+    "player": "Kit Helmer",
+    "title": "R/G Land D",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-5-knaff",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Andy Knaff",
+    "title": "Counterpost",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-5-duffon",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Dan Duffon",
+    "title": "R/G Land D",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-5-mcelray",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Jeff McElray",
+    "title": "Buried Alive",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-montana-5-brunsvold",
+    "event": "State Championship 1997 (Montana)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Sterling Brunsvold",
+    "title": "Counterpost",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970804wemt.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-1-krzywicki",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "1",
+    "player": "Mike Krzywicki",
+    "title": "4CG",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-2-albertson",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "2",
+    "player": "Norm Albertson",
+    "title": "R/U",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-3-irwin",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "3-4",
+    "player": "Bailey Irwin",
+    "title": "Mono Green Orb",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-3-lee",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "3-4",
+    "player": "Dennis Lee",
+    "title": "Finkelpost",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-5-killmeyer",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Chris Killmeyer",
+    "title": "R/G",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-5-wright",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Chuck Wright",
+    "title": "W/U Outpost",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-5-kidd",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "James Kidd",
+    "title": "R/U Passive Red",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-northcarolina-5-shinook",
+    "event": "State Championship 1997 (North Carolina)",
+    "date": "1997-08-02",
+    "rank": "5-8",
+    "player": "Rick Shinook",
+    "title": "R/U Control",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970803mk.txt"
+  },
+  {
+    "id": "x-1997-states-vermont-1-mclaughlin",
+    "event": "State Championship 1997 (Vermont)",
+    "date": "1997-08-02",
+    "rank": "1",
+    "player": "Kevin McLaughlin",
+    "title": "MaroGeddon",
+    "level": "star+star+star",
+    "source": "https://classicdojo.org/tourney/t2s.970805kmc.txt",
+    "note": "List not stored: the source names an unidentifiable card ('3 scalebane elite (anti-necrataal!)')."
+  }
 ]

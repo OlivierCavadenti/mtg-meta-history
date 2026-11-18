@@ -4,7 +4,8 @@
     "slug": "mirari-s-wake",
     "archetype": "control",
     "titles": [
-      "Wake"
+      "Wake",
+      "Four-Color Wake"
     ],
     "cover": "Mirari's Wake",
     "keyCards": [
@@ -40,7 +41,12 @@
       "UG Madness",
       "U/g Madness",
       "UG Standstill Madness",
-      "Bug Madness"
+      "Bug Madness",
+      "U/G Madness",
+      "U/G/w Madness",
+      "U/G Threshold",
+      "U/G/b",
+      "U/G/w"
     ],
     "cover": "Wild Mongrel",
     "keyCards": [
@@ -109,7 +115,10 @@
     "titles": [
       "R/g Beats",
       "Red-green Beats",
-      "RG Madness"
+      "RG Madness",
+      "R/G beats",
+      "R/G Beats",
+      "R/G Beats Splashing White"
     ],
     "cover": "Phantom Centaur",
     "keyCards": [
@@ -142,7 +151,9 @@
     "slug": "mono-black-control",
     "archetype": "control",
     "titles": [
-      "Mono-black Control"
+      "Mono-black Control",
+      "Mono black control",
+      "Mono Black Control"
     ],
     "cover": "Corrupt",
     "keyCards": [
@@ -210,7 +221,8 @@
     "slug": "mono-red-goblins",
     "archetype": "aggro",
     "titles": [
-      "Goblins"
+      "Goblins",
+      "Sligh"
     ],
     "cover": "Goblin Piledriver",
     "keyCards": [
@@ -236,7 +248,8 @@
         "Sulfuric Vortex stopped opponents from gaining life"
       ]
     },
-    "rep": 489124
+    "rep": 489124,
+    "note": "State Championship and Nationals Qualifier 'Sligh' winners (lists not published in full) counted here."
   },
   {
     "name": "Mono-Black Zombies",
@@ -311,7 +324,8 @@
     "archetype": "control",
     "titles": [
       "Astral Slide",
-      "BW Astral Slide"
+      "BW Astral Slide",
+      "Aqualube"
     ],
     "cover": "Astral Slide",
     "keyCards": [
@@ -414,7 +428,9 @@
     "titles": [
       "BUG Squirrel Opposition",
       "Bug Squirrel Opposition",
-      "Squirrel Orbosition UGb"
+      "Squirrel Orbosition UGb",
+      "U/G/b Opposition",
+      "U/G Opposition"
     ],
     "cover": "Opposition",
     "keyCards": [
@@ -440,7 +456,10 @@
         "Efficient green creatures pressured before the lock"
       ]
     },
-    "rep": 605021
+    "rep": 605021,
+    "include": [
+      "x-states-2002-ontario-canada-1-phan"
+    ]
   },
   {
     "name": "Oversold Cemetery",
@@ -480,7 +499,10 @@
     "slug": "gw-glory",
     "archetype": "midrange",
     "titles": [
-      "G/w Glory"
+      "G/w Glory",
+      "G/W beats",
+      "G/W Beats",
+      "Junk"
     ],
     "cover": "Glory",
     "keyCards": [
@@ -579,7 +601,8 @@
     "slug": "wb-clerics",
     "archetype": "aggro",
     "titles": [
-      "B/w Clerics"
+      "B/w Clerics",
+      "B/W clerics"
     ],
     "cover": "Battle Screech",
     "keyCards": [
@@ -672,5 +695,71 @@
       ]
     },
     "rep": 601725
+  },
+  {
+    "name": "UW Opposition",
+    "slug": "uw-opposition",
+    "archetype": "control",
+    "titles": [
+      "U/W Punisher"
+    ],
+    "rep": "x-nationals-qualifier-2003-zagreb-croatia-1-mudnic",
+    "cover": "Opposition",
+    "keyCards": [
+      "Opposition",
+      "Battle Screech",
+      "Whipcorder",
+      "Spurnmage Advocate",
+      "Circular Logic"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc qui produit des créatures avec Battle Screech, puis les engage avec Opposition pour engager les terrains et créatures adverses.",
+      "en": "Blue-white control that makes creatures with Battle Screech, then taps them to Opposition to lock down opposing lands and creatures."
+    },
+    "why": {
+      "fr": [
+        "Battle Screech fournissait plusieurs créatures volantes pour une seule carte",
+        "Opposition verrouillait les terrains adverses",
+        "Whipcorder et Spurnmage Advocate contrôlaient la table"
+      ],
+      "en": [
+        "Battle Screech provided several flyers from a single card",
+        "Opposition locked down opposing lands",
+        "Whipcorder and Spurnmage Advocate controlled the board"
+      ]
+    }
+  },
+  {
+    "name": "BR Braids",
+    "slug": "br-braids",
+    "archetype": "aggro",
+    "titles": [
+      "R/B Control"
+    ],
+    "rep": "x-states-2002-nc-1-mccoy",
+    "cover": "Braids, Cabal Minion",
+    "keyCards": [
+      "Braids, Cabal Minion",
+      "Nantuko Shade",
+      "Sparksmith",
+      "Grim Lavamancer",
+      "Chainer's Edict"
+    ],
+    "summary": {
+      "fr": "Aggro noir-rouge qui élimine les créatures adverses avec Sparksmith et Chainer's Edict, puis verrouille l'adversaire avec Braids, Cabal Minion.",
+      "en": "Black-red aggro that removes opposing creatures with Sparksmith and Chainer's Edict, then locks the opponent with Braids, Cabal Minion."
+    },
+    "why": {
+      "fr": [
+        "Braids, Cabal Minion forçait des sacrifices à chaque tour",
+        "Festering Goblin nourrissait Braids sans perte",
+        "Grim Lavamancer et Sparksmith géraient les petites créatures"
+      ],
+      "en": [
+        "Braids, Cabal Minion forced a sacrifice every turn",
+        "Festering Goblin fed Braids at no real cost",
+        "Grim Lavamancer and Sparksmith handled small creatures"
+      ]
+    }
   }
 ]

@@ -37,7 +37,10 @@
     "titles": [
       "Sligh",
       "Cursed Sligh",
-      "Deadguy Red"
+      "Deadguy Red",
+      "CrewSligh",
+      "Invasion Sligh",
+      "Mallory SRB"
     ],
     "cover": "Cursed Scroll",
     "keyCards": [
@@ -132,7 +135,11 @@
     "archetype": "aggro",
     "titles": [
       "Weenie White",
-      "White Weenie"
+      "White Weenie",
+      "Underwood 4CW",
+      "3cWW",
+      "5CW",
+      "Trade Jank"
     ],
     "cover": "Soltari Priest",
     "keyCards": [
@@ -188,5 +195,144 @@
       ]
     },
     "rep": 599797
+  },
+  {
+    "name": "Suicide Black",
+    "slug": "suicide-black",
+    "archetype": "aggro",
+    "titles": [
+      "Suicide Black",
+      "Mono Black suicide",
+      "Mono Black"
+    ],
+    "cover": "Dauthi Slayer",
+    "keyCards": [
+      "Dauthi Slayer",
+      "Dauthi Horror",
+      "Sarcomancy",
+      "Erg Raiders",
+      "Bad Moon",
+      "Unholy Strength"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir de créatures à ombre et de chevaliers bon marché, renforcés par Bad Moon et Unholy Strength, avec Dark Ritual pour des premiers tours explosifs.",
+      "en": "Mono-black aggro of shadow creatures and cheap knights, pumped by Bad Moon and Unholy Strength, with Dark Ritual for explosive first turns."
+    },
+    "why": {
+      "fr": [
+        "Dauthi Slayer et Dauthi Horror ne pouvaient être bloqués par la plupart des créatures",
+        "Dark Ritual posait plusieurs menaces dès le premier tour",
+        "Christa Stenger remporte les Regionals Southwest avec"
+      ],
+      "en": [
+        "Dauthi Slayer and Dauthi Horror could not be blocked by most creatures",
+        "Dark Ritual put several threats on the table on the first turn",
+        "Christa Stenger won the Southwest Regionals with it"
+      ]
+    },
+    "rep": "x-1998-regionals-southwest-1-stenger",
+    "note": "Spring 1998 US Regionals results from Dojo reports (classicdojo.org/tourdexreg98.html)."
+  },
+  {
+    "name": "Necro",
+    "slug": "necro",
+    "archetype": "midrange",
+    "titles": [
+      "Necro"
+    ],
+    "cover": "Necropotence",
+    "keyCards": [
+      "Necropotence",
+      "Sarcomancy",
+      "Dauthi Slayer",
+      "Drain Life",
+      "Bad Moon"
+    ],
+    "summary": {
+      "fr": "Weenie noir avec Necropotence pour l'avantage de cartes, Drain Life comme portée et gain de points de vie, et Paralyze pour engager les bloqueurs.",
+      "en": "Black weenie with Necropotence for card advantage, Drain Life as reach and life gain, and Paralyze to tap blockers."
+    },
+    "why": {
+      "fr": [
+        "Necropotence rechargeait la main d'un deck de créatures rapide",
+        "Drain Life rendait les points de vie payés pour Necropotence",
+        "Deuxième des Regionals Midwest et Southwest"
+      ],
+      "en": [
+        "Necropotence refilled the hand of a fast creature deck",
+        "Drain Life won back the life paid to Necropotence",
+        "Finished second at the Midwest and Southwest Regionals"
+      ]
+    },
+    "rep": "x-1998-regionals-midwest-2-lukes"
+  },
+  {
+    "name": "5 Color Kastle",
+    "slug": "5-color-kastle",
+    "archetype": "midrange",
+    "titles": [
+      "5 Color Kastle"
+    ],
+    "cover": "Living Death",
+    "keyCards": [
+      "Living Death",
+      "Fallen Angel",
+      "Maro",
+      "Tradewind Rider",
+      "Armageddon",
+      "Wall of Roots"
+    ],
+    "summary": {
+      "fr": "Midrange cinq couleurs à base verte des Regionals de Nouvelle-Angleterre : murs et Birds of Paradise pour le mana, Fallen Angel et Spike Feeder pour remplir le cimetière, Living Death pour tout ramener.",
+      "en": "Five-color green-based midrange from the New England Regionals: walls and Birds of Paradise for mana, Fallen Angel and Spike Feeder to fill the graveyard, Living Death to return the creatures."
+    },
+    "why": {
+      "fr": [
+        "Living Death ramenait les créatures sacrifiées à Fallen Angel",
+        "Armageddon après les murs et Birds of Paradise laissait l'adversaire en retard de mana",
+        "Christopher Manning remporte les Regionals de Nouvelle-Angleterre avec"
+      ],
+      "en": [
+        "Living Death returned the creatures sacrificed to Fallen Angel",
+        "Armageddon after walls and Birds of Paradise left the opponent behind on mana",
+        "Christopher Manning won the New England Regionals with it"
+      ]
+    },
+    "rep": "x-1998-regionals-newengland-1-manning"
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Comer'Zilla",
+      "Godzilla/Reanimator",
+      "Turbo Re-animator"
+    ],
+    "cover": "Animate Dead",
+    "keyCards": [
+      "Animate Dead",
+      "Necromancy",
+      "Hidden Horror",
+      "Verdant Force",
+      "Shivan Dragon",
+      "Living Death"
+    ],
+    "summary": {
+      "fr": "Réanimation à base noire : Hidden Horror et Merfolk Traders défaussent Verdant Force ou Shivan Dragon, puis Animate Dead et Necromancy les ramènent dès les premiers tours.",
+      "en": "Black-based reanimator: Hidden Horror and Merfolk Traders discard Verdant Force or Shivan Dragon, then Animate Dead and Necromancy return them in the first turns."
+    },
+    "why": {
+      "fr": [
+        "Dark Ritual et Animate Dead mettaient une grosse créature en jeu très tôt",
+        "Brian Selden atteint les demi-finales des Regionals de Californie du Sud avec"
+      ],
+      "en": [
+        "Dark Ritual and Animate Dead put a large creature into play very early",
+        "Brian Selden reached the Southern California Regionals semifinals with it"
+      ]
+    },
+    "rep": "x-1998-regionals-socal-5-janiec",
+    "note": "Period names 'Godzilla/Reanimator' and 'Comer'Zilla' from the Southern California Regionals 1998 reports (classicdojo.org)."
   }
 ]

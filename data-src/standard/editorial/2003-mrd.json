@@ -111,7 +111,8 @@
       "UW Control",
       "U/w Control",
       "UW Cloudpost",
-      "Uw Cloudpost"
+      "Uw Cloudpost",
+      "U/W Control"
     ],
     "cover": "Decree of Justice",
     "keyCards": [
@@ -216,7 +217,9 @@
       "March of the Machines",
       "March Of The Machines",
       "Myco March",
-      "26 Crazy Cards"
+      "26 Crazy Cards",
+      "Three-Color Control",
+      "U/R Control"
     ],
     "cover": "March of the Machines",
     "keyCards": [
@@ -227,8 +230,8 @@
       "Thirst for Knowledge"
     ],
     "summary": {
-      "fr": "Contrôle bleu-blanc qui anime les artefacts adverses avec March of the Machines et se protège avec des artefacts indestructibles.",
-      "en": "Blue-white control that animates opposing artifacts with March of the Machines and relies on indestructible artifacts."
+      "fr": "Contrôle bleu, à touche blanche ou rouge, qui anime les artefacts adverses avec March of the Machines et s'appuie sur des artefacts indestructibles.",
+      "en": "Blue control, splashing white or red, that animates opposing artifacts with March of the Machines and relies on indestructible artifacts."
     },
     "why": {
       "fr": [
@@ -242,15 +245,22 @@
         "Wrath of God and counters covered other matchups"
       ]
     },
-    "note": "Merged several March shells (Obliterate, Mycosynth Lattice, GW '26 Crazy Cards').",
-    "rep": 601366
+    "note": "Merged several March shells (Obliterate, Mycosynth Lattice, GW '26 Crazy Cards'). U/R and three-colour March lists (Nationals 2004) merged; March-based 'U/W Control' lists moved here.",
+    "rep": 601366,
+    "include": [
+      "x-nationals-czech-republic-2004-5-sio",
+      "x-nationals-finland-2004-2-lehtinen",
+      "x-nationals-hungary-2004-5-tokoli",
+      "x-nationals-italy-2004-5-dato"
+    ]
   },
   {
     "name": "Proteus Staff",
     "slug": "proteus-staff",
     "archetype": "combo",
     "titles": [
-      "UW Proteus Colossus"
+      "UW Proteus Colossus",
+      "Proteus Belcher"
     ],
     "cover": "Proteus Staff",
     "keyCards": [
@@ -285,7 +295,8 @@
     "titles": [
       "Astral Slide",
       "GW Astral Slide",
-      "GW Astral Control"
+      "GW Astral Control",
+      "Astral Slide W/G"
     ],
     "cover": "Astral Slide",
     "keyCards": [
@@ -320,7 +331,9 @@
     "titles": [
       "Red Land Loss",
       "Mono Red Land-D",
-      "Ponza"
+      "Ponza",
+      "Red Deck Wins",
+      "Mono Red LD"
     ],
     "rep": 518640,
     "cover": "Arc-Slogger",
@@ -346,7 +359,10 @@
         "Electrostatic Bolt and Shatter targeted Affinity",
         "Arc-Slogger gave a threat and repeated removal"
       ]
-    }
+    },
+    "include": [
+      "x-nationals-portugal-2004-5-coimbra"
+    ]
   },
   {
     "name": "RG Beasts",
@@ -355,7 +371,10 @@
     "titles": [
       "RG Beasts with LL",
       "R/g Beasts",
-      "RG Beats"
+      "RG Beats",
+      "R/G Beats",
+      "R/G Land Destruction",
+      "R/G land destruction"
     ],
     "cover": "Ravenous Baloth",
     "keyCards": [
@@ -390,7 +409,8 @@
     "archetype": "midrange",
     "titles": [
       "Big Red",
-      "BR Big Red"
+      "BR Big Red",
+      "Mono Red Control"
     ],
     "rep": 603266,
     "cover": "Furnace Dragon",
@@ -416,7 +436,10 @@
         "Arc-Slogger removed creatures repeatedly",
         "Artifact lands also fuelled Shrapnel Blast"
       ]
-    }
+    },
+    "include": [
+      "x-nationals-hungary-2004-5-gardos"
+    ]
   },
   {
     "name": "KCI",
@@ -424,7 +447,8 @@
     "archetype": "combo",
     "titles": [
       "KCI",
-      "Incubator Charbelcher"
+      "Incubator Charbelcher",
+      "Ironworks"
     ],
     "cover": "Krark-Clan Ironworks",
     "keyCards": [
@@ -457,7 +481,10 @@
     "slug": "death-cloud",
     "archetype": "control",
     "titles": [
-      "Death Cloud"
+      "Death Cloud",
+      "Zombies",
+      "Mono Black Zombies",
+      "Mono Black Control"
     ],
     "cover": "Death Cloud",
     "keyCards": [
@@ -483,14 +510,16 @@
         "Consume Spirit gave a finisher"
       ]
     },
-    "rep": 603345
+    "rep": 603345,
+    "note": "Mono-black Zombie control lists (Rotlung Reanimator, Graveborn Muse, Consume Spirit) merged: same black control shell."
   },
   {
     "name": "GW Control",
     "slug": "gw-control",
     "archetype": "control",
     "titles": [
-      "G/w Control"
+      "G/w Control",
+      "G/W Control"
     ],
     "cover": "Akroma's Vengeance",
     "keyCards": [
@@ -585,8 +614,8 @@
     "rep": 603429
   },
   {
-    "name": "RG Firecat",
-    "slug": "rg-firecat",
+    "name": "Firecat Aggro",
+    "slug": "firecat-aggro",
     "archetype": "aggro",
     "titles": [
       "Morphs Anonymous"
@@ -600,8 +629,8 @@
       "Electrostatic Bolt"
     ],
     "summary": {
-      "fr": "Aggro rouge à touche verte qui combine Slith Firewalker, Blistering Firecat et sorts de dégâts.",
-      "en": "Red aggro splashing green that combines Slith Firewalker, Blistering Firecat and burn."
+      "fr": "Aggro rouge, parfois à touche verte, qui combine Slith Firewalker, Blistering Firecat et des burns.",
+      "en": "Red aggro, sometimes splashing green, that combines Slith Firewalker, Blistering Firecat and burn."
     },
     "why": {
       "fr": [
@@ -615,15 +644,21 @@
         "Blinkmoth Nexus added a sweeper-proof threat"
       ]
     },
-    "note": "mtgtop8 title 'Morphs Anonymous'; renamed descriptively.",
-    "rep": 518637
+    "note": "mtgtop8 title 'Morphs Anonymous' (red with a Viridian Shaman splash); mono-red Firecat / Sulfuric Vortex lists from New Zealand Nationals 2004 merged.",
+    "rep": 518637,
+    "include": [
+      "x-nationals-new-zealand-2004-5-carson",
+      "x-nationals-new-zealand-2004-5-rogers"
+    ]
   },
   {
     "name": "BG Cemetery",
     "slug": "bg-cemetery",
     "archetype": "midrange",
     "titles": [
-      "BG Cemetery"
+      "BG Cemetery",
+      "B/G Cemetary",
+      "The Rock"
     ],
     "cover": "Oversold Cemetery",
     "keyCards": [
@@ -634,8 +669,8 @@
       "Viridian Shaman"
     ],
     "summary": {
-      "fr": "Midrange vert-noir qui récupère ses créatures à valeur avec Oversold Cemetery et joue Death Cloud pour réinitialiser.",
-      "en": "Green-black midrange that recurs value creatures with Oversold Cemetery and plays Death Cloud as a reset."
+      "fr": "Milieu de partie vert-noir qui rappelle ses créatures avec Oversold Cemetery, pioche souvent avec Skullclamp et joue Death Cloud comme remise à zéro.",
+      "en": "Green-black midrange that recurs its creatures with Oversold Cemetery, often draws with Skullclamp, and plays Death Cloud as a reset."
     },
     "why": {
       "fr": [
@@ -750,5 +785,111 @@
     },
     "note": "mtgtop8 title 'Naya Control' is anachronistic; named by colours.",
     "rep": 720303
+  },
+  {
+    "name": "Lightning Rift",
+    "slug": "lightning-rift",
+    "archetype": "control",
+    "titles": [
+      "Astral Slide W/R",
+      "Astral Slide R/W/G",
+      "Lightning Rift",
+      "R/B Control",
+      "W/R Control"
+    ],
+    "rep": "x-regionals-2004-hessen-germany-1-hohn",
+    "cover": "Lightning Rift",
+    "keyCards": [
+      "Lightning Rift",
+      "Astral Slide",
+      "Eternal Dragon",
+      "Wrath of God",
+      "Spark Spray"
+    ],
+    "summary": {
+      "fr": "Contrôle à cycle rouge, souvent avec du blanc, où chaque carte cyclée déclenche Lightning Rift et, avec Astral Slide, fait clignoter les créatures.",
+      "en": "Red cycling control, usually with white, where every cycled card triggers Lightning Rift and, with Astral Slide, blinks creatures."
+    },
+    "why": {
+      "fr": [
+        "Lightning Rift transformait chaque cycle en dégâts",
+        "Eternal Dragon et Spark Spray se cyclaient tout en gardant de la valeur",
+        "Wrath of God et Starstorm nettoyaient la table"
+      ],
+      "en": [
+        "Lightning Rift turned every cycle into damage",
+        "Eternal Dragon and Spark Spray cycled while keeping value",
+        "Wrath of God and Starstorm swept the board"
+      ]
+    },
+    "note": "SCG 'Astral Slide W/R' lists plus red cycling Rift decks without Astral Slide ('Lightning Rift', 'R/B Control', 'W/R Control') grouped."
+  },
+  {
+    "name": "White Control",
+    "slug": "white-control",
+    "archetype": "control",
+    "titles": [
+      "Mono White Control",
+      "B/W Control"
+    ],
+    "rep": "x-nationals-portugal-2004-4-maia",
+    "cover": "Decree of Justice",
+    "keyCards": [
+      "Decree of Justice",
+      "Eternal Dragon",
+      "Wrath of God",
+      "Damping Matrix",
+      "Akroma's Vengeance"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc, parfois à touche noire, qui nettoie la table avec Wrath of God et Akroma's Vengeance puis gagne avec Decree of Justice et Eternal Dragon.",
+      "en": "White control, sometimes splashing black, that sweeps with Wrath of God and Akroma's Vengeance, then wins with Decree of Justice and Eternal Dragon."
+    },
+    "why": {
+      "fr": [
+        "Wrath of God et Akroma's Vengeance remettaient la table à zéro",
+        "Eternal Dragon revenait du cimetière et servait de finisseur",
+        "Damping Matrix bloquait Affinity et les artefacts activés"
+      ],
+      "en": [
+        "Wrath of God and Akroma's Vengeance reset the board",
+        "Eternal Dragon returned from the graveyard as a finisher",
+        "Damping Matrix shut down Affinity and activated artifacts"
+      ]
+    }
+  },
+  {
+    "name": "Black Clerics",
+    "slug": "black-clerics",
+    "archetype": "aggro",
+    "titles": [
+      "Clerics",
+      "Mono Black Clerics"
+    ],
+    "rep": "x-regionals-2004-atlanta-1-pierce",
+    "cover": "Rotlung Reanimator",
+    "keyCards": [
+      "Rotlung Reanimator",
+      "Cabal Archon",
+      "Dark Supplicant",
+      "Withered Wretch",
+      "Skullclamp"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir de Clercs qui se sacrifient et se remplacent, avec Rotlung Reanimator et Cabal Archon pour drainer l'adversaire.",
+      "en": "Mono-black Cleric aggro whose creatures sacrifice and replace themselves, with Rotlung Reanimator and Cabal Archon draining the opponent."
+    },
+    "why": {
+      "fr": [
+        "Rotlung Reanimator remplaçait chaque Clerc mort",
+        "Cabal Archon drainait des points de vie en sacrifiant",
+        "Skullclamp transformait les petits Clercs en cartes"
+      ],
+      "en": [
+        "Rotlung Reanimator replaced each Cleric that died",
+        "Cabal Archon drained life by sacrificing",
+        "Skullclamp turned small Clerics into cards"
+      ]
+    }
   }
 ]

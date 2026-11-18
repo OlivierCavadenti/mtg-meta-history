@@ -118,7 +118,8 @@
       "Squirrel Opposition UGr",
       "Squirrel Oppo",
       "Squirrel Opposition",
-      "Squirrel oppo UGr"
+      "Squirrel oppo UGr",
+      "Wallace & A Zombie"
     ],
     "cover": "Opposition",
     "keyCards": [
@@ -151,7 +152,9 @@
     "slug": "rg-beats",
     "archetype": "aggro",
     "titles": [
-      "RG Beats"
+      "RG Beats",
+      "R/g Beats",
+      "RG Reckless Charge"
     ],
     "cover": "Call of the Herd",
     "keyCards": [
@@ -185,7 +188,9 @@
     "archetype": "aggro",
     "titles": [
       "RG Madness",
-      "RG Flashback"
+      "RG Flashback",
+      "Kentuky Fried Atog",
+      "RUG Ceta Sanctuary"
     ],
     "rep": 601649,
     "cover": "Grim Lavamancer",
@@ -221,7 +226,9 @@
       "Trenches",
       "Goblin Trenches",
       "Goblin Trenches Control",
-      "Goblin Trenches Aggro"
+      "Goblin Trenches Aggro",
+      "Edge.dec",
+      "Counter Burn"
     ],
     "cover": "Goblin Trenches",
     "keyCards": [
@@ -247,7 +254,7 @@
         "Fire/Ice and Wrath of God handled opposing creatures"
       ]
     },
-    "note": "Goblin Trenches Aggro (Meddling Mage, Lightning Angel) merged as a more aggressive variant.",
+    "note": "Goblin Trenches Aggro (Meddling Mage, Lightning Angel) merged as a more aggressive variant. 'Edge.dec' (New Zealand Nationals 2002 winner: UWR counters, Prophetic Bolt, Goblin Trenches) and GP Milwaukee 'Counter Burn' merged.",
     "rep": 301499
   },
   {
@@ -256,7 +263,8 @@
     "archetype": "tempo",
     "titles": [
       "UG Threshold",
-      "UGr Threshold"
+      "UGr Threshold",
+      "Threshold Enforcer"
     ],
     "cover": "Werebear",
     "keyCards": [
@@ -422,7 +430,8 @@
     "slug": "mono-black-control",
     "archetype": "control",
     "titles": [
-      "Mono-black Control"
+      "Mono-black Control",
+      "Kazaa - By \"wesley Willis\""
     ],
     "cover": "Corrupt",
     "keyCards": [
@@ -515,5 +524,74 @@
       ]
     },
     "rep": 604986
+  },
+  {
+    "name": "Deed Midrange",
+    "slug": "deed-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Frankenstein",
+      "Tea Party"
+    ],
+    "rep": 775136,
+    "cover": "Spiritmonger",
+    "keyCards": [
+      "Spiritmonger",
+      "Pernicious Deed",
+      "Blazing Specter",
+      "Call of the Herd",
+      "Terminate"
+    ],
+    "summary": {
+      "fr": "Milieu de partie multicolore à base noir-vert qui joue Spiritmonger et Call of the Herd, et remet la table à zéro avec Pernicious Deed.",
+      "en": "Black-green based multicolour midrange that plays Spiritmonger and Call of the Herd and resets the board with Pernicious Deed."
+    },
+    "why": {
+      "fr": [
+        "Pernicious Deed détruisait les permanents bon marché adverses",
+        "Spiritmonger dominait les combats de créatures",
+        "Terminate et les sorts de retrait gardaient la table sous contrôle"
+      ],
+      "en": [
+        "Pernicious Deed wiped cheap opposing permanents",
+        "Spiritmonger dominated creature combat",
+        "Terminate and other removal kept the board in check"
+      ]
+    },
+    "note": "New Zealand Nationals 2002 'Frankenstein' (BRG) and 'Tea Party' (BWG) grouped: same Deed and Spiritmonger core."
+  },
+  {
+    "name": "BR Aggro",
+    "slug": "br-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Tuna Taco With Tomato Sauce"
+    ],
+    "rep": 775135,
+    "cover": "Nantuko Shade",
+    "keyCards": [
+      "Nantuko Shade",
+      "Skizzik",
+      "Flametongue Kavu",
+      "Phyrexian Rager",
+      "Urza's Rage"
+    ],
+    "summary": {
+      "fr": "Aggro noir-rouge qui combine Nantuko Shade, Skizzik et Flametongue Kavu avec la défausse de Duress et des burns.",
+      "en": "Black-red aggro combining Nantuko Shade, Skizzik and Flametongue Kavu with Duress discard and burn."
+    },
+    "why": {
+      "fr": [
+        "Nantuko Shade grandissait avec les Swamp",
+        "Flametongue Kavu éliminait une créature en arrivant",
+        "Urza's Rage ne pouvait pas être contré et, kické, finissait les parties"
+      ],
+      "en": [
+        "Nantuko Shade grew with every Swamp",
+        "Flametongue Kavu removed a creature on arrival",
+        "Urza's Rage could not be countered and, kicked, finished games"
+      ]
+    },
+    "note": "mtgtop8 title 'Tuna Taco With Tomato Sauce' (New Zealand Nationals 2002); named by colours."
   }
 ]

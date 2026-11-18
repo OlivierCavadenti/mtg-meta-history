@@ -5,7 +5,10 @@
     "archetype": "aggro",
     "titles": [
       "Stompy",
-      "Mono Green Aggro"
+      "Mono Green Aggro",
+      "The Guildmages Deck",
+      "Mono-Green Speed",
+      "Speed Green"
     ],
     "cover": "Rancor",
     "keyCards": [
@@ -99,7 +102,8 @@
     "slug": "mono-red-land-destruction",
     "archetype": "aggro",
     "titles": [
-      "Mono Red Land D"
+      "Mono Red Land D",
+      "Ponza Red"
     ],
     "cover": "Avalanche Riders",
     "keyCards": [
@@ -130,7 +134,11 @@
     "slug": "suicide-black",
     "archetype": "aggro",
     "titles": [
-      "Suicide Black"
+      "Suicide Black",
+      "Black Weenie",
+      "Smokestack Black",
+      "Suicide Hatred",
+      "Mono-Black Speed Weenie"
     ],
     "cover": "Dauthi Slayer",
     "keyCards": [
@@ -223,7 +231,11 @@
     "slug": "white-weenie",
     "archetype": "aggro",
     "titles": [
-      "White Weenie (White Lightning)"
+      "White Weenie (White Lightning)",
+      "White Weenie",
+      "WW",
+      "WW/r/u",
+      "WW en-kor"
     ],
     "cover": "Mother of Runes",
     "keyCards": [
@@ -314,11 +326,14 @@
     "rep": 264713
   },
   {
-    "name": "UG Awakening",
-    "slug": "ug-awakening",
+    "name": "Trade Blossom",
+    "slug": "trade-blossom",
     "archetype": "control",
     "titles": [
-      "Trade Blossom"
+      "Trade Blossom",
+      "Politics",
+      "Tradewind/Geddon",
+      "Rider"
     ],
     "cover": "Tradewind Rider",
     "keyCards": [
@@ -342,7 +357,7 @@
         "Spike Feeder and Spike Weaver held off aggressive decks"
       ]
     },
-    "note": "mtgtop8 title 'Trade Blossom' (Tradewind Rider + Wall of Blossoms).",
+    "note": "Renamed from 'UG Awakening': period sources call Tradewind Rider + Wall of Blossoms decks 'Trade'Blossom'/'TradeBlossom' (Dojo index: 'ID Trade'Blossom', 'IN Trade'Blossom', Regionals 1998 'G/u TradeBlossom'), as does the mtgtop8 title.",
     "rep": 601331
   },
   {
@@ -407,5 +422,274 @@
       ]
     },
     "rep": 601713
+  },
+  {
+    "name": "Academy",
+    "slug": "academy",
+    "archetype": "combo",
+    "titles": [
+      "Academy",
+      "The Academy",
+      "Tolarian Blue",
+      "Tolarian Academy",
+      "Tolarian",
+      "Tolarian Blue variant",
+      "Starfleet Academy",
+      "Jedi Academy",
+      "Stroking Academy",
+      "Stroke deck",
+      "Stroke of Witz",
+      "Mind Stroke",
+      "Tulsa Academy"
+    ],
+    "cover": "Time Spiral",
+    "keyCards": [
+      "Tolarian Academy",
+      "Time Spiral",
+      "Windfall",
+      "Stroke of Genius",
+      "Mind Over Matter",
+      "Voltaic Key"
+    ],
+    "summary": {
+      "fr": "Combo mono-bleu d'artefacts du premier automne Urza's Saga : les artefacts bon marché alimentent Tolarian Academy, Time Spiral et Windfall rechargent la main, Stroke of Genius conclut.",
+      "en": "Mono-blue artifact combo of the first Urza's Saga autumn: cheap artifacts power Tolarian Academy, Time Spiral and Windfall refill the hand, and Stroke of Genius ends the game."
+    },
+    "why": {
+      "fr": [
+        "Time Spiral dégageait Tolarian Academy et les artefacts, souvent pour gagner dès les premiers tours",
+        "Mind Over Matter et Voltaic Key transformaient les cartes en trop en mana supplémentaire",
+        "Tolarian Academy et Windfall sont bannis en décembre 1998"
+      ],
+      "en": [
+        "Time Spiral untapped Tolarian Academy and the artifacts, often for a kill in the first turns",
+        "Mind Over Matter and Voltaic Key turned spare cards into more mana",
+        "Tolarian Academy and Windfall were banned in December 1998"
+      ]
+    },
+    "rep": "x-1998-states-texas-1-johnson",
+    "note": "Period names: 'Tolarian Blue', 'Academy', 'Stroke' (Dojo States 1998 reports). Results from US State Championships, Nov 1998 (classicdojo.org/tourdexst98.html)."
+  },
+  {
+    "name": "Sligh",
+    "slug": "sligh",
+    "archetype": "aggro",
+    "titles": [
+      "Sligh",
+      "Lackey Sligh",
+      "Burn",
+      "SLAM SLIGH",
+      "Good deck (Sligh)",
+      "Scrub Sligh variant",
+      "Richie County Red",
+      "Gohaac Red",
+      "Mono-Red Speed Weenie"
+    ],
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Jackal Pup",
+      "Ball Lightning",
+      "Mogg Flunkies",
+      "Cursed Scroll",
+      "Incinerate"
+    ],
+    "summary": {
+      "fr": "Aggro mono-rouge de créatures à un mana et de burn ; Urza's Saga ajoute Goblin Lackey, qui met en jeu Mogg Flunkies ou Ball Lightning très tôt, et Cursed Scroll achève les parties.",
+      "en": "Mono-red aggro of one-mana creatures and burn; Urza's Saga added Goblin Lackey, which put Mogg Flunkies or Ball Lightning into play early, and Cursed Scroll finished games."
+    },
+    "why": {
+      "fr": [
+        "Goblin Lackey et Ball Lightning offraient des débuts très rapides",
+        "Pyroblast et Meltdown en sideboard frappaient les sorts bleus et le mana d'artefacts",
+        "Cursed Scroll continuait d'infliger des dégâts une fois la main vide"
+      ],
+      "en": [
+        "Goblin Lackey and Ball Lightning gave very fast starts",
+        "Pyroblast and Meltdown from the sideboard hit blue spells and artifact mana",
+        "Cursed Scroll kept dealing damage once the hand was empty"
+      ]
+    },
+    "rep": "x-1998-states-alabama-1-gray"
+  },
+  {
+    "name": "Counter-Phoenix",
+    "slug": "counter-phoenix",
+    "archetype": "control",
+    "titles": [
+      "Counter Phoenix",
+      "CounterPhoenix",
+      "Save Tonight"
+    ],
+    "cover": "Shard Phoenix",
+    "keyCards": [
+      "Shard Phoenix",
+      "Arcane Laboratory",
+      "Forbid",
+      "Counterspell",
+      "Intuition",
+      "Nevinyrral's Disk"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge à base de contres, de Nevinyrral's Disk et de burn, conclu par Shard Phoenix ; Arcane Laboratory limitait les decks combo à un sort par tour.",
+      "en": "Blue-red control with counterspells, Nevinyrral's Disk and burn, finishing with Shard Phoenix; Arcane Laboratory held combo decks to one spell per turn."
+    },
+    "why": {
+      "fr": [
+        "Arcane Laboratory et les contres bloquaient les tours Tolarian Academy",
+        "Shard Phoenix revenait du cimetière et balayait les petites créatures",
+        "Forbid avec rachat continuait de contrer dans les parties longues"
+      ],
+      "en": [
+        "Arcane Laboratory and counterspells shut down Tolarian Academy turns",
+        "Shard Phoenix came back from the graveyard and swept small creatures",
+        "Forbid with buyback kept countering in long games"
+      ]
+    },
+    "rep": "x-1998-states-connecticut-1-sanford"
+  },
+  {
+    "name": "Recurring Nightmare",
+    "slug": "recurring-nightmare",
+    "archetype": "midrange",
+    "titles": [
+      "Five Color Recurring Nightmare",
+      "Recurring Nightmare",
+      "Recurring Drake/Stroke",
+      "Recurring Gix/Drain",
+      "Whale recursion"
+    ],
+    "cover": "Recurring Nightmare",
+    "keyCards": [
+      "Recurring Nightmare",
+      "Survival of the Fittest",
+      "Great Whale",
+      "Priest of Gix",
+      "Wall of Blossoms",
+      "Spike Feeder"
+    ],
+    "summary": {
+      "fr": "Boîte à outils de créatures multicolore : Survival of the Fittest trouve la bonne créature et Recurring Nightmare la réutilise ; boucler Great Whale ou Priest of Gix produit un mana énorme.",
+      "en": "Multicolor creature toolbox: Survival of the Fittest found the right creature and Recurring Nightmare reused it; looping Great Whale or Priest of Gix produced huge amounts of mana."
+    },
+    "why": {
+      "fr": [
+        "Recurring Nightmare réutilisait les créatures à effet d'arrivée tour après tour",
+        "Wall of Blossoms et Spike Feeder tenaient les decks agressifs",
+        "Recurring Nightmare est banni en mars 1999"
+      ],
+      "en": [
+        "Recurring Nightmare reused enters-the-battlefield creatures turn after turn",
+        "Wall of Blossoms and Spike Feeder held off the aggressive decks",
+        "Recurring Nightmare was banned in March 1999"
+      ]
+    },
+    "rep": "x-1998-states-california-1-shears"
+  },
+  {
+    "name": "Big Papa Pump",
+    "slug": "big-papa-pump",
+    "archetype": "aggro",
+    "titles": [
+      "Big Papa Pump"
+    ],
+    "cover": "Albino Troll",
+    "keyCards": [
+      "Albino Troll",
+      "Elvish Lyrist",
+      "Scavenger Folk",
+      "Spike Feeder",
+      "Cursed Scroll",
+      "Incinerate"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert de Géorgie nommé d'après Albino Troll, surnommé Big Papa Pump, avec Elvish Lyrist et Scavenger Folk comme réponses aux enchantements et artefacts dès le main.",
+      "en": "Red-green aggro from Georgia named after Albino Troll, nicknamed Big Papa Pump, with Elvish Lyrist and Scavenger Folk as maindeck answers to enchantments and artifacts."
+    },
+    "why": {
+      "fr": [
+        "Elvish Lyrist et Scavenger Folk répondaient aux artefacts et enchantements d'Academy",
+        "Albino Troll se régénérait face au burn et aux bloqueurs",
+        "Ses pilotes ont pris les premières places du State Championship de Géorgie"
+      ],
+      "en": [
+        "Elvish Lyrist and Scavenger Folk answered Academy's artifacts and enchantments",
+        "Albino Troll regenerated through burn and blockers",
+        "Its pilots swept the top places of the Georgia State Championship"
+      ]
+    },
+    "rep": "x-1998-states-georgia-1-donahoe"
+  },
+  {
+    "name": "Fire Elves",
+    "slug": "fire-elves",
+    "archetype": "aggro",
+    "titles": [
+      "Fire Elves",
+      "Fire-Elves",
+      "Fiery Elves variant",
+      "Elf Overrun"
+    ],
+    "cover": "Priest of Titania",
+    "keyCards": [
+      "Priest of Titania",
+      "Gaea's Cradle",
+      "Overrun",
+      "Fireball",
+      "Llanowar Elves",
+      "Skyshroud Elf"
+    ],
+    "summary": {
+      "fr": "Nuée d'elfes verts avec une touche de rouge : Priest of Titania et Gaea's Cradle transformaient les elfes en mana pour Overrun ou un gros Fireball.",
+      "en": "Green elf swarm splashing red: Priest of Titania and Gaea's Cradle turned a board of elves into mana for Overrun or a large Fireball."
+    },
+    "why": {
+      "fr": [
+        "Ben Stoll remporte le State Championship du Kentucky avec Priest of Titania et Fireball",
+        "Gaea's Cradle et Priest of Titania tiraient du mana de chaque elfe",
+        "Overrun terminait la partie en une attaque"
+      ],
+      "en": [
+        "Ben Stoll won the Kentucky State Championship with Priest of Titania and Fireball",
+        "Gaea's Cradle and Priest of Titania produced mana from every elf",
+        "Overrun ended games in one attack"
+      ]
+    },
+    "rep": "x-1998-states-texas-5-olnick"
+  },
+  {
+    "name": "Draw-Go",
+    "slug": "draw-go",
+    "archetype": "control",
+    "titles": [
+      "Big Blue/Draw-Go",
+      "DiskGoGnomes"
+    ],
+    "cover": "Nevinyrral's Disk",
+    "keyCards": [
+      "Counterspell",
+      "Forbid",
+      "Nevinyrral's Disk",
+      "Whispers of the Muse",
+      "Ice Floe",
+      "Spire Owl"
+    ],
+    "summary": {
+      "fr": "Contre-contrôle mono-bleu de l'automne 1998 : contres et Force Spike, Nevinyrral's Disk pour vider la table, et peu de menaces comme Spire Owl et Silver Wyvern.",
+      "en": "Mono-blue counter-control of autumn 1998: counterspells and Force Spike, Nevinyrral's Disk to clear the board, and few threats such as Spire Owl and Silver Wyvern."
+    },
+    "why": {
+      "fr": [
+        "Les contres et Forbid arrêtaient Time Spiral et Windfall",
+        "Nevinyrral's Disk et Ice Floe ralentissaient les decks weenie",
+        "Thomas Pahutski remporte le State Championship du Delaware avec"
+      ],
+      "en": [
+        "Counterspells and Forbid stopped Time Spiral and Windfall",
+        "Nevinyrral's Disk and Ice Floe slowed the weenie decks",
+        "Thomas Pahutski won the Delaware State Championship with it"
+      ]
+    },
+    "rep": "x-1998-states-delaware-1-pahutski"
   }
 ]
