@@ -56,6 +56,8 @@ for sid in season_ids:
         rs = merged(sid, e['titles'])
         if not rs: continue
         rep = next((r for r in rs if r['d'] == e.get('rep')), rs[0])
+        if not rep['has_list']:
+            print(f'  SKIP {sid}/{e["slug"]}: no published list among its results'); continue
         main, side = get_list(rep['d'])
         main = [[n, canon(c)] for n, c in main if c != 'Unknown Card']
         side = [[n, canon(c)] for n, c in side if c != 'Unknown Card']
@@ -87,7 +89,7 @@ for sid in season_ids:
             'stats': {'results': len(rs), 'top8': top8, 'wins': wins, 'share': share},
             'summary': e['summary'], 'why': e['why'], 'keyCards': [canon(c) for c in e['keyCards']], 'cover': canon(e['cover']),
             'list': {'main': main, 'side': side, 'player': rep['player'], 'event': rep['event'], 'rank': rep['rank'], 'date': rep['iso'],
-                     'url': f"https://www.mtgtop8.com/event?e={rep['e']}&d={rep['d']}&f=ST"},
+                     'url': deck_url(rep)},
         })
     # tiers
     decks.sort(key=lambda d: (-d['stats']['share'], -d['stats']['wins']))

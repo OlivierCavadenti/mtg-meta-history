@@ -36,22 +36,77 @@ def rank_key(r):
     return int(m.group(1)) if m else 99
 
 
+EXTRA = os.path.join(REPO, 'data-src', 'standard', 'extra')
+_extra_lists = {}
+
+
+def load_extra():
+    """Hand-collected results from period sources (data-src/standard/extra/*.json).
+
+    Each file is a JSON array of results:
+      {"id": "x-<slug>", "event": "...", "date": "YYYY-MM-DD", "rank": "1" | "2" | "3-4" | "5-8" | "",
+       "player": "...", "title": "<deck name as published>", "level": "bigstar" | "star+star+star",
+       "source": "<URL of the page publishing the list>", "main": [[4, "Card"], ...], "side": [...]}
+    "main"/"side" may be omitted when the source gives the result but not the list: the row then
+    counts in the stats but can never be a representative list.
+    """
+    out = []
+    if not os.path.isdir(EXTRA):
+        return out
+    for f in sorted(os.listdir(EXTRA)):
+        if not f.endswith('.json'):
+            continue
+        for x in json.load(open(os.path.join(EXTRA, f))):
+            if x.get('main'):
+                _extra_lists[x['id']] = (x['main'], x.get('side', []))
+            out.append({'e': 'x:' + x['event'], 'd': x['id'], 'name': x['title'], 'player': x.get('player', ''),
+                        'event': x['event'], 'level': x.get('level', 'bigstar'), 'rank': x.get('rank', ''),
+                        'date': '', 'iso': x['date'], 'source': x['source'], 'has_list': bool(x.get('main'))})
+    return out
+
+
+def _fix_date(r):
+    """mtgtop8 occasionally stores an old event under a recent date (e.g. 'Nationals - New Zealand
+    2002' dated 2022): trust the year in the event name when it is far from the stored year."""
+    m = re.search(r'\b(199\d|20[0-2]\d)\b', r['event'])
+    if m and abs(int(m.group(1)) - int(r['iso'][:4])) > 1:
+        r['iso'] = m.group(1) + r['iso'][4:]
+
+
+def _pseudo_ranked(rs, name):
+    """Decklist dumps (league weekends, Arena 7-win lists, Worlds standings, '15 points' pages)
+    give many players the same rank: those ranks are not finishes."""
+    c = collections.Counter(r['rank'] for r in rs)
+    if 'world magic cup' in name.lower() and c['1'] == 3:
+        return False  # team event: the three members of the winning team
+    return c['1'] > 1 or c['2'] > 3
+
+
 def rows():
     global _rows
     if _rows is None:
         d = json.load(open(work('search.json')))
-        evsize = collections.Counter()
         out = []
         for rs in d.values():
             for r in rs:
                 if not r['date']:
                     continue
                 r['iso'] = iso(r['date'])
-                r['season'] = season_of(r['iso'])
-                evsize[r['e']] += 1
+                _fix_date(r)
+                r['has_list'] = True
                 out.append(r)
+        out += load_extra()
+        by_event = collections.defaultdict(list)
         for r in out:
-            r['evsize'] = evsize[r['e']]
+            by_event[r['e']].append(r)
+        for rs in by_event.values():
+            if _pseudo_ranked(rs, rs[0]['event']):
+                for r in rs:
+                    r['rank_raw'], r['rank'] = r['rank'], ''
+            for r in rs:
+                r['evsize'] = len(rs)
+        for r in out:
+            r['season'] = season_of(r['iso'])
         _rows = out
     return _rows
 
@@ -65,13 +120,24 @@ def best_key(r):
 
 
 def merged(sid, titles):
+    """Results of the given titles in a season, best first. Rows without a list sort last."""
     ts = set(titles)
     rs = [r for r in season_rows(sid) if r['name'] in ts]
-    rs.sort(key=best_key)
+    rs.sort(key=lambda r: (not r['has_list'],) + best_key(r))
     return rs
 
 
+def deck_url(r):
+    if r.get('source'):
+        return r['source']
+    return f"https://www.mtgtop8.com/event?e={r['e']}&d={r['d']}&f=ST"
+
+
 def get_list(deck_id):
+    if isinstance(deck_id, str) and deck_id.startswith('x-'):
+        if not _extra_lists:
+            load_extra()
+        return _extra_lists.get(deck_id, ([], []))
     os.makedirs(work('lists'), exist_ok=True)
     p = work('lists', f'{deck_id}.txt')
     if not os.path.exists(p):

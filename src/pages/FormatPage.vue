@@ -149,6 +149,9 @@ const banLine = (s: Row) =>
   font-style: italic;
   color: var(--muted);
   white-space: nowrap;
+  /* fixed width so a filtered count ("198 / 684") does not push the bar around */
+  min-width: 26ch;
+  font-variant-numeric: tabular-nums;
 }
 
 .tools {
@@ -184,9 +187,19 @@ const banLine = (s: Row) =>
 
 .filters {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   align-items: baseline;
   gap: var(--space-xs) var(--space-lg);
+}
+
+.filters > * {
+  flex-shrink: 0;
+}
+
+@media (max-width: 1180px) {
+  .filters {
+    flex-wrap: wrap;
+  }
 }
 
 .arch {
@@ -255,7 +268,12 @@ const banLine = (s: Row) =>
   border-bottom: 1px solid var(--ink);
   background: transparent;
   color: var(--ink);
-  min-width: 240px;
+  height: 1.7rem;
+  line-height: 1.7rem;
+  flex: 1 1 140px;
+  flex-shrink: 1;
+  min-width: 140px;
+  max-width: 260px;
 }
 
 .search:focus {
