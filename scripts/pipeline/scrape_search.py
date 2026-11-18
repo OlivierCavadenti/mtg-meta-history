@@ -18,7 +18,10 @@ row_re = re.compile(r'<tr class=hover_tr>(.*?)</tr>', re.S)
 results = json.load(open(OUT)) if os.path.exists(OUT) else {}
 for y in years:
     if str(y) in results: continue
-    levels = ['P', 'M', 'C'] if (FORMAT == 'standard' and y <= 2004) else ['P', 'M']
+    # Competitive-level events are added where P+M coverage is thin: early Standard, and the
+    # years listed in MTG_COMPETITIVE_YEARS (e.g. Modern's first years and the 2020-21 online era)
+    extra = {int(v) for v in os.environ.get('MTG_COMPETITIVE_YEARS', '').split(',') if v}
+    levels = ['P', 'M', 'C'] if ((FORMAT == 'standard' and y <= 2004) or y in extra) else ['P', 'M']
     rows = []
     page = 1
     while True:
