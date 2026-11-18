@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import { router } from './router'
+import { registerDirectives } from './lib/directives'
 import './styles/tokens.css'
 import './styles/base.css'
 import './styles/layout.css'
@@ -11,4 +12,6 @@ window.addEventListener('vite:preloadError', (event) => {
   window.location.reload()
 })
 
-createApp(App).use(router).mount('#app')
+const app = createApp(App)
+registerDirectives(app)
+app.use(router).mount('#app')

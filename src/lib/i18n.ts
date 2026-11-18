@@ -83,8 +83,8 @@ const STRINGS = {
   prev: { fr: 'Précédent', en: 'Previous' },
   next: { fr: 'Suivant', en: 'Next' },
   footer: {
-    fr: "Résultats et listes : MTGTop8. Images : Scryfall. Les noms de cartes appartiennent à Wizards of the Coast ; site non affilié.",
-    en: 'Results and lists: MTGTop8. Images: Scryfall. Card names belong to Wizards of the Coast; not affiliated.',
+    fr: "Résultats et listes : MTGTop8, Classic Dojo, StarCityGames. Images : Scryfall. Les noms et images des cartes appartiennent à Wizards of the Coast ; site non affilié.",
+    en: 'Results and lists: MTGTop8, Classic Dojo, StarCityGames. Images: Scryfall. Card names and images belong to Wizards of the Coast; not affiliated.',
   },
   staplesIntro: { fr: 'cartes devenues incontournables, des plus récentes aux plus anciennes', en: 'cards that became format staples, newest first' },
 } satisfies Record<string, L10n>

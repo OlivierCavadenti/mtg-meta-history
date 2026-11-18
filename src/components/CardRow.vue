@@ -48,6 +48,12 @@ const tone = computed(() => cardTone(props.info))
   font-size: 0.78rem;
   font-weight: 700;
   line-height: 1;
+  transition: transform 0.25s var(--ease-out), box-shadow 0.25s var(--ease-out);
+}
+
+.row:hover {
+  transform: translateX(3px);
+  box-shadow: -3px 0 0 var(--tone);
 }
 
 .art {
@@ -79,6 +85,7 @@ const tone = computed(() => cardTone(props.info))
 }
 
 .count {
+  font-variant-numeric: tabular-nums lining-nums;
   width: 1ch;
   text-align: right;
   color: var(--tone);

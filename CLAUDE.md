@@ -64,7 +64,14 @@ results only. Never type numbers by hand.
   toggle buttons, big-number stat tiles. Prefer sentence case, italic serif captions, underlined
   text links, rules (`border-top`) to separate sections
 - No decorative gradients, no glassmorphism, no soft-shadow rounded cards.
-  Exception: the image mask that fades card art into the decklist row color
+  Exceptions: the image mask that fades card art into the decklist row; the faint pointer sheen
+  on tilting card images; card images (physical objects) may use `--shadow-card` / `--shadow-lift`
+- Printed-matter details: paper grain (`--grain`), double rules (masthead, colophon), passe-partout
+  frames around art, drop cap on the deck summary, old-style figures in running text
+- Motion is discreet and purposeful, always via `--ease-out`, and disabled under
+  `prefers-reduced-motion`. Use the directives in `src/lib/directives.ts`: `v-reveal` (scroll-in,
+  staggered by index), `v-fade` (image fade on load), `v-tilt` (card leans toward the pointer).
+  Do not combine `v-reveal` and `v-tilt` on the same element (both use `transform`)
 - Card images and art come from the Scryfall CDN (`cards.scryfall.io`); mana symbols from `svgs.scryfall.io`
 
 ## Forbidden patterns

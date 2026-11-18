@@ -36,15 +36,16 @@ const onStaples = computed(() => route.name === 'staples')
   position: sticky;
   top: 0;
   z-index: 50;
-  background: var(--paper);
-  border-bottom: 1px solid var(--ink);
+  background: var(--paper) var(--grain);
+  /* printed masthead: a double rule */
+  border-bottom: 4px double var(--ink);
 }
 
 .inner {
   max-width: var(--page-max);
   margin: 0 auto;
   padding: 0 var(--space-md);
-  height: var(--header-h);
+  height: calc(var(--header-h) - 4px);
   display: flex;
   align-items: center;
   gap: var(--space-xl);
@@ -76,16 +77,36 @@ const onStaples = computed(() => route.name === 'staples')
   text-decoration: none;
   white-space: nowrap;
   color: var(--ink);
-  border-bottom: 3px solid transparent;
+  position: relative;
+  transition: color 0.2s var(--ease-out);
+}
+
+/* underline grows from the left on hover and stays for the active format */
+.format::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 3px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s var(--ease-out);
+}
+
+.format:hover::after {
+  transform: scaleX(0.35);
+}
+
+.format.active::after {
+  transform: scaleX(1);
 }
 
 .format.soon {
   color: var(--faint);
 }
 
-.format.active {
-  border-bottom-color: var(--accent);
-}
 
 .views {
   display: flex;
@@ -103,6 +124,15 @@ const onStaples = computed(() => route.name === 'staples')
   border: none;
   padding: 0;
   cursor: pointer;
+}
+
+.view {
+  transition: color 0.2s var(--ease-out);
+}
+
+.view:hover,
+.locale:hover {
+  color: var(--ink);
 }
 
 .view.active {

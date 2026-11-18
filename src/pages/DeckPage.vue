@@ -42,7 +42,7 @@ watchEffect(() => {
   <SoonState v-if="format && !format.ready" :label="format.label" />
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
   <div v-else-if="!deck || !season" class="state">{{ t('notFound') }}</div>
-  <article v-else class="deck">
+  <article v-else :key="deck.id" class="deck">
     <nav class="crumbs">
       <router-link :to="`/${formatId}`">{{ format?.label }}</router-link>,
       <router-link :to="`/${formatId}#s-${season.id}`">{{ years }}, {{ season.set }}</router-link>
@@ -65,7 +65,9 @@ watchEffect(() => {
         </p>
       </div>
       <figure class="hero-art">
-        <img :src="cardImage(cards[deck.cover], deck.cover, 'art_crop', deck.season)" :alt="deck.cover" />
+        <div class="hero-window">
+          <img v-fade :src="cardImage(cards[deck.cover], deck.cover, 'art_crop', deck.season)" :alt="deck.cover" />
+        </div>
         <figcaption>{{ deck.cover }}</figcaption>
       </figure>
     </header>
@@ -77,6 +79,7 @@ watchEffect(() => {
           <a
             v-for="c in deck.keyCards"
             :key="c"
+            v-tilt
             :href="scryfallSearch(c)"
             target="_blank"
             rel="noopener noreferrer"
@@ -85,7 +88,8 @@ watchEffect(() => {
             @mousemove="movePreview"
             @mouseleave="hidePreview"
           >
-            <img :src="cardImage(cards[c], c, 'normal', deck.season)" :alt="c" loading="lazy" />
+            <img v-fade :src="cardImage(cards[c], c, 'normal', deck.season)" :alt="c" loading="lazy" />
+            <span class="glare" aria-hidden="true"></span>
           </a>
         </div>
       </div>
@@ -162,6 +166,17 @@ h1 {
   line-height: 1.45;
 }
 
+/* drop cap, set in the display face */
+.summary::first-letter {
+  float: left;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 3.5em;
+  line-height: 0.82;
+  margin: 0.06em 0.04em 0 -0.02em;
+  color: var(--accent);
+}
+
 .record {
   margin-top: var(--space-md);
   font-style: italic;
@@ -172,12 +187,54 @@ h1 {
   margin: 0;
 }
 
-.hero-art img {
+.hero-window {
+  padding: 4px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+}
+
+.hero-window img {
   width: 100%;
   aspect-ratio: 626 / 457;
   object-fit: cover;
   display: block;
-  border: 1px solid var(--ink);
+  /* the art settles into place as the page opens */
+  animation: settle 1.6s var(--ease-out) both;
+}
+
+@keyframes settle {
+  from {
+    transform: scale(1.07);
+    filter: saturate(0.6) sepia(0.2);
+  }
+  to {
+    transform: none;
+    filter: none;
+  }
+}
+
+.hero-window {
+  overflow: hidden;
+}
+
+.hero-text > * {
+  animation: rise 0.7s var(--ease-out) both;
+}
+
+.hero-text > :nth-child(2) { animation-delay: 60ms; }
+.hero-text > :nth-child(3) { animation-delay: 120ms; }
+.hero-text > :nth-child(4) { animation-delay: 180ms; }
+.hero-text > :nth-child(5) { animation-delay: 240ms; }
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 figcaption {
@@ -209,11 +266,28 @@ figcaption {
 }
 
 .kc {
+  position: relative;
   display: block;
   aspect-ratio: 488 / 680;
   border-radius: 4.75% / 3.5%;
   overflow: hidden;
   background: var(--paper-deep);
+  box-shadow: var(--shadow-card);
+}
+
+/* a faint sheen that follows the pointer (position set by v-tilt) */
+.glare {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0;
+  background: radial-gradient(circle at var(--glare-x, 50%) var(--glare-y, 50%), rgb(255 250 235 / 0.28), transparent 55%);
+  mix-blend-mode: soft-light;
+  transition: opacity 0.3s var(--ease-out);
+}
+
+.kc:hover .glare {
+  opacity: 1;
 }
 
 .kc img {
@@ -228,9 +302,14 @@ figcaption {
 }
 
 .why li {
-  padding: 0 0 0.6rem 0.2rem;
+  padding: 0.5rem 0 0.55rem 0.2rem;
   line-height: 1.45;
   font-size: 1.02rem;
+  border-bottom: 1px solid var(--line-light);
+}
+
+.why li:last-child {
+  border-bottom: none;
 }
 
 .why li::marker {

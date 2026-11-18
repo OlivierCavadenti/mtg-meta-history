@@ -16,8 +16,12 @@ body {
   font-family: var(--font-body);
   color: var(--ink);
   background-color: var(--paper);
+  /* faint paper grain: a tiled SVG noise, a few percent opaque */
+  background-image: var(--grain);
   line-height: 1.6;
   min-height: 100vh;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -25,6 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: -0.01em;
+  font-variant-numeric: lining-nums;
+  text-wrap: balance;
 }
 
 h1 { font-size: 2rem; }
@@ -34,6 +40,13 @@ h4 { font-size: 1rem; }
 
 p {
   max-width: var(--measure);
+  text-wrap: pretty;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 1px;
 }
 
 a {
@@ -92,8 +105,8 @@ img {
 }
 
 ::selection {
-  background: var(--line);
-  color: var(--ink);
+  background: var(--accent);
+  color: var(--paper);
 }
 
 * {
@@ -117,4 +130,48 @@ img {
 
 *::-webkit-scrollbar-thumb:hover {
   background: var(--muted);
+}
+
+/* ---- motion primitives (see src/lib/directives.ts) ---- */
+
+.reveal {
+  opacity: 0;
+  transform: translateY(10px);
+  transition:
+    opacity 0.55s var(--ease-out) var(--reveal-delay, 0ms),
+    transform 0.55s var(--ease-out) var(--reveal-delay, 0ms);
+}
+
+.reveal.is-revealed {
+  opacity: 1;
+  transform: none;
+}
+
+.img-fade {
+  opacity: 0;
+  transition: opacity 0.45s var(--ease-out);
+}
+
+.img-fade.is-loaded {
+  opacity: 1;
+}
+
+.tilt {
+  transform: perspective(700px) rotateX(var(--tilt-x, 0deg)) rotateY(var(--tilt-y, 0deg));
+  transition: transform 0.35s var(--ease-out), box-shadow 0.35s var(--ease-out);
+  will-change: transform;
+}
+
+.tilt:hover {
+  transition-duration: 0.08s;
+  box-shadow: var(--shadow-lift);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }

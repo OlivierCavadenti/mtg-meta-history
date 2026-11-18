@@ -167,7 +167,7 @@ async function copy() {
                 @mousemove="movePreview"
                 @mouseleave="hidePreview"
               >
-                <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
+                <img v-fade :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
                 <span class="scount">&times;{{ n }}</span>
               </a>
             </div>
@@ -187,7 +187,7 @@ async function copy() {
               @mousemove="movePreview"
               @mouseleave="hidePreview"
             >
-              <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
+              <img v-fade :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
               <span class="scount">&times;{{ n }}</span>
             </a>
           </div>
@@ -209,7 +209,7 @@ async function copy() {
                 @mousemove="movePreview"
                 @mouseleave="hidePreview"
               >
-                <img :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
+                <img v-fade :src="cardImage(info(name), name, 'normal', season)" :alt="name" loading="lazy" />
                 <span class="scount">&times;{{ n }}</span>
               </a>
             </div>
@@ -245,6 +245,7 @@ async function copy() {
 }
 
 .counts strong {
+  font-variant-numeric: lining-nums;
   font-style: normal;
   font-family: var(--font-heading);
   font-size: 1.6rem;
@@ -392,8 +393,10 @@ async function copy() {
   border-radius: 4.75% / 3.4%;
   overflow: hidden;
   background: var(--paper-deep);
-  outline: 1px solid rgb(0 0 0 / 0.25);
+  box-shadow: var(--shadow-card);
+  transition: transform 0.25s var(--ease-out);
 }
+
 
 .scard + .scard {
   /* show 30% of the previous card's width (about 21% of its height): the title bar
@@ -406,6 +409,7 @@ async function copy() {
 .scard:hover {
   outline: 2px solid var(--accent);
   outline-offset: -2px;
+  transform: translateX(3px);
 }
 
 .scard img {

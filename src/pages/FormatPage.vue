@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import type { Archetype, Deck, SeasonWithDecks } from '../data/types'
 import { useFormat } from '../lib/useFormat'
@@ -10,6 +10,20 @@ import SoonState from '../components/SoonState.vue'
 
 const { formatId, format, data, loading } = useFormat()
 const route = useRoute()
+
+// The season heads stick right under the filter bar: publish its height as a CSS variable.
+const toolsEl = ref<HTMLElement | null>(null)
+const toolsH = ref(0)
+let ro: ResizeObserver | null = null
+watch(toolsEl, (el) => {
+  ro?.disconnect()
+  if (!el || typeof ResizeObserver === 'undefined') return
+  ro = new ResizeObserver(() => {
+    toolsH.value = getComputedStyle(el).position === 'sticky' ? el.offsetHeight : 0
+  })
+  ro.observe(el)
+})
+onBeforeUnmount(() => ro?.disconnect())
 
 // Season anchors only exist once the data is rendered: scroll to the hash then.
 watch(data, async (d) => {
@@ -89,9 +103,9 @@ const banLine = (s: Row) =>
 <template>
   <SoonState v-if="format && !format.ready" :label="format.label" />
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
-  <div v-else class="format-page">
+  <div v-else class="format-page" :style="{ '--tools-h': toolsH + 'px' }">
     <h1 class="sr-only">{{ format?.label }}</h1>
-    <div class="tools">
+    <div ref="toolsEl" class="tools">
       <div class="filters">
         <p class="intro-meta">
           {{ filtering ? `${shownDecks} / ${totalDecks}` : totalDecks }} {{ t('decksCount') }},
@@ -139,7 +153,7 @@ const banLine = (s: Row) =>
         <span class="ban-label">{{ t('bans') }}.</span> {{ banLine(s) }}
       </p>
       <div class="grid">
-        <DeckTile v-for="d in s.shown" :key="d.id" :deck="d" :cards="data.cards" :format="formatId" />
+        <DeckTile v-for="(d, i) in s.shown" :key="d.id" :deck="d" :cards="data.cards" :format="formatId" :index="i % 5" />
       </div>
     </section>
   </div>
@@ -159,7 +173,7 @@ const banLine = (s: Row) =>
   position: sticky;
   top: var(--header-h);
   z-index: 20;
-  background: var(--paper);
+  background: var(--paper) var(--grain);
   border-bottom: 1px solid var(--line);
   padding: var(--space-sm) 0 var(--space-xs);
   margin: calc(-1 * var(--space-lg) + var(--space-xs)) 0 var(--space-lg);
@@ -298,16 +312,21 @@ const banLine = (s: Row) =>
 
 .season {
   margin-bottom: var(--space-xl);
-  scroll-margin-top: calc(var(--header-h) + 80px);
+  scroll-margin-top: calc(var(--header-h) + var(--tools-h, 0px) - 1px);
 }
 
+/* running head: the season title stays pinned under the filter bar while its decks scroll */
 .season-head {
+  position: sticky;
+  top: calc(var(--header-h) + var(--tools-h, 0px));
+  z-index: 10;
   display: flex;
   align-items: baseline;
   gap: var(--space-md);
   flex-wrap: wrap;
   border-top: 2px solid var(--ink);
-  padding-top: var(--space-xs);
+  padding: var(--space-xs) 0 0.35rem;
+  background: var(--paper) var(--grain);
 }
 
 .season-years {

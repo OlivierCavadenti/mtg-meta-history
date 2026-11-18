@@ -5,3 +5,13 @@ declare module '*.vue' {
   const component: DefineComponent<object, object, unknown>
   export default component
 }
+
+import type { Directive } from 'vue'
+
+declare module 'vue' {
+  export interface GlobalDirectives {
+    vReveal: Directive<HTMLElement, number | undefined>
+    vFade: Directive<HTMLImageElement>
+    vTilt: Directive<HTMLElement>
+  }
+}

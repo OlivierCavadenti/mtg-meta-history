@@ -100,6 +100,7 @@ const groups = computed<Group[]>(() => {
         </div>
         <a
           v-for="name in g.cards"
+          v-tilt
           :key="name"
           class="card"
           :href="scryfallSearch(name)"
@@ -107,7 +108,7 @@ const groups = computed<Group[]>(() => {
           rel="noopener noreferrer"
           :title="name"
         >
-          <img :src="cardImage(data.cards[name], name, 'normal', stapleSeason.get(name))" :alt="name" loading="lazy" />
+          <img v-fade :src="cardImage(data.cards[name], name, 'normal', stapleSeason.get(name))" :alt="name" loading="lazy" />
         </a>
       </template>
     </div>
@@ -232,11 +233,10 @@ const groups = computed<Group[]>(() => {
   border-radius: 4.75% / 3.5%;
   overflow: hidden;
   background: var(--paper-deep);
-  transition: transform 0.15s ease;
+  box-shadow: var(--shadow-card);
 }
 
 .card:hover {
-  transform: scale(1.04);
   position: relative;
   z-index: 2;
 }
