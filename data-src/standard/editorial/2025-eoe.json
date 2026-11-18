@@ -25,15 +25,45 @@
       "fr": [
         "Opt et Sleight of Hand garantissaient un flux constant de sorts",
         "Stormchaser's Talent récupérait un sort et ajoutait une menace",
-        "Présent en top 8 de décembre à la fin de la saison"
+        "Devenu le principal deck aggro Izzet après les bannissements de novembre"
       ],
       "en": [
         "Opt and Sleight of Hand kept the spell count high",
         "Stormchaser's Talent rebought a spell and added a threat",
-        "Made top 8s from December to the end of the season"
+        "Became the main Izzet aggro deck after the November bans"
       ]
     },
-    "rep": 853651
+    "rep": 853651,
+    "include": [
+      868049,
+      913627,
+      814350,
+      868050,
+      814352,
+      899151,
+      844549,
+      847764,
+      847383,
+      820007,
+      853661,
+      853235,
+      799236,
+      839027,
+      771729,
+      776882,
+      847787,
+      853672,
+      784684,
+      799248,
+      842354,
+      844532,
+      847403,
+      840665,
+      840713,
+      844604,
+      853706,
+      853577
+    ]
   },
   {
     "name": "Izzet Lessons",
@@ -62,16 +92,23 @@
       "fr": [
         "Firebending Lesson et Combustion Technique servaient de removal",
         "Artist's Talent et Accumulate Wisdom filtraient la pioche",
-        "Vainqueur du championnat du monde à Seattle"
+        "A remporté le World Championship 31"
       ],
       "en": [
         "Firebending Lesson and Combustion Technique served as removal",
         "Artist's Talent and Accumulate Wisdom filtered draws",
-        "Won the World Championship in Seattle"
+        "Won World Championship 31"
       ]
     },
     "note": "Izzet Control title is mixed (Lessons early, Colorstorm Stallion lists later); attached here by majority.",
-    "rep": 788100
+    "rep": 788100,
+    "exclude": [
+      844550,
+      907404,
+      885377,
+      853539,
+      853576
+    ]
   },
   {
     "name": "Mono-Green Landfall",
@@ -106,7 +143,12 @@
         "Steady top 8 presence across the whole season"
       ]
     },
-    "rep": 819920
+    "rep": 819920,
+    "include": [
+      795475,
+      850261,
+      815418
+    ]
   },
   {
     "name": "Selesnya Landfall",
@@ -172,7 +214,21 @@
         "Mostly played in the autumn, before Nature's Rhythm builds"
       ]
     },
-    "rep": 766049
+    "rep": 766049,
+    "include": [
+      771717,
+      774891,
+      771718,
+      771719,
+      776883,
+      774905,
+      788160,
+      788185,
+      788219,
+      788221,
+      776899,
+      776921
+    ]
   },
   {
     "name": "Simic Nature's Rhythm",
@@ -204,16 +260,20 @@
       "fr": [
         "Nature's Rhythm trouvait Craterhoof Behemoth ou une créature utilitaire",
         "Vainqueur du Regional Championship de Turin",
-        "Des versions Selesnya et quatre couleurs partageaient le même moteur"
+        "Les versions Bant, Selesnya et quatre couleurs partageaient le même moteur"
       ],
       "en": [
         "Nature's Rhythm found Craterhoof Behemoth or a utility creature",
         "Won the Regional Championship in Turin",
-        "Selesnya and four-colour builds shared the same engine"
+        "Bant, Selesnya and four-colour builds shared the same engine"
       ]
     },
     "note": "Simic Ouroboroid title is mostly Nature's Rhythm lists from January on; early ones belong with Simic Ouroboroid aggro.",
-    "rep": 819992
+    "rep": 819992,
+    "include": [
+      805873,
+      805930
+    ]
   },
   {
     "name": "Selesnya Aggro",
@@ -237,12 +297,12 @@
     },
     "why": {
       "fr": [
-        "Finaliste du championnat du monde à Atlanta",
+        "Finaliste du World Championship 32",
         "Llanowar Elves et Gene Pollinator permettaient des départs rapides",
         "Présent en top 8 de l'automne à la fin de la saison"
       ],
       "en": [
-        "Reached the World Championship final in Atlanta",
+        "Reached the final of World Championship 32",
         "Llanowar Elves and Gene Pollinator allowed fast starts",
         "Made top 8s from the autumn to the end of the season"
       ]
@@ -453,7 +513,38 @@
       ]
     },
     "note": "Boros Aggro title also includes early Boros Mice lists.",
-    "rep": 812011
+    "rep": 812011,
+    "exclude": [
+      885371,
+      799196,
+      913624,
+      889875,
+      759335,
+      823056,
+      823058,
+      799207,
+      820371,
+      804742,
+      850241,
+      799103,
+      799104,
+      825358,
+      776886,
+      799256,
+      799257,
+      822365,
+      907384,
+      907427,
+      912121,
+      912125,
+      912140,
+      912143,
+      912147,
+      912151,
+      912167,
+      912172,
+      912182
+    ]
   },
   {
     "name": "Azorius Momo",
@@ -513,16 +604,30 @@
     },
     "why": {
       "fr": [
-        "Top 4 au championnat du monde à Atlanta",
+        "Top 4 au World Championship 32",
         "Torch the Tower apportait un removal bon marché absent de la version Azorius"
       ],
       "en": [
-        "Top 4 at the World Championship in Atlanta",
+        "Top 4 at World Championship 32",
         "Torch the Tower gave cheap removal the Azorius build lacked"
       ]
     },
     "note": "Appeared only in the last week of the season.",
-    "rep": 912126
+    "rep": 912126,
+    "include": [
+      913624,
+      823056,
+      823058,
+      912121,
+      912125,
+      912140,
+      912143,
+      912147,
+      912151,
+      912167,
+      912172,
+      912182
+    ]
   },
   {
     "name": "Azorius Flash",
@@ -625,8 +730,8 @@
     "rep": 754951
   },
   {
-    "name": "Superior Doomsday",
-    "slug": "superior-doomsday",
+    "name": "Dimir Excruciator",
+    "slug": "dimir-excruciator",
     "archetype": "combo",
     "titles": [
       "Superior Doomsday"
@@ -640,8 +745,8 @@
       "Requiting Hex"
     ],
     "summary": {
-      "fr": "Combo-contrôle Dimir autour de Doomsday Excruciator, qui réduit les bibliothèques, avec Insatiable Avarice ; Superior Spider-Man et Deceit soutiennent le plan.",
-      "en": "Dimir combo-control around Doomsday Excruciator, which shrinks libraries, with Insatiable Avarice; Superior Spider-Man and Deceit support the plan."
+      "en": "Dimir combo-control around Doomsday Excruciator, which exiles all but the bottom six cards of each library; Superior Spider-Man copies it and Insatiable Avarice or Restless Reef deck the opponent.",
+      "fr": "Combo-contrôle Dimir autour de Doomsday Excruciator, qui exile toutes les cartes des bibliothèques sauf les six du dessous ; Superior Spider-Man le copie, Insatiable Avarice ou Restless Reef vident la bibliothèque adverse."
     },
     "why": {
       "fr": [
@@ -855,8 +960,8 @@
     "rep": 907398
   },
   {
-    "name": "Mardu Aggro",
-    "slug": "mardu-aggro",
+    "name": "Mardu Discard",
+    "slug": "mardu-discard",
     "archetype": "aggro",
     "titles": [
       "Mardu Aggro",
@@ -1051,11 +1156,11 @@
     },
     "why": {
       "fr": [
-        "Top 4 au championnat du monde à Seattle",
+        "Top 4 au World Championship 31",
         "Thundertrap Trainer trouvait les pièces non-créatures du combo"
       ],
       "en": [
-        "Top 4 at the World Championship in Seattle",
+        "Top 4 at World Championship 31",
         "Thundertrap Trainer found the combo's noncreature pieces"
       ]
     },
@@ -1082,11 +1187,11 @@
     },
     "why": {
       "fr": [
-        "Vainqueur du championnat du monde à Atlanta",
+        "A remporté le World Championship 32",
         "Une autre victoire le lendemain, en toute fin de saison"
       ],
       "en": [
-        "Won the World Championship in Atlanta",
+        "Won World Championship 32",
         "Won another event the next day, at the very end of the season"
       ]
     },

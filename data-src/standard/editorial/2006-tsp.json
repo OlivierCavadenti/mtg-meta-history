@@ -30,7 +30,14 @@
         "Gigadrowse tapped opposing lands to get past counterspells"
       ]
     },
-    "rep": 253163
+    "rep": 253163,
+    "include": [
+      "x-states-2006-albuquerque-nm-1-daniel",
+      "x-states-2006-columbia-mo-1-moore",
+      "x-states-2006-saskatoon-canada-1-rusaw",
+      "x-states-2006-toronto-canada-1-felske"
+    ],
+    "note": "State Championship Dragonstorm lists filed by SCG as 'U/R Control' / 'U/R Tron' moved here."
   },
   {
     "name": "Solar Flare",
@@ -79,7 +86,8 @@
       "Blink Patriot IIII",
       "[Top 8 - T2] Blink Patriot",
       "[Top 8 - T2] Blink Patriot II",
-      "Blink Raiders"
+      "Blink Raiders",
+      "U/R/W Blink"
     ],
     "cover": "Riftwing Cloudskate",
     "keyCards": [
@@ -153,7 +161,12 @@
       "AngelFire V",
       "[Top 8 - T2] AngelFire II",
       "UWr Control",
-      "Uwr Control"
+      "Uwr Control",
+      "Firemane Control",
+      "This Girl",
+      "U/R/W Control",
+      "R/W/U Control",
+      "Fungus Fire"
     ],
     "cover": "Firemane Angel",
     "keyCards": [
@@ -179,7 +192,7 @@
         "Remand and Compulsive Research kept the hand full"
       ]
     },
-    "note": "UWr Control lists (Worlds 2006, GP Kyoto) without Firemane Angel merged: same Lightning Angel control shell.",
+    "note": "UWr Control lists (Worlds 2006, GP Kyoto) without Firemane Angel merged: same Lightning Angel control shell. State Championship UWr lists ('This Girl', 'U/R/W Control', 'Firemane Control') and the RGW Firemane/Sunforger 'Fungus Fire' (Panama Nationals 2007, list incomplete at source) merged.",
     "rep": 601716
   },
   {
@@ -193,7 +206,8 @@
       "Rg Aggro VII",
       "RDW 2k7",
       "Gruul Gargadon",
-      "[Top 8 - T2] Rg Aggro III"
+      "[Top 8 - T2] Rg Aggro III",
+      "Gargadon Goyf"
     ],
     "cover": "Tarmogoyf",
     "keyCards": [
@@ -228,7 +242,10 @@
     "titles": [
       "Gruul",
       "Gruul Beats",
-      "[Top 8 - T2] Gruul II"
+      "[Top 8 - T2] Gruul II",
+      "R/G Control",
+      "R/G Snow Aggro",
+      "G/R Big Mana"
     ],
     "cover": "Giant Solifuge",
     "keyCards": [
@@ -264,7 +281,8 @@
       "Rakdos VI",
       "Rakdos II",
       "Rakdos III",
-      "Rakdos IIII"
+      "Rakdos IIII",
+      "R/B"
     ],
     "cover": "Dark Confidant",
     "keyCards": [
@@ -398,12 +416,13 @@
     "note": "Often called Dralnu du Louvre; UBr Teachings variant merged."
   },
   {
-    "name": "BG Rack",
-    "slug": "bg-rack",
+    "name": "The Rack",
+    "slug": "the-rack",
     "archetype": "control",
     "titles": [
       "Goyf Rack",
-      "TarmoRack"
+      "TarmoRack",
+      "The Rack"
     ],
     "cover": "The Rack",
     "keyCards": [
@@ -414,8 +433,8 @@
       "Tarmogoyf"
     ],
     "summary": {
-      "fr": "Défausse vert-noir qui vide la main adverse avec Stupor, Augur of Skulls et Smallpox, puis punit avec The Rack.",
-      "en": "Green-black discard deck that empties the opponent's hand with Stupor, Augur of Skulls and Smallpox, then punishes with The Rack."
+      "fr": "Deck de défausse noir, souvent à touche verte pour Tarmogoyf, qui vide la main adverse avec Stupor, Augur of Skulls et Smallpox, puis punit avec The Rack.",
+      "en": "Black discard deck, often splashing green for Tarmogoyf, that empties the opponent's hand with Stupor, Augur of Skulls and Smallpox, then punishes with The Rack."
     },
     "why": {
       "fr": [
@@ -429,14 +448,16 @@
         "Tarmogoyf and Dark Confidant gave efficient threats"
       ]
     },
-    "rep": 599607
+    "rep": 599607,
+    "note": "Mono-black Rack lists (Regionals 2007) merged with Goyf Rack / TarmoRack."
   },
   {
     "name": "Boros Aggro",
     "slug": "boros-aggro",
     "archetype": "aggro",
     "titles": [
-      "Boros"
+      "Boros",
+      "White Weenie Red"
     ],
     "cover": "Knight of the Holy Nimbus",
     "keyCards": [
@@ -498,11 +519,14 @@
     "rep": 253164
   },
   {
-    "name": "Martyr Tron",
-    "slug": "martyr-tron",
+    "name": "Martyr Control",
+    "slug": "martyr-control",
     "archetype": "control",
     "titles": [
-      "Tron Martyr Life"
+      "Tron Martyr Life",
+      "UW Snow Control",
+      "Mono White Control",
+      "[Top 8 - T2] Blanche Neige"
     ],
     "cover": "Martyr of Sands",
     "keyCards": [
@@ -513,8 +537,8 @@
       "Urza's Tower"
     ],
     "summary": {
-      "fr": "Contrôle bleu-blanc sur terrains d'Urza qui gagne beaucoup de points de vie en recyclant Martyr of Sands avec Proclamation of Rebirth.",
-      "en": "Blue-white Urza-land control that gains large amounts of life by recurring Martyr of Sands with Proclamation of Rebirth."
+      "fr": "Contrôle blanc, parfois bleu, qui regagne beaucoup de points de vie en rappelant Martyr of Sands avec Proclamation of Rebirth ; la version des Mondiaux jouait les terrains d'Urza.",
+      "en": "White control, sometimes blue, that gains large amounts of life by recurring Martyr of Sands with Proclamation of Rebirth; the Worlds version used the Urza lands."
     },
     "why": {
       "fr": [
@@ -528,14 +552,17 @@
         "The Urza lands provided the mana required"
       ]
     },
-    "rep": 253166
+    "rep": 253166,
+    "note": "Snow-based Martyr of Sands control lists (Coldsteel Heart, Scrying Sheets) merged with the Worlds 2006 'Tron Martyr Life' list."
   },
   {
     "name": "Korlash Black",
     "slug": "korlash-black",
     "archetype": "midrange",
     "titles": [
-      "Korlash Black"
+      "Korlash Black",
+      "Korlash Control",
+      "Mono Black Control"
     ],
     "cover": "Korlash, Heir to Blackblade",
     "keyCards": [
@@ -546,8 +573,8 @@
       "Damnation"
     ],
     "summary": {
-      "fr": "Midrange mono-noir qui exploite le grand nombre de Swamp pour Korlash et Tendrils of Corruption.",
-      "en": "Mono-black midrange that uses a high Swamp count for Korlash and Tendrils of Corruption."
+      "fr": "Aggro-milieu de partie mono-noir autour de Hypnotic Specter et de Stupor ; après Future Sight, Korlash et Tendrils of Corruption profitent du grand nombre de Swamp.",
+      "en": "Mono-black aggro-midrange built on Hypnotic Specter and Stupor; after Future Sight, Korlash and Tendrils of Corruption cash in on the high Swamp count."
     },
     "why": {
       "fr": [
@@ -561,7 +588,8 @@
         "Dark Confidant and Graveborn Muse supplied card advantage"
       ]
     },
-    "rep": 601719
+    "rep": 601719,
+    "note": "Pre-Future Sight mono-black aggro (States 2006 'Mono Black Control') and Korlash Control merged."
   },
   {
     "name": "Snow Korlash",
@@ -602,7 +630,8 @@
     "archetype": "combo",
     "titles": [
       "Swath Storm",
-      "Aussie Storm"
+      "Aussie Storm",
+      "Perilous Storm"
     ],
     "cover": "Pyromancer's Swath",
     "keyCards": [
@@ -669,7 +698,10 @@
     "slug": "omnichord",
     "archetype": "midrange",
     "titles": [
-      "OmniChord"
+      "OmniChord",
+      "G/U/W Omnichord",
+      "Omni-chord",
+      "U/G/w Pickles"
     ],
     "cover": "Chord of Calling",
     "keyCards": [
@@ -735,7 +767,11 @@
     "slug": "ur-tron",
     "archetype": "control",
     "titles": [
-      "UR Tron"
+      "UR Tron",
+      "U/R Control",
+      "U/R Tron",
+      "U/R Wildfire",
+      "Izzetron Wildfire"
     ],
     "cover": "Bogardan Hellkite",
     "keyCards": [
@@ -834,7 +870,8 @@
     "slug": "ug-graft",
     "archetype": "midrange",
     "titles": [
-      "Graft UG"
+      "Graft UG",
+      "G/U Aggro"
     ],
     "cover": "Plaxcaster Frogling",
     "keyCards": [
@@ -867,7 +904,10 @@
     "slug": "uw-control",
     "archetype": "control",
     "titles": [
-      "UW Control"
+      "UW Control",
+      "U/W Control",
+      "U/W Snow Control",
+      "U/B/W Control"
     ],
     "cover": "Teferi, Mage of Zhalfir",
     "keyCards": [
@@ -900,7 +940,8 @@
     "slug": "guw-blink",
     "archetype": "midrange",
     "titles": [
-      "Blink"
+      "Blink",
+      "Blinking Snake"
     ],
     "cover": "Momentary Blink",
     "keyCards": [
@@ -966,7 +1007,10 @@
     "slug": "gw-aggro",
     "archetype": "aggro",
     "titles": [
-      "Glare"
+      "Glare",
+      "GhaziGlare",
+      "Glare Aggro",
+      "Selesnya Aggro"
     ],
     "cover": "Saffi Eriksdotter",
     "keyCards": [
@@ -993,5 +1037,175 @@
       ]
     },
     "rep": 101538
+  },
+  {
+    "name": "Slivers",
+    "slug": "slivers",
+    "archetype": "aggro",
+    "titles": [
+      "Sliver Aggro"
+    ],
+    "rep": "x-regionals-2007-malsch-germany-1-bush",
+    "cover": "Sinew Sliver",
+    "keyCards": [
+      "Sinew Sliver",
+      "Sedge Sliver",
+      "Cautery Sliver",
+      "Sidewinder Sliver",
+      "Lightning Helix"
+    ],
+    "summary": {
+      "fr": "Aggro multicolore de Slivers bon marché qui se renforcent mutuellement, soutenus par Lightning Helix et Seal of Fire.",
+      "en": "Multicolour aggro of cheap Slivers that pump each other, backed by Lightning Helix and Seal of Fire."
+    },
+    "why": {
+      "fr": [
+        "Chaque Sliver renforçait tous les autres",
+        "Sedge Sliver et Sinew Sliver grandissaient vite l'équipe",
+        "Lightning Helix et Seal of Fire dégageaient le passage"
+      ],
+      "en": [
+        "Each Sliver strengthened all the others",
+        "Sedge Sliver and Sinew Sliver grew the team quickly",
+        "Lightning Helix and Seal of Fire cleared the way"
+      ]
+    }
+  },
+  {
+    "name": "Zoo",
+    "slug": "zoo",
+    "archetype": "aggro",
+    "titles": [
+      "Zoo"
+    ],
+    "rep": "x-states-2006-boston-ma-1-glavin",
+    "cover": "Kird Ape",
+    "keyCards": [
+      "Kird Ape",
+      "Watchwolf",
+      "Scab-Clan Mauler",
+      "Lightning Helix",
+      "Char"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert-blanc de créatures efficaces comme Kird Ape et Watchwolf, avec Char et Lightning Helix pour finir.",
+      "en": "Red-green-white aggro of efficient creatures such as Kird Ape and Watchwolf, with Char and Lightning Helix to finish."
+    },
+    "why": {
+      "fr": [
+        "Kird Ape et Savannah Lions frappaient dès le premier tour",
+        "Watchwolf et Scab-Clan Mauler dépassaient les bloqueurs adverses",
+        "Lightning Helix et Char servaient de retrait et de finition"
+      ],
+      "en": [
+        "Kird Ape and Savannah Lions attacked from the first turn",
+        "Watchwolf and Scab-Clan Mauler outsized opposing blockers",
+        "Lightning Helix and Char doubled as removal and reach"
+      ]
+    }
+  },
+  {
+    "name": "Wish Control",
+    "slug": "wish-control",
+    "archetype": "control",
+    "titles": [
+      "Wish Control",
+      "Glittering Wish Control",
+      "[Top 8 - T2] Glitering Wish Control/Seismic Loam Goyf"
+    ],
+    "rep": 604367,
+    "cover": "Glittering Wish",
+    "keyCards": [
+      "Glittering Wish",
+      "Harmonize",
+      "Wrath of God",
+      "Teneb, the Harvester",
+      "Troll Ascetic"
+    ],
+    "summary": {
+      "fr": "Contrôle multicolore qui va chercher dans sa réserve la réponse adaptée avec Glittering Wish, nettoie la table avec Wrath of God et pioche avec Harmonize.",
+      "en": "Multicolour control that fetches the right answer from its sideboard with Glittering Wish, sweeps with Wrath of God and draws with Harmonize."
+    },
+    "why": {
+      "fr": [
+        "Glittering Wish donnait accès à des réponses multicolores de la réserve",
+        "Harmonize assurait l'avantage de cartes",
+        "Troll Ascetic et Teneb servaient de menaces résistantes"
+      ],
+      "en": [
+        "Glittering Wish gave access to multicolour sideboard answers",
+        "Harmonize supplied card advantage",
+        "Troll Ascetic and Teneb were resilient threats"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Midrange",
+    "slug": "golgari-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Junk Midrange",
+      "Demon Viper",
+      "B/G/W Control"
+    ],
+    "rep": 604366,
+    "cover": "Hypnotic Specter",
+    "keyCards": [
+      "Hypnotic Specter",
+      "Tarmogoyf",
+      "Castigate",
+      "Funeral Charm",
+      "Skeletal Vampire"
+    ],
+    "summary": {
+      "fr": "Milieu de partie vert-noir, parfois avec du blanc ou du rouge, qui attaque la main adverse avec Hypnotic Specter et la défausse, puis gagne avec des menaces solides.",
+      "en": "Green-black midrange, sometimes adding white or red, that attacks the opponent's hand with Hypnotic Specter and discard, then wins with sturdy threats."
+    },
+    "why": {
+      "fr": [
+        "Birds of Paradise accélérait Hypnotic Specter",
+        "Castigate et Funeral Charm prenaient les meilleures cartes adverses",
+        "Tarmogoyf et Skeletal Vampire donnaient des menaces efficaces"
+      ],
+      "en": [
+        "Birds of Paradise sped out Hypnotic Specter",
+        "Castigate and Funeral Charm took the best opposing cards",
+        "Tarmogoyf and Skeletal Vampire provided efficient threats"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Control",
+    "slug": "orzhov-control",
+    "archetype": "control",
+    "titles": [
+      "Fader",
+      "B/W Control"
+    ],
+    "rep": "x-states-2006-madison-wi-1-stenz",
+    "cover": "Phyrexian Arena",
+    "keyCards": [
+      "Phyrexian Arena",
+      "Wrath of God",
+      "Castigate",
+      "Skeletal Vampire",
+      "Akroma, Angel of Wrath"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-noir qui pioche avec Phyrexian Arena, nettoie la table avec Wrath of God et Condemn, puis gagne avec Skeletal Vampire et Akroma.",
+      "en": "White-black control that draws with Phyrexian Arena, sweeps with Wrath of God and Condemn, then wins with Skeletal Vampire and Akroma."
+    },
+    "why": {
+      "fr": [
+        "Phyrexian Arena assurait l'avantage de cartes",
+        "Castigate retirait les menaces adverses avant leur arrivée",
+        "Faith's Fetters répondait aux permanents de tout type"
+      ],
+      "en": [
+        "Phyrexian Arena supplied card advantage",
+        "Castigate removed opposing threats before they landed",
+        "Faith's Fetters answered any type of permanent"
+      ]
+    }
   }
 ]

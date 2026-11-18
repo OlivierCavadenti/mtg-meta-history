@@ -4,7 +4,8 @@
     "slug": "ghazi-glare",
     "archetype": "midrange",
     "titles": [
-      "Ghazi Glare"
+      "Ghazi Glare",
+      "GhaziGlare"
     ],
     "cover": "Glare of Subdual",
     "keyCards": [
@@ -37,7 +38,8 @@
     "slug": "solar-flare",
     "archetype": "control",
     "titles": [
-      "Solar Flare"
+      "Solar Flare",
+      "Reanimator Control"
     ],
     "cover": "Angel of Despair",
     "keyCards": [
@@ -73,7 +75,10 @@
       "Hand in Hand",
       "Hand In Hand",
       "Orzhov Aggro",
-      "WB Aggro"
+      "WB Aggro",
+      "Ghost Dad",
+      "Ghost Husk",
+      "B/W/U Aggro"
     ],
     "cover": "Ghost Council of Orzhova",
     "keyCards": [
@@ -107,7 +112,9 @@
     "slug": "heartbeat",
     "archetype": "combo",
     "titles": [
-      "Heartbeat"
+      "Heartbeat",
+      "Heartbeat Combo",
+      "Heartbeat of Spring Combo"
     ],
     "cover": "Heartbeat of Spring",
     "keyCards": [
@@ -141,7 +148,8 @@
     "archetype": "tempo",
     "titles": [
       "Sea Stompy",
-      "Simic Aggro"
+      "Simic Aggro",
+      "Simic Beats"
     ],
     "cover": "Ninja of the Deep Hours",
     "keyCards": [
@@ -175,7 +183,8 @@
     "archetype": "aggro",
     "titles": [
       "Zoo",
-      "WRG Zoo"
+      "WRG Zoo",
+      "G/W/r Aggro"
     ],
     "cover": "Watchwolf",
     "keyCards": [
@@ -209,7 +218,11 @@
     "archetype": "control",
     "titles": [
       "Izzetron",
-      "UR Tron"
+      "UR Tron",
+      "U/R Wildfire",
+      "U/R Tron",
+      "Sizzetron",
+      "Izzet Control"
     ],
     "cover": "Keiga, the Tide Star",
     "keyCards": [
@@ -243,7 +256,9 @@
     "archetype": "aggro",
     "titles": [
       "Wu Weenie",
-      "WU Weenie"
+      "WU Weenie",
+      "White Weenie Blue",
+      "U/W/G Ninja"
     ],
     "cover": "Hand of Honor",
     "keyCards": [
@@ -310,7 +325,8 @@
     "archetype": "control",
     "titles": [
       "U/r Magnivore",
-      "UR Ponza"
+      "UR Ponza",
+      "Magnivore"
     ],
     "cover": "Magnivore",
     "keyCards": [
@@ -336,7 +352,14 @@
         "Pyroclasm handled small-creature decks"
       ]
     },
-    "rep": 255584
+    "rep": 255584,
+    "include": [
+      "x-nationals-austria-2006-3-reitbauer",
+      "x-nationals-singapore-2006-3-chua",
+      "x-regionals-2006-college-park-md-1-stangl",
+      "x-regionals-2006-montreal-canada-1-jeffrey",
+      "x-regionals-2006-vancouver-canada-1-ruskey"
+    ]
   },
   {
     "name": "Counter-Top",
@@ -344,7 +367,8 @@
     "archetype": "control",
     "titles": [
       "Structure And Force",
-      "Counter-top"
+      "Counter-top",
+      "Counterbalance"
     ],
     "cover": "Counterbalance",
     "keyCards": [
@@ -370,14 +394,22 @@
         "Remand and Hinder slowed expensive spells"
       ]
     },
-    "rep": 601491
+    "rep": 601491,
+    "include": [
+      "x-nationals-austria-2006-6-heigerer",
+      "x-nationals-austria-2006-7-preyer",
+      "x-nationals-spain-2006-6-alcaraz",
+      "x-nationals-ukraine-2006-7-chufarin"
+    ]
   },
   {
     "name": "Enduring Ideal",
     "slug": "enduring-ideal",
     "archetype": "combo",
     "titles": [
-      "Enduring Ideal"
+      "Enduring Ideal",
+      "Snow Ideal",
+      "Hondens"
     ],
     "cover": "Enduring Ideal",
     "keyCards": [
@@ -443,40 +475,44 @@
     "slug": "boros-aggro",
     "archetype": "aggro",
     "titles": [
-      "Boros Aggro"
+      "Boros Aggro",
+      "White Weenie Red",
+      "White Weenie/Red"
     ],
     "cover": "Lightning Helix",
     "keyCards": [
       "Lightning Helix",
-      "Lava Spike",
-      "Howling Mine",
-      "Savannah Lions",
-      "Char"
+      "Paladin en-Vec",
+      "Isamaru, Hound of Konda",
+      "Char",
+      "Umezawa's Jitte"
     ],
     "summary": {
-      "fr": "Aggro rouge-blanc qui combine créatures à un mana, nombreux sorts de dégâts et Howling Mine pour ne jamais manquer de cartes.",
-      "en": "Red-white aggro combining one-drop creatures, plenty of burn and Howling Mine so it never runs out of cards."
+      "fr": "Aggro rouge-blanc de créatures bon marché comme Isamaru et Paladin en-Vec, soutenues par Char, Lightning Helix et Umezawa's Jitte.",
+      "en": "Red-white aggro of cheap creatures such as Isamaru and Paladin en-Vec, backed by Char, Lightning Helix and Umezawa's Jitte."
     },
     "why": {
       "fr": [
-        "Le grand nombre de sorts de dégâts visait directement le joueur",
-        "Howling Mine compensait le manque d'avantage de cartes",
-        "Lightning Helix gagnait des points de vie contre l'aggro"
+        "Les créatures à un et deux manas mettaient une pression immédiate",
+        "Paladin en-Vec résistait au retrait noir et rouge",
+        "Lightning Helix et Char finissaient les parties"
       ],
       "en": [
-        "A high burn count aimed straight at the opponent",
-        "Howling Mine made up for a lack of card advantage",
-        "Lightning Helix gained life against aggro"
+        "One- and two-drop creatures applied immediate pressure",
+        "Paladin en-Vec shrugged off black and red removal",
+        "Lightning Helix and Char finished games"
       ]
     },
-    "rep": 601486
+    "rep": "x-nationals-hungary-2006-2-daniel",
+    "note": "'White Weenie Red' (Nationals 2006) and 'White Weenie/Red' merged: same Boros creature-and-burn shell. One German list ran Howling Mine."
   },
   {
     "name": "Gruul Beats",
     "slug": "gruul-beats",
     "archetype": "aggro",
     "titles": [
-      "Gruul Beats"
+      "Gruul Beats",
+      "G/R Beats"
     ],
     "cover": "Giant Solifuge",
     "keyCards": [
@@ -509,7 +545,8 @@
     "slug": "critical-mass",
     "archetype": "ramp",
     "titles": [
-      "Critical Mass"
+      "Critical Mass",
+      "U/G Control"
     ],
     "cover": "Meloku the Clouded Mirror",
     "keyCards": [
@@ -542,7 +579,11 @@
     "slug": "greater-gifts",
     "archetype": "control",
     "titles": [
-      "Greater Gift"
+      "Greater Gift",
+      "Gifts Ungiven",
+      "Greater Good",
+      "Greater Good Combo",
+      "Four Color Legends"
     ],
     "cover": "Gifts Ungiven",
     "keyCards": [
@@ -553,8 +594,8 @@
       "Kokusho, the Evening Star"
     ],
     "summary": {
-      "fr": "Contrôle multicolore qui sacrifie Kokusho et Yosei à Greater Good et les ramène avec Goryo's Vengeance et Gifts Ungiven.",
-      "en": "Multicolour control that sacrifices Kokusho and Yosei to Greater Good and brings them back with Goryo's Vengeance and Gifts Ungiven."
+      "fr": "Contrôle multicolore autour de Gifts Ungiven : les versions Greater Good sacrifient Kokusho et Yosei puis les rappellent avec Goryo's Vengeance, d'autres jouent Kagemaro et Putrefy.",
+      "en": "Multicolour control built on Gifts Ungiven: Greater Good versions sacrifice Kokusho and Yosei and bring them back with Goryo's Vengeance, others play Kagemaro and Putrefy."
     },
     "why": {
       "fr": [
@@ -568,14 +609,17 @@
         "Wrath of God held off aggro decks"
       ]
     },
-    "rep": 253154
+    "rep": 253154,
+    "note": "State Championship 'Gifts Ungiven' lists (green-black Gifts with Kagemaro, Sickening Shoal, Putrefy) merged with Greater Gift; the blue-black Edmonton Gifts list is moved to UB Control."
   },
   {
     "name": "UB Control",
     "slug": "ub-control",
     "archetype": "control",
     "titles": [
-      "UB Control"
+      "UB Control",
+      "Mono Blue Control",
+      "U/B Control"
     ],
     "cover": "Jushi Apprentice",
     "keyCards": [
@@ -586,8 +630,8 @@
       "Hideous Laughter"
     ],
     "summary": {
-      "fr": "Contrôle bleu-noir à base de contresorts, de pioche avec Jushi Apprentice et Azami, puis Meloku comme finisseur.",
-      "en": "Blue-black control built on counters, card draw from Jushi Apprentice and Azami, with Meloku as the finisher."
+      "fr": "Contrôle bleu, mono-bleu ou à touche noire, fondé sur les contresorts et la pioche de Jushi Apprentice, avec Meloku comme finisseur.",
+      "en": "Blue control, mono-blue or splashing black, built on counterspells and card draw from Jushi Apprentice, with Meloku as the finisher."
     },
     "why": {
       "fr": [
@@ -601,7 +645,11 @@
         "Hinder and Rewind countered key spells"
       ]
     },
-    "rep": 253158
+    "rep": 253158,
+    "include": [
+      "x-states-2005-edmonton-canada-1-roy"
+    ],
+    "note": "Mono-blue Jushi/Threads of Disloyalty State Championship winners merged; the Counterbalance 'U/B Control' lists are moved to Counter-Top."
   },
   {
     "name": "Ninjas",
@@ -641,7 +689,8 @@
     "slug": "bug-ninjas",
     "archetype": "tempo",
     "titles": [
-      "Bug Critical"
+      "Bug Critical",
+      "B/G/U Aggro"
     ],
     "cover": "Hypnotic Specter",
     "keyCards": [
@@ -668,14 +717,19 @@
       ]
     },
     "note": "mtgtop8 title 'Bug Critical'; renamed descriptively.",
-    "rep": 253160
+    "rep": 253160,
+    "include": [
+      "x-states-2005-seattle-wa-1-solberg"
+    ]
   },
   {
     "name": "Rakdos Burn",
     "slug": "rakdos-burn",
     "archetype": "aggro",
     "titles": [
-      "Sand Burn"
+      "Sand Burn",
+      "R/B Control",
+      "Rakdos Control"
     ],
     "cover": "Rakdos Guildmage",
     "keyCards": [
@@ -735,14 +789,19 @@
         "Demonfire served as both removal and finisher"
       ]
     },
-    "rep": 601494
+    "rep": 601494,
+    "include": [
+      "x-nationals-uruguay-2006-4-righetti"
+    ]
   },
   {
     "name": "Junk",
     "slug": "junk",
     "archetype": "midrange",
     "titles": [
-      "Junk"
+      "Junk",
+      "G/B/W Control",
+      "G/B/w Beats"
     ],
     "cover": "Okiba-Gang Shinobi",
     "keyCards": [
@@ -775,7 +834,8 @@
     "slug": "dimir-snow-control",
     "archetype": "control",
     "titles": [
-      "Dimir Snow Control"
+      "Dimir Snow Control",
+      "Snow Bob"
     ],
     "cover": "Phyrexian Ironfoot",
     "keyCards": [
@@ -801,6 +861,252 @@
         "Phyrexian Ironfoot walled aggro decks"
       ]
     },
-    "rep": 601495
+    "rep": 601495,
+    "include": [
+      "x-nationals-austria-2006-2-eigner"
+    ]
+  },
+  {
+    "name": "Golgari Midrange",
+    "slug": "golgari-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "The Rock",
+      "B/G Control",
+      "Rats",
+      "Mono Black Control"
+    ],
+    "rep": "x-states-2005-halifax-canada-1-mollenkoph",
+    "cover": "Hypnotic Specter",
+    "keyCards": [
+      "Hypnotic Specter",
+      "Putrefy",
+      "Kokusho, the Evening Star",
+      "Phyrexian Arena",
+      "Birds of Paradise"
+    ],
+    "summary": {
+      "fr": "Milieu de partie vert-noir qui attaque la main adverse avec Hypnotic Specter, élimine avec Putrefy et prend l'avantage avec Phyrexian Arena et Kokusho.",
+      "en": "Green-black midrange that attacks the opponent's hand with Hypnotic Specter, removes threats with Putrefy and pulls ahead with Phyrexian Arena and Kokusho."
+    },
+    "why": {
+      "fr": [
+        "Birds of Paradise accélérait Hypnotic Specter",
+        "Putrefy et Rend Flesh répondaient à presque tout",
+        "Kokusho drainait des points de vie en mourant"
+      ],
+      "en": [
+        "Birds of Paradise sped out Hypnotic Specter",
+        "Putrefy and Rend Flesh answered almost anything",
+        "Kokusho drained life when it died"
+      ]
+    },
+    "note": "State Championship B/G lists (The Rock, B/G Control, Rats, a Golgari-splash Mono Black Control) grouped; the BUG Seattle list is moved to BUG Ninjas."
+  },
+  {
+    "name": "Firemane Control",
+    "slug": "firemane-control",
+    "archetype": "control",
+    "titles": [
+      "R/W Control",
+      "Firemane Angel Control",
+      "R/W Wildfire",
+      "U/W/R Control"
+    ],
+    "rep": "x-regionals-2006-pomona-ca-1-stein",
+    "cover": "Firemane Angel",
+    "keyCards": [
+      "Firemane Angel",
+      "Wrath of God",
+      "Lightning Helix",
+      "Compulsive Research",
+      "Faith's Fetters"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge-blanc, parfois bleu, qui gagne du temps avec Wrath of God et Lightning Helix, puis gagne avec Firemane Angel qu'il récupère du cimetière.",
+      "en": "Red-white control, sometimes adding blue, that buys time with Wrath of God and Lightning Helix, then wins with a Firemane Angel it returns from the graveyard."
+    },
+    "why": {
+      "fr": [
+        "Firemane Angel revenait du cimetière en fin de partie",
+        "Lightning Helix et Wrath of God tenaient les decks agressifs",
+        "Faith's Fetters répondait aux permanents de tout type"
+      ],
+      "en": [
+        "Firemane Angel came back from the graveyard late in the game",
+        "Lightning Helix and Wrath of God held off aggro",
+        "Faith's Fetters answered any kind of permanent"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Control",
+    "slug": "orzhov-control",
+    "archetype": "control",
+    "titles": [
+      "Orzhov Control",
+      "B/W Control"
+    ],
+    "rep": "x-regionals-2006-moncton-canada-1-lindsay",
+    "cover": "Angel of Despair",
+    "keyCards": [
+      "Angel of Despair",
+      "Wrath of God",
+      "Phyrexian Arena",
+      "Faith's Fetters",
+      "Mortify"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-noir qui nettoie la table avec Wrath of God, pioche avec Phyrexian Arena et gagne avec Angel of Despair et Kokusho.",
+      "en": "White-black control that sweeps the board with Wrath of God, draws with Phyrexian Arena and wins with Angel of Despair and Kokusho."
+    },
+    "why": {
+      "fr": [
+        "Mortify et Faith's Fetters répondaient à tout type de permanent",
+        "Phyrexian Arena assurait l'avantage de cartes",
+        "Angel of Despair détruisait une menace en arrivant"
+      ],
+      "en": [
+        "Mortify and Faith's Fetters answered any type of permanent",
+        "Phyrexian Arena supplied card advantage",
+        "Angel of Despair destroyed a threat on arrival"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "Blue/White Control, splash Green"
+    ],
+    "rep": "x-nationals-australia-2006-3-piechnick",
+    "cover": "Wrath of God",
+    "keyCards": [
+      "Wrath of God",
+      "Condemn",
+      "Faith's Fetters",
+      "Hinder",
+      "Genju of the Fields"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc à contresorts et Wrath of God, avec Vitu-Ghazi pour la touche verte et Genju of the Fields comme menace.",
+      "en": "Blue-white counterspell control with Wrath of God, splashing green through Vitu-Ghazi and winning with Genju of the Fields."
+    },
+    "why": {
+      "fr": [
+        "Hinder, Rewind et Mana Leak contraient les sorts importants",
+        "Condemn et Wrath of God géraient les créatures",
+        "Genju of the Fields revenait après chaque mort"
+      ],
+      "en": [
+        "Hinder, Rewind and Mana Leak countered key spells",
+        "Condemn and Wrath of God handled creatures",
+        "Genju of the Fields came back after each death"
+      ]
+    }
+  },
+  {
+    "name": "GW Control",
+    "slug": "gw-control",
+    "archetype": "control",
+    "titles": [
+      "G/W Control",
+      "G/W/b Control",
+      "Four Color Control",
+      "Four-Color Control",
+      "G/W Beats"
+    ],
+    "rep": "x-states-2005-vt-1-hobday",
+    "cover": "Wrath of God",
+    "keyCards": [
+      "Wrath of God",
+      "Loxodon Hierarch",
+      "Faith's Fetters",
+      "Sakura-Tribe Elder",
+      "Myojin of Cleansing Fire"
+    ],
+    "summary": {
+      "fr": "Contrôle vert-blanc qui accélère avec Sakura-Tribe Elder, nettoie la table avec Wrath of God et stabilise avec Loxodon Hierarch.",
+      "en": "Green-white control that ramps with Sakura-Tribe Elder, sweeps the board with Wrath of God and stabilises with Loxodon Hierarch."
+    },
+    "why": {
+      "fr": [
+        "Wrath of God et Devouring Light gardaient la table vide",
+        "Loxodon Hierarch regagnait des points de vie et sauvait des créatures",
+        "Les versions à plus de couleurs ajoutaient Lightning Helix ou Putrefy"
+      ],
+      "en": [
+        "Wrath of God and Devouring Light kept the board clear",
+        "Loxodon Hierarch gained life and saved creatures",
+        "Versions with more colours added Lightning Helix or Putrefy"
+      ]
+    }
+  },
+  {
+    "name": "Battle of Wits",
+    "slug": "battle-of-wits",
+    "archetype": "combo",
+    "titles": [
+      "Battle of Wits"
+    ],
+    "rep": "x-states-2005-austin-tx-1-saleh",
+    "cover": "Battle of Wits",
+    "keyCards": [
+      "Battle of Wits",
+      "Meloku the Clouded Mirror",
+      "Spectral Searchlight",
+      "Night of Souls' Betrayal",
+      "Ghostly Prison"
+    ],
+    "summary": {
+      "fr": "Contrôle surdimensionné qui cherche à gagner avec Battle of Wits, en survivant grâce à de nombreux effets de contrôle.",
+      "en": "Oversized control deck that aims to win with Battle of Wits, surviving on a wide range of control effects."
+    },
+    "why": {
+      "fr": [
+        "Battle of Wits gagnait la partie à l'entretien",
+        "Diabolic Tutor et Gifts Ungiven trouvaient la condition de victoire",
+        "Ghostly Prison et Night of Souls' Betrayal freinaient les decks agressifs"
+      ],
+      "en": [
+        "Battle of Wits won the game at upkeep",
+        "Diabolic Tutor and Gifts Ungiven found the win condition",
+        "Ghostly Prison and Night of Souls' Betrayal slowed aggro decks"
+      ]
+    }
+  },
+  {
+    "name": "Eminent Domain",
+    "slug": "eminent-domain",
+    "archetype": "control",
+    "titles": [
+      "Eminent Domain"
+    ],
+    "rep": "x-states-2005-wi-1-sullivan",
+    "cover": "Dream Leash",
+    "keyCards": [
+      "Dream Leash",
+      "Annex",
+      "Wildfire",
+      "Icy Manipulator",
+      "Keiga, the Tide Star"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge qui vole les terrains adverses avec Annex et Dream Leash, puis lance Wildfire.",
+      "en": "Blue-black-red control that steals opposing lands with Annex and Dream Leash, then casts Wildfire."
+    },
+    "why": {
+      "fr": [
+        "Annex et Dream Leash prenaient les terrains adverses",
+        "Wildfire détruisait les terrains restants",
+        "Keiga et Kokusho servaient de finisseurs"
+      ],
+      "en": [
+        "Annex and Dream Leash took opposing lands",
+        "Wildfire destroyed the remaining lands",
+        "Keiga and Kokusho served as finishers"
+      ]
+    }
   }
 ]
