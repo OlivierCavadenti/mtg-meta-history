@@ -29,14 +29,18 @@
         "Bitterblossom set up a flying clock from the early turns",
         "Agony Warp and Thoughtseize added cheap interaction"
       ]
-    }
+    },
+    "include": [
+      "x-states-2008-newark-de-1-gildea"
+    ]
   },
   {
     "name": "Cascade Swans",
     "slug": "cascade-swans",
     "archetype": "combo",
     "titles": [
-      "Cascade Swans"
+      "Cascade Swans",
+      "Swan Combo"
     ],
     "cover": "Seismic Assault",
     "keyCards": [
@@ -69,7 +73,14 @@
     "titles": [
       "Kithkins",
       "Zealous Kithkins",
-      "WR Kithkins"
+      "WR Kithkins",
+      "White Weenie",
+      "Kithkin",
+      "R/W Kithkin",
+      "B/W Kithkin",
+      "G/W Aggro",
+      "Vengeant Weenie",
+      "Kithkin Backlash"
     ],
     "rep": 148107,
     "cover": "Cloudgoat Ranger",
@@ -93,7 +104,11 @@
         "Spectral Procession and Cloudgoat Ranger put several bodies into play",
         "Anthem effects made the tokens a real threat"
       ]
-    }
+    },
+    "include": [
+      "x-regionals-2009-montreal-canada-1-lacroix"
+    ],
+    "note": "SCG 'White Weenie' / 'Vengeant Weenie' / 'Kithkin Backlash' (Painter's Servant) lists merged; the Portland ME States 2008 list is a Boros exalted build filed as 'Vengeant Weenie'."
   },
   {
     "name": "BW Tokens",
@@ -102,7 +117,8 @@
     "titles": [
       "BW Tokens",
       "BW Persist",
-      "WB Tokens"
+      "WB Tokens",
+      "B/W Tokens"
     ],
     "cover": "Spectral Procession",
     "keyCards": [
@@ -135,7 +151,9 @@
     "titles": [
       "Blightning",
       "Boddy Red",
-      "RB Sauce"
+      "RB Sauce",
+      "R/B Aggro",
+      "Blightning Aggro"
     ],
     "cover": "Blightning",
     "keyCards": [
@@ -168,7 +186,9 @@
     "archetype": "midrange",
     "titles": [
       "Jund Aggro",
-      "Jund Blood"
+      "Jund Blood",
+      "Jund Elves",
+      "G/R Aggro"
     ],
     "cover": "Bloodbraid Elf",
     "keyCards": [
@@ -200,7 +220,8 @@
     "slug": "five-color-blood",
     "archetype": "midrange",
     "titles": [
-      "5C Blood"
+      "5C Blood",
+      "5-Color Bloodbraid"
     ],
     "rep": 146957,
     "cover": "Sygg, River Cutthroat",
@@ -235,7 +256,9 @@
     "slug": "doran",
     "archetype": "midrange",
     "titles": [
-      "Doran"
+      "Doran",
+      "Doran Rock",
+      "Doran Aggro"
     ],
     "cover": "Doran, the Siege Tower",
     "keyCards": [
@@ -266,7 +289,9 @@
     "slug": "dark-exalted",
     "archetype": "midrange",
     "titles": [
-      "Dark Exalted"
+      "Dark Exalted",
+      "Dark Bant",
+      "Domain Aggro"
     ],
     "cover": "Rafiq of the Many",
     "keyCards": [
@@ -299,7 +324,8 @@
     "titles": [
       "WR Vengeant",
       "Toutounaze",
-      "Boros Reveillark"
+      "Boros Reveillark",
+      "Boat Brew"
     ],
     "rep": 138500,
     "cover": "Ajani Vengeant",
@@ -323,7 +349,10 @@
         "Ranger of Eos and Reveillark generated steady card advantage",
         "Ajani Vengeant controlled the board and the opponent's mana"
       ]
-    }
+    },
+    "include": [
+      "x-starcitygames-com-standard-open-2008-philadelphia-pa-8-lebedowicz"
+    ]
   },
   {
     "name": "Five-Color Control",
@@ -334,7 +363,9 @@
       "5c Control",
       "5CC",
       "Cruel Control",
-      "Quick' n Toast"
+      "Quick' n Toast",
+      "5-Color Control",
+      "5C Colfenor's Plans"
     ],
     "rep": 138503,
     "cover": "Cruel Ultimatum",
@@ -359,7 +390,10 @@
         "Cruel Ultimatum gave a decisive edge once it resolved"
       ]
     },
-    "note": "Jamie Parke's Worlds 2008 runner-up list (mtgtop8 title \"Quick' n Toast\") merged: mtg.wiki files it as Five-Color Control (Cruel Ultimatum, Esper Charm)."
+    "note": "Jamie Parke's Worlds 2008 runner-up list (mtgtop8 title \"Quick' n Toast\") merged: mtg.wiki files it as Five-Color Control (Cruel Ultimatum, Esper Charm).",
+    "include": [
+      "x-nationals-russia-2009-6-zrelov"
+    ]
   },
   {
     "name": "BG Elves",
@@ -368,7 +402,8 @@
     "titles": [
       "Elf Rock",
       "Elves Aggro",
-      "GB Elves"
+      "GB Elves",
+      "G/B Elves"
     ],
     "rep": 151389,
     "cover": "Wren's Run Vanquisher",
@@ -399,7 +434,8 @@
     "slug": "time-sieve",
     "archetype": "combo",
     "titles": [
-      "Time Sieve"
+      "Time Sieve",
+      "Time Sieve Combo"
     ],
     "cover": "Time Sieve",
     "keyCards": [
@@ -423,14 +459,15 @@
         "Pollen Lullaby and Howling Mine stretched the game out"
       ]
     },
-    "rep": 151395
+    "rep": "x-nationals-finland-2009-1-airaksinen"
   },
   {
     "name": "Red Deck Wins",
     "slug": "red-deck-wins",
     "archetype": "aggro",
     "titles": [
-      "Red Deck Wins"
+      "Red Deck Wins",
+      "G/R Elf Aggro"
     ],
     "cover": "Ball Lightning",
     "keyCards": [
@@ -461,7 +498,12 @@
     "slug": "uw-reveillark",
     "archetype": "control",
     "titles": [
-      "UW Llark"
+      "UW Llark",
+      "U/W Reveillark",
+      "Reveillark",
+      "Esperlark",
+      "U/W Baneslayer",
+      "Bloom Tender Control"
     ],
     "cover": "Reveillark",
     "keyCards": [
@@ -492,7 +534,12 @@
     "slug": "gw-overrun",
     "archetype": "aggro",
     "titles": [
-      "GW Overrun"
+      "GW Overrun",
+      "G/W Overrun",
+      "Selesnya Overrun",
+      "G/W Tokens",
+      "G/W Planeswalker Control",
+      "G/W Little Kid"
     ],
     "cover": "Overrun",
     "keyCards": [
@@ -523,7 +570,8 @@
     "slug": "cascade-control",
     "archetype": "control",
     "titles": [
-      "Cascade Control"
+      "Cascade Control",
+      "5-Color Cascade"
     ],
     "cover": "Enlisted Wurm",
     "keyCards": [
@@ -548,5 +596,347 @@
       ]
     },
     "rep": 148113
+  },
+  {
+    "name": "Elf Combo",
+    "slug": "elf-combo",
+    "archetype": "combo",
+    "titles": [
+      "Elf Combo"
+    ],
+    "rep": "x-nationals-australia-2009-1-mackintosh",
+    "cover": "Regal Force",
+    "keyCards": [
+      "Regal Force",
+      "Heritage Druid",
+      "Nettle Sentinel",
+      "Elvish Archdruid",
+      "Primal Command"
+    ],
+    "summary": {
+      "fr": "Combo vert d'Elfes qui produit un mana considérable avec Heritage Druid et Nettle Sentinel, puis pioche sa bibliothèque avec Regal Force.",
+      "en": "Green Elf combo that makes large amounts of mana with Heritage Druid and Nettle Sentinel, then draws its deck with Regal Force."
+    },
+    "why": {
+      "fr": [
+        "Heritage Druid engageait les Elfes pour produire du mana",
+        "Nettle Sentinel se dégageait à chaque sort vert",
+        "Regal Force et Primal Command remplissaient la main et la table"
+      ],
+      "en": [
+        "Heritage Druid tapped Elves for mana",
+        "Nettle Sentinel untapped with every green spell",
+        "Regal Force and Primal Command refilled hand and board"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk"
+    ],
+    "rep": "x-nationals-switzerland-2009-1-lindgren",
+    "cover": "Merrow Reejerey",
+    "keyCards": [
+      "Merrow Reejerey",
+      "Silvergill Adept",
+      "Stonybrook Banneret",
+      "Wake Thrasher",
+      "Cryptic Command"
+    ],
+    "summary": {
+      "fr": "Aggro-tempo bleu d'Ondins de Lorwyn qui se renforcent mutuellement, avec Cryptic Command et Sage's Dousing pour protéger l'attaque.",
+      "en": "Blue aggro-tempo of Lorwyn Merfolk that pump each other, with Cryptic Command and Sage's Dousing to protect the attack."
+    },
+    "why": {
+      "fr": [
+        "Merrow Reejerey et Merfolk Sovereign renforçaient la tribu",
+        "Silvergill Adept remplaçait sa carte",
+        "Sage's Dousing et Cryptic Command contraient à bas prix"
+      ],
+      "en": [
+        "Merrow Reejerey and Merfolk Sovereign pumped the tribe",
+        "Silvergill Adept replaced itself",
+        "Sage's Dousing and Cryptic Command countered cheaply"
+      ]
+    }
+  },
+  {
+    "name": "Jund Ramp",
+    "slug": "jund-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Jund Ramp"
+    ],
+    "rep": "x-regionals-2009-minneapolis-mn-1-hink",
+    "cover": "Garruk Wildspeaker",
+    "keyCards": [
+      "Garruk Wildspeaker",
+      "Rampant Growth",
+      "Fertile Ground",
+      "Broodmate Dragon",
+      "Maelstrom Pulse"
+    ],
+    "summary": {
+      "fr": "Rampe vert-noir-rouge qui accélère avec Rampant Growth, Fertile Ground et Garruk Wildspeaker vers Broodmate Dragon et Violent Ultimatum.",
+      "en": "Green-black-red ramp that accelerates with Rampant Growth, Fertile Ground and Garruk Wildspeaker into Broodmate Dragon and Violent Ultimatum."
+    },
+    "why": {
+      "fr": [
+        "Rampant Growth et Fertile Ground donnaient de l'avance en mana",
+        "Kitchen Finks et Volcanic Fallout ralentissaient l'aggro",
+        "Maelstrom Pulse répondait à tout permanent"
+      ],
+      "en": [
+        "Rampant Growth and Fertile Ground gave a mana lead",
+        "Kitchen Finks and Volcanic Fallout slowed aggro",
+        "Maelstrom Pulse answered any permanent"
+      ]
+    }
+  },
+  {
+    "name": "Naya Planeswalkers",
+    "slug": "naya-planeswalkers",
+    "archetype": "control",
+    "titles": [
+      "Planeswalker Control",
+      "Naya Mana Ramp"
+    ],
+    "rep": "x-states-2008-columbia-mo-1-panagiotaras",
+    "cover": "Ajani Vengeant",
+    "keyCards": [
+      "Ajani Vengeant",
+      "Elspeth, Knight-Errant",
+      "Garruk Wildspeaker",
+      "Chandra Nalaar",
+      "Wrath of God"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge-vert-blanc qui nettoie la table avec Wrath of God et gagne avec les planeswalkers de Lorwyn et d'Alara.",
+      "en": "Red-green-white control that sweeps with Wrath of God and wins with the Lorwyn and Alara planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Wrath of God et Oblivion Ring protégeaient les planeswalkers",
+        "Ajani Vengeant et Chandra Nalaar servaient de retrait répété",
+        "Elspeth et Garruk produisaient des créatures à chaque tour"
+      ],
+      "en": [
+        "Wrath of God and Oblivion Ring protected the planeswalkers",
+        "Ajani Vengeant and Chandra Nalaar acted as repeatable removal",
+        "Elspeth and Garruk made creatures every turn"
+      ]
+    }
+  },
+  {
+    "name": "Boros Control",
+    "slug": "boros-control",
+    "archetype": "control",
+    "titles": [
+      "The Spanish Inquisition",
+      "Naya Control"
+    ],
+    "rep": "x-nationals-us-2009-5-hendrickson",
+    "cover": "Goblin Assault",
+    "keyCards": [
+      "Goblin Assault",
+      "Ajani Vengeant",
+      "Hallowed Burial",
+      "Volcanic Fallout",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge-blanc des Nationaux d'été qui nettoie la table avec Volcanic Fallout et Hallowed Burial, puis gagne avec Goblin Assault et les planeswalkers.",
+      "en": "Red-white control from the summer Nationals that sweeps with Volcanic Fallout and Hallowed Burial, then wins with Goblin Assault and planeswalkers."
+    },
+    "why": {
+      "fr": [
+        "Volcanic Fallout et Hallowed Burial nettoyaient la table",
+        "Goblin Assault créait un Gobelin à chaque tour",
+        "Ajani Vengeant et Lightning Bolt gardaient le contrôle"
+      ],
+      "en": [
+        "Volcanic Fallout and Hallowed Burial cleared the board",
+        "Goblin Assault made a Goblin every turn",
+        "Ajani Vengeant and Lightning Bolt kept control"
+      ]
+    },
+    "include": [
+      "x-nationals-netherlands-2009-3-lamoen"
+    ]
+  },
+  {
+    "name": "Mannequin",
+    "slug": "mannequin",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Mannequin"
+    ],
+    "rep": "x-nationals-us-2009-4-nelson",
+    "cover": "Makeshift Mannequin",
+    "keyCards": [
+      "Makeshift Mannequin",
+      "Mulldrifter",
+      "Shriekmaw",
+      "Bloodbraid Elf",
+      "Kitchen Finks"
+    ],
+    "summary": {
+      "fr": "Milieu de partie qui réutilise les créatures à effet d'arrivée, Mulldrifter, Shriekmaw et Kitchen Finks, avec Makeshift Mannequin.",
+      "en": "Midrange deck that reuses enters-the-battlefield creatures, Mulldrifter, Shriekmaw and Kitchen Finks, with Makeshift Mannequin."
+    },
+    "why": {
+      "fr": [
+        "Makeshift Mannequin ramenait une créature à flash depuis le cimetière",
+        "Mulldrifter et Shriekmaw donnaient pioche et retrait",
+        "Volcanic Fallout ralentissait les decks agressifs"
+      ],
+      "en": [
+        "Makeshift Mannequin returned a creature at instant speed",
+        "Mulldrifter and Shriekmaw supplied cards and removal",
+        "Volcanic Fallout slowed aggressive decks"
+      ]
+    },
+    "include": [
+      "x-starcitygames-com-standard-open-2009-charlotte-nc-4-justice",
+      "x-nationals-australia-2009-5-nicastri"
+    ],
+    "note": "Jund, Grixis and black-white Makeshift Mannequin lists grouped."
+  },
+  {
+    "name": "Naya Aggro",
+    "slug": "naya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Naya Aggro",
+      "Bloom Razer",
+      "Countryside Dreamcrusher"
+    ],
+    "rep": "x-states-2008-billings-mt-1-huffman",
+    "cover": "Woolly Thoctar",
+    "keyCards": [
+      "Woolly Thoctar",
+      "Realm Razer",
+      "Bloom Tender",
+      "Ajani Vengeant",
+      "Figure of Destiny"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-vert-blanc d'Alara aux grosses créatures bon marché, Woolly Thoctar et Figure of Destiny, avec Ajani Vengeant en soutien.",
+      "en": "Red-green-white Alara aggro of big cheap creatures, Woolly Thoctar and Figure of Destiny, backed by Ajani Vengeant."
+    },
+    "why": {
+      "fr": [
+        "Woolly Thoctar dépassait les bloqueurs au troisième tour",
+        "Bloom Tender et Birds of Paradise accéléraient le mana",
+        "Ajani Vengeant retirait un bloqueur ou un terrain"
+      ],
+      "en": [
+        "Woolly Thoctar outsized blockers on turn three",
+        "Bloom Tender and Birds of Paradise accelerated the mana",
+        "Ajani Vengeant removed a blocker or a land"
+      ]
+    }
+  },
+  {
+    "name": "Bant Aggro",
+    "slug": "bant-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Bant Aggro"
+    ],
+    "rep": "x-regionals-2009-indianapolis-in-1-dobbins",
+    "cover": "Rafiq of the Many",
+    "keyCards": [
+      "Rafiq of the Many",
+      "Rhox War Monk",
+      "Jhessian Infiltrator",
+      "Shorecrasher Mimic",
+      "Bant Charm"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc-bleu d'exaltation qui attaque avec une seule créature renforcée par Rafiq of the Many et Finest Hour.",
+      "en": "Green-white-blue exalted aggro that attacks with a single creature pumped by Rafiq of the Many and Finest Hour."
+    },
+    "why": {
+      "fr": [
+        "Les créatures exaltées renforçaient l'attaquant seul",
+        "Noble Hierarch accélérait et ajoutait l'exaltation",
+        "Bant Charm servait de retrait ou de contresort"
+      ],
+      "en": [
+        "Exalted creatures pumped the lone attacker",
+        "Noble Hierarch ramped and added exalted",
+        "Bant Charm doubled as removal or a counter"
+      ]
+    }
+  },
+  {
+    "name": "Elementals",
+    "slug": "elementals",
+    "archetype": "midrange",
+    "titles": [
+      "Elementals"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2009-charlotte-nc-2-greenberg",
+    "cover": "Horde of Notions",
+    "keyCards": [
+      "Horde of Notions",
+      "Smokebraider",
+      "Flamekin Harbinger",
+      "Incandescent Soulstoke",
+      "Reveillark"
+    ],
+    "summary": {
+      "fr": "Milieu de partie cinq couleurs d'Elementals, accéléré par Smokebraider et Bloom Tender, qui réutilise ses créatures avec Horde of Notions et Reveillark.",
+      "en": "Five-colour Elemental midrange, accelerated by Smokebraider and Bloom Tender, that reuses its creatures with Horde of Notions and Reveillark."
+    },
+    "why": {
+      "fr": [
+        "Smokebraider payait les sorts d'Elementals",
+        "Flamekin Harbinger cherchait la pièce manquante",
+        "Horde of Notions rejouait les Elementals du cimetière"
+      ],
+      "en": [
+        "Smokebraider paid for Elemental spells",
+        "Flamekin Harbinger found the missing piece",
+        "Horde of Notions replayed Elementals from the graveyard"
+      ]
+    }
+  },
+  {
+    "name": "Sanity Grinding",
+    "slug": "sanity-grinding",
+    "archetype": "control",
+    "titles": [
+      "Sanity Grinding"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2009-roanoke-va-05-24-5-walace",
+    "cover": "Sanity Grinding",
+    "keyCards": [
+      "Sanity Grinding",
+      "Howling Mine",
+      "Jace Beleren",
+      "Twincast",
+      "Cryptic Command"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-bleu qui meule la bibliothèque adverse avec Sanity Grinding, souvent copié par Twincast, en contrant avec Cryptic Command.",
+      "en": "Mono-blue control that mills the opponent's library with Sanity Grinding, often copied with Twincast, while countering with Cryptic Command."
+    },
+    "why": {
+      "fr": [
+        "Un deck rempli de symboles de mana bleu rendait Sanity Grinding massif",
+        "Howling Mine et Jace Beleren accéléraient le meulage",
+        "Plumeveil et Evacuation gagnaient du temps"
+      ],
+      "en": [
+        "A deck full of blue mana symbols made Sanity Grinding huge",
+        "Howling Mine and Jace Beleren sped up the milling",
+        "Plumeveil and Evacuation bought time"
+      ]
+    }
   }
 ]

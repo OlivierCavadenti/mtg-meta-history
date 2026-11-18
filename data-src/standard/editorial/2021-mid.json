@@ -31,8 +31,12 @@
         "Alrund's Epiphany and Divide by Zero were banned in January"
       ]
     },
-    "note": "Title covers Izzet Dragons (Goldspan, Smoldering Egg) early, Epiphany/Hullbreaker builds, and a few post-ban Izzet Fable lists. 'Grixis Control' rep is the same Epiphany list; merged. Ban: 2022-01-25 announcement.",
-    "rep": 456286
+    "note": "Title covers Izzet Dragons (Goldspan, Smoldering Egg) early, Epiphany/Hullbreaker builds, and a few post-ban Izzet Fable lists. 'Grixis Control' rep is the same Epiphany list; merged. Ban: 2022-01-25 announcement. Two summer 2022 'Grixis Control' Challenge lists (Wandering Mind / Fable, no Epiphany) excluded.",
+    "rep": 456286,
+    "exclude": [
+      "x-2022-06-26-mtgo-standard-challenge-1-graciasportanto",
+      "x-2022-07-03-mtgo-standard-challenge-5-8-graciasportanto"
+    ]
   },
   {
     "name": "Mono-White Aggro",
@@ -73,7 +77,8 @@
     "archetype": "aggro",
     "titles": [
       "Mono Green Aggro",
-      "Simic Aggro"
+      "Simic Aggro",
+      "Mono-Green Aggro"
     ],
     "cover": "Werewolf Pack Leader",
     "keyCards": [
@@ -107,7 +112,8 @@
     "slug": "jund-midrange",
     "archetype": "midrange",
     "titles": [
-      "Jund"
+      "Jund",
+      "Jund Midrange"
     ],
     "rep": 473518,
     "cover": "Ziatora, the Incinerator",
@@ -143,7 +149,8 @@
     "titles": [
       "Orzhov Control",
       "Orzhov Aggro",
-      "Orzhov Midrange"
+      "Orzhov Midrange",
+      "WB"
     ],
     "cover": "Lolth, Spider Queen",
     "keyCards": [
@@ -214,7 +221,8 @@
     "archetype": "midrange",
     "titles": [
       "Esper Aggro",
-      "Esper Raffine"
+      "Esper Raffine",
+      "Esper Midrange"
     ],
     "rep": 473519,
     "cover": "Raffine, Scheming Seer",
@@ -416,7 +424,8 @@
     "slug": "rakdos-midrange",
     "archetype": "midrange",
     "titles": [
-      "Rakdos Aggro"
+      "Rakdos Aggro",
+      "Rakdos Artifacts"
     ],
     "cover": "Oni-Cult Anvil",
     "keyCards": [
@@ -442,15 +451,16 @@
         "Fable of the Mirror-Breaker added card filtering and an extra threat"
       ]
     },
-    "note": "Title also includes DMU-week Rakdos Sheoldred lists (early September); rep is the Anvil version.",
-    "rep": 468148
+    "note": "Title also includes DMU-week Rakdos Sheoldred lists (early September); rep is the Anvil version. Added 'Rakdos Artifacts' (mtggoldfish name for the same Oni-Cult Anvil deck on MTGO, summer 2022); rep is a Standard Challenge winner (official MTGO list).",
+    "rep": "x-2022-07-31-mtgo-standard-challenge-1-levunga21"
   },
   {
     "name": "Grixis Midrange",
     "slug": "grixis-midrange",
     "archetype": "midrange",
     "titles": [
-      "Grixis Aggro"
+      "Grixis Aggro",
+      "Grixis Vampires"
     ],
     "cover": "Corpse Appraiser",
     "keyCards": [
@@ -476,7 +486,8 @@
         "Finished in the top four of the New Capenna Championship"
       ]
     },
-    "rep": 473517
+    "rep": 473517,
+    "note": "Added 'Grixis Vampires' (mtggoldfish name for the Corpse Appraiser / Evelyn / Fable deck in MTGO Challenges, June-July 2022)."
   },
   {
     "name": "Esper Control",
@@ -542,7 +553,48 @@
         "Won the New Capenna Championship"
       ]
     },
-    "rep": 473521
+    "rep": 473521,
+    "include": [
+      "x-2022-06-05-mtgo-standard-challenge-3-4-jaberwocki",
+      "x-2022-06-05-mtgo-standard-challenge-3-4-sneakymisato",
+      "x-2022-06-12-mtgo-standard-challenge-1-oliver-hart",
+      "x-2022-06-12-mtgo-standard-challenge-5-8-folero",
+      "x-2022-06-12-mtgo-standard-challenge-5-8-triosk",
+      "x-2022-06-19-mtgo-standard-challenge-2-lennny",
+      "x-2022-06-19-mtgo-standard-challenge-3-4-azatoyellow",
+      "x-2022-06-19-mtgo-standard-challenge-5-8-flesheatingnome",
+      "x-2022-06-19-mtgo-standard-challenge-5-8-sorento04",
+      "x-2022-06-19-mtgo-standard-challenge-5-8-soulstrong",
+      "x-2022-06-26-mtgo-standard-challenge-3-4-folero",
+      "x-2022-07-03-mtgo-standard-challenge-2-lennny",
+      "x-2022-07-03-mtgo-standard-challenge-3-4-soulstrong",
+      "x-2022-07-10-mtgo-standard-challenge-1-bolov0",
+      "x-2022-07-10-mtgo-standard-challenge-3-4-batutinha",
+      "x-2022-07-10-mtgo-standard-challenge-5-8-jaberwocki",
+      "x-2022-07-10-mtgo-standard-challenge-5-8-unagieel",
+      "x-2022-07-17-mtgo-standard-challenge-1-fingers1991",
+      "x-2022-07-17-mtgo-standard-challenge-2-unagieel",
+      "x-2022-07-17-mtgo-standard-challenge-3-4-jaberwocki",
+      "x-2022-07-17-mtgo-standard-challenge-5-8-silvergilllord",
+      "x-2022-07-17-mtgo-standard-challenge-5-8-bernardocssa",
+      "x-2022-07-24-mtgo-standard-challenge-1-o-danielakos",
+      "x-2022-07-24-mtgo-standard-challenge-3-4-jaberwocki",
+      "x-2022-07-24-mtgo-standard-challenge-5-8-folero",
+      "x-2022-07-24-mtgo-standard-challenge-5-8-kasa",
+      "x-2022-07-24-mtgo-standard-challenge-5-8-xfile",
+      "x-2022-07-31-mtgo-standard-challenge-2-lennny",
+      "x-2022-07-31-mtgo-standard-challenge-3-4-venom1",
+      "x-2022-08-07-mtgo-standard-challenge-3-4-lennny",
+      "x-2022-08-07-mtgo-standard-challenge-3-4-msskinbolic",
+      "x-2022-08-07-mtgo-standard-challenge-5-8-ignotus97",
+      "x-2022-08-07-mtgo-standard-challenge-5-8-o-danielakos",
+      "x-2022-08-14-mtgo-standard-challenge-5-8-demian77",
+      "x-2022-08-21-mtgo-standard-challenge-1-bradyoo",
+      "x-2022-08-21-mtgo-standard-challenge-3-4-batutinha",
+      "x-2022-08-21-mtgo-standard-challenge-5-8-lennny",
+      "x-2022-08-28-mtgo-standard-challenge-3-4-lennny"
+    ],
+    "note": "Summer 2022 MTGO Challenge lists that mtggoldfish files as 'Jeskai Control' but run Hinata, Magma Opus, Goldspan and Fable are moved here with include."
   },
   {
     "name": "Boros Aggro",

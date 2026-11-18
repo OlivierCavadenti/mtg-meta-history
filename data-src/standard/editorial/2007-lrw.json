@@ -6,7 +6,8 @@
     "titles": [
       "Reveillark",
       "UW Blink Reveillark",
-      "4c Reveillark Control"
+      "4c Reveillark Control",
+      "Reveillark Blink"
     ],
     "rep": 603828,
     "cover": "Reveillark",
@@ -39,7 +40,9 @@
     "archetype": "tempo",
     "titles": [
       "Faeries",
-      "UB Faeries"
+      "UB Faeries",
+      "U/B Control",
+      "U/B Faeries"
     ],
     "cover": "Bitterblossom",
     "keyCards": [
@@ -107,7 +110,8 @@
     "titles": [
       "Quick 'n Toast",
       "Quick' n Toast",
-      "Ramp-Toast"
+      "Ramp-Toast",
+      "Quick N' Toast"
     ],
     "cover": "Mulldrifter",
     "keyCards": [
@@ -143,7 +147,8 @@
       "Elves",
       "B/G Elves",
       "Golgari Elves",
-      "BG Elves"
+      "BG Elves",
+      "G/B Elves"
     ],
     "rep": 119972,
     "cover": "Imperious Perfect",
@@ -167,14 +172,20 @@
         "Wren's Run Vanquisher and Imperious Perfect applied pressure from the early turns",
         "Profane Command doubled as removal, recursion and finisher"
       ]
-    }
+    },
+    "include": [
+      "x-regionals-2008-philadelphia-pa-1-groski"
+    ]
   },
   {
     "name": "UB Mannequin",
     "slug": "ub-mannequin",
     "archetype": "control",
     "titles": [
-      "Mannequin"
+      "Mannequin",
+      "Makeshift Command",
+      "U/B Mannequin Control",
+      "U/B/w Blink"
     ],
     "cover": "Makeshift Mannequin",
     "keyCards": [
@@ -205,7 +216,8 @@
     "slug": "bg-rock",
     "archetype": "midrange",
     "titles": [
-      "Rock"
+      "Rock",
+      "The Rock"
     ],
     "cover": "Tarmogoyf",
     "keyCards": [
@@ -238,7 +250,8 @@
     "titles": [
       "Seismic Swans",
       "Cigno",
-      "Zur Swans"
+      "Zur Swans",
+      "Seismic Swan"
     ],
     "cover": "Swans of Bryn Argoll",
     "keyCards": [
@@ -262,7 +275,7 @@
         "Beseech the Queen and Telling Time found the missing pieces"
       ]
     },
-    "rep": 603836
+    "rep": "x-nationals-australia-2008-1-nicastri"
   },
   {
     "name": "UR Swans Control",
@@ -301,7 +314,8 @@
     "archetype": "aggro",
     "titles": [
       "Torrent",
-      "BR Tokens"
+      "BR Tokens",
+      "Furystoked Tokens"
     ],
     "rep": 124447,
     "cover": "Torrent of Souls",
@@ -365,7 +379,8 @@
     "titles": [
       "Gassy Knoll",
       "Gassy Knoll (Pyromancer's Swath)",
-      "Red Storm"
+      "Red Storm",
+      "Pyromancer's Swath Combo"
     ],
     "cover": "Pyromancer's Swath",
     "keyCards": [
@@ -430,7 +445,9 @@
     "titles": [
       "UW Pickles",
       "MonoU Pickles",
-      "Pickles"
+      "Pickles",
+      "Mono Blue Control",
+      "U/W Blink"
     ],
     "cover": "Brine Elemental",
     "keyCards": [
@@ -454,7 +471,12 @@
         "Counterspells and Ancestral Vision protected the setup"
       ]
     },
-    "rep": 106455
+    "rep": 106455,
+    "include": [
+      "x-states-2007-madison-wi-1-jones",
+      "x-states-2007-wichita-ks-1-petterson"
+    ],
+    "note": "Mono-blue and UG Brine Elemental / Vesuvan Shapeshifter lists from States 2007 (filed by SCG as 'Mono Blue Control', 'U/W Blink', 'U/G Garruk Goyf') merged."
   },
   {
     "name": "RG Mana Ramp",
@@ -465,7 +487,11 @@
       "Mana Ramp",
       "Snow Mana Ramp",
       "Snow ManaRamp",
-      "ManaRamp w/ u"
+      "ManaRamp w/ u",
+      "G/R Big Mana",
+      "R/G Big Mana",
+      "R/G/b Big Mana",
+      "G/R Snow"
     ],
     "cover": "Bogardan Hellkite",
     "keyCards": [
@@ -524,7 +550,10 @@
         "Lord of Atlantis made the team unblockable against Faeries",
         "Merrow Reejerey untapped lands and tapped blockers"
       ]
-    }
+    },
+    "include": [
+      "x-states-2007-chicago-il-1-wawszczak"
+    ]
   },
   {
     "name": "Doran Rock",
@@ -565,7 +594,10 @@
     "archetype": "aggro",
     "titles": [
       "GR Aggro",
-      "Rg Aggro"
+      "Rg Aggro",
+      "G/R Aggro",
+      "G/R Goyf Aggro",
+      "G/R Garruk Goyf"
     ],
     "rep": 124472,
     "cover": "Kavu Predator",
@@ -588,6 +620,655 @@
       "en": [
         "Burn doubled as removal and direct damage",
         "Tarmogoyf and Kavu Predator quickly outgrew other red creatures"
+      ]
+    },
+    "include": [
+      "x-starcitygames-com-standard-open-2008-roanoke-va-6-smith"
+    ]
+  },
+  {
+    "name": "UG Aggro",
+    "slug": "ug-aggro",
+    "archetype": "tempo",
+    "titles": [
+      "U/G Scryb & Force",
+      "Scryb & Force",
+      "U/G Garruk Goyf"
+    ],
+    "rep": "x-states-2007-little-rock-ar-1-riester",
+    "cover": "Troll Ascetic",
+    "keyCards": [
+      "Troll Ascetic",
+      "Tarmogoyf",
+      "Call of the Herd",
+      "Psionic Blast",
+      "Rune Snag"
+    ],
+    "summary": {
+      "fr": "Aggro vert-bleu de créatures efficaces, Troll Ascetic, Tarmogoyf et Call of the Herd, protégées par Rune Snag et Mystic Snake.",
+      "en": "Green-blue aggro of efficient creatures, Troll Ascetic, Tarmogoyf and Call of the Herd, protected by Rune Snag and Mystic Snake."
+    },
+    "why": {
+      "fr": [
+        "Birds of Paradise et Llanowar Elves accéléraient les menaces",
+        "Rune Snag et Delay protégeaient l'avance prise",
+        "Psionic Blast finissait la partie ou retirait un bloqueur"
+      ],
+      "en": [
+        "Birds of Paradise and Llanowar Elves sped out the threats",
+        "Rune Snag and Delay protected an early lead",
+        "Psionic Blast finished games or removed a blocker"
+      ]
+    }
+  },
+  {
+    "name": "Martyr Control",
+    "slug": "martyr-control",
+    "archetype": "control",
+    "titles": [
+      "Mono White Martyr",
+      "Mono White Control"
+    ],
+    "rep": "x-states-2007-grenada-ms-1-case",
+    "cover": "Martyr of Sands",
+    "keyCards": [
+      "Martyr of Sands",
+      "Wrath of God",
+      "Story Circle",
+      "Crovax, Ascendant Hero",
+      "Oblivion Ring"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc, parfois bleu, qui regagne beaucoup de points de vie avec Martyr of Sands, nettoie la table avec Wrath of God et verrouille avec Story Circle.",
+      "en": "White control, sometimes blue, that gains large amounts of life with Martyr of Sands, sweeps with Wrath of God and locks with Story Circle."
+    },
+    "why": {
+      "fr": [
+        "Coldsteel Heart et Scrying Sheets tiraient parti des permanents neigeux",
+        "Story Circle et Oblivion Ring répondaient aux decks agressifs",
+        "Crovax et Wrath of God contrôlaient les créatures adverses"
+      ],
+      "en": [
+        "Coldsteel Heart and Scrying Sheets made use of snow permanents",
+        "Story Circle and Oblivion Ring answered aggressive decks",
+        "Crovax and Wrath of God kept opposing creatures in check"
+      ]
+    },
+    "include": [
+      "x-starcitygames-com-standard-open-2007-roanoke-va-4-braun-duin",
+      "x-states-2007-standish-me-1-lewis",
+      "x-regionals-2008-regina-canada-1-yang"
+    ],
+    "note": "White Martyr of Sands control (incl. UW Aeon Chronicler builds and a Reveillark version) grouped."
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "U/W Control"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2007-roanoke-va-6-crane",
+    "cover": "Teferi's Moat",
+    "keyCards": [
+      "Teferi's Moat",
+      "Wrath of God",
+      "Sower of Temptation",
+      "Venser, Shaper Savant",
+      "Rune Snag"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc à contresorts, Rune Snag et Cancel, qui nettoie la table avec Wrath of God et bloque les attaques avec Teferi's Moat.",
+      "en": "Blue-white control with counterspells, Rune Snag and Cancel, that sweeps with Wrath of God and stops attacks with Teferi's Moat."
+    },
+    "why": {
+      "fr": [
+        "Think Twice et Ponder assuraient les pioches",
+        "Sower of Temptation et Venser retournaient les créatures adverses",
+        "Teferi's Moat arrêtait une couleur entière d'attaquants"
+      ],
+      "en": [
+        "Think Twice and Ponder kept the cards flowing",
+        "Sower of Temptation and Venser turned opposing creatures",
+        "Teferi's Moat stopped a whole colour of attackers"
+      ]
+    }
+  },
+  {
+    "name": "Kithkin",
+    "slug": "kithkin",
+    "archetype": "aggro",
+    "titles": [
+      "Kithkin",
+      "G/W Kithkin"
+    ],
+    "rep": "x-nationals-spain-2008-1-sagol",
+    "cover": "Knight of Meadowgrain",
+    "keyCards": [
+      "Knight of Meadowgrain",
+      "Wizened Cenn",
+      "Figure of Destiny",
+      "Spectral Procession",
+      "Cloudgoat Ranger"
+    ],
+    "summary": {
+      "fr": "Aggro blanc de Kithkin bon marché, renforcés par Wizened Cenn et Glorious Anthem, avec Spectral Procession et Cloudgoat Ranger pour élargir l'armée.",
+      "en": "White aggro of cheap Kithkin, pumped by Wizened Cenn and Glorious Anthem, with Spectral Procession and Cloudgoat Ranger to widen the army."
+    },
+    "why": {
+      "fr": [
+        "Goldmeadow Stalwart et Knight of Meadowgrain attaquaient dès le premier tour",
+        "Wizened Cenn et Glorious Anthem renforçaient toute l'équipe",
+        "Burrenton Forge-Tender protégeait contre les éclats rouges"
+      ],
+      "en": [
+        "Goldmeadow Stalwart and Knight of Meadowgrain attacked from turn one",
+        "Wizened Cenn and Glorious Anthem pumped the whole team",
+        "Burrenton Forge-Tender protected against red sweepers"
+      ]
+    }
+  },
+  {
+    "name": "UGw Blink",
+    "slug": "ugw-blink",
+    "archetype": "midrange",
+    "titles": [
+      "U/G/w Blink"
+    ],
+    "rep": "x-states-2007-nashville-tn-1-bragg",
+    "cover": "Momentary Blink",
+    "keyCards": [
+      "Momentary Blink",
+      "Mystic Snake",
+      "Riftwing Cloudskate",
+      "Tarmogoyf",
+      "Wall of Roots"
+    ],
+    "summary": {
+      "fr": "Milieu de partie vert-bleu à touche blanche qui réutilise les créatures à effet d'arrivée, Mystic Snake et Riftwing Cloudskate, grâce à Momentary Blink.",
+      "en": "Green-blue midrange splashing white that reuses enters-the-battlefield creatures, Mystic Snake and Riftwing Cloudskate, with Momentary Blink."
+    },
+    "why": {
+      "fr": [
+        "Momentary Blink se lançait deux fois grâce au flashback",
+        "Mystic Snake et Venser contraient en posant une créature",
+        "Wall of Roots et Birds of Paradise accéléraient le mana"
+      ],
+      "en": [
+        "Momentary Blink could be cast twice thanks to flashback",
+        "Mystic Snake and Venser countered while adding a creature",
+        "Wall of Roots and Birds of Paradise accelerated the mana"
+      ]
+    }
+  },
+  {
+    "name": "Sea Stompy",
+    "slug": "sea-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Sea Stompy",
+      "R/U Aggro"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2007-roanoke-va-5-schneider",
+    "cover": "Keldon Marauders",
+    "keyCards": [
+      "Keldon Marauders",
+      "Greater Gargadon",
+      "Sower of Temptation",
+      "Rune Snag",
+      "Lash Out"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-bleu de créatures rapides, Keldon Marauders et Mogg War Marshal, avec Greater Gargadon et une couche de contresorts.",
+      "en": "Red-blue aggro of fast creatures, Keldon Marauders and Mogg War Marshal, with Greater Gargadon and a layer of counterspells."
+    },
+    "why": {
+      "fr": [
+        "Mogg Fanatic et Mogg War Marshal nourrissaient Greater Gargadon",
+        "Rune Snag et Delay gênaient les réponses adverses",
+        "Sower of Temptation volait le meilleur bloqueur"
+      ],
+      "en": [
+        "Mogg Fanatic and Mogg War Marshal fed Greater Gargadon",
+        "Rune Snag and Delay disrupted opposing answers",
+        "Sower of Temptation stole the best blocker"
+      ]
+    }
+  },
+  {
+    "name": "Green Overrun",
+    "slug": "green-overrun",
+    "archetype": "aggro",
+    "titles": [],
+    "rep": "x-states-2007-honolulu-hi-1-mulcare",
+    "cover": "Gaea's Anthem",
+    "keyCards": [
+      "Gaea's Anthem",
+      "Overrun",
+      "Call of the Herd",
+      "Garruk Wildspeaker",
+      "Cloudgoat Ranger"
+    ],
+    "summary": {
+      "fr": "Aggro vert, allié au blanc ou au rouge, qui multiplie les jetons et les créatures avant de gagner d'un coup avec Gaea's Anthem et Overrun.",
+      "en": "Green aggro, paired with white or red, that floods the board with tokens and creatures before winning at once with Gaea's Anthem and Overrun."
+    },
+    "why": {
+      "fr": [
+        "Birds of Paradise et Llanowar Elves accéléraient le développement",
+        "Call of the Herd et les jetons élargissaient l'armée",
+        "Overrun et Garruk Wildspeaker donnaient une attaque décisive"
+      ],
+      "en": [
+        "Birds of Paradise and Llanowar Elves sped up development",
+        "Call of the Herd and tokens widened the army",
+        "Overrun and Garruk Wildspeaker gave a decisive attack"
+      ]
+    },
+    "include": [
+      "x-states-2007-honolulu-hi-1-mulcare",
+      "x-states-2007-phoenix-az-1-coats",
+      "x-states-2007-san-francisco-ca-1-nabi"
+    ],
+    "note": "States 2007 Gaea's Anthem / Overrun token lists filed by SCG as 'G/W Aggro', 'G/R Garruk Goyf' and 'G/R Aggro'."
+  },
+  {
+    "name": "GW Aggro",
+    "slug": "gw-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "G/W Aggro",
+      "G/R/W Kavu Justice"
+    ],
+    "rep": "x-states-2007-newfoundland-canada-1-wade",
+    "cover": "Troll Ascetic",
+    "keyCards": [
+      "Troll Ascetic",
+      "Saffi Eriksdotter",
+      "Tarmogoyf",
+      "Call of the Herd",
+      "Oblivion Ring"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc, parfois à touche rouge, de créatures résistantes comme Troll Ascetic et Tarmogoyf, protégées par Saffi Eriksdotter.",
+      "en": "Green-white aggro, sometimes splashing red, of resilient creatures such as Troll Ascetic and Tarmogoyf, protected by Saffi Eriksdotter."
+    },
+    "why": {
+      "fr": [
+        "Troll Ascetic résistait aux sorts de retrait ciblés",
+        "Saffi Eriksdotter ramenait une créature détruite",
+        "Oblivion Ring répondait à tout type de permanent"
+      ],
+      "en": [
+        "Troll Ascetic shrugged off targeted removal",
+        "Saffi Eriksdotter brought back a destroyed creature",
+        "Oblivion Ring answered any type of permanent"
+      ]
+    }
+  },
+  {
+    "name": "Lightning Angel Blink",
+    "slug": "lightning-angel-blink",
+    "archetype": "midrange",
+    "titles": [
+      "Lightning Angel Control"
+    ],
+    "rep": "x-states-2007-burlington-vt-1-wood",
+    "cover": "Lightning Angel",
+    "keyCards": [
+      "Lightning Angel",
+      "Momentary Blink",
+      "Riftwing Cloudskate",
+      "Venser, Shaper Savant",
+      "Siege-Gang Commander"
+    ],
+    "summary": {
+      "fr": "Milieu de partie bleu-blanc-rouge qui réutilise Riftwing Cloudskate, Venser et Siege-Gang Commander avec Momentary Blink, et frappe avec Lightning Angel.",
+      "en": "Blue-white-red midrange that reuses Riftwing Cloudskate, Venser and Siege-Gang Commander with Momentary Blink, and attacks with Lightning Angel."
+    },
+    "why": {
+      "fr": [
+        "Momentary Blink doublait les effets d'arrivée des créatures",
+        "Lightning Angel combinait célérité, vol et vigilance",
+        "Incinerate et Oblivion Ring servaient de retrait"
+      ],
+      "en": [
+        "Momentary Blink doubled creatures' enters-the-battlefield effects",
+        "Lightning Angel combined haste, flying and vigilance",
+        "Incinerate and Oblivion Ring served as removal"
+      ]
+    }
+  },
+  {
+    "name": "UB Teachings",
+    "slug": "ub-teachings",
+    "archetype": "control",
+    "titles": [
+      "U/B Teachings",
+      "Teachings"
+    ],
+    "rep": "x-states-2007-new-york-ny-1-davis",
+    "cover": "Mystical Teachings",
+    "keyCards": [
+      "Mystical Teachings",
+      "Damnation",
+      "Cryptic Command",
+      "Shadowmage Infiltrator",
+      "Shriekmaw"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir qui va chercher la réponse adaptée avec Mystical Teachings, nettoie la table avec Damnation et contre avec Cryptic Command.",
+      "en": "Blue-black control that fetches the right answer with Mystical Teachings, sweeps with Damnation and counters with Cryptic Command."
+    },
+    "why": {
+      "fr": [
+        "Mystical Teachings trouvait un sort à flash, puis se relançait en flashback",
+        "Damnation et Shriekmaw géraient les créatures",
+        "Shadowmage Infiltrator assurait l'avantage de cartes"
+      ],
+      "en": [
+        "Mystical Teachings found an instant, then came back on flashback",
+        "Damnation and Shriekmaw handled creatures",
+        "Shadowmage Infiltrator supplied card advantage"
+      ]
+    }
+  },
+  {
+    "name": "Skred Red",
+    "slug": "skred-red",
+    "archetype": "control",
+    "titles": [
+      "Skred Red"
+    ],
+    "rep": "x-states-2007-des-moines-ia-1-scheel",
+    "cover": "Skred",
+    "keyCards": [
+      "Skred",
+      "Martyr of Ashes",
+      "Stuffy Doll",
+      "Phyrexian Ironfoot",
+      "Chandra Nalaar"
+    ],
+    "summary": {
+      "fr": "Contrôle rouge à base de terrains neigeux, où Skred et Martyr of Ashes nettoient la table et où Stuffy Doll et Phyrexian Ironfoot bloquent.",
+      "en": "Snow-based red control in which Skred and Martyr of Ashes clear the board while Stuffy Doll and Phyrexian Ironfoot block."
+    },
+    "why": {
+      "fr": [
+        "Skred infligeait autant de dégâts que de permanents neigeux contrôlés",
+        "Stuffy Doll et Phyrexian Ironfoot arrêtaient les decks agressifs",
+        "Chandra Nalaar et Molten Disaster finissaient la partie"
+      ],
+      "en": [
+        "Skred dealt damage equal to the snow permanents you controlled",
+        "Stuffy Doll and Phyrexian Ironfoot stopped aggressive decks",
+        "Chandra Nalaar and Molten Disaster closed games"
+      ]
+    }
+  },
+  {
+    "name": "The Rack",
+    "slug": "the-rack",
+    "archetype": "control",
+    "titles": [
+      "Goyf Rack",
+      "Tarmo Rack",
+      "Goyf Rock"
+    ],
+    "rep": "x-states-2007-fairbanks-ak-1-juday",
+    "cover": "The Rack",
+    "keyCards": [
+      "The Rack",
+      "Augur of Skulls",
+      "Smallpox",
+      "Thoughtseize",
+      "Tarmogoyf"
+    ],
+    "summary": {
+      "fr": "Deck de défausse noir, souvent à touche verte pour Tarmogoyf, qui vide la main adverse avec Augur of Skulls, Smallpox et Thoughtseize, puis punit avec The Rack.",
+      "en": "Black discard deck, often splashing green for Tarmogoyf, that empties the opponent's hand with Augur of Skulls, Smallpox and Thoughtseize, then punishes with The Rack."
+    },
+    "why": {
+      "fr": [
+        "La défausse répétée laissait l'adversaire sans cartes",
+        "The Rack infligeait des dégâts à chaque tour",
+        "Tarmogoyf grandissait avec les cartes au cimetière"
+      ],
+      "en": [
+        "Repeated discard left the opponent with no cards",
+        "The Rack dealt damage every turn",
+        "Tarmogoyf grew with the cards in graveyards"
+      ]
+    }
+  },
+  {
+    "name": "Turbo Fog",
+    "slug": "turbo-fog",
+    "archetype": "control",
+    "titles": [
+      "Turbofog"
+    ],
+    "rep": "x-states-2007-manitoba-canada-1-hedlund",
+    "cover": "Howling Mine",
+    "keyCards": [
+      "Howling Mine",
+      "Pollen Lullaby",
+      "Dawn Charm",
+      "Martyr of Sands",
+      "Rites of Flourishing"
+    ],
+    "summary": {
+      "fr": "Deck blanc-vert qui empêche les dégâts de combat à répétition avec Pollen Lullaby et Dawn Charm pendant que Howling Mine fait piocher.",
+      "en": "White-green deck that repeatedly prevents combat damage with Pollen Lullaby and Dawn Charm while Howling Mine draws extra cards."
+    },
+    "why": {
+      "fr": [
+        "Howling Mine et Rites of Flourishing donnaient des cartes en plus",
+        "Pollen Lullaby et Dawn Charm annulaient les attaques",
+        "Wrath of God et Martyr of Sands gagnaient du temps"
+      ],
+      "en": [
+        "Howling Mine and Rites of Flourishing gave extra cards",
+        "Pollen Lullaby and Dawn Charm cancelled attacks",
+        "Wrath of God and Martyr of Sands bought time"
+      ]
+    }
+  },
+  {
+    "name": "GW Control",
+    "slug": "gw-control",
+    "archetype": "control",
+    "titles": [
+      "G/W Control"
+    ],
+    "rep": "x-states-2007-new-orleans-la-1-coleman",
+    "cover": "Primal Command",
+    "keyCards": [
+      "Primal Command",
+      "Harmonize",
+      "Wrath of God",
+      "Wall of Roots",
+      "Ohran Viper"
+    ],
+    "summary": {
+      "fr": "Contrôle vert-blanc qui accélère avec Wall of Roots et Into the North, pioche avec Harmonize et nettoie la table avec Wrath of God.",
+      "en": "Green-white control that ramps with Wall of Roots and Into the North, draws with Harmonize and sweeps with Wrath of God."
+    },
+    "why": {
+      "fr": [
+        "Wall of Roots bloquait tôt et accélérait le mana",
+        "Harmonize assurait l'avantage de cartes",
+        "Primal Command retardait l'adversaire et cherchait une créature"
+      ],
+      "en": [
+        "Wall of Roots blocked early and ramped",
+        "Harmonize supplied card advantage",
+        "Primal Command set the opponent back and fetched a creature"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Black Control",
+    "slug": "mono-black-control",
+    "archetype": "control",
+    "titles": [
+      "Mono Black Control"
+    ],
+    "rep": "x-states-2007-nova-scotia-canada-1-deangelo",
+    "cover": "Korlash, Heir to Blackblade",
+    "keyCards": [
+      "Korlash, Heir to Blackblade",
+      "Graveborn Muse",
+      "Damnation",
+      "Tendrils of Corruption",
+      "Liliana Vess"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-noir qui profite du grand nombre de Swamp avec Korlash et Tendrils of Corruption, et pioche avec Graveborn Muse.",
+      "en": "Mono-black control that cashes in on a high Swamp count with Korlash and Tendrils of Corruption, and draws with Graveborn Muse."
+    },
+    "why": {
+      "fr": [
+        "Damnation et Shriekmaw nettoyaient la table",
+        "Graveborn Muse assurait l'avantage de cartes",
+        "Korlash grandissait avec chaque Swamp"
+      ],
+      "en": [
+        "Damnation and Shriekmaw cleared the board",
+        "Graveborn Muse supplied card advantage",
+        "Korlash grew with every Swamp"
+      ]
+    }
+  },
+  {
+    "name": "BR Bitterblossom",
+    "slug": "br-bitterblossom",
+    "archetype": "control",
+    "titles": [
+      "Bitterblossom Control"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2008-roanoke-va-3-braun-duin",
+    "cover": "Bitterblossom",
+    "keyCards": [
+      "Bitterblossom",
+      "Siege-Gang Commander",
+      "Damnation",
+      "Liliana Vess",
+      "Profane Command"
+    ],
+    "summary": {
+      "fr": "Contrôle noir-rouge qui crée des jetons avec Bitterblossom et Siege-Gang Commander, nettoie la table avec Damnation et finit avec Profane Command.",
+      "en": "Black-red control that makes tokens with Bitterblossom and Siege-Gang Commander, sweeps with Damnation and finishes with Profane Command."
+    },
+    "why": {
+      "fr": [
+        "Bitterblossom produisait un jeton volant à chaque tour",
+        "Thoughtseize et Liliana Vess attaquaient la main adverse",
+        "Damnation remettait la table à zéro"
+      ],
+      "en": [
+        "Bitterblossom made a flying token every turn",
+        "Thoughtseize and Liliana Vess attacked the opponent's hand",
+        "Damnation reset the board"
+      ]
+    }
+  },
+  {
+    "name": "Rogues",
+    "slug": "rogues",
+    "archetype": "aggro",
+    "titles": [
+      "Rogue Aggro"
+    ],
+    "rep": "x-starcitygames-com-standard-open-2008-roanoke-va-8-wallace",
+    "cover": "Oona's Blackguard",
+    "keyCards": [
+      "Oona's Blackguard",
+      "Frogtosser Banneret",
+      "Morsel Theft",
+      "Bad Moon",
+      "Bitterblossom"
+    ],
+    "summary": {
+      "fr": "Aggro mono-noir de Rogues de Morningtide qui défaussent l'adversaire en le touchant, renforcés par Bad Moon et Oona's Blackguard.",
+      "en": "Mono-black aggro of Morningtide Rogues that make the opponent discard when they connect, pumped by Bad Moon and Oona's Blackguard."
+    },
+    "why": {
+      "fr": [
+        "Oona's Blackguard faisait défausser à chaque Rogue qui touchait",
+        "Morsel Theft piochait grâce à la prowess",
+        "Bad Moon renforçait toute l'équipe"
+      ],
+      "en": [
+        "Oona's Blackguard made each connecting Rogue cost a card",
+        "Morsel Theft drew cards through prowl",
+        "Bad Moon pumped the whole team"
+      ]
+    }
+  },
+  {
+    "name": "Zur Control",
+    "slug": "zur-control",
+    "archetype": "control",
+    "titles": [
+      "Zur"
+    ],
+    "rep": "x-regionals-2008-houston-tx-1-zamora",
+    "cover": "Zur the Enchanter",
+    "keyCards": [
+      "Zur the Enchanter",
+      "Cryptic Command",
+      "Wrath of God",
+      "Vedalken Aethermage",
+      "Oblivion Ring"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc-noir qui va chercher des enchantements avec Zur the Enchanter, nettoie la table avec Wrath of God et contre avec Cryptic Command.",
+      "en": "Blue-white-black control that fetches enchantments with Zur the Enchanter, sweeps with Wrath of God and counters with Cryptic Command."
+    },
+    "why": {
+      "fr": [
+        "Zur the Enchanter trouvait un enchantement à chaque attaque",
+        "Careful Consideration et Coldsteel Heart assuraient pioche et mana",
+        "Condemn et Oblivion Ring complétaient le retrait"
+      ],
+      "en": [
+        "Zur the Enchanter found an enchantment on each attack",
+        "Careful Consideration and Coldsteel Heart provided cards and mana",
+        "Condemn and Oblivion Ring rounded out the removal"
+      ]
+    }
+  },
+  {
+    "name": "Red Elementals",
+    "slug": "red-elementals",
+    "archetype": "aggro",
+    "titles": [
+      "Elementals"
+    ],
+    "rep": "x-regionals-2008-washington-d-c-dc-1-rooks",
+    "cover": "Flamekin Harbinger",
+    "keyCards": [
+      "Flamekin Harbinger",
+      "Rage Forger",
+      "Soulbright Flamekin",
+      "Sunflare Shaman",
+      "Incandescent Soulstoke"
+    ],
+    "summary": {
+      "fr": "Aggro rouge d'Elementals de Lorwyn, cherchés par Flamekin Harbinger et renforcés par Rage Forger et Incandescent Soulstoke, avec des éclats rapides.",
+      "en": "Red aggro of Lorwyn Elementals, fetched by Flamekin Harbinger and pumped by Rage Forger and Incandescent Soulstoke, with cheap burn."
+    },
+    "why": {
+      "fr": [
+        "Flamekin Harbinger trouvait l'Elemental voulu",
+        "Rage Forger et Incandescent Soulstoke renforçaient la tribu",
+        "Rift Bolt, Incinerate et Shard Volley donnaient de la portée"
+      ],
+      "en": [
+        "Flamekin Harbinger found the Elemental needed",
+        "Rage Forger and Incandescent Soulstoke pumped the tribe",
+        "Rift Bolt, Incinerate and Shard Volley added reach"
       ]
     }
   }
