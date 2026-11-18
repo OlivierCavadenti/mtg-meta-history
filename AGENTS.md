@@ -90,6 +90,15 @@ npm run validate:content && npm run typecheck
 Card art uses the newest regular printing released before the end of the season in which the card
 first appears, so a 1997 deck shows 1997 frames.
 
+## Formats
+
+Every script reads `MTG_FORMAT` (default `standard`). Each format has its own seasons file
+(`scripts/pipeline/seasons.json` for Standard, `seasons.{format}.json` otherwise), editorial layer
+(`data-src/{format}/`), output (`src/data/{format}/`) and work dir (`.pipeline/{format}`).
+The Scryfall printings index is shared: point `MTG_PRINTS` at one `prints.json`.
+`MTG_COMPETITIVE_YEARS=2011,2012` adds Competitive-level events for years where Professional and
+Major coverage is thin (used for Modern 2011-2013 and 2020-2021).
+
 ## Adding another format
 
 1. Generalise the format code (`ST`) in `scrape_search.py` / `common.py`.

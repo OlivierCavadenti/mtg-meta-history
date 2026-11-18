@@ -27,13 +27,14 @@ npm run validate:content  # validate generated deck data
 - `src/data/types.ts` — shared types (`Deck`, `CardInfo`, `Season`…)
 - `src/data/formats.ts` — the format bar (`ready: false` shows "in progress")
 - `src/data/standard/seasons.ts` — Standard seasons (open with the autumn set) and bans
+- `src/data/modern/seasons.ts` — Modern seasons (calendar years, no rotation) and bans; same layout under `src/data/modern/`
 - `src/data/standard/decks/{season}.json` — GENERATED, one file per season
 - `src/data/standard/cards.json` — GENERATED card data (mana cost, mana value, type, colors, Scryfall image id)
 - `src/data/load.ts` — lazy loader for a format
 - `src/components/` — `DeckTile`, `DeckList` (bar-style decklist), `CardRow`, `ManaCost`, `ColorPips`…
 - `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`, `ColorsPage` (color evolution, small multiples; data in `src/lib/colorStats.ts`)
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
-- `scripts/pipeline/` — data pipeline (Python 3, stdlib only). See `AGENTS.md`.
+- `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern). See `AGENTS.md`.
 
 ## Data pipeline (summary)
 
