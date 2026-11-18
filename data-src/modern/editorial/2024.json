@@ -1,0 +1,1205 @@
+[
+  {
+    "name": "Yawgmoth",
+    "slug": "yawgmoth",
+    "archetype": "combo",
+    "titles": [
+      "Chord Toolbox",
+      "Yawgmoth",
+      "Bg Yawgmoth",
+      "Golgari Yawgmoth"
+    ],
+    "cover": "Yawgmoth, Thran Physician",
+    "keyCards": [
+      "Yawgmoth, Thran Physician",
+      "Young Wolf",
+      "Chord of Calling",
+      "Grist, the Hunger Tide",
+      "Orcish Bowmasters"
+    ],
+    "summary": {
+      "fr": "Toolbox Golgari : Yawgmoth sacrifie des créatures persistance comme Young Wolf pour placer des marqueurs -1/-1, piocher et vider le camp adverse.",
+      "en": "Golgari toolbox: Yawgmoth sacrifices undying creatures such as Young Wolf to spread -1/-1 counters, draw cards and clear the board."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship américain de Denver",
+        "A aussi gagné les Regional Championships de Chine et d'Amérique du Sud",
+        "Presque absent des top 8 après Modern Horizons 3"
+      ],
+      "en": [
+        "Won the U.S. Regional Championship in Denver",
+        "Also won the Chinese and South American Regional Championships",
+        "Almost absent from top 8s after Modern Horizons 3"
+      ]
+    },
+    "include": [
+      587130,
+      642609,
+      644751,
+      652593,
+      652517,
+      652525,
+      654376,
+      660333,
+      676983
+    ],
+    "exclude": [
+      642579,
+      651100,
+      652507,
+      676528
+    ]
+  },
+  {
+    "name": "Amulet Titan",
+    "slug": "amulet-titan",
+    "archetype": "ramp",
+    "titles": [
+      "Amulet Titan"
+    ],
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Amulet of Vigor",
+      "Primeval Titan",
+      "Arboreal Grazer",
+      "The One Ring",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Ramp combo : Amulet of Vigor dégage les karoos, Arboreal Grazer et Dryad of the Ilysian Grove ajoutent des terrains, et Primeval Titan va chercher les terrains utilitaires.",
+      "en": "Ramp combo: Amulet of Vigor untaps bounce lands, Arboreal Grazer and Dryad of the Ilysian Grove add land drops, and Primeval Titan fetches utility lands."
+    },
+    "why": {
+      "fr": [
+        "Présent en top 8 du début à la fin de l'année",
+        "Malevolent Rumble et Spelunking se sont ajoutés aux listes",
+        "The One Ring apportait protection et pioche"
+      ],
+      "en": [
+        "Made top 8s from the start to the end of the year",
+        "Malevolent Rumble and Spelunking joined the lists",
+        "The One Ring provided protection and card draw"
+      ]
+    }
+  },
+  {
+    "name": "Temur Rhinos",
+    "slug": "temur-rhinos",
+    "archetype": "midrange",
+    "titles": [
+      "Cascade Crash",
+      "Temur Rhinos",
+      "Temur Rhino"
+    ],
+    "cover": "Crashing Footfalls",
+    "keyCards": [
+      "Crashing Footfalls",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Force of Negation",
+      "Tishana's Tidebinder"
+    ],
+    "summary": {
+      "fr": "Deck cascade sans sort à coût bas : Shardless Agent et Violent Outburst révèlent forcément Crashing Footfalls et ses deux rhinocéros 4/4.",
+      "en": "Cascade deck with no cheap spells: Shardless Agent and Violent Outburst can only hit Crashing Footfalls and its two 4/4 Rhinos."
+    },
+    "why": {
+      "fr": [
+        "A remporté la Legacy European Championship à Gand",
+        "Violent Outburst a été banni en mars",
+        "Ses résultats deviennent rares après ce bannissement"
+      ],
+      "en": [
+        "Won the Legacy European Championship in Ghent",
+        "Violent Outburst was banned in March",
+        "Its results became rare after that ban"
+      ]
+    }
+  },
+  {
+    "name": "Rakdos Scam",
+    "slug": "rakdos-scam",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Scam",
+      "Rakdos Aggro",
+      "Rb Scam"
+    ],
+    "cover": "Grief",
+    "keyCards": [
+      "Grief",
+      "Not Dead After All",
+      "Fable of the Mirror-Breaker",
+      "Orcish Bowmasters",
+      "Ragavan, Nimble Pilferer"
+    ],
+    "summary": {
+      "fr": "Midrange Rakdos qui évoque Grief puis le ramène avec Not Dead After All ou Undying Evil ; Fury étant banni, le deck repose sur la défausse et Fable.",
+      "en": "Rakdos midrange that evokes Grief and returns it with Not Dead After All or Undying Evil; with Fury banned, it leans on discard and Fable."
+    },
+    "why": {
+      "fr": [
+        "Grief et Thoughtseize démantelaient la main adverse dès le premier tour",
+        "Archfiend of the Dross a pris une place dans certaines listes",
+        "Ses top 8 s'arrêtent à l'arrivée de Modern Horizons 3"
+      ],
+      "en": [
+        "Grief and Thoughtseize dismantled the opponent's hand from turn one",
+        "Archfiend of the Dross took a slot in some lists",
+        "Its top 8s stop when Modern Horizons 3 arrived"
+      ]
+    }
+  },
+  {
+    "name": "Boros Energy",
+    "slug": "boros-energy",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Energy",
+      "Boros Aggro"
+    ],
+    "cover": "Guide of Souls",
+    "keyCards": [
+      "Guide of Souls",
+      "Ocelot Pride",
+      "Ajani, Nacatl Pariah",
+      "Phlage, Titan of Fire's Fury",
+      "Amped Raptor"
+    ],
+    "summary": {
+      "fr": "Aggro Boros bâti sur l'énergie de Modern Horizons 3 : Guide of Souls, Ocelot Pride et Ajani génèrent jetons et énergie, Phlage sert de removal récurrent.",
+      "en": "Boros aggro built on Modern Horizons 3 energy: Guide of Souls, Ocelot Pride and Ajani make tokens and energy, while Phlage is recurring removal."
+    },
+    "why": {
+      "fr": [
+        "Devenu le deck le plus présent en top 8 dans la seconde moitié de l'année",
+        "A remporté le Secret Lair Showdown Championship",
+        "Amped Raptor a été banni en décembre"
+      ],
+      "en": [
+        "Became the most frequent top 8 deck in the second half of the year",
+        "Won the Secret Lair Showdown Championship",
+        "Amped Raptor was banned in December"
+      ]
+    },
+    "exclude": [
+      587231
+    ]
+  },
+  {
+    "name": "Mardu Energy",
+    "slug": "mardu-energy",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Energy",
+      "Mardu Aggro",
+      "Energy"
+    ],
+    "cover": "Ocelot Pride",
+    "keyCards": [
+      "Ocelot Pride",
+      "Guide of Souls",
+      "Orcish Bowmasters",
+      "Thoughtseize",
+      "Phlage, Titan of Fire's Fury"
+    ],
+    "summary": {
+      "fr": "Variante Mardu de Boros Energy : le même noyau d'énergie, plus Thoughtseize et Orcish Bowmasters en noir.",
+      "en": "Mardu version of Boros Energy: the same energy core, plus Thoughtseize and Orcish Bowmasters in black."
+    },
+    "why": {
+      "fr": [
+        "Orcish Bowmasters punissait les decks de pioche et de petites créatures",
+        "Thoughtseize protégeait contre les decks combo",
+        "A remporté des MTGO Super Qualifiers en août et en septembre"
+      ],
+      "en": [
+        "Orcish Bowmasters punished card draw and small creatures",
+        "Thoughtseize protected against combo decks",
+        "Won MTGO Super Qualifiers in August and September"
+      ]
+    }
+  },
+  {
+    "name": "Living End",
+    "slug": "living-end",
+    "archetype": "combo",
+    "titles": [
+      "Living End"
+    ],
+    "cover": "Living End",
+    "keyCards": [
+      "Living End",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Street Wraith",
+      "Grief"
+    ],
+    "summary": {
+      "fr": "Deck cascade sans sort à coût bas : les créatures à cyclage remplissent le cimetière, puis la cascade lance Living End pour les rappeler toutes.",
+      "en": "Cascade deck with no cheap spells: cycling creatures fill the graveyard, then cascade casts Living End to return them all."
+    },
+    "why": {
+      "fr": [
+        "A perdu Violent Outburst en mars mais a continué avec Shardless Agent et Ardent Plea",
+        "Grief et Force of Negation dégageaient la voie",
+        "Vainqueur d'une MTGO Super Qualifier et d'un NRG $10K Showdown"
+      ],
+      "en": [
+        "Lost Violent Outburst in March but kept going with Shardless Agent and Ardent Plea",
+        "Grief and Force of Negation cleared the way",
+        "Won an MTGO Super Qualifier and an NRG $10K Showdown"
+      ]
+    }
+  },
+  {
+    "name": "Simic Nadu",
+    "slug": "simic-nadu",
+    "archetype": "combo",
+    "titles": [
+      "Nadu Toolbox",
+      "Creatures Toolbox",
+      "Creatures Toolbox Nadu",
+      "Toolbox Nadu"
+    ],
+    "cover": "Nadu, Winged Wisdom",
+    "keyCards": [
+      "Nadu, Winged Wisdom",
+      "Shuko",
+      "Springheart Nantuko",
+      "Chord of Calling",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Combo Simic de Modern Horizons 3 : chaque ciblage d'une créature déclenche Nadu ; avec Shuko, les équipements à zéro mana font défiler la bibliothèque et poser des terrains.",
+      "en": "Simic combo from Modern Horizons 3: every time a creature is targeted Nadu triggers; with Shuko's free equip it digs through the library and puts lands onto the battlefield."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Pro Tour Modern Horizons 3 avec Simon Nielsen",
+        "Occupait les quatre premières places de ce Pro Tour",
+        "Nadu, Winged Wisdom a été banni en août"
+      ],
+      "en": [
+        "Won Pro Tour Modern Horizons 3 with Simon Nielsen",
+        "Took all of the top 4 places at that Pro Tour",
+        "Nadu, Winged Wisdom was banned in August"
+      ]
+    },
+    "include": [
+      623325,
+      623502,
+      623503,
+      623441,
+      623450,
+      623454,
+      623524
+    ],
+    "exclude": [
+      594482,
+      654364
+    ]
+  },
+  {
+    "name": "Goryo's Vengeance",
+    "slug": "goryos-vengeance",
+    "archetype": "combo",
+    "titles": [
+      "Instant Reanimator",
+      "Atraxa Vengenace"
+    ],
+    "cover": "Atraxa, Grand Unifier",
+    "keyCards": [
+      "Goryo's Vengeance",
+      "Atraxa, Grand Unifier",
+      "Ephemerate",
+      "Grief",
+      "Griselbrand"
+    ],
+    "summary": {
+      "fr": "Réanimation à vitesse instantanée : Faithful Mending ou Tainted Indulgence défaussent Atraxa ou Griselbrand, puis Goryo's Vengeance les ramène.",
+      "en": "Instant-speed reanimation: Faithful Mending or Tainted Indulgence discard Atraxa or Griselbrand, then Goryo's Vengeance brings them back."
+    },
+    "why": {
+      "fr": [
+        "Ephemerate faisait revenir la créature et rejouer son déclenchement ; Grief perturbait",
+        "Psychic Frog est apparu dans les listes après Modern Horizons 3",
+        "A remporté le Grand Open Qualifier de Prague"
+      ],
+      "en": [
+        "Ephemerate blinked the creature to replay its trigger; Grief disrupted",
+        "Psychic Frog appeared in lists after Modern Horizons 3",
+        "Won the Grand Open Qualifier in Prague"
+      ]
+    }
+  },
+  {
+    "name": "Domain Zoo",
+    "slug": "domain-zoo",
+    "archetype": "aggro",
+    "titles": [
+      "5c Domain Aggro",
+      "Domain Zoo",
+      "4/5c Aggro",
+      "5c Domain",
+      "5x Domain"
+    ],
+    "cover": "Scion of Draco",
+    "keyCards": [
+      "Scion of Draco",
+      "Territorial Kavu",
+      "Tribal Flames",
+      "Leyline of the Guildpact",
+      "Leyline Binding"
+    ],
+    "summary": {
+      "fr": "Aggro domaine : fetchlands, tricolores et Leyline of the Guildpact donnent tous les types de terrain pour Territorial Kavu, Tribal Flames et Leyline Binding.",
+      "en": "Domain aggro: fetchlands, triomes and Leyline of the Guildpact provide every land type for Territorial Kavu, Tribal Flames and Leyline Binding."
+    },
+    "why": {
+      "fr": [
+        "Leyline of the Guildpact en main de départ donnait le domaine complet",
+        "Force of Negation et Stubborn Denial protégeaient les menaces",
+        "A remporté la MTG SEA Championship Final à Bangkok"
+      ],
+      "en": [
+        "Leyline of the Guildpact in the opening hand gave full domain",
+        "Force of Negation and Stubborn Denial protected the threats",
+        "Won the MTG SEA Championship Final in Bangkok"
+      ]
+    }
+  },
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "ramp",
+    "titles": [
+      "UrzaTron",
+      "Urzatron",
+      "Tron"
+    ],
+    "cover": "Karn, the Great Creator",
+    "keyCards": [
+      "Urza's Tower",
+      "Karn, the Great Creator",
+      "The One Ring",
+      "Wurmcoil Engine",
+      "Ancient Stirrings"
+    ],
+    "summary": {
+      "fr": "Ramp mono-vert : les trois terrains Urza produisent sept manas au troisième tour pour Karn, Wurmcoil Engine, Ulamog et The One Ring.",
+      "en": "Mono-green ramp: the three Urza lands make seven mana on turn three for Karn, Wurmcoil Engine, Ulamog and The One Ring."
+    },
+    "why": {
+      "fr": [
+        "The One Ring donnait le temps et les cartes pour assembler Tron",
+        "Karn, the Great Creator allait chercher des artefacts en réserve",
+        "Après Modern Horizons 3, les listes Tron passent aux Eldrazi"
+      ],
+      "en": [
+        "The One Ring bought time and cards to assemble Tron",
+        "Karn, the Great Creator fetched artifacts from the sideboard",
+        "After Modern Horizons 3, Tron lists moved to Eldrazi"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi Tron",
+    "slug": "eldrazi-tron",
+    "archetype": "ramp",
+    "titles": [
+      "E-tron",
+      "EldraTron",
+      "Eldrazi Tron"
+    ],
+    "cover": "Devourer of Destiny",
+    "keyCards": [
+      "Eldrazi Temple",
+      "Ugin's Labyrinth",
+      "Sowing Mycospawn",
+      "Devourer of Destiny",
+      "Kozilek's Command"
+    ],
+    "summary": {
+      "fr": "Ramp incolore : les terrains Urza, Eldrazi Temple et Ugin's Labyrinth accélèrent vers Thought-Knot Seer, Devourer of Destiny et Karn.",
+      "en": "Colorless ramp: Urza lands, Eldrazi Temple and Ugin's Labyrinth accelerate into Thought-Knot Seer, Devourer of Destiny and Karn."
+    },
+    "why": {
+      "fr": [
+        "Modern Horizons 3 a apporté Sowing Mycospawn, Ugin's Labyrinth et Kozilek's Command",
+        "Chalice of the Void ralentissait les decks à sorts bon marché",
+        "A remporté le $10K RCQ du SCG CON Tampa"
+      ],
+      "en": [
+        "Modern Horizons 3 added Sowing Mycospawn, Ugin's Labyrinth and Kozilek's Command",
+        "Chalice of the Void slowed decks built on cheap spells",
+        "Won the $10K RCQ at SCG CON Tampa"
+      ]
+    },
+    "include": [
+      623506,
+      623507,
+      623511,
+      623447,
+      625196,
+      625211,
+      625213,
+      625216,
+      624701,
+      624723,
+      624730,
+      624803,
+      624830,
+      624838,
+      627735,
+      632995,
+      633008,
+      634313,
+      637955,
+      638320,
+      639753,
+      643907,
+      643911,
+      643922,
+      644573,
+      644574,
+      644583,
+      644249,
+      651106,
+      652539,
+      654365,
+      658179,
+      664587,
+      664584,
+      668731,
+      671159,
+      671161,
+      671187,
+      671202
+    ],
+    "note": "UrzaTron results from June on are all Eldrazi Temple lists; moved here by include."
+  },
+  {
+    "name": "Izzet Murktide",
+    "slug": "izzet-murktide",
+    "archetype": "tempo",
+    "titles": [
+      "UR Murktide",
+      "Ur Murktide",
+      "Izzet Murktide"
+    ],
+    "cover": "Murktide Regent",
+    "keyCards": [
+      "Murktide Regent",
+      "Dragon's Rage Channeler",
+      "Ragavan, Nimble Pilferer",
+      "Expressive Iteration",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : cantrips et sorts bon marché remplissent le cimetière pour Dragon's Rage Channeler et réduisent le coût de Murktide Regent.",
+      "en": "Blue-red tempo: cantrips and cheap spells fill the graveyard for Dragon's Rage Channeler and discount Murktide Regent."
+    },
+    "why": {
+      "fr": [
+        "Ragavan et Dragon's Rage Channeler mettaient la pression dès le premier tour",
+        "Counterspell et Spell Pierce protégeaient Murktide Regent",
+        "Ses top 8 s'arrêtent à l'arrivée de Modern Horizons 3"
+      ],
+      "en": [
+        "Ragavan and Dragon's Rage Channeler pressured from turn one",
+        "Counterspell and Spell Pierce protected Murktide Regent",
+        "Its top 8s stop when Modern Horizons 3 arrived"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": [
+      "The One Ring Jeskai",
+      "The One Jeskai",
+      "The One Ring Jeskai Control",
+      "Jeskai Control",
+      "Jeskai Ring",
+      "The OneRing Jeskai"
+    ],
+    "cover": "Phlage, Titan of Fire's Fury",
+    "keyCards": [
+      "The One Ring",
+      "Phlage, Titan of Fire's Fury",
+      "Wrath of the Skies",
+      "Galvanic Discharge",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Contrôle Jeskai : contre-sorts, Galvanic Discharge et Wrath of the Skies pour survivre, The One Ring pour piocher, Phlage pour conclure.",
+      "en": "Jeskai control: counterspells, Galvanic Discharge and Wrath of the Skies to survive, The One Ring for cards, Phlage to finish."
+    },
+    "why": {
+      "fr": [
+        "Modern Horizons 3 lui a donné Wrath of the Skies et Galvanic Discharge",
+        "Phlage se rejouait depuis le cimetière comme removal",
+        "A remporté le RCQ MXP de Los Angeles"
+      ],
+      "en": [
+        "Modern Horizons 3 gave it Wrath of the Skies and Galvanic Discharge",
+        "Phlage could be recast from the graveyard as removal",
+        "Won the MXP Los Angeles RCQ"
+      ]
+    }
+  },
+  {
+    "name": "Indomitable Creativity",
+    "slug": "indomitable-creativity",
+    "archetype": "combo",
+    "titles": [
+      "Creativity",
+      "Jund Creativity",
+      "Five-color Creativity"
+    ],
+    "cover": "Indomitable Creativity",
+    "keyCards": [
+      "Indomitable Creativity",
+      "Archon of Cruelty",
+      "Persist",
+      "Dwarven Mine",
+      "Wrenn and Six"
+    ],
+    "summary": {
+      "fr": "Combo rouge à base de Wrenn and Six : Indomitable Creativity transforme des jetons en Archon of Cruelty, Persist le ramène du cimetière.",
+      "en": "Red Wrenn and Six shell: Indomitable Creativity turns tokens into Archon of Cruelty, and Persist brings it back from the graveyard."
+    },
+    "why": {
+      "fr": [
+        "Archon of Cruelty, seule créature, était garanti par Creativity",
+        "Thoughtseize protégeait la combinaison",
+        "A remporté le Grand Open Qualifier de Bologne"
+      ],
+      "en": [
+        "Archon of Cruelty, the only creature, was guaranteed by Creativity",
+        "Thoughtseize protected the combo",
+        "Won the Grand Open Qualifier in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "4c Omnath",
+    "slug": "4c-omnath",
+    "archetype": "control",
+    "titles": [
+      "4c Control",
+      "The One Omnath",
+      "The One Ring Omnath",
+      "The One Ring Omnath Control",
+      "The Omnath One"
+    ],
+    "cover": "Omnath, Locus of Creation",
+    "keyCards": [
+      "Omnath, Locus of Creation",
+      "The One Ring",
+      "Solitude",
+      "Teferi, Time Raveler",
+      "Wrenn and Six"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre couleurs : Omnath, Wrenn and Six et Solitude encadrés par The One Ring, avec Leyline Binding pour removal grâce aux tricolores.",
+      "en": "Four-color control: Omnath, Wrenn and Six and Solitude backed by The One Ring, with Leyline Binding as removal thanks to triomes."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship ANZ à Melbourne",
+        "Tous ses top 8 précèdent Modern Horizons 3",
+        "Teferi, Time Raveler limitait les decks à vitesse instantanée"
+      ],
+      "en": [
+        "Won the ANZ Regional Championship in Melbourne",
+        "All its top 8s came before Modern Horizons 3",
+        "Teferi, Time Raveler limited instant-speed decks"
+      ]
+    }
+  },
+  {
+    "name": "Ruby Storm",
+    "slug": "ruby-storm",
+    "archetype": "combo",
+    "titles": [
+      "Ruby Storm"
+    ],
+    "cover": "Ruby Medallion",
+    "keyCards": [
+      "Ruby Medallion",
+      "Ral, Monsoon Mage",
+      "Past in Flames",
+      "Wish",
+      "Manamorphose"
+    ],
+    "summary": {
+      "fr": "Storm mono-rouge : Ruby Medallion et Ral, Monsoon Mage réduisent le coût des rituels, puis Wish va chercher Grapeshot en réserve.",
+      "en": "Mono-red storm: Ruby Medallion and Ral, Monsoon Mage discount the rituals, then Wish fetches Grapeshot from the sideboard."
+    },
+    "why": {
+      "fr": [
+        "Ral, Monsoon Mage, de Modern Horizons 3, a relancé l'archétype",
+        "Past in Flames rejouait les rituels depuis le cimetière",
+        "Plusieurs deuxièmes places en qualificatifs MTGO, mais aucune victoire"
+      ],
+      "en": [
+        "Ral, Monsoon Mage, from Modern Horizons 3, revived the archetype",
+        "Past in Flames recast the rituals from the graveyard",
+        "Several second places in MTGO qualifiers, but no win"
+      ]
+    }
+  },
+  {
+    "name": "Grinding Breach",
+    "slug": "grinding-breach",
+    "archetype": "combo",
+    "titles": [
+      "Breach",
+      "Nadu Breach",
+      "Underworld Breach",
+      "UR Breach"
+    ],
+    "cover": "Underworld Breach",
+    "keyCards": [
+      "Underworld Breach",
+      "Grinding Station",
+      "Emry, Lurker of the Loch",
+      "Tamiyo, Inquisitive Student",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Combo artefacts bleu-rouge : Underworld Breach et Grinding Station, avec Mox Amber ou Mishra's Bauble, meulent toute la bibliothèque adverse.",
+      "en": "Blue-red artifact combo: Underworld Breach with Grinding Station and Mox Amber or Mishra's Bauble mills the opponent's whole library."
+    },
+    "why": {
+      "fr": [
+        "Tamiyo, Inquisitive Student, de Modern Horizons 3, a rejoint le deck",
+        "Certaines listes de l'été jouaient Nadu, Winged Wisdom et Shuko",
+        "Urza's Saga allait chercher Grinding Station"
+      ],
+      "en": [
+        "Tamiyo, Inquisitive Student, from Modern Horizons 3, joined the deck",
+        "Some summer lists played Nadu, Winged Wisdom and Shuko",
+        "Urza's Saga fetched Grinding Station"
+      ]
+    }
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "The One Azorius",
+      "The One Ring Azorius Control",
+      "The One Ring Azorius",
+      "The one Azorius",
+      "UW Control",
+      "The One Ring Control",
+      "The One Bant"
+    ],
+    "cover": "The One Ring",
+    "keyCards": [
+      "The One Ring",
+      "Solitude",
+      "Narset, Parter of Veils",
+      "Leyline Binding",
+      "Teferi, Time Raveler"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu autour de The One Ring : Solitude, Prismatic Ending et Leyline Binding, avec Narset et Day's Undoing pour refaire la main.",
+      "en": "White-blue control built around The One Ring: Solitude, Prismatic Ending and Leyline Binding, with Narset and Day's Undoing to refill."
+    },
+    "why": {
+      "fr": [
+        "A remporté le Regional Championship d'Ottawa avec Jonathan Dery",
+        "Narset, Parter of Veils bloquait la pioche adverse de Day's Undoing",
+        "The One Ring a été banni en décembre"
+      ],
+      "en": [
+        "Won the Ottawa Regional Championship with Jonathan Dery",
+        "Narset, Parter of Veils blocked the opponent's Day's Undoing draws",
+        "The One Ring was banned in December"
+      ]
+    }
+  },
+  {
+    "name": "Hardened Scales",
+    "slug": "hardened-scales",
+    "archetype": "aggro",
+    "titles": [
+      "Hardened Scales"
+    ],
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Hardened Scales",
+      "Arcbound Ravager",
+      "Zabaz, the Glimmerwasp",
+      "Walking Ballista",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Aggro artefacts à marqueurs +1/+1 : Hardened Scales et Zabaz amplifient chaque marqueur, Arcbound Ravager les déplace.",
+      "en": "+1/+1 counter artifact aggro: Hardened Scales and Zabaz grow every counter, Arcbound Ravager moves them around."
+    },
+    "why": {
+      "fr": [
+        "Arcbound Ravager et Inkmoth Nexus donnaient une fin de partie par infection",
+        "Urza's Saga ajoutait des Constructs et allait chercher un artefact",
+        "Ses top 8 s'arrêtent à l'arrivée de Modern Horizons 3"
+      ],
+      "en": [
+        "Arcbound Ravager and Inkmoth Nexus offered an infect finish",
+        "Urza's Saga added Constructs and fetched an artifact",
+        "Its top 8s stop when Modern Horizons 3 arrived"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Frog",
+    "slug": "dimir-frog",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Control",
+      "Dimir Frog"
+    ],
+    "cover": "Psychic Frog",
+    "keyCards": [
+      "Psychic Frog",
+      "Orcish Bowmasters",
+      "Murktide Regent",
+      "Counterspell",
+      "Fatal Push"
+    ],
+    "summary": {
+      "fr": "Tempo Dimir de Modern Horizons 3 : Psychic Frog convertit les cartes en trop en pioche et en croissance, avec Orcish Bowmasters et contre-sorts.",
+      "en": "Dimir tempo from Modern Horizons 3: Psychic Frog turns extra cards into draws and growth, backed by Orcish Bowmasters and counterspells."
+    },
+    "why": {
+      "fr": [
+        "Psychic Frog grandissait en défaussant et volait en exilant son cimetière",
+        "Murktide Regent restait la menace de fin de partie",
+        "A remporté une MTGO Super Qualifier"
+      ],
+      "en": [
+        "Psychic Frog grew by discarding and flew by exiling its own graveyard",
+        "Murktide Regent remained the finisher",
+        "Won an MTGO Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Oculus",
+    "slug": "dimir-oculus",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Oculus Frog",
+      "Delverless RUG"
+    ],
+    "cover": "Abhorrent Oculus",
+    "keyCards": [
+      "Abhorrent Oculus",
+      "Psychic Frog",
+      "Thought Scour",
+      "Unearth",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo Dimir autour d'Abhorrent Oculus (Duskmourn), lancé en exilant six cartes du cimetière rempli par Thought Scour et Psychic Frog.",
+      "en": "Dimir tempo around Abhorrent Oculus (Duskmourn), cast by exiling six cards from a graveyard filled by Thought Scour and Psychic Frog."
+    },
+    "why": {
+      "fr": [
+        "Abhorrent Oculus manifestait l'effroi à chaque entretien adverse",
+        "Unearth ramenait Psychic Frog ou Orcish Bowmasters",
+        "Apparu fin septembre, à la sortie de Duskmourn"
+      ],
+      "en": [
+        "Abhorrent Oculus manifested dread at each opponent's upkeep",
+        "Unearth returned Psychic Frog or Orcish Bowmasters",
+        "Appeared in late September, on Duskmourn's release"
+      ]
+    },
+    "include": [
+      652595,
+      652600,
+      652520,
+      652529,
+      654329,
+      658173,
+      658742,
+      668730,
+      669481,
+      669488,
+      669497,
+      671153,
+      671160,
+      671169,
+      671184,
+      671192,
+      671195,
+      671197,
+      671635,
+      674736,
+      676526,
+      651102,
+      652497,
+      669500
+    ],
+    "note": "Oculus lists filed under Dimir Control / Dimir Frog moved here by include."
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk"
+    ],
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Master of the Pearl Trident",
+      "Harbinger of the Seas",
+      "Aether Vial",
+      "Svyelun of Sea and Sky"
+    ],
+    "summary": {
+      "fr": "Tribal mono-bleu : les seigneurs Ondins donnent bonus et traversée des îles, Harbinger of the Seas et Tide Shaper transforment les terrains adverses en îles.",
+      "en": "Mono-blue tribal: Merfolk lords grant bonuses and islandwalk, while Harbinger of the Seas and Tide Shaper turn opposing lands into Islands."
+    },
+    "why": {
+      "fr": [
+        "Harbinger of the Seas privait les terrains non basiques de leurs capacités",
+        "Aether Vial posait les Ondins sans exposer aux contre-sorts",
+        "A remporté le NRG $10K Showdown de St. Louis"
+      ],
+      "en": [
+        "Harbinger of the Seas stripped nonbasic lands of their abilities",
+        "Aether Vial deployed Merfolk without exposure to counterspells",
+        "Won the NRG $10K Showdown in St. Louis"
+      ]
+    }
+  },
+  {
+    "name": "Death's Shadow",
+    "slug": "deaths-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow"
+    ],
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Nethergoyf",
+      "Street Wraith",
+      "Thoughtseize",
+      "Dragon's Rage Channeler"
+    ],
+    "summary": {
+      "fr": "Aggro qui réduit sa propre vie avec fetchlands, chocklands, Street Wraith et Thoughtseize pour lancer des Death's Shadow géants pour un mana.",
+      "en": "Aggro deck that lowers its own life with fetchlands, shocklands, Street Wraith and Thoughtseize to cast huge one-mana Death's Shadows."
+    },
+    "why": {
+      "fr": [
+        "Nethergoyf, de Modern Horizons 3, s'est ajouté en version Rakdos",
+        "Les listes oscillaient entre Grixis, Dimir et Rakdos",
+        "A remporté le $10K RCQ du SCG CON Tampa"
+      ],
+      "en": [
+        "Nethergoyf, from Modern Horizons 3, joined the Rakdos version",
+        "Lists shifted between Grixis, Dimir and Rakdos",
+        "Won the $10K RCQ at SCG CON Tampa"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Prowess",
+    "slug": "izzet-prowess",
+    "archetype": "aggro",
+    "titles": [
+      "UR Aggro",
+      "Temur Aggro",
+      "Temur Prowess",
+      "UR Prowess"
+    ],
+    "cover": "Slickshot Show-Off",
+    "keyCards": [
+      "Slickshot Show-Off",
+      "Monastery Swiftspear",
+      "Dragon's Rage Channeler",
+      "Lava Dart",
+      "Underworld Breach"
+    ],
+    "summary": {
+      "fr": "Aggro prouesse rouge-bleu : créatures à un mana, Slickshot Show-Off et sorts gratuits comme Lava Dart ou Mutagenic Growth, relancés avec Underworld Breach.",
+      "en": "Red-blue prowess aggro: one-mana creatures, Slickshot Show-Off and free spells such as Lava Dart or Mutagenic Growth, recast with Underworld Breach."
+    },
+    "why": {
+      "fr": [
+        "Slickshot Show-Off a rejoint le deck au printemps",
+        "Questing Druid donnait une version Temur",
+        "A remporté le Destination RCQ des 20 ans de JK Entertainment"
+      ],
+      "en": [
+        "Slickshot Show-Off joined the deck in spring",
+        "Questing Druid gave a Temur version",
+        "Won the JK Entertainment 20-year Destination RCQ"
+      ]
+    },
+    "exclude": [
+      583544,
+      583976
+    ]
+  },
+  {
+    "name": "Eldrazi Ramp",
+    "slug": "eldrazi-ramp",
+    "archetype": "ramp",
+    "titles": [
+      "Eldrazi Ramp",
+      "Eldrazi Control - Through the Breach",
+      "Eldrazi Control",
+      "Eldrazi Breach",
+      "Eldrazi Ramp - Through the Breach"
+    ],
+    "cover": "Emrakul, the Aeons Torn",
+    "keyCards": [
+      "Sowing Mycospawn",
+      "Ugin's Labyrinth",
+      "Eldrazi Temple",
+      "Through the Breach",
+      "Emrakul, the Aeons Torn"
+    ],
+    "summary": {
+      "fr": "Ramp Eldrazi vert de Modern Horizons 3 : Eldrazi Temple, Ugin's Labyrinth et Sowing Mycospawn accélèrent vers Emrakul et Devourer of Destiny.",
+      "en": "Green Eldrazi ramp from Modern Horizons 3: Eldrazi Temple, Ugin's Labyrinth and Sowing Mycospawn accelerate into Emrakul and Devourer of Destiny."
+    },
+    "why": {
+      "fr": [
+        "Une variante rouge mettait Emrakul en jeu avec Through the Breach",
+        "Kozilek's Command servait de removal et de pioche",
+        "A remporté un MTGO Showcase Challenge"
+      ],
+      "en": [
+        "A red variant put Emrakul into play with Through the Breach",
+        "Kozilek's Command served as removal and card draw",
+        "Won an MTGO Showcase Challenge"
+      ]
+    },
+    "note": "Merges green Eldrazi Ramp and the Through the Breach variant (same Temple/Labyrinth/Mycospawn core)."
+  },
+  {
+    "name": "Martyr Life",
+    "slug": "martyr-life",
+    "archetype": "control",
+    "titles": [
+      "Martyr Life",
+      "Life"
+    ],
+    "cover": "Martyr of Sands",
+    "keyCards": [
+      "Martyr of Sands",
+      "Ranger-Captain of Eos",
+      "Eagles of the North",
+      "The One Ring",
+      "Solitude"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-blanc : Martyr of Sands convertit les cartes blanches en points de vie, Ranger-Captain et Abiding Grace le recyclent.",
+      "en": "Mono-white control: Martyr of Sands turns white cards into life, while Ranger-Captain and Abiding Grace recycle it."
+    },
+    "why": {
+      "fr": [
+        "Le gain de vie répété tenait tête aux decks aggro",
+        "White Orchid Phantom détruisait un terrain non basique adverse",
+        "Plusieurs deuxièmes places, mais aucune victoire"
+      ],
+      "en": [
+        "Repeated lifegain held off aggro decks",
+        "White Orchid Phantom destroyed an opposing nonbasic land",
+        "Several second places, but no win"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Black Coffers",
+    "slug": "mono-black-coffers",
+    "archetype": "control",
+    "titles": [
+      "Mono Black Control",
+      "Mono Black Coffers",
+      "Monoblack Coffers",
+      "Coffers"
+    ],
+    "cover": "Cabal Coffers",
+    "keyCards": [
+      "Cabal Coffers",
+      "Urborg, Tomb of Yawgmoth",
+      "Karn, the Great Creator",
+      "The One Ring",
+      "March of Wretched Sorrow"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-noir : Cabal Coffers et Urborg produisent beaucoup de mana pour Karn, The One Ring et March of Wretched Sorrow.",
+      "en": "Mono-black control: Cabal Coffers and Urborg make large amounts of mana for Karn, The One Ring and March of Wretched Sorrow."
+    },
+    "why": {
+      "fr": [
+        "Damnation et Sheoldred's Edict traitaient les créatures",
+        "Ses résultats se concentrent dans la première moitié de l'année",
+        "A remporté un MTGO Showcase Challenge"
+      ],
+      "en": [
+        "Damnation and Sheoldred's Edict handled creatures",
+        "Its results are concentrated in the first half of the year",
+        "Won an MTGO Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Mono-Black Necrodominance",
+    "slug": "mono-black-necrodominance",
+    "archetype": "midrange",
+    "titles": [
+      "Mono Black Aggro",
+      "Necrodominance - Ring Control",
+      "Mono-black Necro"
+    ],
+    "cover": "Necrodominance",
+    "keyCards": [
+      "Necrodominance",
+      "Soul Spike",
+      "Fell the Profane",
+      "Grief",
+      "Orcish Bowmasters"
+    ],
+    "summary": {
+      "fr": "Midrange mono-noir de Modern Horizons 3 : Necrodominance remplace la pioche par de la vie payée, et Soul Spike, lancé en exilant deux cartes noires, utilise les cartes en trop.",
+      "en": "Mono-black midrange from Modern Horizons 3: Necrodominance trades life for cards, and Soul Spike, cast by exiling two black cards, uses the surplus."
+    },
+    "why": {
+      "fr": [
+        "Seth Manfield et Noah Ma ont atteint le top 8 du Pro Tour Modern Horizons 3",
+        "Grief et Thoughtseize ou Inquisition protégeaient le moteur",
+        "Boggart Trawler et Fell the Profane servaient aussi de terrains"
+      ],
+      "en": [
+        "Seth Manfield and Noah Ma reached the Pro Tour Modern Horizons 3 top 8",
+        "Grief and discard protected the engine",
+        "Boggart Trawler and Fell the Profane doubled as lands"
+      ]
+    },
+    "include": [
+      623510,
+      625199,
+      625215,
+      634307,
+      634900
+    ],
+    "rep": 624676
+  },
+  {
+    "name": "Broodscale Combo",
+    "slug": "broodscale-combo",
+    "archetype": "combo",
+    "titles": [
+      "Broodscale Bloodchief"
+    ],
+    "cover": "Basking Broodscale",
+    "keyCards": [
+      "Basking Broodscale",
+      "Blade of the Bloodchief",
+      "Glaring Fleshraker",
+      "Urza's Saga",
+      "Walking Ballista"
+    ],
+    "summary": {
+      "fr": "Combo vert de Modern Horizons 3 : Basking Broodscale et Blade of the Bloodchief créent et sacrifient des Eldrazi Spawn en boucle infinie.",
+      "en": "Green combo from Modern Horizons 3: Basking Broodscale and Blade of the Bloodchief make and sacrifice Eldrazi Spawn in an infinite loop."
+    },
+    "why": {
+      "fr": [
+        "Glaring Fleshraker et Walking Ballista convertissaient la boucle en dégâts",
+        "Urza's Saga allait chercher Blade of the Bloodchief",
+        "Ses top 8 se concentrent en fin d'année"
+      ],
+      "en": [
+        "Glaring Fleshraker and Walking Ballista turned the loop into damage",
+        "Urza's Saga fetched Blade of the Bloodchief",
+        "Its top 8s are concentrated at the end of the year"
+      ]
+    }
+  },
+  {
+    "name": "Scapeshift",
+    "slug": "scapeshift",
+    "archetype": "ramp",
+    "titles": [
+      "Scapeshift",
+      "Bring to Scapeshift",
+      "Valakut"
+    ],
+    "cover": "Scapeshift",
+    "keyCards": [
+      "Scapeshift",
+      "Valakut, the Molten Pinnacle",
+      "Dryad of the Ilysian Grove",
+      "The One Ring",
+      "Sakura-Tribe Elder"
+    ],
+    "summary": {
+      "fr": "Ramp Gruul : rampe jusqu'à sept terrains, puis Scapeshift va chercher Valakut et des Montagnes pour infliger les dégâts d'un coup.",
+      "en": "Gruul ramp: ramps to seven lands, then Scapeshift fetches Valakut and Mountains to deal the damage at once."
+    },
+    "why": {
+      "fr": [
+        "Dryad of the Ilysian Grove donnait à tous les terrains le type Montagne",
+        "The One Ring gagnait le temps nécessaire",
+        "Une version domaine jouait Bring to Light et Omnath"
+      ],
+      "en": [
+        "Dryad of the Ilysian Grove made every land a Mountain",
+        "The One Ring bought the time needed",
+        "A domain version played Bring to Light and Omnath"
+      ]
+    },
+    "rep": 609443
+  },
+  {
+    "name": "Landless Belcher",
+    "slug": "landless-belcher",
+    "archetype": "combo",
+    "titles": [
+      "Landless Belcher",
+      "Fabian Gollmann",
+      "Belcher"
+    ],
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Lotus Bloom",
+      "Tameshi, Reality Architect",
+      "Sea Gate Restoration",
+      "Pact of Negation"
+    ],
+    "summary": {
+      "fr": "Combo sans terrain : uniquement des sorts à double face, Goblin Charbelcher activé révèle toute la bibliothèque et inflige les dégâts.",
+      "en": "Landless combo: with only modal double-faced spells as lands, an activated Goblin Charbelcher reveals the whole library for lethal damage."
+    },
+    "why": {
+      "fr": [
+        "Lotus Bloom et les terrains à double face fournissaient le mana",
+        "Pact of Negation et Disrupting Shoal protégeaient l'activation",
+        "Deuxième aux Campeonato de España et en Champions Cup Area Qualifier"
+      ],
+      "en": [
+        "Lotus Bloom and double-faced lands provided mana",
+        "Pact of Negation and Disrupting Shoal protected the activation",
+        "Runner-up at the Campeonato de España and a Champions Cup qualifier"
+      ]
+    }
+  }
+]
