@@ -11,19 +11,34 @@
       "RakdosScam",
       "Rakdos Aggro"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Grief",
+    "keyCards": [
+      "Grief",
+      "Undying Malice",
+      "Feign Death",
+      "Fury",
+      "Ragavan, Nimble Pilferer"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Midrange Rakdos dont le « scam » consiste à évoquer Grief ou Fury, puis à les ramener en jeu avec Undying Malice ou Feign Death dès le premier tour.",
+      "en": "Rakdos midrange whose 'scam' evokes Grief or Fury, then returns them to play with Undying Malice or Feign Death as early as turn one."
     },
     "why": {
-      "fr": [],
-      "en": []
+      "fr": [
+        "Grief retirait la meilleure carte adverse et attaquait dès le premier tour",
+        "Orcish Bowmasters, arrivé avec The Lord of the Rings, s'ajoutait au noyau",
+        "A remporté le Pro Tour The Lord of the Rings à Barcelone"
+      ],
+      "en": [
+        "Grief stripped the opponent's best card and attacked from turn one",
+        "Orcish Bowmasters, from The Lord of the Rings, joined the core",
+        "Won Pro Tour The Lord of the Rings in Barcelona"
+      ]
     },
     "exclude": [
       502551
-    ]
+    ],
+    "rep": 542157
   },
   {
     "name": "Temur Rhinos",
@@ -37,16 +52,31 @@
       "Omnath Rhinos",
       "Cascade Rhino"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Crashing Footfalls",
+    "keyCards": [
+      "Crashing Footfalls",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Fire/Ice",
+      "Force of Negation"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Deck cascade Temur sans sort à coût bas : Shardless Agent et Violent Outburst révèlent forcément Crashing Footfalls et ses deux rhinocéros 4/4.",
+      "en": "Temur cascade deck with no cheap spells: Shardless Agent and Violent Outburst can only hit Crashing Footfalls and its two 4/4 Rhinos."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Deux 4/4 dès le troisième tour, sans attendre le suspend",
+        "Force of Negation et Mystical Dispute protégeaient le plan",
+        "Plusieurs exemplaires au top 8 du Pro Tour The Lord of the Rings"
+      ],
+      "en": [
+        "Two 4/4s on turn three, skipping the suspend",
+        "Force of Negation and Mystical Dispute protected the plan",
+        "Several copies reached the top 8 of Pro Tour The Lord of the Rings"
+      ]
+    },
+    "rep": 542158
   },
   {
     "name": "Amulet Titan",
@@ -55,16 +85,31 @@
     "titles": [
       "Amulet Titan"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Amulet of Vigor",
+      "Primeval Titan",
+      "Dryad of the Ilysian Grove",
+      "Summoner's Pact",
+      "The One Ring"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Ramp combo : Amulet of Vigor dégage les karoos, Dryad of the Ilysian Grove et Azusa ajoutent des terrains, et Primeval Titan va chercher les terrains utilitaires.",
+      "en": "Ramp combo: Amulet of Vigor untaps bounce lands, Dryad of the Ilysian Grove and Azusa add land drops, and Primeval Titan fetches utility lands."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Primeval Titan pouvait arriver dès le deuxième tour",
+        "The One Ring s'est ajouté au deck dès sa sortie",
+        "Top 4 du Pro Tour The Lord of the Rings avec Dominic Harvey"
+      ],
+      "en": [
+        "Primeval Titan could land as early as turn two",
+        "The One Ring joined the deck on release",
+        "Top 4 at Pro Tour The Lord of the Rings with Dominic Harvey"
+      ]
+    },
+    "rep": 542244
   },
   {
     "name": "Indomitable Creativity",
@@ -75,16 +120,31 @@
       "5c Creativity",
       "Indomitable Creativity"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Indomitable Creativity",
+    "keyCards": [
+      "Indomitable Creativity",
+      "Archon of Cruelty",
+      "Dwarven Mine",
+      "Fable of the Mirror-Breaker",
+      "Wrenn and Six"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Combo rouge à base de Wrenn and Six : Indomitable Creativity transforme les jetons de Dwarven Mine ou de Fable of the Mirror-Breaker en Archon of Cruelty.",
+      "en": "Red Wrenn and Six shell: Indomitable Creativity turns Dwarven Mine or Fable of the Mirror-Breaker tokens into Archon of Cruelty."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Seule créature du deck, Archon of Cruelty était garanti par Creativity",
+        "Persist offrait un second chemin vers Archon",
+        "A remporté le German Modern Championship"
+      ],
+      "en": [
+        "As the only creature, Archon of Cruelty was guaranteed by Creativity",
+        "Persist offered a second route to Archon",
+        "Won the German Modern Championship"
+      ]
+    },
+    "rep": 517495
   },
   {
     "name": "Izzet Murktide",
@@ -97,21 +157,36 @@
       "UR Aggro",
       "UR Ragavan"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Murktide Regent",
+    "keyCards": [
+      "Murktide Regent",
+      "Dragon's Rage Channeler",
+      "Ragavan, Nimble Pilferer",
+      "Expressive Iteration",
+      "Unholy Heat"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Tempo bleu-rouge : cantrips et sorts bon marché remplissent le cimetière pour Dragon's Rage Channeler et réduisent le coût de Murktide Regent.",
+      "en": "Blue-red tempo: cantrips and cheap spells fill the graveyard for Dragon's Rage Channeler and discount Murktide Regent."
     },
     "why": {
-      "fr": [],
-      "en": []
+      "fr": [
+        "Ragavan et Dragon's Rage Channeler mettaient la pression dès le premier tour",
+        "Counterspell et Spell Pierce protégeaient Murktide Regent",
+        "Présent en top 8 tout au long de l'année"
+      ],
+      "en": [
+        "Ragavan and Dragon's Rage Channeler pressured from turn one",
+        "Counterspell and Spell Pierce protected Murktide Regent",
+        "Made top 8s throughout the year"
+      ]
     },
     "exclude": [
       502548,
       525071,
       539002
-    ]
+    ],
+    "rep": 546511
   },
   {
     "name": "Yawgmoth",
@@ -124,16 +199,31 @@
       "Yawgmoth",
       "Golgari Yawgmoth"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Yawgmoth, Thran Physician",
+    "keyCards": [
+      "Yawgmoth, Thran Physician",
+      "Young Wolf",
+      "Chord of Calling",
+      "Grist, the Hunger Tide",
+      "Agatha's Soul Cauldron"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Toolbox Golgari : Yawgmoth sacrifie des créatures persistance comme Young Wolf pour placer des marqueurs -1/-1, piocher et vider le camp adverse.",
+      "en": "Golgari toolbox: Yawgmoth sacrifices undying creatures such as Young Wolf to spread -1/-1 counters, draw cards and clear the board."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Chord of Calling allait chercher Yawgmoth ou la pièce utile",
+        "Orcish Bowmasters s'est ajouté à la liste de créatures",
+        "Agatha's Soul Cauldron donnait les capacités au reste de l'équipe"
+      ],
+      "en": [
+        "Chord of Calling found Yawgmoth or the right piece",
+        "Orcish Bowmasters joined the creature suite",
+        "Agatha's Soul Cauldron shared abilities across the team"
+      ]
+    },
+    "rep": 564832
   },
   {
     "name": "Hammer Time",
@@ -148,16 +238,31 @@
       "Mono-white Hammer",
       "Boros Hammer"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Colossus Hammer",
+    "keyCards": [
+      "Colossus Hammer",
+      "Puresteel Paladin",
+      "Sigarda's Aid",
+      "Stoneforge Mystic",
+      "Urza's Saga"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Aggro blanc d'équipements : Sigarda's Aid ou Puresteel Paladin attachent Colossus Hammer sans payer le coût d'équipement.",
+      "en": "White equipment aggro: Sigarda's Aid or Puresteel Paladin attach Colossus Hammer without paying its equip cost."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Une créature +10/+10 pouvait attaquer dès le deuxième tour",
+        "Urza's Saga allait chercher Colossus Hammer ou Springleaf Drum",
+        "A remporté le Main Event de l'Eternal Weekend Europe"
+      ],
+      "en": [
+        "A +10/+10 creature could attack as early as turn two",
+        "Urza's Saga fetched Colossus Hammer or Springleaf Drum",
+        "Won the Eternal Weekend Europe main event"
+      ]
+    },
+    "rep": 566266
   },
   {
     "name": "Living End",
@@ -166,16 +271,31 @@
     "titles": [
       "Living End"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Living End",
+    "keyCards": [
+      "Living End",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Street Wraith",
+      "Grief"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Deck cascade sans sort à coût bas : les créatures à cyclage remplissent le cimetière, puis la cascade lance Living End pour les rappeler toutes.",
+      "en": "Cascade deck with no cheap spells: cycling creatures fill the graveyard, then cascade casts Living End to return them all."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Shardless Agent et Violent Outburst lançaient Living End dès le troisième tour",
+        "Grief et Force of Negation dégageaient la voie",
+        "Gagnant régulier d'épreuves tout au long de l'année"
+      ],
+      "en": [
+        "Shardless Agent and Violent Outburst cast Living End on turn three",
+        "Grief and Force of Negation cleared the way",
+        "Won events steadily throughout the year"
+      ]
+    },
+    "rep": 560993
   },
   {
     "name": "4c Omnath",
@@ -192,16 +312,32 @@
       "Cascade Bean",
       "4c Cascade Beanstalk"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Omnath, Locus of Creation",
+    "keyCards": [
+      "Omnath, Locus of Creation",
+      "The One Ring",
+      "Solitude",
+      "Teferi, Time Raveler",
+      "Leyline Binding"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Contrôle quatre couleurs : Omnath, Wrenn and Six et Solitude encadrés par The One Ring, avec Leyline Binding pour removal grâce aux tricolores.",
+      "en": "Four-color control: Omnath, Wrenn and Six and Solitude backed by The One Ring, with Leyline Binding as removal thanks to triomes."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "The One Ring apportait protection et pioche à un deck déjà riche en valeur",
+        "Up the Beanstalk a été ajouté en fin d'année, parfois via cascade",
+        "Partage les terrains et le removal des autres decks domaine"
+      ],
+      "en": [
+        "The One Ring added protection and card draw to a value deck",
+        "Up the Beanstalk was added late in the year, sometimes via cascade",
+        "Shared lands and removal with the other domain decks"
+      ]
+    },
+    "rep": 535309,
+    "note": "Merges 4c Control, 4cc and the small Shardless Agent/Up the Beanstalk cascade variants (Cascade Beanstalk, 4c Cascade)."
   },
   {
     "name": "Grinding Breach",
@@ -213,16 +349,31 @@
       "Jeskai Breach",
       "UR Breach"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Underworld Breach",
+    "keyCards": [
+      "Underworld Breach",
+      "Grinding Station",
+      "Emry, Lurker of the Loch",
+      "Urza's Saga",
+      "Ragavan, Nimble Pilferer"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Combo-tempo bleu-rouge : Underworld Breach et Grinding Station, avec Mox Amber ou Mishra's Bauble, meulent toute la bibliothèque adverse.",
+      "en": "Blue-red combo-tempo: Underworld Breach with Grinding Station and Mox Amber or Mishra's Bauble mills the opponent's whole library."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Ragavan et Expressive Iteration permettaient de jouer comme un deck tempo",
+        "Urza's Saga allait chercher Grinding Station",
+        "Ses résultats s'arrêtent après la fin de l'été"
+      ],
+      "en": [
+        "Ragavan and Expressive Iteration let it play as a tempo deck",
+        "Urza's Saga fetched Grinding Station",
+        "Its results stop after the end of summer"
+      ]
+    },
+    "rep": 505932
   },
   {
     "name": "Tron",
@@ -234,16 +385,31 @@
       "Green Tron",
       "Monogreen Tron"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Karn, the Great Creator",
+    "keyCards": [
+      "Urza's Tower",
+      "Karn, the Great Creator",
+      "The One Ring",
+      "Ancient Stirrings",
+      "Expedition Map"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Ramp Tron, le plus souvent mono-vert : les trois terrains Urza produisent sept manas au troisième tour pour Karn, Wurmcoil Engine, Ulamog et The One Ring.",
+      "en": "Tron ramp, mostly mono-green: the three Urza lands make seven mana on turn three for Karn, Wurmcoil Engine, Ulamog and The One Ring."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "The One Ring donnait le temps et les cartes pour assembler Tron",
+        "Finaliste du Pro Tour The Lord of the Rings avec Christian Calcano",
+        "Simon Nielsen a aussi atteint le top 4 du même Pro Tour"
+      ],
+      "en": [
+        "The One Ring bought time and cards to assemble Tron",
+        "Runner-up at Pro Tour The Lord of the Rings with Christian Calcano",
+        "Simon Nielsen also made top 4 at the same Pro Tour"
+      ]
+    },
+    "rep": 542156
   },
   {
     "name": "Hardened Scales",
@@ -252,16 +418,31 @@
     "titles": [
       "Hardened Scales"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Hardened Scales",
+      "Arcbound Ravager",
+      "Zabaz, the Glimmerwasp",
+      "Walking Ballista",
+      "Urza's Saga"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Aggro artefacts à marqueurs +1/+1 : Hardened Scales et Zabaz amplifient chaque marqueur, Arcbound Ravager les déplace.",
+      "en": "+1/+1 counter artifact aggro: Hardened Scales and Zabaz grow every counter, Arcbound Ravager moves them around."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Arcbound Ravager et Inkmoth Nexus donnaient une fin de partie par infection",
+        "Urza's Saga ajoutait des Constructs et allait chercher un artefact",
+        "Agatha's Soul Cauldron transmettait les capacités de modulaire"
+      ],
+      "en": [
+        "Arcbound Ravager and Inkmoth Nexus offered an infect finish",
+        "Urza's Saga added Constructs and fetched an artifact",
+        "Agatha's Soul Cauldron shared modular abilities"
+      ]
+    },
+    "rep": 559115
   },
   {
     "name": "Jund",
@@ -270,16 +451,31 @@
     "titles": [
       "Jund"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Tarmogoyf",
+    "keyCards": [
+      "Wrenn and Six",
+      "Tarmogoyf",
+      "Ragavan, Nimble Pilferer",
+      "Thoughtseize",
+      "Urza's Saga"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Midrange Jund classique remis au goût du jour : défausse, removal à coût bas, Ragavan, Dragon's Rage Channeler, Tarmogoyf et Wrenn and Six.",
+      "en": "Classic Jund midrange updated: discard, cheap removal, Ragavan, Dragon's Rage Channeler, Tarmogoyf and Wrenn and Six."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Unholy Heat et Fatal Push traitaient les créatures à bas coût",
+        "Urza's Saga apportait des menaces artefacts",
+        "A remporté le BIG MAGIC Players Convention Open à Yokohama"
+      ],
+      "en": [
+        "Unholy Heat and Fatal Push handled cheap creatures",
+        "Urza's Saga provided artifact threats",
+        "Won the BIG MAGIC Players Convention Open in Yokohama"
+      ]
+    },
+    "rep": 511042
   },
   {
     "name": "Azorius Control",
@@ -290,16 +486,31 @@
       "Uw Control",
       "The One Azorius"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Solitude",
+    "keyCards": [
+      "Solitude",
+      "Teferi, Time Raveler",
+      "Counterspell",
+      "Prismatic Ending",
+      "Supreme Verdict"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Contrôle blanc-bleu : Counterspell, Solitude et Prismatic Ending, avec Teferi, Time Raveler pour empêcher les sorts en réponse.",
+      "en": "White-blue control: Counterspell, Solitude and Prismatic Ending, with Teferi, Time Raveler shutting off instant-speed responses."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Solitude se lançait gratuitement en exilant une carte blanche",
+        "Les listes de fin d'année jouaient The One Ring et Leyline Binding",
+        "Plusieurs deuxièmes places, mais aucune victoire"
+      ],
+      "en": [
+        "Solitude could be cast for free by pitching a white card",
+        "Late-year lists played The One Ring and Leyline Binding",
+        "Several second places, but no event win"
+      ]
+    },
+    "rep": 502549
   },
   {
     "name": "4c Elementals",
@@ -312,16 +523,31 @@
       "Omnath Elementals",
       "5c Elemental Value"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Risen Reef",
+    "keyCards": [
+      "Risen Reef",
+      "Omnath, Locus of Creation",
+      "Solitude",
+      "Fury",
+      "Leyline Binding"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Midrange Élémentaux quatre couleurs : Risen Reef et Omnath génèrent des cartes et du mana, Solitude et Fury s'évoquent comme removal.",
+      "en": "Four-color Elementals midrange: Risen Reef and Omnath generate cards and mana, while Solitude and Fury are evoked as removal."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Cavern of Souls rendait les Élémentaux incontrables",
+        "Elesh Norn, Mother of Machines doublait les déclenchements",
+        "A remporté le Grand Open Qualifier de Prague"
+      ],
+      "en": [
+        "Cavern of Souls made the Elementals uncounterable",
+        "Elesh Norn, Mother of Machines doubled the triggers",
+        "Won the Grand Open Qualifier in Prague"
+      ]
+    },
+    "rep": 519014
   },
   {
     "name": "Mono-Black Coffers",
@@ -332,16 +558,31 @@
       "Mono-black Coffers",
       "Mono B Coffers"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Cabal Coffers",
+    "keyCards": [
+      "Cabal Coffers",
+      "Urborg, Tomb of Yawgmoth",
+      "Karn, the Great Creator",
+      "The One Ring",
+      "Sheoldred, the Apocalypse"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Contrôle mono-noir : Cabal Coffers et Urborg produisent beaucoup de mana pour Karn, The One Ring et March of Wretched Sorrow.",
+      "en": "Mono-black control: Cabal Coffers and Urborg make large amounts of mana for Karn, The One Ring and March of Wretched Sorrow."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Apparu au début de l'été, avec Orcish Bowmasters et The One Ring",
+        "Karn, the Great Creator allait chercher des artefacts en réserve",
+        "A remporté une MTGO Super Qualifier et l'Apex Gaming Invitational"
+      ],
+      "en": [
+        "Appeared in early summer, with Orcish Bowmasters and The One Ring",
+        "Karn, the Great Creator fetched artifacts from the sideboard",
+        "Won an MTGO Super Qualifier and the Apex Gaming Invitational"
+      ]
+    },
+    "rep": 550739
   },
   {
     "name": "Burn",
@@ -351,16 +592,31 @@
       "Burn",
       "Boros Burn"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Lightning Bolt",
+    "keyCards": [
+      "Lightning Bolt",
+      "Goblin Guide",
+      "Monastery Swiftspear",
+      "Boros Charm",
+      "Skewer the Critics"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Burn Boros : créatures rapides et sorts de dégâts directs à un ou deux manas pour amener l'adversaire à zéro en quatre ou cinq tours.",
+      "en": "Boros Burn: fast creatures and one- or two-mana direct damage spells to take the opponent to zero in four or five turns."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Skullcrack et Searing Blaze punissaient les decks de gain de vie et de créatures",
+        "Lava Spike et Rift Bolt complétaient le compte de dégâts directs",
+        "A remporté le 25e God of Modern à Tokyo et un qualificatif Secret Lair Showdown"
+      ],
+      "en": [
+        "Skullcrack and Searing Blaze punished lifegain and creature decks",
+        "Lava Spike and Rift Bolt filled out the direct damage count",
+        "Won the 25th God of Modern in Tokyo and a Secret Lair Showdown qualifier"
+      ]
+    },
+    "rep": 566056
   },
   {
     "name": "Domain Zoo",
@@ -372,16 +628,31 @@
       "Domain Zoo",
       "5c Zoo"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Scion of Draco",
+    "keyCards": [
+      "Scion of Draco",
+      "Territorial Kavu",
+      "Tribal Flames",
+      "Leyline Binding",
+      "Lightning Helix"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Aggro domaine : fetchlands et tricolores donnent les cinq types de terrain pour Territorial Kavu, Tribal Flames, Scion of Draco et Leyline Binding.",
+      "en": "Domain aggro: fetchlands and triomes provide all five basic types for Territorial Kavu, Tribal Flames, Scion of Draco and Leyline Binding."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Leyline Binding coûtait un seul mana avec le domaine complet",
+        "Scion of Draco donnait des capacités à toute l'équipe",
+        "Ses meilleurs résultats datent du début d'année"
+      ],
+      "en": [
+        "Leyline Binding cost a single mana with full domain",
+        "Scion of Draco granted keywords to the whole team",
+        "Its best results came early in the year"
+      ]
+    },
+    "rep": 505745
   },
   {
     "name": "Merfolk",
@@ -390,16 +661,31 @@
     "titles": [
       "Merfolk"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Svyelun of Sea and Sky",
+    "keyCards": [
+      "Svyelun of Sea and Sky",
+      "Lord of Atlantis",
+      "Master of the Pearl Trident",
+      "Aether Vial",
+      "Cavern of Souls"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Tribal mono-bleu : les seigneurs Ondins donnent bonus et traversée des îles, Aether Vial et Cavern of Souls contournent les contre-sorts.",
+      "en": "Mono-blue tribal: Merfolk lords grant bonuses and islandwalk, while Aether Vial and Cavern of Souls get around counterspells."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Tide Shaper transformait un terrain adverse en île",
+        "Svyelun of Sea and Sky piochait et protégeait l'équipe",
+        "Finaliste des Nordic Masters"
+      ],
+      "en": [
+        "Tide Shaper turned an opposing land into an Island",
+        "Svyelun of Sea and Sky drew cards and protected the team",
+        "Runner-up at the Nordic Masters"
+      ]
+    },
+    "rep": 549387
   },
   {
     "name": "Death's Shadow",
@@ -410,16 +696,31 @@
       "Grixis Shadow",
       "Ub Shadow"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Thoughtseize",
+      "Ledger Shredder",
+      "Drown in the Loch",
+      "Ragavan, Nimble Pilferer"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Aggro Grixis qui réduit sa propre vie avec fetchlands, chocklands et Thoughtseize pour lancer des Death's Shadow géants pour un mana.",
+      "en": "Grixis aggro that lowers its own life with fetchlands, shocklands and Thoughtseize to cast huge one-mana Death's Shadows."
     },
     "why": {
-      "fr": [],
-      "en": []
-    }
+      "fr": [
+        "Ledger Shredder et Dragon's Rage Channeler complétaient la pression",
+        "Drown in the Loch servait de contre-sort et de removal",
+        "A remporté le 22e God of Modern"
+      ],
+      "en": [
+        "Ledger Shredder and Dragon's Rage Channeler added pressure",
+        "Drown in the Loch served as counter and removal",
+        "Won the 22nd God of Modern"
+      ]
+    },
+    "rep": 503530
   },
   {
     "name": "Izzet Prowess",
@@ -431,20 +732,35 @@
       "Temur Aggro",
       "UR Aggro Breach"
     ],
-    "cover": "?",
-    "keyCards": [],
+    "cover": "Monastery Swiftspear",
+    "keyCards": [
+      "Monastery Swiftspear",
+      "Soul-Scar Mage",
+      "Sprite Dragon",
+      "Mutagenic Growth",
+      "Underworld Breach"
+    ],
     "summary": {
-      "fr": "",
-      "en": ""
+      "fr": "Aggro prouesse bleu-rouge : créatures à un mana et sorts gratuits comme Mutagenic Growth, Manamorphose ou Lava Dart, relancés avec Underworld Breach.",
+      "en": "Blue-red prowess aggro: one-mana creatures and free spells such as Mutagenic Growth, Manamorphose or Lava Dart, recast with Underworld Breach."
     },
     "why": {
-      "fr": [],
-      "en": []
+      "fr": [
+        "Les sorts gratuits déclenchaient la prouesse sans dépenser de mana",
+        "Underworld Breach transformait le cimetière en ressource",
+        "A remporté le $20K RCQ du SCG CON New Jersey"
+      ],
+      "en": [
+        "Free spells triggered prowess without spending mana",
+        "Underworld Breach turned the graveyard into a resource",
+        "Won the $20K RCQ at SCG CON New Jersey"
+      ]
     },
     "include": [
       502548,
       525071,
       539002
-    ]
+    ],
+    "rep": 502548
   }
 ]
