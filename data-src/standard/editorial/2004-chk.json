@@ -34,13 +34,49 @@
     }
   },
   {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity"
+    ],
+    "rep": "x-states-2004-ny-1-claire",
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Disciple of the Vault",
+      "Cranial Plating",
+      "Thoughtcast",
+      "Aether Vial"
+    ],
+    "summary": {
+      "fr": "Aggro artefact qui lance ses sorts presque gratuitement grâce aux terrains-artefacts et à l'affinité, puis sacrifie ses pièces à Arcbound Ravager.",
+      "en": "Artifact aggro that casts its spells almost for free through artifact lands and affinity, then sacrifices its pieces to Arcbound Ravager."
+    },
+    "why": {
+      "fr": [
+        "Arcbound Ravager et Disciple of the Vault transformaient chaque sacrifice en dégâts",
+        "Cranial Plating rendait n'importe quel artefact mortel",
+        "Ravager, Disciple et les terrains-artefacts ont été bannis en mars 2005"
+      ],
+      "en": [
+        "Arcbound Ravager and Disciple of the Vault turned every sacrifice into damage",
+        "Cranial Plating made any artifact lethal",
+        "Ravager, Disciple and the artifact lands were banned in March 2005"
+      ]
+    },
+    "note": "Pre-ban Ravager lists (States 2004, early 2005 Regionals) and post-ban Cranial Plating / Ninja of the Deep Hours lists (Nationals 2005) share the SCG title 'Affinity'."
+  },
+  {
     "name": "Mono-Blue Tron",
     "slug": "mono-blue-tron",
     "archetype": "control",
     "titles": [
       "Mono-blue Tron",
       "Mono Blue Tron",
-      "Nobu Tron"
+      "Nobu Tron",
+      "Urzatron Blue",
+      "Blue Urzatron"
     ],
     "cover": "Memnarch",
     "keyCards": [
@@ -66,7 +102,11 @@
         "Condescend and Mana Leak protected the build-up"
       ]
     },
-    "rep": 600490
+    "rep": 600490,
+    "include": [
+      "x-regionals-2005-santa-clara-ca-1-peterson",
+      "x-regionals-2005-santiago-chile-1-pizarro"
+    ]
   },
   {
     "name": "Big Red",
@@ -75,7 +115,12 @@
     "titles": [
       "Big Red",
       "Red Aggro",
-      "Mono-red Aggro"
+      "Mono-red Aggro",
+      "Mono Red Control",
+      "Red Deck Wins",
+      "Mono Red Aggro",
+      "Flores Red",
+      "Ponza"
     ],
     "cover": "Arc-Slogger",
     "keyCards": [
@@ -110,7 +155,9 @@
     "titles": [
       "Viridian Rats",
       "Mono-black Rats",
-      "Mono Black Aggro"
+      "Mono Black Aggro",
+      "Rats",
+      "Ninja Rats"
     ],
     "cover": "Chittering Rats",
     "keyCards": [
@@ -144,7 +191,8 @@
     "slug": "jushi-blue",
     "archetype": "control",
     "titles": [
-      "Jushi Blue"
+      "Jushi Blue",
+      "Mono Blue Control"
     ],
     "cover": "Jushi Apprentice",
     "keyCards": [
@@ -178,7 +226,9 @@
     "archetype": "ramp",
     "titles": [
       "B/g Death Cloud",
-      "Death Cloud"
+      "Death Cloud",
+      "B/G Control",
+      "G/B Beats"
     ],
     "cover": "Death Cloud",
     "keyCards": [
@@ -189,8 +239,8 @@
       "Sakura-Tribe Elder"
     ],
     "summary": {
-      "fr": "Ramp vert-noir qui accélère avec Sakura-Tribe Elder et Kodama's Reach, puis joue Death Cloud et Kokusho.",
-      "en": "Green-black ramp that accelerates with Sakura-Tribe Elder and Kodama's Reach, then plays Death Cloud and Kokusho."
+      "fr": "Decks vert-noir autour de Sakura-Tribe Elder : les versions ramp jouaient Death Cloud et Kokusho, d'autres attaquaient avec Troll Ascetic.",
+      "en": "Green-black decks built around Sakura-Tribe Elder: ramp versions played Death Cloud and Kokusho, others attacked with Troll Ascetic."
     },
     "why": {
       "fr": [
@@ -204,14 +254,17 @@
         "Kokusho drained life when it died"
       ]
     },
-    "rep": 603808
+    "rep": 603808,
+    "note": "B/G Control (Troll Ascetic, Rend Flesh) and G/B Beats merged with the Death Cloud lists: same green-black shell."
   },
   {
     "name": "Mono-Green Aggro",
     "slug": "mono-green-aggro",
     "archetype": "aggro",
     "titles": [
-      "Mono Green Aggro"
+      "Mono Green Aggro",
+      "Beacon Green",
+      "Mono Green Beats"
     ],
     "cover": "Troll Ascetic",
     "keyCards": [
@@ -244,7 +297,8 @@
     "slug": "white-weenie",
     "archetype": "aggro",
     "titles": [
-      "White Weenie"
+      "White Weenie",
+      "R/W Beats"
     ],
     "cover": "Isamaru, Hound of Konda",
     "keyCards": [
@@ -255,8 +309,8 @@
       "Raise the Alarm"
     ],
     "summary": {
-      "fr": "Aggro mono-blanc de petites créatures renforcées par Glorious Anthem, avec Hokori et Damping Matrix contre les decks lents.",
-      "en": "Mono-white aggro of small creatures pumped by Glorious Anthem, with Hokori and Damping Matrix against slower decks."
+      "fr": "Aggro blanc de petites créatures renforcées par Glorious Anthem, parfois avec une touche rouge, avec Hokori et Damping Matrix contre les decks lents.",
+      "en": "White aggro of small creatures pumped by Glorious Anthem, sometimes splashing red, with Hokori and Damping Matrix against slower decks."
     },
     "why": {
       "fr": [
@@ -270,7 +324,8 @@
         "Damping Matrix shut down activated artifacts"
       ]
     },
-    "rep": 603806
+    "rep": 603806,
+    "note": "R/W Beats (State Championship winners with Electrostatic Bolt and Magma Jet) merged as a red-splash variant."
   },
   {
     "name": "Sea Stompy",
@@ -304,5 +359,247 @@
       ]
     },
     "rep": 600590
+  },
+  {
+    "name": "Mono-Black Control",
+    "slug": "mono-black-control",
+    "archetype": "control",
+    "titles": [
+      "Mono Black Control",
+      "Mono Black Beats"
+    ],
+    "rep": "x-nationals-greece-2005-8-andriopolous",
+    "cover": "Kokusho, the Evening Star",
+    "keyCards": [
+      "Kokusho, the Evening Star",
+      "Yukora, the Prisoner",
+      "Damping Matrix",
+      "Barter in Blood",
+      "Night's Whisper"
+    ],
+    "summary": {
+      "fr": "Contrôle mono-noir qui élimine les créatures et vide la main adverse, puis gagne avec Kokusho et d'autres créatures légendaires.",
+      "en": "Mono-black control that removes creatures and empties the opponent's hand, then wins with Kokusho and other legendary creatures."
+    },
+    "why": {
+      "fr": [
+        "Kokusho, the Evening Star drainait des points de vie à chaque mort",
+        "Barter in Blood et Terror répondaient aux créatures",
+        "Damping Matrix freinait les artefacts activés"
+      ],
+      "en": [
+        "Kokusho, the Evening Star drained life each time it died",
+        "Barter in Blood and Terror answered creatures",
+        "Damping Matrix slowed activated artifacts"
+      ]
+    }
+  },
+  {
+    "name": "UG Control",
+    "slug": "ug-control",
+    "archetype": "control",
+    "titles": [
+      "U/G Control",
+      "U/G Beats"
+    ],
+    "rep": "x-nationals-germany-2005-1-scholz",
+    "cover": "Ninja of the Deep Hours",
+    "keyCards": [
+      "Ninja of the Deep Hours",
+      "Plow Under",
+      "Eternal Witness",
+      "Sakura-Tribe Elder",
+      "Mana Leak"
+    ],
+    "summary": {
+      "fr": "Bleu-vert qui accélère avec Sakura-Tribe Elder, ralentit l'adversaire avec Plow Under et des contresorts, et récupère ses sorts avec Eternal Witness.",
+      "en": "Blue-green deck that ramps with Sakura-Tribe Elder, slows opponents with Plow Under and counterspells, and rebuys spells with Eternal Witness."
+    },
+    "why": {
+      "fr": [
+        "Plow Under et Eternal Witness verrouillaient les pioches adverses",
+        "Ninja of the Deep Hours piochait à chaque attaque",
+        "Les versions de championnat d'État misaient sur Meloku et Oxidize"
+      ],
+      "en": [
+        "Plow Under plus Eternal Witness locked opposing draws",
+        "Ninja of the Deep Hours drew a card on every hit",
+        "State Championship versions relied on Meloku and Oxidize instead"
+      ]
+    }
+  },
+  {
+    "name": "RG Midrange",
+    "slug": "rg-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "R/G Beats",
+      "R/G Legends",
+      "R/G Control",
+      "R/G Land Destruction",
+      "Three-Color Beats",
+      "Three-Color Control"
+    ],
+    "rep": "x-nationals-ukraine-2005-8-andrusyak",
+    "cover": "Arc-Slogger",
+    "keyCards": [
+      "Arc-Slogger",
+      "Eternal Witness",
+      "Sakura-Tribe Elder",
+      "Magma Jet",
+      "Kumano, Master Yamabushi"
+    ],
+    "summary": {
+      "fr": "Rouge-vert de milieu de partie qui accélère avec Sakura-Tribe Elder, élimine avec Magma Jet et domine avec Arc-Slogger et les légendes de Kamigawa.",
+      "en": "Red-green midrange that ramps with Sakura-Tribe Elder, removes creatures with Magma Jet and takes over with Arc-Slogger and Kamigawa legends."
+    },
+    "why": {
+      "fr": [
+        "Arc-Slogger servait de menace et de retrait répété",
+        "Eternal Witness récupérait le meilleur sort du cimetière",
+        "Les versions à une troisième couleur ajoutaient Rend Flesh ou Kiki-Jiki"
+      ],
+      "en": [
+        "Arc-Slogger was both threat and repeatable removal",
+        "Eternal Witness rebought the best spell in the graveyard",
+        "Three-colour versions added Rend Flesh or Kiki-Jiki"
+      ]
+    },
+    "note": "R/G Beats, Legends, Control and Land Destruction lists merged with the RG-based 'Three-Color Beats/Control' State Championship winners (Jund or Kiki-Jiki splashes)."
+  },
+  {
+    "name": "GW Control",
+    "slug": "gw-control",
+    "archetype": "control",
+    "titles": [
+      "G/W Control"
+    ],
+    "include": [
+      "x-states-2004-va-1-soorani"
+    ],
+    "rep": "x-regionals-2005-santiago-chile-06-19-1-iturra",
+    "cover": "Yosei, the Morning Star",
+    "keyCards": [
+      "Wrath of God",
+      "Yosei, the Morning Star",
+      "Plow Under",
+      "Eternal Witness",
+      "Kodama's Reach"
+    ],
+    "summary": {
+      "fr": "Contrôle vert-blanc qui accélère vers Wrath of God, puis verrouille l'adversaire avec Plow Under, Eternal Witness et Yosei.",
+      "en": "Green-white control that ramps into Wrath of God, then locks opponents with Plow Under, Eternal Witness and Yosei."
+    },
+    "why": {
+      "fr": [
+        "Wrath of God punissait les decks de créatures",
+        "Plow Under rejoué par Eternal Witness ralentissait les decks lents",
+        "Yosei, the Morning Star faisait passer un tour à l'adversaire"
+      ],
+      "en": [
+        "Wrath of God punished creature decks",
+        "Plow Under rebought by Eternal Witness slowed big decks",
+        "Yosei, the Morning Star made opponents skip a turn"
+      ]
+    }
+  },
+  {
+    "name": "RUG Wildfire",
+    "slug": "rug-wildfire",
+    "archetype": "ramp",
+    "titles": [
+      "Three Color Control"
+    ],
+    "rep": "x-nationals-chile-2005-1-capdevila",
+    "cover": "Wildfire",
+    "keyCards": [
+      "Wildfire",
+      "Arc-Slogger",
+      "Molder Slug",
+      "Kodama's Reach",
+      "Condescend"
+    ],
+    "summary": {
+      "fr": "Ramp bleu-rouge-vert qui accélère avec Kodama's Reach, lance Wildfire pour détruire terrains et créatures, puis gagne avec Arc-Slogger et Molder Slug.",
+      "en": "Blue-red-green ramp that accelerates with Kodama's Reach, casts Wildfire to wipe lands and creatures, then wins with Arc-Slogger and Molder Slug."
+    },
+    "why": {
+      "fr": [
+        "Sakura-Tribe Elder et Kodama's Reach gardaient l'avance en terrains après Wildfire",
+        "Condescend et Hinder protégeaient le plan",
+        "Molder Slug punissait les artefacts"
+      ],
+      "en": [
+        "Sakura-Tribe Elder and Kodama's Reach kept a land lead after Wildfire",
+        "Condescend and Hinder protected the plan",
+        "Molder Slug punished artifacts"
+      ]
+    }
+  },
+  {
+    "name": "Five-Color Gifts",
+    "slug": "five-color-gifts",
+    "archetype": "control",
+    "titles": [
+      "Five Color Gifts"
+    ],
+    "rep": "x-regionals-2005-centre-france-1-pompigne",
+    "cover": "Gifts Ungiven",
+    "keyCards": [
+      "Gifts Ungiven",
+      "Eternal Witness",
+      "Etched Oracle",
+      "Kodama's Reach",
+      "Tendo Ice Bridge"
+    ],
+    "summary": {
+      "fr": "Contrôle cinq couleurs qui trouve des réponses uniques avec Gifts Ungiven et les récupère avec Eternal Witness.",
+      "en": "Five-colour control that finds single-copy answers with Gifts Ungiven and gets them back with Eternal Witness."
+    },
+    "why": {
+      "fr": [
+        "Gifts Ungiven donnait accès à une boîte à outils de réponses",
+        "Eternal Witness récupérait la carte mise au cimetière",
+        "City of Brass et Tendo Ice Bridge fournissaient toutes les couleurs"
+      ],
+      "en": [
+        "Gifts Ungiven gave access to a toolbox of answers",
+        "Eternal Witness rebought the card sent to the graveyard",
+        "City of Brass and Tendo Ice Bridge provided every colour"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "U/W Control"
+    ],
+    "rep": "x-nationals-great-britain-2005-4-rigby",
+    "cover": "Worship",
+    "keyCards": [
+      "Worship",
+      "Damping Matrix",
+      "Pristine Angel",
+      "Hinder",
+      "Thirst for Knowledge"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-blanc à contresorts qui protège Worship et Pristine Angel, avec Damping Matrix contre les artefacts.",
+      "en": "Blue-white counterspell control that protects Worship and Pristine Angel, with Damping Matrix against artifacts."
+    },
+    "why": {
+      "fr": [
+        "Worship empêchait les decks de créatures de gagner",
+        "Hinder, Mana Leak et Rewind protégeaient les enchantements",
+        "Damping Matrix bloquait les capacités des artefacts"
+      ],
+      "en": [
+        "Worship stopped creature decks from winning",
+        "Hinder, Mana Leak and Rewind protected the enchantments",
+        "Damping Matrix shut off artifact abilities"
+      ]
+    }
   }
 ]
