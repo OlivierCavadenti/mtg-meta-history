@@ -114,7 +114,7 @@ watchEffect(() => {
         </div>
       </div>
       <div class="why">
-        <h2>{{ deck.tier === 1 ? t('why1') : t('why') }}</h2>
+        <h2>{{ deck.limited ? t('whyLimited') : deck.tier === 1 ? t('why1') : t('why') }}</h2>
         <ol>
           <li v-for="(b, i) in why" :key="i">{{ b }}</li>
         </ol>

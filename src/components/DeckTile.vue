@@ -20,7 +20,7 @@ const wins = computed(() => props.deck.stats.wins)
     </div>
     <h3>{{ deck.name }} <ColorPips :colors="deck.colors" :size="13" /></h3>
     <p class="meta">
-      <span v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}.</span>
+      <span v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}.</span>{{ ' ' }}
       <template v-if="deck.limited">
         {{ archetypeLabel(deck.archetype) }}, {{ formatNumber(deck.limited.winRate) }} % {{ t('winRate') }},
         {{ formatNumber(deck.stats.share) }} % {{ t('ofGames') }}

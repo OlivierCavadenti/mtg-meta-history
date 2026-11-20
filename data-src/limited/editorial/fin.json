@@ -1,0 +1,167 @@
+[
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorts coûteux : Shantotto, Tactician Magician et The Emperor of Palamecia récompensent les gros sorts non-créature, Ice Magic et Thunder Magic contrôlent.",
+      "en": "Expensive spells: Shantotto, Tactician Magician and The Emperor of Palamecia reward big noncreature spells, with Ice Magic and Thunder Magic as control."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set, et paire la plus jouée.", "Ice Magic et Thunder Magic, sorts communs, dans la plupart des decks.", "Choco-Comet et Sorceress's Schemes avaient de hauts taux."],
+      "en": ["The best win rate of the set, and the most played pair.", "Ice Magic and Thunder Magic, common spells, were in most decks.", "Choco-Comet and Sorceress's Schemes had high win rates."]
+    },
+    "keyCards": ["Shantotto, Tactician Magician", "The Emperor of Palamecia", "Ice Magic", "Thunder Magic", "Choco-Comet", "Sahagin"],
+    "cover": "Shantotto, Tactician Magician"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Valeur du cimetière : Town Greeter et Vanille, Cheerful l'Cie remplissent et récupèrent, Cloud of Darkness compte les cartes-permanents pour tuer.",
+      "en": "Graveyard value: Town Greeter and Vanille, Cheerful l'Cie fill and recover, and Cloud of Darkness turns the graveyard into removal."
+    },
+    "why": {
+      "fr": ["L'un des meilleurs taux de victoire du set.", "Town Greeter et Resentful Revelation dans la plupart des decks.", "Cloud of Darkness, uncommon, avait l'un des meilleurs taux du deck."],
+      "en": ["Among the best win rates of the set.", "Town Greeter and Resentful Revelation were in most decks.", "Cloud of Darkness, an uncommon, had one of the deck's best win rates."]
+    },
+    "keyCards": ["Cloud of Darkness", "Town Greeter", "Resentful Revelation", "Vanille, Cheerful l'Cie", "Shinra Reinforcements"],
+    "cover": "Cloud of Darkness"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Contrôle : contresorts, removal et pioche prolongent la partie, Dreams of Laguna et Sidequest: Hunt the Mark gagnent sur la durée.",
+      "en": "Control: counterspells, removal and card draw drag the game out, and Dreams of Laguna and Sidequest: Hunt the Mark win the long game."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Sidequest: Hunt the Mark et Sleep Magic parmi ses meilleures cartes.", "Peu de conditions de victoire en commune."],
+      "en": ["Close to the set average.", "Sidequest: Hunt the Mark and Sleep Magic were among its better cards.", "Few win conditions at common."]
+    },
+    "keyCards": ["Sidequest: Hunt the Mark", "Dreams of Laguna", "Sephiroth's Intervention", "Vayne's Treachery", "Sleep Magic"],
+    "cover": "Sidequest: Hunt the Mark"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Artifacts",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Artefacts agressifs : équipements et créatures-artefacts bon marché, Cid, Timeless Artificer renforce l'ensemble, le bleu filtre.",
+      "en": "Artifact aggro: cheap equipment and artifact creatures, Cid, Timeless Artificer pumps them, and blue filters the draws."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "White Auracite et Dragoon's Lance avaient de hauts taux.", "Magitek Infantry et Magitek Armor donnaient du corps au plan."],
+      "en": ["Above the set average.", "White Auracite and Dragoon's Lance had high win rates.", "Magitek Infantry and Magitek Armor gave the plan bodies."]
+    },
+    "keyCards": ["Cid, Timeless Artificer", "White Auracite", "Dragoon's Lance", "Magitek Infantry", "Magitek Armor"],
+    "cover": "Cid, Timeless Artificer"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifice et deux-pour-un : Judge Magister Gabranth grandit quand créatures et artefacts meurent, Rufus Shinra crée des jetons.",
+      "en": "Sacrifice and two-for-ones: Judge Magister Gabranth grows when creatures and artifacts die, and Rufus Shinra makes tokens."
+    },
+    "why": {
+      "fr": ["L'un des meilleurs taux de victoire du set.", "White Auracite et White Mage's Staff dans la plupart des decks.", "Overkill et le removal noir soutenaient l'attrition."],
+      "en": ["Among the best win rates of the set.", "White Auracite and White Mage's Staff were in most decks.", "Overkill and black removal supported the attrition plan."]
+    },
+    "keyCards": ["Judge Magister Gabranth", "Rufus Shinra", "White Auracite", "Overkill", "G'raha Tia"],
+    "cover": "Judge Magister Gabranth"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Equipment",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Équipements agressifs : Giott, King of the Dwarves filtre à chaque équipement, les armes des jobs arment les attaquants.",
+      "en": "Equipment aggro: Giott, King of the Dwarves loots off each Equipment, and the job weapons arm the attackers."
+    },
+    "why": {
+      "fr": ["L'un des deux meilleurs taux de victoire du set.", "Dragoon's Lance et Samurai's Katana avaient de hauts taux.", "White Mage's Staff et Paladin's Arms, dans la plupart des decks."],
+      "en": ["One of the two best win rates of the set.", "Dragoon's Lance and Samurai's Katana had high win rates.", "White Mage's Staff and Paladin's Arms were in most decks."]
+    },
+    "keyCards": ["Giott, King of the Dwarves", "Zidane, Tantalus Thief", "Dragoon's Lance", "Samurai's Katana", "White Mage's Staff"],
+    "cover": "Giott, King of the Dwarves"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Wizards",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Sorts non-créature et dégâts directs : Black Mage's Rod et les jetons Wizard blessent l'adversaire à chaque sort, le removal bon marché suit.",
+      "en": "Noncreature spells and pings: Black Mage's Rod and Wizard tokens hit the opponent with each spell, backed by cheap removal."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Cornered by Black Mages et Black Mage's Rod dans la plupart des decks.", "Lightning Bolt et Choco-Comet avaient ses meilleurs taux."],
+      "en": ["Below the set average.", "Cornered by Black Mages and Black Mage's Rod were in most decks.", "Lightning Bolt and Choco-Comet had its best win rates."]
+    },
+    "keyCards": ["Black Mage's Rod", "Cornered by Black Mages", "Lightning Bolt", "Choco-Comet", "Circle of Power"],
+    "cover": "Black Mage's Rod"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe : Ignis Scientia et les Towns accélèrent vers Omega, Heartless Evolution et les gros sorts.",
+      "en": "Ramp: Ignis Scientia and the Towns accelerate into Omega, Heartless Evolution and the big spells."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Omega et Sazh's Chocobo avaient de hauts taux.", "Le format offrait trop peu de Towns pour un vrai deck de terrains."],
+      "en": ["Above the set average.", "Omega and Sazh's Chocobo had high win rates.", "Too few Towns for a true lands deck."]
+    },
+    "keyCards": ["Ignis Scientia", "Omega, Heartless Evolution", "Town Greeter", "Sazh's Chocobo", "Chocobo Kick"],
+    "cover": "Ignis Scientia"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Go-Wide",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Beaucoup de créatures tôt : Rinoa Heartilly arrive avec Angelo, Summon: Fat Chocobo et Garnet élargissent la table.",
+      "en": "Many creatures early: Rinoa Heartilly arrives with Angelo, while Summon: Fat Chocobo and Garnet widen the board."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Rinoa Heartilly et Bard's Bow, dans beaucoup de decks.", "Weapons Vendor et Torgal, A Fine Hound avaient de bons taux."],
+      "en": ["Above the set average.", "Rinoa Heartilly and Bard's Bow were in many decks.", "Weapons Vendor and Torgal, A Fine Hound had strong win rates."]
+    },
+    "keyCards": ["Rinoa Heartilly", "Garnet, Princess of Alexandria", "Summon: Fat Chocobo", "Bard's Bow", "Weapons Vendor"],
+    "cover": "Rinoa Heartilly"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Rampe Simic et valeur Golgari : Towns, Omega, Heartless Evolution et Summon: Fenrir, avec le removal noir.",
+      "en": "Simic ramp and Golgari value: Towns, Omega, Heartless Evolution and Summon: Fenrir, with black removal."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Summon: Fenrir et Swallowed by Leviathan parmi ses meilleures cartes.", "La couleur supplémentaire coûtait de la régularité."],
+      "en": ["Below the set average.", "Summon: Fenrir and Swallowed by Leviathan were among its better cards.", "The extra color cost consistency."]
+    },
+    "keyCards": ["Omega, Heartless Evolution", "Town Greeter", "Summon: Fenrir", "Swallowed by Leviathan", "Ultimecia, Time Sorceress"],
+    "cover": "Omega, Heartless Evolution"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Landfall",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Landfall : Rydia, Summoner of Mist filtre à chaque terrain, les Chocobos et Summon: Fenrir suivent.",
+      "en": "Landfall: Rydia, Summoner of Mist loots with each land, and the Chocobos and Summon: Fenrir follow."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "Peu de récompenses de landfall en commune.", "Summon: Fenrir et Town Greeter parmi ses meilleures cartes."],
+      "en": ["The lowest win rate of the set.", "Few landfall payoffs at common.", "Summon: Fenrir and Town Greeter were among its better cards."]
+    },
+    "keyCards": ["Rydia, Summoner of Mist", "Summon: Fenrir", "Call the Mountain Chocobo", "Chocobo Kick", "Balamb T-Rexaur"],
+    "cover": "Rydia, Summoner of Mist"
+  }
+]

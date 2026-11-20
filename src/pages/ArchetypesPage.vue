@@ -70,7 +70,7 @@ const spanOf = (l: Lineage) => {
   <div v-else class="archetypes">
     <header class="intro">
       <p v-if="sort === 'recent'" class="lede">{{ t('archetypesRecentIntro') }}</p>
-      <p v-else class="lede">{{ multi }} {{ t('archetypesIntro') }}</p>
+      <p v-else class="lede">{{ multi }} {{ formatId === 'limited' ? t('archetypesIntroLimited') : t('archetypesIntro') }}</p>
       <div class="controls">
         <nav class="sorts">
           <button type="button" :class="{ on: sort === 'longest' }" @click="sort = 'longest'">{{ t('sortLongest') }}</button>
@@ -95,7 +95,7 @@ const spanOf = (l: Lineage) => {
         <router-link :to="`/${formatId}/archetype/${l.slug}`" class="row">
           <span class="name">{{ l.name }} <ColorPips :colors="l.entries[l.entries.length - 1].deck.colors" :size="12" /></span>
           <span class="span">
-            {{ spanOf(l) }}, {{ l.entries.length }} {{ l.entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}<template v-if="successorName(l)">, {{ t('becomes').toLowerCase() }} {{ successorName(l) }}</template>
+            {{ spanOf(l) }}, {{ l.entries.length }} {{ formatId === 'limited' ? t('setsPlural') : l.entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}<template v-if="successorName(l)">, {{ t('becomes').toLowerCase() }} {{ successorName(l) }}</template>
           </span>
           <!-- lifeline: one cell per season of the format, ink by share of top 8s -->
           <span class="life" aria-hidden="true">

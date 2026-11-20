@@ -42,6 +42,7 @@ const STRINGS = {
   tier1: { fr: 'Tier 1', en: 'Tier 1' },
   why1: { fr: 'Pourquoi il dominait', en: 'Why it dominated' },
   why: { fr: 'Pourquoi il performait', en: 'Why it performed' },
+  whyLimited: { fr: 'Bilan', en: 'Assessment' },
   keyCards: { fr: 'Cartes clés', en: 'Key cards' },
   cards: { fr: 'cartes', en: 'cards' },
   spells: { fr: 'sorts', en: 'spells' },
@@ -78,6 +79,10 @@ const STRINGS = {
   ofTop8: { fr: 'des top 8', en: 'of top 8s' },
   seasonTotal: { fr: 'top 8 dans la saison', en: 'top 8s in the season' },
   archetypes: { fr: 'Archétypes', en: 'Archetypes' },
+  archetypesIntroLimited: {
+    fr: 'combinaisons de couleurs suivies d’extension en extension : une ligne par paire (ou trio), une case par extension, plus foncée quand elle est plus jouée.',
+    en: 'color combinations followed from set to set: one row per pair (or trio), one cell per set, darker when more played.',
+  },
   archetypesIntro: {
     fr: "archétypes présents sur plusieurs saisons. Chaque ligne suit un archétype à travers toute l'histoire du format.",
     en: 'archetypes that lasted more than one season. Each row follows one archetype across the whole history of the format.',

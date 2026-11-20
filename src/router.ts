@@ -3,32 +3,32 @@ import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
   { path: '/', redirect: '/standard' },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)',
     name: 'format',
     component: () => import('./pages/FormatPage.vue'),
   },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)/staples',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)/staples',
     name: 'staples',
     component: () => import('./pages/StaplesPage.vue'),
   },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)/archetypes',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)/archetypes',
     name: 'archetypes',
     component: () => import('./pages/ArchetypesPage.vue'),
   },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)/archetype/:slug',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)/archetype/:slug',
     name: 'archetype',
     component: () => import('./pages/ArchetypePage.vue'),
   },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)/colors',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)/colors',
     name: 'colors',
     component: () => import('./pages/ColorsPage.vue'),
   },
   {
-    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern)/deck/:id',
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper|premodern|limited)/deck/:id',
     name: 'deck',
     component: () => import('./pages/DeckPage.vue'),
   },

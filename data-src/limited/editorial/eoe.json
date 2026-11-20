@@ -1,0 +1,152 @@
+[
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe vers les grosses créatures : Biomechan Engineer et les jetons Lander cherchent des terrains, Glacier Godmaw et les menaces du haut de courbe suivent.",
+      "en": "Ramp into big creatures: Biomechan Engineer and Lander tokens fetch lands, and Glacier Godmaw and other top-end threats follow."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set, et paire la plus jouée.", "Biomechan Engineer, dans beaucoup de decks, avec un haut taux.", "Galactic Wayfarer et Gene Pollinator assuraient la rampe en commune."],
+      "en": ["The best win rate of the set, and the most played pair.", "Biomechan Engineer was in many decks, with a high win rate.", "Galactic Wayfarer and Gene Pollinator provided the ramp at common."]
+    },
+    "keyCards": ["Biomechan Engineer", "Glacier Godmaw", "Codecracker Hound", "Seedship Impact", "Gene Pollinator"],
+    "cover": "Biomechan Engineer"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Artifacts",
+    "archetype": "control",
+    "summary": {
+      "fr": "Contrôle d'artefacts : Alpharael, Dreaming Acolyte pioche en défaussant des artefacts, Cryogen Relic et le removal noir ralentissent la partie.",
+      "en": "Artifact control: Alpharael, Dreaming Acolyte draws and discards artifacts, while Cryogen Relic and black removal slow the game."
+    },
+    "why": {
+      "fr": ["Légèrement sous la moyenne du set.", "Dubious Delicacy et Fell Gravship parmi ses meilleures cartes.", "Cryogen Relic et Virus Beetle, dans la plupart des decks."],
+      "en": ["Slightly below the set average.", "Dubious Delicacy and Fell Gravship were among its better cards.", "Cryogen Relic and Virus Beetle were in most decks."]
+    },
+    "keyCards": ["Alpharael, Dreaming Acolyte", "Cryogen Relic", "Fell Gravship", "Monoist Circuit-Feeder", "Dubious Delicacy"],
+    "cover": "Alpharael, Dreaming Acolyte"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Landfall",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Landfall et jetons Lander : Tannuk, Memorial Ensign blesse l'adversaire à chaque terrain, Terrapact Intimidator et Biotech Specialist pressent.",
+      "en": "Landfall and Lander tokens: Tannuk, Memorial Ensign pings with each land, while Terrapact Intimidator and Biotech Specialist press."
+    },
+    "why": {
+      "fr": ["L'un des deux meilleurs taux de victoire du set.", "Terrapact Intimidator et Biotech Specialist avaient ses meilleurs taux.", "Orbital Plunge et Kav Landseeker, dans la plupart des decks."],
+      "en": ["One of the two best win rates of the set.", "Terrapact Intimidator and Biotech Specialist had its best win rates.", "Orbital Plunge and Kav Landseeker were in most decks."]
+    },
+    "keyCards": ["Tannuk, Memorial Ensign", "Terrapact Intimidator", "Biotech Specialist", "Kav Landseeker", "Orbital Plunge"],
+    "cover": "Tannuk, Memorial Ensign"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Void",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Void : des bonus quand une carte non-terrain quitte le champ de bataille, Interceptor Mechan récupère et le removal déclenche le void.",
+      "en": "Void: bonuses when a nonland permanent leaves the battlefield, with Interceptor Mechan recovering threats and removal enabling void."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Terrapact Intimidator et Fell Gravship avaient de hauts taux.", "Gravpack Monoist et Kav Landseeker, dans la plupart des decks."],
+      "en": ["Above the set average.", "Terrapact Intimidator and Fell Gravship had high win rates.", "Gravpack Monoist and Kav Landseeker were in most decks."]
+    },
+    "keyCards": ["Interceptor Mechan", "Fell Gravship", "Terrapact Intimidator", "Monoist Circuit-Feeder", "Gravpack Monoist"],
+    "cover": "Interceptor Mechan"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures renforcées : Haliya, Ascendant Cadet pose des marqueurs à l'arrivée et à l'attaque, l'équipe s'élargit pour attaquer.",
+      "en": "Pumped creatures: Haliya, Ascendant Cadet adds counters on entering and attacking, and the team goes wide to attack."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Sunstar Chaplain et Lumen-Class Frigate avaient de hauts taux.", "Knight Luminary et Focus Fire, dans beaucoup de decks."],
+      "en": ["Above the set average.", "Sunstar Chaplain and Lumen-Class Frigate had high win rates.", "Knight Luminary and Focus Fire were in many decks."]
+    },
+    "keyCards": ["Haliya, Ascendant Cadet", "Sunstar Chaplain", "Lumen-Class Frigate", "Rayblade Trooper", "Knight Luminary"],
+    "cover": "Haliya, Ascendant Cadet"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Largeur et sacrifice : Syr Vondam, the Lucent donne contact mortel à l'équipe, Knight Luminary et Fell Gravship nourrissent l'attrition.",
+      "en": "Width and sacrifice: Syr Vondam, the Lucent gives the team deathtouch, while Knight Luminary and Fell Gravship feed the attrition."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Fell Gravship et Rayblade Trooper avaient de hauts taux.", "Knight Luminary et Syr Vondam, dans la plupart des decks."],
+      "en": ["Above the set average.", "Fell Gravship and Rayblade Trooper had high win rates.", "Knight Luminary and Syr Vondam were in most decks."]
+    },
+    "keyCards": ["Syr Vondam, the Lucent", "Knight Luminary", "Fell Gravship", "Rayblade Trooper", "Hullcarver"],
+    "cover": "Syr Vondam, the Lucent"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Second Spell",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Second sort par tour : sorts bon marché et créatures qui récompensent un double sort, Banishing Light et Cryogen Relic en interaction.",
+      "en": "Second spell each turn: cheap spells and creatures that reward casting two in a turn, with Banishing Light and Cryogen Relic as interaction."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Knight Luminary et Starfield Shepherd parmi ses meilleures cartes.", "Station Monitor, le signpost, figurait dans la plupart des decks."],
+      "en": ["Close to the set average.", "Knight Luminary and Starfield Shepherd were among its better cards.", "Station Monitor, the signpost uncommon, was in most decks."]
+    },
+    "keyCards": ["Uthros Psionicist", "Knight Luminary", "Starfield Shepherd", "Cryogen Relic", "Banishing Light"],
+    "cover": "Uthros Psionicist"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Artifacts",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Artefacts agressifs : Selfcraft Mechan et les créatures-artefacts attaquent tôt, Orbital Plunge et Mouth of the Storm dégagent le chemin.",
+      "en": "Artifact aggro: Selfcraft Mechan and artifact creatures attack early, while Orbital Plunge and Mouth of the Storm clear the way."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Mouth of the Storm et Cryogen Relic parmi ses meilleures cartes.", "Les artefacts communs manquaient de puissance face au vert."],
+      "en": ["Among the lowest win rates of the set.", "Mouth of the Storm and Cryogen Relic were among its better cards.", "Its common artifacts lacked power against the green decks."]
+    },
+    "keyCards": ["Selfcraft Mechan", "Cryogen Relic", "Codecracker Hound", "Orbital Plunge", "Mouth of the Storm"],
+    "cover": "Selfcraft Mechan"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Valeur du cimetière : meule et récursion, Galactic Wayfarer et Gene Pollinator accélèrent, Glacier Godmaw termine.",
+      "en": "Graveyard value: mill and recursion, Galactic Wayfarer and Gene Pollinator ramp, and Glacier Godmaw finishes."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Dubious Delicacy et Fell Gravship parmi ses meilleures cartes.", "Plus lent que la rampe Simic, sans ses menaces bleues."],
+      "en": ["Among the lowest win rates of the set.", "Dubious Delicacy and Fell Gravship were among its better cards.", "Slower than Simic ramp, without its blue threats."]
+    },
+    "keyCards": ["Fell Gravship", "Galactic Wayfarer", "Gene Pollinator", "Glacier Godmaw", "Thawbringer"],
+    "cover": "Fell Gravship"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Station",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Stations : les créatures chargent les vaisseaux avant d'attaquer, All-Fates Stalker et Rayblade Trooper portent l'assaut.",
+      "en": "Stations: creatures charge Spacecraft before attacking, with All-Fates Stalker and Rayblade Trooper leading the assault."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "All-Fates Stalker et Rayblade Trooper parmi ses meilleures cartes.", "Les vaisseaux demandaient du temps que les decks agressifs n'avaient pas."],
+      "en": ["The lowest win rate of the set.", "All-Fates Stalker and Rayblade Trooper were among its better cards.", "Spacecraft took time an aggressive deck did not have."]
+    },
+    "keyCards": ["All-Fates Stalker", "Rayblade Trooper", "Possibility Technician", "Kavaron Harrier", "Knight Luminary"],
+    "cover": "All-Fates Stalker"
+  }
+]

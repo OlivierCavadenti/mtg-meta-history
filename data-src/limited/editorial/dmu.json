@@ -1,0 +1,466 @@
+[
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Éphémères et rituels : Tolarian Terror coûtait moins cher pour chacun au cimetière, Balmor, Battlemage Captain et Ghitu Amplifier récompensaient leur lancement.",
+      "en": "Instants and sorceries: Tolarian Terror got cheaper with each one in the graveyard, and Balmor, Battlemage Captain and Ghitu Amplifier rewarded casting them."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus draftée du set, au-dessus de la moyenne.",
+        "Tolarian Terror, Ghitu Amplifier et Timely Interference étaient ses communes les plus jouées.",
+        "Tolarian Geyser et Balmor figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "The most drafted pair of the set, above the average.",
+        "Tolarian Terror, Ghitu Amplifier and Timely Interference were its most played commons.",
+        "Tolarian Geyser and Balmor were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Balmor, Battlemage Captain",
+      "Tolarian Terror",
+      "Ghitu Amplifier",
+      "Tolarian Geyser",
+      "Lightning Strike",
+      "Micromancer"
+    ],
+    "cover": "Balmor, Battlemage Captain"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Aristocrats",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures qui arrivent et meurent : Elas il-Kor, Sadistic Pilgrim faisait gagner et perdre des points de vie, les créatures à kicker comme Benalish Sleeper et Phyrexian Missionary apportaient la valeur, les Chevaliers complétaient la courbe.",
+      "en": "Creatures entering and dying: Elas il-Kor, Sadistic Pilgrim gained life and drained, kicker creatures like Benalish Sleeper and Phyrexian Missionary gave value, and Knights filled the curve."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set.",
+        "Phyrexian Missionary et Knight of Dawn's Light figuraient parmi ses cartes les plus efficaces.",
+        "Du removal dans les deux couleurs : Destroy Evil, Citizen's Arrest, Extinguish the Light."
+      ],
+      "en": [
+        "Second-best win rate of the set.",
+        "Phyrexian Missionary and Knight of Dawn's Light were among its best-performing cards.",
+        "Removal on both sides: Destroy Evil, Citizen's Arrest, Extinguish the Light."
+      ]
+    },
+    "keyCards": [
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Phyrexian Missionary",
+      "Benalish Sleeper",
+      "Argivian Cavalier",
+      "Take Up the Shield",
+      "Destroy Evil"
+    ],
+    "cover": "Elas il-Kor, Sadistic Pilgrim"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Domain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un deck domaine tricolore : terrains thriving et doubles engagés réglaient le mana, les cartes à kicker comme Urborg Repossession montaient en puissance, Uurg, Spawn of Turg grandissait avec les terrains au cimetière.",
+      "en": "A three-color domain deck: thriving lands and tapped duals fixed the mana, kicker cards like Urborg Repossession scaled late, and Uurg, Spawn of Turg grew with lands in the graveyard."
+    },
+    "why": {
+      "fr": [
+        "Le deck tricolore le plus drafté, légèrement sous la moyenne du set.",
+        "Tatyova, Steward of Tides et Rona's Vortex figuraient parmi ses cartes les plus efficaces.",
+        "Les terrains engagés le ralentissaient face aux decks blancs agressifs."
+      ],
+      "en": [
+        "The most drafted three-color deck, slightly below the set average.",
+        "Tatyova, Steward of Tides and Rona's Vortex were among its best-performing cards.",
+        "The tapped lands made it slow against the aggressive white decks."
+      ]
+    },
+    "keyCards": [
+      "Uurg, Spawn of Turg",
+      "Tatyova, Steward of Tides",
+      "Urborg Repossession",
+      "Tribute to Urborg",
+      "Vineshaper Prodigy",
+      "Rona's Vortex"
+    ],
+    "cover": "Uurg, Spawn of Turg"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Un deck rapide de kicker et de renforts : Keldon Strike Team apportait des attaquants en plus, Heroic Charge et Take Up the Shield gagnaient les combats, Baird, Argivian Recruiter créait des Soldats.",
+      "en": "A fast kicker and pump deck: Keldon Strike Team brought extra attackers, Heroic Charge and Take Up the Shield won combats, and Baird, Argivian Recruiter made Soldiers from pumped creatures."
+    },
+    "why": {
+      "fr": [
+        "Le meilleur taux de victoire du set.",
+        "Keldon Strike Team et Heroic Charge étaient ses communes les plus jouées.",
+        "Il punissait les decks domaine lents, aux terrains engagés."
+      ],
+      "en": [
+        "The best win rate of the set.",
+        "Keldon Strike Team and Heroic Charge were its most played commons.",
+        "It punished the slow, tapped-land domain decks."
+      ]
+    },
+    "keyCards": [
+      "Baird, Argivian Recruiter",
+      "Keldon Strike Team",
+      "Argivian Cavalier",
+      "Take Up the Shield",
+      "Heroic Charge",
+      "Lightning Strike"
+    ],
+    "cover": "Baird, Argivian Recruiter"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Éphémères, rituels et cimetière : Vohar, Vodalian Desecrator filtrait et drainait, Rona, Sheoldred's Faithful punissait chaque sort, contresorts et removal contrôlaient la table.",
+      "en": "Instants, sorceries and the graveyard: Vohar, Vodalian Desecrator looted and drained, Rona, Sheoldred's Faithful punished each spell, and counterspells and removal controlled the board."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Essence Scatter et Tribute to Urborg étaient ses cartes les plus jouées.",
+        "Rona's Vortex figurait parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average.",
+        "Essence Scatter and Tribute to Urborg were its most played cards.",
+        "Rona's Vortex was among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Vohar, Vodalian Desecrator",
+      "Rona, Sheoldred's Faithful",
+      "Tolarian Terror",
+      "Essence Scatter",
+      "Tribute to Urborg",
+      "Rona's Vortex"
+    ],
+    "cover": "Vohar, Vodalian Desecrator"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorts et volants : Raff, Weatherlight Stalwart engageait des créatures pour piocher à chaque éphémère ou rituel, Tolarian Terror et Soaring Drake tenaient les airs, les contresorts les protégeaient.",
+      "en": "Spells and fliers: Raff, Weatherlight Stalwart tapped creatures to draw on each instant or sorcery, Tolarian Terror and Soaring Drake held the air and counterspells protected them."
+    },
+    "why": {
+      "fr": [
+        "Quatrième taux de victoire du set, derrière Boros, Orzhov et Gruul.",
+        "Tolarian Geyser et Essence Scatter étaient ses cartes les plus jouées.",
+        "Protect the Negotiators et Prayer of Binding figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Fourth-best win rate of the set, behind Boros, Orzhov and Gruul.",
+        "Tolarian Geyser and Essence Scatter were its most played cards.",
+        "Protect the Negotiators and Prayer of Binding were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Raff, Weatherlight Stalwart",
+      "Tolarian Terror",
+      "Tolarian Geyser",
+      "Protect the Negotiators",
+      "Prayer of Binding",
+      "Soaring Drake"
+    ],
+    "cover": "Raff, Weatherlight Stalwart"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Terrains au cimetière et domaine : Uurg, Spawn of Turg grandissait en surveillant des terrains vers le cimetière, Nishoba Brawler et Territorial Maro grossissaient avec les types de terrains de base.",
+      "en": "Lands in the graveyard and domain: Uurg, Spawn of Turg grew as it surveilled lands into the graveyard, while Nishoba Brawler and Territorial Maro grew with basic land types."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Urborg Repossession était sa carte la plus jouée.",
+        "The Weatherseed Treaty et Nishoba Brawler figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average.",
+        "Urborg Repossession was its most played card.",
+        "The Weatherseed Treaty and Nishoba Brawler were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Uurg, Spawn of Turg",
+      "Nishoba Brawler",
+      "The Weatherseed Treaty",
+      "Urborg Repossession",
+      "Sunbathing Rootwalla",
+      "Territorial Maro"
+    ],
+    "cover": "Uurg, Spawn of Turg"
+  },
+  {
+    "colors": "WUB",
+    "name": "Esper Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Défenseurs et sorts : Wingmantle Chaplain créait des Oiseaux grâce aux défenseurs, Walking Bulwark et Clockwork Drawbridge tenaient le sol, contresorts et removal faisaient le reste.",
+      "en": "Defenders and spells: Wingmantle Chaplain made Birds from defenders, Walking Bulwark and Clockwork Drawbridge held the ground, and counterspells and removal finished the job."
+    },
+    "why": {
+      "fr": [
+        "La meilleure combinaison tricolore du set, juste sous la moyenne.",
+        "Wingmantle Chaplain et Walking Bulwark figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "The best three-color combination of the set, just below the average.",
+        "Wingmantle Chaplain and Walking Bulwark were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Wingmantle Chaplain",
+      "Walking Bulwark",
+      "Clockwork Drawbridge",
+      "Vohar, Vodalian Desecrator",
+      "Destroy Evil",
+      "Micromancer"
+    ],
+    "cover": "Wingmantle Chaplain"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Domain",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Domaine agressif : Nishoba Brawler grandissait avec les types de terrains de base, Yavimaya Iconoclast et les créatures à kicker frappaient fort, Rulik Mons, Warren Chief mettait en jeu les terrains du dessus de la bibliothèque.",
+      "en": "Domain aggression: Nishoba Brawler grew with basic land types, Yavimaya Iconoclast and other kicker creatures hit hard, and Rulik Mons, Warren Chief put lands into play from the top of the library."
+    },
+    "why": {
+      "fr": [
+        "Troisième taux de victoire du set.",
+        "Nishoba Brawler et The Weatherseed Treaty figuraient parmi ses cartes les plus efficaces.",
+        "Colossal Growth et Sunbathing Rootwalla étaient ses communes les plus jouées."
+      ],
+      "en": [
+        "Third-best win rate of the set.",
+        "Nishoba Brawler and The Weatherseed Treaty were among its best-performing cards.",
+        "Colossal Growth and Sunbathing Rootwalla were its most played commons."
+      ]
+    },
+    "keyCards": [
+      "Rulik Mons, Warren Chief",
+      "Nishoba Brawler",
+      "Yavimaya Iconoclast",
+      "Sprouting Goblin",
+      "The Weatherseed Treaty",
+      "Lightning Strike"
+    ],
+    "cover": "Rulik Mons, Warren Chief"
+  },
+  {
+    "colors": "WUR",
+    "name": "Jeskai Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les sorts Izzet avec un appoint blanc : Balmor, Battlemage Captain et Raff, Weatherlight Stalwart récompensaient éphémères et rituels, Tolarian Geyser et Shore Up protégeaient les menaces.",
+      "en": "Izzet spells with a white splash: Balmor, Battlemage Captain and Raff, Weatherlight Stalwart rewarded instants and sorceries, and Tolarian Geyser and Shore Up protected the threats."
+    },
+    "why": {
+      "fr": [
+        "Légèrement sous la moyenne du set.",
+        "Tolarian Geyser et Timely Interference étaient ses cartes les plus jouées."
+      ],
+      "en": [
+        "Slightly below the set average.",
+        "Tolarian Geyser and Timely Interference were its most played cards."
+      ]
+    },
+    "keyCards": [
+      "Balmor, Battlemage Captain",
+      "Raff, Weatherlight Stalwart",
+      "Tolarian Geyser",
+      "Micromancer",
+      "Talas Lookout",
+      "Shore Up"
+    ],
+    "cover": "Balmor, Battlemage Captain"
+  },
+  {
+    "colors": "WUG",
+    "name": "Bant Domain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le domaine en trois couleurs : Zar Ojanen, Scion of Efrava et Herd Migration montaient avec les types de terrains de base, Vineshaper Prodigy et Tatyova, Steward of Tides assuraient les terrains.",
+      "en": "Domain in three colors: Zar Ojanen, Scion of Efrava and Herd Migration scaled with basic land types, while Vineshaper Prodigy and Tatyova, Steward of Tides kept land drops coming."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Vineshaper Prodigy, sa carte la plus jouée ; Herd Migration parmi les plus efficaces."
+      ],
+      "en": [
+        "Below the set average.",
+        "Vineshaper Prodigy was its most played card; Herd Migration among its best-performing."
+      ]
+    },
+    "keyCards": [
+      "Zar Ojanen, Scion of Efrava",
+      "Vineshaper Prodigy",
+      "Tatyova, Steward of Tides",
+      "Herd Migration",
+      "Nishoba Brawler",
+      "Essence Scatter"
+    ],
+    "cover": "Zar Ojanen, Scion of Efrava"
+  },
+  {
+    "colors": "WBG",
+    "name": "Abzan Domain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le domaine en blanc et noir : Bortuk Bonerattle ramenait une créature du cimetière selon les types de terrains, défenseurs et removal faisaient gagner du temps.",
+      "en": "Domain with white and black: Bortuk Bonerattle returned a creature from the graveyard according to land types, while defenders and removal bought time."
+    },
+    "why": {
+      "fr": [
+        "Le plus bas taux de victoire parmi les decks régulièrement draftés du set.",
+        "Gibbering Barricade et Destroy Evil figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "The lowest win rate among the regularly drafted decks of the set.",
+        "Gibbering Barricade and Destroy Evil were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Bortuk Bonerattle",
+      "Gibbering Barricade",
+      "Destroy Evil",
+      "Urborg Repossession",
+      "Archangel of Wrath",
+      "Take Up the Shield"
+    ],
+    "cover": "Bortuk Bonerattle"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Domain",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Domaine et terrains : Tatyova, Steward of Tides faisait des terrains des créatures volantes, Vineshaper Prodigy trouvait les terrains, Nishoba Brawler grandissait avec les types de terrains de base.",
+      "en": "Domain and lands: Tatyova, Steward of Tides turned lands into flying creatures, Vineshaper Prodigy found land drops, and Nishoba Brawler grew with basic land types."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Nishoba Brawler et Fires of Victory figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average.",
+        "Nishoba Brawler and Fires of Victory were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Tatyova, Steward of Tides",
+      "Nishoba Brawler",
+      "Vineshaper Prodigy",
+      "Tolarian Geyser",
+      "Fires of Victory",
+      "Gaea's Might"
+    ],
+    "cover": "Tatyova, Steward of Tides"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Tokens",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Jetons et Soldats : Queen Allenal of Ruadach ajoutait un Soldat à chaque création de jetons, King Darien XLVIII récompensait les Soldats, Zar Ojanen, Scion of Efrava faisait grandir les petites créatures.",
+      "en": "Tokens and Soldiers: Queen Allenal of Ruadach added a Soldier to each token batch, King Darien XLVIII rewarded Soldiers, and Zar Ojanen, Scion of Efrava grew small creatures."
+    },
+    "why": {
+      "fr": [
+        "Dans la moyenne du set, parmi les paires peu draftées.",
+        "Juniper Order Rootweaver et Argivian Cavalier étaient ses cartes les plus jouées."
+      ],
+      "en": [
+        "At the set average, among the less drafted pairs.",
+        "Juniper Order Rootweaver and Argivian Cavalier were its most played cards."
+      ]
+    },
+    "keyCards": [
+      "Queen Allenal of Ruadach",
+      "King Darien XLVIII",
+      "Argivian Cavalier",
+      "Benalish Sleeper",
+      "Juniper Order Rootweaver",
+      "Zar Ojanen, Scion of Efrava"
+    ],
+    "cover": "Queen Allenal of Ruadach"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Attaquants et morts : Lagomos, Hand of Hatred créait un Élémental à célérité à chaque combat, Garna, Bloodfist of Keld piochait ou infligeait des dégâts quand des créatures mouraient.",
+      "en": "Attackers and deaths: Lagomos, Hand of Hatred made a hasty Elemental each combat, and Garna, Bloodfist of Keld drew or dealt damage when creatures died."
+    },
+    "why": {
+      "fr": [
+        "Le plus bas taux de victoire du set, et l'une des paires les moins draftées.",
+        "Splatter Goblin et Phyrexian Rager étaient ses cartes les plus jouées."
+      ],
+      "en": [
+        "The lowest win rate of the set, and one of the least drafted pairs.",
+        "Splatter Goblin and Phyrexian Rager were its most played cards."
+      ]
+    },
+    "keyCards": [
+      "Lagomos, Hand of Hatred",
+      "Garna, Bloodfist of Keld",
+      "Cult Conscript",
+      "Splatter Goblin",
+      "Phyrexian Vivisector",
+      "Lightning Strike"
+    ],
+    "cover": "Lagomos, Hand of Hatred"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Lands",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Les terrains au centre : Tatyova, Steward of Tides donnait le vol aux terrains-créatures, Nael, Avizoa Aeronaut exploitait le domaine, Vineshaper Prodigy et Sunbathing Rootwalla occupaient les premiers tours.",
+      "en": "Lands matter: Tatyova, Steward of Tides gave land creatures flying, Nael, Avizoa Aeronaut used domain, and Vineshaper Prodigy and Sunbathing Rootwalla filled the early turns."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, et la paire la moins draftée.",
+        "Tatyova et Tail Swipe figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average, and the least drafted pair.",
+        "Tatyova and Tail Swipe were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Tatyova, Steward of Tides",
+      "Nael, Avizoa Aeronaut",
+      "Micromancer",
+      "Sunbathing Rootwalla",
+      "Tail Swipe",
+      "Floriferous Vinewall"
+    ],
+    "cover": "Tatyova, Steward of Tides"
+  }
+]

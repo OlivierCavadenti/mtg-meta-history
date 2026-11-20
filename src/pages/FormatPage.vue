@@ -259,6 +259,12 @@ const banLine = (s: Row) =>
   .filters {
     flex-wrap: wrap;
   }
+
+  /* the archetype buttons wrap inside the row instead of widening the page on phones */
+  .filters > .arch {
+    flex-shrink: 1;
+    min-width: 0;
+  }
 }
 
 .arch {
