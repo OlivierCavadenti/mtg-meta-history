@@ -102,6 +102,7 @@
    ]
   },
   "include": [
+   446050,
    441927,
    440355,
    438680
@@ -220,10 +221,7 @@
   "titles": [
    "Dimir Control",
    "Sultai Delver",
-   "Rogues Aggro",
-   "DimirControl",
-   "Dimir Rogue",
-   "Dimir Aggro"
+   "DimirControl"
   ],
   "cover": "Torrential Gearhulk",
   "keyCards": [
@@ -315,7 +313,11 @@
     "Karn, the Great Creator fetched artifacts from the sideboard",
     "Kaldheim's Vorinclex, Monstrous Raider joined lists during the year"
    ]
-  }
+  },
+  "exclude": [
+   448491,
+   447513
+  ]
  },
  {
   "name": "Bant Spirits",
@@ -383,6 +385,7 @@
    ]
   },
   "include": [
+   457304,
    452760,
    451158,
    450865,
@@ -397,7 +400,8 @@
   "archetype": "aggro",
   "titles": [
    "Winota",
-   "Naya Winota"
+   "Naya Winota",
+   "Humans"
   ],
   "cover": "Winota, Joiner of Forces",
   "keyCards": [
@@ -607,6 +611,7 @@
    "Gruul Aggro",
    "Bard Class",
    "Gruul Midrange",
+   "Gruul Bard Aggro",
    "Bardic Gruul",
    "Gruul Dinosaurs"
   ],
@@ -703,7 +708,11 @@
     "Bonecrusher Giant was removal first, then a creature",
     "Same burn suite as Boros Burn: Lightning Strike, Wild Slash"
    ]
-  }
+  },
+  "include": [
+   452505,
+   435679
+  ]
  },
  {
   "name": "Enigmatic Fires",

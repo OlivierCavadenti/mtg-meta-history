@@ -1,0 +1,1522 @@
+[
+ {
+  "name": "Mono-Black Aggro",
+  "slug": "mono-black-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Mono Black Aggro",
+   "Mono-Black Aggro",
+   "Mono Black Vampires",
+   "Mono-Black Vampires",
+   "Vampires"
+  ],
+  "cover": "Knight of the Ebon Legion",
+  "keyCards": [
+   "Knight of the Ebon Legion",
+   "Bloodsoaked Champion",
+   "Smuggler's Copter",
+   "Rankle, Master of Pranks",
+   "Murderous Rider"
+  ],
+  "summary": {
+   "fr": "Aggro mono-noir aux créatures récursives et à la défausse, présent dès les premières semaines du format et jusqu'à la fin de la saison.",
+   "en": "Mono-black aggro built on recursive creatures and discard, present from the first weeks of the format to the end of the season."
+  },
+  "why": {
+   "fr": [
+    "Smuggler's Copter filtrait la pioche jusqu'à son bannissement du 2 décembre",
+    "Bloodsoaked Champion et Scrapheap Scrounger revenaient du cimetière",
+    "A remporté le Star City Games Invitational de Roanoke en novembre 2019"
+   ],
+   "en": [
+    "Smuggler's Copter filtered draws until its December 2 ban",
+    "Bloodsoaked Champion and Scrapheap Scrounger came back from the graveyard",
+    "Won the Star City Games Invitational in Roanoke in November 2019"
+   ]
+  },
+  "exclude": [
+   423748
+  ]
+ },
+ {
+  "name": "Dimir Inverter",
+  "slug": "dimir-inverter",
+  "archetype": "combo",
+  "titles": [
+   "Dimir Inverter",
+   "Inverter",
+   "Thassa's Oracle"
+  ],
+  "cover": "Inverter of Truth",
+  "keyCards": [
+   "Inverter of Truth",
+   "Thassa's Oracle",
+   "Jace, Wielder of Mysteries",
+   "Dig Through Time",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Combo bleu-noir : Inverter of Truth exile la bibliothèque, puis Thassa's Oracle ou Jace, Wielder of Mysteries gagnent avec une bibliothèque vide.",
+   "en": "Blue-black combo: Inverter of Truth exiles the library, then Thassa's Oracle or Jace, Wielder of Mysteries wins with an empty library."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Players Tour Phoenix et le Grand Prix Brussels",
+    "Thoughtseize et Fatal Push permettaient aussi de jouer un plan contrôle",
+    "Fin du deck avec le bannissement d'Inverter of Truth le 3 août 2020"
+   ],
+   "en": [
+    "Won Players Tour Phoenix and Grand Prix Brussels",
+    "Thoughtseize and Fatal Push also supported a control plan",
+    "Ended with the ban of Inverter of Truth on August 3, 2020"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Red Aggro",
+  "slug": "mono-red-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Red Deck Wins",
+   "Monored Aggro",
+   "Mono Red Aggro",
+   "The Claw",
+   "Rdw - Devotion",
+   "Eldrazi Deck Wins",
+   "Mono Red Control",
+   "Mono-red Aggro",
+   "Torbran Deck Wins",
+   "Chonky Red"
+  ],
+  "cover": "Soul-Scar Mage",
+  "keyCards": [
+   "Soul-Scar Mage",
+   "Monastery Swiftspear",
+   "Bonecrusher Giant",
+   "Light Up the Stage",
+   "Bomat Courier"
+  ],
+  "summary": {
+   "fr": "Aggro mono-rouge : créatures à prouesse, burn bon marché et Bonecrusher Giant, en versions burn ou plus midrange autour de Torbran.",
+   "en": "Mono-red aggro: prowess creatures, cheap burn and Bonecrusher Giant, in burn builds and more midrange Torbran builds."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Grand Prix Phoenix avec une version Torbran, Thane of Red Fell",
+    "Top 4 au Players Tour Phoenix",
+    "Light Up the Stage et Bomat Courier compensaient le manque de pioche"
+   ],
+   "en": [
+    "Won Grand Prix Phoenix with a Torbran, Thane of Red Fell build",
+    "Reached the top 4 of Players Tour Phoenix",
+    "Light Up the Stage and Bomat Courier made up for the lack of card draw"
+   ]
+  },
+  "include": [
+   382356,
+   372759,
+   370771,
+   371524,
+   370240
+  ]
+ },
+ {
+  "name": "Azorius Control",
+  "slug": "azorius-control",
+  "archetype": "control",
+  "titles": [
+   "UW Control",
+   "Uw Control",
+   "Azorius Control",
+   "Orzhov Midrange",
+   "UW Yorion Control",
+   "W/u Control",
+   "UW God-Pharaoh's Gift",
+   "God-Pharaoh's Gift"
+  ],
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "Teferi, Time Raveler",
+   "Supreme Verdict",
+   "Absorb",
+   "Azorius Charm"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius : Supreme Verdict, contresorts et deux Teferi, présent dans les tops 8 de la première à la dernière semaine de la saison.",
+   "en": "Azorius control with Supreme Verdict, counterspells and both Teferis, in top 8s from the first to the last week of the season."
+  },
+  "why": {
+   "fr": [
+    "Teferi, Time Raveler limitait l'adversaire à la vitesse rituel",
+    "Absorb et Azorius Charm répondaient aux decks agressifs",
+    "Teferi, Time Raveler banni en février 2021, après cette saison"
+   ],
+   "en": [
+    "Teferi, Time Raveler held opponents to sorcery speed",
+    "Absorb and Azorius Charm handled aggressive decks",
+    "Teferi, Time Raveler was banned in February 2021, after this season"
+   ]
+  },
+  "include": [
+   365636
+  ]
+ },
+ {
+  "name": "Lotus Field Combo",
+  "slug": "lotus-field-combo",
+  "archetype": "combo",
+  "titles": [
+   "Lotus Field",
+   "Lotus Breach",
+   "Temur Breach",
+   "Lotus Breach Combo"
+  ],
+  "cover": "Hidden Strings",
+  "keyCards": [
+   "Hidden Strings",
+   "Underworld Breach",
+   "Vizier of Tumbling Sands",
+   "Pore Over the Pages",
+   "Fae of Wishes"
+  ],
+  "summary": {
+   "fr": "Combo autour de Lotus Field : sorts de dégagement et Underworld Breach rejouent le cimetière jusqu'à la conclusion, Expansion/Explosion en tête.",
+   "en": "Combo deck around Lotus Field: untap spells and Underworld Breach replay the graveyard until a finisher such as Expansion/Explosion resolves."
+  },
+  "why": {
+   "fr": [
+    "Deuxième et top 4 aux Players Tours Phoenix et Brussels",
+    "Fae of Wishes allait chercher Underworld Breach dans la réserve",
+    "A survécu au bannissement d'Underworld Breach le 3 août 2020"
+   ],
+   "en": [
+    "Finished second at Players Tour Phoenix and top 4 at Players Tour Brussels",
+    "Fae of Wishes fetched pieces from the sideboard",
+    "Survived the ban of Underworld Breach on August 3, 2020"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Green Devotion",
+  "slug": "mono-green-devotion",
+  "archetype": "ramp",
+  "titles": [
+   "Devotion to Green",
+   "Devotion To Green",
+   "Monogreen Karn",
+   "Monogreen Devotion"
+  ],
+  "cover": "Nissa, Who Shakes the World",
+  "keyCards": [
+   "Nissa, Who Shakes the World",
+   "Karn, the Great Creator",
+   "Vivien, Arkbow Ranger",
+   "Voracious Hydra",
+   "Llanowar Visionary"
+  ],
+  "summary": {
+   "fr": "Rampe mono-verte autour de Nykthos, Shrine to Nyx : créatures à mana et permanents verts alimentent Nissa, Who Shakes the World et Karn, the Great Creator.",
+   "en": "Mono-green ramp on Nykthos, Shrine to Nyx: mana creatures and green permanents fuel Nissa, Who Shakes the World and Karn, the Great Creator."
+  },
+  "why": {
+   "fr": [
+    "Nissa doublait le mana des Forest et de Nykthos",
+    "Karn, the Great Creator allait chercher des artefacts dans la réserve",
+    "Deuxième du Star City Games Invitational de Roanoke en novembre 2019"
+   ],
+   "en": [
+    "Nissa doubled the mana from Forests and Nykthos",
+    "Karn, the Great Creator fetched artifacts from the sideboard",
+    "Finished second at the Star City Games Invitational in November 2019"
+   ]
+  },
+  "include": [
+   367011,
+   369626
+  ]
+ },
+ {
+  "name": "Bant Spirits",
+  "slug": "bant-spirits",
+  "archetype": "tempo",
+  "titles": [
+   "Spirit Aggro",
+   "Bant Spirits",
+   "Collected Spirit Bant",
+   "U/w Spirits"
+  ],
+  "cover": "Spell Queller",
+  "keyCards": [
+   "Spell Queller",
+   "Supreme Phantom",
+   "Collected Company",
+   "Nebelgast Herald",
+   "Rattlechains"
+  ],
+  "summary": {
+   "fr": "Tribal Spirit aux créatures à flash et aux seigneurs, avec un splash vert pour Collected Company.",
+   "en": "Spirit tribal built on flash creatures and lords, splashing green for Collected Company."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Players Tour Nagoya",
+    "Collected Company mettait deux Spirits en jeu à vitesse instantanée",
+    "Spell Queller et Nebelgast Herald gênaient l'adversaire pendant son tour"
+   ],
+   "en": [
+    "Won Players Tour Nagoya",
+    "Collected Company put two Spirits onto the battlefield at instant speed",
+    "Spell Queller and Nebelgast Herald disrupted the opponent on their turn"
+   ]
+  },
+  "include": [
+   371311
+  ]
+ },
+ {
+  "name": "Mono-White Heliod",
+  "slug": "mono-white-heliod",
+  "archetype": "combo",
+  "titles": [
+   "Weenie White",
+   "Devotion to White",
+   "Orzhov Aggro",
+   "Heliod WW",
+   "Heliod, Sun-Crowned",
+   "Devotion to Selesnya",
+   "Devotion to Azorius",
+   "WW Heliod",
+   "Azorius Heliod",
+   "Monowhite Devotion",
+   "Abzan Delirium",
+   "Mono White",
+   "Selesnya Aggro",
+   "Heliod Life",
+   "Mono-White Devotion"
+  ],
+  "cover": "Heliod, Sun-Crowned",
+  "keyCards": [
+   "Heliod, Sun-Crowned",
+   "Walking Ballista",
+   "Arcanist's Owl",
+   "Knight of the White Orchid",
+   "Thraben Inspector"
+  ],
+  "summary": {
+   "fr": "Créatures blanches autour d'une combo à deux cartes : Heliod, Sun-Crowned donne le lien de vie à Walking Ballista, dont chaque dégât remet un marqueur.",
+   "en": "White creature deck around a two-card combo: Heliod, Sun-Crowned gives Walking Ballista lifelink, so each ping gains life and puts a counter back."
+  },
+  "why": {
+   "fr": [
+    "La combo tuait l'adversaire en une seule activation illimitée",
+    "Une version Selesnya avec Collected Company finit deuxième du Grand Prix Nagoya",
+    "Fin de la combo avec le bannissement de Walking Ballista le 3 août 2020"
+   ],
+   "en": [
+    "The combo killed in one unbounded loop",
+    "A Selesnya Collected Company build finished second at Grand Prix Nagoya",
+    "Ended with the ban of Walking Ballista on August 3, 2020"
+   ]
+  },
+  "include": [
+   387168,
+   374884,
+   374886
+  ]
+ },
+ {
+  "name": "Niv to Light",
+  "slug": "niv-to-light",
+  "archetype": "midrange",
+  "titles": [
+   "Niv-Mizzet Reborn",
+   "5c Niv-mizzet"
+  ],
+  "cover": "Niv-Mizzet Reborn",
+  "keyCards": [
+   "Niv-Mizzet Reborn",
+   "Bring to Light",
+   "Sylvan Caryatid",
+   "Teferi, Time Raveler",
+   "Uro, Titan of Nature's Wrath"
+  ],
+  "summary": {
+   "fr": "Milieu de gamme cinq couleurs bâti sur des cartes bicolores : Bring to Light va chercher Niv-Mizzet Reborn ou un removal, Sylvan Caryatid fixe le mana.",
+   "en": "Five-color midrange built on two-color cards: Bring to Light fetches Niv-Mizzet Reborn or a removal spell, Sylvan Caryatid fixes the mana."
+  },
+  "why": {
+   "fr": [
+    "Top 4 au Players Tour Brussels",
+    "Niv-Mizzet Reborn piochait plusieurs cartes multicolores en arrivant",
+    "Uro, Titan of Nature's Wrath (Theros Beyond Death) rejoignait les listes en janvier"
+   ],
+   "en": [
+    "Reached the top 4 of Players Tour Brussels",
+    "Niv-Mizzet Reborn drew several gold cards on arrival",
+    "Uro, Titan of Nature's Wrath (Theros Beyond Death) joined the lists in January"
+   ]
+  }
+ },
+ {
+  "name": "Sultai Delirium",
+  "slug": "sultai-delirium",
+  "archetype": "midrange",
+  "titles": [
+   "Sultai Delirium",
+   "Simic Delirium",
+   "Sultai Traverse",
+   "Sultai Yorion Control",
+   "Delirium Sultai",
+   "Sultai Delerium",
+   "Sultai Big Badda Boom"
+  ],
+  "cover": "Uro, Titan of Nature's Wrath",
+  "keyCards": [
+   "Uro, Titan of Nature's Wrath",
+   "Traverse the Ulvenwald",
+   "Satyr Wayfinder",
+   "Jace, Vryn's Prodigy",
+   "Emrakul, the Promised End"
+  ],
+  "summary": {
+   "fr": "Milieu de gamme Sultai qui remplit le cimetière pour le délire : Traverse the Ulvenwald va chercher Uro, Ishkanah ou Emrakul, the Promised End.",
+   "en": "Sultai midrange that fills the graveyard for delirium: Traverse the Ulvenwald fetches Uro, Ishkanah or Emrakul, the Promised End."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Players Tour Brussels et atteint le top 4 du Players Tour Phoenix",
+    "Uro gagnait de la vie, accélérait puis revenait par escape",
+    "Satyr Wayfinder trouvait des terrains tout en remplissant le cimetière"
+   ],
+   "en": [
+    "Won Players Tour Brussels and reached the top 4 of Players Tour Phoenix",
+    "Uro gained life, ramped, then returned through escape",
+    "Satyr Wayfinder found lands while filling the graveyard"
+   ]
+  },
+  "include": [
+   368698,
+   367343,
+   364858,
+   422038,
+   421168
+  ]
+ },
+ {
+  "name": "Temur Reclamation",
+  "slug": "wilderness-reclamation",
+  "archetype": "control",
+  "titles": [
+   "Sultai Control",
+   "Temur Reclamation",
+   "UBG",
+   "Simic Reclamation"
+  ],
+  "cover": "Wilderness Reclamation",
+  "keyCards": [
+   "Wilderness Reclamation",
+   "Uro, Titan of Nature's Wrath",
+   "Expansion/Explosion",
+   "Shark Typhoon",
+   "Growth Spiral"
+  ],
+  "summary": {
+   "fr": "Contrôle à vitesse instantanée : Wilderness Reclamation dégage les terrains en fin de tour pour Expansion/Explosion, Shark Typhoon et les contresorts.",
+   "en": "Instant-speed control: Wilderness Reclamation untaps the lands at end of turn for Expansion/Explosion, Shark Typhoon and counterspells."
+  },
+  "why": {
+   "fr": [
+    "La version Temur est apparue en août 2020",
+    "En novembre et décembre, une version Sultai avec Thassa's Intervention est devenue majoritaire",
+    "Uro gagnait de la vie et revenait du cimetière"
+   ],
+   "en": [
+    "The Temur build appeared in August 2020",
+    "In November and December a Sultai build with Thassa's Intervention became more common",
+    "Uro gained life and came back from the graveyard"
+   ]
+  },
+  "rep": 426525
+ },
+ {
+  "name": "Simic Food",
+  "slug": "simic-food",
+  "archetype": "midrange",
+  "titles": [
+   "Simic Aggro",
+   "Devotion to Simic",
+   "Temur Aggro",
+   "Sultai Aggro",
+   "Bant Aggro",
+   "Simic Food Ramp",
+   "Sultai Food",
+   "Simic Midrange"
+  ],
+  "cover": "Oko, Thief of Crowns",
+  "keyCards": [
+   "Oko, Thief of Crowns",
+   "Gilded Goose",
+   "Steel Leaf Champion",
+   "Lovestruck Beast",
+   "Once Upon a Time"
+  ],
+  "summary": {
+   "fr": "Decks verts autour d'Oko, Thief of Crowns : elfes, grosses créatures et Gilded Goose, surtout en Simic, avec des versions Sultai et Temur comptées ici.",
+   "en": "Green decks built around Oko, Thief of Crowns: mana elves, large creatures and Gilded Goose, mostly Simic, with Sultai and Temur versions counted here."
+  },
+  "why": {
+   "fr": [
+    "Oko transformait les menaces adverses en Elk 3/3",
+    "Once Upon a Time trouvait une créature ou un terrain dès le premier tour",
+    "Fin avec les bannissements de Once Upon a Time (2 décembre) et d'Oko (16 décembre)"
+   ],
+   "en": [
+    "Oko turned opposing threats into 3/3 Elks",
+    "Once Upon a Time found a creature or land from the first turn",
+    "Ended with the bans of Once Upon a Time (December 2) and Oko (December 16)"
+   ]
+  },
+  "rep": 366310,
+  "include": [
+   364536,
+   364894,
+   363428,
+   362632,
+   362639,
+   362643
+  ],
+  "exclude": [
+   373262,
+   373062,
+   372774,
+   371957,
+   375528,
+   370550,
+   368390,
+   369160,
+   369900
+  ]
+ },
+ {
+  "name": "Gruul Aggro",
+  "slug": "gruul-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Gruul Aggro",
+   "Rg Dinosaurs",
+   "Atarka Deck Wins",
+   "Gruul Ramp",
+   "Collected Goblins",
+   "Gruul Stompy",
+   "Gruul Company"
+  ],
+  "cover": "Gruul Spellbreaker",
+  "keyCards": [
+   "Gruul Spellbreaker",
+   "Pelt Collector",
+   "Burning-Tree Emissary",
+   "Embercleave",
+   "Atarka's Command"
+  ],
+  "summary": {
+   "fr": "Aggro rouge-vert à bas coût : Pelt Collector, Burning-Tree Emissary et Experiment One, conclus par Embercleave ou Atarka's Command.",
+   "en": "Low-curve red-green aggro: Pelt Collector, Burning-Tree Emissary and Experiment One, finished by Embercleave or Atarka's Command."
+  },
+  "why": {
+   "fr": [
+    "Burning-Tree Emissary permettait deux créatures au deuxième tour",
+    "Embercleave coûtait moins cher avec plusieurs attaquants",
+    "Listes variées, de l'aggro pur aux versions midrange avec Questing Beast"
+   ],
+   "en": [
+    "Burning-Tree Emissary allowed two creatures on turn two",
+    "Embercleave cost less with several attackers",
+    "Lists varied, from pure aggro to midrange builds with Questing Beast"
+   ]
+  },
+  "include": [
+   365711
+  ]
+ },
+ {
+  "name": "Izzet Ensoul",
+  "slug": "izzet-ensoul",
+  "archetype": "aggro",
+  "titles": [
+   "UR Ensoul Artifact",
+   "UR Ensoul Aggro",
+   "UR Ensoul",
+   "Ur Ensoul",
+   "UR Artifacts Aggro",
+   "Izzet Ensoul",
+   "UR Aggro Artifacts",
+   "UR artefacts",
+   "Ensoul Aggro"
+  ],
+  "cover": "Ensoul Artifact",
+  "keyCards": [
+   "Ensoul Artifact",
+   "Stonecoil Serpent",
+   "Steel Overseer",
+   "Shrapnel Blast",
+   "Ghostfire Blade"
+  ],
+  "summary": {
+   "fr": "Aggro artefacts Izzet : Ensoul Artifact transforme Ornithopter ou un terrain-artefact en 5/5, Shrapnel Blast conclut.",
+   "en": "Izzet artifact aggro: Ensoul Artifact turns Ornithopter or an artifact land into a 5/5, with Shrapnel Blast to finish."
+  },
+  "why": {
+   "fr": [
+    "Deux joueurs en top 4 du Grand Prix Nagoya",
+    "Skilled Animator et Ghostfire Blade multipliaient les grosses menaces",
+    "Stonecoil Serpent s'adaptait à chaque étape de la partie"
+   ],
+   "en": [
+    "Two players reached the top 4 of Grand Prix Nagoya",
+    "Skilled Animator and Ghostfire Blade added more large threats",
+    "Stonecoil Serpent scaled to any stage of the game"
+   ]
+  }
+ },
+ {
+  "name": "Jeskai Fires",
+  "slug": "fires-of-invention",
+  "archetype": "control",
+  "titles": [
+   "Fires of Invention",
+   "Jeskai Fires of Invention",
+   "Jeskai Yorion",
+   "Grixis Fires Of Invention",
+   "Fires of Invention Grixis",
+   "Big Red",
+   "Jeskai Fires",
+   "Grixis Midrange"
+  ],
+  "cover": "Fires of Invention",
+  "keyCards": [
+   "Fires of Invention",
+   "Teferi, Time Raveler",
+   "Narset, Parter of Veils",
+   "Fae of Wishes",
+   "Supreme Verdict"
+  ],
+  "summary": {
+   "fr": "Contrôle Jeskai sous Fires of Invention : planeswalkers et balais lancés gratuitement, Fae of Wishes allant chercher des réponses dans la réserve.",
+   "en": "Jeskai control under Fires of Invention: planeswalkers and sweepers cast for free, with Fae of Wishes fetching answers from the sideboard."
+  },
+  "why": {
+   "fr": [
+    "Fires of Invention permettait deux sorts par tour sans payer de mana",
+    "Teferi, Time Raveler et Narset protégeaient le plan",
+    "En fin d'année, Lukka et Transmogrify amenaient Agent of Treachery"
+   ],
+   "en": [
+    "Fires of Invention allowed two free spells per turn",
+    "Teferi, Time Raveler and Narset protected the plan",
+    "Late in the year, Lukka and Transmogrify brought in Agent of Treachery"
+   ]
+  },
+  "rep": 373208
+ },
+ {
+  "name": "Izzet Phoenix",
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "titles": [
+   "Izzet Arclight",
+   "Arclight Izzet",
+   "Izzet Phoenix",
+   "Ur Phoenix",
+   "Arclight",
+   "UR Control",
+   "UR Arclight Phoenix",
+   "UR Arclight"
+  ],
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Treasure Cruise",
+   "Thing in the Ice",
+   "Chart a Course",
+   "Merfolk Secretkeeper"
+  ],
+  "summary": {
+   "fr": "Deck de sorts Izzet : sorts bon marché et défausses ramènent Arclight Phoenix du cimetière, Treasure Cruise recharge la main.",
+   "en": "Izzet spells deck: cheap spells and discard outlets bring Arclight Phoenix back from the graveyard, while Treasure Cruise refills the hand."
+  },
+  "why": {
+   "fr": [
+    "Chart a Course et Merfolk Secretkeeper mettaient les Phoenix au cimetière",
+    "Thing in the Ice offrait un second plan",
+    "Présent surtout pendant les premiers mois du format"
+   ],
+   "en": [
+    "Chart a Course and Merfolk Secretkeeper put Phoenixes in the graveyard",
+    "Thing in the Ice gave a second plan",
+    "Mostly seen in the first months of the format"
+   ]
+  }
+ },
+ {
+  "name": "Boros Burn",
+  "slug": "boros-burn",
+  "archetype": "aggro",
+  "titles": [
+   "RDW",
+   "Boros Deck Wins",
+   "Burn",
+   "Boros Burn"
+  ],
+  "cover": "Boros Charm",
+  "keyCards": [
+   "Boros Charm",
+   "Eidolon of the Great Revel",
+   "Monastery Swiftspear",
+   "Wizard's Lightning",
+   "Viashino Pyromancer"
+  ],
+  "summary": {
+   "fr": "Burn rouge avec un splash blanc pour Boros Charm : créatures à prouesse, Eidolon of the Great Revel et une forte densité de sorts de dégâts.",
+   "en": "Red burn splashing white for Boros Charm: prowess creatures, Eidolon of the Great Revel and a dense count of burn spells aimed at the opponent."
+  },
+  "why": {
+   "fr": [
+    "Boros Charm infligeait quatre dégâts à l'adversaire pour deux manas",
+    "Eidolon of the Great Revel punissait les decks de sorts bon marché",
+    "Ghitu Lavarunner et Viashino Pyromancer réduisaient Wizard's Lightning à un mana"
+   ],
+   "en": [
+    "Boros Charm dealt four damage to the opponent for two mana",
+    "Eidolon of the Great Revel punished decks of cheap spells",
+    "Ghitu Lavarunner and Viashino Pyromancer made Wizard's Lightning cost one"
+   ]
+  },
+  "include": [
+   398070,
+   392342,
+   385615,
+   385612,
+   382349,
+   369643
+  ]
+ },
+ {
+  "name": "Orzhov Auras",
+  "slug": "orzhov-auras",
+  "archetype": "aggro",
+  "titles": [
+   "Orzhov Sram",
+   "Selesnya Sram",
+   "Sram Orzhov",
+   "Bant Aura",
+   "Naya Zoo",
+   "Aura Aggro",
+   "Boros",
+   "Orzhov Auras",
+   "Sram Selesnya",
+   "Sram Auras"
+  ],
+  "cover": "Sram, Senior Edificer",
+  "keyCards": [
+   "Sram, Senior Edificer",
+   "Alseid of Life's Bounty",
+   "All That Glitters",
+   "Ethereal Armor",
+   "Hateful Eidolon"
+  ],
+  "summary": {
+   "fr": "Aggro auras : enchantements bon marché sur Alseid of Life's Bounty ou Hateful Eidolon, Sram, Senior Edificer piochant une carte à chaque aura.",
+   "en": "Aura aggro: cheap enchantments on Alseid of Life's Bounty or Hateful Eidolon, with Sram, Senior Edificer drawing a card for each one."
+  },
+  "why": {
+   "fr": [
+    "Deuxième du Players Tour Nagoya",
+    "Hateful Eidolon piochait quand une créature enchantée mourait",
+    "Une version Selesnya avec Gladecover Scout est comptée ici"
+   ],
+   "en": [
+    "Finished second at Players Tour Nagoya",
+    "Hateful Eidolon drew cards when an enchanted creature died",
+    "A Selesnya build with Gladecover Scout is counted here"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Spirits",
+  "slug": "azorius-spirits",
+  "archetype": "tempo",
+  "titles": [
+   "UW Spirit Aggro",
+   "Azorius Spirits",
+   "Azorius Spirit",
+   "Uw Spirits",
+   "Spirits",
+   "UW Spirit"
+  ],
+  "cover": "Supreme Phantom",
+  "keyCards": [
+   "Supreme Phantom",
+   "Spell Queller",
+   "Mausoleum Wanderer",
+   "Spectral Sailor",
+   "Empyrean Eagle"
+  ],
+  "summary": {
+   "fr": "Version Spirits bicolore sans Collected Company : plus de contresorts et de volants à flash, parfois avec Smuggler's Copter.",
+   "en": "Two-color Spirits build without Collected Company: more counterspells and flash fliers, sometimes with Smuggler's Copter."
+  },
+  "why": {
+   "fr": [
+    "Deux joueurs en top 8 du Grand Prix Brussels",
+    "Supreme Phantom et Empyrean Eagle renforçaient les autres Spirits",
+    "Mausoleum Wanderer contrait un sort instantané ou rituel"
+   ],
+   "en": [
+    "Two players reached the top 8 of Grand Prix Brussels",
+    "Supreme Phantom and Empyrean Eagle pumped the other Spirits",
+    "Mausoleum Wanderer countered an instant or sorcery"
+   ]
+  }
+ },
+ {
+  "name": "Hardened Scales",
+  "slug": "hardened-scales",
+  "archetype": "aggro",
+  "titles": [
+   "Golgari Scales",
+   "Hardened Golgari",
+   "Golgari Scales Aggro",
+   "Devotion to Golgari",
+   "Hardened Scales Simic",
+   "Green Scales",
+   "Selesnya Hardened Scales",
+   "Golgari scales",
+   "Bg Scales",
+   "Golgari Hardened Scales"
+  ],
+  "cover": "Hardened Scales",
+  "keyCards": [
+   "Hardened Scales",
+   "Winding Constrictor",
+   "Walking Ballista",
+   "Stonecoil Serpent",
+   "Hangarback Walker"
+  ],
+  "summary": {
+   "fr": "Aggro à marqueurs +1/+1 : Hardened Scales et Winding Constrictor ajoutent des marqueurs à Walking Ballista, Stonecoil Serpent et Hangarback Walker.",
+   "en": "+1/+1 counters aggro: Hardened Scales and Winding Constrictor add extra counters to Walking Ballista, Stonecoil Serpent and Hangarback Walker."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à X tiraient parti de chaque marqueur supplémentaire",
+    "Nissa, Voice of Zendikar renforçait toute l'équipe",
+    "Versions Golgari, Simic et Selesnya comptées ensemble"
+   ],
+   "en": [
+    "X-cost creatures benefited from every extra counter",
+    "Nissa, Voice of Zendikar pumped the whole team",
+    "Golgari, Simic and Selesnya builds are counted together"
+   ]
+  },
+  "include": [
+   365634,
+   365678,
+   364917,
+   364800,
+   379430
+  ],
+  "exclude": [
+   363824
+  ]
+ },
+ {
+  "name": "Mono-Green Ramp",
+  "slug": "mono-green-ramp",
+  "archetype": "ramp",
+  "titles": [
+   "Mono Green Ramp",
+   "Simic Ramp",
+   "Marvellous Energy",
+   "Colorless Green Ideas Sleep Furiously",
+   "SimicRamp",
+   "Monogreen Ramp"
+  ],
+  "cover": "Ugin, the Spirit Dragon",
+  "keyCards": [
+   "Ugin, the Spirit Dragon",
+   "World Breaker",
+   "Cavalier of Thorns",
+   "Arboreal Grazer",
+   "Nissa's Pilgrimage"
+  ],
+  "summary": {
+   "fr": "Rampe verte vers les Eldrazi et Ugin, the Spirit Dragon, héritière des decks Hour of Promise après le bannissement de Field of the Dead.",
+   "en": "Green ramp into Eldrazi and Ugin, the Spirit Dragon, the successor of the Hour of Promise decks after Field of the Dead was banned."
+  },
+  "why": {
+   "fr": [
+    "Arboreal Grazer et Nissa's Pilgrimage mettaient des terrains en jeu",
+    "World Breaker et Ulamog exilaient des permanents adverses",
+    "Une version Simic avec Uro et Hydroid Krasis est comptée ici"
+   ],
+   "en": [
+    "Arboreal Grazer and Nissa's Pilgrimage put extra lands onto the battlefield",
+    "World Breaker and Ulamog exiled opposing permanents",
+    "A Simic build with Uro and Hydroid Krasis is counted here"
+   ]
+  },
+  "include": [
+   368691,
+   368147,
+   368071
+  ]
+ },
+ {
+  "name": "Omnath Ramp",
+  "slug": "omnath-ramp",
+  "archetype": "ramp",
+  "titles": [
+   "Omnath Ramp",
+   "Omnath"
+  ],
+  "cover": "Omnath, Locus of Creation",
+  "keyCards": [
+   "Omnath, Locus of Creation",
+   "Lotus Cobra",
+   "Uro, Titan of Nature's Wrath",
+   "Escape to the Wilds",
+   "Genesis Ultimatum"
+  ],
+  "summary": {
+   "fr": "Rampe landfall arrivée avec Zendikar Rising : Lotus Cobra et Omnath, Locus of Creation convertissent les terrains posés en mana et en vie.",
+   "en": "Landfall ramp that arrived with Zendikar Rising: Lotus Cobra and Omnath, Locus of Creation turn land drops into mana and life."
+  },
+  "why": {
+   "fr": [
+    "Uro et Escape to the Wilds fournissaient des poses de terrain supplémentaires",
+    "Genesis Ultimatum mettait plusieurs permanents en jeu d'un coup",
+    "Teferi, Time Raveler limitait l'adversaire à la vitesse rituel"
+   ],
+   "en": [
+    "Uro and Escape to the Wilds supplied extra land drops",
+    "Genesis Ultimatum put several permanents onto the battlefield at once",
+    "Teferi, Time Raveler held opponents to sorcery speed"
+   ]
+  },
+  "include": [
+   423849,
+   421167,
+   419571
+  ]
+ },
+ {
+  "name": "Field of the Dead",
+  "slug": "field-of-the-dead",
+  "archetype": "ramp",
+  "titles": [
+   "Hour of Promise Ramp",
+   "Field of the Dead Ramp",
+   "Bant Ramp Field of the Dead",
+   "Field of the Dead Bant Ramp",
+   "Ramp Field of the Dead"
+  ],
+  "cover": "Hour of Promise",
+  "keyCards": [
+   "Hour of Promise",
+   "Teferi, Time Raveler",
+   "Arboreal Grazer",
+   "Elvish Rejuvenator",
+   "Supreme Verdict"
+  ],
+  "summary": {
+   "fr": "Rampe autour de Field of the Dead : Hour of Promise et Elvish Rejuvenator posent des terrains aux noms différents, qui créent des Zombies.",
+   "en": "Ramp deck around Field of the Dead: Hour of Promise and Elvish Rejuvenator put lands with different names onto the battlefield, each one making Zombies."
+  },
+  "why": {
+   "fr": [
+    "Chaque terrain posé créait un Zombie une fois sept noms différents en jeu",
+    "Once Upon a Time trouvait une pièce dès le premier tour",
+    "Banni le 2 décembre 2019, comme Once Upon a Time"
+   ],
+   "en": [
+    "Each land drop made a Zombie once seven different names were in play",
+    "Once Upon a Time found a key piece from the first turn",
+    "Banned on December 2, 2019, together with Once Upon a Time"
+   ]
+  },
+  "include": [
+   364792,
+   363823,
+   363825
+  ]
+ },
+ {
+  "name": "Golgari Stompy",
+  "slug": "golgari-stompy",
+  "archetype": "aggro",
+  "titles": [
+   "Golgari Aggro",
+   "Golgari Stompy",
+   "Golgari Dark Petition",
+   "Bg Stompy",
+   "Golgari Great Henge"
+  ],
+  "cover": "Rotting Regisaur",
+  "keyCards": [
+   "Rotting Regisaur",
+   "Steel Leaf Champion",
+   "Lovestruck Beast",
+   "The Great Henge",
+   "Scrapheap Scrounger"
+  ],
+  "summary": {
+   "fr": "Aggro Golgari aux grosses créatures bon marché : Steel Leaf Champion, Lovestruck Beast et Rotting Regisaur, relayés par The Great Henge.",
+   "en": "Golgari aggro with large, cheap creatures: Steel Leaf Champion, Lovestruck Beast and Rotting Regisaur, backed by The Great Henge."
+  },
+  "why": {
+   "fr": [
+    "Rotting Regisaur offrait un 7/6 pour trois manas",
+    "The Great Henge piochait et accélérait une fois en jeu",
+    "Les elfes à mana permettaient une créature à trois manas au deuxième tour"
+   ],
+   "en": [
+    "Rotting Regisaur was a 7/6 for three mana",
+    "The Great Henge drew cards and ramped once in play",
+    "Mana elves allowed a three-drop on turn two"
+   ]
+  },
+  "rep": 371955
+ },
+ {
+  "name": "Boros Heroic",
+  "slug": "boros-heroic",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Aggro",
+   "Boros Feather"
+  ],
+  "cover": "Feather, the Redeemed",
+  "keyCards": [
+   "Feather, the Redeemed",
+   "Favored Hoplite",
+   "Gods Willing",
+   "Reckless Rage",
+   "Tenth District Legionnaire"
+  ],
+  "summary": {
+   "fr": "Aggro heroic : petites créatures ciblées par des sorts de protection et de renfort, Feather, the Redeemed renvoyant ces sorts en main.",
+   "en": "Heroic aggro: cheap creatures targeted by protection and pump spells, with Feather, the Redeemed returning those spells to hand."
+  },
+  "why": {
+   "fr": [
+    "Favored Hoplite et Tenth District Legionnaire grandissaient à chaque sort",
+    "Gods Willing protégeait la menace contre les removals",
+    "Reckless Rage servait de removal avec un déclenchement heroic"
+   ],
+   "en": [
+    "Favored Hoplite and Tenth District Legionnaire grew with each spell",
+    "Gods Willing protected the threat from removal",
+    "Reckless Rage was removal that also triggered heroic"
+   ]
+  },
+  "include": [
+   369897
+  ]
+ },
+ {
+  "name": "Golgari Soulflayer",
+  "slug": "golgari-soulflayer",
+  "archetype": "combo",
+  "titles": [
+   "Soulflayer",
+   "Soulflayer Golgari",
+   "Golgari Soulflayer Aggro",
+   "Golgari Soulflayer",
+   "Golgari Aggro Soulflayer",
+   "Bg Soulflayer"
+  ],
+  "cover": "Soulflayer",
+  "keyCards": [
+   "Soulflayer",
+   "Zetalpa, Primal Dawn",
+   "Questing Beast",
+   "Lotleth Troll",
+   "Grisly Salvage"
+  ],
+  "summary": {
+   "fr": "Deck cimetière Golgari : Grisly Salvage et Gather the Pack mettent au cimetière les créatures dont Soulflayer copie les capacités.",
+   "en": "Golgari graveyard deck: Grisly Salvage and Gather the Pack bin the creatures whose abilities Soulflayer then copies."
+  },
+  "why": {
+   "fr": [
+    "Zetalpa et Questing Beast donnaient vol, double initiative et indestructible",
+    "Delve rendait Soulflayer peu coûteux",
+    "Présent surtout en décembre 2019 et janvier 2020"
+   ],
+   "en": [
+    "Zetalpa and Questing Beast granted flying, double strike and indestructible",
+    "Delve made Soulflayer cheap to cast",
+    "Mostly seen in December 2019 and January 2020"
+   ]
+  },
+  "include": [
+   365642
+  ]
+ },
+ {
+  "name": "Esper Control",
+  "slug": "esper-control",
+  "archetype": "control",
+  "titles": [
+   "Esper Yorion Control",
+   "Esper Yorion",
+   "Esper Control",
+   "Esper DOOM"
+  ],
+  "cover": "Elspeth, Sun's Nemesis",
+  "keyCards": [
+   "Teferi, Time Raveler",
+   "Thoughtseize",
+   "Fatal Push",
+   "Oath of Kaya",
+   "Supreme Verdict"
+  ],
+  "summary": {
+   "fr": "Contrôle Esper : Thoughtseize et Fatal Push ajoutés au noyau Azorius, souvent avec Yorion, Sky Nomad en compagnon après Ikoria.",
+   "en": "Esper control: Thoughtseize and Fatal Push added to the Azorius core, often with Yorion, Sky Nomad as companion after Ikoria."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize retirait les pièces de combo avant qu'elles arrivent",
+    "Oath of Kaya et les Omens profitaient de Yorion",
+    "Teferi, Time Raveler et Narset limitaient l'adversaire"
+   ],
+   "en": [
+    "Thoughtseize took combo pieces before they landed",
+    "Oath of Kaya and Omen enchantments benefited from Yorion",
+    "Teferi, Time Raveler and Narset restricted the opponent"
+   ]
+  },
+  "include": [
+   367928
+  ]
+ },
+ {
+  "name": "Landless Spy",
+  "slug": "landless-spy",
+  "archetype": "combo",
+  "titles": [
+   "Landless Spy",
+   "Landless",
+   "Landless Informer"
+  ],
+  "cover": "Balustrade Spy",
+  "keyCards": [
+   "Balustrade Spy",
+   "Undercity Informer",
+   "Prized Amalgam",
+   "Sea Gate Restoration",
+   "Neoform"
+  ],
+  "summary": {
+   "fr": "Combo sans terrain : les terrains de Zendikar Rising sont joués côté sort, puis Balustrade Spy ou Undercity Informer met toute la bibliothèque au cimetière.",
+   "en": "Landless combo: Zendikar Rising modal lands are played as spells, then Balustrade Spy or Undercity Informer mills the whole library."
+  },
+  "why": {
+   "fr": [
+    "Sans terrain dans le deck, le meulage ne s'arrêtait jamais",
+    "Prized Amalgam et Creeping Chill concluaient depuis le cimetière",
+    "Banni le 15 février 2021 avec Balustrade Spy et Undercity Informer"
+   ],
+   "en": [
+    "With no lands in the deck, the mill never stopped",
+    "Prized Amalgam and Creeping Chill finished from the graveyard",
+    "Banned on February 15, 2021 with Balustrade Spy and Undercity Informer"
+   ]
+  }
+ },
+ {
+  "name": "Rakdos Midrange",
+  "slug": "rakdos-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Control",
+   "Rakdos Deck Wins",
+   "Devotion to Red",
+   "Rakdos Midrange",
+   "Rakdos Control PW",
+   "Rakdos Stuff"
+  ],
+  "cover": "Glorybringer",
+  "keyCards": [
+   "Glorybringer",
+   "Chandra, Torch of Defiance",
+   "Glint-Sleeve Siphoner",
+   "Kalitas, Traitor of Ghet",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Midrange noir-rouge : défausse et removal, puis Glorybringer, Chandra, Torch of Defiance et Kalitas, Traitor of Ghet.",
+   "en": "Black-red midrange: discard and removal, then Glorybringer, Chandra, Torch of Defiance and Kalitas, Traitor of Ghet."
+  },
+  "why": {
+   "fr": [
+    "Glint-Sleeve Siphoner apportait de l'avantage de cartes dès le deuxième tour",
+    "Kolaghan's Command et Dreadbore couvraient créatures et planeswalkers",
+    "Glorybringer infligeait quatre dégâts à une créature à chaque attaque épuisante"
+   ],
+   "en": [
+    "Glint-Sleeve Siphoner drew extra cards from turn two",
+    "Kolaghan's Command and Dreadbore covered creatures and planeswalkers",
+    "Glorybringer dealt four damage to a creature each time it was exerted"
+   ]
+  },
+  "include": [
+   368389,
+   366467,
+   366068
+  ]
+ },
+ {
+  "name": "Rakdos Arcanist",
+  "slug": "rakdos-arcanist",
+  "archetype": "aggro",
+  "titles": [
+   "Rakdos Aggro"
+  ],
+  "cover": "Dreadhorde Arcanist",
+  "keyCards": [
+   "Dreadhorde Arcanist",
+   "Stitcher's Supplier",
+   "Village Rites",
+   "Kroxa, Titan of Death's Hunger",
+   "Young Pyromancer"
+  ],
+  "summary": {
+   "fr": "Deck cimetière Rakdos apparu à l'automne : Stitcher's Supplier et Village Rites remplissent le cimetière pour Kroxa, Dreadhorde Arcanist relance les sorts.",
+   "en": "Rakdos graveyard deck that appeared in the autumn: Stitcher's Supplier and Village Rites stock the graveyard for Kroxa, while Dreadhorde Arcanist recasts spells."
+  },
+  "why": {
+   "fr": [
+    "Dreadhorde Arcanist relançait Thoughtseize ou Village Rites depuis le cimetière",
+    "Kroxa revenait plusieurs fois par escape",
+    "Claim/Fame ramenait une créature et lui donnait la célérité"
+   ],
+   "en": [
+    "Dreadhorde Arcanist recast Thoughtseize or Village Rites from the graveyard",
+    "Kroxa came back again and again through escape",
+    "Claim/Fame returned a creature and gave it haste"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Green Aggro",
+  "slug": "mono-green-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Mono Green Aggro",
+   "Mono Green Stompy"
+  ],
+  "cover": "Steel Leaf Champion",
+  "keyCards": [
+   "Steel Leaf Champion",
+   "Aspect of Hydra",
+   "Yorvo, Lord of Garenbrig",
+   "Avatar of the Resolute",
+   "Barkhide Troll"
+  ],
+  "summary": {
+   "fr": "Aggro mono-vert aux créatures surdimensionnées : Steel Leaf Champion, Yorvo et Barkhide Troll, avec Aspect of Hydra pour forcer le passage.",
+   "en": "Mono-green aggro with oversized creatures: Steel Leaf Champion, Yorvo and Barkhide Troll, with Aspect of Hydra to push damage through."
+  },
+  "why": {
+   "fr": [
+    "Steel Leaf Champion ne pouvait pas être bloqué par les petites créatures",
+    "Aspect of Hydra profitait de la dévotion au vert",
+    "Les elfes à mana accéléraient la courbe"
+   ],
+   "en": [
+    "Steel Leaf Champion could not be blocked by small creatures",
+    "Aspect of Hydra scaled with green devotion",
+    "Mana elves sped up the curve"
+   ]
+  }
+ },
+ {
+  "name": "Simic Nexus",
+  "slug": "simic-nexus",
+  "archetype": "combo",
+  "titles": [
+   "Nexus Fog",
+   "Bant Nexus",
+   "Bant Reclamation",
+   "Nexus Reclamation"
+  ],
+  "cover": "Nexus of Fate",
+  "keyCards": [
+   "Nexus of Fate",
+   "Wilderness Reclamation",
+   "Growth Spiral",
+   "Dig Through Time",
+   "Haze of Pollen"
+  ],
+  "summary": {
+   "fr": "Contrôle à tours supplémentaires : Wilderness Reclamation et Growth Spiral fournissent le mana pour lancer Nexus of Fate, un éphémère, tour après tour.",
+   "en": "Extra-turn control: Wilderness Reclamation and Growth Spiral provide the mana to cast Nexus of Fate, an instant, turn after turn."
+  },
+  "why": {
+   "fr": [
+    "Nexus of Fate retournait dans la bibliothèque et revenait sans fin",
+    "Haze of Pollen et Fog retardaient les decks agressifs",
+    "Banni le 16 décembre 2019"
+   ],
+   "en": [
+    "Nexus of Fate shuffled back into the library and came back again",
+    "Haze of Pollen and Fog held off aggressive decks",
+    "Nexus of Fate was banned on December 16, 2019"
+   ]
+  },
+  "rep": 366026
+ },
+ {
+  "name": "Naya Winota",
+  "slug": "winota",
+  "archetype": "aggro",
+  "titles": [
+   "Winota"
+  ],
+  "cover": "Winota, Joiner of Forces",
+  "keyCards": [
+   "Winota, Joiner of Forces",
+   "Angrath's Marauders",
+   "Legion Warboss",
+   "Eldritch Evolution",
+   "Goblin Rabblemaster"
+  ],
+  "summary": {
+   "fr": "Deck de créatures Naya : Goblins et créatures non-Humaines déclenchent Winota, Joiner of Forces, qui va chercher Angrath's Marauders ou Kenrith.",
+   "en": "Naya creature deck: Goblins and other non-Humans trigger Winota, Joiner of Forces, which finds Angrath's Marauders or Kenrith."
+  },
+  "why": {
+   "fr": [
+    "Legion Warboss et Goblin Rabblemaster créaient des attaquants non-Humains",
+    "Eldritch Evolution allait chercher Winota sur une petite créature",
+    "Angrath's Marauders doublait les dégâts"
+   ],
+   "en": [
+    "Legion Warboss and Goblin Rabblemaster made non-Human attackers",
+    "Eldritch Evolution fetched Winota from a small creature",
+    "Angrath's Marauders doubled the damage"
+   ]
+  }
+ },
+ {
+  "name": "Izzet Flamewake",
+  "slug": "izzet-flamewake",
+  "archetype": "tempo",
+  "titles": [
+   "UR Aggro",
+   "Izzet Emerge",
+   "Izzet Phoenix (but not Arclight)"
+  ],
+  "cover": "Flamewake Phoenix",
+  "keyCards": [
+   "Flamewake Phoenix",
+   "Rekindling Phoenix",
+   "Elder Deep-Fiend",
+   "Kozilek's Return",
+   "Brazen Borrower"
+  ],
+  "summary": {
+   "fr": "Tempo Izzet sans Arclight Phoenix : Flamewake et Rekindling Phoenix, Elder Deep-Fiend en émergence et Kozilek's Return à vitesse instantanée.",
+   "en": "Izzet tempo without Arclight Phoenix: Flamewake and Rekindling Phoenix, Elder Deep-Fiend through emerge and Kozilek's Return at instant speed."
+  },
+  "why": {
+   "fr": [
+    "Kozilek's Return balayait les petites créatures à vitesse instantanée",
+    "Flamewake Phoenix et Rekindling Phoenix revenaient du cimetière",
+    "Brazen Borrower et Bonecrusher Giant valaient deux sorts chacun"
+   ],
+   "en": [
+    "Kozilek's Return swept small creatures at instant speed",
+    "Flamewake Phoenix and Rekindling Phoenix came back from the graveyard",
+    "Brazen Borrower and Bonecrusher Giant were two spells each"
+   ]
+  }
+ },
+ {
+  "name": "Dredge",
+  "slug": "dredge",
+  "archetype": "combo",
+  "titles": [
+   "Dredge"
+  ],
+  "cover": "Prized Amalgam",
+  "keyCards": [
+   "Prized Amalgam",
+   "Creeping Chill",
+   "Narcomoeba",
+   "Stitcher's Supplier",
+   "Satyr Wayfinder"
+  ],
+  "summary": {
+   "fr": "Deck cimetière sans dredge : Stitcher's Supplier et Satyr Wayfinder meulent pour Narcomoeba, Creeping Chill et Prized Amalgam.",
+   "en": "Graveyard deck without the dredge mechanic: Stitcher's Supplier and Satyr Wayfinder mill into Narcomoeba, Creeping Chill and Prized Amalgam."
+  },
+  "why": {
+   "fr": [
+    "Narcomoeba et Creeping Chill agissaient depuis le cimetière",
+    "Prized Amalgam revenait chaque fois qu'une créature revenait du cimetière",
+    "Gurmag Angler profitait du cimetière rempli"
+   ],
+   "en": [
+    "Narcomoeba and Creeping Chill worked from the graveyard",
+    "Prized Amalgam returned whenever a creature came back from the graveyard",
+    "Gurmag Angler took advantage of the full graveyard"
+   ]
+  }
+ },
+ {
+  "name": "Abzan Rally",
+  "slug": "abzan-rally",
+  "archetype": "combo",
+  "titles": [
+   "Abzan Rally",
+   "Abzan Aristocrat",
+   "Orzhov Rally the Ancestors",
+   "Abzan Aristocrats"
+  ],
+  "cover": "Rally the Ancestors",
+  "keyCards": [
+   "Rally the Ancestors",
+   "Return to the Ranks",
+   "Zulaport Cutthroat",
+   "Cruel Celebrant",
+   "Cartel Aristocrat"
+  ],
+  "summary": {
+   "fr": "Combo sacrifice : les créatures sacrifiées reviennent en masse avec Rally the Ancestors ou Return to the Ranks, Zulaport Cutthroat drainant l'adversaire.",
+   "en": "Sacrifice combo: creatures sacrificed along the way come back en masse with Rally the Ancestors or Return to the Ranks, as Zulaport Cutthroat drains."
+  },
+  "why": {
+   "fr": [
+    "Zulaport Cutthroat et Cruel Celebrant drainaient à chaque mort",
+    "Cartel Aristocrat servait d'exutoire gratuit",
+    "Collected Company assemblait les pièces à vitesse instantanée"
+   ],
+   "en": [
+    "Zulaport Cutthroat and Cruel Celebrant drained with each death",
+    "Cartel Aristocrat was a free sacrifice outlet",
+    "Collected Company assembled pieces at instant speed"
+   ]
+  }
+ },
+ {
+  "name": "Copycat Combo",
+  "slug": "copycat",
+  "archetype": "combo",
+  "titles": [
+   "Copycat",
+   "5c Golos Copycat",
+   "Jeskai Copycat",
+   "4c Copycat"
+  ],
+  "cover": "Saheeli Rai",
+  "keyCards": [
+   "Saheeli Rai",
+   "Felidar Guardian",
+   "Oko, Thief of Crowns",
+   "Teferi, Time Raveler",
+   "Gilded Goose"
+  ],
+  "summary": {
+   "fr": "Combo des premiers jours du format : Saheeli Rai et Felidar Guardian créent des copies infinies, autour d'une base Oko et Teferi.",
+   "en": "Combo from the format's first days: Saheeli Rai and Felidar Guardian make endless copies, on an Oko and Teferi base."
+  },
+  "why": {
+   "fr": [
+    "La combo à deux cartes gagnait dès le quatrième tour",
+    "Oko et Teferi, Time Raveler donnaient un plan de jeu sans la combo",
+    "Fin avec le bannissement de Felidar Guardian le 4 novembre 2019"
+   ],
+   "en": [
+    "The two-card combo could win on turn four",
+    "Oko and Teferi, Time Raveler gave a plan without the combo",
+    "Ended with the ban of Felidar Guardian on November 4, 2019"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Ensoul",
+  "slug": "azorius-ensoul",
+  "archetype": "aggro",
+  "titles": [
+   "Ensoul Artifacts",
+   "Simic Aggro Artifacts",
+   "UW Ensoul",
+   "UW All That Glitters",
+   "All That Glitters"
+  ],
+  "cover": "Ensoul Artifact",
+  "keyCards": [
+   "Ensoul Artifact",
+   "All That Glitters",
+   "Stonecoil Serpent",
+   "Gingerbrute",
+   "Bomat Courier"
+  ],
+  "summary": {
+   "fr": "Variante blanche du deck Ensoul Artifact : All That Glitters remplace une partie du rouge et renforce les créatures-artefacts.",
+   "en": "White variant of the Ensoul Artifact deck: All That Glitters replaces some of the red and pumps the artifact creatures."
+  },
+  "why": {
+   "fr": [
+    "All That Glitters comptait artefacts et enchantements",
+    "Dovin's Veto protégeait les Ensoul Artifact",
+    "Gingerbrute attaquait sans pouvoir être bloqué par la plupart des créatures"
+   ],
+   "en": [
+    "All That Glitters counted both artifacts and enchantments",
+    "Dovin's Veto protected Ensoul Artifact",
+    "Gingerbrute attacked past most blockers"
+   ]
+  },
+  "include": [
+   389335,
+   374576
+  ]
+ },
+ {
+  "name": "Izzet Prowess",
+  "slug": "izzet-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "Izzet Wizards"
+  ],
+  "cover": "Stormchaser Mage",
+  "keyCards": [
+   "Stormchaser Mage",
+   "Curious Obsession",
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Crash Through"
+  ],
+  "summary": {
+   "fr": "Prouesse Izzet : créatures à prouesse et cantrips bon marché, Curious Obsession pour piocher sur les attaques.",
+   "en": "Izzet prowess: prowess creatures and cheap cantrips, with Curious Obsession drawing cards off attacks."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Grand Prix Nagoya",
+    "Crash Through et Opt déclenchaient la prouesse sans perte de carte",
+    "Stormchaser Mage attaquait dès son arrivée grâce à la célérité"
+   ],
+   "en": [
+    "Won Grand Prix Nagoya",
+    "Crash Through and Opt triggered prowess without costing a card",
+    "Stormchaser Mage attacked right away thanks to haste"
+   ]
+  }
+ }
+]

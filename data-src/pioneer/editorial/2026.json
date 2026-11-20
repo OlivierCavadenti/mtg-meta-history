@@ -1,0 +1,2396 @@
+[
+ {
+  "name": "Orzhov Greasefang",
+  "slug": "orzhov-greasefang",
+  "archetype": "combo",
+  "titles": [
+   "Greasefang Parhelion",
+   "Orzhov Greasefang"
+  ],
+  "cover": "Greasefang, Okiba Boss",
+  "keyCards": [
+   "Greasefang, Okiba Boss",
+   "Parhelion II",
+   "Monument to Endurance",
+   "Guardian of New Benalia",
+   "Fleeting Spirit"
+  ],
+  "summary": {
+   "fr": "Greasefang Orzhov bâti autour de la défausse : Guardian of New Benalia et Fleeting Spirit défaussent Parhelion II, Monument to Endurance récompense chaque défausse, Greasefang ramène le Véhicule.",
+   "en": "Orzhov Greasefang built around discard: Guardian of New Benalia and Fleeting Spirit discard Parhelion II, Monument to Endurance rewards each discard, Greasefang returns the Vehicle."
+  },
+  "why": {
+   "fr": [
+    "The Mycosynth Gardens copiait Monument to Endurance pour un second déclenchement",
+    "Thoughtseize et Fatal Push dégageaient la voie pour le tour combo",
+    "Coexistait avec la version Abzan pendant la majeure partie de la saison"
+   ],
+   "en": [
+    "The Mycosynth Gardens copied Monument to Endurance for a second trigger",
+    "Thoughtseize and Fatal Push cleared the way for the combo turn",
+    "Ran alongside the Abzan version for most of the season"
+   ]
+  },
+  "exclude": [
+   798044,
+   798314,
+   802889,
+   803199,
+   803810,
+   804131,
+   804133,
+   804756,
+   804764,
+   805489,
+   805594,
+   805603,
+   805750,
+   805762,
+   806298,
+   807551,
+   807557,
+   807562,
+   808254,
+   808255,
+   808375,
+   808385,
+   808502,
+   808503,
+   808504,
+   808906,
+   808915,
+   808917,
+   809215,
+   809217,
+   809219,
+   809225,
+   809229,
+   809331,
+   809332,
+   809335,
+   809917,
+   809918,
+   809921,
+   809922,
+   809923,
+   810705,
+   810706,
+   810709,
+   810717,
+   810718,
+   810719,
+   810726,
+   810730,
+   810731,
+   811120,
+   811121,
+   811122,
+   811127,
+   811130,
+   811131,
+   811132,
+   811439,
+   811440,
+   811451,
+   811452,
+   811536,
+   811876,
+   811886,
+   812324,
+   812326,
+   812327,
+   813049,
+   813050,
+   813054,
+   813060,
+   813062,
+   813120,
+   813123,
+   813366,
+   813368,
+   813375,
+   813748,
+   813749,
+   813756,
+   813759,
+   813763,
+   814240,
+   814241,
+   814310,
+   815203,
+   816358,
+   816372,
+   816374,
+   817173,
+   817176,
+   818648,
+   818649,
+   818666,
+   818671,
+   819412,
+   819425,
+   819848,
+   819852,
+   820531,
+   820533,
+   820536,
+   821478,
+   821703,
+   822111,
+   827116,
+   827838,
+   827842,
+   827843,
+   827856,
+   828414,
+   828417,
+   828418,
+   831457,
+   832794,
+   835322,
+   836444,
+   836461,
+   836895,
+   838342,
+   840464,
+   841153,
+   841156,
+   841801,
+   843301,
+   844014,
+   844236,
+   846308,
+   848115,
+   849104,
+   849172,
+   849173,
+   851070,
+   852079,
+   852303,
+   852318,
+   852807,
+   852831,
+   854375,
+   855049,
+   856029,
+   856924,
+   858445,
+   858466,
+   858480,
+   859893,
+   860419,
+   861545,
+   862006,
+   862533,
+   862690,
+   862991,
+   863615,
+   864040,
+   865231,
+   865232,
+   865471,
+   865480,
+   865538,
+   865546,
+   865864,
+   867697,
+   867700,
+   867705,
+   867992,
+   868000,
+   868002,
+   868442,
+   868450,
+   868869,
+   868875,
+   869284,
+   871375,
+   871380,
+   871469,
+   871480,
+   871653,
+   871688,
+   871752,
+   872501,
+   872506,
+   873120,
+   873353,
+   873515,
+   873520,
+   874090,
+   874092,
+   874100,
+   874101,
+   874226,
+   874227,
+   874229,
+   874507,
+   874516,
+   874996,
+   875990,
+   875997,
+   875998,
+   876317,
+   876323,
+   876326,
+   876342,
+   876983,
+   876984,
+   877879,
+   877883,
+   877893,
+   878170,
+   878178,
+   878772,
+   878778,
+   878921,
+   878946,
+   878948,
+   879079,
+   879084,
+   879747,
+   879817,
+   879820,
+   879829,
+   881054,
+   881058,
+   881065,
+   881184,
+   881191,
+   881197,
+   881199,
+   881205,
+   881253,
+   881258,
+   881990,
+   881994,
+   881999,
+   883210,
+   883211,
+   883222,
+   883224,
+   883228,
+   883447,
+   883456,
+   883697,
+   883698,
+   884354,
+   884356,
+   884357,
+   884531,
+   884536,
+   884542,
+   885053,
+   885054,
+   885057,
+   885059,
+   887193,
+   887826,
+   887827,
+   888091,
+   888098,
+   893658,
+   893830,
+   895478,
+   903273,
+   904356,
+   906814,
+   909027,
+   911226,
+   911880
+  ]
+ },
+ {
+  "name": "Abzan Greasefang",
+  "slug": "abzan-greasefang",
+  "archetype": "combo",
+  "titles": [
+   "Abzan Greasefang"
+  ],
+  "cover": "Esika's Chariot",
+  "keyCards": [
+   "Greasefang, Okiba Boss",
+   "Parhelion II",
+   "Esika's Chariot",
+   "Formidable Speaker",
+   "Raffine's Informant"
+  ],
+  "summary": {
+   "fr": "Version Abzan du combo Greasefang : Raffine's Informant, Cache Grab et Witherbloom Command mettent Parhelion II au cimetière, Esika's Chariot offre un plan classique.",
+   "en": "Abzan version of the Greasefang combo: Raffine's Informant, Cache Grab and Witherbloom Command put Parhelion II in the graveyard, Esika's Chariot gives a fair plan."
+  },
+  "why": {
+   "fr": [
+    "Formidable Speaker défaussait Parhelion et allait chercher Greasefang",
+    "Overlord of the Balemurk et Esika's Chariot offraient un plan midrange de secours"
+   ],
+   "en": [
+    "Formidable Speaker discarded Parhelion and searched for Greasefang",
+    "Overlord of the Balemurk and Esika's Chariot gave a midrange backup plan"
+   ]
+  },
+  "include": [
+   798044,
+   798314,
+   802889,
+   803199,
+   803810,
+   804131,
+   804133,
+   804756,
+   804764,
+   805489,
+   805594,
+   805603,
+   805750,
+   805762,
+   806298,
+   807551,
+   807557,
+   807562,
+   808254,
+   808255,
+   808375,
+   808385,
+   808502,
+   808503,
+   808504,
+   808906,
+   808915,
+   808917,
+   809215,
+   809217,
+   809219,
+   809225,
+   809229,
+   809331,
+   809332,
+   809335,
+   809917,
+   809918,
+   809921,
+   809922,
+   809923,
+   810705,
+   810706,
+   810709,
+   810717,
+   810718,
+   810719,
+   810726,
+   810730,
+   810731,
+   811120,
+   811121,
+   811122,
+   811127,
+   811130,
+   811131,
+   811132,
+   811439,
+   811440,
+   811451,
+   811452,
+   811536,
+   811876,
+   811886,
+   812324,
+   812326,
+   812327,
+   813049,
+   813050,
+   813054,
+   813060,
+   813062,
+   813120,
+   813123,
+   813366,
+   813368,
+   813375,
+   813748,
+   813749,
+   813756,
+   813759,
+   813763,
+   814240,
+   814241,
+   814310,
+   815203,
+   816358,
+   816372,
+   816374,
+   817173,
+   817176,
+   818648,
+   818649,
+   818666,
+   818671,
+   819412,
+   819425,
+   819848,
+   819852,
+   820531,
+   820533,
+   820536,
+   821478,
+   821703,
+   822111,
+   827116,
+   827838,
+   827842,
+   827843,
+   827856,
+   828414,
+   828417,
+   828418,
+   831457,
+   832794,
+   835322,
+   836444,
+   836461,
+   836895,
+   838342,
+   840464,
+   841153,
+   841156,
+   841801,
+   843301,
+   844014,
+   846308,
+   848115,
+   849104,
+   849172,
+   849173,
+   851070,
+   852079,
+   852303,
+   852318,
+   852807,
+   852831,
+   854375,
+   855049,
+   856029,
+   856924,
+   858445,
+   858466,
+   858480,
+   859893,
+   860419,
+   861545,
+   862006,
+   862533,
+   862690,
+   862991,
+   863615,
+   864040,
+   865231,
+   865232,
+   865471,
+   865480,
+   865538,
+   865546,
+   865864,
+   867697,
+   867700,
+   867705,
+   867992,
+   868000,
+   868002,
+   868442,
+   868450,
+   868869,
+   868875,
+   869284,
+   871375,
+   871380,
+   871469,
+   871480,
+   871653,
+   871688,
+   871752,
+   872501,
+   872506,
+   873120,
+   873353,
+   873515,
+   873520,
+   874090,
+   874092,
+   874100,
+   874101,
+   874226,
+   874227,
+   874229,
+   874507,
+   874516,
+   874996,
+   875990,
+   875997,
+   875998,
+   876317,
+   876323,
+   876326,
+   876342,
+   876983,
+   876984,
+   877879,
+   877883,
+   877893,
+   878170,
+   878178,
+   878772,
+   878778,
+   878921,
+   878946,
+   878948,
+   879079,
+   879084,
+   879747,
+   879817,
+   879820,
+   879829,
+   881054,
+   881058,
+   881065,
+   881184,
+   881191,
+   881197,
+   881199,
+   881205,
+   881253,
+   881258,
+   881990,
+   881994,
+   881999,
+   883210,
+   883211,
+   883222,
+   883224,
+   883228,
+   883447,
+   883456,
+   883697,
+   883698,
+   884354,
+   884356,
+   884357,
+   884531,
+   884536,
+   884542,
+   885053,
+   885054,
+   885057,
+   885059,
+   887193,
+   887826,
+   887827,
+   888091,
+   888098,
+   893658,
+   893830,
+   895478,
+   903273,
+   904356,
+   906814,
+   909027,
+   911226,
+   911880
+  ]
+ },
+ {
+  "name": "Golgari Midrange",
+  "slug": "golgari-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "The Rock",
+   "The Rock (Golgari Control)",
+   "Golgari Midrange",
+   "Golgari Control",
+   "The Rocky Jund"
+  ],
+  "cover": "Professor Dellian Fel",
+  "keyCards": [
+   "Professor Dellian Fel",
+   "Badgermole Cub",
+   "Abrupt Decay",
+   "Unholy Annex/Ritual Chamber",
+   "Sheoldred, the Apocalypse"
+  ],
+  "summary": {
+   "fr": "Midrange Golgari (The Rock) : Thoughtseize, Fatal Push et Abrupt Decay, Badgermole Cub pour le mana, Unholy Annex et Sheoldred pour l'avantage de cartes ; Professor Dellian Fel rejoint le deck au printemps.",
+   "en": "Golgari midrange (The Rock): Thoughtseize, Fatal Push and Abrupt Decay, Badgermole Cub for mana, Unholy Annex and Sheoldred for card advantage; Professor Dellian Fel joined from the spring."
+  },
+  "why": {
+   "fr": [
+    "Les premières listes jouaient Llanowar Elves et Ouroboroid pour une version plus rapide",
+    "Abrupt Decay répondait aux menaces bon marché du format sans pouvoir être contré",
+    "Présent en top 8 de janvier à novembre"
+   ],
+   "en": [
+    "Early lists played Llanowar Elves and Ouroboroid as a faster version",
+    "Abrupt Decay answered the cheap threats of the format without being countered",
+    "Placed in top 8s from January to November"
+   ]
+  },
+  "rep": 842299,
+  "include": [
+   799524,
+   810732,
+   811880,
+   811991,
+   813119,
+   813374,
+   813766,
+   817178,
+   821473,
+   821700,
+   823172,
+   824045,
+   825458,
+   878914,
+   878928
+  ]
+ },
+ {
+  "name": "Izzet Cutter",
+  "slug": "izzet-cutter",
+  "archetype": "aggro",
+  "titles": [
+   "UR Cutter",
+   "Izzet Cutter"
+  ],
+  "cover": "Cori-Steel Cutter",
+  "keyCards": [
+   "Cori-Steel Cutter",
+   "Stormchaser's Talent",
+   "Academic Dispute",
+   "Emberheart Challenger",
+   "Heroes' Hangout"
+  ],
+  "summary": {
+   "fr": "Prouesse Izzet autour de Cori-Steel Cutter : les sorts bon marché créent un jeton Moine avec la célérité à chaque deuxième sort du tour, aux côtés de Monastery Swiftspear et Emberheart Challenger.",
+   "en": "Izzet prowess around Cori-Steel Cutter: cheap spells make a hasty Monk token every second spell of a turn, alongside Monastery Swiftspear and Emberheart Challenger."
+  },
+  "why": {
+   "fr": [
+    "A remporté un MTGO RC Super Qualifier en janvier",
+    "Experimental Synthesizer et Heroes' Hangout ajoutaient un flux de cartes bon marché",
+    "S'arrête au bannissement de Cori-Steel Cutter le 18 mai"
+   ],
+   "en": [
+    "Won an MTGO RC Super Qualifier in January",
+    "Experimental Synthesizer and Heroes' Hangout added cheap card flow",
+    "Stops at the ban of Cori-Steel Cutter on May 18"
+   ]
+  },
+  "include": [
+   824850,
+   824856,
+   825019,
+   826198,
+   826304,
+   827510,
+   841808,
+   843302,
+   844017,
+   846105,
+   846110
+  ]
+ },
+ {
+  "name": "Izzet Prowess",
+  "slug": "izzet-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "UR Aggro"
+  ],
+  "cover": "Monastery Swiftspear",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Emberheart Challenger",
+   "Flow State",
+   "Stormchaser's Talent"
+  ],
+  "summary": {
+   "fr": "Prouesse Izzet après le bannissement de Cutter : Monastery Swiftspear, Soul-Scar Mage et Emberheart Challenger renforcés par des cantrips, des renforts et du burn bon marché.",
+   "en": "Izzet prowess after the Cutter ban: Monastery Swiftspear, Soul-Scar Mage and Emberheart Challenger pumped by cheap cantrips, pump spells and burn."
+  },
+  "why": {
+   "fr": [
+    "Conservait la base de sorts et de créatures du deck Cutter, sans Cori-Steel Cutter",
+    "Screaming Nemesis apportait un trois-manas plus solide",
+    "Présent en top 8 de mai à novembre"
+   ],
+   "en": [
+    "Kept the Cutter deck's spell base and creatures without Cori-Steel Cutter",
+    "Screaming Nemesis gave a sturdier three-drop",
+    "Placed in top 8s from May to November"
+   ]
+  },
+  "exclude": [
+   824850,
+   824856,
+   825019,
+   826198,
+   827510,
+   841157,
+   841808,
+   842305,
+   843302,
+   843303,
+   843504,
+   844017,
+   845018,
+   846105,
+   846110,
+   846304,
+   847372,
+   849169,
+   849661,
+   849775,
+   849779,
+   850078,
+   850080,
+   850425,
+   850680,
+   850689,
+   852059,
+   852076,
+   852306,
+   852804,
+   852805,
+   852827,
+   854368,
+   855037,
+   855050,
+   855613,
+   855616,
+   855989,
+   855990,
+   856921,
+   856922,
+   857130,
+   857137,
+   858223,
+   858442,
+   858476,
+   859313,
+   863626,
+   865541,
+   865857,
+   866190,
+   866459,
+   867699,
+   867704,
+   867718,
+   868440,
+   868445,
+   869274,
+   869668,
+   869671,
+   869673,
+   871374,
+   871381,
+   871468,
+   871654,
+   871676,
+   871683,
+   871757,
+   871758,
+   872492,
+   872503,
+   873190,
+   873349,
+   873511,
+   874094,
+   876314,
+   876328,
+   876336,
+   876975,
+   877271,
+   878920,
+   879086,
+   879746,
+   881256,
+   881502,
+   883214,
+   884345,
+   884349,
+   884534,
+   884535,
+   885627,
+   885630,
+   885682,
+   885685,
+   886749,
+   886760,
+   886761,
+   887203,
+   887830,
+   888086,
+   889454,
+   889466,
+   889859,
+   890290,
+   891349,
+   891358,
+   891919,
+   891924,
+   891929,
+   892195,
+   892206,
+   893653,
+   893655,
+   893663,
+   895485,
+   896802,
+   898304,
+   898306,
+   898309,
+   898314,
+   898979,
+   900626,
+   902406,
+   902409,
+   902420,
+   903026,
+   904354,
+   905505,
+   905508,
+   905510,
+   905739,
+   906821,
+   906885,
+   909015,
+   909022,
+   910272,
+   910858,
+   911221,
+   911223,
+   912706
+  ]
+ },
+ {
+  "name": "Izzet Cauldron",
+  "slug": "izzet-cauldron",
+  "archetype": "midrange",
+  "titles": [],
+  "cover": "Agatha's Soul Cauldron",
+  "keyCards": [
+   "Agatha's Soul Cauldron",
+   "Vivi Ornitier",
+   "Marauding Mako",
+   "Quantum Riddler",
+   "Fear of Missing Out"
+  ],
+  "summary": {
+   "fr": "Midrange Izzet sur la défausse et les marqueurs +1/+1 : Marauding Mako et Vivi Ornitier grandissent, et Agatha's Soul Cauldron leur donne les capacités des créatures exilées.",
+   "en": "Izzet midrange on discard and +1/+1 counters: Marauding Mako and Vivi Ornitier grow, and Agatha's Soul Cauldron gives them the abilities of exiled creatures."
+  },
+  "why": {
+   "fr": [
+    "Winternight Stories et Fear of Missing Out défaussaient pour nourrir Marauding Mako",
+    "Apparu après le bannissement de Cori-Steel Cutter en mai"
+   ],
+   "en": [
+    "Winternight Stories and Fear of Missing Out discarded to fuel Marauding Mako",
+    "Appeared after the May ban of Cori-Steel Cutter"
+   ]
+  },
+  "include": [
+   855037,
+   855616,
+   856922,
+   863626,
+   865541,
+   865857,
+   867699,
+   867704,
+   867718,
+   868440,
+   868445,
+   869274,
+   869668,
+   869671,
+   869673,
+   871374,
+   871381,
+   871468,
+   871654,
+   871676,
+   871683,
+   871757,
+   871758,
+   872503,
+   873190,
+   873349,
+   873511,
+   874094,
+   876314,
+   876328,
+   876336,
+   876975,
+   877271,
+   878920,
+   879086,
+   879746,
+   881256,
+   881502,
+   883214,
+   884345,
+   884349,
+   884534,
+   884535,
+   885627,
+   885630,
+   885682,
+   885685,
+   886749,
+   886760,
+   886761,
+   887203,
+   887830,
+   888086,
+   889454,
+   889466,
+   889859,
+   890290,
+   891349,
+   891358,
+   891919,
+   891924,
+   891929,
+   892195,
+   892206,
+   893653,
+   893655,
+   893663,
+   895485,
+   896802,
+   898304,
+   898306,
+   898309,
+   898314,
+   898979,
+   900626,
+   902406,
+   902420,
+   903026,
+   904354,
+   905505,
+   905508,
+   905739,
+   906821,
+   906885,
+   909015,
+   909022,
+   910272,
+   910858,
+   911221,
+   911223,
+   912706
+  ]
+ },
+ {
+  "name": "Izzet Lessons",
+  "slug": "izzet-lessons",
+  "archetype": "control",
+  "titles": [
+   "Izzet Control",
+   "Izzet Lesson",
+   "Izzet Lessons"
+  ],
+  "cover": "Gran-Gran",
+  "keyCards": [
+   "Gran-Gran",
+   "Firebending Lesson",
+   "Combustion Technique",
+   "Accumulate Wisdom",
+   "Abandon Attachments"
+  ],
+  "summary": {
+   "fr": "Deck de sorts Izzet bâti sur les cartes Lesson d'Avatar : Gran-Gran réduit le coût des Lessons, Firebending Lesson et Combustion Technique éliminent les créatures, Accumulate Wisdom creuse.",
+   "en": "Izzet spells deck built on Avatar Lesson cards: Gran-Gran discounts Lessons, Firebending Lesson and Combustion Technique remove creatures, Accumulate Wisdom digs."
+  },
+  "why": {
+   "fr": [
+    "Avant mai, beaucoup de listes jouaient aussi Cori-Steel Cutter",
+    "Divide by Zero et It'll Quench Ya! faisaient gagner du temps contre les decks rapides"
+   ],
+   "en": [
+    "Before May, many lists also played Cori-Steel Cutter",
+    "Divide by Zero and It'll Quench Ya! bought time against faster decks"
+   ]
+  },
+  "rep": 845018,
+  "include": [
+   841157,
+   842305,
+   843303,
+   843504,
+   845018,
+   846304,
+   847372,
+   849169,
+   849661,
+   849775,
+   849779,
+   850078,
+   850080,
+   850425,
+   850680,
+   850689,
+   852059,
+   852076,
+   852306,
+   852804,
+   852805,
+   852827,
+   854368,
+   855050,
+   855613,
+   855989,
+   855990,
+   856921,
+   857130,
+   857137,
+   858223,
+   858442,
+   858476,
+   859313,
+   866190,
+   866459,
+   872492
+  ],
+  "exclude": [
+   826304,
+   850404,
+   875094,
+   881044,
+   881047,
+   881048,
+   883450,
+   884529,
+   884532,
+   884539,
+   885623,
+   885633,
+   887199,
+   887205,
+   889447,
+   889451,
+   889473,
+   891364,
+   893661,
+   896063,
+   898312,
+   900622,
+   900625,
+   903027,
+   903269,
+   903271,
+   904350,
+   904353,
+   904355,
+   906606,
+   906608,
+   911879
+  ]
+ },
+ {
+  "name": "Izzet Spellementals",
+  "slug": "izzet-spellementals",
+  "archetype": "tempo",
+  "titles": [
+   "Izzet Spellementals"
+  ],
+  "cover": "Hearth Elemental",
+  "keyCards": [
+   "Hearth Elemental",
+   "Sunderflock",
+   "Eddymurk Crab",
+   "Prismari Charm",
+   "Stubborn Denial"
+  ],
+  "summary": {
+   "fr": "Deck de sorts Izzet aux Élémentaux à coût réduit : les cantrips remplissent le cimetière pour que Hearth Elemental, Eddymurk Crab et Sunderflock ne coûtent presque rien.",
+   "en": "Izzet spells deck with cost-reduced Elementals: cantrips fill the graveyard so that Hearth Elemental, Eddymurk Crab and Sunderflock cost little or nothing."
+  },
+  "why": {
+   "fr": [
+    "Sunderflock renvoyait en main toutes les créatures non-Élémentaux à son lancement",
+    "Apparu après le bannissement de Cori-Steel Cutter en mai"
+   ],
+   "en": [
+    "Sunderflock returned every non-Elemental creature to hand when cast",
+    "Appeared after the May ban of Cori-Steel Cutter"
+   ]
+  },
+  "include": [
+   850404,
+   875094,
+   881044,
+   881047,
+   881048,
+   883450,
+   884529,
+   884532,
+   884539,
+   885623,
+   885633,
+   887199,
+   887205,
+   889447,
+   889451,
+   889473,
+   891364,
+   893661,
+   896063,
+   898312,
+   900622,
+   900625,
+   902409,
+   903027,
+   903269,
+   903271,
+   904350,
+   904353,
+   904355,
+   905510,
+   906606,
+   906608,
+   911879
+  ]
+ },
+ {
+  "name": "Mono-Red Aggro",
+  "slug": "mono-red-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Red Deck Wins",
+   "Mono Red",
+   "Mono Red Aggro",
+   "Rdw"
+  ],
+  "cover": "Emberheart Challenger",
+  "keyCards": [
+   "Emberheart Challenger",
+   "Screaming Nemesis",
+   "Sunspine Lynx",
+   "Monastery Swiftspear",
+   "Reckless Rage"
+  ],
+  "summary": {
+   "fr": "Aggro mono-rouge après le bannissement de Heartfire Hero : créatures à prouesse, Emberheart Challenger et Screaming Nemesis, soutenus par des renforts et du burn.",
+   "en": "Mono-red aggro after the Heartfire Hero ban: prowess creatures, Emberheart Challenger and Screaming Nemesis, backed by pump spells and burn."
+  },
+  "why": {
+   "fr": [
+    "Reckless Rage servait à la fois de removal et de renfort",
+    "Sunspine Lynx punissait les gains de vie et les bloqueurs"
+   ],
+   "en": [
+    "Reckless Rage doubled as removal and pump",
+    "Sunspine Lynx punished life gain and blockers"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Control",
+  "slug": "azorius-control",
+  "archetype": "control",
+  "titles": [
+   "UW Control",
+   "Uw Control",
+   "UW Control Nine Lives"
+  ],
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "The Wandering Emperor",
+   "Consult the Star Charts",
+   "Temporary Lockdown",
+   "No More Lies"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius avec contresorts, Temporary Lockdown et Consult the Star Charts, conclu par Teferi, Hero of Dominaria, The Wandering Emperor et les terrains-créatures.",
+   "en": "Azorius control with counterspells, Temporary Lockdown and Consult the Star Charts, finished by Teferi, Hero of Dominaria, The Wandering Emperor and manlands."
+  },
+  "why": {
+   "fr": [
+    "Consult the Star Charts remplaçait les anciens sorts de pioche",
+    "Présent en top 8 de janvier à novembre"
+   ],
+   "en": [
+    "Consult the Star Charts replaced older card draw spells",
+    "Placed in top 8s from January to November"
+   ]
+  }
+ },
+ {
+  "name": "Selesnya Company",
+  "slug": "selesnya-company",
+  "archetype": "aggro",
+  "titles": [
+   "Selesnya Company"
+  ],
+  "cover": "Collected Company",
+  "keyCards": [
+   "Collected Company",
+   "Ouroboroid",
+   "Badgermole Cub",
+   "Enduring Innocence",
+   "Archon of Emeria"
+  ],
+  "summary": {
+   "fr": "Deck de créatures Selesnya : des elfes à mana et Badgermole Cub puis Ouroboroid, Archon of Emeria et Thalia, Collected Company mettant deux créatures en jeu à vitesse instantanée.",
+   "en": "Selesnya creature deck: mana elves and Badgermole Cub into Ouroboroid, Archon of Emeria and Thalia, with Collected Company putting two creatures in at instant speed."
+  },
+  "why": {
+   "fr": [
+    "Ouroboroid posait des marqueurs +1/+1 sur toute l'équipe à chaque tour",
+    "Badgermole Cub doublait le mana des elfes"
+   ],
+   "en": [
+    "Ouroboroid put +1/+1 counters on the whole team each turn",
+    "Badgermole Cub doubled the mana from the elves"
+   ]
+  },
+  "include": [
+   801980,
+   802615,
+   804135,
+   807560,
+   808490,
+   811444,
+   823170,
+   831453,
+   832801,
+   833101,
+   833171,
+   833775,
+   833776,
+   835340,
+   836449,
+   836900,
+   837937,
+   837952,
+   838333,
+   838699,
+   839048,
+   839050,
+   839555,
+   839564,
+   840469,
+   841152,
+   841159,
+   841161,
+   841604,
+   841797,
+   842304,
+   842310,
+   843155,
+   843291,
+   843297,
+   843305,
+   843306,
+   843494,
+   843500,
+   843506,
+   843508,
+   865229,
+   866192,
+   866466,
+   877905,
+   878783
+  ]
+ },
+ {
+  "name": "Selesnya Aggro",
+  "slug": "selesnya-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Selesnya Aggro",
+   "Selesnya Ouroboroid"
+  ],
+  "cover": "Ouroboroid",
+  "keyCards": [
+   "Ouroboroid",
+   "Elspeth, Storm Slayer",
+   "Badgermole Cub",
+   "Enduring Innocence",
+   "Skyclave Apparition"
+  ],
+  "summary": {
+   "fr": "Aggro de créatures Selesnya sans Collected Company : des elfes à mana puis Ouroboroid et Elspeth, Storm Slayer, Skyclave Apparition servant de removal.",
+   "en": "Selesnya creature aggro without Collected Company: mana elves into Ouroboroid and Elspeth, Storm Slayer, with Skyclave Apparition as removal."
+  },
+  "why": {
+   "fr": [
+    "Elspeth, Storm Slayer doublait chaque jeton qu'elle créait",
+    "Jouait plus de menaces de rituel que la version Company"
+   ],
+   "en": [
+    "Elspeth, Storm Slayer doubled every token it created",
+    "Played more sorcery-speed threats than the Company version"
+   ]
+  },
+  "exclude": [
+   801980,
+   802615,
+   804135,
+   807560,
+   808490,
+   811444,
+   823170,
+   831453,
+   832801,
+   833101,
+   833171,
+   833775,
+   833776,
+   835340,
+   836449,
+   836900,
+   837937,
+   837952,
+   838333,
+   838699,
+   839048,
+   839050,
+   839555,
+   839564,
+   840469,
+   841152,
+   841159,
+   841161,
+   841604,
+   841797,
+   842304,
+   842310,
+   843155,
+   843291,
+   843297,
+   843305,
+   843306,
+   843494,
+   843500,
+   843506,
+   843508,
+   865229,
+   866192,
+   866466,
+   877905,
+   878783
+  ]
+ },
+ {
+  "name": "Lotus Field Combo",
+  "slug": "lotus-field-combo",
+  "archetype": "combo",
+  "titles": [
+   "Lotus Field",
+   "Lumra Scapeshift",
+   "Temur Scapeshift"
+  ],
+  "cover": "Lumra, Bellow of the Woods",
+  "keyCards": [
+   "Lotus Field",
+   "Scapeshift",
+   "Lumra, Bellow of the Woods",
+   "The Wandering Minstrel",
+   "Arboreal Grazer"
+  ],
+  "summary": {
+   "fr": "Combo de terrains Lotus Field dans sa version Scapeshift : Scapeshift et Lumra, Bellow of the Woods mettent beaucoup de terrains en jeu, The Wandering Minstrel les transforme en attaquants.",
+   "en": "Lotus Field land combo in its Scapeshift form: Scapeshift and Lumra, Bellow of the Woods put many lands into play, The Wandering Minstrel turns them into attackers."
+  },
+  "why": {
+   "fr": [
+    "Spelunking et Arboreal Grazer mettaient des terrains en plus en jeu à chaque tour",
+    "Présent en top 8 de janvier à novembre"
+   ],
+   "en": [
+    "Spelunking and Arboreal Grazer put extra lands into play each turn",
+    "Placed in top 8s from January to November"
+   ]
+  }
+ },
+ {
+  "name": "Izzet Phoenix",
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "titles": [
+   "Arclight Phoenix",
+   "Izzet Arclight",
+   "Izzet Phoenix"
+  ],
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Picklock Prankster",
+   "Artist's Talent",
+   "Treasure Cruise",
+   "Sleight of Hand"
+  ],
+  "summary": {
+   "fr": "Deck de sorts bleu-rouge : des cantrips bon marché remplissent le cimetière et ramènent Arclight Phoenix, Treasure Cruise rechargeant la main ; Cori-Steel Cutter quitte les listes en mai.",
+   "en": "Blue-red spells deck: cheap cantrips fill the graveyard and bring back Arclight Phoenix, while Treasure Cruise refills the hand; Cori-Steel Cutter left the lists in May."
+  },
+  "why": {
+   "fr": [
+    "Artist's Talent filtrait à chaque sort et aidait à atteindre le troisième sort du tour",
+    "A survécu au bannissement de Cutter grâce à son noyau Phoenix d'origine",
+    "Présent en top 8 de janvier à novembre"
+   ],
+   "en": [
+    "Artist's Talent looted on every spell and helped reach the third spell of a turn",
+    "Survived the Cutter ban with its original Phoenix core",
+    "Placed in top 8s from January to November"
+   ]
+  }
+ },
+ {
+  "name": "Dimir Midrange",
+  "slug": "dimir-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Dimir Aggro",
+   "Dimir Kaito"
+  ],
+  "cover": "Kaito, Bane of Nightmares",
+  "keyCards": [
+   "Kaito, Bane of Nightmares",
+   "Moon-Circuit Hacker",
+   "Floodpits Drowner",
+   "Sheoldred, the Apocalypse",
+   "Faerie Miscreant"
+  ],
+  "summary": {
+   "fr": "Tempo-midrange Dimir : volants et ninjas bon marché, Floodpits Drowner contre les bloqueurs, Kaito, Bane of Nightmares et Sheoldred, the Apocalypse en haut de courbe.",
+   "en": "Dimir tempo-midrange: cheap fliers and ninjas, Floodpits Drowner against blockers, Kaito, Bane of Nightmares and Sheoldred, the Apocalypse at the top."
+  },
+  "why": {
+   "fr": [
+    "Unholy Annex ajoutait de la pioche à la base tempo",
+    "Thoughtseize et Fatal Push venaient de la base Dimir classique"
+   ],
+   "en": [
+    "Unholy Annex added card draw to the tempo shell",
+    "Thoughtseize and Fatal Push came from the classic Dimir shell"
+   ]
+  }
+ },
+ {
+  "name": "Dimir Control",
+  "slug": "dimir-control",
+  "archetype": "control",
+  "titles": [
+   "Dimir Yorion",
+   "Dimir Control"
+  ],
+  "cover": "Hopeless Nightmare",
+  "keyCards": [
+   "Hopeless Nightmare",
+   "Fear of Isolation",
+   "This Town Ain't Big Enough",
+   "Cryogen Relic",
+   "Stormchaser's Talent"
+  ],
+  "summary": {
+   "fr": "Contrôle Dimir à enchantements et artefacts : des permanents bon marché comme Hopeless Nightmare et Cryogen Relic reviennent en main et sont relancés pour la valeur.",
+   "en": "Dimir enchantment and artifact control: cheap permanents such as Hopeless Nightmare and Cryogen Relic are returned to hand and cast again for value."
+  },
+  "why": {
+   "fr": [
+    "Fear of Isolation et Boomerang Basics faisaient revenir les permanents bon marché",
+    "Mutavault et Thundertrap Trainer donnaient des menaces pour conclure"
+   ],
+   "en": [
+    "Fear of Isolation and Boomerang Basics rebought the cheap permanents",
+    "Mutavault and Thundertrap Trainer gave threats to close games"
+   ]
+  }
+ },
+ {
+  "name": "Niv to Light",
+  "slug": "niv-to-light",
+  "archetype": "midrange",
+  "titles": [
+   "Niv-Mizzet Reborn",
+   "Yorion Niv-Mizzet Reborn"
+  ],
+  "cover": "Niv-Mizzet Reborn",
+  "keyCards": [
+   "Niv-Mizzet Reborn",
+   "Bring to Light",
+   "Omnath, Locus of Creation",
+   "Up the Beanstalk",
+   "Sylvan Caryatid"
+  ],
+  "summary": {
+   "fr": "Deck de valeur cinq couleurs : Bring to Light va chercher Niv-Mizzet Reborn ou la bonne réponse, Omnath, Locus of Creation et les triomes rentabilisant chaque terrain.",
+   "en": "Five-color value deck: Bring to Light finds Niv-Mizzet Reborn or the right answer, while Omnath, Locus of Creation and the triomes turn land drops into value."
+  },
+  "why": {
+   "fr": [
+    "Sylvan Caryatid et Fabled Passage assuraient les cinq couleurs",
+    "Présent en top 8 de février à août"
+   ],
+   "en": [
+    "Sylvan Caryatid and Fabled Passage fixed all five colors",
+    "Present in top 8s from February to August"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Green Devotion",
+  "slug": "mono-green-devotion",
+  "archetype": "ramp",
+  "titles": [
+   "Devotion to Green",
+   "Devotion To Green",
+   "Mono G Nature's Rhythm",
+   "Devotion to Gruul"
+  ],
+  "cover": "Nykthos, Shrine to Nyx",
+  "keyCards": [
+   "Nykthos, Shrine to Nyx",
+   "Nature's Rhythm",
+   "Spider Manifestation",
+   "Badgermole Cub",
+   "Craterhoof Behemoth"
+  ],
+  "summary": {
+   "fr": "Dévotion mono-verte : les elfes à mana et les permanents verts alimentent Nykthos, Shrine to Nyx, et Nature's Rhythm met en jeu une grosse créature comme Craterhoof Behemoth.",
+   "en": "Mono-green devotion: mana elves and green permanents power Nykthos, Shrine to Nyx, and Nature's Rhythm puts a large creature such as Craterhoof Behemoth into play."
+  },
+  "why": {
+   "fr": [
+    "Badgermole Cub ajoutait du mana chaque fois qu'une créature était engagée pour du mana",
+    "A remporté un tournoi TC à Osaka en septembre"
+   ],
+   "en": [
+    "Badgermole Cub added mana each time a creature tapped for mana",
+    "Won a TC Osaka tournament in September"
+   ]
+  }
+ },
+ {
+  "name": "Simic Devotion",
+  "slug": "simic-devotion",
+  "archetype": "ramp",
+  "titles": [
+   "Devotion to Simic",
+   "Devotion ro Simic",
+   "Devotion to simic"
+  ],
+  "cover": "Fiend Artisan",
+  "keyCards": [
+   "Fiend Artisan",
+   "Nature's Rhythm",
+   "Shang-Chi, Master of Kung Fu",
+   "Enduring Vitality",
+   "Quantum Riddler"
+  ],
+  "summary": {
+   "fr": "Version Simic de la dévotion verte : créatures à mana et Nykthos, Nature's Rhythm et Fiend Artisan allant chercher la bonne créature, Quantum Riddler ajoutant la pioche bleue.",
+   "en": "Simic version of green devotion: mana creatures and Nykthos, with Nature's Rhythm and Fiend Artisan finding the right creature and Quantum Riddler adding blue card draw."
+  },
+  "why": {
+   "fr": [
+    "Enduring Vitality permettait à chaque créature de produire du mana",
+    "Trois victoires en MTGO Challenge en août"
+   ],
+   "en": [
+    "Enduring Vitality let every creature tap for mana",
+    "Three MTGO Challenge wins in August"
+   ]
+  }
+ },
+ {
+  "name": "Orzhov Control",
+  "slug": "orzhov-control",
+  "archetype": "control",
+  "titles": [
+   "Orzhov Control",
+   "Orzhov Midrange",
+   "Orzhov Aggro"
+  ],
+  "cover": "Sheoldred, the Apocalypse",
+  "keyCards": [
+   "Sheoldred, the Apocalypse",
+   "Unholy Annex/Ritual Chamber",
+   "Vanishing Verse",
+   "Gifted Aetherborn",
+   "Qarsi Revenant"
+  ],
+  "summary": {
+   "fr": "Contrôle-midrange Orzhov : Thoughtseize, Vanishing Verse et Fatal Push, Unholy Annex pour la pioche, puis Sheoldred, the Apocalypse et des menaces avec le lien de vie.",
+   "en": "Orzhov midrange-control: Thoughtseize, Vanishing Verse and Fatal Push, Unholy Annex for cards, then Sheoldred, the Apocalypse and lifelinking threats."
+  },
+  "why": {
+   "fr": [
+    "Gifted Aetherborn et Qarsi Revenant tenaient tête aux decks aggro",
+    "Vanishing Verse répondait à la plupart des menaces bon marché du format"
+   ],
+   "en": [
+    "Gifted Aetherborn and Qarsi Revenant held off the aggro decks",
+    "Vanishing Verse answered most of the format's cheap threats"
+   ]
+  }
+ },
+ {
+  "name": "Boros Burn",
+  "slug": "boros-burn",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Aggro",
+   "Dwarves And Dragons"
+  ],
+  "cover": "Boros Charm",
+  "keyCards": [
+   "Boros Charm",
+   "Lightning Helix",
+   "Eidolon of the Great Revel",
+   "Screaming Nemesis",
+   "Emberheart Challenger"
+  ],
+  "summary": {
+   "fr": "Burn-aggro Boros : créatures à prouesse et Eidolon of the Great Revel, soutenus par Lightning Helix, Boros Charm et des renforts.",
+   "en": "Boros burn-aggro: prowess creatures and Eidolon of the Great Revel backed by Lightning Helix, Boros Charm and pump spells."
+  },
+  "why": {
+   "fr": [
+    "Les sorts de burn blancs donnaient de la portée une fois les créatures bloquées",
+    "Présent en top 8 toute la saison, sans victoire"
+   ],
+   "en": [
+    "White burn spells gave reach once creatures were blocked",
+    "Present in top 8s throughout the season without a win"
+   ]
+  },
+  "rep": 903266,
+  "exclude": [
+   796040,
+   797977,
+   798508,
+   799043,
+   799519,
+   800449,
+   802892,
+   804752,
+   805607,
+   806293,
+   813369,
+   819418,
+   821705,
+   831629,
+   832422,
+   844225,
+   860680,
+   867702,
+   881046,
+   881207,
+   891925,
+   902408,
+   903258,
+   912705
+  ]
+ },
+ {
+  "name": "Boros Convoke",
+  "slug": "boros-convoke",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Convoke"
+  ],
+  "cover": "Venerated Loxodon",
+  "keyCards": [
+   "Venerated Loxodon",
+   "Gleeful Demolition",
+   "Warden of the Inner Sky",
+   "Knight-Errant of Eos",
+   "Cosmogrand Zenith"
+  ],
+  "summary": {
+   "fr": "Aggro large Boros : créatures et jetons artefacts bon marché permettent de convoquer Venerated Loxodon et Knight-Errant of Eos, Gleeful Demolition changeant des jetons en Gobelins.",
+   "en": "Boros go-wide aggro: cheap creatures and artifact tokens convoke out Venerated Loxodon and Knight-Errant of Eos, with Gleeful Demolition breaking tokens into Goblins."
+  },
+  "why": {
+   "fr": [
+    "Thraben Inspector et Novice Inspector laissaient des Indices pour la convocation",
+    "Cosmogrand Zenith, issu d'Edge of Eternities, ajoutait une récompense"
+   ],
+   "en": [
+    "Thraben Inspector and Novice Inspector left Clues to fuel convoke",
+    "Cosmogrand Zenith from Edge of Eternities added another payoff"
+   ]
+  },
+  "include": [
+   796040,
+   797977,
+   799043,
+   799519,
+   800449,
+   802892,
+   804752,
+   813369,
+   819418,
+   821705,
+   831629,
+   832422,
+   860680,
+   902408,
+   903258
+  ]
+ },
+ {
+  "name": "Boros Hammer",
+  "slug": "boros-hammer",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Cloud"
+  ],
+  "cover": "Colossus Hammer",
+  "keyCards": [
+   "Colossus Hammer",
+   "Sigarda's Aid",
+   "Cloud, Midgar Mercenary",
+   "Kellan, the Fae-Blooded",
+   "Cori-Steel Cutter"
+  ],
+  "summary": {
+   "fr": "Aggro équipements Boros : Colossus Hammer attaché à vitesse instantanée par Sigarda's Aid, Cloud, Midgar Mercenary et Kellan, the Fae-Blooded allant chercher les équipements.",
+   "en": "Boros equipment aggro: Colossus Hammer attached at instant speed by Sigarda's Aid, with Cloud, Midgar Mercenary and Kellan, the Fae-Blooded searching for equipment."
+  },
+  "why": {
+   "fr": [
+    "A perdu Cori-Steel Cutter en mai mais gardé son noyau Hammer",
+    "A remporté des MTGO Challenges en janvier et en novembre"
+   ],
+   "en": [
+    "Lost Cori-Steel Cutter in May but kept its Hammer core",
+    "Won MTGO Challenges in January and November"
+   ]
+  },
+  "include": [
+   798508,
+   805607,
+   806293,
+   867702,
+   881046,
+   881207,
+   891925,
+   912705
+  ]
+ },
+ {
+  "name": "Rakdos Midrange",
+  "slug": "rakdos-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Midrange"
+  ],
+  "cover": "Sheoldred, the Apocalypse",
+  "keyCards": [
+   "Sheoldred, the Apocalypse",
+   "Unholy Annex/Ritual Chamber",
+   "Fable of the Mirror-Breaker",
+   "Bloodtithe Harvester",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Midrange Rakdos de défausse, de Fatal Push et de menaces rentables : Unholy Annex pioche à chaque tour et Sheoldred, the Apocalypse punit chaque pioche adverse.",
+   "en": "Rakdos midrange of discard, Fatal Push and value threats, with Unholy Annex drawing a card each turn and Sheoldred, the Apocalypse punishing every draw."
+  },
+  "why": {
+   "fr": [
+    "A remporté l'épreuve principale du Summer Sun's Zenith au TC Tokyo en août",
+    "Unholy Annex et Fable apportaient l'avantage de cartes dans les parties longues"
+   ],
+   "en": [
+    "Won the Summer Sun's Zenith main event at TC Tokyo in August",
+    "Unholy Annex and Fable gave card advantage in long games"
+   ]
+  }
+ },
+ {
+  "name": "Jund Sacrifice",
+  "slug": "jund-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Jund Sacrifice",
+   "Jund"
+  ],
+  "cover": "Mayhem Devil",
+  "keyCards": [
+   "Mayhem Devil",
+   "Cauldron Familiar",
+   "Witch's Oven",
+   "Ygra, Eater of All",
+   "Scavenger's Talent"
+  ],
+  "summary": {
+   "fr": "Deck sacrifice chat-four : Cauldron Familiar et Witch's Oven bouclent à chaque tour, Mayhem Devil inflige des dégâts et Ygra, Eater of All transforme les autres créatures en Food.",
+   "en": "Cat-and-Oven sacrifice deck: Cauldron Familiar and Witch's Oven loop every turn, Mayhem Devil pings, and Ygra, Eater of All turns other creatures into Food."
+  },
+  "why": {
+   "fr": [
+    "Scavenger's Talent rappelait des créatures et meulait à chaque Food sacrifiée",
+    "Fable of the Mirror-Breaker et Bloodtithe Harvester offraient un plan midrange"
+   ],
+   "en": [
+    "Scavenger's Talent returned creatures and milled when Food was sacrificed",
+    "Fable of the Mirror-Breaker and Bloodtithe Harvester gave a midrange plan"
+   ]
+  }
+ },
+ {
+  "name": "Rakdos Sacrifice",
+  "slug": "rakdos-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Sacrifice"
+  ],
+  "cover": "Mayhem Devil",
+  "keyCards": [
+   "Mayhem Devil",
+   "Cauldron Familiar",
+   "Witch's Oven",
+   "Eyetwitch",
+   "The Sackville-Bagginses"
+  ],
+  "summary": {
+   "fr": "Sacrifice chat-four Rakdos : Cauldron Familiar et Witch's Oven bouclent, Mayhem Devil inflige des dégâts, Eyetwitch et The Sackville-Bagginses ajoutent de quoi sacrifier.",
+   "en": "Rakdos Cat-and-Oven sacrifice: Cauldron Familiar and Witch's Oven loop, Mayhem Devil pings, and Eyetwitch and The Sackville-Bagginses add more sacrifice fodder."
+  },
+  "why": {
+   "fr": [
+    "Abandonnait le vert pour une base de mana bicolore plus régulière",
+    "Présent en top 8 en septembre et en octobre"
+   ],
+   "en": [
+    "Dropped green for a more consistent two-color mana base",
+    "Present in top 8s in September and October"
+   ]
+  }
+ },
+ {
+  "name": "Golgari Sacrifice",
+  "slug": "golgari-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Golgari Sacrifice"
+  ],
+  "cover": "Ygra, Eater of All",
+  "keyCards": [
+   "Ygra, Eater of All",
+   "Gilded Goose",
+   "Cauldron Familiar",
+   "Witch's Oven",
+   "Badgermole Cub"
+  ],
+  "summary": {
+   "fr": "Version Golgari du moteur chat-four : Gilded Goose et Ygra, Eater of All produisent de la Food pour rappeler Cauldron Familiar, Traverse the Ulvenwald servant de tuteur.",
+   "en": "Golgari version of the Cat-Oven engine: Gilded Goose and Ygra, Eater of All make Food to recur Cauldron Familiar, with Traverse the Ulvenwald as a tutor."
+  },
+  "why": {
+   "fr": [
+    "Badgermole Cub rejoignait Gilded Goose comme source de mana précoce",
+    "Trois victoires en MTGO Challenge entre mai et août"
+   ],
+   "en": [
+    "Badgermole Cub joined Gilded Goose as an early mana source",
+    "Three MTGO Challenge wins between May and August"
+   ]
+  }
+ },
+ {
+  "name": "Golgari Devotion",
+  "slug": "golgari-devotion",
+  "archetype": "ramp",
+  "titles": [
+   "Golgari Aggro",
+   "Golgari Aggro Archlich",
+   "Golgari Aggro Nature's Rhythm",
+   "Golgari Aggro Acererak"
+  ],
+  "cover": "Fiend Artisan",
+  "keyCards": [
+   "Fiend Artisan",
+   "Nature's Rhythm",
+   "Nykthos, Shrine to Nyx",
+   "Shang-Chi, Master of Kung Fu",
+   "Enduring Vitality"
+  ],
+  "summary": {
+   "fr": "Version Golgari de la dévotion verte : créatures à mana et Nykthos, Nature's Rhythm et Fiend Artisan mettant en jeu la bonne créature.",
+   "en": "Golgari version of green devotion: mana creatures and Nykthos, with Nature's Rhythm and Fiend Artisan putting the right creature into play."
+  },
+  "why": {
+   "fr": [
+    "Fiend Artisan grandissait avec chaque créature au cimetière",
+    "Présent en top 8 de mai à septembre"
+   ],
+   "en": [
+    "Fiend Artisan grew with each creature in the graveyard",
+    "Present in top 8s from May to September"
+   ]
+  },
+  "exclude": [
+   799524,
+   800455,
+   810732,
+   811880,
+   811991,
+   813119,
+   813374,
+   813766,
+   817178,
+   821473,
+   821700,
+   823172,
+   824045,
+   825458,
+   878914,
+   878928
+  ]
+ },
+ {
+  "name": "Jeskai Control",
+  "slug": "jeskai-control",
+  "archetype": "control",
+  "titles": [
+   "Jeskai Control",
+   "Jeskai Revelations",
+   "Jeshai Control",
+   "4c Control",
+   "4cc"
+  ],
+  "cover": "Jeskai Revelation",
+  "keyCards": [
+   "Jeskai Revelation",
+   "Gran-Gran",
+   "Firebending Lesson",
+   "Tablet of Discovery",
+   "Thor, God of Thunder"
+  ],
+  "summary": {
+   "fr": "Version Jeskai du deck Lessons : Gran-Gran, Firebending Lesson et contresorts, avec Jeskai Revelation et Thor, God of Thunder pour conclure.",
+   "en": "Jeskai version of the Lessons deck: Gran-Gran, Firebending Lesson and counterspells, with Jeskai Revelation and Thor, God of Thunder as finishers."
+  },
+  "why": {
+   "fr": [
+    "Tablet of Discovery apportait du mana et de la sélection de cartes",
+    "L'essentiel de ses top 8 date de juin et après"
+   ],
+   "en": [
+    "Tablet of Discovery provided extra mana and card selection",
+    "Most of its top 8s came from June onward"
+   ]
+  },
+  "rep": 878769
+ },
+ {
+  "name": "Gruul Cutter",
+  "slug": "gruul-cutter",
+  "archetype": "aggro",
+  "titles": [
+   "Gruul Aggro"
+  ],
+  "cover": "Cori-Steel Cutter",
+  "keyCards": [
+   "Cori-Steel Cutter",
+   "Questing Druid",
+   "Monastery Swiftspear",
+   "Academic Dispute",
+   "Screaming Nemesis"
+  ],
+  "summary": {
+   "fr": "Prouesse rouge-verte autour de Cori-Steel Cutter : chaque deuxième sort du tour crée un jeton Moine avec la célérité, Questing Druid ajoutant un sort d'aventure.",
+   "en": "Red-green prowess around Cori-Steel Cutter: every second spell in a turn makes a hasty Monk token, and Questing Druid adds an adventure spell."
+  },
+  "why": {
+   "fr": [
+    "Burst Lightning et Reckless Rage facilitaient les tours à deux sorts",
+    "S'arrête au bannissement de Cori-Steel Cutter le 18 mai"
+   ],
+   "en": [
+    "Burst Lightning and Reckless Rage made two-spell turns easy",
+    "Stops at the ban of Cori-Steel Cutter on May 18"
+   ]
+  },
+  "exclude": [
+   850406
+  ]
+ },
+ {
+  "name": "Indomitable Creativity",
+  "slug": "indomitable-creativity",
+  "archetype": "combo",
+  "titles": [
+   "Creativity",
+   "Izzet Creativity"
+  ],
+  "cover": "Indomitable Creativity",
+  "keyCards": [
+   "Indomitable Creativity",
+   "Fable of the Mirror-Breaker",
+   "Prismari Command",
+   "Worldspine Wurm",
+   "Volcanic Spite"
+  ],
+  "summary": {
+   "fr": "Combo Izzet Creativity : Prismari Command et Fable of the Mirror-Breaker créent des jetons qu'Indomitable Creativity transforme en grosse créature comme Worldspine Wurm.",
+   "en": "Izzet Creativity combo: Prismari Command and Fable of the Mirror-Breaker make tokens that Indomitable Creativity turns into a large creature such as Worldspine Wurm."
+  },
+  "why": {
+   "fr": [
+    "Deduce et Consult the Star Charts creusaient vers les pièces du combo",
+    "Présent en top 8 surtout dans la seconde moitié de la saison"
+   ],
+   "en": [
+    "Deduce and Consult the Star Charts dug for the combo pieces",
+    "Present in top 8s mostly in the second half of the season"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Control",
+  "slug": "mono-black-control",
+  "archetype": "control",
+  "titles": [
+   "Mono Black Control"
+  ],
+  "cover": "Sheoldred, the Apocalypse",
+  "keyCards": [
+   "Sheoldred, the Apocalypse",
+   "Unholy Annex/Ritual Chamber",
+   "Invoke Despair",
+   "Graveyard Trespasser",
+   "Castle Locthwain"
+  ],
+  "summary": {
+   "fr": "Contrôle-midrange mono-noir : défausse, Fatal Push et Unholy Annex, puis Sheoldred, the Apocalypse et Invoke Despair, Castle Locthwain assurant la pioche.",
+   "en": "Mono-black midrange-control: discard, Fatal Push and Unholy Annex, then Sheoldred, the Apocalypse and Invoke Despair, with Castle Locthwain for card draw."
+  },
+  "why": {
+   "fr": [
+    "Graveyard Trespasser gênait les decks de cimetière",
+    "Preacher of the Schism et Gifted Aetherborn tenaient tête aux decks aggro"
+   ],
+   "en": [
+    "Graveyard Trespasser hosed the graveyard decks",
+    "Preacher of the Schism and Gifted Aetherborn held off the aggro decks"
+   ]
+  }
+ },
+ {
+  "name": "Boros Ponza",
+  "slug": "boros-ponza",
+  "archetype": "control",
+  "titles": [
+   "Boros Control",
+   "Boros Ponza"
+  ],
+  "cover": "Cleansing Wildfire",
+  "keyCards": [
+   "Cleansing Wildfire",
+   "Price of Freedom",
+   "Krenko's Buzzcrusher",
+   "Magmatic Hellkite",
+   "Pinnacle Starcage"
+  ],
+  "summary": {
+   "fr": "Contrôle Boros de destruction de terrains : Cleansing Wildfire, Price of Freedom et Demolition Field attaquent les terrains non-base, puis Magmatic Hellkite et Krenko's Buzzcrusher concluent.",
+   "en": "Boros land destruction control: Cleansing Wildfire, Price of Freedom and Demolition Field attack the nonbasic lands, then Magmatic Hellkite and Krenko's Buzzcrusher close."
+  },
+  "why": {
+   "fr": [
+    "Les bases de mana du Pioneer, faites de terrains doubles, étaient exposées à la destruction de terrains",
+    "Présent en top 8 de février à septembre"
+   ],
+   "en": [
+    "Pioneer mana bases built on dual lands left them exposed to land destruction",
+    "Present in top 8s from February to September"
+   ]
+  }
+ },
+ {
+  "name": "5c Legends",
+  "slug": "5c-legends",
+  "archetype": "aggro",
+  "titles": [
+   "5c Legends Aggro"
+  ],
+  "cover": "Relic of Legends",
+  "keyCards": [
+   "Relic of Legends",
+   "Honest Rutstein",
+   "Arachne, Psionic Weaver",
+   "Gran-Gran",
+   "Plaza of Heroes"
+  ],
+  "summary": {
+   "fr": "Aggro multicolore de créatures légendaires : Plaza of Heroes, Secluded Courtyard et Relic of Legends lancent des légendes bon marché, Honest Rutstein les fait revenir.",
+   "en": "Multicolor legendary creature aggro: Plaza of Heroes, Secluded Courtyard and Relic of Legends cast cheap legends, and Honest Rutstein returns them."
+  },
+  "why": {
+   "fr": [
+    "A remporté le 20th God of Pioneer à Tokyo et le championnat de la Players Convention de Kyoto",
+    "Mox Amber transformait chaque légende bon marché en mana supplémentaire"
+   ],
+   "en": [
+    "Won The 20th God of Pioneer in Tokyo and the Players Convention Kyoto championship",
+    "Mox Amber turned each cheap legend into an extra mana"
+   ]
+  },
+  "rep": 808828
+ },
+ {
+  "name": "Mono-White Humans",
+  "slug": "mono-white-humans",
+  "archetype": "aggro",
+  "titles": [
+   "Weenie White",
+   "Mono White Humans",
+   "Humans"
+  ],
+  "cover": "Thalia's Lieutenant",
+  "keyCards": [
+   "Thalia's Lieutenant",
+   "Adeline, Resplendent Cathar",
+   "Thalia, Guardian of Thraben",
+   "Kytheon, Hero of Akros",
+   "Mox Amber"
+  ],
+  "summary": {
+   "fr": "Aggro Humains blanc : créatures à un mana renforcées par Thalia's Lieutenant et Adeline, Mox Amber accélérant les créatures légendaires et Cavern of Souls contre les contresorts.",
+   "en": "White Humans aggro: one-drops grown by Thalia's Lieutenant and Adeline, with Mox Amber accelerating the legendary creatures and Cavern of Souls against counterspells."
+  },
+  "why": {
+   "fr": [
+    "A remporté un RCQ 2K à Hurst (Texas) et un MTGO RC Super Qualifier",
+    "Thalia, Guardian of Thraben taxait les decks de sorts"
+   ],
+   "en": [
+    "Won a 2K RCQ in Hurst, Texas and an MTGO RC Super Qualifier",
+    "Thalia, Guardian of Thraben taxed the spell decks"
+   ]
+  }
+ },
+ {
+  "name": "Selesnya Angels",
+  "slug": "selesnya-angels",
+  "archetype": "midrange",
+  "titles": [
+   "Selesnya Angels"
+  ],
+  "cover": "Righteous Valkyrie",
+  "keyCards": [
+   "Righteous Valkyrie",
+   "Giada, Font of Hope",
+   "Resplendent Angel",
+   "Bishop of Wings",
+   "Kayla's Reconstruction"
+  ],
+  "summary": {
+   "fr": "Anges Selesnya : Giada, Font of Hope et Righteous Valkyrie renforcent les Anges, Bishop of Wings fait gagner des points de vie, Collected Company ou Kayla's Reconstruction remplissent le board.",
+   "en": "Selesnya Angels: Giada, Font of Hope and Righteous Valkyrie grow the Angels, Bishop of Wings gains life, and Collected Company or Kayla's Reconstruction refill the board."
+  },
+  "why": {
+   "fr": [
+    "Les gains de vie de Bishop of Wings activaient Righteous Valkyrie et Resplendent Angel",
+    "Les elfes à mana posaient un Ange à trois manas dès le deuxième tour"
+   ],
+   "en": [
+    "Life gain from Bishop of Wings turned on Righteous Valkyrie and Resplendent Angel",
+    "Mana elves put a three-drop Angel on the battlefield on turn two"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Tempo",
+  "slug": "azorius-tempo",
+  "archetype": "tempo",
+  "titles": [
+   "Azorius Tempo"
+  ],
+  "cover": "Spell Queller",
+  "keyCards": [
+   "Spell Queller",
+   "Drannith Magistrate",
+   "Aven Interrupter",
+   "Aang, Swift Savior",
+   "Soul Partition"
+  ],
+  "summary": {
+   "fr": "Tempo Azorius à flash : Spell Queller, Aven Interrupter et Drannith Magistrate perturbent l'adversaire à vitesse instantanée pendant que des volants bon marché attaquent.",
+   "en": "Azorius flash tempo: Spell Queller, Aven Interrupter and Drannith Magistrate disrupt the opponent at instant speed while cheap fliers attack."
+  },
+  "why": {
+   "fr": [
+    "Drannith Magistrate bloquait les aventures et les sorts lancés depuis le cimetière",
+    "Présent en top 8 de mars à novembre"
+   ],
+   "en": [
+    "Drannith Magistrate shut off adventures and cards cast from the graveyard",
+    "Present in top 8s from March to November"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Spirits",
+  "slug": "azorius-spirits",
+  "archetype": "tempo",
+  "titles": [
+   "Spirit Aggro",
+   "Azorius Spirits"
+  ],
+  "cover": "Supreme Phantom",
+  "keyCards": [
+   "Supreme Phantom",
+   "Spell Queller",
+   "Rattlechains",
+   "Mausoleum Wanderer",
+   "Spectral Sailor"
+  ],
+  "summary": {
+   "fr": "Tribal Esprits Azorius : volants à flash, Supreme Phantom comme seigneur, Spell Queller et Mausoleum Wanderer pour gagner les batailles de sorts pendant le tour adverse.",
+   "en": "Azorius Spirits tribal: flash fliers, Supreme Phantom as a lord, Spell Queller and Mausoleum Wanderer to fight counterspell battles on the opponent's turn."
+  },
+  "why": {
+   "fr": [
+    "Rattlechains donnait le flash à toute l'équipe",
+    "A remporté le Last Sun 2026 Qualifier à Akihabara"
+   ],
+   "en": [
+    "Rattlechains gave flash to the whole team",
+    "Won The Last Sun 2026 Qualifier in Akihabara"
+   ]
+  }
+ },
+ {
+  "name": "Quintorius Combo",
+  "slug": "quintorius-combo",
+  "archetype": "combo",
+  "titles": [
+   "Quintorius"
+  ],
+  "cover": "Quintorius Kand",
+  "keyCards": [
+   "Quintorius Kand",
+   "Spark Double",
+   "Trumpeting Carnosaur",
+   "Magma Opus",
+   "Creative Outburst"
+  ],
+  "summary": {
+   "fr": "Version Grixis-Boros de Quintorius : défausse et sorts lancés depuis l'exil avec Magma Opus et Creative Outburst, les copies de Quintorius Kand drainant à chaque sort lancé depuis l'exil.",
+   "en": "Grixis-Boros version of Quintorius: discard and cast-from-exile effects with Magma Opus and Creative Outburst, while copies of Quintorius Kand drain for each spell cast from exile."
+  },
+  "why": {
+   "fr": [
+    "A remporté un Summer Sun's Zenith Qualifier à Tokyo et l'Admiral Championship de Yokohama",
+    "Les temples et les pathways remplaçaient les triomes des listes précédentes"
+   ],
+   "en": [
+    "Won a Summer Sun's Zenith Qualifier in Tokyo and the Admiral Championship in Yokohama",
+    "Temples and pathways replaced the triomes of earlier lists"
+   ]
+  }
+ },
+ {
+  "name": "Carnage Mimic",
+  "slug": "carnage-mimic",
+  "archetype": "combo",
+  "titles": [
+   "Carnage Mimic",
+   "Carnage mimic"
+  ],
+  "cover": "Carnage, Crimson Chaos",
+  "keyCards": [
+   "Carnage, Crimson Chaos",
+   "Glasspool Mimic",
+   "Tinybones Joins Up",
+   "Rona, Herald of Invasion",
+   "Gran-Gran"
+  ],
+  "summary": {
+   "fr": "Deck Grixis de légendes autour de Carnage, Crimson Chaos et Glasspool Mimic, Tinybones Joins Up et Plaza of Heroes récompensant les sorts légendaires.",
+   "en": "Grixis legends deck around Carnage, Crimson Chaos and Glasspool Mimic, with Tinybones Joins Up and Plaza of Heroes rewarding legendary spells."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize et Fatal Push venaient avec la base noire",
+    "Présent seulement entre janvier et avril"
+   ],
+   "en": [
+    "Thoughtseize and Fatal Push came with the black base",
+    "Present only between January and April"
+   ]
+  }
+ },
+ {
+  "name": "Dredge",
+  "slug": "dredge",
+  "archetype": "combo",
+  "titles": [
+   "Dredge"
+  ],
+  "cover": "Prized Amalgam",
+  "keyCards": [
+   "Prized Amalgam",
+   "Narcomoeba",
+   "Bloodghast",
+   "Creeping Chill",
+   "Exhibition Tidecaller"
+  ],
+  "summary": {
+   "fr": "Deck de cimetière : Exhibition Tidecaller et les sorts d'auto-meule mettent en jeu Narcomoeba, Bloodghast et Prized Amalgam depuis le cimetière, Creeping Chill drainant l'adversaire.",
+   "en": "Graveyard deck: Exhibition Tidecaller and self-mill spells put Narcomoeba, Bloodghast and Prized Amalgam into play from the graveyard, with Creeping Chill draining."
+  },
+  "why": {
+   "fr": [
+    "Prized Amalgam revenait chaque fois qu'une autre créature quittait le cimetière",
+    "Présent en top 8 de mai à octobre"
+   ],
+   "en": [
+    "Prized Amalgam returned whenever another creature came back from the graveyard",
+    "Present in top 8s from May to October"
+   ]
+  }
+ },
+ {
+  "name": "Retraction Helix",
+  "slug": "retraction-helix",
+  "archetype": "combo",
+  "titles": [
+   "Retraction Helix"
+  ],
+  "cover": "Retraction Helix",
+  "keyCards": [
+   "Retraction Helix",
+   "Mox Amber",
+   "Valley Floodcaller",
+   "Rona, Herald of Invasion",
+   "Kitsa, Otterball Elite"
+  ],
+  "summary": {
+   "fr": "Combo mono-bleu : une créature qui reçoit Retraction Helix renvoie Mox Amber, et chaque relance la dégage via Valley Floodcaller ou Rona, Herald of Invasion, pour une boucle sans fin.",
+   "en": "Mono-blue combo: a creature given Retraction Helix bounces Mox Amber, and each recast untaps it through Valley Floodcaller or Rona, Herald of Invasion, for an endless loop."
+  },
+  "why": {
+   "fr": [
+    "A remporté deux épreuves qualificatives du Summer Sun's Zenith dans la région de Tokyo",
+    "Flow State et Stormchaser's Talent creusaient vers les pièces"
+   ],
+   "en": [
+    "Won two Summer Sun's Zenith qualifying events in the Tokyo area",
+    "Flow State and Stormchaser's Talent dug for the pieces"
+   ]
+  }
+ }
+]
