@@ -1,0 +1,408 @@
+[
+  {
+    "name": "MUD",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MUD"
+    ],
+    "rep": 229448,
+    "cover": "Lodestone Golem",
+    "keyCards": [
+      "Lodestone Golem",
+      "Thorn of Amethyst",
+      "Sphere of Resistance",
+      "Phyrexian Revoker",
+      "Crucible of Worlds",
+      "Karn, Silver Golem"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop posait Lodestone Golem, Thorn of Amethyst et Sphere of Resistance qui taxaient chaque sort, Crucible of Worlds rejouait Wasteland et Strip Mine.",
+      "en": "Mishra's Workshop put down Lodestone Golem, Thorn of Amethyst and Sphere of Resistance, taxing every spell, and Crucible of Worlds replayed Wasteland and Strip Mine."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Victoire à l'Open d'été à 2 000 dollars, deuxième au Bazaar of Moxen 8"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Won the $2,000 Summer Open, second at Bazaar of Moxen 8"
+      ]
+    }
+  },
+  {
+    "name": "Stax",
+    "slug": "stax",
+    "archetype": "control",
+    "titles": [
+      "Stax"
+    ],
+    "rep": 224788,
+    "cover": "Smokestack",
+    "keyCards": [
+      "Smokestack",
+      "Tangle Wire",
+      "Chalice of the Void",
+      "Sphere of Resistance",
+      "Phyrexian Metamorph",
+      "Crucible of Worlds"
+    ],
+    "summary": {
+      "fr": "Prison à Mishra's Workshop : Chalice of the Void, Sphere of Resistance et Tangle Wire étouffaient l'adversaire, Smokestack et Crucible of Worlds achevaient le verrou.",
+      "en": "Mishra's Workshop prison: Chalice of the Void, Sphere of Resistance and Tangle Wire choked the opponent, and Smokestack with Crucible of Worlds completed the lock."
+    },
+    "why": {
+      "fr": [
+        "Trois victoires aux États-Unis, dont le tournoi à 2 000 dollars de TDG",
+        "Mishra's Factory complétait les menaces"
+      ],
+      "en": [
+        "Three wins in the United States, including the $2,000 TDG event",
+        "Mishra's Factory rounded out the threats"
+      ]
+    }
+  },
+  {
+    "name": "Snapcaster Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "Snapcaster Control",
+      "PW Control",
+      "Jace Control",
+      "Planeswalker Control",
+      "Snap Control",
+      "Jace PW",
+      "Keeper",
+      "Tez"
+    ],
+    "rep": 233824,
+    "cover": "Snapcaster Mage",
+    "keyCards": [
+      "Snapcaster Mage",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Tinker",
+      "Lightning Bolt",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu à Snapcaster Mage et Jace, the Mind Sculptor, Mana Drain et Force of Will, les cartes restreintes et Tinker pour finir.",
+      "en": "Blue control with Snapcaster Mage and Jace, the Mind Sculptor, Mana Drain and Force of Will, with the restricted cards and Tinker to finish."
+    },
+    "why": {
+      "fr": [
+        "Daniel Scherer a gagné le Vintage de l'Ovino 8 à Milan",
+        "La version Planeswalker a gagné le NYSE Open I"
+      ],
+      "en": [
+        "Daniel Scherer won the Vintage event at Ovino 8 in Milan",
+        "The Planeswalker version won NYSE Open I"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "BUG Fish",
+      "Bug Fish",
+      "Fish",
+      "Noble Fish",
+      "Junk Fish",
+      "BUG Midrange"
+    ],
+    "rep": 234634,
+    "cover": "Abrupt Decay",
+    "keyCards": [
+      "Abrupt Decay",
+      "Null Rod",
+      "Deathrite Shaman",
+      "Snapcaster Mage",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir-vert : Null Rod coupait les Moxen et les artefacts, Abrupt Decay et Deathrite Shaman de Return to Ravnica, Snapcaster Mage pour l'avantage.",
+      "en": "Blue-black-green tempo: Null Rod shut off Moxen and artifacts, Abrupt Decay and Deathrite Shaman from Return to Ravnica, and Snapcaster Mage for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Michael Bonde a gagné le Bazaar of Moxen 8",
+        "Victoire aussi au Nebraska's War de Viareggio"
+      ],
+      "en": [
+        "Michael Bonde won Bazaar of Moxen 8",
+        "Also won Nebraska's War in Viareggio"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath of Druids",
+      "Oath",
+      "Oath of Griselbrand",
+      "Oath of Storm",
+      "Storm Oath"
+    ],
+    "rep": 231702,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Griselbrand",
+      "Forbidden Orchard",
+      "Time Vault",
+      "Voltaic Key",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Forbidden Orchard donnait une créature à l'adversaire pour déclencher Oath of Druids, qui mettait Griselbrand en jeu ; Time Vault et Voltaic Key en plan bis.",
+      "en": "Forbidden Orchard gave the opponent a creature to trigger Oath of Druids, which put Griselbrand into play; Time Vault and Voltaic Key as a backup plan."
+    },
+    "why": {
+      "fr": [
+        "Jason Scott a gagné le Next Level Eternal Masters 2013",
+        "La version à Burning Wish et Dark Ritual a gagné le tournoi qualificatif du Bazaar of Moxen 7"
+      ],
+      "en": [
+        "Jason Scott won Next Level Eternal Masters 2013",
+        "The Burning Wish and Dark Ritual version won the Bazaar of Moxen 7 qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Delver",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian",
+      "Canadian Threshold",
+      "BUG Thresh",
+      "Grixis Aggro",
+      "Grixis Fish"
+    ],
+    "rep": 237199,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Gush",
+      "Lightning Bolt",
+      "Snapcaster Mage",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à Gush : Delver of Secrets et Tarmogoyf, Lightning Bolt et Snapcaster Mage, Mental Misstep et Spell Pierce contre les sorts bon marché.",
+      "en": "Blue-red Gush tempo: Delver of Secrets and Tarmogoyf, Lightning Bolt and Snapcaster Mage, Mental Misstep and Spell Pierce against cheap spells."
+    },
+    "why": {
+      "fr": [
+        "Edu Castro a gagné la finale de la LCV 2013 à Barcelone",
+        "AJ Grasso a fini deuxième du Vintage des Eternal Championships"
+      ],
+      "en": [
+        "Edu Castro won the 2013 LCV final in Barcelona",
+        "AJ Grasso finished second at the Eternal Championships Vintage event"
+      ]
+    }
+  },
+  {
+    "name": "Gush",
+    "slug": "gush",
+    "archetype": "combo",
+    "titles": [
+      "Gush Storm",
+      "Almost Blue",
+      "Gush Doomsday"
+    ],
+    "rep": 228347,
+    "cover": "Gush",
+    "keyCards": [
+      "Gush",
+      "Fastbond",
+      "Yawgmoth's Will",
+      "Gifts Ungiven",
+      "Timetwister",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Gush et Fastbond rendaient les Islands pour piocher et jouer des terrains en boucle, jusqu'à Yawgmoth's Will et Brain Freeze ou Tendrils of Agony.",
+      "en": "Gush and Fastbond returned Islands to draw and replay lands in a loop, up to Yawgmoth's Will and Brain Freeze or Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Trois victoires en Espagne, dont la LCV d'avril",
+        "Une version à Doomsday a fini deuxième au MVPLS"
+      ],
+      "en": [
+        "Three wins in Spain, including the April LCV",
+        "A Doomsday version finished second at MVPLS"
+      ]
+    }
+  },
+  {
+    "name": "Bomberman",
+    "slug": "bomberman",
+    "archetype": "combo",
+    "titles": [
+      "Bomberman"
+    ],
+    "rep": 224789,
+    "cover": "Auriok Salvagers",
+    "keyCards": [
+      "Auriok Salvagers",
+      "Trinket Mage",
+      "Dark Confidant",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Auriok Salvagers rejouait sans fin Black Lotus pour un mana infini, Trinket Mage allait chercher les artefacts, Dark Confidant et Jace donnaient un plan de contrôle.",
+      "en": "Auriok Salvagers recast Black Lotus endlessly for infinite mana, Trinket Mage fetched the artifacts, and Dark Confidant and Jace gave a control plan."
+    },
+    "why": {
+      "fr": [
+        "Deuxième place dans trois tournois, dont la finale de la LCV 2013",
+        "Présent dans les top 8 toute l'année"
+      ],
+      "en": [
+        "Second place in three events, including the 2013 LCV final",
+        "In top eights all year"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 227159,
+    "cover": "Bridge from Below",
+    "keyCards": [
+      "Bridge from Below",
+      "Stinkweed Imp",
+      "Narcomoeba",
+      "Ingot Chewer",
+      "Serum Powder",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait, Golgari Grave-Troll se draguait, Narcomoeba et Bloodghast revenaient, Ingot Chewer détruisait un artefact gratuitement.",
+      "en": "Bazaar of Baghdad drew and discarded, Golgari Grave-Troll dredged, Narcomoeba and Bloodghast came back, and Ingot Chewer destroyed an artifact for free."
+    },
+    "why": {
+      "fr": [
+        "Jordi Carbonell a gagné la LCV de mars",
+        "Deuxième au Next Level Eternal Masters et au tournoi précédant l'Eternal Weekend"
+      ],
+      "en": [
+        "Jordi Carbonell won the March LCV",
+        "Second at Next Level Eternal Masters and the event before Eternal Weekend"
+      ]
+    }
+  },
+  {
+    "name": "Landstill",
+    "slug": "landstill",
+    "archetype": "control",
+    "titles": [
+      "Landstill"
+    ],
+    "rep": 229909,
+    "cover": "Standstill",
+    "keyCards": [
+      "Standstill",
+      "Trinket Mage",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Lightning Bolt",
+      "Mental Misstep"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge à Standstill : Wasteland et Strip Mine contre les terrains adverses, Faerie Conclave pour frapper, Jace et Mana Drain pour l'avantage.",
+      "en": "Blue-red Standstill control: Wasteland and Strip Mine against opposing lands, Faerie Conclave to attack, Jace and Mana Drain for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième et top 4 au NYSE Open I",
+        "Top 4 au tournoi qualificatif du Bazaar of Moxen 8"
+      ],
+      "en": [
+        "Second and top four at NYSE Open I",
+        "Top four at the Bazaar of Moxen 8 qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Tezzerator",
+    "slug": "tezzeret",
+    "archetype": "combo",
+    "titles": [
+      "Tezzerator"
+    ],
+    "rep": 228348,
+    "cover": "Tezzeret the Seeker",
+    "keyCards": [
+      "Tezzeret the Seeker",
+      "Voltaic Key",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tezzeret the Seeker allait chercher Time Vault, que Voltaic Key dégageait sans fin pour des tours supplémentaires infinis.",
+      "en": "Tezzeret the Seeker fetched Time Vault, which Voltaic Key untapped endlessly for infinite extra turns."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la LCV d'avril",
+        "Top 4 à la LCV de mars"
+      ],
+      "en": [
+        "Second at the April LCV",
+        "Top four at the March LCV"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk"
+    ],
+    "rep": 234607,
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Master of the Pearl Trident",
+      "Merrow Reejerey",
+      "Null Rod",
+      "Cursecatcher",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Ondins à seigneurs, Null Rod contre les Moxen et les artefacts, Mental Misstep et Force of Will pour protéger l'avance.",
+      "en": "Merfolk with lords, Null Rod against Moxen and artifacts, and Mental Misstep and Force of Will to protect the lead."
+    },
+    "why": {
+      "fr": [
+        "Joel Lim a gagné le Vintage des Eternal Championships 2013",
+        "Top 8 aussi aux deux tournois à 2 000 dollars de l'été et de l'automne"
+      ],
+      "en": [
+        "Joel Lim won the Vintage event of the 2013 Eternal Championships",
+        "Also top eights at the two $2,000 events in summer and autumn"
+      ]
+    }
+  }
+]

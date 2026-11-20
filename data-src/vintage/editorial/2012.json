@@ -1,0 +1,251 @@
+[
+  {
+    "name": "MUD",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MUD",
+      "Mud",
+      "Kuldotha MUD",
+      "Welder MUD",
+      "Smokestack MUD"
+    ],
+    "rep": 216540,
+    "cover": "Lodestone Golem",
+    "keyCards": [
+      "Lodestone Golem",
+      "Phyrexian Metamorph",
+      "Slash Panther",
+      "Chalice of the Void",
+      "Tangle Wire",
+      "Thorn of Amethyst"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop posait Lodestone Golem, Thorn of Amethyst et Chalice of the Void qui taxaient les sorts adverses, puis Phyrexian Metamorph et Slash Panther frappaient.",
+      "en": "Mishra's Workshop put down Lodestone Golem, Thorn of Amethyst and Chalice of the Void, taxing opposing spells, then Phyrexian Metamorph and Slash Panther attacked."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Victoires à la Lliga Catalana, à la Grudge Match V de New York et à la LCV d'août"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Won at the Lliga Catalana, the New York Grudge Match V and the August LCV"
+      ]
+    }
+  },
+  {
+    "name": "Snapcaster Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "Snapcaster Control",
+      "Grixis Snap Control",
+      "Jace Control",
+      "Confi-control",
+      "Snapcaster - Jace - Confident - Control",
+      "Keeper",
+      "Control Slaver",
+      "PW Control",
+      "UW Stoneforge Control (\"Grambas deck\")",
+      "Landstill",
+      "Remora"
+    ],
+    "rep": 218952,
+    "cover": "Snapcaster Mage",
+    "keyCards": [
+      "Snapcaster Mage",
+      "Dark Confidant",
+      "Mental Misstep",
+      "Flusterstorm",
+      "Mana Drain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu à Dark Confidant et Snapcaster Mage, Mental Misstep et Flusterstorm contre les sorts bon marché, les cartes restreintes pour l'avantage.",
+      "en": "Blue control with Dark Confidant and Snapcaster Mage, Mental Misstep and Flusterstorm against cheap spells, and the restricted cards for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Marc Lanigra a gagné le Vintage Championship de la GenCon 2012",
+        "Deuxième au D-Day V d'Empoli"
+      ],
+      "en": [
+        "Marc Lanigra won the GenCon 2012 Vintage Championship",
+        "Second at D-Day V in Empoli"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge",
+      "Mana Ichorid"
+    ],
+    "rep": 217684,
+    "cover": "Bridge from Below",
+    "keyCards": [
+      "Bridge from Below",
+      "Golgari Grave-Troll",
+      "Stinkweed Imp",
+      "Ingot Chewer",
+      "Serum Powder",
+      "Leyline of the Void"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait, Golgari Grave-Troll se draguait, Narcomoeba et Bloodghast revenaient ; Ingot Chewer évoqué détruisait un artefact gratuitement.",
+      "en": "Bazaar of Baghdad drew and discarded, Golgari Grave-Troll dredged, and Narcomoeba and Bloodghast came back; an evoked Ingot Chewer destroyed an artifact for free."
+    },
+    "why": {
+      "fr": [
+        "Erik Hegeman a gagné le Bazaar of Moxen 6",
+        "Richard Lessman a gagné le D-Day V d'Empoli"
+      ],
+      "en": [
+        "Erik Hegeman won Bazaar of Moxen 6",
+        "Richard Lessman won D-Day V in Empoli"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath",
+      "Rune Scarred Oath",
+      "Demon Gush Oath"
+    ],
+    "rep": 215993,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Rune-Scarred Demon",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Preordain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Oath of Druids mettait en jeu une grosse créature, Rune-Scarred Demon ou Griselbrand, dès que l'adversaire avait une créature.",
+      "en": "Oath of Druids put a big creature, Rune-Scarred Demon or Griselbrand, into play whenever the opponent had a creature."
+    },
+    "why": {
+      "fr": [
+        "A gagné à Hanau en décembre avec Griselbrand",
+        "Trois top 4 en janvier en version Rune-Scarred Demon"
+      ],
+      "en": [
+        "Won in Hanau in December with Griselbrand",
+        "Three top fours in January with the Rune-Scarred Demon version"
+      ]
+    }
+  },
+  {
+    "name": "Gush",
+    "slug": "gush",
+    "archetype": "tempo",
+    "titles": [
+      "Gush Storm",
+      "GAT",
+      "Gush Control",
+      "Remora Fish",
+      "Canadian Threshold",
+      "Tezzeret Control"
+    ],
+    "rep": 217405,
+    "cover": "Gush",
+    "keyCards": [
+      "Gush",
+      "Preordain",
+      "Spell Pierce",
+      "Mana Drain",
+      "Blightsteel Colossus",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Gush piochait deux cartes gratuitement ; les listes en tiraient un contrôle bleu, une combinaison storm ou du tempo à Tarmogoyf et Delver of Secrets.",
+      "en": "Gush drew two cards for free; lists turned it into blue control, a storm combo or tempo with Tarmogoyf and Delver of Secrets."
+    },
+    "why": {
+      "fr": [
+        "Victoires à la Grudge Match IV et à Città di Castello",
+        "Deuxième à la Grudge Match V avec Delver of Secrets"
+      ],
+      "en": [
+        "Won Grudge Match IV and in Città di Castello",
+        "Second at Grudge Match V with Delver of Secrets"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "BUG Fish",
+      "Bant Fish",
+      "Fish",
+      "Noble Fish"
+    ],
+    "rep": 217539,
+    "cover": "Noble Hierarch",
+    "keyCards": [
+      "Noble Hierarch",
+      "Snapcaster Mage",
+      "Jace, the Mind Sculptor",
+      "Qasali Pridemage",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo à créatures : Noble Hierarch, Qasali Pridemage et Trygon Predator contre les artefacts, Tarmogoyf ou Snapcaster Mage, Force of Will pour protéger.",
+      "en": "Creature tempo: Noble Hierarch, Qasali Pridemage and Trygon Predator against artifacts, Tarmogoyf or Snapcaster Mage, Force of Will to protect."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à la Grudge Match V de New York",
+        "Top 8 au Bazaar of Moxen 6 et au D-Day V"
+      ],
+      "en": [
+        "Top four at the New York Grudge Match V",
+        "Top eights at Bazaar of Moxen 6 and D-Day V"
+      ]
+    }
+  },
+  {
+    "name": "Bomberman",
+    "slug": "bomberman",
+    "archetype": "combo",
+    "titles": [
+      "Bomberman",
+      "Bomberman Jack Drain's",
+      "Salvagers Combo"
+    ],
+    "rep": 218955,
+    "cover": "Auriok Salvagers",
+    "keyCards": [
+      "Auriok Salvagers",
+      "Trinket Mage",
+      "Dark Confidant",
+      "Mana Drain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Auriok Salvagers rejouait sans fin Black Lotus pour un mana infini, Trinket Mage allait chercher les artefacts.",
+      "en": "Auriok Salvagers recast Black Lotus endlessly for infinite mana, and Trinket Mage fetched the artifacts."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Vintage Championship de la GenCon 2012",
+        "Top 4 au Bazaar of Moxen 6"
+      ],
+      "en": [
+        "Top four at the GenCon 2012 Vintage Championship",
+        "Top four at Bazaar of Moxen 6"
+      ]
+    }
+  }
+]

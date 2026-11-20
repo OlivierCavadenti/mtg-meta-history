@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Stax",
+    "slug": "stax",
+    "archetype": "control",
+    "titles": [
+      "Stax",
+      "Stax III",
+      "MUD",
+      "MUD w/ Ub",
+      "Shop",
+      "Black Stax",
+      "The Daniel Staxx",
+      "Painters MUD",
+      "Dark Stacker"
+    ],
+    "rep": 101759,
+    "cover": "Smokestack",
+    "keyCards": [
+      "Smokestack",
+      "Tangle Wire",
+      "Chalice of the Void",
+      "Sphere of Resistance",
+      "Crucible of Worlds",
+      "Black Vise"
+    ],
+    "summary": {
+      "fr": "Prison à Mishra's Workshop : Chalice of the Void, Sphere of Resistance et Tangle Wire étouffaient l'adversaire, Smokestack et Crucible of Worlds achevaient le verrou.",
+      "en": "Mishra's Workshop prison: Chalice of the Void, Sphere of Resistance and Tangle Wire choked the opponent, and Smokestack with Crucible of Worlds completed the lock."
+    },
+    "why": {
+      "fr": [
+        "Victoire au Magic Club de Mol avec une version bleu-noir",
+        "Top 8 en Espagne, aux Pays-Bas et à SCG Richmond"
+      ],
+      "en": [
+        "Won at the Magic Club in Mol with a blue-black version",
+        "Top eights in Spain, the Netherlands and at SCG Richmond"
+      ]
+    }
+  },
+  {
+    "name": "Workshop Aggro",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "AggroMUD",
+      "Aggro Shop",
+      "Thorn",
+      "Stacker",
+      "Harassment.dec",
+      "MonoRed WshopAggro"
+    ],
+    "rep": 107007,
+    "cover": "Juggernaut",
+    "keyCards": [
+      "Juggernaut",
+      "Thorn of Amethyst",
+      "Tangle Wire",
+      "Sword of Fire and Ice",
+      "Triskelion",
+      "Goblin Welder"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop accélérait Juggernaut, Karn et Triskelion, Thorn of Amethyst et Tangle Wire ralentissaient les sorts adverses.",
+      "en": "Mishra's Workshop powered out Juggernaut, Karn and Triskelion, while Thorn of Amethyst and Tangle Wire slowed opposing spells."
+    },
+    "why": {
+      "fr": [
+        "Victoires à l'Eternal Legend de Clichy et à Alicante",
+        "Deuxième au Bazaar of Moxen 1"
+      ],
+      "en": [
+        "Won Eternal Legend in Clichy and in Alicante",
+        "Second at Bazaar of Moxen 1"
+      ]
+    }
+  },
+  {
+    "name": "Gush",
+    "slug": "gush",
+    "archetype": "tempo",
+    "titles": [
+      "Gat",
+      "GaT",
+      "GroATog",
+      "GaT VII",
+      "Gush a Tog",
+      "Togless GaT",
+      "Gush Control",
+      "Gush Combo",
+      "Gush Tinker",
+      "Painter Gush ETW",
+      "MS Paint"
+    ],
+    "rep": 119134,
+    "cover": "Gush",
+    "keyCards": [
+      "Gush",
+      "Merchant Scroll",
+      "Brainstorm",
+      "Thoughtseize",
+      "Mana Drain",
+      "Dark Confidant"
+    ],
+    "summary": {
+      "fr": "Gush, débloqué en 2007, rendait deux Islands pour piocher deux cartes gratuitement ; Merchant Scroll allait le chercher, Quirion Dryad ou Psychatog en profitaient.",
+      "en": "Gush, unrestricted in 2007, returned two Islands to draw two cards for free; Merchant Scroll fetched it, and Quirion Dryad or Psychatog took advantage."
+    },
+    "why": {
+      "fr": [
+        "Victoires aux SCG P9 de Waterbury et de Richmond, et au Bazaar of Moxen 1",
+        "Gush, Brainstorm, Ponder et Merchant Scroll ont été restreints en juin 2008"
+      ],
+      "en": [
+        "Won the SCG P9 events in Waterbury and Richmond, and Bazaar of Moxen 1",
+        "Gush, Brainstorm, Ponder and Merchant Scroll were restricted in June 2008"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "TPS",
+      "Grim Long",
+      "Long II",
+      "Pitch Long II",
+      "Long Confidant",
+      "TPS 4.2",
+      "Flash Tendrils",
+      "Flash Rector"
+    ],
+    "rep": 101894,
+    "cover": "Dark Ritual",
+    "keyCards": [
+      "Dark Ritual",
+      "Brainstorm",
+      "Duress",
+      "Tinker",
+      "Gifts Ungiven",
+      "Street Wraith"
+    ],
+    "summary": {
+      "fr": "Combo storm à Dark Ritual et aux Moxen : Gifts Ungiven, Tinker ou les tuteurs restreints trouvaient Yawgmoth's Will et Tendrils of Agony.",
+      "en": "Storm combo with Dark Ritual and the Moxen: Gifts Ungiven, Tinker or the restricted tutors found Yawgmoth's Will and Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Une version à Flash et Academy Rector a gagné à Utrecht",
+        "Deuxième au Bazaar of Moxen 2 et à Utrecht"
+      ],
+      "en": [
+        "A Flash and Academy Rector version won in Utrecht",
+        "Second at Bazaar of Moxen 2 and in Utrecht"
+      ]
+    }
+  },
+  {
+    "name": "Flash",
+    "slug": "flash",
+    "archetype": "combo",
+    "titles": [
+      "Flash",
+      "Flash Unpow",
+      "Reveillark Flash"
+    ],
+    "rep": 106768,
+    "cover": "Protean Hulk",
+    "keyCards": [
+      "Protean Hulk",
+      "Flash",
+      "Summoner's Pact",
+      "Pact of Negation",
+      "Merchant Scroll",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Flash mettait Protean Hulk en jeu pour deux manas ; sacrifié aussitôt, il allait chercher des créatures qui gagnaient sur-le-champ.",
+      "en": "Flash put Protean Hulk into play for two mana; sacrificed at once, it fetched creatures that won on the spot."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au SCG P9 de Richmond en version Reveillark",
+        "Flash a été restreint en juin 2008"
+      ],
+      "en": [
+        "Top four at SCG P9 Richmond with a Reveillark version",
+        "Flash was restricted in June 2008"
+      ]
+    }
+  },
+  {
+    "name": "Bomberman",
+    "slug": "bomberman",
+    "archetype": "combo",
+    "titles": [
+      "Bomberman"
+    ],
+    "rep": 101757,
+    "cover": "Auriok Salvagers",
+    "keyCards": [
+      "Auriok Salvagers",
+      "Thirst for Knowledge",
+      "Trinket Mage",
+      "Aven Mindcensor",
+      "Mana Drain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Auriok Salvagers rejouait sans fin Black Lotus pour un mana infini, Trinket Mage allait chercher les artefacts.",
+      "en": "Auriok Salvagers recast Black Lotus endlessly for infinite mana, and Trinket Mage fetched the artifacts."
+    },
+    "why": {
+      "fr": [
+        "Miguel Alcoriza a gagné la ligue catalane de Vintage à Barcelone",
+        "Deuxième à la LCV IX"
+      ],
+      "en": [
+        "Miguel Alcoriza won the Catalan Vintage League event in Barcelona",
+        "Second at LCV IX"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Ichorid"
+    ],
+    "rep": 101895,
+    "cover": "Ichorid",
+    "keyCards": [
+      "Ichorid",
+      "Stinkweed Imp",
+      "Narcomoeba",
+      "Street Wraith",
+      "Chalice of the Void",
+      "Leyline of the Void"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait : Ichorid, Narcomoeba et Stinkweed Imp jouaient depuis le cimetière, Chalice of the Void sur zéro coupait les Moxen.",
+      "en": "Bazaar of Baghdad drew and discarded: Ichorid, Narcomoeba and Stinkweed Imp played from the graveyard, and Chalice of the Void on zero shut off the Moxen."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à Utrecht et à l'Eternal Legend de Clichy",
+        "Leyline of the Void en main de départ contre les autres decks de cimetière"
+      ],
+      "en": [
+        "Top four in Utrecht and at Eternal Legend in Clichy",
+        "Leyline of the Void from the opening hand against other graveyard decks"
+      ]
+    }
+  },
+  {
+    "name": "Drain Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "Mind Twist Control",
+      "Jedi Mind Twist",
+      "Slaver",
+      "Control Slaver",
+      "Dark Gifts",
+      "ki.merchant"
+    ],
+    "rep": 101708,
+    "cover": "Mana Drain",
+    "keyCards": [
+      "Mana Drain",
+      "Dark Confidant",
+      "Mind Twist",
+      "Duress",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir à Mana Drain : Duress et Mind Twist vidaient la main adverse, Dark Confidant piochait ; la version Slaver finissait par Mindslaver.",
+      "en": "Blue-black Mana Drain control: Duress and Mind Twist emptied the opponent's hand and Dark Confidant drew cards; the Slaver version finished with Mindslaver."
+    },
+    "why": {
+      "fr": [
+        "Victoires à la ligue catalane de Badalone et au Bazaar of Moxen 2",
+        "Goblin Welder ramenait Mindslaver dans la version Control Slaver"
+      ],
+      "en": [
+        "Won the Catalan League event in Badalona and Bazaar of Moxen 2",
+        "Goblin Welder brought back Mindslaver in the Control Slaver version"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "U/W Fish",
+      "UW Fish",
+      "UW Fish II",
+      "Mono U Fish II",
+      "UR Fish",
+      "Fish",
+      "SS"
+    ],
+    "rep": 103339,
+    "cover": "Meddling Mage",
+    "keyCards": [
+      "Meddling Mage",
+      "Ninja of the Deep Hours",
+      "Null Rod",
+      "Stormscape Apprentice",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu à petites créatures : Null Rod coupait les Moxen et les artefacts adverses, Meddling Mage bloquait un sort, Ninja of the Deep Hours piochait.",
+      "en": "Blue tempo with small creatures: Null Rod shut off opposing Moxen and artifacts, Meddling Mage named a spell and Ninja of the Deep Hours drew cards."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la LCV IX en version blanc-bleu",
+        "Top 8 en Espagne, en France et au Bazaar of Moxen 2"
+      ],
+      "en": [
+        "Second at LCV IX with a white-blue version",
+        "Top eights in Spain, France and at Bazaar of Moxen 2"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath",
+      "Tidespout Oath"
+    ],
+    "rep": 101711,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Chalice of the Void",
+      "Thirst for Knowledge",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Oath of Druids mettait en jeu une grosse créature dès que l'adversaire en avait une, dans un deck qui n'en contenait presque pas d'autres.",
+      "en": "Oath of Druids put a big creature into play whenever the opponent had a creature, in a deck with almost no other creatures."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à la ligue catalane de Badalone",
+        "Top 8 au SCG P9 de Richmond avec Tidespout Tyrant"
+      ],
+      "en": [
+        "Top four at the Catalan League event in Badalona",
+        "Top eight at SCG P9 Richmond with Tidespout Tyrant"
+      ]
+    }
+  },
+  {
+    "name": "Mask",
+    "slug": "mask",
+    "archetype": "combo",
+    "titles": [
+      "U/B Mask",
+      "SS Nought",
+      "TK Deeznought"
+    ],
+    "rep": 113885,
+    "cover": "Phyrexian Dreadnought",
+    "keyCards": [
+      "Phyrexian Dreadnought",
+      "Illusionary Mask",
+      "Stifle",
+      "Dark Confidant",
+      "Duress",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Stifle ou Illusionary Mask évitaient le sacrifice de Phyrexian Dreadnought, une 12/12 pour un mana, avec Dark Confidant et Duress.",
+      "en": "Stifle or Illusionary Mask avoided Phyrexian Dreadnought's sacrifice, leaving a 12/12 for one mana, with Dark Confidant and Duress."
+    },
+    "why": {
+      "fr": [
+        "Deuxième et top 4 à Alicante",
+        "Top 8 au Magic Club de Mol"
+      ],
+      "en": [
+        "Second and top four in Alicante",
+        "Top eight at the Magic Club in Mol"
+      ]
+    }
+  }
+]
