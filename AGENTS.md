@@ -4,8 +4,10 @@ The site lists every archetype that performed in a format, season by season, eac
 decklist. Content is produced by a small pipeline (`scripts/pipeline/`, Python 3 stdlib) plus an
 editorial pass that a human or an agent performs per season.
 
-Work files (scraped results, cached decklists, Scryfall bulk index) go to `.pipeline/`
-(git-ignored). Override with `MTG_PIPELINE_WORK=/some/dir`.
+Scraped results are committed in `data-src/{format}/results.json`. Work files (candidates, cached
+decklists, Scryfall bulk and printings index) go to `.pipeline/` (git-ignored); override the
+per-format work dir with `MTG_PIPELINE_WORK=/some/dir`. To add new tournaments to a published
+format, follow `UPDATING.md` (weekly incremental update).
 
 ## 1. Scrape tournament results
 
@@ -14,7 +16,8 @@ python3 scripts/pipeline/scrape_search.py 1994 2026
 ```
 
 Queries mtgtop8's search for Standard decks at Professional + Major events per year (+ Competitive
-up to 2004, where data is sparse) → `.pipeline/search.json`.
+up to 2004, where data is sparse) → `data-src/standard/results.json`. Years already scraped are
+skipped; `--refresh` scrapes them again.
 
 ## 2. Group by season
 
@@ -81,7 +84,8 @@ python3 scripts/pipeline/check_editorial.py 2005-rav                     # valid
 ## 4. Card data and build
 
 ```bash
-python3 scripts/pipeline/prints.py      # needs .pipeline/default.jsonl.gz (Scryfall "default_cards" bulk)
+python3 scripts/pipeline/fetch_scryfall.py   # Scryfall "default_cards" bulk → .pipeline/default.jsonl.gz
+python3 scripts/pipeline/prints.py           # → .pipeline/prints.json, shared by every format
 python3 scripts/pipeline/build.py
 npm run validate:content && npm run typecheck
 ```
@@ -95,9 +99,10 @@ first appears, so a 1997 deck shows 1997 frames.
 Every script reads `MTG_FORMAT` (default `standard`). Each format has its own seasons file
 (`scripts/pipeline/seasons.json` for Standard, `seasons.{format}.json` otherwise), editorial layer
 (`data-src/{format}/`), output (`src/data/{format}/`) and work dir (`.pipeline/{format}`).
-The Scryfall printings index is shared: point `MTG_PRINTS` at one `prints.json`.
-`MTG_COMPETITIVE_YEARS=2011,2012` adds Competitive-level events for years where Professional and
-Major coverage is thin (used for Modern 2011-2013 and 2020-2021).
+The Scryfall printings index is shared (`.pipeline/prints.json`, or `MTG_PRINTS`).
+Competitive-level events are added for years where Professional and Major coverage is thin:
+`COMPETITIVE_YEARS` in `common.py` (Modern 2011-2013 and 2020-2021, Premodern 2020-2024);
+`MTG_COMPETITIVE_YEARS=2011,2012` overrides it.
 
 ## Adding another format
 

@@ -40,12 +40,16 @@ npm run validate:content  # validate generated deck data
 
 ## Data pipeline (summary)
 
-1. `scrape_search.py` — mtgtop8 results (Professional + Major events) per year
+1. `scrape_search.py` — mtgtop8 results (Professional + Major events) per year → `data-src/{format}/results.json` (`--refresh` to re-scrape)
 2. `cluster.py` — group results by season and mtgtop8 deck title → `candidates/`
 3. editorial pass (human or agent) → `data-src/standard/editorial/{season}.json`
    (`deckinfo.py` to inspect a merged archetype, `check_editorial.py` to validate)
 4. `prints.py` — Scryfall bulk data → printings index (era-appropriate art)
 5. `build.py` — merges everything into `src/data/standard/`
+
+Weekly incremental update (new tournaments, new decks, new seasons, bans): `UPDATING.md`,
+`bash scripts/pipeline/weekly.sh refresh|build`. Scraped results are committed in
+`data-src/{format}/results.json`.
 
 Stats shown on the site (top 8s, wins, share of top 8s) are computed from the scraped mtgtop8
 results only. Never type numbers by hand.

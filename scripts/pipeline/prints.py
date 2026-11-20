@@ -1,7 +1,7 @@
-"""Scryfall default_cards bulk (WORK/default.jsonl.gz) -> WORK/prints.json (printings per card name)"""
+"""Scryfall default_cards bulk (.pipeline/default.jsonl.gz, fetch_scryfall.py) -> .pipeline/prints.json (printings per card name)"""
 import gzip, json, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import work, PRINTS
+from common import PRINTS, SCRYFALL_BULK
 
 # Universes Beyond sets (crossover licences). Recent ones no longer carry Scryfall's "triangle"
 # security stamp, so they are listed explicitly; promo / token / commander companions included.
@@ -16,7 +16,7 @@ def is_ub(c):
     base = s[1:] if len(s) == 4 and s[0] in 'pt' else s
     return c.get('security_stamp') == 'triangle' or s in UB_SETS or base in UB_SETS
 out = {}
-for line in gzip.open(work('default.jsonl.gz'), 'rt'):
+for line in gzip.open(SCRYFALL_BULK, "rt"):
     line = line.strip().rstrip(',')
     if not line.startswith('{'): continue
     c = json.loads(line)

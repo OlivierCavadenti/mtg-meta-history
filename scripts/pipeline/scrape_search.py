@@ -1,9 +1,14 @@
-"""Usage: python3 scripts/pipeline/scrape_search.py FIRST_YEAR LAST_YEAR"""
+"""Usage: python3 scripts/pipeline/scrape_search.py FIRST_YEAR LAST_YEAR [--refresh]
+
+Scrapes mtgtop8 results into data-src/{format}/results.json. Years already scraped are skipped,
+unless --refresh: then they are scraped again (new events, late additions) and replaced.
+"""
 import re, sys, json, time, urllib.request, urllib.parse, html, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from common import work, UA, FORMAT, FORMAT_CODE
-OUT = work('search.json')
-years = range(int(sys.argv[1]), int(sys.argv[2]) + 1)
+from common import UA, FORMAT, FORMAT_CODE, COMPETITIVE_YEARS, load_results, save_results
+args = [a for a in sys.argv[1:] if not a.startswith('--')]
+refresh = '--refresh' in sys.argv
+years = range(int(args[0]), int(args[1]) + 1)
 def fetch(page, y, levels):
     data = {'current_page': str(page), 'format': FORMAT_CODE, 'date_start': f'01/01/{y}', 'date_end': f'31/12/{y}'}
     for l in levels: data[f'compet_check[{l}]'] = '1'
@@ -15,13 +20,12 @@ def fetch(page, y, levels):
             time.sleep(2 * (attempt + 1))
     raise RuntimeError('fail')
 row_re = re.compile(r'<tr class=hover_tr>(.*?)</tr>', re.S)
-results = json.load(open(OUT)) if os.path.exists(OUT) else {}
+results = load_results()
 for y in years:
-    if str(y) in results: continue
+    if str(y) in results and not refresh: continue
     # Competitive-level events are added where P+M coverage is thin: early Standard, and the
-    # years listed in MTG_COMPETITIVE_YEARS (e.g. Modern's first years and the 2020-21 online era)
-    extra = {int(v) for v in os.environ.get('MTG_COMPETITIVE_YEARS', '').split(',') if v}
-    levels = ['P', 'M', 'C'] if ((FORMAT == 'standard' and y <= 2004) or y in extra) else ['P', 'M']
+    # years in common.COMPETITIVE_YEARS (Modern's first years, the 2020-21 online era…)
+    levels = ['P', 'M', 'C'] if ((FORMAT == 'standard' and y <= 2004) or y in COMPETITIVE_YEARS) else ['P', 'M']
     rows = []
     page = 1
     while True:
@@ -42,6 +46,12 @@ for y in years:
         if len(found) == 0 or f'PageSubmit({page+1})' not in h: break
         page += 1
         time.sleep(0.25)
+    old = results.get(str(y), [])
+    if len(rows) < 0.9 * len(old):
+        # a partial answer from the site must not erase results: keep the previous scrape
+        print(f'{y}: only {len(rows)} results against {len(old)} before, kept the previous scrape', flush=True)
+        continue
+    known = {r['d'] for r in old}
     results[str(y)] = rows
-    print(y, len(rows), flush=True)
-    json.dump(results, open(OUT, 'w'))
+    print(y, len(rows), f'(+{sum(1 for r in rows if r["d"] not in known)} new)' if old else '', flush=True)
+    save_results(results)

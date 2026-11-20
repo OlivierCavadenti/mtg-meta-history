@@ -11,8 +11,19 @@ WORK = os.environ.get('MTG_PIPELINE_WORK', os.path.join(REPO, '.pipeline', FORMA
 SRC = os.path.join(REPO, 'data-src', FORMAT)
 EDITORIAL = os.environ.get('MTG_EDITORIAL', os.path.join(SRC, 'editorial'))
 OUT_DIR = os.path.join(REPO, 'src', 'data', FORMAT)
-# Scryfall printings index is shared by every format (built once by prints.py)
-PRINTS = os.environ.get('MTG_PRINTS', os.path.join(WORK, 'prints.json'))
+# Scraped mtgtop8 results, committed so a fresh checkout can rebuild and refresh incrementally
+RESULTS = os.path.join(SRC, 'results.json')
+# Scryfall printings index and bulk file are shared by every format (fetch_scryfall.py, prints.py)
+PRINTS = os.environ.get('MTG_PRINTS', os.path.join(REPO, '.pipeline', 'prints.json'))
+SCRYFALL_BULK = os.path.join(os.path.dirname(PRINTS), 'default.jsonl.gz')
+# Years where Competitive-level events are scraped too, because Professional + Major coverage is
+# thin (MTG_COMPETITIVE_YEARS=2011,2012 overrides). Standard: every year up to 2004.
+COMPETITIVE_YEARS = {
+    'modern': {2011, 2012, 2013, 2020, 2021},
+    'premodern': {2020, 2021, 2022, 2023, 2024},
+}.get(FORMAT, set())
+if os.environ.get('MTG_COMPETITIVE_YEARS'):
+    COMPETITIVE_YEARS = {int(v) for v in os.environ['MTG_COMPETITIVE_YEARS'].split(',') if v}
 UA = {'User-Agent': 'Mozilla/5.0 (mtg-meta-history archive script)'}
 TOP8 = {'1', '2', '3', '4', '3-4', '5', '6', '7', '8', '5-8'}
 SEASONS = json.load(open(os.path.join(HERE, 'seasons.json' if FORMAT == 'standard' else f'seasons.{FORMAT}.json')))
@@ -98,10 +109,26 @@ def _pseudo_ranked(rs, name):
     return c['1'] > 1 or c['2'] > 3
 
 
+def load_results():
+    return json.load(open(RESULTS)) if os.path.exists(RESULTS) else {}
+
+
+def save_results(d):
+    """One result per line, years in order: weekly refreshes give small, readable diffs."""
+    with open(RESULTS, 'w') as f:
+        f.write('{\n')
+        years = sorted(d)
+        for i, y in enumerate(years):
+            f.write(f'{json.dumps(y)}: [\n')
+            f.write(',\n'.join(json.dumps(r, ensure_ascii=False, sort_keys=True) for r in d[y]))
+            f.write('\n]' + (',' if i < len(years) - 1 else '') + '\n')
+        f.write('}\n')
+
+
 def rows():
     global _rows
     if _rows is None:
-        d = json.load(open(work('search.json')))
+        d = load_results()
         out = []
         for rs in d.values():
             for r in rs:
@@ -163,6 +190,24 @@ def deck_url(r):
     return f"https://www.mtgtop8.com/event?e={r['e']}&d={r['d']}&f={FORMAT_CODE}"
 
 
+_published = None
+
+
+def published_lists():
+    """Decklists already in the generated site data, by mtgtop8 deck id: a fresh checkout rebuilds
+    without downloading again every list it already shows."""
+    global _published
+    if _published is None:
+        _published = {}
+        folder = os.path.join(OUT_DIR, 'decks')
+        for f in sorted(os.listdir(folder)) if os.path.isdir(folder) else []:
+            for d in json.load(open(os.path.join(folder, f)))['decks']:
+                m = re.search(r'mtgtop8\.com/event\?e=\d+&d=(\d+)', d['list'].get('url', ''))
+                if m:
+                    _published[m.group(1)] = (d['list']['main'], d['list']['side'])
+    return _published
+
+
 def get_list(deck_id):
     if isinstance(deck_id, str) and deck_id.startswith('x-'):
         if not _extra_lists:
@@ -170,6 +215,9 @@ def get_list(deck_id):
         return _extra_lists.get(deck_id, ([], []))
     os.makedirs(work('lists'), exist_ok=True)
     p = work('lists', f'{deck_id}.txt')
+    if not os.path.exists(p) and str(deck_id) in published_lists():
+        main, side = published_lists()[str(deck_id)]
+        return [list(x) for x in main], [list(x) for x in side]
     if not os.path.exists(p):
         req = urllib.request.Request(f'https://www.mtgtop8.com/mtgo?d={deck_id}', headers=UA)
         for a in range(4):
