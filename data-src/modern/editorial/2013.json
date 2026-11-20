@@ -79,7 +79,7 @@
   },
   {
     "name": "UWR Midrange",
-    "slug": "uwr-midrange",
+    "slug": "jeskai-midrange",
     "archetype": "midrange",
     "titles": ["UWr Midrange"],
     "rep": 224725,
@@ -105,7 +105,7 @@
   },
   {
     "name": "UWR Control",
-    "slug": "uwr-control",
+    "slug": "jeskai-control",
     "archetype": "control",
     "titles": ["UWR Control", "UWr Control"],
     "include": [231110, 226373, 230542, 234370],
@@ -409,7 +409,7 @@
   },
   {
     "name": "Junk",
-    "slug": "junk",
+    "slug": "abzan",
     "archetype": "midrange",
     "titles": ["Junk", "Doran & Junk", "Junky Doran"],
     "exclude": [231116],
@@ -436,7 +436,7 @@
   },
   {
     "name": "The Rock",
-    "slug": "the-rock",
+    "slug": "golgari-rock",
     "archetype": "midrange",
     "titles": ["The Rock", "Rock"],
     "rep": 231113,

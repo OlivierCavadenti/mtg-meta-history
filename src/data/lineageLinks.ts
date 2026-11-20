@@ -9,6 +9,12 @@ export const SUCCESSORS: Partial<Record<FormatId, Record<string, string>>> = {
     // After Modern Horizons 3 (June 2024) the Urza-lands deck adopts Eldrazi Temple and Ugin's
     // Labyrinth; coverage and mtgtop8 then file it as Eldrazi Tron.
     tron: 'eldrazi-tron',
+    // Birthing Pod is banned in January 2015: the creature-chain decks move to Chord of Calling
+    // (Kiki Chord) and to Collected Company (Abzan Company)
+    'kiki-pod': 'kiki-chord',
+    'melira-pod': 'abzan-company',
+    // Abzan Company's toolbox turns into Heliod, Sun-Crowned + Walking Ballista (2020)
+    'abzan-company': 'heliod-company',
   },
 }
 
