@@ -58,12 +58,12 @@
     },
     "why": {
       "en": [
-        "Polukranos Reborn, from Phyrexia: All Will Be One, added a threat that could also kill creatures",
+        "Polukranos Reborn, from Phyrexia: All Will Be One, added three devotion and a large body with reach",
         "Won the F2F Tour Championship in Edmonton",
         "Karn, the Great Creator was banned on December 4, 2023"
       ],
       "fr": [
-        "Polukranos Reborn, venu de Phyrexia: All Will Be One, ajoutait une menace capable de tuer des créatures",
+        "Polukranos Reborn, venu de Phyrexia: All Will Be One, ajoutait trois de dévotion et un gros corps à portée",
         "A remporté le F2F Tour Championship d'Edmonton",
         "Karn, the Great Creator a été banni le 4 décembre 2023"
       ]
@@ -206,7 +206,7 @@
       "en": [
         "Picklock Prankster, from Wilds of Eldraine, filled the graveyard with its adventure Free the Fae",
         "Lightning Axe and Fiery Impulse handled aggressive creatures",
-        "Won the U.S. Regional Championship in Atlanta and the F2F Tour Championship in Toronto in November"
+        "Won the U.S. Regional Championship in Atlanta and the F2F Tour Championship in Toronto"
       ],
       "fr": [
         "Picklock Prankster, venu de Wilds of Eldraine, remplissait le cimetière avec son aventure Free the Fae",
@@ -217,8 +217,8 @@
     "rep": 572948
   },
   {
-    "name": "Lotus Field",
-    "slug": "lotus-field",
+    "name": "Lotus Field Combo",
+    "slug": "lotus-field-combo",
     "archetype": "combo",
     "titles": [
       "Lotus Field"
@@ -457,7 +457,7 @@
   },
   {
     "name": "Enigmatic Fires",
-    "slug": "enigmatic-fires",
+    "slug": "enigmatic-incarnation",
     "archetype": "midrange",
     "titles": [
       "Enigmatic Fire",
@@ -491,7 +491,7 @@
   },
   {
     "name": "Gruul Vehicles",
-    "slug": "gruul-vehicles",
+    "slug": "gruul-aggro",
     "archetype": "aggro",
     "titles": [
       "Gruul Aggro",
@@ -511,12 +511,12 @@
     },
     "why": {
       "en": [
-        "The Akroan War stole the best opposing creature, then made the others fight",
+        "The Akroan War stole the best opposing creature for the length of the saga",
         "Mutavault and Lair of the Hydra kept the pressure up after a sweeper",
         "Finalist at the U.S. Regional Championship in Dallas and the ANZ Regional Championship"
       ],
       "fr": [
-        "The Akroan War volait la meilleure créature adverse puis forçait les autres à se battre",
+        "The Akroan War volait la meilleure créature adverse le temps de la saga",
         "Mutavault et Lair of the Hydra maintenaient la pression après un balai",
         "Finaliste du Regional Championship américain de Dallas et du Regional Championship de l'ANZ"
       ]
@@ -534,7 +534,7 @@
   },
   {
     "name": "Izzet Creativity",
-    "slug": "izzet-creativity",
+    "slug": "indomitable-creativity",
     "archetype": "combo",
     "titles": [
       "Creativity"
@@ -572,8 +572,8 @@
     ]
   },
   {
-    "name": "Rona Combo",
-    "slug": "rona-combo",
+    "name": "Retraction Helix",
+    "slug": "retraction-helix",
     "archetype": "combo",
     "titles": [
       "Retraction Helix"
@@ -632,12 +632,12 @@
     "why": {
       "en": [
         "Atraxa, Grand Unifier, from Phyrexia: All Will Be One, refilled the hand on arrival",
-        "Founding the Third Path, from the same set, recast cheap spells from the graveyard",
+        "Founding the Third Path, from the same set, gave another way to use spells from the graveyard",
         "Top 4 at the F2F Tour Championship in Edmonton"
       ],
       "fr": [
         "Atraxa, Grand Unifier, venue de Phyrexia: All Will Be One, remplissait la main en arrivant",
-        "Founding the Third Path, du même bloc, relançait des sorts bon marché depuis le cimetière",
+        "Founding the Third Path, de la même extension, offrait un autre moyen d'exploiter les sorts du cimetière",
         "Top 4 du F2F Tour Championship d'Edmonton"
       ]
     },
@@ -782,7 +782,7 @@
   },
   {
     "name": "Selesnya Auras",
-    "slug": "selesnya-auras",
+    "slug": "auras",
     "archetype": "aggro",
     "titles": [
       "Auras"
@@ -816,7 +816,7 @@
   },
   {
     "name": "Four-Color Omnath",
-    "slug": "four-color-omnath",
+    "slug": "omnath-ramp",
     "archetype": "midrange",
     "titles": [
       "Bring to Omnath",

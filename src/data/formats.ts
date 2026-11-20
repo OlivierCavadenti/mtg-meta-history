@@ -9,7 +9,7 @@ export type FormatDef = {
 
 export const FORMATS: FormatDef[] = [
   { id: 'standard', label: 'Standard', ready: true },
-  { id: 'pioneer', label: 'Pioneer', ready: false },
+  { id: 'pioneer', label: 'Pioneer', ready: true },
   { id: 'modern', label: 'Modern', ready: true },
   { id: 'legacy', label: 'Legacy', ready: false },
   { id: 'vintage', label: 'Vintage', ready: false },

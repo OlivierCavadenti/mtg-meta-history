@@ -102,7 +102,7 @@ const jumps = computed(() =>
     const year = s.start.slice(0, 4)
     const title = seasonYears(s.start, s.end)
     const clash = all.some((o) => o.id !== s.id && o.start.slice(0, 4) === year)
-    return { id: s.id, label: clash || s.start.endsWith('-01-01') ? title : year, title }
+    return { id: s.id, label: clash || s.start.endsWith('-01-01') || s.end?.endsWith('-01-01') ? title : year, title }
   }),
 )
 const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.length, 0))
