@@ -21,6 +21,7 @@ SCRYFALL_BULK = os.path.join(os.path.dirname(PRINTS), 'default.jsonl.gz')
 COMPETITIVE_YEARS = {
     'modern': {2011, 2012, 2013, 2020, 2021},
     'premodern': {2020, 2021, 2022, 2023, 2024},
+    'pioneer': {2019, 2020, 2021, 2025, 2026},
 }.get(FORMAT, set())
 if os.environ.get('MTG_COMPETITIVE_YEARS'):
     COMPETITIVE_YEARS = {int(v) for v in os.environ['MTG_COMPETITIVE_YEARS'].split(',') if v}
@@ -115,6 +116,7 @@ def load_results():
 
 def save_results(d):
     """One result per line, years in order: weekly refreshes give small, readable diffs."""
+    os.makedirs(os.path.dirname(RESULTS), exist_ok=True)
     with open(RESULTS, 'w') as f:
         f.write('{\n')
         years = sorted(d)

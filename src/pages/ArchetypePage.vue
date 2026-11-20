@@ -119,7 +119,10 @@ watchEffect(() => {
           <span class="step-fill" :style="{ height: (e.deck.stats.share / maxShare) * 100 + '%' }"></span>
         </span>
         <span class="step-stats">
-          <template v-if="e.deck.limited">
+          <template v-if="e.deck.sources">
+            <span class="step-sub">{{ t('designArchetype') }}</span>
+          </template>
+          <template v-else-if="e.deck.limited">
             {{ formatNumber(e.deck.limited.winRate) }} %<br />
             <span class="step-sub">{{ formatNumber(e.deck.stats.share) }} % {{ t('ofGames') }}</span>
           </template>

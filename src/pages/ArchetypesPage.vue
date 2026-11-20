@@ -51,7 +51,8 @@ const multi = computed(() => all.value.filter((l) => l.entries.length > 1).lengt
 
 /** for the lifeline: share of top 8s in each season of the format (0 when absent) */
 function life(l: Lineage): { id: string; share: number; label: string }[] {
-  const by = new Map(l.entries.map((e) => [e.season.id, e.deck.stats.share]))
+  // a design archetype (Limited before 17Lands data) has no share: drawn at the lightest level
+  const by = new Map(l.entries.map((e) => [e.season.id, e.deck.sources ? -1 : e.deck.stats.share]))
   return seasons.value.map((s) => ({ id: s.id, share: by.get(s.id) ?? 0, label: s.code ? s.set : seasonYears(s.start, s.end) }))
 }
 const maxShare = computed(() => Math.max(1, ...all.value.flatMap((l) => l.entries.map((e) => e.deck.stats.share))))
@@ -103,8 +104,8 @@ const spanOf = (l: Lineage) => {
               v-for="c in life(l)"
               :key="c.id"
               class="tick"
-              :class="{ on: c.share > 0 }"
-              :style="c.share > 0 ? { '--level': 0.25 + 0.75 * Math.min(1, c.share / maxShare) } : undefined"
+              :class="{ on: c.share > 0 || c.share === -1 }"
+              :style="c.share > 0 ? { '--level': 0.25 + 0.75 * Math.min(1, c.share / maxShare) } : c.share === -1 ? { '--level': 0.2 } : undefined"
               :title="c.share > 0 ? `${c.label}: ${c.share} %` : c.label"
             ></span>
           </span>

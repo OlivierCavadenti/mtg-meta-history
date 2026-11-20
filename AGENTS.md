@@ -141,3 +141,19 @@ python3 scripts/pipeline/limited/build_limited.py          # → src/data/limite
   (in the 7-win deck). Same writing rules; never write a percentage (the site prints them).
 - 17Lands asks third-party sites to wait 12 days after a set's Arena release before showing its
   data; the public dumps come out later than that.
+
+### Limited before 17Lands (2011–2020)
+
+Sets from Innistrad to Zendikar Rising (`scripts/pipeline/seasons.limited-history.json`) have no
+public game data. Their editorial entries describe the design archetypes: same fields plus
+`sources` (1–3 https URLs actually read: Scryfall signposts, mtg.wiki, Wizards articles, free
+strategy articles) and an optional `tier` (1 only when a source ranks it among the best, 3 when a
+source calls it weak). No decklist, no numbers; `build_limited.py --check {set}` validates them.
+
+## Pioneer
+
+`MTG_FORMAT=pioneer`, seasons in `scripts/pipeline/seasons.pioneer.json` (season "2020" starts on
+2019-10-21, the format's announcement), bans in `src/data/pioneer/seasons.ts`. Competitive-level
+events are scraped for 2019–2021 and 2025–2026, when Professional and Major events were rare.
+Inclusion: top 8 ≥ 5, or a win at a Pro Tour / Players Tour / World / Regional / Arena
+Championship / Grand Prix, or a top 4 at a Pro Tour or Worlds.

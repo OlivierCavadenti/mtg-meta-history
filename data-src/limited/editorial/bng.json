@@ -1,0 +1,345 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures héroïques bon marché portées par auras et bestow, sorts tempo bleus pour écarter les bloqueurs. Draft Born of the Gods puis deux boosters Theros.",
+      "en": "Cheap heroic creatures carried by auras and bestow, with blue tempo spells to clear blockers. Drafted Born of the Gods, then two packs of Theros."
+    },
+    "why": {
+      "fr": [
+        "Classé deuxième par StarCityGames, prétendant sérieux au titre de meilleur deck quand tout s'assemble",
+        "Ephara's Enlightenment déclenche l'héroïsme et revient en main pour recommencer",
+        "Beaucoup de sorts à une, deux ou trois manas, mais il faut encore les sorts à quatre comme Griptide"
+      ],
+      "en": [
+        "StarCityGames ranked it second, a serious contender for best deck when the pieces come together",
+        "Ephara's Enlightenment triggers heroic and returns to hand to do it again",
+        "Many one- to three-drops let it shave a land, but it still needs Griptide-style four-drops"
+      ]
+    },
+    "keyCards": [
+      "Ephara's Enlightenment",
+      "Wingsteed Rider",
+      "Akroan Skyguard",
+      "Wavecrash Triton",
+      "Battlewise Hoplite",
+      "Griptide"
+    ],
+    "cover": "Ephara's Enlightenment",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Dwu",
+      "https://mtg.wiki/page/Born_of_the_Gods"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Renvois, destructions et sirènes évasives tiennent la table jusqu'à ce que Gray Merchant of Asphodel draine l'adversaire. Le favori de Theros, freiné par un format plus rapide.",
+      "en": "Bounce, removal and evasive sirens hold the board until Gray Merchant of Asphodel drains the opponent. The Theros favourite, slowed by a faster format."
+    },
+    "why": {
+      "fr": [
+        "En Theros seul, beaucoup de joueurs de haut niveau le tenaient pour le meilleur archétype",
+        "Après Born of the Gods, StarCityGames jugeait les contrôles noirs loin derrière les decks tempo",
+        "Siren of the Silent Song et Shipwreck Singer gagnent les parties bloquées"
+      ],
+      "en": [
+        "In triple Theros many top players called it the strongest archetype, the best Gray Merchant deck",
+        "After Born of the Gods, StarCityGames rated black control decks well behind the tempo decks",
+        "Siren of the Silent Song and Shipwreck Singer give it inevitability once the board stalls"
+      ]
+    },
+    "keyCards": [
+      "Siren of the Silent Song",
+      "Shipwreck Singer",
+      "Gray Merchant of Asphodel",
+      "Voyage's End",
+      "Sip of Hemlock"
+    ],
+    "cover": "Siren of the Silent Song",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Dub"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Minotaurs",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression minotaure et destructions rouges : Ragemonger réduit le coût du troupeau, Kragma Warcaller le renforce, Born of the Gods ajoute Fall of the Hammer et Bolt of Keranos.",
+      "en": "Minotaur aggression and red removal: Ragemonger discounts the herd, Kragma Warcaller pumps it, and Born of the Gods adds Fall of the Hammer and Bolt of Keranos."
+    },
+    "why": {
+      "fr": [
+        "Selon la chronique Limited de Wizards, Fall of the Hammer et Bolt of Keranos poussaient vers le rouge",
+        "Le rouge est mince dans les deux boosters Theros, souvent disputé par plusieurs joueurs",
+        "StarCityGames : le rouge peut prêter main-forte au noir en agression, avec un certain succès"
+      ],
+      "en": [
+        "Wizards' Limited column says Fall of the Hammer and Bolt of Keranos pushed drafters into red",
+        "Red is thin in the two Theros packs, so several red drafters often fight over it",
+        "StarCityGames: red can lend an aggressive hand to black with some degree of success"
+      ]
+    },
+    "keyCards": [
+      "Ragemonger",
+      "Kragma Warcaller",
+      "Fall of the Hammer",
+      "Bolt of Keranos",
+      "Lightning Strike"
+    ],
+    "cover": "Ragemonger",
+    "sources": [
+      "https://magic.wizards.com/en/news/feature/seeing-black-and-white-2014-04-02",
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Dbr"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Monsters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gros verts et monstruosité soutenus par les brûlures et combats rouges : Nessian Asp, Fanatic of Xenagos et Fall of the Hammer prennent l'avantage vers le tour cinq.",
+      "en": "Green fat and monstrosity backed by red burn and fight: Nessian Asp, Fanatic of Xenagos and Fall of the Hammer turn the corner around turn five."
+    },
+    "why": {
+      "fr": [
+        "Quatrième de très près chez StarCityGames : puissant, mais lent à démarrer avant le tour cinq",
+        "Les destructions par blessures peinent contre les héroïques qui grandissent",
+        "Fall of the Hammer est à son meilleur avec de grosses créatures vertes"
+      ],
+      "en": [
+        "StarCityGames put it a very close fourth: powerful, but slow to get going before turn five",
+        "Damage-based removal struggles against heroic creatures that outgrow it",
+        "Fall of the Hammer is at its best with big green creatures"
+      ]
+    },
+    "keyCards": [
+      "Fanatic of Xenagos",
+      "Nessian Asp",
+      "Fall of the Hammer",
+      "Archetype of Aggression",
+      "Pheres-Band Tromper"
+    ],
+    "cover": "Fanatic of Xenagos",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Drg",
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited"
+    ]
+  },
+  {
+    "colors": "GW",
+    "name": "Selesnya Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures héroïques vertes et blanches grandies par bestow et astuces, Reap What Is Sown répartissant les marqueurs sur l'équipe.",
+      "en": "Green and white heroic creatures grown with bestow and tricks, Reap What Is Sown spreading counters across the team."
+    },
+    "why": {
+      "fr": [
+        "En Theros seul, on le disait la meilleure stratégie agressive du format",
+        "StarCityGames le jugeait à court de réponses dès que l'adversaire pose une vraie menace",
+        "Faute de destructions, les parties se jouaient souvent sur un Time to Feed"
+      ],
+      "en": [
+        "In triple Theros it was called the best aggressive strategy of the format",
+        "StarCityGames found it short on answers once the opponent lands a real threat",
+        "Without removal, games often came down to finding Time to Feed"
+      ]
+    },
+    "keyCards": [
+      "Reap What Is Sown",
+      "Setessan Oathsworn",
+      "Leafcrown Dryad",
+      "Phalanx Leader",
+      "Time to Feed"
+    ],
+    "cover": "Reap What Is Sown",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Dgw"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Deck d'usure qui bloque le sol avec contact mortel et grosses endurances, récupère les bestow avec Odunos River Trawler et draine avec Scholar of Athreos.",
+      "en": "A grinding deck that walls the ground with deathtouch and high toughness, rebuys bestow creatures with Odunos River Trawler and drains with Scholar of Athreos."
+    },
+    "why": {
+      "fr": [
+        "Chronique Wizards : ses cartes clés (Trawler, Scholar, Sentry) partaient tard, délaissées",
+        "StarCityGames y voyait le meilleur contrôle, grâce à Divine Verdict et Excoriate",
+        "Les volants comme Akroan Skyguard étaient sa principale faiblesse"
+      ],
+      "en": [
+        "Wizards' column: its key cards (Trawler, Scholar, Sentry) went late, passed over by other drafters",
+        "StarCityGames picked it as the best control build, thanks to Divine Verdict and Excoriate",
+        "Fliers such as Akroan Skyguard were its main weakness"
+      ]
+    },
+    "keyCards": [
+      "Odunos River Trawler",
+      "Scholar of Athreos",
+      "Sentry of the Underworld",
+      "Baleful Eidolon",
+      "Griffin Dreamfinder",
+      "Divine Verdict"
+    ],
+    "cover": "Odunos River Trawler",
+    "sources": [
+      "https://magic.wizards.com/en/news/feature/seeing-black-and-white-2014-04-02",
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://mtg.wiki/page/Born_of_the_Gods"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Créatures bleues évasives et chimères, brûlures rouges et renvois bleus pour gagner la course ; Born of the Gods ajoute Bolt of Keranos aux cartes Izzet de Theros.",
+      "en": "Evasive blue creatures and chimeras with red burn and blue bounce to race; Born of the Gods adds Bolt of Keranos to the Theros Izzet cards."
+    },
+    "why": {
+      "fr": [
+        "StarCityGames jugeait le bleu et le rouge peu profonds, souvent simples couleurs d'appoint",
+        "Le rouge peut quand même prêter main-forte au bleu en agression, avec un certain succès",
+        "Aucune carte dorée Izzet dans Born of the Gods : la paire s'appuie sur Spellheart Chimera"
+      ],
+      "en": [
+        "StarCityGames saw blue and red as shallow, often only support colors in Sealed",
+        "Red can still lend an aggressive hand to blue with some degree of success",
+        "No new Izzet gold card in Born of the Gods: the pair leans on Theros' Spellheart Chimera"
+      ]
+    },
+    "keyCards": [
+      "Spellheart Chimera",
+      "Crackling Triton",
+      "Bolt of Keranos",
+      "Voyage's End",
+      "Lightning Strike"
+    ],
+    "cover": "Spellheart Chimera",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://mtg.wiki/page/Born_of_the_Gods"
+    ]
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Gros corps verts et destructions noires vers la fin de partie, Pharika's Mender et Graverobber Spider récupérant les ressources.",
+      "en": "Big green bodies and black removal grinding toward the late game, with Pharika's Mender and Graverobber Spider recovering resources."
+    },
+    "why": {
+      "fr": [
+        "La chronique Wizards note que le contrôle noir-vert a mis plus longtemps à être compris",
+        "StarCityGames ne voyait pas bien l'intérêt du deck noir-vert hors du Scellé"
+      ],
+      "en": [
+        "Wizards' column says Black-Green control took longer than other decks to figure out",
+        "StarCityGames was unsure what the G/B deck had going for it outside of Sealed"
+      ]
+    },
+    "keyCards": [
+      "Pharika's Mender",
+      "Graverobber Spider",
+      "Nessian Asp",
+      "Keepsake Gorgon",
+      "Baleful Eidolon"
+    ],
+    "cover": "Pharika's Mender",
+    "sources": [
+      "https://magic.wizards.com/en/news/feature/seeing-black-and-white-2014-04-02",
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://mtg.wiki/page/Born_of_the_Gods"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "RW",
+    "name": "Boros Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Héroïsme hyper-agressif : créatures à une et deux manas, auras et astuces, et Portent of Betrayal pour voler le dernier bloqueur.",
+      "en": "Hyper-aggressive heroic: one- and two-drops, auras and tricks, with Portent of Betrayal to steal the last blocker."
+    },
+    "why": {
+      "fr": [
+        "Wizards voyait l'agressif rouge-blanc comme un archétype presque imposé par la R&D",
+        "Troisième chez StarCityGames : explosif, mais fragile dès que l'adversaire pose un 3/3",
+        "Les renvois bleus punissent ses auras et ses destructions sont surtout des blessures"
+      ],
+      "en": [
+        "Wizards called R/W aggro one of the archetypes almost mandated by R&D",
+        "StarCityGames ranked it third: explosive, but fragile once the opponent lands a 3/3",
+        "Blue bounce punishes its auras and its removal is mostly damage-based"
+      ]
+    },
+    "keyCards": [
+      "Akroan Hoplite",
+      "Wingsteed Rider",
+      "Akroan Skyguard",
+      "Portent of Betrayal",
+      "Fearsome Temper"
+    ],
+    "cover": "Akroan Hoplite",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://magic.wizards.com/en/news/feature/seeing-black-and-white-2014-04-02",
+      "https://mtg.wiki/page/Born_of_the_Gods"
+    ]
+  },
+  {
+    "colors": "GU",
+    "name": "Simic Monsters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Accélération avec Voyaging Satyr et Kiora's Follower vers Nessian Asp et les gros monstrueux, renvois bleus pour le tempo et Nimbus Naiad par les airs.",
+      "en": "Ramp with Voyaging Satyr and Kiora's Follower into Nessian Asp and monstrous fat, while blue bounce buys tempo and Nimbus Naiad flies over."
+    },
+    "why": {
+      "fr": [
+        "Premier des paires de couleurs Theros/Born of the Gods chez StarCityGames",
+        "Gathering Magic le comptait parmi les archétypes les plus puissants du nouveau format",
+        "Ses gros corps verts rendent les renvois du format bien moins efficaces contre lui"
+      ],
+      "en": [
+        "StarCityGames ranked it first among Theros/Born of the Gods color pairs",
+        "Gathering Magic called it among the most powerful draft archetypes of the new format",
+        "Big green bodies make the format's bounce spells much less effective against it"
+      ]
+    },
+    "keyCards": [
+      "Kiora's Follower",
+      "Nessian Asp",
+      "Voyage's End",
+      "Nimbus Naiad",
+      "Setessan Starbreaker",
+      "Chorus of the Tides"
+    ],
+    "cover": "Kiora's Follower",
+    "sources": [
+      "https://articles.starcitygames.com/articles/top-5-ths-bng-limited-archetypes/",
+      "https://www.coolstuffinc.com/a/jacobvanlunen-limited-020714-the-crashing-wave",
+      "https://scryfall.com/search?q=set%3Abng+r%3Au+id%3Dgu"
+    ],
+    "tier": 1
+  }
+]

@@ -2,6 +2,7 @@ import type { CardInfo, Deck, FormatData, FormatId, Season, SeasonWithDecks } fr
 import { STANDARD_SEASONS } from './standard/seasons'
 import { MODERN_SEASONS } from './modern/seasons'
 import { PREMODERN_SEASONS } from './premodern/seasons'
+import { PIONEER_SEASONS } from './pioneer/seasons'
 import LIMITED_SEASONS from './limited/seasons.json'
 import { deckScore } from '../lib/deckStats'
 
@@ -20,6 +21,11 @@ const SOURCES: Partial<Record<FormatId, { seasons: Season[]; decks: Record<strin
     seasons: MODERN_SEASONS,
     decks: import.meta.glob<SeasonFile>('./modern/decks/*.json', { import: 'default' }),
     cards: () => import('./modern/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
+  },
+  pioneer: {
+    seasons: PIONEER_SEASONS,
+    decks: import.meta.glob<SeasonFile>('./pioneer/decks/*.json', { import: 'default' }),
+    cards: () => import('./pioneer/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
   },
   premodern: {
     seasons: PREMODERN_SEASONS,

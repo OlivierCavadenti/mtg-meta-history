@@ -11,7 +11,7 @@ from common import EDITORIAL, FORMAT, PRINTS, SEASONS, TOP8, rank_key, season_ro
 
 BIG = {'bigstar', 'star+star+star'}
 # Inclusion rule per format (AGENTS.md / UPDATING.md): top 8s needed, or a win at a big event
-MIN_TOP8 = {'standard': 3, 'modern': 5, 'premodern': 4}.get(FORMAT, 3)
+MIN_TOP8 = {'standard': 3, 'modern': 5, 'pioneer': 5, 'premodern': 4}.get(FORMAT, 3)
 
 today = datetime.date.today().isoformat()
 last_id, last_start = SEASONS[-1][0], SEASONS[-1][1]

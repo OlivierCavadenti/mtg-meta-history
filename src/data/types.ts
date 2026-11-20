@@ -61,6 +61,8 @@ export type Deck = {
   stats: { results: number; top8: number; wins: number; share: number }
   /** Limited only: 17Lands public data for the color combination in the set's Premier Draft */
   limited?: LimitedStats
+  /** Limited before 17Lands data (2011-2020): a design archetype, no list or numbers; its sources */
+  sources?: string[]
   summary: L10n
   why: { fr: string[]; en: string[] }
   keyCards: string[]

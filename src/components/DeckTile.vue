@@ -25,6 +25,7 @@ const wins = computed(() => props.deck.stats.wins)
         {{ archetypeLabel(deck.archetype) }}, {{ formatNumber(deck.limited.winRate) }} % {{ t('winRate') }},
         {{ formatNumber(deck.stats.share) }} % {{ t('ofGames') }}
       </template>
+      <template v-else-if="deck.sources">{{ archetypeLabel(deck.archetype) }}</template>
       <template v-else>
         {{ archetypeLabel(deck.archetype) }}, {{ deck.stats.top8 }} {{ t('top8') }}<template v-if="wins">, {{ wins }} {{ wins > 1 ? t('wins') : t('win') }}</template>
       </template>

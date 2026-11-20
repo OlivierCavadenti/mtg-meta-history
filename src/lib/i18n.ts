@@ -50,6 +50,12 @@ const STRINGS = {
   landsLower: { fr: 'terrains', en: 'lands' },
   sideboard: { fr: 'Sideboard', en: 'Sideboard' },
   restOfPool: { fr: 'Reste du pool', en: 'Rest of the pool' },
+  designArchetype: { fr: 'Archétype de design', en: 'Design archetype' },
+  sourcesLabel: { fr: 'Sources', en: 'Sources' },
+  noDataBefore: {
+    fr: 'Pas de chiffres ni de decklist : 17Lands ne publie ses données qu’à partir de Kaldheim (2021).',
+    en: 'No numbers or decklist: 17Lands publishes its data from Kaldheim (2021) on.',
+  },
   list: { fr: 'Liste', en: 'List' },
   visual: { fr: 'Cartes', en: 'Cards' },
   copy: { fr: 'Copier la liste', en: 'Copy list' },
@@ -166,8 +172,8 @@ const STRINGS = {
   },
   limitedSourceLink: { fr: 'données publiques de 17Lands', en: '17Lands public data' },
   limitedSourceB: {
-    fr: '(Premier Draft sur MTG Arena, licence CC BY 4.0). L’échantillon réunit les joueurs équipés du traqueur 17Lands, plus forts que la moyenne : les taux se comparent au sein d’une même extension.',
-    en: '(Premier Draft on MTG Arena, CC BY 4.0 license). The sample is players using the 17Lands tracker, stronger than average: compare rates within a set.',
+    fr: '(Premier Draft sur MTG Arena, licence CC BY 4.0). L’échantillon réunit les joueurs équipés du traqueur 17Lands, plus forts que la moyenne : les taux se comparent au sein d’une même extension. Avant Kaldheim (2021), les archétypes viennent du design des extensions et de sources citées, sans chiffres.',
+    en: '(Premier Draft on MTG Arena, CC BY 4.0 license). The sample is players using the 17Lands tracker, stronger than average: compare rates within a set. Before Kaldheim (2021), archetypes come from the sets\' design and cited sources, without numbers.',
   },
   seasonTotalLimited: { fr: 'parties dans l’extension', en: 'games in the set' },
   timelineCaptionLimited: {

@@ -4,7 +4,7 @@
 #   bash scripts/pipeline/weekly.sh build     # after the editorial pass: check, build, validate
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-FORMATS="${MTG_FORMATS:-standard modern premodern limited}"
+FORMATS="${MTG_FORMATS:-standard pioneer modern premodern limited}"
 P=scripts/pipeline
 
 case "${1:-}" in

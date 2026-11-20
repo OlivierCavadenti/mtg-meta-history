@@ -5,11 +5,13 @@ import type { CardInfo, Deck, Season } from '../src/data/types'
 import { STANDARD_SEASONS } from '../src/data/standard/seasons'
 import { MODERN_SEASONS } from '../src/data/modern/seasons'
 import { PREMODERN_SEASONS } from '../src/data/premodern/seasons'
+import { PIONEER_SEASONS } from '../src/data/pioneer/seasons'
 import LIMITED_SEASONS from '../src/data/limited/seasons.json'
 
 const FORMATS: [string, Season[]][] = [
   ['standard', STANDARD_SEASONS],
   ['modern', MODERN_SEASONS],
+  ['pioneer', PIONEER_SEASONS],
   ['premodern', PREMODERN_SEASONS],
   ['limited', LIMITED_SEASONS as Season[]],
 ]
@@ -35,6 +37,12 @@ function checkFormat(format: string, seasons: Season[]) {
       if (!ARCH.has(d.archetype)) errors.push(`${where}: bad archetype`)
       if (!d.summary.fr || !d.summary.en) errors.push(`${where}: missing summary`)
       if (d.why.fr.length < 2 || d.why.en.length < 2) errors.push(`${where}: needs 2+ why bullets`)
+      // Limited design archetypes (2011-2020): sources, key cards, no list
+      if (d.sources) {
+        if (!d.sources.length) errors.push(`${where}: no sources`)
+        for (const c of [...d.keyCards, d.cover]) if (!cards[c]) errors.push(`${where}: no card data for ${c}`)
+        continue
+      }
       const main = d.list.main.reduce((s, [n]) => s + n, 0)
       if (main < 40) errors.push(`${where}: main deck has ${main} cards`)
       const names = new Set([...d.list.main, ...d.list.side].map(([, n]) => n))

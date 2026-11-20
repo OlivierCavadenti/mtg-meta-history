@@ -28,6 +28,7 @@ npm run validate:content  # validate generated deck data
 - `src/data/formats.ts` — the format bar (`ready: false` shows "in progress")
 - `src/data/standard/seasons.ts` — Standard seasons (open with the autumn set) and bans
 - `src/data/modern/seasons.ts` — Modern seasons (calendar years, no rotation) and bans; same layout under `src/data/modern/`
+- `src/data/pioneer/seasons.ts` — Pioneer seasons (calendar years from October 2019, first months grouped with 2020) and dated bans
 - `src/data/premodern/seasons.ts` — Premodern seasons (calendar years, 2020–21 grouped; fixed pool 4th Edition–Scourge, old-frame printings via `PRINT_CUTOFF` in `build.py`) and bans
 - `src/data/standard/decks/{season}.json` — GENERATED, one file per season
 - `src/data/standard/cards.json` — GENERATED card data (mana cost, mana value, type, colors, Scryfall image id)
@@ -36,8 +37,9 @@ npm run validate:content  # validate generated deck data
 - `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`, `ColorsPage` (color evolution, small multiples; data in `src/lib/colorStats.ts`)
 - `ArchetypesPage` / `ArchetypePage` — an archetype across seasons (lifelines, core, card-by-card evolution); built in `src/lib/lineage.ts` from the editorial `slug`, so keep one slug per archetype across seasons
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
-- `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern | premodern). See `AGENTS.md`.
-- Limited: one season per set, one deck per color combination, from 17Lands public data (`scripts/pipeline/limited/`, `data-src/limited/`, generated `src/data/limited/` including `seasons.json`). Deck stats are in `deck.limited` (win rate, share of games); `src/lib/deckStats.ts` picks the right weight per format. The 17Lands citation must stay visible at the top of the Limited page
+- `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | pioneer | modern | premodern). See `AGENTS.md`.
+- Limited: one season per set, one deck per color combination, from 17Lands public data (`scripts/pipeline/limited/`, `data-src/limited/`, generated `src/data/limited/` including `seasons.json`). Deck stats are in `deck.limited` (win rate, share of games); `src/lib/deckStats.ts` picks the right weight per format. The 17Lands citation must stay visible at the top of the Limited page. Sets before Kaldheim (2011–2020, `seasons.limited-history.json`) are design archetypes: sourced texts and key cards, `deck.sources`, no list and no numbers
+- SEO: `npm run build` ends with `scripts/seo/static-pages.mjs`, which writes one static HTML page per route (title, description, Open Graph image, crawlable text) plus `sitemap.xml`
 
 ## Data pipeline (summary)
 

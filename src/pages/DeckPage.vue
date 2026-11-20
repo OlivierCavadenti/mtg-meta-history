@@ -31,6 +31,14 @@ const siblings = computed(() => {
   return { prev: list[i - 1], next: list[i + 1] }
 })
 
+const hostOf = (u: string) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, '')
+  } catch {
+    return u
+  }
+}
+
 const rankLabel = computed(() => {
   const r = deck.value?.list.rank ?? ''
   return /^\d/.test(r) ? `#${r}` : r
@@ -55,7 +63,11 @@ watchEffect(() => {
       <div class="hero-text">
         <p v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}</p>
         <h1>{{ deck.name }}</h1>
-        <p v-if="deck.limited" class="byline">
+        <p v-if="deck.sources" class="byline">
+          <ColorPips :colors="deck.colors" :size="15" />
+          {{ archetypeLabel(deck.archetype) }}. {{ t('designArchetype') }}, {{ season.set }}.
+        </p>
+        <p v-else-if="deck.limited" class="byline">
           <ColorPips :colors="deck.colors" :size="15" />
           {{ archetypeLabel(deck.archetype) }}. {{ t('trophyDeck') }} ({{ deck.list.rank.replace('-', '–') }}),
           {{ t('premierDraft') }}, {{ formatDate(deck.list.date) }}.
@@ -67,7 +79,12 @@ watchEffect(() => {
           {{ formatDate(deck.list.date) }}.
         </p>
         <p class="summary">{{ tx(deck.summary) }}</p>
-        <p v-if="deck.limited" class="record">
+        <p v-if="deck.sources" class="record">
+          {{ t('sourcesLabel') }} :
+          <template v-for="(u, i) in deck.sources" :key="u"><a :href="u" target="_blank" rel="noopener noreferrer">{{ hostOf(u) }}</a><template v-if="i < deck.sources.length - 1">, </template></template>.
+          {{ t('noDataBefore') }}
+        </p>
+        <p v-else-if="deck.limited" class="record">
           {{ formatNumber(deck.limited.winRate) }} % {{ t('winRate') }} ({{ t('setAverage') }} {{ formatNumber(deck.limited.setWinRate) }} %),
           {{ formatNumber(deck.stats.share) }} % {{ t('ofGames') }}, {{ deck.limited.trophies.toLocaleString(locale === 'fr' ? 'fr-FR' : 'en-US') }} {{ t('trophyDecks') }}.
           <a :href="deck.list.url" target="_blank" rel="noopener noreferrer">17Lands</a>,
@@ -114,14 +131,14 @@ watchEffect(() => {
         </div>
       </div>
       <div class="why">
-        <h2>{{ deck.limited ? t('whyLimited') : deck.tier === 1 ? t('why1') : t('why') }}</h2>
+        <h2>{{ deck.limited || deck.sources ? t('whyLimited') : deck.tier === 1 ? t('why1') : t('why') }}</h2>
         <ol>
           <li v-for="(b, i) in why" :key="i">{{ b }}</li>
         </ol>
       </div>
     </section>
 
-    <DeckList :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
+    <DeckList v-if="deck.list.main.length" :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
 
     <nav class="siblings">
       <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">

@@ -36,5 +36,5 @@ export function colorSeries(data: FormatData): ColorPoint[] {
       decks[c] = playing.slice().sort((a, b) => deckWeight(b) - deckWeight(a))
     }
     return { season: s.id, start: s.start, end: s.end, total, share, decks }
-  })
+  }).filter((p) => p.total > 0) // Limited design archetypes (2011-2020) carry no numbers
 }

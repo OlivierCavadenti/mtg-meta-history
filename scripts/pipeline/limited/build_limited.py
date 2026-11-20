@@ -2,6 +2,8 @@
 and data-src/limited/editorial/*.json.
 
 Limited: one season per set (its Premier Draft on MTG Arena), one deck per color combination.
+Sets before 17Lands' public data (seasons.limited-history.json, Innistrad 2011 to Zendikar Rising
+2020) carry design archetypes only: editorial entries with sources, no decklist and no numbers.
 Usage: python3 scripts/pipeline/limited/build_limited.py [--check] [SET ...]
   --check: validate only, write nothing; SET codes limit the report to those sets.
 """
@@ -13,6 +15,7 @@ SRC = os.path.join(REPO, 'data-src', 'limited')
 OUT = os.path.join(REPO, 'src', 'data', 'limited')
 PRINTS = os.environ.get('MTG_PRINTS', os.path.join(REPO, '.pipeline', 'prints.json'))
 SETS = json.load(open(os.path.join(os.path.dirname(HERE), 'seasons.limited.json')))
+HISTORY = json.load(open(os.path.join(os.path.dirname(HERE), 'seasons.limited-history.json')))
 ORDER = 'WUBRG'
 ARCH = {'aggro', 'midrange', 'control', 'combo', 'tempo', 'ramp'}
 BASICS = {'Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'}
@@ -92,15 +95,84 @@ for code, _, _ in SETS:
         stats[code] = json.load(open(p))
 # a set's season runs from its first draft on 17Lands to the next set's first draft
 codes = [c for c, _, _ in SETS if c in stats]
-names = {c: n for c, _, n in SETS}
+hist_codes = [c for c, _, _ in HISTORY if os.path.exists(os.path.join(SRC, 'editorial', f'{c}.json'))]
+names = {c: n for c, _, n in SETS + HISTORY}
 start = {c: stats[c]['first'] for c in codes}
-end = {c: (start[codes[i + 1]] if i + 1 < len(codes) else '2099-01-01') for i, c in enumerate(codes)}
+start.update({c: r for c, r, _ in HISTORY})
+ordered = hist_codes + codes
+end = {c: (start[ordered[i + 1]] if i + 1 < len(ordered) else '2099-01-01') for i, c in enumerate(ordered)}
 
 errors = []
 seasons = []
 card_seasons = {}
 missing = set()
 os.makedirs(os.path.join(OUT, 'decks'), exist_ok=True)
+# design archetypes of the sets before 17Lands' public data: sourced texts, key cards, no list
+for code in hist_codes:
+    ed = json.load(open(os.path.join(SRC, 'editorial', f'{code}.json')))
+    decks = []
+    seen = set()
+    for e in ed:
+        colors = e.get('colors', '')
+        where = f'{code}/{colors}'
+        if colors not in SLUGS or colors in seen:
+            errors.append(f'{where}: bad or duplicate colors')
+            continue
+        seen.add(colors)
+        for k in ['name', 'archetype', 'summary', 'why', 'keyCards', 'cover', 'sources']:
+            if k not in e:
+                errors.append(f'{where}: missing {k}')
+        if e.get('archetype') not in ARCH:
+            errors.append(f'{where}: bad archetype {e.get("archetype")!r}')
+        srcs = e.get('sources', [])
+        if not srcs or not all(isinstance(u, str) and u.startswith('https://') for u in srcs):
+            errors.append(f'{where}: sources must be a non-empty list of https URLs')
+        key = [canon(k) for k in e.get('keyCards', [])]
+        cover = canon(e.get('cover', ''))
+        for k in key + [cover]:
+            pr = prints.get(k)
+            if not pr:
+                errors.append(f'{where}: unknown card {k!r}')
+            elif not any(q['r'] <= end[code] and q['r'] >= '2011-01-01' and q['s'] == code for q in pr['prints']) \
+                    and not any(q['r'] < end[code] for q in pr['prints'] if q['st'] in ('expansion', 'core')):
+                errors.append(f'{where}: {k!r} not printed by the end of this set')
+        if cover in prints and kind(prints[cover]['info']['t']) == 'land':
+            errors.append(f'{where}: cover must be a nonland card')
+        if not 3 <= len(key) <= 6:
+            errors.append(f'{where}: keyCards should be 3-6')
+        if e.get('tier', 2) not in (1, 2, 3):
+            errors.append(f'{where}: tier must be 1, 2 or 3')
+        for lang in ['fr', 'en']:
+            s = e.get('summary', {}).get(lang, '')
+            if not 40 <= len(s) <= 260:
+                errors.append(f'{where}: summary.{lang} length {len(s)} (40-260)')
+            w = e.get('why', {}).get(lang, [])
+            if not 2 <= len(w) <= 3:
+                errors.append(f'{where}: why.{lang} needs 2-3 bullets')
+            for b in w:
+                if len(b) > 110:
+                    errors.append(f'{where}: why.{lang} bullet too long ({len(b)})')
+                if re.search(r'\d+ ?%', b):
+                    errors.append(f'{where}: no percentages in texts')
+        for name in key + [cover]:
+            if name in prints:
+                card_seasons.setdefault(name, []).append(code)
+        decks.append({
+            'id': f'{SLUGS.get(colors, colors.lower())}-{code}', 'name': e.get('name', ''), 'season': code,
+            'archetype': e.get('archetype', 'midrange'), 'colors': colors, 'tier': e.get('tier', 2),
+            'first': start[code], 'last': start[code],
+            'stats': {'results': 0, 'top8': 0, 'wins': 0, 'share': 0},
+            'summary': e.get('summary', {}), 'why': e.get('why', {}), 'keyCards': key, 'cover': cover,
+            'sources': srcs,
+            'list': {'main': [], 'side': [], 'player': '', 'event': '', 'rank': '', 'date': start[code], 'url': srcs[0] if srcs else ''},
+        })
+    decks.sort(key=lambda d: (d['tier'], d['name']))
+    if not check_only:
+        json.dump({'season': code, 'decks': decks}, open(os.path.join(OUT, 'decks', f'{code}.json'), 'w'),
+                  ensure_ascii=False, separators=(',', ':'))
+    seasons.append({'id': code, 'start': start[code], 'set': names[code], 'code': code.upper(), 'bans': []})
+    print(code, len(decks), 'design archetypes')
+
 for code in codes:
     st = stats[code]
     ep = os.path.join(SRC, 'editorial', f'{code}.json')
