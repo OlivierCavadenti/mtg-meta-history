@@ -2,7 +2,7 @@
 import { computed, ref } from 'vue'
 import { useFormat } from '../lib/useFormat'
 import { buildLineages, type Lineage } from '../lib/lineage'
-import { locale, seasonYears, t } from '../lib/i18n'
+import { locale, seasonEndYear, seasonYears, t } from '../lib/i18n'
 import ColorPips from '../components/ColorPips.vue'
 import SoonState from '../components/SoonState.vue'
 
@@ -31,6 +31,9 @@ const list = computed(() => {
     })
 })
 
+/** label every n-th season on the axis so labels never collide */
+const axisStep = computed(() => Math.max(1, Math.ceil(seasons.value.length / 8)))
+
 const multi = computed(() => all.value.filter((l) => l.entries.length > 1).length)
 
 /** for the lifeline: share of top 8s in each season of the format (0 when absent) */
@@ -42,7 +45,8 @@ const maxShare = computed(() => Math.max(1, ...all.value.flatMap((l) => l.entrie
 
 const spanOf = (l: Lineage) => {
   const a = firstStart(l).slice(0, 4)
-  const b = lastStart(l).slice(0, 4)
+  const last = l.entries[l.entries.length - 1].season
+  const b = String(seasonEndYear(last.start, last.end))
   return a === b ? a : `${a}–${b}`
 }
 </script>
@@ -61,6 +65,14 @@ const spanOf = (l: Lineage) => {
         </nav>
         <label class="single"><input v-model="showSingle" type="checkbox" /> {{ t('showSingle') }}</label>
         <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Chercher un archétype' : 'Search an archetype'" />
+      </div>
+      <!-- year axis aligned with the lifelines below -->
+      <div class="axis" aria-hidden="true">
+        <span></span>
+        <span></span>
+        <span class="life axis-life">
+          <span v-for="(s, i) in seasons" :key="s.id" class="axis-tick">{{ i % axisStep === 0 ? s.start.slice(0, 4) : '' }}</span>
+        </span>
       </div>
     </header>
 
@@ -88,9 +100,37 @@ const spanOf = (l: Lineage) => {
 
 <style scoped>
 .intro {
-  padding: var(--space-md) 0 var(--space-sm);
+  /* pinned under the site header while the list scrolls */
+  position: sticky;
+  top: var(--header-h);
+  z-index: 20;
+  background: var(--paper) var(--grain);
+  padding: var(--space-md) 0 0;
+  margin-top: calc(-1 * var(--space-lg));
   border-bottom: 3px solid var(--ink);
-  margin-bottom: var(--space-sm);
+}
+
+.axis {
+  display: grid;
+  grid-template-columns: minmax(12rem, 1.2fr) minmax(9rem, 0.7fr) minmax(0, 2fr);
+  gap: var(--space-md);
+  margin-top: var(--space-sm);
+  padding-bottom: 0.2rem;
+}
+
+.axis .axis-life {
+  height: auto;
+}
+
+.axis-tick {
+  flex: 1;
+  min-width: 0;
+  overflow: visible;
+  white-space: nowrap;
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-variant-numeric: lining-nums;
 }
 
 .lede {
@@ -207,6 +247,15 @@ const spanOf = (l: Lineage) => {
 }
 
 @media (max-width: 720px) {
+  .intro {
+    position: static;
+    margin-top: calc(-1 * var(--space-md));
+  }
+
+  .axis {
+    display: none;
+  }
+
   .row {
     grid-template-columns: 1fr;
     gap: 0.2rem;

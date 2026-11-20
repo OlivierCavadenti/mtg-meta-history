@@ -172,6 +172,15 @@ export function formatMonth(iso: string): string {
   return d.toLocaleDateString(locale.value === 'fr' ? 'fr-FR' : 'en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })
 }
 
+/** Last calendar year a season covers ("2025-08-01" running to today -> current year). */
+export function seasonEndYear(start: string, nextStart?: string): number {
+  const y1 = Number(start.slice(0, 4))
+  const y2 = nextStart
+    ? Number(nextStart.slice(0, 4)) - (nextStart.slice(5) === '01-01' ? 1 : 0)
+    : new Date().getUTCFullYear()
+  return Math.max(y1, y2)
+}
+
 /** "2005-10-07" + next start -> "2005–06" */
 export function seasonYears(start: string, nextStart?: string): string {
   const y1 = Number(start.slice(0, 4))

@@ -5,7 +5,7 @@ import { useFormat } from '../lib/useFormat'
 import { buildLineages, cardTracks, coreCards } from '../lib/lineage'
 import { cardImage, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
-import { formatNumber, seasonYears, t } from '../lib/i18n'
+import { formatNumber, seasonEndYear, seasonYears, t } from '../lib/i18n'
 import ColorPips from '../components/ColorPips.vue'
 import ManaCost from '../components/ManaCost.vue'
 import SoonState from '../components/SoonState.vue'
@@ -25,8 +25,7 @@ const span = computed(() => {
   if (!e.length) return ''
   const a = e[0].season.start.slice(0, 4)
   const last = e[e.length - 1].season
-  const b = seasonYears(last.start, last.end).split('–')
-  const endYear = b.length > 1 ? `${last.start.slice(0, 2)}${b[1]}` : b[0]
+  const endYear = String(seasonEndYear(last.start, last.end))
   return a === endYear ? a : `${a}–${endYear}`
 })
 
