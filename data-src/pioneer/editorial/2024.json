@@ -1,0 +1,813 @@
+[
+ {
+  "name": "Rakdos Vampires",
+  "slug": "rakdos-vampires",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Vampires"
+  ],
+  "cover": "Sorin, Imperious Bloodlord",
+  "keyCards": [
+   "Sorin, Imperious Bloodlord",
+   "Vein Ripper",
+   "Bloodtithe Harvester",
+   "Preacher of the Schism",
+   "Fable of the Mirror-Breaker"
+  ],
+  "summary": {
+   "fr": "Midrange Rakdos bâti sur les Vampires : Sorin, Imperious Bloodlord met en jeu Vein Ripper ou Bloodtithe Harvester dès le début de partie, avec défausse et Fatal Push en soutien.",
+   "en": "Rakdos midrange built on Vampires: Sorin, Imperious Bloodlord puts Vein Ripper or Bloodtithe Harvester into play early, backed by discard and Fatal Push."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Pro Tour Murders at Karlov Manor à Chicago (Seth Manfield)",
+    "La capacité négative de Sorin mettait Vein Ripper en jeu dès le troisième tour",
+    "Disparaît des résultats après le bannissement de Sorin en août"
+   ],
+   "en": [
+    "Won Pro Tour Murders at Karlov Manor in Chicago (Seth Manfield)",
+    "Sorin's minus ability put Vein Ripper onto the battlefield on turn three",
+    "Disappears from results after Sorin's ban in August"
+   ]
+  },
+  "include": [
+   590471,
+   590475,
+   590488,
+   590507,
+   590512,
+   590513,
+   590527,
+   590554,
+   590562,
+   590577,
+   590606,
+   591499,
+   591513,
+   594752,
+   594763,
+   604272,
+   604274,
+   604277,
+   610185,
+   610188,
+   610193,
+   610195,
+   610199,
+   610224,
+   610228,
+   610234,
+   612611,
+   612617,
+   618960,
+   618967,
+   618970,
+   618973,
+   618975,
+   618978,
+   618979,
+   624637,
+   624647,
+   625913,
+   625915,
+   625917,
+   625920,
+   625921,
+   625922,
+   625925,
+   625927,
+   638232,
+   638234,
+   638235,
+   638236,
+   638237,
+   638238,
+   638243,
+   638244,
+   638245
+  ]
+ },
+ {
+  "name": "Rakdos Cauldron",
+  "slug": "rakdos-cauldron",
+  "archetype": "combo",
+  "titles": [
+   "Rakdos Aggro"
+  ],
+  "cover": "Tree of Perdition",
+  "keyCards": [
+   "Tree of Perdition",
+   "Agatha's Soul Cauldron",
+   "Marvin, Murderous Mimic",
+   "Voldaren Thrillseeker",
+   "Bloodtithe Harvester"
+  ],
+  "summary": {
+   "fr": "Combo Rakdos autour de Tree of Perdition : Agatha's Soul Cauldron ou Marvin, Murderous Mimic prête son échange de points de vie à une petite créature, ce qui laisse l'adversaire à quelques points.",
+   "en": "Rakdos combo around Tree of Perdition: Agatha's Soul Cauldron or Marvin, Murderous Mimic lends its life-swap ability to a small creature, leaving the opponent on a few life points."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Regional Championship de la SCG CON Washington DC (Cory Lack)",
+    "Bloodtithe Harvester, Fatal Push et la défausse gardaient une base midrange autour du combo",
+    "N'apparaît qu'à l'automne de la saison"
+   ],
+   "en": [
+    "Won the Regional Championship at SCG CON Washington DC (Cory Lack)",
+    "Bloodtithe Harvester, Fatal Push and discard kept a midrange shell around the combo",
+    "Appears only in the autumn of the season"
+   ]
+  },
+  "include": [
+   652225,
+   662547,
+   664947
+  ],
+  "exclude": [
+   642643,
+   647257,
+   649635,
+   649646,
+   650291,
+   650295,
+   650300,
+   651858,
+   651870,
+   651874,
+   651899,
+   651903,
+   652237,
+   652241,
+   652257,
+   652268,
+   652271,
+   652274,
+   652333,
+   652403,
+   654165,
+   654169,
+   654455,
+   654488,
+   654512,
+   656963,
+   656965,
+   656976,
+   660424,
+   662329,
+   662335,
+   662347,
+   662356,
+   662524
+  ]
+ },
+ {
+  "name": "Rakdos Midrange",
+  "slug": "rakdos-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Midrange",
+   "Rakdos Control"
+  ],
+  "cover": "Fable of the Mirror-Breaker",
+  "keyCards": [
+   "Fable of the Mirror-Breaker",
+   "Bloodtithe Harvester",
+   "Unholy Annex/Ritual Chamber",
+   "Unstoppable Slasher",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Midrange Rakdos fait de défausse, de removal bon marché et de menaces rentables comme Fable of the Mirror-Breaker ; à partir de Duskmourn, Unholy Annex devient son moteur de pioche.",
+   "en": "Rakdos midrange of discard, cheap removal and value threats such as Fable of the Mirror-Breaker; from Duskmourn on, Unholy Annex became its card engine."
+  },
+  "why": {
+   "fr": [
+    "A remporté les Regional Championships de Calgary et du Mexique en novembre",
+    "Thoughtseize et Fatal Push répondaient à la plupart des decks du format",
+    "Unstoppable Slasher et Archfiend of the Dross apportaient des menaces résistantes"
+   ],
+   "en": [
+    "Won the Calgary and Mexico Regional Championships in November",
+    "Thoughtseize and Fatal Push answered most decks of the format",
+    "Unstoppable Slasher and Archfiend of the Dross added resilient threats"
+   ]
+  }
+ },
+ {
+  "name": "Izzet Phoenix",
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "titles": [
+   "Arclight Phoenix",
+   "Izzet Arclight",
+   "Izzet Phoenix",
+   "Ub Phoenix",
+   "Grixis Arclight"
+  ],
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Picklock Prankster",
+   "Treasure Cruise",
+   "Artist's Talent",
+   "Sleight of Hand"
+  ],
+  "summary": {
+   "fr": "Deck de sorts bleu-rouge : des cantrips bon marché remplissent le cimetière et ramènent Arclight Phoenix, Treasure Cruise rechargeant la main.",
+   "en": "Blue-red spells deck: cheap cantrips fill the graveyard and bring back Arclight Phoenix, while Treasure Cruise refills the hand."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Regional Championship du Chili en novembre",
+    "L'aventure de Picklock Prankster meulait des cartes et trouvait le sort suivant",
+    "Présent en top 8 de janvier à décembre"
+   ],
+   "en": [
+    "Won the Chile Regional Championship in November",
+    "Picklock Prankster's adventure milled cards and found the next spell",
+    "Reached top 8s from January to December"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Control",
+  "slug": "azorius-control",
+  "archetype": "control",
+  "titles": [
+   "UW Control"
+  ],
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "The Wandering Emperor",
+   "Supreme Verdict",
+   "No More Lies",
+   "Memory Deluge"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius classique : contresorts, balais et Memory Deluge, puis Teferi, Hero of Dominaria et The Wandering Emperor pour conclure.",
+   "en": "Azorius draw-go control: counterspells, sweepers and Memory Deluge, closed out by Teferi, Hero of Dominaria and The Wandering Emperor."
+  },
+  "why": {
+   "fr": [
+    "Narset, Parter of Veils et Three Steps Ahead renforçaient les matchs contre les decks de sorts",
+    "Restless Anchorage et Hall of Storm Giants menaçaient sans engager de mana en phase principale",
+    "A remporté des RCQ à Dallas et à São Paulo"
+   ],
+   "en": [
+    "Narset, Parter of Veils and Three Steps Ahead sharpened the spell matchups",
+    "Restless Anchorage and Hall of Storm Giants threatened without tapping out on the main phase",
+    "Won RCQs in Dallas and São Paulo"
+   ]
+  }
+ },
+ {
+  "name": "Lotus Field Combo",
+  "slug": "lotus-field-combo",
+  "archetype": "combo",
+  "titles": [
+   "Lotus Field"
+  ],
+  "cover": "Hidden Strings",
+  "keyCards": [
+   "Lotus Field",
+   "Hidden Strings",
+   "Pore Over the Pages",
+   "Emergent Ultimatum",
+   "Thespian's Stage"
+  ],
+  "summary": {
+   "fr": "Combo de terrains : Lotus Field et Thespian's Stage produisent beaucoup de mana, des sorts de dégagement comme Hidden Strings s'enchaînent, puis Emergent Ultimatum ou Omniscience concluent.",
+   "en": "Land combo: Lotus Field and Thespian's Stage make large amounts of mana, untap spells such as Hidden Strings chain together, and Emergent Ultimatum or Omniscience end the game."
+  },
+  "why": {
+   "fr": [
+    "A atteint le top 4 du Pro Tour Murders at Karlov Manor",
+    "Arboreal Grazer et Vizier of Tumbling Sands protégeaient et dégageaient les terrains"
+   ],
+   "en": [
+    "Reached the top 4 of Pro Tour Murders at Karlov Manor",
+    "Arboreal Grazer and Vizier of Tumbling Sands protected and untapped the lands"
+   ]
+  },
+  "rep": 590478
+ },
+ {
+  "name": "Rakdos Prowess",
+  "slug": "rakdos-prowess",
+  "archetype": "aggro",
+  "titles": [
+   "Rakdos Prowess"
+  ],
+  "cover": "Heartfire Hero",
+  "keyCards": [
+   "Heartfire Hero",
+   "Monastery Swiftspear",
+   "Slickshot Show-Off",
+   "Emberheart Challenger",
+   "Monstrous Rage"
+  ],
+  "summary": {
+   "fr": "Aggro Rakdos issu de Bloomburrow : créatures à prouesse et vaillance bon marché, gonflées par Monstrous Rage et Ancestral Anger ; Heartfire Hero inflige sa force en mourant.",
+   "en": "Rakdos aggro from Bloomburrow: cheap prowess and valiant creatures pumped by Monstrous Rage and Ancestral Anger, with Heartfire Hero dealing its power when it dies."
+  },
+  "why": {
+   "fr": [
+    "Les créatures à vaillance de Bloomburrow récompensaient chaque sort de renfort ciblé",
+    "A remporté la SEA Championship Final à Singapour et un God of Pioneer à Tokyo",
+    "Finaliste du Regional Championship ANZ à Sydney"
+   ],
+   "en": [
+    "Bloomburrow's valiant creatures rewarded every single-target pump spell",
+    "Won the SEA Championship Final in Singapore and a God of Pioneer event in Tokyo",
+    "Finalist at the ANZ Regional Championship in Sydney"
+   ]
+  },
+  "include": [
+   642643,
+   647257,
+   649635,
+   649646,
+   650291,
+   650295,
+   650300,
+   651858,
+   651870,
+   651874,
+   651899,
+   651903,
+   652237,
+   652241,
+   652257,
+   652268,
+   652271,
+   652274,
+   652333,
+   652403,
+   654165,
+   654169,
+   654455,
+   654488,
+   654512,
+   656963,
+   656965,
+   660424,
+   662329,
+   662335,
+   662347,
+   662356,
+   662524
+  ]
+ },
+ {
+  "name": "Jund Sacrifice",
+  "slug": "jund-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Jund Sacrifice",
+   "Jund"
+  ],
+  "cover": "Mayhem Devil",
+  "keyCards": [
+   "Mayhem Devil",
+   "Cauldron Familiar",
+   "Witch's Oven",
+   "Ygra, Eater of All",
+   "Scavenger's Talent"
+  ],
+  "summary": {
+   "fr": "Deck sacrifice chat-four : Cauldron Familiar et Witch's Oven bouclent à chaque tour, Mayhem Devil inflige des dégâts et Ygra, Eater of All transforme les autres créatures en Food.",
+   "en": "Cat-and-Oven sacrifice deck: Cauldron Familiar and Witch's Oven loop every turn, Mayhem Devil pings, and Ygra, Eater of All turns other creatures into Food."
+  },
+  "why": {
+   "fr": [
+    "Ygra et Scavenger's Talent, issus de Bloomburrow, ont relancé le moteur chat-four",
+    "Finaliste des Regional Championships du Chili et de Chine en novembre"
+   ],
+   "en": [
+    "Ygra and Scavenger's Talent from Bloomburrow revived the Cat-Oven engine",
+    "Finalist at the Chile and China Regional Championships in November"
+   ]
+  }
+ },
+ {
+  "name": "Enigmatic Incarnation",
+  "slug": "enigmatic-incarnation",
+  "archetype": "midrange",
+  "titles": [
+   "Enigmatic Incarnation",
+   "Zur, Eternal Schemer"
+  ],
+  "cover": "Enigmatic Incarnation",
+  "keyCards": [
+   "Enigmatic Incarnation",
+   "Zur, Eternal Schemer",
+   "Overlord of the Hauntwoods",
+   "Up the Beanstalk",
+   "Leyline Binding"
+  ],
+  "summary": {
+   "fr": "Boîte à outils d'enchantements en domaine : Enigmatic Incarnation sacrifie un enchantement pour aller chercher une créature ; après Duskmourn, Zur, Eternal Schemer et les Overlords prennent le relais.",
+   "en": "Domain enchantment toolbox: Enigmatic Incarnation sacrifices an enchantment to fetch a creature; after Duskmourn, Zur, Eternal Schemer and the Overlords took over the deck."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Regional Championship MTG China Open en novembre",
+    "Les Overlords lancés avec imminence arrivaient en enchantements pour Enigmatic Incarnation",
+    "Les triomes alimentaient Up the Beanstalk et Leyline Binding"
+   ],
+   "en": [
+    "Won the MTG China Open Regional Championship in November",
+    "Overlords cast for impending entered as enchantments that fed Enigmatic Incarnation",
+    "Triomes powered Up the Beanstalk and Leyline Binding"
+   ]
+  }
+ },
+ {
+  "name": "Niv to Light",
+  "slug": "niv-to-light",
+  "archetype": "midrange",
+  "titles": [
+   "Niv-Mizzet Reborn"
+  ],
+  "cover": "Niv-Mizzet Reborn",
+  "keyCards": [
+   "Niv-Mizzet Reborn",
+   "Bring to Light",
+   "Omnath, Locus of Creation",
+   "Up the Beanstalk",
+   "Leyline Binding"
+  ],
+  "summary": {
+   "fr": "Deck de valeur cinq couleurs : Bring to Light va chercher Niv-Mizzet Reborn ou la bonne réponse, Omnath, Locus of Creation et les triomes rentabilisant chaque terrain.",
+   "en": "Five-color value deck: Bring to Light finds Niv-Mizzet Reborn or the right answer, while Omnath, Locus of Creation and the triomes turn land drops into value."
+  },
+  "why": {
+   "fr": [
+    "Surtout un deck MTGO, vainqueur de deux Showcase Challenges",
+    "Sylvan Caryatid et Fabled Passage assuraient les cinq couleurs"
+   ],
+   "en": [
+    "Mostly an MTGO deck, with two Showcase Challenge wins",
+    "Sylvan Caryatid and Fabled Passage fixed all five colors"
+   ]
+  }
+ },
+ {
+  "name": "Amalia Combo",
+  "slug": "amalia-combo",
+  "archetype": "combo",
+  "titles": [
+   "Amalia Life",
+   "Amalia-combo"
+  ],
+  "cover": "Amalia Benavides Aguirre",
+  "keyCards": [
+   "Amalia Benavides Aguirre",
+   "Wildgrowth Walker",
+   "Prosperous Innkeeper",
+   "Chord of Calling",
+   "Fauna Shaman"
+  ],
+  "summary": {
+   "fr": "Combo de créatures Abzan : avec Wildgrowth Walker en jeu, chaque gain de vie fait explorer Amalia Benavides Aguirre en boucle jusqu'à 20 de force, ce qui détruit toutes les autres créatures.",
+   "en": "Abzan creature combo: with Wildgrowth Walker in play, any life gain makes Amalia Benavides Aguirre explore in a loop until she reaches 20 power and destroys every other creature."
+  },
+  "why": {
+   "fr": [
+    "A atteint le top 4 du Pro Tour Murders at Karlov Manor",
+    "Chord of Calling, Collected Company et Fauna Shaman réunissaient les deux pièces",
+    "S'arrête au bannissement d'Amalia Benavides Aguirre en août"
+   ],
+   "en": [
+    "Reached the top 4 of Pro Tour Murders at Karlov Manor",
+    "Chord of Calling, Collected Company and Fauna Shaman assembled the two pieces",
+    "Stops at the ban of Amalia Benavides Aguirre in August"
+   ]
+  },
+  "rep": 590477
+ },
+ {
+  "name": "Selesnya Company",
+  "slug": "selesnya-company",
+  "archetype": "aggro",
+  "titles": [
+   "Selesnya Company",
+   "Selesnya Aggro"
+  ],
+  "cover": "Collected Company",
+  "keyCards": [
+   "Collected Company",
+   "Enduring Innocence",
+   "Archon of Emeria",
+   "Aven Interrupter",
+   "Thalia, Guardian of Thraben"
+  ],
+  "summary": {
+   "fr": "Hatebears Selesnya : des elfes à mana puis Thalia, Archon of Emeria et Aven Interrupter, Collected Company mettant deux créatures en jeu à vitesse instantanée.",
+   "en": "Selesnya hatebears: mana elves into Thalia, Archon of Emeria and Aven Interrupter, with Collected Company putting two creatures into play at instant speed."
+  },
+  "why": {
+   "fr": [
+    "Enduring Innocence, issue de Duskmourn, piochait grâce aux petites créatures",
+    "Les créatures de taxe ralentissaient les decks combo à base de sorts",
+    "Finaliste de l'Ultimate Guard Pioneer Open de Lille"
+   ],
+   "en": [
+    "Duskmourn's Enduring Innocence drew cards off the small creatures",
+    "Taxing creatures slowed the format's spell-based combo decks",
+    "Finalist at the Ultimate Guard Pioneer Open in Lille"
+   ]
+  }
+ },
+ {
+  "name": "Rakdos Transmogrify",
+  "slug": "rakdos-transmogrify",
+  "archetype": "combo",
+  "titles": [
+   "Transmogrify",
+   "Rakdos Transmogrify"
+  ],
+  "cover": "Transmogrify",
+  "keyCards": [
+   "Transmogrify",
+   "Atraxa, Grand Unifier",
+   "Fable of the Mirror-Breaker",
+   "Case of the Stashed Skeleton",
+   "Reckoner Bankbuster"
+  ],
+  "summary": {
+   "fr": "Midrange Rakdos avec une fin combo : Transmogrify change un jeton de Fable ou de Case of the Stashed Skeleton en Atraxa, Grand Unifier, seule carte de créature du deck.",
+   "en": "Rakdos midrange with a combo finish: Transmogrify turns a token from Fable or Case of the Stashed Skeleton into Atraxa, Grand Unifier, the deck's only creature card."
+  },
+  "why": {
+   "fr": [
+    "Finaliste du Regional Championship de la SCG CON Washington DC",
+    "Top 4 de la Champions Cup Final au Japon",
+    "Thoughtseize et Fatal Push offraient un plan classique quand le combo était arrêté"
+   ],
+   "en": [
+    "Finalist at the SCG CON Washington DC Regional Championship",
+    "Top 4 at the Champions Cup Final in Japan",
+    "Thoughtseize and Fatal Push gave it a fair game plan when the combo was stopped"
+   ]
+  }
+ },
+ {
+  "name": "Quintorius Combo",
+  "slug": "quintorius-combo",
+  "archetype": "combo",
+  "titles": [
+   "Quintorius"
+  ],
+  "cover": "Quintorius Kand",
+  "keyCards": [
+   "Quintorius Kand",
+   "Spark Double",
+   "Trumpeting Carnosaur",
+   "Beanstalk Giant",
+   "Greater Tanuki"
+  ],
+  "summary": {
+   "fr": "Rampe quatre couleurs autour de la découverte : Trumpeting Carnosaur et Quintorius Kand lancent des sorts depuis l'exil, et chaque copie de Quintorius draine l'adversaire à chaque fois.",
+   "en": "Four-color ramp around discover: Trumpeting Carnosaur and Quintorius Kand cast spells from exile, and each copy of Quintorius drains the opponent for every one of them."
+  },
+  "why": {
+   "fr": [
+    "Spark Double et Clever Impersonator copiaient Quintorius pour multiplier le drain",
+    "Beanstalk Giant et Greater Tanuki allaient chercher des terrains pour atteindre cinq manas tôt",
+    "A remporté un RCQ à la SCG CON Washington DC"
+   ],
+   "en": [
+    "Spark Double and Clever Impersonator copied Quintorius to multiply the drain",
+    "Beanstalk Giant and Greater Tanuki fetched lands to reach five mana early",
+    "Won an RCQ at SCG CON Washington DC"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Control",
+  "slug": "mono-black-control",
+  "archetype": "control",
+  "titles": [
+   "Mono Black Control",
+   "Bloodletter Slasher Black Control",
+   "Mono Black Midrange",
+   "Orzhov Control"
+  ],
+  "cover": "Bloodletter of Aclazotz",
+  "keyCards": [
+   "Bloodletter of Aclazotz",
+   "Unstoppable Slasher",
+   "Unholy Annex/Ritual Chamber",
+   "Sheoldred's Edict",
+   "Invoke Despair"
+  ],
+  "summary": {
+   "fr": "Contrôle mono-noir de défausse et de removal ; après Duskmourn, Unholy Annex et Unstoppable Slasher rejoignent Bloodletter of Aclazotz, qui double les pertes de vie pendant le tour de son contrôleur.",
+   "en": "Mono-black control of discard and removal; after Duskmourn, Unholy Annex and Unstoppable Slasher joined Bloodletter of Aclazotz, which doubles life loss on its controller's turn."
+  },
+  "why": {
+   "fr": [
+    "A remporté la Champions Cup Final au Japon, un autre exemplaire finissant deuxième",
+    "Un coup de Slasher avec Bloodletter en jeu retirait tous les points de vie adverses",
+    "Plus tôt dans l'année, les listes s'appuyaient sur Liliana of the Veil"
+   ],
+   "en": [
+    "Won the Champions Cup Final in Japan, with another copy in second place",
+    "A Slasher hit with Bloodletter in play took the opponent's whole life total",
+    "Earlier in the year, lists relied on Liliana of the Veil"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Waste Not",
+  "slug": "mono-black-waste-not",
+  "archetype": "control",
+  "titles": [
+   "Mono Black Waste Not",
+   "Waste Not"
+  ],
+  "cover": "Waste Not",
+  "keyCards": [
+   "Waste Not",
+   "Go Blank",
+   "Liliana of the Veil",
+   "Hostile Investigator",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Contrôle mono-noir de défausse : Thoughtseize, Go Blank et Liliana of the Veil vident la main adverse, Waste Not changeant chaque défausse en Zombie, en mana ou en carte.",
+   "en": "Mono-black discard control: Thoughtseize, Go Blank and Liliana of the Veil empty the opponent's hand while Waste Not turns each discard into a Zombie, mana or a card."
+  },
+  "why": {
+   "fr": [
+    "A remporté le 14th God of Pioneer à Tokyo et une coupe de la MagicCon Amsterdam",
+    "Hostile Investigator ajoutait une défausse de plus et des jetons Indice",
+    "Présent seulement dans la première moitié de la saison"
+   ],
+   "en": [
+    "Won The 14th God of Pioneer in Tokyo and a MagicCon Amsterdam cup",
+    "Hostile Investigator added another discard effect and Clue tokens",
+    "Present only in the first half of the season"
+   ]
+  }
+ },
+ {
+  "name": "Indomitable Creativity",
+  "slug": "creativity",
+  "archetype": "combo",
+  "titles": [
+   "Creativity"
+  ],
+  "cover": "Indomitable Creativity",
+  "keyCards": [
+   "Indomitable Creativity",
+   "Atraxa, Grand Unifier",
+   "Valgavoth, Terror Eater",
+   "Fable of the Mirror-Breaker",
+   "Case of the Stashed Skeleton"
+  ],
+  "summary": {
+   "fr": "Combo de jetons : Indomitable Creativity détruit un jeton créé par Fable ou Case of the Stashed Skeleton et met en jeu Atraxa ou Valgavoth, parmi les rares créatures du deck.",
+   "en": "Token combo: Indomitable Creativity destroys a token made by Fable or Case of the Stashed Skeleton and puts Atraxa or Valgavoth, among the deck's few creatures, into play."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Regional Championship ANZ Super Series à Sydney",
+    "Thoughtseize et Fatal Push lui donnaient un plan midrange autour du combo"
+   ],
+   "en": [
+    "Won the ANZ Super Series Regional Championship in Sydney",
+    "Thoughtseize and Fatal Push gave it a midrange plan around the combo"
+   ]
+  }
+ },
+ {
+  "name": "Golgari Sacrifice",
+  "slug": "golgari-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Golgari Sacrifice"
+  ],
+  "cover": "Ygra, Eater of All",
+  "keyCards": [
+   "Ygra, Eater of All",
+   "Gilded Goose",
+   "Cauldron Familiar",
+   "Witch's Oven",
+   "Vinereap Mentor"
+  ],
+  "summary": {
+   "fr": "Version Golgari du moteur chat-four : Gilded Goose, Vinereap Mentor et Ygra, Eater of All produisent de la Food pour rappeler Cauldron Familiar, Traverse the Ulvenwald servant de tuteur.",
+   "en": "Golgari version of the Cat-Oven engine: Gilded Goose, Vinereap Mentor and Ygra, Eater of All make Food to recur Cauldron Familiar, with Traverse the Ulvenwald as a tutor."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Regional Championship Ultimate Guard de Lille",
+    "Top 4 du Regional Championship du Mexique"
+   ],
+   "en": [
+    "Won the Ultimate Guard Regional Championship in Lille",
+    "Top 4 at the Mexico Regional Championship"
+   ]
+  }
+ },
+ {
+  "name": "Boros Heroic",
+  "slug": "boros-heroic",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Heroic",
+   "Boros Aggro",
+   "Mardu Aggro Resonance"
+  ],
+  "cover": "Illuminator Virtuoso",
+  "keyCards": [
+   "Illuminator Virtuoso",
+   "Favored Hoplite",
+   "Monastery Swiftspear",
+   "Loran's Escape",
+   "Ancestral Anger"
+  ],
+  "summary": {
+   "fr": "Aggro héroïque Boros : des créatures bon marché qui grandissent quand on les cible, renforcées et protégées par des sorts à un mana comme Loran's Escape et Defiant Strike.",
+   "en": "Boros heroic aggro: cheap creatures that grow when targeted, pumped and protected by one-mana spells such as Loran's Escape and Defiant Strike."
+  },
+  "why": {
+   "fr": [
+    "Finaliste du Pro Tour Murders at Karlov Manor (Simon Nielsen)",
+    "Illuminator Virtuoso complotait et grandissait à chaque sort ciblé"
+   ],
+   "en": [
+    "Finalist at Pro Tour Murders at Karlov Manor (Simon Nielsen)",
+    "Illuminator Virtuoso connived and grew with every targeting spell"
+   ]
+  }
+ },
+ {
+  "name": "Mono-White Humans",
+  "slug": "mono-white-humans",
+  "archetype": "aggro",
+  "titles": [
+   "Weenie White",
+   "Humans",
+   "Orzhov Aggro"
+  ],
+  "cover": "Thalia's Lieutenant",
+  "keyCards": [
+   "Thalia's Lieutenant",
+   "Adeline, Resplendent Cathar",
+   "Thalia, Guardian of Thraben",
+   "Hopeful Initiate",
+   "Brave the Elements"
+  ],
+  "summary": {
+   "fr": "Aggro Humains blanc : créatures bon marché renforcées par Thalia's Lieutenant et Adeline, Cavern of Souls contre les contresorts ; certaines listes ajoutaient du bleu pour Mockingbird.",
+   "en": "White Humans aggro: cheap creatures grown by Thalia's Lieutenant and Adeline, with Cavern of Souls against counterspells; some lists splashed blue for Mockingbird."
+  },
+  "why": {
+   "fr": [
+    "A remporté le Teams Trios Showdown NRG Series d'Indianapolis",
+    "Une version Azorius a atteint la finale du Regional Championship du Mexique",
+    "Thalia, Guardian of Thraben taxait les decks de sorts du format"
+   ],
+   "en": [
+    "Won the NRG Series Teams Trios Showdown in Indianapolis",
+    "An Azorius version reached the final of the Mexico Regional Championship",
+    "Thalia, Guardian of Thraben taxed the format's spell decks"
+   ]
+  }
+ },
+ {
+  "name": "Izzet Ensoul",
+  "slug": "izzet-ensoul",
+  "archetype": "aggro",
+  "titles": [
+   "Artifacts Aggro",
+   "Ensoul Artifact"
+  ],
+  "cover": "Ensoul Artifact",
+  "keyCards": [
+   "Ensoul Artifact",
+   "Darksteel Citadel",
+   "Smuggler's Copter",
+   "Shrapnel Blast",
+   "Spyglass Siren"
+  ],
+  "summary": {
+   "fr": "Aggro artefacts Izzet : Ensoul Artifact change Darksteel Citadel en 5/5 indestructible, avec des créatures-artefacts bon marché, Smuggler's Copter et Shrapnel Blast.",
+   "en": "Izzet artifact aggro: Ensoul Artifact turns Darksteel Citadel into an indestructible 5/5, backed by cheap artifact creatures, Smuggler's Copter and Shrapnel Blast."
+  },
+  "why": {
+   "fr": [
+    "Top 4 de RCQ à la SCG CON Washington DC et à la Dreamhack Dallas",
+    "Shrapnel Blast et Torch the Tower donnaient de la portée quand le board se bloquait"
+   ],
+   "en": [
+    "Top 4 at RCQs at SCG CON Washington DC and Dreamhack Dallas",
+    "Shrapnel Blast and Torch the Tower gave reach once the board stalled"
+   ]
+  }
+ }
+]
