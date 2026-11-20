@@ -6,7 +6,7 @@ REPO = os.path.dirname(os.path.dirname(HERE))
 # Format: MTG_FORMAT=standard (default) | modern. Each format has its own work dir, editorial
 # layer, extra results, date fixes, seasons file and output folder.
 FORMAT = os.environ.get('MTG_FORMAT', 'standard')
-FORMAT_CODE = {'standard': 'ST', 'modern': 'MO', 'pioneer': 'PI', 'legacy': 'LE', 'vintage': 'VI', 'pauper': 'PAU'}[FORMAT]
+FORMAT_CODE = {'standard': 'ST', 'modern': 'MO', 'pioneer': 'PI', 'legacy': 'LE', 'vintage': 'VI', 'pauper': 'PAU', 'premodern': 'PREM'}[FORMAT]
 WORK = os.environ.get('MTG_PIPELINE_WORK', os.path.join(REPO, '.pipeline', FORMAT))
 SRC = os.path.join(REPO, 'data-src', FORMAT)
 EDITORIAL = os.environ.get('MTG_EDITORIAL', os.path.join(SRC, 'editorial'))

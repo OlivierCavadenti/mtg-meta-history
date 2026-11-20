@@ -1,4 +1,4 @@
-export type FormatId = 'standard' | 'pioneer' | 'modern' | 'legacy' | 'vintage' | 'pauper'
+export type FormatId = 'standard' | 'pioneer' | 'modern' | 'legacy' | 'vintage' | 'pauper' | 'premodern'
 
 export type Archetype = 'aggro' | 'midrange' | 'control' | 'combo' | 'tempo' | 'ramp'
 

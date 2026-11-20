@@ -44,6 +44,7 @@ total_top8 = {}
 for sid in season_ids:
     total_top8[sid] = sum(1 for r in season_rows(sid) if r['rank'] in TOP8)
 # set types whose cards enter the format (Modern also takes the Modern Horizons sets)
+PRINT_CUTOFF = '2003-07-01' if FORMAT == 'premodern' else None
 LEGAL_SET_TYPES = {'core', 'expansion'} | ({'draft_innovation'} if FORMAT == 'modern' else set())
 first_season = {}
 seasons_of = collections.defaultdict(set)
@@ -109,12 +110,14 @@ for name, sid in first_season.items():
     pr = lookup(name)
     if not pr: missing.add(name); continue
     info = pr['info']
-    p = pick_print(pr['prints'], season_end[sid])
+    # Premodern's card pool ends with Scourge (2003): show the original, old-frame printings
+    cutoff = lambda end: min(end, PRINT_CUTOFF) if PRINT_CUTOFF else end
+    p = pick_print(pr['prints'], cutoff(season_end[sid]))
     cards[name] = {'m': info['m'], 'c': info['c'], 't': kind(info['t']), 'k': ''.join(c for c in ORDER if c in (info['k'] or '')), 'i': p['id']}
     # printing of the era for every other season the card is played in, when it differs
     eras = {}
     for other in sorted(seasons_of[name]):
-        q = pick_print(pr['prints'], season_end[other])
+        q = pick_print(pr['prints'], cutoff(season_end[other]))
         if q['id'] != p['id']:
             eras[other] = q['id']
     if eras:

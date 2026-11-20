@@ -1,6 +1,7 @@
 import type { CardInfo, Deck, FormatData, FormatId, Season, SeasonWithDecks } from './types'
 import { STANDARD_SEASONS } from './standard/seasons'
 import { MODERN_SEASONS } from './modern/seasons'
+import { PREMODERN_SEASONS } from './premodern/seasons'
 
 type SeasonFile = { season: string; decks: Deck[] }
 type Loader<T> = () => Promise<T>
@@ -17,6 +18,11 @@ const SOURCES: Partial<Record<FormatId, { seasons: Season[]; decks: Record<strin
     seasons: MODERN_SEASONS,
     decks: import.meta.glob<SeasonFile>('./modern/decks/*.json', { import: 'default' }),
     cards: () => import('./modern/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
+  },
+  premodern: {
+    seasons: PREMODERN_SEASONS,
+    decks: import.meta.glob<SeasonFile>('./premodern/decks/*.json', { import: 'default' }),
+    cards: () => import('./premodern/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
   },
 }
 

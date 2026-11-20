@@ -4,10 +4,12 @@ import { join } from 'node:path'
 import type { CardInfo, Deck, Season } from '../src/data/types'
 import { STANDARD_SEASONS } from '../src/data/standard/seasons'
 import { MODERN_SEASONS } from '../src/data/modern/seasons'
+import { PREMODERN_SEASONS } from '../src/data/premodern/seasons'
 
 const FORMATS: [string, Season[]][] = [
   ['standard', STANDARD_SEASONS],
   ['modern', MODERN_SEASONS],
+  ['premodern', PREMODERN_SEASONS],
 ]
 const ARCH = new Set(['aggro', 'midrange', 'control', 'combo', 'tempo', 'ramp'])
 
