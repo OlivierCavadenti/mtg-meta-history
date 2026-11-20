@@ -387,6 +387,39 @@
     ]
   },
   {
+    "name": "Tinker Fling",
+    "slug": "tinker-fling",
+    "archetype": "combo",
+    "titles": [
+      "Devourer Combo",
+      "Tinker Fling"
+    ],
+    "cover": "Phyrexian Devourer",
+    "keyCards": [
+      "Phyrexian Devourer",
+      "Tinker",
+      "Fling",
+      "Altar of Dementia",
+      "Defense Grid"
+    ],
+    "summary": {
+      "en": "Artifact combo: Tinker puts Phyrexian Devourer into play, Altar of Dementia exiles the library to grow it, and Fling throws the huge creature at the opponent.",
+      "fr": "Combo artefacts : Tinker met en jeu Phyrexian Devourer, Altar of Dementia exile la bibliothèque pour le faire grossir, et Fling lance l'énorme créature sur l'adversaire."
+    },
+    "why": {
+      "en": [
+        "Won the Slovak championship and the $1K at SCG CON Hartford",
+        "Reached the final of the Argentine national championship",
+        "Sky Diamond and Mind Stone helped cast Tinker on the second turn"
+      ],
+      "fr": [
+        "A remporté le championnat slovaque et le $1K de la SCG CON Hartford",
+        "A atteint la finale du championnat national argentin",
+        "Sky Diamond et Mind Stone aidaient à lancer Tinker au deuxième tour"
+      ]
+    }
+  },
+  {
     "name": "Psychatog",
     "slug": "psychatog",
     "archetype": "control",
@@ -428,39 +461,6 @@
     "include": [
       785759
     ]
-  },
-  {
-    "name": "Tinker Fling",
-    "slug": "tinker-fling",
-    "archetype": "combo",
-    "titles": [
-      "Devourer Combo",
-      "Tinker Fling"
-    ],
-    "cover": "Phyrexian Devourer",
-    "keyCards": [
-      "Phyrexian Devourer",
-      "Tinker",
-      "Fling",
-      "Altar of Dementia",
-      "Defense Grid"
-    ],
-    "summary": {
-      "en": "Artifact combo: Tinker puts Phyrexian Devourer into play, Altar of Dementia exiles the library to grow it, and Fling throws the huge creature at the opponent.",
-      "fr": "Combo artefacts : Tinker met en jeu Phyrexian Devourer, Altar of Dementia exile la bibliothèque pour le faire grossir, et Fling lance l'énorme créature sur l'adversaire."
-    },
-    "why": {
-      "en": [
-        "Won the Slovak championship and the $1K at SCG CON Hartford",
-        "Reached the final of the Argentine national championship",
-        "Sky Diamond and Mind Stone helped cast Tinker on the second turn"
-      ],
-      "fr": [
-        "A remporté le championnat slovaque et le $1K de la SCG CON Hartford",
-        "A atteint la finale du championnat national argentin",
-        "Sky Diamond et Mind Stone aidaient à lancer Tinker au deuxième tour"
-      ]
-    }
   },
   {
     "name": "UG Madness",
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "name": "Oath",
+    "name": "Oath of Druids",
     "slug": "oath",
     "archetype": "control",
     "titles": [
@@ -713,6 +713,38 @@
     ]
   },
   {
+    "name": "Full English Breakfast",
+    "slug": "full-english-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Full English Breakfast"
+    ],
+    "cover": "Hermit Druid",
+    "keyCards": [
+      "Hermit Druid",
+      "Volrath's Shapeshifter",
+      "Survival of the Fittest",
+      "Unearth",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "en": "Graveyard combo: Hermit Druid mills the whole library, then Volrath's Shapeshifter copies the top creature of the graveyard to win; Survival of the Fittest and Unearth assemble the pieces.",
+      "fr": "Combo cimetière : Hermit Druid meule toute la bibliothèque, puis Volrath's Shapeshifter copie la créature du dessus du cimetière pour gagner ; Survival of the Fittest et Unearth assemblent les pièces."
+    },
+    "why": {
+      "en": [
+        "Won the Bogardans War in Bologna",
+        "Akroma, Angel of Wrath and Triskelion were the usual targets of the Shapeshifter",
+        "Cabal Therapy protected the combo turn"
+      ],
+      "fr": [
+        "A remporté le Bogardans War à Bologne",
+        "Akroma, Angel of Wrath et Triskelion étaient les cibles habituelles du Shapeshifter",
+        "Cabal Therapy protégeait le tour du combo"
+      ]
+    }
+  },
+  {
     "name": "Stasis",
     "slug": "stasis",
     "archetype": "control",
@@ -745,34 +777,36 @@
     }
   },
   {
-    "name": "Full English Breakfast",
-    "slug": "full-english-breakfast",
-    "archetype": "combo",
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
+    "archetype": "aggro",
     "titles": [
-      "Full English Breakfast"
+      "RG Aggro",
+      "RG Aggro (Gruul)",
+      "Rg Aggro"
     ],
-    "cover": "Hermit Druid",
+    "cover": "Call of the Herd",
     "keyCards": [
-      "Hermit Druid",
-      "Volrath's Shapeshifter",
-      "Survival of the Fittest",
-      "Unearth",
-      "Cabal Therapy"
+      "Call of the Herd",
+      "Grim Lavamancer",
+      "Lightning Bolt",
+      "Mogg Fanatic",
+      "Treetop Village"
     ],
     "summary": {
-      "en": "Graveyard combo: Hermit Druid mills the whole library, then Volrath's Shapeshifter copies the top creature of the graveyard to win; Survival of the Fittest and Unearth assemble the pieces.",
-      "fr": "Combo cimetière : Hermit Druid meule toute la bibliothèque, puis Volrath's Shapeshifter copie la créature du dessus du cimetière pour gagner ; Survival of the Fittest et Unearth assemblent les pièces."
+      "en": "Red-green aggro: efficient green creatures such as Call of the Herd and Wild Mongrel backed by Lightning Bolt, Grim Lavamancer and Treetop Village.",
+      "fr": "Aggro rouge-vert : créatures vertes efficaces comme Call of the Herd et Wild Mongrel, soutenues par Lightning Bolt, Grim Lavamancer et Treetop Village."
     },
     "why": {
       "en": [
-        "Won the Bogardans War in Bologna",
-        "Akroma, Angel of Wrath and Triskelion were the usual targets of the Shapeshifter",
-        "Cabal Therapy protected the combo turn"
+        "Reached the top 4 of the European Championships in Tampere",
+        "Call of the Herd and Wild Mongrel held off other aggro decks",
+        "No event win in the year"
       ],
       "fr": [
-        "A remporté le Bogardans War à Bologne",
-        "Akroma, Angel of Wrath et Triskelion étaient les cibles habituelles du Shapeshifter",
-        "Cabal Therapy protégeait le tour du combo"
+        "A atteint le top 4 du championnat d'Europe à Tampere",
+        "Call of the Herd et Wild Mongrel tenaient tête aux autres decks aggro",
+        "Aucune victoire de tournoi dans l'année"
       ]
     }
   },
@@ -844,40 +878,6 @@
     }
   },
   {
-    "name": "RG Aggro",
-    "slug": "rg-aggro",
-    "archetype": "aggro",
-    "titles": [
-      "RG Aggro",
-      "RG Aggro (Gruul)",
-      "Rg Aggro"
-    ],
-    "cover": "Call of the Herd",
-    "keyCards": [
-      "Call of the Herd",
-      "Grim Lavamancer",
-      "Lightning Bolt",
-      "Mogg Fanatic",
-      "Treetop Village"
-    ],
-    "summary": {
-      "en": "Red-green aggro: efficient green creatures such as Call of the Herd and Wild Mongrel backed by Lightning Bolt, Grim Lavamancer and Treetop Village.",
-      "fr": "Aggro rouge-vert : créatures vertes efficaces comme Call of the Herd et Wild Mongrel, soutenues par Lightning Bolt, Grim Lavamancer et Treetop Village."
-    },
-    "why": {
-      "en": [
-        "Reached the top 4 of the European Championships in Tampere",
-        "Call of the Herd and Wild Mongrel held off other aggro decks",
-        "No event win in the year"
-      ],
-      "fr": [
-        "A atteint le top 4 du championnat d'Europe à Tampere",
-        "Call of the Herd et Wild Mongrel tenaient tête aux autres decks aggro",
-        "Aucune victoire de tournoi dans l'année"
-      ]
-    }
-  },
-  {
     "name": "Welder Tinker",
     "slug": "welder-tinker",
     "archetype": "control",
@@ -941,40 +941,6 @@
         "A remporté le Torneo del Potere en Italie",
         "Eternal Dragon et Exalted Angel étaient les finisseurs",
         "Gerrard's Verdict et Duress attaquaient la main"
-      ]
-    }
-  },
-  {
-    "name": "Broccoli Soup",
-    "slug": "broccoli-soup",
-    "archetype": "aggro",
-    "titles": [
-      "Broccoli Soup",
-      "Darigaaz Aggro",
-      "Rancored Suicide"
-    ],
-    "cover": "Carnophage",
-    "keyCards": [
-      "Carnophage",
-      "Sarcomancy",
-      "Rancor",
-      "Dauthi Slayer",
-      "Drinker of Sorrow"
-    ],
-    "summary": {
-      "en": "Black-green aggro: cheap black creatures such as Carnophage, Sarcomancy and the shadow Dauthi attack early, with discard and Rancor to push the last points.",
-      "fr": "Aggro noir-vert : des créatures noires bon marché comme Carnophage, Sarcomancy et les Dauthi à ombre attaquent tôt, avec la défausse et Rancor pour les derniers points."
-    },
-    "why": {
-      "en": [
-        "Won the ROC Royals Winter Ball and a PIL Online League",
-        "Also reached the top 4 of the Polish national championship",
-        "Drinker of Sorrow and the Dauthi hit hard for their cost"
-      ],
-      "fr": [
-        "A remporté le ROC Royals Winter Ball et une PIL Online League",
-        "A aussi atteint le top 4 du championnat national polonais",
-        "Drinker of Sorrow et les Dauthi frappaient fort pour leur coût"
       ]
     }
   },
@@ -1043,6 +1009,152 @@
         "A fait des top 8 toute l'année sans victoire",
         "Phantom Nishoba et Multani, Maro-Sorcerer étaient des cibles courantes",
         "Lotus Petal et Dark Ritual permettaient une réanimation au premier tour"
+      ]
+    }
+  },
+  {
+    "name": "Broccoli Soup",
+    "slug": "broccoli-soup",
+    "archetype": "aggro",
+    "titles": [
+      "Broccoli Soup",
+      "Darigaaz Aggro",
+      "Rancored Suicide"
+    ],
+    "cover": "Carnophage",
+    "keyCards": [
+      "Carnophage",
+      "Sarcomancy",
+      "Rancor",
+      "Dauthi Slayer",
+      "Drinker of Sorrow"
+    ],
+    "summary": {
+      "en": "Black-green aggro: cheap black creatures such as Carnophage, Sarcomancy and the shadow Dauthi attack early, with discard and Rancor to push the last points.",
+      "fr": "Aggro noir-vert : des créatures noires bon marché comme Carnophage, Sarcomancy et les Dauthi à ombre attaquent tôt, avec la défausse et Rancor pour les derniers points."
+    },
+    "why": {
+      "en": [
+        "Won the ROC Royals Winter Ball and a PIL Online League",
+        "Also reached the top 4 of the Polish national championship",
+        "Drinker of Sorrow and the Dauthi hit hard for their cost"
+      ],
+      "fr": [
+        "A remporté le ROC Royals Winter Ball et une PIL Online League",
+        "A aussi atteint le top 4 du championnat national polonais",
+        "Drinker of Sorrow et les Dauthi frappaient fort pour leur coût"
+      ]
+    }
+  },
+  {
+    "name": "Zombie Infestation",
+    "slug": "zombie-infestation",
+    "archetype": "aggro",
+    "titles": [
+      "Aggro Zombie Infestation",
+      "GB Infestation Aggro",
+      "Zombie Infestatio Aggro",
+      "Zombie Infestation Aggro",
+      "Zombie Infestation Aggro Jund"
+    ],
+    "cover": "Zombie Infestation",
+    "keyCards": [
+      "Zombie Infestation",
+      "Wild Mongrel",
+      "Survival of the Fittest",
+      "Basking Rootwalla",
+      "Krovikan Horror"
+    ],
+    "summary": {
+      "en": "Black-green madness aggro: Zombie Infestation, Survival of the Fittest and Wild Mongrel discard madness creatures, Krovikan Horror and Squee for repeated tokens.",
+      "fr": "Aggro madness noir-vert : Zombie Infestation, Survival of the Fittest et Wild Mongrel défaussent des créatures madness, Krovikan Horror et Squee pour des jetons à répétition."
+    },
+    "why": {
+      "en": [
+        "Won the NEPM Summer Regional in New England",
+        "Krovikan Horror returned to hand for repeated discard",
+        "Survival of the Fittest found Squee and Arrogant Wurm"
+      ],
+      "fr": [
+        "A remporté le NEPM Summer Regional en Nouvelle-Angleterre",
+        "Krovikan Horror revenait en main pour être défaussé à nouveau",
+        "Survival of the Fittest allait chercher Squee et Arrogant Wurm"
+      ]
+    }
+  },
+  {
+    "name": "Oppo Survival",
+    "slug": "oppo-survival",
+    "archetype": "control",
+    "titles": [
+      "Oppo Surival",
+      "Oppo Survival",
+      "Opposition Survival",
+      "Survival Opposition"
+    ],
+    "cover": "Opposition",
+    "keyCards": [
+      "Opposition",
+      "Survival of the Fittest",
+      "Winter Orb",
+      "Birds of Paradise",
+      "Tradewind Rider"
+    ],
+    "summary": {
+      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
+      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
+    },
+    "why": {
+      "en": [
+        "Made top 8s in online leagues and regional events",
+        "Opposition locked lands once enough creatures were in play",
+        "Natural Order could fetch a large creature"
+      ],
+      "fr": [
+        "A fait des top 8 en ligues en ligne et en tournois régionaux",
+        "Opposition verrouillait les terrains une fois assez de créatures en jeu",
+        "Natural Order pouvait aller chercher une grosse créature"
+      ]
+    },
+    "include": [
+      695295,
+      716714,
+      722192,
+      729155,
+      747383
+    ]
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "midrange",
+    "titles": [
+      "Mono Red Control",
+      "Ponza",
+      "Red Ponza"
+    ],
+    "cover": "Avalanche Riders",
+    "keyCards": [
+      "Avalanche Riders",
+      "Pillage",
+      "Stone Rain",
+      "Rishadan Port",
+      "Wasteland"
+    ],
+    "summary": {
+      "en": "Mono-red land destruction: Stone Rain, Pillage, Avalanche Riders, Rishadan Port and Wasteland keep the opponent short of mana while burn and manlands finish.",
+      "fr": "Destruction de terrains mono-rouge : Stone Rain, Pillage, Avalanche Riders, Rishadan Port et Wasteland privent l'adversaire de mana, puis les sorts de dégâts et les terrains-créatures concluent."
+    },
+    "why": {
+      "en": [
+        "Reached the final of the Super Event at Bazar de Bagdá",
+        "Veteran Brawlers and Avalanche Riders added pressure",
+        "No event win in the year"
+      ],
+      "fr": [
+        "A atteint la finale du Super Event du Bazar de Bagdá",
+        "Veteran Brawlers et Avalanche Riders ajoutaient de la pression",
+        "Aucune victoire de tournoi dans l'année"
       ]
     }
   },
@@ -1126,115 +1238,39 @@
     ]
   },
   {
-    "name": "Ponza",
-    "slug": "ponza",
-    "archetype": "midrange",
-    "titles": [
-      "Mono Red Control",
-      "Ponza",
-      "Red Ponza"
-    ],
-    "cover": "Avalanche Riders",
-    "keyCards": [
-      "Avalanche Riders",
-      "Pillage",
-      "Stone Rain",
-      "Rishadan Port",
-      "Wasteland"
-    ],
-    "summary": {
-      "en": "Mono-red land destruction: Stone Rain, Pillage, Avalanche Riders, Rishadan Port and Wasteland keep the opponent short of mana while burn and manlands finish.",
-      "fr": "Destruction de terrains mono-rouge : Stone Rain, Pillage, Avalanche Riders, Rishadan Port et Wasteland privent l'adversaire de mana, puis les sorts de dégâts et les terrains-créatures concluent."
-    },
-    "why": {
-      "en": [
-        "Reached the final of the Super Event at Bazar de Bagdá",
-        "Veteran Brawlers and Avalanche Riders added pressure",
-        "No event win in the year"
-      ],
-      "fr": [
-        "A atteint la finale du Super Event du Bazar de Bagdá",
-        "Veteran Brawlers et Avalanche Riders ajoutaient de la pression",
-        "Aucune victoire de tournoi dans l'année"
-      ]
-    }
-  },
-  {
-    "name": "Zombie Infestation Aggro",
-    "slug": "zombie-infestation-aggro",
+    "name": "Tireless Tribe",
+    "slug": "tireless-tribe",
     "archetype": "aggro",
     "titles": [
-      "Aggro Zombie Infestation",
-      "GB Infestation Aggro",
-      "Zombie Infestatio Aggro",
-      "Zombie Infestation Aggro",
-      "Zombie Infestation Aggro Jund"
+      "About Face",
+      "Tireless Tribe"
     ],
-    "cover": "Zombie Infestation",
+    "cover": "Tireless Tribe",
     "keyCards": [
-      "Zombie Infestation",
+      "Tireless Tribe",
       "Wild Mongrel",
-      "Survival of the Fittest",
-      "Basking Rootwalla",
-      "Krovikan Horror"
+      "Arrogant Wurm",
+      "Circular Logic",
+      "Call of the Herd"
     ],
     "summary": {
-      "en": "Black-green madness aggro: Zombie Infestation, Survival of the Fittest and Wild Mongrel discard madness creatures, Krovikan Horror and Squee for repeated tokens.",
-      "fr": "Aggro madness noir-vert : Zombie Infestation, Survival of the Fittest et Wild Mongrel défaussent des créatures madness, Krovikan Horror et Squee pour des jetons à répétition."
+      "en": "Green-white madness aggro: Tireless Tribe and Wild Mongrel discard madness cards, and About Face or a fattened Tribe turns the board around.",
+      "fr": "Aggro madness vert-blanc : Tireless Tribe et Wild Mongrel défaussent des cartes madness, et About Face ou une Tribe grossie renversent le combat."
     },
     "why": {
       "en": [
-        "Won the NEPM Summer Regional in New England",
-        "Krovikan Horror returned to hand for repeated discard",
-        "Survival of the Fittest found Squee and Arrogant Wurm"
+        "Won La Previa, a side event of the Spanish national championship",
+        "Also won the Sunday Showdown at Eternal Weekend in Pittsburgh",
+        "Circular Logic and About Face used the graveyard built by madness"
       ],
       "fr": [
-        "A remporté le NEPM Summer Regional en Nouvelle-Angleterre",
-        "Krovikan Horror revenait en main pour être défaussé à nouveau",
-        "Survival of the Fittest allait chercher Squee et Arrogant Wurm"
-      ]
-    }
-  },
-  {
-    "name": "Oppo Survival",
-    "slug": "oppo-survival",
-    "archetype": "control",
-    "titles": [
-      "Oppo Surival",
-      "Oppo Survival",
-      "Opposition Survival",
-      "Survival Opposition"
-    ],
-    "cover": "Opposition",
-    "keyCards": [
-      "Opposition",
-      "Survival of the Fittest",
-      "Winter Orb",
-      "Birds of Paradise",
-      "Tradewind Rider"
-    ],
-    "summary": {
-      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
-      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
-    },
-    "why": {
-      "en": [
-        "Made top 8s in online leagues and regional events",
-        "Opposition locked lands once enough creatures were in play",
-        "Natural Order could fetch a large creature"
-      ],
-      "fr": [
-        "A fait des top 8 en ligues en ligne et en tournois régionaux",
-        "Opposition verrouillait les terrains une fois assez de créatures en jeu",
-        "Natural Order pouvait aller chercher une grosse créature"
+        "A remporté La Previa, side event du championnat national espagnol",
+        "A aussi gagné le Sunday Showdown de l'Eternal Weekend à Pittsburgh",
+        "Circular Logic et About Face profitaient du cimetière rempli par la madness"
       ]
     },
     "include": [
-      695295,
-      716714,
-      722192,
-      729155,
-      747383
+      716756
     ]
   },
   {
@@ -1281,42 +1317,6 @@
       765759,
       777273,
       779191
-    ]
-  },
-  {
-    "name": "Tireless Tribe",
-    "slug": "tireless-tribe",
-    "archetype": "aggro",
-    "titles": [
-      "About Face",
-      "Tireless Tribe"
-    ],
-    "cover": "Tireless Tribe",
-    "keyCards": [
-      "Tireless Tribe",
-      "Wild Mongrel",
-      "Arrogant Wurm",
-      "Circular Logic",
-      "Call of the Herd"
-    ],
-    "summary": {
-      "en": "Green-white madness aggro: Tireless Tribe and Wild Mongrel discard madness cards, and About Face or a fattened Tribe turns the board around.",
-      "fr": "Aggro madness vert-blanc : Tireless Tribe et Wild Mongrel défaussent des cartes madness, et About Face ou une Tribe grossie renversent le combat."
-    },
-    "why": {
-      "en": [
-        "Won La Previa, a side event of the Spanish national championship",
-        "Also won the Sunday Showdown at Eternal Weekend in Pittsburgh",
-        "Circular Logic and About Face used the graveyard built by madness"
-      ],
-      "fr": [
-        "A remporté La Previa, side event du championnat national espagnol",
-        "A aussi gagné le Sunday Showdown de l'Eternal Weekend à Pittsburgh",
-        "Circular Logic et About Face profitaient du cimetière rempli par la madness"
-      ]
-    },
-    "include": [
-      716756
     ]
   },
   {

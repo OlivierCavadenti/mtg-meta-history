@@ -450,8 +450,8 @@
     ]
   },
   {
-    "name": "RG Aggro",
-    "slug": "rg-aggro",
+    "name": "Gruul Aggro",
+    "slug": "gruul-aggro",
     "archetype": "aggro",
     "titles": [
       "RG Aggro",
@@ -561,39 +561,6 @@
     }
   },
   {
-    "name": "Ponza",
-    "slug": "ponza",
-    "archetype": "midrange",
-    "titles": [
-      "Ponza",
-      "Ponza Red"
-    ],
-    "cover": "Avalanche Riders",
-    "keyCards": [
-      "Avalanche Riders",
-      "Pillage",
-      "Stone Rain",
-      "Rishadan Port",
-      "Wasteland"
-    ],
-    "summary": {
-      "en": "Mono-red land destruction: Stone Rain, Pillage, Avalanche Riders, Rishadan Port and Wasteland keep the opponent short of mana while burn and manlands finish.",
-      "fr": "Destruction de terrains mono-rouge : Stone Rain, Pillage, Avalanche Riders, Rishadan Port et Wasteland privent l'adversaire de mana, puis les sorts de dégâts et les terrains-créatures concluent."
-    },
-    "why": {
-      "en": [
-        "Won the Chilean Premier League",
-        "Pillage and Stone Rain punished greedy mana bases",
-        "Also made the top 4 of the Polish national championship"
-      ],
-      "fr": [
-        "A remporté la Premier League chilienne",
-        "Pillage et Stone Rain punissaient les bases de mana gourmandes",
-        "A aussi fait le top 4 du championnat national polonais"
-      ]
-    }
-  },
-  {
     "name": "The Rock",
     "slug": "the-rock",
     "archetype": "midrange",
@@ -629,6 +596,39 @@
     "include": [
       814943
     ]
+  },
+  {
+    "name": "Ponza",
+    "slug": "ponza",
+    "archetype": "midrange",
+    "titles": [
+      "Ponza",
+      "Ponza Red"
+    ],
+    "cover": "Avalanche Riders",
+    "keyCards": [
+      "Avalanche Riders",
+      "Pillage",
+      "Stone Rain",
+      "Rishadan Port",
+      "Wasteland"
+    ],
+    "summary": {
+      "en": "Mono-red land destruction: Stone Rain, Pillage, Avalanche Riders, Rishadan Port and Wasteland keep the opponent short of mana while burn and manlands finish.",
+      "fr": "Destruction de terrains mono-rouge : Stone Rain, Pillage, Avalanche Riders, Rishadan Port et Wasteland privent l'adversaire de mana, puis les sorts de dégâts et les terrains-créatures concluent."
+    },
+    "why": {
+      "en": [
+        "Won the Chilean Premier League",
+        "Pillage and Stone Rain punished greedy mana bases",
+        "Also made the top 4 of the Polish national championship"
+      ],
+      "fr": [
+        "A remporté la Premier League chilienne",
+        "Pillage et Stone Rain punissaient les bases de mana gourmandes",
+        "A aussi fait le top 4 du championnat national polonais"
+      ]
+    }
   },
   {
     "name": "Survival",
@@ -667,7 +667,76 @@
     ]
   },
   {
-    "name": "Oath",
+    "name": "Oppo Survival",
+    "slug": "oppo-survival",
+    "archetype": "control",
+    "titles": [
+      "Oppo Survival",
+      "Oppo survival",
+      "Survival Opposition"
+    ],
+    "cover": "Opposition",
+    "keyCards": [
+      "Opposition",
+      "Survival of the Fittest",
+      "Winter Orb",
+      "Gaea's Cradle",
+      "Birds of Paradise"
+    ],
+    "summary": {
+      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
+      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
+    },
+    "why": {
+      "en": [
+        "Won the April PIL Online League",
+        "Winter Orb and Tangle Wire slowed the opponent before Opposition",
+        "Gaea's Cradle powered the creature-based mana"
+      ],
+      "fr": [
+        "A remporté la PIL Online League d'avril",
+        "Winter Orb et Tangle Wire ralentissaient l'adversaire avant Opposition",
+        "Gaea's Cradle alimentait le mana des créatures"
+      ]
+    }
+  },
+  {
+    "name": "GAT",
+    "slug": "gat",
+    "archetype": "tempo",
+    "titles": [
+      "GAT",
+      "Gro-a-tog",
+      "Grow",
+      "Super Gro"
+    ],
+    "cover": "Quirion Dryad",
+    "keyCards": [
+      "Quirion Dryad",
+      "Psychatog",
+      "Gush",
+      "Mox Diamond",
+      "Armageddon"
+    ],
+    "summary": {
+      "en": "Multicolour blue tempo: cheap cantrips and Gush grow Quirion Dryad, Meddling Mage names the key opposing card, and Armageddon can lock a game that is already ahead.",
+      "fr": "Tempo bleu multicolore : les cantrips bon marché et Gush font grandir Quirion Dryad, Meddling Mage nomme la carte adverse clé, et Armageddon peut verrouiller une partie déjà en avance."
+    },
+    "why": {
+      "en": [
+        "Won Eurofest 2026 in Valencia",
+        "Also won the German national championship",
+        "Armageddon gave the deck a way to lock games it led"
+      ],
+      "fr": [
+        "A remporté l'Eurofest 2026 à Valence",
+        "A aussi gagné le championnat national allemand",
+        "Armageddon permettait de verrouiller les parties menées"
+      ]
+    }
+  },
+  {
+    "name": "Oath of Druids",
     "slug": "oath",
     "archetype": "control",
     "titles": [],
@@ -780,106 +849,41 @@
     }
   },
   {
-    "name": "Oppo Survival",
-    "slug": "oppo-survival",
-    "archetype": "control",
-    "titles": [
-      "Oppo Survival",
-      "Oppo survival",
-      "Survival Opposition"
-    ],
-    "cover": "Opposition",
-    "keyCards": [
-      "Opposition",
-      "Survival of the Fittest",
-      "Winter Orb",
-      "Gaea's Cradle",
-      "Birds of Paradise"
-    ],
-    "summary": {
-      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
-      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
-    },
-    "why": {
-      "en": [
-        "Won the April PIL Online League",
-        "Winter Orb and Tangle Wire slowed the opponent before Opposition",
-        "Gaea's Cradle powered the creature-based mana"
-      ],
-      "fr": [
-        "A remporté la PIL Online League d'avril",
-        "Winter Orb et Tangle Wire ralentissaient l'adversaire avant Opposition",
-        "Gaea's Cradle alimentait le mana des créatures"
-      ]
-    }
-  },
-  {
-    "name": "GAT",
-    "slug": "gat",
-    "archetype": "tempo",
-    "titles": [
-      "GAT",
-      "Gro-a-tog",
-      "Grow",
-      "Super Gro"
-    ],
-    "cover": "Quirion Dryad",
-    "keyCards": [
-      "Quirion Dryad",
-      "Psychatog",
-      "Gush",
-      "Mox Diamond",
-      "Armageddon"
-    ],
-    "summary": {
-      "en": "Multicolour blue tempo: cheap cantrips and Gush grow Quirion Dryad, Meddling Mage names the key opposing card, and Armageddon can lock a game that is already ahead.",
-      "fr": "Tempo bleu multicolore : les cantrips bon marché et Gush font grandir Quirion Dryad, Meddling Mage nomme la carte adverse clé, et Armageddon peut verrouiller une partie déjà en avance."
-    },
-    "why": {
-      "en": [
-        "Won Eurofest 2026 in Valencia",
-        "Also won the German national championship",
-        "Armageddon gave the deck a way to lock games it led"
-      ],
-      "fr": [
-        "A remporté l'Eurofest 2026 à Valence",
-        "A aussi gagné le championnat national allemand",
-        "Armageddon permettait de verrouiller les parties menées"
-      ]
-    }
-  },
-  {
-    "name": "Angry Ghoul",
-    "slug": "angry-ghoul",
+    "name": "Tinker Fling",
+    "slug": "tinker-fling",
     "archetype": "combo",
     "titles": [
-      "Angry Ghoul",
-      "Angry Hermit"
+      "Devourer Combo",
+      "Tinker Fling"
     ],
-    "cover": "Hermit Druid",
+    "cover": "Phyrexian Devourer",
     "keyCards": [
-      "Hermit Druid",
-      "Sutured Ghoul",
-      "Phyrexian Dreadnought",
-      "Reanimate",
-      "Shallow Grave"
+      "Phyrexian Devourer",
+      "Tinker",
+      "Fling",
+      "Altar of Dementia",
+      "Defense Grid"
     ],
     "summary": {
-      "en": "Graveyard combo: Hermit Druid or Cephalid Illusionist mills the library, then Sutured Ghoul is reanimated, exiling large creatures such as Phyrexian Dreadnought, and attacks with haste from Dragon Breath.",
-      "fr": "Combo cimetière : Hermit Druid ou Cephalid Illusionist meulent la bibliothèque, puis Sutured Ghoul est réanimé en exilant de grosses créatures comme Phyrexian Dreadnought, et attaque avec la célérité de Dragon Breath."
+      "en": "Artifact combo: Tinker puts Phyrexian Devourer into play, Altar of Dementia exiles the library to grow it, and Fling throws the huge creature at the opponent.",
+      "fr": "Combo artefacts : Tinker met en jeu Phyrexian Devourer, Altar of Dementia exile la bibliothèque pour le faire grossir, et Fling lance l'énorme créature sur l'adversaire."
     },
     "why": {
       "en": [
-        "Reached the top 4 of Winter Ball '26 in Rochester",
-        "Phyrexian Dreadnought and Stifle doubled as a second plan",
-        "Worldly Tutor found Hermit Druid"
+        "Reached the top 4 of the German national championship",
+        "Defense Grid protected the combo turn from counterspells",
+        "Some lists added Show and Tell"
       ],
       "fr": [
-        "A atteint le top 4 du Winter Ball '26 à Rochester",
-        "Phyrexian Dreadnought et Stifle servaient de second plan",
-        "Worldly Tutor allait chercher Hermit Druid"
+        "A atteint le top 4 du championnat national allemand",
+        "Defense Grid protégeait le tour du combo contre les contresorts",
+        "Certaines listes ajoutaient Show and Tell"
       ]
-    }
+    },
+    "include": [
+      847234,
+      900220
+    ]
   },
   {
     "name": "Ill-Gotten Gains",
@@ -916,41 +920,37 @@
     }
   },
   {
-    "name": "Tinker Fling",
-    "slug": "tinker-fling",
+    "name": "Angry Ghoul",
+    "slug": "angry-ghoul",
     "archetype": "combo",
     "titles": [
-      "Devourer Combo",
-      "Tinker Fling"
+      "Angry Ghoul",
+      "Angry Hermit"
     ],
-    "cover": "Phyrexian Devourer",
+    "cover": "Hermit Druid",
     "keyCards": [
-      "Phyrexian Devourer",
-      "Tinker",
-      "Fling",
-      "Altar of Dementia",
-      "Defense Grid"
+      "Hermit Druid",
+      "Sutured Ghoul",
+      "Phyrexian Dreadnought",
+      "Reanimate",
+      "Shallow Grave"
     ],
     "summary": {
-      "en": "Artifact combo: Tinker puts Phyrexian Devourer into play, Altar of Dementia exiles the library to grow it, and Fling throws the huge creature at the opponent.",
-      "fr": "Combo artefacts : Tinker met en jeu Phyrexian Devourer, Altar of Dementia exile la bibliothèque pour le faire grossir, et Fling lance l'énorme créature sur l'adversaire."
+      "en": "Graveyard combo: Hermit Druid or Cephalid Illusionist mills the library, then Sutured Ghoul is reanimated, exiling large creatures such as Phyrexian Dreadnought, and attacks with haste from Dragon Breath.",
+      "fr": "Combo cimetière : Hermit Druid ou Cephalid Illusionist meulent la bibliothèque, puis Sutured Ghoul est réanimé en exilant de grosses créatures comme Phyrexian Dreadnought, et attaque avec la célérité de Dragon Breath."
     },
     "why": {
       "en": [
-        "Reached the top 4 of the German national championship",
-        "Defense Grid protected the combo turn from counterspells",
-        "Some lists added Show and Tell"
+        "Reached the top 4 of Winter Ball '26 in Rochester",
+        "Phyrexian Dreadnought and Stifle doubled as a second plan",
+        "Worldly Tutor found Hermit Druid"
       ],
       "fr": [
-        "A atteint le top 4 du championnat national allemand",
-        "Defense Grid protégeait le tour du combo contre les contresorts",
-        "Certaines listes ajoutaient Show and Tell"
+        "A atteint le top 4 du Winter Ball '26 à Rochester",
+        "Phyrexian Dreadnought et Stifle servaient de second plan",
+        "Worldly Tutor allait chercher Hermit Druid"
       ]
-    },
-    "include": [
-      847234,
-      900220
-    ]
+    }
   },
   {
     "name": "The Solution",
@@ -992,41 +992,6 @@
     ]
   },
   {
-    "name": "Mono-Blue Control",
-    "slug": "mono-blue-control",
-    "archetype": "control",
-    "titles": [
-      "Tide Control"
-    ],
-    "cover": "Parallax Tide",
-    "keyCards": [
-      "Parallax Tide",
-      "Counterspell",
-      "Powder Keg",
-      "Chain of Vapor",
-      "Quicksand"
-    ],
-    "summary": {
-      "en": "Mono-blue draw-go: counterspells, Powder Keg and Chain of Vapor answer threats, Parallax Tide removes the opponent's lands for several turns, and manlands win.",
-      "fr": "Draw-go mono-bleu : contresorts, Powder Keg et Chain of Vapor répondent aux menaces, Parallax Tide retire les terrains adverses pendant plusieurs tours, et les terrains-créatures gagnent."
-    },
-    "why": {
-      "en": [
-        "Won the ELD Open in Bellingham a week before Parallax Tide was banned",
-        "Lost its land-removal engine with the January ban",
-        "Barely seen in top 8s for the rest of the year"
-      ],
-      "fr": [
-        "A remporté l'ELD Open de Bellingham une semaine avant le bannissement de Parallax Tide",
-        "A perdu son moteur de retrait de terrains avec le bannissement de janvier",
-        "Presque absent des top 8 le reste de l'année"
-      ]
-    },
-    "include": [
-      842595
-    ]
-  },
-  {
     "name": "Welder Survival",
     "slug": "welder-survival",
     "archetype": "midrange",
@@ -1059,6 +1024,41 @@
     },
     "include": [
       799026
+    ]
+  },
+  {
+    "name": "Mono-Blue Control",
+    "slug": "mono-blue-control",
+    "archetype": "control",
+    "titles": [
+      "Tide Control"
+    ],
+    "cover": "Parallax Tide",
+    "keyCards": [
+      "Parallax Tide",
+      "Counterspell",
+      "Powder Keg",
+      "Chain of Vapor",
+      "Quicksand"
+    ],
+    "summary": {
+      "en": "Mono-blue draw-go: counterspells, Powder Keg and Chain of Vapor answer threats, Parallax Tide removes the opponent's lands for several turns, and manlands win.",
+      "fr": "Draw-go mono-bleu : contresorts, Powder Keg et Chain of Vapor répondent aux menaces, Parallax Tide retire les terrains adverses pendant plusieurs tours, et les terrains-créatures gagnent."
+    },
+    "why": {
+      "en": [
+        "Won the ELD Open in Bellingham a week before Parallax Tide was banned",
+        "Lost its land-removal engine with the January ban",
+        "Barely seen in top 8s for the rest of the year"
+      ],
+      "fr": [
+        "A remporté l'ELD Open de Bellingham une semaine avant le bannissement de Parallax Tide",
+        "A perdu son moteur de retrait de terrains avec le bannissement de janvier",
+        "Presque absent des top 8 le reste de l'année"
+      ]
+    },
+    "include": [
+      842595
     ]
   }
 ]
