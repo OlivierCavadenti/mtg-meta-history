@@ -114,40 +114,69 @@ const onArchetypes = computed(() => route.name === 'archetypes' || route.name ==
 
 .views {
   display: flex;
-  align-items: baseline;
-  gap: var(--space-md);
+  align-self: stretch;
+  align-items: stretch;
+  gap: var(--space-lg);
 }
 
-.view,
-.locale {
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  text-decoration: none;
-  color: var(--muted);
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-}
-
+/* the views (Decks, Archetypes, Staples, Colors) carry the same weight as the format bar */
 .view {
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-heading);
+  font-size: 1.08rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--ink-light);
+  white-space: nowrap;
   transition: color 0.2s var(--ease-out);
 }
 
-.view:hover,
-.locale:hover {
+.view::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 3px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s var(--ease-out);
+}
+
+.view:hover {
   color: var(--ink);
+}
+
+.view:hover::after {
+  transform: scaleX(0.35);
 }
 
 .view.active {
   color: var(--ink);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 4px;
+}
+
+.view.active::after {
+  transform: scaleX(1);
 }
 
 .locale {
+  align-self: center;
+  font-family: var(--font-body);
   font-style: italic;
+  font-size: 0.95rem;
+  color: var(--muted);
+  background: none;
+  border: none;
+  border-left: 1px solid var(--line);
+  padding: 0 0 0 var(--space-md);
+  cursor: pointer;
+}
+
+.locale:hover {
+  color: var(--ink);
 }
 
 @media (max-width: 760px) {
