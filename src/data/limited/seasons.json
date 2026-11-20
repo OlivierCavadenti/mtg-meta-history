@@ -1,5 +1,264 @@
 [
  {
+  "id": "isd",
+  "start": "2011-09-30",
+  "set": "Innistrad",
+  "code": "ISD",
+  "bans": []
+ },
+ {
+  "id": "dka",
+  "start": "2012-02-03",
+  "set": "Dark Ascension",
+  "code": "DKA",
+  "bans": []
+ },
+ {
+  "id": "avr",
+  "start": "2012-05-04",
+  "set": "Avacyn Restored",
+  "code": "AVR",
+  "bans": []
+ },
+ {
+  "id": "m13",
+  "start": "2012-07-13",
+  "set": "Magic 2013",
+  "code": "M13",
+  "bans": []
+ },
+ {
+  "id": "rtr",
+  "start": "2012-10-05",
+  "set": "Return to Ravnica",
+  "code": "RTR",
+  "bans": []
+ },
+ {
+  "id": "gtc",
+  "start": "2013-02-01",
+  "set": "Gatecrash",
+  "code": "GTC",
+  "bans": []
+ },
+ {
+  "id": "dgm",
+  "start": "2013-05-03",
+  "set": "Dragon's Maze",
+  "code": "DGM",
+  "bans": []
+ },
+ {
+  "id": "m14",
+  "start": "2013-07-19",
+  "set": "Magic 2014",
+  "code": "M14",
+  "bans": []
+ },
+ {
+  "id": "ths",
+  "start": "2013-09-27",
+  "set": "Theros",
+  "code": "THS",
+  "bans": []
+ },
+ {
+  "id": "bng",
+  "start": "2014-02-07",
+  "set": "Born of the Gods",
+  "code": "BNG",
+  "bans": []
+ },
+ {
+  "id": "jou",
+  "start": "2014-05-02",
+  "set": "Journey into Nyx",
+  "code": "JOU",
+  "bans": []
+ },
+ {
+  "id": "m15",
+  "start": "2014-07-18",
+  "set": "Magic 2015",
+  "code": "M15",
+  "bans": []
+ },
+ {
+  "id": "ktk",
+  "start": "2014-09-26",
+  "set": "Khans of Tarkir",
+  "code": "KTK",
+  "bans": []
+ },
+ {
+  "id": "frf",
+  "start": "2015-01-23",
+  "set": "Fate Reforged",
+  "code": "FRF",
+  "bans": []
+ },
+ {
+  "id": "dtk",
+  "start": "2015-03-27",
+  "set": "Dragons of Tarkir",
+  "code": "DTK",
+  "bans": []
+ },
+ {
+  "id": "ori",
+  "start": "2015-07-17",
+  "set": "Magic Origins",
+  "code": "ORI",
+  "bans": []
+ },
+ {
+  "id": "bfz",
+  "start": "2015-10-02",
+  "set": "Battle for Zendikar",
+  "code": "BFZ",
+  "bans": []
+ },
+ {
+  "id": "ogw",
+  "start": "2016-01-22",
+  "set": "Oath of the Gatewatch",
+  "code": "OGW",
+  "bans": []
+ },
+ {
+  "id": "soi",
+  "start": "2016-04-08",
+  "set": "Shadows over Innistrad",
+  "code": "SOI",
+  "bans": []
+ },
+ {
+  "id": "emn",
+  "start": "2016-07-22",
+  "set": "Eldritch Moon",
+  "code": "EMN",
+  "bans": []
+ },
+ {
+  "id": "kld",
+  "start": "2016-09-30",
+  "set": "Kaladesh",
+  "code": "KLD",
+  "bans": []
+ },
+ {
+  "id": "aer",
+  "start": "2017-01-20",
+  "set": "Aether Revolt",
+  "code": "AER",
+  "bans": []
+ },
+ {
+  "id": "akh",
+  "start": "2017-04-28",
+  "set": "Amonkhet",
+  "code": "AKH",
+  "bans": []
+ },
+ {
+  "id": "hou",
+  "start": "2017-07-14",
+  "set": "Hour of Devastation",
+  "code": "HOU",
+  "bans": []
+ },
+ {
+  "id": "xln",
+  "start": "2017-09-29",
+  "set": "Ixalan",
+  "code": "XLN",
+  "bans": []
+ },
+ {
+  "id": "rix",
+  "start": "2018-01-19",
+  "set": "Rivals of Ixalan",
+  "code": "RIX",
+  "bans": []
+ },
+ {
+  "id": "dom",
+  "start": "2018-04-27",
+  "set": "Dominaria",
+  "code": "DOM",
+  "bans": []
+ },
+ {
+  "id": "m19",
+  "start": "2018-07-13",
+  "set": "Core Set 2019",
+  "code": "M19",
+  "bans": []
+ },
+ {
+  "id": "grn",
+  "start": "2018-10-05",
+  "set": "Guilds of Ravnica",
+  "code": "GRN",
+  "bans": []
+ },
+ {
+  "id": "rna",
+  "start": "2019-01-25",
+  "set": "Ravnica Allegiance",
+  "code": "RNA",
+  "bans": []
+ },
+ {
+  "id": "war",
+  "start": "2019-05-03",
+  "set": "War of the Spark",
+  "code": "WAR",
+  "bans": []
+ },
+ {
+  "id": "m20",
+  "start": "2019-07-12",
+  "set": "Core Set 2020",
+  "code": "M20",
+  "bans": []
+ },
+ {
+  "id": "eld",
+  "start": "2019-10-04",
+  "set": "Throne of Eldraine",
+  "code": "ELD",
+  "bans": []
+ },
+ {
+  "id": "thb",
+  "start": "2020-01-24",
+  "set": "Theros Beyond Death",
+  "code": "THB",
+  "bans": []
+ },
+ {
+  "id": "iko",
+  "start": "2020-04-24",
+  "set": "Ikoria: Lair of Behemoths",
+  "code": "IKO",
+  "bans": []
+ },
+ {
+  "id": "m21",
+  "start": "2020-07-03",
+  "set": "Core Set 2021",
+  "code": "M21",
+  "bans": []
+ },
+ {
+  "id": "znr",
+  "start": "2020-09-25",
+  "set": "Zendikar Rising",
+  "code": "ZNR",
+  "bans": []
+ },
+ {
   "id": "khm",
   "start": "2021-01-27",
   "set": "Kaldheim",

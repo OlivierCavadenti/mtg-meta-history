@@ -97,7 +97,7 @@ watchEffect(() => {
         </p>
         <p v-if="lineage && lineage.entries.length > 1" class="history-link">
           <router-link :to="`/${formatId}/archetype/${lineage.slug}`">
-            {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ deck.limited ? t('setsPlural') : t('seasonsPlural') }}) →
+            {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ deck.limited || deck.sources ? t('setsPlural') : t('seasonsPlural') }}) →
           </router-link>
         </p>
       </div>
