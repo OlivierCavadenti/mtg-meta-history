@@ -31,6 +31,8 @@ export type CardInfo = {
   i: string
   /** season id -> Scryfall image id, for later seasons where a newer printing existed */
   e?: Record<string, string>
+  /** newest regular printing overall (no Universes Beyond reprint), when different from `i` */
+  n?: string
 }
 
 export type DeckList = {

@@ -4,7 +4,7 @@ import { useRoute, useRouter } from 'vue-router'
 import type { CardKind } from '../data/types'
 import { useFormat } from '../lib/useFormat'
 import { cardUsage, computeStaples } from '../lib/staples'
-import { cardImage, scryfallSearch } from '../lib/cards'
+import { cardImage, LATEST_PRINTING, scryfallSearch } from '../lib/cards'
 import { seasonEndYear, seasonYears, t, type StringKey } from '../lib/i18n'
 import SoonState from '../components/SoonState.vue'
 
@@ -138,8 +138,8 @@ const groups = computed<Group[]>(() => {
           rel="noopener noreferrer"
           :title="u.name"
         >
-          <!-- shown as first printed in the format (its first season), the card's original look -->
-          <img v-fade :src="cardImage(data.cards[u.name], u.name, 'normal', u.seasons[0])" :alt="u.name" loading="lazy" />
+          <!-- newest regular printing (Universes Beyond reprints excluded) -->
+          <img v-fade :src="cardImage(data.cards[u.name], u.name, 'normal', LATEST_PRINTING)" :alt="u.name" loading="lazy" />
         </a>
         <figcaption>
           <span class="rank">{{ i + 1 }}.</span> {{ u.seasons.length }} {{ u.seasons.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}, {{ usageSpan(u) }}

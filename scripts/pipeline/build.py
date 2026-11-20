@@ -28,17 +28,22 @@ def canon(name):
 def lookup(name):
     return prints.get(canon(name))
 BAD_FE = {'showcase', 'extendedart', 'inverted', 'etched', 'fullart'}
-GOOD_ST = {'core', 'expansion', 'masters', 'draft_innovation', 'starter', 'commander', 'duel_deck', 'box'}
+GOOD_ST = {'core', 'expansion', 'masters', 'draft_innovation', 'starter', 'commander', 'duel_deck'}
 def pick_print(ps, before):
-    def ok(p, strict=True):
+    """Newest regular printing released before `before`. Universes Beyond reprints, promos,
+    borderless / showcase / full-art versions and Secret Lair are avoided whenever the card
+    has another printing; a card that only exists in such versions keeps one of them."""
+    def ok(p, strict=True, allow_ub=False):
         if p['dig'] or not p['paper'] or p['tb'] or p['fa'] or p['var'] or p['bd'] in ('borderless', 'gold', 'silver'): return False
         if set(p['fe']) & BAD_FE: return False
+        if p.get('ub') and not allow_ub: return False
         if strict and (p['promo'] or p['st'] not in GOOD_ST): return False
         return True
-    for strict in (True, False):
-        c = [p for p in ps if ok(p, strict) and p['r'] < before]
-        if c: return max(c, key=lambda p: p['r'])
-    c = [p for p in ps if ok(p)] or [p for p in ps if ok(p, False)] or ps
+    for allow_ub in (False, True):
+        for strict in (True, False):
+            c = [p for p in ps if ok(p, strict, allow_ub) and p['r'] < before]
+            if c: return max(c, key=lambda p: p['r'])
+    c = [p for p in ps if ok(p)] or [p for p in ps if ok(p, False, True)] or ps
     return min(c, key=lambda p: p['r'])
 total_top8 = {}
 for sid in season_ids:
@@ -122,5 +127,9 @@ for name, sid in first_season.items():
             eras[other] = q['id']
     if eras:
         cards[name]['e'] = eras
+    # newest regular printing overall (no Universes Beyond reprint), for "most played" views
+    newest = pick_print(pr['prints'], '9999-12-31')['id']
+    if newest != p['id']:
+        cards[name]['n'] = newest
 json.dump(dict(sorted(cards.items())), open(os.path.join(OUT_DIR, 'cards.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 print('cards', len(cards), 'missing', sorted(missing))
