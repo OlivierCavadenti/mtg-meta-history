@@ -1,0 +1,1292 @@
+[
+ {
+  "name": "Oath of Druids",
+  "slug": "oath",
+  "archetype": "combo",
+  "titles": [
+   "Oath of Druids",
+   "Oath Parfait",
+   "Tax-nought",
+   "Not Parfait",
+   "Cataclysm Oath",
+   "Oath",
+   "Parfait Oath",
+   "Oath Ponza"
+  ],
+  "cover": "Oath of Druids",
+  "keyCards": [
+   "Oath of Druids",
+   "Land Tax",
+   "Scroll Rack",
+   "Gush",
+   "Gaea's Blessing"
+  ],
+  "summary": {
+   "en": "Oath of Druids with almost no creatures. Until the July 2023 Land Tax ban it ran Land Tax and Scroll Rack; later lists added Terravore and land destruction.",
+   "fr": "Oath of Druids presque sans créatures. Jusqu'à l'interdiction de Land Tax en juillet 2023, il jouait Land Tax et Scroll Rack ; les listes suivantes ont ajouté Terravore et de la destruction de terrains."
+  },
+  "why": {
+   "en": [
+    "Land Tax and Scroll Rack refilled the hand until the July ban",
+    "Post-ban lists used Terravore, Thermokarst and Sphere of Resistance",
+    "Won the Czech Championship 2023"
+   ],
+   "fr": [
+    "Land Tax et Scroll Rack rechargeaient la main jusqu'à l'interdiction de juillet",
+    "Après l'interdiction, les listes jouaient Terravore, Thermokarst et Sphere of Resistance",
+    "A remporté le Czech Championship 2023"
+   ]
+  },
+  "note": "Includes Oath-based Parfait lists ('Oath Parfait', 'Tax-nought', 'Not Parfait') and 'Oath Ponza'."
+ },
+ {
+  "name": "Goblins",
+  "slug": "goblins",
+  "archetype": "aggro",
+  "titles": [
+   "Goblins"
+  ],
+  "rep": 528788,
+  "cover": "Goblin Lackey",
+  "keyCards": [
+   "Goblin Lackey",
+   "Goblin Matron",
+   "Goblin Ringleader",
+   "Goblin Piledriver",
+   "Siege-Gang Commander"
+  ],
+  "summary": {
+   "en": "Red Goblin tribal from Onslaught block: Goblin Lackey and Goblin Warchief put threats down early, Goblin Matron and Goblin Ringleader refill the hand.",
+   "fr": "Tribal Gobelins rouge du bloc Onslaught : Goblin Lackey et Goblin Warchief posent les menaces tôt, Goblin Matron et Goblin Ringleader rechargent la main."
+  },
+  "why": {
+   "en": [
+    "Goblin Ringleader drew several Goblins at once in longer games",
+    "Gempalm Incinerator and Goblin Sharpshooter handled small opposing creatures",
+    "A green splash added Naturalize against artifacts and enchantments"
+   ],
+   "fr": [
+    "Goblin Ringleader piochait plusieurs Gobelins d'un coup dans les parties longues",
+    "Gempalm Incinerator et Goblin Sharpshooter réglaient les petites créatures adverses",
+    "Un splash vert ajoutait Naturalize contre artefacts et enchantements"
+   ]
+  }
+ },
+ {
+  "name": "Stiflenought",
+  "slug": "stiflenought",
+  "archetype": "tempo",
+  "titles": [
+   "Stiflenought",
+   "Ut Stiflenought",
+   "UW StifleNought"
+  ],
+  "cover": "Phyrexian Dreadnought",
+  "keyCards": [
+   "Phyrexian Dreadnought",
+   "Stifle",
+   "Vision Charm",
+   "Meddling Mage",
+   "Gush"
+  ],
+  "summary": {
+   "en": "Blue tempo built around Phyrexian Dreadnought: Stifle or Vision Charm keeps the one-mana 12/12 in play, while Daze, Foil and Counterspell protect it.",
+   "fr": "Tempo bleu autour de Phyrexian Dreadnought : Stifle ou Vision Charm garde en jeu le 12/12 à un mana, pendant que Daze, Foil et Counterspell le protègent."
+  },
+  "why": {
+   "en": [
+    "Stifle countered the Dreadnought's sacrifice trigger, and Vision Charm phased it out",
+    "A white splash added Meddling Mage and Swords to Plowshares",
+    "Won the Eternal Weekend Europe 2023 main event"
+   ],
+   "fr": [
+    "Stifle contrait le sacrifice du Dreadnought, Vision Charm le mettait hors phase",
+    "Un splash blanc ajoutait Meddling Mage et Swords to Plowshares",
+    "A remporté le tournoi principal de l'Eternal Weekend Europe 2023"
+   ]
+  }
+ },
+ {
+  "name": "Elves",
+  "slug": "elves",
+  "archetype": "aggro",
+  "titles": [
+   "Elves",
+   "Food Chain Elves"
+  ],
+  "include": [
+   545948
+  ],
+  "cover": "Priest of Titania",
+  "keyCards": [
+   "Priest of Titania",
+   "Survival of the Fittest",
+   "Gaea's Cradle",
+   "Wirewood Symbiote",
+   "Biorhythm"
+  ],
+  "summary": {
+   "en": "Green Elves built on Survival of the Fittest: mana elves, Priest of Titania and Gaea's Cradle produce large amounts of mana for Deranged Hermit and a toolbox of single creatures.",
+   "fr": "Elfes verts bâtis sur Survival of the Fittest : elfes à mana, Priest of Titania et Gaea's Cradle produisent beaucoup de mana pour Deranged Hermit et une boîte à outils de créatures."
+  },
+  "why": {
+   "en": [
+    "Wirewood Symbiote and Quirion Ranger reused Multani's Acolyte and untapped elves",
+    "Biorhythm set the opponent's life total to their number of creatures",
+    "Won the European Championship 2023 in Darmstadt"
+   ],
+   "fr": [
+    "Wirewood Symbiote et Quirion Ranger réutilisaient Multani's Acolyte et dégageaient les elfes",
+    "Biorhythm ramenait les points de vie adverses à leur nombre de créatures",
+    "A remporté l'European Championship 2023 à Darmstadt"
+   ]
+  },
+  "note": "Includes 'Food Chain Elves' and one Elves list filed as 'Survival'."
+ },
+ {
+  "name": "The Rock",
+  "slug": "the-rock",
+  "archetype": "midrange",
+  "titles": [
+   "The Rock",
+   "TheRock",
+   "Order Rock",
+   "Gamekeeper Rock",
+   "Gamekeeper",
+   "Survival Rock"
+  ],
+  "cover": "Pernicious Deed",
+  "keyCards": [
+   "Pernicious Deed",
+   "Recurring Nightmare",
+   "Ravenous Baloth",
+   "Cabal Therapy",
+   "Blastoderm"
+  ],
+  "summary": {
+   "en": "Black-green midrange: discard from Duress and Cabal Therapy, Pernicious Deed to clear the board, and value creatures such as Ravenous Baloth looped with Recurring Nightmare.",
+   "fr": "Midrange noir-vert : défausse avec Duress et Cabal Therapy, Pernicious Deed pour nettoyer la table, et créatures de valeur comme Ravenous Baloth recyclées par Recurring Nightmare."
+  },
+  "why": {
+   "en": [
+    "Pernicious Deed swept creatures, artifacts and enchantments at once",
+    "Recurring Nightmare reused Ravenous Baloth and Wall of Blossoms",
+    "Treetop Village gave an extra threat that dodged sorcery-speed removal"
+   ],
+   "fr": [
+    "Pernicious Deed balayait créatures, artefacts et enchantements d'un coup",
+    "Recurring Nightmare réutilisait Ravenous Baloth et Wall of Blossoms",
+    "Treetop Village offrait une menace de plus, à l'abri des rituels de destruction"
+   ]
+  },
+  "note": "Includes 'Order Rock', 'Gamekeeper Rock', 'Gamekeeper' and 'Survival Rock'."
+ },
+ {
+  "name": "Landstill",
+  "slug": "landstill",
+  "archetype": "control",
+  "titles": [
+   "Landstill",
+   "UW Control",
+   "Uw Control",
+   "UW Landstill"
+  ],
+  "include": [
+   556633
+  ],
+  "cover": "Standstill",
+  "keyCards": [
+   "Standstill",
+   "Mishra's Factory",
+   "Decree of Justice",
+   "Humility",
+   "Counterspell"
+  ],
+  "summary": {
+   "en": "White-blue draw-go control: Standstill punishes the first spell cast, Mishra's Factory and Faerie Conclave attack without breaking it, and Wrath of God and Decree of Justice handle the board.",
+   "fr": "Contrôle blanc-bleu en draw-go : Standstill punit le premier sort lancé, Mishra's Factory et Faerie Conclave attaquent sans le briser, Wrath of God et Decree of Justice gèrent la table."
+  },
+  "why": {
+   "en": [
+    "Manlands dealt damage without casting spells, so Standstill stayed in play",
+    "Humility and Wrath of God answered creature decks such as Goblins and Elves",
+    "Won the North American Championship 2023"
+   ],
+   "fr": [
+    "Les terrains-créatures frappaient sans lancer de sort, Standstill restait en jeu",
+    "Humility et Wrath of God répondaient aux decks de créatures comme Goblins et Elves",
+    "A remporté le North American Championship 2023"
+   ]
+  },
+  "note": "mtgtop8 renamed 'UW Control' to 'Landstill' in mid-2023; both titles merged."
+ },
+ {
+  "name": "Replenish",
+  "slug": "replenish",
+  "archetype": "combo",
+  "titles": [
+   "Replenish",
+   "Parallax Replenish"
+  ],
+  "cover": "Replenish",
+  "keyCards": [
+   "Replenish",
+   "Opalescence",
+   "Parallax Wave",
+   "Parallax Tide",
+   "Attunement"
+  ],
+  "summary": {
+   "en": "White-blue enchantment combo: Attunement and Frantic Search discard enchantments, then Replenish returns them all, Parallax Wave and Opalescence first.",
+   "fr": "Combo d'enchantements blanc-bleu : Attunement et Frantic Search défaussent les enchantements, puis Replenish les ramène tous, Parallax Wave et Opalescence en tête."
+  },
+  "why": {
+   "en": [
+    "Replenish put several enchantments into play for four mana",
+    "Opalescence turned the returned enchantments into an army",
+    "Parallax Wave and Parallax Tide removed blockers or lands while it attacked"
+   ],
+   "fr": [
+    "Replenish mettait plusieurs enchantements en jeu pour quatre manas",
+    "Opalescence transformait les enchantements revenus en armée",
+    "Parallax Wave et Parallax Tide retiraient bloqueurs ou terrains pendant l'attaque"
+   ]
+  }
+ },
+ {
+  "name": "Terravore",
+  "slug": "terravore",
+  "archetype": "aggro",
+  "titles": [
+   "Terravore",
+   "Bant Terravore",
+   "GW Terravore",
+   "WG Terravore",
+   "Terraguedon",
+   "4-color Terrageddon",
+   "Devastating Terravore"
+  ],
+  "cover": "Terravore",
+  "keyCards": [
+   "Terravore",
+   "Armageddon",
+   "Mox Diamond",
+   "Weathered Wayfarer",
+   "Sylvan Safekeeper"
+  ],
+  "summary": {
+   "en": "Green-white land destruction: Terravore and threshold creatures grow while Armageddon, Wasteland and Mox Diamond put lands into graveyards.",
+   "fr": "Destruction de terrains vert-blanc : Terravore et les créatures de seuil grandissent pendant qu'Armageddon, Wasteland et Mox Diamond envoient des terrains au cimetière."
+  },
+  "why": {
+   "en": [
+    "Every land in any graveyard made Terravore bigger",
+    "Weathered Wayfarer found Tranquil Thicket and utility lands",
+    "Sylvan Safekeeper protected Terravore by sacrificing lands"
+   ],
+   "fr": [
+    "Chaque terrain dans un cimetière rendait Terravore plus gros",
+    "Weathered Wayfarer allait chercher Tranquil Thicket et des terrains utilitaires",
+    "Sylvan Safekeeper protégeait Terravore en sacrifiant des terrains"
+   ]
+  },
+  "note": "Includes 'GW/Bant Terravore' and the 'Terrageddon' spellings (same deck)."
+ },
+ {
+  "name": "Sligh",
+  "slug": "burn",
+  "archetype": "aggro",
+  "titles": [
+   "Sligh (RDW)",
+   "Red Deck Wins",
+   "Sligh",
+   "RDW",
+   "Burn"
+  ],
+  "include": [
+   572832
+  ],
+  "cover": "Ball Lightning",
+  "keyCards": [
+   "Jackal Pup",
+   "Ball Lightning",
+   "Grim Lavamancer",
+   "Sulfuric Vortex",
+   "Fireblast"
+  ],
+  "summary": {
+   "en": "Mono-red aggro, also called Red Deck Wins: cheap creatures such as Jackal Pup and Ball Lightning, then Lightning Bolt, Incinerate and Fireblast to the face.",
+   "fr": "Aggro mono-rouge, aussi appelé Red Deck Wins : créatures bon marché comme Jackal Pup et Ball Lightning, puis Lightning Bolt, Incinerate et Fireblast au visage."
+  },
+  "why": {
+   "en": [
+    "Grim Lavamancer and Cursed Scroll kept dealing damage after the first creatures died",
+    "Sulfuric Vortex stopped lifegain from decks such as Deadguy Ale",
+    "Won the Nacional España 2023 in Valencia"
+   ],
+   "fr": [
+    "Grim Lavamancer et Cursed Scroll infligeaient encore des dégâts après les premières créatures",
+    "Sulfuric Vortex empêchait les gains de vie de decks comme Deadguy Ale",
+    "A remporté le Nacional España 2023 à Valence"
+   ]
+  },
+  "note": "mtgtop8 renamed 'Red Deck Wins' to 'Sligh (RDW)' in mid-2023; merged with 'Sligh', 'RDW', 'Burn'."
+ },
+ {
+  "name": "Deadguy Ale",
+  "slug": "deadguy-ale",
+  "archetype": "midrange",
+  "titles": [
+   "Deadguy Ale",
+   "Deadguy Control",
+   "Rebel Ale",
+   "Deadguy Rack"
+  ],
+  "cover": "Vindicate",
+  "keyCards": [
+   "Hypnotic Specter",
+   "Exalted Angel",
+   "Vindicate",
+   "Gerrard's Verdict",
+   "Phyrexian Arena"
+  ],
+  "summary": {
+   "en": "White-black midrange: Hypnotic Specter and Exalted Angel as threats, Vindicate and Swords to Plowshares as removal, Gerrard's Verdict and Phyrexian Arena for card advantage.",
+   "fr": "Midrange blanc-noir : Hypnotic Specter et Exalted Angel en menaces, Vindicate et Swords to Plowshares en destruction, Gerrard's Verdict et Phyrexian Arena pour l'avantage de cartes."
+  },
+  "why": {
+   "en": [
+    "Dark Ritual cast Hypnotic Specter on the first turn",
+    "Vindicate answered any permanent, lands included",
+    "Gerrard's Verdict took two cards from the opponent's hand"
+   ],
+   "fr": [
+    "Dark Ritual lançait Hypnotic Specter dès le premier tour",
+    "Vindicate répondait à n'importe quel permanent, terrains compris",
+    "Gerrard's Verdict prenait deux cartes de la main adverse"
+   ]
+  },
+  "note": "Includes 'Deadguy Control', 'Rebel Ale' and 'Deadguy Rack'."
+ },
+ {
+  "name": "Angry Ghoul",
+  "slug": "angry-ghoul",
+  "archetype": "combo",
+  "titles": [
+   "Angry Ghoul",
+   "Angry Hermit"
+  ],
+  "cover": "Sutured Ghoul",
+  "keyCards": [
+   "Hermit Druid",
+   "Sutured Ghoul",
+   "Phyrexian Dreadnought",
+   "Dragon Breath",
+   "Shallow Grave"
+  ],
+  "summary": {
+   "en": "Graveyard combo: Hermit Druid mills the library, then Sutured Ghoul exiles Phyrexian Dreadnought and other creatures to become a huge trampler, given haste by Dragon Breath.",
+   "fr": "Combo de cimetière : Hermit Druid meule la bibliothèque, puis Sutured Ghoul exile Phyrexian Dreadnought et d'autres créatures pour devenir un énorme piétineur, rendu célère par Dragon Breath."
+  },
+  "why": {
+   "en": [
+    "Ran no basic lands, so Hermit Druid milled the entire library",
+    "Dragon Breath returned from the graveyard onto Sutured Ghoul to give it haste",
+    "Krosan Reclamation reshuffled key cards and protected against milling out"
+   ],
+   "fr": [
+    "Sans terrain de base, Hermit Druid meulait toute la bibliothèque",
+    "Dragon Breath revenait du cimetière sur Sutured Ghoul pour lui donner la célérité",
+    "Krosan Reclamation remélangeait les pièces clés et évitait le deck vide"
+   ]
+  }
+ },
+ {
+  "name": "Stasis",
+  "slug": "stasis",
+  "archetype": "control",
+  "titles": [
+   "Stasis"
+  ],
+  "cover": "Stasis",
+  "keyCards": [
+   "Stasis",
+   "Forsaken City",
+   "Black Vise",
+   "Chain of Vapor",
+   "Gush"
+  ],
+  "summary": {
+   "en": "Blue prison deck: Stasis stops both players from untapping while Forsaken City untaps by exiling a card, and Black Vise punishes the opponent's full hand.",
+   "fr": "Prison bleue : Stasis empêche les deux joueurs de dégager pendant que Forsaken City se dégage en exilant une carte, et Black Vise punit la main pleine adverse."
+  },
+  "why": {
+   "en": [
+    "Forsaken City and Chain of Vapor let the deck keep paying for Stasis",
+    "Gush and Daze worked without untapped lands",
+    "Black Vise dealt the damage while the opponent was locked"
+   ],
+   "fr": [
+    "Forsaken City et Chain of Vapor permettaient de continuer à payer Stasis",
+    "Gush et Daze fonctionnaient sans terrain dégagé",
+    "Black Vise infligeait les dégâts pendant que l'adversaire était bloqué"
+   ]
+  }
+ },
+ {
+  "name": "Enchantress",
+  "slug": "enchantress",
+  "archetype": "combo",
+  "titles": [
+   "Enchantress",
+   "Festive Enchantress",
+   "Enchantress Aggro"
+  ],
+  "cover": "Argothian Enchantress",
+  "keyCards": [
+   "Argothian Enchantress",
+   "Enchantress's Presence",
+   "Elephant Grass",
+   "Replenish",
+   "Opalescence"
+  ],
+  "summary": {
+   "en": "Green-white enchantment deck: Argothian Enchantress and Enchantress's Presence draw a card per enchantment, Elephant Grass and Solitary Confinement hold the ground, Serra's Sanctum makes mana.",
+   "fr": "Deck d'enchantements vert-blanc : Argothian Enchantress et Enchantress's Presence piochent à chaque enchantement, Elephant Grass et Solitary Confinement tiennent la table, Serra's Sanctum fournit le mana."
+  },
+  "why": {
+   "en": [
+    "Elephant Grass and Solitary Confinement stopped creature decks from attacking",
+    "Sterling Grove gave shroud to the enchantments and tutored for the missing piece",
+    "Replenish returned every enchantment from the graveyard at once"
+   ],
+   "fr": [
+    "Elephant Grass et Solitary Confinement empêchaient les decks de créatures d'attaquer",
+    "Sterling Grove protégeait les enchantements et allait chercher la pièce manquante",
+    "Replenish ramenait tous les enchantements du cimetière d'un coup"
+   ]
+  }
+ },
+ {
+  "name": "UG Madness",
+  "slug": "ug-madness",
+  "archetype": "tempo",
+  "titles": [
+   "UG Madness",
+   "UG Survival Madness",
+   "Madness",
+   "Survival Madness"
+  ],
+  "cover": "Wild Mongrel",
+  "keyCards": [
+   "Wild Mongrel",
+   "Survival of the Fittest",
+   "Basking Rootwalla",
+   "Arrogant Wurm",
+   "Squee, Goblin Nabob"
+  ],
+  "summary": {
+   "en": "Blue-green madness from Odyssey block: Wild Mongrel and Aquamoeba discard Arrogant Wurm and Basking Rootwalla to cast them cheaply, with counterspells behind.",
+   "fr": "Madness bleu-vert du bloc Odyssey : Wild Mongrel et Aquamoeba défaussent Arrogant Wurm et Basking Rootwalla pour les lancer à bas coût, avec des contresorts derrière."
+  },
+  "why": {
+   "en": [
+    "Discard outlets turned madness creatures into cheap instant-speed threats",
+    "Survival of the Fittest discarded madness creatures and fetched Squee",
+    "Careful Study and Frantic Search fed the graveyard and the madness cards"
+   ],
+   "fr": [
+    "Les défausses transformaient les créatures madness en menaces bon marché à vitesse instantanée",
+    "Survival of the Fittest défaussait les créatures madness et trouvait Squee",
+    "Careful Study et Frantic Search remplissaient le cimetière et lançaient les cartes madness"
+   ]
+  },
+  "note": "Merges 'UG Madness' and 'UG Survival Madness'."
+ },
+ {
+  "name": "GAT",
+  "slug": "gat",
+  "archetype": "tempo",
+  "titles": [
+   "GAT",
+   "Gat",
+   "Gro-a-tog"
+  ],
+  "cover": "Quirion Dryad",
+  "keyCards": [
+   "Quirion Dryad",
+   "Psychatog",
+   "Meddling Mage",
+   "Gush",
+   "Mox Diamond"
+  ],
+  "summary": {
+   "en": "Gro-A-Tog: blue tempo with Quirion Dryad and Psychatog, cheap cantrips such as Opt and Portent to grow the Dryad, Gush and Daze for free spells.",
+   "fr": "Gro-A-Tog : tempo bleu avec Quirion Dryad et Psychatog, cantrips bon marché comme Opt et Portent pour faire grandir la Dryade, Gush et Daze en sorts gratuits."
+  },
+  "why": {
+   "en": [
+    "Every non-green cantrip put a counter on Quirion Dryad",
+    "Meddling Mage named the opponent's key spell",
+    "Gush refilled the hand and fed Psychatog for no mana"
+   ],
+   "fr": [
+    "Chaque cantrip non vert ajoutait un marqueur à Quirion Dryad",
+    "Meddling Mage nommait le sort clé de l'adversaire",
+    "Gush rechargeait la main et nourrissait Psychatog sans mana"
+   ]
+  }
+ },
+ {
+  "name": "Survival",
+  "slug": "survival",
+  "archetype": "midrange",
+  "titles": [
+   "Survival",
+   "Tradewind Survival"
+  ],
+  "cover": "Survival of the Fittest",
+  "keyCards": [
+   "Survival of the Fittest",
+   "Tradewind Rider",
+   "Deranged Hermit",
+   "Squee, Goblin Nabob",
+   "Wall of Roots"
+  ],
+  "summary": {
+   "en": "Green creature toolbox around Survival of the Fittest: discard one creature to fetch another, with Squee, Goblin Nabob as repeatable fodder and Deranged Hermit as a finisher.",
+   "fr": "Boîte à outils de créatures vertes autour de Survival of the Fittest : défausser une créature pour en chercher une autre, avec Squee, Goblin Nabob comme carburant et Deranged Hermit pour finir."
+  },
+  "why": {
+   "en": [
+    "Survival of the Fittest found an answer to almost any situation",
+    "Squee, Goblin Nabob returned to hand each turn to feed Survival again",
+    "Wall of Roots and Birds of Paradise ramped into the toolbox creatures"
+   ],
+   "fr": [
+    "Survival of the Fittest trouvait une réponse à presque toutes les situations",
+    "Squee, Goblin Nabob revenait en main chaque tour pour réalimenter Survival",
+    "Wall of Roots et Birds of Paradise accéléraient vers les créatures de la boîte à outils"
+   ]
+  },
+  "note": "Includes 'Tradewind Survival'; one Elves list filed as 'Survival' moved to Elves."
+ },
+ {
+  "name": "Oppo Survival",
+  "slug": "oppo-survival",
+  "archetype": "control",
+  "titles": [
+   "Oppo Survival",
+   "Survival Prison"
+  ],
+  "cover": "Opposition",
+  "keyCards": [
+   "Opposition",
+   "Survival of the Fittest",
+   "Deranged Hermit",
+   "Gaea's Cradle",
+   "Wall of Roots"
+  ],
+  "summary": {
+   "en": "Green-blue Survival of the Fittest with Opposition: mana creatures and walls tap down the opponent's lands and creatures, and Survival finds the right tool.",
+   "fr": "Survival of the Fittest vert-bleu avec Opposition : créatures à mana et murs engagent terrains et créatures adverses, Survival trouve le bon outil."
+  },
+  "why": {
+   "en": [
+    "Opposition used every creature to tap the opponent's permanents",
+    "Gaea's Cradle and Wall of Roots provided the mana for Opposition",
+    "Deranged Hermit added four Squirrels to tap with"
+   ],
+   "fr": [
+    "Opposition utilisait chaque créature pour engager les permanents adverses",
+    "Gaea's Cradle et Wall of Roots fournissaient le mana pour Opposition",
+    "Deranged Hermit ajoutait quatre Écureuils pour engager"
+   ]
+  }
+ },
+ {
+  "name": "Full English Breakfast",
+  "slug": "full-english-breakfast",
+  "archetype": "combo",
+  "titles": [
+   "Full English Breakfast",
+   "Hermit Druid",
+   "Hermit Feb"
+  ],
+  "cover": "Volrath's Shapeshifter",
+  "keyCards": [
+   "Volrath's Shapeshifter",
+   "Phyrexian Dreadnought",
+   "Survival of the Fittest",
+   "Mesmeric Fiend",
+   "Stifle"
+  ],
+  "summary": {
+   "en": "Survival of the Fittest combo: discard Phyrexian Dreadnought or another fatty so that Volrath's Shapeshifter copies it from the top of the graveyard.",
+   "fr": "Combo Survival of the Fittest : défausser Phyrexian Dreadnought ou un autre gros monstre pour que Volrath's Shapeshifter le copie depuis le dessus du cimetière."
+  },
+  "why": {
+   "en": [
+    "Volrath's Shapeshifter took the text of the top creature card of the graveyard",
+    "Survival of the Fittest discarded the creature and found the Shapeshifter",
+    "Stifle also countered Phyrexian Dreadnought's sacrifice trigger"
+   ],
+   "fr": [
+    "Volrath's Shapeshifter prenait le texte de la créature du dessus du cimetière",
+    "Survival of the Fittest défaussait la créature et trouvait le Shapeshifter",
+    "Stifle contrait aussi le sacrifice de Phyrexian Dreadnought"
+   ]
+  },
+  "note": "Includes 'Hermit Druid' and 'Hermit Feb' (Survival/Shapeshifter lists with Hermit Druid)."
+ },
+ {
+  "name": "The Rack",
+  "slug": "the-rack",
+  "archetype": "control",
+  "titles": [
+   "The Rack"
+  ],
+  "rep": 566345,
+  "cover": "The Rack",
+  "keyCards": [
+   "The Rack",
+   "Bottomless Pit",
+   "Funeral Charm",
+   "Hypnotic Specter",
+   "Skittering Skirge"
+  ],
+  "summary": {
+   "en": "Mono-black discard: Duress, Funeral Charm and Bottomless Pit empty the opponent's hand, then The Rack and Cursed Scroll deal the damage.",
+   "fr": "Défausse mono-noire : Duress, Funeral Charm et Bottomless Pit vident la main adverse, puis The Rack et Cursed Scroll infligent les dégâts."
+  },
+  "why": {
+   "en": [
+    "Bottomless Pit made both players discard at random every upkeep",
+    "The Rack dealt up to three damage a turn to an empty-handed opponent",
+    "Dark Ritual cast Bottomless Pit on the first turn"
+   ],
+   "fr": [
+    "Bottomless Pit faisait défausser les deux joueurs au hasard à chaque entretien",
+    "The Rack infligeait jusqu'à trois dégâts par tour à un adversaire sans main",
+    "Dark Ritual lançait Bottomless Pit dès le premier tour"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Control",
+  "slug": "mono-black-control",
+  "archetype": "control",
+  "titles": [
+   "Mono Black Control"
+  ],
+  "cover": "Corrupt",
+  "keyCards": [
+   "Corrupt",
+   "Cabal Coffers",
+   "Mutilate",
+   "Phyrexian Arena",
+   "Haunting Echoes"
+  ],
+  "summary": {
+   "en": "Mono-black control on Swamps: Cabal Coffers powers Corrupt and Drain Life, Mutilate clears the board, Phyrexian Arena and Diabolic Tutor find answers.",
+   "fr": "Contrôle mono-noir sur Marais : Cabal Coffers alimente Corrupt et Drain Life, Mutilate nettoie la table, Phyrexian Arena et Diabolic Tutor trouvent les réponses."
+  },
+  "why": {
+   "en": [
+    "Corrupt and Drain Life gained life against aggressive decks",
+    "Mutilate killed creatures without hurting the deck's few threats",
+    "Haunting Echoes exiled the opponent's library cards matching its graveyard"
+   ],
+   "fr": [
+    "Corrupt et Drain Life regagnaient des points de vie contre les decks agressifs",
+    "Mutilate tuait les créatures sans gêner les rares menaces du deck",
+    "Haunting Echoes exilait de la bibliothèque adverse les cartes du cimetière"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Blue Control",
+  "slug": "mono-blue-control",
+  "archetype": "control",
+  "titles": [
+   "Mono Blue Control"
+  ],
+  "include": [
+   523277
+  ],
+  "rep": 518490,
+  "cover": "Parallax Tide",
+  "keyCards": [
+   "Standstill",
+   "Parallax Tide",
+   "Powder Keg",
+   "Mishra's Factory",
+   "Faerie Conclave"
+  ],
+  "summary": {
+   "en": "Mono-blue draw-go: Standstill, Parallax Tide and Powder Keg alongside counterspells, with Mishra's Factory and Faerie Conclave as threats.",
+   "fr": "Draw-go mono-bleu : Standstill, Parallax Tide et Powder Keg aux côtés des contresorts, avec Mishra's Factory et Faerie Conclave comme menaces."
+  },
+  "why": {
+   "en": [
+    "Parallax Tide removed the opponent's lands for several turns",
+    "Powder Keg handled tokens and cheap permanents",
+    "Manlands won without breaking Standstill"
+   ],
+   "fr": [
+    "Parallax Tide retirait les terrains adverses pendant plusieurs tours",
+    "Powder Keg gérait les jetons et les permanents bon marché",
+    "Les terrains-créatures gagnaient sans briser Standstill"
+   ]
+  },
+  "note": "Includes one mono-blue list titled 'Tide Control'."
+ },
+ {
+  "name": "Tinker Fling",
+  "slug": "tinker-fling",
+  "archetype": "combo",
+  "titles": [
+   "Tinker Fling"
+  ],
+  "cover": "Phyrexian Devourer",
+  "keyCards": [
+   "Tinker",
+   "Phyrexian Devourer",
+   "Fling",
+   "Altar of Dementia",
+   "Show and Tell"
+  ],
+  "summary": {
+   "en": "Artifact combo: Tinker fetches Phyrexian Devourer, which exiles cards to grow, then Fling or Altar of Dementia finishes the opponent.",
+   "fr": "Combo d'artefacts : Tinker va chercher Phyrexian Devourer, qui exile des cartes pour grandir, puis Fling ou Altar of Dementia achève l'adversaire."
+  },
+  "why": {
+   "en": [
+    "Phyrexian Devourer could be grown in response to its own sacrifice trigger",
+    "Fling turned the Devourer's power into direct damage",
+    "Show and Tell, unbanned in 2022, was another way to put the Devourer into play"
+   ],
+   "fr": [
+    "Phyrexian Devourer grandissait en réponse à son propre sacrifice",
+    "Fling convertissait la force du Devourer en dégâts directs",
+    "Show and Tell, débanni en 2022, offrait une autre façon de poser le Devourer"
+   ]
+  }
+ },
+ {
+  "name": "Welder Tinker",
+  "slug": "welder-tinker",
+  "archetype": "control",
+  "titles": [
+   "Welder Tinker"
+  ],
+  "cover": "Goblin Welder",
+  "keyCards": [
+   "Goblin Welder",
+   "Tinker",
+   "Tangle Wire",
+   "Karn, Silver Golem",
+   "Mox Diamond"
+  ],
+  "summary": {
+   "en": "Blue-red artifact prison: Tangle Wire and Winter Orb lock the opponent while Goblin Welder and Tinker bring Karn, Masticore or Phyrexian Processor into play.",
+   "fr": "Prison d'artefacts bleu-rouge : Tangle Wire et Winter Orb bloquent l'adversaire pendant que Goblin Welder et Tinker mettent en jeu Karn, Masticore ou Phyrexian Processor."
+  },
+  "why": {
+   "en": [
+    "Goblin Welder swapped a cheap artifact for a large one in the graveyard",
+    "Ancient Tomb and City of Traitors cast lock pieces early",
+    "Tinker turned Chromatic Sphere or Mind Stone into a finisher"
+   ],
+   "fr": [
+    "Goblin Welder échangeait un petit artefact contre un gros du cimetière",
+    "Ancient Tomb et City of Traitors lançaient tôt les pièces de prison",
+    "Tinker transformait Chromatic Sphere ou Mind Stone en finisseur"
+   ]
+  }
+ },
+ {
+  "name": "Welder Survival",
+  "slug": "welder-survival",
+  "archetype": "midrange",
+  "titles": [
+   "Welder Survival",
+   "Survival Welder"
+  ],
+  "cover": "Goblin Welder",
+  "keyCards": [
+   "Goblin Welder",
+   "Survival of the Fittest",
+   "Tangle Wire",
+   "Phyrexian Colossus",
+   "Burning Wish"
+  ],
+  "summary": {
+   "en": "Red-green prison toolbox: Survival of the Fittest finds Goblin Welder and artifact creatures, Tangle Wire and Winter Orb slow the opponent.",
+   "fr": "Boîte à outils de prison rouge-verte : Survival of the Fittest trouve Goblin Welder et des créatures-artefacts, Tangle Wire et Winter Orb ralentissent l'adversaire."
+  },
+  "why": {
+   "en": [
+    "Survival discarded Phyrexian Colossus or Triskelion for Goblin Welder to return",
+    "Shield Sphere cost nothing and could be sacrificed or welded",
+    "Tangle Wire hit the opponent harder than the deck's mana creatures"
+   ],
+   "fr": [
+    "Survival défaussait Phyrexian Colossus ou Triskelion que Goblin Welder ramenait",
+    "Shield Sphere ne coûtait rien et pouvait être sacrifiée ou soudée",
+    "Tangle Wire gênait plus l'adversaire que les créatures à mana du deck"
+   ]
+  },
+  "note": "Includes 'Survival Welder'."
+ },
+ {
+  "name": "Cycling Control",
+  "slug": "cycling-control",
+  "archetype": "control",
+  "titles": [
+   "Cycling Control",
+   "Astral Slide"
+  ],
+  "cover": "Lightning Rift",
+  "keyCards": [
+   "Lightning Rift",
+   "Eternal Dragon",
+   "Decree of Justice",
+   "Renewed Faith",
+   "Slice and Dice"
+  ],
+  "summary": {
+   "en": "Red-white cycling control from Onslaught: Lightning Rift deals two damage each time a card is cycled, Eternal Dragon and Decree of Justice provide the late game.",
+   "fr": "Contrôle cycling rouge-blanc d'Onslaught : Lightning Rift inflige deux dégâts à chaque carte recyclée, Eternal Dragon et Decree of Justice assurent la fin de partie."
+  },
+  "why": {
+   "en": [
+    "Cycling lands and spells drew cards while triggering Lightning Rift",
+    "Renewed Faith and Spark Spray were useful cast or cycled",
+    "Eternal Dragon returned from the graveyard to hand as a late threat"
+   ],
+   "fr": [
+    "Terrains et sorts à cycling piochaient tout en déclenchant Lightning Rift",
+    "Renewed Faith et Spark Spray servaient lancés ou recyclés",
+    "Eternal Dragon revenait du cimetière en main comme menace tardive"
+   ]
+  }
+ },
+ {
+  "name": "Zombies",
+  "slug": "zombies",
+  "archetype": "aggro",
+  "titles": [
+   "Zombies !"
+  ],
+  "cover": "Lord of the Undead",
+  "keyCards": [
+   "Lord of the Undead",
+   "Rotlung Reanimator",
+   "Shepherd of Rot",
+   "Bad Moon",
+   "Carnophage"
+  ],
+  "summary": {
+   "en": "Mono-black Zombie tribal: Lord of the Undead and Bad Moon pump the team, Rotlung Reanimator and Shepherd of Rot add resilience and reach.",
+   "fr": "Tribal Zombies mono-noir : Lord of the Undead et Bad Moon renforcent l'équipe, Rotlung Reanimator et Shepherd of Rot ajoutent résistance et dégâts directs."
+  },
+  "why": {
+   "en": [
+    "Rotlung Reanimator left a 2/2 Zombie behind when it died",
+    "Shepherd of Rot drained every player for each Zombie",
+    "Dark Ritual and Carnophage gave fast starts"
+   ],
+   "fr": [
+    "Rotlung Reanimator laissait un Zombie 2/2 en mourant",
+    "Shepherd of Rot faisait perdre des points de vie pour chaque Zombie",
+    "Dark Ritual et Carnophage offraient des débuts rapides"
+   ]
+  },
+  "note": "mtgtop8 title 'Zombies !'."
+ },
+ {
+  "name": "Zombie Infestation",
+  "slug": "zombie-infestation",
+  "archetype": "midrange",
+  "titles": [
+   "Zombie Infestation",
+   "Zombie Infestatio Aggro",
+   "Survival Infestation",
+   "Madness Infestation",
+   "Zombie Infestation Midrange"
+  ],
+  "cover": "Zombie Infestation",
+  "keyCards": [
+   "Zombie Infestation",
+   "Krovikan Horror",
+   "Survival of the Fittest",
+   "Squee, Goblin Nabob",
+   "Exhume"
+  ],
+  "summary": {
+   "en": "Graveyard engine deck: Zombie Infestation turns two discarded cards into a 2/2 Zombie, Krovikan Horror and Squee return to hand, and Survival of the Fittest fuels the discard.",
+   "fr": "Moteur de cimetière : Zombie Infestation transforme deux cartes défaussées en Zombie 2/2, Krovikan Horror et Squee reviennent en main, Survival of the Fittest alimente la défausse."
+  },
+  "why": {
+   "en": [
+    "Squee and Krovikan Horror could be discarded again and again",
+    "Wild Mongrel and Basking Rootwalla added madness and discard",
+    "Exhume and Buried Alive added a reanimation plan with Akroma"
+   ],
+   "fr": [
+    "Squee et Krovikan Horror pouvaient être défaussés encore et encore",
+    "Wild Mongrel et Basking Rootwalla ajoutaient madness et défausse",
+    "Exhume et Buried Alive ajoutaient un plan de réanimation avec Akroma"
+   ]
+  }
+ },
+ {
+  "name": "Psychatog",
+  "slug": "psychatog",
+  "archetype": "control",
+  "titles": [
+   "Psychatog"
+  ],
+  "cover": "Psychatog",
+  "keyCards": [
+   "Psychatog",
+   "Accumulated Knowledge",
+   "Fact or Fiction",
+   "Circular Logic",
+   "Cephalid Coliseum"
+  ],
+  "summary": {
+   "en": "Blue-black control with Psychatog as the finisher: counterspells and card draw such as Accumulated Knowledge fill hand and graveyard, then the Atog grows for a lethal attack.",
+   "fr": "Contrôle bleu-noir avec Psychatog pour finir : contresorts et pioche comme Accumulated Knowledge remplissent main et cimetière, puis l'Atog grandit pour une attaque mortelle."
+  },
+  "why": {
+   "en": [
+    "Psychatog turned spare cards in hand and graveyard into damage",
+    "Accumulated Knowledge and Fact or Fiction kept the hand full",
+    "Counterspell and Mana Leak protected the Atog"
+   ],
+   "fr": [
+    "Psychatog transformait les cartes en trop en dégâts",
+    "Accumulated Knowledge et Fact or Fiction gardaient la main pleine",
+    "Counterspell et Mana Leak protégeaient l'Atog"
+   ]
+  }
+ },
+ {
+  "name": "Aluren",
+  "slug": "aluren",
+  "archetype": "combo",
+  "titles": [
+   "Aluren"
+  ],
+  "cover": "Aluren",
+  "keyCards": [
+   "Aluren",
+   "Cavern Harpy",
+   "Raven Familiar",
+   "Living Wish",
+   "Intuition"
+  ],
+  "summary": {
+   "en": "Combo around Aluren: creatures with mana value three or less become free, and Cavern Harpy bounces Raven Familiar or other cheap creatures repeatedly.",
+   "fr": "Combo autour d'Aluren : les créatures de valeur de mana trois ou moins deviennent gratuites, et Cavern Harpy renvoie Raven Familiar ou d'autres créatures en boucle."
+  },
+  "why": {
+   "en": [
+    "Cavern Harpy returned itself to hand for one life, enabling loops",
+    "Living Wish and Intuition assembled the pieces",
+    "Cabal Therapy cleared counterspells before the combo turn"
+   ],
+   "fr": [
+    "Cavern Harpy revenait en main pour un point de vie, ce qui permettait les boucles",
+    "Living Wish et Intuition réunissaient les pièces",
+    "Cabal Therapy écartait les contresorts avant le tour du combo"
+   ]
+  }
+ },
+ {
+  "name": "Fluctuator",
+  "slug": "fluctuator",
+  "archetype": "combo",
+  "titles": [
+   "Fluctuator"
+  ],
+  "cover": "Fluctuator",
+  "keyCards": [
+   "Fluctuator",
+   "Songs of the Damned",
+   "Drain Life",
+   "Drifting Djinn",
+   "Cloud of Faeries"
+  ],
+  "summary": {
+   "en": "Cycling combo: Fluctuator makes blue cycling creatures and cycling lands nearly free, filling the graveyard until Songs of the Damned pays for a lethal Drain Life.",
+   "fr": "Combo cycling : Fluctuator rend presque gratuits les créatures bleues et terrains à cycling, et remplit le cimetière jusqu'à ce que Songs of the Damned paie un Drain Life mortel."
+  },
+  "why": {
+   "en": [
+    "Fluctuator cut each cycling cost by two",
+    "Every cycled creature added black mana to Songs of the Damned",
+    "Drain Life also gained back the life spent on the way"
+   ],
+   "fr": [
+    "Fluctuator réduisait chaque coût de cycling de deux",
+    "Chaque créature recyclée ajoutait un mana noir à Songs of the Damned",
+    "Drain Life rendait aussi les points de vie dépensés en route"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Aggro",
+  "slug": "mono-black-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Mono Black Aggro",
+   "Black Power Matrix"
+  ],
+  "exclude": [
+   526957
+  ],
+  "cover": "Phyrexian Negator",
+  "keyCards": [
+   "Phyrexian Negator",
+   "Drinker of Sorrow",
+   "Mesmeric Fiend",
+   "Power Matrix",
+   "Sarcomancy"
+  ],
+  "summary": {
+   "en": "Mono-black aggro: efficient three-drops such as Phyrexian Negator and Drinker of Sorrow, cheap Dauthi shadow creatures in some lists, Dark Ritual for fast starts.",
+   "fr": "Aggro mono-noir : créatures à trois manas efficaces comme Phyrexian Negator et Drinker of Sorrow, Dauthi à ombre dans certaines listes, Dark Ritual pour des débuts rapides."
+  },
+  "why": {
+   "en": [
+    "Dark Ritual cast Phyrexian Negator on the first turn",
+    "Power Matrix gave a creature flying, first strike and trample each turn",
+    "Duress and Mesmeric Fiend removed the opponent's answers"
+   ],
+   "fr": [
+    "Dark Ritual lançait Phyrexian Negator dès le premier tour",
+    "Power Matrix donnait vol, initiative et piétinement à une créature chaque tour",
+    "Duress et Mesmeric Fiend retiraient les réponses adverses"
+   ]
+  },
+  "note": "Includes 'Black Power Matrix'; one Zombie reanimator list excluded."
+ },
+ {
+  "name": "Clerics",
+  "slug": "clerics",
+  "archetype": "aggro",
+  "titles": [
+   "Clerics",
+   "Clerics WW"
+  ],
+  "cover": "Scion of Darkness",
+  "keyCards": [
+   "Dark Supplicant",
+   "Scion of Darkness",
+   "Rotlung Reanimator",
+   "Cabal Archon",
+   "Priest of Gix"
+  ],
+  "summary": {
+   "en": "Mono-black Cleric tribal: Rotlung Reanimator and Cabal Archon turn sacrifices into Zombies and life drain, and Dark Supplicant fetches Scion of Darkness.",
+   "fr": "Tribal Clercs mono-noir : Rotlung Reanimator et Cabal Archon transforment les sacrifices en Zombies et en drain de vie, Dark Supplicant va chercher Scion of Darkness."
+  },
+  "why": {
+   "en": [
+    "Dark Supplicant sacrificed three Clerics to put Scion of Darkness into play",
+    "Rotlung Reanimator made a Zombie whenever a Cleric died",
+    "Unearth returned the cheap Clerics from the graveyard"
+   ],
+   "fr": [
+    "Dark Supplicant sacrifiait trois Clercs pour mettre en jeu Scion of Darkness",
+    "Rotlung Reanimator créait un Zombie à chaque mort de Clerc",
+    "Unearth ramenait les Clercs bon marché du cimetière"
+   ]
+  }
+ },
+ {
+  "name": "Reanimator",
+  "slug": "reanimator",
+  "archetype": "combo",
+  "titles": [
+   "Reanimator"
+  ],
+  "cover": "Akroma, Angel of Wrath",
+  "keyCards": [
+   "Exhume",
+   "Reanimate",
+   "Akroma, Angel of Wrath",
+   "Phantom Nishoba",
+   "Putrid Imp"
+  ],
+  "summary": {
+   "en": "Black reanimation: Careful Study, Putrid Imp and Cabal Therapy put a large creature in the graveyard, then Exhume, Reanimate or Animate Dead bring it back early.",
+   "fr": "Réanimation noire : Careful Study, Putrid Imp et Cabal Therapy envoient une grosse créature au cimetière, puis Exhume, Reanimate ou Animate Dead la ramènent tôt."
+  },
+  "why": {
+   "en": [
+    "Lotus Petal and Dark Ritual allowed a reanimation spell on the first turns",
+    "Akroma, Angel of Wrath or Phantom Nishoba arrived long before their cost allowed",
+    "Cabal Therapy cleared the way and doubled as a discard outlet"
+   ],
+   "fr": [
+    "Lotus Petal et Dark Ritual permettaient une réanimation dès les premiers tours",
+    "Akroma, Angel of Wrath ou Phantom Nishoba arrivaient bien avant leur coût",
+    "Cabal Therapy ouvrait la voie et servait aussi de défausse"
+   ]
+  }
+ },
+ {
+  "name": "Balancing Act",
+  "slug": "balancing-act",
+  "archetype": "combo",
+  "titles": [
+   "Balancing Act"
+  ],
+  "cover": "Balancing Act",
+  "keyCards": [
+   "Balancing Act",
+   "Lion's Eye Diamond",
+   "Burning Wish",
+   "Roar of the Wurm",
+   "Quiet Speculation"
+  ],
+  "summary": {
+   "en": "Lands deck built to empty its own board: sacrificial lands and Lion's Eye Diamond leave it with no permanents before Balancing Act, then flashback creatures such as Roar of the Wurm win.",
+   "fr": "Deck de terrains conçu pour vider sa propre table : terrains sacrifiables et Lion's Eye Diamond le laissent sans permanent avant Balancing Act, puis des créatures en flashback comme Roar of the Wurm gagnent."
+  },
+  "why": {
+   "en": [
+    "With no permanents of its own, Balancing Act made the opponent sacrifice everything",
+    "Burning Wish found Balancing Act from the sideboard",
+    "Quiet Speculation put Roar of the Wurm and Deep Analysis in the graveyard"
+   ],
+   "fr": [
+    "Sans permanent, Balancing Act forçait l'adversaire à tout sacrifier",
+    "Burning Wish allait chercher Balancing Act dans la réserve",
+    "Quiet Speculation mettait Roar of the Wurm et Deep Analysis au cimetière"
+   ]
+  }
+ },
+ {
+  "name": "Ponza",
+  "slug": "ponza",
+  "archetype": "midrange",
+  "titles": [
+   "Ponza",
+   "Ponza Aggro",
+   "Ponza Deck Wins",
+   "Red Land Loss",
+   "Aggro LL"
+  ],
+  "cover": "Pillage",
+  "keyCards": [
+   "Pillage",
+   "Dwarven Miner",
+   "Avalanche Riders",
+   "Ghitu Encampment",
+   "Rishadan Port"
+  ],
+  "summary": {
+   "en": "Red land destruction: Pillage, Dwarven Miner and Avalanche Riders attack the opponent's mana while Rishadan Port and Wasteland add pressure, and burn finishes.",
+   "fr": "Destruction de terrains rouge : Pillage, Dwarven Miner et Avalanche Riders attaquent le mana adverse pendant que Rishadan Port et Wasteland ajoutent de la pression, les brûlures concluent."
+  },
+  "why": {
+   "en": [
+    "Most decks of the format relied on nonbasic dual and pain lands",
+    "Ghitu Encampment and Mishra's Factory attacked without exposing spells",
+    "Incinerate and Lightning Bolt handled early creatures"
+   ],
+   "fr": [
+    "La plupart des decks du format reposaient sur des terrains non-base",
+    "Ghitu Encampment et Mishra's Factory attaquaient sans exposer de sort",
+    "Incinerate et Lightning Bolt réglaient les premières créatures"
+   ]
+  },
+  "note": "Merges 'Ponza', 'Ponza Aggro', 'Ponza Deck Wins', 'Red Land Loss' and 'Aggro LL'."
+ },
+ {
+  "name": "Parfait",
+  "slug": "parfait",
+  "archetype": "control",
+  "titles": [
+   "UWb Parfait Zombie Infestation",
+   "Donnais Parfait",
+   "Bant Parfait",
+   "Boros Parfait Aggro",
+   "BW Parfait Zombie Infestation",
+   "BW Parfait Zombie Infestation Control",
+   "UW Parfait"
+  ],
+  "cover": "Land Tax",
+  "keyCards": [
+   "Land Tax",
+   "Scroll Rack",
+   "Enlightened Tutor",
+   "Zombie Infestation",
+   "Meddling Mage"
+  ],
+  "summary": {
+   "en": "White Land Tax and Scroll Rack shell paired with various packages, here Zombie Infestation; all its results came before the July 2023 Land Tax ban.",
+   "fr": "Base blanche Land Tax et Scroll Rack associée à divers modules, ici Zombie Infestation ; tous ses résultats précèdent l'interdiction de Land Tax en juillet 2023."
+  },
+  "why": {
+   "en": [
+    "Land Tax kept the hand stocked with basics for Scroll Rack",
+    "Scroll Rack also set up discards for Zombie Infestation",
+    "Disappeared from results after Land Tax was banned"
+   ],
+   "fr": [
+    "Land Tax garnissait la main de terrains de base pour Scroll Rack",
+    "Scroll Rack préparait aussi les défausses pour Zombie Infestation",
+    "A disparu des résultats après l'interdiction de Land Tax"
+   ]
+  },
+  "note": "Non-Oath Parfait titles (UW, BW, Bant, Boros, Donnais Parfait)."
+ },
+ {
+  "name": "The Solution",
+  "slug": "the-solution",
+  "archetype": "tempo",
+  "titles": [
+   "The Solution (UW/UWR)",
+   "WWu",
+   "WW with Standstill",
+   "Uw Flippi",
+   "Landstill Midrange",
+   "Landstill midrange",
+   "Midrange Landstill"
+  ],
+  "include": [
+   555977
+  ],
+  "cover": "Meddling Mage",
+  "keyCards": [
+   "Meddling Mage",
+   "Exalted Angel",
+   "Standstill",
+   "Silver Knight",
+   "Memory Lapse"
+  ],
+  "summary": {
+   "en": "White-blue creature tempo: Meddling Mage, Silver Knight and Exalted Angel, with Standstill, Memory Lapse and Prohibit to stay ahead.",
+   "fr": "Tempo de créatures blanc-bleu : Meddling Mage, Silver Knight et Exalted Angel, avec Standstill, Memory Lapse et Prohibit pour garder l'avance."
+  },
+  "why": {
+   "en": [
+    "Standstill was cast after deploying threats, so the opponent had to act first",
+    "Meddling Mage named the opponent's key spell",
+    "Won the Dutch Nationals 2023"
+   ],
+   "fr": [
+    "Standstill arrivait après les menaces et forçait l'adversaire à agir en premier",
+    "Meddling Mage nommait le sort clé de l'adversaire",
+    "A remporté les Dutch Nationals 2023"
+   ]
+  },
+  "note": "Merges 'The Solution', 'WWu', 'WW with Standstill', 'Uw Flippi' and 'Landstill Midrange' (same creature-Standstill lists)."
+ }
+]
