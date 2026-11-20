@@ -1,0 +1,211 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Flyers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les volants classiques du set de base : Guardians of Akrasa et d'autres bloqueurs robustes tenaient le sol pendant qu'Arctic Aven, War Falcon et Welkin Tern attaquaient par les airs.",
+      "en": "Classic core-set flyers: Guardians of Akrasa and other high-toughness blockers held the ground while Arctic Aven, War Falcon and Welkin Tern attacked in the air."
+    },
+    "why": {
+      "fr": [
+        "Darwin Kastle jugeait W/U excellent : sol bloqué, victoire par les airs.",
+        "Arctic Aven, membre W/U du cycle d'uncommons alliées, était un premier choix dans la paire.",
+        "Sam Black trouvait le bleu faible et déconseillait le contrôle bleu."
+      ],
+      "en": [
+        "Darwin Kastle rated W/U excellent: a ground stall while flyers win.",
+        "Arctic Aven, the W/U member of the allied uncommon cycle, was a first pick in the pair.",
+        "Sam Black found blue underpowered and advised avoiding blue control."
+      ]
+    },
+    "keyCards": [
+      "Arctic Aven",
+      "War Falcon",
+      "Welkin Tern",
+      "Guardians of Akrasa",
+      "Griffin Protector",
+      "Pacifism"
+    ],
+    "cover": "Arctic Aven",
+    "sources": [
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft",
+      "https://www.coolstuffinc.com/a/julesrobins-071112-magic-2013-design-review-white-and-the-big-picture",
+      "https://articles.starcitygames.com/articles/drafting-m13/"
+    ]
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Removal et pioche : Murder, Sign in Blood et Divination derrière des volants bleus, avec Harbor Bandit, l'uncommon U/B, comme menace imblocable.",
+      "en": "Removal and card draw: Murder, Sign in Blood and Divination behind blue flyers, with Harbor Bandit, the U/B uncommon, as an unblockable threat."
+    },
+    "why": {
+      "fr": [
+        "Darwin Kastle trouvait U/B correct, mais moins excitant que les autres paires alliées.",
+        "Les meilleures cartes noires, Murder et Vampire Nighthawk, voulaient beaucoup de noir.",
+        "Sam Black : le contrôle était difficile car le bleu était faible dans le set."
+      ],
+      "en": [
+        "Darwin Kastle found U/B fine, but less exciting than the other allied pairs.",
+        "Black's best cards, Murder and Vampire Nighthawk, wanted heavy black mana.",
+        "Sam Black: control was hard to play because blue was weak in the set."
+      ]
+    },
+    "keyCards": [
+      "Harbor Bandit",
+      "Murder",
+      "Vampire Nighthawk",
+      "Sign in Blood",
+      "Divination",
+      "Welkin Tern"
+    ],
+    "cover": "Harbor Bandit",
+    "sources": [
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft",
+      "https://articles.starcitygames.com/articles/drafting-m13/",
+      "https://scryfall.com/search?q=set%3Am13+r%3Au+o%3A%22as+long+as+you+control+a%22"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression à base noire avec des dégâts rouges : Crimson Muckwader et Knight of Infamy tôt, Mogg Flunkies sur la courbe basse, Searing Spear et Crippling Blight pour ouvrir la voie.",
+      "en": "Base-black aggression splashing burn: Crimson Muckwader and Knight of Infamy early, Mogg Flunkies on the cheap curve, Searing Spear and Crippling Blight to clear the way."
+    },
+    "why": {
+      "fr": [
+        "Sam Black désignait les decks Mogg Flunkies, dont B/R, comme le meilleur archétype.",
+        "Darwin Kastle : un excellent deck agressif avec beaucoup de removal.",
+        "Avec du noir, Crimson Muckwader devenait un deux-drop redoutable."
+      ],
+      "en": [
+        "Sam Black named Mogg Flunkies decks, B/R among them, the best archetype.",
+        "Darwin Kastle: an excellent aggressive deck with a lot of removal.",
+        "In black, Crimson Muckwader became a really nasty two-drop."
+      ]
+    },
+    "keyCards": [
+      "Crimson Muckwader",
+      "Mogg Flunkies",
+      "Knight of Infamy",
+      "Searing Spear",
+      "Crippling Blight",
+      "Bladetusk Boar"
+    ],
+    "cover": "Crimson Muckwader",
+    "sources": [
+      "https://articles.starcitygames.com/articles/drafting-m13/",
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Flunkies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Corps verts et dégâts rouges : Arbor Elf et Flinthoof Boar tôt, Mogg Flunkies attaquant avec l'équipe, Rancor et Searing Spear pour faire passer les dégâts.",
+      "en": "Green bodies and red burn: Arbor Elf and Flinthoof Boar early, Mogg Flunkies attacking with the team, Rancor and Searing Spear to push damage through."
+    },
+    "why": {
+      "fr": [
+        "Sam Black : le vert était la meilleure couleur et Mogg Flunkies le meilleur archétype.",
+        "Le vert n'avait aucun prédateur naturel dans le format, selon Black.",
+        "Darwin Kastle : en R/G, le rouge apporte les dégâts, le vert les créatures."
+      ],
+      "en": [
+        "Sam Black: green was the best color and Mogg Flunkies the best archetype.",
+        "Green had no natural predator in the format, per Black.",
+        "Darwin Kastle: in R/G, red supplies burn to go with green's creatures."
+      ]
+    },
+    "keyCards": [
+      "Flinthoof Boar",
+      "Mogg Flunkies",
+      "Arbor Elf",
+      "Rancor",
+      "Searing Spear",
+      "Prey Upon"
+    ],
+    "cover": "Flinthoof Boar",
+    "sources": [
+      "https://articles.starcitygames.com/articles/drafting-m13/",
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Ground Pounders",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gros corps au sol et tours de combat : les petits volants blancs, Centaur Courser et Sentinel Spider côté vert, et Prized Elephant, 4/4 pour quatre avec une Forêt et piétinement pour G.",
+      "en": "Big ground creatures and tricks: white's cheap fliers and first strikers, green's Centaur Courser and Sentinel Spider, and Prized Elephant, a 4/4 for four with a Forest and trample for G."
+    },
+    "why": {
+      "fr": [
+        "Darwin Kastle : G/W est excellent, le vert apporte le haut de courbe qui manque au blanc.",
+        "Prized Elephant était un vrai monstre en G/W, selon Kastle.",
+        "Jules Robins voyait une courbe de gros corps jusqu'en commune."
+      ],
+      "en": [
+        "Darwin Kastle: G/W is excellent, green adds what white lacks at the top.",
+        "Prized Elephant was quite the beast in G/W, in Kastle's words.",
+        "Jules Robins saw a curve of huge ground pounders down to common."
+      ]
+    },
+    "keyCards": [
+      "Prized Elephant",
+      "Centaur Courser",
+      "Sentinel Spider",
+      "Attended Knight",
+      "Show of Valor",
+      "Pacifism"
+    ],
+    "cover": "Prized Elephant",
+    "sources": [
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft",
+      "https://www.coolstuffinc.com/a/julesrobins-071112-magic-2013-design-review-white-and-the-big-picture"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Exalted",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Exalté : Aven Squire, Knight of Glory, Knight of Infamy et Servant of Nefarox renforçaient un attaquant seul chaque tour pendant que le reste de l'équipe restait bloquer.",
+      "en": "Exalted: Aven Squire, Knight of Glory, Knight of Infamy and Servant of Nefarox grew a lone attacker each turn while the rest of the team stayed home to block."
+    },
+    "why": {
+      "fr": [
+        "Le blanc et le noir avaient toutes les cartes exalté, ce qui tentait Kastle vers W/B.",
+        "L'exalté cassait les blocages de créatures fréquents du format.",
+        "Sam Black doutait des paires ennemies, privées des uncommons alliées."
+      ],
+      "en": [
+        "White and black held all the exalted cards, which tempted Kastle into W/B.",
+        "Exalted broke the frequent creature stalls of the format.",
+        "Sam Black doubted enemy pairs, which miss the allied uncommons."
+      ]
+    },
+    "keyCards": [
+      "Servant of Nefarox",
+      "Aven Squire",
+      "Knight of Glory",
+      "Knight of Infamy",
+      "Guardians of Akrasa",
+      "Crippling Blight"
+    ],
+    "cover": "Servant of Nefarox",
+    "sources": [
+      "https://www.coolstuffinc.com/a/darwinkastle-073012-dissecting-m13-draft",
+      "https://www.coolstuffinc.com/a/julesrobins-071112-magic-2013-design-review-white-and-the-big-picture",
+      "https://articles.starcitygames.com/articles/drafting-m13/"
+    ]
+  }
+]

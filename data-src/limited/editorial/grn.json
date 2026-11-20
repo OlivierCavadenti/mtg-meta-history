@@ -1,0 +1,147 @@
+[
+  {
+    "colors": "WR",
+    "name": "Boros Mentor",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les créatures à mentor attaquaient et posaient des marqueurs +1/+1 sur de plus petits attaquants ; le deck déroulait sa courbe et forçait les dégâts avec des tours et Cosmotronic Wave.",
+      "en": "Mentor creatures attacked and put +1/+1 counters on smaller attackers; the deck curved out with cheap bodies and pushed damage through with tricks and Cosmotronic Wave."
+    },
+    "why": {
+      "fr": [
+        "Avec Dimir, l'une des deux guildes que MTG Arena Zone jugeait nettement trop fortes.",
+        "Très régulier : ses communes suffisaient à faire un deck complet.",
+        "Sure Strike, meilleur que d'habitude, ajoutait un marqueur ou cassait un double blocage."
+      ],
+      "en": [
+        "With Dimir, one of the two guilds MTG Arena Zone called significantly overpowered.",
+        "Very consistent: its commons alone made a full deck, rares and uncommons optional.",
+        "Sure Strike was better than usual, adding mentor counters or breaking double blocks."
+      ]
+    },
+    "keyCards": ["Boros Challenger", "Skyknight Legionnaire", "Wojek Bodyguard", "Healer's Hawk", "Justice Strike", "Sure Strike"],
+    "cover": "Boros Challenger",
+    "sources": [
+      "https://mtg.wiki/page/Guilds_of_Ravnica",
+      "https://mtgazone.com/guilds-of-ravnica-draft-guide/",
+      "https://scryfall.com/search?q=set%3Agrn+r%3Au+c%3Drw"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Surveil",
+    "archetype": "control",
+    "summary": {
+      "fr": "La surveillance remplissait le cimetière et nourrissait Thoughtbound Phantasm et Dimir Spybug ; Disinformation Campaign revenait en main pour user l'adversaire pendant que le removal gérait les menaces.",
+      "en": "Surveil filled the graveyard and fed payoffs like Thoughtbound Phantasm and Dimir Spybug; Disinformation Campaign kept returning to hand to grind out cards while removal handled threats."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour MTG Arena Zone, aux côtés de Boros.",
+        "Plus que les autres guildes, il dépendait d'unco comme Disinformation Campaign.",
+        "Le corps 1/4 de Dimir Informant tenait les attaques précoces de Boros et Selesnya."
+      ],
+      "en": [
+        "Tier 1 for MTG Arena Zone, alongside Boros.",
+        "More than other guilds, it depended on uncommons such as Disinformation Campaign.",
+        "Dimir Informant's 1/4 body held off early Boros and Selesnya aggression."
+      ]
+    },
+    "keyCards": ["Disinformation Campaign", "Dimir Spybug", "Thoughtbound Phantasm", "Artful Takedown", "Deadly Visit", "Dimir Informant"],
+    "cover": "Disinformation Campaign",
+    "sources": [
+      "https://mtg.wiki/page/Guilds_of_Ravnica",
+      "https://mtgazone.com/guilds-of-ravnica-draft-guide/",
+      "https://scryfall.com/search?q=set%3Agrn+r%3Au+c%3Dub"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Undergrowth",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les cartes undergrowth grandissaient avec le nombre de créatures au cimetière : Rhizome Lurcher arrivait énorme après quelques échanges, Golgari Findbroker récupérait le meilleur permanent.",
+      "en": "Undergrowth cards scaled with the creature cards in your graveyard: Rhizome Lurcher arrived huge after a few trades, and Golgari Findbroker returned the best permanent."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone : trop peu d'enablers pour remplir le cimetière.",
+        "Les créatures cantrip comme Burglar Rat alimentaient undergrowth sans perdre de carte.",
+        "Un bon removal pour le format, dont Kraul Harpooner contre les volants."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone: too few enablers to fill the graveyard.",
+        "Cantrip creatures like Burglar Rat fed undergrowth without losing a card.",
+        "Good removal for the format, including Kraul Harpooner against fliers."
+      ]
+    },
+    "keyCards": ["Golgari Findbroker", "Rhizome Lurcher", "Glowspore Shaman", "Kraul Harpooner", "Ochran Assassin", "Burglar Rat"],
+    "cover": "Golgari Findbroker",
+    "sources": [
+      "https://mtg.wiki/page/Guilds_of_Ravnica",
+      "https://mtgazone.com/guilds-of-ravnica-draft-guide/",
+      "https://scryfall.com/search?q=set%3Agrn+r%3Au+c%3Dbg"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Jump-Start",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Éphémères et rituels, souvent avec jump-start pour être relancés depuis le cimetière, alimentaient Crackling Drake, Wee Dragonauts et les Oiseaux de Murmuring Mystic.",
+      "en": "Instants and sorceries, many with jump-start to recast them from the graveyard, fueled Crackling Drake, Wee Dragonauts and Murmuring Mystic's Bird tokens."
+    },
+    "why": {
+      "fr": [
+        "Classé au second rang par MTG Arena Zone : trop réactif, peu de bonnes menaces.",
+        "Peinait à survivre à la pression précoce de Boros et Selesnya.",
+        "Jump-start payait en partie longue ; Goblin Electromancer réduisait les gros sorts."
+      ],
+      "en": [
+        "Second tier for MTG Arena Zone: too reactive, with few good threats.",
+        "Struggled to survive early pressure from Boros and Selesnya.",
+        "Jump-start paid off in long games; Goblin Electromancer made big spells cheap."
+      ]
+    },
+    "keyCards": ["Crackling Drake", "Wee Dragonauts", "Murmuring Mystic", "Goblin Electromancer", "Beacon Bolt", "Chemister's Insight"],
+    "cover": "Crackling Drake",
+    "sources": [
+      "https://mtg.wiki/page/Guilds_of_Ravnica",
+      "https://mtgazone.com/guilds-of-ravnica-draft-guide/",
+      "https://scryfall.com/search?q=set%3Agrn+r%3Au+c%3Dur"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Convoke",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un deck d'environ 17 créatures, inclinées pour convoquer des sorts comme Rosemane Centaur et Conclave Tribunal : la main se vidait vite.",
+      "en": "A creature deck of around 17 bodies that tapped its board to convoke spells like Rosemane Centaur and Conclave Tribunal, emptying its hand quickly."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone, le plus réussi de ses trois decks de second rang.",
+        "Rosemane Centaur était la commune clé ; le guide en voulait environ trois.",
+        "Le manque de créateurs de jetons bon marché freinait la convocation."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone, its author's most successful of the three second-tier guilds.",
+        "Rosemane Centaur was the key common; the guide wanted about three.",
+        "A lack of cheap token makers held convoke back."
+      ]
+    },
+    "keyCards": ["Conclave Cavalier", "Ledev Champion", "Rosemane Centaur", "Generous Stray", "Healer's Hawk", "Conclave Tribunal"],
+    "cover": "Conclave Cavalier",
+    "sources": [
+      "https://mtg.wiki/page/Guilds_of_Ravnica",
+      "https://mtgazone.com/guilds-of-ravnica-draft-guide/",
+      "https://scryfall.com/search?q=set%3Agrn+r%3Au+c%3Dgw"
+    ],
+    "tier": 2
+  }
+]

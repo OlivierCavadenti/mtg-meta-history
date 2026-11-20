@@ -1,0 +1,346 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Heroic",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Heroic dans les airs : Wingsteed Rider et Battlewise Hoplite grandissaient à chaque ciblage, avec des auras comme Chosen by Heliod, des créatures à bestow et Gods Willing.",
+      "en": "Heroic in the air: Wingsteed Rider and Battlewise Hoplite grew each time they were targeted, with auras like Chosen by Heliod, bestow creatures and Gods Willing."
+    },
+    "why": {
+      "fr": [
+        "Jacob Van Lunen : le heroic W/U était peut-être la stratégie la plus puissante du set.",
+        "Le blanc et le bleu étaient les couleurs les plus draftées : la place était disputée.",
+        "Frank Skarren : les créatures heroic comptaient plus que les sorts qui les ciblent."
+      ],
+      "en": [
+        "Jacob Van Lunen: W/U heroic might be the most powerful strategy in Theros.",
+        "White and blue were the most drafted colors, so it was often contested.",
+        "Frank Skarren: heroic creatures mattered more than the enablers."
+      ]
+    },
+    "keyCards": [
+      "Battlewise Hoplite",
+      "Wingsteed Rider",
+      "Chosen by Heliod",
+      "Gods Willing",
+      "Nimbus Naiad",
+      "Omenspeaker"
+    ],
+    "cover": "Battlewise Hoplite",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://articles.starcitygames.com/articles/theros-limited-archetypes/"
+    ]
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Contrôle par dévotion : Shipwreck Singer, Returned Phalanx et Baleful Eidolon tenaient la table, Voyage's End et Sip of Hemlock retiraient les menaces, Gray Merchant of Asphodel drainait.",
+      "en": "Devotion control: Shipwreck Singer, Returned Phalanx and Baleful Eidolon held the board, Voyage's End and Sip of Hemlock removed threats, Gray Merchant of Asphodel drained."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen : la plupart des meilleurs joueurs voyaient U/B comme l'archétype le plus fort.",
+        "C'était de loin le meilleur deck pour Gray Merchant of Asphodel.",
+        "Frank Skarren : Shipwreck Singer et Returned Phalanx formaient un duo décisif."
+      ],
+      "en": [
+        "Van Lunen: most top players considered U/B the strongest archetype in Theros.",
+        "It was easily the best Gray Merchant of Asphodel deck.",
+        "Frank Skarren: Shipwreck Singer and Returned Phalanx were a key one-two punch."
+      ]
+    },
+    "keyCards": [
+      "Shipwreck Singer",
+      "Gray Merchant of Asphodel",
+      "Returned Phalanx",
+      "Voyage's End",
+      "Read the Bones",
+      "Sip of Hemlock"
+    ],
+    "cover": "Shipwreck Singer",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://articles.starcitygames.com/articles/theros-limited-archetypes/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Minotaurs",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression Minotaures : Kragma Warcaller renforçait la tribu et Deathbellow Raider attaquait chaque tour, sur une courbe de un et deux-drops à deux de force.",
+      "en": "Minotaur aggression: Kragma Warcaller pumped the tribe and Deathbellow Raider attacked each turn, on a curve of two-power one- and two-drops."
+    },
+    "why": {
+      "fr": [
+        "Frank Skarren : l'aggro B/R marchait même sans le thème Minotaure.",
+        "Il lui fallait une masse critique de un et deux-drops à deux de force.",
+        "Van Lunen : un deck à garder en réserve quand le rouge n'est pas drafté."
+      ],
+      "en": [
+        "Frank Skarren: plain B/R aggro worked even without the Minotaur theme.",
+        "It needed a critical mass of two-power one- and two-drops.",
+        "Van Lunen: a deck to have in reserve when red goes undrafted."
+      ]
+    },
+    "keyCards": [
+      "Kragma Warcaller",
+      "Deathbellow Raider",
+      "Minotaur Skullcleaver",
+      "Tormented Hero",
+      "Felhide Minotaur",
+      "Lightning Strike"
+    ],
+    "cover": "Kragma Warcaller",
+    "sources": [
+      "https://articles.starcitygames.com/articles/theros-limited-archetypes/",
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Monsters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Monstruosité et dégâts : de grosses créatures vertes et Ill-Tempered Cyclops devenaient monstrueuses en fin de partie, Lightning Strike et Magma Jet gérant les bloqueurs.",
+      "en": "Monstrosity with burn: big green creatures and Ill-Tempered Cyclops became monstrous late, while Lightning Strike and Magma Jet handled blockers."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen : la meilleure façon de jouer le rouge dans Theros.",
+        "Il jugeait le rouge plutôt faible et pas une couleur à viser.",
+        "Comme les monstres U/G, avec les dégâts rouges à la place du tempo bleu."
+      ],
+      "en": [
+        "Van Lunen: the best way to play red in Theros.",
+        "He judged red quite weak overall and not a color to aim for.",
+        "Like U/G monsters, with red burn in place of blue tempo."
+      ]
+    },
+    "keyCards": [
+      "Ill-Tempered Cyclops",
+      "Nessian Asp",
+      "Lightning Strike",
+      "Magma Jet",
+      "Voyaging Satyr",
+      "Destructive Revelry"
+    ],
+    "cover": "Ill-Tempered Cyclops",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://mtg.wiki/page/Theros"
+    ]
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Heroic au sol : Leafcrown Dryad et les créatures à bestow équipaient des créatures heroic comme Fabled Hero, Staunch-Hearted Warrior et Centaur Battlemaster.",
+      "en": "Heroic on the ground: Leafcrown Dryad and bestow creatures suited up heroic creatures like Fabled Hero, Staunch-Hearted Warrior and Centaur Battlemaster."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen : le heroic G/W était la meilleure stratégie agressive du set.",
+        "Il fallait prendre très tôt les créatures à bestow.",
+        "Leafcrown Dryad était la meilleure commune verte pour l'agression."
+      ],
+      "en": [
+        "Van Lunen: G/W heroic was the best aggressive strategy in Theros.",
+        "Bestow creatures were to be taken very high.",
+        "Leafcrown Dryad was the best green common for aggression."
+      ]
+    },
+    "keyCards": [
+      "Chronicler of Heroes",
+      "Leafcrown Dryad",
+      "Staunch-Hearted Warrior",
+      "Centaur Battlemaster",
+      "Wingsteed Rider",
+      "Hopeful Eidolon"
+    ],
+    "cover": "Chronicler of Heroes",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://scryfall.com/search?q=set%3Aths+r%3Au+c%3Am"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Lifegain Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Un contrôle capable de passer à l'attaque : Sentry of the Underworld, Insatiable Harpy et Hopeful Eidolon cumulaient lien de vie et vol en une seule grosse menace.",
+      "en": "Control that could turn aggressive: Sentry of the Underworld, Insatiable Harpy and Hopeful Eidolon stacked lifelink and flying into a single large threat."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen préférait W/B en contrôle, avec une porte de sortie agressive.",
+        "Hopeful Eidolon en bestow sur Sentry créait un lien de vie presque imbattable.",
+        "Sentry of the Underworld revenait souvent tard dans le draft."
+      ],
+      "en": [
+        "Van Lunen preferred W/B as control, with an aggressive escape hatch.",
+        "Hopeful Eidolon bestowed on Sentry built a near-unbeatable lifelinker.",
+        "Sentry of the Underworld often came around late in the draft."
+      ]
+    },
+    "keyCards": [
+      "Sentry of the Underworld",
+      "Insatiable Harpy",
+      "Hopeful Eidolon",
+      "Gray Merchant of Asphodel",
+      "Pharika's Cure"
+    ],
+    "cover": "Sentry of the Underworld",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://mtg.wiki/page/Theros"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Éphémères et rituels au cimetière : Spellheart Chimera grandissait avec chacun, aux côtés de Lightning Strike, Magma Jet et Voyage's End.",
+      "en": "Instants and sorceries in the graveyard: Spellheart Chimera grew with each one, alongside Lightning Strike, Magma Jet and Voyage's End."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki range U/R sous éphémères et rituels au cimetière.",
+        "Spellheart Chimera est l'uncommon dorée de la paire.",
+        "Van Lunen tenait le bleu pour la couleur la plus forte et le rouge pour faible."
+      ],
+      "en": [
+        "mtg.wiki lists U/R as instants and sorceries in graveyards.",
+        "Spellheart Chimera is the pair's gold uncommon.",
+        "Van Lunen rated blue the most powerful color and red quite weak."
+      ]
+    },
+    "keyCards": [
+      "Spellheart Chimera",
+      "Lightning Strike",
+      "Magma Jet",
+      "Voyage's End",
+      "Prescient Chimera",
+      "Dissolve"
+    ],
+    "cover": "Spellheart Chimera",
+    "sources": [
+      "https://mtg.wiki/page/Theros",
+      "https://scryfall.com/search?q=set%3Aths+r%3Au+c%3Am",
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited"
+    ]
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Recursion",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Valeur du cimetière : Pharika's Mender ramenait créatures ou enchantements, Returned Centaur et Commune with the Gods remplissaient le cimetière, Nessian Asp tenait le sol.",
+      "en": "Graveyard value: Pharika's Mender returned creatures or enchantments, Returned Centaur and Commune with the Gods filled the graveyard, Nessian Asp held the ground."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki range B/G comme la paire de récursion.",
+        "Pharika's Mender est l'uncommon dorée de la paire.",
+        "Van Lunen classait le vert deuxième couleur la plus forte du set."
+      ],
+      "en": [
+        "mtg.wiki lists B/G as the recursion pair.",
+        "Pharika's Mender is the pair's gold uncommon.",
+        "Van Lunen ranked green the second strongest color of the set."
+      ]
+    },
+    "keyCards": [
+      "Pharika's Mender",
+      "Returned Centaur",
+      "Commune with the Gods",
+      "Nessian Asp",
+      "Pharika's Cure",
+      "Sip of Hemlock"
+    ],
+    "cover": "Pharika's Mender",
+    "sources": [
+      "https://mtg.wiki/page/Theros",
+      "https://scryfall.com/search?q=set%3Aths+r%3Au+c%3Am",
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Heroic rapide : Akroan Hoplite et Akroan Crusader attaquaient tôt, renforcés par Titan's Strength, Dauntless Onslaught et Gods Willing.",
+      "en": "Fast heroic: Akroan Hoplite and Akroan Crusader attacked early, pumped by Titan's Strength, Dauntless Onslaught and Gods Willing."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen : le heroic R/W a brillé au début, puis s'est révélé faible sur trois matchs.",
+        "Les nombreuses créatures à 3 et 4 d'endurance freinaient l'agression.",
+        "Il pouvait toutefois produire des mains presque imbattables."
+      ],
+      "en": [
+        "Van Lunen: R/W heroic did well early, then proved weak over three matches.",
+        "Theros' many 3- and 4-toughness creatures blunted the aggression.",
+        "It could produce nearly unbeatable draws, he added."
+      ]
+    },
+    "keyCards": [
+      "Akroan Hoplite",
+      "Akroan Crusader",
+      "Titan's Strength",
+      "Dauntless Onslaught",
+      "Gods Willing",
+      "Lightning Strike"
+    ],
+    "cover": "Akroan Hoplite",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://articles.starcitygames.com/articles/theros-limited-archetypes/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Monsters",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe vers les monstres : Voyaging Satyr accélérait, Nessian Asp et Vulpine Goliath tenaient et frappaient, Nimbus Naiad donnait le vol, Griptide et Voyage's End ouvraient la voie.",
+      "en": "Ramp into monsters: Voyaging Satyr accelerated, Nessian Asp and Vulpine Goliath held and hit, Nimbus Naiad bestowed flying, Griptide and Voyage's End kept the way open."
+    },
+    "why": {
+      "fr": [
+        "Van Lunen : les monstres G/U étaient parmi les meilleurs decks du format.",
+        "Ses communes faisaient l'essentiel du travail.",
+        "Nimbus Naiad en bestow sur un gros corps comme Vulpine Goliath gagnait souvent la partie."
+      ],
+      "en": [
+        "Van Lunen: G/U monsters was among the better decks of the format.",
+        "Its commons did a lot of the work.",
+        "Nimbus Naiad bestowed on a fatty like Vulpine Goliath often won the game."
+      ]
+    },
+    "keyCards": [
+      "Horizon Chimera",
+      "Nessian Asp",
+      "Voyaging Satyr",
+      "Nimbus Naiad",
+      "Vulpine Goliath",
+      "Griptide"
+    ],
+    "cover": "Horizon Chimera",
+    "sources": [
+      "https://coolstuffinc.com/a/jacobvanlunen-012414-the-archetypes-of-theros-limited",
+      "https://scryfall.com/search?q=set%3Aths+r%3Au+c%3Am"
+    ]
+  }
+]

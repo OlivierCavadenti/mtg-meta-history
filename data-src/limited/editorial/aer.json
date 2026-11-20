@@ -1,0 +1,261 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers and Blink",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Volants et clignotement : Spire Patrol engageait un bloqueur pour deux tours, Dawnfeather Eagle et Wind-Kin Raiders attaquaient par les airs, les effets d'arrivée de Kaladesh se réutilisaient.",
+      "en": "Fliers and blink: Spire Patrol locked down a blocker, Dawnfeather Eagle and Wind-Kin Raiders attacked through the air, and Kaladesh enter triggers were reused."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : le bloc Kaladesh n'a jamais été bon pour les volants UW, à éviter sauf contrainte.",
+        "Hareruya et Hipsters : le blanc devenait la couleur la plus faible avec Aether Revolt."
+      ],
+      "en": [
+        "Hareruya: Kaladesh block was never good for UW Fliers; he would not draft it unless forced.",
+        "Hareruya and Hipsters: white became the weakest color with Aether Revolt."
+      ]
+    },
+    "keyCards": ["Spire Patrol", "Dawnfeather Eagle", "Wind-Kin Raiders", "Ghirapur Osprey", "Cloudblazer"],
+    "cover": "Spire Patrol",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Artifacts",
+    "archetype": "control",
+    "summary": {
+      "fr": "Artefacts et improvisation : Fen Hauler et Bastion Inventor arrivaient tôt grâce aux artefacts, Metallic Rebuke contrait à bas prix, Tezzeret's Touch faisait d'un artefact un 5/5.",
+      "en": "Artifacts and improvise: Fen Hauler and Bastion Inventor came down early off artifacts, Metallic Rebuke countered cheaply and Tezzeret's Touch made an artifact a 5/5."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : contrôle ou agressif selon le nombre d'artefacts, plus il y en a plus le deck ralentit.",
+        "Hipsters : en contrôle, Fen Hauler et Aether Poisoner bloquaient le sol, Metallic Rebuke tenait le reste."
+      ],
+      "en": [
+        "Hareruya: control or aggro depending on artifacts; the more you play, the slower the deck.",
+        "Hipsters: in control builds Fen Hauler and Aether Poisoner held the ground behind Metallic Rebuke."
+      ]
+    },
+    "keyCards": ["Tezzeret's Touch", "Fen Hauler", "Bastion Inventor", "Metallic Rebuke", "Aether Poisoner"],
+    "cover": "Tezzeret's Touch",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Improvise",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Improvisation agressive : Sweatworks Brawler arrivait en avance grâce aux artefacts, Weldfast Engineer renforçait les créatures-artefacts, Defiant Salvager sacrifiait les Implements.",
+      "en": "Aggressive improvise: Sweatworks Brawler came down ahead of curve off artifacts, Weldfast Engineer pumped artifact creatures and Defiant Salvager sacrificed Implements."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : l'improvisation n'existait qu'en bleu, noir et rouge, et elle s'avérait excellente.",
+        "Hareruya : un deck agressif à thème artefacts, avec beaucoup de portée même en retard."
+      ],
+      "en": [
+        "Hipsters: improvise appeared only in blue, black and red, and proved a great mechanic.",
+        "Hareruya: an aggressive artifact-themed deck with a lot of reach even when behind."
+      ]
+    },
+    "keyCards": ["Weldfast Engineer", "Sweatworks Brawler", "Aether Chaser", "Defiant Salvager", "Implement of Combustion"],
+    "cover": "Weldfast Engineer",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Beatdown",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Grosses créatures : Outland Boar ignorait les petits bloqueurs, Ridgescale Tusker et Scrounging Bandar ajoutaient des marqueurs, Scrapper Champion et Shock assuraient la pression.",
+      "en": "Big creatures: Outland Boar ignored small blockers, Ridgescale Tusker and Scrounging Bandar added counters, and Scrapper Champion and Shock kept up the pressure."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : les deux meilleures couleurs du format réunies donnaient le meilleur deck.",
+        "Hareruya : le rouge avait trois des quatre meilleures communes et la meilleure unco, Scrapper Champion."
+      ],
+      "en": [
+        "Hareruya: pairing the two best colors of the format gave the best deck.",
+        "Hareruya: red had three of the four best commons and the best uncommon, Scrapper Champion."
+      ]
+    },
+    "keyCards": ["Outland Boar", "Scrapper Champion", "Ridgescale Tusker", "Scrounging Bandar", "Shock"],
+    "cover": "Outland Boar",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Revolt",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Révolte : faire quitter le champ de bataille à un permanent (Renegade Map, Servos, clignotement) pour déclencher Renegade Rallier, Lifecraft Cavalry et Airdrop Aeronauts.",
+      "en": "Revolt: make a permanent leave the battlefield (Renegade Map, Servos, blink) to trigger Renegade Rallier, Lifecraft Cavalry and Airdrop Aeronauts."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : la révolte décevait ; le G/W, la paire la plus axée dessus, s'affaiblissait d'autant.",
+        "Hareruya : le WG pouvait tirer le plus de la révolte et se permettre de toucher une couleur."
+      ],
+      "en": [
+        "Hipsters: revolt underwhelmed, and G/W, the pair most focused on it, was weaker for it.",
+        "Hareruya: WG could benefit the most from revolt and could afford splashes."
+      ]
+    },
+    "keyCards": ["Renegade Rallier", "Lifecraft Cavalry", "Airdrop Aeronauts", "Hidden Herbalists", "Renegade Map"],
+    "cover": "Renegade Rallier",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Vehicles",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Servos et Véhicules : Hidden Stockpile créait un Servo après chaque révolte, Aether Inspector et Gifted Aetherborn pilotaient Mobile Garrison et Renegade Freighter.",
+      "en": "Servos and Vehicles: Hidden Stockpile made a Servo after each revolt, and Aether Inspector and Gifted Aetherborn crewed Mobile Garrison and Renegade Freighter."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : loin du haut du panier, sans la Fabrication de Kaladesh pour le plan Servos.",
+        "Hareruya : Aether Inspector était de loin la plus faible de son cycle."
+      ],
+      "en": [
+        "Hareruya: not near the cream of the crop without Kaladesh's fabricate for the Servo plan.",
+        "Hareruya: Aether Inspector was by far the worst of its cycle."
+      ]
+    },
+    "keyCards": ["Hidden Stockpile", "Gifted Aetherborn", "Aether Inspector", "Mobile Garrison", "Renegade Freighter"],
+    "cover": "Hidden Stockpile",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Thopters",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Thopters et improvisation : Maverick Thopterist arrivait au tour trois avec deux Thopters, Aether Swooper et Whirler Virtuoso en ajoutaient, Shock et les renvois gardaient le tempo.",
+      "en": "Thopters and improvise: Maverick Thopterist landed on turn three with two Thopters, Aether Swooper and Whirler Virtuoso made more, and Shock and bounce kept the tempo."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : préférence nette pour l'improvisation grixis ; l'UR deviendrait plus disputé.",
+        "Hareruya : Maverick Thopterist, trop fort pour revenir dans le booster."
+      ],
+      "en": [
+        "Hipsters: a strong lean toward Grixis improvise decks; blue-red would get harder to draft.",
+        "Hareruya: Maverick Thopterist was too good to wheel."
+      ]
+    },
+    "keyCards": ["Maverick Thopterist", "Aether Swooper", "Whirler Virtuoso", "Efficient Construction", "Shock"],
+    "cover": "Maverick Thopterist",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ]
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Marqueurs +1/+1 : Winding Constrictor en ajoutait un de plus, Ridgescale Tusker, Maulfist Revolutionary et Scrounging Bandar les distribuaient ou les déplaçaient.",
+      "en": "+1/+1 counters: Winding Constrictor added one more each time, while Ridgescale Tusker, Maulfist Revolutionary and Scrounging Bandar handed them out or moved them."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : le vert restait fort en Aether Revolt, avec des uncos remarquables.",
+        "Hipsters : vert surdrafté et communes moins profondes, difficile à obtenir sans être seul."
+      ],
+      "en": [
+        "Hareruya: green stayed strong in Aether Revolt, with insane uncommons.",
+        "Hipsters: green was overdrafted and shallower at common, hard to get unless uncontested."
+      ]
+    },
+    "keyCards": ["Winding Constrictor", "Ridgescale Tusker", "Maulfist Revolutionary", "Scrounging Bandar", "Armorcraft Judge"],
+    "cover": "Winding Constrictor",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Vehicles",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Véhicules agressifs : Renegade Wheelsmith empêchait un bloqueur en pilotant, Aeronaut Admiral faisait voler les Véhicules, Daredevil Dragster et Aether Chaser poussaient les dégâts.",
+      "en": "Vehicle aggro: Renegade Wheelsmith stopped a blocker when tapped to crew, Aeronaut Admiral gave Vehicles flying, and Daredevil Dragster and Aether Chaser pushed damage."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : toujours le deck Véhicules agressif, mais à court de moyens pour percer.",
+        "Hipsters : le blanc allait encore avec le rouge, mais ses créatures et astuces s'accordaient moins bien."
+      ],
+      "en": [
+        "Hareruya: still the aggressive Vehicles deck, but short on ways to push through.",
+        "Hipsters: white still paired with red, but its creatures and tricks lined up less well."
+      ]
+    },
+    "keyCards": ["Renegade Wheelsmith", "Aeronaut Admiral", "Daredevil Dragster", "Aether Chaser", "Renegade Freighter"],
+    "cover": "Renegade Wheelsmith",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en",
+      "https://www.hipstersofthecoast.com/2017/02/new-draft-metagame/"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Énergie et rampe : Rogue Refiner piochait et donnait de l'énergie, Druid of the Cowl accélérait, Aether Herder et Peema Aether-Seer remplissaient la réserve d'énergie.",
+      "en": "Energy and ramp: Rogue Refiner drew a card and gave energy, Druid of the Cowl ramped, and Aether Herder and Peema Aether-Seer filled the energy pool."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : le deck énergie tempo, créatures plus grosses qu'en UR, removal plus conditionnel.",
+        "Hareruya : les multicolores brillaient, et l'UG pouvait presque toujours toucher une couleur."
+      ],
+      "en": [
+        "Hareruya: the energy tempo deck, with bigger creatures than U/R but more conditional removal.",
+        "Hareruya: the gold cards shone, and UG could almost always run a small splash."
+      ]
+    },
+    "keyCards": ["Rogue Refiner", "Druid of the Cowl", "Aether Herder", "Peema Aether-Seer", "Aetherstream Leopard"],
+    "cover": "Rogue Refiner",
+    "sources": [
+      "https://mtg.wiki/page/Aether_Revolt",
+      "https://article.hareruyamtg.com/article/article_en_80/?lang=en"
+    ]
+  }
+]

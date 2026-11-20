@@ -1,0 +1,347 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Awaken",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Volants et sorts à éveil : Roil Spout et Clutch of Currents renvoient puis animent un terrain, pendant que Fortified Rampart tient un sol encombré de Scions.",
+      "en": "Fliers and awaken spells: Roil Spout and Clutch of Currents bounce, then turn a land into a creature, while Fortified Rampart holds the Scion-clogged ground."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic comptait les volants W/U parmi les archétypes BFZ qui réussissaient le mieux",
+        "Les jetons Scion bloquant le sol, le vol s'est révélé l'une des capacités les plus importantes",
+        "Shaun McLaren : le bleu a une identité très claire et beaucoup de profondeur"
+      ],
+      "en": [
+        "Gathering Magic counted W/U fliers among the most successful BFZ archetypes",
+        "With Scion tokens gumming up the ground, flying proved among the most important abilities",
+        "Shaun McLaren: blue has a very clear identity with plenty of depth"
+      ]
+    },
+    "keyCards": [
+      "Roil Spout",
+      "Clutch of Currents",
+      "Sheer Drop",
+      "Cloud Manta",
+      "Courier Griffin",
+      "Fortified Rampart"
+    ],
+    "cover": "Roil Spout",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://mtg.wiki/page/Battle_for_Zendikar"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Ingest",
+    "archetype": "control",
+    "summary": {
+      "fr": "Les créatures à ingestion exilent le dessus de la bibliothèque adverse, puis les transformateurs comme Ulamog's Nullifier exploitent ces cartes dans un deck dépourvu d'usure.",
+      "en": "Ingest creatures exile the top of the opponent's library, processors such as Ulamog's Nullifier then use those cards in a grindy devoid deck."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic : la version dépourvue U/B, lente, aligne ingestions et transformateurs",
+        "Benthic Infiltrator est la pièce bleue clé, qui active les transformateurs",
+        "Ulamog's Nullifier exige deux cartes exilées : prudence sans assez d'ingestion"
+      ],
+      "en": [
+        "Gathering Magic: the grindy U/B devoid version runs a ton of ingesters and processors",
+        "Benthic Infiltrator is the key blue role-player, enabling processors",
+        "Ulamog's Nullifier needs two exiled cards; be wary of it without enough ingest"
+      ]
+    },
+    "keyCards": [
+      "Ulamog's Nullifier",
+      "Benthic Infiltrator",
+      "Mist Intruder",
+      "Murk Strider",
+      "Complete Disregard",
+      "Sludge Crawler"
+    ],
+    "cover": "Ulamog's Nullifier",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://mtg.wiki/page/Battle_for_Zendikar",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dub"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression dépourvue rapide : Forerunner of Slaughter, Dominator Drone et Vestige of Emrakul infligent des dégâts avant l'arrivée des decks de rampe Eldrazi.",
+      "en": "Fast devoid aggression: Forerunner of Slaughter, Dominator Drone and Vestige of Emrakul push damage before the Eldrazi ramp decks arrive."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic jugeait les decks dépourvus équilibrés, quelle que soit leur version",
+        "Shaun McLaren craignait un deck mi-agressif B/R, mi-cartes génériques",
+        "Le format était plus lent que Magic Origins, sans masse critique de cartes agressives"
+      ],
+      "en": [
+        "Gathering Magic saw the devoid decks as well-rounded however they are built",
+        "Shaun McLaren feared it would end up half B/R aggro cards, half generic cards",
+        "The format was slower than Magic Origins, with no critical mass of aggressive cards"
+      ]
+    },
+    "keyCards": [
+      "Forerunner of Slaughter",
+      "Dominator Drone",
+      "Vestige of Emrakul",
+      "Nettle Drone",
+      "Touch of the Void"
+    ],
+    "cover": "Forerunner of Slaughter",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://mtg.wiki/page/Battle_for_Zendikar"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Landfall",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures à toucheterre comme Snapping Gnarlid et Valakut Predator qui attaquent fort, Grove Rumbler grandissant à chaque terrain posé.",
+      "en": "Landfall creatures such as Snapping Gnarlid and Valakut Predator attack hard while Grove Rumbler pumps on each land drop."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic jugeait le toucheterre rouge-vert l'archétype le plus décevant",
+        "Ses créatures défendent mal : revenir après avoir pris du retard est difficile",
+        "Beaucoup de pros critiquaient le vert de Battle for Zendikar"
+      ],
+      "en": [
+        "Gathering Magic found R/G landfall the most underwhelming archetype",
+        "Its creatures defend poorly, so falling behind is hard to recover from",
+        "Many pros were critical of green in Battle for Zendikar"
+      ]
+    },
+    "keyCards": [
+      "Grove Rumbler",
+      "Snapping Gnarlid",
+      "Valakut Predator",
+      "Retreat to Kazandu",
+      "Rolling Thunder"
+    ],
+    "cover": "Grove Rumbler",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://mtg.wiki/page/Battle_for_Zendikar",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Drg"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Allies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Jouer large avec les Alliés : les déclenchements de ralliement de Grovetender Druids, Tajuru Warcaller et Lantern Scout récompensent chaque créature qui arrive.",
+      "en": "Go wide with Allies: rally and ally triggers from Grovetender Druids, Tajuru Warcaller and Lantern Scout reward each creature that enters."
+    },
+    "why": {
+      "fr": [
+        "Shaun McLaren trouvait les Alliés G/W et R/W malaisés à drafter côte à côte",
+        "Les Alliés agissent sur toutes les créatures et semblent plus faibles en deck dédié",
+        "Gathering Magic relevait de fortes critiques des pros envers le vert du set"
+      ],
+      "en": [
+        "Shaun McLaren found G/W and R/W Allies awkward to draft side by side",
+        "Allies work on all creatures and feel weaker in dedicated Ally decks",
+        "Gathering Magic noted heavy pro criticism of green in the set"
+      ]
+    },
+    "keyCards": [
+      "Grovetender Druids",
+      "Tajuru Warcaller",
+      "Lantern Scout",
+      "Ondu Greathorn",
+      "Expedition Envoy"
+    ],
+    "cover": "Grovetender Druids",
+    "sources": [
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://mtg.wiki/page/Battle_for_Zendikar"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Allies",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gain de vie et Alliés : Kalastria Healer draine à chaque Allié, Drana's Emissary et Serene Steward récompensent le gain de vie pendant que les destructions déblaient.",
+      "en": "Life gain and Allies: Kalastria Healer drains with each Ally, Drana's Emissary and Serene Steward reward life gain while removal clears the way."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic comptait les Alliés W/B parmi les archétypes BFZ qui réussissaient le mieux",
+        "Kalastria Healer en est la clé ; deux Healers signalent que le deck est ouvert",
+        "Ses cartes étroites ne nourrissent qu'un joueur par table"
+      ],
+      "en": [
+        "Gathering Magic counted W/B Allies among the most successful BFZ archetypes",
+        "Kalastria Healer is the lynchpin; two Healers signal the deck is open",
+        "Its narrow cards support only about one drafter per table"
+      ]
+    },
+    "keyCards": [
+      "Drana's Emissary",
+      "Kalastria Healer",
+      "Serene Steward",
+      "Courier Griffin",
+      "Stone Haven Medic"
+    ],
+    "cover": "Drana's Emissary",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://mtg.wiki/page/Battle_for_Zendikar",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dwb"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Devoid",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les cartes incolores comptent : créatures et sorts dépourvus comme Herald of Kozilek, Vile Aggregate et Nettle Drone dans un deck tempo.",
+      "en": "Colorless matters: devoid creatures and spells such as Herald of Kozilek, Vile Aggregate and Nettle Drone in a tempo deck."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic voyait la version tempo U/R comme l'une des trois saveurs dépourvues",
+        "Plusieurs Nettle Drone posaient problème au deck de volants W/U",
+        "Tous les decks bleus veulent Eldrazi Skyspawner : il passe rarement tard"
+      ],
+      "en": [
+        "Gathering Magic called the tempo-based U/R version one of the three devoid flavors",
+        "Multiple Nettle Drones were hard for the W/U fliers deck to deal with",
+        "Eldrazi Skyspawner is wanted by every blue deck, so it rarely comes late"
+      ]
+    },
+    "keyCards": [
+      "Herald of Kozilek",
+      "Vile Aggregate",
+      "Nettle Drone",
+      "Eldrazi Skyspawner",
+      "Touch of the Void"
+    ],
+    "cover": "Herald of Kozilek",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://mtg.wiki/page/Battle_for_Zendikar",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dur"
+    ]
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Sacrifice",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Les créateurs de Scions Eldrazi comme Catacomb Sifter et Brood Monitor accélèrent et nourrissent les sacrifices en route vers les gros Eldrazi.",
+      "en": "Eldrazi Scion makers such as Catacomb Sifter and Brood Monitor ramp and feed sacrifice effects on the way to large Eldrazi."
+    },
+    "why": {
+      "fr": [
+        "Gathering Magic ne trouvait guère de raisons de drafter la rampe noir-vert",
+        "Un gros Eldrazi en premier choix pouvait quand même y attirer",
+        "Shaun McLaren : beaucoup de façons de créer des Scions et de choses chères à lancer"
+      ],
+      "en": [
+        "Gathering Magic had not found much incentive to draft B/G ramp",
+        "A first-pick large Eldrazi could still pull a drafter into it",
+        "Shaun McLaren: there are plenty of ways to make Scions and expensive things to cast"
+      ]
+    },
+    "keyCards": [
+      "Catacomb Sifter",
+      "Brood Monitor",
+      "Eyeless Watcher",
+      "Swarm Surge",
+      "Carrier Thrall"
+    ],
+    "cover": "Catacomb Sifter",
+    "sources": [
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dbg"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Allies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Alliés agressifs : Resolute Blademaster donne la double initiative au ralliement, Kor Bladewhirl l'initiative, des Alliés bon marché remplissent la courbe.",
+      "en": "Aggressive Allies: Resolute Blademaster grants double strike on rally, Kor Bladewhirl first strike, cheap Allies fill the curve."
+    },
+    "why": {
+      "fr": [
+        "Shaun McLaren trouvait malaisé de drafter à la fois les Alliés R/W et G/W",
+        "Une version Naya est possible mais le mana devient instable",
+        "Gathering Magic notait que les cartes rouges se partagent entre dépourvu, Alliés R/W et toucheterre R/G"
+      ],
+      "en": [
+        "Shaun McLaren found R/W and G/W Allies awkward when both are open to you",
+        "A Naya Allies build is possible but the mana tends to be wonky",
+        "Gathering Magic warned that red cards split among devoid, R/W Allies and R/G landfall"
+      ]
+    },
+    "keyCards": [
+      "Resolute Blademaster",
+      "Kor Bladewhirl",
+      "Makindi Sliderunner",
+      "Ondu Champion",
+      "Kor Castigator"
+    ],
+    "cover": "Resolute Blademaster",
+    "sources": [
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://coolstuffinc.com/a/halliesanto-111315-battle-for-zendikar-limited-archetype-assessment",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dwr"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Converge",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Accélération et fixation vers les sorts à convergence qui grandissent avec chaque couleur payée, Skyrider Elf en signal d'un deck vert-bleu multicolore.",
+      "en": "Ramp and fixing into converge spells that grow with each color paid, Skyrider Elf the signpost of a green-blue multicolor deck."
+    },
+    "why": {
+      "fr": [
+        "Shaun McLaren : la fixation est rare et de piètre qualité",
+        "Il jugeait Skyrider Elf fort au tour deux en G/U et redoutable en cinq couleurs",
+        "Gathering Magic relevait les critiques des pros envers le vert du format"
+      ],
+      "en": [
+        "Shaun McLaren: there is not much fixing, and it is not very good",
+        "He found Skyrider Elf strong on turn two in G/U and ridiculous in five colors",
+        "Gathering Magic noted pros were critical of green in the format"
+      ]
+    },
+    "keyCards": [
+      "Skyrider Elf",
+      "Tajuru Stalwart",
+      "Infuse with the Elements",
+      "Brilliant Spectrum",
+      "Evolving Wilds"
+    ],
+    "cover": "Skyrider Elf",
+    "sources": [
+      "https://articles.starcitygames.com/articles/preparing-for-battle-for-zendikar-draft/",
+      "https://mtg.wiki/page/Battle_for_Zendikar",
+      "https://scryfall.com/search?q=set%3Abfz+r%3Au+id%3Dug"
+    ]
+  }
+]
