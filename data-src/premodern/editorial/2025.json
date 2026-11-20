@@ -43,7 +43,6 @@
     "slug": "burn",
     "archetype": "aggro",
     "titles": [
-      "Burn",
       "Sligh",
       "Sligh (RDW)",
       "Sligh (Rdw)",
@@ -107,11 +106,7 @@
         "A atteint la finale du championnat d'Europe à Tampere",
         "Parallax Tide rejoignait Parallax Wave comme second enchantement à renvoyer"
       ]
-    },
-    "include": [
-      768971,
-      786419
-    ]
+    }
   },
   {
     "name": "Enchantress",
@@ -142,42 +137,6 @@
         "A remporté le championnat nord-américain à la Lobstercon",
         "A atteint le top 4 du championnat tchèque à Prague",
         "Parallax Wave et Seal of Cleansing lui donnaient de l'interaction"
-      ]
-    }
-  },
-  {
-    "name": "Goblins",
-    "slug": "goblins",
-    "archetype": "aggro",
-    "titles": [
-      "Br Goblins",
-      "Goblin",
-      "Goblins",
-      "Lackey drops Squee !",
-      "Rg Goblins"
-    ],
-    "cover": "Goblin Lackey",
-    "keyCards": [
-      "Goblin Lackey",
-      "Goblin Matron",
-      "Goblin Ringleader",
-      "Goblin Warchief",
-      "Siege-Gang Commander"
-    ],
-    "summary": {
-      "en": "Red tribal aggro, often splashing green for Naturalize: Goblin Lackey and Goblin Warchief speed up the curve, Goblin Matron and Goblin Ringleader refill the hand.",
-      "fr": "Aggro tribal rouge, souvent avec une touche verte pour Naturalize : Goblin Lackey et Goblin Warchief accélèrent la courbe, Goblin Matron et Goblin Ringleader rechargent la main."
-    },
-    "why": {
-      "en": [
-        "Won La Maratón, a side event of the Spanish national championship",
-        "Won the Duress Crew winter and autumn regionals in New England",
-        "Also won the Premodern & Friends Grand Festival in Milan"
-      ],
-      "fr": [
-        "A remporté La Maratón, side event du championnat national espagnol",
-        "A gagné les tournois régionaux d'hiver et d'automne de Duress Crew en Nouvelle-Angleterre",
-        "A aussi remporté le Premodern & Friends Grand Festival à Milan"
       ]
     }
   },
@@ -224,6 +183,42 @@
     ]
   },
   {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Br Goblins",
+      "Goblin",
+      "Goblins",
+      "Lackey drops Squee !",
+      "Rg Goblins"
+    ],
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Goblin Matron",
+      "Goblin Ringleader",
+      "Goblin Warchief",
+      "Siege-Gang Commander"
+    ],
+    "summary": {
+      "en": "Red tribal aggro, often splashing green for Naturalize: Goblin Lackey and Goblin Warchief speed up the curve, Goblin Matron and Goblin Ringleader refill the hand.",
+      "fr": "Aggro tribal rouge, souvent avec une touche verte pour Naturalize : Goblin Lackey et Goblin Warchief accélèrent la courbe, Goblin Matron et Goblin Ringleader rechargent la main."
+    },
+    "why": {
+      "en": [
+        "Won La Maratón, a side event of the Spanish national championship",
+        "Won the Duress Crew winter and autumn regionals in New England",
+        "Also won the Premodern & Friends Grand Festival in Milan"
+      ],
+      "fr": [
+        "A remporté La Maratón, side event du championnat national espagnol",
+        "A gagné les tournois régionaux d'hiver et d'automne de Duress Crew en Nouvelle-Angleterre",
+        "A aussi remporté le Premodern & Friends Grand Festival à Milan"
+      ]
+    }
+  },
+  {
     "name": "Mono-Blue Control",
     "slug": "mono-blue-control",
     "archetype": "control",
@@ -261,41 +256,6 @@
     "include": [
       761983
     ]
-  },
-  {
-    "name": "Terravore",
-    "slug": "terravore",
-    "archetype": "midrange",
-    "titles": [
-      "4c Terrageddon 2.0",
-      "Terrageddon",
-      "Terrataclysm",
-      "Terravore"
-    ],
-    "cover": "Terravore",
-    "keyCards": [
-      "Terravore",
-      "Armageddon",
-      "Mox Diamond",
-      "Nimble Mongoose",
-      "Weathered Wayfarer"
-    ],
-    "summary": {
-      "en": "Green-white land destruction: Wasteland and Armageddon fill the graveyards with lands, which makes Terravore huge; Mox Diamond lets the deck land a threat before its own Armageddon.",
-      "fr": "Destruction de terrains vert-blanc : Wasteland et Armageddon remplissent les cimetières de terrains, ce qui rend Terravore énorme ; Mox Diamond permet de poser une menace avant son propre Armageddon."
-    },
-    "why": {
-      "en": [
-        "Won the Premodern Grand Prix in Frankfurt",
-        "Reached the top 4 of the Spanish and Argentine national championships",
-        "Most results were filed by mtgtop8 as Terrageddon"
-      ],
-      "fr": [
-        "A remporté le Premodern Grand Prix de Francfort",
-        "A atteint le top 4 des championnats nationaux espagnol et argentin",
-        "La plupart des résultats étaient classés Terrageddon par mtgtop8"
-      ]
-    }
   },
   {
     "name": "Landstill",
@@ -337,6 +297,41 @@
     "include": [
       756821
     ]
+  },
+  {
+    "name": "Terravore",
+    "slug": "terravore",
+    "archetype": "midrange",
+    "titles": [
+      "4c Terrageddon 2.0",
+      "Terrageddon",
+      "Terrataclysm",
+      "Terravore"
+    ],
+    "cover": "Terravore",
+    "keyCards": [
+      "Terravore",
+      "Armageddon",
+      "Mox Diamond",
+      "Nimble Mongoose",
+      "Weathered Wayfarer"
+    ],
+    "summary": {
+      "en": "Green-white land destruction: Wasteland and Armageddon fill the graveyards with lands, which makes Terravore huge; Mox Diamond lets the deck land a threat before its own Armageddon.",
+      "fr": "Destruction de terrains vert-blanc : Wasteland et Armageddon remplissent les cimetières de terrains, ce qui rend Terravore énorme ; Mox Diamond permet de poser une menace avant son propre Armageddon."
+    },
+    "why": {
+      "en": [
+        "Won the Premodern Grand Prix in Frankfurt",
+        "Reached the top 4 of the Spanish and Argentine national championships",
+        "Most results were filed by mtgtop8 as Terrageddon"
+      ],
+      "fr": [
+        "A remporté le Premodern Grand Prix de Francfort",
+        "A atteint le top 4 des championnats nationaux espagnol et argentin",
+        "La plupart des résultats étaient classés Terrageddon par mtgtop8"
+      ]
+    }
   },
   {
     "name": "Oath Ponza",
@@ -387,6 +382,49 @@
     ]
   },
   {
+    "name": "Psychatog",
+    "slug": "psychatog",
+    "archetype": "control",
+    "titles": [
+      "5c Control",
+      "Burning Tog",
+      "Finkula",
+      "Gaea's Blessing Control",
+      "Psychatog",
+      "The Dromar Solution",
+      "The Solution (UWB)",
+      "The UWB Solution",
+      "UWg Control"
+    ],
+    "cover": "Psychatog",
+    "keyCards": [
+      "Psychatog",
+      "Gush",
+      "Accumulated Knowledge",
+      "Counterspell",
+      "Duress"
+    ],
+    "summary": {
+      "en": "Blue-black draw-go control: cheap cantrips and Gush fill the hand and graveyard, then Psychatog grows large enough to win in one or two attacks.",
+      "fr": "Contrôle bleu-noir en draw-go : les cantrips bon marché et Gush remplissent la main et le cimetière, puis Psychatog grossit assez pour gagner en une ou deux attaques."
+    },
+    "why": {
+      "en": [
+        "Won the Argentine national championship",
+        "Also won Community Premodern Series monthly leagues",
+        "Some lists were filed by mtgtop8 as The Dromar Solution"
+      ],
+      "fr": [
+        "A remporté le championnat national argentin",
+        "A aussi gagné des ligues mensuelles de la Community Premodern Series",
+        "Certaines listes étaient classées The Dromar Solution par mtgtop8"
+      ]
+    },
+    "include": [
+      785759
+    ]
+  },
+  {
     "name": "Tinker Fling",
     "slug": "tinker-fling",
     "archetype": "combo",
@@ -418,49 +456,6 @@
         "Sky Diamond et Mind Stone aidaient à lancer Tinker au deuxième tour"
       ]
     }
-  },
-  {
-    "name": "Psychatog",
-    "slug": "psychatog",
-    "archetype": "control",
-    "titles": [
-      "5c Control",
-      "Burning Tog",
-      "Finkula",
-      "Gaea's Blessing Control",
-      "Psychatog",
-      "The Dromar Solution",
-      "The Solution (UWB)",
-      "The UWB Solution",
-      "UWg Control"
-    ],
-    "cover": "Psychatog",
-    "keyCards": [
-      "Psychatog",
-      "Gush",
-      "Accumulated Knowledge",
-      "Counterspell",
-      "Duress"
-    ],
-    "summary": {
-      "en": "Blue-black draw-go control: cheap cantrips and Gush fill the hand and graveyard, then Psychatog grows large enough to win in one or two attacks.",
-      "fr": "Contrôle bleu-noir en draw-go : les cantrips bon marché et Gush remplissent la main et le cimetière, puis Psychatog grossit assez pour gagner en une ou deux attaques."
-    },
-    "why": {
-      "en": [
-        "Won the Argentine national championship",
-        "Also won two Community Premodern Series monthly leagues",
-        "Some lists were filed by mtgtop8 as The Dromar Solution"
-      ],
-      "fr": [
-        "A remporté le championnat national argentin",
-        "A aussi gagné deux ligues mensuelles de la Community Premodern Series",
-        "Certaines listes étaient classées The Dromar Solution par mtgtop8"
-      ]
-    },
-    "include": [
-      785759
-    ]
   },
   {
     "name": "UG Madness",
@@ -506,7 +501,6 @@
       "Bg Rack",
       "Bg Rack Pit",
       "Bg Rotting Rack",
-      "Machine Head",
       "Mono Black Control",
       "Mono Black The Rack",
       "Pit Rack",
@@ -540,9 +534,6 @@
     },
     "include": [
       765748
-    ],
-    "exclude": [
-      775059
     ]
   },
   {
@@ -613,12 +604,12 @@
     "why": {
       "en": [
         "Won Gold Border 2 in Argentina and a round of the Liga Madrileña",
-        "Green-white builds with Meddling Mage won two events",
+        "Green-white builds with Meddling Mage also won events",
         "Recurring Nightmare remained the engine of the black builds"
       ],
       "fr": [
         "A remporté le Gold Border 2 en Argentine et une manche de la Liga Madrileña",
-        "Des versions vert-blanc avec Meddling Mage ont gagné deux tournois",
+        "Des versions vert-blanc avec Meddling Mage ont aussi gagné des tournois",
         "Recurring Nightmare restait le moteur des versions noires"
       ]
     },
@@ -680,8 +671,7 @@
     "slug": "angry-ghoul",
     "archetype": "combo",
     "titles": [
-      "Angry Ghoul",
-      "Angry Hermit"
+      "Angry Ghoul"
     ],
     "cover": "Hermit Druid",
     "keyCards": [
@@ -710,39 +700,13 @@
     "include": [
       695767,
       729150
+    ],
+    "exclude": [
+      687934,
+      716768,
+      721660,
+      747404
     ]
-  },
-  {
-    "name": "Full English Breakfast",
-    "slug": "full-english-breakfast",
-    "archetype": "combo",
-    "titles": [
-      "Full English Breakfast"
-    ],
-    "cover": "Hermit Druid",
-    "keyCards": [
-      "Hermit Druid",
-      "Volrath's Shapeshifter",
-      "Survival of the Fittest",
-      "Unearth",
-      "Cabal Therapy"
-    ],
-    "summary": {
-      "en": "Graveyard combo: Hermit Druid mills the whole library, then Volrath's Shapeshifter copies the top creature of the graveyard to win; Survival of the Fittest and Unearth assemble the pieces.",
-      "fr": "Combo cimetière : Hermit Druid meule toute la bibliothèque, puis Volrath's Shapeshifter copie la créature du dessus du cimetière pour gagner ; Survival of the Fittest et Unearth assemblent les pièces."
-    },
-    "why": {
-      "en": [
-        "Won the Bogardans War in Bologna",
-        "Akroma, Angel of Wrath and Triskelion were the usual targets of the Shapeshifter",
-        "Cabal Therapy protected the combo turn"
-      ],
-      "fr": [
-        "A remporté le Bogardans War à Bologne",
-        "Akroma, Angel of Wrath et Triskelion étaient les cibles habituelles du Shapeshifter",
-        "Cabal Therapy protégeait le tour du combo"
-      ]
-    }
   },
   {
     "name": "Stasis",
@@ -777,6 +741,70 @@
     }
   },
   {
+    "name": "Full English Breakfast",
+    "slug": "full-english-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Full English Breakfast"
+    ],
+    "cover": "Hermit Druid",
+    "keyCards": [
+      "Hermit Druid",
+      "Volrath's Shapeshifter",
+      "Survival of the Fittest",
+      "Unearth",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "en": "Graveyard combo: Hermit Druid mills the whole library, then Volrath's Shapeshifter copies the top creature of the graveyard to win; Survival of the Fittest and Unearth assemble the pieces.",
+      "fr": "Combo cimetière : Hermit Druid meule toute la bibliothèque, puis Volrath's Shapeshifter copie la créature du dessus du cimetière pour gagner ; Survival of the Fittest et Unearth assemblent les pièces."
+    },
+    "why": {
+      "en": [
+        "Won the Bogardans War in Bologna",
+        "Akroma, Angel of Wrath and Triskelion were the usual targets of the Shapeshifter",
+        "Cabal Therapy protected the combo turn"
+      ],
+      "fr": [
+        "A remporté le Bogardans War à Bologne",
+        "Akroma, Angel of Wrath et Triskelion étaient les cibles habituelles du Shapeshifter",
+        "Cabal Therapy protégeait le tour du combo"
+      ]
+    }
+  },
+  {
+    "name": "Ill-Gotten Gains",
+    "slug": "ill-gotten-gains",
+    "archetype": "combo",
+    "titles": [
+      "Ill-Gotten Gains"
+    ],
+    "cover": "Ill-Gotten Gains",
+    "keyCards": [
+      "Ill-Gotten Gains",
+      "Lion's Eye Diamond",
+      "Brain Freeze",
+      "Intuition",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "en": "Blue-black storm combo: rituals, Lotus Petal and Lion's Eye Diamond fuel Ill-Gotten Gains, which returns the spent spells to repeat the chain until Brain Freeze mills the opponent.",
+      "fr": "Combo storm bleu-noir : rituels, Lotus Petal et Lion's Eye Diamond alimentent Ill-Gotten Gains, qui récupère les sorts joués pour recommencer jusqu'à ce que Brain Freeze meule l'adversaire."
+    },
+    "why": {
+      "en": [
+        "Won a Community Premodern Series monthly league and a round of the Liga Madrileña",
+        "Cunning Wish and Merchant Scroll found the combo pieces",
+        "Orim's Chant protected the combo turn"
+      ],
+      "fr": [
+        "A remporté une ligue mensuelle de la Community Premodern Series et une manche de la Liga Madrileña",
+        "Cunning Wish et Merchant Scroll trouvaient les pièces du combo",
+        "Orim's Chant protégeait le tour du combo"
+      ]
+    }
+  },
+  {
     "name": "Gruul Aggro",
     "slug": "gruul-aggro",
     "archetype": "aggro",
@@ -807,39 +835,6 @@
         "A atteint le top 4 du championnat d'Europe à Tampere",
         "Call of the Herd et Wild Mongrel tenaient tête aux autres decks aggro",
         "Aucune victoire de tournoi dans l'année"
-      ]
-    }
-  },
-  {
-    "name": "Ill-Gotten Gains",
-    "slug": "ill-gotten-gains",
-    "archetype": "combo",
-    "titles": [
-      "Iggy-pop",
-      "Ill-Gotten Gains"
-    ],
-    "cover": "Ill-Gotten Gains",
-    "keyCards": [
-      "Ill-Gotten Gains",
-      "Lion's Eye Diamond",
-      "Brain Freeze",
-      "Intuition",
-      "Dark Ritual"
-    ],
-    "summary": {
-      "en": "Blue-black storm combo: rituals, Lotus Petal and Lion's Eye Diamond fuel Ill-Gotten Gains, which returns the spent spells to repeat the chain until Brain Freeze mills the opponent.",
-      "fr": "Combo storm bleu-noir : rituels, Lotus Petal et Lion's Eye Diamond alimentent Ill-Gotten Gains, qui récupère les sorts joués pour recommencer jusqu'à ce que Brain Freeze meule l'adversaire."
-    },
-    "why": {
-      "en": [
-        "Won a Community Premodern Series monthly league and a round of the Liga Madrileña",
-        "Cunning Wish and Merchant Scroll found the combo pieces",
-        "Orim's Chant protected the combo turn"
-      ],
-      "fr": [
-        "A remporté une ligue mensuelle de la Community Premodern Series et une manche de la Liga Madrileña",
-        "Cunning Wish et Merchant Scroll trouvaient les pièces du combo",
-        "Orim's Chant protégeait le tour du combo"
       ]
     }
   },
@@ -916,8 +911,7 @@
     "slug": "bw-control",
     "archetype": "control",
     "titles": [
-      "BW Control",
-      "Bw Control"
+      "BW Control"
     ],
     "cover": "Exalted Angel",
     "keyCards": [
@@ -941,6 +935,38 @@
         "A remporté le Torneo del Potere en Italie",
         "Eternal Dragon et Exalted Angel étaient les finisseurs",
         "Gerrard's Verdict et Duress attaquaient la main"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator"
+    ],
+    "cover": "Exhume",
+    "keyCards": [
+      "Exhume",
+      "Reanimate",
+      "Animate Dead",
+      "Putrid Imp",
+      "Careful Study"
+    ],
+    "summary": {
+      "en": "Black reanimation: Putrid Imp and Careful Study discard a large creature on the first turns, then Exhume, Reanimate or Animate Dead puts it into play.",
+      "fr": "Réanimation noire : Putrid Imp et Careful Study défaussent une grosse créature dès les premiers tours, puis Exhume, Reanimate ou Animate Dead la mettent en jeu."
+    },
+    "why": {
+      "en": [
+        "Made top 8s through the year without a win",
+        "Phantom Nishoba and Multani, Maro-Sorcerer were common targets",
+        "Lotus Petal and Dark Ritual allowed first-turn reanimation"
+      ],
+      "fr": [
+        "A fait des top 8 toute l'année sans victoire",
+        "Phantom Nishoba et Multani, Maro-Sorcerer étaient des cibles courantes",
+        "Lotus Petal et Dark Ritual permettaient une réanimation au premier tour"
       ]
     }
   },
@@ -981,38 +1007,6 @@
     ]
   },
   {
-    "name": "Reanimator",
-    "slug": "reanimator",
-    "archetype": "combo",
-    "titles": [
-      "Reanimator"
-    ],
-    "cover": "Exhume",
-    "keyCards": [
-      "Exhume",
-      "Reanimate",
-      "Animate Dead",
-      "Putrid Imp",
-      "Careful Study"
-    ],
-    "summary": {
-      "en": "Black reanimation: Putrid Imp and Careful Study discard a large creature on the first turns, then Exhume, Reanimate or Animate Dead puts it into play.",
-      "fr": "Réanimation noire : Putrid Imp et Careful Study défaussent une grosse créature dès les premiers tours, puis Exhume, Reanimate ou Animate Dead la mettent en jeu."
-    },
-    "why": {
-      "en": [
-        "Made top 8s through the year without a win",
-        "Phantom Nishoba and Multani, Maro-Sorcerer were common targets",
-        "Lotus Petal and Dark Ritual allowed first-turn reanimation"
-      ],
-      "fr": [
-        "A fait des top 8 toute l'année sans victoire",
-        "Phantom Nishoba et Multani, Maro-Sorcerer étaient des cibles courantes",
-        "Lotus Petal et Dark Ritual permettaient une réanimation au premier tour"
-      ]
-    }
-  },
-  {
     "name": "Broccoli Soup",
     "slug": "broccoli-soup",
     "archetype": "aggro",
@@ -1047,81 +1041,85 @@
     }
   },
   {
-    "name": "Zombie Infestation",
-    "slug": "zombie-infestation",
+    "name": "Clerics",
+    "slug": "clerics",
     "archetype": "aggro",
     "titles": [
-      "Aggro Zombie Infestation",
-      "GB Infestation Aggro",
-      "Zombie Infestatio Aggro",
-      "Zombie Infestation Aggro",
-      "Zombie Infestation Aggro Jund"
+      "Black Clerics",
+      "Clerics",
+      "Mono B Clerics"
     ],
-    "cover": "Zombie Infestation",
+    "cover": "Rotlung Reanimator",
     "keyCards": [
-      "Zombie Infestation",
-      "Wild Mongrel",
-      "Survival of the Fittest",
-      "Basking Rootwalla",
-      "Krovikan Horror"
+      "Rotlung Reanimator",
+      "Cabal Archon",
+      "Priest of Gix",
+      "Dark Supplicant",
+      "Withered Wretch"
     ],
     "summary": {
-      "en": "Black-green madness aggro: Zombie Infestation, Survival of the Fittest and Wild Mongrel discard madness creatures, Krovikan Horror and Squee for repeated tokens.",
-      "fr": "Aggro madness noir-vert : Zombie Infestation, Survival of the Fittest et Wild Mongrel défaussent des créatures madness, Krovikan Horror et Squee pour des jetons à répétition."
+      "en": "Mono-black cleric tribal: Priest of Gix and Dark Ritual power out the clerics, Rotlung Reanimator replaces each dead cleric, and Cabal Archon drains the opponent.",
+      "fr": "Tribal clercs mono-noir : Priest of Gix et Dark Ritual accélèrent les clercs, Rotlung Reanimator remplace chaque clerc mort, et Cabal Archon draine l'adversaire."
     },
     "why": {
       "en": [
-        "Won the NEPM Summer Regional in New England",
-        "Krovikan Horror returned to hand for repeated discard",
-        "Survival of the Fittest found Squee and Arrogant Wurm"
+        "Won several online leagues in the year",
+        "Mostly filed by mtgtop8 as Mono Black Aggro",
+        "Rotlung Reanimator made the board hard to clear"
       ],
       "fr": [
-        "A remporté le NEPM Summer Regional en Nouvelle-Angleterre",
-        "Krovikan Horror revenait en main pour être défaussé à nouveau",
-        "Survival of the Fittest allait chercher Squee et Arrogant Wurm"
-      ]
-    }
-  },
-  {
-    "name": "Oppo Survival",
-    "slug": "oppo-survival",
-    "archetype": "control",
-    "titles": [
-      "Oppo Surival",
-      "Oppo Survival",
-      "Opposition Survival",
-      "Survival Opposition"
-    ],
-    "cover": "Opposition",
-    "keyCards": [
-      "Opposition",
-      "Survival of the Fittest",
-      "Winter Orb",
-      "Birds of Paradise",
-      "Tradewind Rider"
-    ],
-    "summary": {
-      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
-      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
-    },
-    "why": {
-      "en": [
-        "Made top 8s in online leagues and regional events",
-        "Opposition locked lands once enough creatures were in play",
-        "Natural Order could fetch a large creature"
-      ],
-      "fr": [
-        "A fait des top 8 en ligues en ligne et en tournois régionaux",
-        "Opposition verrouillait les terrains une fois assez de créatures en jeu",
-        "Natural Order pouvait aller chercher une grosse créature"
+        "A remporté plusieurs ligues en ligne dans l'année",
+        "Surtout classé Mono Black Aggro par mtgtop8",
+        "Rotlung Reanimator rendait le terrain difficile à nettoyer"
       ]
     },
     "include": [
-      695295,
-      716714,
-      722192,
-      729155,
-      747383
+      685707,
+      690819,
+      694293,
+      715716,
+      716766,
+      722186,
+      727123,
+      765759,
+      777273,
+      779191
+    ]
+  },
+  {
+    "name": "Tireless Tribe",
+    "slug": "tireless-tribe",
+    "archetype": "aggro",
+    "titles": [
+      "About Face",
+      "Tireless Tribe"
+    ],
+    "cover": "Tireless Tribe",
+    "keyCards": [
+      "Tireless Tribe",
+      "Wild Mongrel",
+      "Arrogant Wurm",
+      "Circular Logic",
+      "Call of the Herd"
+    ],
+    "summary": {
+      "en": "Green-white madness aggro: Tireless Tribe and Wild Mongrel discard madness cards, and About Face or a fattened Tribe turns the board around.",
+      "fr": "Aggro madness vert-blanc : Tireless Tribe et Wild Mongrel défaussent des cartes madness, et About Face ou une Tribe grossie renversent le combat."
+    },
+    "why": {
+      "en": [
+        "Won La Previa, a side event of the Spanish national championship",
+        "Also won the Sunday Showdown at Eternal Weekend in Pittsburgh",
+        "Circular Logic and About Face used the graveyard built by madness"
+      ],
+      "fr": [
+        "A remporté La Previa, side event du championnat national espagnol",
+        "A aussi gagné le Sunday Showdown de l'Eternal Weekend à Pittsburgh",
+        "Circular Logic et About Face profitaient du cimetière rempli par la madness"
+      ]
+    },
+    "include": [
+      716756
     ]
   },
   {
@@ -1155,6 +1153,45 @@
         "A atteint la finale du Super Event du Bazar de Bagdá",
         "Veteran Brawlers et Avalanche Riders ajoutaient de la pression",
         "Aucune victoire de tournoi dans l'année"
+      ]
+    },
+    "include": [
+      714603
+    ]
+  },
+  {
+    "name": "Zombie Infestation",
+    "slug": "zombie-infestation",
+    "archetype": "aggro",
+    "titles": [
+      "Aggro Zombie Infestation",
+      "GB Infestation Aggro",
+      "Zombie Infestatio Aggro",
+      "Zombie Infestation Aggro",
+      "Zombie Infestation Aggro Jund"
+    ],
+    "cover": "Zombie Infestation",
+    "keyCards": [
+      "Zombie Infestation",
+      "Wild Mongrel",
+      "Survival of the Fittest",
+      "Basking Rootwalla",
+      "Krovikan Horror"
+    ],
+    "summary": {
+      "en": "Black-green madness aggro: Zombie Infestation, Survival of the Fittest and Wild Mongrel discard madness creatures, Krovikan Horror and Squee for repeated tokens.",
+      "fr": "Aggro madness noir-vert : Zombie Infestation, Survival of the Fittest et Wild Mongrel défaussent des créatures madness, Krovikan Horror et Squee pour des jetons à répétition."
+    },
+    "why": {
+      "en": [
+        "Won the NEPM Summer Regional in New England",
+        "Krovikan Horror returned to hand for repeated discard",
+        "Survival of the Fittest found Squee and Arrogant Wurm"
+      ],
+      "fr": [
+        "A remporté le NEPM Summer Regional en Nouvelle-Angleterre",
+        "Krovikan Horror revenait en main pour être défaussé à nouveau",
+        "Survival of the Fittest allait chercher Squee et Arrogant Wurm"
       ]
     }
   },
@@ -1233,90 +1270,49 @@
       770562,
       778424,
       779201,
-      786432,
       788007
     ]
   },
   {
-    "name": "Tireless Tribe",
-    "slug": "tireless-tribe",
-    "archetype": "aggro",
+    "name": "Oppo Survival",
+    "slug": "oppo-survival",
+    "archetype": "control",
     "titles": [
-      "About Face",
-      "Tireless Tribe"
+      "Oppo Surival",
+      "Oppo Survival",
+      "Opposition Survival",
+      "Survival Opposition"
     ],
-    "cover": "Tireless Tribe",
+    "cover": "Opposition",
     "keyCards": [
-      "Tireless Tribe",
-      "Wild Mongrel",
-      "Arrogant Wurm",
-      "Circular Logic",
-      "Call of the Herd"
+      "Opposition",
+      "Survival of the Fittest",
+      "Winter Orb",
+      "Birds of Paradise",
+      "Tradewind Rider"
     ],
     "summary": {
-      "en": "Green-white madness aggro: Tireless Tribe and Wild Mongrel discard madness cards, and About Face or a fattened Tribe turns the board around.",
-      "fr": "Aggro madness vert-blanc : Tireless Tribe et Wild Mongrel défaussent des cartes madness, et About Face ou une Tribe grossie renversent le combat."
+      "en": "Green-blue prison: mana creatures and Survival of the Fittest assemble a board, then Opposition taps the opponent's lands and creatures, often alongside Winter Orb.",
+      "fr": "Prison vert-bleu : créatures à mana et Survival of the Fittest construisent un terrain, puis Opposition engage les terrains et créatures adverses, souvent avec Winter Orb."
     },
     "why": {
       "en": [
-        "Won La Previa, a side event of the Spanish national championship",
-        "Also won the Sunday Showdown at Eternal Weekend in Pittsburgh",
-        "Circular Logic and About Face used the graveyard built by madness"
+        "Made top 8s in online leagues and regional events",
+        "Opposition locked lands once enough creatures were in play",
+        "Natural Order could fetch a large creature"
       ],
       "fr": [
-        "A remporté La Previa, side event du championnat national espagnol",
-        "A aussi gagné le Sunday Showdown de l'Eternal Weekend à Pittsburgh",
-        "Circular Logic et About Face profitaient du cimetière rempli par la madness"
+        "A fait des top 8 en ligues en ligne et en tournois régionaux",
+        "Opposition verrouillait les terrains une fois assez de créatures en jeu",
+        "Natural Order pouvait aller chercher une grosse créature"
       ]
     },
     "include": [
-      716756
-    ]
-  },
-  {
-    "name": "Clerics",
-    "slug": "clerics",
-    "archetype": "aggro",
-    "titles": [
-      "Black Clerics",
-      "Clerics",
-      "Mono B Clerics"
-    ],
-    "cover": "Rotlung Reanimator",
-    "keyCards": [
-      "Rotlung Reanimator",
-      "Cabal Archon",
-      "Priest of Gix",
-      "Dark Supplicant",
-      "Withered Wretch"
-    ],
-    "summary": {
-      "en": "Mono-black cleric tribal: Priest of Gix and Dark Ritual power out the clerics, Rotlung Reanimator replaces each dead cleric, and Cabal Archon drains the opponent.",
-      "fr": "Tribal clercs mono-noir : Priest of Gix et Dark Ritual accélèrent les clercs, Rotlung Reanimator remplace chaque clerc mort, et Cabal Archon draine l'adversaire."
-    },
-    "why": {
-      "en": [
-        "Won three online leagues in the year",
-        "Mostly filed by mtgtop8 as Mono Black Aggro",
-        "Rotlung Reanimator made the board hard to clear"
-      ],
-      "fr": [
-        "A remporté trois ligues en ligne dans l'année",
-        "Surtout classé Mono Black Aggro par mtgtop8",
-        "Rotlung Reanimator rendait le terrain difficile à nettoyer"
-      ]
-    },
-    "include": [
-      685707,
-      690819,
-      694293,
-      715716,
-      716766,
-      722186,
-      727123,
-      765759,
-      777273,
-      779191
+      695295,
+      716714,
+      722192,
+      729155,
+      747383
     ]
   },
   {

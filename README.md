@@ -4,7 +4,7 @@ An encyclopedia of competitive Magic: The Gathering decks, by format. Every arch
 performed, season by season, with its real tournament decklist, key cards and a few lines on
 why it worked. Plus a full-page wall of every format staple, in chronological order.
 
-Standard is complete from 1994 to today, Modern from 2011 to today. Other formats are in progress.
+Standard is complete from 1994 to today, Modern from 2011 to today, Premodern from 2020 to today. Other formats are in progress.
 
 ## Quick start
 

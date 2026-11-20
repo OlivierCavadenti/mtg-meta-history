@@ -144,7 +144,6 @@
     "slug": "replenish",
     "archetype": "combo",
     "titles": [
-      "Diamond Wish Replenish",
       "Pande-Burst Replenish",
       "Parallax Replenish",
       "Replenish",
@@ -444,7 +443,6 @@
       ]
     },
     "include": [
-      855928,
       884466,
       887477
     ]
@@ -631,40 +629,38 @@
     }
   },
   {
-    "name": "Survival",
-    "slug": "survival",
-    "archetype": "midrange",
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
     "titles": [
-      "Recur - Survival",
-      "Recurring Survival"
+      "Rebels",
+      "White 5",
+      "White Weenie"
     ],
-    "cover": "Survival of the Fittest",
+    "cover": "Savannah Lions",
     "keyCards": [
-      "Survival of the Fittest",
-      "Recurring Nightmare",
-      "Cabal Therapy",
-      "Deranged Hermit",
-      "Wall of Roots"
+      "Savannah Lions",
+      "Soltari Priest",
+      "Silver Knight",
+      "Whipcorder",
+      "Armageddon"
     ],
     "summary": {
-      "en": "Black-green toolbox: Survival of the Fittest discards creatures to find the right answer, and Recurring Nightmare returns them from the graveyard for repeated value.",
-      "fr": "Boîte à outils noir-vert : Survival of the Fittest défausse des créatures pour trouver la bonne réponse, et Recurring Nightmare les ramène du cimetière encore et encore."
+      "en": "Mono-white aggro: one- and two-mana creatures with protection or shadow, Swords to Plowshares for blockers, and sometimes Armageddon once the board is ahead.",
+      "fr": "Aggro mono-blanc : créatures à un ou deux manas avec protection ou ombre, Swords to Plowshares contre les bloqueurs, et parfois Armageddon une fois en avance sur le terrain."
     },
     "why": {
       "en": [
-        "Won the February Nantuko League",
-        "Recurring Nightmare reused Ravenous Baloth and Bone Shredder",
-        "Cabal Therapy and Duress protected the engine"
+        "Won the January PIL Online League",
+        "Soltari Priest and Soltari Monk attacked past ground blockers",
+        "Armageddon followed a fast start"
       ],
       "fr": [
-        "A remporté la Nantuko League de février",
-        "Recurring Nightmare réutilisait Ravenous Baloth et Bone Shredder",
-        "Cabal Therapy et Duress protégeaient le moteur"
+        "A remporté la PIL Online League de janvier",
+        "Soltari Priest et Soltari Monk passaient au-dessus des bloqueurs au sol",
+        "Armageddon suivait un départ rapide"
       ]
-    },
-    "include": [
-      814924
-    ]
+    }
   },
   {
     "name": "Oppo Survival",
@@ -736,6 +732,40 @@
     }
   },
   {
+    "name": "BW Control",
+    "slug": "bw-control",
+    "archetype": "control",
+    "titles": [
+      "BW Control",
+      "The Dromar Solution",
+      "WW/b"
+    ],
+    "cover": "Exalted Angel",
+    "keyCards": [
+      "Exalted Angel",
+      "Vindicate",
+      "Gerrard's Verdict",
+      "Eternal Dragon",
+      "Decree of Justice"
+    ],
+    "summary": {
+      "en": "White-black control: Duress and Gerrard's Verdict attack the hand, Vindicate and Wrath of God answer permanents, and Exalted Angel and Eternal Dragon close the game.",
+      "fr": "Contrôle blanc-noir : Duress et Gerrard's Verdict attaquent la main, Vindicate et Wrath of God répondent aux permanents, et Exalted Angel et Eternal Dragon concluent."
+    },
+    "why": {
+      "en": [
+        "Won the Spanish national championship in Cáceres",
+        "Eternal Dragon and Exalted Angel were the finishers",
+        "Vindicate answered every type of permanent"
+      ],
+      "fr": [
+        "A remporté le championnat national espagnol à Cáceres",
+        "Eternal Dragon et Exalted Angel étaient les finisseurs",
+        "Vindicate répondait à tous les types de permanents"
+      ]
+    }
+  },
+  {
     "name": "Oath of Druids",
     "slug": "oath",
     "archetype": "control",
@@ -781,70 +811,71 @@
     ]
   },
   {
-    "name": "White Weenie",
-    "slug": "white-weenie",
-    "archetype": "aggro",
+    "name": "Survival",
+    "slug": "survival",
+    "archetype": "midrange",
     "titles": [
-      "Rebels",
-      "White 5",
-      "White Weenie"
+      "Recur - Survival",
+      "Recurring Survival"
     ],
-    "cover": "Savannah Lions",
+    "cover": "Survival of the Fittest",
     "keyCards": [
-      "Savannah Lions",
-      "Soltari Priest",
-      "Silver Knight",
-      "Whipcorder",
-      "Armageddon"
+      "Survival of the Fittest",
+      "Recurring Nightmare",
+      "Cabal Therapy",
+      "Deranged Hermit",
+      "Wall of Roots"
     ],
     "summary": {
-      "en": "Mono-white aggro: one- and two-mana creatures with protection or shadow, Swords to Plowshares for blockers, and sometimes Armageddon once the board is ahead.",
-      "fr": "Aggro mono-blanc : créatures à un ou deux manas avec protection ou ombre, Swords to Plowshares contre les bloqueurs, et parfois Armageddon une fois en avance sur le terrain."
+      "en": "Black-green toolbox: Survival of the Fittest discards creatures to find the right answer, and Recurring Nightmare returns them from the graveyard for repeated value.",
+      "fr": "Boîte à outils noir-vert : Survival of the Fittest défausse des créatures pour trouver la bonne réponse, et Recurring Nightmare les ramène du cimetière encore et encore."
     },
     "why": {
       "en": [
-        "Won the January PIL Online League",
-        "Soltari Priest and Soltari Monk attacked past ground blockers",
-        "Armageddon followed a fast start"
+        "Won the February Nantuko League",
+        "Recurring Nightmare reused Ravenous Baloth and Bone Shredder",
+        "Cabal Therapy and Duress protected the engine"
       ],
       "fr": [
-        "A remporté la PIL Online League de janvier",
-        "Soltari Priest et Soltari Monk passaient au-dessus des bloqueurs au sol",
-        "Armageddon suivait un départ rapide"
+        "A remporté la Nantuko League de février",
+        "Recurring Nightmare réutilisait Ravenous Baloth et Bone Shredder",
+        "Cabal Therapy et Duress protégeaient le moteur"
       ]
-    }
+    },
+    "include": [
+      814924
+    ]
   },
   {
-    "name": "BW Control",
-    "slug": "bw-control",
-    "archetype": "control",
+    "name": "Angry Ghoul",
+    "slug": "angry-ghoul",
+    "archetype": "combo",
     "titles": [
-      "BW Control",
-      "The Dromar Solution",
-      "WW/b"
+      "Angry Ghoul",
+      "Angry Hermit"
     ],
-    "cover": "Exalted Angel",
+    "cover": "Hermit Druid",
     "keyCards": [
-      "Exalted Angel",
-      "Vindicate",
-      "Gerrard's Verdict",
-      "Eternal Dragon",
-      "Decree of Justice"
+      "Hermit Druid",
+      "Sutured Ghoul",
+      "Phyrexian Dreadnought",
+      "Reanimate",
+      "Shallow Grave"
     ],
     "summary": {
-      "en": "White-black control: Duress and Gerrard's Verdict attack the hand, Vindicate and Wrath of God answer permanents, and Exalted Angel and Eternal Dragon close the game.",
-      "fr": "Contrôle blanc-noir : Duress et Gerrard's Verdict attaquent la main, Vindicate et Wrath of God répondent aux permanents, et Exalted Angel et Eternal Dragon concluent."
+      "en": "Graveyard combo: Hermit Druid or Cephalid Illusionist mills the library, then Sutured Ghoul is reanimated, exiling large creatures such as Phyrexian Dreadnought, and attacks with haste from Dragon Breath.",
+      "fr": "Combo cimetière : Hermit Druid ou Cephalid Illusionist meulent la bibliothèque, puis Sutured Ghoul est réanimé en exilant de grosses créatures comme Phyrexian Dreadnought, et attaque avec la célérité de Dragon Breath."
     },
     "why": {
       "en": [
-        "Won the Spanish national championship in Cáceres",
-        "Eternal Dragon and Exalted Angel were the finishers",
-        "Vindicate answered every type of permanent"
+        "Reached the top 4 of Winter Ball '26 in Rochester",
+        "Phyrexian Dreadnought and Stifle doubled as a second plan",
+        "Worldly Tutor found Hermit Druid"
       ],
       "fr": [
-        "A remporté le championnat national espagnol à Cáceres",
-        "Eternal Dragon et Exalted Angel étaient les finisseurs",
-        "Vindicate répondait à tous les types de permanents"
+        "A atteint le top 4 du Winter Ball '26 à Rochester",
+        "Phyrexian Dreadnought et Stifle servaient de second plan",
+        "Worldly Tutor allait chercher Hermit Druid"
       ]
     }
   },
@@ -920,39 +951,6 @@
     }
   },
   {
-    "name": "Angry Ghoul",
-    "slug": "angry-ghoul",
-    "archetype": "combo",
-    "titles": [
-      "Angry Ghoul",
-      "Angry Hermit"
-    ],
-    "cover": "Hermit Druid",
-    "keyCards": [
-      "Hermit Druid",
-      "Sutured Ghoul",
-      "Phyrexian Dreadnought",
-      "Reanimate",
-      "Shallow Grave"
-    ],
-    "summary": {
-      "en": "Graveyard combo: Hermit Druid or Cephalid Illusionist mills the library, then Sutured Ghoul is reanimated, exiling large creatures such as Phyrexian Dreadnought, and attacks with haste from Dragon Breath.",
-      "fr": "Combo cimetière : Hermit Druid ou Cephalid Illusionist meulent la bibliothèque, puis Sutured Ghoul est réanimé en exilant de grosses créatures comme Phyrexian Dreadnought, et attaque avec la célérité de Dragon Breath."
-    },
-    "why": {
-      "en": [
-        "Reached the top 4 of Winter Ball '26 in Rochester",
-        "Phyrexian Dreadnought and Stifle doubled as a second plan",
-        "Worldly Tutor found Hermit Druid"
-      ],
-      "fr": [
-        "A atteint le top 4 du Winter Ball '26 à Rochester",
-        "Phyrexian Dreadnought et Stifle servaient de second plan",
-        "Worldly Tutor allait chercher Hermit Druid"
-      ]
-    }
-  },
-  {
     "name": "The Solution",
     "slug": "the-solution",
     "archetype": "tempo",
@@ -992,41 +990,6 @@
     ]
   },
   {
-    "name": "Welder Survival",
-    "slug": "welder-survival",
-    "archetype": "midrange",
-    "titles": [
-      "Welder Survival"
-    ],
-    "cover": "Goblin Welder",
-    "keyCards": [
-      "Goblin Welder",
-      "Survival of the Fittest",
-      "Tangle Wire",
-      "Triskelion",
-      "Birds of Paradise"
-    ],
-    "summary": {
-      "en": "Red-green toolbox: Survival of the Fittest finds creatures, Goblin Welder swaps artifacts such as Tangle Wire and Triskelion in and out of the graveyard.",
-      "fr": "Boîte à outils rouge-verte : Survival of the Fittest trouve les créatures, Goblin Welder échange des artefacts comme Tangle Wire et Triskelion avec le cimetière."
-    },
-    "why": {
-      "en": [
-        "Won a round of the Liga Madrileña in Madrid",
-        "Goblin Welder swapped Triskelion and Tangle Wire from the graveyard",
-        "Survival of the Fittest put artifact creatures into the graveyard"
-      ],
-      "fr": [
-        "A remporté une manche de la Liga Madrileña à Madrid",
-        "Goblin Welder échangeait Triskelion et Tangle Wire depuis le cimetière",
-        "Survival of the Fittest envoyait des créatures-artefacts au cimetière"
-      ]
-    },
-    "include": [
-      799026
-    ]
-  },
-  {
     "name": "Mono-Blue Control",
     "slug": "mono-blue-control",
     "archetype": "control",
@@ -1059,6 +1022,41 @@
     },
     "include": [
       842595
+    ]
+  },
+  {
+    "name": "Welder Survival",
+    "slug": "welder-survival",
+    "archetype": "midrange",
+    "titles": [
+      "Welder Survival"
+    ],
+    "cover": "Goblin Welder",
+    "keyCards": [
+      "Goblin Welder",
+      "Survival of the Fittest",
+      "Tangle Wire",
+      "Triskelion",
+      "Birds of Paradise"
+    ],
+    "summary": {
+      "en": "Red-green toolbox: Survival of the Fittest finds creatures, Goblin Welder swaps artifacts such as Tangle Wire and Triskelion in and out of the graveyard.",
+      "fr": "Boîte à outils rouge-verte : Survival of the Fittest trouve les créatures, Goblin Welder échange des artefacts comme Tangle Wire et Triskelion avec le cimetière."
+    },
+    "why": {
+      "en": [
+        "Won a round of the Liga Madrileña in Madrid",
+        "Goblin Welder swapped Triskelion and Tangle Wire from the graveyard",
+        "Survival of the Fittest put artifact creatures into the graveyard"
+      ],
+      "fr": [
+        "A remporté une manche de la Liga Madrileña à Madrid",
+        "Goblin Welder échangeait Triskelion et Tangle Wire depuis le cimetière",
+        "Survival of the Fittest envoyait des créatures-artefacts au cimetière"
+      ]
+    },
+    "include": [
+      799026
     ]
   }
 ]

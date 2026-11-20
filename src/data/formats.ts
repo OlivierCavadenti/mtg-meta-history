@@ -14,7 +14,7 @@ export const FORMATS: FormatDef[] = [
   { id: 'legacy', label: 'Legacy', ready: false },
   { id: 'vintage', label: 'Vintage', ready: false },
   { id: 'pauper', label: 'Pauper', ready: false },
-  { id: 'premodern', label: 'Premodern', ready: false },
+  { id: 'premodern', label: 'Premodern', ready: true },
 ]
 
 export function getFormat(id: string): FormatDef | undefined {

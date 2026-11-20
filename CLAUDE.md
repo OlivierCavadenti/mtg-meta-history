@@ -28,6 +28,7 @@ npm run validate:content  # validate generated deck data
 - `src/data/formats.ts` — the format bar (`ready: false` shows "in progress")
 - `src/data/standard/seasons.ts` — Standard seasons (open with the autumn set) and bans
 - `src/data/modern/seasons.ts` — Modern seasons (calendar years, no rotation) and bans; same layout under `src/data/modern/`
+- `src/data/premodern/seasons.ts` — Premodern seasons (calendar years, 2020–21 grouped; fixed pool 4th Edition–Scourge, old-frame printings via `PRINT_CUTOFF` in `build.py`) and bans
 - `src/data/standard/decks/{season}.json` — GENERATED, one file per season
 - `src/data/standard/cards.json` — GENERATED card data (mana cost, mana value, type, colors, Scryfall image id)
 - `src/data/load.ts` — lazy loader for a format
@@ -35,7 +36,7 @@ npm run validate:content  # validate generated deck data
 - `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`, `ColorsPage` (color evolution, small multiples; data in `src/lib/colorStats.ts`)
 - `ArchetypesPage` / `ArchetypePage` — an archetype across seasons (lifelines, core, card-by-card evolution); built in `src/lib/lineage.ts` from the editorial `slug`, so keep one slug per archetype across seasons
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
-- `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern). See `AGENTS.md`.
+- `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern | premodern). See `AGENTS.md`.
 
 ## Data pipeline (summary)
 

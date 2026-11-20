@@ -37,6 +37,8 @@ const list = computed(() => {
 
 /** label every n-th season on the axis so labels never collide */
 const axisStep = computed(() => Math.max(1, Math.ceil(seasons.value.length / 8)))
+// calendar-year seasons get their full label ("2020–21" for a grouped first season)
+const axisLabel = (s: { start: string; end?: string }) => (s.start.endsWith('-01-01') ? seasonYears(s.start, s.end) : s.start.slice(0, 4))
 
 const byslug = computed(() => new Map(all.value.map((l) => [l.slug, l])))
 const successorName = (l: Lineage) => {
@@ -82,7 +84,7 @@ const spanOf = (l: Lineage) => {
         <span></span>
         <span></span>
         <span class="life axis-life">
-          <span v-for="(s, i) in seasons" :key="s.id" class="axis-tick">{{ i % axisStep === 0 ? s.start.slice(0, 4) : '' }}</span>
+          <span v-for="(s, i) in seasons" :key="s.id" class="axis-tick">{{ i % axisStep === 0 ? axisLabel(s) : '' }}</span>
         </span>
       </div>
     </header>

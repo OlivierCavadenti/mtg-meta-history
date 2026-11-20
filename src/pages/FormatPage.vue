@@ -82,13 +82,14 @@ const seasons = computed<Row[]>(() => {
 
 // newest season first
 const visible = computed(() => seasons.value.filter((s) => s.shown.length).reverse())
-// start year as short label; full "1996–97" form when two seasons start the same year
+// start year as short label; full "1996–97" form when two seasons start the same year, and for
+// calendar-year seasons (Modern, Premodern) where the full form is already short ("2020–21")
 const jumps = computed(() =>
   visible.value.map((s, _i, all) => {
     const year = s.start.slice(0, 4)
     const title = seasonYears(s.start, s.end)
     const clash = all.some((o) => o.id !== s.id && o.start.slice(0, 4) === year)
-    return { id: s.id, label: clash ? title : year, title }
+    return { id: s.id, label: clash || s.start.endsWith('-01-01') ? title : year, title }
   }),
 )
 const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.length, 0))
