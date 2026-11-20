@@ -1,0 +1,277 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Le plus de volants possible, menés par le bonus d'Empyrean Eagle, avec des sorts de tempo comme Pacifism, Sleep Paralysis et Unsummon pour tenir le sol.",
+      "en": "As many fliers as possible, led by Empyrean Eagle's anthem, with tempo spells like Pacifism, Sleep Paralysis and Unsummon to keep the ground in check."
+    },
+    "why": {
+      "fr": [
+        "Archétype tier 1 pour MTG Arena Zone, parmi les decks les plus forts du format.",
+        "Cloudkin Seer, volant 2/1 qui pioche, comptait parmi les meilleures communes bleues.",
+        "Le blanc était la couleur la plus faible du set, mais ses volants complétaient le bleu."
+      ],
+      "en": [
+        "A tier 1 archetype for MTG Arena Zone, among the strongest decks of the format.",
+        "Cloudkin Seer, a 2/1 flier that drew a card, was among blue's best commons.",
+        "White was the weakest color of the set, but its fliers complemented blue."
+      ]
+    },
+    "keyCards": ["Empyrean Eagle", "Cloudkin Seer", "Frost Lynx", "Pacifism", "Sleep Paralysis", "Unsummon"],
+    "cover": "Empyrean Eagle",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-1/",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Removal et effets d'arrivée : Gravedigger et Tomebound Lich généraient de l'avantage de cartes pendant que Murder et Agonizing Syphon répondaient aux menaces.",
+      "en": "Removal and enters-the-battlefield value: Gravedigger and Tomebound Lich generated card advantage while Murder and Agonizing Syphon answered threats."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone : l'avantage de cartes et le removal étaient là.",
+        "Le noir, couleur forte du set, se mariait particulièrement bien avec le bleu."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone: the card advantage and removal were there.",
+        "Black, a strong color in the set, paired especially well with blue."
+      ]
+    },
+    "keyCards": ["Tomebound Lich", "Murder", "Agonizing Syphon", "Gravedigger", "Boreal Elemental"],
+    "cover": "Tomebound Lich",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-1/",
+      "https://mtgazone.com/core-set-2020-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Attaquer et infliger des dégâts par tous les moyens : Audacious Thief et Goblin Smuggler maintenaient la pression, Ogre Siegebreaker détruisait toute créature déjà blessée.",
+      "en": "Attack and deal damage by any means: Audacious Thief and Goblin Smuggler kept up the pressure, and Ogre Siegebreaker destroyed any creature already damaged."
+    },
+    "why": {
+      "fr": [
+        "Le noir et le rouge avaient les meilleurs sorts de removal du set selon MTG Arena Zone.",
+        "L'aggro rouge était jugé solide, même dans un format lent."
+      ],
+      "en": [
+        "Black and red had the best removal spells in the set, per MTG Arena Zone.",
+        "Red-based aggro was rated solid, even in a slow format."
+      ]
+    },
+    "keyCards": ["Ogre Siegebreaker", "Audacious Thief", "Gorging Vulture", "Goblin Smuggler", "Chandra's Outrage", "Shock"],
+    "cover": "Ogre Siegebreaker",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-draft-guide/",
+      "https://flipsidegaming.com/blogs/magic-blog/back-to-basics-a-guide-for-core-set-2020-draft-and-sealed"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Elementals",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Des Élémentaires renforcés par Creeping Trailblazer et du burn pour les bloqueurs ; Chandra's Embercat aidait à poser Lavakin Brawler tôt.",
+      "en": "Elemental creatures pumped by Creeping Trailblazer, with burn for blockers; Chandra's Embercat helped cast Lavakin Brawler early."
+    },
+    "why": {
+      "fr": [
+        "Pour MTG Arena Zone, les Élémentaires GR comptaient parmi les decks les plus forts.",
+        "Le guide préférait légèrement la version bleu-vert, sans grand écart de puissance."
+      ],
+      "en": [
+        "MTG Arena Zone counted GR Elementals among the strongest decks of the format.",
+        "The guide slightly preferred the blue-green build, with no large power gap."
+      ]
+    },
+    "keyCards": ["Creeping Trailblazer", "Chandra, Novice Pyromancer", "Scampering Scorcher", "Lavakin Brawler", "Chandra's Embercat", "Shock"],
+    "cover": "Creeping Trailblazer",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-1/",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Go-Wide",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Remplir le plateau de petites créatures et de jetons, puis renforcer l'équipe ; Ironroot Warlord grandissait avec le nombre de créatures, Overcome concluait souvent la partie.",
+      "en": "Flood the board with small creatures and tokens, then pump the team; Ironroot Warlord grew with your creature count, and Overcome often ended the game."
+    },
+    "why": {
+      "fr": [
+        "Raise the Alarm, discrète, était une pièce clé du plan selon Flipside Gaming.",
+        "Le blanc était la couleur la plus faible du set pour MTG Arena Zone.",
+        "Le vert, lui, regorgeait de bonnes créatures selon le même guide."
+      ],
+      "en": [
+        "Raise the Alarm, an unassuming card, was a key part of the plan per Flipside Gaming.",
+        "White was rated the weakest color of the set by MTG Arena Zone.",
+        "Green, by contrast, was stacked with good creatures per the same guide."
+      ]
+    },
+    "keyCards": ["Ironroot Warlord", "Raise the Alarm", "Inspiring Captain", "Overcome", "Rabid Bite"],
+    "cover": "Ironroot Warlord",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://flipsidegaming.com/blogs/magic-blog/back-to-basics-a-guide-for-core-set-2020-draft-and-sealed",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Go-Wide",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Beaucoup de créatures et de jetons bon marché, chacun drainant un point via Corpse Knight ; Gruesome Scourger et Bloodthirsty Aerialist finissaient les parties.",
+      "en": "Many cheap creatures and tokens, each draining a life through Corpse Knight; Gruesome Scourger and Bloodthirsty Aerialist closed out games."
+    },
+    "why": {
+      "fr": [
+        "Des cartes correctes, mais parfois sans la portée pour finir, selon MTG Arena Zone.",
+        "Bloodthirsty Aerialist pouvait y devenir l'une des plus grosses menaces."
+      ],
+      "en": [
+        "Decent cards that could lack the reach to finish, per MTG Arena Zone.",
+        "Bloodthirsty Aerialist could become one of its biggest threats."
+      ]
+    },
+    "keyCards": ["Corpse Knight", "Raise the Alarm", "Inspiring Captain", "Griffin Protector", "Gruesome Scourger", "Bloodthirsty Aerialist"],
+    "cover": "Corpse Knight",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-draft-guide/",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Flying Elementals",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Le pont entre les deux tricolores volants et Élémentaires : Lightning Stormkin, Frost Lynx et Boreal Elemental étaient volants ou Élémentaires, appuyés par le burn rouge.",
+      "en": "The bridge between the fliers and Elemental wedges: Lightning Stormkin, Frost Lynx and Boreal Elemental were fliers or Elementals, backed by red burn."
+    },
+    "why": {
+      "fr": [
+        "Le bleu, couleur tempo du set, servait les volants, les Élémentaires et les effets d'arrivée.",
+        "Le rouge, couleur intermédiaire, jouait un rôle de soutien selon MTG Arena Zone."
+      ],
+      "en": [
+        "Blue was a tempo color with good cards for fliers, Elementals and ETB effects.",
+        "Red sat in the middle, a support color for aggressive pairs, per MTG Arena Zone."
+      ]
+    },
+    "keyCards": ["Lightning Stormkin", "Boreal Elemental", "Frost Lynx", "Cloudkin Seer", "Chandra's Outrage", "Shock"],
+    "cover": "Lightning Stormkin",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-draft-guide/",
+      "https://flipsidegaming.com/blogs/magic-blog/back-to-basics-a-guide-for-core-set-2020-draft-and-sealed"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Recursion",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un midrange récursif : les créatures s'échangeaient, Moldervine Reclamation piochait à chaque mort, Gravedigger et Blood for Bones ramenaient les meilleures.",
+      "en": "Recursive midrange: creatures traded off, Moldervine Reclamation drew a card for each death, and Gravedigger and Blood for Bones brought the best ones back."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone ; Moldervine Reclamation était la seule non-rare qui y attirait.",
+        "Les grosses créatures vertes valaient la récursion ; le noir ajoutait le removal."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone; Moldervine Reclamation was the only non-rare that drew it in.",
+        "Green's big creatures were worth recurring, and black added removal."
+      ]
+    },
+    "keyCards": ["Moldervine Reclamation", "Gravedigger", "Blood for Bones", "Brightwood Tracker", "Silverback Shaman", "Murder"],
+    "cover": "Moldervine Reclamation",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-1/",
+      "https://mtgazone.com/core-set-2020-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Fliers",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Volants agressifs et équipements : Skyknight Vanguard créait un Soldat attaquant à chaque attaque, et Fencing Ace doublait des bonus comme Ancestral Blade.",
+      "en": "Aggressive fliers and equipment: Skyknight Vanguard made an attacking Soldier each time it attacked, and Fencing Ace doubled up on buffs like Ancestral Blade."
+    },
+    "why": {
+      "fr": [
+        "Fencing Ace surperformait grâce aux renforts bon marché du set, selon MTG Arena Zone.",
+        "Uncaged Fury, un tour à double initiative, pouvait gagner la partie à lui seul."
+      ],
+      "en": [
+        "Fencing Ace overperformed thanks to the set's cheap buffs, per MTG Arena Zone.",
+        "Uncaged Fury, a double-strike trick, could win the game on its own."
+      ]
+    },
+    "keyCards": ["Skyknight Vanguard", "Fencing Ace", "Ancestral Blade", "Uncaged Fury", "Shock"],
+    "cover": "Skyknight Vanguard",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Elementals",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Des Élémentaires à effets d'arrivée : chacun, sous Risen Reef, piochait une carte ou mettait un terrain en jeu, et les petits corps devenaient de l'avantage.",
+      "en": "Elementals with enter-the-battlefield effects: each one entering under Risen Reef drew a card or put a land onto the battlefield, turning cheap bodies into card advantage."
+    },
+    "why": {
+      "fr": [
+        "Pour MTG Arena Zone, Risen Reef était de loin la meilleure unco du set.",
+        "Les Élémentaires UG comptaient parmi les decks les plus forts selon le même guide.",
+        "Le deck tenait sans Reef, sur de solides corps verts et bleus."
+      ],
+      "en": [
+        "MTG Arena Zone called Risen Reef far and away the best uncommon of the set.",
+        "UG Elementals was among the strongest decks of the format, per the same guide.",
+        "The deck still worked without Reef, on solid green and blue bodies."
+      ]
+    },
+    "keyCards": ["Risen Reef", "Leafkin Druid", "Boreal Elemental", "Frost Lynx", "Thicket Crasher", "Cloudkin Seer"],
+    "cover": "Risen Reef",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2020",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-1/",
+      "https://mtgazone.com/core-set-2020-limited-guide-part-2/"
+    ],
+    "tier": 1
+  }
+]
