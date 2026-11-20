@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Ichorid"
+    ],
+    "rep": 115761,
+    "cover": "Ichorid",
+    "keyCards": [
+      "Ichorid",
+      "Golgari Grave-Troll",
+      "Narcomoeba",
+      "Bridge from Below",
+      "Cabal Therapy",
+      "Lion's Eye Diamond"
+    ],
+    "summary": {
+      "fr": "Le cimetière servait de main : Golgari Grave-Troll et Stinkweed Imp se draguaient à chaque pioche, Ichorid et Narcomoeba revenaient seuls, Bridge from Below fabriquait des Zombies.",
+      "en": "The graveyard was the hand: Golgari Grave-Troll and Stinkweed Imp dredged on every draw, Ichorid and Narcomoeba came back on their own and Bridge from Below made Zombies."
+    },
+    "why": {
+      "fr": [
+        "Victoires à Barcelone (Alex Mateu) et à Finale Emilia (Alvise Gorghetto) au printemps",
+        "Breakthrough et Lion's Eye Diamond vidaient la main pour draguer plus vite"
+      ],
+      "en": [
+        "Won in Barcelona (Alex Mateu) and Finale Emilia (Alvise Gorghetto) in the spring",
+        "Breakthrough and Lion's Eye Diamond emptied the hand to dredge faster"
+      ]
+    }
+  },
+  {
+    "name": "Threshold",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Red Tempo Thresh",
+      "UGr Threshold",
+      "UGb Threshold",
+      "Seuil UGR old school",
+      "Threshold",
+      "U/G/r Threshold",
+      "UGB Bitterblossom Threshold",
+      "UGb Winter Thresh",
+      "UGw Jace Threshold"
+    ],
+    "rep": 116306,
+    "cover": "Nimble Mongoose",
+    "keyCards": [
+      "Nimble Mongoose",
+      "Tarmogoyf",
+      "Stifle",
+      "Daze",
+      "Force of Will",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert à Tarmogoyf et Nimble Mongoose ; Stifle s'ajoutait à Daze et Wasteland pour priver l'adversaire de mana pendant que les créatures frappaient.",
+      "en": "Blue-green tempo with Tarmogoyf and Nimble Mongoose; Stifle joined Daze and Wasteland to starve the opponent of mana while the creatures attacked."
+    },
+    "why": {
+      "fr": [
+        "Victoires dans la Liga Catalana à Barcelone, avec du rouge ou du noir selon les listes",
+        "Dans les top 8 en Espagne, en Allemagne, en Italie et au Japon"
+      ],
+      "en": [
+        "Won events of the Liga Catalana in Barcelona, splashing red or black depending on the list",
+        "Made top eights in Spain, Germany, Italy and Japan"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "RW Goblins",
+      "Rbg Goblins",
+      "Rg Goblins",
+      "Rgb Goblins",
+      "Rgw VialGoblins",
+      "Rgwb VialGoblins",
+      "Rw Goblins",
+      "Vial Goblins"
+    ],
+    "rep": 120414,
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Aether Vial",
+      "Goblin Matron",
+      "Goblin Ringleader",
+      "Goblin Piledriver",
+      "Goblin Warchief"
+    ],
+    "summary": {
+      "fr": "Aether Vial et Goblin Lackey posaient les gobelins sans les lancer, Goblin Warchief les rendait plus rapides et Goblin Ringleader rechargeait la main.",
+      "en": "Aether Vial and Goblin Lackey put goblins into play without casting them, Goblin Warchief made them faster and Goblin Ringleader refilled the hand."
+    },
+    "why": {
+      "fr": [
+        "Victoire dans la Liga Catalana à Badalone, deuxième place à l'Ancient Memory Convention",
+        "Les listes ajoutaient Swords to Plowshares ou Smother pour les créatures adverses"
+      ],
+      "en": [
+        "Won a Liga Catalana event in Badalona, second at the Ancient Memory Convention",
+        "Lists added Swords to Plowshares or Smother for opposing creatures"
+      ]
+    }
+  },
+  {
+    "name": "Landstill",
+    "slug": "landstill",
+    "archetype": "control",
+    "titles": [
+      "UWb Landstill",
+      "4C Landstill",
+      "4C Goyf Landstill",
+      "Landstill",
+      "Landstill UW",
+      "U/W/b Landstill",
+      "UWB Landstill",
+      "Ur Landstill"
+    ],
+    "rep": 118544,
+    "cover": "Standstill",
+    "keyCards": [
+      "Standstill",
+      "Counterspell",
+      "Force of Will",
+      "Swords to Plowshares",
+      "Cunning Wish",
+      "Pernicious Deed"
+    ],
+    "summary": {
+      "fr": "Standstill, contre-sorts et Swords to Plowshares ; Cunning Wish allait chercher la réponse adaptée dans la réserve, Pernicious Deed nettoyait la table.",
+      "en": "Standstill, counterspells and Swords to Plowshares; Cunning Wish fetched the right answer from the sideboard and Pernicious Deed swept the board."
+    },
+    "why": {
+      "fr": [
+        "Victoires à Madrid (Tarmodual Tournament) et à Iserlohn (Patrick Richter)",
+        "Versions blanc-bleu-noir, quatre couleurs ou bleu-rouge selon les régions"
+      ],
+      "en": [
+        "Won in Madrid (Tarmodual Tournament) and Iserlohn (Patrick Richter)",
+        "White-blue-black, four-color or blue-red versions depending on the region"
+      ]
+    }
+  },
+  {
+    "name": "Dreadstill",
+    "slug": "dreadstill",
+    "archetype": "control",
+    "titles": [
+      "Dreadstill",
+      "TarmoDreadstill",
+      "UG Dreadstill"
+    ],
+    "rep": 122272,
+    "cover": "Phyrexian Dreadnought",
+    "keyCards": [
+      "Phyrexian Dreadnought",
+      "Stifle",
+      "Standstill",
+      "Counterbalance",
+      "Tarmogoyf",
+      "Trinket Mage"
+    ],
+    "summary": {
+      "fr": "Stifle contrait le sacrifice de Phyrexian Dreadnought, qui restait en jeu comme une 12/12 pour un mana ; Standstill et Counterbalance protégeaient l'avance.",
+      "en": "Stifle countered Phyrexian Dreadnought's sacrifice trigger, leaving a 12/12 for one mana; Standstill and Counterbalance protected the lead."
+    },
+    "why": {
+      "fr": [
+        "Victoires à Badalone (Alex Delgado) et à Milan (Eugenio Capocasale)",
+        "Mishra's Factory et Tarmogoyf donnaient des menaces de rechange"
+      ],
+      "en": [
+        "Won in Badalona (Alex Delgado) and Milan (Eugenio Capocasale)",
+        "Mishra's Factory and Tarmogoyf gave backup threats"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Aggro Loam",
+      "AggroLoam",
+      "Confinement Aggro Loam",
+      "RG Aggro Loam",
+      "RGb Aggro Loam",
+      "CAL"
+    ],
+    "rep": 116005,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Seismic Assault",
+      "Countryside Crusher",
+      "Mox Diamond",
+      "Burning Wish",
+      "Chalice of the Void"
+    ],
+    "summary": {
+      "fr": "Life from the Loam recyclait les terrains : Seismic Assault les changeait en dégâts, Countryside Crusher grossissait, Burning Wish allait chercher Devastating Dreams.",
+      "en": "Life from the Loam recycled lands: Seismic Assault turned them into damage, Countryside Crusher grew and Burning Wish fetched Devastating Dreams."
+    },
+    "why": {
+      "fr": [
+        "Christoph Weitkamp a gagné à Iserlohn en mars",
+        "Top 8 réguliers dans la Liga Catalana et au Japon"
+      ],
+      "en": [
+        "Christoph Weitkamp won in Iserlohn in March",
+        "Regular top eights in the Liga Catalana and in Japan"
+      ]
+    }
+  },
+  {
+    "name": "Survival",
+    "slug": "survival",
+    "archetype": "midrange",
+    "titles": [
+      "Survival",
+      "GWB Survival",
+      "GWU Survival",
+      "Vegan Soup"
+    ],
+    "rep": 206730,
+    "cover": "Survival of the Fittest",
+    "keyCards": [
+      "Survival of the Fittest",
+      "Tarmogoyf",
+      "River Boa",
+      "Kird Ape",
+      "Blood Moon",
+      "Price of Progress"
+    ],
+    "summary": {
+      "fr": "Survival of the Fittest allait chercher la créature utile ; la version rouge-verte y ajoutait Blood Moon et Price of Progress contre les terrains doubles.",
+      "en": "Survival of the Fittest fetched the right creature; the red-green version added Blood Moon and Price of Progress against dual lands."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à Dülmen et à Iserlohn en Allemagne",
+        "D'autres versions jouaient Aether Vial ou Show and Tell"
+      ],
+      "en": [
+        "Top four in Dülmen and Iserlohn, Germany",
+        "Other versions played Aether Vial or Show and Tell"
+      ]
+    }
+  },
+  {
+    "name": "The Rock",
+    "slug": "the-rock",
+    "archetype": "midrange",
+    "titles": [
+      "The Rock",
+      "BGW The Rock",
+      "BG Rock",
+      "BGW",
+      "BGwr Good Stuff"
+    ],
+    "rep": 117929,
+    "cover": "Pernicious Deed",
+    "keyCards": [
+      "Pernicious Deed",
+      "Thoughtseize",
+      "Tarmogoyf",
+      "Vindicate",
+      "Eternal Witness",
+      "Loxodon Hierarch"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir-vert : défausse, Pernicious Deed et Vindicate pour répondre à tout, Tarmogoyf et Loxodon Hierarch pour gagner, Eternal Witness pour recycler.",
+      "en": "Black-green midrange: discard, Pernicious Deed and Vindicate to answer anything, Tarmogoyf and Loxodon Hierarch to win, Eternal Witness to recycle."
+    },
+    "why": {
+      "fr": [
+        "Yamada Akira a fini deuxième de l'Ancient Memory Convention #35 au Japon",
+        "Leonardo Romano a gagné la DragonsLeague en Italie avec une version blanc-noir-vert"
+      ],
+      "en": [
+        "Yamada Akira finished second at Ancient Memory Convention #35 in Japan",
+        "Leonardo Romano won the DragonsLeague in Italy with a white-black-green version"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "UWB Fish",
+      "UWb Fish",
+      "UWb Trinket Fish",
+      "UWg Fish",
+      "Panzerfaust"
+    ],
+    "rep": 121499,
+    "cover": "Meddling Mage",
+    "keyCards": [
+      "Meddling Mage",
+      "Dark Confidant",
+      "Jötun Grunt",
+      "Swords to Plowshares",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Aggro-contrôle blanc-bleu : Meddling Mage, Dark Confidant et Jötun Grunt, derrière Daze, Force of Will et parfois Counterbalance.",
+      "en": "White-blue aggro-control: Meddling Mage, Dark Confidant and Jötun Grunt behind Daze, Force of Will and sometimes Counterbalance."
+    },
+    "why": {
+      "fr": [
+        "Victoire dans la Trader-Liga à Dülmen (Panzerfaust)",
+        "Top 8 en Allemagne, en Italie et au Japon"
+      ],
+      "en": [
+        "Won a Trader-Liga event in Dülmen (Panzerfaust)",
+        "Top eights in Germany, Italy and Japan"
+      ]
+    }
+  },
+  {
+    "name": "Belcher",
+    "slug": "belcher",
+    "archetype": "combo",
+    "titles": [
+      "2 Land Belcher",
+      "Belcher",
+      "Dark Belcher"
+    ],
+    "rep": 125766,
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Lion's Eye Diamond",
+      "Seething Song",
+      "Elvish Spirit Guide",
+      "Simian Spirit Guide",
+      "Land Grant"
+    ],
+    "summary": {
+      "fr": "Rituels, Spirit Guides et Lion's Eye Diamond activaient Goblin Charbelcher dès le premier tour, dans un deck à un ou deux terrains.",
+      "en": "Rituals, Spirit Guides and Lion's Eye Diamond activated Goblin Charbelcher on turn one, in a deck with one or two lands."
+    },
+    "why": {
+      "fr": [
+        "Top 4 du Legacy Championship de la GenCon 2008",
+        "La version Dark Belcher a fini deuxième à Iserlohn"
+      ],
+      "en": [
+        "Top four at the GenCon 2008 Legacy Championship",
+        "The Dark Belcher version finished second in Iserlohn"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy"
+    ],
+    "rep": 116011,
+    "cover": "Arc-Slogger",
+    "keyCards": [
+      "Arc-Slogger",
+      "Chalice of the Void",
+      "Magus of the Moon",
+      "Gathan Raiders",
+      "Seething Song",
+      "Simian Spirit Guide"
+    ],
+    "summary": {
+      "fr": "Rouge à accélération : Ancient Tomb, Seething Song et Simian Spirit Guide posaient Chalice of the Void, Magus of the Moon ou un gros dragon dès les premiers tours.",
+      "en": "Accelerated red: Ancient Tomb, Seething Song and Simian Spirit Guide put down Chalice of the Void, Magus of the Moon or a big dragon in the first turns."
+    },
+    "why": {
+      "fr": [
+        "Top 8 en Allemagne, en Espagne et au Legacy Championship de la GenCon 2008",
+        "Blood Moon et Magus of the Moon punissaient les bases à terrains doubles"
+      ],
+      "en": [
+        "Top eights in Germany, Spain and at the GenCon 2008 Legacy Championship",
+        "Blood Moon and Magus of the Moon punished dual-land mana bases"
+      ]
+    }
+  },
+  {
+    "name": "Stax",
+    "slug": "stax",
+    "archetype": "control",
+    "titles": [
+      "Armageddon Stax",
+      "Stax"
+    ],
+    "rep": 116307,
+    "cover": "Smokestack",
+    "keyCards": [
+      "Smokestack",
+      "Armageddon",
+      "Crucible of Worlds",
+      "Chalice of the Void",
+      "Trinisphere",
+      "Magus of the Tabernacle"
+    ],
+    "summary": {
+      "fr": "Prison blanche : Trinisphere, Chalice of the Void et Magus of the Tabernacle ralentissaient l'adversaire, Smokestack et Armageddon le privaient de ressources.",
+      "en": "White prison: Trinisphere, Chalice of the Void and Magus of the Tabernacle slowed the opponent, Smokestack and Armageddon stripped its resources."
+    },
+    "why": {
+      "fr": [
+        "Deuxième de la Liga Catalana à Barcelone, top 4 à Madrid",
+        "Crucible of Worlds rejouait les terrains sacrifiés à Smokestack"
+      ],
+      "en": [
+        "Second in the Liga Catalana in Barcelona, top four in Madrid",
+        "Crucible of Worlds replayed the lands sacrificed to Smokestack"
+      ]
+    }
+  },
+  {
+    "name": "Sligh",
+    "slug": "sligh",
+    "archetype": "aggro",
+    "titles": [
+      "Goyfslight",
+      "Burn",
+      "Ankh Sligh",
+      "RGb Goyf Sligh",
+      "RG Beatz",
+      "Boros Deck Wins"
+    ],
+    "rep": 129254,
+    "cover": "Price of Progress",
+    "keyCards": [
+      "Price of Progress",
+      "Lightning Bolt",
+      "Chain Lightning",
+      "Rift Bolt",
+      "Tarmogoyf",
+      "Fireblast"
+    ],
+    "summary": {
+      "fr": "Rouge agressif : burn à un mana, Price of Progress contre les terrains doubles et Fireblast pour finir ; certaines listes ajoutaient Tarmogoyf en vert.",
+      "en": "Aggressive red: one-mana burn, Price of Progress against dual lands and Fireblast to finish; some lists added green for Tarmogoyf."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi annexe Legacy du Grand Prix Paris 2008 (Frédéric Pérez)",
+        "Deuxième du Legacy Championship de la GenCon 2008 en version Boros"
+      ],
+      "en": [
+        "Won the Legacy side event of Grand Prix Paris 2008 (Frédéric Pérez)",
+        "Second at the GenCon 2008 Legacy Championship as a Boros version"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "RU Imperial Painter",
+      "Mono Blue Painter",
+      "Mono Red Painter",
+      "TP Grinding Servants",
+      "Tarmo Painter",
+      "URb Painter"
+    ],
+    "rep": 125767,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Grindstone",
+      "Imperial Recruiter",
+      "Magus of the Moon",
+      "Red Elemental Blast",
+      "Trinket Mage"
+    ],
+    "summary": {
+      "fr": "Painter's Servant, nouveau venu de Shadowmoor, rendait toutes les cartes d'une couleur : Grindstone meulait alors toute la bibliothèque et Red Elemental Blast contrait tout.",
+      "en": "Painter's Servant, new in Shadowmoor, made every card one color: Grindstone then milled the whole library and Red Elemental Blast countered anything."
+    },
+    "why": {
+      "fr": [
+        "Top 8 du Legacy Championship de la GenCon 2008 et de l'Ancient Memory Convention",
+        "Imperial Recruiter et Trinket Mage allaient chercher les deux pièces"
+      ],
+      "en": [
+        "Top eights at the GenCon 2008 Legacy Championship and the Ancient Memory Convention",
+        "Imperial Recruiter and Trinket Mage fetched both pieces"
+      ]
+    }
+  },
+  {
+    "name": "Aluren",
+    "slug": "aluren",
+    "archetype": "combo",
+    "titles": [
+      "Aluren",
+      "Innovator Aluren"
+    ],
+    "rep": 119286,
+    "cover": "Aluren",
+    "keyCards": [
+      "Aluren",
+      "Wall of Roots",
+      "Imperial Recruiter",
+      "Intuition",
+      "Living Wish",
+      "Eternal Witness"
+    ],
+    "summary": {
+      "fr": "Aluren rendait gratuites les créatures à trois manas ou moins, et une boucle de créatures qui se renvoient en main finissait la partie.",
+      "en": "Aluren made creatures of three mana or less free, and a loop of creatures bouncing one another ended the game."
+    },
+    "why": {
+      "fr": [
+        "Deuxième de la DragonsLeague en Italie (Mauro Grassi)",
+        "Force of Will protégeait la combinaison dans la version bleue"
+      ],
+      "en": [
+        "Second at the DragonsLeague in Italy (Mauro Grassi)",
+        "Force of Will protected the combo in the blue version"
+      ]
+    }
+  },
+  {
+    "name": "Pox",
+    "slug": "pox",
+    "archetype": "control",
+    "titles": [
+      "BG Pox",
+      "BW Pox",
+      "Pox"
+    ],
+    "rep": 119285,
+    "cover": "Pox",
+    "keyCards": [
+      "Pox",
+      "Smallpox",
+      "Sinkhole",
+      "Hymn to Tourach",
+      "Crucible of Worlds",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Destruction de ressources noire : Pox et Smallpox faisaient perdre terrains, cartes et créatures aux deux joueurs, Crucible of Worlds rendait la symétrie favorable.",
+      "en": "Black resource denial: Pox and Smallpox cost both players lands, cards and creatures, and Crucible of Worlds tilted the symmetry in its favor."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à la DragonsLeague en Italie, top 8 au Japon et en Allemagne",
+        "Sinkhole et Hymn to Tourach accompagnaient Dark Ritual dès le premier tour"
+      ],
+      "en": [
+        "Top four at the DragonsLeague in Italy, top eights in Japan and Germany",
+        "Sinkhole and Hymn to Tourach came off Dark Ritual on turn one"
+      ]
+    }
+  },
+  {
+    "name": "Slivers",
+    "slug": "slivers",
+    "archetype": "aggro",
+    "titles": [
+      "MeatHooks",
+      "Counterslivers",
+      "UWgb MeatHooks"
+    ],
+    "rep": 125762,
+    "cover": "Crystalline Sliver",
+    "keyCards": [
+      "Crystalline Sliver",
+      "Winged Sliver",
+      "Sinew Sliver",
+      "Muscle Sliver",
+      "Aether Vial",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Des slivers bon marché qui se renforçaient entre eux, posés par Aether Vial et protégés par Daze et Force of Will ; Crystalline Sliver les rendait impossibles à cibler.",
+      "en": "Cheap slivers that pumped one another, put into play by Aether Vial and protected by Daze and Force of Will; Crystalline Sliver gave them shroud."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Legacy Championship de la GenCon 2008",
+        "Mutavault comptait comme un sliver une fois animé"
+      ],
+      "en": [
+        "Won the GenCon 2008 Legacy Championship",
+        "Mutavault counted as a sliver once animated"
+      ]
+    }
+  },
+  {
+    "name": "Deadguy Ale",
+    "slug": "deadguy-ale",
+    "archetype": "midrange",
+    "titles": [
+      "Deadguy Ale",
+      "BWR Frikula",
+      "SUI"
+    ],
+    "rep": 121501,
+    "cover": "Hymn to Tourach",
+    "keyCards": [
+      "Hymn to Tourach",
+      "Vindicate",
+      "Hypnotic Specter",
+      "Dark Confidant",
+      "Nantuko Shade",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Noir agressif à défausse : Hymn to Tourach et Duress, puis Hypnotic Specter, Dark Confidant et Nantuko Shade ; Vindicate et Swords to Plowshares en blanc.",
+      "en": "Aggressive black discard: Hymn to Tourach and Duress, then Hypnotic Specter, Dark Confidant and Nantuko Shade; white for Vindicate and Swords to Plowshares."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à Dülmen, top 8 à Madrid et dans la Liga Catalana",
+        "Les versions mono-noires jouaient Sinkhole et Phyrexian Negator"
+      ],
+      "en": [
+        "Top four in Dülmen, top eights in Madrid and in the Liga Catalana",
+        "Mono-black versions played Sinkhole and Phyrexian Negator"
+      ]
+    }
+  }
+]

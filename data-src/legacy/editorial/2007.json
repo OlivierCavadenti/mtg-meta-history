@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Threshold",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Thresh",
+      "UGR Thresh",
+      "UG Thresh",
+      "URG Thresh",
+      "4c Thresh",
+      "Kampelmann's täschchen ist sergej",
+      "NQG",
+      "Volkersbrunner GroooUuuw",
+      "die PCA hat das Szepter in der Hand!",
+      "UGr Thresh",
+      "UGr Threshold"
+    ],
+    "rep": 107058,
+    "cover": "Tarmogoyf",
+    "keyCards": [
+      "Tarmogoyf",
+      "Nimble Mongoose",
+      "Werebear",
+      "Mental Note",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Le tempo bleu-vert reçoit Tarmogoyf avec Future Sight : avec Nimble Mongoose et Werebear, trois menaces bon marché derrière Daze et Force of Will.",
+      "en": "Blue-green tempo took Tarmogoyf from Future Sight: with Nimble Mongoose and Werebear, three cheap threats behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année, en Europe, au Japon et aux États-Unis",
+        "Les listes ajoutaient du rouge (Lightning Bolt, Fire/Ice) ou du blanc (Swords to Plowshares)"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights, in Europe, Japan and the United States",
+        "Lists added red (Lightning Bolt, Fire/Ice) or white (Swords to Plowshares)"
+      ]
+    }
+  },
+  {
+    "name": "Landstill",
+    "slug": "landstill",
+    "archetype": "control",
+    "titles": [
+      "Landstill"
+    ],
+    "rep": 107526,
+    "cover": "Standstill",
+    "keyCards": [
+      "Standstill",
+      "Pernicious Deed",
+      "Counterspell",
+      "Force of Will",
+      "Swords to Plowshares",
+      "Exalted Angel"
+    ],
+    "summary": {
+      "fr": "Standstill et les contre-sorts tenaient la partie ; les versions de 2007 ajoutaient du noir pour Pernicious Deed, et Exalted Angel pour finir.",
+      "en": "Standstill and counterspells held the game; 2007 versions added black for Pernicious Deed, and Exalted Angel to finish."
+    },
+    "why": {
+      "fr": [
+        "Thomas Enevoldsen a gagné le championnat danois de Legacy 2007",
+        "Deuxième place au German Legacy Open (Matthias Drüppel)"
+      ],
+      "en": [
+        "Thomas Enevoldsen won the 2007 Danish Legacy Championship",
+        "Second place at the German Legacy Open (Matthias Drüppel)"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "Fish",
+      "4c Fish",
+      "Meat free Deck",
+      "UW Bärenmarke"
+    ],
+    "rep": 206748,
+    "cover": "Meddling Mage",
+    "keyCards": [
+      "Meddling Mage",
+      "Dark Confidant",
+      "Jötun Grunt",
+      "Mother of Runes",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Aggro-contrôle blanc-bleu-noir : Meddling Mage, Dark Confidant et Jötun Grunt, avec Daze et Force of Will pour protéger l'avance.",
+      "en": "White-blue-black aggro-control: Meddling Mage, Dark Confidant and Jötun Grunt, with Daze and Force of Will to protect the lead."
+    },
+    "why": {
+      "fr": [
+        "Max Tietze a atteint le top 4 du Grand Prix Columbus 2007",
+        "Jötun Grunt vidait les cimetières, une gêne pour Threshold et Dredge"
+      ],
+      "en": [
+        "Max Tietze reached the top four of Grand Prix Columbus 2007",
+        "Jötun Grunt emptied graveyards, which hurt Threshold and Dredge"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins",
+      "Goblins IIII",
+      "Gr Goblins"
+    ],
+    "rep": 206746,
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Aether Vial",
+      "Goblin Matron",
+      "Goblin Ringleader",
+      "Goblin Piledriver",
+      "Gempalm Incinerator"
+    ],
+    "summary": {
+      "fr": "Aether Vial et Goblin Lackey posaient les gobelins hors de portée des contre-sorts, Goblin Matron et Goblin Ringleader donnaient l'avantage de cartes.",
+      "en": "Aether Vial and Goblin Lackey put goblins into play out of counterspell range, Goblin Matron and Goblin Ringleader provided card advantage."
+    },
+    "why": {
+      "fr": [
+        "Owen Turtenwald a fini deuxième du Grand Prix Columbus 2007",
+        "Victoire à San Giorgio en octobre (Andrea Maccagnani)"
+      ],
+      "en": [
+        "Owen Turtenwald finished second at Grand Prix Columbus 2007",
+        "Won in San Giorgio in October (Andrea Maccagnani)"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Aggro Loam",
+      "LftL Aggro relou",
+      "Life from the Loam contrôle",
+      "White Rock"
+    ],
+    "rep": 102088,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Seismic Assault",
+      "Mox Diamond",
+      "Tarmogoyf",
+      "Terravore",
+      "Wild Mongrel"
+    ],
+    "summary": {
+      "fr": "Life from the Loam recyclait les terrains : Seismic Assault les changeait en dégâts, Terravore grossissait et Mox Diamond accélérait dès le premier tour.",
+      "en": "Life from the Loam recycled lands: Seismic Assault turned them into damage, Terravore grew huge and Mox Diamond accelerated from turn one."
+    },
+    "why": {
+      "fr": [
+        "Victoires à la Bazaar Liga allemande (Anton Karlinski) et à Mol en Belgique (Baptist Matthys)",
+        "Deuxième au tournoi Legacy de MCM à Mol en novembre"
+      ],
+      "en": [
+        "Won the German Bazaar Liga (Anton Karlinski) and a tournament in Mol, Belgium (Baptist Matthys)",
+        "Second at the MCM Legacy tournament in Mol in November"
+      ]
+    }
+  },
+  {
+    "name": "Aluren",
+    "slug": "aluren",
+    "archetype": "combo",
+    "titles": [
+      "Aluren"
+    ],
+    "rep": 107059,
+    "cover": "Aluren",
+    "keyCards": [
+      "Aluren",
+      "Wall of Roots",
+      "Wall of Blossoms",
+      "Man-o'-War",
+      "Imperial Recruiter",
+      "Intuition"
+    ],
+    "summary": {
+      "fr": "Aluren rendait gratuites les créatures à trois manas ou moins ; Cavern Harpy et Man-o'-War les renvoyaient en main pour une boucle qui finissait la partie.",
+      "en": "Aluren made creatures of three mana or less free; Cavern Harpy and Man-o'-War bounced them back to hand for a loop that ended the game."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Ancient Memory Convention #28 au Japon, top 4 du championnat danois",
+        "Imperial Recruiter et Living Wish allaient chercher les pièces de la boucle"
+      ],
+      "en": [
+        "Second at Ancient Memory Convention #28 in Japan, top four at the Danish championship",
+        "Imperial Recruiter and Living Wish fetched the pieces of the loop"
+      ]
+    }
+  },
+  {
+    "name": "Belcher",
+    "slug": "belcher",
+    "archetype": "combo",
+    "titles": [
+      "Belcher",
+      "Hampelmann.dec"
+    ],
+    "rep": 102089,
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Lion's Eye Diamond",
+      "Seething Song",
+      "Elvish Spirit Guide",
+      "Simian Spirit Guide",
+      "Land Grant"
+    ],
+    "summary": {
+      "fr": "Presque sans terrains : rituels, Spirit Guides et Lion's Eye Diamond produisaient sept manas dès le premier tour pour activer Goblin Charbelcher.",
+      "en": "Nearly landless: rituals, Spirit Guides and Lion's Eye Diamond produced seven mana on turn one to activate Goblin Charbelcher."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la Bazaar Liga de juillet, top 4 à l'Ancient Memory Convention #28",
+        "Avec un ou deux terrains, Charbelcher révélait presque toute la bibliothèque"
+      ],
+      "en": [
+        "Second at the July Bazaar Liga, top four at Ancient Memory Convention #28",
+        "With one or two lands in the deck, Charbelcher revealed nearly the whole library"
+      ]
+    }
+  },
+  {
+    "name": "Cephalid Breakfast",
+    "slug": "cephalid-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Cephalid Breakfast"
+    ],
+    "rep": 107032,
+    "cover": "Cephalid Illusionist",
+    "keyCards": [
+      "Cephalid Illusionist",
+      "Nomads en-Kor",
+      "Narcomoeba",
+      "Dread Return",
+      "Aether Vial",
+      "Worldly Tutor"
+    ],
+    "summary": {
+      "fr": "Nomads en-Kor ciblait Cephalid Illusionist en boucle pour meuler toute la bibliothèque ; Narcomoeba revenait en jeu et Dread Return ramenait la créature qui gagnait.",
+      "en": "Nomads en-Kor targeted Cephalid Illusionist over and over to mill the whole library; Narcomoeba came into play and Dread Return brought back the winning creature."
+    },
+    "why": {
+      "fr": [
+        "Alessandro Teneggi a gagné à Finale Emilia en septembre",
+        "Top 4 à la GenCon 2007 et au German Legacy Open"
+      ],
+      "en": [
+        "Alessandro Teneggi won in Finale Emilia in September",
+        "Top four at GenCon 2007 and at the German Legacy Open"
+      ]
+    }
+  },
+  {
+    "name": "Faerie Stompy",
+    "slug": "faerie-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Faerie Stompy"
+    ],
+    "rep": 102086,
+    "cover": "Chalice of the Void",
+    "keyCards": [
+      "Chalice of the Void",
+      "Cloud of Faeries",
+      "Sea Drake",
+      "Serendib Efreet",
+      "Sword of Fire and Ice",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Stompy bleu : Ancient Tomb, City of Traitors et Chrome Mox lançaient Chalice of the Void ou une créature volante dès le premier tour, Sword of Fire and Ice l'armait.",
+      "en": "Blue stompy: Ancient Tomb, City of Traitors and Chrome Mox cast Chalice of the Void or a flier on turn one, and Sword of Fire and Ice armed it."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au Japon et en Italie au fil de l'année",
+        "Chalice of the Void à un coupait les rituels, Brainstorm et Swords to Plowshares"
+      ],
+      "en": [
+        "Top eights in Japan and Italy over the year",
+        "Chalice of the Void on one stopped rituals, Brainstorm and Swords to Plowshares"
+      ]
+    }
+  },
+  {
+    "name": "Hulk Flash",
+    "slug": "hulk-flash",
+    "archetype": "combo",
+    "titles": [
+      "Hulk Flash"
+    ],
+    "rep": 206744,
+    "cover": "Protean Hulk",
+    "keyCards": [
+      "Flash",
+      "Protean Hulk",
+      "Mystical Tutor",
+      "Counterbalance",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Flash mettait Protean Hulk en jeu pour deux manas ; sacrifié aussitôt, il allait chercher des créatures qui gagnaient sur-le-champ, Kiki-Jiki et Karmic Guide.",
+      "en": "Flash put Protean Hulk into play for two mana; sacrificed at once, it fetched creatures that won on the spot, Kiki-Jiki and Karmic Guide."
+    },
+    "why": {
+      "fr": [
+        "Steven Sadin a gagné le Grand Prix Columbus 2007, deux autres listes ont fini dans le top 8",
+        "Flash a été banni en Legacy en juin 2007"
+      ],
+      "en": [
+        "Steven Sadin won Grand Prix Columbus 2007, and two more lists made the top eight",
+        "Flash was banned in Legacy in June 2007"
+      ]
+    }
+  },
+  {
+    "name": "Deadguy Ale",
+    "slug": "deadguy-ale",
+    "archetype": "midrange",
+    "titles": [
+      "Pikula",
+      "Green Death"
+    ],
+    "rep": 102082,
+    "cover": "Hymn to Tourach",
+    "keyCards": [
+      "Hymn to Tourach",
+      "Sinkhole",
+      "Dark Ritual",
+      "Hypnotic Specter",
+      "Dark Confidant",
+      "Vindicate"
+    ],
+    "summary": {
+      "fr": "Noir agressif : Dark Ritual, Hymn to Tourach et Sinkhole dès le premier tour, puis Hypnotic Specter et Dark Confidant ; Vindicate en blanc ou Tarmogoyf en vert.",
+      "en": "Aggressive black: Dark Ritual, Hymn to Tourach and Sinkhole from turn one, then Hypnotic Specter and Dark Confidant; white for Vindicate or green for Tarmogoyf."
+    },
+    "why": {
+      "fr": [
+        "La version noir-vert a gagné le tournoi Legacy de MCM à Mol (Steve Van den Bulck)",
+        "Top 8 à l'Ancient Memory Convention au Japon et au German Legacy Open"
+      ],
+      "en": [
+        "The black-green version won the MCM Legacy tournament in Mol (Steve Van den Bulck)",
+        "Top eights at the Ancient Memory Convention in Japan and the German Legacy Open"
+      ]
+    }
+  },
+  {
+    "name": "Survival",
+    "slug": "survival",
+    "archetype": "midrange",
+    "titles": [
+      "Survival",
+      "Welder Survival"
+    ],
+    "rep": 102930,
+    "cover": "Survival of the Fittest",
+    "keyCards": [
+      "Survival of the Fittest",
+      "Academy Rector",
+      "Cabal Therapy",
+      "Wall of Roots",
+      "Pernicious Deed",
+      "Eternal Witness"
+    ],
+    "summary": {
+      "fr": "Survival of the Fittest allait chercher la créature utile ; Academy Rector sacrifiée trouvait un enchantement, Survival of the Fittest ou Pernicious Deed.",
+      "en": "Survival of the Fittest fetched the right creature; a sacrificed Academy Rector found an enchantment, Survival of the Fittest or Pernicious Deed."
+    },
+    "why": {
+      "fr": [
+        "Victoires au German Legacy Open (Christian Höttgen) et au Mana Leak Open (Brian Diefendorf)",
+        "Une version à Goblin Welder a fini dans le top 4 du championnat danois"
+      ],
+      "en": [
+        "Won the German Legacy Open (Christian Höttgen) and the Mana Leak Open (Brian Diefendorf)",
+        "A Goblin Welder version reached the top four of the Danish championship"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "TES",
+      "Spanish Inquisition"
+    ],
+    "rep": 110851,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Burning Wish",
+      "Orim's Chant",
+      "Cabal Ritual"
+    ],
+    "summary": {
+      "fr": "The Epic Storm enchaînait rituels et Lion's Eye Diamond ; Infernal Tutor et Burning Wish trouvaient Tendrils of Agony ou Empty the Warrens dans la réserve.",
+      "en": "The Epic Storm chained rituals and Lion's Eye Diamond; Infernal Tutor and Burning Wish found Tendrils of Agony or Empty the Warrens in the sideboard."
+    },
+    "why": {
+      "fr": [
+        "Top 8 à Mol et à San Giorgio en fin d'année",
+        "Orim's Chant empêchait l'adversaire de répondre pendant le tour de combo"
+      ],
+      "en": [
+        "Top eights in Mol and San Giorgio late in the year",
+        "Orim's Chant stopped the opponent from answering during the combo turn"
+      ]
+    }
+  }
+]

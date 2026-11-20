@@ -3,6 +3,9 @@ import { STANDARD_SEASONS } from './standard/seasons'
 import { MODERN_SEASONS } from './modern/seasons'
 import { PREMODERN_SEASONS } from './premodern/seasons'
 import { PIONEER_SEASONS } from './pioneer/seasons'
+import { LEGACY_SEASONS } from './legacy/seasons'
+import { VINTAGE_SEASONS } from './vintage/seasons'
+import { PAUPER_SEASONS } from './pauper/seasons'
 import LIMITED_SEASONS from './limited/seasons.json'
 import { deckScore } from '../lib/deckStats'
 
@@ -26,6 +29,21 @@ const SOURCES: Partial<Record<FormatId, { seasons: Season[]; decks: Record<strin
     seasons: PIONEER_SEASONS,
     decks: import.meta.glob<SeasonFile>('./pioneer/decks/*.json', { import: 'default' }),
     cards: () => import('./pioneer/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
+  },
+  legacy: {
+    seasons: LEGACY_SEASONS,
+    decks: import.meta.glob<SeasonFile>('./legacy/decks/*.json', { import: 'default' }),
+    cards: () => import('./legacy/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
+  },
+  vintage: {
+    seasons: VINTAGE_SEASONS,
+    decks: import.meta.glob<SeasonFile>('./vintage/decks/*.json', { import: 'default' }),
+    cards: () => import('./vintage/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
+  },
+  pauper: {
+    seasons: PAUPER_SEASONS,
+    decks: import.meta.glob<SeasonFile>('./pauper/decks/*.json', { import: 'default' }),
+    cards: () => import('./pauper/cards.json').then((m) => m.default as unknown as Record<string, CardInfo>),
   },
   premodern: {
     seasons: PREMODERN_SEASONS,

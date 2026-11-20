@@ -3,7 +3,7 @@ import json, re, os, time, urllib.request, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(os.path.dirname(HERE))
-# Format: MTG_FORMAT=standard (default) | modern. Each format has its own work dir, editorial
+# Format: MTG_FORMAT=standard (default) | pioneer | modern | legacy | vintage | pauper | premodern. Each format has its own work dir, editorial
 # layer, extra results, date fixes, seasons file and output folder.
 FORMAT = os.environ.get('MTG_FORMAT', 'standard')
 FORMAT_CODE = {'standard': 'ST', 'modern': 'MO', 'pioneer': 'PI', 'legacy': 'LE', 'vintage': 'VI', 'pauper': 'PAU', 'premodern': 'PREM'}[FORMAT]
@@ -22,6 +22,9 @@ COMPETITIVE_YEARS = {
     'modern': {2011, 2012, 2013, 2020, 2021},
     'premodern': {2020, 2021, 2022, 2023, 2024},
     'pioneer': {2019, 2020, 2021, 2025, 2026},
+    'legacy': set(range(2004, 2011)),
+    'vintage': set(range(2003, 2027)),
+    'pauper': set(range(2016, 2021)),
 }.get(FORMAT, set())
 if os.environ.get('MTG_COMPETITIVE_YEARS'):
     COMPETITIVE_YEARS = {int(v) for v in os.environ['MTG_COMPETITIVE_YEARS'].split(',') if v}

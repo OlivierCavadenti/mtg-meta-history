@@ -34,6 +34,8 @@ const STRINGS = {
   soonText: { fr: "L'encyclopédie de ce format arrive. Standard est complet.", en: 'This format is being compiled. Standard is complete.' },
   loading: { fr: 'Chargement…', en: 'Loading…' },
   bans: { fr: 'Bannis', en: 'Banned' },
+  restricted: { fr: 'Restreints', en: 'Restricted' },
+  restrictedOne: { fr: 'restreint', en: 'restricted' },
   decksCount: { fr: 'decks', en: 'decks' },
   top8: { fr: 'top 8', en: 'top 8' },
   wins: { fr: 'victoires', en: 'wins' },

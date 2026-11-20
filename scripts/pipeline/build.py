@@ -51,6 +51,8 @@ for sid in season_ids:
 # set types whose cards enter the format (Modern also takes the Modern Horizons sets)
 PRINT_CUTOFF = '2003-07-01' if FORMAT == 'premodern' else None
 LEGAL_SET_TYPES = {'core', 'expansion'} | ({'draft_innovation'} if FORMAT == 'modern' else set())
+# eternal formats take every set (masters, commander, supplemental products): no legality check
+ETERNAL = FORMAT in ('legacy', 'vintage', 'pauper')
 first_season = {}
 seasons_of = collections.defaultdict(set)
 firsts = collections.Counter(r['e'] for r in rows() if r['rank'] == '1')
@@ -90,7 +92,7 @@ for sid in season_ids:
         # suggests a list from another format mislabelled as Standard
         for n, name in main:
             pr = lookup(name)
-            if not pr or name in ('Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'): continue
+            if ETERNAL or not pr or name in ('Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'): continue
             if not any(p['st'] in LEGAL_SET_TYPES and p['r'] < season_end[sid] for p in pr['prints']):
                 print(f'  WARN {sid}/{e["slug"]}: {name} not printed in a {FORMAT}-legal set before season end')
         decks.append({

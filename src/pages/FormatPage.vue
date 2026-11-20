@@ -109,8 +109,11 @@ const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.len
 const shownDecks = computed(() => visible.value.reduce((n, s) => n + s.shown.length, 0))
 const filtering = computed(() => !!(archetype.value || colors.value.length || query.value.trim()))
 
-const banLine = (s: Row) =>
-  s.bans.map((b) => `${b.cards.join(', ')} (${formatMonth(b.date)})`).join(' · ')
+const banLine = (s: Row, restricted = false) =>
+  s.bans
+    .filter((b) => !!b.restricted === restricted)
+    .map((b) => `${b.cards.join(', ')} (${formatMonth(b.date)})`)
+    .join(' · ')
 
 </script>
 
@@ -180,8 +183,11 @@ const banLine = (s: Row) =>
         <h2 class="season-years">{{ seasonYears(s.start, s.end) }}</h2>
         <p class="season-set">{{ s.set }}<span class="season-count">, {{ s.shown.length }} {{ t('decksCount') }}</span></p>
       </div>
-      <p v-if="s.bans.length" class="season-bans">
+      <p v-if="s.bans.some((b) => !b.restricted)" class="season-bans">
         <span class="ban-label">{{ t('bans') }}.</span> {{ banLine(s) }}
+      </p>
+      <p v-if="s.bans.some((b) => b.restricted)" class="season-bans">
+        <span class="ban-label">{{ t('restricted') }}.</span> {{ banLine(s, true) }}
       </p>
       <div class="grid">
         <DeckTile v-for="(d, i) in s.shown" :key="d.id" :deck="d" :cards="data.cards" :format="formatId" :index="i % 5" />

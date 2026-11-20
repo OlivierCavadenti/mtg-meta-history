@@ -6,12 +6,18 @@ import { STANDARD_SEASONS } from '../src/data/standard/seasons'
 import { MODERN_SEASONS } from '../src/data/modern/seasons'
 import { PREMODERN_SEASONS } from '../src/data/premodern/seasons'
 import { PIONEER_SEASONS } from '../src/data/pioneer/seasons'
+import { LEGACY_SEASONS } from '../src/data/legacy/seasons'
+import { VINTAGE_SEASONS } from '../src/data/vintage/seasons'
+import { PAUPER_SEASONS } from '../src/data/pauper/seasons'
 import LIMITED_SEASONS from '../src/data/limited/seasons.json'
 
 const FORMATS: [string, Season[]][] = [
   ['standard', STANDARD_SEASONS],
   ['modern', MODERN_SEASONS],
   ['pioneer', PIONEER_SEASONS],
+  ['legacy', LEGACY_SEASONS],
+  ['vintage', VINTAGE_SEASONS],
+  ['pauper', PAUPER_SEASONS],
   ['premodern', PREMODERN_SEASONS],
   ['limited', LIMITED_SEASONS as Season[]],
 ]

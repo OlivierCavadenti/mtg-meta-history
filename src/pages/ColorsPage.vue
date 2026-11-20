@@ -104,7 +104,7 @@ const yearTicks = computed(() => {
   return out
 })
 
-const banLines = computed(() => bans.value.map((b) => ({ x: x(Date.parse(b.date)), label: `${b.cards.join(', ')} (${formatMonth(b.date)})` })))
+const banLines = computed(() => bans.value.map((b) => ({ x: x(Date.parse(b.date)), label: `${b.cards.join(', ')}${b.restricted ? `, ${t('restrictedOne')}` : ''} (${formatMonth(b.date)})` })))
 
 /* ---- hover ---- */
 const hover = ref<number | null>(null)

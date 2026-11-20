@@ -1,0 +1,864 @@
+[
+  {
+    "name": "UG Survival",
+    "slug": "ug-survival",
+    "archetype": "aggro",
+    "titles": [
+      "Survival UG",
+      "UG Madness",
+      "GU Madness",
+      "U/G Madness",
+      "UG Survival Madness",
+      "UG Vial Madness",
+      "UGw Survival",
+      "Survival UGW",
+      "Survival UGw",
+      "Survival Ug",
+      "Survival GWU",
+      "Survival of The Moby Team",
+      "Survival of the Moby Team",
+      "Survival Bant",
+      "Retainers Survival",
+      "Survival Gur"
+    ],
+    "rep": 206976,
+    "cover": "Vengevine",
+    "keyCards": [
+      "Vengevine",
+      "Survival of the Fittest",
+      "Wild Mongrel",
+      "Basking Rootwalla",
+      "Noble Hierarch",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Survival of the Fittest défaussait Vengevine, qui revenait du cimetière au deuxième sort de créature du tour ; Wild Mongrel et Basking Rootwalla profitaient de la folie.",
+      "en": "Survival of the Fittest discarded Vengevine, which returned from the graveyard on the second creature spell of a turn; Wild Mongrel and Basking Rootwalla used madness."
+    },
+    "why": {
+      "fr": [
+        "Victoires à l'Open SCG de Boston (James Rynkiewicz) et aux Rencontres Legacy de Paris",
+        "Survival of the Fittest a été banni en décembre 2010"
+      ],
+      "en": [
+        "Won the SCG Open in Boston (James Rynkiewicz) and the Rencontres Legacy in Paris",
+        "Survival of the Fittest was banned in December 2010"
+      ]
+    }
+  },
+  {
+    "name": "GW Survival",
+    "slug": "gw-survival",
+    "archetype": "aggro",
+    "titles": [
+      "Survival GW",
+      "GW Survival Aggro",
+      "GW Survival",
+      "GW Madness",
+      "GW Madness feat. Iona",
+      "Retainer Survival",
+      "Zoo Survival"
+    ],
+    "rep": 205088,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Survival of the Fittest",
+      "Vengevine",
+      "Mother of Runes",
+      "Qasali Pridemage",
+      "Noble Hierarch"
+    ],
+    "summary": {
+      "fr": "Version vert-blanc : Survival of the Fittest et Fauna Shaman défaussaient Vengevine et allaient chercher Knight of the Reliquary ou la réponse voulue, Mother of Runes protégeait.",
+      "en": "Green-white version: Survival of the Fittest and Fauna Shaman discarded Vengevine and fetched Knight of the Reliquary or the answer needed, while Mother of Runes protected."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Open SCG de Nashville en octobre",
+        "Deuxième place aux Opens SCG de Charlotte et à Zurich"
+      ],
+      "en": [
+        "Won the SCG Open in Nashville in October",
+        "Second place at the SCG Open in Charlotte and in Zurich"
+      ]
+    }
+  },
+  {
+    "name": "Ooze Survival",
+    "slug": "ooze-survival",
+    "archetype": "combo",
+    "titles": [
+      "Ooze Survival",
+      "Survival Ooze",
+      "Survival GBw",
+      "Survival Gbw",
+      "Survival no combo"
+    ],
+    "rep": 207217,
+    "cover": "Necrotic Ooze",
+    "keyCards": [
+      "Necrotic Ooze",
+      "Survival of the Fittest",
+      "Phyrexian Devourer",
+      "Triskelion",
+      "Fauna Shaman",
+      "Vengevine"
+    ],
+    "summary": {
+      "fr": "Survival of the Fittest jetait Phyrexian Devourer et Triskelion au cimetière : Necrotic Ooze copiait leurs capacités et infligeait des dégâts sans limite.",
+      "en": "Survival of the Fittest binned Phyrexian Devourer and Triskelion: Necrotic Ooze copied their abilities and dealt unlimited damage."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi annexe Legacy des Championnats du monde 2010 (Masayuki Yasuda)",
+        "Gerry Thompson a fini deuxième de l'Open SCG de Boston"
+      ],
+      "en": [
+        "Won the Legacy side event of the 2010 World Championships (Masayuki Yasuda)",
+        "Gerry Thompson finished second at the SCG Open in Boston"
+      ]
+    }
+  },
+  {
+    "name": "Zoo",
+    "slug": "zoo",
+    "archetype": "aggro",
+    "titles": [
+      "Zoo",
+      "Big Zoo",
+      "Big Big Zoo",
+      "Big Zoo (Zasca Team)",
+      "Ajani Zoo",
+      "Burning Animals"
+    ],
+    "rep": 206913,
+    "cover": "Wild Nacatl",
+    "keyCards": [
+      "Wild Nacatl",
+      "Knight of the Reliquary",
+      "Tarmogoyf",
+      "Qasali Pridemage",
+      "Noble Hierarch",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Créatures à un ou deux manas surdimensionnées, Wild Nacatl, Tarmogoyf et Knight of the Reliquary, avec Lightning Bolt et Swords to Plowshares pour dégager le passage.",
+      "en": "Oversized one- and two-mana creatures, Wild Nacatl, Tarmogoyf and Knight of the Reliquary, with Lightning Bolt and Swords to Plowshares to clear the way."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Tokyo's Eternal Festival (Kouta Hattori), top 4 au Grand Prix Madrid 2010",
+        "Big Zoo ajoutait Noble Hierarch et des créatures plus grosses"
+      ],
+      "en": [
+        "Won Tokyo's Eternal Festival (Kouta Hattori), top four at Grand Prix Madrid 2010",
+        "Big Zoo added Noble Hierarch and bigger creatures"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk",
+      "Merfolk (à la Saito)",
+      "Merfolk (à la Saïto)",
+      "Merfolk Ur",
+      "Ub Merfolks",
+      "Dread Merfolk",
+      "Merfolk with black",
+      "MonoU Merfolks",
+      "Omar's deck"
+    ],
+    "rep": 195740,
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Merrow Reejerey",
+      "Coralhelm Commander",
+      "Silvergill Adept",
+      "Aether Vial",
+      "Standstill"
+    ],
+    "summary": {
+      "fr": "Ondins à seigneurs, Lord of Atlantis et Merrow Reejerey, posés par Aether Vial ; l'îlemarche passait les bloqueurs, Daze et Force of Will protégeaient.",
+      "en": "Merfolk with lords, Lord of Atlantis and Merrow Reejerey, put into play by Aether Vial; islandwalk got past blockers, Daze and Force of Will protected."
+    },
+    "why": {
+      "fr": [
+        "Tomoharu Saito a gagné le Grand Prix Columbus 2010 avec Standstill dans sa liste",
+        "Omar Rohner a gagné le Bazaar of Moxen en mai"
+      ],
+      "en": [
+        "Tomoharu Saito won Grand Prix Columbus 2010 with Standstill in his list",
+        "Omar Rohner won Bazaar of Moxen in May"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "ANT",
+      "Ad Nauseam",
+      "Ad Nauseam Tendrils",
+      "TES",
+      "The Epic Storm",
+      "Burning ANT"
+    ],
+    "rep": 207358,
+    "cover": "Ad Nauseam",
+    "keyCards": [
+      "Ad Nauseam",
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Tendrils of Agony",
+      "Ill-Gotten Gains"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam piochait une grande partie du deck, puis Tendrils of Agony vidait les points de vie adverses.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam drew a large part of the deck, then Tendrils of Agony drained the opponent."
+    },
+    "why": {
+      "fr": [
+        "A gagné les championnats néerlandais d'Eternal à Eindhoven (Robbin Boer)",
+        "David Do Anh a fini deuxième du Grand Prix Madrid 2010"
+      ],
+      "en": [
+        "Won the Dutch Eternal Championships in Eindhoven (Robbin Boer)",
+        "David Do Anh finished second at Grand Prix Madrid 2010"
+      ]
+    }
+  },
+  {
+    "name": "The Rock",
+    "slug": "the-rock",
+    "archetype": "midrange",
+    "titles": [
+      "Dark Horizons",
+      "Dark Horizon",
+      "Rock",
+      "Rock BWG",
+      "WBG Rock",
+      "GWB Rock",
+      "Brian Kowal Special"
+    ],
+    "rep": 207796,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Dark Confidant",
+      "Tarmogoyf",
+      "Vindicate",
+      "Thoughtseize",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain blanc-noir-vert : Thoughtseize et Hymn to Tourach, Vindicate et Swords to Plowshares, puis Knight of the Reliquary, Tarmogoyf et Dark Confidant.",
+      "en": "White-black-green midrange: Thoughtseize and Hymn to Tourach, Vindicate and Swords to Plowshares, then Knight of the Reliquary, Tarmogoyf and Dark Confidant."
+    },
+    "why": {
+      "fr": [
+        "Deuxième aux Rencontres Legacy de Paris, top 4 à l'Open SCG de Charlotte",
+        "Brian Kowal l'a mené dans le top 8 du Grand Prix Columbus 2010"
+      ],
+      "en": [
+        "Second at the Rencontres Legacy in Paris, top four at the SCG Open in Charlotte",
+        "Brian Kowal took it to the top eight of Grand Prix Columbus 2010"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge",
+      "Dredge Ghastless",
+      "Ichorid"
+    ],
+    "rep": 207588,
+    "cover": "Golgari Grave-Troll",
+    "keyCards": [
+      "Golgari Grave-Troll",
+      "Narcomoeba",
+      "Stinkweed Imp",
+      "Breakthrough",
+      "Cabal Therapy",
+      "Careful Study"
+    ],
+    "summary": {
+      "fr": "Le cimetière servait de main : Golgari Grave-Troll et Stinkweed Imp se draguaient, Narcomoeba et Ichorid revenaient seuls, Cabal Therapy se rejouait en sacrifiant.",
+      "en": "The graveyard was the hand: Golgari Grave-Troll and Stinkweed Imp dredged, Narcomoeba and Ichorid came back on their own, and Cabal Therapy was flashed back by sacrificing."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au tournoi Legacy du dimanche des Championnats du monde 2010",
+        "Deuxième au KING#2 en Italie"
+      ],
+      "en": [
+        "Top four at the Sunday Legacy event of the 2010 World Championships",
+        "Second at KING#2 in Italy"
+      ]
+    }
+  },
+  {
+    "name": "Show and Tell",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Show and Tell",
+      "Sneak Attack",
+      "Show and Tell/Sneak Attack",
+      "Sneaky Show"
+    ],
+    "rep": 207361,
+    "cover": "Emrakul, the Aeons Torn",
+    "keyCards": [
+      "Emrakul, the Aeons Torn",
+      "Show and Tell",
+      "Sneak Attack",
+      "Progenitus",
+      "Intuition",
+      "Strategic Planning"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Emrakul, the Aeons Torn, arrivé avec Rise of the Eldrazi, ou Progenitus dès le deuxième tour.",
+      "en": "Show and Tell or Sneak Attack put Emrakul, the Aeons Torn, new in Rise of the Eldrazi, or Progenitus into play from turn two."
+    },
+    "why": {
+      "fr": [
+        "Top 4 aux championnats néerlandais d'Eternal, top 8 à l'Open SCG de Boston",
+        "Aussi dans le top 8 du Grand Prix Columbus 2010"
+      ],
+      "en": [
+        "Top four at the Dutch Eternal Championships, top eight at the SCG Open in Boston",
+        "Also in the top eight of Grand Prix Columbus 2010"
+      ]
+    }
+  },
+  {
+    "name": "Hive Mind",
+    "slug": "hive-mind",
+    "archetype": "combo",
+    "titles": [
+      "Have Mind",
+      "Hive Mind"
+    ],
+    "rep": 208157,
+    "cover": "Hive Mind",
+    "keyCards": [
+      "Hive Mind",
+      "Pact of the Titan",
+      "Pact of Negation",
+      "Show and Tell",
+      "Intuition"
+    ],
+    "summary": {
+      "fr": "Hive Mind copiait pour l'adversaire chaque Pact lancé gratuitement ; incapable de payer au tour suivant, il perdait la partie.",
+      "en": "Hive Mind copied each free Pact for the opponent, who could not pay for it on the next upkeep and lost the game."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au tournoi Legacy du samedi des Championnats du monde 2010",
+        "Show and Tell permettait de poser Hive Mind dès le deuxième tour"
+      ],
+      "en": [
+        "Top eights at the Saturday Legacy event of the 2010 World Championships",
+        "Show and Tell put Hive Mind into play as early as turn two"
+      ]
+    }
+  },
+  {
+    "name": "CounterTop",
+    "slug": "countertop",
+    "archetype": "control",
+    "titles": [
+      "Four-color Counterbalance",
+      "Countertop",
+      "CounterTop ProBant",
+      "Progenitus Bant",
+      "CounterTop Bant",
+      "Countertop Bant",
+      "Bant",
+      "Supreme blue",
+      "UW Counterbalance",
+      "wU Countertop",
+      "Baseruption",
+      "Bant Aggro",
+      "Bant Aggro (Zasca Team)",
+      "UW Landstill"
+    ],
+    "rep": 195741,
+    "cover": "Counterbalance",
+    "keyCards": [
+      "Counterbalance",
+      "Sensei's Divining Top",
+      "Tarmogoyf",
+      "Jace, the Mind Sculptor",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Counterbalance et Sensei's Divining Top contraient les sorts au coût de la carte du dessus ; Jace, the Mind Sculptor, issu de Worldwake, rejoignait Tarmogoyf.",
+      "en": "Counterbalance and Sensei's Divining Top countered spells matching the top card's cost; Jace, the Mind Sculptor, from Worldwake, joined Tarmogoyf."
+    },
+    "why": {
+      "fr": [
+        "Tom Martell a fini deuxième du Grand Prix Columbus 2010",
+        "A gagné le tournoi Legacy du dimanche des Championnats du monde 2010 (Kazuho Sasou)"
+      ],
+      "en": [
+        "Tom Martell finished second at Grand Prix Columbus 2010",
+        "Won the Sunday Legacy event of the 2010 World Championships (Kazuho Sasou)"
+      ]
+    }
+  },
+  {
+    "name": "New Horizons",
+    "slug": "new-horizons",
+    "archetype": "tempo",
+    "titles": [
+      "New Horizons",
+      "New horizons"
+    ],
+    "rep": 207958,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Noble Hierarch",
+      "Tarmogoyf",
+      "Stifle",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo vert-bleu à Knight of the Reliquary : Stifle et Wasteland privaient l'adversaire de mana, Tarmogoyf et Knight frappaient.",
+      "en": "Green-blue tempo with Knight of the Reliquary: Stifle and Wasteland starved the opponent of mana while Tarmogoyf and Knight attacked."
+    },
+    "why": {
+      "fr": [
+        "Deuxième du tournoi annexe Legacy des Championnats du monde 2010 (Hisashi Udagawa)",
+        "Top 8 à El Nucli en Espagne"
+      ],
+      "en": [
+        "Second at the Legacy side event of the 2010 World Championships (Hisashi Udagawa)",
+        "Top eights at El Nucli in Spain"
+      ]
+    }
+  },
+  {
+    "name": "Landstill",
+    "slug": "landstill",
+    "archetype": "control",
+    "titles": [
+      "Landstill",
+      "Landstill UW",
+      "UWr Landstill",
+      "Standstill from the loam"
+    ],
+    "rep": 195742,
+    "cover": "Standstill",
+    "keyCards": [
+      "Standstill",
+      "Jace, the Mind Sculptor",
+      "Pernicious Deed",
+      "Counterspell",
+      "Force of Will",
+      "Cunning Wish"
+    ],
+    "summary": {
+      "fr": "Standstill et les contre-sorts tenaient la partie, Pernicious Deed et Swords to Plowshares répondaient aux créatures, Jace, the Mind Sculptor piochait.",
+      "en": "Standstill and counterspells held the game, Pernicious Deed and Swords to Plowshares answered creatures and Jace, the Mind Sculptor drew cards."
+    },
+    "why": {
+      "fr": [
+        "Jason Ford a atteint le top 4 du Grand Prix Columbus 2010",
+        "Victoire à El Nucli en décembre (Lucas Mercader)"
+      ],
+      "en": [
+        "Jason Ford reached the top four of Grand Prix Columbus 2010",
+        "Won at El Nucli in December (Lucas Mercader)"
+      ]
+    }
+  },
+  {
+    "name": "Team America",
+    "slug": "team-america",
+    "archetype": "tempo",
+    "titles": [
+      "Team America",
+      "Team america"
+    ],
+    "rep": 208145,
+    "cover": "Tarmogoyf",
+    "keyCards": [
+      "Tarmogoyf",
+      "Hymn to Tourach",
+      "Snuff Out",
+      "Thoughtseize",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir-vert : Tarmogoyf derrière Daze et Force of Will, Hymn to Tourach et Thoughtseize pour la main adverse, Snuff Out gratuit pour les créatures.",
+      "en": "Blue-black-green tempo: Tarmogoyf behind Daze and Force of Will, Hymn to Tourach and Thoughtseize for the opponent's hand, a free Snuff Out for creatures."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi Legacy du samedi des Championnats du monde 2010 (Masateru Okuda)",
+        "Deuxième au Tokyo's Eternal Festival en septembre"
+      ],
+      "en": [
+        "Won the Saturday Legacy event of the 2010 World Championships (Masateru Okuda)",
+        "Second at Tokyo's Eternal Festival in September"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins",
+      "Goblin",
+      "Goblin (Zasca Team)",
+      "Goblin RBW",
+      "Goblin bling",
+      "Rb Goblins"
+    ],
+    "rep": 207377,
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Aether Vial",
+      "Goblin Matron",
+      "Goblin Ringleader",
+      "Goblin Piledriver",
+      "Goblin Warchief"
+    ],
+    "summary": {
+      "fr": "Aether Vial et Goblin Lackey posaient les gobelins, Goblin Matron et Goblin Ringleader rechargeaient la main, Goblin Piledriver et Goblin Warchief accéléraient.",
+      "en": "Aether Vial and Goblin Lackey put goblins into play, Goblin Matron and Goblin Ringleader refilled the hand, and Goblin Piledriver and Goblin Warchief sped things up."
+    },
+    "why": {
+      "fr": [
+        "Top 4 aux Opens SCG de Boston (Jim Davis) et de Charlotte",
+        "Mogg War Marshal et Goblin Chieftain complétaient les listes"
+      ],
+      "en": [
+        "Top four at the SCG Opens in Boston (Jim Davis) and Charlotte",
+        "Mogg War Marshal and Goblin Chieftain rounded out the lists"
+      ]
+    }
+  },
+  {
+    "name": "Belcher",
+    "slug": "belcher",
+    "archetype": "combo",
+    "titles": [
+      "Belcher",
+      "1 Land Belcher",
+      "2-lands Belcher"
+    ],
+    "rep": 208138,
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Burning Wish",
+      "Elvish Spirit Guide",
+      "Simian Spirit Guide",
+      "Tinder Wall",
+      "Land Grant"
+    ],
+    "summary": {
+      "fr": "Un ou deux terrains : rituels, Spirit Guides et Tinder Wall activaient Goblin Charbelcher dès le premier tour, Burning Wish allait chercher Empty the Warrens.",
+      "en": "One or two lands: rituals, Spirit Guides and Tinder Wall activated Goblin Charbelcher on turn one, and Burning Wish fetched Empty the Warrens."
+    },
+    "why": {
+      "fr": [
+        "Deuxième du tournoi Legacy du dimanche des Championnats du monde 2010 (Chisato Narita)",
+        "Victoire à Zurich en novembre"
+      ],
+      "en": [
+        "Second at the Sunday Legacy event of the 2010 World Championships (Chisato Narita)",
+        "Won in Zurich in November"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Aggro loam",
+      "Aggro Loam",
+      "Devastating Loam"
+    ],
+    "rep": 207846,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Chalice of the Void",
+      "Mox Diamond",
+      "Countryside Crusher",
+      "Dark Confidant",
+      "Seismic Assault"
+    ],
+    "summary": {
+      "fr": "Life from the Loam recyclait Wasteland et les terrains cyclables, Seismic Assault les changeait en dégâts ; Chalice of the Void sur zéro ou un ralentissait l'adversaire.",
+      "en": "Life from the Loam recycled Wasteland and cycling lands, Seismic Assault turned them into damage; Chalice of the Void on zero or one slowed the opponent."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Open SCG de Richmond (James Miller)",
+        "Top 8 aux KING#2 et KING#3 en Italie"
+      ],
+      "en": [
+        "Top four at the SCG Open in Richmond (James Miller)",
+        "Top eights at KING#2 and KING#3 in Italy"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Renimator"
+    ],
+    "rep": 195790,
+    "cover": "Exhume",
+    "keyCards": [
+      "Exhume",
+      "Entomb",
+      "Reanimate",
+      "Careful Study",
+      "Mystical Tutor",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Entomb ou Careful Study mettait une grosse créature au cimetière, Exhume ou Reanimate la ramenait dès le premier ou le deuxième tour.",
+      "en": "Entomb or Careful Study put a big creature in the graveyard, and Exhume or Reanimate brought it back on turn one or two."
+    },
+    "why": {
+      "fr": [
+        "Andreas Muller a gagné le Grand Prix Madrid 2010",
+        "Mystical Tutor, banni en juin 2010, allait chercher le sort de réanimation"
+      ],
+      "en": [
+        "Andreas Muller won Grand Prix Madrid 2010",
+        "Mystical Tutor, banned in June 2010, found the reanimation spell"
+      ]
+    }
+  },
+  {
+    "name": "Threshold",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Thresh UGb",
+      "Thresh UGr",
+      "Canadian Threshold",
+      "UGb Threshold"
+    ],
+    "rep": 207362,
+    "cover": "Nimble Mongoose",
+    "keyCards": [
+      "Nimble Mongoose",
+      "Tarmogoyf",
+      "Dark Confidant",
+      "Stifle",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo à Nimble Mongoose et Tarmogoyf ; Stifle, Daze et Wasteland ralentissaient l'adversaire, avec Dark Confidant en noir ou Lightning Bolt en rouge.",
+      "en": "Tempo with Nimble Mongoose and Tarmogoyf; Stifle, Daze and Wasteland slowed the opponent, with black for Dark Confidant or red for Lightning Bolt."
+    },
+    "why": {
+      "fr": [
+        "Top 8 aux championnats néerlandais d'Eternal (Dennis Kampelmann) et à Nuremberg",
+        "Canadian Threshold a fini dans le top 4 de l'Open SCG de Nashville"
+      ],
+      "en": [
+        "Top eights at the Dutch Eternal Championships (Dennis Kampelmann) and in Nuremberg",
+        "Canadian Threshold reached the top four of the SCG Open in Nashville"
+      ]
+    }
+  },
+  {
+    "name": "Dreadstill",
+    "slug": "dreadstill",
+    "archetype": "control",
+    "titles": [
+      "Dreadstill",
+      "Urban Dread"
+    ],
+    "rep": 185610,
+    "cover": "Phyrexian Dreadnought",
+    "keyCards": [
+      "Phyrexian Dreadnought",
+      "Stifle",
+      "Standstill",
+      "Counterbalance",
+      "Spell Snare",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Stifle contrait le sacrifice de Phyrexian Dreadnought, une 12/12 pour un mana ; Standstill et Counterbalance protégeaient l'avance.",
+      "en": "Stifle countered Phyrexian Dreadnought's sacrifice trigger, leaving a 12/12 for one mana; Standstill and Counterbalance protected the lead."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Bazaar of Moxen (Simon Ritzka), top 4 à l'Open SCG de Boston",
+        "Spell Snare répondait à Tarmogoyf et Counterbalance"
+      ],
+      "en": [
+        "Second at Bazaar of Moxen (Simon Ritzka), top four at the SCG Open in Boston",
+        "Spell Snare answered Tarmogoyf and Counterbalance"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elfball",
+      "Elf Combo",
+      "Elves"
+    ],
+    "rep": 207967,
+    "cover": "Glimpse of Nature",
+    "keyCards": [
+      "Glimpse of Nature",
+      "Heritage Druid",
+      "Nettle Sentinel",
+      "Wirewood Symbiote",
+      "Birchlore Rangers",
+      "Priest of Titania"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Heritage Druid et Nettle Sentinel produisaient du mana à chaque elfe posé, Glimpse of Nature faisait piocher toute la meute.",
+      "en": "Elf combo: Heritage Druid and Nettle Sentinel made mana with each elf cast, and Glimpse of Nature drew the whole pack."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à El Nucli, top 8 à la finale de la Legacy France Cup",
+        "Wirewood Symbiote relançait les elfes qui piochent"
+      ],
+      "en": [
+        "Top four at El Nucli, top eight at the Legacy France Cup final",
+        "Wirewood Symbiote replayed the card-drawing elves"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday",
+      "Ugly Duckling"
+    ],
+    "rep": 207788,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Lion's Eye Diamond",
+      "Infernal Tutor",
+      "Sensei's Divining Top",
+      "Orim's Chant",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies ; Lion's Eye Diamond et des sorts de pioche les parcouraient jusqu'à un Tendrils of Agony final.",
+      "en": "Doomsday cut the library to five chosen cards; Lion's Eye Diamond and draw spells went through them to a final Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Christoph Alsheimer a gagné à Nuremberg en décembre",
+        "Une version bleue a fini dans le top 8 du Grand Prix Columbus 2010"
+      ],
+      "en": [
+        "Christoph Alsheimer won in Nuremberg in December",
+        "A blue version made the top eight of Grand Prix Columbus 2010"
+      ]
+    }
+  },
+  {
+    "name": "UW Aggro",
+    "slug": "uw-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "UW Aggro",
+      "Weenie Uhite",
+      "Weenie White with U"
+    ],
+    "rep": 207845,
+    "cover": "Weathered Wayfarer",
+    "keyCards": [
+      "Weathered Wayfarer",
+      "Fathom Seer",
+      "Serra Avenger",
+      "Mother of Runes",
+      "Stoneforge Mystic",
+      "Umezawa's Jitte"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches protégées par Mother of Runes, Force of Will et Daze ; Weathered Wayfarer et Fathom Seer donnaient l'avantage de cartes, Umezawa's Jitte armait.",
+      "en": "Small white creatures protected by Mother of Runes, Force of Will and Daze; Weathered Wayfarer and Fathom Seer gave card advantage and Umezawa's Jitte armed them."
+    },
+    "why": {
+      "fr": [
+        "Deuxième de l'Open SCG de Richmond en décembre",
+        "Top 4 au KING#2 en Italie"
+      ],
+      "en": [
+        "Second at the SCG Open in Richmond in December",
+        "Top four at KING#2 in Italy"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Rw Burn",
+      "Burn",
+      "Burn !",
+      "Burn!",
+      "TKG-RDW"
+    ],
+    "rep": 206873,
+    "cover": "Goblin Guide",
+    "keyCards": [
+      "Goblin Guide",
+      "Lightning Bolt",
+      "Chain Lightning",
+      "Price of Progress",
+      "Fireblast",
+      "Grim Lavamancer"
+    ],
+    "summary": {
+      "fr": "Rouge agressif : Goblin Guide, nouveau venu de Zendikar, puis Lightning Bolt et Chain Lightning ; Price of Progress punissait les terrains doubles, Fireblast finissait.",
+      "en": "Aggressive red: Goblin Guide, new in Zendikar, then Lightning Bolt and Chain Lightning; Price of Progress punished dual lands and Fireblast finished."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Ovino V à Milan en septembre",
+        "Searing Blaze et Grim Lavamancer complétaient les listes"
+      ],
+      "en": [
+        "Won Ovino V in Milan in September",
+        "Searing Blaze and Grim Lavamancer rounded out the lists"
+      ]
+    }
+  }
+]

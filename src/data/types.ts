@@ -81,7 +81,8 @@ export type LimitedStats = {
   setWinRate: number
 }
 
-export type Ban = { date: string; cards: string[] }
+/** a ban, or with `restricted` a restriction to one copy (Vintage) */
+export type Ban = { date: string; cards: string[]; restricted?: boolean }
 
 export type Season = {
   id: string
