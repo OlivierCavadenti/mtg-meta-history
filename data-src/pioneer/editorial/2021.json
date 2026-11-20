@@ -1,0 +1,979 @@
+[
+ {
+  "name": "Izzet Phoenix",
+  "slug": "izzet-phoenix",
+  "archetype": "tempo",
+  "titles": [
+   "Izzet Arclight",
+   "Izzet Phoenix",
+   "Arclight Izzet",
+   "Arclight Jeskai"
+  ],
+  "cover": "Arclight Phoenix",
+  "keyCards": [
+   "Arclight Phoenix",
+   "Treasure Cruise",
+   "Expressive Iteration",
+   "Thing in the Ice",
+   "Chart a Course"
+  ],
+  "summary": {
+   "fr": "Deck de sorts Izzet : sorts bon marché et défausses ramènent Arclight Phoenix du cimetière, Treasure Cruise recharge la main.",
+   "en": "Izzet spells deck: cheap spells and discard outlets bring Arclight Phoenix back from the graveyard, while Treasure Cruise refills the hand."
+  },
+  "why": {
+   "fr": [
+    "Expressive Iteration (Strixhaven) ajoutait de la sélection au compte de sorts",
+    "Thing in the Ice et Crackling Drake offraient un second plan à côté du Phoenix",
+    "Deck le plus présent en top 8 sur la saison dans les résultats relevés"
+   ],
+   "en": [
+    "Expressive Iteration (Strixhaven) added card selection to the spell count",
+    "Thing in the Ice and Crackling Drake gave a second plan beside the Phoenix",
+    "The most frequent deck in top 8s over the season in the scraped results"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Black Aggro",
+  "slug": "mono-black-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Mono Black Aggro",
+   "Mono-black Vampires",
+   "Mono-black Aggro"
+  ],
+  "cover": "Knight of the Ebon Legion",
+  "keyCards": [
+   "Knight of the Ebon Legion",
+   "Bloodsoaked Champion",
+   "Dread Wanderer",
+   "Rankle, Master of Pranks",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Aggro mono-noir aux petites créatures récursives, appuyé par Thoughtseize et Fatal Push, avec Rankle, Master of Pranks en haut de courbe.",
+   "en": "Mono-black aggro with recursive one- and two-drops, backed by Thoughtseize and Fatal Push and topped by Rankle, Master of Pranks."
+  },
+  "why": {
+   "fr": [
+    "Bloodsoaked Champion et Dread Wanderer revenaient du cimetière après un removal",
+    "Knight of the Ebon Legion passait de deux-drop à menace de fin de partie",
+    "Thoughtseize et Fatal Push répondaient aussi bien aux combos qu'aux créatures"
+   ],
+   "en": [
+    "Bloodsoaked Champion and Dread Wanderer came back from the graveyard after removal",
+    "Knight of the Ebon Legion scaled from early drop to late-game threat",
+    "Thoughtseize and Fatal Push answered combo and creature decks alike"
+   ]
+  }
+ },
+ {
+  "name": "Boros Burn",
+  "slug": "boros-burn",
+  "archetype": "aggro",
+  "titles": [
+   "RDW",
+   "Lurrus Prowess",
+   "Boros Burn"
+  ],
+  "cover": "Boros Charm",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Soul-Scar Mage",
+   "Eidolon of the Great Revel",
+   "Boros Charm",
+   "Light Up the Stage"
+  ],
+  "summary": {
+   "fr": "Burn rouge avec un splash blanc pour Boros Charm : créatures à prouesse, Eidolon of the Great Revel et une forte densité de sorts de dégâts.",
+   "en": "Red burn splashing white for Boros Charm: prowess creatures, Eidolon of the Great Revel and a dense count of burn spells aimed at the opponent."
+  },
+  "why": {
+   "fr": [
+    "Boros Charm infligeait quatre dégâts à l'adversaire pour deux manas",
+    "Light Up the Stage rechargeait la main en milieu de partie",
+    "Ghitu Lavarunner et Viashino Pyromancer réduisaient Wizard's Lightning à un mana"
+   ],
+   "en": [
+    "Boros Charm dealt four damage to the opponent for two mana",
+    "Light Up the Stage refuelled the hand in the mid game",
+    "Ghitu Lavarunner and Viashino Pyromancer made Wizard's Lightning cost one"
+   ]
+  },
+  "include": [
+   441927,
+   440355,
+   438680
+  ]
+ },
+ {
+  "name": "Jund Sacrifice",
+  "slug": "jund-sacrifice",
+  "archetype": "midrange",
+  "titles": [
+   "Jund",
+   "Jund Citadel"
+  ],
+  "cover": "Mayhem Devil",
+  "keyCards": [
+   "Mayhem Devil",
+   "Bolas's Citadel",
+   "Prosperous Innkeeper",
+   "Woe Strider",
+   "Collected Company"
+  ],
+  "summary": {
+   "fr": "Deck sacrifice Jund : Woe Strider, Catacomb Sifter et Priest of Forgotten Gods alimentent Mayhem Devil, avec Collected Company et Bolas's Citadel.",
+   "en": "Jund sacrifice deck: Woe Strider, Catacomb Sifter and Priest of Forgotten Gods feed Mayhem Devil, with Collected Company and Bolas's Citadel for card flow."
+  },
+  "why": {
+   "fr": [
+    "Prosperous Innkeeper (Forgotten Realms) faisait gagner de la vie à chaque créature",
+    "Bolas's Citadel payait les sorts avec les points de vie",
+    "Mayhem Devil transformait chaque sacrifice et chaque Trésor en dégâts"
+   ],
+   "en": [
+    "Prosperous Innkeeper (Forgotten Realms) gained life off every creature",
+    "Bolas's Citadel paid for spells with the life total",
+    "Mayhem Devil turned each sacrifice and Treasure into damage"
+   ]
+  }
+ },
+ {
+  "name": "Niv to Light",
+  "slug": "niv-to-light",
+  "archetype": "midrange",
+  "titles": [
+   "Niv-Mizzet Reborn",
+   "5c Niv-mizzet",
+   "Niv To Light",
+   "GBURW",
+   "Niv Yorion",
+   "Niv Mizzet Reborn"
+  ],
+  "cover": "Niv-Mizzet Reborn",
+  "keyCards": [
+   "Niv-Mizzet Reborn",
+   "Bring to Light",
+   "Sylvan Caryatid",
+   "Valki, God of Lies",
+   "Yorion, Sky Nomad"
+  ],
+  "summary": {
+   "fr": "Milieu de gamme cinq couleurs bâti sur des cartes multicolores : Bring to Light va chercher Niv-Mizzet Reborn ou un removal, Sylvan Caryatid fixe le mana.",
+   "en": "Five-color midrange built on gold cards: Bring to Light fetches Niv-Mizzet Reborn or a removal spell, Sylvan Caryatid fixes the mana."
+  },
+  "why": {
+   "fr": [
+    "Bring to Light servait de tuteur pour Niv-Mizzet Reborn ou la bonne réponse",
+    "Valki, God of Lies et Binding the Old Gods de Kaldheim rejoignaient les listes",
+    "Certaines versions jouaient Yorion, Sky Nomad en compagnon avec 80 cartes"
+   ],
+   "en": [
+    "Bring to Light tutored for Niv-Mizzet Reborn or the right answer",
+    "Kaldheim's Valki, God of Lies and Binding the Old Gods joined the lists",
+    "Some versions ran Yorion, Sky Nomad as an 80-card companion"
+   ]
+  },
+  "include": [
+   431559,
+   430871
+  ]
+ },
+ {
+  "name": "Rakdos Arcanist",
+  "slug": "rakdos-arcanist",
+  "archetype": "aggro",
+  "titles": [
+   "Rakdos Aggro"
+  ],
+  "cover": "Dreadhorde Arcanist",
+  "keyCards": [
+   "Dreadhorde Arcanist",
+   "Stitcher's Supplier",
+   "Village Rites",
+   "Kroxa, Titan of Death's Hunger",
+   "Young Pyromancer"
+  ],
+  "summary": {
+   "fr": "Deck cimetière Rakdos : Stitcher's Supplier et Village Rites remplissent le cimetière pour Kroxa, Dreadhorde Arcanist relance les sorts bon marché.",
+   "en": "Rakdos graveyard deck: Stitcher's Supplier and Village Rites stock the graveyard for Kroxa, while Dreadhorde Arcanist recasts cheap spells."
+  },
+  "why": {
+   "fr": [
+    "Dreadhorde Arcanist relançait Thoughtseize ou Village Rites depuis le cimetière",
+    "Kroxa, Titan of Death's Hunger revenait plusieurs fois par escape",
+    "Young Pyromancer créait des jetons à partir des mêmes sorts"
+   ],
+   "en": [
+    "Dreadhorde Arcanist recast Thoughtseize or Village Rites from the graveyard",
+    "Kroxa, Titan of Death's Hunger came back again and again through escape",
+    "Young Pyromancer made tokens off the same spells"
+   ]
+  }
+ },
+ {
+  "name": "Dimir Control",
+  "slug": "dimir-control",
+  "archetype": "control",
+  "titles": [
+   "Dimir Control",
+   "Sultai Delver",
+   "Rogues Aggro",
+   "DimirControl",
+   "Dimir Rogue",
+   "Dimir Aggro"
+  ],
+  "cover": "Torrential Gearhulk",
+  "keyCards": [
+   "Shark Typhoon",
+   "Torrential Gearhulk",
+   "Dig Through Time",
+   "Sinister Sabotage",
+   "Fatal Push"
+  ],
+  "summary": {
+   "fr": "Contrôle bleu-noir en réaction : contresorts, Fatal Push et balais, avec Shark Typhoon et Torrential Gearhulk comme menaces à vitesse instantanée.",
+   "en": "Blue-black draw-go control: counterspells, Fatal Push and sweepers, with Shark Typhoon and Torrential Gearhulk as instant-speed threats."
+  },
+  "why": {
+   "fr": [
+    "Shark Typhoon se cyclait tôt ou devenait une menace en fin de tour",
+    "Extinction Event et Shadows' Verdict balayaient les decks de créatures",
+    "Certaines listes ajoutaient du rouge pour Magma Opus"
+   ],
+   "en": [
+    "Shark Typhoon cycled early or became an end-of-turn threat",
+    "Extinction Event and Shadows' Verdict swept creature decks",
+    "Some lists splashed red for Magma Opus"
+   ]
+  }
+ },
+ {
+  "name": "Lotus Field Combo",
+  "slug": "lotus-field-combo",
+  "archetype": "combo",
+  "titles": [
+   "Lotus Field",
+   "Lotus Field Combo",
+   "Lotus Combo"
+  ],
+  "cover": "Hidden Strings",
+  "keyCards": [
+   "Hidden Strings",
+   "Pore Over the Pages",
+   "Vizier of Tumbling Sands",
+   "Emergent Ultimatum",
+   "Fae of Wishes"
+  ],
+  "summary": {
+   "fr": "Combo autour de Lotus Field : les sorts de dégagement comme Hidden Strings et Pore Over the Pages produisent mana et cartes jusqu'à trouver la conclusion.",
+   "en": "Combo deck around Lotus Field: untap spells such as Hidden Strings and Pore Over the Pages generate mana and cards until the finisher is found."
+  },
+  "why": {
+   "fr": [
+    "Chaque effet de dégagement sur Lotus Field rapportait du mana",
+    "Vizier of Tumbling Sands dégageait Lotus Field ou se cyclait",
+    "Emergent Ultimatum et Fae of Wishes allaient chercher les pièces finales"
+   ],
+   "en": [
+    "Each untap effect on Lotus Field netted mana",
+    "Vizier of Tumbling Sands untapped Lotus Field or cycled",
+    "Emergent Ultimatum and Fae of Wishes found the finishing pieces"
+   ]
+  }
+ },
+ {
+  "name": "Mono-Green Devotion",
+  "slug": "mono-green-devotion",
+  "archetype": "ramp",
+  "titles": [
+   "Devotion to Green",
+   "Devcotion to Green"
+  ],
+  "cover": "Nissa, Who Shakes the World",
+  "keyCards": [
+   "Nissa, Who Shakes the World",
+   "Karn, the Great Creator",
+   "Vivien, Arkbow Ranger",
+   "Voracious Hydra",
+   "Burning-Tree Emissary"
+  ],
+  "summary": {
+   "fr": "Rampe mono-verte autour de Nykthos, Shrine to Nyx : créatures à mana et permanents verts alimentent Nissa, Who Shakes the World et Karn, the Great Creator.",
+   "en": "Mono-green ramp on Nykthos, Shrine to Nyx: mana creatures and green permanents fuel Nissa, Who Shakes the World and Karn, the Great Creator."
+  },
+  "why": {
+   "fr": [
+    "Nissa doublait le mana des Forest et de Nykthos",
+    "Karn, the Great Creator allait chercher des artefacts dans la réserve",
+    "Vorinclex, Monstrous Raider de Kaldheim rejoignait des listes en cours d'année"
+   ],
+   "en": [
+    "Nissa doubled the mana from Forests and Nykthos",
+    "Karn, the Great Creator fetched artifacts from the sideboard",
+    "Kaldheim's Vorinclex, Monstrous Raider joined lists during the year"
+   ]
+  }
+ },
+ {
+  "name": "Bant Spirits",
+  "slug": "bant-spirits",
+  "archetype": "tempo",
+  "titles": [
+   "Spirit Aggro",
+   "Bant Spirits"
+  ],
+  "cover": "Supreme Phantom",
+  "keyCards": [
+   "Supreme Phantom",
+   "Spell Queller",
+   "Collected Company",
+   "Mausoleum Wanderer",
+   "Empyrean Eagle"
+  ],
+  "summary": {
+   "fr": "Tribal Spirit aux créatures à flash et aux seigneurs, avec un splash vert pour Collected Company.",
+   "en": "Spirit tribal built on flash creatures and lords, splashing green for Collected Company."
+  },
+  "why": {
+   "fr": [
+    "Collected Company mettait deux Spirits en jeu à vitesse instantanée",
+    "Spell Queller et Mausoleum Wanderer perturbaient les sorts adverses",
+    "Supreme Phantom et Empyrean Eagle renforçaient les autres Spirits"
+   ],
+   "en": [
+    "Collected Company put two Spirits onto the battlefield at instant speed",
+    "Spell Queller and Mausoleum Wanderer disrupted opposing spells",
+    "Supreme Phantom and Empyrean Eagle pumped the other Spirits"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Spirits",
+  "slug": "azorius-spirits",
+  "archetype": "tempo",
+  "titles": [
+   "UW Spirit Aggro",
+   "Mono U Spirits"
+  ],
+  "cover": "Spectral Sailor",
+  "keyCards": [
+   "Spectral Sailor",
+   "Lofty Denial",
+   "Spell Queller",
+   "Rattlechains",
+   "Supreme Phantom"
+  ],
+  "summary": {
+   "fr": "Version Spirits bicolore sans Collected Company : plus de contresorts comme Lofty Denial et une courbe plus basse de volants à flash.",
+   "en": "Two-color Spirits build without Collected Company: more counterspells such as Lofty Denial and a lower curve of flash fliers."
+  },
+  "why": {
+   "fr": [
+    "Lofty Denial taxait quatre manas dès qu'un volant était en jeu",
+    "Rattlechains donnait la défense talismanique et le flash aux autres Spirits",
+    "Quelques listes mono-bleues sont comptées ici"
+   ],
+   "en": [
+    "Lofty Denial taxed four mana once a flier was on the battlefield",
+    "Rattlechains granted hexproof and gave the other Spirits flash",
+    "A few mono-blue lists are counted here"
+   ]
+  },
+  "include": [
+   452760,
+   451158,
+   450865,
+   443361,
+   435494,
+   429552
+  ]
+ },
+ {
+  "name": "Naya Winota",
+  "slug": "winota",
+  "archetype": "aggro",
+  "titles": [
+   "Winota",
+   "Naya Winota"
+  ],
+  "cover": "Winota, Joiner of Forces",
+  "keyCards": [
+   "Winota, Joiner of Forces",
+   "Esika's Chariot",
+   "Tovolar's Huntmaster",
+   "Prosperous Innkeeper",
+   "Brutal Cathar"
+  ],
+  "summary": {
+   "fr": "Deck de créatures Naya : les attaquants non-Humains déclenchent Winota, Joiner of Forces, qui met en jeu des Humains depuis la bibliothèque.",
+   "en": "Naya creature deck: non-Human attackers trigger Winota, Joiner of Forces, which puts Humans from the library onto the battlefield."
+  },
+  "why": {
+   "fr": [
+    "Esika's Chariot (Kaldheim) créait des jetons Cat qui déclenchaient Winota",
+    "Innistrad: Midnight Hunt apportait Tovolar's Huntmaster et Brutal Cathar",
+    "Elvish Mystic et Llanowar Elves permettaient une Winota au tour trois"
+   ],
+   "en": [
+    "Esika's Chariot (Kaldheim) made Cat tokens that triggered Winota",
+    "Innistrad: Midnight Hunt added Tovolar's Huntmaster and Brutal Cathar",
+    "Elvish Mystic and Llanowar Elves allowed a turn-three Winota"
+   ]
+  }
+ },
+ {
+  "name": "Azorius Ensoul",
+  "slug": "azorius-ensoul",
+  "archetype": "aggro",
+  "titles": [
+   "UW Ensoul",
+   "Ensoul Artifacts",
+   "Jeskai Ensoul Artifact"
+  ],
+  "cover": "Ensoul Artifact",
+  "keyCards": [
+   "Ensoul Artifact",
+   "Ornithopter",
+   "Stonecoil Serpent",
+   "Ingenious Smith",
+   "Portable Hole"
+  ],
+  "summary": {
+   "fr": "Aggro artefacts : Ensoul Artifact transforme Ornithopter ou un terrain-artefact en 5/5, désormais en Azorius avec Portable Hole et Ingenious Smith.",
+   "en": "Artifact aggro: Ensoul Artifact turns Ornithopter or an artifact land into a 5/5, now in Azorius colors with Portable Hole and Ingenious Smith."
+  },
+  "why": {
+   "fr": [
+    "Springleaf Drum et Ornithopter permettaient un 5/5 au deuxième tour",
+    "Portable Hole donnait au blanc une réponse à un mana",
+    "Passé de l'Izzet à l'Azorius avec Adventures in the Forgotten Realms"
+   ],
+   "en": [
+    "Springleaf Drum and Ornithopter allowed a 5/5 on turn two",
+    "Portable Hole gave white a one-mana answer",
+    "Moved from Izzet to Azorius with Adventures in the Forgotten Realms"
+   ]
+  }
+ },
+ {
+  "name": "Jeskai Ascendancy",
+  "slug": "jeskai-ascendancy",
+  "archetype": "combo",
+  "titles": [
+   "Jeskai Ascendancy",
+   "Omnath"
+  ],
+  "cover": "Jeskai Ascendancy",
+  "keyCards": [
+   "Jeskai Ascendancy",
+   "Sylvan Caryatid",
+   "Sylvan Awakening",
+   "Expressive Iteration",
+   "Treasure Cruise"
+  ],
+  "summary": {
+   "fr": "Combo quatre couleurs : avec Jeskai Ascendancy en jeu, chaque sort bon marché dégage Sylvan Caryatid et fait piocher, jusqu'à une attaque létale.",
+   "en": "Four-color combo: with Jeskai Ascendancy out, each cheap spell untaps Sylvan Caryatid and loots, chaining spells into a lethal attack."
+  },
+  "why": {
+   "fr": [
+    "Sylvan Awakening animait les terrains, que l'Ascendancy renforçait",
+    "Expressive Iteration et Treasure Cruise entretenaient la chaîne",
+    "Omnath, Locus of Creation offrait un plan de jeu classique"
+   ],
+   "en": [
+    "Sylvan Awakening animated the lands, which the Ascendancy then pumped",
+    "Expressive Iteration and Treasure Cruise kept the chain going",
+    "Omnath, Locus of Creation gave the deck a fair plan"
+   ]
+  },
+  "include": [
+   447629,
+   447199,
+   447107,
+   444792
+  ]
+ },
+ {
+  "name": "Four-Color Fires",
+  "slug": "fires-of-invention",
+  "archetype": "control",
+  "titles": [
+   "Fires of Invention",
+   "Jeskai Fires of Invention"
+  ],
+  "cover": "Fires of Invention",
+  "keyCards": [
+   "Fires of Invention",
+   "Transmogrify",
+   "Agent of Treachery",
+   "Esika's Chariot",
+   "The Birth of Meletis"
+  ],
+  "summary": {
+   "fr": "Contrôle sous Fires of Invention : les sorts deviennent gratuits, et Transmogrify sur un jeton fait apparaître Agent of Treachery, seule créature du deck.",
+   "en": "Fires of Invention control: spells become free, and Transmogrify on a token finds Agent of Treachery, the only creature in the deck."
+  },
+  "why": {
+   "fr": [
+    "Shark Typhoon et Esika's Chariot fournissaient les jetons pour Transmogrify",
+    "Agent of Treachery volait le meilleur permanent adverse",
+    "Le splash vert pour Esika's Chariot est arrivé avec Kaldheim"
+   ],
+   "en": [
+    "Shark Typhoon and Esika's Chariot supplied tokens for Transmogrify",
+    "Agent of Treachery stole the opponent's best permanent",
+    "The green splash for Esika's Chariot came with Kaldheim"
+   ]
+  }
+ },
+ {
+  "name": "Orzhov Auras",
+  "slug": "orzhov-auras",
+  "archetype": "aggro",
+  "titles": [
+   "Orzhov Sram",
+   "Orzhov Auras"
+  ],
+  "cover": "Sram, Senior Edificer",
+  "keyCards": [
+   "Sram, Senior Edificer",
+   "Alseid of Life's Bounty",
+   "All That Glitters",
+   "Ethereal Armor",
+   "Hateful Eidolon"
+  ],
+  "summary": {
+   "fr": "Aggro auras : enchantements bon marché sur Alseid of Life's Bounty ou Hateful Eidolon, Sram, Senior Edificer piochant une carte à chaque aura.",
+   "en": "Aura aggro: cheap enchantments on Alseid of Life's Bounty or Hateful Eidolon, with Sram, Senior Edificer drawing a card for each one."
+  },
+  "why": {
+   "fr": [
+    "All That Glitters et Ethereal Armor grandissaient avec chaque enchantement",
+    "Alseid of Life's Bounty protégeait la créature enchantée",
+    "Quelques listes Selesnya sont comptées ici"
+   ],
+   "en": [
+    "All That Glitters and Ethereal Armor grew with every enchantment",
+    "Alseid of Life's Bounty protected the enchanted creature",
+    "A few Selesnya lists are counted here"
+   ]
+  }
+ },
+ {
+  "name": "Boros Heroic",
+  "slug": "boros-heroic",
+  "archetype": "aggro",
+  "titles": [
+   "Boros Aggro",
+   "Boros Feather"
+  ],
+  "cover": "Favored Hoplite",
+  "keyCards": [
+   "Favored Hoplite",
+   "Gods Willing",
+   "Reckless Rage",
+   "Monastery Swiftspear",
+   "Tenth District Legionnaire"
+  ],
+  "summary": {
+   "fr": "Aggro heroic : petites créatures ciblées par des sorts de protection et de renfort, Favored Hoplite et Tenth District Legionnaire grandissant à chacun.",
+   "en": "Heroic aggro: cheap creatures targeted by protection and pump spells, with Favored Hoplite and Tenth District Legionnaire growing each time."
+  },
+  "why": {
+   "fr": [
+    "Gods Willing protégeait la menace et permettait de regarder le dessus",
+    "Reckless Rage servait de removal avec un déclenchement heroic",
+    "Dreadhorde Arcanist relançait les sorts à un mana"
+   ],
+   "en": [
+    "Gods Willing protected the threat and scried",
+    "Reckless Rage was removal that also triggered heroic",
+    "Dreadhorde Arcanist recast the one-mana spells"
+   ]
+  },
+  "include": [
+   428216
+  ]
+ },
+ {
+  "name": "Gruul Aggro",
+  "slug": "gruul-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Gruul Aggro",
+   "Bard Class",
+   "Gruul Midrange",
+   "Bardic Gruul",
+   "Gruul Dinosaurs"
+  ],
+  "cover": "Embercleave",
+  "keyCards": [
+   "Embercleave",
+   "Glorybringer",
+   "Bonecrusher Giant",
+   "Gruul Spellbreaker",
+   "Lovestruck Beast"
+  ],
+  "summary": {
+   "fr": "Aggro-midrange rouge-vert : elfes à mana, Bonecrusher Giant et Lovestruck Beast, conclus par Embercleave ou Glorybringer.",
+   "en": "Red-green aggro-midrange with mana elves, Bonecrusher Giant and Lovestruck Beast, finished by Embercleave or Glorybringer."
+  },
+  "why": {
+   "fr": [
+    "Embercleave coûtait moins cher avec plusieurs attaquants",
+    "Bonecrusher Giant et Lovestruck Beast valaient deux sorts chacun",
+    "Listes variées, des versions Bard Class aux midrange Glorybringer"
+   ],
+   "en": [
+    "Embercleave cost less with several attackers",
+    "Bonecrusher Giant and Lovestruck Beast were two spells each",
+    "Lists varied, from Bard Class builds to Glorybringer midrange"
+   ]
+  }
+ },
+ {
+  "name": "Sultai Reclamation",
+  "slug": "wilderness-reclamation",
+  "archetype": "control",
+  "titles": [
+   "Sultai Control",
+   "Temur Reclamation"
+  ],
+  "cover": "Wilderness Reclamation",
+  "keyCards": [
+   "Wilderness Reclamation",
+   "Uro, Titan of Nature's Wrath",
+   "Shark Typhoon",
+   "Thassa's Intervention",
+   "Sinister Sabotage"
+  ],
+  "summary": {
+   "fr": "Contrôle à vitesse instantanée : Wilderness Reclamation dégage les terrains en fin de tour pour garder contresorts, Shark Typhoon et Thassa's Intervention.",
+   "en": "Instant-speed control: Wilderness Reclamation untaps the lands at end of turn, so the deck can hold up counterspells, Shark Typhoon and Thassa's Intervention."
+  },
+  "why": {
+   "fr": [
+    "Uro, Titan of Nature's Wrath gagnait de la vie, accélérait puis revenait par escape",
+    "Le noir ajoutait Fatal Push et Shadows' Verdict ; la version Temur est comptée ici",
+    "Fin du deck avec le bannissement de Wilderness Reclamation et Uro le 15 février"
+   ],
+   "en": [
+    "Uro, Titan of Nature's Wrath gained life, ramped, then returned through escape",
+    "Black added Fatal Push and Shadows' Verdict; the Temur build is counted here",
+    "Ended with the February 15 ban of Wilderness Reclamation and Uro"
+   ]
+  },
+  "exclude": [
+   455304,
+   440351,
+   431377
+  ]
+ },
+ {
+  "name": "Mono-Red Aggro",
+  "slug": "mono-red-aggro",
+  "archetype": "aggro",
+  "titles": [
+   "Red Deck Wins"
+  ],
+  "cover": "Monastery Swiftspear",
+  "keyCards": [
+   "Monastery Swiftspear",
+   "Bomat Courier",
+   "Soul-Scar Mage",
+   "Bonecrusher Giant",
+   "Light Up the Stage"
+  ],
+  "summary": {
+   "fr": "Prouesse et burn mono-rouge sans splash blanc, avec Bomat Courier et Bonecrusher Giant pour recharger la main.",
+   "en": "Mono-red prowess and burn without the white splash, using Bomat Courier and Bonecrusher Giant to keep the hand stocked."
+  },
+  "why": {
+   "fr": [
+    "Bomat Courier rendait une main vide en fin de partie",
+    "Bonecrusher Giant servait de removal puis de créature",
+    "Même suite de burn que Boros Burn : Lightning Strike, Wild Slash"
+   ],
+   "en": [
+    "Bomat Courier refilled an empty hand late in the game",
+    "Bonecrusher Giant was removal first, then a creature",
+    "Same burn suite as Boros Burn: Lightning Strike, Wild Slash"
+   ]
+  }
+ },
+ {
+  "name": "Enigmatic Fires",
+  "slug": "enigmatic-fires",
+  "archetype": "midrange",
+  "titles": [
+   "Enigmatic Fire"
+  ],
+  "cover": "Enigmatic Incarnation",
+  "keyCards": [
+   "Enigmatic Incarnation",
+   "Fires of Invention",
+   "Nylea's Presence",
+   "Omen of the Sea",
+   "Trial of Ambition"
+  ],
+  "summary": {
+   "fr": "Boîte à outils cinq couleurs : Enigmatic Incarnation sacrifie un enchantement bon marché à chaque tour pour aller chercher une créature d'un mana de plus.",
+   "en": "Five-color toolbox: Enigmatic Incarnation sacrifices a cheap enchantment each turn to fetch a creature costing one more."
+  },
+  "why": {
+   "fr": [
+    "Une créature unique à chaque coût formait la boîte à outils",
+    "Des enchantements bon marché comme Nylea's Presence servaient de fourrage",
+    "Fires of Invention lançait le reste de la main gratuitement"
+   ],
+   "en": [
+    "A singleton creature at each mana value formed the toolbox",
+    "Cheap enchantments such as Nylea's Presence were the fodder",
+    "Fires of Invention cast the rest of the hand for free"
+   ]
+  }
+ },
+ {
+  "name": "Omnath Ramp",
+  "slug": "omnath-ramp",
+  "archetype": "ramp",
+  "titles": [
+   "Omnath Ramp"
+  ],
+  "cover": "Omnath, Locus of Creation",
+  "keyCards": [
+   "Omnath, Locus of Creation",
+   "Lotus Cobra",
+   "Uro, Titan of Nature's Wrath",
+   "Escape to the Wilds",
+   "Genesis Ultimatum"
+  ],
+  "summary": {
+   "fr": "Rampe landfall : Lotus Cobra et Omnath, Locus of Creation convertissent les terrains posés en mana et en vie, puis Genesis Ultimatum et Ugin concluent.",
+   "en": "Landfall ramp: Lotus Cobra and Omnath, Locus of Creation turn land drops into mana and life, cashing in with Genesis Ultimatum and Ugin."
+  },
+  "why": {
+   "fr": [
+    "Uro et Escape to the Wilds fournissaient des poses de terrain supplémentaires",
+    "Teferi, Time Raveler limitait l'adversaire à la vitesse rituel",
+    "A perdu Uro et Teferi, Time Raveler au bannissement du 15 février"
+   ],
+   "en": [
+    "Uro and Escape to the Wilds supplied extra land drops",
+    "Teferi, Time Raveler held opponents to sorcery speed",
+    "Lost Uro and Teferi, Time Raveler in the February 15 bans"
+   ]
+  }
+ },
+ {
+  "name": "Rakdos Midrange",
+  "slug": "rakdos-midrange",
+  "archetype": "midrange",
+  "titles": [
+   "Rakdos Midrange"
+  ],
+  "cover": "Chandra, Torch of Defiance",
+  "keyCards": [
+   "Chandra, Torch of Defiance",
+   "Kalitas, Traitor of Ghet",
+   "Bonecrusher Giant",
+   "Kroxa, Titan of Death's Hunger",
+   "Thoughtseize"
+  ],
+  "summary": {
+   "fr": "Midrange noir-rouge : défausse et removal, puis des menaces comme Kalitas, Traitor of Ghet et Chandra, Torch of Defiance.",
+   "en": "Black-red midrange: discard and removal, then threats such as Kalitas, Traitor of Ghet and Chandra, Torch of Defiance."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize et Fatal Push nettoyaient la voie pour les menaces",
+    "Kroxa, Titan of Death's Hunger apportait de la valeur en fin de partie",
+    "Kalitas exilait les créatures tuées par le deck"
+   ],
+   "en": [
+    "Thoughtseize and Fatal Push cleared the way for the threats",
+    "Kroxa, Titan of Death's Hunger gave late-game value",
+    "Kalitas exiled the creatures the deck killed"
+   ]
+  },
+  "include": [
+   447472
+  ]
+ },
+ {
+  "name": "Azorius Control",
+  "slug": "azorius-control",
+  "archetype": "control",
+  "titles": [
+   "UW Control",
+   "UW Yorion Control",
+   "UW"
+  ],
+  "cover": "Teferi, Hero of Dominaria",
+  "keyCards": [
+   "Teferi, Hero of Dominaria",
+   "Supreme Verdict",
+   "Absorb",
+   "Dovin's Veto",
+   "Shark Typhoon"
+  ],
+  "summary": {
+   "fr": "Contrôle Azorius classique : Supreme Verdict, contresorts et Teferi, Hero of Dominaria comme principale condition de victoire.",
+   "en": "Classic Azorius control: Supreme Verdict, counterspells and Teferi, Hero of Dominaria as the main win condition."
+  },
+  "why": {
+   "fr": [
+    "Absorb contrait un sort tout en faisant gagner de la vie",
+    "Shark Typhoon offrait une conclusion à vitesse instantanée",
+    "Memory Deluge (Midnight Hunt) rejoignait les listes d'automne"
+   ],
+   "en": [
+    "Absorb countered a spell and gained life",
+    "Shark Typhoon offered an instant-speed finisher",
+    "Memory Deluge (Midnight Hunt) joined the autumn lists"
+   ]
+  }
+ },
+ {
+  "name": "Selesnya Angels",
+  "slug": "selesnya-angels",
+  "archetype": "aggro",
+  "titles": [
+   "Selesnya Angels",
+   "Angel Company"
+  ],
+  "cover": "Righteous Valkyrie",
+  "keyCards": [
+   "Righteous Valkyrie",
+   "Resplendent Angel",
+   "Youthful Valkyrie",
+   "Bishop of Wings",
+   "Collected Company"
+  ],
+  "summary": {
+   "fr": "Tribal Angel Selesnya : Righteous Valkyrie et Bishop of Wings récompensent chaque Angel et le gain de vie, Collected Company ajoute des créatures à vitesse instantanée.",
+   "en": "Selesnya Angel tribal: Righteous Valkyrie and Bishop of Wings reward each Angel and life gain, while Collected Company adds bodies at instant speed."
+  },
+  "why": {
+   "fr": [
+    "Lunarch Veteran et Bishop of Wings faisaient gagner de la vie à chaque tour",
+    "Righteous Valkyrie renforçait l'équipe une fois la vie assez haute",
+    "Youthful Valkyrie grandissait à chaque nouvel Angel"
+   ],
+   "en": [
+    "Lunarch Veteran and Bishop of Wings gained life every turn",
+    "Righteous Valkyrie pumped the team once life was high enough",
+    "Youthful Valkyrie grew with every new Angel"
+   ]
+  },
+  "include": [
+   445319,
+   428241
+  ]
+ },
+ {
+  "name": "Esper Control",
+  "slug": "esper-control",
+  "archetype": "control",
+  "titles": [
+   "Esper Yorion",
+   "Esper Control"
+  ],
+  "cover": "Dream Trawler",
+  "keyCards": [
+   "Dream Trawler",
+   "Teferi, Hero of Dominaria",
+   "Absorb",
+   "Thoughtseize",
+   "Shark Typhoon"
+  ],
+  "summary": {
+   "fr": "Contrôle Esper : Thoughtseize et Fatal Push ajoutés au noyau Azorius d'Absorb et Supreme Verdict, avec Dream Trawler pour conclure.",
+   "en": "Esper control: Thoughtseize and Fatal Push added to the Azorius core of Absorb and Supreme Verdict, with Dream Trawler as a finisher."
+  },
+  "why": {
+   "fr": [
+    "Thoughtseize retirait les pièces de combo avant qu'elles arrivent",
+    "Dream Trawler était difficile à retirer et concluait les parties",
+    "Certaines versions Esper jouaient Yorion, Sky Nomad et des Omens"
+   ],
+   "en": [
+    "Thoughtseize took combo pieces before they landed",
+    "Dream Trawler was hard to remove and closed games",
+    "Some Esper builds used Yorion, Sky Nomad and Omen enchantments"
+   ]
+  },
+  "include": [
+   428619
+  ]
+ },
+ {
+  "name": "Jeskai Control",
+  "slug": "jeskai-control",
+  "archetype": "control",
+  "titles": [
+   "Jeskai Control"
+  ],
+  "cover": "Expressive Iteration",
+  "keyCards": [
+   "Expressive Iteration",
+   "Teferi, Hero of Dominaria",
+   "Supreme Verdict",
+   "Scorching Dragonfire",
+   "Shark Typhoon"
+  ],
+  "summary": {
+   "fr": "Contrôle Jeskai : la base Azorius d'Absorb et Supreme Verdict, avec du rouge pour Expressive Iteration et Scorching Dragonfire.",
+   "en": "Jeskai control: the Azorius shell of Absorb and Supreme Verdict, with red for Expressive Iteration and Scorching Dragonfire."
+  },
+  "why": {
+   "fr": [
+    "Expressive Iteration (Strixhaven) justifiait l'ajout du rouge",
+    "Scorching Dragonfire exilait les menaces récursives",
+    "Rest in Peace en main contre les decks cimetière"
+   ],
+   "en": [
+    "Expressive Iteration (Strixhaven) was the reason to add red",
+    "Scorching Dragonfire exiled recursive threats",
+    "Rest in Peace in the main deck against graveyard decks"
+   ]
+  }
+ },
+ {
+  "name": "Temur Control",
+  "slug": "temur-control",
+  "archetype": "control",
+  "titles": [
+   "Temur Control",
+   "Temur Flash"
+  ],
+  "cover": "Magma Opus",
+  "keyCards": [
+   "Magma Opus",
+   "Torrential Gearhulk",
+   "Prismari Command",
+   "Sublime Epiphany",
+   "Growth Spiral"
+  ],
+  "summary": {
+   "fr": "Contrôle Temur bâti sur Strixhaven : Magma Opus, Prismari Command et Torrential Gearhulk, avec Growth Spiral pour accélérer.",
+   "en": "Temur control built on Strixhaven cards: Magma Opus, Prismari Command and Torrential Gearhulk, with Growth Spiral for ramp."
+  },
+  "why": {
+   "fr": [
+    "Magma Opus se défaussait tôt pour un Trésor ou se lançait plus tard",
+    "Torrential Gearhulk relançait Prismari Command ou un contresort",
+    "Certaines listes jouaient Nightpack Ambusher comme menace à flash"
+   ],
+   "en": [
+    "Magma Opus could be discarded early for a Treasure or cast late",
+    "Torrential Gearhulk recast Prismari Command or a counterspell",
+    "Some lists ran Nightpack Ambusher as a flash threat"
+   ]
+  }
+ }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Un deck de volants qui protège sa reine : Staggering Insight faisait d'une créature un moteur de pioche à lien de vie, Karametra's Blessing et Starlit Mantle la gardaient en vie.",
+      "en": "A protect-the-queen fliers deck: Staggering Insight turned one creature into a lifelinking card engine, and Karametra's Blessing and Starlit Mantle kept it alive."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour Draftsim, qui pensait peut-être le sous-classer.",
+        "Ses deux versions dépendaient d'une carte précise : Dream Trawler ou Staggering Insight.",
+        "MTG Arena Zone y voyait le meilleur usage de Shimmerwing Chimera et de la constellation."
+      ],
+      "en": [
+        "Tier 2 for Draftsim, which thought it might be ranking it too low.",
+        "Both versions relied on one specific card: Dream Trawler or Staggering Insight.",
+        "MTG Arena Zone saw it abuse Shimmerwing Chimera and the constellation cards."
+      ]
+    },
+    "keyCards": ["Staggering Insight", "Shimmerwing Chimera", "Karametra's Blessing", "Starlit Mantle", "Daybreak Chimera", "Omen of the Sea"],
+    "cover": "Staggering Insight",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/",
+      "https://mtgazone.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Bloqueurs bon marché, contresorts et removal pour allonger la partie ; Devourer of Memory récompensait l'auto-meule, Riptide Turtle arrêtait les créatures à escape sans les tuer.",
+      "en": "Cheap blockers, counterspells and removal to make the game long; Devourer of Memory rewarded self-mill, and Riptide Turtle stopped escape creatures without killing them."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim, constructible avec communes et unco.",
+        "Deny the Divine et l'exil étaient nécessaires contre les cartes à escape.",
+        "Le noir était de loin la couleur la plus forte du set selon MTG Arena Zone."
+      ],
+      "en": [
+        "Tier 1 for Draftsim, buildable from commons and uncommons.",
+        "Deny the Divine and exile effects were needed against escape cards.",
+        "Black was by a good margin the strongest color of the set, per MTG Arena Zone."
+      ]
+    },
+    "keyCards": ["Devourer of Memory", "Riptide Turtle", "Deny the Divine", "Mire's Grasp", "Omen of the Sea", "Thirst for Meaning"],
+    "cover": "Devourer of Memory",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/",
+      "https://mtgazone.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Attaquer avec de petites créatures comme Underworld Rage-Hound, les échanger, puis les sacrifier ou les rejouer en escape ; Slaughter-Priest of Mogis grandissait à chaque sacrifice.",
+      "en": "Beat down with cheap creatures like Underworld Rage-Hound, trade them off, then sacrifice or escape them; Slaughter-Priest of Mogis grew with each sacrifice."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim : de bons decks moyens, faits de communes.",
+        "Le thème sacrifice restait léger ; le removal rendait souvent Portent of Betrayal inutile."
+      ],
+      "en": [
+        "Tier 1 for Draftsim: reasonably powerful average decks built from commons.",
+        "The sacrifice theme was mild; removal often made Portent of Betrayal superfluous."
+      ]
+    },
+    "keyCards": ["Slaughter-Priest of Mogis", "Underworld Rage-Hound", "Portent of Betrayal", "Final Flare", "Blood Aspirant", "Mire's Grasp"],
+    "cover": "Slaughter-Priest of Mogis",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Ferocious",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "De grosses créatures tôt et des tours pour les faire passer ; un thème force 4 autour de Warden of the Chained et Nessian Hornbeetle récompensait les plus gros corps.",
+      "en": "Large creatures early and tricks to force them through; a 4-power theme around Warden of the Chained and Nessian Hornbeetle rewarded the biggest bodies."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour Draftsim : presque cassé sur une courbe, fragile au bounce et au removal bon marché.",
+        "En difficulté contre les decks bleus à contresorts, bon contre l'aggro blanc."
+      ],
+      "en": [
+        "Tier 2 for Draftsim: near-busted on a curve, fragile to bounce and cheap removal.",
+        "Struggled against counterspell-heavy blue decks, good against white aggro."
+      ]
+    },
+    "keyCards": ["Warden of the Chained", "Nessian Hornbeetle", "Ilysian Caryatid", "Nylea's Forerunner", "Setessan Training", "Pheres-Band Brawler"],
+    "cover": "Warden of the Chained",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Auras",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "De petites créatures couvertes d'Auras, protégées par Karametra's Blessing ; Siona, Captain of the Pyleas cherchait une Aura et créait un Soldat à chaque Aura attachée.",
+      "en": "Cheap creatures wearing Auras, protected by Karametra's Blessing; Siona, Captain of the Pyleas found an Aura and made a Soldier whenever one was attached."
+    },
+    "why": {
+      "fr": [
+        "Tier 3 pour Draftsim : des cartes de niche et un deck peu impressionnant une fois assemblé.",
+        "Son signpost, Siona, était jugé désespérément moyen.",
+        "L'auteur de MTG Arena Zone en faisait pourtant son deck non-noir préféré."
+      ],
+      "en": [
+        "Tier 3 for Draftsim: niche cards, and an unimpressive deck once assembled.",
+        "Its signpost Siona was called aggressively medium.",
+        "MTG Arena Zone's author still named GW enchantments his favorite non-black deck."
+      ]
+    },
+    "keyCards": ["Siona, Captain of the Pyleas", "Setessan Training", "Sentinel's Eyes", "Karametra's Blessing", "Nessian Wanderer", "Daybreak Chimera"],
+    "cover": "Siona, Captain of the Pyleas",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/",
+      "https://mtgazone.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Reanimator",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "De bonnes cartes blanches et noires avec un sous-thème récursion et Auras : Rise to Glory ramenait une créature et une Aura, Omen of the Dead recyclait Archon of Falling Stars.",
+      "en": "Good white and black cards with a recursion and Aura sub-theme: Rise to Glory returned a creature and an Aura, and Omen of the Dead looped Archon of Falling Stars."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour Draftsim : un deck sans grande identité, mais jamais largué.",
+        "Hateful Eidolon y piochait beaucoup quand une créature enchantée mourait."
+      ],
+      "en": [
+        "Tier 2 for Draftsim: a deck that lacked identity but never felt outmatched.",
+        "Hateful Eidolon drew plenty of cards when enchanted creatures died."
+      ]
+    },
+    "keyCards": ["Rise to Glory", "Hateful Eidolon", "Archon of Falling Stars", "Omen of the Dead", "Lampad of Death's Vigil"],
+    "cover": "Rise to Glory",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Poser une menace évasive et la protéger à vitesse instantanée ; Mischievous Chimera et Dreamstalker Manticore récompensaient les sorts lancés pendant le tour adverse.",
+      "en": "Stick an evasive threat and protect it at instant speed; Mischievous Chimera and Dreamstalker Manticore rewarded spells cast during the opponent's turn."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour Draftsim : du niveau tier 1 une fois en place, mais dépendant d'une unco.",
+        "Il pouvait battre Golgari au tempo et gagner par les airs."
+      ],
+      "en": [
+        "Tier 2 for Draftsim: tier 1 level when assembled, but dependent on one uncommon.",
+        "It could out-tempo Golgari and win in the air."
+      ]
+    },
+    "keyCards": ["Mischievous Chimera", "Vexing Gull", "Stern Dismissal", "Dreamstalker Manticore", "Deny the Divine"],
+    "cover": "Mischievous Chimera",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Escape",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un midrange classique qui remplissait son cimetière avec Funeral Rites et Relentless Pursuit, puis rejouait en escape des créatures comme Pharika's Spawn plusieurs fois par partie.",
+      "en": "Classic midrange that filled its own graveyard with Funeral Rites and Relentless Pursuit, then escaped creatures like Pharika's Spawn several times a game."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim : facile d'accès, fait de communes, avec un plafond très haut.",
+        "Il bloquait le sol contre l'aggro et surpassait à l'usure les contrôles bleus."
+      ],
+      "en": [
+        "Tier 1 for Draftsim: easy to get into, built from commons, with a very high ceiling.",
+        "It gummed up the ground against aggro and out-ground the blue control decks."
+      ]
+    },
+    "keyCards": ["Acolyte of Affliction", "Pharika's Spawn", "Chainweb Aracnir", "Relentless Pursuit", "Funeral Rites", "Mire's Grasp"],
+    "cover": "Acolyte of Affliction",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Heroic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Jouer large avec créatures et jetons, puis cibler les créatures héroïques avec des sorts ; un Wrap in Flames sur un héros concluait souvent la partie.",
+      "en": "Go wide with creatures and tokens, then target the heroic creatures with spells; Wrap in Flames on a hero often ended the game."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim, le deck le plus agressif du format.",
+        "Un bon match-up contre les nombreux decks lents à pioche.",
+        "MTG Arena Zone, à l'inverse, voyait peu de chose dans le Boros de ce set."
+      ],
+      "en": [
+        "Tier 1 for Draftsim, and the most aggressive deck of the format.",
+        "A good matchup against the many slow card-draw decks.",
+        "MTG Arena Zone, by contrast, was not seeing much in Boros in this set."
+      ]
+    },
+    "keyCards": ["Hero of the Nyxborn", "Wrap in Flames", "Reverent Hoplite", "Sentinel's Eyes", "Favored of Iroas", "Iroas's Blessing"],
+    "cover": "Hero of the Nyxborn",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/",
+      "https://mtgazone.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Constellation",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Chaque enchantement arrivant déclenchait la constellation : Eutropia the Twice-Favored posait un marqueur et donnait le vol à un attaquant, Nessian Wanderer trouvait des terrains.",
+      "en": "Each enchantment entering triggered constellation: Eutropia the Twice-Favored put a counter on an attacker and gave it flying, and Nessian Wanderer found lands."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour Draftsim : il fallait des unco précises, et deux Eutropia ne suffisaient pas.",
+        "Servait souvent de base pour splasher des cartes puissantes en trois ou quatre couleurs."
+      ],
+      "en": [
+        "Tier 2 for Draftsim: it needed specific uncommons, and two Eutropias were no lock.",
+        "Often a base for splashing powerful cards in three or four colors."
+      ]
+    },
+    "keyCards": ["Eutropia the Twice-Favored", "Omen of the Sea", "Nessian Wanderer", "Shimmerwing Chimera", "Voracious Typhon"],
+    "cover": "Eutropia the Twice-Favored",
+    "sources": [
+      "https://mtg.wiki/page/Theros_Beyond_Death",
+      "https://draftsim.com/theros-beyond-death-draft-guide/"
+    ],
+    "tier": 2
+  }
+]

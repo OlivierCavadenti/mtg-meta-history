@@ -1,0 +1,253 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Embalm Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Sol bloqué et volants : Wall of Forgotten Pharaohs et Solitary Camel tenaient le terrain, Sandblast et Farm // Market détruisaient les attaquants, Aven of Enduring Hope finissait par les airs.",
+      "en": "Stall the ground, win in the air: Wall of Forgotten Pharaohs and Solitary Camel held the board, Sandblast and Farm // Market killed attackers, Aven of Enduring Hope closed."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : un des archétypes les plus contrôle, murs au sol et volants pour gagner.",
+        "Hareruya : une version agressive existait, mais son removal de combat la rendait pire que l'UR."
+      ],
+      "en": [
+        "Hareruya: one of the more controlling archetypes, walls on the ground and fliers to win.",
+        "Hareruya: an aggressive build existed, but combat-based removal made it worse than UR."
+      ]
+    },
+    "keyCards": ["Farm // Market", "Wall of Forgotten Pharaohs", "Aven of Enduring Hope", "Solitary Camel", "Sandblast"],
+    "cover": "Farm // Market",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Cycling Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Contrôle par le recyclage : Unquenchable Thirst et Torment of Venom retiraient les menaces, Scrounger of Souls stabilisait, Consign // Oblivion renvoyait puis faisait défausser.",
+      "en": "Cycling control: Unquenchable Thirst and Torment of Venom removed threats, Scrounger of Souls stabilized, and Consign // Oblivion bounced, then forced discards."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : proche de l'UW, mais le noir tenait mieux le sol et le deck recyclait davantage.",
+        "Hareruya : Unquenchable Thirst, parmi les meilleures communes, gérait presque tout pour deux manas."
+      ],
+      "en": [
+        "Hareruya: like UW, but black held the ground better and the deck cycled more; he preferred it.",
+        "Hareruya: Unquenchable Thirst, a top common, dealt with almost any creature for two mana."
+      ]
+    },
+    "keyCards": ["Consign // Oblivion", "Unquenchable Thirst", "Torment of Venom", "Scrounger of Souls", "Wretched Camel"],
+    "cover": "Consign // Oblivion",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Afflict",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Affliction : Khenra Eternal, Frontline Devastator et Manticore Eternal faisaient perdre des points de vie quand on les bloquait, Claim // Fame ramenait un petit corps puis donnait la célérité.",
+      "en": "Afflict: Khenra Eternal, Frontline Devastator and Manticore Eternal drained life whenever blocked, and Claim // Fame returned a small creature, then gave haste."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : pas sûr de la bonne façon de le drafter ; ses versions agressives n'ont jamais marché.",
+        "Hareruya : plutôt un milieu de courbe avec beaucoup de removal et de créatures à recyclage."
+      ],
+      "en": [
+        "Hareruya: unsure how best to draft it; his aggressive builds never really worked.",
+        "Hareruya: more likely a midrange deck with lots of removal and cycling creatures."
+      ]
+    },
+    "keyCards": ["Claim // Fame", "Khenra Eternal", "Frontline Devastator", "Manticore Eternal", "Merciless Eternal"],
+    "cover": "Claim // Fame",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Deserts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Déserts et combat : Sand Strangler infligeait trois dégâts avec un Désert, Rhonas's Stalwart passait les petits bloqueurs, Ambuscade et Struggle // Survive retiraient les créatures.",
+      "en": "Deserts and fights: Sand Strangler dealt three with a Desert, Rhonas's Stalwart got past small blockers, and Ambuscade and Struggle // Survive removed creatures."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : rien de changé depuis Amonkhet, deux-drops, trois-drops et sorts de bonus pour forcer.",
+        "Hareruya : le deck perdait les Cartouches et un peu de courbe mais restait correct."
+      ],
+      "en": [
+        "Hareruya: little changed from Amonkhet, two-drops, three-drops and pump to push damage.",
+        "Hareruya: it lost the Cartouches and some of its curve but was still decent."
+      ]
+    },
+    "keyCards": ["Struggle // Survive", "Sand Strangler", "Rhonas's Stalwart", "Ambuscade", "Frontline Devastator"],
+    "cover": "Struggle // Survive",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Exert",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Épuisement en milieu de courbe : Dauntless Aven dégageait une créature épuisée, Rhonas's Stalwart s'épuisait pour passer, Appeal // Authority renforçait une attaque massive.",
+      "en": "Midrange exert: Dauntless Aven untapped an exerted creature, Rhonas's Stalwart exerted to get through, and Appeal // Authority powered up a big attack."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : le thème épuisement d'Amonkhet, un peu moins bon, et donc pire que le RW.",
+        "Hareruya : Synchronized Strike, présent dans un seul booster, restait un atout."
+      ],
+      "en": [
+        "Hareruya: Amonkhet's exert theme, slightly worse, and so worse than the RW deck.",
+        "Hareruya: Synchronized Strike, in one pack only, was still an upside."
+      ]
+    },
+    "keyCards": ["Appeal // Authority", "Dauntless Aven", "Rhonas's Stalwart", "Ambuscade", "Synchronized Strike"],
+    "cover": "Appeal // Authority",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Zombies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Zombies et éternisation : Mummy Paramount grandissait à chaque Zombie, Khenra Eternal et Dutiful Servants complétaient la tribu, Unraveling Mummy donnait lien de vie ou contact mortel.",
+      "en": "Zombies and eternalize: Mummy Paramount grew with each Zombie, Khenra Eternal and Dutiful Servants filled out the tribe, and Unraveling Mummy granted lifelink or deathtouch."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : Mummy Paramount remplaçait Binding Mummy, perdu pour deux boosters, sans être bien pire.",
+        "Hareruya : toujours viable, mais des cartes un peu moins excitantes qu'en Amonkhet."
+      ],
+      "en": [
+        "Hareruya: Mummy Paramount replaced two packs' worth of Binding Mummy and was not much worse.",
+        "Hareruya: still a valid strategy, but with slightly less exciting cards than in Amonkhet."
+      ]
+    },
+    "keyCards": ["Unraveling Mummy", "Mummy Paramount", "Khenra Eternal", "Dutiful Servants", "Binding Mummy"],
+    "cover": "Unraveling Mummy",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Prowess Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Prouesse et tempo : Spellweaver Eternal et Bloodwater Entity grandissaient avec les sorts, Khenra Scrapper attaquait, Unsummon et Open Fire dégageaient les bloqueurs.",
+      "en": "Prowess tempo: Spellweaver Eternal and Bloodwater Entity grew with spells, Khenra Scrapper attacked, and Unsummon and Open Fire cleared blockers."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : selon lui la meilleure combinaison de couleurs de la draft Hour of Devastation.",
+        "Hareruya : d'un deck de sorts en Amonkhet à un aggro-tempo qui jouait sa courbe au plus vite."
+      ],
+      "en": [
+        "Hareruya: in his view the best color combination in Hour of Devastation draft.",
+        "Hareruya: from a spells deck in Amonkhet to an aggro-tempo deck curving out as fast as possible."
+      ]
+    },
+    "keyCards": ["Bloodwater Entity", "Spellweaver Eternal", "Khenra Scrapper", "Unsummon", "Open Fire"],
+    "cover": "Bloodwater Entity",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari -1/-1 Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Marqueurs -1/-1 et usure : Obelisk Spider drainait à chaque marqueur posé, Lethal Sting tuait contre un marqueur sur sa créature, Bitterbow Sharpshooters et Ambuscade tenaient la table.",
+      "en": "-1/-1 counters and attrition: Obelisk Spider drained with each counter placed, Lethal Sting killed for a counter on your own creature, Bitterbow Sharpshooters and Ambuscade held the board."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : détesté en Amonkhet, le BG trouvait sa place dans un format plus lent, milieu de courbe.",
+        "Hareruya : un peu de removal, un peu d'usure et des monstres pour finir."
+      ],
+      "en": [
+        "Hareruya: hated in Amonkhet, BG found its place in a slower, midrange format.",
+        "Hareruya: a little removal, a little grind and some monsters to close out games."
+      ]
+    },
+    "keyCards": ["Obelisk Spider", "Lethal Sting", "Bitterbow Sharpshooters", "Ambuscade", "Quarry Beetle"],
+    "cover": "Obelisk Spider",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Exert Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Épuisement agressif : Resolute Survivors infligeait des dégâts à chaque épuisement, Vizier of the True engageait un bloqueur, Dauntless Aven et Khenra Scrapper attaquaient, Open Fire finissait.",
+      "en": "Exert aggro: Resolute Survivors dealt damage with every exert, Vizier of the True tapped a blocker, Dauntless Aven and Khenra Scrapper attacked and Open Fire finished."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : toujours de l'aggro pur comme en Amonkhet, mais sans les Cartouches et un demi-tour plus lent.",
+        "Hareruya : l'épuisement apportait des uncos remarquables, Vizier of the True et Resolute Survivors."
+      ],
+      "en": [
+        "Hareruya: still straight aggro as in Amonkhet, but without Cartouches and half a turn slower.",
+        "Hareruya: exert brought insane uncommons like Vizier of the True and Resolute Survivors."
+      ]
+    },
+    "keyCards": ["Resolute Survivors", "Vizier of the True", "Dauntless Aven", "Khenra Scrapper", "Open Fire"],
+    "cover": "Resolute Survivors",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe : Oasis Ritualist produisait jusqu'à deux manas, Bitterbow Sharpshooters et Aerial Guide gagnaient du temps, River Hoopoe et Sifter Wurm donnaient vie et cartes en fin de partie.",
+      "en": "Ramp: Oasis Ritualist made up to two mana, Bitterbow Sharpshooters and Aerial Guide bought time, and River Hoopoe and Sifter Wurm turned late mana into life and cards."
+    },
+    "why": {
+      "fr": [
+        "Hareruya : une des rares paires proches d'Amonkhet, en mieux grâce à de meilleures cartes.",
+        "Hareruya : Oasis Ritualist, parmi les meilleures communes ; toucher une ou deux couleurs était facile."
+      ],
+      "en": [
+        "Hareruya: one of the few pairs close to Amonkhet's, performing better thanks to better cards.",
+        "Hareruya: Oasis Ritualist was a top common; splashing one or two colors was easy."
+      ]
+    },
+    "keyCards": ["River Hoopoe", "Oasis Ritualist", "Bitterbow Sharpshooters", "Aerial Guide", "Sifter Wurm"],
+    "cover": "River Hoopoe",
+    "sources": [
+      "https://mtg.wiki/page/Hour_of_Devastation",
+      "https://article.hareruyamtg.com/article/article_en_155/?lang=en"
+    ]
+  }
+]

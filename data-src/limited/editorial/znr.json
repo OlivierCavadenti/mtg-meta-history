@@ -1,0 +1,281 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Party",
+    "archetype": "control",
+    "summary": {
+      "fr": "Surtout un deck de volants classique, renforcé par le groupe : Spoils of Adventure coûtait moins par membre du groupe, Kor Celebrant et Shepherd of Heroes empêchaient les courses.",
+      "en": "Mostly a classic fliers deck, buffed by party: Spoils of Adventure cost less per party member, and Kor Celebrant and Shepherd of Heroes prevented races."
+    },
+    "why": {
+      "fr": [
+        "Selon MTG Arena Zone, le bleu n'avait presque aucune récompense de groupe à la commune.",
+        "Spoils of Adventure restait bon dans tout deck Azorius selon le même guide.",
+        "Tier 2 pour Draftsim."
+      ],
+      "en": [
+        "Per MTG Arena Zone, blue had almost no party payoffs at common.",
+        "Spoils of Adventure was still good in every Azorius deck, per the same guide.",
+        "Tier 2 for Draftsim."
+      ]
+    },
+    "keyCards": ["Spoils of Adventure", "Kor Celebrant", "Shepherd of Heroes", "Into the Roil", "Journey to Oblivion", "Bubble Snare"],
+    "cover": "Spoils of Adventure",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/",
+      "https://draftsim.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Rogues",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Meuler l'adversaire jusqu'à huit cartes au cimetière pour activer les Rogues ; Ruin Crab meulait à chaque terrain, Blackbloom Rogue et Mind Carver frappaient alors plus fort.",
+      "en": "Mill the opponent to eight cards in their graveyard to turn on Rogue payoffs; Ruin Crab milled with each land, and Blackbloom Rogue and Mind Carver then hit harder."
+    },
+    "why": {
+      "fr": [
+        "Selon MTG Arena Zone, il aboutissait rarement : ses communes signposts étaient faibles.",
+        "Meuler réellement l'adversaire était difficile ; la meule servait surtout d'enabler.",
+        "Tier 2 pour Draftsim."
+      ],
+      "en": [
+        "Per MTG Arena Zone it rarely got there: its signpost commons were weak.",
+        "Actually decking an opponent was hard; mill was mostly an enabler.",
+        "Tier 2 for Draftsim."
+      ]
+    },
+    "keyCards": ["Soaring Thought-Thief", "Ruin Crab", "Blackbloom Rogue // Blackbloom Bog", "Mind Carver", "Nimana Skydancer"],
+    "cover": "Soaring Thought-Thief",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/",
+      "https://draftsim.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Party",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Remplir le groupe avec Clercs et Rogues noirs, Sorciers et Guerriers rouges, puis attaquer ; Ravager's Mace et Thundering Sparkmage grandissaient avec la taille du groupe.",
+      "en": "Fill the party with black Clerics and Rogues and red Wizards and Warriors, then attack; Ravager's Mace and Thundering Sparkmage scaled with party size."
+    },
+    "why": {
+      "fr": [
+        "Un archétype de premier plan pour Draftsim.",
+        "Bien plus de récompenses de groupe qu'Azorius selon MTG Arena Zone : l'âme de la fête."
+      ],
+      "en": [
+        "A top archetype for Draftsim.",
+        "Far more party payoffs than Azorius per MTG Arena Zone: the life of the party."
+      ]
+    },
+    "keyCards": ["Ravager's Mace", "Thundering Sparkmage", "Acquisitions Expert", "Grotag Bug-Catcher", "Ardent Electromancer", "Deadly Alliance"],
+    "cover": "Ravager's Mace",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://draftsim.com/zendikar-rising-draft-guide/",
+      "https://mtgazone.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Landfall",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Des créatures agressives à landfall renforcées à chaque terrain ; Brushfire Elemental grandissait et échappait aux petits bloqueurs, Roil Eruption kické concluait la partie.",
+      "en": "Aggressive landfall creatures pumped by each land drop; Brushfire Elemental grew and evaded small blockers, and a kicked Roil Eruption ended games."
+    },
+    "why": {
+      "fr": [
+        "Draftsim jugeait la version landfall faible : forte en commençant, plate en piochant.",
+        "Les versions Gruul groupe et recyclage de terrains se classaient plus haut dans ce guide.",
+        "Le vert était la meilleure couleur du set selon MTG Arena Zone."
+      ],
+      "en": [
+        "Draftsim rated the landfall build subpar: strong on the play, flat on the draw.",
+        "Gruul's party and land-recursion builds ranked higher in the same guide.",
+        "Green was the best color of the set, per MTG Arena Zone."
+      ]
+    },
+    "keyCards": ["Brushfire Elemental", "Akoum Hellhound", "Territorial Scythecat", "Roil Eruption", "Skyclave Geopede", "Pyroclastic Hellion"],
+    "cover": "Brushfire Elemental",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://draftsim.com/zendikar-rising-draft-guide/",
+      "https://mtgazone.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Landfall",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un landfall midrange : Murasa Rootgrazer posait des terrains et en renvoyait pour relancer landfall, faisant grandir Territorial Scythecat et Canopy Baloth.",
+      "en": "Landfall midrange: Murasa Rootgrazer put lands into play and returned them to trigger landfall again, growing Territorial Scythecat and Canopy Baloth."
+    },
+    "why": {
+      "fr": [
+        "Le vert était la meilleure couleur du set pour MTG Arena Zone, le blanc un fort soutien.",
+        "Peu de removal : Nahiri's Binding et Rabid Bite devaient être pris tôt."
+      ],
+      "en": [
+        "Green was the best color of the set for MTG Arena Zone, with white a strong support.",
+        "Short on removal: Nahiri's Binding and Rabid Bite had to be taken early."
+      ]
+    },
+    "keyCards": ["Murasa Rootgrazer", "Territorial Scythecat", "Canopy Baloth", "Canyon Jerboa", "Nahiri's Binding", "Rabid Bite"],
+    "cover": "Murasa Rootgrazer",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Clerics",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une tribu de Clercs avec gain de vie : chaque Clerc faisait gagner de la vie via Kor Celebrant ou Cleric of Life's Bond, et Marauding Blight-Priest drainait à chaque gain.",
+      "en": "Cleric typal with life gain: each Cleric gained life through Kor Celebrant or Cleric of Life's Bond, and Marauding Blight-Priest drained on every gain."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone jugeait les Clercs si forts qu'ils attiraient tout drafteur blanc-noir.",
+        "Cleric of Life's Bond était la meilleure unco dorée selon ce guide.",
+        "Tier 2 pour Draftsim."
+      ],
+      "en": [
+        "MTG Arena Zone called Clerics so strong it pulled in any white-black drafter.",
+        "Cleric of Life's Bond was the best gold uncommon, per that guide.",
+        "Tier 2 for Draftsim."
+      ]
+    },
+    "keyCards": ["Cleric of Life's Bond", "Kor Celebrant", "Attended Healer", "Marauding Blight-Priest", "Relic Vial", "Feed the Swarm"],
+    "cover": "Cleric of Life's Bond",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/",
+      "https://draftsim.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Wizards",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorciers et petits sorts : Umara Mystic grandissait à chacun, et Rockslide Sorcerer infligeait un point à chaque éphémère, rituel ou Sorcier lancé.",
+      "en": "Wizards and cheap spells: Umara Mystic grew with each, and Rockslide Sorcerer pinged for every instant, sorcery or Wizard cast."
+    },
+    "why": {
+      "fr": [
+        "Un archétype de premier plan pour Draftsim.",
+        "Fort sans être incroyable pour MTG Arena Zone : le rouge voulait attaquer, le bleu temporiser."
+      ],
+      "en": [
+        "A top archetype for Draftsim.",
+        "Strong but not incredible for MTG Arena Zone: red wanted to attack, blue was slow."
+      ]
+    },
+    "keyCards": ["Umara Mystic", "Rockslide Sorcerer", "Windrider Wizard", "Thundering Rebuke", "Chilling Trap"],
+    "cover": "Umara Mystic",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://draftsim.com/zendikar-rising-draft-guide/",
+      "https://mtgazone.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Des créatures kickées arrivant avec des marqueurs +1/+1 ; Iridescent Hornbeetle créait des Insectes pour chaque marqueur posé, Skyclave Shadowcat piochait à leur mort.",
+      "en": "Kicked creatures entering with +1/+1 counters; Iridescent Hornbeetle made Insects for each counter placed, and Skyclave Shadowcat drew when they died."
+    },
+    "why": {
+      "fr": [
+        "Sous-classé par Draftsim ; MTG Arena Zone ne le trouvait ni fort ni synergique.",
+        "Le removal noir comblait la principale faiblesse du vert, selon MTG Arena Zone."
+      ],
+      "en": [
+        "Subpar for Draftsim; MTG Arena Zone found it neither strong nor synergistic.",
+        "Black removal filled green's main weakness, per MTG Arena Zone."
+      ]
+    },
+    "keyCards": ["Moss-Pit Skeleton", "Iridescent Hornbeetle", "Skyclave Shadowcat", "Ghastly Gloomhunter", "Bloodchief's Thirst"],
+    "cover": "Moss-Pit Skeleton",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/",
+      "https://draftsim.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Warriors",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Guerriers et équipements sur des corps bon marché ; Kargan Warleader renforçait les autres Guerriers, et Practiced Tactics infligeait des dégâts selon la taille du groupe.",
+      "en": "Warriors and Equipment on cheap bodies; Kargan Warleader pumped every other Warrior, and Practiced Tactics dealt damage based on party size."
+    },
+    "why": {
+      "fr": [
+        "Pour MTG Arena Zone, Kargan Warleader pouvait voler des parties sur une bonne courbe.",
+        "Draftsim rangeait les Guerriers Boros parmi ses archétypes faibles."
+      ],
+      "en": [
+        "MTG Arena Zone: Kargan Warleader could steal games on a good curve.",
+        "Draftsim listed Boros Warriors among its subpar archetypes."
+      ]
+    },
+    "keyCards": ["Kargan Warleader", "Fireblade Charger", "Kor Blademaster", "Goma Fada Vanguard", "Practiced Tactics"],
+    "cover": "Kargan Warleader",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://mtgazone.com/zendikar-rising-draft-guide/",
+      "https://draftsim.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Kicker",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe et kicker : des créatures à mana comme Lullmage's Familiar payaient les sorts kickés, Vine Gecko les réduisait, Roost of Drakes créait un Drake par sort kické.",
+      "en": "Ramp and kicker: mana creatures like Lullmage's Familiar paid for kicked spells, Vine Gecko made them cheaper, and Roost of Drakes made a Drake per kicked spell."
+    },
+    "why": {
+      "fr": [
+        "Un archétype de premier plan pour Draftsim.",
+        "Pour MTG Arena Zone, le kicker venait naturellement ; les bonnes cartes comptaient plus.",
+        "Bubble Snare était son removal clé."
+      ],
+      "en": [
+        "A top archetype for Draftsim.",
+        "Per MTG Arena Zone, kicker came naturally; good cards mattered more than payoffs.",
+        "Bubble Snare was its key removal."
+      ]
+    },
+    "keyCards": ["Lullmage's Familiar", "Roost of Drakes", "Vine Gecko", "Bubble Snare", "Joraga Visionary", "Gnarlid Colony"],
+    "cover": "Lullmage's Familiar",
+    "sources": [
+      "https://mtg.wiki/page/Zendikar_Rising",
+      "https://draftsim.com/zendikar-rising-draft-guide/",
+      "https://mtgazone.com/zendikar-rising-draft-guide/"
+    ],
+    "tier": 1
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Ascend Fliers",
+    "archetype": "control",
+    "summary": {
+      "fr": "Volants et ascension : bloquer au sol avec Snubhorn Sentry, accumuler dix permanents pour la bénédiction de la cité, puis attaquer avec Resplendent Griffin et Spire Winder.",
+      "en": "Fliers and ascend: block on the ground with Snubhorn Sentry, reach ten permanents for the city's blessing, then attack with Resplendent Griffin and Spire Winder."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone : son deck Esper à ascension, du contrôle qui stabilisait puis grignotait par les airs.",
+        "MTG Arena Zone : Baffling End et les enchantements comptaient comme permanents pour l'ascension."
+      ],
+      "en": [
+        "MTG Arena Zone: its Esper ascend deck was control, stabilizing then chipping away in the air.",
+        "MTG Arena Zone: Baffling End and other enchantments added permanents toward ascend."
+      ]
+    },
+    "keyCards": ["Resplendent Griffin", "Spire Winder", "Snubhorn Sentry", "Baffling End", "Sailor of Means"],
+    "cover": "Resplendent Griffin",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Pirates Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Pirates en contrôle : Deadeye Brawler bloquait avec le contact mortel puis piochait avec la bénédiction, Waterknot et Impale géraient les menaces, Sailor of Means ajoutait un permanent.",
+      "en": "Pirate control: Deadeye Brawler blocked with deathtouch and drew cards with the city's blessing, Waterknot and Impale handled threats, Sailor of Means added a permanent."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki : les Pirates bleu-noir passaient au contrôle dans Rivals, l'ascension en moteur.",
+        "MTG Arena Zone : Sailor of Means bloquait bien, ajoutait un permanent et aidait à toucher une couleur."
+      ],
+      "en": [
+        "mtg.wiki: blue-black Pirates shifted to control in Rivals, with ascend as the engine.",
+        "MTG Arena Zone: Sailor of Means blocked well, added a permanent for ascend and fixed mana."
+      ]
+    },
+    "keyCards": ["Deadeye Brawler", "Waterknot", "Impale", "Sailor of Means", "Kitesail Corsair"],
+    "cover": "Deadeye Brawler",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Pirates",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Pirates et removal : Dire Fleet Neckbreaker renforçait les attaquants, mais la meilleure version échangeait avec Ravenous Chupacabra et Reckless Rage puis rechargeait avec Recover.",
+      "en": "Pirates and removal: Dire Fleet Neckbreaker pumped attackers, but the best build traded with Ravenous Chupacabra and Reckless Rage, then refilled with Recover."
+    },
+    "why": {
+      "fr": [
+        "SCG (Ryan Saxe) : le B/R n'était pas fait pour l'aggro Pirate ; sa version la plus constante était midrange.",
+        "SCG : épuiser les ressources adverses, puis finir vite avec Dusk Charger ou Charging Tuskodon."
+      ],
+      "en": [
+        "SCG (Ryan Saxe): B/R was not best as Pirate aggro; its most consistent version was midrange.",
+        "SCG: exhaust the opponent's resources, then close fast with Dusk Charger or Charging Tuskodon."
+      ]
+    },
+    "keyCards": ["Dire Fleet Neckbreaker", "Ravenous Chupacabra", "Reckless Rage", "Recover", "Dusk Legion Zealot", "Charging Tuskodon"],
+    "cover": "Dire Fleet Neckbreaker",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://articles.starcitygames.com/articles/drafting-digest-special-the-rise-of-black-red/"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Dinosaurs",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Dinosaures : Forerunner of the Empire cherchait un Dinosaure et blessait à chaque arrivée, Needletooth Raptor s'enrageait pour cinq dégâts, Raging Regisaur infligeait un dégât à chaque attaque.",
+      "en": "Dinosaurs: Forerunner of the Empire found a Dinosaur and dealt damage on each arrival, Needletooth Raptor enraged for five damage, Raging Regisaur pinged on every attack."
+    },
+    "why": {
+      "fr": [
+        "SCG : Needletooth Raptor et Forerunner of the Empire formaient une combinaison puissante.",
+        "MTG Arena Zone : Dinosaures et Pirates, options à considérer quand les bonnes cartes arrivaient."
+      ],
+      "en": [
+        "SCG: Needletooth Raptor with Forerunner of the Empire was a powerful combination.",
+        "MTG Arena Zone: Dinosaurs and Pirates were options when the right cards showed up."
+      ]
+    },
+    "keyCards": ["Raging Regisaur", "Forerunner of the Empire", "Needletooth Raptor", "Charging Tuskodon", "Hunt the Weak"],
+    "cover": "Raging Regisaur",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://articles.starcitygames.com/articles/drafting-digest-special-the-rise-of-black-red/",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Dinosaurs",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe vers les bombes : Atzocan Seer produisait toutes les couleurs et récupérait un Dinosaure, Knight of the Stampede réduisait leur coût, Overgrown Armasaur et Sun-Crested Pterodon suivaient.",
+      "en": "Ramp into bombs: Atzocan Seer made any color and rebought a Dinosaur, Knight of the Stampede cut their cost, and Overgrown Armasaur and Sun-Crested Pterodon followed."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone : le plan GW, accélérer vers les bombes ; Atzocan Seer très sous-estimé.",
+        "MTG Arena Zone : dans un format aux créatures faibles, les elfes à mana étaient excellents."
+      ],
+      "en": [
+        "MTG Arena Zone: the GW plan was mana ramp into bombs; Atzocan Seer was very underrated.",
+        "MTG Arena Zone: in a weak creature format, mana dorks like Seer could be great."
+      ]
+    },
+    "keyCards": ["Atzocan Seer", "Knight of the Stampede", "Overgrown Armasaur", "Sun-Crested Pterodon", "Drover of the Mighty"],
+    "cover": "Atzocan Seer",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Vampires",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Vampires et gain de vie : Legion Lieutenant renforçait la tribu, Martyr of Dusk laissait un jeton à lien de vie, Famished Paladin se dégageait à chaque gain, Skymarcher Aspirant volait avec l'ascension.",
+      "en": "Vampires and lifegain: Legion Lieutenant pumped the tribe, Martyr of Dusk left a lifelink token, Famished Paladin untapped on each lifegain and Skymarcher Aspirant flew with ascend."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone : Vampires ou Ondins, les tribus à privilégier pour rester en deux couleurs.",
+        "mtg.wiki : les Vampires restaient l'archétype W/B de Rivals, signalé par Legion Lieutenant."
+      ],
+      "en": [
+        "MTG Arena Zone: Vampires or Merfolk were the tribes to prefer, to stay in two colors.",
+        "mtg.wiki: Vampires stayed the W/B archetype in Rivals, signposted by Legion Lieutenant."
+      ]
+    },
+    "keyCards": ["Legion Lieutenant", "Martyr of Dusk", "Famished Paladin", "Skymarcher Aspirant", "Voracious Vampire"],
+    "cover": "Legion Lieutenant",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Pirates",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Pirates et pioche : Storm Fleet Sprinter et Kitesail Corsair attaquaient sans opposition, Curious Obsession piochait à chaque coup, Pirate's Pillage et Siren Reaver récompensaient le pillage.",
+      "en": "Pirates and card draw: Storm Fleet Sprinter and Kitesail Corsair attacked unopposed, Curious Obsession drew on each hit, and Pirate's Pillage and Siren Reaver rewarded raiding."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki : en Rivals, l'UR devenait l'archétype Pirates de la pioche.",
+        "SCG : Pirate's Pillage, protection contre l'inondation qui revenait souvent dans le booster."
+      ],
+      "en": [
+        "mtg.wiki: in Rivals, UR became the Pirate card-draw archetype.",
+        "SCG: Pirate's Pillage was flood protection that often wheeled."
+      ]
+    },
+    "keyCards": ["Storm Fleet Sprinter", "Curious Obsession", "Kitesail Corsair", "Pirate's Pillage", "Siren Reaver"],
+    "cover": "Storm Fleet Sprinter",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://articles.starcitygames.com/articles/drafting-digest-special-the-rise-of-black-red/"
+    ]
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Explore",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Exploration et valeur : Jungle Creeper revenait du cimetière, Enter the Unknown faisait explorer, Ravenous Chupacabra tuait, et les explorateurs d'Ixalan comme Wildgrowth Walker complétaient.",
+      "en": "Explore and value: Jungle Creeper came back from the graveyard, Enter the Unknown made a creature explore, Ravenous Chupacabra killed, and Ixalan explorers like Wildgrowth Walker filled in."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki : Rivals donnait enfin une multicolore unco au B/G, absente d'Ixalan.",
+        "MTG Arena Zone : Lurking Chupacabra avec Recover offrait une seconde chance au moteur."
+      ],
+      "en": [
+        "mtg.wiki: Rivals finally gave B/G a gold uncommon, which Ixalan lacked.",
+        "MTG Arena Zone: Recover gave a second shot at going off with Lurking Chupacabra."
+      ]
+    },
+    "keyCards": ["Jungle Creeper", "Ravenous Chupacabra", "Enter the Unknown", "Wildgrowth Walker", "Lurking Chupacabra"],
+    "cover": "Jungle Creeper",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtg.wiki/page/Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Dinosaur Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression : Relentless Raptor attaquait à chaque tour, Everdawn Champion ignorait les dégâts de combat, Pride of Conquerors renforçait l'équipe et Bombard dégageait le passage.",
+      "en": "Aggro: Relentless Raptor attacked every turn, Everdawn Champion ignored combat damage, Pride of Conquerors pumped the team and Bombard cleared the way."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki : Dinosaures agressifs en R/W, comme dans Ixalan.",
+        "SCG : selon Ryan Saxe, les decks agressifs valaient moins que prévu dans Rivals."
+      ],
+      "en": [
+        "mtg.wiki: aggressive Dinosaurs in R/W, as in Ixalan.",
+        "SCG: in Ryan Saxe's view, aggressive decks had less stock in Rivals than first assumed."
+      ]
+    },
+    "keyCards": ["Relentless Raptor", "Everdawn Champion", "Pride of Conquerors", "Bombard", "Raptor Companion"],
+    "cover": "Relentless Raptor",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://articles.starcitygames.com/articles/drafting-digest-special-the-rise-of-black-red/"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Merfolk",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Ondins et tempo : Merfolk Mistbinder renforçait la tribu, Forerunner of the Heralds le cherchait, Mist-Cloaked Herald et Giltgrove Stalker frappaient tôt, Crashing Tide renvoyait les bloqueurs.",
+      "en": "Merfolk tempo: Merfolk Mistbinder pumped the tribe, Forerunner of the Heralds found it, Mist-Cloaked Herald and Giltgrove Stalker hit early and Crashing Tide bounced blockers."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone : le meilleur deck du format avec les bonnes cartes, Mistbinder en pièce maîtresse.",
+        "MTG Arena Zone : Jungleborn Pioneer donnait deux corps pour Mistbinder et l'ascension."
+      ],
+      "en": [
+        "MTG Arena Zone: the best draft deck in the format with the right cards, Mistbinder key.",
+        "MTG Arena Zone: Jungleborn Pioneer came as two creatures, adding value to Mistbinder."
+      ]
+    },
+    "keyCards": ["Merfolk Mistbinder", "Forerunner of the Heralds", "Mist-Cloaked Herald", "Giltgrove Stalker", "Jungleborn Pioneer", "Crashing Tide"],
+    "cover": "Merfolk Mistbinder",
+    "sources": [
+      "https://mtg.wiki/page/Rivals_of_Ixalan",
+      "https://mtgazone.com/rivals-of-ixalan-draft-guide/"
+    ],
+    "tier": 1
+  }
+]

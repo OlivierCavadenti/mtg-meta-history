@@ -1,0 +1,268 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sans tribu : un deck de volants classique, avec Favorable Winds pour renforcer Skyblade of the Legion, Storm Fleet Aerialist, Shining Aerosaur et Siren Lookout.",
+      "en": "No tribe: a classic fliers deck, with Favorable Winds pumping Skyblade of the Legion, Storm Fleet Aerialist, Shining Aerosaur and Siren Lookout."
+    },
+    "why": {
+      "fr": [
+        "mtg.wiki : pas de multicolore unco pour W/U, aucune tribu du set n'étant dans cette paire.",
+        "Hipsters : une paire non soutenue, à éviter, les volants partant tôt chez les autres joueurs."
+      ],
+      "en": [
+        "mtg.wiki: no gold uncommon for W/U, as none of the set's tribes was in that pair.",
+        "Hipsters: an unsupported pair to avoid, as the other drafters took the fliers early."
+      ]
+    },
+    "keyCards": ["Favorable Winds", "Skyblade of the Legion", "Storm Fleet Aerialist", "Shining Aerosaur", "Siren Lookout"],
+    "cover": "Favorable Winds",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Pirates",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Pirates et Trésors : Sailor of Means et Dire Fleet Hoarder créaient des Trésors, Deadeye Plunderers grandissait avec les artefacts, Pirate's Cutlass et le pillage poussaient le tempo.",
+      "en": "Pirates and Treasure: Sailor of Means and Dire Fleet Hoarder made Treasure, Deadeye Plunderers grew with artifacts, and Pirate's Cutlass and raid pushed tempo."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : plus un deck tempo à pillage qu'un deck tribal, avec les effets d'arrivée de la paire.",
+        "Hipsters : le meilleur fixing du format grâce aux Trésors, idéal pour toucher une couleur."
+      ],
+      "en": [
+        "Hipsters: less a Pirate deck than a raid tempo deck built on the pair's enter triggers.",
+        "Hipsters: Treasure gave it the best mana fixing in the format, easy to splash."
+      ]
+    },
+    "keyCards": ["Deadeye Plunderers", "Sailor of Means", "Dire Fleet Hoarder", "Pirate's Cutlass", "Fathom Fleet Cutthroat"],
+    "cover": "Deadeye Plunderers",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Pirate Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Pirates agressifs : Headstrong Brute et Dire Fleet Captain grandissaient avec les autres Pirates, Storm Fleet Pyromancer et Fathom Fleet Cutthroat punissaient les blocages forcés.",
+      "en": "Pirate aggro: Headstrong Brute and Dire Fleet Captain rewarded other Pirates, and Storm Fleet Pyromancer and Fathom Fleet Cutthroat punished forced blocks."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : le plus agressif des decks Pirates, capable de débuts très forts.",
+        "Hipsters : un bon deck de beatdown, avec Dire Fleet Captain, bon sans être exceptionnel."
+      ],
+      "en": [
+        "Hipsters: the most aggressive of the Pirate decks, capable of very strong starts.",
+        "Hipsters: a fine beatdown deck; Dire Fleet Captain was good but not amazing."
+      ]
+    },
+    "keyCards": ["Dire Fleet Captain", "Headstrong Brute", "Storm Fleet Pyromancer", "Fathom Fleet Cutthroat", "Pirate's Cutlass"],
+    "cover": "Dire Fleet Captain",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Dinosaurs",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Dinosaures et enrage : une créature par tour jusqu'au tour cinq, Raging Swordtooth et Ranging Raptors profitant des blessures, Charging Monstrosaur et Savage Stomp pour dominer la table.",
+      "en": "Dinosaurs and enrage: a creature each turn up to turn five, Raging Swordtooth and Ranging Raptors using damage, Charging Monstrosaur and Savage Stomp to dominate the board."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : milieu de courbe agressif ; les Dinosaures rouges avaient beaucoup de force pour leur coût.",
+        "Hipsters : une rampe possible avec Otepec Huntmaster, mais le plan restait de jouer sa courbe et attaquer."
+      ],
+      "en": [
+        "Hipsters: aggressive midrange; red Dinosaurs had a lot of power for their mana cost.",
+        "Hipsters: Otepec Huntmaster allowed some ramp, but the plan was to curve out and beat down."
+      ]
+    },
+    "keyCards": ["Raging Swordtooth", "Charging Monstrosaur", "Savage Stomp", "Ranging Raptors", "Otepec Huntmaster"],
+    "cover": "Raging Swordtooth",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ]
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Dinosaur Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Le plus lent des decks Dinosaures : Drover of the Mighty et Kinjalli's Caller accéléraient, Belligerent Brontodon et Bellowing Aegisaur faisaient attaquer les grosses endurances.",
+      "en": "The slowest Dinosaur deck: Drover of the Mighty and Kinjalli's Caller ramped, while Belligerent Brontodon and Bellowing Aegisaur turned high toughness into offense."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : une paire soutenue mais décevante ; on avait l'impression de jouer le moins bon deck.",
+        "Hipsters : sa grande récompense, Belligerent Brontodon, n'était pas très bonne."
+      ],
+      "en": [
+        "Hipsters: a supported pair that underwhelmed; you felt like playing the second-best deck.",
+        "Hipsters: its big payoff, Belligerent Brontodon, was not very good."
+      ]
+    },
+    "keyCards": ["Belligerent Brontodon", "Bellowing Aegisaur", "Kinjalli's Caller", "Drover of the Mighty", "Sunrise Seeker"],
+    "cover": "Belligerent Brontodon",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Vampires",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Vampires à lien de vie : Call to the Feast et Paladin of the Bloodstained créaient des jetons, Anointed Deacon renforçait l'attaque, Skymarch Bloodletter drainait par les airs.",
+      "en": "Lifelink Vampires: Call to the Feast and Paladin of the Bloodstained made tokens, Anointed Deacon pumped an attacker each combat and Skymarch Bloodletter drained in the air."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : avec les Ondins, la meilleure tribu et la plus ciblée quand elle était ouverte.",
+        "Hipsters : la paire la plus dépendante de la tribu, qui demandait une masse critique de Vampires."
+      ],
+      "en": [
+        "Hipsters: with Merfolk, the best and most focused tribe when open.",
+        "Hipsters: the pair most reliant on tribal synergy, needing a critical mass of Vampires."
+      ]
+    },
+    "keyCards": ["Call to the Feast", "Anointed Deacon", "Skymarch Bloodletter", "Paladin of the Bloodstained", "Duskborne Skymarcher"],
+    "cover": "Call to the Feast",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Pirates",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Pillage : les volants bleus déclenchaient le pillage sans attaque suicide, Marauding Looter filtrait la pioche, Siren's Ruse protégeait, Fiery Cannonade épargnait les Pirates.",
+      "en": "Raid: blue fliers turned on raid without suicide attacks, Marauding Looter filtered draws, Siren's Ruse protected, and Fiery Cannonade spared your Pirates."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : une paire soutenue mais décevante, parfois un désastre, à drafter à ses risques.",
+        "Hipsters : les meilleures cartes à pillage du set, et Fiery Cannonade dévastateur contre les Vampires."
+      ],
+      "en": [
+        "Hipsters: a supported pair that underwhelmed, at times a trainwreck; draft at your own risk.",
+        "Hipsters: the best raid cards in the set, and Fiery Cannonade was game-breaking against Vampires."
+      ]
+    },
+    "keyCards": ["Marauding Looter", "Fiery Cannonade", "Siren Lookout", "Siren's Ruse", "Headstrong Brute"],
+    "cover": "Marauding Looter",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Explore",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sans tribu : removal noir et créatures vertes solides, avec un sous-thème exploration où Wildgrowth Walker et Lurking Chupacabra récompensaient Seekers' Squire et Tishana's Wayfinder.",
+      "en": "No tribe: black removal and solid green creatures, with an explore subtheme where Wildgrowth Walker and Lurking Chupacabra rewarded Seekers' Squire and Tishana's Wayfinder."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : non soutenue ; les créatures à exploration, bonnes partout, partaient tôt.",
+        "mtg.wiki : pas de multicolore unco pour B/G, une paire pensée pour les joueurs avancés."
+      ],
+      "en": [
+        "Hipsters: unsupported; explore creatures were good in any deck, so they went early.",
+        "mtg.wiki: no gold uncommon for B/G, a pair designed for more advanced drafters."
+      ]
+    },
+    "keyCards": ["Wildgrowth Walker", "Lurking Chupacabra", "Seekers' Squire", "Tishana's Wayfinder", "Dire Fleet Interloper"],
+    "cover": "Wildgrowth Walker",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Dinosaur Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Agression : assez de Dinosaures comme Raptor Companion et Frenzied Raptor pour activer Tilonalli's Knight, Pterodon Knight et Thrash of Raptors, Sky Terror en tête.",
+      "en": "Aggro: enough Dinosaurs like Raptor Companion and Frenzied Raptor to turn on Tilonalli's Knight, Pterodon Knight and Thrash of Raptors, led by Sky Terror."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : un Dinosaure suffisait à activer la plupart des récompenses ; la courbe comptait plus.",
+        "Hipsters : un beatdown efficace avec créatures, astuces et removal, Vampire's Zeal compris."
+      ],
+      "en": [
+        "Hipsters: most payoffs only needed one Dinosaur; an aggressive curve mattered more.",
+        "Hipsters: an efficient beatdown deck with creatures, tricks and removal, Vampire's Zeal included."
+      ]
+    },
+    "keyCards": ["Sky Terror", "Tilonalli's Knight", "Pterodon Knight", "Thrash of Raptors", "Raptor Companion", "Frenzied Raptor"],
+    "cover": "Sky Terror",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Merfolk",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Ondins et marqueurs +1/+1 : Shaper Apprentice et Watertrap Weaver gardaient le tempo, Vineshaper Mystic et River Heralds' Boon distribuaient les marqueurs, Shapers of Nature les convertissait en cartes.",
+      "en": "Merfolk and +1/+1 counters: Shaper Apprentice and Watertrap Weaver kept tempo, Vineshaper Mystic and River Heralds' Boon spread counters, and Shapers of Nature cashed them in for cards."
+    },
+    "why": {
+      "fr": [
+        "Hipsters : l'un des meilleurs archétypes, un plan tempo solide même sans beaucoup d'Ondins.",
+        "Hipsters : avec les Vampires, la meilleure tribu, une seule paire de couleurs pour elle."
+      ],
+      "en": [
+        "Hipsters: one of the best archetypes, a strong tempo plan even with few Merfolk.",
+        "Hipsters: with Vampires, the best tribe, as both lived in a single color pair."
+      ]
+    },
+    "keyCards": ["Shapers of Nature", "Vineshaper Mystic", "River Heralds' Boon", "Shaper Apprentice", "Watertrap Weaver"],
+    "cover": "Shapers of Nature",
+    "sources": [
+      "https://mtg.wiki/page/Ixalan",
+      "https://www.hipstersofthecoast.com/2017/10/two-color-archetypes-ixalan-draft/",
+      "https://www.hipstersofthecoast.com/2017/10/drafting-ixalan-archetypes/"
+    ],
+    "tier": 1
+  }
+]

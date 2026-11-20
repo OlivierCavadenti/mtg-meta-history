@@ -1,0 +1,640 @@
+[
+  {
+    "name": "Dimir Midrange",
+    "slug": "dimir-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Dimir Aggro"
+    ],
+    "cover": "Kaito, Bane of Nightmares",
+    "keyCards": [
+      "Kaito, Bane of Nightmares",
+      "Enduring Curiosity",
+      "Floodpits Drowner",
+      "Dream Beavers",
+      "Spyglass Siren"
+    ],
+    "summary": {
+      "fr": "Midrange bleu-noir hérité de la saison précédente : créatures flash, removals instantanés et Kaito, Bane of Nightmares, avec de petits volants comme Dream Beavers et Spyglass Siren.",
+      "en": "Blue-black midrange carried over from the previous season: flash creatures, instant removal and Kaito, Bane of Nightmares, with cheap fliers such as Dream Beavers and Spyglass Siren."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur des MTGO Championship Week Finals",
+        "Vainqueur de deux Cups de l'événement Kadou à Pékin",
+        "Floodpits Drowner et Tishana's Tidebinder gardaient le plan tempo flash"
+      ],
+      "en": [
+        "Won the MTGO Championship Week Finals",
+        "Won two Cups at the Kadou event in Beijing",
+        "Floodpits Drowner and Tishana's Tidebinder kept the flash tempo plan"
+      ]
+    },
+    "rep": 899159
+  },
+  {
+    "name": "Jund Sacrifice",
+    "slug": "jund-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Sacrifice",
+      "Jund Aggro"
+    ],
+    "cover": "The Sackville-Bagginses",
+    "keyCards": [
+      "Greedy Freebooter",
+      "Biotech Specialist",
+      "The Sackville-Bagginses",
+      "Lively Dirge",
+      "Obsessive Pursuit"
+    ],
+    "summary": {
+      "fr": "Midrange Jund de sacrifice : petites créatures à valeur comme Greedy Freebooter et Biotech Specialist, sacrifiées par The Sackville-Bagginses et recyclées par Lively Dirge.",
+      "en": "Jund sacrifice midrange: small value creatures such as Greedy Freebooter and Biotech Specialist, fed to The Sackville-Bagginses and recurred by Lively Dirge."
+    },
+    "why": {
+      "fr": [
+        "The Sackville-Bagginses, issu de The Hobbit, changeait chaque sacrifice en carte et en Treasure",
+        "Lively Dirge remettait plusieurs créatures en jeu depuis le cimetière",
+        "Vainqueur d'un Magic Spotlight à Pékin et de deux qualifications Champions Cup à Tokyo"
+      ],
+      "en": [
+        "The Sackville-Bagginses, from The Hobbit, turned each sacrifice into a card and a Treasure",
+        "Lively Dirge returned several creatures from the graveyard",
+        "Won a Magic Spotlight in Beijing and two Champions Cup qualifiers in Tokyo"
+      ]
+    },
+    "rep": 907398
+  },
+  {
+    "name": "Mono-Green Landfall",
+    "slug": "mono-green-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Green Landfall",
+      "Mono Green Aggro"
+    ],
+    "cover": "Mightform Harmonizer",
+    "keyCards": [
+      "Mightform Harmonizer",
+      "Sazh's Chocobo",
+      "Icetill Explorer",
+      "Earthbender Ascension",
+      "Llanowar Elves"
+    ],
+    "summary": {
+      "fr": "Aggro mono-vert centré sur les terrains : Fabled Passage, Escape Tunnel et Earthbender Ascension alimentent Sazh's Chocobo et Mightform Harmonizer.",
+      "en": "Mono-green aggro built around lands: Fabled Passage, Escape Tunnel and Earthbender Ascension feed Sazh's Chocobo and Mightform Harmonizer."
+    },
+    "why": {
+      "fr": [
+        "A perdu Badgermole Cub, banni en août, et gardé son moteur de terrains",
+        "Mossborn Hydra a rejoint les listes suivantes",
+        "Vainqueur d'un MTGO Showcase Challenge en août"
+      ],
+      "en": [
+        "Lost Badgermole Cub to the August ban and kept its land engine",
+        "Mossborn Hydra joined later lists",
+        "Won an MTGO Showcase Challenge in August"
+      ]
+    },
+    "rep": 882528
+  },
+  {
+    "name": "Izzet Spellementals",
+    "slug": "izzet-spellementals",
+    "archetype": "tempo",
+    "titles": [
+      "Izzet Spellementals",
+      "Temur Control"
+    ],
+    "cover": "Hearth Elemental",
+    "keyCards": [
+      "Eddymurk Crab",
+      "Hearth Elemental",
+      "Sunderflock",
+      "Traumatic Critique",
+      "Prismari Charm"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge mêlant interaction bon marché et filtrage de pioche à de grosses menaces : Hearth Elemental, Sunderflock et Eddymurk Crab.",
+      "en": "Blue-red tempo pairing cheap interaction and card selection with large threats: Hearth Elemental, Sunderflock and Eddymurk Crab."
+    },
+    "why": {
+      "fr": [
+        "Eddymurk Crab coûtait moins cher à mesure que le cimetière se remplissait",
+        "Spell Snare et Prismari Charm gênaient les decks adverses à faible coût",
+        "Top 8 sur MTGO, à Tokyo et à Pékin, sans victoire"
+      ],
+      "en": [
+        "Eddymurk Crab got cheaper as the graveyard filled",
+        "Spell Snare and Prismari Charm disrupted cheap opposing plays",
+        "Top 8s on MTGO, in Tokyo and in Beijing, without an event win"
+      ]
+    },
+    "rep": 882538,
+    "note": "Temur Control title is a single Spellementals-style list with a green splash."
+  },
+  {
+    "name": "Selesnya Aggro",
+    "slug": "selesnya-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Aggro"
+    ],
+    "cover": "Michelangelo, Weirdness to 11",
+    "keyCards": [
+      "Ouroboroid",
+      "Michelangelo, Weirdness to 11",
+      "Bejeweled Warg",
+      "Pawpatch Recruit",
+      "Gene Pollinator"
+    ],
+    "summary": {
+      "fr": "Aggro vert-blanc de créatures à marqueurs +1/+1 : accélérateurs comme Llanowar Elves puis Ouroboroid, Michelangelo, Weirdness to 11 et Bejeweled Warg.",
+      "en": "Green-white creature aggro on +1/+1 counters: accelerants like Llanowar Elves lead into Ouroboroid, Michelangelo, Weirdness to 11 and Bejeweled Warg."
+    },
+    "why": {
+      "fr": [
+        "Finaliste du World Championship 32",
+        "Michelangelo ajoutait un marqueur de plus à chaque pose de marqueurs",
+        "Plusieurs top 8 aux qualifications RC sur MTGO le week-end des Worlds"
+      ],
+      "en": [
+        "Reached the final of World Championship 32",
+        "Michelangelo added one more counter each time counters were placed",
+        "Several top 8s at the MTGO RC qualifiers of the Worlds weekend"
+      ]
+    },
+    "rep": 912137,
+    "exclude": [
+      889878
+    ],
+    "note": "889878 is a landfall list, moved to Selesnya Landfall."
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control"
+    ],
+    "cover": "The Theorist, Jace Beleren",
+    "keyCards": [
+      "The Theorist, Jace Beleren",
+      "Consult the Star Charts",
+      "Countersculpt",
+      "No More Lies",
+      "Day of Judgment"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu de contresorts, Get Lost et Day of Judgment, bâti autour de The Theorist, Jace Beleren, issu de Reality Fracture.",
+      "en": "White-blue control on counterspells, Get Lost and Day of Judgment, built around The Theorist, Jace Beleren from Reality Fracture."
+    },
+    "why": {
+      "fr": [
+        "Countersculpt et No More Lies couvraient les sorts clés",
+        "The Theorist piochait une carte à chaque étape de pioche adverse",
+        "Top 8 au World Championship 32"
+      ],
+      "en": [
+        "Countersculpt and No More Lies covered key spells",
+        "The Theorist drew a card on each opponent's draw step",
+        "Top 8 at World Championship 32"
+      ]
+    },
+    "rep": 912122,
+    "exclude": [
+      899161,
+      907369,
+      907373
+    ],
+    "note": "UW Control title also covers artifact lists (Simulacrum Synthesizer); those go to Azorius Artifacts."
+  },
+  {
+    "name": "Azorius Artifacts",
+    "slug": "azorius-artifacts",
+    "archetype": "control",
+    "titles": [
+      "UW Artifact Control"
+    ],
+    "cover": "Simulacrum Synthesizer",
+    "keyCards": [
+      "Simulacrum Synthesizer",
+      "United Battlefront",
+      "Repurposing Bay",
+      "Cryogen Relic",
+      "Perilous Snare"
+    ],
+    "summary": {
+      "fr": "Contrôle d'artefacts blanc-bleu : petits artefacts comme Cryogen Relic et Perilous Snare, mis en jeu par United Battlefront et enchaînés par Repurposing Bay, avec Simulacrum Synthesizer qui crée des Constructs.",
+      "en": "White-blue artifact control: cheap artifacts such as Cryogen Relic and Perilous Snare, put into play by United Battlefront and chained by Repurposing Bay, with Simulacrum Synthesizer making Constructs."
+    },
+    "why": {
+      "fr": [
+        "Perilous Snare et Pinnacle Starcage exilaient les menaces adverses",
+        "Castle Doom transformait les artefacts en trop en Doombots",
+        "Top 8 aux MTGO Championship Week Finals et à Pékin"
+      ],
+      "en": [
+        "Perilous Snare and Pinnacle Starcage exiled opposing threats",
+        "Castle Doom turned spare artifacts into Doombots",
+        "Top 8s at the MTGO Championship Week Finals and in Beijing"
+      ]
+    },
+    "rep": 907369,
+    "include": [
+      899161,
+      907369,
+      907373
+    ],
+    "note": "Artifact lists are filed under both UW Control and UW Artifact Control on mtgtop8; merged into Azorius Control in 2025-eoe, where they had no top 8."
+  },
+  {
+    "name": "Izzet Prowess",
+    "slug": "izzet-prowess",
+    "archetype": "aggro",
+    "titles": [
+      "Izzet Prowess",
+      "UR Aggro"
+    ],
+    "cover": "Slickshot Show-Off",
+    "keyCards": [
+      "Slickshot Show-Off",
+      "Elusive Otter",
+      "Pompous Battlemage",
+      "Ancestral Anger",
+      "Wild Ride"
+    ],
+    "summary": {
+      "fr": "Aggro de sorts bleu-rouge après le bannissement de Stormchaser's Talent : des sorts de pump bon marché comme Wild Ride et Ancestral Anger font frapper Slickshot Show-Off et ses pairs.",
+      "en": "Blue-red spells aggro after the ban of Stormchaser's Talent: cheap pump spells such as Wild Ride and Ancestral Anger power Slickshot Show-Off and its peers."
+    },
+    "why": {
+      "fr": [
+        "Ancestral Anger et Wild Ride boostaient une créature et se remplaçaient ou revenaient",
+        "Vainqueur d'une MTGO RC Qualifier le week-end du World Championship 32",
+        "Top 8 au World Championship 32"
+      ],
+      "en": [
+        "Ancestral Anger and Wild Ride pumped a creature and replaced themselves or came back",
+        "Won an MTGO RC Qualifier on the weekend of World Championship 32",
+        "Top 8 at World Championship 32"
+      ]
+    },
+    "rep": 913627
+  },
+  {
+    "name": "Orzhov Amalia",
+    "slug": "orzhov-amalia",
+    "archetype": "combo",
+    "titles": [
+      "Orzhov Amalia",
+      "Orzhov Aggro"
+    ],
+    "cover": "Amalia Benavides Aguirre",
+    "keyCards": [
+      "Amalia Benavides Aguirre",
+      "Case of the Uneaten Feast",
+      "Hinterland Sanctifier",
+      "Haliya, Guided by Light",
+      "Lunar Convocation"
+    ],
+    "summary": {
+      "fr": "Gain de vie blanc-noir autour d'Amalia Benavides Aguirre, qui explore à chaque gain de vie, alimenté par Case of the Uneaten Feast.",
+      "en": "White-black lifegain built around Amalia Benavides Aguirre, which explores on each life gain, fed by Case of the Uneaten Feast."
+    },
+    "why": {
+      "fr": [
+        "Case of the Uneaten Feast transformait chaque créature en gain de vie",
+        "Top 4 aux MTGO Championship Week Finals et dans une MTGO RC Super Qualifier"
+      ],
+      "en": [
+        "Case of the Uneaten Feast turned each creature into life gain",
+        "Top 4 at the MTGO Championship Week Finals and an MTGO RC Super Qualifier"
+      ]
+    },
+    "rep": 899162
+  },
+  {
+    "name": "Jeskai Control",
+    "slug": "jeskai-control",
+    "archetype": "control",
+    "titles": [
+      "4/5C Control",
+      "Jeskai Control"
+    ],
+    "cover": "Jeskai Revelation",
+    "keyCards": [
+      "Jeskai Revelation",
+      "Tablet of Discovery",
+      "Stock Up",
+      "Together as One",
+      "Inevitable Defeat"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre et cinq couleurs, pioche et removals, qui finit avec Jeskai Revelation ; Together as One pioche, inflige des blessures et fait gagner des points de vie à la fois.",
+      "en": "Four- and five-colour control on card draw and removal, finishing with Jeskai Revelation; Together as One draws, burns and gains life at once."
+    },
+    "why": {
+      "fr": [
+        "Tablet of Discovery et Stock Up maintenaient l'avantage de cartes",
+        "Vainqueur d'une Cup de l'événement Kadou à Pékin",
+        "Finaliste d'une qualification Champions Cup à Tokyo"
+      ],
+      "en": [
+        "Tablet of Discovery and Stock Up kept the card flow",
+        "Won a Cup at the Kadou event in Beijing",
+        "Reached the final of a Champions Cup qualifier in Tokyo"
+      ]
+    },
+    "rep": 907326
+  },
+  {
+    "name": "Azorius Momo",
+    "slug": "azorius-momo",
+    "archetype": "aggro",
+    "titles": [
+      "Azorius Momo"
+    ],
+    "cover": "Momo, Friendly Flier",
+    "keyCards": [
+      "Momo, Friendly Flier",
+      "Sage of the Skies",
+      "Starfield Shepherd",
+      "Springleaf Drum",
+      "Quantum Riddler"
+    ],
+    "summary": {
+      "fr": "Aggro volant blanc-bleu : petites créatures accélérées par Springleaf Drum, Momo, Friendly Flier et Sage of the Skies, relancées par Quantum Riddler.",
+      "en": "White-blue flier aggro: cheap creatures accelerated by Springleaf Drum, Momo, Friendly Flier and Sage of the Skies, refuelled by Quantum Riddler."
+    },
+    "why": {
+      "fr": [
+        "Finaliste des MTGO Championship Week Finals",
+        "Top 8 au World Championship 32"
+      ],
+      "en": [
+        "Reached the final of the MTGO Championship Week Finals",
+        "Top 8 at World Championship 32"
+      ]
+    },
+    "rep": 899164
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": [
+      "Dimir Control"
+    ],
+    "cover": "Deadly Cover-Up",
+    "keyCards": [
+      "The Theorist, Jace Beleren",
+      "Consult the Star Charts",
+      "Countersculpt",
+      "Three Steps Ahead",
+      "Deadly Cover-Up"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir de contresorts, pioche et Deadly Cover-Up, avec peu de créatures et The Theorist, Jace Beleren comme moteur.",
+      "en": "Blue-black control on counterspells, card draw and Deadly Cover-Up, with few creatures and The Theorist, Jace Beleren as engine."
+    },
+    "why": {
+      "fr": [
+        "Contresorts et Deadly Cover-Up couvraient créatures et sorts",
+        "Top 4 dans une MTGO RC Super Qualifier"
+      ],
+      "en": [
+        "Counterspells and Deadly Cover-Up covered creatures and spells",
+        "Top 4 at an MTGO RC Super Qualifier"
+      ]
+    },
+    "rep": 913717,
+    "note": "Title also covers a Superior Spider-Man / Uldaros Theorix list (900571); rep set to the draw-go build."
+  },
+  {
+    "name": "Sultai Reanimator",
+    "slug": "sultai-reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Superior Reanimator"
+    ],
+    "cover": "Bringer of the Last Gift",
+    "keyCards": [
+      "Bringer of the Last Gift",
+      "Superior Spider-Man",
+      "Formidable Speaker",
+      "Something Worth Saving",
+      "Terror of the Peaks"
+    ],
+    "summary": {
+      "fr": "Deck cimetière Sultai qui met de grosses créatures au cimetière et les ramène, avec Bringer of the Last Gift et Terror of the Peaks comme cibles.",
+      "en": "Sultai graveyard deck that bins large creatures and brings them back, with Bringer of the Last Gift and Terror of the Peaks as targets."
+    },
+    "why": {
+      "fr": [
+        "Bringer of the Last Gift ramenait toutes les créatures des cimetières",
+        "Cavern of Souls protégeait les créatures clés des contresorts",
+        "Finaliste d'une qualification Champions Cup à Tokyo"
+      ],
+      "en": [
+        "Bringer of the Last Gift returned every creature from the graveyards",
+        "Cavern of Souls protected key creatures from counterspells",
+        "Reached the final of a Champions Cup qualifier in Tokyo"
+      ]
+    },
+    "rep": 900565
+  },
+  {
+    "name": "Izzet Mission",
+    "slug": "izzet-mission",
+    "archetype": "control",
+    "titles": [
+      "Izzet Mission"
+    ],
+    "cover": "Anthropological Mission",
+    "keyCards": [
+      "Anthropological Mission",
+      "Ral, Crackling Wit",
+      "Flashback",
+      "Into the Flood Maw",
+      "Consult the Star Charts"
+    ],
+    "summary": {
+      "fr": "Contrôle de sorts Izzet, contresorts, removals et filtrage de pioche, autour d'Anthropological Mission et Ral, Crackling Wit.",
+      "en": "Izzet spells control with counterspells, removal and card selection, built around Anthropological Mission and Ral, Crackling Wit."
+    },
+    "why": {
+      "fr": [
+        "A remporté le World Championship 32, le week-end de l'arrivée de Star Trek",
+        "Vainqueur d'une MTGO RC Super Qualifier le même week-end",
+        "Anthropological Mission faisait piocher et défausser à chaque sort non-créature"
+      ],
+      "en": [
+        "Won World Championship 32, the weekend Star Trek became legal",
+        "Won an MTGO RC Super Qualifier the same weekend",
+        "Anthropological Mission looted on each noncreature spell"
+      ]
+    },
+    "rep": 912141
+  },
+  {
+    "name": "Selesnya Landfall",
+    "slug": "selesnya-landfall",
+    "archetype": "aggro",
+    "titles": [
+      "Selesnya Landfall"
+    ],
+    "cover": "Sazh's Chocobo",
+    "keyCards": [
+      "Mightform Harmonizer",
+      "Sazh's Chocobo",
+      "Earthbender Ascension",
+      "Mossborn Hydra",
+      "Erode"
+    ],
+    "summary": {
+      "fr": "Version vert-blanc du deck landfall : même noyau de créatures et de terrains, avec Erode en removal blanc.",
+      "en": "Green-white version of the landfall deck: the same creature and land core, with Erode as white removal."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au World Championship 32",
+        "Erode ajoutait une réponse aux permanents adverses",
+        "Temple Garden rendait le splash quasi gratuit"
+      ],
+      "en": [
+        "Top 4 at World Championship 32",
+        "Erode added an answer to opposing permanents",
+        "Temple Garden made the splash nearly free"
+      ]
+    },
+    "rep": 912161,
+    "include": [
+      889878
+    ],
+    "note": "889878 is filed as Selesnya Aggro on mtgtop8 but is a landfall list."
+  },
+  {
+    "name": "Boros Momo",
+    "slug": "boros-momo",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Momo",
+      "Boros Pixie"
+    ],
+    "cover": "Captain James T. Kirk",
+    "keyCards": [
+      "Momo, Friendly Flier",
+      "Captain James T. Kirk",
+      "The Naked Time",
+      "Nova Hellkite",
+      "Torch the Tower"
+    ],
+    "summary": {
+      "fr": "Version rouge-blanc du deck Momo, qui ajoute Torch the Tower, Nova Hellkite et deux cartes Star Trek : Captain James T. Kirk et The Naked Time.",
+      "en": "Red-white take on the Momo fliers deck, adding Torch the Tower, Nova Hellkite and two Star Trek cards: Captain James T. Kirk and The Naked Time."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au World Championship 32",
+        "Plusieurs joueurs l'ont inscrit au World Championship 32",
+        "Torch the Tower apportait un removal bon marché absent de la version Azorius"
+      ],
+      "en": [
+        "Top 4 at World Championship 32",
+        "Several players registered it at World Championship 32",
+        "Torch the Tower gave cheap removal the Azorius build lacked"
+      ]
+    },
+    "rep": 912126,
+    "include": [
+      913624,
+      912121,
+      912125,
+      912140,
+      912143,
+      912147,
+      912151,
+      912167,
+      912172,
+      912182
+    ],
+    "note": "Appeared at World Championship 32, the weekend Star Trek became legal; most lists are filed as Boros Aggro."
+  },
+  {
+    "name": "Boros Dragons",
+    "slug": "boros-dragons",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Dragons",
+      "Boros Aggro"
+    ],
+    "cover": "Magmatic Hellkite",
+    "keyCards": [
+      "Sarkhan, Dragon Ascendant",
+      "Nova Hellkite",
+      "Magmatic Hellkite",
+      "Smaug the Magnificent",
+      "Clarion Conqueror"
+    ],
+    "summary": {
+      "fr": "Midrange rouge-blanc de dragons : petits dragons et Sarkhan, Dragon Ascendant mènent à Magmatic Hellkite et à Smaug the Magnificent, issu de The Hobbit, avec Cavern of Souls pour le mana.",
+      "en": "Red-white dragon midrange: cheap dragons and Sarkhan, Dragon Ascendant lead into Magmatic Hellkite and The Hobbit's Smaug the Magnificent, with Cavern of Souls for mana."
+    },
+    "why": {
+      "fr": [
+        "Clarion Conqueror bloquait les capacités activées adverses",
+        "Smaug créait un Treasure par tour et frappait plus fort avec chacun",
+        "Finaliste d'une Cup de l'événement Kadou à Pékin"
+      ],
+      "en": [
+        "Clarion Conqueror shut off opposing activated abilities",
+        "Smaug made a Treasure each turn and hit harder with each one",
+        "Reached the final of a Cup at the Kadou event in Beijing"
+      ]
+    },
+    "rep": 907327,
+    "exclude": [
+      885371,
+      889875,
+      907384,
+      907427
+    ],
+    "note": "Boros Aggro title also covers a go-wide list (Boros Tokens) and Boros Dwarves lists, excluded here."
+  },
+  {
+    "name": "Boros Tokens",
+    "slug": "boros-tokens",
+    "archetype": "aggro",
+    "titles": [],
+    "cover": "Warleader's Call",
+    "keyCards": [
+      "Warleader's Call",
+      "Belladonna Took",
+      "Song of Totentanz",
+      "Frontline Rush",
+      "Stadium Headliner"
+    ],
+    "summary": {
+      "fr": "Aggro rouge-blanc à jetons : Song of Totentanz, Frontline Rush et Hop to It créent des jetons, boostés par Warleader's Call et récompensés par Belladonna Took.",
+      "en": "Red-white go-wide aggro: token makers such as Song of Totentanz, Frontline Rush and Hop to It, pumped by Warleader's Call and rewarded by Belladonna Took."
+    },
+    "why": {
+      "fr": [
+        "Vainqueur d'une qualification Champions Cup à Tokyo",
+        "Warleader's Call infligeait une blessure à chaque créature arrivée en jeu"
+      ],
+      "en": [
+        "Won a Champions Cup qualifier in Tokyo",
+        "Warleader's Call dealt damage with each creature entering"
+      ]
+    },
+    "rep": 885371,
+    "include": [
+      885371
+    ],
+    "note": "Single result, filed as Boros Aggro on mtgtop8; included because it won an event."
+  }
+]

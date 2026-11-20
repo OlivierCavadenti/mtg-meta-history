@@ -36,11 +36,9 @@
     "rep": 853651,
     "include": [
       868049,
-      913627,
       814350,
       868050,
       814352,
-      899151,
       844549,
       847764,
       847383,
@@ -104,8 +102,6 @@
     "rep": 788100,
     "exclude": [
       844550,
-      907404,
-      885377,
       853539,
       853576
     ]
@@ -282,32 +278,32 @@
     "titles": [
       "Selesnya Aggro"
     ],
-    "rep": 912137,
-    "cover": "Michelangelo, Weirdness to 11",
+    "rep": 849799,
+    "cover": "Ouroboroid",
     "keyCards": [
       "Ouroboroid",
-      "Michelangelo, Weirdness to 11",
-      "Bejeweled Warg",
-      "Pawpatch Recruit",
-      "Gene Pollinator"
+      "Keen-Eyed Curator",
+      "Sage of the Skies",
+      "Brightglass Gearhulk",
+      "Pawpatch Recruit"
     ],
     "summary": {
-      "fr": "Aggro vert-blanc de créatures : accélérateurs comme Llanowar Elves puis Ouroboroid, Michelangelo, Weirdness to 11 et Bejeweled Warg.",
-      "en": "Green-white creature aggro: accelerants like Llanowar Elves lead into Ouroboroid, Michelangelo, Weirdness to 11 and Bejeweled Warg."
+      "fr": "Aggro vert-blanc de créatures : Llanowar Elves et Badgermole Cub accélèrent vers Ouroboroid, Keen-Eyed Curator et Brightglass Gearhulk.",
+      "en": "Green-white creature aggro: Llanowar Elves and Badgermole Cub accelerate into Ouroboroid, Keen-Eyed Curator and Brightglass Gearhulk."
     },
     "why": {
       "fr": [
-        "Finaliste du World Championship 32",
-        "Llanowar Elves et Gene Pollinator permettaient des départs rapides",
-        "Présent en top 8 de l'automne à la fin de la saison"
+        "Top 4 aux Regional Championships d'Adélaïde et de Washington",
+        "Brightglass Gearhulk allait chercher jusqu'à deux cartes à un mana",
+        "Ses top 8 se concentrent sur les derniers mois de la saison"
       ],
       "en": [
-        "Reached the final of World Championship 32",
-        "Llanowar Elves and Gene Pollinator allowed fast starts",
-        "Made top 8s from the autumn to the end of the season"
+        "Top 4 at the Regional Championships in Adelaide and Washington",
+        "Brightglass Gearhulk fetched up to two one-mana cards",
+        "Its top 8s came in the last months of the season"
       ]
     },
-    "note": "Title is mixed (some Nature's Rhythm and landfall lists); rep set to the Worlds finalist list."
+    "note": "Title is mixed (some Nature's Rhythm and landfall lists); rep set to the Adelaide Regional Championship top 4 list. The Worlds 32 finalist list moved to 2026-hob."
   },
   {
     "name": "Izzet Cauldron",
@@ -515,10 +511,7 @@
     "note": "Boros Aggro title also includes early Boros Mice lists.",
     "rep": 812011,
     "exclude": [
-      885371,
       799196,
-      913624,
-      889875,
       759335,
       823056,
       823058,
@@ -532,18 +525,7 @@
       776886,
       799256,
       799257,
-      822365,
-      907384,
-      907427,
-      912121,
-      912125,
-      912140,
-      912143,
-      912147,
-      912151,
-      912167,
-      912172,
-      912182
+      822365
     ]
   },
   {
@@ -581,53 +563,6 @@
       ]
     },
     "rep": 844544
-  },
-  {
-    "name": "Boros Momo",
-    "slug": "boros-momo",
-    "archetype": "aggro",
-    "titles": [
-      "Boros Momo",
-      "Boros Pixie"
-    ],
-    "cover": "Captain James T. Kirk",
-    "keyCards": [
-      "Momo, Friendly Flier",
-      "Captain James T. Kirk",
-      "The Naked Time",
-      "Nova Hellkite",
-      "Torch the Tower"
-    ],
-    "summary": {
-      "fr": "Version rouge-blanc du deck Momo, qui ajoute Torch the Tower, Nova Hellkite et Captain James T. Kirk.",
-      "en": "Red-white take on the Momo fliers deck, adding Torch the Tower, Nova Hellkite and Captain James T. Kirk."
-    },
-    "why": {
-      "fr": [
-        "Top 4 au World Championship 32",
-        "Torch the Tower apportait un removal bon marché absent de la version Azorius"
-      ],
-      "en": [
-        "Top 4 at World Championship 32",
-        "Torch the Tower gave cheap removal the Azorius build lacked"
-      ]
-    },
-    "note": "Appeared only in the last week of the season.",
-    "rep": 912126,
-    "include": [
-      913624,
-      823056,
-      823058,
-      912121,
-      912125,
-      912140,
-      912143,
-      912147,
-      912151,
-      912167,
-      912172,
-      912182
-    ]
   },
   {
     "name": "Azorius Flash",
@@ -776,8 +711,8 @@
     "keyCards": [
       "Bringer of the Last Gift",
       "Superior Spider-Man",
-      "Formidable Speaker",
-      "Something Worth Saving",
+      "Overlord of the Balemurk",
+      "Awaken the Honored Dead",
       "Terror of the Peaks"
     ],
     "summary": {
@@ -787,16 +722,16 @@
     "why": {
       "fr": [
         "Bringer of the Last Gift ramenait toutes les créatures des cimetières",
-        "Cavern of Souls protégeait les créatures clés des contresorts",
-        "Top 8 réguliers d'octobre à la fin de la saison"
+        "Overlord of the Balemurk et Awaken the Honored Dead remplissaient le cimetière",
+        "Top 8 au World Championship 31"
       ],
       "en": [
         "Bringer of the Last Gift returned every creature from the graveyards",
-        "Cavern of Souls protected key creatures from counterspells",
-        "Regular top 8s from October to the end of the season"
+        "Overlord of the Balemurk and Awaken the Honored Dead filled the graveyard",
+        "Top 8 at World Championship 31"
       ]
     },
-    "rep": 900565
+    "rep": 788103
   },
   {
     "name": "Sultai Control",
@@ -805,62 +740,30 @@
     "titles": [
       "Sultai Control"
     ],
-    "cover": "Uldaros Theorix",
+    "cover": "Superior Spider-Man",
     "keyCards": [
-      "Uldaros Theorix",
       "Superior Spider-Man",
+      "Deceit",
       "Awaken the Honored Dead",
-      "Theorix Charm",
-      "Steamcore Scholar"
+      "Rakshasa's Bargain",
+      "Withering Curse"
     ],
     "summary": {
-      "fr": "Contrôle Sultai orienté cimetière : removals, Awaken the Honored Dead et Superior Spider-Man, avec Uldaros Theorix pour finir.",
-      "en": "Graveyard-based Sultai control: removal, Awaken the Honored Dead and Superior Spider-Man, finishing with Uldaros Theorix."
+      "fr": "Contrôle Sultai orienté cimetière : removals, Withering Curse et Awaken the Honored Dead, avec Superior Spider-Man qui copie Deceit.",
+      "en": "Graveyard-based Sultai control: removal, Withering Curse and Awaken the Honored Dead, with Superior Spider-Man copying Deceit."
     },
     "why": {
       "fr": [
-        "Requiting Hex et Bitter Triumph géraient les menaces précoces",
-        "Top 4 au Regional Championship de Chine"
+        "Rakshasa's Bargain piochait tout en remplissant le cimetière",
+        "Top 4 au Regional Championship de Chengdu"
       ],
       "en": [
-        "Requiting Hex and Bitter Triumph handled early threats",
-        "Top 4 at the Chinese Regional Championship"
+        "Rakshasa's Bargain drew cards while filling the graveyard",
+        "Top 4 at the Regional Championship in Chengdu"
       ]
     },
     "note": "Title mixes several Sultai shells over the season.",
-    "rep": 907431
-  },
-  {
-    "name": "Dimir Control",
-    "slug": "dimir-control",
-    "archetype": "control",
-    "titles": [
-      "Dimir Control"
-    ],
-    "rep": 806939,
-    "cover": "Deadly Cover-Up",
-    "keyCards": [
-      "Consult the Star Charts",
-      "Three Steps Ahead",
-      "Spell Snare",
-      "Deadly Cover-Up",
-      "Wan Shi Tong, Librarian"
-    ],
-    "summary": {
-      "fr": "Contrôle bleu-noir de contresorts, pioche et Deadly Cover-Up, avec peu de créatures comme Wan Shi Tong, Librarian.",
-      "en": "Blue-black control on counterspells, card draw and Deadly Cover-Up, with few creatures such as Wan Shi Tong, Librarian."
-    },
-    "why": {
-      "fr": [
-        "Contresorts et Deadly Cover-Up couvraient créatures et sorts",
-        "Demolition Field répondait aux terrains utilitaires"
-      ],
-      "en": [
-        "Counterspells and Deadly Cover-Up covered creatures and spells",
-        "Demolition Field answered utility lands"
-      ]
-    },
-    "note": "Title also covers a Fear of Isolation bounce list; rep set to the draw-go build."
+    "rep": 847729
   },
   {
     "name": "Bant Airbending",
@@ -926,38 +829,6 @@
     },
     "note": "Single top 8, included because it won an event.",
     "rep": 795478
-  },
-  {
-    "name": "Jund Sacrifice",
-    "slug": "jund-sacrifice",
-    "archetype": "midrange",
-    "titles": [
-      "Jund Sacrifice",
-      "Jund Aggro"
-    ],
-    "cover": "The Sackville-Bagginses",
-    "keyCards": [
-      "Greedy Freebooter",
-      "Biotech Specialist",
-      "The Sackville-Bagginses",
-      "Lively Dirge",
-      "Obsessive Pursuit"
-    ],
-    "summary": {
-      "fr": "Midrange Jund de sacrifice : petites créatures à valeur comme Greedy Freebooter et Biotech Specialist, recyclées par Lively Dirge.",
-      "en": "Jund sacrifice midrange: small value creatures such as Greedy Freebooter and Biotech Specialist, recurred by Lively Dirge."
-    },
-    "why": {
-      "fr": [
-        "Lively Dirge remettait plusieurs créatures en jeu depuis le cimetière",
-        "Apparu en fin de saison, avec plusieurs victoires en quelques semaines"
-      ],
-      "en": [
-        "Lively Dirge returned several creatures from the graveyard",
-        "Appeared late in the season and won several events within weeks"
-      ]
-    },
-    "rep": 907398
   },
   {
     "name": "Mardu Discard",
@@ -1071,39 +942,6 @@
     "rep": 815402
   },
   {
-    "name": "Orzhov Amalia",
-    "slug": "orzhov-amalia",
-    "archetype": "combo",
-    "titles": [
-      "Orzhov Amalia",
-      "Orzhov Aggro"
-    ],
-    "cover": "Amalia Benavides Aguirre",
-    "keyCards": [
-      "Amalia Benavides Aguirre",
-      "Case of the Uneaten Feast",
-      "Hinterland Sanctifier",
-      "Haliya, Guided by Light",
-      "Lunar Convocation"
-    ],
-    "summary": {
-      "fr": "Gain de vie blanc-noir autour d'Amalia Benavides Aguirre, qui explore à chaque gain de vie, alimenté par Case of the Uneaten Feast.",
-      "en": "White-black lifegain built around Amalia Benavides Aguirre, which explores on each life gain, fed by Case of the Uneaten Feast."
-    },
-    "why": {
-      "fr": [
-        "Case of the Uneaten Feast transformait chaque créature en gain de vie",
-        "Plusieurs top 8 dans les dernières semaines de la saison"
-      ],
-      "en": [
-        "Case of the Uneaten Feast turned each creature into life gain",
-        "Several top 8s in the last weeks of the season"
-      ]
-    },
-    "note": "Orzhov Aggro title also has one early Pixie list.",
-    "rep": 899162
-  },
-  {
     "name": "Omniscience Combo",
     "slug": "omniscience-combo",
     "archetype": "combo",
@@ -1165,38 +1003,6 @@
       ]
     },
     "rep": 788101
-  },
-  {
-    "name": "Izzet Mission",
-    "slug": "izzet-mission",
-    "archetype": "control",
-    "titles": [
-      "Izzet Mission"
-    ],
-    "cover": "Anthropological Mission",
-    "keyCards": [
-      "Anthropological Mission",
-      "Ral, Crackling Wit",
-      "Flashback",
-      "Into the Flood Maw",
-      "Consult the Star Charts"
-    ],
-    "summary": {
-      "fr": "Contrôle de sorts Izzet, contresorts, removals et filtrage de pioche, autour d'Anthropological Mission et Ral, Crackling Wit.",
-      "en": "Izzet spells control with counterspells, removal and card selection, built around Anthropological Mission and Ral, Crackling Wit."
-    },
-    "why": {
-      "fr": [
-        "A remporté le World Championship 32",
-        "Une autre victoire le lendemain, en toute fin de saison"
-      ],
-      "en": [
-        "Won World Championship 32",
-        "Won another event the next day, at the very end of the season"
-      ]
-    },
-    "note": "Very recent; only a few results so far.",
-    "rep": 912141
   },
   {
     "name": "Gruul Aggro",

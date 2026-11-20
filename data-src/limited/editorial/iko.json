@@ -1,0 +1,342 @@
+[
+  {
+    "colors": "WB",
+    "name": "Orzhov Humans",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les Humains contre les monstres : un deck d'usure fait d'Humains et de jetons, où Whisper Squad tirait ses copies de la bibliothèque et Dire Tactics exilait les menaces.",
+      "en": "Humans against the monsters: a grinding deck of Human creatures and tokens, with Whisper Squad pulling copies from the library and Dire Tactics exiling threats."
+    },
+    "why": {
+      "fr": [
+        "Pour Draftsim, il tenait discrètement la deuxième place du format.",
+        "MTG Arena Zone jugeait les Humains Mardu sans doute la stratégie la plus forte du set.",
+        "Souvent avec une touche de rouge, troisième couleur du tricolore des Humains."
+      ],
+      "en": [
+        "Draftsim believed it quietly held second place among the set's decks.",
+        "MTG Arena Zone called Mardu Humans probably the strongest strategy of the set.",
+        "Often splashed or leaned red, the third color of the Human wedge."
+      ]
+    },
+    "keyCards": [
+      "General's Enforcer",
+      "Dire Tactics",
+      "Whisper Squad",
+      "Bushmeat Poacher",
+      "Durable Coilbug",
+      "Drannith Healer"
+    ],
+    "cover": "General's Enforcer",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorts non-créatures et cycle nourrissaient les marqueurs de Sprite Dragon et Pyroceratops ; Of One Mind et Forbidden Friendship ajoutaient cartes et jetons.",
+      "en": "Noncreature spells and cycling fed Sprite Dragon's counters and Pyroceratops; Of One Mind and Forbidden Friendship added cards and tokens."
+    },
+    "why": {
+      "fr": [
+        "Ses decks penchaient souvent vers le cycle plutôt que vers les seuls sorts, selon Draftsim.",
+        "Plus amusant et moins disputé que le cycle Boros, selon MTG Arena Zone.",
+        "Ominous Seas ou Of One Mind passés tard signalaient la voie ouverte."
+      ],
+      "en": [
+        "Its decks often leaned into cycling rather than spells alone, per Draftsim.",
+        "Fun and less contested than Boros cycling, per MTG Arena Zone.",
+        "A late Ominous Seas or Of One Mind signaled the lane was open."
+      ]
+    },
+    "keyCards": [
+      "Sprite Dragon",
+      "Channeled Force",
+      "Of One Mind",
+      "Forbidden Friendship",
+      "Pyroceratops",
+      "Ominous Seas"
+    ],
+    "cover": "Sprite Dragon",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Reanimator",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Cycler tôt de gros monstres comme Titanoth Rex et Void Beckoner, puis les ramener avec Back for More ou Unbreakable Bond ; Skull Prophet meulait et accélérait.",
+      "en": "Cycle large monsters like Titanoth Rex and Void Beckoner early, then return them with Back for More or Unbreakable Bond; Skull Prophet milled and ramped."
+    },
+    "why": {
+      "fr": [
+        "Le thème mineur que Draftsim cherchait activement à drafter.",
+        "Seulement deux sorts de réanimation, donc moins souvent vus que les grands piliers."
+      ],
+      "en": [
+        "The minor theme Draftsim actively tried to draft.",
+        "Only two reanimation spells, so it came together less often than the pillar decks."
+      ]
+    },
+    "keyCards": [
+      "Skull Prophet",
+      "Back for More",
+      "Unbreakable Bond",
+      "Titanoth Rex",
+      "Void Beckoner",
+      "Boneyard Lurker"
+    ],
+    "cover": "Skull Prophet",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Cycling",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Cycler sans cesse des cartes bon marché, parfois sur 12 ou 13 terrains, déclencher Flourishing Fox et Drannith Stinger, puis finir avec Zenith Flare.",
+      "en": "Cycle cheap cards over and over, sometimes on 12 or 13 lands, trigger Flourishing Fox and Drannith Stinger, then finish with Zenith Flare."
+    },
+    "why": {
+      "fr": [
+        "Pour Draftsim, de loin le meilleur archétype du set.",
+        "Grand ouvert pendant des semaines sur Arena à sa sortie, selon MTG Arena Zone.",
+        "Ses permanents bon marché convenaient au compagnon Lurrus."
+      ],
+      "en": [
+        "Called easily the best archetype of the set by Draftsim.",
+        "Wide open on Arena for weeks after release, per MTG Arena Zone.",
+        "Its cheap permanents suited Lurrus as a companion."
+      ]
+    },
+    "keyCards": [
+      "Zenith Flare",
+      "Savai Thundermane",
+      "Flourishing Fox",
+      "Drannith Stinger",
+      "Valiant Rescuer",
+      "Drannith Healer"
+    ],
+    "cover": "Zenith Flare",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Mutate",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Empiler des créatures à mutation sur des non-Humains pour cumuler leurs déclencheurs ; Parcelbeast et Auspicious Starrix récompensaient chaque mutation.",
+      "en": "Stack mutate creatures on non-Humans to collect each one's trigger; Parcelbeast and Auspicious Starrix rewarded every mutate."
+    },
+    "why": {
+      "fr": [
+        "Les decks mutation les plus aboutis étaient bleu-vert, selon Draftsim.",
+        "Solide mais pas le plus fort, et sous-estimé, selon MTG Arena Zone.",
+        "Un removal sur une grosse pile coûtait plusieurs cartes à son propriétaire."
+      ],
+      "en": [
+        "The most focused mutate decks were blue-green, per Draftsim.",
+        "Solid but not the strongest, and undervalued, per MTG Arena Zone.",
+        "Removal on a big mutate pile cost its owner several cards at once."
+      ]
+    },
+    "keyCards": [
+      "Parcelbeast",
+      "Primal Empathy",
+      "Auspicious Starrix",
+      "Pouncing Shoreshark",
+      "Gemrazer",
+      "Essence Symbiote"
+    ],
+    "cover": "Parcelbeast",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Flying",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Une paire alliée à mot-clé : les volants devenaient plus chers à cibler sous Jubilant Skybonder, et des marqueurs vol étendaient l'évasion à d'autres créatures.",
+      "en": "An allied pair built on a keyword: fliers became costlier to target under Jubilant Skybonder, and flying counters spread evasion to more creatures."
+    },
+    "why": {
+      "fr": [
+        "Les paires alliées n'avaient qu'un soutien mineur face aux guildes ennemies, selon mtg.wiki.",
+        "Draftsim trouvait ce bonder peu inspirant et ne le jouait qu'avec sa rare."
+      ],
+      "en": [
+        "Allied pairs had only minor support next to the enemy-color guilds, per mtg.wiki.",
+        "Draftsim found its bonder uninspiring and played the theme only with its rare."
+      ]
+    },
+    "keyCards": [
+      "Jubilant Skybonder",
+      "Wingfold Pteron",
+      "Vulpikeet",
+      "Dreamtail Heron",
+      "Capture Sphere"
+    ],
+    "cover": "Jubilant Skybonder",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Flash",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Créatures et removal à vitesse instantanée : Cunning Nightbonder rendait les sorts à flash moins chers et incontrables, à commencer par Blitz Leech et Capture Sphere.",
+      "en": "Instant-speed creatures and removal: Cunning Nightbonder made flash spells cheaper and uncounterable, starting with Blitz Leech and Capture Sphere."
+    },
+    "why": {
+      "fr": [
+        "Le flash figurait parmi les paquets de mots-clés les plus fréquents, selon Draftsim.",
+        "Paire alliée au soutien mineur comparée aux guildes ennemies, selon mtg.wiki."
+      ],
+      "en": [
+        "Flash was among the more common keyword packages, per Draftsim.",
+        "An allied pair with minor support next to the enemy-color guilds, per mtg.wiki."
+      ]
+    },
+    "keyCards": [
+      "Cunning Nightbonder",
+      "Blitz Leech",
+      "Capture Sphere",
+      "Neutralize",
+      "Suffocating Fumes"
+    ],
+    "cover": "Cunning Nightbonder",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Menace",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Des créatures à menace, presque imblocables sous Sonorous Howlbonder ; Blood Curdle laissait un marqueur menace et Tentative Connection volait un bloqueur pour un mana.",
+      "en": "Menace creatures, nearly unblockable under Sonorous Howlbonder; Blood Curdle left a menace counter and Tentative Connection stole a blocker for one mana."
+    },
+    "why": {
+      "fr": [
+        "Le paquet de mot-clé qui a le mieux marché pour MTG Arena Zone, porté par Blood Curdle.",
+        "Tentative Connection exigeait des débouchés de sacrifice, selon Draftsim."
+      ],
+      "en": [
+        "The keyword package that did best for MTG Arena Zone, carried by Blood Curdle.",
+        "Tentative Connection needed sacrifice outlets to be worth it, per Draftsim."
+      ]
+    },
+    "keyCards": [
+      "Sonorous Howlbonder",
+      "Blood Curdle",
+      "Tentative Connection",
+      "Weaponize the Monsters",
+      "Serrated Scorpion"
+    ],
+    "cover": "Sonorous Howlbonder",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Trample",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "De grosses créatures à piétinement et du removal façon combat ; Proud Wildbonder permettait d'assigner les dégâts comme si l'attaquant n'était pas bloqué.",
+      "en": "Big trampling creatures and fight-style removal; Proud Wildbonder let tramplers assign damage as though they weren't blocked."
+    },
+    "why": {
+      "fr": [
+        "Draftsim trouvait ce bonder peu inspirant et ne jouait le thème qu'avec sa rare.",
+        "Paire alliée au soutien mineur face aux guildes ennemies, selon mtg.wiki."
+      ],
+      "en": [
+        "Draftsim found its bonder uninspiring and played the theme only with its rare.",
+        "An allied pair with minor support next to the enemy-color guilds, per mtg.wiki."
+      ]
+    },
+    "keyCards": [
+      "Proud Wildbonder",
+      "Ram Through",
+      "Titanoth Rex",
+      "Almighty Brushwagg",
+      "Excavation Mole"
+    ],
+    "cover": "Proud Wildbonder",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Vigilance",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Des créatures à vigilance qui attaquaient et bloquaient ; Alert Heedbonder gagnait de la vie pour chacune, Solid Footing les faisait frapper selon leur endurance.",
+      "en": "Vigilance creatures that attacked and still blocked; Alert Heedbonder gained life for each one, and Solid Footing made them deal damage equal to toughness."
+    },
+    "why": {
+      "fr": [
+        "Draftsim jugeait le paquet vigilance plutôt fort, à glisser dans son deck.",
+        "MTG Arena Zone tenait Alert Heedbonder pour une carte vraiment puissante."
+      ],
+      "en": [
+        "Draftsim called the vigilance package pretty strong, worth slotting in.",
+        "MTG Arena Zone rated Alert Heedbonder a seriously powerful card."
+      ]
+    },
+    "keyCards": [
+      "Alert Heedbonder",
+      "Solid Footing",
+      "Maned Serval",
+      "Mosscoat Goriak",
+      "Flycatcher Giraffid"
+    ],
+    "cover": "Alert Heedbonder",
+    "sources": [
+      "https://mtg.wiki/page/Ikoria:_Lair_of_Behemoths",
+      "https://draftsim.com/ikoria-draft-guide/",
+      "https://mtgazone.com/ikoria-lair-of-behemoths-draft-guide/"
+    ],
+    "tier": 2
+  }
+]

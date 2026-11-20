@@ -1,0 +1,282 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Des volants appuyés par du removal : Watcher of the Spheres rendait les volants moins chers et grandissait avec eux, Tide Skimmer piochait des cartes.",
+      "en": "Fliers backed by removal: Watcher of the Spheres made fliers cheaper and grew with each one, and Tide Skimmer drew cards."
+    },
+    "why": {
+      "fr": [
+        "Pour MTG Arena Zone, peu de decks avaient de réponse aux volants : la paire était très forte.",
+        "Tier 2 pour Draftsim, derrière les trois decks agressifs de tête."
+      ],
+      "en": [
+        "MTG Arena Zone found most decks had little answer to fliers, making it very powerful.",
+        "Tier 2 for Draftsim, behind the three aggressive leaders."
+      ]
+    },
+    "keyCards": ["Watcher of the Spheres", "Gale Swooper", "Tide Skimmer", "Skyscanner", "Concordia Pegasus", "Capture Sphere"],
+    "cover": "Watcher of the Spheres",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://mtgazone.com/core-set-2021-draft-guide/",
+      "https://draftsim.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Reanimator",
+    "archetype": "control",
+    "summary": {
+      "fr": "Un contrôle lent qui défaussait avec Obsessive Stitcher pour remplir le cimetière et réanimer, ou meulait l'adversaire avec Teferi's Tutelage.",
+      "en": "A slow control deck that looted with Obsessive Stitcher to fill the graveyard and reanimate, or milled out the opponent with Teferi's Tutelage."
+    },
+    "why": {
+      "fr": [
+        "Selon Draftsim, il dépendait de plusieurs unco, faute de soutien à la commune.",
+        "Teferi's Tutelage, condition de victoire à part entière, était disputée par d'autres drafteurs.",
+        "Les communes noires étaient en retrait sur les autres couleurs."
+      ],
+      "en": [
+        "Per Draftsim, it relied on several uncommons, with too little support at common.",
+        "Teferi's Tutelage was a real build-around, but other drafters fought over it.",
+        "Black's commons trailed the other colors, per Draftsim."
+      ]
+    },
+    "keyCards": ["Obsessive Stitcher", "Teferi's Tutelage", "Rousing Read", "Enthralling Hold", "Skeleton Archer"],
+    "cover": "Obsessive Stitcher",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://draftsim.com/core-set-2021-draft-guide/",
+      "https://mtgazone.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifier de petites créatures pour de la valeur : Dire Fleet Warmonger grandissait et gagnait le piétinement en mangeant une créature, Village Rites piochait en réponse au removal.",
+      "en": "Sacrifice small creatures for value: Dire Fleet Warmonger grew and gained trample by eating another creature, and Village Rites drew cards in response to removal."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone : des créatures vite dépassées et un thème sacrifice à moitié abouti.",
+        "Le gain de vie abondant du format rendait la portée difficile à trouver.",
+        "Draftsim, plus clément, le plaçait dans son deuxième tier."
+      ],
+      "en": [
+        "MTG Arena Zone: creatures got outclassed quickly and the sacrifice theme felt half-baked.",
+        "Abundant life gain in the format made reach damage hard to find.",
+        "Draftsim was kinder, placing it in its second tier."
+      ]
+    },
+    "keyCards": ["Dire Fleet Warmonger", "Village Rites", "Sanctum of Stone Fangs", "Malefic Scythe"],
+    "cover": "Dire Fleet Warmonger",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://mtgazone.com/core-set-2021-draft-guide/",
+      "https://draftsim.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Ferocious",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Accélérer vers des créatures de force 4 ou plus ; Leafkin Avenger produisait du mana pour chacune et pouvait ensuite infliger sa force à un joueur.",
+      "en": "Ramp into creatures with 4 or more power; Leafkin Avenger made extra mana for each and could later deal its power in damage to a player."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone trouvait peu de soutien au thème force 4 dans le set.",
+        "Encore bon avec assez de removal rouge et une courbe correcte, selon le même guide."
+      ],
+      "en": [
+        "MTG Arena Zone found little support for the 4-power theme in the set.",
+        "Still good with enough red removal and a decent curve, per the same guide."
+      ]
+    },
+    "keyCards": ["Leafkin Avenger", "Llanowar Visionary", "Volcanic Geyser", "Palladium Myr", "Thrashing Brontodon"],
+    "cover": "Leafkin Avenger",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://mtgazone.com/core-set-2021-draft-guide/",
+      "https://draftsim.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Counters",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Un deck agressif à marqueurs +1/+1 : les premières créatures grandissaient au fil de la partie, et Conclave Mentor ajoutait un marqueur de plus à chaque fois.",
+      "en": "An aggressive +1/+1 counters deck: early drops scaled up through the game, and Conclave Mentor added one more counter every time."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim, l'un des trois decks phares du format.",
+        "MTG Arena Zone y voyait une combinaison agressive étonnamment forte.",
+        "Drowsing Tyrannodon, 3/3 pour deux, attaquait facilement avec ce soutien."
+      ],
+      "en": [
+        "Tier 1 for Draftsim, one of the format's three premier decks.",
+        "MTG Arena Zone called the pair a surprisingly strong aggro combination.",
+        "Drowsing Tyrannodon, a 3/3 for two, attacked easily with this support."
+      ]
+    },
+    "keyCards": ["Conclave Mentor", "Basri's Acolyte", "Drowsing Tyrannodon", "Trufflesnout", "Feat of Resistance", "Vryn Wingmare"],
+    "cover": "Conclave Mentor",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://draftsim.com/core-set-2021-draft-guide/",
+      "https://mtgazone.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Lifegain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gagner de la vie chaque tour pour drainer : Indulging Patrician faisait perdre 3 points en fin de tour après 3 points gagnés, avec Revitalize et Tavern Swindler en appui.",
+      "en": "Gain life every turn and drain: Indulging Patrician made each opponent lose 3 at end step after you gained 3 or more, fed by Revitalize and Tavern Swindler."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone voulait plusieurs Indulging Patrician avant de s'y engager.",
+        "Tier 2 pour Draftsim : un thème moins soutenu que celui des decks de tête."
+      ],
+      "en": [
+        "MTG Arena Zone wanted multiple Indulging Patricians before committing.",
+        "Tier 2 for Draftsim: its theme was less supported than the leaders'."
+      ]
+    },
+    "keyCards": ["Indulging Patrician", "Revitalize", "Griffin Aerie", "Silversmote Ghoul", "Sanguine Indulgence", "Tavern Swindler"],
+    "cover": "Indulging Patrician",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://mtgazone.com/core-set-2021-draft-guide/",
+      "https://draftsim.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Prowess",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Quatorze ou quinze créatures et beaucoup de sorts non-créatures ; la prouesse et Spellgorger Weird grandissaient à chacun, Experimental Overload créait un gros Weird.",
+      "en": "Fourteen or fifteen creatures and many noncreature spells; prowess and Spellgorger Weird grew with each one, and Experimental Overload made a large Weird."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim, l'un des trois decks phares du format.",
+        "Ses sorts plaisaient aux autres decks : il fallait se battre pour les cartes clés.",
+        "Un Spellgorger Weird tardif signalait la voie ouverte."
+      ],
+      "en": [
+        "Tier 1 for Draftsim, one of the format's three premier decks.",
+        "Other decks wanted its spells too, so the key cards had to be fought for.",
+        "A late Spellgorger Weird signaled the lane was open."
+      ]
+    },
+    "keyCards": ["Experimental Overload", "Spellgorger Weird", "Goblin Wizardry", "Riddleform", "Opt", "Crash Through"],
+    "cover": "Experimental Overload",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://draftsim.com/core-set-2021-draft-guide/",
+      "https://mtgazone.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Morbid",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Échanger les créatures et profiter des morts : Twinblade Assassins piochait en fin de tour dès qu'une créature était morte ce tour-ci.",
+      "en": "Trade creatures and profit from deaths: Twinblade Assassins drew a card at end step whenever a creature had died that turn."
+    },
+    "why": {
+      "fr": [
+        "Le seul deck de tier 3 pour Draftsim : plafond bas, rarement assemblé.",
+        "MTG Arena Zone jugeait son thème décousu."
+      ],
+      "en": [
+        "The only tier 3 deck for Draftsim: low ceiling, rarely came together.",
+        "MTG Arena Zone found its theme unfocused."
+      ]
+    },
+    "keyCards": ["Twinblade Assassins", "Fetid Imp", "Skeleton Archer", "Village Rites", "Hunter's Edge"],
+    "cover": "Twinblade Assassins",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://draftsim.com/core-set-2021-draft-guide/",
+      "https://mtgazone.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Dogs",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Jouer large et attaquer : Alpine Houndmaster allait chercher Alpine Watchdog et Igneous Cur, et Chandra's Magmutt ajoutait des dégâts directs.",
+      "en": "Go wide and attack: Alpine Houndmaster fetched Alpine Watchdog and Igneous Cur, and Chandra's Magmutt added reach damage."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour Draftsim, l'un des trois decks phares du format.",
+        "MTG Arena Zone jugeait Alpine Houndmaster presque indispensable pour ne pas s'essouffler.",
+        "Des communes profondes et interchangeables, assez pour plusieurs drafteurs."
+      ],
+      "en": [
+        "Tier 1 for Draftsim, one of the format's three premier decks.",
+        "MTG Arena Zone called Alpine Houndmaster almost essential to avoid running out of steam.",
+        "Deep, interchangeable commons, enough for several drafters at a table."
+      ]
+    },
+    "keyCards": ["Alpine Houndmaster", "Alpine Watchdog", "Igneous Cur", "Daybreak Charger", "Chandra's Magmutt", "Furious Rise"],
+    "cover": "Alpine Houndmaster",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://draftsim.com/core-set-2021-draft-guide/",
+      "https://mtgazone.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Card Draw",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Piocher en plus et convertir en présence : Lorescale Coatl grandissait à chaque carte piochée, Rousing Read piochait et donnait le vol à une créature.",
+      "en": "Draw extra cards and turn them into board presence: Lorescale Coatl grew with each card drawn, and Rousing Read drew cards and gave a creature flying."
+    },
+    "why": {
+      "fr": [
+        "L'auteur de MTG Arena Zone adorait la paire : peu de removal, mais de quoi mettre la pression.",
+        "Tier 2 pour Draftsim, un thème moins soutenu que les decks agressifs."
+      ],
+      "en": [
+        "MTG Arena Zone's author loved the pair: short on removal, but able to pressure.",
+        "Tier 2 for Draftsim, its theme thinner than the aggressive decks'."
+      ]
+    },
+    "keyCards": ["Lorescale Coatl", "Warden of the Woods", "Rousing Read", "Library Larcenist", "Thrashing Brontodon"],
+    "cover": "Lorescale Coatl",
+    "sources": [
+      "https://mtg.wiki/page/Core_Set_2021",
+      "https://mtgazone.com/core-set-2021-draft-guide/",
+      "https://draftsim.com/core-set-2021-draft-guide/"
+    ],
+    "tier": 2
+  }
+]

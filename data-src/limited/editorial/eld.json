@@ -1,0 +1,403 @@
+[
+  {
+    "colors": "W",
+    "name": "Ardenvale Loyalty",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Le blanc mono de la cour d'Ardenvale : jouer large, des créatures qui se renforcent entre elles, et des cartes adamant comme Ardenvale Paladin, bonifiées par trois manas blancs.",
+      "en": "Mono-white from the court of Ardenvale: go wide with creatures that buff one another, and adamant cards like Ardenvale Paladin that improve when three white mana is spent."
+    },
+    "why": {
+      "fr": [
+        "Adamant récompensait l'engagement dans une seule couleur, selon le design du set.",
+        "Signposts hybrides et artefacts incolores rendaient le mono-couleur viable."
+      ],
+      "en": [
+        "Adamant rewarded heavy commitment to one color, by the set's design.",
+        "Hybrid signposts and many colorless artifacts made mono-color decks viable."
+      ]
+    },
+    "keyCards": ["Ardenvale Paladin", "Syr Alin, the Lion's Claw", "Youthful Knight", "Silverflame Squire // On Alert", "Faerie Guidemother // Gift of the Fae", "Trapped in the Tower"],
+    "cover": "Ardenvale Paladin",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://scryfall.com/search?q=set%3Aeld+o%3Aadamant+c%3Dw"
+    ]
+  },
+  {
+    "colors": "U",
+    "name": "Vantress Knowledge",
+    "archetype": "control",
+    "summary": {
+      "fr": "Le bleu mono de Vantress : contrôle et pioche, contresorts et Charmed Sleep, avec Vantress Paladin et les autres cartes adamant pour récompenser l'engagement.",
+      "en": "Mono-blue from Vantress: control and card draw, counterspells and Charmed Sleep, with Vantress Paladin and other adamant cards rewarding full commitment."
+    },
+    "why": {
+      "fr": [
+        "MTG Arena Zone comptait le bleu mono artefacts parmi les options viables de tier 2.",
+        "Le bleu et le noir étaient les meilleures couleurs du set selon le même guide."
+      ],
+      "en": [
+        "MTG Arena Zone listed mono-blue artifacts among the viable tier 2 options.",
+        "Blue and black were the best colors of the set, per the same guide."
+      ]
+    },
+    "keyCards": ["Vantress Paladin", "Syr Elenora, the Discerning", "Into the Story", "Charmed Sleep", "Didn't Say Please"],
+    "cover": "Vantress Paladin",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/"
+    ]
+  },
+  {
+    "colors": "B",
+    "name": "Locthwain Persistence",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le noir mono de Locthwain : récursion depuis le cimetière avec Cauldron's Gift et Forever Young, removal noir et Knights adamant comme Locthwain Paladin.",
+      "en": "Mono-black from Locthwain: graveyard recursion with Cauldron's Gift and Forever Young, black removal, and adamant Knights like Locthwain Paladin."
+    },
+    "why": {
+      "fr": [
+        "Le noir était l'une des deux meilleures couleurs du set pour MTG Arena Zone.",
+        "Le 4/3 menace de Locthwain Paladin posait problème aux decks lents."
+      ],
+      "en": [
+        "Black was one of the two best colors of the set for MTG Arena Zone.",
+        "Locthwain Paladin's 4/3 menace body troubled the slower decks."
+      ]
+    },
+    "keyCards": ["Locthwain Paladin", "Order of Midnight // Alter Fate", "Cauldron's Gift", "Forever Young", "Bake into a Pie", "Syr Konrad, the Grim"],
+    "cover": "Locthwain Paladin",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/"
+    ]
+  },
+  {
+    "colors": "R",
+    "name": "Embereth Courage",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Le rouge mono d'Embereth : agression, Knights rapides comme Rimrock Knight et burn adamant comme Searing Barrage, qui touchait aussi le joueur.",
+      "en": "Mono-red from Embereth: aggression, fast Knights like Rimrock Knight, and adamant burn such as Searing Barrage, which also hit the player."
+    },
+    "why": {
+      "fr": [
+        "Adamant récompensait l'engagement dans une seule couleur, selon le design du set.",
+        "Le rouge était jugé l'une des deux couleurs les moins fortes par MTG Arena Zone."
+      ],
+      "en": [
+        "Adamant rewarded heavy commitment to one color, by the set's design.",
+        "MTG Arena Zone rated red one of the two least powerful colors of the set."
+      ]
+    },
+    "keyCards": ["Embereth Paladin", "Rimrock Knight // Boulder Rush", "Embereth Shieldbreaker // Battle Display", "Searing Barrage", "Scorching Dragonfire", "Syr Carah, the Bold"],
+    "cover": "Embereth Paladin",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/"
+    ]
+  },
+  {
+    "colors": "G",
+    "name": "Garenbrig Strength",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le vert mono de Garenbrig : la taille des créatures compte, des corps efficaces comme Fierce Witchstalker et des cartes adamant comme Garenbrig Paladin et Outmuscle.",
+      "en": "Mono-green from Garenbrig: creature size matters, with efficient bodies like Fierce Witchstalker and adamant cards like Garenbrig Paladin and Outmuscle."
+    },
+    "why": {
+      "fr": [
+        "Fierce Witchstalker, 4/4 piétinement avec Nourriture, était une commune très poussée.",
+        "Adamant récompensait l'engagement dans une seule couleur, selon le design du set."
+      ],
+      "en": [
+        "Fierce Witchstalker, a 4/4 trampler that made Food, was a pushed common.",
+        "Adamant rewarded heavy commitment to one color, by the set's design."
+      ]
+    },
+    "keyCards": ["Garenbrig Paladin", "Fierce Witchstalker", "Garenbrig Carver // Shield's Might", "Outmuscle", "Syr Faren, the Hengehammer"],
+    "cover": "Garenbrig Paladin",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/"
+    ]
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Artifacts",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Artefacts et enchantements comptent : des volants comme Shinechaser grandissaient avec eux, et Glass Casket ou Turn into a Pumpkin comptaient tout en gérant une menace.",
+      "en": "Artifacts and enchantments matter: fliers like Shinechaser grew with them, and Glass Casket and Turn into a Pumpkin counted while removing or bouncing a threat."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone, plus agressif que le bleu mono artefacts ou la meule.",
+        "Il lui fallait des menaces volantes, souvent des rares comme Vantress Gargoyle."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone, more aggressive than mono-blue artifacts or mill.",
+        "It needed real threats in the air, often rares like Vantress Gargoyle."
+      ]
+    },
+    "keyCards": ["Arcanist's Owl", "Shinechaser", "Archon of Absolution", "Glass Casket", "Turn into a Pumpkin"],
+    "cover": "Arcanist's Owl",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dwu"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Mill",
+    "archetype": "control",
+    "summary": {
+      "fr": "Un contrôle qui comptait les cartes des deux cimetières : il meulait avec Merfolk Secretkeeper et Didn't Say Please, piochait avec Into the Story, et gagnait aux dégâts ou par la meule.",
+      "en": "A control deck that counted cards in both graveyards: it milled with Merfolk Secretkeeper and Didn't Say Please, drew with Into the Story, and won by damage or decking."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour MTG Arena Zone, avec Golgari Food : un contrôle dominant.",
+        "Syr Konrad et Revenge of Ravens généraient de la valeur en partie longue.",
+        "Fragile face à une pression précoce, mais très dur à battre une fois stabilisé."
+      ],
+      "en": [
+        "Tier 1 for MTG Arena Zone, with Golgari Food: a dominant control deck.",
+        "Syr Konrad and Revenge of Ravens generated value in long games.",
+        "Weak to early pressure, but very hard to beat once stabilized."
+      ]
+    },
+    "keyCards": ["Drown in the Loch", "Merfolk Secretkeeper // Venture Deeper", "Didn't Say Please", "Into the Story", "Syr Konrad, the Grim", "Revenge of Ravens"],
+    "cover": "Drown in the Loch",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dub"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Knights",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Knights et équipements : des Knights bon marché portaient Steelclaw Lance, et le rouge ajoutait du removal comme Scorching Dragonfire et Searing Barrage à une base noire rapide.",
+      "en": "Knights and Equipment: cheap Knights carried Steelclaw Lance, and red added removal like Scorching Dragonfire and Searing Barrage to a fast black base."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone, proche du Knights blanc-noir mais plus rapide.",
+        "Le guide le construisait surtout noir, le rouge en soutien."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone, close to the white-black Knights deck but faster.",
+        "The guide built it mostly black, with red in a supporting role."
+      ]
+    },
+    "keyCards": ["Elite Headhunter", "Steelclaw Lance", "Rimrock Knight // Boulder Rush", "Smitten Swordmaster // Curry Favor", "Scorching Dragonfire", "Searing Barrage"],
+    "cover": "Elite Headhunter",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dbr"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Non-Humans",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Un midrange large de créatures non-Humaines, chacune arrivant avec un marqueur +1/+1 de plus sous Grumgully, the Generous.",
+      "en": "A go-wide midrange deck of non-Human creatures, each entering with an extra +1/+1 counter under Grumgully, the Generous."
+    },
+    "why": {
+      "fr": [
+        "Tier 3 pour MTG Arena Zone : un format difficile pour ce genre de deck.",
+        "Syr Faren y trouvait sa meilleure place, selon le même guide."
+      ],
+      "en": [
+        "Tier 3 for MTG Arena Zone: a tough format for this kind of deck.",
+        "Syr Faren found its best home here, per the same guide."
+      ]
+    },
+    "keyCards": ["Grumgully, the Generous", "Rampart Smasher", "Syr Faren, the Hengehammer", "Fierce Witchstalker", "Searing Barrage"],
+    "cover": "Grumgully, the Generous",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Drg"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Adventures",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Des créatures à aventure jouées deux fois, comme sort puis depuis l'exil ; Edgewall Innkeeper piochait pour chacune et Wandermare grandissait à chaque lancement.",
+      "en": "Adventure creatures cast twice, once as a spell and once from exile; Edgewall Innkeeper drew a card for each, and Wandermare grew with every one cast."
+    },
+    "why": {
+      "fr": [
+        "Redoutable une fois en place, mais mou sans Edgewall Innkeeper, selon MTG Arena Zone.",
+        "Classé tier 3 par ce guide, dont l'auteur pensait qu'il méritait mieux.",
+        "Faerie Guidemother pouvait donner le vol à une grosse créature verte."
+      ],
+      "en": [
+        "Scary when assembled but slow without Edgewall Innkeeper, per MTG Arena Zone.",
+        "Ranked tier 3 by that guide, whose author felt it deserved to be higher.",
+        "Faerie Guidemother could give a large green creature flying."
+      ]
+    },
+    "keyCards": ["Wandermare", "Edgewall Innkeeper", "Faerie Guidemother // Gift of the Fae", "Tuinvale Treefolk // Oaken Boon", "Ardenvale Tactician // Dizzying Swoop"],
+    "cover": "Wandermare",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dgw"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Knights",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une attrition de Knights à base noire qui échangeait et mettait la pression ; l'endurance de Wintermoor Commander grandissait avec le nombre de Knights.",
+      "en": "Knight attrition on a black base that traded and kept up pressure; Wintermoor Commander's toughness grew with the number of Knights you controlled."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone ; ses communes étaient plus faibles que la moyenne.",
+        "Le 4/3 menace de Locthwain Paladin gênait les murs des decks lents."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone; its commons were weaker than average.",
+        "Locthwain Paladin's 4/3 menace troubled the walls of slower decks."
+      ]
+    },
+    "keyCards": ["Wintermoor Commander", "Resolute Rider", "Locthwain Paladin", "Ardenvale Tactician // Dizzying Swoop", "Trapped in the Tower", "Smitten Swordmaster // Curry Favor"],
+    "cover": "Wintermoor Commander",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dwb"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Draw Two",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Piocher une deuxième carte par tour : cantrips et loots comme Opt déclenchaient les Fées d'Improbable Alliance, les marqueurs de Faerie Vandal et l'initiative de Bloodhaze Wolverine.",
+      "en": "Draw a second card each turn: cantrips and loots like Opt triggered Improbable Alliance's Faeries, Faerie Vandal's counters and Bloodhaze Wolverine's first strike."
+    },
+    "why": {
+      "fr": [
+        "Tier 2 pour MTG Arena Zone : beaucoup d'effets de pioche, peu de récompenses.",
+        "Faerie Vandal et Improbable Alliance étaient les récompenses à trouver."
+      ],
+      "en": [
+        "Tier 2 for MTG Arena Zone: plenty of draw effects, few payoffs.",
+        "Faerie Vandal and Improbable Alliance were the payoffs to find."
+      ]
+    },
+    "keyCards": ["Improbable Alliance", "Faerie Vandal", "Loch Dragon", "Bloodhaze Wolverine", "Opt"],
+    "cover": "Improbable Alliance",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dur"
+    ],
+    "tier": 2
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Food",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Des jetons Nourriture issus du removal et des créatures, puis des récompenses pour les sacrifier : Bake into a Pie et Fierce Witchstalker en créaient, Savvy Hunter à chaque combat.",
+      "en": "Food tokens from removal and creatures, then payoffs to cash them in: Bake into a Pie and Fierce Witchstalker made Food, and Savvy Hunter made more each combat."
+    },
+    "why": {
+      "fr": [
+        "Tier 1 pour MTG Arena Zone, et l'archétype le plus facile à forcer.",
+        "Des communes poussées : removal instantané et 4/4 piétinement, chacun avec sa Nourriture.",
+        "Le gain de vie de la Nourriture tenait l'aggro et survivait au contrôle."
+      ],
+      "en": [
+        "Tier 1 for MTG Arena Zone, and the easiest archetype to force.",
+        "Pushed commons: instant-speed removal and a 4/4 trampler, each making Food.",
+        "Food life gain held off aggro and outlasted control."
+      ]
+    },
+    "keyCards": ["Savvy Hunter", "Bake into a Pie", "Fierce Witchstalker", "Tempting Witch", "Golden Egg", "Outmuscle"],
+    "cover": "Savvy Hunter",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dbg"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Knights",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Un deck de Knights agressif sous le bonus d'Inspiring Veteran, avec initiative et double initiative, de Youthful Knight à Fireborn Knight.",
+      "en": "An aggressive Knight deck under Inspiring Veteran's anthem, with first strike and double strike from Youthful Knight to Fireborn Knight."
+    },
+    "why": {
+      "fr": [
+        "Tier 3 pour MTG Arena Zone, trop dépendant d'Inspiring Veteran.",
+        "Le blanc et le rouge étaient les couleurs les moins fortes du set selon ce guide."
+      ],
+      "en": [
+        "Tier 3 for MTG Arena Zone, too dependent on Inspiring Veteran.",
+        "White and red were the least powerful colors of the set, per that guide."
+      ]
+    },
+    "keyCards": ["Inspiring Veteran", "Fireborn Knight", "Youthful Knight", "Rimrock Knight // Boulder Rush", "Silverflame Squire // On Alert"],
+    "cover": "Inspiring Veteran",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Drw"
+    ],
+    "tier": 3
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Accélérer avec des créatures à mana comme Maraleaf Pixie vers les gros sorts ; Thunderous Snapper piochait pour chaque sort de valeur de mana 5 ou plus.",
+      "en": "Ramp with mana creatures like Maraleaf Pixie into big spells; Thunderous Snapper drew a card for each spell of mana value 5 or more."
+    },
+    "why": {
+      "fr": [
+        "Tier 3 pour MTG Arena Zone : peu de gros sorts méritaient l'accélération.",
+        "Les créatures à mana encombraient le plateau une fois la partie bloquée."
+      ],
+      "en": [
+        "Tier 3 for MTG Arena Zone: few expensive payoffs worth ramping into.",
+        "The mana creatures cluttered the board once it stalled, per the guide."
+      ]
+    },
+    "keyCards": ["Thunderous Snapper", "Maraleaf Pixie", "Keeper of Fables", "Fierce Witchstalker", "Charmed Sleep"],
+    "cover": "Thunderous Snapper",
+    "sources": [
+      "https://mtg.wiki/page/Throne_of_Eldraine",
+      "https://mtgazone.com/throne-of-eldraine-draft-guide/",
+      "https://scryfall.com/search?q=set%3Aeld+r%3Au+c%3Dug"
+    ],
+    "tier": 3
+  }
+]
