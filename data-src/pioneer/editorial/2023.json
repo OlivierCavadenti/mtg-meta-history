@@ -1,0 +1,854 @@
+[
+  {
+    "name": "Rakdos Midrange",
+    "slug": "rakdos-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Midrange",
+      "Rakdos Aggro"
+    ],
+    "cover": "Sheoldred, the Apocalypse",
+    "keyCards": [
+      "Sheoldred, the Apocalypse",
+      "Fable of the Mirror-Breaker",
+      "Bloodtithe Harvester",
+      "Thoughtseize",
+      "Reckoner Bankbuster"
+    ],
+    "summary": {
+      "en": "Black-red midrange built on Thoughtseize, Fatal Push, Fable of the Mirror-Breaker and Sheoldred, the Apocalypse, with Kroxa, Titan of Death's Hunger for long games.",
+      "fr": "Midrange noir-rouge bâti sur Thoughtseize, Fatal Push, Fable of the Mirror-Breaker et Sheoldred, the Apocalypse, avec Kroxa, Titan of Death's Hunger pour les parties longues."
+    },
+    "why": {
+      "en": [
+        "Thoughtseize and Fatal Push answered both combo pieces and aggressive creatures",
+        "Sheoldred, the Apocalypse punished opponents who drew extra cards",
+        "Finalist at the U.S. Regional Championship in Atlanta in December"
+      ],
+      "fr": [
+        "Thoughtseize et Fatal Push répondaient aussi bien aux pièces de combo qu'aux créatures agressives",
+        "Sheoldred, the Apocalypse punissait les adversaires qui piochaient des cartes en plus",
+        "Finaliste du Regional Championship américain d'Atlanta en décembre"
+      ]
+    },
+    "rep": 532303,
+    "exclude": [
+      568666,
+      575550
+    ]
+  },
+  {
+    "name": "Mono-Green Devotion",
+    "slug": "mono-green-devotion",
+    "archetype": "ramp",
+    "titles": [
+      "Devotion to Green"
+    ],
+    "cover": "Karn, the Great Creator",
+    "keyCards": [
+      "Karn, the Great Creator",
+      "Storm the Festival",
+      "Polukranos Reborn",
+      "Cavalier of Thorns",
+      "Nykthos, Shrine to Nyx"
+    ],
+    "summary": {
+      "en": "Mono-green ramp: mana elves and green permanents power Nykthos, Shrine to Nyx into Storm the Festival, Karn, the Great Creator and Polukranos Reborn.",
+      "fr": "Rampe mono-verte : elfes à mana et permanents verts alimentent Nykthos, Shrine to Nyx pour lancer Storm the Festival, Karn, the Great Creator et Polukranos Reborn."
+    },
+    "why": {
+      "en": [
+        "Polukranos Reborn, from Phyrexia: All Will Be One, added a threat that could also kill creatures",
+        "Won the F2F Tour Championship in Edmonton",
+        "Karn, the Great Creator was banned on December 4, 2023"
+      ],
+      "fr": [
+        "Polukranos Reborn, venu de Phyrexia: All Will Be One, ajoutait une menace capable de tuer des créatures",
+        "A remporté le F2F Tour Championship d'Edmonton",
+        "Karn, the Great Creator a été banni le 4 décembre 2023"
+      ]
+    },
+    "rep": 534108
+  },
+  {
+    "name": "Azorius Control",
+    "slug": "azorius-control",
+    "archetype": "control",
+    "titles": [
+      "UW Control",
+      "UW Yorion Control",
+      "UW Yorion",
+      "UW Yorion Value"
+    ],
+    "cover": "The Wandering Emperor",
+    "keyCards": [
+      "The Wandering Emperor",
+      "Teferi, Hero of Dominaria",
+      "Memory Deluge",
+      "Supreme Verdict",
+      "Absorb"
+    ],
+    "summary": {
+      "en": "White-blue control: counterspells, Supreme Verdict and Farewell, Memory Deluge for card selection, The Wandering Emperor and Teferi, Hero of Dominaria to finish.",
+      "fr": "Contrôle blanc-bleu : contresorts, Supreme Verdict et Farewell, Memory Deluge pour filtrer la pioche, The Wandering Emperor et Teferi, Hero of Dominaria pour conclure."
+    },
+    "why": {
+      "en": [
+        "Temporary Lockdown, from Dominaria United, swept tokens and cheap permanents",
+        "Hall of Storm Giants and Castle Vantress turned lands into threats and card selection",
+        "Finalist at the ANZ Super Series Final in Sydney and the MTG SEA Championship Final"
+      ],
+      "fr": [
+        "Temporary Lockdown, venu de Dominaria United, balayait jetons et permanents bon marché",
+        "Hall of Storm Giants et Castle Vantress faisaient des terrains des menaces et du filtrage",
+        "Finaliste du Super Series Final de l'ANZ à Sydney et du MTG SEA Championship Final"
+      ]
+    },
+    "rep": 535127,
+    "exclude": [
+      530790,
+      531180,
+      535415
+    ]
+  },
+  {
+    "name": "Azorius Lotus Control",
+    "slug": "azorius-lotus-control",
+    "archetype": "control",
+    "titles": [
+      "UW Lotus Control"
+    ],
+    "cover": "Teferi, Hero of Dominaria",
+    "keyCards": [
+      "Lotus Field",
+      "Thespian's Stage",
+      "Teferi, Hero of Dominaria",
+      "Doomskar",
+      "Discontinuity"
+    ],
+    "summary": {
+      "en": "Azorius control using Lotus Field and Thespian's Stage for extra mana, which casts Memory Deluge, sweepers and Teferi, Hero of Dominaria ahead of curve.",
+      "fr": "Contrôle Azorius qui tire de Lotus Field et Thespian's Stage un surplus de mana pour lancer en avance Memory Deluge, balais et Teferi, Hero of Dominaria."
+    },
+    "why": {
+      "en": [
+        "Lotus Field produced three mana of one color from a single land",
+        "Discontinuity, from March of the Machine, ended the opponent's turn mid-combo",
+        "Won the F2F Tour Championship in Toronto in June"
+      ],
+      "fr": [
+        "Lotus Field produisait trois manas d'une couleur à partir d'un seul terrain",
+        "Discontinuity, venu de March of the Machine, mettait fin au tour adverse en pleine combo",
+        "A remporté le F2F Tour Championship de Toronto en juin"
+      ]
+    },
+    "rep": 530790,
+    "include": [
+      530790,
+      531180,
+      535415
+    ]
+  },
+  {
+    "name": "Rakdos Sacrifice",
+    "slug": "rakdos-sacrifice",
+    "archetype": "midrange",
+    "titles": [
+      "Rakdos Sacrifice"
+    ],
+    "cover": "Witch's Oven",
+    "keyCards": [
+      "Witch's Oven",
+      "Cauldron Familiar",
+      "Mayhem Devil",
+      "Unlucky Witness",
+      "Fable of the Mirror-Breaker"
+    ],
+    "summary": {
+      "en": "Black-red sacrifice deck: the Witch's Oven and Cauldron Familiar loop, Deadly Dispute for cards and Mayhem Devil to deal damage each time a permanent is sacrificed.",
+      "fr": "Deck sacrifice noir-rouge : la boucle Witch's Oven et Cauldron Familiar, Deadly Dispute pour piocher et Mayhem Devil pour infliger des dégâts à chaque permanent sacrifié."
+    },
+    "why": {
+      "en": [
+        "Unlucky Witness added a body and a card when sacrificed",
+        "Bloodtithe Harvester and Fable of the Mirror-Breaker supplied tokens to sacrifice",
+        "Won the South America Magic Series and the F2F Tour Regional Championships in July and September"
+      ],
+      "fr": [
+        "Unlucky Witness ajoutait un corps et une carte une fois sacrifié",
+        "Bloodtithe Harvester et Fable of the Mirror-Breaker fournissaient des jetons à sacrifier",
+        "A remporté les Regional Championships de la South America Magic Series et du F2F Tour"
+      ]
+    },
+    "rep": 536738
+  },
+  {
+    "name": "Izzet Phoenix",
+    "slug": "izzet-phoenix",
+    "archetype": "tempo",
+    "titles": [
+      "Izzet Arclight",
+      "Arclight Phoenix"
+    ],
+    "cover": "Arclight Phoenix",
+    "keyCards": [
+      "Arclight Phoenix",
+      "Ledger Shredder",
+      "Picklock Prankster",
+      "Treasure Cruise",
+      "Sleight of Hand"
+    ],
+    "summary": {
+      "en": "Blue-red spells deck: cheap cantrips fill the graveyard and bring back Arclight Phoenix, with Ledger Shredder as an early threat and Treasure Cruise to refuel.",
+      "fr": "Deck de sorts bleu-rouge : des cantrips bon marché remplissent le cimetière et ramènent Arclight Phoenix, avec Ledger Shredder en menace précoce et Treasure Cruise pour recharger."
+    },
+    "why": {
+      "en": [
+        "Picklock Prankster, from Wilds of Eldraine, filled the graveyard with its adventure Free the Fae",
+        "Lightning Axe and Fiery Impulse handled aggressive creatures",
+        "Won the U.S. Regional Championship in Atlanta and the F2F Tour Championship in Toronto in November"
+      ],
+      "fr": [
+        "Picklock Prankster, venu de Wilds of Eldraine, remplissait le cimetière avec son aventure Free the Fae",
+        "Lightning Axe et Fiery Impulse géraient les créatures agressives",
+        "A remporté le Regional Championship américain d'Atlanta et le F2F Tour Championship de Toronto"
+      ]
+    },
+    "rep": 572948
+  },
+  {
+    "name": "Lotus Field",
+    "slug": "lotus-field",
+    "archetype": "combo",
+    "titles": [
+      "Lotus Field"
+    ],
+    "cover": "Hidden Strings",
+    "keyCards": [
+      "Lotus Field",
+      "Thespian's Stage",
+      "Hidden Strings",
+      "Emergent Ultimatum",
+      "Omniscience"
+    ],
+    "summary": {
+      "en": "Lotus Field combo: untap effects and Thespian's Stage multiply the mana of Lotus Field until Emergent Ultimatum or Omniscience lets it cast the rest of the deck.",
+      "fr": "Combo Lotus Field : effets de dégagement et Thespian's Stage multiplient le mana de Lotus Field jusqu'à ce qu'Emergent Ultimatum ou Omniscience permette de lancer le reste du deck."
+    },
+    "why": {
+      "en": [
+        "Discontinuity, from March of the Machine, joined as protection in some lists",
+        "Arboreal Grazer and Vizier of Tumbling Sands kept the land count and untaps flowing",
+        "Won the European Championship in Lille and the ANZ Regional Championship"
+      ],
+      "fr": [
+        "Discontinuity, venu de March of the Machine, servait de protection dans certaines listes",
+        "Arboreal Grazer et Vizier of Tumbling Sands assuraient terrains et dégagements",
+        "A remporté l'European Championship de Lille et le Regional Championship de l'ANZ"
+      ]
+    },
+    "rep": 555346,
+    "exclude": [
+      507882
+    ]
+  },
+  {
+    "name": "Boros Convoke",
+    "slug": "boros-convoke",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Convoke"
+    ],
+    "cover": "Knight-Errant of Eos",
+    "keyCards": [
+      "Knight-Errant of Eos",
+      "Venerated Loxodon",
+      "Gleeful Demolition",
+      "Voldaren Epicure",
+      "Resolute Reinforcements"
+    ],
+    "summary": {
+      "en": "Red-white go-wide aggro: Ornithopter, Voldaren Epicure and other cheap bodies convoke Venerated Loxodon and Knight-Errant of Eos, while Gleeful Demolition turns an artifact into three tokens.",
+      "fr": "Aggro rouge-blanc en largeur : Ornithopter, Voldaren Epicure et d'autres corps bon marché alimentent la convocation de Venerated Loxodon et Knight-Errant of Eos, et Gleeful Demolition change un artefact en trois jetons."
+    },
+    "why": {
+      "en": [
+        "Knight-Errant of Eos, from March of the Machine, found more creatures on arrival",
+        "Thraben Inspector and Voldaren Epicure left artifacts for Gleeful Demolition",
+        "Won the Legacy European Championship in Athens and the ANZ Super Series Final in Sydney"
+      ],
+      "fr": [
+        "Knight-Errant of Eos, venu de March of the Machine, trouvait d'autres créatures en arrivant",
+        "Thraben Inspector et Voldaren Epicure laissaient des artefacts pour Gleeful Demolition",
+        "A remporté le Legacy European Championship d'Athènes et le Super Series Final de l'ANZ à Sydney"
+      ]
+    },
+    "rep": 532325,
+    "include": [
+      561962
+    ]
+  },
+  {
+    "name": "Mono-White Humans",
+    "slug": "mono-white-humans",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White",
+      "Humans"
+    ],
+    "cover": "Adeline, Resplendent Cathar",
+    "keyCards": [
+      "Adeline, Resplendent Cathar",
+      "Thalia's Lieutenant",
+      "Thalia, Guardian of Thraben",
+      "Ossification",
+      "Luminarch Aspirant"
+    ],
+    "summary": {
+      "en": "Mono-white Humans aggro: Thalia's Lieutenant and Luminarch Aspirant grow the team, Adeline, Resplendent Cathar adds tokens and Thalia, Guardian of Thraben taxes noncreature spells.",
+      "fr": "Aggro mono-blanc sur les Humains : Thalia's Lieutenant et Luminarch Aspirant font grandir l'équipe, Adeline, Resplendent Cathar ajoute des jetons et Thalia, Guardian of Thraben taxe les sorts non-créatures."
+    },
+    "why": {
+      "en": [
+        "Ossification, from Phyrexia: All Will Be One, gave the deck two-mana removal",
+        "Mutavault and Castle Ardenvale added threats among the lands",
+        "Top 4 at Pro Tour Phyrexia"
+      ],
+      "fr": [
+        "Ossification, venu de Phyrexia: All Will Be One, apportait un retrait à deux manas",
+        "Mutavault et Castle Ardenvale ajoutaient des menaces parmi les terrains",
+        "Top 4 du Pro Tour Phyrexia"
+      ]
+    },
+    "rep": 507915,
+    "exclude": [
+      573151
+    ]
+  },
+  {
+    "name": "Abzan Greasefang",
+    "slug": "abzan-greasefang",
+    "archetype": "combo",
+    "titles": [
+      "Greasefang Parhelion"
+    ],
+    "cover": "Greasefang, Okiba Boss",
+    "keyCards": [
+      "Greasefang, Okiba Boss",
+      "Parhelion II",
+      "Raffine's Informant",
+      "Grisly Salvage",
+      "Witherbloom Command"
+    ],
+    "summary": {
+      "en": "Graveyard combo: self-mill puts Parhelion II in the graveyard, Greasefang, Okiba Boss returns it at the start of combat, and its attack brings two Angels.",
+      "fr": "Combo cimetière : l'auto-meule met Parhelion II au cimetière, Greasefang, Okiba Boss le ramène au début du combat, et son attaque crée deux Anges."
+    },
+    "why": {
+      "en": [
+        "Witherbloom Command and Vessel of Nascency added ways to fill the graveyard",
+        "Esika's Chariot and Sheoldred, the Apocalypse gave a fair plan against graveyard hate",
+        "Won the Champions Cup Final in Japan and the Dragon Shield Cup Regional Championship in Beijing"
+      ],
+      "fr": [
+        "Witherbloom Command et Vessel of Nascency ajoutaient des moyens de remplir le cimetière",
+        "Esika's Chariot et Sheoldred, the Apocalypse offraient un plan honnête contre la haine cimetière",
+        "A remporté le Champions Cup Final au Japon et le Regional Championship Dragon Shield Cup à Pékin"
+      ]
+    },
+    "rep": 535398
+  },
+  {
+    "name": "Azorius Spirits",
+    "slug": "azorius-spirits",
+    "archetype": "tempo",
+    "titles": [
+      "Spirit Aggro",
+      "Spirits",
+      "Azorius Spirits"
+    ],
+    "cover": "Spell Queller",
+    "keyCards": [
+      "Spell Queller",
+      "Supreme Phantom",
+      "Spectral Sailor",
+      "Shacklegeist",
+      "Curious Obsession"
+    ],
+    "summary": {
+      "en": "White-blue Spirits with flash: Spectral Sailor, Supreme Phantom and Shacklegeist attack in the air, while Spell Queller and Geistlight Snare stop key spells.",
+      "fr": "Esprits blanc-bleu à flash : Spectral Sailor, Supreme Phantom et Shacklegeist attaquent par les airs, tandis que Spell Queller et Geistlight Snare arrêtent les sorts clés."
+    },
+    "why": {
+      "en": [
+        "Curious Obsession drew a card each turn off an evasive Spirit",
+        "Flash let it hold up counters and still add to the board",
+        "Finalist at the Legacy European Championship in Athens and the F2F Tour Championship in Toronto"
+      ],
+      "fr": [
+        "Curious Obsession piochait une carte par tour grâce à un Esprit évasif",
+        "Le flash permettait de garder un contresort tout en développant le jeu",
+        "Finaliste du Legacy European Championship d'Athènes et du F2F Tour Championship de Toronto"
+      ]
+    },
+    "rep": 532305,
+    "exclude": [
+      514187,
+      517613,
+      517618,
+      522685,
+      524559,
+      524563,
+      525083,
+      527688,
+      530859,
+      530916,
+      555195,
+      556690,
+      563162,
+      568672,
+      569007,
+      572878,
+      573071,
+      573170
+    ]
+  },
+  {
+    "name": "Mono-Blue Spirits",
+    "slug": "mono-blue-spirits",
+    "archetype": "tempo",
+    "titles": [],
+    "cover": "Ascendant Spirit",
+    "keyCards": [
+      "Ascendant Spirit",
+      "Spectral Sailor",
+      "Supreme Phantom",
+      "Curious Obsession",
+      "Shacklegeist"
+    ],
+    "summary": {
+      "en": "Mono-blue Spirits on Snow-Covered Islands: Ascendant Spirit levels up with snow mana, Supreme Phantom pumps the team and Curious Obsession draws cards.",
+      "fr": "Esprits mono-bleus sur Snow-Covered Island : Ascendant Spirit monte de niveau avec le mana neigeux, Supreme Phantom renforce l'équipe et Curious Obsession pioche."
+    },
+    "why": {
+      "en": [
+        "Ran alongside the white-blue version, trading Spell Queller for a steadier mana base",
+        "Faceless Haven added a creature land that used the snow mana",
+        "Top 4 at the NRG Series $10,000 Showdown in Minneapolis"
+      ],
+      "fr": [
+        "Coexistait avec la version blanc-bleu, échangeant Spell Queller contre un mana plus stable",
+        "Faceless Haven ajoutait un terrain-créature alimenté par le mana neigeux",
+        "Top 4 du NRG Series $10,000 Showdown de Minneapolis"
+      ]
+    },
+    "rep": 527688,
+    "include": [
+      517618,
+      522685,
+      524559,
+      524563,
+      525083,
+      527688,
+      530859,
+      555195,
+      569007
+    ]
+  },
+  {
+    "name": "Enigmatic Fires",
+    "slug": "enigmatic-fires",
+    "archetype": "midrange",
+    "titles": [
+      "Enigmatic Fire",
+      "Enigmatic Incarnation"
+    ],
+    "cover": "Fires of Invention",
+    "keyCards": [
+      "Fires of Invention",
+      "Enigmatic Incarnation",
+      "Leyline Binding",
+      "Elesh Norn, Mother of Machines",
+      "Atraxa, Grand Unifier"
+    ],
+    "summary": {
+      "en": "Multicolor enchantment deck: Fires of Invention casts spells for free and Enigmatic Incarnation sacrifices enchantments to fetch a creature costing one more, up to Atraxa, Grand Unifier.",
+      "fr": "Deck d'enchantements multicolore : Fires of Invention lance des sorts gratuitement et Enigmatic Incarnation sacrifie des enchantements pour une créature coûtant un de plus, jusqu'à Atraxa, Grand Unifier."
+    },
+    "why": {
+      "en": [
+        "Atraxa, Grand Unifier and Elesh Norn, Mother of Machines joined the creature toolbox",
+        "Won the U.S. Regional Championship in Dallas and the MTG SEA Championship Final in June",
+        "Top 4 at Pro Tour Phyrexia"
+      ],
+      "fr": [
+        "Atraxa, Grand Unifier et Elesh Norn, Mother of Machines ont rejoint la panoplie de créatures",
+        "A remporté le Regional Championship américain de Dallas et le MTG SEA Championship Final en juin",
+        "Top 4 du Pro Tour Phyrexia"
+      ]
+    },
+    "rep": 530854
+  },
+  {
+    "name": "Gruul Vehicles",
+    "slug": "gruul-vehicles",
+    "archetype": "aggro",
+    "titles": [
+      "Gruul Aggro",
+      "Gruul Boats"
+    ],
+    "cover": "Esika's Chariot",
+    "keyCards": [
+      "Esika's Chariot",
+      "Reckless Stormseeker",
+      "The Akroan War",
+      "Voldaren Thrillseeker",
+      "Bonecrusher Giant"
+    ],
+    "summary": {
+      "en": "Red-green aggro: mana elves into Reckless Stormseeker, Esika's Chariot and Lovestruck Beast, with Bonecrusher Giant and The Akroan War to clear blockers.",
+      "fr": "Aggro rouge-vert : elfes à mana puis Reckless Stormseeker, Esika's Chariot et Lovestruck Beast, avec Bonecrusher Giant et The Akroan War pour dégager les bloqueurs."
+    },
+    "why": {
+      "en": [
+        "The Akroan War stole the best opposing creature, then made the others fight",
+        "Mutavault and Lair of the Hydra kept the pressure up after a sweeper",
+        "Finalist at the U.S. Regional Championship in Dallas and the ANZ Regional Championship"
+      ],
+      "fr": [
+        "The Akroan War volait la meilleure créature adverse puis forçait les autres à se battre",
+        "Mutavault et Lair of the Hydra maintenaient la pression après un balai",
+        "Finaliste du Regional Championship américain de Dallas et du Regional Championship de l'ANZ"
+      ]
+    },
+    "rep": 530855,
+    "exclude": [
+      520832,
+      530841,
+      531010,
+      531052,
+      531171,
+      535155,
+      536896
+    ]
+  },
+  {
+    "name": "Izzet Creativity",
+    "slug": "izzet-creativity",
+    "archetype": "combo",
+    "titles": [
+      "Creativity"
+    ],
+    "cover": "Indomitable Creativity",
+    "keyCards": [
+      "Indomitable Creativity",
+      "Worldspine Wurm",
+      "Xenagos, God of Revels",
+      "Fable of the Mirror-Breaker",
+      "Big Score"
+    ],
+    "summary": {
+      "en": "Blue-red combo: Fable of the Mirror-Breaker and Big Score make tokens that Indomitable Creativity turns into Worldspine Wurm or Xenagos, God of Revels, the only targets in the deck.",
+      "fr": "Combo bleu-rouge : Fable of the Mirror-Breaker et Big Score créent des jetons qu'Indomitable Creativity transforme en Worldspine Wurm ou Xenagos, God of Revels, seules cibles du deck."
+    },
+    "why": {
+      "en": [
+        "Fire Prophecy and Fiery Impulse held the board until the combo turn",
+        "Later lists turned to Atraxa, Grand Unifier or to Torrential Gearhulk and Magma Opus",
+        "Won Pro Tour Phyrexia in the hands of Reid Duke"
+      ],
+      "fr": [
+        "Fire Prophecy et Fiery Impulse tenaient la table jusqu'au tour de la combo",
+        "Les listes suivantes sont passées à Atraxa, Grand Unifier ou à Torrential Gearhulk et Magma Opus",
+        "A remporté le Pro Tour Phyrexia entre les mains de Reid Duke"
+      ]
+    },
+    "rep": 507835,
+    "include": [
+      528979,
+      529029,
+      530737,
+      530955
+    ]
+  },
+  {
+    "name": "Rona Combo",
+    "slug": "rona-combo",
+    "archetype": "combo",
+    "titles": [
+      "Retraction Helix"
+    ],
+    "cover": "Rona, Herald of Invasion",
+    "keyCards": [
+      "Rona, Herald of Invasion",
+      "Retraction Helix",
+      "Mox Amber",
+      "Kinnan, Bonder Prodigy",
+      "Tyvar, Jubilant Brawler"
+    ],
+    "summary": {
+      "en": "Sultai combo around Rona, Herald of Invasion: with Retraction Helix it bounces and recasts Mox Amber, each legendary spell untapping Rona, and Kinnan, Bonder Prodigy turns the loop into mana.",
+      "fr": "Combo sultai autour de Rona, Herald of Invasion : avec Retraction Helix, elle renvoie et relance Mox Amber, chaque sort légendaire la dégageant, et Kinnan, Bonder Prodigy en tire du mana."
+    },
+    "why": {
+      "en": [
+        "Tyvar, Jubilant Brawler let Rona use Retraction Helix the turn it arrived",
+        "Mana creatures and Bring to Light assembled the pieces quickly",
+        "Won the MTG SEA Championship Final in November"
+      ],
+      "fr": [
+        "Tyvar, Jubilant Brawler permettait à Rona d'utiliser Retraction Helix dès son arrivée",
+        "Créatures à mana et Bring to Light réunissaient vite les pièces",
+        "A remporté le MTG SEA Championship Final en novembre"
+      ]
+    },
+    "rep": 563423,
+    "exclude": [
+      556679,
+      561945,
+      568930,
+      573153
+    ]
+  },
+  {
+    "name": "Sultai Neoform",
+    "slug": "sultai-neoform",
+    "archetype": "combo",
+    "titles": [
+      "Neoform Atraxa"
+    ],
+    "cover": "Atraxa, Grand Unifier",
+    "keyCards": [
+      "Neoform",
+      "Atraxa, Grand Unifier",
+      "Founding the Third Path",
+      "Tasigur, the Golden Fang",
+      "Grisly Salvage"
+    ],
+    "summary": {
+      "en": "Sultai combo: Grisly Salvage and Otherworldly Gaze fill the graveyard so delve creatures cost little, then Neoform sacrifices one to fetch Atraxa, Grand Unifier.",
+      "fr": "Combo sultai : Grisly Salvage et Otherworldly Gaze remplissent le cimetière pour réduire le coût des créatures à delve, puis Neoform en sacrifie une pour aller chercher Atraxa, Grand Unifier."
+    },
+    "why": {
+      "en": [
+        "Atraxa, Grand Unifier, from Phyrexia: All Will Be One, refilled the hand on arrival",
+        "Founding the Third Path, from the same set, recast cheap spells from the graveyard",
+        "Top 4 at the F2F Tour Championship in Edmonton"
+      ],
+      "fr": [
+        "Atraxa, Grand Unifier, venue de Phyrexia: All Will Be One, remplissait la main en arrivant",
+        "Founding the Third Path, du même bloc, relançait des sorts bon marché depuis le cimetière",
+        "Top 4 du F2F Tour Championship d'Edmonton"
+      ]
+    },
+    "rep": 517179
+  },
+  {
+    "name": "Appraiser Combo",
+    "slug": "appraiser-combo",
+    "archetype": "combo",
+    "titles": [
+      "Geological Appraiser"
+    ],
+    "cover": "Geological Appraiser",
+    "keyCards": [
+      "Geological Appraiser",
+      "Glasspool Mimic",
+      "Trumpeting Carnosaur",
+      "Eldritch Evolution",
+      "Creative Outburst"
+    ],
+    "summary": {
+      "en": "Discover deck from The Lost Caverns of Ixalan: nearly every other spell is expensive, so Geological Appraiser, or a Glasspool Mimic copying it, reliably discovers another copy.",
+      "fr": "Deck discover venu de The Lost Caverns of Ixalan : presque tous les autres sorts sont chers, si bien que Geological Appraiser, ou un Glasspool Mimic qui le copie, découvre à coup sûr une autre copie."
+    },
+    "why": {
+      "en": [
+        "Split cards such as Consign/Oblivion counted as expensive and were skipped by discover",
+        "Won the Champions Cup Final in Japan and the South America Magic Series Regional Championship",
+        "Geological Appraiser was banned on December 4, 2023, weeks after its release"
+      ],
+      "fr": [
+        "Les cartes doubles comme Consign/Oblivion comptaient comme chères et étaient ignorées par discover",
+        "A remporté le Champions Cup Final au Japon et le Regional Championship de la South America Magic Series",
+        "Geological Appraiser a été banni le 4 décembre 2023, quelques semaines après sa sortie"
+      ]
+    },
+    "rep": 568318
+  },
+  {
+    "name": "Boros Heroic",
+    "slug": "boros-heroic",
+    "archetype": "aggro",
+    "titles": [
+      "Boros Heroic"
+    ],
+    "cover": "Illuminator Virtuoso",
+    "keyCards": [
+      "Illuminator Virtuoso",
+      "Favored Hoplite",
+      "Monastery Swiftspear",
+      "Gods Willing",
+      "Ancestral Anger"
+    ],
+    "summary": {
+      "en": "Red-white heroic aggro: cheap protection and pump spells target Favored Hoplite, Illuminator Virtuoso and Tenth District Legionnaire, which grow with each spell.",
+      "fr": "Aggro héroïque rouge-blanc : protections et sorts de pump bon marché ciblent Favored Hoplite, Illuminator Virtuoso et Tenth District Legionnaire, qui grandissent à chaque sort."
+    },
+    "why": {
+      "en": [
+        "Gods Willing and Defiant Strike protected the creature while triggering it",
+        "Reckless Rage served as removal and as a heroic trigger at once",
+        "Won the Legacy European Tour Last Chance Qualifier in Lille"
+      ],
+      "fr": [
+        "Gods Willing et Defiant Strike protégeaient la créature tout en la déclenchant",
+        "Reckless Rage servait à la fois de retrait et de déclencheur héroïque",
+        "A remporté le Last Chance Qualifier du Legacy European Tour à Lille"
+      ]
+    },
+    "rep": 555143,
+    "include": [
+      514184,
+      514192
+    ]
+  },
+  {
+    "name": "Amalia Combo",
+    "slug": "amalia-combo",
+    "archetype": "combo",
+    "titles": [
+      "Amalia Life"
+    ],
+    "cover": "Amalia Benavides Aguirre",
+    "keyCards": [
+      "Amalia Benavides Aguirre",
+      "Wildgrowth Walker",
+      "Prosperous Innkeeper",
+      "Chord of Calling",
+      "Collected Company"
+    ],
+    "summary": {
+      "en": "Combo from The Lost Caverns of Ixalan: Amalia Benavides Aguirre explores when life is gained, Wildgrowth Walker gains life on each explore, and the loop ends by destroying every other creature.",
+      "fr": "Combo venue de The Lost Caverns of Ixalan : Amalia Benavides Aguirre explore à chaque gain de vie, Wildgrowth Walker fait gagner de la vie à chaque exploration, et la boucle détruit toutes les autres créatures."
+    },
+    "why": {
+      "en": [
+        "Chord of Calling and Collected Company assembled the two pieces",
+        "Prosperous Innkeeper and Lunarch Veteran supplied the first life gain",
+        "Two copies reached the top 4 of the U.S. Regional Championship in Atlanta"
+      ],
+      "fr": [
+        "Chord of Calling et Collected Company réunissaient les deux pièces",
+        "Prosperous Innkeeper et Lunarch Veteran fournissaient le premier gain de vie",
+        "Deux exemplaires ont atteint le top 4 du Regional Championship américain d'Atlanta"
+      ]
+    },
+    "rep": 572950
+  },
+  {
+    "name": "Dimir Rogues",
+    "slug": "dimir-rogues",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Rogue",
+      "Dimir Rogues"
+    ],
+    "cover": "Thieves' Guild Enforcer",
+    "keyCards": [
+      "Thieves' Guild Enforcer",
+      "Soaring Thought-Thief",
+      "Drown in the Loch",
+      "Kaito Shizuki",
+      "Sheoldred, the Apocalypse"
+    ],
+    "summary": {
+      "en": "Blue-black flash Rogues: Thieves' Guild Enforcer and Soaring Thought-Thief mill the opponent and grow stronger as that graveyard fills, with Drown in the Loch as interaction.",
+      "fr": "Gredins bleu-noir à flash : Thieves' Guild Enforcer et Soaring Thought-Thief meulent l'adversaire et se renforcent à mesure que son cimetière se remplit, avec Drown in the Loch pour interagir."
+    },
+    "why": {
+      "en": [
+        "Drown in the Loch countered or killed for two mana once the graveyard filled",
+        "Kaito Shizuki and Faerie Mastermind added card advantage",
+        "Won the MTC Open S3, the Regional Championship of China"
+      ],
+      "fr": [
+        "Drown in the Loch contrait ou tuait pour deux manas une fois le cimetière rempli",
+        "Kaito Shizuki et Faerie Mastermind apportaient l'avantage de cartes",
+        "A remporté le MTC Open S3, Regional Championship de Chine"
+      ]
+    },
+    "rep": 531168
+  },
+  {
+    "name": "Selesnya Auras",
+    "slug": "selesnya-auras",
+    "archetype": "aggro",
+    "titles": [
+      "Auras"
+    ],
+    "cover": "Light-Paws, Emperor's Voice",
+    "keyCards": [
+      "Light-Paws, Emperor's Voice",
+      "Sram, Senior Edificer",
+      "Ethereal Armor",
+      "Gladecover Scout",
+      "Skrelv, Defector Mite"
+    ],
+    "summary": {
+      "en": "Green-white Auras: Light-Paws, Emperor's Voice fetches an Aura each time one is cast on it, Sram, Senior Edificer draws cards, and Ethereal Armor grows a single threat.",
+      "fr": "Auras vert-blanc : Light-Paws, Emperor's Voice va chercher une Aura chaque fois qu'on en lance une sur elle, Sram, Senior Edificer pioche et Ethereal Armor fait grandir une seule menace."
+    },
+    "why": {
+      "en": [
+        "Gladecover Scout and Skrelv, Defector Mite protected the enchanted creature",
+        "All That Glitters and Ethereal Armor scaled with the number of Auras",
+        "Finalist at Pro Tour Phyrexia"
+      ],
+      "fr": [
+        "Gladecover Scout et Skrelv, Defector Mite protégeaient la créature enchantée",
+        "All That Glitters et Ethereal Armor grandissaient avec le nombre d'Auras",
+        "Finaliste du Pro Tour Phyrexia"
+      ]
+    },
+    "rep": 507910,
+    "note": "The Auras title also holds a blue-splash (Bant) list."
+  },
+  {
+    "name": "Four-Color Omnath",
+    "slug": "four-color-omnath",
+    "archetype": "midrange",
+    "titles": [
+      "Bring to Omnath",
+      "Bring To Light Omnath",
+      "Omnath Ramp",
+      "Elementals",
+      "Omnath"
+    ],
+    "cover": "Omnath, Locus of Creation",
+    "keyCards": [
+      "Omnath, Locus of Creation",
+      "Bring to Light",
+      "Leyline Binding",
+      "Chained to the Rocks",
+      "Fable of the Mirror-Breaker"
+    ],
+    "summary": {
+      "en": "Four-color ramp and value: Sylvan Caryatid into Omnath, Locus of Creation, Bring to Light to find the right card, and Leyline Binding and Chained to the Rocks as cheap removal.",
+      "fr": "Rampe et valeur quatre couleurs : Sylvan Caryatid puis Omnath, Locus of Creation, Bring to Light pour trouver la bonne carte, Leyline Binding et Chained to the Rocks comme retraits bon marché."
+    },
+    "why": {
+      "en": [
+        "Triomes and Fabled Passage made Leyline Binding cost a single mana",
+        "Some lists added Risen Reef and Nissa, Resurgent Animist as an Elementals package",
+        "Finalist at the South America Magic Series Regional Championship in July"
+      ],
+      "fr": [
+        "Triomes et Fabled Passage faisaient coûter un seul mana à Leyline Binding",
+        "Certaines listes ajoutaient Risen Reef et Nissa, Resurgent Animist en paquet Élémentaux",
+        "Finaliste du Regional Championship de la South America Magic Series en juillet"
+      ]
+    },
+    "rep": 524556
+  }
+]
