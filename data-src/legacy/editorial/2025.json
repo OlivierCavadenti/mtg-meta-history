@@ -1,0 +1,742 @@
+[
+  {
+    "name": "UB Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "UB Reanimator",
+      "Ub Reanimator",
+      "Reanimator"
+    ],
+    "rep": 755885,
+    "cover": "Reanimate",
+    "keyCards": [
+      "Reanimate",
+      "Animate Dead",
+      "Entomb",
+      "Daze",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Entomb mettait Archon of Cruelty, Atraxa ou Griselbrand au cimetière, Reanimate et Animate Dead les ramenaient dès le premier tour, derrière Daze et Force of Will.",
+      "en": "Entomb put Archon of Cruelty, Atraxa or Griselbrand in the graveyard, and Reanimate and Animate Dead brought them back from turn one, behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année, neuf victoires dont deux God of Legacy",
+        "Troll of Khazad-dûm a été banni en mars 2025"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights, with nine wins including two God of Legacy events",
+        "Troll of Khazad-dûm was banned in March 2025"
+      ]
+    }
+  },
+  {
+    "name": "Cephalid Breakfast",
+    "slug": "cephalid-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Cephalid Breakfast",
+      "Nadu",
+      "Bant Nadu",
+      "Nadu Elves",
+      "Nadu Midrange",
+      "Nadu Plage",
+      "Nadu Value"
+    ],
+    "rep": 748932,
+    "cover": "Nadu, Winged Wisdom",
+    "keyCards": [
+      "Nadu, Winged Wisdom",
+      "Cephalid Illusionist",
+      "Nomads en-Kor",
+      "Urza's Saga",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Nadu, Winged Wisdom et Cephalid Illusionist ciblés en boucle par Nomads en-Kor ou Shuko : pioche ou meule de toute la bibliothèque, Thassa's Oracle ou Dread Return pour gagner.",
+      "en": "Nadu, Winged Wisdom and Cephalid Illusionist targeted in a loop by Nomads en-Kor or Shuko: draw or mill the whole library, then Thassa's Oracle or Dread Return to win."
+    },
+    "why": {
+      "fr": [
+        "Johan Larsson a gagné les European Legacy Masters 2025 à Hasselt",
+        "La version Nadu Value a gagné le 4Seasons de printemps à Bologne"
+      ],
+      "en": [
+        "Johan Larsson won the 2025 European Legacy Masters in Hasselt",
+        "The Nadu Value version won the spring 4Seasons in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Cutter",
+      "UR Aggro",
+      "UR Delver",
+      "Ur Couteau",
+      "Ur Delver"
+    ],
+    "rep": 748839,
+    "cover": "Cori-Steel Cutter",
+    "keyCards": [
+      "Cori-Steel Cutter",
+      "Dragon's Rage Channeler",
+      "Mishra's Bauble",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Cori-Steel Cutter fabriquait un Monk à chaque deuxième sort du tour, Mishra's Bauble et les sorts à un mana l'alimentaient, Dragon's Rage Channeler frappait.",
+      "en": "Blue-red tempo: Cori-Steel Cutter made a Monk on each second spell of a turn, fed by Mishra's Bauble and one-mana spells, while Dragon's Rage Channeler attacked."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Eternal Mania de Hasselt et la 2025 Asia Championship de Hareruya en version Delver",
+        "Victoires aussi en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Won the Eternal Mania main event in Hasselt and the 2025 Asia Championship at Hareruya with a Delver version",
+        "Also won Magic Online Showcase Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Mystic Forge",
+    "slug": "mystic-forge",
+    "archetype": "combo",
+    "titles": [
+      "Mystic Forge",
+      "Karn Forge",
+      "12 - Post"
+    ],
+    "rep": 769210,
+    "cover": "The One Ring",
+    "keyCards": [
+      "The One Ring",
+      "Karn, the Great Creator",
+      "Manifold Key",
+      "Grim Monolith",
+      "Kozilek's Command",
+      "Mystic Forge"
+    ],
+    "summary": {
+      "fr": "Artefacts incolores : Ancient Tomb et Grim Monolith accéléraient vers Karn et The One Ring ; Manifold Key et Basalt Monolith donnaient le mana infini.",
+      "en": "Colorless artifacts: Ancient Tomb and Grim Monolith ramped into Karn and The One Ring; Manifold Key and Basalt Monolith made infinite mana."
+    },
+    "why": {
+      "fr": [
+        "Tom Basketball a gagné le North American Legacy Championship 2025",
+        "A gagné aussi le Legacy Championship de Tokyo"
+      ],
+      "en": [
+        "Tom Basketball won the 2025 North American Legacy Championship",
+        "Also won the Legacy Championship in Tokyo"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro"
+    ],
+    "rep": 746056,
+    "cover": "Eldrazi Linebreaker",
+    "keyCards": [
+      "Eldrazi Linebreaker",
+      "Thought-Knot Seer",
+      "Glaring Fleshraker",
+      "Chalice of the Void",
+      "Kozilek's Command",
+      "Eldrazi Temple"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, Eldrazi Temple et Lotus Petal posaient Chalice of the Void puis Thought-Knot Seer, Glaring Fleshraker et Eldrazi Linebreaker dès les premiers tours.",
+      "en": "Ancient Tomb, Eldrazi Temple and Lotus Petal put down Chalice of the Void, then Thought-Knot Seer, Glaring Fleshraker and Eldrazi Linebreaker in the first turns."
+    },
+    "why": {
+      "fr": [
+        "Quatre victoires, dont l'Open Big Magic au Japon et deux Showcase Challenges",
+        "Sowing Mycospawn a été banni en mars 2025"
+      ],
+      "en": [
+        "Four wins, including the Big Magic Open in Japan and two Showcase Challenges",
+        "Sowing Mycospawn was banned in March 2025"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Tempo",
+    "slug": "dimir-tempo",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Tempo",
+      "Ub Tempo",
+      "Grixis Control"
+    ],
+    "rep": 719163,
+    "cover": "Nethergoyf",
+    "keyCards": [
+      "Nethergoyf",
+      "Tamiyo, Inquisitive Student",
+      "Kaito, Bane of Nightmares",
+      "Orcish Bowmasters",
+      "Fatal Push",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir : Nethergoyf, Barrowgoyf et Tamiyo derrière Daze et Force of Will, Orcish Bowmasters et Fatal Push, Kaito, Bane of Nightmares pour l'avantage.",
+      "en": "Blue-black tempo: Nethergoyf, Barrowgoyf and Tamiyo behind Daze and Force of Will, Orcish Bowmasters and Fatal Push, Kaito, Bane of Nightmares for card advantage."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Super Qualifier sur Magic Online en mai",
+        "Top 4 au Legacy Championship de Tokyo et au God of Legacy"
+      ],
+      "en": [
+        "Won a Magic Online Super Qualifier in May",
+        "Top four at the Legacy Championship in Tokyo and the God of Legacy"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy"
+    ],
+    "rep": 755886,
+    "cover": "Blood Moon",
+    "keyCards": [
+      "Blood Moon",
+      "Magus of the Moon",
+      "The One Ring",
+      "Fable of the Mirror-Breaker",
+      "Broadside Bombardiers",
+      "Pyrogoyf"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb, City of Traitors et Chrome Mox posaient Blood Moon, Magus of the Moon ou The One Ring dès le premier tour, puis Pyrogoyf et Broadside Bombardiers.",
+      "en": "Red prison: Ancient Tomb, City of Traitors and Chrome Mox put down Blood Moon, Magus of the Moon or The One Ring on turn one, then Pyrogoyf and Broadside Bombardiers."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au 4Seasons d'hiver à Bologne et à l'Open Big Magic au Japon",
+        "Présent dans les top 8 toute l'année sans victoire"
+      ],
+      "en": [
+        "Second at the winter 4Seasons in Bologna and the Big Magic Open in Japan",
+        "In top eights all year without a win"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 748840,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Thassa's Oracle",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Lotus Petal",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Ponder parcouraient jusqu'à Thassa's Oracle ; Bolas's Citadel servait de plan bis.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Ponder went through until Thassa's Oracle; Bolas's Citadel was a backup plan."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Eternal Mania de Hasselt et au God of Legacy",
+        "Présent dans les top 8 de mars à décembre"
+      ],
+      "en": [
+        "Second at Eternal Mania in Hasselt and at the God of Legacy",
+        "In top eights from March to December"
+      ]
+    }
+  },
+  {
+    "name": "Oops All Spells",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "Oops, All Spells!"
+    ],
+    "rep": 790215,
+    "cover": "Balustrade Spy",
+    "keyCards": [
+      "Balustrade Spy",
+      "Undercity Informer",
+      "Poxwalkers",
+      "Boggart Trawler",
+      "Thassa's Oracle",
+      "Pact of Negation"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon des cartes modales : Balustrade Spy ou Undercity Informer meulait toute la bibliothèque, Poxwalkers revenait et Thassa's Oracle gagnait.",
+      "en": "A deck with no lands except modal cards: Balustrade Spy or Undercity Informer milled the whole library, Poxwalkers came back and Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "Nakamura Ryotaro a gagné l'Eternal Party 2025 au Japon",
+        "Deuxième en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Nakamura Ryotaro won Eternal Party 2025 in Japan",
+        "Second in a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "8-Cast",
+    "slug": "blue-artifacts",
+    "archetype": "aggro",
+    "titles": [
+      "Artifacts Blue"
+    ],
+    "rep": 788022,
+    "cover": "Kappa Cannoneer",
+    "keyCards": [
+      "Kappa Cannoneer",
+      "Emry, Lurker of the Loch",
+      "Patchwork Automaton",
+      "Pinnacle Emissary",
+      "Mox Opal",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Artefacts bleus : Mox Opal, Lotus Petal et les Baubles réduisaient le coût de Kappa Cannoneer et de Patchwork Automaton, Urza's Saga fabriquait des Constructs.",
+      "en": "Blue artifacts: Mox Opal, Lotus Petal and the Baubles cut the cost of Kappa Cannoneer and Patchwork Automaton, and Urza's Saga made Constructs."
+    },
+    "why": {
+      "fr": [
+        "Tommaso Ciampolini a gagné le Legacy Championship de l'Eternal Weekend européen 2025",
+        "Victoire aussi en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Tommaso Ciampolini won the Legacy Championship at the 2025 European Eternal Weekend",
+        "Also won a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Omni - Show",
+      "Show and Tell",
+      "Omnitell",
+      "Show And Tell",
+      "Sneak Attack",
+      "Sneak Show"
+    ],
+    "rep": 746046,
+    "cover": "Show and Tell",
+    "keyCards": [
+      "Show and Tell",
+      "Sneak Attack",
+      "Omniscience",
+      "Emrakul, the Aeons Torn",
+      "Lotus Petal",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Emrakul, Atraxa ou Omniscience dès le deuxième tour ; Stock Up remplaçait d'autres sorts de pioche.",
+      "en": "Show and Tell or Sneak Attack put Emrakul, Atraxa or Omniscience into play from turn two; Stock Up replaced other draw spells."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Legacy Championship de Tokyo en version Sneak Attack",
+        "Top 4 aux championnats de Players Convention Yokohama et en Showcase Challenge"
+      ],
+      "en": [
+        "Second at the Legacy Championship in Tokyo with a Sneak Attack version",
+        "Top four at the Players Convention Yokohama championship and in a Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands",
+      "Jose Maria Bermudo Mera",
+      "Loam"
+    ],
+    "rep": 744520,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Mox Diamond",
+      "Crop Rotation",
+      "Malevolent Rumble",
+      "Once Upon a Time"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland, Malevolent Rumble et Once Upon a Time trouvaient les pièces, Dark Depths et Thespian's Stage gagnaient.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland, Malevolent Rumble and Once Upon a Time found the pieces, and Dark Depths with Thespian's Stage won."
+    },
+    "why": {
+      "fr": [
+        "Ivan Ibañez a gagné l'Impact Returns de La Corogne en juillet",
+        "Une version à Smallpox a atteint le top 4 du North American Legacy Championship"
+      ],
+      "en": [
+        "Ivan Ibañez won Impact Returns in La Coruña in July",
+        "A Smallpox version reached the top four of the North American Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4/5c Control",
+      "Bant Control",
+      "Beans Control",
+      "Esper",
+      "Esper Control",
+      "Jeskai Control",
+      "Jeskai Wizards",
+      "UWx Control",
+      "Uw Control",
+      "Uwr Riddler"
+    ],
+    "rep": 761154,
+    "cover": "Tamiyo, Inquisitive Student",
+    "keyCards": [
+      "Tamiyo, Inquisitive Student",
+      "Flame of Anor",
+      "Snapcaster Mage",
+      "Swords to Plowshares",
+      "Prismatic Ending",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôles à base bleue : Swords to Plowshares et Prismatic Ending, Tamiyo et Snapcaster Mage ; la version Jeskai ajoutait Flame of Anor, la version domaine Up the Beanstalk.",
+      "en": "Blue-based control: Swords to Plowshares and Prismatic Ending, Tamiyo and Snapcaster Mage; the Jeskai version added Flame of Anor, the domain version Up the Beanstalk."
+    },
+    "why": {
+      "fr": [
+        "La version Jeskai a gagné le 4Seasons d'été à Bologne",
+        "Une version blanc-bleu-rouge a gagné le championnat de Suède"
+      ],
+      "en": [
+        "The Jeskai version won the summer 4Seasons in Bologna",
+        "A white-blue-red version won the Swedish championship"
+      ]
+    }
+  },
+  {
+    "name": "Maverick",
+    "slug": "maverick",
+    "archetype": "midrange",
+    "titles": [
+      "Dark Maverick",
+      "Maverick",
+      "Bant Aggro"
+    ],
+    "rep": 739483,
+    "cover": "Scythecat Cub",
+    "keyCards": [
+      "Scythecat Cub",
+      "Wight of the Reliquary",
+      "Green Sun's Zenith",
+      "Ignoble Hierarch",
+      "Orcish Bowmasters",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Vert à Green Sun's Zenith : Ignoble Hierarch, Scythecat Cub et Wight of the Reliquary grossissaient avec les terrains, Thoughtseize et Orcish Bowmasters en noir.",
+      "en": "Green with Green Sun's Zenith: Ignoble Hierarch, Scythecat Cub and Wight of the Reliquary grew with lands, with black for Thoughtseize and Orcish Bowmasters."
+    },
+    "why": {
+      "fr": [
+        "Jonata Molteni a gagné l'Italian Invitational de Bologne",
+        "Deuxième à la 2025 Asia Championship de Hareruya"
+      ],
+      "en": [
+        "Jonata Molteni won the Italian Invitational in Bologna",
+        "Second at the 2025 Asia Championship at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Ninjas",
+    "slug": "ninjas",
+    "archetype": "tempo",
+    "titles": [
+      "Ninja"
+    ],
+    "rep": 690619,
+    "cover": "Yuriko, the Tiger's Shadow",
+    "keyCards": [
+      "Yuriko, the Tiger's Shadow",
+      "Ingenious Infiltrator",
+      "Ornithopter",
+      "Retrofitter Foundry",
+      "Tamiyo, Inquisitive Student",
+      "Baleful Strix"
+    ],
+    "summary": {
+      "fr": "Ornithopter et des créatures évasives passaient, puis la ninjutsu les remplaçait par Yuriko ou Ingenious Infiltrator pour piocher ou infliger des dégâts.",
+      "en": "Ornithopter and evasive creatures got through, then ninjutsu swapped them for Yuriko or Ingenious Infiltrator to draw cards or deal damage."
+    },
+    "why": {
+      "fr": [
+        "Deux top 4 au God of Legacy (Tsuji Ryosuke)",
+        "Retrofitter Foundry fabriquait des Thopters pour la ninjutsu"
+      ],
+      "en": [
+        "Two top fours at the God of Legacy (Tsuji Ryosuke)",
+        "Retrofitter Foundry made Thopters for ninjutsu"
+      ]
+    }
+  },
+  {
+    "name": "Mardu Aggro",
+    "slug": "mardu-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Mardu Aggro",
+      "Boros Aggro"
+    ],
+    "rep": 766539,
+    "cover": "Ocelot Pride",
+    "keyCards": [
+      "Ocelot Pride",
+      "Guide of Souls",
+      "Amped Raptor",
+      "Thoughtseize",
+      "Swords to Plowshares",
+      "Goblin Bombardment"
+    ],
+    "summary": {
+      "fr": "Créatures à un mana qui génèrent de la valeur : Ocelot Pride et Guide of Souls fabriquaient des jetons et de l'énergie, Goblin Bombardment les changeait en dégâts.",
+      "en": "One-mana value creatures: Ocelot Pride and Guide of Souls made tokens and energy, and Goblin Bombardment turned them into damage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième deux fois en Showcase Challenge sur Magic Online en octobre",
+        "Top 4 au Legacy Championship de l'Eternal Weekend européen 2025"
+      ],
+      "en": [
+        "Second twice in Magic Online Showcase Challenges in October",
+        "Top four at the Legacy Championship of the 2025 European Eternal Weekend"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter"
+    ],
+    "rep": 702623,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "The One Ring",
+      "Emry, Lurker of the Loch",
+      "Thoughtcast",
+      "Grim Monolith",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Version bleue à artefacts : Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors la bibliothèque ; The One Ring et Thoughtcast piochaient.",
+      "en": "Blue artifact version: Painter's Servant made every card one color, so Grindstone milled the library; The One Ring and Thoughtcast drew cards."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Qualifier sur Magic Online en mars",
+        "Top 4 au God of Legacy de février"
+      ],
+      "en": [
+        "Won a Magic Online Qualifier in March",
+        "Top four at the February God of Legacy"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Druid"
+    ],
+    "rep": 686684,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Dragon's Rage Channeler",
+      "Mishra's Bauble",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets, Dragon's Rage Channeler et Questing Druid, Lightning Bolt, Daze et Wasteland.",
+      "en": "Blue-green-red tempo: Delver of Secrets, Dragon's Rage Channeler and Questing Druid, with Lightning Bolt, Daze and Wasteland."
+    },
+    "why": {
+      "fr": [
+        "Top 8 en Showcase Challenge sur Magic Online en début d'année",
+        "Remplacé peu à peu par les versions bleu-rouge à Cori-Steel Cutter"
+      ],
+      "en": [
+        "Top eights in Magic Online Showcase Challenges early in the year",
+        "Gradually replaced by the blue-red Cori-Steel Cutter versions"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 698302,
+    "cover": "Phelia, Exuberant Shepherd",
+    "keyCards": [
+      "Phelia, Exuberant Shepherd",
+      "Solitude",
+      "Recruiter of the Guard",
+      "Overlord of the Balemurk",
+      "Aether Vial",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Version blanc-noir : Aether Vial, Solitude et Recruiter of the Guard, Phelia, Exuberant Shepherd faisait revenir les créatures à effet d'arrivée.",
+      "en": "White-black version: Aether Vial, Solitude and Recruiter of the Guard, and Phelia, Exuberant Shepherd returned enter-the-battlefield creatures."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Showcase Challenge sur Magic Online en mars",
+        "Top 8 au God of Legacy de Hareruya"
+      ],
+      "en": [
+        "Second in a Magic Online Showcase Challenge in March",
+        "Top eight at the God of Legacy at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Stoneblade",
+    "slug": "stoneblade",
+    "archetype": "control",
+    "titles": [
+      "Stoneblade"
+    ],
+    "rep": 791627,
+    "cover": "Stoneforge Mystic",
+    "keyCards": [
+      "Stoneforge Mystic",
+      "Phelia, Exuberant Shepherd",
+      "Tamiyo, Inquisitive Student",
+      "Murktide Regent",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Stoneforge Mystic allait chercher un équipement, Phelia et Tamiyo complétaient, Murktide Regent servait de menace de fin de partie.",
+      "en": "Stoneforge Mystic fetched an equipment, Phelia and Tamiyo rounded it out, and Murktide Regent was the late threat."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à la 2025 Asia Championship de Hareruya et à l'Eternal Party 2025",
+        "Stoneforge Mystic présent en Legacy depuis Worldwake"
+      ],
+      "en": [
+        "Top four at the 2025 Asia Championship at Hareruya and at Eternal Party 2025",
+        "Stoneforge Mystic has been in Legacy since Worldwake"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "Black Saga Storm",
+      "Beseech Saga Storm"
+    ],
+    "rep": 732005,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Mox Opal",
+      "Urza's Saga",
+      "Wishclaw Talisman"
+    ],
+    "summary": {
+      "fr": "Version noire à Mox Opal, Wishclaw Talisman et Urza's Saga : rituels, Lion's Eye Diamond et Infernal Tutor jusqu'à Tendrils of Agony ou Ad Nauseam.",
+      "en": "Black version with Mox Opal, Wishclaw Talisman and Urza's Saga: rituals, Lion's Eye Diamond and Infernal Tutor until Tendrils of Agony or Ad Nauseam."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en RC Qualifier sur Magic Online",
+        "Top 8 à l'Italian Invitational et au 4Seasons d'été"
+      ],
+      "en": [
+        "Second in a Magic Online RC Qualifier",
+        "Top eights at the Italian Invitational and the summer 4Seasons"
+      ]
+    }
+  },
+  {
+    "name": "Cradle Control",
+    "slug": "cradle-control",
+    "archetype": "ramp",
+    "titles": [
+      "Cradle Control"
+    ],
+    "rep": 698311,
+    "cover": "Green Sun's Zenith",
+    "keyCards": [
+      "Green Sun's Zenith",
+      "Ignoble Hierarch",
+      "Endurance",
+      "Once Upon a Time",
+      "Noble Hierarch"
+    ],
+    "summary": {
+      "fr": "Vert à Gaea's Cradle : Noble et Ignoble Hierarch, Green Sun's Zenith pour la bonne créature, Natural Order pour finir.",
+      "en": "Green with Gaea's Cradle: Noble and Ignoble Hierarch, Green Sun's Zenith for the right creature, Natural Order to finish."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online",
+        "Endurance protégeait contre les decks de cimetière"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge",
+        "Endurance protected against graveyard decks"
+      ]
+    }
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Aggro",
+      "UR Delver",
+      "Ur Delver",
+      "Ur Murktide",
+      "Temur Aggro",
+      "Temur Midrange"
+    ],
+    "rep": 498172,
+    "cover": "Murktide Regent",
+    "keyCards": [
+      "Murktide Regent",
+      "Dragon's Rage Channeler",
+      "Delver of Secrets",
+      "Expressive Iteration",
+      "Daze",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge sans Ragavan, banni en janvier : Delver of Secrets, Dragon's Rage Channeler et Murktide Regent, Expressive Iteration et Brazen Borrower.",
+      "en": "Blue-red tempo without Ragavan, banned in January: Delver of Secrets, Dragon's Rage Channeler and Murktide Regent, Expressive Iteration and Brazen Borrower."
+    },
+    "why": {
+      "fr": [
+        "Jay Wojciechowski a gagné le North American Legacy Championship 2022",
+        "L'archétype le plus présent dans les top 8 de l'année, avec huit victoires"
+      ],
+      "en": [
+        "Jay Wojciechowski won the 2022 North American Legacy Championship",
+        "The most frequent archetype in the year's top eights, with eight wins"
+      ]
+    }
+  },
+  {
+    "name": "Initiative",
+    "slug": "initiative",
+    "archetype": "aggro",
+    "titles": [
+      "Initiative Stompy",
+      "Boros Stompy"
+    ],
+    "rep": 496212,
+    "cover": "White Plume Adventurer",
+    "keyCards": [
+      "White Plume Adventurer",
+      "Seasoned Dungeoneer",
+      "Chalice of the Void",
+      "Thalia, Guardian of Thraben",
+      "Elite Spellbinder",
+      "Solitude"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, City of Traitors et Chrome Mox lançaient tôt les créatures à initiative de Battle for Baldur's Gate ; le donjon donnait un avantage que l'adversaire peinait à reprendre.",
+      "en": "Ancient Tomb, City of Traitors and Chrome Mox cast the initiative creatures from Battle for Baldur's Gate early; the dungeon gave an edge the opponent struggled to take back."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Mana Trader Invitational à 30 000 dollars et en Showcase Challenge",
+        "White Plume Adventurer a été banni en mars 2023"
+      ],
+      "en": [
+        "Won the $30,000 Mana Trader Invitational and a Showcase Challenge",
+        "White Plume Adventurer was banned in March 2023"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4cc",
+      "4c Control",
+      "4c Leovold",
+      "Bant Control",
+      "Jeskai Control",
+      "Grixis Control"
+    ],
+    "rep": 498169,
+    "cover": "Uro, Titan of Nature's Wrath",
+    "keyCards": [
+      "Uro, Titan of Nature's Wrath",
+      "Minsc & Boo, Timeless Heroes",
+      "Expressive Iteration",
+      "Prismatic Ending",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre couleurs : Swords to Plowshares et Prismatic Ending, Expressive Iteration et Uro pour l'avantage, Minsc & Boo de Battle for Baldur's Gate pour finir.",
+      "en": "Four-color control: Swords to Plowshares and Prismatic Ending, Expressive Iteration and Uro for card advantage, Minsc & Boo from Battle for Baldur's Gate to finish."
+    },
+    "why": {
+      "fr": [
+        "Hank Zhong a fini deuxième du North American Legacy Championship 2022",
+        "Victoire au Best Team Championship de Hareruya en version Leovold"
+      ],
+      "en": [
+        "Hank Zhong finished second at the 2022 North American Legacy Championship",
+        "Won the Best Team Championship at Hareruya with a Leovold version"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 486229,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Thassa's Oracle",
+      "Dark Ritual",
+      "Baleful Strix",
+      "Spell Pierce",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Ponder parcouraient jusqu'à Thassa's Oracle ; Baleful Strix et Teferi complétaient.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Ponder went through until Thassa's Oracle; Baleful Strix and Teferi rounded it out."
+    },
+    "why": {
+      "fr": [
+        "Victoires au 4Seasons d'été à Bologne et à un tournoi d'équipes NRG à 10 000 dollars",
+        "Top 4 au North American Legacy Championship"
+      ],
+      "en": [
+        "Won the summer 4Seasons in Bologna and a $10,000 NRG team trial",
+        "Top four at the North American Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves",
+      "Elves Fiend Artisan"
+    ],
+    "rep": 499170,
+    "cover": "Glimpse of Nature",
+    "keyCards": [
+      "Glimpse of Nature",
+      "Allosaurus Shepherd",
+      "Wirewood Symbiote",
+      "Nettle Sentinel",
+      "Green Sun's Zenith",
+      "Elvish Visionary"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Heritage Druid et Nettle Sentinel produisaient du mana à chaque elfe, Glimpse of Nature faisait piocher la meute, Natural Order finissait.",
+      "en": "Elf combo: Heritage Druid and Nettle Sentinel made mana with each elf, Glimpse of Nature drew the pack and Natural Order finished."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Eternal Weekend 2022 de Magic Online",
+        "Une version à Fiend Artisan a fini deuxième d'un tournoi NRG"
+      ],
+      "en": [
+        "Won the 2022 Magic Online Eternal Weekend",
+        "A Fiend Artisan version finished second at an NRG event"
+      ]
+    }
+  },
+  {
+    "name": "8-Cast",
+    "slug": "blue-artifacts",
+    "archetype": "aggro",
+    "titles": [
+      "Artifacts Blue",
+      "8-Cast",
+      "8-cast"
+    ],
+    "rep": 475975,
+    "cover": "Kappa Cannoneer",
+    "keyCards": [
+      "Kappa Cannoneer",
+      "Thoughtcast",
+      "Urza's Saga",
+      "Mox Opal",
+      "Emry, Lurker of the Loch",
+      "Chalice of the Void"
+    ],
+    "summary": {
+      "fr": "Artefacts bleus : Mox Opal, Lotus Petal et les Baubles réduisaient le coût de Thoughtcast et Kappa Cannoneer, Urza's Saga fabriquait des Constructs.",
+      "en": "Blue artifacts: Mox Opal, Lotus Petal and the Baubles cut the cost of Thoughtcast and Kappa Cannoneer, and Urza's Saga made Constructs."
+    },
+    "why": {
+      "fr": [
+        "Andrea Mengucci a fini deuxième du 4Seasons de printemps à Bologne",
+        "Top 4 à un tournoi d'équipes NRG à Minneapolis"
+      ],
+      "en": [
+        "Andrea Mengucci finished second at the spring 4Seasons in Bologna",
+        "Top four at an NRG team trial in Minneapolis"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UWx Control"
+    ],
+    "rep": 474165,
+    "cover": "Narset, Parter of Veils",
+    "keyCards": [
+      "Narset, Parter of Veils",
+      "Teferi, Time Raveler",
+      "The Wandering Emperor",
+      "Hullbreacher",
+      "Prismatic Ending",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu : Narset et Hullbreacher punissaient la pioche adverse, Teferi, Time Raveler et The Wandering Emperor tenaient la table.",
+      "en": "White-blue control: Narset and Hullbreacher punished the opponent's draws, while Teferi, Time Raveler and The Wandering Emperor held the board."
+    },
+    "why": {
+      "fr": [
+        "A gagné un tournoi d'équipes NRG à 10 000 dollars à Minneapolis",
+        "Top 4 à l'IMPACT Returns de Narón en Espagne"
+      ],
+      "en": [
+        "Won a $10,000 NRG team trial in Minneapolis",
+        "Top four at IMPACT Returns in Narón, Spain"
+      ]
+    }
+  },
+  {
+    "name": "Cephalid Breakfast",
+    "slug": "cephalid-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Cephalid Breakfast"
+    ],
+    "rep": 475974,
+    "cover": "Cephalid Illusionist",
+    "keyCards": [
+      "Cephalid Illusionist",
+      "Nomads en-Kor",
+      "Thassa's Oracle",
+      "Aether Vial",
+      "Stoneforge Mystic",
+      "Recruiter of the Guard"
+    ],
+    "summary": {
+      "fr": "Nomads en-Kor ciblait Cephalid Illusionist en boucle pour meuler toute la bibliothèque, Thassa's Oracle gagnait ; Stoneforge Mystic donnait un plan bis.",
+      "en": "Nomads en-Kor targeted Cephalid Illusionist over and over to mill the whole library and Thassa's Oracle won; Stoneforge Mystic gave a backup plan."
+    },
+    "why": {
+      "fr": [
+        "Javier Dominguez a gagné le 4Seasons de printemps à Bologne",
+        "Top 4 au North American Legacy Championship 2022"
+      ],
+      "en": [
+        "Javier Dominguez won the spring 4Seasons in Bologna",
+        "Top four at the 2022 North American Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator"
+    ],
+    "rep": 496790,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Entomb",
+      "Exhume",
+      "Dark Ritual",
+      "Lotus Petal",
+      "Unmask"
+    ],
+    "summary": {
+      "fr": "Entomb mettait Griselbrand au cimetière, Dark Ritual et Lotus Petal permettaient Exhume ou Animate Dead dès le premier tour, Unmask dégageait la voie.",
+      "en": "Entomb put Griselbrand in the graveyard, Dark Ritual and Lotus Petal enabled Exhume or Animate Dead on turn one, and Unmask cleared the way."
+    },
+    "why": {
+      "fr": [
+        "Deuxième aux European Legacy Masters 2022 de Bologne",
+        "Top 4 au Mana Trader Invitational à 30 000 dollars"
+      ],
+      "en": [
+        "Second at the 2022 European Legacy Masters in Bologna",
+        "Top four at the $30,000 Mana Trader Invitational"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 482321,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Solitude",
+      "Recruiter of the Guard",
+      "Stoneforge Mystic",
+      "Spirit of the Labyrinth",
+      "Flickerwisp"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia et Spirit of the Labyrinth ralentissaient l'adversaire, Solitude et Recruiter of the Guard s'ajoutaient à Aether Vial et Stoneforge Mystic.",
+      "en": "Small white taxing creatures: Thalia and Spirit of the Labyrinth slowed the opponent, while Solitude and Recruiter of the Guard joined Aether Vial and Stoneforge Mystic."
+    },
+    "why": {
+      "fr": [
+        "Cristobal Abril a gagné l'IMPACT Returns de Narón en juillet",
+        "Solitude, de Modern Horizons 2, retirait une créature gratuitement"
+      ],
+      "en": [
+        "Cristobal Abril won IMPACT Returns in Narón in July",
+        "Solitude, from Modern Horizons 2, removed a creature for free"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy",
+      "Mono R Prison",
+      "Karn Stompy"
+    ],
+    "rep": 496063,
+    "cover": "Fable of the Mirror-Breaker",
+    "keyCards": [
+      "Fable of the Mirror-Breaker",
+      "Chalice of the Void",
+      "Blood Moon",
+      "Goblin Rabblemaster",
+      "Laelia, the Blade Reforged",
+      "Trinisphere"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb, City of Traitors et Chrome Mox posaient Chalice of the Void, Blood Moon ou Trinisphere, puis Fable of the Mirror-Breaker et Goblin Rabblemaster.",
+      "en": "Red prison: Ancient Tomb, City of Traitors and Chrome Mox put down Chalice of the Void, Blood Moon or Trinisphere, then Fable of the Mirror-Breaker and Goblin Rabblemaster."
+    },
+    "why": {
+      "fr": [
+        "Kouki Nagata a gagné l'Asia Championship 2022 à Big Magic",
+        "Victoire aussi au PSBG Team Trios Headliner"
+      ],
+      "en": [
+        "Kouki Nagata won the 2022 Asia Championship at Big Magic",
+        "Also won the PSBG Team Trios Headliner"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter"
+    ],
+    "rep": 484938,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Goblin Engineer",
+      "Goblin Welder",
+      "Grindstone",
+      "Urza's Saga",
+      "Pyroblast"
+    ],
+    "summary": {
+      "fr": "Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors toute la bibliothèque ; Goblin Engineer et Urza's Saga allaient chercher les artefacts.",
+      "en": "Painter's Servant made every card one color, so Grindstone milled the whole library; Goblin Engineer and Urza's Saga fetched the artifacts."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à un tournoi d'équipes NRG à 20 000 dollars à Saint-Louis",
+        "Top 8 au 4Seasons de Bologne en décembre"
+      ],
+      "en": [
+        "Top four at a $20,000 NRG team showdown in St. Louis",
+        "Top eight at the 4Seasons in Bologna in December"
+      ]
+    }
+  },
+  {
+    "name": "Dark Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Dark Depths",
+      "Selesnya Depths"
+    ],
+    "rep": 498170,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Green Sun's Zenith",
+      "Mox Diamond",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Vert-blanc à combinaison : Knight of the Reliquary, Elvish Reclaimer et Crop Rotation allaient chercher Dark Depths et Thespian's Stage pour obtenir Marit Lage.",
+      "en": "Green-white with a combo: Knight of the Reliquary, Elvish Reclaimer and Crop Rotation fetched Dark Depths and Thespian's Stage to make Marit Lage."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au North American Legacy Championship 2022",
+        "Top 8 aussi au Best Team Championship de Hareruya et à Bologne"
+      ],
+      "en": [
+        "Top eight at the 2022 North American Legacy Championship",
+        "Also top eights at the Best Team Championship at Hareruya and in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Sneak Show"
+    ],
+    "rep": 496058,
+    "cover": "Show and Tell",
+    "keyCards": [
+      "Show and Tell",
+      "Sneak Attack",
+      "Griselbrand",
+      "Lotus Petal",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Griselbrand ou Emrakul dès le deuxième tour, Force of Will protégeait.",
+      "en": "Show and Tell or Sneak Attack put Griselbrand or Emrakul into play from turn two, with Force of Will as protection."
+    },
+    "why": {
+      "fr": [
+        "Top 8 à l'Asia Championship 2022 et au God of Legacy de Hareruya",
+        "Top 8 en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Top eights at the 2022 Asia Championship and the God of Legacy at Hareruya",
+        "Top eight in a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "TES",
+      "Red Storm",
+      "Birgi Storm"
+    ],
+    "rep": 496064,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Lotus Petal",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Burning Wish prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Burning Wish extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Asia Championship 2022 à Big Magic",
+        "TES a fini deuxième en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Second at the 2022 Asia Championship at Big Magic",
+        "TES finished second in a Magic Online Showcase Challenge"
+      ]
+    }
+  }
+]

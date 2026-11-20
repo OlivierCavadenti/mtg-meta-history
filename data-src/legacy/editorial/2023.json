@@ -1,0 +1,778 @@
+[
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4cc",
+      "4/5c Control",
+      "4c Control",
+      "4c Uro Control Yorion",
+      "5c Uro Control",
+      "5cc",
+      "Jeskai Control",
+      "UWx Control"
+    ],
+    "rep": 571551,
+    "cover": "Up the Beanstalk",
+    "keyCards": [
+      "Up the Beanstalk",
+      "Leyline Binding",
+      "Orcish Bowmasters",
+      "Murktide Regent",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle à base de domaine : Leyline Binding pour un mana, Up the Beanstalk de Wilds of Eldraine pour piocher, Orcish Bowmasters et Murktide Regent pour finir.",
+      "en": "Domain control: Leyline Binding for one mana, Up the Beanstalk from Wilds of Eldraine to draw, and Orcish Bowmasters and Murktide Regent to finish."
+    },
+    "why": {
+      "fr": [
+        "Tk Strachan a gagné le North American Legacy Championship 2023",
+        "Victoires aussi au God of Legacy de janvier et en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Tk Strachan won the 2023 North American Legacy Championship",
+        "Also won the January God of Legacy and a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Druid",
+      "Canadian Midrange",
+      "Canadian Threshold",
+      "Rug Delver"
+    ],
+    "rep": 566373,
+    "cover": "Questing Druid",
+    "keyCards": [
+      "Questing Druid",
+      "Delver of Secrets",
+      "Dragon's Rage Channeler",
+      "Murktide Regent",
+      "Mishra's Bauble",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets, Dragon's Rage Channeler et Murktide Regent ; Questing Druid, de Wilds of Eldraine, rejoignait les menaces en fin d'année.",
+      "en": "Blue-green-red tempo: Delver of Secrets, Dragon's Rage Channeler and Murktide Regent; Questing Druid, from Wilds of Eldraine, joined the threats late in the year."
+    },
+    "why": {
+      "fr": [
+        "Julian Jakobovits a gagné le Legacy de l'Eternal Weekend Europe 2023",
+        "Victoires aussi au God of Legacy et au championnat de Pologne"
+      ],
+      "en": [
+        "Julian Jakobovits won the Legacy event of Eternal Weekend Europe 2023",
+        "Also won the God of Legacy and the Polish championship"
+      ]
+    }
+  },
+  {
+    "name": "Initiative",
+    "slug": "initiative",
+    "archetype": "aggro",
+    "titles": [
+      "Initiative Stompy",
+      "Boros Initiative",
+      "Boros Stompy",
+      "Boros initiative",
+      "Taiga Initiative"
+    ],
+    "rep": 501631,
+    "cover": "Seasoned Dungeoneer",
+    "keyCards": [
+      "Seasoned Dungeoneer",
+      "White Plume Adventurer",
+      "Elite Spellbinder",
+      "Solitude",
+      "Chalice of the Void",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, City of Traitors et Chrome Mox lançaient tôt les créatures à initiative ; après le bannissement de White Plume Adventurer en mars, des versions boros ont suivi.",
+      "en": "Ancient Tomb, City of Traitors and Chrome Mox cast the initiative creatures early; after White Plume Adventurer was banned in March, Boros versions followed."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au God of Legacy de janvier, en Super Qualifier et en Showcase Challenge",
+        "Présent dans les top 8 toute l'année sans victoire"
+      ],
+      "en": [
+        "Second at the January God of Legacy, in a Super Qualifier and in a Showcase Challenge",
+        "In top eights all year without a win"
+      ]
+    }
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Delver",
+      "UR Aggro",
+      "Ur Delver"
+    ],
+    "rep": 511534,
+    "cover": "Dragon's Rage Channeler",
+    "keyCards": [
+      "Dragon's Rage Channeler",
+      "Delver of Secrets",
+      "Murktide Regent",
+      "Expressive Iteration",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets, Dragon's Rage Channeler et Murktide Regent, sans Expressive Iteration après son bannissement en mars.",
+      "en": "Blue-red tempo: Delver of Secrets, Dragon's Rage Channeler and Murktide Regent, without Expressive Iteration after its ban in March."
+    },
+    "why": {
+      "fr": [
+        "Mauro Petruzzella a gagné le 4Seasons d'hiver à Bologne",
+        "Victoire aussi à la compétition par équipes de Hareruya"
+      ],
+      "en": [
+        "Mauro Petruzzella won the winter 4Seasons in Bologna",
+        "Also won the team competition at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Scam",
+    "slug": "scam",
+    "archetype": "midrange",
+    "titles": [
+      "Dimir Scam",
+      "Ub Scam",
+      "Rakdos Scam",
+      "Mono Black Scam",
+      "Dimir Murktide"
+    ],
+    "rep": 546930,
+    "cover": "Grief",
+    "keyCards": [
+      "Grief",
+      "Reanimate",
+      "Orcish Bowmasters",
+      "Murktide Regent",
+      "Troll of Khazad-dum",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Grief évoqué arrachait la meilleure carte adverse, puis Reanimate le ramenait aussitôt ; Orcish Bowmasters punissait la pioche et Troll of Khazad-dûm se cyclait.",
+      "en": "An evoked Grief took the opponent's best card, then Reanimate brought it right back; Orcish Bowmasters punished extra draws and Troll of Khazad-dûm cycled."
+    },
+    "why": {
+      "fr": [
+        "Top 4 aux European Legacy Masters 2023 de Bologne",
+        "Top 8 réguliers en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Top four at the 2023 European Legacy Masters in Bologna",
+        "Regular top eights in Magic Online Showcase Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 570300,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Personal Tutor",
+      "Dark Ritual",
+      "Lotus Petal",
+      "Thoughtseize",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Ponder parcouraient jusqu'à Thassa's Oracle ; Personal Tutor allait chercher Doomsday.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Ponder went through until Thassa's Oracle; Personal Tutor fetched Doomsday."
+    },
+    "why": {
+      "fr": [
+        "Luca Fasoli a gagné le 4Seasons de juin à Bologne",
+        "Deuxième à l'Asia Legacy Championship 2023"
+      ],
+      "en": [
+        "Luca Fasoli won the June 4Seasons in Bologna",
+        "Second at the 2023 Asia Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver"
+    ],
+    "rep": 549706,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Dragon's Rage Channeler",
+      "Mishra's Bauble",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets et Dragon's Rage Channeler, Orcish Bowmasters et Lightning Bolt, derrière Daze et Force of Will.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets and Dragon's Rage Channeler, Orcish Bowmasters and Lightning Bolt, behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "Deuxième aux European Legacy Masters 2023 (Bruno Cerqueira)",
+        "Deuxième aussi au 4Season d'automne à Bologne"
+      ],
+      "en": [
+        "Second at the 2023 European Legacy Masters (Bruno Cerqueira)",
+        "Also second at the autumn 4Season in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "Cascade Crash",
+    "slug": "cascade-crash",
+    "archetype": "combo",
+    "titles": [
+      "Cascade Crash",
+      "Temur Rhinos"
+    ],
+    "rep": 546926,
+    "cover": "Crashing Footfalls",
+    "keyCards": [
+      "Crashing Footfalls",
+      "Violent Outburst",
+      "Shardless Agent",
+      "Fire/Ice",
+      "Force of Will",
+      "Brazen Borrower"
+    ],
+    "summary": {
+      "fr": "Sans sort bon marché dans le deck, Shardless Agent et Violent Outburst cascadaient forcément sur Crashing Footfalls : deux Rhinocéros 4/4 dès le deuxième tour.",
+      "en": "With no cheap spells in the deck, Shardless Agent and Violent Outburst always cascaded into Crashing Footfalls: two 4/4 Rhinos on turn two."
+    },
+    "why": {
+      "fr": [
+        "A gagné The Last Sun 2023 à Tokyo",
+        "Victoires aussi en Showcase Challenge et en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Won The Last Sun 2023 in Tokyo",
+        "Also won a Showcase Challenge and a Super Qualifier on Magic Online"
+      ]
+    }
+  },
+  {
+    "name": "Death's Shadow",
+    "slug": "deaths-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow",
+      "Dimir Shadow",
+      "Ub Shadow"
+    ],
+    "rep": 511535,
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Grief",
+      "Reanimate",
+      "Baleful Strix",
+      "Murktide Regent",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir : Thoughtseize, Reanimate et les fetchlands faisaient baisser ses propres points de vie pour que Death's Shadow devienne énorme ; Grief et Reanimate complétaient.",
+      "en": "Blue-black tempo: Thoughtseize, Reanimate and fetch lands lowered its own life total so Death's Shadow became huge; Grief and Reanimate rounded it out."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au 4Seasons d'hiver à Bologne (Joe Brennan)",
+        "Top 8 à un tournoi NRG à 5 000 dollars près de Chicago"
+      ],
+      "en": [
+        "Second at the winter 4Seasons in Bologna (Joe Brennan)",
+        "Top eight at a $5,000 NRG trial near Chicago"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Rakdos Reanimator",
+      "Rb Reanimator",
+      "UB Reanimator"
+    ],
+    "rep": 568504,
+    "cover": "Troll of Khazad-dum",
+    "keyCards": [
+      "Troll of Khazad-dum",
+      "Grief",
+      "Entomb",
+      "Reanimate",
+      "Orcish Bowmasters",
+      "Dauthi Voidwalker"
+    ],
+    "summary": {
+      "fr": "Version noire à Grief : Entomb et Troll of Khazad-dûm cyclé remplissaient le cimetière, Reanimate ramenait Grief, Atraxa ou Archon of Cruelty, Dauthi Voidwalker exilait.",
+      "en": "Black Grief version: Entomb and a cycled Troll of Khazad-dûm filled the graveyard, Reanimate returned Grief, Atraxa or Archon of Cruelty, and Dauthi Voidwalker exiled."
+    },
+    "why": {
+      "fr": [
+        "La version noir-rouge a gagné le Champions Showcase de Magic Online",
+        "Deuxième en Showcase Challenge et en Showcase Qualifier"
+      ],
+      "en": [
+        "The black-red version won the Magic Online Champions Showcase",
+        "Second in a Showcase Challenge and a Showcase Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 535573,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Solitude",
+      "Recruiter of the Guard",
+      "Stoneforge Mystic",
+      "Spirit of the Labyrinth",
+      "Aether Vial"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia et Spirit of the Labyrinth ralentissaient l'adversaire, Solitude et Recruiter of the Guard s'ajoutaient à Aether Vial et Stoneforge Mystic.",
+      "en": "Small white taxing creatures: Thalia and Spirit of the Labyrinth slowed the opponent, while Solitude and Recruiter of the Guard joined Aether Vial and Stoneforge Mystic."
+    },
+    "why": {
+      "fr": [
+        "John Ryan Hamilton a gagné un tournoi NRG à 5 000 dollars près de Chicago",
+        "Victoire aussi en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "John Ryan Hamilton won a $5,000 NRG trial near Chicago",
+        "Also won a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Cephalid Breakfast",
+    "slug": "cephalid-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Cephalid Breakfast"
+    ],
+    "rep": 571553,
+    "cover": "Cephalid Illusionist",
+    "keyCards": [
+      "Cephalid Illusionist",
+      "Nomads en-Kor",
+      "Orcish Bowmasters",
+      "Narcomoeba",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Nomads en-Kor ciblait Cephalid Illusionist en boucle pour meuler toute la bibliothèque, Thassa's Oracle ou Narcomoeba et Dread Return gagnaient.",
+      "en": "Nomads en-Kor targeted Cephalid Illusionist over and over to mill the whole library, and Thassa's Oracle or Narcomoeba with Dread Return won."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au North American Legacy Championship 2023 (Wyatt Gibson)",
+        "Top 4 au tournoi à 10 000 dollars de la SCG CON de Baltimore"
+      ],
+      "en": [
+        "Top four at the 2023 North American Legacy Championship (Wyatt Gibson)",
+        "Top four at the $10,000 event at SCG CON Baltimore"
+      ]
+    }
+  },
+  {
+    "name": "Cradle Control",
+    "slug": "cradle-control",
+    "archetype": "ramp",
+    "titles": [
+      "Cradle Control",
+      "Artisan Order"
+    ],
+    "rep": 566374,
+    "cover": "Fiend Artisan",
+    "keyCards": [
+      "Fiend Artisan",
+      "Elvish Reclaimer",
+      "Ignoble Hierarch",
+      "Endurance",
+      "Green Sun's Zenith",
+      "Natural Order"
+    ],
+    "summary": {
+      "fr": "Vert à Gaea's Cradle : Ignoble Hierarch et des petites créatures, Fiend Artisan et Green Sun's Zenith pour la bonne réponse, Natural Order pour Atraxa ou Craterhoof.",
+      "en": "Green with Gaea's Cradle: Ignoble Hierarch and small creatures, Fiend Artisan and Green Sun's Zenith for the right answer, Natural Order for Atraxa or Craterhoof."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Legacy de l'Eternal Weekend Europe 2023",
+        "Top 4 au North American Legacy Championship 2023"
+      ],
+      "en": [
+        "Second at the Legacy event of Eternal Weekend Europe 2023",
+        "Top four at the 2023 North American Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter",
+      "Mono-red Painter",
+      "Rb Painter"
+    ],
+    "rep": 571552,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Goblin Engineer",
+      "Goblin Welder",
+      "Fable of the Mirror-Breaker",
+      "Swords to Plowshares",
+      "Fury"
+    ],
+    "summary": {
+      "fr": "Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors toute la bibliothèque ; Goblin Engineer et Goblin Welder retrouvaient les pièces.",
+      "en": "Painter's Servant made every card one color, so Grindstone milled the whole library; Goblin Engineer and Goblin Welder found the pieces again."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au North American Legacy Championship 2023",
+        "Top 4 au 4Seasons d'hiver et au championnat de Pologne"
+      ],
+      "en": [
+        "Second at the 2023 North American Legacy Championship",
+        "Top four at the winter 4Seasons and the Polish championship"
+      ]
+    }
+  },
+  {
+    "name": "8-Cast",
+    "slug": "blue-artifacts",
+    "archetype": "aggro",
+    "titles": [
+      "Artifacts Blue",
+      "8-Cast",
+      "Ub Painter"
+    ],
+    "rep": 536283,
+    "cover": "Thoughtcast",
+    "keyCards": [
+      "Thoughtcast",
+      "Mox Opal",
+      "Chalice of the Void",
+      "Mishra's Bauble",
+      "Urza's Bauble",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Artefacts bleus : Mox Opal, Lotus Petal et les Baubles réduisaient le coût de Thoughtcast et Kappa Cannoneer, Urza's Saga fabriquait des Constructs.",
+      "en": "Blue artifacts: Mox Opal, Lotus Petal and the Baubles cut the cost of Thoughtcast and Kappa Cannoneer, and Urza's Saga made Constructs."
+    },
+    "why": {
+      "fr": [
+        "Nakamura Yuya a gagné les deux championnats du Japon de Legacy, à Yokohama et chez Big Magic",
+        "Top 8 en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Nakamura Yuya won both Japanese Legacy Championships, in Yokohama and at Big Magic",
+        "Top eight in a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "TES",
+      "Beseech the Storm",
+      "Mono B Beseech"
+    ],
+    "rep": 534043,
+    "cover": "Wishclaw Talisman",
+    "keyCards": [
+      "Wishclaw Talisman",
+      "Lion's Eye Diamond",
+      "Infernal Tutor",
+      "Dark Ritual",
+      "Mox Opal",
+      "Urza's Saga"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; une version noire à Mox Opal, Wishclaw Talisman et Urza's Saga, une autre à Beseech the Mirror.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; one black version used Mox Opal, Wishclaw Talisman and Urza's Saga, another Beseech the Mirror."
+    },
+    "why": {
+      "fr": [
+        "La version Beseech the Mirror a gagné les European Legacy Masters 2023",
+        "Victoires aussi à la SCG CON de Baltimore et au God of Legacy de novembre"
+      ],
+      "en": [
+        "The Beseech the Mirror version won the 2023 European Legacy Masters",
+        "Also won at SCG CON Baltimore and the November God of Legacy"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands",
+      "Yorion Lands"
+    ],
+    "rep": 555064,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Crop Rotation",
+      "Mox Diamond",
+      "Sphere of Resistance",
+      "Crucible of Worlds"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland, Sphere of Resistance taxait l'adversaire, Dark Depths et Thespian's Stage gagnaient.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland, Sphere of Resistance taxed the opponent, and Dark Depths with Thespian's Stage won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Champions Showcase et en Super Qualifier sur Magic Online",
+        "Top 4 au tournoi à 10 000 dollars de la SCG CON de Baltimore"
+      ],
+      "en": [
+        "Second at the Champions Showcase and in a Super Qualifier on Magic Online",
+        "Top four at the $10,000 event at SCG CON Baltimore"
+      ]
+    }
+  },
+  {
+    "name": "Mystic Forge",
+    "slug": "mystic-forge",
+    "archetype": "combo",
+    "titles": [
+      "Mystic Forge",
+      "Mono Black Helm"
+    ],
+    "rep": 576375,
+    "cover": "The One Ring",
+    "keyCards": [
+      "The One Ring",
+      "Mystic Forge",
+      "Karn, the Great Creator",
+      "Paradox Engine",
+      "Grim Monolith",
+      "Defense Grid"
+    ],
+    "summary": {
+      "fr": "Artefacts incolores : Ancient Tomb, City of Traitors et Grim Monolith accéléraient vers Karn, Mystic Forge et The One Ring ; Paradox Engine finissait la combinaison.",
+      "en": "Colorless artifacts: Ancient Tomb, City of Traitors and Grim Monolith ramped into Karn, Mystic Forge and The One Ring; Paradox Engine completed the combo."
+    },
+    "why": {
+      "fr": [
+        "Hayakawa Sho a gagné l'Eternal Party 2023 à Tokyo",
+        "Top 4 en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Hayakawa Sho won Eternal Party 2023 in Tokyo",
+        "Top four in a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Sneak Show",
+      "Omni - Show"
+    ],
+    "rep": 522398,
+    "cover": "Atraxa, Grand Unifier",
+    "keyCards": [
+      "Atraxa, Grand Unifier",
+      "Show and Tell",
+      "Sneak Attack",
+      "Lotus Petal",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Atraxa, Grand Unifier, d'All Will Be One, Emrakul ou Griselbrand dès le deuxième tour.",
+      "en": "Show and Tell or Sneak Attack put Atraxa, Grand Unifier from All Will Be One, Emrakul or Griselbrand into play from turn two."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au God of Legacy d'avril et à la compétition par équipes de Hareruya",
+        "Top 8 au championnat du Japon de Legacy à Yokohama"
+      ],
+      "en": [
+        "Top four at the April God of Legacy and the team competition at Hareruya",
+        "Top eight at the Japanese Legacy Championship in Yokohama"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins"
+    ],
+    "rep": 573352,
+    "cover": "Muxus, Goblin Grandee",
+    "keyCards": [
+      "Muxus, Goblin Grandee",
+      "Goblin Ringleader",
+      "Broadside Bombardiers",
+      "Battle Cry Goblin",
+      "Frenzied Goblin",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Gobelins accélérés par Chrome Mox et Simian Spirit Guide : Muxus, Goblin Grandee mettait en jeu les gobelins du dessus, Broadside Bombardiers les sacrifiait pour des dégâts.",
+      "en": "Goblins accelerated by Chrome Mox and Simian Spirit Guide: Muxus, Goblin Grandee put goblins from the top into play, and Broadside Bombardiers sacrificed them for damage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à The Last Sun 2023 à Tokyo",
+        "Top 8 au tournoi à 10 000 dollars de la SCG CON de Baltimore"
+      ],
+      "en": [
+        "Second at The Last Sun 2023 in Tokyo",
+        "Top eight at the $10,000 event at SCG CON Baltimore"
+      ]
+    }
+  },
+  {
+    "name": "Oops All Spells",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "All My Spells",
+      "All my Spells"
+    ],
+    "rep": 567609,
+    "cover": "Balustrade Spy",
+    "keyCards": [
+      "Balustrade Spy",
+      "Agadeem's Awakening",
+      "Dark Ritual",
+      "Pact of Negation",
+      "Leyline of Sanctity",
+      "Lotus Petal"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon les cartes modales de Zendikar Rising : Balustrade Spy meulait toute la bibliothèque, Narcomoeba et Dread Return gagnaient.",
+      "en": "A deck with no lands except Zendikar Rising modal cards: Balustrade Spy milled the whole library, and Narcomoeba with Dread Return won."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Asia Legacy Championship 2023 à Big Magic",
+        "Leyline of Sanctity protégeait contre la défausse"
+      ],
+      "en": [
+        "Won the 2023 Asia Legacy Championship at Big Magic",
+        "Leyline of Sanctity protected against discard"
+      ]
+    }
+  },
+  {
+    "name": "Oracle Combo",
+    "slug": "thassas-oracle",
+    "archetype": "combo",
+    "titles": [
+      "Thassa's Oracle"
+    ],
+    "rep": 568506,
+    "cover": "Thassa's Oracle",
+    "keyCards": [
+      "Thassa's Oracle",
+      "Paradigm Shift",
+      "Thought Lash",
+      "Step Through",
+      "Force of Will",
+      "Lotus Petal"
+    ],
+    "summary": {
+      "fr": "Paradigm Shift ou Thought Lash exilait toute la bibliothèque, puis Thassa's Oracle gagnait aussitôt ; Cavern of Souls protégeait l'Oracle des contre-sorts.",
+      "en": "Paradigm Shift or Thought Lash exiled the whole library, then Thassa's Oracle won at once; Cavern of Souls protected the Oracle from counterspells."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online",
+        "Step Through allait chercher Thassa's Oracle par cyclage de sorcier"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge",
+        "Step Through fetched Thassa's Oracle with wizardcycling"
+      ]
+    }
+  },
+  {
+    "name": "Green Post",
+    "slug": "post",
+    "archetype": "ramp",
+    "titles": [
+      "Green Post",
+      "Cloudpost",
+      "Titan Post"
+    ],
+    "rep": 571470,
+    "cover": "Primeval Titan",
+    "keyCards": [
+      "Primeval Titan",
+      "The One Ring",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Green Sun's Zenith",
+      "Once Upon a Time"
+    ],
+    "summary": {
+      "fr": "Cloudpost, Glimmerpost et Vesuva produisaient beaucoup de mana, Elvish Reclaimer et Crop Rotation allaient chercher les terrains, Primeval Titan et The One Ring suivaient.",
+      "en": "Cloudpost, Glimmerpost and Vesuva made lots of mana, Elvish Reclaimer and Crop Rotation fetched lands, and Primeval Titan and The One Ring followed."
+    },
+    "why": {
+      "fr": [
+        "A gagné le 4Season d'automne à Bologne en décembre",
+        "Deuxième au championnat du Japon de Legacy à Yokohama en version Titan Post"
+      ],
+      "en": [
+        "Won the autumn 4Season in Bologna in December",
+        "Second at the Japanese Legacy Championship in Yokohama with a Titan Post version"
+      ]
+    }
+  }
+]

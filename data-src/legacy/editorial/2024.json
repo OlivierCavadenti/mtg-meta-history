@@ -1,0 +1,609 @@
+[
+  {
+    "name": "UB Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "UB Reanimator",
+      "Ub Reanimator",
+      "Reanimator",
+      "Esper Reanimator",
+      "Dimir Rescaminator",
+      "Dimir Scam",
+      "BUG Scam"
+    ],
+    "rep": 594972,
+    "cover": "Grief",
+    "keyCards": [
+      "Grief",
+      "Troll of Khazad-dum",
+      "Entomb",
+      "Reanimate",
+      "Animate Dead",
+      "Orcish Bowmasters"
+    ],
+    "summary": {
+      "fr": "Grief évoqué arrachait la meilleure carte adverse avant d'être réanimé, Entomb et Troll of Khazad-dûm cyclé préparaient Reanimate et Animate Dead ; Psychic Frog en fin d'année.",
+      "en": "An evoked Grief took the opponent's best card before being reanimated, and Entomb plus a cycled Troll of Khazad-dûm set up Reanimate and Animate Dead; Psychic Frog late in the year."
+    },
+    "why": {
+      "fr": [
+        "Matteo Blasi a gagné les European Legacy Masters 2024 ; l'archétype le plus présent de l'année",
+        "Grief a été banni en août 2024"
+      ],
+      "en": [
+        "Matteo Blasi won the 2024 European Legacy Masters; the most frequent archetype of the year",
+        "Grief was banned in August 2024"
+      ]
+    }
+  },
+  {
+    "name": "Cephalid Breakfast",
+    "slug": "cephalid-breakfast",
+    "archetype": "combo",
+    "titles": [
+      "Cephalid Breakfast",
+      "Nadu"
+    ],
+    "rep": 670720,
+    "cover": "Nadu, Winged Wisdom",
+    "keyCards": [
+      "Nadu, Winged Wisdom",
+      "Cephalid Illusionist",
+      "Nomads en-Kor",
+      "Shuko",
+      "Thassa's Oracle",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Nadu, Winged Wisdom, de Modern Horizons 3, s'ajoutait à Cephalid Illusionist : Nomads en-Kor ou Shuko ciblaient en boucle pour piocher ou meuler, Thassa's Oracle gagnait.",
+      "en": "Nadu, Winged Wisdom, from Modern Horizons 3, joined Cephalid Illusionist: Nomads en-Kor or Shuko targeted them in a loop to draw or mill, and Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Legacy de l'Eternal Weekend Europe 2024 et l'Eternal Party 2024 d'Osaka",
+        "Une version verte à Chord of Calling a fini deuxième du North American Legacy Championship"
+      ],
+      "en": [
+        "Won the Legacy event of Eternal Weekend Europe 2024 and Eternal Party 2024 in Osaka",
+        "A green Chord of Calling version finished second at the North American Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy",
+      "Moon Stompy"
+    ],
+    "rep": 654537,
+    "cover": "The One Ring",
+    "keyCards": [
+      "The One Ring",
+      "Blood Moon",
+      "Fable of the Mirror-Breaker",
+      "Vexing Bauble",
+      "Broadside Bombardiers",
+      "Laelia, the Blade Reforged"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb et Chrome Mox posaient Blood Moon ou The One Ring dès le premier tour, Vexing Bauble coupait les sorts gratuits, Fable et Laelia frappaient.",
+      "en": "Red prison: Ancient Tomb and Chrome Mox put down Blood Moon or The One Ring on turn one, Vexing Bauble stopped free spells, and Fable and Laelia attacked."
+    },
+    "why": {
+      "fr": [
+        "Shigeki Takano a gagné l'Asia Legacy Championship 2024",
+        "Victoire aussi en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Shigeki Takano won the 2024 Asia Legacy Championship",
+        "Also won a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver",
+      "Grixis Aggro"
+    ],
+    "rep": 588951,
+    "cover": "Orcish Bowmasters",
+    "keyCards": [
+      "Orcish Bowmasters",
+      "Delver of Secrets",
+      "Dragon's Rage Channeler",
+      "Lightning Bolt",
+      "Ponder",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets et Dragon's Rage Channeler, Orcish Bowmasters et Lightning Bolt, puis Psychic Frog après Modern Horizons 3.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets and Dragon's Rage Channeler, Orcish Bowmasters and Lightning Bolt, then Psychic Frog after Modern Horizons 3."
+    },
+    "why": {
+      "fr": [
+        "Marco Montani a gagné le 4Seasons d'hiver à Bologne",
+        "Victoire aussi en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Marco Montani won the winter 4Seasons in Bologna",
+        "Also won a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Mystic Forge",
+    "slug": "mystic-forge",
+    "archetype": "combo",
+    "titles": [
+      "Mystic Forge",
+      "Forge Ramp",
+      "MUD"
+    ],
+    "rep": 667147,
+    "cover": "The One Ring",
+    "keyCards": [
+      "The One Ring",
+      "Karn, the Great Creator",
+      "Kozilek's Command",
+      "Manifold Key",
+      "Grim Monolith",
+      "Vexing Bauble"
+    ],
+    "summary": {
+      "fr": "Artefacts incolores : Ancient Tomb, Urza's Workshop et Grim Monolith accéléraient vers Karn et The One Ring ; Manifold Key et Basalt Monolith donnaient le mana infini.",
+      "en": "Colorless artifacts: Ancient Tomb, Urza's Workshop and Grim Monolith ramped into Karn and The One Ring; Manifold Key and Basalt Monolith made infinite mana."
+    },
+    "why": {
+      "fr": [
+        "Kelvin Wallace a gagné le North American Legacy Championship 2024",
+        "Deuxième à l'Eternal Party 2024 de Tokyo"
+      ],
+      "en": [
+        "Kelvin Wallace won the 2024 North American Legacy Championship",
+        "Second at Eternal Party 2024 in Tokyo"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Druid",
+      "Canadian Threshold",
+      "Temur Delver"
+    ],
+    "rep": 606620,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Dragon's Rage Channeler",
+      "Mishra's Bauble",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets, Dragon's Rage Channeler et Questing Druid, Lightning Bolt, Daze et Wasteland.",
+      "en": "Blue-green-red tempo: Delver of Secrets, Dragon's Rage Channeler and Questing Druid, with Lightning Bolt, Daze and Wasteland."
+    },
+    "why": {
+      "fr": [
+        "Victoires à un tournoi NRG à 5 000 dollars à Minneapolis et au 4Seasons de printemps",
+        "Victoire aussi en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Won a $5,000 NRG trial in Minneapolis and the spring 4Seasons",
+        "Also won a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro",
+      "Eldrazi",
+      "Eldrazi Stompy",
+      "Post G"
+    ],
+    "rep": 654538,
+    "cover": "Sowing Mycospawn",
+    "keyCards": [
+      "Sowing Mycospawn",
+      "Glaring Fleshraker",
+      "It That Heralds the End",
+      "Thought-Knot Seer",
+      "Kozilek's Command",
+      "Eye of Ugin"
+    ],
+    "summary": {
+      "fr": "Les Eldrazi de Modern Horizons 3 : Ancient Tomb et Eye of Ugin accéléraient, Sowing Mycospawn détruisait un terrain, Glaring Fleshraker et It That Heralds the End frappaient.",
+      "en": "The Eldrazi from Modern Horizons 3: Ancient Tomb and Eye of Ugin ramped, Sowing Mycospawn destroyed a land, and Glaring Fleshraker and It That Heralds the End attacked."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Asia Legacy Championship 2024 (Yidong Wang)",
+        "Sowing Mycospawn a été banni en mars 2025"
+      ],
+      "en": [
+        "Second at the 2024 Asia Legacy Championship (Yidong Wang)",
+        "Sowing Mycospawn was banned in March 2025"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Tempo",
+    "slug": "dimir-tempo",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Tempo",
+      "Ub Tempo"
+    ],
+    "rep": 640398,
+    "cover": "Psychic Frog",
+    "keyCards": [
+      "Psychic Frog",
+      "Nethergoyf",
+      "Fatal Push",
+      "Daze",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir de Modern Horizons 3 : Psychic Frog et Nethergoyf derrière Daze et Force of Will, Fatal Push pour les créatures adverses.",
+      "en": "Blue-black tempo from Modern Horizons 3: Psychic Frog and Nethergoyf behind Daze and Force of Will, with Fatal Push for opposing creatures."
+    },
+    "why": {
+      "fr": [
+        "Mauro Petruzzella a gagné le 4season d'automne à Bologne en décembre",
+        "Psychic Frog et Vexing Bauble ont été bannis en décembre 2024"
+      ],
+      "en": [
+        "Mauro Petruzzella won the autumn 4season in Bologna in December",
+        "Psychic Frog and Vexing Bauble were banned in December 2024"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 617542,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Personal Tutor",
+      "Dark Ritual",
+      "Thoughtseize",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Ponder parcouraient jusqu'à Thassa's Oracle ; Personal Tutor allait chercher Doomsday.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Ponder went through until Thassa's Oracle; Personal Tutor fetched Doomsday."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au championnat du Japon à la Players Convention 2024",
+        "Top 4 en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Second at the Japan championship at Players Convention 2024",
+        "Top four in a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter",
+      "Painter Ur"
+    ],
+    "rep": 667150,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Goblin Welder",
+      "Goblin Engineer",
+      "Fable of the Mirror-Breaker",
+      "Pyroblast",
+      "Agatha's Soul Cauldron"
+    ],
+    "summary": {
+      "fr": "Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors toute la bibliothèque ; Goblin Engineer et Goblin Welder retrouvaient les pièces.",
+      "en": "Painter's Servant made every card one color, so Grindstone milled the whole library; Goblin Engineer and Goblin Welder found the pieces again."
+    },
+    "why": {
+      "fr": [
+        "Ari Lax a atteint le top 4 du North American Legacy Championship 2024",
+        "Top 4 aussi au championnat du Japon à la Players Convention"
+      ],
+      "en": [
+        "Ari Lax reached the top four of the 2024 North American Legacy Championship",
+        "Also top four at the Japan championship at Players Convention"
+      ]
+    }
+  },
+  {
+    "name": "Cradle Control",
+    "slug": "cradle-control",
+    "archetype": "ramp",
+    "titles": [
+      "Cradle Control",
+      "Loam"
+    ],
+    "rep": 644348,
+    "cover": "Wight of the Reliquary",
+    "keyCards": [
+      "Wight of the Reliquary",
+      "Elvish Reclaimer",
+      "Endurance",
+      "Green Sun's Zenith",
+      "Natural Order",
+      "Ignoble Hierarch"
+    ],
+    "summary": {
+      "fr": "Vert à Gaea's Cradle : Noble et Ignoble Hierarch, Green Sun's Zenith pour la bonne créature, Wight of the Reliquary grossissait, Natural Order pour Atraxa ou Craterhoof.",
+      "en": "Green with Gaea's Cradle: Noble and Ignoble Hierarch, Green Sun's Zenith for the right creature, Wight of the Reliquary grew, and Natural Order fetched Atraxa or Craterhoof."
+    },
+    "why": {
+      "fr": [
+        "Andrea Mengucci a gagné le 4season d'été à Bologne",
+        "Top 4 en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Andrea Mengucci won the summer 4season in Bologna",
+        "Top four in a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Dark Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Dark Depths",
+      "Golgari Depths",
+      "Selesnya Depths"
+    ],
+    "rep": 590762,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Green Sun's Zenith",
+      "Once Upon a Time",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Vert-blanc à combinaison : Knight of the Reliquary, Elvish Reclaimer et Crop Rotation allaient chercher Dark Depths et Thespian's Stage pour obtenir Marit Lage.",
+      "en": "Green-white with a combo: Knight of the Reliquary, Elvish Reclaimer and Crop Rotation fetched Dark Depths and Thespian's Stage to make Marit Lage."
+    },
+    "why": {
+      "fr": [
+        "Yanagi Toya a gagné le God of Legacy de février",
+        "Top 4 en Showcase Challenge et au 4Seasons d'hiver"
+      ],
+      "en": [
+        "Yanagi Toya won the February God of Legacy",
+        "Top four in a Showcase Challenge and at the winter 4Seasons"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4/5c Control",
+      "4cc",
+      "5c Scion",
+      "Beanstalk Sultai Control",
+      "Bug Uro",
+      "Esper Control",
+      "Uwr Control"
+    ],
+    "rep": 654544,
+    "cover": "Up the Beanstalk",
+    "keyCards": [
+      "Up the Beanstalk",
+      "Tamiyo, Inquisitive Student",
+      "Psychic Frog",
+      "Leyline Binding",
+      "Murktide Regent",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Contrôle à base de domaine : Leyline Binding et Swords to Plowshares, Up the Beanstalk et Lórien Revealed pour piocher, Tamiyo et Psychic Frog de Modern Horizons 3.",
+      "en": "Domain control: Leyline Binding and Swords to Plowshares, Up the Beanstalk and Lórien Revealed to draw, Tamiyo and Psychic Frog from Modern Horizons 3."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Legacy de l'Eternal Weekend Europe 2024 en version Esper",
+        "Top 8 à l'Asia Legacy Championship 2024"
+      ],
+      "en": [
+        "Second at the Eternal Weekend Europe 2024 Legacy event with an Esper version",
+        "Top eight at the 2024 Asia Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "Stiflenought",
+    "slug": "dreadstill",
+    "archetype": "tempo",
+    "titles": [
+      "Stiflenought"
+    ],
+    "rep": 670726,
+    "cover": "Phyrexian Dreadnought",
+    "keyCards": [
+      "Phyrexian Dreadnought",
+      "Stifle",
+      "Psychic Frog",
+      "Tamiyo, Inquisitive Student",
+      "Abhorrent Oculus",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Stifle contrait le sacrifice de Phyrexian Dreadnought, une 12/12 pour un mana ; Psychic Frog, Tamiyo et Abhorrent Oculus complétaient un tempo blanc-bleu-noir.",
+      "en": "Stifle countered Phyrexian Dreadnought's sacrifice trigger, leaving a 12/12 for one mana; Psychic Frog, Tamiyo and Abhorrent Oculus rounded out white-blue-black tempo."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au Legacy de l'Eternal Weekend Europe 2024",
+        "Top 8 aussi en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Top eight at the Eternal Weekend Europe 2024 Legacy event",
+        "Also top eight in a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "TES",
+      "Saga Storm"
+    ],
+    "rep": 594974,
+    "cover": "Lion's Eye Diamond",
+    "keyCards": [
+      "Lion's Eye Diamond",
+      "Burning Wish",
+      "Dark Ritual",
+      "Veil of Summer",
+      "Chrome Mox",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Burning Wish allait chercher Tendrils of Agony ou Empty the Warrens, Veil of Summer protégeait.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Burning Wish fetched Tendrils of Agony or Empty the Warrens, and Veil of Summer protected."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au tournoi à 5 000 dollars de la SCG CON de Philadelphie (Bryant Cook)",
+        "Top 4 au Legacy de l'Eternal Weekend Europe 2024"
+      ],
+      "en": [
+        "Top four at the $5,000 event at SCG CON Philadelphia (Bryant Cook)",
+        "Top four at the Eternal Weekend Europe 2024 Legacy event"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands"
+    ],
+    "rep": 606621,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Mox Diamond",
+      "Sphere of Resistance"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland, Sphere of Resistance taxait l'adversaire, Dark Depths et Thespian's Stage gagnaient.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland, Sphere of Resistance taxed the opponent, and Dark Depths with Thespian's Stage won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à un tournoi NRG à 5 000 dollars à Minneapolis",
+        "Deuxième aussi au 4Seasons de printemps"
+      ],
+      "en": [
+        "Second at a $5,000 NRG trial in Minneapolis",
+        "Also second at the spring 4Seasons"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Show and Tell",
+      "Sneak & Show"
+    ],
+    "rep": 665082,
+    "cover": "Atraxa, Grand Unifier",
+    "keyCards": [
+      "Atraxa, Grand Unifier",
+      "Show and Tell",
+      "Sneak Attack",
+      "Force of Will",
+      "Brainstorm",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Atraxa, Grand Unifier, Emrakul ou Griselbrand dès le deuxième tour.",
+      "en": "Show and Tell or Sneak Attack put Atraxa, Grand Unifier, Emrakul or Griselbrand into play from turn two."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online",
+        "Top 4 au 4season d'automne à Bologne"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge",
+        "Top four at the autumn 4season in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Vial",
+    "slug": "vial-yorion",
+    "archetype": "aggro",
+    "titles": [
+      "Jeskai Vial Yorion",
+      "Boros Yorion"
+    ],
+    "rep": 648396,
+    "cover": "Ajani, Nacatl Pariah",
+    "keyCards": [
+      "Ajani, Nacatl Pariah",
+      "Aether Vial",
+      "Teferi, Time Raveler",
+      "Swords to Plowshares",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Créatures utilitaires posées par Aether Vial, Ajani, Nacatl Pariah de Modern Horizons 3 en tête, avec Yorion en compagnon pour réutiliser les effets d'arrivée.",
+      "en": "Utility creatures put into play by Aether Vial, led by Ajani, Nacatl Pariah from Modern Horizons 3, with Yorion as companion to reuse enter-the-battlefield effects."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online",
+        "Une version boros a fini dans le top 8 du North American Legacy Championship"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge",
+        "A Boros version made the top eight of the North American Legacy Championship"
+      ]
+    }
+  }
+]
