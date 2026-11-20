@@ -47,3 +47,42 @@ export function computeStaples(data: FormatData): StapleSeason[] {
     return { id: s.id, start: s.start, end: s.end, set: s.set, cards }
   }).filter((s) => s.cards.length > 0)
 }
+
+export type CardUsage = {
+  name: string
+  /** seasons (oldest first) in which at least one performing deck plays the card in its main deck */
+  seasons: string[]
+  /** performing decks, all seasons together, that play it */
+  decks: number
+  firstStart: string
+  last: { start: string; end?: string }
+}
+
+/**
+ * The most-played cards of a format over its whole history: ranked by the number of seasons
+ * in which a performing deck played them (reprinted cards rise to the top), then by decks.
+ * Basic lands are left out.
+ */
+export function cardUsage(data: FormatData): CardUsage[] {
+  const by = new Map<string, CardUsage>()
+  for (const s of data.seasons) {
+    const seen = new Set<string>()
+    for (const d of s.decks) {
+      for (const [, name] of d.list.main) {
+        if (BASIC_LANDS.has(name)) continue
+        let u = by.get(name)
+        if (!u) {
+          u = { name, seasons: [], decks: 0, firstStart: s.start, last: { start: s.start, end: s.end } }
+          by.set(name, u)
+        }
+        u.decks++
+        if (!seen.has(name)) {
+          seen.add(name)
+          u.seasons.push(s.id)
+          u.last = { start: s.start, end: s.end }
+        }
+      }
+    }
+  }
+  return [...by.values()].sort((a, b) => b.seasons.length - a.seasons.length || b.decks - a.decks || a.name.localeCompare(b.name))
+}

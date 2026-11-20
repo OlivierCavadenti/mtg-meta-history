@@ -102,6 +102,12 @@ const STRINGS = {
   showAllCards: { fr: 'Afficher aussi les cartes d’une seule saison', en: 'Also show single-season cards' },
   showRecurring: { fr: 'Ne garder que les cartes récurrentes', en: 'Recurring cards only' },
   archetypeHistory: { fr: "Toute l'histoire de", en: 'The full history of' },
+  byPlayed: { fr: 'Les plus joués', en: 'Most played' },
+  playedIntro: {
+    fr: 'cartes classées par nombre de saisons où un deck performant les a jouées : les cartes rééditées remontent en tête.',
+    en: 'cards ranked by the number of seasons in which a performing deck played them: reprinted cards rise to the top.',
+  },
+  showMore: { fr: 'Afficher plus', en: 'Show more' },
   bySeason: { fr: 'Par saison', en: 'By season' },
   byColor: { fr: 'Par couleur', en: 'By color' },
   byType: { fr: 'Par type', en: 'By type' },

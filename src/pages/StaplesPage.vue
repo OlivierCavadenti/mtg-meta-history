@@ -1,21 +1,24 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import type { CardKind } from '../data/types'
 import { useFormat } from '../lib/useFormat'
-import { computeStaples } from '../lib/staples'
+import { cardUsage, computeStaples } from '../lib/staples'
 import { cardImage, scryfallSearch } from '../lib/cards'
-import { seasonYears, t, type StringKey } from '../lib/i18n'
+import { seasonEndYear, seasonYears, t, type StringKey } from '../lib/i18n'
 import SoonState from '../components/SoonState.vue'
 
-type Mode = 'season' | 'color' | 'type'
+type Mode = 'season' | 'color' | 'type' | 'played'
 type Group = { key: string; title: string; sub?: string; cards: string[] }
 
 const route = useRoute()
 const router = useRouter()
 const { format, data, loading } = useFormat()
 
-const mode = computed<Mode>(() => (route.query.by === 'color' || route.query.by === 'type' ? route.query.by : 'season'))
+const mode = computed<Mode>(() => {
+  const by = route.query.by
+  return by === 'color' || by === 'type' || by === 'played' ? by : 'season'
+})
 function setMode(m: Mode) {
   router.replace({ query: m === 'season' ? {} : { by: m } })
 }
@@ -25,6 +28,17 @@ function setMode(m: Mode) {
 const seasons = computed(() => (data.value ? computeStaples(data.value).reverse() : []))
 const ordered = computed(() => seasons.value.flatMap((s) => s.cards.map((c) => c.name)))
 const total = computed(() => ordered.value.length)
+// "most played": every card of the format ranked by seasons played (reprints rise), paged
+const usage = computed(() => (data.value ? cardUsage(data.value) : []))
+const PAGE = 96
+const limit = ref(PAGE)
+const playedShown = computed(() => usage.value.slice(0, limit.value))
+const usageSpan = (u: { firstStart: string; last: { start: string; end?: string } }) => {
+  const a = u.firstStart.slice(0, 4)
+  const b = String(seasonEndYear(u.last.start, u.last.end))
+  return a === b ? a : `${a}–${b}`
+}
+
 // each card is shown as printed in the season it became a staple
 const stapleSeason = computed(() => new Map(seasons.value.flatMap((s) => s.cards.map((c) => [c.name, s.id] as const))))
 
@@ -82,17 +96,19 @@ const groups = computed<Group[]>(() => {
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
   <div v-else class="staples">
     <div class="bar">
-      <p class="count">{{ format?.label }}, {{ total }} {{ t('staplesIntro') }}.</p>
+      <p v-if="mode === 'played'" class="count">{{ format?.label }}, {{ usage.length }} {{ t('playedIntro') }}</p>
+      <p v-else class="count">{{ format?.label }}, {{ total }} {{ t('staplesIntro') }}.</p>
       <nav class="modes">
         <button type="button" :class="{ on: mode === 'season' }" @click="setMode('season')">{{ t('bySeason') }}</button>
         <button type="button" :class="{ on: mode === 'color' }" @click="setMode('color')">{{ t('byColor') }}</button>
         <button type="button" :class="{ on: mode === 'type' }" @click="setMode('type')">{{ t('byType') }}</button>
+        <button type="button" :class="{ on: mode === 'played' }" @click="setMode('played')">{{ t('byPlayed') }}</button>
       </nav>
-      <nav class="jump">
+      <nav v-if="mode !== 'played'" class="jump">
         <a v-for="g in groups" :key="g.key" :href="`#g-${g.key}`">{{ g.title }}</a>
       </nav>
     </div>
-    <div class="wall">
+    <div v-if="mode !== 'played'" class="wall">
       <template v-for="g in groups" :key="`${mode}-${g.key}`">
         <div :id="`g-${g.key}`" class="divider">
           <span class="years">{{ g.title }}</span>
@@ -111,6 +127,25 @@ const groups = computed<Group[]>(() => {
           <img v-fade :src="cardImage(data.cards[name], name, 'normal', stapleSeason.get(name))" :alt="name" loading="lazy" />
         </a>
       </template>
+    </div>
+    <div v-else class="wall wall--played">
+      <figure v-for="(u, i) in playedShown" :key="u.name" class="played">
+        <a
+          v-tilt
+          class="card"
+          :href="scryfallSearch(u.name)"
+          target="_blank"
+          rel="noopener noreferrer"
+          :title="u.name"
+        >
+          <!-- shown as first printed in the format (its first season), the card's original look -->
+          <img v-fade :src="cardImage(data.cards[u.name], u.name, 'normal', u.seasons[0])" :alt="u.name" loading="lazy" />
+        </a>
+        <figcaption>
+          <span class="rank">{{ i + 1 }}.</span> {{ u.seasons.length }} {{ u.seasons.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}, {{ usageSpan(u) }}
+        </figcaption>
+      </figure>
+      <button v-if="limit < usage.length" type="button" class="more" @click="limit += PAGE">{{ t('showMore') }}</button>
     </div>
   </div>
 </template>
@@ -225,6 +260,45 @@ const groups = computed<Group[]>(() => {
   font-style: italic;
   font-size: 1rem;
   color: var(--muted);
+}
+
+.wall--played {
+  padding-top: var(--space-md);
+  row-gap: var(--space-md);
+}
+
+.played {
+  margin: 0;
+}
+
+.played figcaption {
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--muted);
+  line-height: 1.3;
+}
+
+.rank {
+  font-family: var(--font-heading);
+  font-style: normal;
+  font-weight: 700;
+  color: var(--ink);
+  font-variant-numeric: lining-nums;
+}
+
+.more {
+  grid-column: 1 / -1;
+  justify-self: center;
+  margin: var(--space-md) 0;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  background: none;
+  border: none;
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  cursor: pointer;
 }
 
 .card {
