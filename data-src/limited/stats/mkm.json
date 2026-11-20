@@ -1,0 +1,4959 @@
+{
+ "set": "mkm",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MKM.PremierDraft.csv.gz",
+ "lastModified": "Wed, 20 Mar 2024 14:43:51 GMT",
+ "colorsDerived": false,
+ "first": "2024-02-06",
+ "last": "2024-03-18",
+ "games": 964377,
+ "drafts": 165251,
+ "winRate": 54.98,
+ "combos": [
+  {
+   "colors": "WR",
+   "games": 150511,
+   "wins": 87509,
+   "winRate": 58.14,
+   "share": 15.61,
+   "drafts": 24549,
+   "trophies": 4024,
+   "cards": [
+    {
+     "name": "Agrus Kos, Spirit of Justice",
+     "inclusion": 7.5,
+     "winRate": 61.4,
+     "games": 11738,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Fuss // Bother",
+     "inclusion": 23.6,
+     "winRate": 60.0,
+     "games": 36269,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Case of the Gateway Express",
+     "inclusion": 24.4,
+     "winRate": 59.8,
+     "games": 37548,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Warleader's Call",
+     "inclusion": 16.5,
+     "winRate": 59.8,
+     "games": 25456,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Aurelia, the Law Above",
+     "inclusion": 14.3,
+     "winRate": 59.8,
+     "games": 22037,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Wojek Investigator",
+     "inclusion": 8.8,
+     "winRate": 59.7,
+     "games": 13592,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Neighborhood Guardian",
+     "inclusion": 28.0,
+     "winRate": 59.6,
+     "games": 42873,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Novice Inspector",
+     "inclusion": 53.4,
+     "winRate": 59.5,
+     "games": 81902,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Torch the Witness",
+     "inclusion": 22.9,
+     "winRate": 59.5,
+     "games": 35090,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Lamplight Phoenix",
+     "inclusion": 10.6,
+     "winRate": 59.5,
+     "games": 16228,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Person of Interest",
+     "inclusion": 60.4,
+     "winRate": 59.4,
+     "games": 92645,
+     "trophyInclusion": 66.5
+    },
+    {
+     "name": "Lightning Helix",
+     "inclusion": 35.2,
+     "winRate": 59.4,
+     "games": 53880,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Inside Source",
+     "inclusion": 54.0,
+     "winRate": 59.3,
+     "games": 82452,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "Reckless Detective",
+     "inclusion": 28.7,
+     "winRate": 59.3,
+     "games": 44083,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 65.7,
+     "winRate": 59.2,
+     "games": 100280,
+     "trophyInclusion": 71.9
+    },
+    {
+     "name": "Makeshift Binding",
+     "inclusion": 44.9,
+     "winRate": 59.2,
+     "games": 68346,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Pyrotechnic Performer",
+     "inclusion": 10.5,
+     "winRate": 58.9,
+     "games": 16006,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Granite Witness",
+     "inclusion": 23.8,
+     "winRate": 58.7,
+     "games": 36288,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Krenko, Baron of Tin Street",
+     "inclusion": 9.9,
+     "winRate": 58.7,
+     "games": 14986,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Fugitive Codebreaker",
+     "inclusion": 9.9,
+     "winRate": 58.7,
+     "games": 15023,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "On the Job",
+     "inclusion": 54.4,
+     "winRate": 58.6,
+     "games": 82439,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Shock",
+     "inclusion": 50.1,
+     "winRate": 58.6,
+     "games": 75705,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Galvanize",
+     "inclusion": 45.3,
+     "winRate": 58.6,
+     "games": 68645,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Frantic Scapegoat",
+     "inclusion": 25.7,
+     "winRate": 58.6,
+     "games": 38769,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Karlov Watchdog",
+     "inclusion": 23.8,
+     "winRate": 58.6,
+     "games": 36007,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Perimeter Enforcer",
+     "inclusion": 19.8,
+     "winRate": 58.5,
+     "games": 29942,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 19.0,
+     "winRate": 58.5,
+     "games": 28800,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Unyielding Gatekeeper",
+     "inclusion": 8.7,
+     "winRate": 58.5,
+     "games": 13154,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Auspicious Arrival",
+     "inclusion": 52.3,
+     "winRate": 58.4,
+     "games": 79081,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Red Herring",
+     "inclusion": 56.3,
+     "winRate": 58.3,
+     "games": 84947,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Marketwatch Phantom",
+     "inclusion": 51.5,
+     "winRate": 58.3,
+     "games": 77787,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Offender at Large",
+     "inclusion": 43.7,
+     "winRate": 58.3,
+     "games": 65987,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Felonious Rage",
+     "inclusion": 41.8,
+     "winRate": 58.2,
+     "games": 62800,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Gadget Technician",
+     "inclusion": 25.1,
+     "winRate": 58.2,
+     "games": 37822,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Tenth District Hero",
+     "inclusion": 8.9,
+     "winRate": 58.2,
+     "games": 13510,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Case of the Burning Masks",
+     "inclusion": 22.4,
+     "winRate": 58.1,
+     "games": 33686,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Push // Pull",
+     "inclusion": 9.7,
+     "winRate": 58.1,
+     "games": 14676,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Seasoned Consultant",
+     "inclusion": 51.1,
+     "winRate": 58.0,
+     "games": 76765,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "The Chase Is On",
+     "inclusion": 44.1,
+     "winRate": 58.0,
+     "games": 66258,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Museum Nightwatch",
+     "inclusion": 44.9,
+     "winRate": 57.9,
+     "games": 67270,
+     "trophyInclusion": 43.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-02-07",
+    "main": [
+     [
+      1,
+      "Auspicious Arrival"
+     ],
+     [
+      1,
+      "Dog Walker"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Fuss // Bother"
+     ],
+     [
+      1,
+      "Gadget Technician"
+     ],
+     [
+      1,
+      "Galvanize"
+     ],
+     [
+      1,
+      "Granite Witness"
+     ],
+     [
+      1,
+      "Haazda Vigilante"
+     ],
+     [
+      1,
+      "Inside Source"
+     ],
+     [
+      1,
+      "Lightning Helix"
+     ],
+     [
+      1,
+      "Marketwatch Phantom"
+     ],
+     [
+      1,
+      "Meddling Youths"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Museum Nightwatch"
+     ],
+     [
+      2,
+      "Novice Inspector"
+     ],
+     [
+      1,
+      "Offender at Large"
+     ],
+     [
+      1,
+      "On the Job"
+     ],
+     [
+      1,
+      "Perimeter Enforcer"
+     ],
+     [
+      1,
+      "Person of Interest"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      2,
+      "Red Herring"
+     ],
+     [
+      1,
+      "Seasoned Consultant"
+     ],
+     [
+      1,
+      "The Chase Is On"
+     ],
+     [
+      1,
+      "Torch the Witness"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "A Killer Among Us"
+     ],
+     [
+      2,
+      "Break Out"
+     ],
+     [
+      1,
+      "Bubble Smuggler"
+     ],
+     [
+      1,
+      "Deduce"
+     ],
+     [
+      1,
+      "Felonious Rage"
+     ],
+     [
+      1,
+      "Flourishing Bloom-Kin"
+     ],
+     [
+      1,
+      "Judith, Carnage Connoisseur"
+     ],
+     [
+      1,
+      "Kylox, Visionary Inventor"
+     ],
+     [
+      1,
+      "Offender at Large"
+     ],
+     [
+      1,
+      "Riftburst Hellion"
+     ],
+     [
+      1,
+      "Rubblebelt Braggart"
+     ],
+     [
+      1,
+      "Suspicious Detonation"
+     ],
+     [
+      2,
+      "They Went This Way"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 98463,
+   "wins": 55858,
+   "winRate": 56.73,
+   "share": 10.21,
+   "drafts": 16426,
+   "trophies": 2367,
+   "cards": [
+    {
+     "name": "Hide in Plain Sight",
+     "inclusion": 12.4,
+     "winRate": 59.8,
+     "games": 12765,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Fuss // Bother",
+     "inclusion": 14.1,
+     "winRate": 59.1,
+     "games": 14338,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Doppelgang",
+     "inclusion": 5.3,
+     "winRate": 59.1,
+     "games": 5422,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Tolsimir, Midnight's Light",
+     "inclusion": 20.6,
+     "winRate": 59.0,
+     "games": 20835,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Trostani, Three Whispers",
+     "inclusion": 9.9,
+     "winRate": 59.0,
+     "games": 10041,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Wojek Investigator",
+     "inclusion": 9.6,
+     "winRate": 59.0,
+     "games": 9715,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "A Killer Among Us",
+     "inclusion": 32.2,
+     "winRate": 58.7,
+     "games": 32481,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Axebane Ferox",
+     "inclusion": 11.2,
+     "winRate": 58.1,
+     "games": 11188,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Case of the Gateway Express",
+     "inclusion": 22.9,
+     "winRate": 58.0,
+     "games": 22950,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Sharp-Eyed Rookie",
+     "inclusion": 12.0,
+     "winRate": 57.9,
+     "games": 11962,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Tenth District Hero",
+     "inclusion": 9.2,
+     "winRate": 57.9,
+     "games": 9142,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Izoni, Center of the Web",
+     "inclusion": 5.8,
+     "winRate": 57.9,
+     "games": 5806,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 30.5,
+     "winRate": 57.8,
+     "games": 30585,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Novice Inspector",
+     "inclusion": 51.6,
+     "winRate": 57.7,
+     "games": 51374,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 39.7,
+     "winRate": 57.7,
+     "games": 39666,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Flourishing Bloom-Kin",
+     "inclusion": 27.1,
+     "winRate": 57.7,
+     "games": 26893,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Makeshift Binding",
+     "inclusion": 50.4,
+     "winRate": 57.5,
+     "games": 50090,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Get a Leg Up",
+     "inclusion": 29.2,
+     "winRate": 57.5,
+     "games": 28985,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Greenbelt Radical",
+     "inclusion": 28.1,
+     "winRate": 57.5,
+     "games": 28000,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Unyielding Gatekeeper",
+     "inclusion": 9.4,
+     "winRate": 57.5,
+     "games": 9287,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Inside Source",
+     "inclusion": 48.7,
+     "winRate": 57.3,
+     "games": 48484,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 28.5,
+     "winRate": 57.3,
+     "games": 28404,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Sumala Sentry",
+     "inclusion": 43.1,
+     "winRate": 57.2,
+     "games": 42600,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Granite Witness",
+     "inclusion": 23.4,
+     "winRate": 57.2,
+     "games": 23165,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Lush Portico",
+     "inclusion": 10.7,
+     "winRate": 57.2,
+     "games": 10660,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Hard-Hitting Question",
+     "inclusion": 26.4,
+     "winRate": 57.1,
+     "games": 26219,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Loxodon Eavesdropper",
+     "inclusion": 54.9,
+     "winRate": 57.0,
+     "games": 54260,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Nervous Gardener",
+     "inclusion": 52.5,
+     "winRate": 57.0,
+     "games": 51856,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Perimeter Enforcer",
+     "inclusion": 17.8,
+     "winRate": 57.0,
+     "games": 17531,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Bite Down on Crime",
+     "inclusion": 52.2,
+     "winRate": 56.9,
+     "games": 51539,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Tunnel Tipster",
+     "inclusion": 52.2,
+     "winRate": 56.9,
+     "games": 51425,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Museum Nightwatch",
+     "inclusion": 43.2,
+     "winRate": 56.9,
+     "games": 42685,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Neighborhood Guardian",
+     "inclusion": 24.5,
+     "winRate": 56.9,
+     "games": 24153,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Glint Weaver",
+     "inclusion": 23.4,
+     "winRate": 56.8,
+     "games": 23074,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Analyze the Pollen",
+     "inclusion": 7.0,
+     "winRate": 56.8,
+     "games": 6852,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Crowd-Control Warden",
+     "inclusion": 55.6,
+     "winRate": 56.7,
+     "games": 54815,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Fanatical Strength",
+     "inclusion": 50.2,
+     "winRate": 56.7,
+     "games": 49308,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Vengeful Creeper",
+     "inclusion": 46.5,
+     "winRate": 56.7,
+     "games": 45636,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Marketwatch Phantom",
+     "inclusion": 42.3,
+     "winRate": 56.7,
+     "games": 41633,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "Auspicious Arrival",
+     "inclusion": 41.4,
+     "winRate": 56.7,
+     "games": 40746,
+     "trophyInclusion": 42.4
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-03-03",
+    "main": [
+     [
+      1,
+      "Auspicious Arrival"
+     ],
+     [
+      1,
+      "Bite Down on Crime"
+     ],
+     [
+      1,
+      "Buried in the Garden"
+     ],
+     [
+      2,
+      "Crowd-Control Warden"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Fanatical Strength"
+     ],
+     [
+      1,
+      "Flourishing Bloom-Kin"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      2,
+      "Get a Leg Up"
+     ],
+     [
+      1,
+      "Haazda Vigilante"
+     ],
+     [
+      1,
+      "Inside Source"
+     ],
+     [
+      1,
+      "Loxodon Eavesdropper"
+     ],
+     [
+      1,
+      "Make Your Move"
+     ],
+     [
+      1,
+      "Makeshift Binding"
+     ],
+     [
+      1,
+      "Nervous Gardener"
+     ],
+     [
+      1,
+      "Novice Inspector"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Rubblebelt Maverick"
+     ],
+     [
+      1,
+      "Sharp-Eyed Rookie"
+     ],
+     [
+      1,
+      "Sumala Sentry"
+     ],
+     [
+      1,
+      "Tunnel Tipster"
+     ],
+     [
+      1,
+      "Vengeful Creeper"
+     ],
+     [
+      1,
+      "Vitu-Ghazi Inspector"
+     ],
+     [
+      1,
+      "Wojek Investigator"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aftermath Analyst"
+     ],
+     [
+      1,
+      "Cease // Desist"
+     ],
+     [
+      1,
+      "Cerebral Confiscation"
+     ],
+     [
+      3,
+      "Griffnaut Tracker"
+     ],
+     [
+      1,
+      "Hotshot Investigators"
+     ],
+     [
+      1,
+      "Krovod Haunch"
+     ],
+     [
+      1,
+      "Magnetic Snuffler"
+     ],
+     [
+      1,
+      "Meticulous Archive"
+     ],
+     [
+      1,
+      "Officious Interrogation"
+     ],
+     [
+      2,
+      "Pick Your Poison"
+     ],
+     [
+      1,
+      "Sanctuary Wall"
+     ],
+     [
+      1,
+      "Wrench"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 93952,
+   "wins": 51993,
+   "winRate": 55.34,
+   "share": 9.74,
+   "drafts": 16027,
+   "trophies": 2059,
+   "cards": [
+    {
+     "name": "Cryptic Coat",
+     "inclusion": 11.1,
+     "winRate": 59.3,
+     "games": 10856,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Ezrim, Agency Chief",
+     "inclusion": 24.9,
+     "winRate": 57.9,
+     "games": 24283,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Wojek Investigator",
+     "inclusion": 10.1,
+     "winRate": 57.6,
+     "games": 9676,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Steamcore Scholar",
+     "inclusion": 12.8,
+     "winRate": 57.5,
+     "games": 12360,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Perimeter Enforcer",
+     "inclusion": 28.9,
+     "winRate": 57.3,
+     "games": 27889,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Fuss // Bother",
+     "inclusion": 18.2,
+     "winRate": 57.0,
+     "games": 17537,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Proft's Eidetic Memory",
+     "inclusion": 11.7,
+     "winRate": 57.0,
+     "games": 11204,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Novice Inspector",
+     "inclusion": 54.9,
+     "winRate": 56.9,
+     "games": 52718,
+     "trophyInclusion": 62.1
+    },
+    {
+     "name": "Private Eye",
+     "inclusion": 49.5,
+     "winRate": 56.7,
+     "games": 47555,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Tenth District Hero",
+     "inclusion": 9.3,
+     "winRate": 56.7,
+     "games": 8936,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 23.3,
+     "winRate": 56.5,
+     "games": 22240,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Neighborhood Guardian",
+     "inclusion": 21.9,
+     "winRate": 56.5,
+     "games": 21089,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Makeshift Binding",
+     "inclusion": 48.2,
+     "winRate": 56.4,
+     "games": 46031,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Exit Specialist",
+     "inclusion": 29.8,
+     "winRate": 56.3,
+     "games": 28461,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Inside Source",
+     "inclusion": 52.3,
+     "winRate": 56.1,
+     "games": 49757,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Unauthorized Exit",
+     "inclusion": 41.0,
+     "winRate": 56.1,
+     "games": 38899,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Lost in the Maze",
+     "inclusion": 10.5,
+     "winRate": 56.1,
+     "games": 9993,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Granite Witness",
+     "inclusion": 59.6,
+     "winRate": 56.0,
+     "games": 56725,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Case of the Gateway Express",
+     "inclusion": 21.3,
+     "winRate": 56.0,
+     "games": 20152,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Auspicious Arrival",
+     "inclusion": 46.1,
+     "winRate": 55.9,
+     "games": 43775,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "No More Lies",
+     "inclusion": 31.7,
+     "winRate": 55.9,
+     "games": 30017,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Projektor Inspector",
+     "inclusion": 64.1,
+     "winRate": 55.8,
+     "games": 60609,
+     "trophyInclusion": 66.8
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 19.5,
+     "winRate": 55.8,
+     "games": 18362,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Marketwatch Phantom",
+     "inclusion": 52.4,
+     "winRate": 55.7,
+     "games": 49597,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Reasonable Doubt",
+     "inclusion": 33.2,
+     "winRate": 55.7,
+     "games": 31252,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Intrude on the Mind",
+     "inclusion": 5.7,
+     "winRate": 55.7,
+     "games": 5480,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Surveillance Monitor",
+     "inclusion": 20.8,
+     "winRate": 55.6,
+     "games": 19656,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Unyielding Gatekeeper",
+     "inclusion": 8.8,
+     "winRate": 55.6,
+     "games": 8300,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Out Cold",
+     "inclusion": 52.7,
+     "winRate": 55.5,
+     "games": 49583,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Seasoned Consultant",
+     "inclusion": 46.4,
+     "winRate": 55.5,
+     "games": 43719,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Not on My Watch",
+     "inclusion": 15.5,
+     "winRate": 55.5,
+     "games": 14507,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Cold Case Cracker",
+     "inclusion": 55.3,
+     "winRate": 55.4,
+     "games": 52044,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Alquist Proft, Master Sleuth",
+     "inclusion": 9.3,
+     "winRate": 55.4,
+     "games": 8735,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Museum Nightwatch",
+     "inclusion": 36.6,
+     "winRate": 55.3,
+     "games": 34375,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Crimestopper Sprite",
+     "inclusion": 54.9,
+     "winRate": 55.2,
+     "games": 51642,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Meticulous Archive",
+     "inclusion": 11.0,
+     "winRate": 55.2,
+     "games": 10315,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "On the Job",
+     "inclusion": 29.7,
+     "winRate": 54.9,
+     "games": 27658,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Burden of Proof",
+     "inclusion": 21.9,
+     "winRate": 54.9,
+     "games": 20441,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 32.9,
+     "winRate": 54.7,
+     "games": 30602,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Hotshot Investigators",
+     "inclusion": 29.8,
+     "winRate": 54.7,
+     "games": 27731,
+     "trophyInclusion": 26.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-02-13",
+    "main": [
+     [
+      1,
+      "Auspicious Arrival"
+     ],
+     [
+      1,
+      "Benthic Criminologists"
+     ],
+     [
+      1,
+      "Case of the Pilfered Proof"
+     ],
+     [
+      1,
+      "Cold Case Cracker"
+     ],
+     [
+      1,
+      "Crimestopper Sprite"
+     ],
+     [
+      1,
+      "Deduce"
+     ],
+     [
+      1,
+      "Exit Specialist"
+     ],
+     [
+      1,
+      "Ezrim, Agency Chief"
+     ],
+     [
+      1,
+      "Fuss // Bother"
+     ],
+     [
+      1,
+      "Gadget Technician"
+     ],
+     [
+      1,
+      "Granite Witness"
+     ],
+     [
+      1,
+      "Inside Source"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Make Your Move"
+     ],
+     [
+      1,
+      "Makeshift Binding"
+     ],
+     [
+      1,
+      "Museum Nightwatch"
+     ],
+     [
+      1,
+      "No More Lies"
+     ],
+     [
+      1,
+      "No Witnesses"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Private Eye"
+     ],
+     [
+      1,
+      "Projektor Inspector"
+     ],
+     [
+      1,
+      "Reasonable Doubt"
+     ],
+     [
+      1,
+      "Seasoned Consultant"
+     ],
+     [
+      1,
+      "Thinking Cap"
+     ],
+     [
+      1,
+      "Unauthorized Exit"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Assemble the Players"
+     ],
+     [
+      1,
+      "Clandestine Meddler"
+     ],
+     [
+      1,
+      "Crime Novelist"
+     ],
+     [
+      1,
+      "Defenestrated Phantom"
+     ],
+     [
+      1,
+      "Doorkeeper Thrull"
+     ],
+     [
+      1,
+      "Faerie Snoop"
+     ],
+     [
+      1,
+      "Haazda Vigilante"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Public Thoroughfare"
+     ],
+     [
+      2,
+      "Repeat Offender"
+     ],
+     [
+      1,
+      "Sanguine Savior"
+     ],
+     [
+      1,
+      "Toxin Analysis"
+     ],
+     [
+      1,
+      "Undercover Crocodelf"
+     ],
+     [
+      1,
+      "Wrench"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 81388,
+   "wins": 44732,
+   "winRate": 54.96,
+   "share": 8.44,
+   "drafts": 14003,
+   "trophies": 1764,
+   "cards": [
+    {
+     "name": "Cryptic Coat",
+     "inclusion": 11.6,
+     "winRate": 59.1,
+     "games": 9906,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Pyrotechnic Performer",
+     "inclusion": 9.1,
+     "winRate": 57.7,
+     "games": 7747,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Steamcore Scholar",
+     "inclusion": 11.8,
+     "winRate": 57.5,
+     "games": 9991,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Torch the Witness",
+     "inclusion": 27.4,
+     "winRate": 57.3,
+     "games": 23034,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Lamplight Phoenix",
+     "inclusion": 11.2,
+     "winRate": 57.2,
+     "games": 9450,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Incinerator of the Guilty",
+     "inclusion": 5.3,
+     "winRate": 57.2,
+     "games": 4566,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Proft's Eidetic Memory",
+     "inclusion": 12.2,
+     "winRate": 57.1,
+     "games": 10210,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Maverick Thopterist",
+     "inclusion": 5.5,
+     "winRate": 57.1,
+     "games": 4550,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Reckless Detective",
+     "inclusion": 30.1,
+     "winRate": 57.0,
+     "games": 25227,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Gleaming Geardrake",
+     "inclusion": 54.1,
+     "winRate": 56.5,
+     "games": 45164,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Ill-Timed Explosion",
+     "inclusion": 20.5,
+     "winRate": 56.4,
+     "games": 16991,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Galvanize",
+     "inclusion": 53.7,
+     "winRate": 56.1,
+     "games": 44506,
+     "trophyInclusion": 59.9
+    },
+    {
+     "name": "Detective's Satchel",
+     "inclusion": 47.4,
+     "winRate": 56.0,
+     "games": 39129,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Fuss // Bother",
+     "inclusion": 18.3,
+     "winRate": 56.0,
+     "games": 15184,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Krenko, Baron of Tin Street",
+     "inclusion": 13.7,
+     "winRate": 56.0,
+     "games": 11266,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Exit Specialist",
+     "inclusion": 25.8,
+     "winRate": 55.9,
+     "games": 21335,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Shock",
+     "inclusion": 54.6,
+     "winRate": 55.8,
+     "games": 44980,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Kylox's Voltstrider",
+     "inclusion": 9.5,
+     "winRate": 55.6,
+     "games": 7721,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 49.0,
+     "winRate": 55.5,
+     "games": 40127,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 23.8,
+     "winRate": 55.5,
+     "games": 19532,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Thundering Falls",
+     "inclusion": 12.1,
+     "winRate": 55.5,
+     "games": 9838,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Lost in the Maze",
+     "inclusion": 10.3,
+     "winRate": 55.5,
+     "games": 8499,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Gadget Technician",
+     "inclusion": 68.6,
+     "winRate": 55.4,
+     "games": 56322,
+     "trophyInclusion": 70.2
+    },
+    {
+     "name": "Out Cold",
+     "inclusion": 52.4,
+     "winRate": 55.4,
+     "games": 42802,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Person of Interest",
+     "inclusion": 36.0,
+     "winRate": 55.4,
+     "games": 29456,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Offender at Large",
+     "inclusion": 26.6,
+     "winRate": 55.4,
+     "games": 21813,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Reasonable Doubt",
+     "inclusion": 35.8,
+     "winRate": 55.3,
+     "games": 29219,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 18.2,
+     "winRate": 55.3,
+     "games": 14839,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Projektor Inspector",
+     "inclusion": 44.4,
+     "winRate": 55.2,
+     "games": 36398,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Case of the Burning Masks",
+     "inclusion": 23.6,
+     "winRate": 55.2,
+     "games": 19297,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Red Herring",
+     "inclusion": 49.2,
+     "winRate": 55.1,
+     "games": 40263,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Cornered Crook",
+     "inclusion": 27.4,
+     "winRate": 55.1,
+     "games": 22252,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Granite Witness",
+     "inclusion": 23.9,
+     "winRate": 55.1,
+     "games": 19576,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Fugitive Codebreaker",
+     "inclusion": 10.8,
+     "winRate": 55.1,
+     "games": 8925,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Unauthorized Exit",
+     "inclusion": 37.1,
+     "winRate": 55.0,
+     "games": 30233,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "The Chase Is On",
+     "inclusion": 34.2,
+     "winRate": 55.0,
+     "games": 27731,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Cold Case Cracker",
+     "inclusion": 49.6,
+     "winRate": 54.9,
+     "games": 40219,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Sanitation Automaton",
+     "inclusion": 26.2,
+     "winRate": 54.9,
+     "games": 21413,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Eliminate the Impossible",
+     "inclusion": 23.4,
+     "winRate": 54.9,
+     "games": 18980,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Scene of the Crime",
+     "inclusion": 10.4,
+     "winRate": 54.9,
+     "games": 8413,
+     "trophyInclusion": 10.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-03-04",
+    "main": [
+     [
+      2,
+      "Bubble Smuggler"
+     ],
+     [
+      1,
+      "Case of the Filched Falcon"
+     ],
+     [
+      1,
+      "Cold Case Cracker"
+     ],
+     [
+      1,
+      "Deduce"
+     ],
+     [
+      2,
+      "Detective's Satchel"
+     ],
+     [
+      1,
+      "Dramatic Accusation"
+     ],
+     [
+      1,
+      "Fuss // Bother"
+     ],
+     [
+      2,
+      "Gadget Technician"
+     ],
+     [
+      1,
+      "Galvanize"
+     ],
+     [
+      1,
+      "Gleaming Geardrake"
+     ],
+     [
+      1,
+      "Harried Dronesmith"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Maverick Thopterist"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Projektor Inspector"
+     ],
+     [
+      1,
+      "Reasonable Doubt"
+     ],
+     [
+      1,
+      "Reckless Detective"
+     ],
+     [
+      1,
+      "Red Herring"
+     ],
+     [
+      1,
+      "Shock"
+     ],
+     [
+      1,
+      "Surveillance Monitor"
+     ],
+     [
+      1,
+      "Thundering Falls"
+     ],
+     [
+      1,
+      "Torch the Witness"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agency Outfitter"
+     ],
+     [
+      1,
+      "Behind the Mask"
+     ],
+     [
+      1,
+      "Case of the Uneaten Feast"
+     ],
+     [
+      1,
+      "Deduce"
+     ],
+     [
+      1,
+      "Essence of Antiquity"
+     ],
+     [
+      1,
+      "Evidence Examiner"
+     ],
+     [
+      1,
+      "Jaded Analyst"
+     ],
+     [
+      1,
+      "Lost in the Maze"
+     ],
+     [
+      1,
+      "Magnifying Glass"
+     ],
+     [
+      1,
+      "No Witnesses"
+     ],
+     [
+      1,
+      "Public Thoroughfare"
+     ],
+     [
+      1,
+      "Raucous Theater"
+     ],
+     [
+      1,
+      "Sanctuary Wall"
+     ],
+     [
+      1,
+      "Thinking Cap"
+     ],
+     [
+      1,
+      "Vengeful Creeper"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 65898,
+   "wins": 36857,
+   "winRate": 55.93,
+   "share": 6.83,
+   "drafts": 11191,
+   "trophies": 1476,
+   "cards": [
+    {
+     "name": "Cryptic Coat",
+     "inclusion": 12.6,
+     "winRate": 58.9,
+     "games": 8677,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Steamcore Scholar",
+     "inclusion": 11.9,
+     "winRate": 58.9,
+     "games": 8146,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Hide in Plain Sight",
+     "inclusion": 12.9,
+     "winRate": 58.6,
+     "games": 8780,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Izoni, Center of the Web",
+     "inclusion": 6.3,
+     "winRate": 58.6,
+     "games": 4327,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Doppelgang",
+     "inclusion": 23.1,
+     "winRate": 58.3,
+     "games": 15705,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Kellan, Inquisitive Prodigy",
+     "inclusion": 22.1,
+     "winRate": 57.8,
+     "games": 14999,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Vannifar, Evolved Enigma",
+     "inclusion": 11.0,
+     "winRate": 57.8,
+     "games": 7529,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "A Killer Among Us",
+     "inclusion": 30.2,
+     "winRate": 57.7,
+     "games": 20462,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Flourishing Bloom-Kin",
+     "inclusion": 28.2,
+     "winRate": 57.5,
+     "games": 18980,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Proft's Eidetic Memory",
+     "inclusion": 11.6,
+     "winRate": 57.5,
+     "games": 7748,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Glint Weaver",
+     "inclusion": 28.8,
+     "winRate": 57.4,
+     "games": 19271,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Repulsive Mutation",
+     "inclusion": 46.9,
+     "winRate": 57.2,
+     "games": 31490,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Intrude on the Mind",
+     "inclusion": 7.1,
+     "winRate": 57.1,
+     "games": 4755,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Greenbelt Radical",
+     "inclusion": 24.4,
+     "winRate": 57.0,
+     "games": 16371,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Get a Leg Up",
+     "inclusion": 20.8,
+     "winRate": 57.0,
+     "games": 13932,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Sharp-Eyed Rookie",
+     "inclusion": 12.3,
+     "winRate": 57.0,
+     "games": 8237,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Axebane Ferox",
+     "inclusion": 11.0,
+     "winRate": 57.0,
+     "games": 7365,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Exit Specialist",
+     "inclusion": 26.0,
+     "winRate": 56.8,
+     "games": 17308,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Evidence Examiner",
+     "inclusion": 49.2,
+     "winRate": 56.7,
+     "games": 32769,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Tunnel Tipster",
+     "inclusion": 51.6,
+     "winRate": 56.6,
+     "games": 34431,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 31.5,
+     "winRate": 56.6,
+     "games": 20921,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Reasonable Doubt",
+     "inclusion": 28.9,
+     "winRate": 56.6,
+     "games": 19297,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Bite Down on Crime",
+     "inclusion": 56.2,
+     "winRate": 56.5,
+     "games": 37414,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Vengeful Creeper",
+     "inclusion": 43.7,
+     "winRate": 56.5,
+     "games": 29013,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Coerced to Kill",
+     "inclusion": 11.4,
+     "winRate": 56.5,
+     "games": 7558,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Loxodon Eavesdropper",
+     "inclusion": 57.4,
+     "winRate": 56.4,
+     "games": 38115,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Nervous Gardener",
+     "inclusion": 53.9,
+     "winRate": 56.4,
+     "games": 35932,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Hedge Maze",
+     "inclusion": 13.2,
+     "winRate": 56.4,
+     "games": 8808,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Analyze the Pollen",
+     "inclusion": 8.9,
+     "winRate": 56.4,
+     "games": 5891,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Vitu-Ghazi Inspector",
+     "inclusion": 50.0,
+     "winRate": 56.3,
+     "games": 33069,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Projektor Inspector",
+     "inclusion": 49.4,
+     "winRate": 56.2,
+     "games": 32684,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Hard-Hitting Question",
+     "inclusion": 27.4,
+     "winRate": 56.2,
+     "games": 18180,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Archdruid's Charm",
+     "inclusion": 10.1,
+     "winRate": 56.2,
+     "games": 6721,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Unauthorized Exit",
+     "inclusion": 36.3,
+     "winRate": 56.1,
+     "games": 23925,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Surveillance Monitor",
+     "inclusion": 27.7,
+     "winRate": 56.1,
+     "games": 18199,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Sudden Setback",
+     "inclusion": 8.1,
+     "winRate": 56.0,
+     "games": 5377,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Cold Case Cracker",
+     "inclusion": 43.2,
+     "winRate": 55.9,
+     "games": 28454,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Forensic Researcher",
+     "inclusion": 25.0,
+     "winRate": 55.9,
+     "games": 16414,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Topiary Panther",
+     "inclusion": 48.8,
+     "winRate": 55.8,
+     "games": 32089,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Hotshot Investigators",
+     "inclusion": 19.6,
+     "winRate": 55.8,
+     "games": 12933,
+     "trophyInclusion": 18.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-02-17",
+    "main": [
+     [
+      1,
+      "A Killer Among Us"
+     ],
+     [
+      1,
+      "Bite Down on Crime"
+     ],
+     [
+      1,
+      "Crimestopper Sprite"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Evidence Examiner"
+     ],
+     [
+      1,
+      "Forensic Researcher"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Granite Witness"
+     ],
+     [
+      1,
+      "Hotshot Investigators"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Jaded Analyst"
+     ],
+     [
+      1,
+      "Kellan, Inquisitive Prodigy"
+     ],
+     [
+      1,
+      "Loxodon Eavesdropper"
+     ],
+     [
+      1,
+      "Nervous Gardener"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Private Eye"
+     ],
+     [
+      3,
+      "Projektor Inspector"
+     ],
+     [
+      1,
+      "Repulsive Mutation"
+     ],
+     [
+      1,
+      "Surveillance Monitor"
+     ],
+     [
+      1,
+      "They Went This Way"
+     ],
+     [
+      2,
+      "Topiary Panther"
+     ],
+     [
+      1,
+      "Tunnel Tipster"
+     ],
+     [
+      1,
+      "Unauthorized Exit"
+     ],
+     [
+      1,
+      "Vitu-Ghazi Inspector"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Break Out"
+     ],
+     [
+      1,
+      "Cerebral Confiscation"
+     ],
+     [
+      1,
+      "Connecting the Dots"
+     ],
+     [
+      1,
+      "Cryptex"
+     ],
+     [
+      1,
+      "Detective's Satchel"
+     ],
+     [
+      1,
+      "Expose the Culprit"
+     ],
+     [
+      1,
+      "Gravestone Strider"
+     ],
+     [
+      1,
+      "Macabre Reconstruction"
+     ],
+     [
+      2,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Persuasive Interrogators"
+     ],
+     [
+      1,
+      "Reasonable Doubt"
+     ],
+     [
+      1,
+      "Sudden Setback"
+     ],
+     [
+      1,
+      "They Went This Way"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 60871,
+   "wins": 32557,
+   "winRate": 53.49,
+   "share": 6.31,
+   "drafts": 10606,
+   "trophies": 1159,
+   "cards": [
+    {
+     "name": "Izoni, Center of the Web",
+     "inclusion": 23.8,
+     "winRate": 57.6,
+     "games": 15345,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Hide in Plain Sight",
+     "inclusion": 11.9,
+     "winRate": 57.2,
+     "games": 7563,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Vein Ripper",
+     "inclusion": 8.0,
+     "winRate": 55.9,
+     "games": 5064,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Deadly Cover-Up",
+     "inclusion": 13.4,
+     "winRate": 55.8,
+     "games": 8427,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Axebane Ferox",
+     "inclusion": 11.5,
+     "winRate": 55.6,
+     "games": 7180,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Urgent Necropsy",
+     "inclusion": 8.9,
+     "winRate": 55.6,
+     "games": 5653,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Doppelgang",
+     "inclusion": 6.4,
+     "winRate": 55.6,
+     "games": 4014,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Flourishing Bloom-Kin",
+     "inclusion": 24.5,
+     "winRate": 55.5,
+     "games": 15355,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "A Killer Among Us",
+     "inclusion": 26.3,
+     "winRate": 55.4,
+     "games": 16353,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 7.2,
+     "winRate": 55.3,
+     "games": 4527,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Underground Mortuary",
+     "inclusion": 13.0,
+     "winRate": 55.2,
+     "games": 8105,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Coerced to Kill",
+     "inclusion": 9.9,
+     "winRate": 55.2,
+     "games": 6165,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Faerie Snoop",
+     "inclusion": 16.2,
+     "winRate": 55.1,
+     "games": 10149,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Repulsive Mutation",
+     "inclusion": 5.6,
+     "winRate": 55.0,
+     "games": 3421,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Long Goodbye",
+     "inclusion": 26.2,
+     "winRate": 54.8,
+     "games": 16174,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Homicide Investigator",
+     "inclusion": 12.3,
+     "winRate": 54.8,
+     "games": 7632,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Sharp-Eyed Rookie",
+     "inclusion": 11.1,
+     "winRate": 54.8,
+     "games": 6911,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Greenbelt Radical",
+     "inclusion": 22.0,
+     "winRate": 54.7,
+     "games": 13642,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Archdruid's Charm",
+     "inclusion": 8.9,
+     "winRate": 54.7,
+     "games": 5440,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Kraul Whipcracker",
+     "inclusion": 44.4,
+     "winRate": 54.6,
+     "games": 27503,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Push // Pull",
+     "inclusion": 13.7,
+     "winRate": 54.6,
+     "games": 8464,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Extract a Confession",
+     "inclusion": 55.8,
+     "winRate": 54.5,
+     "games": 34478,
+     "trophyInclusion": 59.5
+    },
+    {
+     "name": "Loxodon Eavesdropper",
+     "inclusion": 46.6,
+     "winRate": 54.5,
+     "games": 28734,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Nervous Gardener",
+     "inclusion": 51.1,
+     "winRate": 54.4,
+     "games": 31432,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 29.3,
+     "winRate": 54.4,
+     "games": 18120,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Hunted Bonebrute",
+     "inclusion": 12.6,
+     "winRate": 54.4,
+     "games": 7809,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Glint Weaver",
+     "inclusion": 27.2,
+     "winRate": 54.3,
+     "games": 16799,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Undercity Eliminator",
+     "inclusion": 24.0,
+     "winRate": 54.3,
+     "games": 14818,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Massacre Girl, Known Killer",
+     "inclusion": 6.5,
+     "winRate": 54.3,
+     "games": 3945,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Case of the Locked Hothouse",
+     "inclusion": 10.1,
+     "winRate": 54.2,
+     "games": 6171,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Bite Down on Crime",
+     "inclusion": 50.4,
+     "winRate": 54.1,
+     "games": 31060,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Vengeful Creeper",
+     "inclusion": 40.9,
+     "winRate": 54.1,
+     "games": 25099,
+     "trophyInclusion": 42.6
+    },
+    {
+     "name": "Riftburst Hellion",
+     "inclusion": 16.8,
+     "winRate": 54.1,
+     "games": 10402,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Murder",
+     "inclusion": 41.7,
+     "winRate": 54.0,
+     "games": 25546,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Leering Onlooker",
+     "inclusion": 27.8,
+     "winRate": 54.0,
+     "games": 16992,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Topiary Panther",
+     "inclusion": 51.0,
+     "winRate": 53.9,
+     "games": 31150,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Case of the Stashed Skeleton",
+     "inclusion": 11.1,
+     "winRate": 53.9,
+     "games": 6788,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Hard-Hitting Question",
+     "inclusion": 23.2,
+     "winRate": 53.8,
+     "games": 14199,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Undercover Crocodelf",
+     "inclusion": 20.5,
+     "winRate": 53.8,
+     "games": 12588,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Vitu-Ghazi Inspector",
+     "inclusion": 49.6,
+     "winRate": 53.7,
+     "games": 30158,
+     "trophyInclusion": 50.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-02-10",
+    "main": [
+     [
+      1,
+      "Aftermath Analyst"
+     ],
+     [
+      1,
+      "Bite Down on Crime"
+     ],
+     [
+      1,
+      "Deadly Cover-Up"
+     ],
+     [
+      1,
+      "Faerie Snoop"
+     ],
+     [
+      1,
+      "Flourishing Bloom-Kin"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Glint Weaver"
+     ],
+     [
+      1,
+      "Hedge Whisperer"
+     ],
+     [
+      2,
+      "Kraul Whipcracker"
+     ],
+     [
+      1,
+      "Leering Onlooker"
+     ],
+     [
+      1,
+      "Long Goodbye"
+     ],
+     [
+      1,
+      "Loxodon Eavesdropper"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Nervous Gardener"
+     ],
+     [
+      1,
+      "Public Thoroughfare"
+     ],
+     [
+      1,
+      "Rakish Scoundrel"
+     ],
+     [
+      1,
+      "Rope"
+     ],
+     [
+      1,
+      "Rubblebelt Maverick"
+     ],
+     [
+      1,
+      "Slice from the Shadows"
+     ],
+     [
+      1,
+      "Soul Enervation"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Topiary Panther"
+     ],
+     [
+      1,
+      "Undercover Crocodelf"
+     ],
+     [
+      1,
+      "Unscrupulous Agent"
+     ],
+     [
+      1,
+      "Vengeful Creeper"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agency Outfitter"
+     ],
+     [
+      1,
+      "Crimestopper Sprite"
+     ],
+     [
+      1,
+      "Dramatic Accusation"
+     ],
+     [
+      1,
+      "Haazda Vigilante"
+     ],
+     [
+      1,
+      "Magnetic Snuffler"
+     ],
+     [
+      1,
+      "Magnifying Glass"
+     ],
+     [
+      1,
+      "Person of Interest"
+     ],
+     [
+      1,
+      "Rune-Brand Juggler"
+     ],
+     [
+      1,
+      "Sanguine Savior"
+     ],
+     [
+      1,
+      "Sanitation Automaton"
+     ],
+     [
+      1,
+      "Scene of the Crime"
+     ],
+     [
+      1,
+      "The Chase Is On"
+     ],
+     [
+      1,
+      "They Went This Way"
+     ],
+     [
+      2,
+      "Toxin Analysis"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 52295,
+   "wins": 28318,
+   "winRate": 54.15,
+   "share": 5.42,
+   "drafts": 9026,
+   "trophies": 1009,
+   "cards": [
+    {
+     "name": "Pyrotechnic Performer",
+     "inclusion": 14.5,
+     "winRate": 57.0,
+     "games": 7842,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Torch the Witness",
+     "inclusion": 27.5,
+     "winRate": 56.9,
+     "games": 14936,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Izoni, Center of the Web",
+     "inclusion": 5.8,
+     "winRate": 56.8,
+     "games": 3240,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Krenko, Baron of Tin Street",
+     "inclusion": 9.2,
+     "winRate": 56.6,
+     "games": 5026,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Lamplight Phoenix",
+     "inclusion": 11.7,
+     "winRate": 56.5,
+     "games": 6372,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Hide in Plain Sight",
+     "inclusion": 13.4,
+     "winRate": 56.4,
+     "games": 7259,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "A Killer Among Us",
+     "inclusion": 27.4,
+     "winRate": 55.7,
+     "games": 14656,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Axebane Ferox",
+     "inclusion": 12.7,
+     "winRate": 55.7,
+     "games": 6807,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Reckless Detective",
+     "inclusion": 26.4,
+     "winRate": 55.6,
+     "games": 14057,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Fugitive Codebreaker",
+     "inclusion": 10.0,
+     "winRate": 55.4,
+     "games": 5340,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Get a Leg Up",
+     "inclusion": 23.9,
+     "winRate": 55.3,
+     "games": 12619,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Hard-Hitting Question",
+     "inclusion": 27.1,
+     "winRate": 55.2,
+     "games": 14459,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Yarus, Roar of the Old Gods",
+     "inclusion": 25.6,
+     "winRate": 55.2,
+     "games": 13697,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Sharp-Eyed Rookie",
+     "inclusion": 11.9,
+     "winRate": 55.2,
+     "games": 6307,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Flourishing Bloom-Kin",
+     "inclusion": 27.5,
+     "winRate": 55.1,
+     "games": 14557,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Commercial District",
+     "inclusion": 12.8,
+     "winRate": 54.9,
+     "games": 6772,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Fanatical Strength",
+     "inclusion": 52.6,
+     "winRate": 54.8,
+     "games": 27801,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 26.6,
+     "winRate": 54.8,
+     "games": 14166,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Nervous Gardener",
+     "inclusion": 52.8,
+     "winRate": 54.7,
+     "games": 27913,
+     "trophyInclusion": 56.9
+    },
+    {
+     "name": "Greenbelt Radical",
+     "inclusion": 29.9,
+     "winRate": 54.7,
+     "games": 15712,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Bite Down on Crime",
+     "inclusion": 51.6,
+     "winRate": 54.6,
+     "games": 27294,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Vengeful Creeper",
+     "inclusion": 50.7,
+     "winRate": 54.6,
+     "games": 26736,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Tin Street Gossip",
+     "inclusion": 45.2,
+     "winRate": 54.6,
+     "games": 23810,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Offender at Large",
+     "inclusion": 44.7,
+     "winRate": 54.6,
+     "games": 23469,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Anzrag, the Quake-Mole",
+     "inclusion": 12.1,
+     "winRate": 54.6,
+     "games": 6352,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Tunnel Tipster",
+     "inclusion": 56.4,
+     "winRate": 54.5,
+     "games": 29708,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Shock",
+     "inclusion": 52.5,
+     "winRate": 54.5,
+     "games": 27587,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Culvert Ambusher",
+     "inclusion": 23.2,
+     "winRate": 54.5,
+     "games": 12333,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Loxodon Eavesdropper",
+     "inclusion": 50.7,
+     "winRate": 54.4,
+     "games": 26829,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Galvanize",
+     "inclusion": 50.3,
+     "winRate": 54.4,
+     "games": 26435,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Gadget Technician",
+     "inclusion": 21.4,
+     "winRate": 54.4,
+     "games": 11324,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Vengeful Tracker",
+     "inclusion": 18.0,
+     "winRate": 54.4,
+     "games": 9489,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Glint Weaver",
+     "inclusion": 23.7,
+     "winRate": 54.2,
+     "games": 12379,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Case of the Trampled Garden",
+     "inclusion": 20.8,
+     "winRate": 54.2,
+     "games": 10751,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Sanitation Automaton",
+     "inclusion": 19.5,
+     "winRate": 54.2,
+     "games": 10318,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Incinerator of the Guilty",
+     "inclusion": 6.6,
+     "winRate": 54.2,
+     "games": 3472,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Person of Interest",
+     "inclusion": 37.7,
+     "winRate": 54.1,
+     "games": 19715,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Riftburst Hellion",
+     "inclusion": 55.3,
+     "winRate": 54.0,
+     "games": 29002,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Sample Collector",
+     "inclusion": 16.8,
+     "winRate": 54.0,
+     "games": 8701,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Case of the Locked Hothouse",
+     "inclusion": 8.2,
+     "winRate": 54.0,
+     "games": 4247,
+     "trophyInclusion": 7.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-02-25",
+    "main": [
+     [
+      1,
+      "A Killer Among Us"
+     ],
+     [
+      1,
+      "Bite Down on Crime"
+     ],
+     [
+      1,
+      "Case of the Burning Masks"
+     ],
+     [
+      1,
+      "Case of the Trampled Garden"
+     ],
+     [
+      1,
+      "Commercial District"
+     ],
+     [
+      1,
+      "Culvert Ambusher"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Fanatical Strength"
+     ],
+     [
+      1,
+      "Flourishing Bloom-Kin"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Galvanize"
+     ],
+     [
+      2,
+      "Get a Leg Up"
+     ],
+     [
+      1,
+      "Kraul Whipcracker"
+     ],
+     [
+      1,
+      "Loxodon Eavesdropper"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      2,
+      "Nervous Gardener"
+     ],
+     [
+      1,
+      "Person of Interest"
+     ],
+     [
+      1,
+      "Red Herring"
+     ],
+     [
+      1,
+      "Riftburst Hellion"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tin Street Gossip"
+     ],
+     [
+      1,
+      "Torch the Witness"
+     ],
+     [
+      1,
+      "Tunnel Tipster"
+     ],
+     [
+      1,
+      "Underground Mortuary"
+     ],
+     [
+      2,
+      "Vengeful Creeper"
+     ],
+     [
+      1,
+      "Vitu-Ghazi Inspector"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agency Coroner"
+     ],
+     [
+      1,
+      "Alquist Proft, Master Sleuth"
+     ],
+     [
+      2,
+      "Fanatical Strength"
+     ],
+     [
+      1,
+      "Gadget Technician"
+     ],
+     [
+      2,
+      "Magnifying Glass"
+     ],
+     [
+      1,
+      "Rope"
+     ],
+     [
+      1,
+      "Rot Farm Mortipede"
+     ],
+     [
+      2,
+      "Slime Against Humanity"
+     ],
+     [
+      1,
+      "Toxin Analysis"
+     ],
+     [
+      1,
+      "Vitu-Ghazi Inspector"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 52000,
+   "wins": 28662,
+   "winRate": 55.12,
+   "share": 5.39,
+   "drafts": 8841,
+   "trophies": 1082,
+   "cards": [
+    {
+     "name": "Vein Ripper",
+     "inclusion": 7.7,
+     "winRate": 58.7,
+     "games": 4269,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Teysa, Opulent Oligarch",
+     "inclusion": 25.4,
+     "winRate": 57.5,
+     "games": 13751,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Kaya, Spirits' Justice",
+     "inclusion": 10.7,
+     "winRate": 57.3,
+     "games": 5760,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Fuss // Bother",
+     "inclusion": 14.0,
+     "winRate": 57.0,
+     "games": 7434,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Unyielding Gatekeeper",
+     "inclusion": 9.2,
+     "winRate": 57.0,
+     "games": 4900,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Case of the Stashed Skeleton",
+     "inclusion": 12.5,
+     "winRate": 56.9,
+     "games": 6674,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 28.3,
+     "winRate": 56.8,
+     "games": 15031,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Hunted Bonebrute",
+     "inclusion": 13.0,
+     "winRate": 56.7,
+     "games": 6973,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Inside Source",
+     "inclusion": 51.3,
+     "winRate": 56.5,
+     "games": 27233,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Novice Inspector",
+     "inclusion": 52.2,
+     "winRate": 56.4,
+     "games": 27700,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Makeshift Binding",
+     "inclusion": 46.9,
+     "winRate": 56.3,
+     "games": 24789,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Case of the Gateway Express",
+     "inclusion": 22.8,
+     "winRate": 56.3,
+     "games": 12003,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Neighborhood Guardian",
+     "inclusion": 26.6,
+     "winRate": 56.1,
+     "games": 14045,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Homicide Investigator",
+     "inclusion": 13.1,
+     "winRate": 56.1,
+     "games": 6848,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Snarling Gorehound",
+     "inclusion": 56.1,
+     "winRate": 56.0,
+     "games": 29526,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Haazda Vigilante",
+     "inclusion": 39.8,
+     "winRate": 56.0,
+     "games": 20941,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Festerleech",
+     "inclusion": 21.1,
+     "winRate": 56.0,
+     "games": 11082,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Tenth District Hero",
+     "inclusion": 9.5,
+     "winRate": 55.9,
+     "games": 5041,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Leering Onlooker",
+     "inclusion": 29.2,
+     "winRate": 55.8,
+     "games": 15403,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Unscrupulous Agent",
+     "inclusion": 53.4,
+     "winRate": 55.6,
+     "games": 27788,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Extract a Confession",
+     "inclusion": 50.8,
+     "winRate": 55.6,
+     "games": 26727,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Museum Nightwatch",
+     "inclusion": 41.7,
+     "winRate": 55.6,
+     "games": 21816,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Wispdrinker Vampire",
+     "inclusion": 47.7,
+     "winRate": 55.5,
+     "games": 24907,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Wojek Investigator",
+     "inclusion": 9.5,
+     "winRate": 55.5,
+     "games": 4949,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Marketwatch Phantom",
+     "inclusion": 49.1,
+     "winRate": 55.4,
+     "games": 25826,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "On the Job",
+     "inclusion": 33.1,
+     "winRate": 55.4,
+     "games": 17265,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Slimy Dualleech",
+     "inclusion": 28.6,
+     "winRate": 55.4,
+     "games": 15040,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Auspicious Arrival",
+     "inclusion": 43.5,
+     "winRate": 55.3,
+     "games": 22786,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Long Goodbye",
+     "inclusion": 26.8,
+     "winRate": 55.3,
+     "games": 13957,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 25.2,
+     "winRate": 55.3,
+     "games": 13203,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Perimeter Enforcer",
+     "inclusion": 20.2,
+     "winRate": 55.3,
+     "games": 10561,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Push // Pull",
+     "inclusion": 19.0,
+     "winRate": 55.3,
+     "games": 9861,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Deadly Cover-Up",
+     "inclusion": 8.6,
+     "winRate": 55.3,
+     "games": 4457,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Sanguine Savior",
+     "inclusion": 63.5,
+     "winRate": 55.2,
+     "games": 33096,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Seasoned Consultant",
+     "inclusion": 41.5,
+     "winRate": 55.2,
+     "games": 21639,
+     "trophyInclusion": 40.5
+    },
+    {
+     "name": "Massacre Girl, Known Killer",
+     "inclusion": 6.1,
+     "winRate": 55.2,
+     "games": 3161,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Toxin Analysis",
+     "inclusion": 36.0,
+     "winRate": 55.1,
+     "games": 18688,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Call a Surprise Witness",
+     "inclusion": 14.4,
+     "winRate": 55.1,
+     "games": 7442,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Shadowy Backstreet",
+     "inclusion": 12.0,
+     "winRate": 55.1,
+     "games": 6265,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Sanitation Automaton",
+     "inclusion": 21.5,
+     "winRate": 55.0,
+     "games": 11187,
+     "trophyInclusion": 20.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-03-10",
+    "main": [
+     [
+      1,
+      "Basilica Stalker"
+     ],
+     [
+      1,
+      "Defenestrated Phantom"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Haazda Vigilante"
+     ],
+     [
+      1,
+      "Leering Onlooker"
+     ],
+     [
+      2,
+      "Long Goodbye"
+     ],
+     [
+      1,
+      "Make Your Move"
+     ],
+     [
+      1,
+      "Makeshift Binding"
+     ],
+     [
+      1,
+      "Marketwatch Phantom"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Museum Nightwatch"
+     ],
+     [
+      1,
+      "Novice Inspector"
+     ],
+     [
+      1,
+      "On the Job"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Repeat Offender"
+     ],
+     [
+      2,
+      "Sanguine Savior"
+     ],
+     [
+      1,
+      "Shadowy Backstreet"
+     ],
+     [
+      2,
+      "Slice from the Shadows"
+     ],
+     [
+      1,
+      "Slimy Dualleech"
+     ],
+     [
+      1,
+      "Snarling Gorehound"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Unscrupulous Agent"
+     ],
+     [
+      1,
+      "Unyielding Gatekeeper"
+     ],
+     [
+      1,
+      "Wispdrinker Vampire"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Blood Spatter Analysis"
+     ],
+     [
+      1,
+      "Cerebral Confiscation"
+     ],
+     [
+      1,
+      "Cold Case Cracker"
+     ],
+     [
+      1,
+      "Commercial District"
+     ],
+     [
+      1,
+      "Expose the Culprit"
+     ],
+     [
+      1,
+      "Leyline of the Guildpact"
+     ],
+     [
+      1,
+      "Lightning Helix"
+     ],
+     [
+      2,
+      "Macabre Reconstruction"
+     ],
+     [
+      1,
+      "Offender at Large"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Presumed Dead"
+     ],
+     [
+      1,
+      "Soul Search"
+     ],
+     [
+      1,
+      "Sumala Sentry"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 47568,
+   "wins": 25446,
+   "winRate": 53.49,
+   "share": 4.93,
+   "drafts": 8277,
+   "trophies": 848,
+   "cards": [
+    {
+     "name": "Hunted Bonebrute",
+     "inclusion": 14.1,
+     "winRate": 56.2,
+     "games": 7061,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Torch the Witness",
+     "inclusion": 25.1,
+     "winRate": 56.0,
+     "games": 12392,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Case of the Stashed Skeleton",
+     "inclusion": 13.7,
+     "winRate": 55.9,
+     "games": 6838,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Rakdos, Patron of Chaos",
+     "inclusion": 11.9,
+     "winRate": 55.8,
+     "games": 5997,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Lamplight Phoenix",
+     "inclusion": 11.9,
+     "winRate": 55.8,
+     "games": 5837,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Vein Ripper",
+     "inclusion": 7.3,
+     "winRate": 55.8,
+     "games": 3643,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Festerleech",
+     "inclusion": 18.5,
+     "winRate": 55.4,
+     "games": 9036,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Blood Spatter Analysis",
+     "inclusion": 22.6,
+     "winRate": 55.3,
+     "games": 11025,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Homicide Investigator",
+     "inclusion": 13.0,
+     "winRate": 55.3,
+     "games": 6338,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Pyrotechnic Performer",
+     "inclusion": 11.3,
+     "winRate": 55.2,
+     "games": 5584,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Person of Interest",
+     "inclusion": 51.9,
+     "winRate": 55.1,
+     "games": 25310,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Dog Walker",
+     "inclusion": 23.2,
+     "winRate": 55.0,
+     "games": 11276,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Reckless Detective",
+     "inclusion": 27.7,
+     "winRate": 54.9,
+     "games": 13480,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Long Goodbye",
+     "inclusion": 27.0,
+     "winRate": 54.7,
+     "games": 13131,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Krenko, Baron of Tin Street",
+     "inclusion": 9.9,
+     "winRate": 54.6,
+     "games": 4730,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Offender at Large",
+     "inclusion": 34.6,
+     "winRate": 54.5,
+     "games": 16654,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Fugitive Codebreaker",
+     "inclusion": 11.1,
+     "winRate": 54.5,
+     "games": 5381,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Shock",
+     "inclusion": 51.8,
+     "winRate": 54.4,
+     "games": 25026,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Rune-Brand Juggler",
+     "inclusion": 50.7,
+     "winRate": 54.4,
+     "games": 24483,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 23.2,
+     "winRate": 54.4,
+     "games": 11180,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Gadget Technician",
+     "inclusion": 20.2,
+     "winRate": 54.4,
+     "games": 9719,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Massacre Girl, Known Killer",
+     "inclusion": 7.7,
+     "winRate": 54.3,
+     "games": 3681,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Extract a Confession",
+     "inclusion": 48.3,
+     "winRate": 54.2,
+     "games": 23196,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Deadly Complication",
+     "inclusion": 44.9,
+     "winRate": 54.1,
+     "games": 21668,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "The Chase Is On",
+     "inclusion": 30.5,
+     "winRate": 54.1,
+     "games": 14637,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Leering Onlooker",
+     "inclusion": 25.7,
+     "winRate": 54.1,
+     "games": 12309,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Deadly Cover-Up",
+     "inclusion": 9.4,
+     "winRate": 54.1,
+     "games": 4547,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Snarling Gorehound",
+     "inclusion": 48.2,
+     "winRate": 54.0,
+     "games": 23106,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Red Herring",
+     "inclusion": 44.4,
+     "winRate": 54.0,
+     "games": 21317,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Clandestine Meddler",
+     "inclusion": 30.5,
+     "winRate": 54.0,
+     "games": 14675,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Case of the Burning Masks",
+     "inclusion": 23.8,
+     "winRate": 53.9,
+     "games": 11463,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Galvanize",
+     "inclusion": 49.5,
+     "winRate": 53.8,
+     "games": 23735,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "Unscrupulous Agent",
+     "inclusion": 47.9,
+     "winRate": 53.8,
+     "games": 22872,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Murder",
+     "inclusion": 45.8,
+     "winRate": 53.6,
+     "games": 21875,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Toxin Analysis",
+     "inclusion": 35.9,
+     "winRate": 53.6,
+     "games": 17164,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Alley Assailant",
+     "inclusion": 41.8,
+     "winRate": 53.5,
+     "games": 19936,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Slimy Dualleech",
+     "inclusion": 25.2,
+     "winRate": 53.5,
+     "games": 11967,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Bolrac-Clan Basher",
+     "inclusion": 21.3,
+     "winRate": 53.5,
+     "games": 10165,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Nightdrinker Moroii",
+     "inclusion": 25.6,
+     "winRate": 53.4,
+     "games": 12151,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Incinerator of the Guilty",
+     "inclusion": 5.9,
+     "winRate": 53.4,
+     "games": 2811,
+     "trophyInclusion": 5.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-02-08",
+    "main": [
+     [
+      1,
+      "Alley Assailant"
+     ],
+     [
+      1,
+      "Basilica Stalker"
+     ],
+     [
+      1,
+      "Case of the Burning Masks"
+     ],
+     [
+      1,
+      "Case of the Crimson Pulse"
+     ],
+     [
+      1,
+      "Clandestine Meddler"
+     ],
+     [
+      1,
+      "Cornered Crook"
+     ],
+     [
+      1,
+      "Deadly Complication"
+     ],
+     [
+      1,
+      "Frantic Scapegoat"
+     ],
+     [
+      1,
+      "Gadget Technician"
+     ],
+     [
+      1,
+      "Galvanize"
+     ],
+     [
+      1,
+      "Lamplight Phoenix"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Outrageous Robbery"
+     ],
+     [
+      1,
+      "Person of Interest"
+     ],
+     [
+      1,
+      "Reckless Detective"
+     ],
+     [
+      1,
+      "Red Herring"
+     ],
+     [
+      1,
+      "Repeat Offender"
+     ],
+     [
+      1,
+      "Rune-Brand Juggler"
+     ],
+     [
+      1,
+      "Scene of the Crime"
+     ],
+     [
+      1,
+      "Shock"
+     ],
+     [
+      1,
+      "Slimy Dualleech"
+     ],
+     [
+      1,
+      "Snarling Gorehound"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Toxin Analysis"
+     ],
+     [
+      1,
+      "Unscrupulous Agent"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Coerced to Kill"
+     ],
+     [
+      1,
+      "Concealed Weapon"
+     ],
+     [
+      1,
+      "Cornered Crook"
+     ],
+     [
+      1,
+      "Demand Answers"
+     ],
+     [
+      2,
+      "Harried Dronesmith"
+     ],
+     [
+      1,
+      "Kraul Whipcracker"
+     ],
+     [
+      1,
+      "Lead Pipe"
+     ],
+     [
+      1,
+      "Magnetic Snuffler"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Pick Your Poison"
+     ],
+     [
+      2,
+      "Shady Informant"
+     ],
+     [
+      1,
+      "Slice from the Shadows"
+     ],
+     [
+      1,
+      "Snarling Gorehound"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 36815,
+   "wins": 19226,
+   "winRate": 52.22,
+   "share": 3.82,
+   "drafts": 6534,
+   "trophies": 569,
+   "cards": [
+    {
+     "name": "Vein Ripper",
+     "inclusion": 7.1,
+     "winRate": 57.6,
+     "games": 2811,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Cryptic Coat",
+     "inclusion": 12.7,
+     "winRate": 56.5,
+     "games": 5035,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Steamcore Scholar",
+     "inclusion": 12.0,
+     "winRate": 56.2,
+     "games": 4655,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Intrude on the Mind",
+     "inclusion": 6.8,
+     "winRate": 55.1,
+     "games": 2593,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Scene of the Crime",
+     "inclusion": 8.9,
+     "winRate": 54.7,
+     "games": 3342,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Etrata, Deadly Fugitive",
+     "inclusion": 14.0,
+     "winRate": 54.6,
+     "games": 5393,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Hunted Bonebrute",
+     "inclusion": 12.1,
+     "winRate": 54.3,
+     "games": 4532,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Coerced to Kill",
+     "inclusion": 48.4,
+     "winRate": 54.2,
+     "games": 18308,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Festerleech",
+     "inclusion": 15.2,
+     "winRate": 54.1,
+     "games": 5673,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Lazav, Wearer of Faces",
+     "inclusion": 27.4,
+     "winRate": 53.9,
+     "games": 10428,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Massacre Girl, Known Killer",
+     "inclusion": 6.4,
+     "winRate": 53.7,
+     "games": 2364,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Homicide Investigator",
+     "inclusion": 12.7,
+     "winRate": 53.4,
+     "games": 4766,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Reasonable Doubt",
+     "inclusion": 38.5,
+     "winRate": 53.3,
+     "games": 14396,
+     "trophyInclusion": 42.7
+    },
+    {
+     "name": "Surveillance Monitor",
+     "inclusion": 24.5,
+     "winRate": 53.3,
+     "games": 9263,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Drag the Canal",
+     "inclusion": 24.2,
+     "winRate": 53.3,
+     "games": 9049,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Persuasive Interrogators",
+     "inclusion": 16.8,
+     "winRate": 53.3,
+     "games": 6277,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Proft's Eidetic Memory",
+     "inclusion": 10.8,
+     "winRate": 53.3,
+     "games": 4097,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Leering Onlooker",
+     "inclusion": 28.2,
+     "winRate": 53.2,
+     "games": 10464,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 27.9,
+     "winRate": 53.2,
+     "games": 10363,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Exit Specialist",
+     "inclusion": 27.4,
+     "winRate": 53.2,
+     "games": 10269,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Push // Pull",
+     "inclusion": 15.1,
+     "winRate": 53.2,
+     "games": 5630,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Gadget Technician",
+     "inclusion": 15.6,
+     "winRate": 53.1,
+     "games": 5881,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Deadly Cover-Up",
+     "inclusion": 14.9,
+     "winRate": 53.1,
+     "games": 5536,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Extract a Confession",
+     "inclusion": 52.3,
+     "winRate": 53.0,
+     "games": 19464,
+     "trophyInclusion": 56.9
+    },
+    {
+     "name": "Unscrupulous Agent",
+     "inclusion": 51.5,
+     "winRate": 52.9,
+     "games": 19077,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Long Goodbye",
+     "inclusion": 29.0,
+     "winRate": 52.9,
+     "games": 10826,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Murder",
+     "inclusion": 52.8,
+     "winRate": 52.8,
+     "games": 19566,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Projektor Inspector",
+     "inclusion": 48.9,
+     "winRate": 52.8,
+     "games": 18257,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Cold Case Cracker",
+     "inclusion": 53.5,
+     "winRate": 52.7,
+     "games": 19868,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Soul Enervation",
+     "inclusion": 24.2,
+     "winRate": 52.7,
+     "games": 8922,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Sanitation Automaton",
+     "inclusion": 17.6,
+     "winRate": 52.7,
+     "games": 6547,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 41.4,
+     "winRate": 52.6,
+     "games": 15285,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Eliminate the Impossible",
+     "inclusion": 20.7,
+     "winRate": 52.6,
+     "games": 7728,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Slice from the Shadows",
+     "inclusion": 51.0,
+     "winRate": 52.3,
+     "games": 18762,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Unauthorized Exit",
+     "inclusion": 32.6,
+     "winRate": 52.3,
+     "games": 11859,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Gravestone Strider",
+     "inclusion": 15.0,
+     "winRate": 52.3,
+     "games": 5539,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Faerie Snoop",
+     "inclusion": 63.3,
+     "winRate": 52.2,
+     "games": 23315,
+     "trophyInclusion": 60.8
+    },
+    {
+     "name": "Undercity Eliminator",
+     "inclusion": 26.8,
+     "winRate": 52.2,
+     "games": 9802,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Clandestine Meddler",
+     "inclusion": 14.9,
+     "winRate": 52.2,
+     "games": 5432,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Bubble Smuggler",
+     "inclusion": 37.6,
+     "winRate": 52.1,
+     "games": 13800,
+     "trophyInclusion": 36.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-03-16",
+    "main": [
+     [
+      1,
+      "Basilica Stalker"
+     ],
+     [
+      1,
+      "Coerced to Kill"
+     ],
+     [
+      1,
+      "Cold Case Cracker"
+     ],
+     [
+      2,
+      "Deduce"
+     ],
+     [
+      1,
+      "Drag the Canal"
+     ],
+     [
+      1,
+      "Dramatic Accusation"
+     ],
+     [
+      1,
+      "Faerie Snoop"
+     ],
+     [
+      1,
+      "Gadget Technician"
+     ],
+     [
+      1,
+      "Granite Witness"
+     ],
+     [
+      1,
+      "Gravestone Strider"
+     ],
+     [
+      1,
+      "Intrude on the Mind"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Lazav, Wearer of Faces"
+     ],
+     [
+      1,
+      "Long Goodbye"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Projektor Inspector"
+     ],
+     [
+      1,
+      "Reasonable Doubt"
+     ],
+     [
+      1,
+      "Slice from the Shadows"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Toxin Analysis"
+     ],
+     [
+      1,
+      "Undercity Eliminator"
+     ],
+     [
+      1,
+      "Unscrupulous Agent"
+     ],
+     [
+      1,
+      "Vein Ripper"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Basilica Stalker"
+     ],
+     [
+      3,
+      "Behind the Mask"
+     ],
+     [
+      1,
+      "Crowd-Control Warden"
+     ],
+     [
+      1,
+      "Gleaming Geardrake"
+     ],
+     [
+      1,
+      "Griffnaut Tracker"
+     ],
+     [
+      1,
+      "Kellan, Inquisitive Prodigy"
+     ],
+     [
+      1,
+      "Millstone"
+     ],
+     [
+      2,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Reasonable Doubt"
+     ],
+     [
+      1,
+      "Rot Farm Mortipede"
+     ],
+     [
+      1,
+      "Sanitation Automaton"
+     ],
+     [
+      1,
+      "Surveillance Monitor"
+     ],
+     [
+      1,
+      "Toxin Analysis"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 36539,
+   "wins": 19371,
+   "winRate": 53.01,
+   "share": 3.79,
+   "drafts": 6499,
+   "trophies": 681,
+   "cards": [
+    {
+     "name": "Izoni, Center of the Web",
+     "inclusion": 17.8,
+     "winRate": 57.1,
+     "games": 6934,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Doppelgang",
+     "inclusion": 18.8,
+     "winRate": 57.0,
+     "games": 7270,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Deadly Cover-Up",
+     "inclusion": 11.4,
+     "winRate": 56.4,
+     "games": 4390,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Hide in Plain Sight",
+     "inclusion": 9.5,
+     "winRate": 55.9,
+     "games": 3626,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Push // Pull",
+     "inclusion": 9.3,
+     "winRate": 55.9,
+     "games": 3599,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Steamcore Scholar",
+     "inclusion": 7.8,
+     "winRate": 55.4,
+     "games": 2969,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Coerced to Kill",
+     "inclusion": 42.9,
+     "winRate": 55.3,
+     "games": 16288,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Kellan, Inquisitive Prodigy",
+     "inclusion": 15.8,
+     "winRate": 55.3,
+     "games": 5966,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "A Killer Among Us",
+     "inclusion": 21.6,
+     "winRate": 55.0,
+     "games": 8156,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 43.8,
+     "winRate": 54.9,
+     "games": 16371,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Kraul Whipcracker",
+     "inclusion": 30.3,
+     "winRate": 54.8,
+     "games": 11390,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Lazav, Wearer of Faces",
+     "inclusion": 17.3,
+     "winRate": 54.6,
+     "games": 6478,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Sharp-Eyed Rookie",
+     "inclusion": 9.3,
+     "winRate": 54.6,
+     "games": 3548,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Cryptic Coat",
+     "inclusion": 8.7,
+     "winRate": 54.6,
+     "games": 3265,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 7.1,
+     "winRate": 54.5,
+     "games": 2661,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Repulsive Mutation",
+     "inclusion": 33.3,
+     "winRate": 54.2,
+     "games": 12339,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Vengeful Creeper",
+     "inclusion": 30.6,
+     "winRate": 54.1,
+     "games": 11320,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Glint Weaver",
+     "inclusion": 20.8,
+     "winRate": 54.1,
+     "games": 7690,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Unscrupulous Agent",
+     "inclusion": 21.5,
+     "winRate": 54.0,
+     "games": 8055,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Hedge Maze",
+     "inclusion": 15.2,
+     "winRate": 54.0,
+     "games": 5652,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Extract a Confession",
+     "inclusion": 46.1,
+     "winRate": 53.9,
+     "games": 16996,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Long Goodbye",
+     "inclusion": 19.0,
+     "winRate": 53.9,
+     "games": 7055,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Hunted Bonebrute",
+     "inclusion": 8.5,
+     "winRate": 53.9,
+     "games": 3136,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Bite Down on Crime",
+     "inclusion": 41.3,
+     "winRate": 53.8,
+     "games": 15214,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Exit Specialist",
+     "inclusion": 13.9,
+     "winRate": 53.8,
+     "games": 5132,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Etrata, Deadly Fugitive",
+     "inclusion": 8.2,
+     "winRate": 53.8,
+     "games": 3049,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Nervous Gardener",
+     "inclusion": 48.6,
+     "winRate": 53.7,
+     "games": 18005,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Loxodon Eavesdropper",
+     "inclusion": 39.0,
+     "winRate": 53.7,
+     "games": 14360,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Homicide Investigator",
+     "inclusion": 9.5,
+     "winRate": 53.7,
+     "games": 3471,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Axebane Ferox",
+     "inclusion": 7.6,
+     "winRate": 53.7,
+     "games": 2850,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Faerie Snoop",
+     "inclusion": 44.0,
+     "winRate": 53.6,
+     "games": 16175,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "They Went This Way",
+     "inclusion": 31.7,
+     "winRate": 53.6,
+     "games": 11681,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Get a Leg Up",
+     "inclusion": 8.2,
+     "winRate": 53.6,
+     "games": 3005,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Urgent Necropsy",
+     "inclusion": 7.4,
+     "winRate": 53.6,
+     "games": 2715,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Underground Mortuary",
+     "inclusion": 15.6,
+     "winRate": 53.5,
+     "games": 5800,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Reasonable Doubt",
+     "inclusion": 10.0,
+     "winRate": 53.5,
+     "games": 3681,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Vannifar, Evolved Enigma",
+     "inclusion": 7.3,
+     "winRate": 53.5,
+     "games": 2712,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Vitu-Ghazi Inspector",
+     "inclusion": 41.4,
+     "winRate": 53.4,
+     "games": 15156,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Flourishing Bloom-Kin",
+     "inclusion": 15.9,
+     "winRate": 53.4,
+     "games": 5864,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Case of the Locked Hothouse",
+     "inclusion": 9.2,
+     "winRate": 53.4,
+     "games": 3338,
+     "trophyInclusion": 9.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-02-23",
+    "main": [
+     [
+      1,
+      "Aftermath Analyst"
+     ],
+     [
+      1,
+      "Bite Down on Crime"
+     ],
+     [
+      2,
+      "Cold Case Cracker"
+     ],
+     [
+      2,
+      "Deadly Cover-Up"
+     ],
+     [
+      1,
+      "Doppelgang"
+     ],
+     [
+      2,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Extract a Confession"
+     ],
+     [
+      1,
+      "Faerie Snoop"
+     ],
+     [
+      1,
+      "Flotsam // Jetsam"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Gravestone Strider"
+     ],
+     [
+      1,
+      "Hedge Maze"
+     ],
+     [
+      1,
+      "Insidious Roots"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Izoni, Center of the Web"
+     ],
+     [
+      1,
+      "Macabre Reconstruction"
+     ],
+     [
+      1,
+      "Public Thoroughfare"
+     ],
+     [
+      1,
+      "Repulsive Mutation"
+     ],
+     [
+      1,
+      "Rubblebelt Maverick"
+     ],
+     [
+      1,
+      "Scene of the Crime"
+     ],
+     [
+      1,
+      "Slice from the Shadows"
+     ],
+     [
+      1,
+      "Soul Enervation"
+     ],
+     [
+      1,
+      "Steamcore Scholar"
+     ],
+     [
+      4,
+      "Swamp"
+     ],
+     [
+      2,
+      "Topiary Panther"
+     ],
+     [
+      1,
+      "Tunnel Tipster"
+     ],
+     [
+      1,
+      "Undercover Crocodelf"
+     ],
+     [
+      1,
+      "Underground Mortuary"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Airtight Alibi"
+     ],
+     [
+      2,
+      "Alley Assailant"
+     ],
+     [
+      1,
+      "Fanatical Strength"
+     ],
+     [
+      1,
+      "Gravestone Strider"
+     ],
+     [
+      1,
+      "Magnetic Snuffler"
+     ],
+     [
+      1,
+      "Out Cold"
+     ],
+     [
+      1,
+      "Rot Farm Mortipede"
+     ],
+     [
+      1,
+      "They Went This Way"
+     ],
+     [
+      1,
+      "Thinking Cap"
+     ]
+    ]
+   }
+  }
+ ]
+}

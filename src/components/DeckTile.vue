@@ -2,7 +2,7 @@
 import { computed } from 'vue'
 import type { CardInfo, Deck } from '../data/types'
 import { cardImage } from '../lib/cards'
-import { archetypeLabel, t } from '../lib/i18n'
+import { archetypeLabel, formatNumber, t } from '../lib/i18n'
 import ColorPips from './ColorPips.vue'
 
 const props = defineProps<{ deck: Deck; cards: Record<string, CardInfo>; format: string; index?: number }>()
@@ -21,7 +21,13 @@ const wins = computed(() => props.deck.stats.wins)
     <h3>{{ deck.name }} <ColorPips :colors="deck.colors" :size="13" /></h3>
     <p class="meta">
       <span v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}.</span>
-      {{ archetypeLabel(deck.archetype) }}, {{ deck.stats.top8 }} {{ t('top8') }}<template v-if="wins">, {{ wins }} {{ wins > 1 ? t('wins') : t('win') }}</template>
+      <template v-if="deck.limited">
+        {{ archetypeLabel(deck.archetype) }}, {{ formatNumber(deck.limited.winRate) }} % {{ t('winRate') }},
+        {{ formatNumber(deck.stats.share) }} % {{ t('ofGames') }}
+      </template>
+      <template v-else>
+        {{ archetypeLabel(deck.archetype) }}, {{ deck.stats.top8 }} {{ t('top8') }}<template v-if="wins">, {{ wins }} {{ wins > 1 ? t('wins') : t('win') }}</template>
+      </template>
     </p>
   </router-link>
 </template>

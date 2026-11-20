@@ -1,0 +1,4516 @@
+{
+ "set": "hob",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.PremierDraft.csv.gz",
+ "lastModified": "Thu, 01 Oct 2026 13:17:00 GMT",
+ "colorsDerived": false,
+ "first": "2026-08-11",
+ "last": "2026-09-22",
+ "games": 323114,
+ "drafts": 57421,
+ "winRate": 56.16,
+ "combos": [
+  {
+   "colors": "BR",
+   "games": 85459,
+   "wins": 49206,
+   "winRate": 57.58,
+   "share": 26.45,
+   "drafts": 14807,
+   "trophies": 1454,
+   "cards": [
+    {
+     "name": "Smaug the Magnificent",
+     "inclusion": 5.9,
+     "winRate": 60.5,
+     "games": 5300,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Gollum, Riddle Master",
+     "inclusion": 5.8,
+     "winRate": 59.9,
+     "games": 5140,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Dáin Ironfoot",
+     "inclusion": 10.2,
+     "winRate": 59.8,
+     "games": 8900,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Desolation Prowler",
+     "inclusion": 34.9,
+     "winRate": 59.5,
+     "games": 30602,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Rhovanion Rampager",
+     "inclusion": 12.3,
+     "winRate": 59.4,
+     "games": 10725,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Bothersome Noisemaker",
+     "inclusion": 43.2,
+     "winRate": 59.3,
+     "games": 37912,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Head of the Hunt",
+     "inclusion": 10.8,
+     "winRate": 59.3,
+     "games": 9477,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Nighthowl Pursuer",
+     "inclusion": 26.0,
+     "winRate": 58.9,
+     "games": 22756,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "The Lonely Mountain",
+     "inclusion": 9.2,
+     "winRate": 58.9,
+     "games": 7919,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Crude Bent Blade",
+     "inclusion": 65.3,
+     "winRate": 58.7,
+     "games": 56616,
+     "trophyInclusion": 71.9
+    },
+    {
+     "name": "Down, Down to Goblin-town",
+     "inclusion": 37.3,
+     "winRate": 58.7,
+     "games": 32396,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Gandalf, Spark Starter",
+     "inclusion": 34.7,
+     "winRate": 58.6,
+     "games": 30060,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Burn, Burn, Tree and Fern",
+     "inclusion": 34.6,
+     "winRate": 58.6,
+     "games": 29877,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Gollum, Silent Slinker",
+     "inclusion": 61.7,
+     "winRate": 58.5,
+     "games": 53528,
+     "trophyInclusion": 66.5
+    },
+    {
+     "name": "Glóin the Mighty",
+     "inclusion": 24.1,
+     "winRate": 58.5,
+     "games": 20705,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Dwalin, Weaponmaster",
+     "inclusion": 6.9,
+     "winRate": 58.5,
+     "games": 5998,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Pinecone Strike",
+     "inclusion": 65.8,
+     "winRate": 58.4,
+     "games": 56793,
+     "trophyInclusion": 71.3
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 34.1,
+     "winRate": 58.4,
+     "games": 29340,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "The Sackville-Bagginses",
+     "inclusion": 12.9,
+     "winRate": 58.4,
+     "games": 11281,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Dori, Bearer of Friends",
+     "inclusion": 49.2,
+     "winRate": 58.3,
+     "games": 42442,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Dwarven Mauler",
+     "inclusion": 16.9,
+     "winRate": 58.3,
+     "games": 14532,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Ravening Warg",
+     "inclusion": 49.2,
+     "winRate": 58.1,
+     "games": 42311,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Misty Mountains Raider",
+     "inclusion": 37.7,
+     "winRate": 58.1,
+     "games": 32297,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Stone-Giant of High Pass",
+     "inclusion": 10.7,
+     "winRate": 58.0,
+     "games": 9133,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 66.6,
+     "winRate": 57.9,
+     "games": 57069,
+     "trophyInclusion": 68.6
+    },
+    {
+     "name": "Goblin-town",
+     "inclusion": 60.1,
+     "winRate": 57.7,
+     "games": 51336,
+     "trophyInclusion": 62.4
+    },
+    {
+     "name": "Bilbo's Deadly Slice",
+     "inclusion": 55.9,
+     "winRate": 57.7,
+     "games": 47834,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Gollum the Abandoned",
+     "inclusion": 32.4,
+     "winRate": 57.7,
+     "games": 27678,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 13.6,
+     "winRate": 57.7,
+     "games": 11637,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Gundabad Opportunist",
+     "inclusion": 61.1,
+     "winRate": 57.6,
+     "games": 52197,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Stir Up Trouble",
+     "inclusion": 62.1,
+     "winRate": 57.5,
+     "games": 53002,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Rage into the Valley",
+     "inclusion": 60.3,
+     "winRate": 57.5,
+     "games": 51502,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Stony-Voiced Goblins",
+     "inclusion": 54.8,
+     "winRate": 57.4,
+     "games": 46758,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Duskwatch Hunter",
+     "inclusion": 24.2,
+     "winRate": 57.4,
+     "games": 20649,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "The Misty Mountains Cold",
+     "inclusion": 8.1,
+     "winRate": 57.4,
+     "games": 6964,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Great Ugly-Looking Goblin",
+     "inclusion": 32.0,
+     "winRate": 57.3,
+     "games": 27246,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Dreaded Bat-Cloud",
+     "inclusion": 23.7,
+     "winRate": 57.3,
+     "games": 20143,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Tidings of War",
+     "inclusion": 57.2,
+     "winRate": 57.2,
+     "games": 48595,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Smaug, the Great Calamity",
+     "inclusion": 48.2,
+     "winRate": 57.2,
+     "games": 40923,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Gnashing of Teeth",
+     "inclusion": 27.4,
+     "winRate": 57.1,
+     "games": 23170,
+     "trophyInclusion": 27.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-21",
+    "main": [
+     [
+      1,
+      "Burn, Burn, Tree and Fern"
+     ],
+     [
+      1,
+      "Crude Bent Blade"
+     ],
+     [
+      2,
+      "Desolation Prowler"
+     ],
+     [
+      1,
+      "Dori, Bearer of Friends"
+     ],
+     [
+      1,
+      "Down, Down to Goblin-town"
+     ],
+     [
+      1,
+      "Gandalf, Spark Starter"
+     ],
+     [
+      1,
+      "Gathering of Darkness"
+     ],
+     [
+      1,
+      "Glóin the Mighty"
+     ],
+     [
+      1,
+      "Goblin-town"
+     ],
+     [
+      1,
+      "Gollum the Abandoned"
+     ],
+     [
+      1,
+      "Gollum, Silent Slinker"
+     ],
+     [
+      1,
+      "Gundabad Opportunist"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nighthowl Pursuer"
+     ],
+     [
+      1,
+      "Pinecone Strike"
+     ],
+     [
+      1,
+      "Rage into the Valley"
+     ],
+     [
+      1,
+      "Ragged Short Spear"
+     ],
+     [
+      1,
+      "Ravening Warg"
+     ],
+     [
+      1,
+      "Smaug, Wicked Worm"
+     ],
+     [
+      1,
+      "Smaug, the Great Calamity"
+     ],
+     [
+      1,
+      "Stir Up Trouble"
+     ],
+     [
+      2,
+      "Stony-Voiced Goblins"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tidings of War"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Attercop"
+     ],
+     [
+      1,
+      "Beorn, Reluctant Host"
+     ],
+     [
+      1,
+      "Esgaroth Garrison"
+     ],
+     [
+      1,
+      "Galion, Elvenking's Butler"
+     ],
+     [
+      1,
+      "Great Fierce Bee"
+     ],
+     [
+      1,
+      "Great Ugly-Looking Goblin"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      1,
+      "Moment of Glory"
+     ],
+     [
+      2,
+      "Ordinary Bear"
+     ],
+     [
+      1,
+      "Ori, Keeper of Songs"
+     ],
+     [
+      1,
+      "Ravening Warg"
+     ],
+     [
+      1,
+      "Stony-Voiced Goblins"
+     ],
+     [
+      2,
+      "Wargling"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 58594,
+   "wins": 33075,
+   "winRate": 56.45,
+   "share": 18.13,
+   "drafts": 10514,
+   "trophies": 1008,
+   "cards": [
+    {
+     "name": "An Unexpected Party",
+     "inclusion": 12.9,
+     "winRate": 60.4,
+     "games": 7982,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Fíli the Pathfinder",
+     "inclusion": 9.5,
+     "winRate": 60.2,
+     "games": 5858,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Bard's Company",
+     "inclusion": 26.1,
+     "winRate": 59.2,
+     "games": 15991,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 45.3,
+     "winRate": 58.9,
+     "games": 27423,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Bilbo, Luckwearer",
+     "inclusion": 49.9,
+     "winRate": 58.5,
+     "games": 29954,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Great Gilded Boat",
+     "inclusion": 20.1,
+     "winRate": 58.5,
+     "games": 12070,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "The Mountain-king's Return",
+     "inclusion": 46.8,
+     "winRate": 58.3,
+     "games": 28068,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Stone by Sunlight",
+     "inclusion": 42.3,
+     "winRate": 57.8,
+     "games": 25088,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "The Eagles Are Coming!",
+     "inclusion": 15.9,
+     "winRate": 57.7,
+     "games": 9504,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 36.6,
+     "winRate": 57.4,
+     "games": 21687,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Master's Councillors",
+     "inclusion": 51.0,
+     "winRate": 57.3,
+     "games": 30325,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Settle the Wreckage",
+     "inclusion": 13.7,
+     "winRate": 57.3,
+     "games": 8149,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Bilbo, Thief in the Night",
+     "inclusion": 7.3,
+     "winRate": 57.3,
+     "games": 4317,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Plunder the Trollshaws",
+     "inclusion": 80.2,
+     "winRate": 57.2,
+     "games": 47515,
+     "trophyInclusion": 85.4
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 81.0,
+     "winRate": 57.1,
+     "games": 47933,
+     "trophyInclusion": 85.9
+    },
+    {
+     "name": "The Queen of Dale",
+     "inclusion": 7.2,
+     "winRate": 57.0,
+     "games": 4251,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Bard the Bowman",
+     "inclusion": 60.2,
+     "winRate": 56.9,
+     "games": 35492,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Long Lake Nuisance",
+     "inclusion": 79.9,
+     "winRate": 56.8,
+     "games": 47109,
+     "trophyInclusion": 81.8
+    },
+    {
+     "name": "Bilbo Baggins, Burglar",
+     "inclusion": 79.7,
+     "winRate": 56.8,
+     "games": 46834,
+     "trophyInclusion": 81.2
+    },
+    {
+     "name": "Lakeshore Apothecary",
+     "inclusion": 83.0,
+     "winRate": 56.7,
+     "games": 48816,
+     "trophyInclusion": 84.5
+    },
+    {
+     "name": "Lake-town",
+     "inclusion": 70.1,
+     "winRate": 56.7,
+     "games": 41153,
+     "trophyInclusion": 71.0
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 15.0,
+     "winRate": 56.6,
+     "games": 8784,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Elvenking's Halls",
+     "inclusion": 5.5,
+     "winRate": 56.6,
+     "games": 3188,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Iron Hills Blacksmith",
+     "inclusion": 24.4,
+     "winRate": 56.5,
+     "games": 14354,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Eagle's Rescue",
+     "inclusion": 33.0,
+     "winRate": 56.4,
+     "games": 19481,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Magnificent End",
+     "inclusion": 65.3,
+     "winRate": 56.3,
+     "games": 38266,
+     "trophyInclusion": 64.8
+    },
+    {
+     "name": "Uneasy Partings",
+     "inclusion": 62.5,
+     "winRate": 56.3,
+     "games": 36565,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 25.8,
+     "winRate": 56.1,
+     "games": 15060,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Dwarven Provisioner",
+     "inclusion": 45.3,
+     "winRate": 56.0,
+     "games": 26352,
+     "trophyInclusion": 42.6
+    },
+    {
+     "name": "Roads Go Ever, Ever On",
+     "inclusion": 9.8,
+     "winRate": 56.0,
+     "games": 5691,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Bofur, Reliable Guardian",
+     "inclusion": 22.6,
+     "winRate": 55.9,
+     "games": 13208,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Enchanted River's Grasp",
+     "inclusion": 65.2,
+     "winRate": 55.7,
+     "games": 38008,
+     "trophyInclusion": 62.9
+    },
+    {
+     "name": "Esgaroth Garrison",
+     "inclusion": 35.7,
+     "winRate": 55.6,
+     "games": 20713,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Thrór's Map",
+     "inclusion": 17.8,
+     "winRate": 55.4,
+     "games": 10245,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Sound the Trumpets",
+     "inclusion": 19.0,
+     "winRate": 54.8,
+     "games": 10826,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Most Decrepit Old Bird",
+     "inclusion": 8.4,
+     "winRate": 54.6,
+     "games": 4826,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Troop of Ponies",
+     "inclusion": 5.4,
+     "winRate": 54.6,
+     "games": 3115,
+     "trophyInclusion": 4.7
+    },
+    {
+     "name": "Nori, Teller of Tales",
+     "inclusion": 12.8,
+     "winRate": 54.5,
+     "games": 7276,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Elvenking's Harper",
+     "inclusion": 19.8,
+     "winRate": 54.4,
+     "games": 11375,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Moment of Glory",
+     "inclusion": 15.8,
+     "winRate": 54.2,
+     "games": 9092,
+     "trophyInclusion": 12.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-08-24",
+    "main": [
+     [
+      1,
+      "Bard the Bowman"
+     ],
+     [
+      1,
+      "Bilbo Baggins, Burglar"
+     ],
+     [
+      1,
+      "Bilbo, Luckwearer"
+     ],
+     [
+      1,
+      "Celebrate the Mountain-king"
+     ],
+     [
+      1,
+      "Confusticate and Bebother"
+     ],
+     [
+      1,
+      "Eagle of the Great Shelf"
+     ],
+     [
+      1,
+      "Enchanted River's Grasp"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Iron Hills Blacksmith"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Lake-town"
+     ],
+     [
+      1,
+      "Lake-town Toymaker"
+     ],
+     [
+      2,
+      "Lakeshore Apothecary"
+     ],
+     [
+      1,
+      "Long Lake Nuisance"
+     ],
+     [
+      2,
+      "Magnificent End"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      1,
+      "Old Fat Spider Can't See Me"
+     ],
+     [
+      1,
+      "Patient Instructor"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Plunder the Trollshaws"
+     ],
+     [
+      1,
+      "Sound the Trumpets"
+     ],
+     [
+      2,
+      "The Mountain-king's Return"
+     ],
+     [
+      1,
+      "The Queen of Dale"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dwarven Provisioner"
+     ],
+     [
+      2,
+      "Dwarven Shortsword"
+     ],
+     [
+      1,
+      "Elvenking's Halls"
+     ],
+     [
+      1,
+      "Esgaroth Garrison"
+     ],
+     [
+      1,
+      "Gundabad Opportunist"
+     ],
+     [
+      1,
+      "Lake-town"
+     ],
+     [
+      1,
+      "Lake-town Lookout"
+     ],
+     [
+      1,
+      "Nighthowl Pursuer"
+     ],
+     [
+      1,
+      "Part in Friendship"
+     ],
+     [
+      1,
+      "Ravenhill Flock"
+     ],
+     [
+      1,
+      "Thorin's Last Stand"
+     ],
+     [
+      1,
+      "Vow to Erebor"
+     ],
+     [
+      1,
+      "Wargling"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 57277,
+   "wins": 32570,
+   "winRate": 56.86,
+   "share": 17.73,
+   "drafts": 10025,
+   "trophies": 1017,
+   "cards": [
+    {
+     "name": "Gollum, Riddle Master",
+     "inclusion": 5.6,
+     "winRate": 60.5,
+     "games": 3376,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Beorn the Fierce",
+     "inclusion": 9.1,
+     "winRate": 59.7,
+     "games": 5445,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Chief Warg's Company",
+     "inclusion": 21.3,
+     "winRate": 59.5,
+     "games": 12744,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Desolation Prowler",
+     "inclusion": 39.4,
+     "winRate": 58.7,
+     "games": 23123,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Down, Down to Goblin-town",
+     "inclusion": 29.4,
+     "winRate": 58.6,
+     "games": 17267,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Bejeweled Warg",
+     "inclusion": 17.2,
+     "winRate": 58.6,
+     "games": 10076,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Nasty Little Rabbit",
+     "inclusion": 46.5,
+     "winRate": 58.5,
+     "games": 27199,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Mirkwood Pathmaker",
+     "inclusion": 39.3,
+     "winRate": 58.5,
+     "games": 22920,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Rhovanion Rampager",
+     "inclusion": 11.7,
+     "winRate": 58.3,
+     "games": 6798,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Crude Bent Blade",
+     "inclusion": 60.6,
+     "winRate": 58.1,
+     "games": 35255,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Great Ugly-Looking Goblin",
+     "inclusion": 24.6,
+     "winRate": 58.1,
+     "games": 14357,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Tom, Bert, and William",
+     "inclusion": 18.1,
+     "winRate": 57.9,
+     "games": 10509,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Gathering of Darkness",
+     "inclusion": 22.4,
+     "winRate": 57.7,
+     "games": 12917,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Head of the Hunt",
+     "inclusion": 12.9,
+     "winRate": 57.7,
+     "games": 7483,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Ravening Warg",
+     "inclusion": 61.7,
+     "winRate": 57.6,
+     "games": 35618,
+     "trophyInclusion": 65.2
+    },
+    {
+     "name": "Gollum, Silent Slinker",
+     "inclusion": 61.4,
+     "winRate": 57.6,
+     "games": 35593,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 39.7,
+     "winRate": 57.6,
+     "games": 22960,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Nighthowl Pursuer",
+     "inclusion": 37.4,
+     "winRate": 57.6,
+     "games": 21694,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Quarrel",
+     "inclusion": 69.6,
+     "winRate": 57.4,
+     "games": 40069,
+     "trophyInclusion": 71.8
+    },
+    {
+     "name": "Bilbo's Deadly Slice",
+     "inclusion": 59.8,
+     "winRate": 57.3,
+     "games": 34437,
+     "trophyInclusion": 61.7
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 33.6,
+     "winRate": 57.3,
+     "games": 19361,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 18.4,
+     "winRate": 57.2,
+     "games": 10609,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Mirkwood",
+     "inclusion": 63.9,
+     "winRate": 57.1,
+     "games": 36604,
+     "trophyInclusion": 64.6
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 39.5,
+     "winRate": 57.1,
+     "games": 22646,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Duskwatch Hunter",
+     "inclusion": 62.4,
+     "winRate": 57.0,
+     "games": 35887,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Rage into the Valley",
+     "inclusion": 38.6,
+     "winRate": 57.0,
+     "games": 22099,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Gollum the Abandoned",
+     "inclusion": 22.8,
+     "winRate": 57.0,
+     "games": 13052,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "The Sackville-Bagginses",
+     "inclusion": 7.9,
+     "winRate": 56.9,
+     "games": 4509,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "The Master of Lake-town",
+     "inclusion": 7.8,
+     "winRate": 56.9,
+     "games": 4489,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Troll Negotiations",
+     "inclusion": 36.6,
+     "winRate": 56.8,
+     "games": 20991,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 36.2,
+     "winRate": 56.8,
+     "games": 20683,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Dancing from Dark to Dawn",
+     "inclusion": 7.1,
+     "winRate": 56.8,
+     "games": 4073,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Attercop",
+     "inclusion": 64.0,
+     "winRate": 56.7,
+     "games": 36565,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Wargling",
+     "inclusion": 58.8,
+     "winRate": 56.6,
+     "games": 33690,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Stir Up Trouble",
+     "inclusion": 51.1,
+     "winRate": 56.5,
+     "games": 29077,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Dreaded Bat-Cloud",
+     "inclusion": 25.4,
+     "winRate": 56.3,
+     "games": 14427,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Thranduil's Company",
+     "inclusion": 5.4,
+     "winRate": 56.3,
+     "games": 3078,
+     "trophyInclusion": 5.0
+    },
+    {
+     "name": "Ordinary Bear",
+     "inclusion": 44.0,
+     "winRate": 56.2,
+     "games": 25064,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Stony-Voiced Goblins",
+     "inclusion": 35.1,
+     "winRate": 56.2,
+     "games": 19940,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Galion, Elvenking's Butler",
+     "inclusion": 20.1,
+     "winRate": 56.2,
+     "games": 11328,
+     "trophyInclusion": 19.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-13",
+    "main": [
+     [
+      1,
+      "Attercop"
+     ],
+     [
+      1,
+      "Bejeweled Warg"
+     ],
+     [
+      1,
+      "Beorn, Reluctant Host"
+     ],
+     [
+      2,
+      "Bilbo's Deadly Slice"
+     ],
+     [
+      1,
+      "Chief Warg's Company"
+     ],
+     [
+      1,
+      "Crude Bent Blade"
+     ],
+     [
+      1,
+      "Down, Down to Goblin-town"
+     ],
+     [
+      2,
+      "Duskwatch Hunter"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gathering of Darkness"
+     ],
+     [
+      1,
+      "Goblin Plate Mail"
+     ],
+     [
+      1,
+      "Great Ugly-Looking Goblin"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Mirkwood"
+     ],
+     [
+      1,
+      "Nasty Little Rabbit"
+     ],
+     [
+      1,
+      "Nighthowl Pursuer"
+     ],
+     [
+      1,
+      "Quarrel"
+     ],
+     [
+      1,
+      "Rage into the Valley"
+     ],
+     [
+      1,
+      "Ravening Warg"
+     ],
+     [
+      1,
+      "Stir Up Trouble"
+     ],
+     [
+      1,
+      "Stony-Voiced Goblins"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Chief Warg"
+     ],
+     [
+      1,
+      "Thrór's Map"
+     ],
+     [
+      1,
+      "Wargling"
+     ],
+     [
+      1,
+      "Wood Elves"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beorn, Reluctant Host"
+     ],
+     [
+      1,
+      "Confusticate and Bebother"
+     ],
+     [
+      1,
+      "Dori, Bearer of Friends"
+     ],
+     [
+      1,
+      "Giant's Boulder"
+     ],
+     [
+      1,
+      "Gollum the Abandoned"
+     ],
+     [
+      3,
+      "Great Fierce Bee"
+     ],
+     [
+      1,
+      "Long Lake Nuisance"
+     ],
+     [
+      1,
+      "Long-Bodied Grey Dog"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      1,
+      "Old Thrush"
+     ],
+     [
+      1,
+      "Pinecone Strike"
+     ],
+     [
+      1,
+      "Tidings of War"
+     ],
+     [
+      1,
+      "Velvetwing Butterflies"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 52797,
+   "wins": 29822,
+   "winRate": 56.48,
+   "share": 16.34,
+   "drafts": 9306,
+   "trophies": 933,
+   "cards": [
+    {
+     "name": "Fíli the Pathfinder",
+     "inclusion": 20.9,
+     "winRate": 60.2,
+     "games": 11527,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "An Unexpected Party",
+     "inclusion": 17.7,
+     "winRate": 60.2,
+     "games": 9716,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Kíli the Resourceful",
+     "inclusion": 23.3,
+     "winRate": 59.3,
+     "games": 12650,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Smaug the Magnificent",
+     "inclusion": 5.4,
+     "winRate": 58.3,
+     "games": 2989,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "The Mountain-king's Return",
+     "inclusion": 37.6,
+     "winRate": 58.2,
+     "games": 20285,
+     "trophyInclusion": 45.8
+    },
+    {
+     "name": "Bothersome Noisemaker",
+     "inclusion": 25.3,
+     "winRate": 58.2,
+     "games": 13652,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Dáin's Company",
+     "inclusion": 24.7,
+     "winRate": 58.2,
+     "games": 13305,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Dáin Ironfoot",
+     "inclusion": 17.0,
+     "winRate": 58.2,
+     "games": 9185,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 39.2,
+     "winRate": 58.1,
+     "games": 21185,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Dwalin, Weaponmaster",
+     "inclusion": 17.9,
+     "winRate": 58.0,
+     "games": 9662,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Burn, Burn, Tree and Fern",
+     "inclusion": 34.5,
+     "winRate": 57.8,
+     "games": 18522,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Stone by Sunlight",
+     "inclusion": 40.2,
+     "winRate": 57.7,
+     "games": 21570,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 25.3,
+     "winRate": 57.7,
+     "games": 13480,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Roads Go Ever, Ever On",
+     "inclusion": 10.4,
+     "winRate": 57.6,
+     "games": 5551,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Pinecone Strike",
+     "inclusion": 65.5,
+     "winRate": 57.4,
+     "games": 34875,
+     "trophyInclusion": 71.6
+    },
+    {
+     "name": "Gandalf, Spark Starter",
+     "inclusion": 32.5,
+     "winRate": 57.4,
+     "games": 17277,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Iron Hills Blacksmith",
+     "inclusion": 46.8,
+     "winRate": 57.3,
+     "games": 24985,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "The Lonely Mountain",
+     "inclusion": 15.5,
+     "winRate": 57.3,
+     "games": 8257,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 45.0,
+     "winRate": 57.2,
+     "games": 24081,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "The Eagles Are Coming!",
+     "inclusion": 13.1,
+     "winRate": 57.2,
+     "games": 6956,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Thorin, Mountain-king",
+     "inclusion": 8.9,
+     "winRate": 57.2,
+     "games": 4803,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Dwarven Mauler",
+     "inclusion": 42.6,
+     "winRate": 57.1,
+     "games": 22611,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Misty Mountains Raider",
+     "inclusion": 25.9,
+     "winRate": 57.1,
+     "games": 13896,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Dori, Bearer of Friends",
+     "inclusion": 72.0,
+     "winRate": 57.0,
+     "games": 38324,
+     "trophyInclusion": 76.0
+    },
+    {
+     "name": "Thorin Oakenshield",
+     "inclusion": 55.6,
+     "winRate": 57.0,
+     "games": 29540,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Stone-Giant of High Pass",
+     "inclusion": 10.5,
+     "winRate": 56.9,
+     "games": 5509,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Dwarven Mattock",
+     "inclusion": 42.6,
+     "winRate": 56.8,
+     "games": 22568,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Glóin the Mighty",
+     "inclusion": 36.4,
+     "winRate": 56.8,
+     "games": 19403,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Iron Hills",
+     "inclusion": 67.0,
+     "winRate": 56.6,
+     "games": 35394,
+     "trophyInclusion": 68.2
+    },
+    {
+     "name": "The Queen of Dale",
+     "inclusion": 5.2,
+     "winRate": 56.6,
+     "games": 2771,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Bofur, Reliable Guardian",
+     "inclusion": 40.7,
+     "winRate": 56.5,
+     "games": 21378,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 27.3,
+     "winRate": 56.5,
+     "games": 14400,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Óin the Brave",
+     "inclusion": 71.6,
+     "winRate": 56.4,
+     "games": 37721,
+     "trophyInclusion": 71.3
+    },
+    {
+     "name": "Ori, Keeper of Songs",
+     "inclusion": 67.7,
+     "winRate": 56.4,
+     "games": 35627,
+     "trophyInclusion": 65.5
+    },
+    {
+     "name": "Gundabad Opportunist",
+     "inclusion": 33.5,
+     "winRate": 56.4,
+     "games": 17692,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Magnificent End",
+     "inclusion": 62.7,
+     "winRate": 56.1,
+     "games": 32959,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Dwarven Provisioner",
+     "inclusion": 62.3,
+     "winRate": 56.1,
+     "games": 32599,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Bombur, Gentle Dreamer",
+     "inclusion": 41.2,
+     "winRate": 56.1,
+     "games": 21497,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "The Misty Mountains Cold",
+     "inclusion": 9.6,
+     "winRate": 56.1,
+     "games": 5017,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Tidings of War",
+     "inclusion": 16.7,
+     "winRate": 56.0,
+     "games": 8833,
+     "trophyInclusion": 17.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-16",
+    "main": [
+     [
+      1,
+      "An Unexpected Party"
+     ],
+     [
+      1,
+      "Bifur, Melodic Rider"
+     ],
+     [
+      1,
+      "Bombur, Gentle Dreamer"
+     ],
+     [
+      1,
+      "Dori, Bearer of Friends"
+     ],
+     [
+      1,
+      "Dwarven Mauler"
+     ],
+     [
+      1,
+      "Dwarven Provisioner"
+     ],
+     [
+      1,
+      "Dwarven Shortsword"
+     ],
+     [
+      1,
+      "Dáin, Lord of the Iron Hills"
+     ],
+     [
+      1,
+      "Goblin Plate Mail"
+     ],
+     [
+      1,
+      "Gundabad Opportunist"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Iron Hills"
+     ],
+     [
+      1,
+      "Iron Hills Blacksmith"
+     ],
+     [
+      1,
+      "Kíli the Resourceful"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nori, Teller of Tales"
+     ],
+     [
+      1,
+      "Ori, Keeper of Songs"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Ragged Short Spear"
+     ],
+     [
+      2,
+      "Smaug, the Great Calamity"
+     ],
+     [
+      1,
+      "Stone by Sunlight"
+     ],
+     [
+      1,
+      "The Mountain-king's Return"
+     ],
+     [
+      2,
+      "Thorin Oakenshield"
+     ],
+     [
+      1,
+      "Thorin, Mountain-king"
+     ],
+     [
+      1,
+      "Well-Worn Spatula"
+     ],
+     [
+      1,
+      "Óin the Brave"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Boughside Wanderers"
+     ],
+     [
+      1,
+      "Crude Bent Blade"
+     ],
+     [
+      1,
+      "Eagle of the Great Shelf"
+     ],
+     [
+      1,
+      "Eagle's Rescue"
+     ],
+     [
+      1,
+      "Gathering of Darkness"
+     ],
+     [
+      1,
+      "Gollum, Silent Slinker"
+     ],
+     [
+      2,
+      "Patient Instructor"
+     ],
+     [
+      1,
+      "Rage into the Valley"
+     ],
+     [
+      1,
+      "The Notary Hobbits"
+     ],
+     [
+      1,
+      "Tidings of War"
+     ],
+     [
+      1,
+      "Vow to Erebor"
+     ],
+     [
+      1,
+      "Warg Tactics"
+     ],
+     [
+      1,
+      "Óin the Brave"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 22251,
+   "wins": 11679,
+   "winRate": 52.49,
+   "share": 6.89,
+   "drafts": 4171,
+   "trophies": 282,
+   "cards": [
+    {
+     "name": "Beorn the Fierce",
+     "inclusion": 7.3,
+     "winRate": 57.1,
+     "games": 1721,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Dancing from Dark to Dawn",
+     "inclusion": 9.0,
+     "winRate": 56.2,
+     "games": 2140,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Thranduil's Company",
+     "inclusion": 31.7,
+     "winRate": 55.3,
+     "games": 7401,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Mirkwood Pathmaker",
+     "inclusion": 45.1,
+     "winRate": 55.0,
+     "games": 10422,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Bard's Company",
+     "inclusion": 5.2,
+     "winRate": 54.6,
+     "games": 1165,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Great Gilded Boat",
+     "inclusion": 14.0,
+     "winRate": 54.4,
+     "games": 3195,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 53.5,
+     "winRate": 54.1,
+     "games": 12223,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Bejeweled Warg",
+     "inclusion": 12.9,
+     "winRate": 54.1,
+     "games": 2952,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Elven Passage",
+     "inclusion": 12.3,
+     "winRate": 54.1,
+     "games": 2761,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Bilbo, Thief in the Night",
+     "inclusion": 5.8,
+     "winRate": 54.0,
+     "games": 1353,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 48.2,
+     "winRate": 53.6,
+     "games": 10875,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Bilbo, Luckwearer",
+     "inclusion": 39.1,
+     "winRate": 53.6,
+     "games": 8777,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Nasty Little Rabbit",
+     "inclusion": 25.5,
+     "winRate": 53.6,
+     "games": 5757,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Down in the Valley",
+     "inclusion": 19.2,
+     "winRate": 53.6,
+     "games": 4319,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Lake-town",
+     "inclusion": 12.9,
+     "winRate": 53.5,
+     "games": 2900,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Old Thrush",
+     "inclusion": 10.2,
+     "winRate": 53.2,
+     "games": 2297,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Quarrel",
+     "inclusion": 70.8,
+     "winRate": 53.1,
+     "games": 15950,
+     "trophyInclusion": 73.4
+    },
+    {
+     "name": "Attercop",
+     "inclusion": 59.0,
+     "winRate": 53.1,
+     "games": 13282,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 20.6,
+     "winRate": 53.1,
+     "games": 4677,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Elvenking's Halls",
+     "inclusion": 71.1,
+     "winRate": 52.9,
+     "games": 15914,
+     "trophyInclusion": 75.2
+    },
+    {
+     "name": "Bilbo Baggins, Burglar",
+     "inclusion": 63.2,
+     "winRate": 52.8,
+     "games": 14156,
+     "trophyInclusion": 67.0
+    },
+    {
+     "name": "Uneasy Partings",
+     "inclusion": 58.9,
+     "winRate": 52.8,
+     "games": 13210,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Plunder the Trollshaws",
+     "inclusion": 53.2,
+     "winRate": 52.8,
+     "games": 11907,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Troop of Ponies",
+     "inclusion": 16.4,
+     "winRate": 52.8,
+     "games": 3666,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Boughside Wanderers",
+     "inclusion": 49.2,
+     "winRate": 52.7,
+     "games": 10978,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Silvan Reveler",
+     "inclusion": 58.0,
+     "winRate": 52.6,
+     "games": 12894,
+     "trophyInclusion": 62.1
+    },
+    {
+     "name": "Woodland Weavemaster",
+     "inclusion": 42.1,
+     "winRate": 52.6,
+     "games": 9446,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Beorn's Hospitality",
+     "inclusion": 31.1,
+     "winRate": 52.6,
+     "games": 6960,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Guardian of the Halls",
+     "inclusion": 56.1,
+     "winRate": 52.5,
+     "games": 12534,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 26.5,
+     "winRate": 52.5,
+     "games": 5922,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Lake-town Mariners",
+     "inclusion": 14.8,
+     "winRate": 52.5,
+     "games": 3312,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Wood Elves",
+     "inclusion": 58.8,
+     "winRate": 52.4,
+     "games": 13146,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Warg Tactics",
+     "inclusion": 30.1,
+     "winRate": 52.4,
+     "games": 6715,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "The Notary Hobbits",
+     "inclusion": 5.1,
+     "winRate": 52.4,
+     "games": 1139,
+     "trophyInclusion": 3.2
+    },
+    {
+     "name": "Enchanted River's Grasp",
+     "inclusion": 67.4,
+     "winRate": 52.2,
+     "games": 14941,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Long Lake Nuisance",
+     "inclusion": 34.5,
+     "winRate": 52.2,
+     "games": 7669,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Cantankerous Keepers",
+     "inclusion": 16.0,
+     "winRate": 52.2,
+     "games": 3596,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Troll Negotiations",
+     "inclusion": 37.9,
+     "winRate": 52.0,
+     "games": 8418,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Galion, Elvenking's Butler",
+     "inclusion": 26.1,
+     "winRate": 52.0,
+     "games": 5766,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 59.9,
+     "winRate": 51.7,
+     "games": 13129,
+     "trophyInclusion": 55.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-13",
+    "main": [
+     [
+      2,
+      "Attercop"
+     ],
+     [
+      1,
+      "Bilbo Baggins, Burglar"
+     ],
+     [
+      1,
+      "Bilbo, Luckwearer"
+     ],
+     [
+      2,
+      "Elvenking's Halls"
+     ],
+     [
+      1,
+      "Elvenking's Harper"
+     ],
+     [
+      1,
+      "Enchanted River's Grasp"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gandalf, Wandering Wizard"
+     ],
+     [
+      1,
+      "Guardian of the Halls"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Lake-town Mariners"
+     ],
+     [
+      1,
+      "Mirkwood Meditator"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      1,
+      "Old Fat Spider"
+     ],
+     [
+      1,
+      "Plunder the Trollshaws"
+     ],
+     [
+      1,
+      "Quarrel"
+     ],
+     [
+      1,
+      "Roll-Roll-Roll-Roll"
+     ],
+     [
+      2,
+      "Silvan Reveler"
+     ],
+     [
+      1,
+      "Thranduil's Company"
+     ],
+     [
+      1,
+      "Thranduil, Sindarin Liege"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      1,
+      "Wizard's Staff"
+     ],
+     [
+      1,
+      "Wood Elves"
+     ],
+     [
+      1,
+      "Woodland Weavemaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Confusticate and Bebother"
+     ],
+     [
+      1,
+      "Dwarven Shortsword"
+     ],
+     [
+      2,
+      "Elvenking's Halls"
+     ],
+     [
+      1,
+      "Elvenking's Harper"
+     ],
+     [
+      1,
+      "Giant's Boulder"
+     ],
+     [
+      1,
+      "Lake-town"
+     ],
+     [
+      1,
+      "Lake-town Mariners"
+     ],
+     [
+      1,
+      "Mirkwood"
+     ],
+     [
+      1,
+      "Mirkwood Meditator"
+     ],
+     [
+      1,
+      "Old Thrush"
+     ],
+     [
+      1,
+      "The Arkenstone"
+     ],
+     [
+      1,
+      "Tidings of War"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      1,
+      "Warg Tactics"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 12745,
+   "wins": 6779,
+   "winRate": 53.19,
+   "share": 3.94,
+   "drafts": 2358,
+   "trophies": 157,
+   "cards": [
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 5.1,
+     "winRate": 56.0,
+     "games": 687,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Rhovanion Rampager",
+     "inclusion": 11.7,
+     "winRate": 55.3,
+     "games": 1543,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Great Gilded Boat",
+     "inclusion": 19.6,
+     "winRate": 54.8,
+     "games": 2567,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Great Ugly-Looking Goblin",
+     "inclusion": 19.6,
+     "winRate": 54.6,
+     "games": 2568,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 49.0,
+     "winRate": 54.5,
+     "games": 6363,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Down, Down to Goblin-town",
+     "inclusion": 36.0,
+     "winRate": 54.5,
+     "games": 4715,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 13.9,
+     "winRate": 54.5,
+     "games": 1816,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Gollum, Silent Slinker",
+     "inclusion": 57.3,
+     "winRate": 54.4,
+     "games": 7378,
+     "trophyInclusion": 63.7
+    },
+    {
+     "name": "Stir Up Trouble",
+     "inclusion": 55.5,
+     "winRate": 54.2,
+     "games": 7179,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "Head of the Hunt",
+     "inclusion": 13.1,
+     "winRate": 54.2,
+     "games": 1674,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 16.1,
+     "winRate": 54.1,
+     "games": 2099,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Bilbo, Thief in the Night",
+     "inclusion": 7.5,
+     "winRate": 54.1,
+     "games": 986,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 58.8,
+     "winRate": 53.9,
+     "games": 7546,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Bilbo, Luckwearer",
+     "inclusion": 50.1,
+     "winRate": 53.9,
+     "games": 6459,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Desolation Prowler",
+     "inclusion": 36.8,
+     "winRate": 53.9,
+     "games": 4730,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Plunder the Trollshaws",
+     "inclusion": 76.0,
+     "winRate": 53.8,
+     "games": 9794,
+     "trophyInclusion": 80.9
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 34.7,
+     "winRate": 53.7,
+     "games": 4450,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Thrór's Map",
+     "inclusion": 16.4,
+     "winRate": 53.6,
+     "games": 2100,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Gollum, Riddle Master",
+     "inclusion": 7.1,
+     "winRate": 53.6,
+     "games": 928,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Crude Bent Blade",
+     "inclusion": 67.3,
+     "winRate": 53.5,
+     "games": 8639,
+     "trophyInclusion": 65.0
+    },
+    {
+     "name": "Rage into the Valley",
+     "inclusion": 49.3,
+     "winRate": 53.5,
+     "games": 6348,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Ravening Warg",
+     "inclusion": 46.7,
+     "winRate": 53.5,
+     "games": 5936,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Bilbo Baggins, Burglar",
+     "inclusion": 78.4,
+     "winRate": 53.4,
+     "games": 10048,
+     "trophyInclusion": 83.4
+    },
+    {
+     "name": "Long Lake Nuisance",
+     "inclusion": 76.5,
+     "winRate": 53.4,
+     "games": 9778,
+     "trophyInclusion": 75.2
+    },
+    {
+     "name": "Bilbo's Deadly Slice",
+     "inclusion": 56.4,
+     "winRate": 53.3,
+     "games": 7222,
+     "trophyInclusion": 63.7
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 40.9,
+     "winRate": 53.3,
+     "games": 5212,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Front Porch Sentries",
+     "inclusion": 27.9,
+     "winRate": 53.2,
+     "games": 3610,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Lake-town",
+     "inclusion": 15.5,
+     "winRate": 53.2,
+     "games": 1993,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Uneasy Partings",
+     "inclusion": 56.1,
+     "winRate": 53.0,
+     "games": 7164,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Stony-Voiced Goblins",
+     "inclusion": 48.7,
+     "winRate": 53.0,
+     "games": 6170,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Gnashing of Teeth",
+     "inclusion": 24.1,
+     "winRate": 53.0,
+     "games": 3091,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Master's Councillors",
+     "inclusion": 45.3,
+     "winRate": 52.9,
+     "games": 5701,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Gollum the Abandoned",
+     "inclusion": 21.2,
+     "winRate": 52.9,
+     "games": 2677,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Nighthowl Pursuer",
+     "inclusion": 17.7,
+     "winRate": 52.9,
+     "games": 2242,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Bard's Company",
+     "inclusion": 7.0,
+     "winRate": 52.9,
+     "games": 896,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Sound the Trumpets",
+     "inclusion": 12.5,
+     "winRate": 52.6,
+     "games": 1577,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Lakeshore Apothecary",
+     "inclusion": 70.9,
+     "winRate": 52.5,
+     "games": 8976,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Gathering of Darkness",
+     "inclusion": 14.2,
+     "winRate": 52.5,
+     "games": 1822,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "The Sackville-Bagginses",
+     "inclusion": 10.6,
+     "winRate": 52.4,
+     "games": 1345,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "The Master of Lake-town",
+     "inclusion": 8.2,
+     "winRate": 52.3,
+     "games": 1008,
+     "trophyInclusion": 9.6
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-08-22",
+    "main": [
+     [
+      1,
+      "Bilbo Baggins, Burglar"
+     ],
+     [
+      1,
+      "Bilbo's Deadly Slice"
+     ],
+     [
+      1,
+      "Bilbo, Luckwearer"
+     ],
+     [
+      1,
+      "Chief Warg's Company"
+     ],
+     [
+      1,
+      "Crude Bent Blade"
+     ],
+     [
+      1,
+      "Desolation Prowler"
+     ],
+     [
+      1,
+      "Down, Down to Goblin-town"
+     ],
+     [
+      1,
+      "Enchanted River's Grasp"
+     ],
+     [
+      2,
+      "Forest"
+     ],
+     [
+      1,
+      "Gathering of Darkness"
+     ],
+     [
+      1,
+      "Gollum, Silent Slinker"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Lakeshore Apothecary"
+     ],
+     [
+      1,
+      "Large Bear"
+     ],
+     [
+      1,
+      "Long Lake Nuisance"
+     ],
+     [
+      2,
+      "Mirkwood Nurturer"
+     ],
+     [
+      2,
+      "Patient Instructor"
+     ],
+     [
+      1,
+      "Plunder the Trollshaws"
+     ],
+     [
+      1,
+      "Stir Up Trouble"
+     ],
+     [
+      2,
+      "Stony-Voiced Goblins"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thranduil's Decree"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Belladonna Took"
+     ],
+     [
+      2,
+      "Duskwatch Hunter"
+     ],
+     [
+      1,
+      "Eagle's Rescue"
+     ],
+     [
+      1,
+      "Front Porch Sentries"
+     ],
+     [
+      1,
+      "Gandalf, Wandering Wizard"
+     ],
+     [
+      2,
+      "Iron Hills Blacksmith"
+     ],
+     [
+      1,
+      "Magnificent End"
+     ],
+     [
+      1,
+      "Nighthowl Pursuer"
+     ],
+     [
+      1,
+      "Patient Instructor"
+     ],
+     [
+      1,
+      "Rage into the Valley"
+     ],
+     [
+      1,
+      "Ravening Warg"
+     ],
+     [
+      1,
+      "Reverent Howl"
+     ],
+     [
+      1,
+      "The Eagles Are Coming!"
+     ],
+     [
+      1,
+      "Thorin, Mountain-king"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 4886,
+   "wins": 2695,
+   "winRate": 55.16,
+   "share": 1.51,
+   "drafts": 896,
+   "trophies": 92,
+   "cards": [
+    {
+     "name": "The Mountain-king's Return",
+     "inclusion": 6.1,
+     "winRate": 61.4,
+     "games": 329,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Elvenking's Halls",
+     "inclusion": 5.0,
+     "winRate": 60.8,
+     "games": 273,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Great Gilded Boat",
+     "inclusion": 18.5,
+     "winRate": 59.7,
+     "games": 957,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Misty Mountains Raider",
+     "inclusion": 30.1,
+     "winRate": 59.1,
+     "games": 1554,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Sound the Trumpets",
+     "inclusion": 16.9,
+     "winRate": 57.9,
+     "games": 869,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 15.1,
+     "winRate": 57.8,
+     "games": 784,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Glóin the Mighty",
+     "inclusion": 27.8,
+     "winRate": 57.7,
+     "games": 1384,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Stone by Sunlight",
+     "inclusion": 5.9,
+     "winRate": 57.4,
+     "games": 312,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Bothersome Noisemaker",
+     "inclusion": 45.8,
+     "winRate": 57.3,
+     "games": 2319,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Bard's Company",
+     "inclusion": 7.9,
+     "winRate": 57.1,
+     "games": 422,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Pinecone Strike",
+     "inclusion": 74.0,
+     "winRate": 57.0,
+     "games": 3699,
+     "trophyInclusion": 82.6
+    },
+    {
+     "name": "Stone-Giant of High Pass",
+     "inclusion": 12.3,
+     "winRate": 57.0,
+     "games": 633,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Desolation of Smaug",
+     "inclusion": 6.1,
+     "winRate": 57.0,
+     "games": 302,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Master's Councillors",
+     "inclusion": 43.4,
+     "winRate": 56.7,
+     "games": 2180,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Bilbo, Thief in the Night",
+     "inclusion": 7.1,
+     "winRate": 56.2,
+     "games": 349,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Plunder the Trollshaws",
+     "inclusion": 76.5,
+     "winRate": 56.0,
+     "games": 3788,
+     "trophyInclusion": 78.3
+    },
+    {
+     "name": "Burn, Burn, Tree and Fern",
+     "inclusion": 41.7,
+     "winRate": 56.0,
+     "games": 2057,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 65.1,
+     "winRate": 55.9,
+     "games": 3217,
+     "trophyInclusion": 75.0
+    },
+    {
+     "name": "Bilbo, Luckwearer",
+     "inclusion": 47.9,
+     "winRate": 55.9,
+     "games": 2352,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Óin the Brave",
+     "inclusion": 50.8,
+     "winRate": 55.8,
+     "games": 2473,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Old Thrush",
+     "inclusion": 13.7,
+     "winRate": 55.7,
+     "games": 671,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Smaug, the Great Calamity",
+     "inclusion": 54.6,
+     "winRate": 55.5,
+     "games": 2707,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Gandalf, Spark Starter",
+     "inclusion": 42.9,
+     "winRate": 55.5,
+     "games": 2095,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Dáin Ironfoot",
+     "inclusion": 10.9,
+     "winRate": 55.5,
+     "games": 539,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Long Lake Nuisance",
+     "inclusion": 70.0,
+     "winRate": 55.4,
+     "games": 3442,
+     "trophyInclusion": 69.6
+    },
+    {
+     "name": "Uneasy Partings",
+     "inclusion": 62.1,
+     "winRate": 55.3,
+     "games": 3044,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 48.4,
+     "winRate": 55.3,
+     "games": 2395,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Tidings of War",
+     "inclusion": 34.0,
+     "winRate": 55.1,
+     "games": 1656,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Lake-town",
+     "inclusion": 28.7,
+     "winRate": 54.9,
+     "games": 1409,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 11.7,
+     "winRate": 54.8,
+     "games": 584,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Bilbo Baggins, Burglar",
+     "inclusion": 79.9,
+     "winRate": 54.7,
+     "games": 3870,
+     "trophyInclusion": 81.5
+    },
+    {
+     "name": "Lakeshore Apothecary",
+     "inclusion": 72.5,
+     "winRate": 54.7,
+     "games": 3532,
+     "trophyInclusion": 70.7
+    },
+    {
+     "name": "Enchanted River's Grasp",
+     "inclusion": 59.6,
+     "winRate": 54.7,
+     "games": 2889,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Dori, Bearer of Friends",
+     "inclusion": 51.2,
+     "winRate": 54.7,
+     "games": 2501,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "The Misty Mountains Cold",
+     "inclusion": 9.5,
+     "winRate": 54.6,
+     "games": 449,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Smaug the Magnificent",
+     "inclusion": 8.9,
+     "winRate": 54.5,
+     "games": 440,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Bard the Bowman",
+     "inclusion": 12.1,
+     "winRate": 54.1,
+     "games": 575,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Most Decrepit Old Bird",
+     "inclusion": 9.2,
+     "winRate": 53.9,
+     "games": 447,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Eagle's Rescue",
+     "inclusion": 13.4,
+     "winRate": 53.8,
+     "games": 640,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 35.7,
+     "winRate": 53.6,
+     "games": 1699,
+     "trophyInclusion": 27.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-16",
+    "main": [
+     [
+      2,
+      "Bard the Bowman"
+     ],
+     [
+      1,
+      "Bard's Company"
+     ],
+     [
+      2,
+      "Bilbo Baggins, Burglar"
+     ],
+     [
+      1,
+      "Bothersome Noisemaker"
+     ],
+     [
+      1,
+      "Dori, Bearer of Friends"
+     ],
+     [
+      1,
+      "Enchanted River's Grasp"
+     ],
+     [
+      1,
+      "Great Gilded Boat"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Iron Hills"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Lake-town"
+     ],
+     [
+      2,
+      "Lakeshore Apothecary"
+     ],
+     [
+      1,
+      "Long Lake Nuisance"
+     ],
+     [
+      1,
+      "Master's Councillors"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Patient Instructor"
+     ],
+     [
+      2,
+      "Pinecone Strike"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      2,
+      "Plunder the Trollshaws"
+     ],
+     [
+      1,
+      "Smaug, the Great Calamity"
+     ],
+     [
+      1,
+      "The Lonely Mountain"
+     ],
+     [
+      1,
+      "Thrór's Map"
+     ],
+     [
+      1,
+      "Tidings of War"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      1,
+      "Óin the Brave"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dwarven Mauler"
+     ],
+     [
+      1,
+      "Esgaroth Garrison"
+     ],
+     [
+      1,
+      "Giant's Boulder"
+     ],
+     [
+      1,
+      "Gollum, Riddle Master"
+     ],
+     [
+      1,
+      "Gundabad Opportunist"
+     ],
+     [
+      1,
+      "Long-Bodied Grey Dog"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      1,
+      "Moment of Glory"
+     ],
+     [
+      1,
+      "Ragged Short Spear"
+     ],
+     [
+      1,
+      "Smaug's Fury"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      1,
+      "Well-Worn Spatula"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 4805,
+   "wins": 2727,
+   "winRate": 56.75,
+   "share": 1.49,
+   "drafts": 844,
+   "trophies": 92,
+   "cards": [
+    {
+     "name": "The Arkenstone",
+     "inclusion": 5.3,
+     "winRate": 62.7,
+     "games": 255,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Rhovanion Rampager",
+     "inclusion": 12.9,
+     "winRate": 61.3,
+     "games": 657,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "An Unexpected Party",
+     "inclusion": 22.5,
+     "winRate": 59.3,
+     "games": 1138,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 48.1,
+     "winRate": 58.7,
+     "games": 2371,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Down, Down to Goblin-town",
+     "inclusion": 39.5,
+     "winRate": 58.7,
+     "games": 1959,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Gnashing of Teeth",
+     "inclusion": 24.2,
+     "winRate": 58.7,
+     "games": 1190,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Fíli the Pathfinder",
+     "inclusion": 17.7,
+     "winRate": 58.6,
+     "games": 860,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "The Sackville-Bagginses",
+     "inclusion": 12.2,
+     "winRate": 58.3,
+     "games": 606,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 49.6,
+     "winRate": 58.2,
+     "games": 2449,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 44.1,
+     "winRate": 58.0,
+     "games": 2152,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Iron Hills Blacksmith",
+     "inclusion": 38.6,
+     "winRate": 58.0,
+     "games": 1901,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Gollum the Abandoned",
+     "inclusion": 33.8,
+     "winRate": 58.0,
+     "games": 1622,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Velvetwing Butterflies",
+     "inclusion": 24.3,
+     "winRate": 57.8,
+     "games": 1162,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Head of the Hunt",
+     "inclusion": 12.9,
+     "winRate": 57.7,
+     "games": 624,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Desolation Prowler",
+     "inclusion": 39.5,
+     "winRate": 57.6,
+     "games": 1900,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Gollum, Silent Slinker",
+     "inclusion": 71.8,
+     "winRate": 57.5,
+     "games": 3452,
+     "trophyInclusion": 73.9
+    },
+    {
+     "name": "Crude Bent Blade",
+     "inclusion": 72.5,
+     "winRate": 57.4,
+     "games": 3543,
+     "trophyInclusion": 71.7
+    },
+    {
+     "name": "Great Ugly-Looking Goblin",
+     "inclusion": 24.3,
+     "winRate": 57.4,
+     "games": 1157,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Dwalin, Weaponmaster",
+     "inclusion": 9.2,
+     "winRate": 57.4,
+     "games": 446,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Dwarven Provisioner",
+     "inclusion": 56.0,
+     "winRate": 57.3,
+     "games": 2707,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Stir Up Trouble",
+     "inclusion": 55.1,
+     "winRate": 57.3,
+     "games": 2684,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Rage into the Valley",
+     "inclusion": 53.9,
+     "winRate": 57.3,
+     "games": 2650,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "The Eagles Are Coming!",
+     "inclusion": 17.3,
+     "winRate": 57.2,
+     "games": 835,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Gathering of Darkness",
+     "inclusion": 19.7,
+     "winRate": 57.1,
+     "games": 935,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 19.2,
+     "winRate": 57.1,
+     "games": 937,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "The Master of Lake-town",
+     "inclusion": 6.5,
+     "winRate": 57.1,
+     "games": 310,
+     "trophyInclusion": 4.3
+    },
+    {
+     "name": "Kíli the Resourceful",
+     "inclusion": 15.8,
+     "winRate": 57.0,
+     "games": 759,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Magnificent End",
+     "inclusion": 57.3,
+     "winRate": 56.8,
+     "games": 2744,
+     "trophyInclusion": 60.9
+    },
+    {
+     "name": "Stone by Sunlight",
+     "inclusion": 40.6,
+     "winRate": 56.8,
+     "games": 1930,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Front Porch Sentries",
+     "inclusion": 43.1,
+     "winRate": 56.7,
+     "games": 2060,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Dreaded Bat-Cloud",
+     "inclusion": 24.2,
+     "winRate": 56.6,
+     "games": 1165,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Stony-Voiced Goblins",
+     "inclusion": 51.5,
+     "winRate": 56.4,
+     "games": 2447,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "The Mountain-king's Return",
+     "inclusion": 41.8,
+     "winRate": 56.4,
+     "games": 2002,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Duskwatch Hunter",
+     "inclusion": 35.9,
+     "winRate": 56.4,
+     "games": 1739,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Goblin-town",
+     "inclusion": 8.1,
+     "winRate": 56.4,
+     "games": 385,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Bilbo's Deadly Slice",
+     "inclusion": 52.4,
+     "winRate": 56.3,
+     "games": 2503,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Dáin, Lord of the Iron Hills",
+     "inclusion": 24.2,
+     "winRate": 56.3,
+     "games": 1116,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 55.9,
+     "winRate": 56.2,
+     "games": 2671,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Ravening Warg",
+     "inclusion": 58.2,
+     "winRate": 56.1,
+     "games": 2740,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Esgaroth Garrison",
+     "inclusion": 23.8,
+     "winRate": 56.1,
+     "games": 1135,
+     "trophyInclusion": 25.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-08-15",
+    "main": [
+     [
+      1,
+      "Bilbo's Deadly Slice"
+     ],
+     [
+      1,
+      "Celebrate the Mountain-king"
+     ],
+     [
+      1,
+      "Crude Bent Blade"
+     ],
+     [
+      1,
+      "Down, Down to Goblin-town"
+     ],
+     [
+      1,
+      "Duskwatch Hunter"
+     ],
+     [
+      1,
+      "Dwalin, Weaponmaster"
+     ],
+     [
+      1,
+      "Dwarven Provisioner"
+     ],
+     [
+      2,
+      "Dwarven Shortsword"
+     ],
+     [
+      2,
+      "Goblin Plate Mail"
+     ],
+     [
+      1,
+      "Gollum, Silent Slinker"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Iron Hills Blacksmith"
+     ],
+     [
+      1,
+      "Kíli the Resourceful"
+     ],
+     [
+      1,
+      "Nori, Teller of Tales"
+     ],
+     [
+      1,
+      "Ori, Keeper of Songs"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Rage into the Valley"
+     ],
+     [
+      1,
+      "Ravening Warg"
+     ],
+     [
+      2,
+      "Stir Up Trouble"
+     ],
+     [
+      1,
+      "Stone by Sunlight"
+     ],
+     [
+      2,
+      "Stony-Voiced Goblins"
+     ],
+     [
+      8,
+      "Swamp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dori, Bearer of Friends"
+     ],
+     [
+      1,
+      "Front Porch Sentries"
+     ],
+     [
+      1,
+      "Giant's Boulder"
+     ],
+     [
+      1,
+      "Glóin the Mighty"
+     ],
+     [
+      1,
+      "Goblin-town Flunkies"
+     ],
+     [
+      2,
+      "Great Fierce Bee"
+     ],
+     [
+      1,
+      "Great Gilded Boat"
+     ],
+     [
+      1,
+      "Long-Bodied Grey Dog"
+     ],
+     [
+      1,
+      "Nasty Little Rabbit"
+     ],
+     [
+      1,
+      "Ordinary Bear"
+     ],
+     [
+      1,
+      "Reverent Howl"
+     ],
+     [
+      1,
+      "Smaug, the Great Calamity"
+     ],
+     [
+      1,
+      "Stir Up Trouble"
+     ],
+     [
+      1,
+      "The Black Arrow"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      1,
+      "Warg Tactics"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 2822,
+   "wins": 1541,
+   "winRate": 54.61,
+   "share": 0.87,
+   "drafts": 508,
+   "trophies": 35,
+   "cards": [
+    {
+     "name": "Stone-Giant of High Pass",
+     "inclusion": 22.8,
+     "winRate": 57.8,
+     "games": 685,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Radagast of Rhosgobel",
+     "inclusion": 11.4,
+     "winRate": 57.8,
+     "games": 325,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Smaug the Magnificent",
+     "inclusion": 9.6,
+     "winRate": 57.8,
+     "games": 282,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Galion, Elvenking's Butler",
+     "inclusion": 18.9,
+     "winRate": 57.7,
+     "games": 556,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Well-Worn Spatula",
+     "inclusion": 9.3,
+     "winRate": 57.6,
+     "games": 257,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Tom, Bert, and William",
+     "inclusion": 6.1,
+     "winRate": 57.6,
+     "games": 177,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Down in the Valley",
+     "inclusion": 10.4,
+     "winRate": 57.5,
+     "games": 308,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Mirkwood Pathmaker",
+     "inclusion": 44.3,
+     "winRate": 57.3,
+     "games": 1280,
+     "trophyInclusion": 62.9
+    },
+    {
+     "name": "Iron Hills",
+     "inclusion": 6.1,
+     "winRate": 57.2,
+     "games": 173,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Dancing from Dark to Dawn",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 251,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "The Misty Mountains Cold",
+     "inclusion": 13.4,
+     "winRate": 56.9,
+     "games": 369,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Dwarven Mauler",
+     "inclusion": 12.6,
+     "winRate": 56.9,
+     "games": 369,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 21.7,
+     "winRate": 56.8,
+     "games": 648,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Beorn the Fierce",
+     "inclusion": 11.8,
+     "winRate": 56.7,
+     "games": 337,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Glóin the Mighty",
+     "inclusion": 30.1,
+     "winRate": 56.5,
+     "games": 890,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Mirkwood",
+     "inclusion": 15.2,
+     "winRate": 56.5,
+     "games": 441,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Gandalf, Goblins' Bane",
+     "inclusion": 6.1,
+     "winRate": 56.5,
+     "games": 177,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Misty Mountains Raider",
+     "inclusion": 36.0,
+     "winRate": 56.4,
+     "games": 1023,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Goblin Plate Mail",
+     "inclusion": 34.8,
+     "winRate": 56.3,
+     "games": 994,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "The Lonely Mountain",
+     "inclusion": 9.1,
+     "winRate": 55.9,
+     "games": 247,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 40.4,
+     "winRate": 55.8,
+     "games": 1150,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Burn, Burn, Tree and Fern",
+     "inclusion": 42.7,
+     "winRate": 55.7,
+     "games": 1222,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Bejeweled Warg",
+     "inclusion": 17.5,
+     "winRate": 55.6,
+     "games": 498,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Attercop",
+     "inclusion": 69.5,
+     "winRate": 55.5,
+     "games": 1994,
+     "trophyInclusion": 68.6
+    },
+    {
+     "name": "Duskwatch Hunter",
+     "inclusion": 33.9,
+     "winRate": 55.4,
+     "games": 960,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Quarrel",
+     "inclusion": 70.7,
+     "winRate": 55.3,
+     "games": 1996,
+     "trophyInclusion": 77.1
+    },
+    {
+     "name": "Beorn's Hospitality",
+     "inclusion": 30.7,
+     "winRate": 55.3,
+     "games": 882,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Dori, Bearer of Friends",
+     "inclusion": 55.9,
+     "winRate": 55.0,
+     "games": 1599,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Gandalf, Spark Starter",
+     "inclusion": 45.3,
+     "winRate": 55.0,
+     "games": 1297,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Desolation of Smaug",
+     "inclusion": 11.6,
+     "winRate": 55.0,
+     "games": 342,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Bothersome Noisemaker",
+     "inclusion": 26.8,
+     "winRate": 54.9,
+     "games": 759,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Desert Were-Worm",
+     "inclusion": 7.7,
+     "winRate": 54.9,
+     "games": 224,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Pinecone Strike",
+     "inclusion": 65.6,
+     "winRate": 54.8,
+     "games": 1848,
+     "trophyInclusion": 68.6
+    },
+    {
+     "name": "Large Bear",
+     "inclusion": 22.2,
+     "winRate": 54.8,
+     "games": 622,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Troop of Ponies",
+     "inclusion": 19.9,
+     "winRate": 54.8,
+     "games": 564,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Smaug, the Great Calamity",
+     "inclusion": 56.1,
+     "winRate": 54.7,
+     "games": 1594,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Warg Tactics",
+     "inclusion": 39.4,
+     "winRate": 54.7,
+     "games": 1092,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Old Thrush",
+     "inclusion": 15.7,
+     "winRate": 54.7,
+     "games": 433,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Giant's Boulder",
+     "inclusion": 13.4,
+     "winRate": 54.7,
+     "games": 369,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 46.7,
+     "winRate": 54.6,
+     "games": 1308,
+     "trophyInclusion": 54.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-08-28",
+    "main": [
+     [
+      1,
+      "Attercop"
+     ],
+     [
+      1,
+      "Bothersome Noisemaker"
+     ],
+     [
+      1,
+      "Burn, Burn, Tree and Fern"
+     ],
+     [
+      1,
+      "Duskwatch Hunter"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Glóin the Mighty"
+     ],
+     [
+      1,
+      "Goblin Plate Mail"
+     ],
+     [
+      1,
+      "Guardian of the Halls"
+     ],
+     [
+      1,
+      "Gundabad Opportunist"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Large Bear"
+     ],
+     [
+      1,
+      "Mirkwood Nurturer"
+     ],
+     [
+      3,
+      "Mirkwood Pathmaker"
+     ],
+     [
+      1,
+      "Misty Mountains Raider"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nasty Little Rabbit"
+     ],
+     [
+      2,
+      "Pinecone Strike"
+     ],
+     [
+      2,
+      "Quarrel"
+     ],
+     [
+      1,
+      "The Lonely Mountain"
+     ],
+     [
+      2,
+      "Thranduil, Sindarin Liege"
+     ],
+     [
+      1,
+      "Warg Tactics"
+     ],
+     [
+      1,
+      "Wargling"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Boughside Wanderers"
+     ],
+     [
+      1,
+      "Dwarven Mauler"
+     ],
+     [
+      1,
+      "Galion, Elvenking's Butler"
+     ],
+     [
+      1,
+      "Magnificent End"
+     ],
+     [
+      1,
+      "Most Decrepit Old Bird"
+     ],
+     [
+      1,
+      "Ori, Keeper of Songs"
+     ],
+     [
+      1,
+      "Plunder the Trollshaws"
+     ],
+     [
+      1,
+      "Quarrel"
+     ],
+     [
+      1,
+      "Smaug's Fury"
+     ],
+     [
+      1,
+      "Smaug, the Great Calamity"
+     ],
+     [
+      1,
+      "Uneasy Partings"
+     ],
+     [
+      4,
+      "Wood Elves"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 1323,
+   "wins": 658,
+   "winRate": 49.74,
+   "share": 0.41,
+   "drafts": 252,
+   "trophies": 12,
+   "cards": [
+    {
+     "name": "Thranduil, Sindarin Liege",
+     "inclusion": 21.8,
+     "winRate": 56.7,
+     "games": 307,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Elven Passage",
+     "inclusion": 9.1,
+     "winRate": 55.2,
+     "games": 125,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Troll Negotiations",
+     "inclusion": 37.7,
+     "winRate": 54.8,
+     "games": 531,
+     "trophyInclusion": 83.3
+    },
+    {
+     "name": "Beorn the Fierce",
+     "inclusion": 10.7,
+     "winRate": 54.7,
+     "games": 148,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Hobbit Hole",
+     "inclusion": 46.4,
+     "winRate": 53.7,
+     "games": 646,
+     "trophyInclusion": 83.3
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "inclusion": 43.7,
+     "winRate": 53.5,
+     "games": 600,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Bejeweled Warg",
+     "inclusion": 19.8,
+     "winRate": 53.3,
+     "games": 270,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Part in Friendship",
+     "inclusion": 9.1,
+     "winRate": 53.3,
+     "games": 120,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Galion, Elvenking's Butler",
+     "inclusion": 28.2,
+     "winRate": 52.9,
+     "games": 378,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Old Thrush",
+     "inclusion": 14.7,
+     "winRate": 52.6,
+     "games": 209,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Long-Bodied Grey Dog",
+     "inclusion": 15.5,
+     "winRate": 52.5,
+     "games": 204,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Radagast of Rhosgobel",
+     "inclusion": 11.9,
+     "winRate": 52.3,
+     "games": 172,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Mirkwood Pathmaker",
+     "inclusion": 41.3,
+     "winRate": 52.0,
+     "games": 562,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Elvenking's Halls",
+     "inclusion": 17.5,
+     "winRate": 51.9,
+     "games": 243,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Down in the Valley",
+     "inclusion": 16.7,
+     "winRate": 51.8,
+     "games": 224,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Mirkwood Nurturer",
+     "inclusion": 43.3,
+     "winRate": 51.7,
+     "games": 573,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Lake-town",
+     "inclusion": 12.7,
+     "winRate": 51.7,
+     "games": 174,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Magnificent End",
+     "inclusion": 73.0,
+     "winRate": 51.1,
+     "games": 990,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Stone by Sunlight",
+     "inclusion": 46.0,
+     "winRate": 51.1,
+     "games": 628,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Patient Instructor",
+     "inclusion": 27.4,
+     "winRate": 51.1,
+     "games": 370,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Settle the Wreckage",
+     "inclusion": 17.1,
+     "winRate": 51.1,
+     "games": 221,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Boughside Wanderers",
+     "inclusion": 46.4,
+     "winRate": 51.0,
+     "games": 618,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Wilderland Scrounger",
+     "inclusion": 21.8,
+     "winRate": 51.0,
+     "games": 294,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Wargling",
+     "inclusion": 41.7,
+     "winRate": 50.9,
+     "games": 548,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Warg Tactics",
+     "inclusion": 30.6,
+     "winRate": 50.8,
+     "games": 400,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Thrór's Map",
+     "inclusion": 13.5,
+     "winRate": 50.8,
+     "games": 185,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Iron Hills Blacksmith",
+     "inclusion": 28.6,
+     "winRate": 50.4,
+     "games": 377,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Silvan Reveler",
+     "inclusion": 10.3,
+     "winRate": 50.4,
+     "games": 141,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Attercop",
+     "inclusion": 68.3,
+     "winRate": 50.3,
+     "games": 903,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Lake-town Lookout",
+     "inclusion": 12.3,
+     "winRate": 50.3,
+     "games": 159,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Woodland Weavemaster",
+     "inclusion": 20.2,
+     "winRate": 50.2,
+     "games": 267,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "An Unexpected Party",
+     "inclusion": 19.0,
+     "winRate": 50.2,
+     "games": 265,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Guardian of the Halls",
+     "inclusion": 45.6,
+     "winRate": 50.0,
+     "games": 618,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Mirkwood",
+     "inclusion": 9.9,
+     "winRate": 50.0,
+     "games": 122,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Nasty Little Rabbit",
+     "inclusion": 42.1,
+     "winRate": 49.8,
+     "games": 566,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Kíli the Resourceful",
+     "inclusion": 10.3,
+     "winRate": 49.7,
+     "games": 145,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Quarrel",
+     "inclusion": 70.2,
+     "winRate": 49.6,
+     "games": 919,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Beorn's Hospitality",
+     "inclusion": 36.9,
+     "winRate": 49.6,
+     "games": 480,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Ordinary Bear",
+     "inclusion": 36.9,
+     "winRate": 49.5,
+     "games": 455,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Wood Elves",
+     "inclusion": 52.4,
+     "winRate": 49.3,
+     "games": 683,
+     "trophyInclusion": 41.7
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-09-12",
+    "main": [
+     [
+      2,
+      "Attercop"
+     ],
+     [
+      1,
+      "Beorn, Reluctant Host"
+     ],
+     [
+      1,
+      "Boughside Wanderers"
+     ],
+     [
+      2,
+      "Celebrate the Mountain-king"
+     ],
+     [
+      1,
+      "Chief Warg's Company"
+     ],
+     [
+      1,
+      "Dwarven Provisioner"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Galion, Elvenking's Butler"
+     ],
+     [
+      2,
+      "Guardian of the Halls"
+     ],
+     [
+      1,
+      "Hobbit Hole"
+     ],
+     [
+      1,
+      "Large Bear"
+     ],
+     [
+      1,
+      "Magnificent End"
+     ],
+     [
+      1,
+      "Mirkwood"
+     ],
+     [
+      1,
+      "Mirkwood Pathmaker"
+     ],
+     [
+      1,
+      "Old Fat Spider"
+     ],
+     [
+      1,
+      "Ordinary Bear"
+     ],
+     [
+      1,
+      "Part in Friendship"
+     ],
+     [
+      5,
+      "Plains"
+     ],
+     [
+      1,
+      "Quarrel"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Troll Negotiations"
+     ],
+     [
+      1,
+      "Wargling"
+     ],
+     [
+      1,
+      "Wilderland Scrounger"
+     ],
+     [
+      2,
+      "Wood Elves"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bilbo Baggins, Burglar"
+     ],
+     [
+      1,
+      "Dwarven Provisioner"
+     ],
+     [
+      1,
+      "Esgaroth Garrison"
+     ],
+     [
+      1,
+      "Galion, Elvenking's Butler"
+     ],
+     [
+      2,
+      "Gandalf, Wandering Wizard"
+     ],
+     [
+      1,
+      "Lake-town Mariners"
+     ],
+     [
+      1,
+      "Master's Councillors"
+     ],
+     [
+      1,
+      "Mirkwood Meditator"
+     ],
+     [
+      1,
+      "Reverent Howl"
+     ],
+     [
+      1,
+      "Roll-Roll-Roll-Roll"
+     ],
+     [
+      1,
+      "Sting, Bilbo's Sword"
+     ],
+     [
+      1,
+      "Thorin's Last Stand"
+     ],
+     [
+      1,
+      "Thrór's Map"
+     ],
+     [
+      1,
+      "Vow to Erebor"
+     ],
+     [
+      1,
+      "Warg Tactics"
+     ]
+    ]
+   }
+  }
+ ]
+}

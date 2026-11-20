@@ -1,0 +1,6915 @@
+{
+ "set": "snc",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SNC.PremierDraft.csv.gz",
+ "lastModified": "Thu, 07 Jul 2022 04:06:12 GMT",
+ "colorsDerived": false,
+ "first": "2022-04-28",
+ "last": "2022-06-30",
+ "games": 812978,
+ "drafts": 138991,
+ "winRate": 55.16,
+ "combos": [
+  {
+   "colors": "WUG",
+   "games": 179422,
+   "wins": 103079,
+   "winRate": 57.45,
+   "share": 22.07,
+   "drafts": 29791,
+   "trophies": 4566,
+   "cards": [
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 17.1,
+     "winRate": 59.5,
+     "games": 31600,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 6.6,
+     "winRate": 59.5,
+     "games": 12339,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Disciplined Duelist",
+     "inclusion": 38.4,
+     "winRate": 59.3,
+     "games": 70678,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 45.6,
+     "winRate": 59.2,
+     "games": 83815,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 19.4,
+     "winRate": 59.1,
+     "games": 35599,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 6.2,
+     "winRate": 59.1,
+     "games": 11402,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Brokers Ascendancy",
+     "inclusion": 12.0,
+     "winRate": 59.0,
+     "games": 22115,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 6.0,
+     "winRate": 59.0,
+     "games": 10999,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Falco Spara, Pactweaver",
+     "inclusion": 5.3,
+     "winRate": 58.9,
+     "games": 9689,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 40.9,
+     "winRate": 58.8,
+     "games": 74994,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Lagrella, the Magpie",
+     "inclusion": 37.0,
+     "winRate": 58.8,
+     "games": 67295,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 20.6,
+     "winRate": 58.8,
+     "games": 37458,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 5.6,
+     "winRate": 58.8,
+     "games": 10413,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Rigo, Streetwise Mentor",
+     "inclusion": 8.1,
+     "winRate": 58.6,
+     "games": 14838,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 60.1,
+     "winRate": 58.5,
+     "games": 109412,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 49.2,
+     "winRate": 58.5,
+     "games": 89828,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 31.3,
+     "winRate": 58.5,
+     "games": 56692,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 18.0,
+     "winRate": 58.5,
+     "games": 32955,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 15.9,
+     "winRate": 58.5,
+     "games": 29047,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 18.2,
+     "winRate": 58.4,
+     "games": 32967,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 15.3,
+     "winRate": 58.4,
+     "games": 27802,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Extraction Specialist",
+     "inclusion": 5.5,
+     "winRate": 58.4,
+     "games": 10155,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Exotic Pets",
+     "inclusion": 20.9,
+     "winRate": 58.3,
+     "games": 38026,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 51.5,
+     "winRate": 58.2,
+     "games": 93563,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Brokers Charm",
+     "inclusion": 31.6,
+     "winRate": 58.2,
+     "games": 57265,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 5.0,
+     "winRate": 58.2,
+     "games": 9191,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 31.3,
+     "winRate": 58.1,
+     "games": 56917,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 31.0,
+     "winRate": 58.1,
+     "games": 56051,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 15.5,
+     "winRate": 58.1,
+     "games": 28261,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 14.7,
+     "winRate": 58.1,
+     "games": 26433,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Giada, Font of Hope",
+     "inclusion": 6.0,
+     "winRate": 58.1,
+     "games": 10791,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Botanical Plaza",
+     "inclusion": 53.4,
+     "winRate": 58.0,
+     "games": 96823,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Majestic Metamorphosis",
+     "inclusion": 36.7,
+     "winRate": 58.0,
+     "games": 66240,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Illuminator Virtuoso",
+     "inclusion": 17.0,
+     "winRate": 58.0,
+     "games": 30687,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 13.2,
+     "winRate": 58.0,
+     "games": 23853,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Civil Servant",
+     "inclusion": 48.7,
+     "winRate": 57.9,
+     "games": 87819,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 23.3,
+     "winRate": 57.9,
+     "games": 42044,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Spara's Adjudicators",
+     "inclusion": 67.7,
+     "winRate": 57.8,
+     "games": 122253,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Backup Agent",
+     "inclusion": 45.7,
+     "winRate": 57.8,
+     "games": 82234,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 25.1,
+     "winRate": 57.8,
+     "games": 45276,
+     "trophyInclusion": 26.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-22",
+    "main": [
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      2,
+      "Botanical Plaza"
+     ],
+     [
+      1,
+      "Brokers Charm"
+     ],
+     [
+      2,
+      "Brokers Hideout"
+     ],
+     [
+      1,
+      "Brokers Initiate"
+     ],
+     [
+      2,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Celestial Regulator"
+     ],
+     [
+      1,
+      "Ceremonial Groundbreaker"
+     ],
+     [
+      1,
+      "Civil Servant"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "Disciplined Duelist"
+     ],
+     [
+      1,
+      "Echo Inspector"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      2,
+      "Inspiring Overseer"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Majestic Metamorphosis"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      3,
+      "Plains"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Riveteers Decoy"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Skybridge Towers"
+     ],
+     [
+      1,
+      "Sleep with the Fishes"
+     ],
+     [
+      1,
+      "Spara's Adjudicators"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Celebrity Fencer"
+     ],
+     [
+      1,
+      "Cement Shoes"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Halo Scarab"
+     ],
+     [
+      2,
+      "High-Rise Sawjack"
+     ],
+     [
+      1,
+      "Masked Bandits"
+     ],
+     [
+      1,
+      "Shakedown Heavy"
+     ],
+     [
+      1,
+      "Social Climber"
+     ],
+     [
+      1,
+      "Take to the Streets"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUB",
+   "games": 99172,
+   "wins": 53403,
+   "winRate": 53.85,
+   "share": 12.2,
+   "drafts": 17257,
+   "trophies": 2003,
+   "cards": [
+    {
+     "name": "Raffine, Scheming Seer",
+     "inclusion": 7.5,
+     "winRate": 58.2,
+     "games": 8083,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 22.0,
+     "winRate": 56.5,
+     "games": 22688,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 46.1,
+     "winRate": 56.1,
+     "games": 47148,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Reservoir Kraken",
+     "inclusion": 6.7,
+     "winRate": 56.1,
+     "games": 7007,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 6.1,
+     "winRate": 56.1,
+     "games": 6279,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 21.3,
+     "winRate": 55.7,
+     "games": 21517,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 19.8,
+     "winRate": 55.7,
+     "games": 20097,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 15.5,
+     "winRate": 55.7,
+     "games": 15786,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 21.4,
+     "winRate": 55.6,
+     "games": 21530,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 6.8,
+     "winRate": 55.5,
+     "games": 6883,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 42.3,
+     "winRate": 55.3,
+     "games": 42904,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Obscura Interceptor",
+     "inclusion": 14.9,
+     "winRate": 55.2,
+     "games": 15109,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 13.7,
+     "winRate": 55.2,
+     "games": 13759,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Giada, Font of Hope",
+     "inclusion": 6.1,
+     "winRate": 55.2,
+     "games": 6177,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 32.2,
+     "winRate": 55.1,
+     "games": 32465,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 20.4,
+     "winRate": 55.1,
+     "games": 20571,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Sanguine Spy",
+     "inclusion": 6.6,
+     "winRate": 55.1,
+     "games": 6703,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 5.4,
+     "winRate": 55.1,
+     "games": 5538,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Queza, Augur of Agonies",
+     "inclusion": 39.4,
+     "winRate": 55.0,
+     "games": 39783,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Nimble Larcenist",
+     "inclusion": 33.2,
+     "winRate": 55.0,
+     "games": 33602,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 32.4,
+     "winRate": 55.0,
+     "games": 32550,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 16.2,
+     "winRate": 55.0,
+     "games": 16445,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Knockout Blow",
+     "inclusion": 14.5,
+     "winRate": 55.0,
+     "games": 14572,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Extraction Specialist",
+     "inclusion": 5.6,
+     "winRate": 55.0,
+     "games": 5661,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 32.1,
+     "winRate": 54.9,
+     "games": 32228,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 61.7,
+     "winRate": 54.8,
+     "games": 62069,
+     "trophyInclusion": 67.3
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 29.7,
+     "winRate": 54.8,
+     "games": 29794,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 41.5,
+     "winRate": 54.7,
+     "games": 41750,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 24.3,
+     "winRate": 54.7,
+     "games": 24379,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Exotic Pets",
+     "inclusion": 20.8,
+     "winRate": 54.7,
+     "games": 20690,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 20.0,
+     "winRate": 54.7,
+     "games": 20084,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 17.1,
+     "winRate": 54.7,
+     "games": 17213,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 18.1,
+     "winRate": 54.6,
+     "games": 17987,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Tenacious Underdog",
+     "inclusion": 5.9,
+     "winRate": 54.6,
+     "games": 5994,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 45.9,
+     "winRate": 54.5,
+     "games": 45879,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Gathering Throng",
+     "inclusion": 9.8,
+     "winRate": 54.5,
+     "games": 9791,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 51.9,
+     "winRate": 54.4,
+     "games": 51783,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 6.8,
+     "winRate": 54.3,
+     "games": 6786,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 58.1,
+     "winRate": 54.2,
+     "games": 57982,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 36.5,
+     "winRate": 54.2,
+     "games": 36500,
+     "trophyInclusion": 38.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-03",
+    "main": [
+     [
+      1,
+      "A Little Chat"
+     ],
+     [
+      2,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Celestial Regulator"
+     ],
+     [
+      1,
+      "Corpse Appraiser"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Dig Up the Body"
+     ],
+     [
+      1,
+      "Echo Inspector"
+     ],
+     [
+      1,
+      "Faerie Vandal"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Glamorous Outlaw"
+     ],
+     [
+      1,
+      "Inspiring Overseer"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      2,
+      "Knockout Blow"
+     ],
+     [
+      1,
+      "Maestros Theater"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mysterious Limousine"
+     ],
+     [
+      1,
+      "Obscura Charm"
+     ],
+     [
+      1,
+      "Obscura Initiate"
+     ],
+     [
+      1,
+      "Obscura Storefront"
+     ],
+     [
+      3,
+      "Plains"
+     ],
+     [
+      1,
+      "Psychic Pickpocket"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Scheming Fence"
+     ],
+     [
+      1,
+      "Shattered Seraph"
+     ],
+     [
+      1,
+      "Skybridge Towers"
+     ],
+     [
+      1,
+      "Snooping Newsie"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Waterfront District"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "An Offer You Can't Refuse"
+     ],
+     [
+      2,
+      "Backstreet Bruiser"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      2,
+      "Buy Your Silence"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Illuminator Virtuoso"
+     ],
+     [
+      2,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Social Climber"
+     ],
+     [
+      2,
+      "Witness Protection"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBR",
+   "games": 98854,
+   "wins": 54219,
+   "winRate": 54.85,
+   "share": 12.16,
+   "drafts": 16996,
+   "trophies": 2191,
+   "cards": [
+    {
+     "name": "Hostile Takeover",
+     "inclusion": 20.5,
+     "winRate": 58.9,
+     "games": 21379,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 6.9,
+     "winRate": 58.0,
+     "games": 7192,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 23.9,
+     "winRate": 57.8,
+     "games": 24672,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Maestros Diabolist",
+     "inclusion": 17.5,
+     "winRate": 57.7,
+     "games": 17935,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Tenacious Underdog",
+     "inclusion": 7.3,
+     "winRate": 57.6,
+     "games": 7373,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 23.3,
+     "winRate": 57.5,
+     "games": 23763,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Corpse Appraiser",
+     "inclusion": 49.1,
+     "winRate": 57.2,
+     "games": 50202,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Reservoir Kraken",
+     "inclusion": 6.0,
+     "winRate": 57.2,
+     "games": 6091,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 19.8,
+     "winRate": 57.0,
+     "games": 20154,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Sanguine Spy",
+     "inclusion": 8.1,
+     "winRate": 56.7,
+     "games": 8262,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 26.9,
+     "winRate": 56.5,
+     "games": 27041,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 17.6,
+     "winRate": 56.5,
+     "games": 17883,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 14.1,
+     "winRate": 56.5,
+     "games": 14342,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Dusk Mangler",
+     "inclusion": 20.3,
+     "winRate": 56.4,
+     "games": 20649,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 6.3,
+     "winRate": 56.4,
+     "games": 6316,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 24.0,
+     "winRate": 56.3,
+     "games": 24120,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 54.9,
+     "winRate": 56.2,
+     "games": 55154,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 5.9,
+     "winRate": 56.2,
+     "games": 5952,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 23.2,
+     "winRate": 56.1,
+     "games": 23316,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 30.6,
+     "winRate": 56.0,
+     "games": 30700,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 65.2,
+     "winRate": 55.9,
+     "games": 65424,
+     "trophyInclusion": 71.5
+    },
+    {
+     "name": "Snooping Newsie",
+     "inclusion": 44.6,
+     "winRate": 55.8,
+     "games": 44579,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Maestros Charm",
+     "inclusion": 41.1,
+     "winRate": 55.8,
+     "games": 41182,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 36.5,
+     "winRate": 55.8,
+     "games": 36638,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 28.2,
+     "winRate": 55.8,
+     "games": 28228,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Evelyn, the Covetous",
+     "inclusion": 13.1,
+     "winRate": 55.8,
+     "games": 13226,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 12.7,
+     "winRate": 55.8,
+     "games": 12769,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Riveteers Requisitioner",
+     "inclusion": 15.0,
+     "winRate": 55.7,
+     "games": 15071,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 54.5,
+     "winRate": 55.6,
+     "games": 54602,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Murder",
+     "inclusion": 45.1,
+     "winRate": 55.5,
+     "games": 45012,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 42.9,
+     "winRate": 55.5,
+     "games": 42923,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 13.0,
+     "winRate": 55.5,
+     "games": 13113,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Glamorous Outlaw",
+     "inclusion": 72.1,
+     "winRate": 55.3,
+     "games": 71655,
+     "trophyInclusion": 75.1
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 57.7,
+     "winRate": 55.3,
+     "games": 57472,
+     "trophyInclusion": 61.2
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 57.4,
+     "winRate": 55.3,
+     "games": 57232,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Crooked Custodian",
+     "inclusion": 40.7,
+     "winRate": 55.1,
+     "games": 40382,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 34.8,
+     "winRate": 55.1,
+     "games": 34491,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Syndicate Infiltrator",
+     "inclusion": 23.2,
+     "winRate": 55.1,
+     "games": 23054,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Whack",
+     "inclusion": 20.0,
+     "winRate": 55.1,
+     "games": 19900,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "A Little Chat",
+     "inclusion": 14.4,
+     "winRate": 55.0,
+     "games": 14332,
+     "trophyInclusion": 14.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-05-15",
+    "main": [
+     [
+      1,
+      "Brokers Veteran"
+     ],
+     [
+      1,
+      "Call In a Professional"
+     ],
+     [
+      1,
+      "Cormela, Glamour Thief"
+     ],
+     [
+      1,
+      "Corpse Appraiser"
+     ],
+     [
+      1,
+      "Crooked Custodian"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Dusk Mangler"
+     ],
+     [
+      1,
+      "Echo Inspector"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Glamorous Outlaw"
+     ],
+     [
+      1,
+      "Grisly Sigil"
+     ],
+     [
+      1,
+      "Hypnotic Grifter"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Maestros Charm"
+     ],
+     [
+      1,
+      "Maestros Theater"
+     ],
+     [
+      1,
+      "Majestic Metamorphosis"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Mayhem Patrol"
+     ],
+     [
+      3,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Riveteers Overlook"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Shakedown Heavy"
+     ],
+     [
+      1,
+      "Slip Out the Back"
+     ],
+     [
+      1,
+      "Snooping Newsie"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syndicate Infiltrator"
+     ],
+     [
+      1,
+      "Tramway Station"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Capenna Express"
+     ],
+     [
+      1,
+      "Cutthroat Contender"
+     ],
+     [
+      1,
+      "Demon's Due"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Fatal Grudge"
+     ],
+     [
+      1,
+      "Light 'Em Up"
+     ],
+     [
+      1,
+      "Midnight Assassin"
+     ],
+     [
+      1,
+      "Obscura Initiate"
+     ],
+     [
+      1,
+      "Ominous Parcel"
+     ],
+     [
+      1,
+      "Psionic Snoop"
+     ],
+     [
+      1,
+      "Public Enemy"
+     ],
+     [
+      1,
+      "Rogues' Gallery"
+     ],
+     [
+      1,
+      "Sticky Fingers"
+     ],
+     [
+      1,
+      "Syndicate Infiltrator"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 87823,
+   "wins": 51074,
+   "winRate": 58.16,
+   "share": 10.8,
+   "drafts": 14425,
+   "trophies": 2426,
+   "cards": [
+    {
+     "name": "Rigo, Streetwise Mentor",
+     "inclusion": 5.7,
+     "winRate": 61.3,
+     "games": 5140,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Reservoir Kraken",
+     "inclusion": 7.6,
+     "winRate": 60.7,
+     "games": 6887,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 6.1,
+     "winRate": 60.5,
+     "games": 5633,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Extraction Specialist",
+     "inclusion": 6.7,
+     "winRate": 60.3,
+     "games": 6072,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 22.3,
+     "winRate": 60.2,
+     "games": 20139,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 26.5,
+     "winRate": 60.1,
+     "games": 23905,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 57.1,
+     "winRate": 59.7,
+     "games": 51237,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 23.6,
+     "winRate": 59.7,
+     "games": 21131,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 8.0,
+     "winRate": 59.7,
+     "games": 7253,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Exotic Pets",
+     "inclusion": 31.7,
+     "winRate": 59.6,
+     "games": 28439,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 27.3,
+     "winRate": 59.5,
+     "games": 24252,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 26.7,
+     "winRate": 59.5,
+     "games": 23876,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 8.3,
+     "winRate": 59.5,
+     "games": 7400,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 64.9,
+     "winRate": 59.4,
+     "games": 58067,
+     "trophyInclusion": 71.6
+    },
+    {
+     "name": "Knockout Blow",
+     "inclusion": 19.4,
+     "winRate": 59.4,
+     "games": 17311,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 35.4,
+     "winRate": 59.2,
+     "games": 31415,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 28.8,
+     "winRate": 59.2,
+     "games": 25658,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Illuminator Virtuoso",
+     "inclusion": 26.6,
+     "winRate": 59.0,
+     "games": 23672,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 51.9,
+     "winRate": 58.9,
+     "games": 46076,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 41.1,
+     "winRate": 58.9,
+     "games": 36351,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Disciplined Duelist",
+     "inclusion": 10.9,
+     "winRate": 58.9,
+     "games": 9633,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Majestic Metamorphosis",
+     "inclusion": 62.8,
+     "winRate": 58.8,
+     "games": 55807,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 53.6,
+     "winRate": 58.8,
+     "games": 47670,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 50.1,
+     "winRate": 58.7,
+     "games": 44225,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Slip Out the Back",
+     "inclusion": 18.6,
+     "winRate": 58.7,
+     "games": 16416,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 23.9,
+     "winRate": 58.6,
+     "games": 21068,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Wingshield Agent",
+     "inclusion": 23.7,
+     "winRate": 58.6,
+     "games": 21013,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Celestial Regulator",
+     "inclusion": 64.7,
+     "winRate": 58.5,
+     "games": 57206,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 56.6,
+     "winRate": 58.5,
+     "games": 50175,
+     "trophyInclusion": 59.0
+    },
+    {
+     "name": "Backup Agent",
+     "inclusion": 59.1,
+     "winRate": 58.4,
+     "games": 52305,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Raffine's Guidance",
+     "inclusion": 21.3,
+     "winRate": 58.3,
+     "games": 18695,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Giada, Font of Hope",
+     "inclusion": 8.9,
+     "winRate": 58.2,
+     "games": 7960,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Undercover Operative",
+     "inclusion": 7.9,
+     "winRate": 58.2,
+     "games": 7013,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Expendable Lackey",
+     "inclusion": 53.8,
+     "winRate": 58.1,
+     "games": 47370,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Revelation of Power",
+     "inclusion": 39.1,
+     "winRate": 58.1,
+     "games": 34314,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Gathering Throng",
+     "inclusion": 23.9,
+     "winRate": 58.1,
+     "games": 21162,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Queza, Augur of Agonies",
+     "inclusion": 6.7,
+     "winRate": 58.1,
+     "games": 5922,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Toluz, Clever Conductor",
+     "inclusion": 6.2,
+     "winRate": 58.1,
+     "games": 5415,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Botanical Plaza",
+     "inclusion": 17.2,
+     "winRate": 58.0,
+     "games": 15034,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Sky Crier",
+     "inclusion": 48.9,
+     "winRate": 57.9,
+     "games": 42798,
+     "trophyInclusion": 47.7
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-05-24",
+    "main": [
+     [
+      1,
+      "Backstreet Bruiser"
+     ],
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      3,
+      "Brokers Hideout"
+     ],
+     [
+      1,
+      "Brokers Veteran"
+     ],
+     [
+      1,
+      "Celestial Regulator"
+     ],
+     [
+      1,
+      "Citizen's Crowbar"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "Echo Inspector"
+     ],
+     [
+      1,
+      "Exotic Pets"
+     ],
+     [
+      1,
+      "Extraction Specialist"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Halo Fountain"
+     ],
+     [
+      1,
+      "Hold for Ransom"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Majestic Metamorphosis"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Metropolis Angel"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Psychic Pickpocket"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Revelation of Power"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Skybridge Towers"
+     ],
+     [
+      1,
+      "Soul of Emancipation"
+     ],
+     [
+      1,
+      "Spara's Adjudicators"
+     ],
+     [
+      1,
+      "Swooping Protector"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Boon of Safety"
+     ],
+     [
+      1,
+      "Brass Knuckles"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Case the Joint"
+     ],
+     [
+      1,
+      "Gathering Throng"
+     ],
+     [
+      1,
+      "Gilded Pinions"
+     ],
+     [
+      1,
+      "Halo Scarab"
+     ],
+     [
+      1,
+      "Jackhammer"
+     ],
+     [
+      1,
+      "Most Wanted"
+     ],
+     [
+      1,
+      "Raffine's Guidance"
+     ],
+     [
+      1,
+      "Rakish Revelers"
+     ],
+     [
+      1,
+      "Revelation of Power"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Social Climber"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WRG",
+   "games": 72613,
+   "wins": 38573,
+   "winRate": 53.12,
+   "share": 8.93,
+   "drafts": 12734,
+   "trophies": 1376,
+   "cards": [
+    {
+     "name": "Jetmir, Nexus of Revels",
+     "inclusion": 8.9,
+     "winRate": 56.5,
+     "games": 6721,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 7.2,
+     "winRate": 55.9,
+     "games": 5467,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Fleetfoot Dancer",
+     "inclusion": 17.0,
+     "winRate": 55.8,
+     "games": 12744,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 39.1,
+     "winRate": 55.3,
+     "games": 29351,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Gala Greeters",
+     "inclusion": 7.1,
+     "winRate": 55.1,
+     "games": 5356,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 17.0,
+     "winRate": 54.9,
+     "games": 12658,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 7.3,
+     "winRate": 54.9,
+     "games": 5495,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 46.7,
+     "winRate": 54.8,
+     "games": 34762,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 6.8,
+     "winRate": 54.8,
+     "games": 5065,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 25.0,
+     "winRate": 54.7,
+     "games": 18616,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 14.2,
+     "winRate": 54.7,
+     "games": 10551,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 6.6,
+     "winRate": 54.6,
+     "games": 4864,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 27.7,
+     "winRate": 54.5,
+     "games": 20481,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 19.7,
+     "winRate": 54.5,
+     "games": 14385,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 30.7,
+     "winRate": 54.3,
+     "games": 22680,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Darling of the Masses",
+     "inclusion": 22.5,
+     "winRate": 54.3,
+     "games": 16557,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 19.4,
+     "winRate": 54.3,
+     "games": 14329,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Topiary Stomper",
+     "inclusion": 6.0,
+     "winRate": 54.3,
+     "games": 4399,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 60.5,
+     "winRate": 54.2,
+     "games": 44597,
+     "trophyInclusion": 67.9
+    },
+    {
+     "name": "Brazen Upstart",
+     "inclusion": 38.4,
+     "winRate": 54.1,
+     "games": 28324,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 29.5,
+     "winRate": 54.1,
+     "games": 21726,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 21.1,
+     "winRate": 54.1,
+     "games": 15598,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Botanical Plaza",
+     "inclusion": 50.4,
+     "winRate": 54.0,
+     "games": 37083,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Civil Servant",
+     "inclusion": 48.0,
+     "winRate": 54.0,
+     "games": 35174,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Freelance Muscle",
+     "inclusion": 16.6,
+     "winRate": 54.0,
+     "games": 12219,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Rakish Revelers",
+     "inclusion": 66.8,
+     "winRate": 53.7,
+     "games": 48920,
+     "trophyInclusion": 69.8
+    },
+    {
+     "name": "Rocco, Cabaretti Caterer",
+     "inclusion": 38.4,
+     "winRate": 53.7,
+     "games": 28070,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Bouncer's Beatdown",
+     "inclusion": 19.5,
+     "winRate": 53.7,
+     "games": 14239,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Park Heights Pegasus",
+     "inclusion": 7.5,
+     "winRate": 53.7,
+     "games": 5536,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 21.1,
+     "winRate": 53.6,
+     "games": 15501,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Courier's Briefcase",
+     "inclusion": 19.3,
+     "winRate": 53.6,
+     "games": 14089,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 5.8,
+     "winRate": 53.6,
+     "games": 4260,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Racers' Ring",
+     "inclusion": 56.9,
+     "winRate": 53.5,
+     "games": 41588,
+     "trophyInclusion": 59.9
+    },
+    {
+     "name": "Sky Crier",
+     "inclusion": 28.1,
+     "winRate": 53.5,
+     "games": 20444,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 18.9,
+     "winRate": 53.5,
+     "games": 13862,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Voice of the Vermin",
+     "inclusion": 18.2,
+     "winRate": 53.5,
+     "games": 13238,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Cabaretti Charm",
+     "inclusion": 38.7,
+     "winRate": 53.4,
+     "games": 28221,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 32.7,
+     "winRate": 53.4,
+     "games": 23801,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Venom Connoisseur",
+     "inclusion": 18.1,
+     "winRate": 53.4,
+     "games": 13220,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 38.0,
+     "winRate": 53.3,
+     "games": 27673,
+     "trophyInclusion": 38.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-01",
+    "main": [
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Botanical Plaza"
+     ],
+     [
+      1,
+      "Bouncer's Beatdown"
+     ],
+     [
+      1,
+      "Brokers Initiate"
+     ],
+     [
+      1,
+      "Buy Your Silence"
+     ],
+     [
+      1,
+      "Cabaretti Charm"
+     ],
+     [
+      1,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Cabaretti Initiate"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Ceremonial Groundbreaker"
+     ],
+     [
+      1,
+      "Civil Servant"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Freelance Muscle"
+     ],
+     [
+      1,
+      "High-Rise Sawjack"
+     ],
+     [
+      1,
+      "Hold for Ransom"
+     ],
+     [
+      1,
+      "Jetmir, Nexus of Revels"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      2,
+      "Mountain"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Prizefight"
+     ],
+     [
+      1,
+      "Racers' Ring"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Rakish Revelers"
+     ],
+     [
+      1,
+      "Riveteers Decoy"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Voice of the Vermin"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Big Score"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Cormela, Glamour Thief"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Demon's Due"
+     ],
+     [
+      1,
+      "Glittermonger"
+     ],
+     [
+      1,
+      "Halo Scarab"
+     ],
+     [
+      1,
+      "Hypnotic Grifter"
+     ],
+     [
+      1,
+      "Most Wanted"
+     ],
+     [
+      1,
+      "Ominous Parcel"
+     ],
+     [
+      1,
+      "Raffine's Guidance"
+     ],
+     [
+      1,
+      "Refuse to Yield"
+     ],
+     [
+      1,
+      "Rhox Pummeler"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Sewer Crocodile"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 61522,
+   "wins": 33241,
+   "winRate": 54.03,
+   "share": 7.57,
+   "drafts": 10608,
+   "trophies": 1256,
+   "cards": [
+    {
+     "name": "Hostile Takeover",
+     "inclusion": 5.3,
+     "winRate": 56.7,
+     "games": 3412,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 9.4,
+     "winRate": 56.6,
+     "games": 5915,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 31.2,
+     "winRate": 56.5,
+     "games": 19939,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 8.7,
+     "winRate": 56.5,
+     "games": 5650,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Tenacious Underdog",
+     "inclusion": 10.1,
+     "winRate": 56.1,
+     "games": 6406,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Ob Nixilis, the Adversary",
+     "inclusion": 6.7,
+     "winRate": 55.9,
+     "games": 4321,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Urabrask, Heretic Praetor",
+     "inclusion": 5.4,
+     "winRate": 55.7,
+     "games": 3369,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 27.8,
+     "winRate": 55.6,
+     "games": 17577,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Sanguine Spy",
+     "inclusion": 8.9,
+     "winRate": 55.6,
+     "games": 5640,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Riveteers Requisitioner",
+     "inclusion": 29.3,
+     "winRate": 55.4,
+     "games": 18384,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 69.6,
+     "winRate": 55.3,
+     "games": 43655,
+     "trophyInclusion": 77.5
+    },
+    {
+     "name": "Pugnacious Pugilist",
+     "inclusion": 30.4,
+     "winRate": 55.3,
+     "games": 18976,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 38.0,
+     "winRate": 55.2,
+     "games": 23851,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 11.7,
+     "winRate": 55.2,
+     "games": 7240,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Corpse Appraiser",
+     "inclusion": 8.5,
+     "winRate": 55.2,
+     "games": 5214,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 25.5,
+     "winRate": 55.1,
+     "games": 15939,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Involuntary Employment",
+     "inclusion": 30.5,
+     "winRate": 54.9,
+     "games": 19061,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 58.4,
+     "winRate": 54.8,
+     "games": 36381,
+     "trophyInclusion": 63.8
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 52.6,
+     "winRate": 54.8,
+     "games": 32727,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Unlucky Witness",
+     "inclusion": 25.0,
+     "winRate": 54.8,
+     "games": 15492,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 55.4,
+     "winRate": 54.7,
+     "games": 34584,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Murder",
+     "inclusion": 49.7,
+     "winRate": 54.6,
+     "games": 30772,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 34.1,
+     "winRate": 54.6,
+     "games": 21100,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Crooked Custodian",
+     "inclusion": 55.4,
+     "winRate": 54.5,
+     "games": 34350,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Mayhem Patrol",
+     "inclusion": 70.3,
+     "winRate": 54.4,
+     "games": 43538,
+     "trophyInclusion": 74.4
+    },
+    {
+     "name": "Plasma Jockey",
+     "inclusion": 67.5,
+     "winRate": 54.4,
+     "games": 41746,
+     "trophyInclusion": 68.9
+    },
+    {
+     "name": "Body Dropper",
+     "inclusion": 81.1,
+     "winRate": 54.3,
+     "games": 50096,
+     "trophyInclusion": 84.8
+    },
+    {
+     "name": "Torch Breath",
+     "inclusion": 19.2,
+     "winRate": 54.3,
+     "games": 11823,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Dusk Mangler",
+     "inclusion": 18.2,
+     "winRate": 54.2,
+     "games": 11252,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Evelyn, the Covetous",
+     "inclusion": 6.4,
+     "winRate": 54.2,
+     "games": 3929,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 58.3,
+     "winRate": 54.1,
+     "games": 35903,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Exhibition Magician",
+     "inclusion": 51.0,
+     "winRate": 54.1,
+     "games": 31434,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Call In a Professional",
+     "inclusion": 23.6,
+     "winRate": 54.1,
+     "games": 14504,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Whack",
+     "inclusion": 21.4,
+     "winRate": 54.1,
+     "games": 13167,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Dig Up the Body",
+     "inclusion": 48.1,
+     "winRate": 54.0,
+     "games": 29566,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Fatal Grudge",
+     "inclusion": 25.7,
+     "winRate": 54.0,
+     "games": 15737,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Antagonize",
+     "inclusion": 24.5,
+     "winRate": 54.0,
+     "games": 15002,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Witty Roastmaster",
+     "inclusion": 44.3,
+     "winRate": 53.9,
+     "games": 27386,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "Forge Boss",
+     "inclusion": 36.4,
+     "winRate": 53.8,
+     "games": 22422,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Light 'Em Up",
+     "inclusion": 46.5,
+     "winRate": 53.7,
+     "games": 28557,
+     "trophyInclusion": 44.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-04-30",
+    "main": [
+     [
+      2,
+      "Body Dropper"
+     ],
+     [
+      1,
+      "Call In a Professional"
+     ],
+     [
+      1,
+      "Crooked Custodian"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Dig Up the Body"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Forge Boss"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Goldhound"
+     ],
+     [
+      1,
+      "Masked Bandits"
+     ],
+     [
+      1,
+      "Mayhem Patrol"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      2,
+      "Murder"
+     ],
+     [
+      1,
+      "Night Clubber"
+     ],
+     [
+      1,
+      "Plasma Jockey"
+     ],
+     [
+      1,
+      "Ready to Rumble"
+     ],
+     [
+      1,
+      "Riveteers Overlook"
+     ],
+     [
+      1,
+      "Riveteers Requisitioner"
+     ],
+     [
+      1,
+      "Strangle"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tramway Station"
+     ],
+     [
+      2,
+      "Unlucky Witness"
+     ],
+     [
+      1,
+      "Witty Roastmaster"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Big Score"
+     ],
+     [
+      1,
+      "Brokers Veteran"
+     ],
+     [
+      1,
+      "Case the Joint"
+     ],
+     [
+      1,
+      "Cement Shoes"
+     ],
+     [
+      1,
+      "Chrome Cat"
+     ],
+     [
+      2,
+      "Cutthroat Contender"
+     ],
+     [
+      1,
+      "Demon's Due"
+     ],
+     [
+      1,
+      "Extract the Truth"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      1,
+      "High-Rise Sawjack"
+     ],
+     [
+      2,
+      "Paragon of Modernity"
+     ],
+     [
+      1,
+      "Racers' Ring"
+     ],
+     [
+      1,
+      "Revel Ruiner"
+     ],
+     [
+      1,
+      "Widespread Thieving"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BRG",
+   "games": 60455,
+   "wins": 30967,
+   "winRate": 51.22,
+   "share": 7.44,
+   "drafts": 10794,
+   "trophies": 946,
+   "cards": [
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 7.4,
+     "winRate": 54.9,
+     "games": 4672,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Ziatora, the Incinerator",
+     "inclusion": 9.9,
+     "winRate": 54.2,
+     "games": 6180,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 7.8,
+     "winRate": 54.0,
+     "games": 4858,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Ziatora's Envoy",
+     "inclusion": 18.6,
+     "winRate": 53.7,
+     "games": 11666,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 20.3,
+     "winRate": 53.5,
+     "games": 12628,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 6.8,
+     "winRate": 53.5,
+     "games": 4237,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 43.2,
+     "winRate": 53.3,
+     "games": 26944,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Riveteers Requisitioner",
+     "inclusion": 22.8,
+     "winRate": 53.1,
+     "games": 14189,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Gala Greeters",
+     "inclusion": 6.2,
+     "winRate": 53.1,
+     "games": 3856,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 7.2,
+     "winRate": 52.8,
+     "games": 4449,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Riveteers Charm",
+     "inclusion": 36.8,
+     "winRate": 52.7,
+     "games": 22651,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 15.9,
+     "winRate": 52.6,
+     "games": 9798,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 17.8,
+     "winRate": 52.4,
+     "games": 10948,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Topiary Stomper",
+     "inclusion": 5.3,
+     "winRate": 52.4,
+     "games": 3239,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 61.4,
+     "winRate": 52.3,
+     "games": 37722,
+     "trophyInclusion": 67.1
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 16.5,
+     "winRate": 52.3,
+     "games": 10102,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 46.6,
+     "winRate": 52.2,
+     "games": 28593,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 10.3,
+     "winRate": 52.2,
+     "games": 6300,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Tenacious Underdog",
+     "inclusion": 7.0,
+     "winRate": 52.2,
+     "games": 4293,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Unleash the Inferno",
+     "inclusion": 15.1,
+     "winRate": 52.1,
+     "games": 9221,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Dusk Mangler",
+     "inclusion": 14.6,
+     "winRate": 52.1,
+     "games": 8871,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Pugnacious Pugilist",
+     "inclusion": 21.3,
+     "winRate": 52.0,
+     "games": 13041,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 16.0,
+     "winRate": 52.0,
+     "games": 9758,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 14.6,
+     "winRate": 52.0,
+     "games": 8889,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 47.5,
+     "winRate": 51.9,
+     "games": 28978,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 27.6,
+     "winRate": 51.9,
+     "games": 16840,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Courier's Briefcase",
+     "inclusion": 11.7,
+     "winRate": 51.9,
+     "games": 7169,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Racers' Ring",
+     "inclusion": 55.8,
+     "winRate": 51.8,
+     "games": 34013,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 55.8,
+     "winRate": 51.8,
+     "games": 34003,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Bouncer's Beatdown",
+     "inclusion": 15.9,
+     "winRate": 51.8,
+     "games": 9626,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Crew Captain",
+     "inclusion": 23.1,
+     "winRate": 51.7,
+     "games": 14033,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Whack",
+     "inclusion": 17.6,
+     "winRate": 51.7,
+     "games": 10682,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 16.2,
+     "winRate": 51.7,
+     "games": 9898,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Unlucky Witness",
+     "inclusion": 14.8,
+     "winRate": 51.7,
+     "games": 8948,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Involuntary Employment",
+     "inclusion": 13.5,
+     "winRate": 51.7,
+     "games": 8193,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Attended Socialite",
+     "inclusion": 12.3,
+     "winRate": 51.7,
+     "games": 7512,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Mayhem Patrol",
+     "inclusion": 49.0,
+     "winRate": 51.6,
+     "games": 29705,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Exhibition Magician",
+     "inclusion": 43.2,
+     "winRate": 51.6,
+     "games": 26243,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 31.1,
+     "winRate": 51.6,
+     "games": 18883,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 27.2,
+     "winRate": 51.6,
+     "games": 16415,
+     "trophyInclusion": 29.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-29",
+    "main": [
+     [
+      1,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Crew Captain"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Fight Rigging"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Freelance Muscle"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Involuntary Employment"
+     ],
+     [
+      2,
+      "Jetmir's Fixer"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Maestros Theater"
+     ],
+     [
+      2,
+      "Masked Bandits"
+     ],
+     [
+      1,
+      "Mayhem Patrol"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Prizefight"
+     ],
+     [
+      1,
+      "Pugnacious Pugilist"
+     ],
+     [
+      1,
+      "Racers' Ring"
+     ],
+     [
+      2,
+      "Riveteers Initiate"
+     ],
+     [
+      1,
+      "Riveteers Overlook"
+     ],
+     [
+      1,
+      "Riveteers Requisitioner"
+     ],
+     [
+      1,
+      "Rogues' Gallery"
+     ],
+     [
+      1,
+      "Sticky Fingers"
+     ],
+     [
+      1,
+      "Strangle"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tramway Station"
+     ],
+     [
+      1,
+      "Unlucky Witness"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cabaretti Charm"
+     ],
+     [
+      1,
+      "Capenna Express"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      2,
+      "Demon's Due"
+     ],
+     [
+      1,
+      "Dig Up the Body"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      1,
+      "Gilded Pinions"
+     ],
+     [
+      1,
+      "Jackhammer"
+     ],
+     [
+      1,
+      "Most Wanted"
+     ],
+     [
+      1,
+      "Quick-Draw Dagger"
+     ],
+     [
+      1,
+      "Ready to Rumble"
+     ],
+     [
+      1,
+      "Take to the Streets"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 59219,
+   "wins": 33956,
+   "winRate": 57.34,
+   "share": 7.28,
+   "drafts": 9821,
+   "trophies": 1501,
+   "cards": [
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 21.6,
+     "winRate": 60.0,
+     "games": 13267,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Lagrella, the Magpie",
+     "inclusion": 10.0,
+     "winRate": 59.7,
+     "games": 6173,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Disciplined Duelist",
+     "inclusion": 11.5,
+     "winRate": 59.6,
+     "games": 6960,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 9.0,
+     "winRate": 59.6,
+     "games": 5576,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 7.9,
+     "winRate": 59.6,
+     "games": 4882,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 8.4,
+     "winRate": 59.5,
+     "games": 5106,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 7.7,
+     "winRate": 59.5,
+     "games": 4763,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Giada, Font of Hope",
+     "inclusion": 5.7,
+     "winRate": 58.8,
+     "games": 3433,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Brokers Charm",
+     "inclusion": 6.5,
+     "winRate": 58.7,
+     "games": 3977,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 52.8,
+     "winRate": 58.6,
+     "games": 31746,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 24.5,
+     "winRate": 58.6,
+     "games": 14786,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 54.7,
+     "winRate": 58.5,
+     "games": 32991,
+     "trophyInclusion": 60.6
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 38.4,
+     "winRate": 58.5,
+     "games": 22925,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 26.1,
+     "winRate": 58.5,
+     "games": 15628,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 28.4,
+     "winRate": 58.3,
+     "games": 17158,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 24.1,
+     "winRate": 58.1,
+     "games": 14459,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Voice of the Vermin",
+     "inclusion": 23.3,
+     "winRate": 58.1,
+     "games": 14004,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Botanical Plaza",
+     "inclusion": 51.5,
+     "winRate": 58.0,
+     "games": 30750,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Darling of the Masses",
+     "inclusion": 31.2,
+     "winRate": 58.0,
+     "games": 18656,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 9.4,
+     "winRate": 58.0,
+     "games": 5561,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Civil Servant",
+     "inclusion": 74.8,
+     "winRate": 57.9,
+     "games": 44544,
+     "trophyInclusion": 78.0
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 53.9,
+     "winRate": 57.9,
+     "games": 32137,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 37.1,
+     "winRate": 57.9,
+     "games": 22031,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 56.3,
+     "winRate": 57.8,
+     "games": 33342,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 23.8,
+     "winRate": 57.8,
+     "games": 14308,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Bouncer's Beatdown",
+     "inclusion": 22.7,
+     "winRate": 57.8,
+     "games": 13572,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Gala Greeters",
+     "inclusion": 7.6,
+     "winRate": 57.7,
+     "games": 4473,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Rigo, Streetwise Mentor",
+     "inclusion": 5.4,
+     "winRate": 57.7,
+     "games": 3264,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 51.2,
+     "winRate": 57.6,
+     "games": 30467,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 39.9,
+     "winRate": 57.6,
+     "games": 23571,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Gathering Throng",
+     "inclusion": 30.4,
+     "winRate": 57.6,
+     "games": 18060,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 16.4,
+     "winRate": 57.6,
+     "games": 9721,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Extraction Specialist",
+     "inclusion": 7.9,
+     "winRate": 57.6,
+     "games": 4598,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Knockout Blow",
+     "inclusion": 20.1,
+     "winRate": 57.5,
+     "games": 11866,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Sky Crier",
+     "inclusion": 53.8,
+     "winRate": 57.4,
+     "games": 31631,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Hold for Ransom",
+     "inclusion": 46.6,
+     "winRate": 57.4,
+     "games": 27526,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 44.2,
+     "winRate": 57.4,
+     "games": 26212,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Backup Agent",
+     "inclusion": 55.1,
+     "winRate": 57.3,
+     "games": 32508,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Prizefight",
+     "inclusion": 39.3,
+     "winRate": 57.3,
+     "games": 23153,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Ceremonial Groundbreaker",
+     "inclusion": 32.2,
+     "winRate": 57.3,
+     "games": 18939,
+     "trophyInclusion": 31.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-05-21",
+    "main": [
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      1,
+      "Brokers Hideout"
+     ],
+     [
+      1,
+      "Cabaretti Courtyard"
+     ],
+     [
+      2,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Celebrity Fencer"
+     ],
+     [
+      1,
+      "Civic Gardener"
+     ],
+     [
+      2,
+      "Civil Servant"
+     ],
+     [
+      1,
+      "Cleanup Crew"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Gilded Pinions"
+     ],
+     [
+      1,
+      "Hold for Ransom"
+     ],
+     [
+      1,
+      "Inspiring Overseer"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Professional Face-Breaker"
+     ],
+     [
+      1,
+      "Quick-Draw Dagger"
+     ],
+     [
+      1,
+      "Racers' Ring"
+     ],
+     [
+      2,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Rakish Revelers"
+     ],
+     [
+      1,
+      "Riveteers Overlook"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Speakeasy Server"
+     ],
+     [
+      1,
+      "Venom Connoisseur"
+     ],
+     [
+      1,
+      "Vivien on the Hunt"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Angelic Observer"
+     ],
+     [
+      2,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Big Score"
+     ],
+     [
+      1,
+      "Cabaretti Initiate"
+     ],
+     [
+      1,
+      "Capenna Express"
+     ],
+     [
+      1,
+      "Civic Gardener"
+     ],
+     [
+      1,
+      "Devilish Valet"
+     ],
+     [
+      1,
+      "High-Rise Sawjack"
+     ],
+     [
+      1,
+      "Hypnotic Grifter"
+     ],
+     [
+      1,
+      "Revelation of Power"
+     ],
+     [
+      1,
+      "Rogues' Gallery"
+     ],
+     [
+      1,
+      "Scuttling Butler"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 35147,
+   "wins": 19400,
+   "winRate": 55.2,
+   "share": 4.32,
+   "drafts": 6074,
+   "trophies": 795,
+   "cards": [
+    {
+     "name": "All-Seeing Arbiter",
+     "inclusion": 5.0,
+     "winRate": 60.7,
+     "games": 1925,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Hostile Takeover",
+     "inclusion": 6.8,
+     "winRate": 59.5,
+     "games": 2581,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Reservoir Kraken",
+     "inclusion": 9.2,
+     "winRate": 59.0,
+     "games": 3411,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 7.9,
+     "winRate": 58.7,
+     "games": 2884,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 9.9,
+     "winRate": 58.0,
+     "games": 3600,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 32.0,
+     "winRate": 57.7,
+     "games": 11795,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 28.4,
+     "winRate": 57.5,
+     "games": 10469,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Corpse Appraiser",
+     "inclusion": 14.2,
+     "winRate": 57.2,
+     "games": 5174,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 27.0,
+     "winRate": 57.1,
+     "games": 9758,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 26.6,
+     "winRate": 57.1,
+     "games": 9539,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 27.0,
+     "winRate": 56.7,
+     "games": 9708,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 41.6,
+     "winRate": 56.6,
+     "games": 15016,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Wingshield Agent",
+     "inclusion": 22.7,
+     "winRate": 56.5,
+     "games": 8125,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 65.6,
+     "winRate": 56.4,
+     "games": 23592,
+     "trophyInclusion": 72.7
+    },
+    {
+     "name": "Sanguine Spy",
+     "inclusion": 10.1,
+     "winRate": 56.4,
+     "games": 3654,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 51.3,
+     "winRate": 56.2,
+     "games": 18238,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Murder",
+     "inclusion": 50.5,
+     "winRate": 56.2,
+     "games": 18052,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Dusk Mangler",
+     "inclusion": 27.8,
+     "winRate": 56.2,
+     "games": 9838,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 26.3,
+     "winRate": 56.2,
+     "games": 9518,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 10.8,
+     "winRate": 56.2,
+     "games": 3862,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 27.3,
+     "winRate": 56.1,
+     "games": 9781,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Aven Heartstabber",
+     "inclusion": 13.9,
+     "winRate": 56.1,
+     "games": 5031,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Nimble Larcenist",
+     "inclusion": 5.2,
+     "winRate": 56.1,
+     "games": 1876,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 45.1,
+     "winRate": 56.0,
+     "games": 16051,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 29.4,
+     "winRate": 55.9,
+     "games": 10494,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 9.4,
+     "winRate": 55.9,
+     "games": 3298,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Toluz, Clever Conductor",
+     "inclusion": 7.5,
+     "winRate": 55.9,
+     "games": 2640,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Snooping Newsie",
+     "inclusion": 78.6,
+     "winRate": 55.7,
+     "games": 27846,
+     "trophyInclusion": 81.0
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 19.0,
+     "winRate": 55.6,
+     "games": 6860,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 56.7,
+     "winRate": 55.5,
+     "games": 20150,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Expendable Lackey",
+     "inclusion": 55.0,
+     "winRate": 55.5,
+     "games": 19515,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 15.6,
+     "winRate": 55.5,
+     "games": 5423,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Undercover Operative",
+     "inclusion": 8.6,
+     "winRate": 55.5,
+     "games": 3039,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 60.7,
+     "winRate": 55.4,
+     "games": 21419,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 55.4,
+     "winRate": 55.4,
+     "games": 19659,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 44.9,
+     "winRate": 55.4,
+     "games": 15926,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Syndicate Infiltrator",
+     "inclusion": 34.4,
+     "winRate": 55.4,
+     "games": 12170,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 8.4,
+     "winRate": 55.4,
+     "games": 2957,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Majestic Metamorphosis",
+     "inclusion": 46.8,
+     "winRate": 55.3,
+     "games": 16504,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 52.3,
+     "winRate": 55.2,
+     "games": 18377,
+     "trophyInclusion": 51.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-09",
+    "main": [
+     [
+      1,
+      "Backstreet Bruiser"
+     ],
+     [
+      2,
+      "Corrupt Court Official"
+     ],
+     [
+      3,
+      "Crooked Custodian"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Dig Up the Body"
+     ],
+     [
+      1,
+      "Expendable Lackey"
+     ],
+     [
+      3,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Grisly Sigil"
+     ],
+     [
+      10,
+      "Island"
+     ],
+     [
+      2,
+      "Maestros Initiate"
+     ],
+     [
+      1,
+      "Maestros Theater"
+     ],
+     [
+      2,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Midnight Assassin"
+     ],
+     [
+      2,
+      "Murder"
+     ],
+     [
+      1,
+      "Night Clubber"
+     ],
+     [
+      1,
+      "Obscura Storefront"
+     ],
+     [
+      1,
+      "Psychic Pickpocket"
+     ],
+     [
+      2,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Sewer Crocodile"
+     ],
+     [
+      1,
+      "Shakedown Heavy"
+     ],
+     [
+      1,
+      "Sleep with the Fishes"
+     ],
+     [
+      2,
+      "Snooping Newsie"
+     ],
+     [
+      10,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syndicate Infiltrator"
+     ],
+     [
+      1,
+      "Waterfront District"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Gathering Throng"
+     ],
+     [
+      1,
+      "Join the Maestros"
+     ],
+     [
+      1,
+      "Rhox Pummeler"
+     ],
+     [
+      1,
+      "Security Bypass"
+     ],
+     [
+      1,
+      "Strangle"
+     ],
+     [
+      1,
+      "Tavern Swindler"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 19874,
+   "wins": 10468,
+   "winRate": 52.67,
+   "share": 2.44,
+   "drafts": 3504,
+   "trophies": 346,
+   "cards": [
+    {
+     "name": "Titan of Industry",
+     "inclusion": 5.9,
+     "winRate": 57.5,
+     "games": 1272,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 9.1,
+     "winRate": 56.5,
+     "games": 1953,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 8.8,
+     "winRate": 55.9,
+     "games": 1828,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 12.4,
+     "winRate": 55.7,
+     "games": 2566,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Urabrask, Heretic Praetor",
+     "inclusion": 5.3,
+     "winRate": 55.3,
+     "games": 1110,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Fleetfoot Dancer",
+     "inclusion": 5.7,
+     "winRate": 54.8,
+     "games": 1199,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Pugnacious Pugilist",
+     "inclusion": 26.3,
+     "winRate": 54.7,
+     "games": 5417,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Riveteers Charm",
+     "inclusion": 5.5,
+     "winRate": 54.6,
+     "games": 1124,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Bouncer's Beatdown",
+     "inclusion": 23.7,
+     "winRate": 54.2,
+     "games": 4826,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 60.3,
+     "winRate": 54.0,
+     "games": 12243,
+     "trophyInclusion": 70.5
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 39.4,
+     "winRate": 54.0,
+     "games": 7960,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 23.5,
+     "winRate": 54.0,
+     "games": 4833,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Freelance Muscle",
+     "inclusion": 22.8,
+     "winRate": 54.0,
+     "games": 4659,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Venom Connoisseur",
+     "inclusion": 23.1,
+     "winRate": 53.9,
+     "games": 4631,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Rakish Revelers",
+     "inclusion": 18.0,
+     "winRate": 53.9,
+     "games": 3666,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 28.8,
+     "winRate": 53.8,
+     "games": 5878,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 27.7,
+     "winRate": 53.8,
+     "games": 5633,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 26.0,
+     "winRate": 53.8,
+     "games": 5286,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 24.3,
+     "winRate": 53.6,
+     "games": 4899,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Torch Breath",
+     "inclusion": 22.9,
+     "winRate": 53.6,
+     "games": 4615,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Racers' Ring",
+     "inclusion": 58.1,
+     "winRate": 53.5,
+     "games": 11757,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Courier's Briefcase",
+     "inclusion": 12.5,
+     "winRate": 53.5,
+     "games": 2483,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 35.3,
+     "winRate": 53.4,
+     "games": 7125,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Call In a Professional",
+     "inclusion": 26.1,
+     "winRate": 53.4,
+     "games": 5308,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Mayhem Patrol",
+     "inclusion": 59.6,
+     "winRate": 53.3,
+     "games": 11962,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Gala Greeters",
+     "inclusion": 9.2,
+     "winRate": 53.3,
+     "games": 1829,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 34.9,
+     "winRate": 53.2,
+     "games": 7034,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Riveteers Requisitioner",
+     "inclusion": 29.2,
+     "winRate": 53.2,
+     "games": 5893,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Voice of the Vermin",
+     "inclusion": 20.4,
+     "winRate": 53.2,
+     "games": 4103,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 45.9,
+     "winRate": 53.0,
+     "games": 9174,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Prizefight",
+     "inclusion": 43.8,
+     "winRate": 53.0,
+     "games": 8715,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Attended Socialite",
+     "inclusion": 35.0,
+     "winRate": 53.0,
+     "games": 6994,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 57.2,
+     "winRate": 52.9,
+     "games": 11455,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 25.8,
+     "winRate": 52.9,
+     "games": 5117,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Halo Scarab",
+     "inclusion": 15.5,
+     "winRate": 52.8,
+     "games": 3097,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Rocco, Cabaretti Caterer",
+     "inclusion": 11.4,
+     "winRate": 52.8,
+     "games": 2304,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 5.4,
+     "winRate": 52.8,
+     "games": 1093,
+     "trophyInclusion": 4.3
+    },
+    {
+     "name": "Plasma Jockey",
+     "inclusion": 54.9,
+     "winRate": 52.7,
+     "games": 11036,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Witty Roastmaster",
+     "inclusion": 45.3,
+     "winRate": 52.7,
+     "games": 9034,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 13.3,
+     "winRate": 52.7,
+     "games": 2620,
+     "trophyInclusion": 13.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-05-14",
+    "main": [
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Cleanup Crew"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "For the Family"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Freelance Muscle"
+     ],
+     [
+      3,
+      "Jetmir's Fixer"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Light 'Em Up"
+     ],
+     [
+      1,
+      "Mayhem Patrol"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      2,
+      "Plasma Jockey"
+     ],
+     [
+      1,
+      "Quick-Draw Dagger"
+     ],
+     [
+      1,
+      "Racers' Ring"
+     ],
+     [
+      2,
+      "Riveteers Initiate"
+     ],
+     [
+      2,
+      "Riveteers Overlook"
+     ],
+     [
+      1,
+      "Riveteers Requisitioner"
+     ],
+     [
+      1,
+      "Security Rhox"
+     ],
+     [
+      1,
+      "Sticky Fingers"
+     ],
+     [
+      1,
+      "Strangle"
+     ],
+     [
+      1,
+      "Voice of the Vermin"
+     ],
+     [
+      2,
+      "Witty Roastmaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Body Dropper"
+     ],
+     [
+      1,
+      "Brazen Upstart"
+     ],
+     [
+      1,
+      "Capenna Express"
+     ],
+     [
+      1,
+      "Citizen's Crowbar"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Disciplined Duelist"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Involuntary Employment"
+     ],
+     [
+      1,
+      "Obscura Storefront"
+     ],
+     [
+      1,
+      "Prizefight"
+     ],
+     [
+      1,
+      "Social Climber"
+     ],
+     [
+      1,
+      "Spara's Adjudicators"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 3232,
+   "wins": 1799,
+   "winRate": 55.66,
+   "share": 0.4,
+   "drafts": 559,
+   "trophies": 90,
+   "cards": [
+    {
+     "name": "Queza, Augur of Agonies",
+     "inclusion": 8.6,
+     "winRate": 62.3,
+     "games": 324,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Raffine's Tower",
+     "inclusion": 5.7,
+     "winRate": 59.8,
+     "games": 204,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Tenacious Underdog",
+     "inclusion": 10.6,
+     "winRate": 59.3,
+     "games": 361,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Sanctuary Warden",
+     "inclusion": 5.5,
+     "winRate": 59.1,
+     "games": 198,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Night Clubber",
+     "inclusion": 34.2,
+     "winRate": 58.9,
+     "games": 1165,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 14.5,
+     "winRate": 58.9,
+     "games": 499,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Knockout Blow",
+     "inclusion": 20.6,
+     "winRate": 58.8,
+     "games": 702,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 9.1,
+     "winRate": 58.8,
+     "games": 308,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 22.7,
+     "winRate": 58.6,
+     "games": 770,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 25.8,
+     "winRate": 58.5,
+     "games": 855,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Depopulate",
+     "inclusion": 5.5,
+     "winRate": 58.3,
+     "games": 187,
+     "trophyInclusion": 3.3
+    },
+    {
+     "name": "Whack",
+     "inclusion": 24.0,
+     "winRate": 57.8,
+     "games": 819,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Graveyard Shift",
+     "inclusion": 8.2,
+     "winRate": 57.8,
+     "games": 275,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Ballroom Brawlers",
+     "inclusion": 20.9,
+     "winRate": 57.6,
+     "games": 714,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 64.6,
+     "winRate": 57.3,
+     "games": 2153,
+     "trophyInclusion": 75.6
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 46.2,
+     "winRate": 57.3,
+     "games": 1540,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 14.1,
+     "winRate": 57.2,
+     "games": 479,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Dig Up the Body",
+     "inclusion": 49.2,
+     "winRate": 57.0,
+     "games": 1650,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 64.2,
+     "winRate": 56.9,
+     "games": 2131,
+     "trophyInclusion": 70.0
+    },
+    {
+     "name": "Sky Crier",
+     "inclusion": 43.5,
+     "winRate": 56.9,
+     "games": 1435,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Illuminator Virtuoso",
+     "inclusion": 23.3,
+     "winRate": 56.9,
+     "games": 740,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Deal Gone Bad",
+     "inclusion": 44.7,
+     "winRate": 56.8,
+     "games": 1497,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Giada, Font of Hope",
+     "inclusion": 6.6,
+     "winRate": 56.8,
+     "games": 220,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 21.6,
+     "winRate": 56.7,
+     "games": 714,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Patch Up",
+     "inclusion": 5.2,
+     "winRate": 56.7,
+     "games": 171,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Getaway Car",
+     "inclusion": 5.7,
+     "winRate": 56.2,
+     "games": 178,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 70.8,
+     "winRate": 56.1,
+     "games": 2336,
+     "trophyInclusion": 68.9
+    },
+    {
+     "name": "Ominous Parcel",
+     "inclusion": 15.2,
+     "winRate": 56.1,
+     "games": 499,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 38.1,
+     "winRate": 56.0,
+     "games": 1261,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Extraction Specialist",
+     "inclusion": 11.4,
+     "winRate": 55.8,
+     "games": 371,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Mysterious Limousine",
+     "inclusion": 10.9,
+     "winRate": 55.8,
+     "games": 339,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 62.1,
+     "winRate": 55.7,
+     "games": 2045,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Backup Agent",
+     "inclusion": 54.2,
+     "winRate": 55.7,
+     "games": 1766,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 31.1,
+     "winRate": 55.6,
+     "games": 1032,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 66.4,
+     "winRate": 55.5,
+     "games": 2127,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Crooked Custodian",
+     "inclusion": 62.3,
+     "winRate": 55.5,
+     "games": 2026,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Raffine's Guidance",
+     "inclusion": 18.1,
+     "winRate": 55.4,
+     "games": 574,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 23.4,
+     "winRate": 55.3,
+     "games": 780,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Murder",
+     "inclusion": 51.5,
+     "winRate": 55.1,
+     "games": 1670,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Shattered Seraph",
+     "inclusion": 20.0,
+     "winRate": 55.1,
+     "games": 644,
+     "trophyInclusion": 18.9
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-05-01",
+    "main": [
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      3,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Dig Up the Body"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Grisly Sigil"
+     ],
+     [
+      1,
+      "Illuminator Virtuoso"
+     ],
+     [
+      1,
+      "Inspiring Overseer"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Knockout Blow"
+     ],
+     [
+      2,
+      "Maestros Theater"
+     ],
+     [
+      1,
+      "Midnight Assassin"
+     ],
+     [
+      1,
+      "Night Clubber"
+     ],
+     [
+      1,
+      "Obscura Charm"
+     ],
+     [
+      1,
+      "Obscura Storefront"
+     ],
+     [
+      1,
+      "Patch Up"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Raffine's Silencer"
+     ],
+     [
+      1,
+      "Raffine, Scheming Seer"
+     ],
+     [
+      1,
+      "Shattered Seraph"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Skybridge Towers"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tenacious Underdog"
+     ],
+     [
+      1,
+      "Waterfront District"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Body Dropper"
+     ],
+     [
+      1,
+      "Buy Your Silence"
+     ],
+     [
+      1,
+      "Capenna Express"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Demon's Due"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Light 'Em Up"
+     ],
+     [
+      1,
+      "Obscura Initiate"
+     ],
+     [
+      1,
+      "Rhox Pummeler"
+     ],
+     [
+      1,
+      "Riveteers Initiate"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Shattered Seraph"
+     ],
+     [
+      1,
+      "Social Climber"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 2036,
+   "wins": 1077,
+   "winRate": 52.9,
+   "share": 0.25,
+   "drafts": 359,
+   "trophies": 30,
+   "cards": [
+    {
+     "name": "Patch Up",
+     "inclusion": 5.6,
+     "winRate": 58.8,
+     "games": 114,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Brazen Upstart",
+     "inclusion": 5.8,
+     "winRate": 57.5,
+     "games": 134,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Rabble Rousing",
+     "inclusion": 13.1,
+     "winRate": 57.4,
+     "games": 282,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Rakish Revelers",
+     "inclusion": 17.0,
+     "winRate": 56.6,
+     "games": 346,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Gathering Throng",
+     "inclusion": 27.3,
+     "winRate": 55.9,
+     "games": 574,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Mage's Attendant",
+     "inclusion": 25.6,
+     "winRate": 55.4,
+     "games": 556,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Swooping Protector",
+     "inclusion": 22.3,
+     "winRate": 55.3,
+     "games": 461,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Ready to Rumble",
+     "inclusion": 16.2,
+     "winRate": 54.9,
+     "games": 355,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "inclusion": 13.4,
+     "winRate": 54.6,
+     "games": 293,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Sizzling Soloist",
+     "inclusion": 31.5,
+     "winRate": 54.5,
+     "games": 657,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Buy Your Silence",
+     "inclusion": 16.7,
+     "winRate": 54.5,
+     "games": 352,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Sticky Fingers",
+     "inclusion": 44.8,
+     "winRate": 54.3,
+     "games": 956,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Witty Roastmaster",
+     "inclusion": 57.7,
+     "winRate": 54.1,
+     "games": 1219,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 9.5,
+     "winRate": 54.1,
+     "games": 207,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Halo Scarab",
+     "inclusion": 18.9,
+     "winRate": 54.0,
+     "games": 389,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Antagonize",
+     "inclusion": 48.7,
+     "winRate": 53.9,
+     "games": 1040,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Urabrask, Heretic Praetor",
+     "inclusion": 6.7,
+     "winRate": 53.8,
+     "games": 143,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Dapper Shieldmate",
+     "inclusion": 35.4,
+     "winRate": 53.7,
+     "games": 723,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Citizen's Crowbar",
+     "inclusion": 28.1,
+     "winRate": 53.6,
+     "games": 599,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Cabaretti Charm",
+     "inclusion": 7.0,
+     "winRate": 53.6,
+     "games": 138,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Hold for Ransom",
+     "inclusion": 48.2,
+     "winRate": 53.5,
+     "games": 971,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Unlucky Witness",
+     "inclusion": 17.8,
+     "winRate": 53.4,
+     "games": 367,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Racers' Ring",
+     "inclusion": 13.9,
+     "winRate": 53.4,
+     "games": 298,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Involuntary Employment",
+     "inclusion": 11.4,
+     "winRate": 53.4,
+     "games": 238,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Exhibition Magician",
+     "inclusion": 56.3,
+     "winRate": 53.3,
+     "games": 1160,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 40.4,
+     "winRate": 53.3,
+     "games": 838,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 61.8,
+     "winRate": 53.2,
+     "games": 1275,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Jaxis, the Troublemaker",
+     "inclusion": 13.1,
+     "winRate": 53.1,
+     "games": 260,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Raffine's Informant",
+     "inclusion": 61.8,
+     "winRate": 53.0,
+     "games": 1281,
+     "trophyInclusion": 76.7
+    },
+    {
+     "name": "Mayhem Patrol",
+     "inclusion": 70.5,
+     "winRate": 52.9,
+     "games": 1464,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Illuminator Virtuoso",
+     "inclusion": 33.7,
+     "winRate": 52.9,
+     "games": 705,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Big Score",
+     "inclusion": 20.3,
+     "winRate": 52.9,
+     "games": 408,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 60.4,
+     "winRate": 52.8,
+     "games": 1252,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Revelation of Power",
+     "inclusion": 33.7,
+     "winRate": 52.8,
+     "games": 718,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Speakeasy Server",
+     "inclusion": 32.3,
+     "winRate": 52.8,
+     "games": 667,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Goldhound",
+     "inclusion": 42.1,
+     "winRate": 52.7,
+     "games": 875,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Call In a Professional",
+     "inclusion": 26.7,
+     "winRate": 52.7,
+     "games": 554,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Sky Crier",
+     "inclusion": 45.1,
+     "winRate": 52.6,
+     "games": 897,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Paragon of Modernity",
+     "inclusion": 7.5,
+     "winRate": 52.6,
+     "games": 154,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Boon of Safety",
+     "inclusion": 25.9,
+     "winRate": 52.5,
+     "games": 539,
+     "trophyInclusion": 36.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-06",
+    "main": [
+     [
+      1,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      1,
+      "Big Score"
+     ],
+     [
+      1,
+      "Boon of Safety"
+     ],
+     [
+      1,
+      "Call In a Professional"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Goldhound"
+     ],
+     [
+      2,
+      "Inspiring Overseer"
+     ],
+     [
+      1,
+      "Jackhammer"
+     ],
+     [
+      1,
+      "Mayhem Patrol"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      2,
+      "Plasma Jockey"
+     ],
+     [
+      1,
+      "Professional Face-Breaker"
+     ],
+     [
+      1,
+      "Quick-Draw Dagger"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Revelation of Power"
+     ],
+     [
+      1,
+      "Sky Crier"
+     ],
+     [
+      1,
+      "Speakeasy Server"
+     ],
+     [
+      1,
+      "Sticky Fingers"
+     ],
+     [
+      1,
+      "Swooping Protector"
+     ],
+     [
+      1,
+      "Witty Roastmaster"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Body Dropper"
+     ],
+     [
+      1,
+      "Brass Knuckles"
+     ],
+     [
+      1,
+      "Dapper Shieldmate"
+     ],
+     [
+      1,
+      "Daring Escape"
+     ],
+     [
+      1,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Gilded Pinions"
+     ],
+     [
+      1,
+      "Glittering Stockpile"
+     ],
+     [
+      3,
+      "Halo Scarab"
+     ],
+     [
+      2,
+      "Jackhammer"
+     ],
+     [
+      1,
+      "Light 'Em Up"
+     ],
+     [
+      1,
+      "Rakish Revelers"
+     ],
+     [
+      1,
+      "Revelation of Power"
+     ],
+     [
+      1,
+      "Rob the Archives"
+     ],
+     [
+      1,
+      "Rocco, Cabaretti Caterer"
+     ],
+     [
+      1,
+      "Speakeasy Server"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 1756,
+   "wins": 993,
+   "winRate": 56.55,
+   "share": 0.22,
+   "drafts": 306,
+   "trophies": 48,
+   "cards": [
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 24.2,
+     "winRate": 61.2,
+     "games": 428,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Inspiring Overseer",
+     "inclusion": 10.1,
+     "winRate": 61.0,
+     "games": 205,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Ledger Shredder",
+     "inclusion": 9.8,
+     "winRate": 60.7,
+     "games": 183,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Out of the Way",
+     "inclusion": 33.3,
+     "winRate": 59.8,
+     "games": 614,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Skybridge Towers",
+     "inclusion": 20.9,
+     "winRate": 59.8,
+     "games": 363,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 17.6,
+     "winRate": 59.8,
+     "games": 333,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 30.4,
+     "winRate": 59.7,
+     "games": 563,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 13.7,
+     "winRate": 59.7,
+     "games": 253,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Titan of Industry",
+     "inclusion": 7.5,
+     "winRate": 59.4,
+     "games": 128,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 40.8,
+     "winRate": 59.3,
+     "games": 771,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 11.1,
+     "winRate": 59.0,
+     "games": 210,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 67.3,
+     "winRate": 58.6,
+     "games": 1245,
+     "trophyInclusion": 77.1
+    },
+    {
+     "name": "Lagrella, the Magpie",
+     "inclusion": 9.8,
+     "winRate": 58.5,
+     "games": 159,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Majestic Metamorphosis",
+     "inclusion": 62.4,
+     "winRate": 58.4,
+     "games": 1125,
+     "trophyInclusion": 68.8
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 60.5,
+     "winRate": 58.4,
+     "games": 1094,
+     "trophyInclusion": 70.8
+    },
+    {
+     "name": "Chrome Cat",
+     "inclusion": 9.2,
+     "winRate": 58.2,
+     "games": 158,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 36.6,
+     "winRate": 58.0,
+     "games": 646,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Voice of the Vermin",
+     "inclusion": 28.1,
+     "winRate": 58.0,
+     "games": 510,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 57.5,
+     "winRate": 57.8,
+     "games": 1011,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Brokers Charm",
+     "inclusion": 7.2,
+     "winRate": 57.8,
+     "games": 128,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Attended Socialite",
+     "inclusion": 44.8,
+     "winRate": 57.7,
+     "games": 803,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 28.8,
+     "winRate": 57.7,
+     "games": 515,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Wingshield Agent",
+     "inclusion": 26.8,
+     "winRate": 57.7,
+     "games": 477,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Reservoir Kraken",
+     "inclusion": 10.5,
+     "winRate": 57.7,
+     "games": 196,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Brokers Hideout",
+     "inclusion": 48.7,
+     "winRate": 57.6,
+     "games": 879,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Botanical Plaza",
+     "inclusion": 29.1,
+     "winRate": 57.5,
+     "games": 497,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Expendable Lackey",
+     "inclusion": 48.0,
+     "winRate": 57.4,
+     "games": 881,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "A Little Chat",
+     "inclusion": 13.4,
+     "winRate": 57.2,
+     "games": 229,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Civic Gardener",
+     "inclusion": 50.3,
+     "winRate": 57.0,
+     "games": 911,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Prizefight",
+     "inclusion": 40.2,
+     "winRate": 57.0,
+     "games": 724,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Undercover Operative",
+     "inclusion": 10.5,
+     "winRate": 57.0,
+     "games": 186,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 52.6,
+     "winRate": 56.9,
+     "games": 966,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 46.1,
+     "winRate": 56.8,
+     "games": 821,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 28.1,
+     "winRate": 56.8,
+     "games": 502,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Glittermonger",
+     "inclusion": 15.7,
+     "winRate": 56.8,
+     "games": 273,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 28.4,
+     "winRate": 56.7,
+     "games": 529,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Rooftop Nuisance",
+     "inclusion": 42.5,
+     "winRate": 56.5,
+     "games": 749,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 28.4,
+     "winRate": 56.5,
+     "games": 517,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Bouncer's Beatdown",
+     "inclusion": 24.2,
+     "winRate": 56.4,
+     "games": 443,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 50.0,
+     "winRate": 56.2,
+     "games": 879,
+     "trophyInclusion": 47.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-06",
+    "main": [
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Backstreet Bruiser"
+     ],
+     [
+      1,
+      "Brokers Hideout"
+     ],
+     [
+      1,
+      "Brokers Veteran"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Echo Inspector"
+     ],
+     [
+      2,
+      "Expendable Lackey"
+     ],
+     [
+      1,
+      "Faerie Vandal"
+     ],
+     [
+      2,
+      "For the Family"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      3,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Majestic Metamorphosis"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Obscura Storefront"
+     ],
+     [
+      2,
+      "Out of the Way"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Psionic Snoop"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Soul of Emancipation"
+     ],
+     [
+      1,
+      "Voice of the Vermin"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ],
+     [
+      1,
+      "Wingshield Agent"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "An Offer You Can't Refuse"
+     ],
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Backup Agent"
+     ],
+     [
+      1,
+      "Boon of Safety"
+     ],
+     [
+      1,
+      "Brass Knuckles"
+     ],
+     [
+      1,
+      "Cutthroat Contender"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Inspiring Overseer"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      1,
+      "Most Wanted"
+     ],
+     [
+      1,
+      "Raffine's Guidance"
+     ],
+     [
+      1,
+      "Raffine's Informant"
+     ],
+     [
+      1,
+      "Rhox Pummeler"
+     ],
+     [
+      1,
+      "Rob the Archives"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Security Bypass"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 1564,
+   "wins": 841,
+   "winRate": 53.77,
+   "share": 0.19,
+   "drafts": 267,
+   "trophies": 29,
+   "cards": [
+    {
+     "name": "Night Clubber",
+     "inclusion": 31.5,
+     "winRate": 59.7,
+     "games": 546,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Sanguine Spy",
+     "inclusion": 10.5,
+     "winRate": 59.4,
+     "games": 170,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Tramway Station",
+     "inclusion": 19.5,
+     "winRate": 58.2,
+     "games": 311,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Shakedown Heavy",
+     "inclusion": 12.0,
+     "winRate": 58.1,
+     "games": 198,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Racers' Ring",
+     "inclusion": 20.6,
+     "winRate": 58.0,
+     "games": 336,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Raffine's Silencer",
+     "inclusion": 27.7,
+     "winRate": 57.9,
+     "games": 461,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 25.1,
+     "winRate": 57.6,
+     "games": 413,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Cleanup Crew",
+     "inclusion": 32.6,
+     "winRate": 56.8,
+     "games": 526,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 13.9,
+     "winRate": 56.7,
+     "games": 217,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Graveyard Shift",
+     "inclusion": 12.7,
+     "winRate": 56.6,
+     "games": 198,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Murder",
+     "inclusion": 58.1,
+     "winRate": 56.3,
+     "games": 949,
+     "trophyInclusion": 72.4
+    },
+    {
+     "name": "Whack",
+     "inclusion": 26.6,
+     "winRate": 56.2,
+     "games": 436,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Masked Bandits",
+     "inclusion": 22.1,
+     "winRate": 55.6,
+     "games": 354,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Cabaretti Courtyard",
+     "inclusion": 13.5,
+     "winRate": 55.5,
+     "games": 220,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Riveteers Decoy",
+     "inclusion": 33.0,
+     "winRate": 55.4,
+     "games": 540,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Tavern Swindler",
+     "inclusion": 10.9,
+     "winRate": 55.4,
+     "games": 177,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Grisly Sigil",
+     "inclusion": 30.7,
+     "winRate": 55.3,
+     "games": 501,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Rogues' Gallery",
+     "inclusion": 14.6,
+     "winRate": 55.3,
+     "games": 226,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Civic Gardener",
+     "inclusion": 47.9,
+     "winRate": 55.1,
+     "games": 771,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Fight Rigging",
+     "inclusion": 15.0,
+     "winRate": 55.1,
+     "games": 243,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Jewel Thief",
+     "inclusion": 66.3,
+     "winRate": 54.7,
+     "games": 1053,
+     "trophyInclusion": 72.4
+    },
+    {
+     "name": "Prizefight",
+     "inclusion": 49.1,
+     "winRate": 54.7,
+     "games": 768,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Workshop Warchief",
+     "inclusion": 12.7,
+     "winRate": 54.6,
+     "games": 207,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Luxurious Libation",
+     "inclusion": 25.1,
+     "winRate": 54.5,
+     "games": 391,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Maestros Initiate",
+     "inclusion": 16.1,
+     "winRate": 54.5,
+     "games": 264,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Caldaia Strongarm",
+     "inclusion": 52.1,
+     "winRate": 54.4,
+     "games": 833,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Warm Welcome",
+     "inclusion": 38.6,
+     "winRate": 54.4,
+     "games": 607,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Dig Up the Body",
+     "inclusion": 45.3,
+     "winRate": 54.2,
+     "games": 705,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Riveteers Overlook",
+     "inclusion": 46.8,
+     "winRate": 53.9,
+     "games": 724,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Fake Your Own Death",
+     "inclusion": 59.2,
+     "winRate": 53.6,
+     "games": 921,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Girder Goons",
+     "inclusion": 69.3,
+     "winRate": 53.5,
+     "games": 1072,
+     "trophyInclusion": 72.4
+    },
+    {
+     "name": "Mr. Orfeo, the Boulder",
+     "inclusion": 8.2,
+     "winRate": 53.5,
+     "games": 127,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Freelance Muscle",
+     "inclusion": 25.8,
+     "winRate": 53.4,
+     "games": 393,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "High-Rise Sawjack",
+     "inclusion": 39.3,
+     "winRate": 53.3,
+     "games": 600,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Elegant Entourage",
+     "inclusion": 27.3,
+     "winRate": 53.0,
+     "games": 438,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 61.4,
+     "winRate": 52.9,
+     "games": 937,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "For the Family",
+     "inclusion": 35.2,
+     "winRate": 52.9,
+     "games": 541,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Attended Socialite",
+     "inclusion": 38.2,
+     "winRate": 52.8,
+     "games": 578,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Dusk Mangler",
+     "inclusion": 34.8,
+     "winRate": 52.8,
+     "games": 530,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Ominous Parcel",
+     "inclusion": 13.5,
+     "winRate": 52.8,
+     "games": 214,
+     "trophyInclusion": 6.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-20",
+    "main": [
+     [
+      1,
+      "Bouncer's Beatdown"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      3,
+      "Civic Gardener"
+     ],
+     [
+      1,
+      "Cleanup Crew"
+     ],
+     [
+      2,
+      "Corrupt Court Official"
+     ],
+     [
+      2,
+      "Deal Gone Bad"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Girder Goons"
+     ],
+     [
+      1,
+      "Graveyard Shift"
+     ],
+     [
+      1,
+      "High-Rise Sawjack"
+     ],
+     [
+      1,
+      "Jewel Thief"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Night Clubber"
+     ],
+     [
+      1,
+      "Raffine's Silencer"
+     ],
+     [
+      1,
+      "Revel Ruiner"
+     ],
+     [
+      1,
+      "Riveteers Overlook"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Titan of Industry"
+     ],
+     [
+      1,
+      "Venom Connoisseur"
+     ],
+     [
+      1,
+      "Voice of the Vermin"
+     ],
+     [
+      1,
+      "Warm Welcome"
+     ],
+     [
+      1,
+      "Whack"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Attended Socialite"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Case the Joint"
+     ],
+     [
+      1,
+      "Deal Gone Bad"
+     ],
+     [
+      1,
+      "Expendable Lackey"
+     ],
+     [
+      1,
+      "Extract the Truth"
+     ],
+     [
+      2,
+      "Glittermonger"
+     ],
+     [
+      1,
+      "Halo Scarab"
+     ],
+     [
+      1,
+      "High-Rise Sawjack"
+     ],
+     [
+      1,
+      "Incriminate"
+     ],
+     [
+      2,
+      "Maestros Initiate"
+     ],
+     [
+      1,
+      "Masked Bandits"
+     ],
+     [
+      1,
+      "Most Wanted"
+     ],
+     [
+      1,
+      "Paragon of Modernity"
+     ],
+     [
+      1,
+      "Psionic Snoop"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 713,
+   "wins": 362,
+   "winRate": 50.77,
+   "share": 0.09,
+   "drafts": 132,
+   "trophies": 9,
+   "cards": [
+    {
+     "name": "Out of the Way",
+     "inclusion": 31.8,
+     "winRate": 55.3,
+     "games": 246,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Involuntary Employment",
+     "inclusion": 17.4,
+     "winRate": 54.5,
+     "games": 143,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Obscura Storefront",
+     "inclusion": 15.2,
+     "winRate": 54.5,
+     "games": 123,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Sleep with the Fishes",
+     "inclusion": 23.5,
+     "winRate": 54.2,
+     "games": 177,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 21.2,
+     "winRate": 54.1,
+     "games": 157,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Waterfront District",
+     "inclusion": 21.2,
+     "winRate": 53.8,
+     "games": 171,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Security Bypass",
+     "inclusion": 17.4,
+     "winRate": 53.7,
+     "games": 134,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Faerie Vandal",
+     "inclusion": 37.1,
+     "winRate": 53.4,
+     "games": 277,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Exhibition Magician",
+     "inclusion": 47.0,
+     "winRate": 52.7,
+     "games": 347,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Witty Roastmaster",
+     "inclusion": 37.1,
+     "winRate": 52.3,
+     "games": 279,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Quick-Draw Dagger",
+     "inclusion": 31.1,
+     "winRate": 52.3,
+     "games": 239,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Pugnacious Pugilist",
+     "inclusion": 30.3,
+     "winRate": 52.3,
+     "games": 222,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Riveteers Requisitioner",
+     "inclusion": 31.1,
+     "winRate": 52.2,
+     "games": 224,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Expendable Lackey",
+     "inclusion": 56.8,
+     "winRate": 51.5,
+     "games": 404,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Echo Inspector",
+     "inclusion": 61.4,
+     "winRate": 51.4,
+     "games": 453,
+     "trophyInclusion": 77.8
+    },
+    {
+     "name": "Torch Breath",
+     "inclusion": 20.5,
+     "winRate": 51.0,
+     "games": 149,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Brokers Veteran",
+     "inclusion": 47.7,
+     "winRate": 50.9,
+     "games": 344,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Majestic Metamorphosis",
+     "inclusion": 59.8,
+     "winRate": 50.8,
+     "games": 433,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Strangle",
+     "inclusion": 59.8,
+     "winRate": 50.8,
+     "games": 421,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Rooftop Nuisance",
+     "inclusion": 62.9,
+     "winRate": 50.7,
+     "games": 448,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Glamorous Outlaw",
+     "inclusion": 23.5,
+     "winRate": 50.6,
+     "games": 166,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Make Disappear",
+     "inclusion": 39.4,
+     "winRate": 50.5,
+     "games": 281,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Wrecking Crew",
+     "inclusion": 34.1,
+     "winRate": 50.0,
+     "games": 248,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Ready to Rumble",
+     "inclusion": 22.7,
+     "winRate": 49.4,
+     "games": 156,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Plasma Jockey",
+     "inclusion": 58.3,
+     "winRate": 49.3,
+     "games": 408,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Psychic Pickpocket",
+     "inclusion": 33.3,
+     "winRate": 49.3,
+     "games": 225,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Mayhem Patrol",
+     "inclusion": 73.5,
+     "winRate": 49.1,
+     "games": 509,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Light 'Em Up",
+     "inclusion": 53.8,
+     "winRate": 49.1,
+     "games": 381,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Sticky Fingers",
+     "inclusion": 34.1,
+     "winRate": 49.1,
+     "games": 232,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Run Out of Town",
+     "inclusion": 42.4,
+     "winRate": 48.7,
+     "games": 300,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Maestros Theater",
+     "inclusion": 41.7,
+     "winRate": 48.7,
+     "games": 302,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Hypnotic Grifter",
+     "inclusion": 31.8,
+     "winRate": 48.6,
+     "games": 208,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Antagonize",
+     "inclusion": 30.3,
+     "winRate": 48.6,
+     "games": 214,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Call In a Professional",
+     "inclusion": 33.3,
+     "winRate": 47.8,
+     "games": 230,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Wingshield Agent",
+     "inclusion": 21.2,
+     "winRate": 47.7,
+     "games": 149,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Big Score",
+     "inclusion": 25.8,
+     "winRate": 47.2,
+     "games": 180,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Backstreet Bruiser",
+     "inclusion": 21.2,
+     "winRate": 46.9,
+     "games": 143,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "A Little Chat",
+     "inclusion": 22.0,
+     "winRate": 46.6,
+     "games": 161,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Goldhound",
+     "inclusion": 23.5,
+     "winRate": 46.0,
+     "games": 161,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Sizzling Soloist",
+     "inclusion": 22.7,
+     "winRate": 46.0,
+     "games": 150,
+     "trophyInclusion": 11.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-05-20",
+    "main": [
+     [
+      1,
+      "Brokers Veteran"
+     ],
+     [
+      4,
+      "Echo Inspector"
+     ],
+     [
+      2,
+      "Exhibition Magician"
+     ],
+     [
+      1,
+      "Faerie Vandal"
+     ],
+     [
+      1,
+      "Gilded Pinions"
+     ],
+     [
+      1,
+      "Halo Scarab"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Make Disappear"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Ominous Parcel"
+     ],
+     [
+      1,
+      "Out of the Way"
+     ],
+     [
+      1,
+      "Plasma Jockey"
+     ],
+     [
+      1,
+      "Professional Face-Breaker"
+     ],
+     [
+      1,
+      "Psychic Pickpocket"
+     ],
+     [
+      2,
+      "Pugnacious Pugilist"
+     ],
+     [
+      1,
+      "Rooftop Nuisance"
+     ],
+     [
+      1,
+      "Run Out of Town"
+     ],
+     [
+      1,
+      "Security Bypass"
+     ],
+     [
+      1,
+      "Sleep with the Fishes"
+     ],
+     [
+      1,
+      "Strangle"
+     ],
+     [
+      1,
+      "Wrecking Crew"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Antagonize"
+     ],
+     [
+      1,
+      "Bouncer's Beatdown"
+     ],
+     [
+      1,
+      "Brass Knuckles"
+     ],
+     [
+      1,
+      "Cabaretti Courtyard"
+     ],
+     [
+      1,
+      "Caldaia Strongarm"
+     ],
+     [
+      1,
+      "Cement Shoes"
+     ],
+     [
+      1,
+      "Corpse Appraiser"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Jetmir's Fixer"
+     ],
+     [
+      1,
+      "Join the Maestros"
+     ],
+     [
+      1,
+      "Knockout Blow"
+     ],
+     [
+      1,
+      "Mage's Attendant"
+     ],
+     [
+      1,
+      "Masked Bandits"
+     ],
+     [
+      1,
+      "Patch Up"
+     ],
+     [
+      1,
+      "Riveteers Decoy"
+     ],
+     [
+      1,
+      "Riveteers Initiate"
+     ],
+     [
+      1,
+      "Rob the Archives"
+     ],
+     [
+      1,
+      "Vampire Scrivener"
+     ]
+    ]
+   }
+  }
+ ]
+}

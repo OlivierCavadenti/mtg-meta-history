@@ -4,7 +4,7 @@
 #   bash scripts/pipeline/weekly.sh build     # after the editorial pass: check, build, validate
 set -euo pipefail
 cd "$(dirname "$0")/../.."
-FORMATS="${MTG_FORMATS:-standard modern premodern}"
+FORMATS="${MTG_FORMATS:-standard modern premodern limited}"
 P=scripts/pipeline
 
 case "${1:-}" in
@@ -17,6 +17,12 @@ case "${1:-}" in
     [ "$(date +%m)" -le 2 ] && first=$((year - 1))
     for f in $FORMATS; do
       echo "=== $f"
+      if [ "$f" = limited ]; then
+        # 17Lands public dumps: changed dumps and new sets; then what lacks an editorial entry
+        python3 $P/limited/refresh.py
+        python3 $P/limited/build_limited.py --check | grep -vE '^[a-z0-9]+ [0-9]+ decks' || true
+        continue
+      fi
       MTG_FORMAT=$f python3 $P/scrape_search.py "$first" "$year" --refresh
       MTG_FORMAT=$f python3 $P/cluster.py > /dev/null
       MTG_FORMAT=$f python3 $P/pending.py
@@ -26,6 +32,11 @@ case "${1:-}" in
     status=0
     for f in $FORMATS; do
       echo "=== $f"
+      if [ "$f" = limited ]; then
+        python3 $P/limited/build_limited.py --check > .pipeline/build-limited.log || { grep -E 'error|^ -' .pipeline/build-limited.log; status=1; }
+        python3 $P/limited/build_limited.py > /dev/null
+        continue
+      fi
       MTG_FORMAT=$f python3 -c "import sys; sys.path.insert(0, '$P'); from common import SEASONS; print(' '.join(s[0] for s in SEASONS[-2:]))" > .pipeline/recent
       for s in $(cat .pipeline/recent); do
         MTG_FORMAT=$f python3 $P/check_editorial.py "$s" || status=1

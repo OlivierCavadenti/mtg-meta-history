@@ -1,0 +1,6460 @@
+{
+ "set": "otj",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.OTJ.PremierDraft.csv.gz",
+ "lastModified": "Thu, 30 May 2024 14:43:27 GMT",
+ "colorsDerived": false,
+ "first": "2024-04-16",
+ "last": "2024-05-27",
+ "games": 1172393,
+ "drafts": 202232,
+ "winRate": 54.14,
+ "combos": [
+  {
+   "colors": "WG",
+   "games": 213590,
+   "wins": 122349,
+   "winRate": 57.28,
+   "share": 18.22,
+   "drafts": 35265,
+   "trophies": 5460,
+   "cards": [
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 9.1,
+     "winRate": 60.1,
+     "games": 20030,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Seraphic Steed",
+     "inclusion": 16.0,
+     "winRate": 59.4,
+     "games": 35385,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Selvala, Eager Trailblazer",
+     "inclusion": 6.2,
+     "winRate": 59.2,
+     "games": 13479,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Colossal Rattlewurm",
+     "inclusion": 8.2,
+     "winRate": 59.1,
+     "games": 17932,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Dust Animus",
+     "inclusion": 8.7,
+     "winRate": 59.0,
+     "games": 19058,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 24.9,
+     "winRate": 58.9,
+     "games": 54416,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 23.5,
+     "winRate": 58.9,
+     "games": 51549,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 5.7,
+     "winRate": 58.7,
+     "games": 12363,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Bucolic Ranch",
+     "inclusion": 20.9,
+     "winRate": 58.6,
+     "games": 45250,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Frontier Seeker",
+     "inclusion": 27.2,
+     "winRate": 58.5,
+     "games": 59157,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Stubborn Burrowfiend",
+     "inclusion": 23.9,
+     "winRate": 58.5,
+     "games": 51831,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 21.0,
+     "winRate": 58.5,
+     "games": 45661,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 33.3,
+     "winRate": 58.4,
+     "games": 72158,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Trash the Town",
+     "inclusion": 21.3,
+     "winRate": 58.4,
+     "games": 46211,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 18.7,
+     "winRate": 58.4,
+     "games": 40675,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 32.6,
+     "winRate": 58.3,
+     "games": 70642,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 22.0,
+     "winRate": 58.3,
+     "games": 47646,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 50.7,
+     "winRate": 58.2,
+     "games": 109801,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Miriam, Herd Whisperer",
+     "inclusion": 38.2,
+     "winRate": 58.2,
+     "games": 82619,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Wylie Duke, Atiin Hero",
+     "inclusion": 15.9,
+     "winRate": 58.2,
+     "games": 34333,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Fortune, Loyal Steed",
+     "inclusion": 9.9,
+     "winRate": 58.2,
+     "games": 21420,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Congregation Gryff",
+     "inclusion": 36.5,
+     "winRate": 58.1,
+     "games": 79093,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 25.3,
+     "winRate": 58.1,
+     "games": 54952,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 18.7,
+     "winRate": 58.1,
+     "games": 40396,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 20.1,
+     "winRate": 58.0,
+     "games": 43266,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Aloe Alchemist",
+     "inclusion": 19.9,
+     "winRate": 58.0,
+     "games": 43322,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 51.4,
+     "winRate": 57.9,
+     "games": 110737,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Journey to Nowhere",
+     "inclusion": 21.7,
+     "winRate": 57.9,
+     "games": 46653,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Aven Interrupter",
+     "inclusion": 8.3,
+     "winRate": 57.9,
+     "games": 17781,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Trained Arynx",
+     "inclusion": 59.0,
+     "winRate": 57.8,
+     "games": 127069,
+     "trophyInclusion": 62.4
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 48.3,
+     "winRate": 57.8,
+     "games": 104035,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Intrepid Stablemaster",
+     "inclusion": 20.6,
+     "winRate": 57.8,
+     "games": 44409,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Mobile Homestead",
+     "inclusion": 16.7,
+     "winRate": 57.8,
+     "games": 36039,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 11.4,
+     "winRate": 57.8,
+     "games": 24660,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Mystical Tether",
+     "inclusion": 46.9,
+     "winRate": 57.7,
+     "games": 100763,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 24.0,
+     "winRate": 57.6,
+     "games": 51490,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Clear Shot",
+     "inclusion": 21.5,
+     "winRate": 57.6,
+     "games": 46198,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Prairie Dog",
+     "inclusion": 19.9,
+     "winRate": 57.6,
+     "games": 42514,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Outcaster Trailblazer",
+     "inclusion": 7.8,
+     "winRate": 57.6,
+     "games": 16595,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Drover Grizzly",
+     "inclusion": 49.9,
+     "winRate": 57.5,
+     "games": 106883,
+     "trophyInclusion": 50.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-04-29",
+    "main": [
+     [
+      1,
+      "Back for More"
+     ],
+     [
+      2,
+      "Bridled Bighorn"
+     ],
+     [
+      1,
+      "Cactarantula"
+     ],
+     [
+      1,
+      "Clear Shot"
+     ],
+     [
+      1,
+      "Congregation Gryff"
+     ],
+     [
+      1,
+      "Creosote Heath"
+     ],
+     [
+      1,
+      "Drover Grizzly"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Forlorn Flats"
+     ],
+     [
+      1,
+      "Frontier Seeker"
+     ],
+     [
+      1,
+      "Holy Cow"
+     ],
+     [
+      1,
+      "Intrepid Stablemaster"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Miriam, Herd Whisperer"
+     ],
+     [
+      1,
+      "Mystical Tether"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Raucous Entertainer"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Spinewoods Paladin"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Sterling Supplier"
+     ],
+     [
+      1,
+      "Stubborn Burrowfiend"
+     ],
+     [
+      2,
+      "Swamp"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Throw from the Saddle"
+     ],
+     [
+      1,
+      "Thunder Lasso"
+     ],
+     [
+      1,
+      "Trained Arynx"
+     ],
+     [
+      1,
+      "Voracious Varmint"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      1,
+      "Boom Box"
+     ],
+     [
+      1,
+      "Dance of the Tumbleweeds"
+     ],
+     [
+      1,
+      "Freestrider Commando"
+     ],
+     [
+      1,
+      "Geyser Drake"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Raven of Fell Omens"
+     ],
+     [
+      1,
+      "Skulduggery"
+     ],
+     [
+      1,
+      "Stagecoach Security"
+     ],
+     [
+      1,
+      "Steer Clear"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      2,
+      "Tumbleweed Rising"
+     ],
+     [
+      1,
+      "Vial Smasher, Gleeful Grenadier"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 147132,
+   "wins": 81750,
+   "winRate": 55.56,
+   "share": 12.55,
+   "drafts": 24764,
+   "trophies": 3355,
+   "cards": [
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 22.4,
+     "winRate": 58.2,
+     "games": 34153,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 8.4,
+     "winRate": 58.2,
+     "games": 12830,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Roxanne, Starfall Savant",
+     "inclusion": 5.2,
+     "winRate": 58.1,
+     "games": 7854,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 23.7,
+     "winRate": 57.8,
+     "games": 36189,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 28.5,
+     "winRate": 57.7,
+     "games": 43141,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 17.2,
+     "winRate": 57.4,
+     "games": 26015,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "The Gitrog, Ravenous Ride",
+     "inclusion": 7.0,
+     "winRate": 57.4,
+     "games": 10569,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 39.6,
+     "winRate": 57.0,
+     "games": 59601,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Colossal Rattlewurm",
+     "inclusion": 9.3,
+     "winRate": 57.0,
+     "games": 13939,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 6.2,
+     "winRate": 57.0,
+     "games": 9295,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 30.3,
+     "winRate": 56.9,
+     "games": 45307,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 19.7,
+     "winRate": 56.9,
+     "games": 29424,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 8.3,
+     "winRate": 56.9,
+     "games": 12353,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 9.7,
+     "winRate": 56.8,
+     "games": 14561,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Outcaster Trailblazer",
+     "inclusion": 8.2,
+     "winRate": 56.7,
+     "games": 12228,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Honest Rutstein",
+     "inclusion": 37.5,
+     "winRate": 56.6,
+     "games": 55981,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 15.1,
+     "winRate": 56.6,
+     "games": 22611,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Caustic Bronco",
+     "inclusion": 9.8,
+     "winRate": 56.6,
+     "games": 14802,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 19.1,
+     "winRate": 56.5,
+     "games": 28541,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 16.6,
+     "winRate": 56.5,
+     "games": 24841,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 15.2,
+     "winRate": 56.5,
+     "games": 22688,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 48.7,
+     "winRate": 56.4,
+     "games": 72280,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 45.2,
+     "winRate": 56.4,
+     "games": 67358,
+     "trophyInclusion": 48.0
+    },
+    {
+     "name": "Stubborn Burrowfiend",
+     "inclusion": 26.0,
+     "winRate": 56.4,
+     "games": 38924,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Patient Naturalist",
+     "inclusion": 52.1,
+     "winRate": 56.3,
+     "games": 77333,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Spinewoods Paladin",
+     "inclusion": 45.1,
+     "winRate": 56.3,
+     "games": 66956,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Consuming Ashes",
+     "inclusion": 51.5,
+     "winRate": 56.2,
+     "games": 76495,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 27.9,
+     "winRate": 56.2,
+     "games": 41323,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Unfortunate Accident",
+     "inclusion": 21.8,
+     "winRate": 56.2,
+     "games": 32560,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 17.3,
+     "winRate": 56.2,
+     "games": 25771,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Bucolic Ranch",
+     "inclusion": 5.3,
+     "winRate": 56.2,
+     "games": 7740,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 49.8,
+     "winRate": 56.1,
+     "games": 74060,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Back for More",
+     "inclusion": 39.3,
+     "winRate": 56.1,
+     "games": 58302,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Servant of the Stinger",
+     "inclusion": 20.8,
+     "winRate": 56.1,
+     "games": 30679,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Desperate Bloodseeker",
+     "inclusion": 53.2,
+     "winRate": 56.0,
+     "games": 78796,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 47.4,
+     "winRate": 56.0,
+     "games": 70068,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 20.3,
+     "winRate": 56.0,
+     "games": 29883,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Aloe Alchemist",
+     "inclusion": 18.8,
+     "winRate": 56.0,
+     "games": 27873,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Trash the Town",
+     "inclusion": 18.3,
+     "winRate": 56.0,
+     "games": 27141,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Arid Archway",
+     "inclusion": 9.7,
+     "winRate": 56.0,
+     "games": 14342,
+     "trophyInclusion": 10.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-05-11",
+    "main": [
+     [
+      1,
+      "Ambush Gigapede"
+     ],
+     [
+      1,
+      "Badlands Revival"
+     ],
+     [
+      1,
+      "Beastbond Outcaster"
+     ],
+     [
+      1,
+      "Bristlebud Farmer"
+     ],
+     [
+      1,
+      "Bristling Backwoods"
+     ],
+     [
+      2,
+      "Conduit Pylons"
+     ],
+     [
+      1,
+      "Consuming Ashes"
+     ],
+     [
+      1,
+      "Dance of the Tumbleweeds"
+     ],
+     [
+      1,
+      "Desert's Due"
+     ],
+     [
+      2,
+      "Desperate Bloodseeker"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Freestrider Commando"
+     ],
+     [
+      1,
+      "Giant Beaver"
+     ],
+     [
+      1,
+      "Hardbristle Bandit"
+     ],
+     [
+      1,
+      "Hollow Marauder"
+     ],
+     [
+      1,
+      "Lush Oasis"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Ornery Tumblewagg"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Rush of Dread"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Soured Springs"
+     ],
+     [
+      2,
+      "Spinewoods Paladin"
+     ],
+     [
+      1,
+      "Stubborn Burrowfiend"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Throw from the Saddle"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bristlepack Sentry"
+     ],
+     [
+      1,
+      "Demonic Ruckus"
+     ],
+     [
+      1,
+      "Esoteric Duplicator"
+     ],
+     [
+      1,
+      "Freestrider Commando"
+     ],
+     [
+      1,
+      "Full Steam Ahead"
+     ],
+     [
+      1,
+      "Irascible Wolverine"
+     ],
+     [
+      1,
+      "Overzealous Muscle"
+     ],
+     [
+      2,
+      "Reach for the Sky"
+     ],
+     [
+      1,
+      "Sandstorm Verge"
+     ],
+     [
+      1,
+      "Skulduggery"
+     ],
+     [
+      1,
+      "Tumbleweed Rising"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 94790,
+   "wins": 50529,
+   "winRate": 53.31,
+   "share": 8.09,
+   "drafts": 16617,
+   "trophies": 1885,
+   "cards": [
+    {
+     "name": "Bonny Pall, Clearcutter",
+     "inclusion": 5.7,
+     "winRate": 57.3,
+     "games": 5710,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Gisa, the Hellraiser",
+     "inclusion": 6.2,
+     "winRate": 56.8,
+     "games": 6124,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 13.3,
+     "winRate": 56.0,
+     "games": 13118,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Plan the Heist",
+     "inclusion": 19.1,
+     "winRate": 55.2,
+     "games": 18502,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Duelist of the Mind",
+     "inclusion": 14.7,
+     "winRate": 55.2,
+     "games": 14365,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Archive Trap",
+     "inclusion": 6.6,
+     "winRate": 55.0,
+     "games": 6376,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 31.5,
+     "winRate": 54.9,
+     "games": 30506,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Vadmir, New Blood",
+     "inclusion": 12.2,
+     "winRate": 54.9,
+     "games": 11866,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 23.4,
+     "winRate": 54.8,
+     "games": 22767,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 20.6,
+     "winRate": 54.8,
+     "games": 19845,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 53.2,
+     "winRate": 54.6,
+     "games": 51544,
+     "trophyInclusion": 59.9
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 45.6,
+     "winRate": 54.6,
+     "games": 44175,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 31.1,
+     "winRate": 54.6,
+     "games": 30011,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Servant of the Stinger",
+     "inclusion": 24.4,
+     "winRate": 54.6,
+     "games": 23497,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Eroded Canyon",
+     "inclusion": 23.2,
+     "winRate": 54.6,
+     "games": 22298,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 19.0,
+     "winRate": 54.6,
+     "games": 18396,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 11.2,
+     "winRate": 54.6,
+     "games": 10774,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 48.0,
+     "winRate": 54.5,
+     "games": 46400,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 25.5,
+     "winRate": 54.5,
+     "games": 24621,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 23.3,
+     "winRate": 54.5,
+     "games": 22673,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 12.5,
+     "winRate": 54.5,
+     "games": 12089,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 29.4,
+     "winRate": 54.4,
+     "games": 28346,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Lonely Arroyo",
+     "inclusion": 20.3,
+     "winRate": 54.4,
+     "games": 19506,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 19.5,
+     "winRate": 54.4,
+     "games": 18906,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Caustic Bronco",
+     "inclusion": 9.6,
+     "winRate": 54.4,
+     "games": 9270,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Consuming Ashes",
+     "inclusion": 52.6,
+     "winRate": 54.3,
+     "games": 50603,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Take the Fall",
+     "inclusion": 51.8,
+     "winRate": 54.2,
+     "games": 49716,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Desperate Bloodseeker",
+     "inclusion": 50.5,
+     "winRate": 54.2,
+     "games": 48651,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Phantom Interference",
+     "inclusion": 48.1,
+     "winRate": 54.2,
+     "games": 46149,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Tyrant's Scorn",
+     "inclusion": 45.8,
+     "winRate": 54.2,
+     "games": 44007,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Jailbreak Scheme",
+     "inclusion": 38.3,
+     "winRate": 54.2,
+     "games": 36597,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 18.9,
+     "winRate": 54.2,
+     "games": 18086,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Slickshot Lockpicker",
+     "inclusion": 31.6,
+     "winRate": 54.1,
+     "games": 30254,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 24.2,
+     "winRate": 54.1,
+     "games": 23226,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Metamorphic Blast",
+     "inclusion": 24.0,
+     "winRate": 54.1,
+     "games": 23034,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Ambush Gigapede",
+     "inclusion": 34.9,
+     "winRate": 53.9,
+     "games": 33387,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Unfortunate Accident",
+     "inclusion": 25.1,
+     "winRate": 53.9,
+     "games": 24208,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Blood Hustler",
+     "inclusion": 24.5,
+     "winRate": 53.9,
+     "games": 23483,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Murder",
+     "inclusion": 24.0,
+     "winRate": 53.9,
+     "games": 23178,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Siphon Insight",
+     "inclusion": 10.2,
+     "winRate": 53.8,
+     "games": 9746,
+     "trophyInclusion": 10.8
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-05-07",
+    "main": [
+     [
+      1,
+      "Ambush Gigapede"
+     ],
+     [
+      1,
+      "Blood Hustler"
+     ],
+     [
+      1,
+      "Canyon Crab"
+     ],
+     [
+      1,
+      "Consuming Ashes"
+     ],
+     [
+      1,
+      "Desert's Due"
+     ],
+     [
+      1,
+      "Desperate Bloodseeker"
+     ],
+     [
+      1,
+      "Duelist of the Mind"
+     ],
+     [
+      1,
+      "Forlorn Flats"
+     ],
+     [
+      1,
+      "Forsaken Miner"
+     ],
+     [
+      1,
+      "Geyser Drake"
+     ],
+     [
+      1,
+      "Intimidation Campaign"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Jailbreak Scheme"
+     ],
+     [
+      1,
+      "Lazav, Familiar Stranger"
+     ],
+     [
+      1,
+      "Lonely Arroyo"
+     ],
+     [
+      1,
+      "Lost Jitte"
+     ],
+     [
+      1,
+      "Mana Drain"
+     ],
+     [
+      1,
+      "Nimble Brigand"
+     ],
+     [
+      1,
+      "Peerless Ropemaster"
+     ],
+     [
+      1,
+      "Plan the Heist"
+     ],
+     [
+      1,
+      "Raven of Fell Omens"
+     ],
+     [
+      1,
+      "Shoot the Sheriff"
+     ],
+     [
+      1,
+      "Slickshot Lockpicker"
+     ],
+     [
+      1,
+      "Slickshot Vault-Buster"
+     ],
+     [
+      2,
+      "Soured Springs"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Take the Fall"
+     ],
+     [
+      1,
+      "Tyrant's Scorn"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Badlands Revival"
+     ],
+     [
+      1,
+      "Boom Box"
+     ],
+     [
+      1,
+      "Corrupted Conviction"
+     ],
+     [
+      1,
+      "Daring Thunder-Thief"
+     ],
+     [
+      1,
+      "Lavaspur Boots"
+     ],
+     [
+      1,
+      "Nezumi Linkbreaker"
+     ],
+     [
+      1,
+      "Peerless Ropemaster"
+     ],
+     [
+      1,
+      "Primal Might"
+     ],
+     [
+      1,
+      "Quick Draw"
+     ],
+     [
+      1,
+      "Razzle-Dazzler"
+     ],
+     [
+      2,
+      "Sterling Hound"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 83231,
+   "wins": 45851,
+   "winRate": 55.09,
+   "share": 7.1,
+   "drafts": 14079,
+   "trophies": 1793,
+   "cards": [
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 8.3,
+     "winRate": 58.0,
+     "games": 7151,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Roxanne, Starfall Savant",
+     "inclusion": 18.6,
+     "winRate": 57.9,
+     "games": 16035,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Bruse Tarl, Roving Rancher",
+     "inclusion": 5.4,
+     "winRate": 57.6,
+     "games": 4676,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 5.6,
+     "winRate": 57.3,
+     "games": 4809,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 11.8,
+     "winRate": 57.1,
+     "games": 10194,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Hellspur Posse Boss",
+     "inclusion": 11.5,
+     "winRate": 57.0,
+     "games": 9899,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Trash the Town",
+     "inclusion": 22.1,
+     "winRate": 56.9,
+     "games": 18938,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Outcaster Trailblazer",
+     "inclusion": 10.5,
+     "winRate": 56.8,
+     "games": 9051,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Sandstorm Verge",
+     "inclusion": 5.3,
+     "winRate": 56.8,
+     "games": 4434,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 18.9,
+     "winRate": 56.5,
+     "games": 15968,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 20.4,
+     "winRate": 56.4,
+     "games": 17267,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Mobile Homestead",
+     "inclusion": 10.1,
+     "winRate": 56.4,
+     "games": 8553,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Colossal Rattlewurm",
+     "inclusion": 9.7,
+     "winRate": 56.3,
+     "games": 8226,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Primal Might",
+     "inclusion": 5.3,
+     "winRate": 56.3,
+     "games": 4402,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Cactusfolk Sureshot",
+     "inclusion": 44.3,
+     "winRate": 56.1,
+     "games": 37605,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Jolene, Plundering Pugilist",
+     "inclusion": 43.1,
+     "winRate": 56.1,
+     "games": 36365,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 39.5,
+     "winRate": 56.1,
+     "games": 33359,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 25.1,
+     "winRate": 56.1,
+     "games": 21149,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Calamity, Galloping Inferno",
+     "inclusion": 12.7,
+     "winRate": 56.1,
+     "games": 10683,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 47.0,
+     "winRate": 56.0,
+     "games": 39706,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 24.7,
+     "winRate": 56.0,
+     "games": 20872,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Aloe Alchemist",
+     "inclusion": 23.9,
+     "winRate": 56.0,
+     "games": 20126,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Longhorn Sharpshooter",
+     "inclusion": 23.9,
+     "winRate": 56.0,
+     "games": 20087,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Scalestorm Summoner",
+     "inclusion": 31.9,
+     "winRate": 55.9,
+     "games": 26871,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Terror of the Peaks",
+     "inclusion": 7.1,
+     "winRate": 55.9,
+     "games": 5983,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Stubborn Burrowfiend",
+     "inclusion": 20.4,
+     "winRate": 55.8,
+     "games": 17107,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Tumbleweed Rising",
+     "inclusion": 31.3,
+     "winRate": 55.7,
+     "games": 26256,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 13.9,
+     "winRate": 55.7,
+     "games": 11733,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 46.4,
+     "winRate": 55.6,
+     "games": 38855,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 25.4,
+     "winRate": 55.6,
+     "games": 21183,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Badlands Revival",
+     "inclusion": 5.9,
+     "winRate": 55.6,
+     "games": 4910,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Explosive Derailment",
+     "inclusion": 48.3,
+     "winRate": 55.5,
+     "games": 40516,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Scorching Shot",
+     "inclusion": 23.1,
+     "winRate": 55.5,
+     "games": 19475,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Intrepid Stablemaster",
+     "inclusion": 20.6,
+     "winRate": 55.5,
+     "games": 17383,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Abraded Bluffs",
+     "inclusion": 16.7,
+     "winRate": 55.5,
+     "games": 14011,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Bucolic Ranch",
+     "inclusion": 6.7,
+     "winRate": 55.5,
+     "games": 5552,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 6.4,
+     "winRate": 55.5,
+     "games": 5397,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Dance of the Tumbleweeds",
+     "inclusion": 35.6,
+     "winRate": 55.4,
+     "games": 29607,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 11.7,
+     "winRate": 55.4,
+     "games": 9740,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Back for More",
+     "inclusion": 7.2,
+     "winRate": 55.4,
+     "games": 5928,
+     "trophyInclusion": 6.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-04-18",
+    "main": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      1,
+      "Aloe Alchemist"
+     ],
+     [
+      1,
+      "Bristlepack Sentry"
+     ],
+     [
+      1,
+      "Cactarantula"
+     ],
+     [
+      1,
+      "Clear Shot"
+     ],
+     [
+      1,
+      "Colossal Rattlewurm"
+     ],
+     [
+      1,
+      "Conduit Pylons"
+     ],
+     [
+      1,
+      "Creosote Heath"
+     ],
+     [
+      1,
+      "Dance of the Tumbleweeds"
+     ],
+     [
+      1,
+      "Deadeye Duelist"
+     ],
+     [
+      1,
+      "Demonic Ruckus"
+     ],
+     [
+      1,
+      "Drover Grizzly"
+     ],
+     [
+      1,
+      "Explosive Derailment"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Giant Beaver"
+     ],
+     [
+      1,
+      "Jagged Barrens"
+     ],
+     [
+      1,
+      "Jolene, Plundering Pugilist"
+     ],
+     [
+      1,
+      "Longhorn Sharpshooter"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Outcaster Greenblade"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Raucous Entertainer"
+     ],
+     [
+      1,
+      "Scalestorm Summoner"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Spinewoods Armadillo"
+     ],
+     [
+      1,
+      "Spinewoods Paladin"
+     ],
+     [
+      1,
+      "Take for a Ride"
+     ],
+     [
+      1,
+      "Throw from the Saddle"
+     ],
+     [
+      1,
+      "Voracious Varmint"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ambush Gigapede"
+     ],
+     [
+      1,
+      "Arid Archway"
+     ],
+     [
+      1,
+      "Bridled Bighorn"
+     ],
+     [
+      1,
+      "Full Steam Ahead"
+     ],
+     [
+      1,
+      "Neutralize the Guards"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Quick Draw"
+     ],
+     [
+      1,
+      "Raven of Fell Omens"
+     ],
+     [
+      1,
+      "Reach for the Sky"
+     ],
+     [
+      1,
+      "Rush of Dread"
+     ],
+     [
+      1,
+      "Servant of the Stinger"
+     ],
+     [
+      1,
+      "Trick Shot"
+     ],
+     [
+      1,
+      "Unlicensed Hearse"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 83125,
+   "wins": 43879,
+   "winRate": 52.79,
+   "share": 7.09,
+   "drafts": 14522,
+   "trophies": 1446,
+   "cards": [
+    {
+     "name": "Hellspur Posse Boss",
+     "inclusion": 14.4,
+     "winRate": 56.9,
+     "games": 12753,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Rakdos, the Muscle",
+     "inclusion": 10.6,
+     "winRate": 56.1,
+     "games": 9277,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Laughing Jasper Flint",
+     "inclusion": 21.0,
+     "winRate": 55.1,
+     "games": 18185,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 10.5,
+     "winRate": 54.8,
+     "games": 9110,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Caustic Bronco",
+     "inclusion": 10.0,
+     "winRate": 54.5,
+     "games": 8558,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Longhorn Sharpshooter",
+     "inclusion": 25.9,
+     "winRate": 54.2,
+     "games": 22026,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Vadmir, New Blood",
+     "inclusion": 10.7,
+     "winRate": 54.1,
+     "games": 9112,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 9.1,
+     "winRate": 54.1,
+     "games": 7723,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Lively Dirge",
+     "inclusion": 15.4,
+     "winRate": 54.0,
+     "games": 13018,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 51.2,
+     "winRate": 53.8,
+     "games": 43183,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Consuming Ashes",
+     "inclusion": 47.4,
+     "winRate": 53.8,
+     "games": 39930,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 40.4,
+     "winRate": 53.8,
+     "games": 34271,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Servant of the Stinger",
+     "inclusion": 23.2,
+     "winRate": 53.8,
+     "games": 19442,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Unfortunate Accident",
+     "inclusion": 23.1,
+     "winRate": 53.8,
+     "games": 19440,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 22.6,
+     "winRate": 53.8,
+     "games": 19295,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Collective Defiance",
+     "inclusion": 6.0,
+     "winRate": 53.8,
+     "games": 5041,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Forsaken Miner",
+     "inclusion": 24.1,
+     "winRate": 53.7,
+     "games": 20256,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Scorching Shot",
+     "inclusion": 23.5,
+     "winRate": 53.6,
+     "games": 19715,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 21.0,
+     "winRate": 53.6,
+     "games": 17675,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Explosive Derailment",
+     "inclusion": 47.2,
+     "winRate": 53.5,
+     "games": 39691,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 39.8,
+     "winRate": 53.5,
+     "games": 33602,
+     "trophyInclusion": 42.0
+    },
+    {
+     "name": "Vial Smasher, Gleeful Grenadier",
+     "inclusion": 45.5,
+     "winRate": 53.4,
+     "games": 38132,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 18.9,
+     "winRate": 53.4,
+     "games": 15930,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Abraded Bluffs",
+     "inclusion": 15.9,
+     "winRate": 53.4,
+     "games": 13328,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 44.0,
+     "winRate": 53.3,
+     "games": 36933,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Blood Hustler",
+     "inclusion": 25.3,
+     "winRate": 53.3,
+     "games": 21176,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 11.4,
+     "winRate": 53.3,
+     "games": 9647,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Prickly Pair",
+     "inclusion": 56.0,
+     "winRate": 53.2,
+     "games": 47072,
+     "trophyInclusion": 59.0
+    },
+    {
+     "name": "Discerning Peddler",
+     "inclusion": 43.2,
+     "winRate": 53.2,
+     "games": 36164,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Rictus Robber",
+     "inclusion": 24.4,
+     "winRate": 53.2,
+     "games": 20356,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Cunning Coyote",
+     "inclusion": 19.6,
+     "winRate": 53.2,
+     "games": 16373,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 15.3,
+     "winRate": 53.2,
+     "games": 12820,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 11.3,
+     "winRate": 53.2,
+     "games": 9450,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Desperate Bloodseeker",
+     "inclusion": 41.6,
+     "winRate": 53.1,
+     "games": 34580,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Terminal Agony",
+     "inclusion": 31.1,
+     "winRate": 53.1,
+     "games": 25862,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Murder",
+     "inclusion": 21.0,
+     "winRate": 53.1,
+     "games": 17607,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Rattleback Apothecary",
+     "inclusion": 22.4,
+     "winRate": 53.0,
+     "games": 18693,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Scalestorm Summoner",
+     "inclusion": 16.9,
+     "winRate": 53.0,
+     "games": 14200,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 14.5,
+     "winRate": 53.0,
+     "games": 12110,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Hellspur Brute",
+     "inclusion": 29.2,
+     "winRate": 52.9,
+     "games": 24334,
+     "trophyInclusion": 30.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-05-17",
+    "main": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      2,
+      "At Knifepoint"
+     ],
+     [
+      1,
+      "Consuming Ashes"
+     ],
+     [
+      1,
+      "Deadeye Duelist"
+     ],
+     [
+      1,
+      "Desert's Due"
+     ],
+     [
+      1,
+      "Desperate Bloodseeker"
+     ],
+     [
+      1,
+      "Discerning Peddler"
+     ],
+     [
+      1,
+      "Explosive Derailment"
+     ],
+     [
+      1,
+      "Forsaken Miner"
+     ],
+     [
+      1,
+      "Generous Plunderer"
+     ],
+     [
+      1,
+      "Hellspur Brute"
+     ],
+     [
+      1,
+      "Jagged Barrens"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      2,
+      "Prickly Pair"
+     ],
+     [
+      1,
+      "Rakdos Joins Up"
+     ],
+     [
+      1,
+      "Rakish Crew"
+     ],
+     [
+      2,
+      "Rictus Robber"
+     ],
+     [
+      1,
+      "Skulduggery"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terminal Agony"
+     ],
+     [
+      1,
+      "Unfortunate Accident"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ],
+     [
+      1,
+      "Vial Smasher, Gleeful Grenadier"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Armored Armadillo"
+     ],
+     [
+      1,
+      "At Knifepoint"
+     ],
+     [
+      1,
+      "Eroded Canyon"
+     ],
+     [
+      1,
+      "Highway Robbery"
+     ],
+     [
+      1,
+      "Iron-Fist Pulverizer"
+     ],
+     [
+      1,
+      "Lassoed by the Law"
+     ],
+     [
+      1,
+      "Magebane Lizard"
+     ],
+     [
+      1,
+      "Outlaw Medic"
+     ],
+     [
+      1,
+      "Prairie Dog"
+     ],
+     [
+      1,
+      "Prosperity Tycoon"
+     ],
+     [
+      1,
+      "Raucous Entertainer"
+     ],
+     [
+      1,
+      "Reckless Lackey"
+     ],
+     [
+      1,
+      "Sterling Supplier"
+     ],
+     [
+      1,
+      "Take for a Ride"
+     ],
+     [
+      1,
+      "Wrangler of the Damned"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 74206,
+   "wins": 41301,
+   "winRate": 55.66,
+   "share": 6.33,
+   "drafts": 12543,
+   "trophies": 1674,
+   "cards": [
+    {
+     "name": "Dust Animus",
+     "inclusion": 11.2,
+     "winRate": 58.1,
+     "games": 8650,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 27.0,
+     "winRate": 58.0,
+     "games": 20641,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Final Showdown",
+     "inclusion": 5.7,
+     "winRate": 57.6,
+     "games": 4328,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 25.4,
+     "winRate": 57.5,
+     "games": 19449,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Vanishing Verse",
+     "inclusion": 12.0,
+     "winRate": 57.5,
+     "games": 9232,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Ruthless Lawbringer",
+     "inclusion": 48.8,
+     "winRate": 57.2,
+     "games": 36913,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 25.6,
+     "winRate": 57.2,
+     "games": 19354,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Caustic Bronco",
+     "inclusion": 10.9,
+     "winRate": 57.1,
+     "games": 8304,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 24.7,
+     "winRate": 57.0,
+     "games": 18877,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Fortune, Loyal Steed",
+     "inclusion": 9.8,
+     "winRate": 57.0,
+     "games": 7439,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 10.8,
+     "winRate": 56.9,
+     "games": 8176,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 51.1,
+     "winRate": 56.6,
+     "games": 38493,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Humiliate",
+     "inclusion": 37.5,
+     "winRate": 56.6,
+     "games": 28185,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Vadmir, New Blood",
+     "inclusion": 9.9,
+     "winRate": 56.6,
+     "games": 7550,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 30.9,
+     "winRate": 56.5,
+     "games": 23152,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Lively Dirge",
+     "inclusion": 18.6,
+     "winRate": 56.5,
+     "games": 13944,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 39.8,
+     "winRate": 56.4,
+     "games": 29751,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 23.5,
+     "winRate": 56.4,
+     "games": 17511,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Unscrupulous Contractor",
+     "inclusion": 22.8,
+     "winRate": 56.4,
+     "games": 17067,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 21.1,
+     "winRate": 56.4,
+     "games": 15710,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Forsaken Miner",
+     "inclusion": 19.7,
+     "winRate": 56.4,
+     "games": 14857,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 47.0,
+     "winRate": 56.3,
+     "games": 35242,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Outlaw Medic",
+     "inclusion": 45.7,
+     "winRate": 56.3,
+     "games": 34025,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Journey to Nowhere",
+     "inclusion": 23.9,
+     "winRate": 56.3,
+     "games": 17907,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Nurturing Pixie",
+     "inclusion": 15.0,
+     "winRate": 56.3,
+     "games": 11222,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 12.8,
+     "winRate": 56.3,
+     "games": 9580,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Desperate Bloodseeker",
+     "inclusion": 45.9,
+     "winRate": 56.1,
+     "games": 34178,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 45.1,
+     "winRate": 56.1,
+     "games": 33670,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Unfortunate Accident",
+     "inclusion": 23.3,
+     "winRate": 56.1,
+     "games": 17588,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Servant of the Stinger",
+     "inclusion": 21.1,
+     "winRate": 56.1,
+     "games": 15753,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Concealed Courtyard",
+     "inclusion": 10.5,
+     "winRate": 56.1,
+     "games": 7782,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Aven Interrupter",
+     "inclusion": 10.2,
+     "winRate": 56.1,
+     "games": 7668,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Mobile Homestead",
+     "inclusion": 8.2,
+     "winRate": 56.1,
+     "games": 6115,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Consuming Ashes",
+     "inclusion": 49.1,
+     "winRate": 56.0,
+     "games": 36677,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Mystical Tether",
+     "inclusion": 47.3,
+     "winRate": 56.0,
+     "games": 35209,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Nezumi Linkbreaker",
+     "inclusion": 40.7,
+     "winRate": 56.0,
+     "games": 30289,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Abraded Bluffs",
+     "inclusion": 13.5,
+     "winRate": 56.0,
+     "games": 10160,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 12.1,
+     "winRate": 56.0,
+     "games": 9003,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Holy Cow",
+     "inclusion": 40.6,
+     "winRate": 55.9,
+     "games": 30307,
+     "trophyInclusion": 41.3
+    },
+    {
+     "name": "Trained Arynx",
+     "inclusion": 40.3,
+     "winRate": 55.9,
+     "games": 29993,
+     "trophyInclusion": 40.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-04-22",
+    "main": [
+     [
+      1,
+      "Baron Bertram Graywater"
+     ],
+     [
+      1,
+      "Blood Hustler"
+     ],
+     [
+      1,
+      "Boneyard Desecrator"
+     ],
+     [
+      1,
+      "Caustic Bronco"
+     ],
+     [
+      1,
+      "Consuming Ashes"
+     ],
+     [
+      1,
+      "Desperate Bloodseeker"
+     ],
+     [
+      1,
+      "Forlorn Flats"
+     ],
+     [
+      1,
+      "Humiliate"
+     ],
+     [
+      1,
+      "Kambal, Profiteering Mayor"
+     ],
+     [
+      1,
+      "Lassoed by the Law"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Mystical Tether"
+     ],
+     [
+      1,
+      "Nezumi Linkbreaker"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Prairie Dog"
+     ],
+     [
+      1,
+      "Ruthless Lawbringer"
+     ],
+     [
+      1,
+      "Servant of the Stinger"
+     ],
+     [
+      1,
+      "Shoot the Sheriff"
+     ],
+     [
+      1,
+      "Skulduggery"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Sterling Supplier"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Trained Arynx"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ],
+     [
+      2,
+      "Vengeful Townsfolk"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aloe Alchemist"
+     ],
+     [
+      1,
+      "Another Round"
+     ],
+     [
+      1,
+      "Badlands Revival"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Hardbristle Bandit"
+     ],
+     [
+      1,
+      "Harrier Strix"
+     ],
+     [
+      1,
+      "Luxurious Locomotive"
+     ],
+     [
+      1,
+      "Magebane Lizard"
+     ],
+     [
+      1,
+      "Mine Raider"
+     ],
+     [
+      1,
+      "Outlaws' Fury"
+     ],
+     [
+      1,
+      "Overzealous Muscle"
+     ],
+     [
+      1,
+      "Pariah"
+     ],
+     [
+      1,
+      "Reach for the Sky"
+     ],
+     [
+      1,
+      "Skulduggery"
+     ],
+     [
+      2,
+      "Slickshot Vault-Buster"
+     ],
+     [
+      1,
+      "Tumbleweed Rising"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 59522,
+   "wins": 32108,
+   "winRate": 53.94,
+   "share": 5.08,
+   "drafts": 10327,
+   "trophies": 1199,
+   "cards": [
+    {
+     "name": "Bonny Pall, Clearcutter",
+     "inclusion": 28.6,
+     "winRate": 57.9,
+     "games": 18037,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Oko, Thief of Crowns",
+     "inclusion": 6.1,
+     "winRate": 57.8,
+     "games": 3777,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 6.1,
+     "winRate": 57.0,
+     "games": 3838,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Primal Command",
+     "inclusion": 5.2,
+     "winRate": 56.9,
+     "games": 3216,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 14.2,
+     "winRate": 56.8,
+     "games": 8703,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 22.7,
+     "winRate": 56.3,
+     "games": 14096,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 11.6,
+     "winRate": 55.9,
+     "games": 7102,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Colossal Rattlewurm",
+     "inclusion": 9.2,
+     "winRate": 55.7,
+     "games": 5653,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Primal Might",
+     "inclusion": 5.4,
+     "winRate": 55.7,
+     "games": 3313,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 27.2,
+     "winRate": 55.6,
+     "games": 16559,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 20.9,
+     "winRate": 55.5,
+     "games": 12773,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 11.6,
+     "winRate": 55.5,
+     "games": 7037,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Back for More",
+     "inclusion": 8.9,
+     "winRate": 55.5,
+     "games": 5438,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 9.0,
+     "winRate": 55.4,
+     "games": 5482,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Plan the Heist",
+     "inclusion": 19.3,
+     "winRate": 55.3,
+     "games": 11678,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Patient Naturalist",
+     "inclusion": 39.5,
+     "winRate": 55.2,
+     "games": 23962,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 8.3,
+     "winRate": 55.2,
+     "games": 5052,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 44.6,
+     "winRate": 55.1,
+     "games": 27176,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 30.4,
+     "winRate": 55.1,
+     "games": 18434,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Lonely Arroyo",
+     "inclusion": 18.8,
+     "winRate": 55.1,
+     "games": 11328,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 28.5,
+     "winRate": 55.0,
+     "games": 17118,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 27.3,
+     "winRate": 55.0,
+     "games": 16535,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Badlands Revival",
+     "inclusion": 7.0,
+     "winRate": 55.0,
+     "games": 4234,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Spinewoods Paladin",
+     "inclusion": 47.3,
+     "winRate": 54.9,
+     "games": 28588,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Dance of the Tumbleweeds",
+     "inclusion": 41.4,
+     "winRate": 54.9,
+     "games": 25084,
+     "trophyInclusion": 47.3
+    },
+    {
+     "name": "Aloe Alchemist",
+     "inclusion": 20.5,
+     "winRate": 54.9,
+     "games": 12396,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Intrepid Stablemaster",
+     "inclusion": 18.9,
+     "winRate": 54.9,
+     "games": 11452,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Oasis Gardener",
+     "inclusion": 17.9,
+     "winRate": 54.9,
+     "games": 10801,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 45.5,
+     "winRate": 54.8,
+     "games": 27495,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 39.9,
+     "winRate": 54.8,
+     "games": 24093,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 20.7,
+     "winRate": 54.8,
+     "games": 12480,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 15.4,
+     "winRate": 54.8,
+     "games": 9326,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Eroded Canyon",
+     "inclusion": 13.8,
+     "winRate": 54.8,
+     "games": 8306,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Jailbreak Scheme",
+     "inclusion": 36.3,
+     "winRate": 54.7,
+     "games": 21810,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Honest Rutstein",
+     "inclusion": 6.0,
+     "winRate": 54.7,
+     "games": 3585,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Hardbristle Bandit",
+     "inclusion": 42.1,
+     "winRate": 54.6,
+     "games": 25286,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Clear Shot",
+     "inclusion": 22.9,
+     "winRate": 54.6,
+     "games": 13738,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Metamorphic Blast",
+     "inclusion": 21.0,
+     "winRate": 54.6,
+     "games": 12657,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Stubborn Burrowfiend",
+     "inclusion": 16.5,
+     "winRate": 54.6,
+     "games": 9908,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 16.1,
+     "winRate": 54.6,
+     "games": 9685,
+     "trophyInclusion": 17.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-05-01",
+    "main": [
+     [
+      1,
+      "Arid Archway"
+     ],
+     [
+      1,
+      "Bonny Pall, Clearcutter"
+     ],
+     [
+      1,
+      "Botanical Sanctum"
+     ],
+     [
+      1,
+      "Bristlepack Sentry"
+     ],
+     [
+      1,
+      "Cactarantula"
+     ],
+     [
+      1,
+      "Conduit Pylons"
+     ],
+     [
+      1,
+      "Dance of the Tumbleweeds"
+     ],
+     [
+      1,
+      "Decisive Denial"
+     ],
+     [
+      1,
+      "Djinn of Fool's Fall"
+     ],
+     [
+      1,
+      "Drover Grizzly"
+     ],
+     [
+      1,
+      "Eroded Canyon"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Giant Beaver"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Loan Shark"
+     ],
+     [
+      1,
+      "Lush Oasis"
+     ],
+     [
+      1,
+      "Make Your Own Luck"
+     ],
+     [
+      1,
+      "Metamorphic Blast"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Nimble Brigand"
+     ],
+     [
+      1,
+      "Outcaster Greenblade"
+     ],
+     [
+      2,
+      "Outlaw Stitcher"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Plan the Heist"
+     ],
+     [
+      1,
+      "Repulse"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Spinewoods Paladin"
+     ],
+     [
+      2,
+      "Throw from the Saddle"
+     ],
+     [
+      1,
+      "Unlicensed Hearse"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Boom Box"
+     ],
+     [
+      1,
+      "Daring Thunder-Thief"
+     ],
+     [
+      1,
+      "Form a Posse"
+     ],
+     [
+      1,
+      "Luxurious Locomotive"
+     ],
+     [
+      1,
+      "Nezumi Linkbreaker"
+     ],
+     [
+      1,
+      "Oasis Gardener"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Peerless Ropemaster"
+     ],
+     [
+      1,
+      "Reach for the Sky"
+     ],
+     [
+      1,
+      "Rise of the Varmints"
+     ],
+     [
+      1,
+      "Seize the Secrets"
+     ],
+     [
+      1,
+      "Take the Fall"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 52067,
+   "wins": 28839,
+   "winRate": 55.39,
+   "share": 4.44,
+   "drafts": 8793,
+   "trophies": 1098,
+   "cards": [
+    {
+     "name": "Hellspur Posse Boss",
+     "inclusion": 14.0,
+     "winRate": 58.1,
+     "games": 7625,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 25.2,
+     "winRate": 57.5,
+     "games": 13516,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 11.4,
+     "winRate": 57.2,
+     "games": 6111,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Journey to Nowhere",
+     "inclusion": 23.8,
+     "winRate": 57.0,
+     "games": 12732,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Bruse Tarl, Roving Rancher",
+     "inclusion": 25.3,
+     "winRate": 56.9,
+     "games": 13507,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Longhorn Sharpshooter",
+     "inclusion": 26.5,
+     "winRate": 56.8,
+     "games": 14019,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Scalestorm Summoner",
+     "inclusion": 22.9,
+     "winRate": 56.8,
+     "games": 12182,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Outlaws' Merriment",
+     "inclusion": 15.4,
+     "winRate": 56.8,
+     "games": 8218,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Dust Animus",
+     "inclusion": 10.5,
+     "winRate": 56.6,
+     "games": 5605,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Fortune, Loyal Steed",
+     "inclusion": 10.5,
+     "winRate": 56.5,
+     "games": 5598,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Terror of the Peaks",
+     "inclusion": 5.9,
+     "winRate": 56.5,
+     "games": 3160,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Prickly Pair",
+     "inclusion": 58.4,
+     "winRate": 56.4,
+     "games": 30991,
+     "trophyInclusion": 64.9
+    },
+    {
+     "name": "Prairie Dog",
+     "inclusion": 22.9,
+     "winRate": 56.4,
+     "games": 12093,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Sandstorm Verge",
+     "inclusion": 5.7,
+     "winRate": 56.4,
+     "games": 2999,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 28.5,
+     "winRate": 56.3,
+     "games": 15042,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Frontier Seeker",
+     "inclusion": 24.2,
+     "winRate": 56.3,
+     "games": 12836,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Abraded Bluffs",
+     "inclusion": 38.5,
+     "winRate": 56.2,
+     "games": 20324,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Trained Arynx",
+     "inclusion": 53.4,
+     "winRate": 56.1,
+     "games": 28158,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Ertha Jo, Frontier Mentor",
+     "inclusion": 48.3,
+     "winRate": 56.1,
+     "games": 25527,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Explosive Derailment",
+     "inclusion": 49.1,
+     "winRate": 56.0,
+     "games": 25820,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Holy Cow",
+     "inclusion": 44.5,
+     "winRate": 56.0,
+     "games": 23405,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Requisition Raid",
+     "inclusion": 16.5,
+     "winRate": 56.0,
+     "games": 8694,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Mystical Tether",
+     "inclusion": 48.0,
+     "winRate": 55.9,
+     "games": 25285,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Cunning Coyote",
+     "inclusion": 29.4,
+     "winRate": 55.9,
+     "games": 15493,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 22.2,
+     "winRate": 55.9,
+     "games": 11759,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Omenport Vigilante",
+     "inclusion": 28.0,
+     "winRate": 55.8,
+     "games": 14644,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Gila Courser",
+     "inclusion": 26.5,
+     "winRate": 55.8,
+     "games": 13877,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 22.6,
+     "winRate": 55.8,
+     "games": 11827,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Magda, the Hoardmaster",
+     "inclusion": 10.3,
+     "winRate": 55.8,
+     "games": 5429,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 48.3,
+     "winRate": 55.7,
+     "games": 25237,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Sterling Keykeeper",
+     "inclusion": 44.6,
+     "winRate": 55.7,
+     "games": 23389,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Discerning Peddler",
+     "inclusion": 41.9,
+     "winRate": 55.7,
+     "games": 21963,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Outlaws' Fury",
+     "inclusion": 23.8,
+     "winRate": 55.7,
+     "games": 12509,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Aven Interrupter",
+     "inclusion": 10.8,
+     "winRate": 55.7,
+     "games": 5636,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Collective Defiance",
+     "inclusion": 6.3,
+     "winRate": 55.7,
+     "games": 3331,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Hellspur Brute",
+     "inclusion": 22.0,
+     "winRate": 55.6,
+     "games": 11589,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Calamity, Galloping Inferno",
+     "inclusion": 11.5,
+     "winRate": 55.6,
+     "games": 6003,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Claim Jumper",
+     "inclusion": 10.0,
+     "winRate": 55.6,
+     "games": 5249,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Demonic Ruckus",
+     "inclusion": 18.3,
+     "winRate": 55.5,
+     "games": 9502,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Irascible Wolverine",
+     "inclusion": 44.5,
+     "winRate": 55.4,
+     "games": 23230,
+     "trophyInclusion": 45.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-04-18",
+    "main": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      1,
+      "Bridled Bighorn"
+     ],
+     [
+      1,
+      "Discerning Peddler"
+     ],
+     [
+      1,
+      "Ertha Jo, Frontier Mentor"
+     ],
+     [
+      1,
+      "Explosive Derailment"
+     ],
+     [
+      1,
+      "Form a Posse"
+     ],
+     [
+      1,
+      "Gila Courser"
+     ],
+     [
+      1,
+      "Holy Cow"
+     ],
+     [
+      1,
+      "Lassoed by the Law"
+     ],
+     [
+      1,
+      "Longhorn Sharpshooter"
+     ],
+     [
+      1,
+      "Mine Raider"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mystical Tether"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Prickly Pair"
+     ],
+     [
+      1,
+      "Quilled Charger"
+     ],
+     [
+      2,
+      "Reckless Lackey"
+     ],
+     [
+      1,
+      "Resilient Roadrunner"
+     ],
+     [
+      1,
+      "Shepherd of the Clouds"
+     ],
+     [
+      1,
+      "Skewer the Critics"
+     ],
+     [
+      1,
+      "Steer Clear"
+     ],
+     [
+      1,
+      "Sterling Supplier"
+     ],
+     [
+      1,
+      "Taii Wakeen, Perfect Shot"
+     ],
+     [
+      1,
+      "Trained Arynx"
+     ],
+     [
+      1,
+      "Vengeful Townsfolk"
+     ],
+     [
+      1,
+      "Wanted Griffin"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Caught in the Crossfire"
+     ],
+     [
+      1,
+      "Djinn of Fool's Fall"
+     ],
+     [
+      1,
+      "Magebane Lizard"
+     ],
+     [
+      1,
+      "Outlaw Medic"
+     ],
+     [
+      1,
+      "Outlaw Stitcher"
+     ],
+     [
+      1,
+      "Overzealous Muscle"
+     ],
+     [
+      1,
+      "Port Razer"
+     ],
+     [
+      1,
+      "Seize the Secrets"
+     ],
+     [
+      1,
+      "Simulacrum Synthesizer"
+     ],
+     [
+      1,
+      "Slickshot Lockpicker"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Thornado"
+     ],
+     [
+      1,
+      "Trick Shot"
+     ],
+     [
+      1,
+      "Voidslime"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 51025,
+   "wins": 25788,
+   "winRate": 50.54,
+   "share": 4.35,
+   "drafts": 9226,
+   "trophies": 722,
+   "cards": [
+    {
+     "name": "Hellspur Posse Boss",
+     "inclusion": 10.0,
+     "winRate": 54.3,
+     "games": 5310,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Geralf, the Fleshwright",
+     "inclusion": 7.8,
+     "winRate": 54.3,
+     "games": 4184,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 12.9,
+     "winRate": 53.9,
+     "games": 6911,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Duelist of the Mind",
+     "inclusion": 14.5,
+     "winRate": 53.4,
+     "games": 7687,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Magda, the Hoardmaster",
+     "inclusion": 11.6,
+     "winRate": 52.7,
+     "games": 6154,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 11.4,
+     "winRate": 52.5,
+     "games": 6024,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Cunning Coyote",
+     "inclusion": 20.5,
+     "winRate": 52.4,
+     "games": 10799,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 31.0,
+     "winRate": 52.3,
+     "games": 16237,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Malcolm, the Eyes",
+     "inclusion": 27.5,
+     "winRate": 52.1,
+     "games": 14406,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Longhorn Sharpshooter",
+     "inclusion": 27.0,
+     "winRate": 52.1,
+     "games": 14093,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Slick Sequence",
+     "inclusion": 48.7,
+     "winRate": 51.9,
+     "games": 25454,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 27.2,
+     "winRate": 51.9,
+     "games": 14159,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 10.8,
+     "winRate": 51.9,
+     "games": 5679,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 11.8,
+     "winRate": 51.8,
+     "games": 6119,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Collective Defiance",
+     "inclusion": 6.5,
+     "winRate": 51.8,
+     "games": 3363,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Plan the Heist",
+     "inclusion": 18.8,
+     "winRate": 51.6,
+     "games": 9679,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Bandit's Haul",
+     "inclusion": 6.5,
+     "winRate": 51.6,
+     "games": 3311,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Eroded Canyon",
+     "inclusion": 44.6,
+     "winRate": 51.5,
+     "games": 23072,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Jailbreak Scheme",
+     "inclusion": 33.6,
+     "winRate": 51.5,
+     "games": 17393,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Kraum, Violent Cacophony",
+     "inclusion": 50.3,
+     "winRate": 51.4,
+     "games": 26022,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Prickly Pair",
+     "inclusion": 36.7,
+     "winRate": 51.4,
+     "games": 19109,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Scorching Shot",
+     "inclusion": 25.8,
+     "winRate": 51.4,
+     "games": 13377,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 18.6,
+     "winRate": 51.4,
+     "games": 9629,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Skewer the Critics",
+     "inclusion": 23.3,
+     "winRate": 51.3,
+     "games": 12087,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Take the Fall",
+     "inclusion": 51.8,
+     "winRate": 51.2,
+     "games": 26662,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "Slickshot Lockpicker",
+     "inclusion": 30.9,
+     "winRate": 51.2,
+     "games": 15846,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Highway Robbery",
+     "inclusion": 38.2,
+     "winRate": 51.1,
+     "games": 19651,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Irascible Wolverine",
+     "inclusion": 45.3,
+     "winRate": 51.0,
+     "games": 23341,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Canyon Crab",
+     "inclusion": 22.4,
+     "winRate": 51.0,
+     "games": 11540,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Demonic Ruckus",
+     "inclusion": 14.3,
+     "winRate": 51.0,
+     "games": 7395,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Arid Archway",
+     "inclusion": 6.3,
+     "winRate": 51.0,
+     "games": 3189,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Loan Shark",
+     "inclusion": 51.3,
+     "winRate": 50.9,
+     "games": 26297,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 8.3,
+     "winRate": 50.9,
+     "games": 4259,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Thunder Salvo",
+     "inclusion": 54.9,
+     "winRate": 50.8,
+     "games": 28172,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Phantom Interference",
+     "inclusion": 40.8,
+     "winRate": 50.8,
+     "games": 20957,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Outlaw Stitcher",
+     "inclusion": 29.6,
+     "winRate": 50.8,
+     "games": 15255,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "This Town Ain't Big Enough",
+     "inclusion": 23.7,
+     "winRate": 50.8,
+     "games": 12219,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Metamorphic Blast",
+     "inclusion": 21.2,
+     "winRate": 50.8,
+     "games": 10837,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Visage Bandit",
+     "inclusion": 19.0,
+     "winRate": 50.8,
+     "games": 9728,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Spirebluff Canal",
+     "inclusion": 11.9,
+     "winRate": 50.8,
+     "games": 6073,
+     "trophyInclusion": 12.3
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-04-22",
+    "main": [
+     [
+      1,
+      "Breeches, the Blastmaker"
+     ],
+     [
+      1,
+      "Canyon Crab"
+     ],
+     [
+      1,
+      "Deepmuck Desperado"
+     ],
+     [
+      1,
+      "Emergent Haunting"
+     ],
+     [
+      1,
+      "Eroded Canyon"
+     ],
+     [
+      1,
+      "Explosive Derailment"
+     ],
+     [
+      1,
+      "Failed Fording"
+     ],
+     [
+      1,
+      "Geyser Drake"
+     ],
+     [
+      1,
+      "Highway Robbery"
+     ],
+     [
+      1,
+      "Hypothesizzle"
+     ],
+     [
+      1,
+      "Irascible Wolverine"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Kraum, Violent Cacophony"
+     ],
+     [
+      1,
+      "Lilah, Undefeated Slickshot"
+     ],
+     [
+      2,
+      "Loan Shark"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      2,
+      "Phantom Interference"
+     ],
+     [
+      1,
+      "Prickly Pair"
+     ],
+     [
+      1,
+      "Razzle-Dazzler"
+     ],
+     [
+      1,
+      "Repulse"
+     ],
+     [
+      1,
+      "Slick Sequence"
+     ],
+     [
+      1,
+      "Take the Fall"
+     ],
+     [
+      2,
+      "Thunder Salvo"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Archive Trap"
+     ],
+     [
+      1,
+      "Armored Armadillo"
+     ],
+     [
+      1,
+      "Bandit's Haul"
+     ],
+     [
+      1,
+      "Discerning Peddler"
+     ],
+     [
+      1,
+      "Highway Robbery"
+     ],
+     [
+      1,
+      "Lonely Arroyo"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Oasis Gardener"
+     ],
+     [
+      1,
+      "Quilled Charger"
+     ],
+     [
+      1,
+      "Redrock Sentinel"
+     ],
+     [
+      1,
+      "Shifting Grift"
+     ],
+     [
+      2,
+      "Slickshot Vault-Buster"
+     ],
+     [
+      1,
+      "Trick Shot"
+     ],
+     [
+      1,
+      "Villainous Wealth"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 45100,
+   "wins": 23295,
+   "winRate": 51.65,
+   "share": 3.85,
+   "drafts": 8098,
+   "trophies": 719,
+   "cards": [
+    {
+     "name": "Fractured Identity",
+     "inclusion": 7.2,
+     "winRate": 55.7,
+     "games": 3457,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Bonny Pall, Clearcutter",
+     "inclusion": 5.6,
+     "winRate": 55.6,
+     "games": 2717,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Final Showdown",
+     "inclusion": 6.9,
+     "winRate": 55.0,
+     "games": 3306,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 16.5,
+     "winRate": 54.6,
+     "games": 7768,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 24.4,
+     "winRate": 54.3,
+     "games": 11414,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Dust Animus",
+     "inclusion": 12.1,
+     "winRate": 54.2,
+     "games": 5675,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Fell the Mighty",
+     "inclusion": 6.1,
+     "winRate": 53.8,
+     "games": 2804,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 25.9,
+     "winRate": 53.4,
+     "games": 12010,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 11.2,
+     "winRate": 53.4,
+     "games": 5217,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 29.5,
+     "winRate": 53.3,
+     "games": 13659,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Duelist of the Mind",
+     "inclusion": 12.9,
+     "winRate": 53.3,
+     "games": 5988,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 16.2,
+     "winRate": 53.2,
+     "games": 7473,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Redrock Sentinel",
+     "inclusion": 6.5,
+     "winRate": 53.2,
+     "games": 2955,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 32.3,
+     "winRate": 53.0,
+     "games": 14851,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Journey to Nowhere",
+     "inclusion": 25.9,
+     "winRate": 53.0,
+     "games": 11951,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Essence Capture",
+     "inclusion": 28.3,
+     "winRate": 52.8,
+     "games": 13042,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 13.3,
+     "winRate": 52.8,
+     "games": 6093,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Phantom Interference",
+     "inclusion": 56.6,
+     "winRate": 52.7,
+     "games": 25936,
+     "trophyInclusion": 64.7
+    },
+    {
+     "name": "Nurturing Pixie",
+     "inclusion": 12.6,
+     "winRate": 52.7,
+     "games": 5735,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Holy Cow",
+     "inclusion": 54.1,
+     "winRate": 52.6,
+     "games": 24865,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "Prairie Dog",
+     "inclusion": 31.2,
+     "winRate": 52.6,
+     "games": 14325,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 38.2,
+     "winRate": 52.5,
+     "games": 17499,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Detention Sphere",
+     "inclusion": 13.5,
+     "winRate": 52.4,
+     "games": 6243,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Assimilation Aegis",
+     "inclusion": 11.9,
+     "winRate": 52.4,
+     "games": 5402,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Jailbreak Scheme",
+     "inclusion": 30.2,
+     "winRate": 52.3,
+     "games": 13774,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Claim Jumper",
+     "inclusion": 8.8,
+     "winRate": 52.3,
+     "games": 3972,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Mystical Tether",
+     "inclusion": 53.0,
+     "winRate": 52.2,
+     "games": 24245,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Loan Shark",
+     "inclusion": 46.7,
+     "winRate": 52.2,
+     "games": 21146,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Lonely Arroyo",
+     "inclusion": 44.8,
+     "winRate": 52.2,
+     "games": 20352,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Metamorphic Blast",
+     "inclusion": 25.2,
+     "winRate": 52.2,
+     "games": 11402,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 21.8,
+     "winRate": 52.2,
+     "games": 9908,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Frontier Seeker",
+     "inclusion": 17.0,
+     "winRate": 52.2,
+     "games": 7707,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Peerless Ropemaster",
+     "inclusion": 12.8,
+     "winRate": 52.2,
+     "games": 5755,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Fortune, Loyal Steed",
+     "inclusion": 8.5,
+     "winRate": 52.2,
+     "games": 3877,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Sterling Keykeeper",
+     "inclusion": 41.5,
+     "winRate": 52.1,
+     "games": 18992,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Outlaw Stitcher",
+     "inclusion": 25.1,
+     "winRate": 52.1,
+     "games": 11410,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Sterling Supplier",
+     "inclusion": 20.0,
+     "winRate": 52.1,
+     "games": 9046,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Aven Interrupter",
+     "inclusion": 13.4,
+     "winRate": 52.0,
+     "games": 6097,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Bandit's Haul",
+     "inclusion": 5.4,
+     "winRate": 52.0,
+     "games": 2392,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 8.6,
+     "winRate": 51.9,
+     "games": 3894,
+     "trophyInclusion": 8.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-04-26",
+    "main": [
+     [
+      1,
+      "Assimilation Aegis"
+     ],
+     [
+      1,
+      "Djinn of Fool's Fall"
+     ],
+     [
+      1,
+      "Emergent Haunting"
+     ],
+     [
+      1,
+      "Eriette's Lullaby"
+     ],
+     [
+      1,
+      "Essence Capture"
+     ],
+     [
+      1,
+      "Frontier Seeker"
+     ],
+     [
+      1,
+      "Geyser Drake"
+     ],
+     [
+      1,
+      "Holy Cow"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Journey to Nowhere"
+     ],
+     [
+      1,
+      "Loan Shark"
+     ],
+     [
+      1,
+      "Marauding Sphinx"
+     ],
+     [
+      1,
+      "Mystical Tether"
+     ],
+     [
+      1,
+      "Phantom Interference"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Plan the Heist"
+     ],
+     [
+      1,
+      "Prairie Dog"
+     ],
+     [
+      1,
+      "Repulse"
+     ],
+     [
+      1,
+      "Shepherd of the Clouds"
+     ],
+     [
+      1,
+      "Slickshot Lockpicker"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Stoic Sphinx"
+     ],
+     [
+      1,
+      "Take the Fall"
+     ],
+     [
+      1,
+      "Visage Bandit"
+     ],
+     [
+      1,
+      "Wrangler of the Damned"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      1,
+      "Bovine Intervention"
+     ],
+     [
+      2,
+      "Daring Thunder-Thief"
+     ],
+     [
+      1,
+      "Eriette's Lullaby"
+     ],
+     [
+      1,
+      "Hypothesizzle"
+     ],
+     [
+      1,
+      "Inventive Wingsmith"
+     ],
+     [
+      1,
+      "Kambal, Profiteering Mayor"
+     ],
+     [
+      1,
+      "Longhorn Sharpshooter"
+     ],
+     [
+      1,
+      "Omenport Vigilante"
+     ],
+     [
+      1,
+      "Razzle-Dazzler"
+     ],
+     [
+      1,
+      "Seize the Secrets"
+     ],
+     [
+      1,
+      "Sterling Supplier"
+     ],
+     [
+      2,
+      "Stop Cold"
+     ],
+     [
+      2,
+      "Take Up the Shield"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WBG",
+   "games": 40475,
+   "wins": 21584,
+   "winRate": 53.33,
+   "share": 3.45,
+   "drafts": 7068,
+   "trophies": 752,
+   "cards": [
+    {
+     "name": "Soured Springs",
+     "inclusion": 8.8,
+     "winRate": 56.1,
+     "games": 3764,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 18.3,
+     "winRate": 55.9,
+     "games": 7652,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 21.4,
+     "winRate": 55.8,
+     "games": 8986,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 21.1,
+     "winRate": 55.7,
+     "games": 8829,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 16.3,
+     "winRate": 55.6,
+     "games": 6786,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Dust Animus",
+     "inclusion": 8.3,
+     "winRate": 55.5,
+     "games": 3514,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "The Gitrog, Ravenous Ride",
+     "inclusion": 6.6,
+     "winRate": 55.5,
+     "games": 2747,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 20.2,
+     "winRate": 55.4,
+     "games": 8458,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Redrock Sentinel",
+     "inclusion": 7.8,
+     "winRate": 55.3,
+     "games": 3290,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 35.2,
+     "winRate": 55.2,
+     "games": 14762,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 20.8,
+     "winRate": 55.1,
+     "games": 8663,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 13.8,
+     "winRate": 55.0,
+     "games": 5744,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Seraphic Steed",
+     "inclusion": 11.1,
+     "winRate": 55.0,
+     "games": 4591,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 6.9,
+     "winRate": 55.0,
+     "games": 2878,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 8.7,
+     "winRate": 54.9,
+     "games": 3598,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 35.9,
+     "winRate": 54.7,
+     "games": 14835,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Stubborn Burrowfiend",
+     "inclusion": 17.9,
+     "winRate": 54.7,
+     "games": 7355,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 35.9,
+     "winRate": 54.6,
+     "games": 14883,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 32.3,
+     "winRate": 54.6,
+     "games": 13349,
+     "trophyInclusion": 37.2
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 39.1,
+     "winRate": 54.4,
+     "games": 16086,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Patient Naturalist",
+     "inclusion": 38.2,
+     "winRate": 54.3,
+     "games": 15700,
+     "trophyInclusion": 40.4
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 38.2,
+     "winRate": 54.3,
+     "games": 15700,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Badlands Revival",
+     "inclusion": 30.8,
+     "winRate": 54.3,
+     "games": 12650,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 15.7,
+     "winRate": 54.3,
+     "games": 6497,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 7.1,
+     "winRate": 54.3,
+     "games": 2947,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Dance of the Tumbleweeds",
+     "inclusion": 34.3,
+     "winRate": 54.2,
+     "games": 14048,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Honest Rutstein",
+     "inclusion": 34.2,
+     "winRate": 54.2,
+     "games": 14047,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Wylie Duke, Atiin Hero",
+     "inclusion": 9.8,
+     "winRate": 54.2,
+     "games": 4072,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Lonely Arroyo",
+     "inclusion": 9.2,
+     "winRate": 54.2,
+     "games": 3811,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Vanishing Verse",
+     "inclusion": 9.0,
+     "winRate": 54.2,
+     "games": 3735,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Abraded Bluffs",
+     "inclusion": 8.9,
+     "winRate": 54.2,
+     "games": 3649,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Ruthless Lawbringer",
+     "inclusion": 34.0,
+     "winRate": 54.1,
+     "games": 13934,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 9.8,
+     "winRate": 54.1,
+     "games": 4000,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 8.7,
+     "winRate": 54.1,
+     "games": 3589,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 46.0,
+     "winRate": 54.0,
+     "games": 18855,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Caustic Bronco",
+     "inclusion": 8.2,
+     "winRate": 54.0,
+     "games": 3354,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 41.4,
+     "winRate": 53.9,
+     "games": 17010,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 15.8,
+     "winRate": 53.9,
+     "games": 6531,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 5.7,
+     "winRate": 53.9,
+     "games": 2367,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 35.5,
+     "winRate": 53.8,
+     "games": 14564,
+     "trophyInclusion": 37.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-04-22",
+    "main": [
+     [
+      1,
+      "Back for More"
+     ],
+     [
+      1,
+      "Betrayal at the Vault"
+     ],
+     [
+      1,
+      "Buried in the Garden"
+     ],
+     [
+      1,
+      "Conduit Pylons"
+     ],
+     [
+      1,
+      "Creosote Heath"
+     ],
+     [
+      1,
+      "Dust Animus"
+     ],
+     [
+      1,
+      "Festering Gulch"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Forlorn Flats"
+     ],
+     [
+      1,
+      "Hollow Marauder"
+     ],
+     [
+      3,
+      "Holy Cow"
+     ],
+     [
+      1,
+      "Journey to Nowhere"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Mobile Homestead"
+     ],
+     [
+      2,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Outcaster Greenblade"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Ruthless Lawbringer"
+     ],
+     [
+      1,
+      "Sandstorm Verge"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Stubborn Burrowfiend"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Throw from the Saddle"
+     ],
+     [
+      1,
+      "Trained Arynx"
+     ],
+     [
+      1,
+      "Trash the Town"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ambush Gigapede"
+     ],
+     [
+      1,
+      "Blacksnag Buzzard"
+     ],
+     [
+      1,
+      "Breeches, the Blastmaker"
+     ],
+     [
+      1,
+      "Bucolic Ranch"
+     ],
+     [
+      1,
+      "Daring Thunder-Thief"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Ferocification"
+     ],
+     [
+      1,
+      "Jailbreak Scheme"
+     ],
+     [
+      1,
+      "Reckless Lackey"
+     ],
+     [
+      1,
+      "Sterling Hound"
+     ],
+     [
+      1,
+      "Tomb Trawler"
+     ],
+     [
+      1,
+      "Tumbleweed Rising"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 37543,
+   "wins": 19761,
+   "winRate": 52.64,
+   "share": 3.2,
+   "drafts": 6671,
+   "trophies": 724,
+   "cards": [
+    {
+     "name": "Bonny Pall, Clearcutter",
+     "inclusion": 17.9,
+     "winRate": 58.4,
+     "games": 7295,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 22.8,
+     "winRate": 56.4,
+     "games": 9028,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 18.5,
+     "winRate": 56.0,
+     "games": 7246,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 7.1,
+     "winRate": 55.0,
+     "games": 2734,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 6.6,
+     "winRate": 54.9,
+     "games": 2573,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 5.9,
+     "winRate": 54.8,
+     "games": 2259,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Jailbreak Scheme",
+     "inclusion": 22.2,
+     "winRate": 54.6,
+     "games": 8564,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 19.8,
+     "winRate": 54.6,
+     "games": 7620,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Slickshot Lockpicker",
+     "inclusion": 22.9,
+     "winRate": 54.5,
+     "games": 8938,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 22.8,
+     "winRate": 54.5,
+     "games": 8770,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 12.8,
+     "winRate": 54.5,
+     "games": 4905,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 34.3,
+     "winRate": 54.0,
+     "games": 13184,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Metamorphic Blast",
+     "inclusion": 14.4,
+     "winRate": 54.0,
+     "games": 5521,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Bandit's Haul",
+     "inclusion": 14.1,
+     "winRate": 54.0,
+     "games": 5388,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 12.4,
+     "winRate": 54.0,
+     "games": 4741,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Aloe Alchemist",
+     "inclusion": 10.6,
+     "winRate": 54.0,
+     "games": 4034,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 7.9,
+     "winRate": 54.0,
+     "games": 3014,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 10.7,
+     "winRate": 53.9,
+     "games": 4115,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Peerless Ropemaster",
+     "inclusion": 10.6,
+     "winRate": 53.9,
+     "games": 4034,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Freestrider Lookout",
+     "inclusion": 8.7,
+     "winRate": 53.9,
+     "games": 3290,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Oko, the Ringleader",
+     "inclusion": 6.8,
+     "winRate": 53.9,
+     "games": 2544,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 28.6,
+     "winRate": 53.8,
+     "games": 10937,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Bristlepack Sentry",
+     "inclusion": 20.3,
+     "winRate": 53.8,
+     "games": 7746,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 8.8,
+     "winRate": 53.8,
+     "games": 3324,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Dance of the Tumbleweeds",
+     "inclusion": 35.6,
+     "winRate": 53.7,
+     "games": 13517,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 33.7,
+     "winRate": 53.7,
+     "games": 12800,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 17.1,
+     "winRate": 53.7,
+     "games": 6515,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Unfortunate Accident",
+     "inclusion": 15.4,
+     "winRate": 53.7,
+     "games": 5839,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 14.8,
+     "winRate": 53.7,
+     "games": 5666,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 51.7,
+     "winRate": 53.6,
+     "games": 19666,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 50.7,
+     "winRate": 53.6,
+     "games": 19332,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 47.2,
+     "winRate": 53.6,
+     "games": 17900,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Plan the Heist",
+     "inclusion": 13.4,
+     "winRate": 53.6,
+     "games": 5106,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Pest Infestation",
+     "inclusion": 6.1,
+     "winRate": 53.6,
+     "games": 2302,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Take the Fall",
+     "inclusion": 21.0,
+     "winRate": 53.5,
+     "games": 7966,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 45.3,
+     "winRate": 53.4,
+     "games": 17213,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Hardbristle Bandit",
+     "inclusion": 37.2,
+     "winRate": 53.4,
+     "games": 14164,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Honest Rutstein",
+     "inclusion": 29.5,
+     "winRate": 53.4,
+     "games": 11271,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Duelist of the Mind",
+     "inclusion": 7.7,
+     "winRate": 53.4,
+     "games": 2901,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Mirage Mesa",
+     "inclusion": 36.6,
+     "winRate": 53.3,
+     "games": 13983,
+     "trophyInclusion": 38.4
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-05-06",
+    "main": [
+     [
+      1,
+      "Badlands Revival"
+     ],
+     [
+      1,
+      "Bandit's Haul"
+     ],
+     [
+      1,
+      "Bonny Pall, Clearcutter"
+     ],
+     [
+      1,
+      "Cactarantula"
+     ],
+     [
+      1,
+      "Conduit Pylons"
+     ],
+     [
+      1,
+      "Desert's Due"
+     ],
+     [
+      1,
+      "Festering Gulch"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Forlorn Flats"
+     ],
+     [
+      1,
+      "Freestrider Commando"
+     ],
+     [
+      1,
+      "Goldvein Hydra"
+     ],
+     [
+      1,
+      "Honest Rutstein"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      2,
+      "Jailbreak Scheme"
+     ],
+     [
+      1,
+      "Lush Oasis"
+     ],
+     [
+      1,
+      "Make Your Own Luck"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Nezumi Linkbreaker"
+     ],
+     [
+      1,
+      "Oasis Gardener"
+     ],
+     [
+      1,
+      "Ornery Tumblewagg"
+     ],
+     [
+      1,
+      "Outcaster Greenblade"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      1,
+      "Silver Deputy"
+     ],
+     [
+      1,
+      "Soured Springs"
+     ],
+     [
+      1,
+      "Stubborn Burrowfiend"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Throw from the Saddle"
+     ],
+     [
+      2,
+      "Vault Plunderer"
+     ],
+     [
+      1,
+      "Vaultborn Tyrant"
+     ],
+     [
+      1,
+      "Visage Bandit"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Another Round"
+     ],
+     [
+      1,
+      "Archmage's Newt"
+     ],
+     [
+      1,
+      "Decisive Denial"
+     ],
+     [
+      1,
+      "Doc Aurlock, Grizzled Genius"
+     ],
+     [
+      1,
+      "Getaway Glamer"
+     ],
+     [
+      1,
+      "Gold Pan"
+     ],
+     [
+      1,
+      "Mourner's Surprise"
+     ],
+     [
+      1,
+      "Outlaw Medic"
+     ],
+     [
+      1,
+      "Seize the Secrets"
+     ],
+     [
+      1,
+      "Steer Clear"
+     ],
+     [
+      1,
+      "Thornado"
+     ],
+     [
+      1,
+      "Thunder Lasso"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WRG",
+   "games": 36920,
+   "wins": 19720,
+   "winRate": 53.41,
+   "share": 3.15,
+   "drafts": 6411,
+   "trophies": 699,
+   "cards": [
+    {
+     "name": "Roxanne, Starfall Savant",
+     "inclusion": 14.9,
+     "winRate": 57.7,
+     "games": 5822,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Ornery Tumblewagg",
+     "inclusion": 6.6,
+     "winRate": 57.0,
+     "games": 2601,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Bruse Tarl, Roving Rancher",
+     "inclusion": 18.4,
+     "winRate": 56.3,
+     "games": 7045,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Outcaster Greenblade",
+     "inclusion": 18.5,
+     "winRate": 56.2,
+     "games": 7094,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Dust Animus",
+     "inclusion": 7.3,
+     "winRate": 56.0,
+     "games": 2796,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 6.2,
+     "winRate": 55.9,
+     "games": 2345,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Lassoed by the Law",
+     "inclusion": 17.6,
+     "winRate": 55.8,
+     "games": 6735,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Hellspur Posse Boss",
+     "inclusion": 7.3,
+     "winRate": 55.5,
+     "games": 2794,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Selvala, Eager Trailblazer",
+     "inclusion": 6.4,
+     "winRate": 55.5,
+     "games": 2454,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Getaway Glamer",
+     "inclusion": 14.1,
+     "winRate": 55.1,
+     "games": 5283,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 7.8,
+     "winRate": 55.1,
+     "games": 2929,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 5.7,
+     "winRate": 55.1,
+     "games": 2158,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Spinewoods Armadillo",
+     "inclusion": 15.3,
+     "winRate": 55.0,
+     "games": 5740,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Prosperity Tycoon",
+     "inclusion": 14.6,
+     "winRate": 55.0,
+     "games": 5567,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Outlaws' Merriment",
+     "inclusion": 9.4,
+     "winRate": 55.0,
+     "games": 3570,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Beastbond Outcaster",
+     "inclusion": 15.5,
+     "winRate": 54.8,
+     "games": 5797,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Fortune, Loyal Steed",
+     "inclusion": 8.3,
+     "winRate": 54.8,
+     "games": 3061,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Conduit Pylons",
+     "inclusion": 32.4,
+     "winRate": 54.7,
+     "games": 12134,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Journey to Nowhere",
+     "inclusion": 16.7,
+     "winRate": 54.7,
+     "games": 6268,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Smuggler's Surprise",
+     "inclusion": 5.1,
+     "winRate": 54.7,
+     "games": 1898,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Dance of the Tumbleweeds",
+     "inclusion": 32.4,
+     "winRate": 54.6,
+     "games": 12055,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Seraphic Steed",
+     "inclusion": 12.2,
+     "winRate": 54.6,
+     "games": 4555,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Mystical Tether",
+     "inclusion": 36.4,
+     "winRate": 54.5,
+     "games": 13546,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Bristlepack Sentry",
+     "inclusion": 27.2,
+     "winRate": 54.5,
+     "games": 10132,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Annie Flash, the Veteran",
+     "inclusion": 17.0,
+     "winRate": 54.5,
+     "games": 6362,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Lonely Arroyo",
+     "inclusion": 5.6,
+     "winRate": 54.5,
+     "games": 2106,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Bristling Backwoods",
+     "inclusion": 45.0,
+     "winRate": 54.4,
+     "games": 16860,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Hardbristle Bandit",
+     "inclusion": 34.7,
+     "winRate": 54.4,
+     "games": 12972,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Cactusfolk Sureshot",
+     "inclusion": 32.3,
+     "winRate": 54.4,
+     "games": 12028,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Frontier Seeker",
+     "inclusion": 15.1,
+     "winRate": 54.4,
+     "games": 5527,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Shepherd of the Clouds",
+     "inclusion": 18.1,
+     "winRate": 54.3,
+     "games": 6798,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Mobile Homestead",
+     "inclusion": 12.2,
+     "winRate": 54.3,
+     "games": 4566,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Betrayal at the Vault",
+     "inclusion": 12.2,
+     "winRate": 54.3,
+     "games": 4536,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 6.0,
+     "winRate": 54.3,
+     "games": 2271,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Creosote Heath",
+     "inclusion": 38.6,
+     "winRate": 54.2,
+     "games": 14295,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Throw from the Saddle",
+     "inclusion": 36.6,
+     "winRate": 54.2,
+     "games": 13631,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Buried in the Garden",
+     "inclusion": 29.7,
+     "winRate": 54.2,
+     "games": 11088,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Gila Courser",
+     "inclusion": 19.2,
+     "winRate": 54.2,
+     "games": 7157,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Prairie Dog",
+     "inclusion": 12.9,
+     "winRate": 54.2,
+     "games": 4784,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Clear Shot",
+     "inclusion": 16.5,
+     "winRate": 54.1,
+     "games": 6196,
+     "trophyInclusion": 18.0
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-04-30",
+    "main": [
+     [
+      1,
+      "Abraded Bluffs"
+     ],
+     [
+      1,
+      "Bristlepack Sentry"
+     ],
+     [
+      1,
+      "Bristling Backwoods"
+     ],
+     [
+      1,
+      "Bristly Bill, Spine Sower"
+     ],
+     [
+      1,
+      "Bruse Tarl, Roving Rancher"
+     ],
+     [
+      1,
+      "Cactarantula"
+     ],
+     [
+      1,
+      "Cactusfolk Sureshot"
+     ],
+     [
+      1,
+      "Creosote Heath"
+     ],
+     [
+      1,
+      "Dance of the Tumbleweeds"
+     ],
+     [
+      1,
+      "Drover Grizzly"
+     ],
+     [
+      2,
+      "Explosive Derailment"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Giant Beaver"
+     ],
+     [
+      1,
+      "Hardbristle Bandit"
+     ],
+     [
+      2,
+      "Jolene, Plundering Pugilist"
+     ],
+     [
+      1,
+      "Journey to Nowhere"
+     ],
+     [
+      1,
+      "Lassoed by the Law"
+     ],
+     [
+      1,
+      "Longhorn Sharpshooter"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mystical Tether"
+     ],
+     [
+      1,
+      "Oasis Gardener"
+     ],
+     [
+      1,
+      "Patient Naturalist"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Prickly Pair"
+     ],
+     [
+      1,
+      "Savage Smash"
+     ],
+     [
+      1,
+      "Seraphic Steed"
+     ],
+     [
+      1,
+      "Tumbleweed Rising"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Boneyard Desecrator"
+     ],
+     [
+      1,
+      "Eroded Canyon"
+     ],
+     [
+      1,
+      "Geyser Drake"
+     ],
+     [
+      1,
+      "Highway Robbery"
+     ],
+     [
+      1,
+      "Hypothesizzle"
+     ],
+     [
+      1,
+      "Inventive Wingsmith"
+     ],
+     [
+      1,
+      "Rise of the Varmints"
+     ],
+     [
+      1,
+      "Shackle Slinger"
+     ],
+     [
+      1,
+      "Shepherd of the Clouds"
+     ],
+     [
+      1,
+      "Silver Deputy"
+     ],
+     [
+      1,
+      "Steer Clear"
+     ],
+     [
+      1,
+      "Sterling Hound"
+     ],
+     [
+      1,
+      "Sterling Keykeeper"
+     ],
+     [
+      1,
+      "Torpor Orb"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBR",
+   "games": 36381,
+   "wins": 18104,
+   "winRate": 49.76,
+   "share": 3.1,
+   "drafts": 6720,
+   "trophies": 555,
+   "cards": [
+    {
+     "name": "Rakdos, the Muscle",
+     "inclusion": 6.3,
+     "winRate": 54.2,
+     "games": 2470,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Cruel Ultimatum",
+     "inclusion": 23.7,
+     "winRate": 53.6,
+     "games": 9155,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Plan the Heist",
+     "inclusion": 13.0,
+     "winRate": 52.7,
+     "games": 4942,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Repulse",
+     "inclusion": 23.3,
+     "winRate": 52.3,
+     "games": 8770,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Bandit's Haul",
+     "inclusion": 21.5,
+     "winRate": 52.2,
+     "games": 8078,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Vadmir, New Blood",
+     "inclusion": 8.9,
+     "winRate": 51.8,
+     "games": 3331,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Desert's Due",
+     "inclusion": 43.1,
+     "winRate": 51.7,
+     "games": 16163,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Phantom Interference",
+     "inclusion": 28.5,
+     "winRate": 51.7,
+     "games": 10664,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Marauding Sphinx",
+     "inclusion": 19.8,
+     "winRate": 51.6,
+     "games": 7366,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Oasis Gardener",
+     "inclusion": 20.1,
+     "winRate": 51.5,
+     "games": 7470,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Duelist of the Mind",
+     "inclusion": 10.3,
+     "winRate": 51.5,
+     "games": 3860,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Lively Dirge",
+     "inclusion": 7.7,
+     "winRate": 51.5,
+     "games": 2850,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Bedevil",
+     "inclusion": 7.1,
+     "winRate": 51.5,
+     "games": 2648,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Redrock Sentinel",
+     "inclusion": 7.0,
+     "winRate": 51.5,
+     "games": 2626,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Hollow Marauder",
+     "inclusion": 15.9,
+     "winRate": 51.3,
+     "games": 5901,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Laughing Jasper Flint",
+     "inclusion": 13.1,
+     "winRate": 51.3,
+     "games": 4943,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Forlorn Flats",
+     "inclusion": 10.8,
+     "winRate": 51.3,
+     "games": 3969,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Stoic Sphinx",
+     "inclusion": 8.1,
+     "winRate": 51.3,
+     "games": 3044,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Tyrant's Scorn",
+     "inclusion": 35.2,
+     "winRate": 51.2,
+     "games": 13074,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Desperate Bloodseeker",
+     "inclusion": 33.4,
+     "winRate": 51.2,
+     "games": 12420,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Soured Springs",
+     "inclusion": 50.9,
+     "winRate": 51.1,
+     "games": 18895,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Lush Oasis",
+     "inclusion": 10.3,
+     "winRate": 51.1,
+     "games": 3747,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Rush of Dread",
+     "inclusion": 8.5,
+     "winRate": 51.1,
+     "games": 3209,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Eroded Canyon",
+     "inclusion": 57.0,
+     "winRate": 51.0,
+     "games": 21216,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Slick Sequence",
+     "inclusion": 29.5,
+     "winRate": 51.0,
+     "games": 10914,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Stingerback Terror",
+     "inclusion": 7.2,
+     "winRate": 51.0,
+     "games": 2657,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Jagged Barrens",
+     "inclusion": 49.8,
+     "winRate": 50.9,
+     "games": 18434,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Slickshot Lockpicker",
+     "inclusion": 25.0,
+     "winRate": 50.9,
+     "games": 9203,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Longhorn Sharpshooter",
+     "inclusion": 17.8,
+     "winRate": 50.9,
+     "games": 6579,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Murder",
+     "inclusion": 16.5,
+     "winRate": 50.9,
+     "games": 6173,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Take the Fall",
+     "inclusion": 38.7,
+     "winRate": 50.8,
+     "games": 14287,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Vault Plunderer",
+     "inclusion": 35.0,
+     "winRate": 50.8,
+     "games": 12961,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Spirebluff Canal",
+     "inclusion": 13.5,
+     "winRate": 50.8,
+     "games": 4982,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Festering Gulch",
+     "inclusion": 10.0,
+     "winRate": 50.8,
+     "games": 3681,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Mourner's Surprise",
+     "inclusion": 21.8,
+     "winRate": 50.7,
+     "games": 8069,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Ambush Gigapede",
+     "inclusion": 18.4,
+     "winRate": 50.7,
+     "games": 6754,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Consuming Ashes",
+     "inclusion": 37.1,
+     "winRate": 50.6,
+     "games": 13748,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Shoot the Sheriff",
+     "inclusion": 18.2,
+     "winRate": 50.6,
+     "games": 6671,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Treasure Dredger",
+     "inclusion": 15.9,
+     "winRate": 50.6,
+     "games": 5871,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Three Steps Ahead",
+     "inclusion": 8.3,
+     "winRate": 50.6,
+     "games": 3045,
+     "trophyInclusion": 8.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-05-18",
+    "main": [
+     [
+      1,
+      "Archive Trap"
+     ],
+     [
+      1,
+      "Blood Hustler"
+     ],
+     [
+      1,
+      "Consuming Ashes"
+     ],
+     [
+      1,
+      "Desert's Due"
+     ],
+     [
+      1,
+      "Desperate Bloodseeker"
+     ],
+     [
+      2,
+      "Eroded Canyon"
+     ],
+     [
+      1,
+      "Harrier Strix"
+     ],
+     [
+      1,
+      "Hollow Marauder"
+     ],
+     [
+      1,
+      "Hypothesizzle"
+     ],
+     [
+      1,
+      "Intimidation Campaign"
+     ],
+     [
+      1,
+      "Ionize"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Jagged Barrens"
+     ],
+     [
+      1,
+      "Kraum, Violent Cacophony"
+     ],
+     [
+      1,
+      "Lively Dirge"
+     ],
+     [
+      1,
+      "Marchesa, Dealer of Death"
+     ],
+     [
+      1,
+      "Mirage Mesa"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      2,
+      "Oasis Gardener"
+     ],
+     [
+      1,
+      "Phantom Interference"
+     ],
+     [
+      1,
+      "Plan the Heist"
+     ],
+     [
+      1,
+      "Rattleback Apothecary"
+     ],
+     [
+      1,
+      "Rooftop Assassin"
+     ],
+     [
+      1,
+      "Slickshot Lockpicker"
+     ],
+     [
+      1,
+      "Soured Springs"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terminal Agony"
+     ],
+     [
+      1,
+      "Thunder Salvo"
+     ],
+     [
+      1,
+      "Tyrant's Scorn"
+     ],
+     [
+      1,
+      "Vault Plunderer"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Corrupted Conviction"
+     ],
+     [
+      1,
+      "Djinn of Fool's Fall"
+     ],
+     [
+      1,
+      "Failed Fording"
+     ],
+     [
+      1,
+      "Fake Your Own Death"
+     ],
+     [
+      1,
+      "Hellspur Posse Boss"
+     ],
+     [
+      1,
+      "Nezumi Linkbreaker"
+     ],
+     [
+      1,
+      "Pest Infestation"
+     ],
+     [
+      2,
+      "Rooftop Assassin"
+     ],
+     [
+      1,
+      "Silver Deputy"
+     ],
+     [
+      1,
+      "Void Rend"
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,5614 @@
+{
+ "set": "khm",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.KHM.PremierDraft.csv.gz",
+ "lastModified": "Thu, 11 Jan 2024 09:55:57 GMT",
+ "colorsDerived": true,
+ "first": "2021-01-27",
+ "last": "2021-04-04",
+ "games": 440826,
+ "drafts": 74952,
+ "winRate": 54.54,
+ "combos": [
+  {
+   "colors": "WR",
+   "games": 62571,
+   "wins": 35906,
+   "winRate": 57.38,
+   "share": 14.19,
+   "drafts": 10133,
+   "trophies": 1596,
+   "cards": [
+    {
+     "name": "Dragonkin Berserker",
+     "inclusion": 9.1,
+     "winRate": 60.2,
+     "games": 5980,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Showdown of the Skalds",
+     "inclusion": 15.6,
+     "winRate": 59.9,
+     "games": 10163,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Runeforge Champion",
+     "inclusion": 7.4,
+     "winRate": 59.8,
+     "games": 4789,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Clarion Spirit",
+     "inclusion": 30.6,
+     "winRate": 59.6,
+     "games": 19750,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Halvar, God of Battle",
+     "inclusion": 5.3,
+     "winRate": 59.6,
+     "games": 3334,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Magda, Brazen Outlaw",
+     "inclusion": 12.0,
+     "winRate": 59.2,
+     "games": 7699,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Arni Brokenbrow",
+     "inclusion": 9.3,
+     "winRate": 58.9,
+     "games": 6002,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Usher of the Fallen",
+     "inclusion": 29.9,
+     "winRate": 58.8,
+     "games": 19165,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Sigrid, God-Favored",
+     "inclusion": 8.7,
+     "winRate": 58.8,
+     "games": 5471,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Basalt Ravager",
+     "inclusion": 22.2,
+     "winRate": 58.6,
+     "games": 14209,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Axgard Armory",
+     "inclusion": 34.9,
+     "winRate": 58.4,
+     "games": 22132,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Kaya's Onslaught",
+     "inclusion": 27.3,
+     "winRate": 58.4,
+     "games": 17330,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Reidane, God of the Worthy",
+     "inclusion": 7.2,
+     "winRate": 58.4,
+     "games": 4588,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Story Seeker",
+     "inclusion": 55.1,
+     "winRate": 58.3,
+     "games": 34885,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "Rune of Speed",
+     "inclusion": 29.4,
+     "winRate": 58.3,
+     "games": 18629,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Run Amok",
+     "inclusion": 54.2,
+     "winRate": 58.2,
+     "games": 34395,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Rune of Sustenance",
+     "inclusion": 28.4,
+     "winRate": 58.2,
+     "games": 17911,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Runed Crown",
+     "inclusion": 17.3,
+     "winRate": 58.2,
+     "games": 10863,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Glorious Protector",
+     "inclusion": 8.1,
+     "winRate": 58.2,
+     "games": 5087,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Battlefield Raptor",
+     "inclusion": 63.0,
+     "winRate": 58.1,
+     "games": 39796,
+     "trophyInclusion": 67.2
+    },
+    {
+     "name": "Stalwart Valkyrie",
+     "inclusion": 55.1,
+     "winRate": 58.1,
+     "games": 34833,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Shepherd of the Cosmos",
+     "inclusion": 23.6,
+     "winRate": 58.1,
+     "games": 14901,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Birgi, God of Storytelling",
+     "inclusion": 9.2,
+     "winRate": 58.1,
+     "games": 5758,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Dwarven Hammer",
+     "inclusion": 34.6,
+     "winRate": 58.0,
+     "games": 21882,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 48.3,
+     "winRate": 57.9,
+     "games": 30457,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Wings of the Cosmos",
+     "inclusion": 10.9,
+     "winRate": 57.9,
+     "games": 6806,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Calamity Bearer",
+     "inclusion": 5.4,
+     "winRate": 57.9,
+     "games": 3390,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Bound in Gold",
+     "inclusion": 52.8,
+     "winRate": 57.8,
+     "games": 33225,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Tormentor's Helm",
+     "inclusion": 64.9,
+     "winRate": 57.7,
+     "games": 40823,
+     "trophyInclusion": 65.9
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 51.2,
+     "winRate": 57.7,
+     "games": 32294,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Starnheim Courser",
+     "inclusion": 51.2,
+     "winRate": 57.6,
+     "games": 32083,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Fearless Pup",
+     "inclusion": 52.7,
+     "winRate": 57.5,
+     "games": 33044,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Righteous Valkyrie",
+     "inclusion": 6.8,
+     "winRate": 57.5,
+     "games": 4290,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Beskir Shieldmate",
+     "inclusion": 59.4,
+     "winRate": 57.4,
+     "games": 37108,
+     "trophyInclusion": 59.5
+    },
+    {
+     "name": "Axgard Cavalry",
+     "inclusion": 52.1,
+     "winRate": 57.3,
+     "games": 32736,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Tuskeri Firewalker",
+     "inclusion": 58.1,
+     "winRate": 57.2,
+     "games": 36456,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Codespell Cleric",
+     "inclusion": 32.3,
+     "winRate": 57.2,
+     "games": 20130,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Alpine Meadow",
+     "inclusion": 20.9,
+     "winRate": 57.2,
+     "games": 13014,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Koll, the Forgemaster",
+     "inclusion": 47.1,
+     "winRate": 57.1,
+     "games": 29479,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Goldmaw Champion",
+     "inclusion": 47.0,
+     "winRate": 57.1,
+     "games": 29349,
+     "trophyInclusion": 45.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-03-15",
+    "main": [
+     [
+      1,
+      "Axgard Armory"
+     ],
+     [
+      3,
+      "Battlefield Raptor"
+     ],
+     [
+      1,
+      "Beskir Shieldmate"
+     ],
+     [
+      1,
+      "Bound in Gold"
+     ],
+     [
+      1,
+      "Breakneck Berserker"
+     ],
+     [
+      2,
+      "Clarion Spirit"
+     ],
+     [
+      1,
+      "Demon Bolt"
+     ],
+     [
+      1,
+      "Dwarven Reinforcements"
+     ],
+     [
+      1,
+      "Fearless Liberator"
+     ],
+     [
+      1,
+      "Fearless Pup"
+     ],
+     [
+      1,
+      "Goldvein Pick"
+     ],
+     [
+      1,
+      "Koll, the Forgemaster"
+     ],
+     [
+      1,
+      "Master Skald"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Rune of Speed"
+     ],
+     [
+      1,
+      "Rune of Sustenance"
+     ],
+     [
+      1,
+      "Runed Crown"
+     ],
+     [
+      1,
+      "Shimmerdrift Vale"
+     ],
+     [
+      1,
+      "Showdown of the Skalds"
+     ],
+     [
+      1,
+      "Stalwart Valkyrie"
+     ],
+     [
+      1,
+      "Starnheim Courser"
+     ],
+     [
+      1,
+      "Story Seeker"
+     ],
+     [
+      1,
+      "Tormentor's Helm"
+     ],
+     [
+      1,
+      "Tuskeri Firewalker"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ascent of the Worthy"
+     ],
+     [
+      1,
+      "Avalanche Caller"
+     ],
+     [
+      1,
+      "Axgard Braggart"
+     ],
+     [
+      1,
+      "Battle for Bretagard"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Doomskar Oracle"
+     ],
+     [
+      1,
+      "Dwarven Reinforcements"
+     ],
+     [
+      1,
+      "Elderleaf Mentor"
+     ],
+     [
+      1,
+      "Funeral Longboat"
+     ],
+     [
+      1,
+      "Giant Ox"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      1,
+      "Mists of Littjara"
+     ],
+     [
+      1,
+      "Open the Omenpaths"
+     ],
+     [
+      1,
+      "Saw It Coming"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Shackles of Treachery"
+     ],
+     [
+      1,
+      "Smashing Success"
+     ],
+     [
+      1,
+      "Usher of the Fallen"
+     ],
+     [
+      1,
+      "Wings of the Cosmos"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 48352,
+   "wins": 26432,
+   "winRate": 54.67,
+   "share": 10.97,
+   "drafts": 8252,
+   "trophies": 1103,
+   "cards": [
+    {
+     "name": "Esika's Chariot",
+     "inclusion": 7.3,
+     "winRate": 61.1,
+     "games": 3909,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Koma, Cosmos Serpent",
+     "inclusion": 8.2,
+     "winRate": 60.6,
+     "games": 4345,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Arni Slays the Troll",
+     "inclusion": 6.3,
+     "winRate": 58.7,
+     "games": 3245,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Surtland Frostpyre",
+     "inclusion": 6.2,
+     "winRate": 58.1,
+     "games": 3182,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "The Bears of Littjara",
+     "inclusion": 14.6,
+     "winRate": 57.7,
+     "games": 7406,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Cosmos Charger",
+     "inclusion": 6.9,
+     "winRate": 57.2,
+     "games": 3459,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 24.9,
+     "winRate": 56.8,
+     "games": 12366,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Cyclone Summoner",
+     "inclusion": 7.5,
+     "winRate": 56.7,
+     "games": 3750,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Spirit of the Aldergard",
+     "inclusion": 29.0,
+     "winRate": 56.6,
+     "games": 14546,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Gnottvold Slumbermound",
+     "inclusion": 8.6,
+     "winRate": 56.6,
+     "games": 4230,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 25.7,
+     "winRate": 56.5,
+     "games": 12764,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 12.5,
+     "winRate": 56.4,
+     "games": 6224,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 54.5,
+     "winRate": 56.3,
+     "games": 27104,
+     "trophyInclusion": 62.6
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 17.2,
+     "winRate": 56.1,
+     "games": 8507,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Rootless Yew",
+     "inclusion": 16.0,
+     "winRate": 56.1,
+     "games": 7903,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Narfi, Betrayer King",
+     "inclusion": 13.4,
+     "winRate": 56.0,
+     "games": 6558,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 30.2,
+     "winRate": 55.9,
+     "games": 14804,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Elven Bow",
+     "inclusion": 17.7,
+     "winRate": 55.9,
+     "games": 8734,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Ravenous Lindwurm",
+     "inclusion": 52.2,
+     "winRate": 55.8,
+     "games": 25764,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Squash",
+     "inclusion": 9.8,
+     "winRate": 55.8,
+     "games": 4815,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 29.4,
+     "winRate": 55.7,
+     "games": 14408,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 11.2,
+     "winRate": 55.7,
+     "games": 5512,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Sculptor of Winter",
+     "inclusion": 52.5,
+     "winRate": 55.6,
+     "games": 25797,
+     "trophyInclusion": 56.9
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "inclusion": 26.8,
+     "winRate": 55.5,
+     "games": 13140,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 24.8,
+     "winRate": 55.4,
+     "games": 12177,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Woodland Chasm",
+     "inclusion": 21.6,
+     "winRate": 55.4,
+     "games": 10562,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Blizzard Brawl",
+     "inclusion": 21.0,
+     "winRate": 55.4,
+     "games": 10327,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Struggle for Skemfar",
+     "inclusion": 45.3,
+     "winRate": 55.3,
+     "games": 22198,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Littjara Mirrorlake",
+     "inclusion": 34.3,
+     "winRate": 55.3,
+     "games": 16796,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Volatile Fjord",
+     "inclusion": 25.3,
+     "winRate": 55.3,
+     "games": 12297,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Snow-Covered Plains",
+     "inclusion": 17.9,
+     "winRate": 55.3,
+     "games": 8798,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Blessing of Frost",
+     "inclusion": 7.0,
+     "winRate": 55.3,
+     "games": 3352,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Snow-Covered Island",
+     "inclusion": 63.7,
+     "winRate": 55.2,
+     "games": 31081,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Mistwalker",
+     "inclusion": 53.6,
+     "winRate": 55.2,
+     "games": 26189,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Run Ashore",
+     "inclusion": 28.7,
+     "winRate": 55.2,
+     "games": 13974,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Svella, Ice Shaper",
+     "inclusion": 17.1,
+     "winRate": 55.2,
+     "games": 8340,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Toski, Bearer of Secrets",
+     "inclusion": 6.0,
+     "winRate": 55.2,
+     "games": 2922,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 46.5,
+     "winRate": 55.1,
+     "games": 22665,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Ice Tunnel",
+     "inclusion": 23.8,
+     "winRate": 55.1,
+     "games": 11590,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Snow-Covered Forest",
+     "inclusion": 62.9,
+     "winRate": 55.0,
+     "games": 30710,
+     "trophyInclusion": 64.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-03-09",
+    "main": [
+     [
+      2,
+      "Augury Raven"
+     ],
+     [
+      1,
+      "Avalanche Caller"
+     ],
+     [
+      1,
+      "Behold the Multiverse"
+     ],
+     [
+      1,
+      "Berg Strider"
+     ],
+     [
+      1,
+      "Blizzard Brawl"
+     ],
+     [
+      1,
+      "Cyclone Summoner"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Giant's Amulet"
+     ],
+     [
+      2,
+      "Glittering Frost"
+     ],
+     [
+      1,
+      "Guardian Gladewalker"
+     ],
+     [
+      1,
+      "Icebind Pillar"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Littjara Mirrorlake"
+     ],
+     [
+      2,
+      "Mistwalker"
+     ],
+     [
+      1,
+      "Narfi, Betrayer King"
+     ],
+     [
+      2,
+      "Pilfering Hawk"
+     ],
+     [
+      1,
+      "Rimewood Falls"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      1,
+      "Sarulf's Packmate"
+     ],
+     [
+      1,
+      "Sculptor of Winter"
+     ],
+     [
+      1,
+      "Shimmerdrift Vale"
+     ],
+     [
+      2,
+      "Snow-Covered Forest"
+     ],
+     [
+      2,
+      "Snow-Covered Island"
+     ],
+     [
+      1,
+      "Snow-Covered Swamp"
+     ],
+     [
+      1,
+      "Spirit of the Aldergard"
+     ],
+     [
+      1,
+      "Struggle for Skemfar"
+     ],
+     [
+      1,
+      "Volatile Fjord"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Blightstep Pathway"
+     ],
+     [
+      1,
+      "Brinebarrow Intruder"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Draugr Thought-Thief"
+     ],
+     [
+      1,
+      "Frostpyre Arcanist"
+     ],
+     [
+      1,
+      "Jaspera Sentinel"
+     ],
+     [
+      2,
+      "Karfell Harbinger"
+     ],
+     [
+      1,
+      "King Harald's Revenge"
+     ],
+     [
+      1,
+      "Mists of Littjara"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Vega, the Watcher"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 44598,
+   "wins": 24731,
+   "winRate": 55.45,
+   "share": 10.12,
+   "drafts": 7509,
+   "trophies": 1038,
+   "cards": [
+    {
+     "name": "Magda, Brazen Outlaw",
+     "inclusion": 5.9,
+     "winRate": 59.3,
+     "games": 2849,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Basalt Ravager",
+     "inclusion": 34.5,
+     "winRate": 58.1,
+     "games": 16036,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 37.9,
+     "winRate": 58.0,
+     "games": 17514,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Calamity Bearer",
+     "inclusion": 13.8,
+     "winRate": 58.0,
+     "games": 6378,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Dragonkin Berserker",
+     "inclusion": 6.7,
+     "winRate": 57.7,
+     "games": 3153,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Cyclone Summoner",
+     "inclusion": 12.5,
+     "winRate": 57.5,
+     "games": 5766,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Battle of Frost and Fire",
+     "inclusion": 17.0,
+     "winRate": 57.0,
+     "games": 7685,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Squash",
+     "inclusion": 71.7,
+     "winRate": 56.7,
+     "games": 32654,
+     "trophyInclusion": 81.1
+    },
+    {
+     "name": "Aegar, the Freezing Flame",
+     "inclusion": 54.3,
+     "winRate": 56.7,
+     "games": 24669,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Frostpyre Arcanist",
+     "inclusion": 33.2,
+     "winRate": 56.4,
+     "games": 14930,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Berg Strider",
+     "inclusion": 60.3,
+     "winRate": 56.3,
+     "games": 27211,
+     "trophyInclusion": 65.9
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 58.2,
+     "winRate": 56.3,
+     "games": 26312,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Run Ashore",
+     "inclusion": 28.0,
+     "winRate": 56.2,
+     "games": 12571,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Fearless Liberator",
+     "inclusion": 14.4,
+     "winRate": 56.2,
+     "games": 6486,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Quakebringer",
+     "inclusion": 5.8,
+     "winRate": 56.1,
+     "games": 2591,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 56.3,
+     "winRate": 56.0,
+     "games": 25341,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Frost Bite",
+     "inclusion": 49.9,
+     "winRate": 56.0,
+     "games": 22420,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 18.0,
+     "winRate": 56.0,
+     "games": 8053,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Glacial Floodplain",
+     "inclusion": 11.8,
+     "winRate": 56.0,
+     "games": 5224,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Axgard Cavalry",
+     "inclusion": 47.3,
+     "winRate": 55.9,
+     "games": 21307,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Tundra Fumarole",
+     "inclusion": 7.3,
+     "winRate": 55.9,
+     "games": 3290,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Behold the Multiverse",
+     "inclusion": 59.6,
+     "winRate": 55.8,
+     "games": 26748,
+     "trophyInclusion": 62.4
+    },
+    {
+     "name": "Mistwalker",
+     "inclusion": 66.2,
+     "winRate": 55.7,
+     "games": 29693,
+     "trophyInclusion": 68.0
+    },
+    {
+     "name": "Invasion of the Giants",
+     "inclusion": 39.3,
+     "winRate": 55.7,
+     "games": 17700,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Surtland Frostpyre",
+     "inclusion": 38.3,
+     "winRate": 55.7,
+     "games": 17155,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Volatile Fjord",
+     "inclusion": 35.9,
+     "winRate": 55.7,
+     "games": 16079,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 28.0,
+     "winRate": 55.7,
+     "games": 12555,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 12.2,
+     "winRate": 55.7,
+     "games": 5460,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Arni Brokenbrow",
+     "inclusion": 5.4,
+     "winRate": 55.7,
+     "games": 2414,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Craven Hulk",
+     "inclusion": 62.7,
+     "winRate": 55.6,
+     "games": 28159,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Karfell Harbinger",
+     "inclusion": 33.4,
+     "winRate": 55.6,
+     "games": 14956,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Alpine Meadow",
+     "inclusion": 12.5,
+     "winRate": 55.6,
+     "games": 5579,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Graven Lore",
+     "inclusion": 5.7,
+     "winRate": 55.6,
+     "games": 2561,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Dwarven Reinforcements",
+     "inclusion": 29.9,
+     "winRate": 55.4,
+     "games": 13363,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Crush the Weak",
+     "inclusion": 21.8,
+     "winRate": 55.4,
+     "games": 9748,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Inga Rune-Eyes",
+     "inclusion": 21.1,
+     "winRate": 55.4,
+     "games": 9442,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Snow-Covered Forest",
+     "inclusion": 5.9,
+     "winRate": 55.4,
+     "games": 2629,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Snow-Covered Island",
+     "inclusion": 48.4,
+     "winRate": 55.3,
+     "games": 21504,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Giant's Amulet",
+     "inclusion": 29.8,
+     "winRate": 55.3,
+     "games": 13319,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Shimmerdrift Vale",
+     "inclusion": 29.9,
+     "winRate": 55.2,
+     "games": 13305,
+     "trophyInclusion": 29.7
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2021-03-06",
+    "main": [
+     [
+      1,
+      "Aegar, the Freezing Flame"
+     ],
+     [
+      1,
+      "Augury Raven"
+     ],
+     [
+      1,
+      "Axgard Cavalry"
+     ],
+     [
+      1,
+      "Basalt Ravager"
+     ],
+     [
+      1,
+      "Battle of Frost and Fire"
+     ],
+     [
+      1,
+      "Behold the Multiverse"
+     ],
+     [
+      3,
+      "Berg Strider"
+     ],
+     [
+      1,
+      "Craven Hulk"
+     ],
+     [
+      1,
+      "Crush the Weak"
+     ],
+     [
+      1,
+      "Cyclone Summoner"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Draugr Thought-Thief"
+     ],
+     [
+      1,
+      "Frost Bite"
+     ],
+     [
+      1,
+      "Glimpse the Cosmos"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Littjara Kinseekers"
+     ],
+     [
+      1,
+      "Mistwalker"
+     ],
+     [
+      4,
+      "Mountain"
+     ],
+     [
+      1,
+      "Pilfering Hawk"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Shimmerdrift Vale"
+     ],
+     [
+      1,
+      "Snow-Covered Island"
+     ],
+     [
+      2,
+      "Snow-Covered Mountain"
+     ],
+     [
+      1,
+      "Squash"
+     ],
+     [
+      2,
+      "Surtland Frostpyre"
+     ],
+     [
+      1,
+      "Tuskeri Firewalker"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Annul"
+     ],
+     [
+      1,
+      "Brinebarrow Intruder"
+     ],
+     [
+      2,
+      "Cinderheart Giant"
+     ],
+     [
+      1,
+      "Darkbore Pathway"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Elderleaf Mentor"
+     ],
+     [
+      1,
+      "Giant Ox"
+     ],
+     [
+      1,
+      "Gnottvold Recluse"
+     ],
+     [
+      1,
+      "Mammoth Growth"
+     ],
+     [
+      1,
+      "Mists of Littjara"
+     ],
+     [
+      1,
+      "Open the Omenpaths"
+     ],
+     [
+      1,
+      "Path to the World Tree"
+     ],
+     [
+      2,
+      "Vault Robber"
+     ],
+     [
+      1,
+      "Village Rites"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 40951,
+   "wins": 22694,
+   "winRate": 55.42,
+   "share": 9.29,
+   "drafts": 6891,
+   "trophies": 922,
+   "cards": [
+    {
+     "name": "Esika's Chariot",
+     "inclusion": 6.4,
+     "winRate": 60.5,
+     "games": 2841,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Elvish Warmaster",
+     "inclusion": 13.1,
+     "winRate": 58.2,
+     "games": 5579,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 34.4,
+     "winRate": 57.6,
+     "games": 14466,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Harald, King of Skemfar",
+     "inclusion": 40.7,
+     "winRate": 57.2,
+     "games": 17142,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Sarulf, Realm Eater",
+     "inclusion": 13.1,
+     "winRate": 57.2,
+     "games": 5505,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Harald Unites the Elves",
+     "inclusion": 17.0,
+     "winRate": 57.1,
+     "games": 7139,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Skemfar Elderhall",
+     "inclusion": 36.7,
+     "winRate": 57.0,
+     "games": 15303,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Skemfar Shadowsage",
+     "inclusion": 28.1,
+     "winRate": 57.0,
+     "games": 11701,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Elven Bow",
+     "inclusion": 26.5,
+     "winRate": 56.9,
+     "games": 11080,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 53.1,
+     "winRate": 56.8,
+     "games": 22248,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Blood on the Snow",
+     "inclusion": 7.4,
+     "winRate": 56.8,
+     "games": 3059,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Poison the Cup",
+     "inclusion": 23.3,
+     "winRate": 56.7,
+     "games": 9620,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Crippling Fear",
+     "inclusion": 9.1,
+     "winRate": 56.6,
+     "games": 3826,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Realmwalker",
+     "inclusion": 7.6,
+     "winRate": 56.6,
+     "games": 3166,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Gnottvold Slumbermound",
+     "inclusion": 5.3,
+     "winRate": 56.6,
+     "games": 2139,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 21.2,
+     "winRate": 56.4,
+     "games": 8828,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Toski, Bearer of Secrets",
+     "inclusion": 6.1,
+     "winRate": 56.4,
+     "games": 2544,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Rootless Yew",
+     "inclusion": 14.0,
+     "winRate": 56.3,
+     "games": 5881,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Ravenous Lindwurm",
+     "inclusion": 47.3,
+     "winRate": 56.2,
+     "games": 19668,
+     "trophyInclusion": 49.6
+    },
+    {
+     "name": "Blizzard Brawl",
+     "inclusion": 14.4,
+     "winRate": 56.2,
+     "games": 5938,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Draugr Necromancer",
+     "inclusion": 7.7,
+     "winRate": 56.2,
+     "games": 3199,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Jaspera Sentinel",
+     "inclusion": 38.0,
+     "winRate": 56.1,
+     "games": 15636,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Spirit of the Aldergard",
+     "inclusion": 15.2,
+     "winRate": 56.1,
+     "games": 6221,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Feed the Serpent",
+     "inclusion": 49.8,
+     "winRate": 56.0,
+     "games": 20671,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Koma's Faithful",
+     "inclusion": 48.7,
+     "winRate": 55.9,
+     "games": 20043,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Elderleaf Mentor",
+     "inclusion": 45.4,
+     "winRate": 55.9,
+     "games": 18890,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Woodland Chasm",
+     "inclusion": 29.8,
+     "winRate": 55.9,
+     "games": 12283,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 13.7,
+     "winRate": 55.9,
+     "games": 5656,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Snow-Covered Plains",
+     "inclusion": 9.7,
+     "winRate": 55.9,
+     "games": 4047,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Rimewood Falls",
+     "inclusion": 12.7,
+     "winRate": 55.8,
+     "games": 5212,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Port of Karfell",
+     "inclusion": 5.7,
+     "winRate": 55.8,
+     "games": 2339,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Elderfang Disciple",
+     "inclusion": 51.4,
+     "winRate": 55.6,
+     "games": 21123,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Struggle for Skemfar",
+     "inclusion": 48.5,
+     "winRate": 55.6,
+     "games": 20020,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Raise the Draugr",
+     "inclusion": 44.3,
+     "winRate": 55.6,
+     "games": 18172,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 18.8,
+     "winRate": 55.6,
+     "games": 7700,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Skemfar Avenger",
+     "inclusion": 10.9,
+     "winRate": 55.6,
+     "games": 4450,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 53.0,
+     "winRate": 55.5,
+     "games": 21694,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Grizzled Outrider",
+     "inclusion": 48.1,
+     "winRate": 55.5,
+     "games": 19829,
+     "trophyInclusion": 48.0
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "inclusion": 45.0,
+     "winRate": 55.5,
+     "games": 18482,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Bloodline Pretender",
+     "inclusion": 13.4,
+     "winRate": 55.5,
+     "games": 5511,
+     "trophyInclusion": 12.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-01-31",
+    "main": [
+     [
+      1,
+      "Blizzard Brawl"
+     ],
+     [
+      1,
+      "Deathknell Berserker"
+     ],
+     [
+      1,
+      "Elderfang Disciple"
+     ],
+     [
+      1,
+      "Elderleaf Mentor"
+     ],
+     [
+      1,
+      "Elven Bow"
+     ],
+     [
+      1,
+      "Feed the Serpent"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Grizzled Outrider"
+     ],
+     [
+      1,
+      "Guardian Gladewalker"
+     ],
+     [
+      1,
+      "Harald, King of Skemfar"
+     ],
+     [
+      1,
+      "Horizon Seeker"
+     ],
+     [
+      1,
+      "Ice Tunnel"
+     ],
+     [
+      1,
+      "Karfell Kennel-Master"
+     ],
+     [
+      1,
+      "Littjara Glade-Warden"
+     ],
+     [
+      2,
+      "Masked Vandal"
+     ],
+     [
+      1,
+      "Poison the Cup"
+     ],
+     [
+      1,
+      "Port of Karfell"
+     ],
+     [
+      1,
+      "Ravenous Lindwurm"
+     ],
+     [
+      1,
+      "Rimewood Falls"
+     ],
+     [
+      1,
+      "Rootless Yew"
+     ],
+     [
+      2,
+      "Sarulf's Packmate"
+     ],
+     [
+      1,
+      "Sculptor of Winter"
+     ],
+     [
+      1,
+      "Skemfar Elderhall"
+     ],
+     [
+      1,
+      "Skull Raid"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      2,
+      "Snow-Covered Forest"
+     ],
+     [
+      1,
+      "Snow-Covered Swamp"
+     ],
+     [
+      1,
+      "Struggle for Skemfar"
+     ],
+     [
+      6,
+      "Swamp"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Craven Hulk"
+     ],
+     [
+      1,
+      "Dwarven Reinforcements"
+     ],
+     [
+      1,
+      "Fall of the Impostor"
+     ],
+     [
+      1,
+      "Frostpeak Yeti"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      1,
+      "King Harald's Revenge"
+     ],
+     [
+      2,
+      "Masked Vandal"
+     ],
+     [
+      1,
+      "Pilfering Hawk"
+     ],
+     [
+      1,
+      "Ravenform"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      1,
+      "Shackles of Treachery"
+     ],
+     [
+      1,
+      "Snow-Covered Mountain"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 38513,
+   "wins": 21542,
+   "winRate": 55.93,
+   "share": 8.74,
+   "drafts": 6398,
+   "trophies": 926,
+   "cards": [
+    {
+     "name": "Esika's Chariot",
+     "inclusion": 8.2,
+     "winRate": 60.9,
+     "games": 3356,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Basalt Ravager",
+     "inclusion": 24.9,
+     "winRate": 58.0,
+     "games": 9885,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Spirit of the Aldergard",
+     "inclusion": 14.8,
+     "winRate": 57.7,
+     "games": 5813,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Calamity Bearer",
+     "inclusion": 7.9,
+     "winRate": 57.5,
+     "games": 3126,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Arni Brokenbrow",
+     "inclusion": 8.6,
+     "winRate": 57.4,
+     "games": 3381,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Woodland Chasm",
+     "inclusion": 10.6,
+     "winRate": 57.3,
+     "games": 4108,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Magda, Brazen Outlaw",
+     "inclusion": 7.6,
+     "winRate": 57.3,
+     "games": 2940,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Elvish Warmaster",
+     "inclusion": 5.7,
+     "winRate": 57.3,
+     "games": 2200,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Frost Bite",
+     "inclusion": 42.3,
+     "winRate": 57.1,
+     "games": 16451,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Volatile Fjord",
+     "inclusion": 11.7,
+     "winRate": 57.1,
+     "games": 4605,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Snow-Covered Island",
+     "inclusion": 9.1,
+     "winRate": 57.1,
+     "games": 3539,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Berg Strider",
+     "inclusion": 5.4,
+     "winRate": 57.1,
+     "games": 2141,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Gnottvold Slumbermound",
+     "inclusion": 39.2,
+     "winRate": 57.0,
+     "games": 15274,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Dragonkin Berserker",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 3153,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Aegar, the Freezing Flame",
+     "inclusion": 5.2,
+     "winRate": 56.9,
+     "games": 2021,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Squash",
+     "inclusion": 48.3,
+     "winRate": 56.8,
+     "games": 18783,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Arni Slays the Troll",
+     "inclusion": 42.6,
+     "winRate": 56.8,
+     "games": 16634,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 31.0,
+     "winRate": 56.8,
+     "games": 12065,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 9.4,
+     "winRate": 56.8,
+     "games": 3621,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 58.1,
+     "winRate": 56.7,
+     "games": 22625,
+     "trophyInclusion": 62.1
+    },
+    {
+     "name": "Svella, Ice Shaper",
+     "inclusion": 38.9,
+     "winRate": 56.7,
+     "games": 15141,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Rootless Yew",
+     "inclusion": 20.9,
+     "winRate": 56.7,
+     "games": 8106,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 13.4,
+     "winRate": 56.7,
+     "games": 5200,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Toski, Bearer of Secrets",
+     "inclusion": 7.3,
+     "winRate": 56.7,
+     "games": 2815,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Sculptor of Winter",
+     "inclusion": 37.4,
+     "winRate": 56.6,
+     "games": 14527,
+     "trophyInclusion": 40.5
+    },
+    {
+     "name": "Arctic Treeline",
+     "inclusion": 11.4,
+     "winRate": 56.6,
+     "games": 4467,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Ravenous Lindwurm",
+     "inclusion": 55.9,
+     "winRate": 56.5,
+     "games": 21654,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Rune of Might",
+     "inclusion": 20.6,
+     "winRate": 56.5,
+     "games": 8024,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "inclusion": 8.3,
+     "winRate": 56.5,
+     "games": 3205,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 51.2,
+     "winRate": 56.4,
+     "games": 19854,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Shimmerdrift Vale",
+     "inclusion": 29.6,
+     "winRate": 56.4,
+     "games": 11424,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 20.1,
+     "winRate": 56.4,
+     "games": 7810,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Seize the Spoils",
+     "inclusion": 17.8,
+     "winRate": 56.4,
+     "games": 6871,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Provoke the Trolls",
+     "inclusion": 12.5,
+     "winRate": 56.4,
+     "games": 4840,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Old-Growth Troll",
+     "inclusion": 8.1,
+     "winRate": 56.4,
+     "games": 3211,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Realmwalker",
+     "inclusion": 6.3,
+     "winRate": 56.4,
+     "games": 2441,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 55.9,
+     "winRate": 56.3,
+     "games": 21697,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 47.5,
+     "winRate": 56.3,
+     "games": 18333,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Jaspera Sentinel",
+     "inclusion": 28.9,
+     "winRate": 56.3,
+     "games": 11113,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Blizzard Brawl",
+     "inclusion": 14.1,
+     "winRate": 56.3,
+     "games": 5489,
+     "trophyInclusion": 13.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-02-20",
+    "main": [
+     [
+      1,
+      "Arni Slays the Troll"
+     ],
+     [
+      1,
+      "Axgard Cavalry"
+     ],
+     [
+      1,
+      "Cinderheart Giant"
+     ],
+     [
+      1,
+      "Craven Hulk"
+     ],
+     [
+      1,
+      "Demon Bolt"
+     ],
+     [
+      1,
+      "Dragonkin Berserker"
+     ],
+     [
+      1,
+      "Fearless Liberator"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Frost Bite"
+     ],
+     [
+      1,
+      "Gnottvold Recluse"
+     ],
+     [
+      1,
+      "Gnottvold Slumbermound"
+     ],
+     [
+      1,
+      "Guardian Gladewalker"
+     ],
+     [
+      1,
+      "Hagi Mob"
+     ],
+     [
+      1,
+      "Highland Forest"
+     ],
+     [
+      1,
+      "Horizon Seeker"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      1,
+      "Magda, Brazen Outlaw"
+     ],
+     [
+      1,
+      "Masked Vandal"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Ravenous Lindwurm"
+     ],
+     [
+      1,
+      "Run Amok"
+     ],
+     [
+      1,
+      "Sarulf's Packmate"
+     ],
+     [
+      2,
+      "Snow-Covered Mountain"
+     ],
+     [
+      1,
+      "Squash"
+     ],
+     [
+      2,
+      "Struggle for Skemfar"
+     ],
+     [
+      1,
+      "Tuskeri Firewalker"
+     ],
+     [
+      1,
+      "Waking the Trolls"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beskir Shieldmate"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Frostpeak Yeti"
+     ],
+     [
+      1,
+      "Glittering Frost"
+     ],
+     [
+      1,
+      "Gnottvold Recluse"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      1,
+      "In Search of Greatness"
+     ],
+     [
+      1,
+      "Kardur's Vicious Return"
+     ],
+     [
+      1,
+      "King Harald's Revenge"
+     ],
+     [
+      1,
+      "Koll, the Forgemaster"
+     ],
+     [
+      2,
+      "Mammoth Growth"
+     ],
+     [
+      1,
+      "Master Skald"
+     ],
+     [
+      2,
+      "Raven Wings"
+     ],
+     [
+      2,
+      "Seize the Spoils"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 34815,
+   "wins": 19942,
+   "winRate": 57.28,
+   "share": 7.9,
+   "drafts": 5696,
+   "trophies": 892,
+   "cards": [
+    {
+     "name": "Esika's Chariot",
+     "inclusion": 9.1,
+     "winRate": 62.5,
+     "games": 3421,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Runeforge Champion",
+     "inclusion": 6.5,
+     "winRate": 62.2,
+     "games": 2408,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Runed Crown",
+     "inclusion": 14.3,
+     "winRate": 60.2,
+     "games": 5224,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Rune of Might",
+     "inclusion": 25.3,
+     "winRate": 59.9,
+     "games": 9203,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Clarion Spirit",
+     "inclusion": 29.5,
+     "winRate": 59.6,
+     "games": 10587,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Bretagard Stronghold",
+     "inclusion": 43.4,
+     "winRate": 59.3,
+     "games": 15659,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Righteous Valkyrie",
+     "inclusion": 7.9,
+     "winRate": 59.1,
+     "games": 2776,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Sigrid, God-Favored",
+     "inclusion": 9.3,
+     "winRate": 59.0,
+     "games": 3319,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Rune of Sustenance",
+     "inclusion": 26.1,
+     "winRate": 58.9,
+     "games": 9201,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Battlefield Raptor",
+     "inclusion": 46.5,
+     "winRate": 58.8,
+     "games": 16549,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Shepherd of the Cosmos",
+     "inclusion": 24.4,
+     "winRate": 58.8,
+     "games": 8708,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Usher of the Fallen",
+     "inclusion": 23.5,
+     "winRate": 58.8,
+     "games": 8355,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Reidane, God of the Worthy",
+     "inclusion": 8.1,
+     "winRate": 58.7,
+     "games": 2867,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Elven Bow",
+     "inclusion": 27.9,
+     "winRate": 58.6,
+     "games": 9897,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 54.1,
+     "winRate": 58.5,
+     "games": 19203,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Glorious Protector",
+     "inclusion": 8.8,
+     "winRate": 58.5,
+     "games": 3122,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 38.6,
+     "winRate": 58.4,
+     "games": 13718,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Mammoth Growth",
+     "inclusion": 19.9,
+     "winRate": 58.4,
+     "games": 7020,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Wings of the Cosmos",
+     "inclusion": 12.9,
+     "winRate": 58.4,
+     "games": 4520,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Jaspera Sentinel",
+     "inclusion": 31.9,
+     "winRate": 58.3,
+     "games": 11243,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 22.7,
+     "winRate": 58.3,
+     "games": 8034,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Story Seeker",
+     "inclusion": 52.6,
+     "winRate": 58.1,
+     "games": 18616,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Fall of the Impostor",
+     "inclusion": 41.8,
+     "winRate": 58.1,
+     "games": 14860,
+     "trophyInclusion": 45.3
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 34.8,
+     "winRate": 58.1,
+     "games": 12242,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "King Harald's Revenge",
+     "inclusion": 19.0,
+     "winRate": 58.1,
+     "games": 6679,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Starnheim Courser",
+     "inclusion": 47.2,
+     "winRate": 58.0,
+     "games": 16670,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Maja, Bretagard Protector",
+     "inclusion": 47.8,
+     "winRate": 57.9,
+     "games": 16787,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Stalwart Valkyrie",
+     "inclusion": 52.5,
+     "winRate": 57.8,
+     "games": 18504,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Raven Wings",
+     "inclusion": 24.3,
+     "winRate": 57.8,
+     "games": 8632,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Toski, Bearer of Secrets",
+     "inclusion": 8.8,
+     "winRate": 57.8,
+     "games": 3048,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Beskir Shieldmate",
+     "inclusion": 51.9,
+     "winRate": 57.5,
+     "games": 18143,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Kaya's Onslaught",
+     "inclusion": 21.6,
+     "winRate": 57.5,
+     "games": 7609,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Elvish Warmaster",
+     "inclusion": 6.7,
+     "winRate": 57.5,
+     "games": 2345,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Funeral Longboat",
+     "inclusion": 7.5,
+     "winRate": 57.4,
+     "games": 2627,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 6.9,
+     "winRate": 57.4,
+     "games": 2438,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Bound in Gold",
+     "inclusion": 53.3,
+     "winRate": 57.3,
+     "games": 18712,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 47.9,
+     "winRate": 57.3,
+     "games": 16662,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Spectral Steel",
+     "inclusion": 12.8,
+     "winRate": 57.3,
+     "games": 4455,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Firja's Retribution",
+     "inclusion": 5.2,
+     "winRate": 57.3,
+     "games": 1819,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Struggle for Skemfar",
+     "inclusion": 49.9,
+     "winRate": 57.2,
+     "games": 17485,
+     "trophyInclusion": 48.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-03-06",
+    "main": [
+     [
+      1,
+      "Battlefield Raptor"
+     ],
+     [
+      3,
+      "Beskir Shieldmate"
+     ],
+     [
+      1,
+      "Bound in Gold"
+     ],
+     [
+      1,
+      "Bretagard Stronghold"
+     ],
+     [
+      1,
+      "Elderleaf Mentor"
+     ],
+     [
+      1,
+      "Fall of the Impostor"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Goldmaw Champion"
+     ],
+     [
+      1,
+      "Goldvein Pick"
+     ],
+     [
+      1,
+      "Iron Verdict"
+     ],
+     [
+      1,
+      "Maja, Bretagard Protector"
+     ],
+     [
+      1,
+      "Masked Vandal"
+     ],
+     [
+      2,
+      "Master Skald"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Raven Wings"
+     ],
+     [
+      1,
+      "Sarulf's Packmate"
+     ],
+     [
+      1,
+      "Shepherd of the Cosmos"
+     ],
+     [
+      1,
+      "Sigrid, God-Favored"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Stalwart Valkyrie"
+     ],
+     [
+      1,
+      "Story Seeker"
+     ],
+     [
+      1,
+      "Struggle for Skemfar"
+     ],
+     [
+      1,
+      "Usher of the Fallen"
+     ],
+     [
+      1,
+      "Wings of the Cosmos"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Axgard Cavalry"
+     ],
+     [
+      2,
+      "Battlefield Raptor"
+     ],
+     [
+      1,
+      "Craven Hulk"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Duskwielder"
+     ],
+     [
+      1,
+      "Elvish Warmaster"
+     ],
+     [
+      1,
+      "Fearless Pup"
+     ],
+     [
+      1,
+      "Grim Draugr"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      1,
+      "Jarl of the Forsaken"
+     ],
+     [
+      1,
+      "King Harald's Revenge"
+     ],
+     [
+      1,
+      "King Narfi's Betrayal"
+     ],
+     [
+      1,
+      "Rune of Sustenance"
+     ],
+     [
+      1,
+      "Scorn Effigy"
+     ],
+     [
+      1,
+      "Snow-Covered Plains"
+     ],
+     [
+      1,
+      "The Trickster-God's Heist"
+     ],
+     [
+      1,
+      "Tundra Fumarole"
+     ],
+     [
+      1,
+      "Valor of the Worthy"
+     ],
+     [
+      1,
+      "Warhorn Blast"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 28988,
+   "wins": 15568,
+   "winRate": 53.7,
+   "share": 6.58,
+   "drafts": 4951,
+   "trophies": 566,
+   "cards": [
+    {
+     "name": "Magda, Brazen Outlaw",
+     "inclusion": 8.5,
+     "winRate": 57.4,
+     "games": 2619,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Dragonkin Berserker",
+     "inclusion": 9.0,
+     "winRate": 56.7,
+     "games": 2726,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Basalt Ravager",
+     "inclusion": 26.3,
+     "winRate": 56.6,
+     "games": 7979,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Calamity Bearer",
+     "inclusion": 6.3,
+     "winRate": 56.2,
+     "games": 1906,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Skemfar Avenger",
+     "inclusion": 12.2,
+     "winRate": 56.1,
+     "games": 3652,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Immersturm Predator",
+     "inclusion": 17.8,
+     "winRate": 55.5,
+     "games": 5333,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Birgi, God of Storytelling",
+     "inclusion": 8.2,
+     "winRate": 55.5,
+     "games": 2415,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Poison the Cup",
+     "inclusion": 23.5,
+     "winRate": 55.4,
+     "games": 6997,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Immersturm Skullcairn",
+     "inclusion": 37.6,
+     "winRate": 55.1,
+     "games": 11108,
+     "trophyInclusion": 42.6
+    },
+    {
+     "name": "Blightstep Pathway",
+     "inclusion": 7.4,
+     "winRate": 55.1,
+     "games": 2190,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Kardur, Doomscourge",
+     "inclusion": 47.9,
+     "winRate": 55.0,
+     "games": 14212,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Dwarven Reinforcements",
+     "inclusion": 51.3,
+     "winRate": 54.9,
+     "games": 15178,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "The Bloodsky Massacre",
+     "inclusion": 22.5,
+     "winRate": 54.9,
+     "games": 6676,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Run Amok",
+     "inclusion": 45.5,
+     "winRate": 54.7,
+     "games": 13402,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Fearless Liberator",
+     "inclusion": 30.7,
+     "winRate": 54.6,
+     "games": 9073,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Frost Bite",
+     "inclusion": 43.7,
+     "winRate": 54.5,
+     "games": 12880,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Bloodsky Berserker",
+     "inclusion": 28.1,
+     "winRate": 54.5,
+     "games": 8220,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Breakneck Berserker",
+     "inclusion": 52.4,
+     "winRate": 54.4,
+     "games": 15342,
+     "trophyInclusion": 59.0
+    },
+    {
+     "name": "Crippling Fear",
+     "inclusion": 8.0,
+     "winRate": 54.4,
+     "games": 2369,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Funeral Longboat",
+     "inclusion": 5.5,
+     "winRate": 54.4,
+     "games": 1589,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Immersturm Raider",
+     "inclusion": 48.9,
+     "winRate": 54.3,
+     "games": 14357,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Sulfurous Mire",
+     "inclusion": 31.5,
+     "winRate": 54.3,
+     "games": 9164,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Shimmerdrift Vale",
+     "inclusion": 17.7,
+     "winRate": 54.3,
+     "games": 5213,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Axgard Cavalry",
+     "inclusion": 59.4,
+     "winRate": 54.2,
+     "games": 17326,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Shackles of Treachery",
+     "inclusion": 9.7,
+     "winRate": 54.2,
+     "games": 2866,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Raiders' Karve",
+     "inclusion": 6.1,
+     "winRate": 54.2,
+     "games": 1791,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Tuskeri Firewalker",
+     "inclusion": 64.7,
+     "winRate": 54.1,
+     "games": 18820,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Vengeful Reaper",
+     "inclusion": 20.8,
+     "winRate": 54.1,
+     "games": 6025,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Bloodline Pretender",
+     "inclusion": 14.5,
+     "winRate": 54.1,
+     "games": 4190,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Tundra Fumarole",
+     "inclusion": 6.6,
+     "winRate": 54.1,
+     "games": 1931,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 54.2,
+     "winRate": 54.0,
+     "games": 15858,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Tormentor's Helm",
+     "inclusion": 47.3,
+     "winRate": 54.0,
+     "games": 13771,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Fearless Pup",
+     "inclusion": 38.1,
+     "winRate": 54.0,
+     "games": 11066,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Doomskar Titan",
+     "inclusion": 23.1,
+     "winRate": 54.0,
+     "games": 6696,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Draugr Necromancer",
+     "inclusion": 6.3,
+     "winRate": 54.0,
+     "games": 1807,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Frenzied Raider",
+     "inclusion": 27.2,
+     "winRate": 53.9,
+     "games": 7936,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Feed the Serpent",
+     "inclusion": 46.9,
+     "winRate": 53.8,
+     "games": 13635,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Weigh Down",
+     "inclusion": 35.1,
+     "winRate": 53.8,
+     "games": 10212,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Draugr's Helm",
+     "inclusion": 27.0,
+     "winRate": 53.8,
+     "games": 7828,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 24.7,
+     "winRate": 53.8,
+     "games": 7141,
+     "trophyInclusion": 26.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-03-31",
+    "main": [
+     [
+      1,
+      "Axgard Cavalry"
+     ],
+     [
+      1,
+      "Bloodsky Berserker"
+     ],
+     [
+      1,
+      "Deathknell Berserker"
+     ],
+     [
+      1,
+      "Dragonkin Berserker"
+     ],
+     [
+      1,
+      "Fearless Pup"
+     ],
+     [
+      1,
+      "Feed the Serpent"
+     ],
+     [
+      1,
+      "Frost Bite"
+     ],
+     [
+      1,
+      "Grim Draugr"
+     ],
+     [
+      1,
+      "Hagi Mob"
+     ],
+     [
+      1,
+      "Immersturm Raider"
+     ],
+     [
+      1,
+      "Immersturm Skullcairn"
+     ],
+     [
+      1,
+      "Kardur's Vicious Return"
+     ],
+     [
+      1,
+      "Kardur, Doomscourge"
+     ],
+     [
+      1,
+      "Karfell Kennel-Master"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Raise the Draugr"
+     ],
+     [
+      1,
+      "Run Amok"
+     ],
+     [
+      1,
+      "Rune of Mortality"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      2,
+      "Skemfar Shadowsage"
+     ],
+     [
+      1,
+      "Snow-Covered Mountain"
+     ],
+     [
+      1,
+      "Snow-Covered Swamp"
+     ],
+     [
+      1,
+      "Sulfurous Mire"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      2,
+      "Tuskeri Firewalker"
+     ],
+     [
+      1,
+      "Vengeful Reaper"
+     ],
+     [
+      1,
+      "Village Rites"
+     ],
+     [
+      1,
+      "Weigh Down"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dogged Pursuit"
+     ],
+     [
+      1,
+      "Draugr Recruiter"
+     ],
+     [
+      1,
+      "Draugr Thought-Thief"
+     ],
+     [
+      1,
+      "Duskwielder"
+     ],
+     [
+      1,
+      "Giant's Amulet"
+     ],
+     [
+      2,
+      "Grim Draugr"
+     ],
+     [
+      1,
+      "Hagi Mob"
+     ],
+     [
+      1,
+      "Harald Unites the Elves"
+     ],
+     [
+      1,
+      "Ice Tunnel"
+     ],
+     [
+      1,
+      "Port of Karfell"
+     ],
+     [
+      2,
+      "Priest of the Haunted Edge"
+     ],
+     [
+      1,
+      "Scorn Effigy"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Village Rites"
+     ],
+     [
+      1,
+      "Weigh Down"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 25080,
+   "wins": 13298,
+   "winRate": 53.02,
+   "share": 5.69,
+   "drafts": 4354,
+   "trophies": 491,
+   "cards": [
+    {
+     "name": "Runeforge Champion",
+     "inclusion": 5.1,
+     "winRate": 57.7,
+     "games": 1379,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Kaya the Inexorable",
+     "inclusion": 8.0,
+     "winRate": 57.0,
+     "games": 2075,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Runed Crown",
+     "inclusion": 11.4,
+     "winRate": 56.2,
+     "games": 2958,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Firja's Retribution",
+     "inclusion": 20.7,
+     "winRate": 55.7,
+     "games": 5431,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Clarion Spirit",
+     "inclusion": 32.7,
+     "winRate": 55.1,
+     "games": 8500,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 29.7,
+     "winRate": 55.1,
+     "games": 7742,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Draugr's Helm",
+     "inclusion": 26.1,
+     "winRate": 55.1,
+     "games": 6813,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Poison the Cup",
+     "inclusion": 24.3,
+     "winRate": 55.0,
+     "games": 6276,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Rune of Mortality",
+     "inclusion": 22.2,
+     "winRate": 54.7,
+     "games": 5691,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Usher of the Fallen",
+     "inclusion": 23.7,
+     "winRate": 54.5,
+     "games": 6072,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Glorious Protector",
+     "inclusion": 8.9,
+     "winRate": 54.4,
+     "games": 2288,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Rune of Sustenance",
+     "inclusion": 24.8,
+     "winRate": 54.2,
+     "games": 6342,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Village Rites",
+     "inclusion": 30.8,
+     "winRate": 54.1,
+     "games": 7838,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Sigrid, God-Favored",
+     "inclusion": 9.2,
+     "winRate": 54.1,
+     "games": 2369,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Great Hall of Starnheim",
+     "inclusion": 43.9,
+     "winRate": 54.0,
+     "games": 11177,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Starnheim Courser",
+     "inclusion": 43.2,
+     "winRate": 54.0,
+     "games": 11007,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Bloodsky Berserker",
+     "inclusion": 32.4,
+     "winRate": 54.0,
+     "games": 8234,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Raven Wings",
+     "inclusion": 16.7,
+     "winRate": 54.0,
+     "games": 4253,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Righteous Valkyrie",
+     "inclusion": 10.7,
+     "winRate": 54.0,
+     "games": 2752,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Beskir Shieldmate",
+     "inclusion": 50.5,
+     "winRate": 53.9,
+     "games": 12896,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Colossal Plow",
+     "inclusion": 7.1,
+     "winRate": 53.9,
+     "games": 1779,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Story Seeker",
+     "inclusion": 51.4,
+     "winRate": 53.8,
+     "games": 13064,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Vengeful Reaper",
+     "inclusion": 25.3,
+     "winRate": 53.8,
+     "games": 6456,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Battlefield Raptor",
+     "inclusion": 42.1,
+     "winRate": 53.7,
+     "games": 10709,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Tergrid, God of Fright",
+     "inclusion": 7.5,
+     "winRate": 53.7,
+     "games": 1902,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Stalwart Valkyrie",
+     "inclusion": 57.5,
+     "winRate": 53.6,
+     "games": 14578,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Elderfang Disciple",
+     "inclusion": 44.4,
+     "winRate": 53.6,
+     "games": 11270,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Koma's Faithful",
+     "inclusion": 28.2,
+     "winRate": 53.6,
+     "games": 7135,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Varragoth, Bloodsky Sire",
+     "inclusion": 7.2,
+     "winRate": 53.6,
+     "games": 1845,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Draugr Necromancer",
+     "inclusion": 6.1,
+     "winRate": 53.6,
+     "games": 1573,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Valor of the Worthy",
+     "inclusion": 17.9,
+     "winRate": 53.5,
+     "games": 4539,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Codespell Cleric",
+     "inclusion": 42.7,
+     "winRate": 53.4,
+     "games": 10763,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Deathknell Berserker",
+     "inclusion": 37.4,
+     "winRate": 53.4,
+     "games": 9495,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Snowfield Sinkhole",
+     "inclusion": 28.6,
+     "winRate": 53.4,
+     "games": 7216,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Spectral Steel",
+     "inclusion": 12.0,
+     "winRate": 53.4,
+     "games": 3028,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Doomskar",
+     "inclusion": 8.0,
+     "winRate": 53.4,
+     "games": 2021,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Crippling Fear",
+     "inclusion": 7.3,
+     "winRate": 53.4,
+     "games": 1842,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Bound in Gold",
+     "inclusion": 55.1,
+     "winRate": 53.3,
+     "games": 13889,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Firja, Judge of Valor",
+     "inclusion": 51.4,
+     "winRate": 53.3,
+     "games": 13017,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Shepherd of the Cosmos",
+     "inclusion": 26.7,
+     "winRate": 53.3,
+     "games": 6704,
+     "trophyInclusion": 27.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-04-03",
+    "main": [
+     [
+      1,
+      "Ascent of the Worthy"
+     ],
+     [
+      1,
+      "Battlefield Raptor"
+     ],
+     [
+      1,
+      "Bloodsky Berserker"
+     ],
+     [
+      2,
+      "Bound in Gold"
+     ],
+     [
+      1,
+      "Doomskar Oracle"
+     ],
+     [
+      1,
+      "Dream Devourer"
+     ],
+     [
+      2,
+      "Elderfang Disciple"
+     ],
+     [
+      1,
+      "Feed the Serpent"
+     ],
+     [
+      1,
+      "Firja's Retribution"
+     ],
+     [
+      1,
+      "Firja, Judge of Valor"
+     ],
+     [
+      1,
+      "Goldmaw Champion"
+     ],
+     [
+      1,
+      "Great Hall of Starnheim"
+     ],
+     [
+      1,
+      "Iron Verdict"
+     ],
+     [
+      1,
+      "Master Skald"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Poison the Cup"
+     ],
+     [
+      1,
+      "Raise the Draugr"
+     ],
+     [
+      1,
+      "Rune of Mortality"
+     ],
+     [
+      1,
+      "Snow-Covered Plains"
+     ],
+     [
+      1,
+      "Snowfield Sinkhole"
+     ],
+     [
+      1,
+      "Stalwart Valkyrie"
+     ],
+     [
+      1,
+      "Starnheim Courser"
+     ],
+     [
+      1,
+      "Story Seeker"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Usher of the Fallen"
+     ],
+     [
+      1,
+      "Weigh Down"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Demonic Gifts"
+     ],
+     [
+      1,
+      "Dogged Pursuit"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Duskwielder"
+     ],
+     [
+      1,
+      "Elderfang Disciple"
+     ],
+     [
+      1,
+      "Fall of the Impostor"
+     ],
+     [
+      1,
+      "Giant Ox"
+     ],
+     [
+      2,
+      "Gods' Hall Guardian"
+     ],
+     [
+      1,
+      "Goldmaw Champion"
+     ],
+     [
+      1,
+      "Karfell Kennel-Master"
+     ],
+     [
+      1,
+      "King Harald's Revenge"
+     ],
+     [
+      2,
+      "Koma's Faithful"
+     ],
+     [
+      1,
+      "Raise the Draugr"
+     ],
+     [
+      1,
+      "Replicating Ring"
+     ],
+     [
+      1,
+      "Skull Raid"
+     ],
+     [
+      1,
+      "Tergrid's Shadow"
+     ],
+     [
+      1,
+      "Warhorn Blast"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 24419,
+   "wins": 12525,
+   "winRate": 51.29,
+   "share": 5.54,
+   "drafts": 4346,
+   "trophies": 394,
+   "cards": [
+    {
+     "name": "Spirit of the Aldergard",
+     "inclusion": 27.7,
+     "winRate": 55.2,
+     "games": 7193,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Blood on the Snow",
+     "inclusion": 11.5,
+     "winRate": 54.8,
+     "games": 2973,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 28.6,
+     "winRate": 54.6,
+     "games": 7286,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Master Skald",
+     "inclusion": 5.8,
+     "winRate": 53.8,
+     "games": 1437,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 14.2,
+     "winRate": 53.7,
+     "games": 3561,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Sarulf, Realm Eater",
+     "inclusion": 9.5,
+     "winRate": 53.4,
+     "games": 2349,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Ascendant Spirit",
+     "inclusion": 5.8,
+     "winRate": 53.4,
+     "games": 1462,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 30.0,
+     "winRate": 53.3,
+     "games": 7561,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Snow-Covered Plains",
+     "inclusion": 17.5,
+     "winRate": 53.1,
+     "games": 4376,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 24.2,
+     "winRate": 53.0,
+     "games": 6070,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Rootless Yew",
+     "inclusion": 8.4,
+     "winRate": 53.0,
+     "games": 2062,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 40.2,
+     "winRate": 52.9,
+     "games": 9961,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Frost Bite",
+     "inclusion": 5.5,
+     "winRate": 52.9,
+     "games": 1379,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 23.2,
+     "winRate": 52.8,
+     "games": 5770,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Blizzard Brawl",
+     "inclusion": 18.0,
+     "winRate": 52.8,
+     "games": 4476,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Alpine Meadow",
+     "inclusion": 8.3,
+     "winRate": 52.8,
+     "games": 2047,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Volatile Fjord",
+     "inclusion": 24.8,
+     "winRate": 52.7,
+     "games": 6200,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 10.4,
+     "winRate": 52.7,
+     "games": 2592,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Svella, Ice Shaper",
+     "inclusion": 13.3,
+     "winRate": 52.6,
+     "games": 3311,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 31.2,
+     "winRate": 52.5,
+     "games": 7712,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Draugr Necromancer",
+     "inclusion": 9.7,
+     "winRate": 52.5,
+     "games": 2368,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Priest of the Haunted Edge",
+     "inclusion": 61.9,
+     "winRate": 52.4,
+     "games": 15254,
+     "trophyInclusion": 68.3
+    },
+    {
+     "name": "Arctic Treeline",
+     "inclusion": 22.1,
+     "winRate": 52.4,
+     "games": 5459,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Harald, King of Skemfar",
+     "inclusion": 11.0,
+     "winRate": 52.4,
+     "games": 2765,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Struggle for Skemfar",
+     "inclusion": 27.8,
+     "winRate": 52.2,
+     "games": 6818,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Littjara Mirrorlake",
+     "inclusion": 25.7,
+     "winRate": 52.2,
+     "games": 6343,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Glacial Floodplain",
+     "inclusion": 22.8,
+     "winRate": 52.2,
+     "games": 5637,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "The Trickster-God's Heist",
+     "inclusion": 17.7,
+     "winRate": 52.2,
+     "games": 4366,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Icehide Troll",
+     "inclusion": 52.1,
+     "winRate": 52.1,
+     "games": 12794,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 35.4,
+     "winRate": 52.1,
+     "games": 8709,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Skemfar Elderhall",
+     "inclusion": 17.5,
+     "winRate": 52.1,
+     "games": 4276,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Crippling Fear",
+     "inclusion": 5.3,
+     "winRate": 52.1,
+     "games": 1292,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Berg Strider",
+     "inclusion": 49.4,
+     "winRate": 52.0,
+     "games": 12145,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Sculptor of Winter",
+     "inclusion": 48.6,
+     "winRate": 52.0,
+     "games": 11993,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "Sulfurous Mire",
+     "inclusion": 22.9,
+     "winRate": 52.0,
+     "games": 5705,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Elven Bow",
+     "inclusion": 11.8,
+     "winRate": 52.0,
+     "games": 2919,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Graven Lore",
+     "inclusion": 7.0,
+     "winRate": 52.0,
+     "games": 1705,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Snow-Covered Forest",
+     "inclusion": 66.0,
+     "winRate": 51.9,
+     "games": 16201,
+     "trophyInclusion": 68.8
+    },
+    {
+     "name": "Behold the Multiverse",
+     "inclusion": 45.6,
+     "winRate": 51.9,
+     "games": 11126,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Ice Tunnel",
+     "inclusion": 42.8,
+     "winRate": 51.9,
+     "games": 10394,
+     "trophyInclusion": 48.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-02-05",
+    "main": [
+     [
+      1,
+      "Ascendant Spirit"
+     ],
+     [
+      1,
+      "Avalanche Caller"
+     ],
+     [
+      1,
+      "Berg Strider"
+     ],
+     [
+      2,
+      "Binding the Old Gods"
+     ],
+     [
+      1,
+      "Boreal Outrider"
+     ],
+     [
+      1,
+      "Draugr Recruiter"
+     ],
+     [
+      2,
+      "Forest"
+     ],
+     [
+      1,
+      "Frost Augur"
+     ],
+     [
+      1,
+      "Glacial Floodplain"
+     ],
+     [
+      1,
+      "Glittering Frost"
+     ],
+     [
+      1,
+      "Grim Draugr"
+     ],
+     [
+      1,
+      "Grizzled Outrider"
+     ],
+     [
+      1,
+      "Highland Forest"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      1,
+      "Narfi, Betrayer King"
+     ],
+     [
+      1,
+      "Path to the World Tree"
+     ],
+     [
+      2,
+      "Pilfering Hawk"
+     ],
+     [
+      3,
+      "Priest of the Haunted Edge"
+     ],
+     [
+      1,
+      "Ravenous Lindwurm"
+     ],
+     [
+      1,
+      "Rimewood Falls"
+     ],
+     [
+      1,
+      "Sarulf's Packmate"
+     ],
+     [
+      1,
+      "Sculptor of Winter"
+     ],
+     [
+      2,
+      "Shimmerdrift Vale"
+     ],
+     [
+      1,
+      "Snow-Covered Forest"
+     ],
+     [
+      2,
+      "Snow-Covered Island"
+     ],
+     [
+      1,
+      "Snow-Covered Mountain"
+     ],
+     [
+      1,
+      "Snow-Covered Plains"
+     ],
+     [
+      1,
+      "Snow-Covered Swamp"
+     ],
+     [
+      1,
+      "Struggle for Skemfar"
+     ],
+     [
+      1,
+      "Sulfurous Mire"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Volatile Fjord"
+     ],
+     [
+      1,
+      "Woodland Chasm"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Annul"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Gnottvold Slumbermound"
+     ],
+     [
+      1,
+      "Grizzled Outrider"
+     ],
+     [
+      1,
+      "Mammoth Growth"
+     ],
+     [
+      1,
+      "Raiders' Karve"
+     ],
+     [
+      1,
+      "Roots of Wisdom"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 22119,
+   "wins": 12118,
+   "winRate": 54.79,
+   "share": 5.02,
+   "drafts": 3730,
+   "trophies": 478,
+   "cards": [
+    {
+     "name": "Esika's Chariot",
+     "inclusion": 6.2,
+     "winRate": 60.4,
+     "games": 1468,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Spirit of the Aldergard",
+     "inclusion": 26.1,
+     "winRate": 58.4,
+     "games": 5987,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Path to the World Tree",
+     "inclusion": 29.8,
+     "winRate": 57.5,
+     "games": 6852,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Battle of Frost and Fire",
+     "inclusion": 13.5,
+     "winRate": 57.3,
+     "games": 3019,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Elven Bow",
+     "inclusion": 12.3,
+     "winRate": 57.3,
+     "games": 2815,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Arni Slays the Troll",
+     "inclusion": 29.6,
+     "winRate": 56.8,
+     "games": 6701,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Basalt Ravager",
+     "inclusion": 18.8,
+     "winRate": 56.8,
+     "games": 4250,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Sarulf's Packmate",
+     "inclusion": 44.8,
+     "winRate": 56.7,
+     "games": 10178,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "The Bears of Littjara",
+     "inclusion": 10.4,
+     "winRate": 56.7,
+     "games": 2362,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 7.8,
+     "winRate": 56.7,
+     "games": 1767,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Ravenous Lindwurm",
+     "inclusion": 38.8,
+     "winRate": 56.6,
+     "games": 8821,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Rootless Yew",
+     "inclusion": 10.9,
+     "winRate": 56.6,
+     "games": 2430,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 26.0,
+     "winRate": 56.5,
+     "games": 5829,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Cyclone Summoner",
+     "inclusion": 7.3,
+     "winRate": 56.5,
+     "games": 1661,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 26.8,
+     "winRate": 56.3,
+     "games": 6018,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Graven Lore",
+     "inclusion": 6.0,
+     "winRate": 56.2,
+     "games": 1370,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Littjara Mirrorlake",
+     "inclusion": 27.4,
+     "winRate": 56.1,
+     "games": 6148,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "inclusion": 16.7,
+     "winRate": 56.1,
+     "games": 3727,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Inga Rune-Eyes",
+     "inclusion": 14.1,
+     "winRate": 56.1,
+     "games": 3162,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Snow-Covered Plains",
+     "inclusion": 12.0,
+     "winRate": 56.1,
+     "games": 2728,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Frost Bite",
+     "inclusion": 40.5,
+     "winRate": 56.0,
+     "games": 8991,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Blizzard Brawl",
+     "inclusion": 15.7,
+     "winRate": 56.0,
+     "games": 3473,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Masked Vandal",
+     "inclusion": 40.1,
+     "winRate": 55.9,
+     "games": 9031,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Gnottvold Slumbermound",
+     "inclusion": 26.5,
+     "winRate": 55.9,
+     "games": 5928,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Squash",
+     "inclusion": 52.2,
+     "winRate": 55.8,
+     "games": 11628,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Demon Bolt",
+     "inclusion": 47.7,
+     "winRate": 55.8,
+     "games": 10647,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Glacial Floodplain",
+     "inclusion": 17.5,
+     "winRate": 55.7,
+     "games": 3886,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Alpine Meadow",
+     "inclusion": 17.1,
+     "winRate": 55.7,
+     "games": 3831,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 10.7,
+     "winRate": 55.7,
+     "games": 2406,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Sculptor of Winter",
+     "inclusion": 42.6,
+     "winRate": 55.6,
+     "games": 9556,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 40.9,
+     "winRate": 55.5,
+     "games": 9113,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Struggle for Skemfar",
+     "inclusion": 32.6,
+     "winRate": 55.5,
+     "games": 7258,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Shimmerdrift Vale",
+     "inclusion": 47.3,
+     "winRate": 55.4,
+     "games": 10548,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Aegar, the Freezing Flame",
+     "inclusion": 36.5,
+     "winRate": 55.4,
+     "games": 8083,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Woodland Chasm",
+     "inclusion": 15.8,
+     "winRate": 55.4,
+     "games": 3479,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 65.7,
+     "winRate": 55.3,
+     "games": 14546,
+     "trophyInclusion": 67.8
+    },
+    {
+     "name": "Snowfield Sinkhole",
+     "inclusion": 5.3,
+     "winRate": 55.3,
+     "games": 1204,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Berg Strider",
+     "inclusion": 54.2,
+     "winRate": 55.2,
+     "games": 11932,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Behold the Multiverse",
+     "inclusion": 47.8,
+     "winRate": 55.2,
+     "games": 10616,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Svella, Ice Shaper",
+     "inclusion": 43.6,
+     "winRate": 55.2,
+     "games": 9658,
+     "trophyInclusion": 44.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-02-09",
+    "main": [
+     [
+      1,
+      "Aegar, the Freezing Flame"
+     ],
+     [
+      1,
+      "Arctic Treeline"
+     ],
+     [
+      1,
+      "Basalt Ravager"
+     ],
+     [
+      1,
+      "Behold the Multiverse"
+     ],
+     [
+      1,
+      "Berg Strider"
+     ],
+     [
+      2,
+      "Boreal Outrider"
+     ],
+     [
+      1,
+      "Demon Bolt"
+     ],
+     [
+      1,
+      "Frost Augur"
+     ],
+     [
+      2,
+      "Frost Bite"
+     ],
+     [
+      1,
+      "Gnottvold Slumbermound"
+     ],
+     [
+      1,
+      "Highland Forest"
+     ],
+     [
+      1,
+      "Horizon Seeker"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Littjara Mirrorlake"
+     ],
+     [
+      2,
+      "Masked Vandal"
+     ],
+     [
+      1,
+      "Mistwalker"
+     ],
+     [
+      2,
+      "Mountain"
+     ],
+     [
+      1,
+      "Path to the World Tree"
+     ],
+     [
+      1,
+      "Quakebringer"
+     ],
+     [
+      1,
+      "Rimewood Falls"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      2,
+      "Sarulf's Packmate"
+     ],
+     [
+      1,
+      "Sculptor of Winter"
+     ],
+     [
+      1,
+      "Shimmerdrift Vale"
+     ],
+     [
+      3,
+      "Snow-Covered Forest"
+     ],
+     [
+      1,
+      "Snow-Covered Island"
+     ],
+     [
+      1,
+      "Snow-Covered Mountain"
+     ],
+     [
+      1,
+      "Snow-Covered Swamp"
+     ],
+     [
+      1,
+      "Squash"
+     ],
+     [
+      1,
+      "The Three Seasons"
+     ],
+     [
+      1,
+      "The World Tree"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Annul"
+     ],
+     [
+      1,
+      "Arachnoform"
+     ],
+     [
+      1,
+      "Bind the Monster"
+     ],
+     [
+      1,
+      "Brinebarrow Intruder"
+     ],
+     [
+      1,
+      "Guardian Gladewalker"
+     ],
+     [
+      1,
+      "Jaspera Sentinel"
+     ],
+     [
+      1,
+      "Raiders' Karve"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Vault Robber"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 17492,
+   "wins": 8982,
+   "winRate": 51.35,
+   "share": 3.97,
+   "drafts": 3131,
+   "trophies": 284,
+   "cards": [
+    {
+     "name": "Bloodline Pretender",
+     "inclusion": 5.5,
+     "winRate": 55.8,
+     "games": 1011,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Runeforge Champion",
+     "inclusion": 5.3,
+     "winRate": 55.4,
+     "games": 986,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Sigrid, God-Favored",
+     "inclusion": 8.9,
+     "winRate": 54.7,
+     "games": 1604,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Goldvein Pick",
+     "inclusion": 26.0,
+     "winRate": 54.2,
+     "games": 4708,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Clarion Spirit",
+     "inclusion": 29.7,
+     "winRate": 54.0,
+     "games": 5394,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Doomskar",
+     "inclusion": 11.1,
+     "winRate": 53.4,
+     "games": 1983,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Righteous Valkyrie",
+     "inclusion": 9.1,
+     "winRate": 53.4,
+     "games": 1659,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Wings of the Cosmos",
+     "inclusion": 7.9,
+     "winRate": 53.4,
+     "games": 1415,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Usher of the Fallen",
+     "inclusion": 15.6,
+     "winRate": 53.2,
+     "games": 2822,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Glorious Protector",
+     "inclusion": 10.6,
+     "winRate": 53.2,
+     "games": 1892,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Rune of Sustenance",
+     "inclusion": 22.1,
+     "winRate": 53.1,
+     "games": 3946,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Alpine Meadow",
+     "inclusion": 8.6,
+     "winRate": 53.1,
+     "games": 1533,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Rimewood Falls",
+     "inclusion": 7.7,
+     "winRate": 52.9,
+     "games": 1397,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Shepherd of the Cosmos",
+     "inclusion": 26.6,
+     "winRate": 52.8,
+     "games": 4745,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Runed Crown",
+     "inclusion": 9.4,
+     "winRate": 52.7,
+     "games": 1648,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Rune of Flight",
+     "inclusion": 19.6,
+     "winRate": 52.6,
+     "games": 3517,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Snowfield Sinkhole",
+     "inclusion": 10.1,
+     "winRate": 52.6,
+     "games": 1802,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 19.3,
+     "winRate": 52.5,
+     "games": 3432,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 14.7,
+     "winRate": 52.4,
+     "games": 2626,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Spectral Steel",
+     "inclusion": 11.1,
+     "winRate": 52.4,
+     "games": 1960,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Bound in Gold",
+     "inclusion": 58.1,
+     "winRate": 52.3,
+     "games": 10339,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Run Ashore",
+     "inclusion": 24.3,
+     "winRate": 52.3,
+     "games": 4257,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Reidane, God of the Worthy",
+     "inclusion": 9.6,
+     "winRate": 52.3,
+     "games": 1704,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Bind the Monster",
+     "inclusion": 44.1,
+     "winRate": 52.2,
+     "games": 7838,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Beskir Shieldmate",
+     "inclusion": 36.7,
+     "winRate": 52.2,
+     "games": 6505,
+     "trophyInclusion": 39.1
+    },
+    {
+     "name": "Snow-Covered Island",
+     "inclusion": 38.7,
+     "winRate": 52.1,
+     "games": 6842,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "The Raven's Warning",
+     "inclusion": 18.2,
+     "winRate": 52.1,
+     "games": 3164,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Valkyrie's Sword",
+     "inclusion": 20.8,
+     "winRate": 52.0,
+     "games": 3719,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Cyclone Summoner",
+     "inclusion": 6.1,
+     "winRate": 51.9,
+     "games": 1062,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Behold the Multiverse",
+     "inclusion": 63.1,
+     "winRate": 51.8,
+     "games": 11070,
+     "trophyInclusion": 71.5
+    },
+    {
+     "name": "Story Seeker",
+     "inclusion": 44.6,
+     "winRate": 51.8,
+     "games": 7867,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Glacial Floodplain",
+     "inclusion": 33.1,
+     "winRate": 51.8,
+     "games": 5852,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Arctic Treeline",
+     "inclusion": 8.6,
+     "winRate": 51.8,
+     "games": 1524,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Mistwalker",
+     "inclusion": 58.6,
+     "winRate": 51.7,
+     "games": 10337,
+     "trophyInclusion": 60.6
+    },
+    {
+     "name": "Stalwart Valkyrie",
+     "inclusion": 51.5,
+     "winRate": 51.7,
+     "games": 9058,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Snow-Covered Plains",
+     "inclusion": 45.0,
+     "winRate": 51.7,
+     "games": 7948,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Gates of Istfell",
+     "inclusion": 42.7,
+     "winRate": 51.7,
+     "games": 7540,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Augury Raven",
+     "inclusion": 62.5,
+     "winRate": 51.6,
+     "games": 11037,
+     "trophyInclusion": 64.1
+    },
+    {
+     "name": "Vega, the Watcher",
+     "inclusion": 54.6,
+     "winRate": 51.6,
+     "games": 9600,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Battlefield Raptor",
+     "inclusion": 33.2,
+     "winRate": 51.5,
+     "games": 5759,
+     "trophyInclusion": 35.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-01-28",
+    "main": [
+     [
+      2,
+      "Augury Raven"
+     ],
+     [
+      1,
+      "Avalanche Caller"
+     ],
+     [
+      1,
+      "Behold the Multiverse"
+     ],
+     [
+      1,
+      "Bind the Monster"
+     ],
+     [
+      1,
+      "Bound in Gold"
+     ],
+     [
+      1,
+      "Brinebarrow Intruder"
+     ],
+     [
+      1,
+      "Codespell Cleric"
+     ],
+     [
+      1,
+      "Depart the Realm"
+     ],
+     [
+      1,
+      "Gates of Istfell"
+     ],
+     [
+      1,
+      "Giant's Amulet"
+     ],
+     [
+      1,
+      "Glacial Floodplain"
+     ],
+     [
+      2,
+      "Gods' Hall Guardian"
+     ],
+     [
+      1,
+      "Goldvein Pick"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Karfell Harbinger"
+     ],
+     [
+      2,
+      "Mistwalker"
+     ],
+     [
+      1,
+      "Niko Defies Destiny"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Scorn Effigy"
+     ],
+     [
+      1,
+      "Shepherd of the Cosmos"
+     ],
+     [
+      1,
+      "Snow-Covered Island"
+     ],
+     [
+      1,
+      "Snow-Covered Plains"
+     ],
+     [
+      1,
+      "Stalwart Valkyrie"
+     ],
+     [
+      1,
+      "Starnheim Courser"
+     ],
+     [
+      1,
+      "The Raven's Warning"
+     ],
+     [
+      1,
+      "Vega, the Watcher"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arctic Treeline"
+     ],
+     [
+      1,
+      "Cosmos Elixir"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Frostpeak Yeti"
+     ],
+     [
+      2,
+      "Goldmaw Champion"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      1,
+      "Kardur's Vicious Return"
+     ],
+     [
+      1,
+      "Old-Growth Troll"
+     ],
+     [
+      1,
+      "Pyre of Heroes"
+     ],
+     [
+      1,
+      "Raiders' Karve"
+     ],
+     [
+      1,
+      "Roots of Wisdom"
+     ],
+     [
+      1,
+      "Runeforge Champion"
+     ],
+     [
+      1,
+      "Skull Raid"
+     ],
+     [
+      1,
+      "Valor of the Worthy"
+     ],
+     [
+      2,
+      "Weigh Down"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 13431,
+   "wins": 6316,
+   "winRate": 47.03,
+   "share": 3.05,
+   "drafts": 2551,
+   "trophies": 154,
+   "cards": [
+    {
+     "name": "Blood on the Snow",
+     "inclusion": 11.6,
+     "winRate": 51.2,
+     "games": 1682,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Crippling Fear",
+     "inclusion": 11.2,
+     "winRate": 51.0,
+     "games": 1574,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Glimpse the Cosmos",
+     "inclusion": 21.5,
+     "winRate": 50.7,
+     "games": 3072,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Burning-Rune Demon",
+     "inclusion": 5.4,
+     "winRate": 50.6,
+     "games": 759,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Cyclone Summoner",
+     "inclusion": 7.9,
+     "winRate": 50.0,
+     "games": 1119,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Inga Rune-Eyes",
+     "inclusion": 23.0,
+     "winRate": 49.3,
+     "games": 3202,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Highland Forest",
+     "inclusion": 5.3,
+     "winRate": 49.3,
+     "games": 746,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Avalanche Caller",
+     "inclusion": 28.7,
+     "winRate": 48.8,
+     "games": 3989,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Binding the Old Gods",
+     "inclusion": 5.6,
+     "winRate": 48.8,
+     "games": 783,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Poison the Cup",
+     "inclusion": 24.3,
+     "winRate": 48.7,
+     "games": 3329,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "The Trickster-God's Heist",
+     "inclusion": 27.0,
+     "winRate": 48.5,
+     "games": 3718,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Giant's Amulet",
+     "inclusion": 24.5,
+     "winRate": 48.4,
+     "games": 3321,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Bloodsky Berserker",
+     "inclusion": 11.4,
+     "winRate": 48.4,
+     "games": 1559,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Koma's Faithful",
+     "inclusion": 36.2,
+     "winRate": 48.2,
+     "games": 4931,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Draugr's Helm",
+     "inclusion": 21.8,
+     "winRate": 48.1,
+     "games": 2987,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Woodland Chasm",
+     "inclusion": 17.3,
+     "winRate": 48.0,
+     "games": 2373,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Varragoth, Bloodsky Sire",
+     "inclusion": 8.0,
+     "winRate": 48.0,
+     "games": 1090,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Bloodline Pretender",
+     "inclusion": 6.7,
+     "winRate": 48.0,
+     "games": 912,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Shimmerdrift Vale",
+     "inclusion": 41.2,
+     "winRate": 47.9,
+     "games": 5626,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Feed the Serpent",
+     "inclusion": 53.8,
+     "winRate": 47.8,
+     "games": 7331,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Elderfang Disciple",
+     "inclusion": 47.5,
+     "winRate": 47.8,
+     "games": 6472,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Port of Karfell",
+     "inclusion": 38.3,
+     "winRate": 47.8,
+     "games": 5216,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Weigh Down",
+     "inclusion": 37.0,
+     "winRate": 47.8,
+     "games": 5030,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Snow-Covered Island",
+     "inclusion": 65.9,
+     "winRate": 47.7,
+     "games": 8944,
+     "trophyInclusion": 66.9
+    },
+    {
+     "name": "Berg Strider",
+     "inclusion": 51.0,
+     "winRate": 47.7,
+     "games": 6949,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Bind the Monster",
+     "inclusion": 37.1,
+     "winRate": 47.7,
+     "games": 5009,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Sulfurous Mire",
+     "inclusion": 21.0,
+     "winRate": 47.7,
+     "games": 2843,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Mistwalker",
+     "inclusion": 55.8,
+     "winRate": 47.6,
+     "games": 7549,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Augury Raven",
+     "inclusion": 47.3,
+     "winRate": 47.6,
+     "games": 6399,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Snowfield Sinkhole",
+     "inclusion": 21.9,
+     "winRate": 47.5,
+     "games": 2954,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Behold the Multiverse",
+     "inclusion": 59.0,
+     "winRate": 47.4,
+     "games": 8007,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Priest of the Haunted Edge",
+     "inclusion": 50.7,
+     "winRate": 47.4,
+     "games": 6855,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Karfell Harbinger",
+     "inclusion": 39.4,
+     "winRate": 47.4,
+     "games": 5372,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Snow-Covered Mountain",
+     "inclusion": 14.0,
+     "winRate": 47.4,
+     "games": 1890,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Skemfar Shadowsage",
+     "inclusion": 13.4,
+     "winRate": 47.4,
+     "games": 1811,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "inclusion": 66.9,
+     "winRate": 47.3,
+     "games": 9008,
+     "trophyInclusion": 68.2
+    },
+    {
+     "name": "Vengeful Reaper",
+     "inclusion": 19.1,
+     "winRate": 47.2,
+     "games": 2560,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Mists of Littjara",
+     "inclusion": 19.0,
+     "winRate": 47.2,
+     "games": 2553,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Replicating Ring",
+     "inclusion": 12.4,
+     "winRate": 47.2,
+     "games": 1670,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Ice Tunnel",
+     "inclusion": 41.5,
+     "winRate": 47.1,
+     "games": 5588,
+     "trophyInclusion": 43.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-02-04",
+    "main": [
+     [
+      1,
+      "Augury Raven"
+     ],
+     [
+      2,
+      "Avalanche Caller"
+     ],
+     [
+      1,
+      "Behold the Multiverse"
+     ],
+     [
+      1,
+      "Bind the Monster"
+     ],
+     [
+      1,
+      "Blood on the Snow"
+     ],
+     [
+      1,
+      "Crippling Fear"
+     ],
+     [
+      1,
+      "Depart the Realm"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Draugr Thought-Thief"
+     ],
+     [
+      1,
+      "Elderfang Disciple"
+     ],
+     [
+      1,
+      "Glacial Floodplain"
+     ],
+     [
+      1,
+      "Ice Tunnel"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Karfell Harbinger"
+     ],
+     [
+      2,
+      "Mistwalker"
+     ],
+     [
+      1,
+      "Narfi, Betrayer King"
+     ],
+     [
+      1,
+      "Port of Karfell"
+     ],
+     [
+      3,
+      "Priest of the Haunted Edge"
+     ],
+     [
+      1,
+      "Raise the Draugr"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      1,
+      "Shimmerdrift Vale"
+     ],
+     [
+      2,
+      "Skull Raid"
+     ],
+     [
+      1,
+      "Snow-Covered Island"
+     ],
+     [
+      2,
+      "Snow-Covered Swamp"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Trickster-God's Heist"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aegar, the Freezing Flame"
+     ],
+     [
+      1,
+      "Blightstep Pathway"
+     ],
+     [
+      1,
+      "Crush the Weak"
+     ],
+     [
+      1,
+      "Dread Rider"
+     ],
+     [
+      1,
+      "Duskwielder"
+     ],
+     [
+      1,
+      "Gods' Hall Guardian"
+     ],
+     [
+      1,
+      "Icehide Troll"
+     ],
+     [
+      1,
+      "Magda, Brazen Outlaw"
+     ],
+     [
+      1,
+      "Run Ashore"
+     ],
+     [
+      1,
+      "Sculptor of Winter"
+     ],
+     [
+      1,
+      "Shackles of Treachery"
+     ],
+     [
+      1,
+      "Squash"
+     ],
+     [
+      1,
+      "Svella, Ice Shaper"
+     ],
+     [
+      1,
+      "The World Tree"
+     ],
+     [
+      1,
+      "Wings of the Cosmos"
+     ]
+    ]
+   }
+  }
+ ]
+}

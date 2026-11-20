@@ -1,0 +1,5357 @@
+{
+ "set": "sos",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SOS.PremierDraft.csv.gz",
+ "lastModified": "Fri, 05 Jun 2026 22:15:21 GMT",
+ "colorsDerived": false,
+ "first": "2026-04-21",
+ "last": "2026-06-02",
+ "games": 582914,
+ "drafts": 106121,
+ "winRate": 55.38,
+ "combos": [
+  {
+   "colors": "WR",
+   "games": 120113,
+   "wins": 69266,
+   "winRate": 57.67,
+   "share": 20.61,
+   "drafts": 21175,
+   "trophies": 2063,
+   "cards": [
+    {
+     "name": "Ark of Hunger",
+     "inclusion": 17.4,
+     "winRate": 61.7,
+     "games": 21932,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Antiquities on the Loose",
+     "inclusion": 14.5,
+     "winRate": 61.4,
+     "games": 18403,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Practiced Offense",
+     "inclusion": 12.4,
+     "winRate": 60.8,
+     "games": 15509,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Stirring Hopesinger",
+     "inclusion": 10.1,
+     "winRate": 60.2,
+     "games": 12656,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 14.0,
+     "winRate": 59.9,
+     "games": 17211,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Informed Inkwright",
+     "inclusion": 10.1,
+     "winRate": 59.8,
+     "games": 12402,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Hardened Academic",
+     "inclusion": 20.8,
+     "winRate": 59.3,
+     "games": 25776,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Molten-Core Maestro",
+     "inclusion": 10.5,
+     "winRate": 59.1,
+     "games": 12863,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Molten Note",
+     "inclusion": 36.4,
+     "winRate": 59.0,
+     "games": 44486,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Practiced Scrollsmith",
+     "inclusion": 40.2,
+     "winRate": 58.9,
+     "games": 48986,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Impractical Joke",
+     "inclusion": 24.1,
+     "winRate": 58.9,
+     "games": 29376,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Burst Lightning",
+     "inclusion": 23.7,
+     "winRate": 58.9,
+     "games": 28927,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Elite Interceptor",
+     "inclusion": 50.8,
+     "winRate": 58.8,
+     "games": 61787,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Lorehold, the Historian",
+     "inclusion": 6.7,
+     "winRate": 58.8,
+     "games": 8251,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Pursue the Past",
+     "inclusion": 64.9,
+     "winRate": 58.6,
+     "games": 78842,
+     "trophyInclusion": 70.0
+    },
+    {
+     "name": "Repel Calamity",
+     "inclusion": 25.3,
+     "winRate": 58.6,
+     "games": 30935,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Rubble Rouser",
+     "inclusion": 61.5,
+     "winRate": 58.5,
+     "games": 74623,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Colossus of the Blood Age",
+     "inclusion": 35.8,
+     "winRate": 58.5,
+     "games": 43600,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Group Project",
+     "inclusion": 30.6,
+     "winRate": 58.5,
+     "games": 37130,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Suspend Aggression",
+     "inclusion": 16.0,
+     "winRate": 58.5,
+     "games": 19376,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Emeritus of Truce",
+     "inclusion": 5.5,
+     "winRate": 58.5,
+     "games": 6766,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Tome Blast",
+     "inclusion": 48.7,
+     "winRate": 58.4,
+     "games": 59139,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Charging Strifeknight",
+     "inclusion": 27.3,
+     "winRate": 58.4,
+     "games": 33253,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Unsubtle Mockery",
+     "inclusion": 44.6,
+     "winRate": 58.3,
+     "games": 54007,
+     "trophyInclusion": 47.3
+    },
+    {
+     "name": "Living History",
+     "inclusion": 34.2,
+     "winRate": 58.3,
+     "games": 41573,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 21.7,
+     "winRate": 58.3,
+     "games": 26138,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Restoration Seminar",
+     "inclusion": 5.1,
+     "winRate": 58.3,
+     "games": 6130,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 58.0,
+     "winRate": 58.2,
+     "games": 70122,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Stone Docent",
+     "inclusion": 54.9,
+     "winRate": 58.2,
+     "games": 66598,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Startled Relic Sloth",
+     "inclusion": 38.6,
+     "winRate": 58.2,
+     "games": 46879,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Garrison Excavator",
+     "inclusion": 35.7,
+     "winRate": 58.2,
+     "games": 43226,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Stand Up for Yourself",
+     "inclusion": 20.1,
+     "winRate": 58.1,
+     "games": 24196,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Wilt in the Heat",
+     "inclusion": 63.3,
+     "winRate": 58.0,
+     "games": 76498,
+     "trophyInclusion": 64.4
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 22.6,
+     "winRate": 57.9,
+     "games": 27418,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 39.9,
+     "winRate": 57.8,
+     "games": 47915,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Monstrous Rage",
+     "inclusion": 19.8,
+     "winRate": 57.8,
+     "games": 23728,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Sundown Pass",
+     "inclusion": 10.4,
+     "winRate": 57.8,
+     "games": 12602,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Magmablood Archaic",
+     "inclusion": 8.3,
+     "winRate": 57.8,
+     "games": 10026,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Spirit Mascot",
+     "inclusion": 65.3,
+     "winRate": 57.7,
+     "games": 78515,
+     "trophyInclusion": 64.8
+    },
+    {
+     "name": "Kirol, History Buff",
+     "inclusion": 37.5,
+     "winRate": 57.6,
+     "games": 45132,
+     "trophyInclusion": 37.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-04-27",
+    "main": [
+     [
+      1,
+      "Ajani's Response"
+     ],
+     [
+      1,
+      "Ascendant Dustspeaker"
+     ],
+     [
+      1,
+      "Charging Strifeknight"
+     ],
+     [
+      1,
+      "Colossus of the Blood Age"
+     ],
+     [
+      1,
+      "Dig Site Inventory"
+     ],
+     [
+      1,
+      "Eager Glyphmage"
+     ],
+     [
+      2,
+      "Elite Interceptor"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      1,
+      "Hardened Academic"
+     ],
+     [
+      1,
+      "Molten Note"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Owlin Historian"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Primary Research"
+     ],
+     [
+      1,
+      "Pursue the Past"
+     ],
+     [
+      1,
+      "Rubble Rouser"
+     ],
+     [
+      1,
+      "Shattered Acolyte"
+     ],
+     [
+      2,
+      "Spirit Mascot"
+     ],
+     [
+      2,
+      "Startled Relic Sloth"
+     ],
+     [
+      1,
+      "Stone Docent"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      2,
+      "Unsubtle Mockery"
+     ],
+     [
+      1,
+      "Wilt in the Heat"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ancestral Anger"
+     ],
+     [
+      1,
+      "Biblioplex Tomekeeper"
+     ],
+     [
+      1,
+      "Blazing Firesinger"
+     ],
+     [
+      1,
+      "Campus Composer"
+     ],
+     [
+      1,
+      "Dina's Guidance"
+     ],
+     [
+      1,
+      "Essenceknit Scholar"
+     ],
+     [
+      1,
+      "Hungry Graffalon"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Petrified Hamlet"
+     ],
+     [
+      1,
+      "Pterafractyl"
+     ],
+     [
+      1,
+      "Requisition Raid"
+     ],
+     [
+      1,
+      "Spiritcall Enthusiast"
+     ],
+     [
+      2,
+      "Strife Scholar"
+     ],
+     [
+      1,
+      "Sundering Archaic"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 109388,
+   "wins": 59527,
+   "winRate": 54.42,
+   "share": 18.77,
+   "drafts": 20241,
+   "trophies": 1482,
+   "cards": [
+    {
+     "name": "Together as One",
+     "inclusion": 7.8,
+     "winRate": 59.1,
+     "games": 9153,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Improvisation Capstone",
+     "inclusion": 6.1,
+     "winRate": 58.3,
+     "games": 7098,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Emeritus of Ideation",
+     "inclusion": 5.7,
+     "winRate": 58.0,
+     "games": 6628,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 9.9,
+     "winRate": 57.7,
+     "games": 11233,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Mathemagics",
+     "inclusion": 6.2,
+     "winRate": 57.7,
+     "games": 7090,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Colorstorm Stallion",
+     "inclusion": 16.9,
+     "winRate": 57.4,
+     "games": 19362,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Exhibition Tidecaller",
+     "inclusion": 14.1,
+     "winRate": 57.1,
+     "games": 16089,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 9.1,
+     "winRate": 57.0,
+     "games": 10160,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Traumatic Critique",
+     "inclusion": 15.4,
+     "winRate": 56.8,
+     "games": 17431,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Molten Note",
+     "inclusion": 6.2,
+     "winRate": 56.6,
+     "games": 6854,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Stress Dream",
+     "inclusion": 34.7,
+     "winRate": 56.5,
+     "games": 39104,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Splatter Technique",
+     "inclusion": 17.6,
+     "winRate": 56.5,
+     "games": 19786,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 28.0,
+     "winRate": 56.2,
+     "games": 31391,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Molten-Core Maestro",
+     "inclusion": 11.9,
+     "winRate": 56.1,
+     "games": 13442,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 11.6,
+     "winRate": 56.1,
+     "games": 12829,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Burst Lightning",
+     "inclusion": 26.5,
+     "winRate": 56.0,
+     "games": 29713,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Vibrant Outburst",
+     "inclusion": 33.8,
+     "winRate": 55.9,
+     "games": 37579,
+     "trophyInclusion": 40.4
+    },
+    {
+     "name": "Divergent Equation",
+     "inclusion": 26.2,
+     "winRate": 55.8,
+     "games": 28920,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 24.1,
+     "winRate": 55.8,
+     "games": 26801,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Wisdom of Ages",
+     "inclusion": 14.8,
+     "winRate": 55.8,
+     "games": 16352,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Sanar, Unfinished Genius",
+     "inclusion": 34.9,
+     "winRate": 55.7,
+     "games": 38856,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 25.0,
+     "winRate": 55.7,
+     "games": 27807,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Brush Off",
+     "inclusion": 23.4,
+     "winRate": 55.6,
+     "games": 25850,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 10.5,
+     "winRate": 55.6,
+     "games": 11649,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Colossus of the Blood Age",
+     "inclusion": 5.2,
+     "winRate": 55.6,
+     "games": 5730,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Artistic Process",
+     "inclusion": 26.2,
+     "winRate": 55.5,
+     "games": 29110,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Impractical Joke",
+     "inclusion": 24.7,
+     "winRate": 55.5,
+     "games": 27443,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Tablet of Discovery",
+     "inclusion": 23.2,
+     "winRate": 55.5,
+     "games": 25764,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Jadzi, Steward of Fate",
+     "inclusion": 10.8,
+     "winRate": 55.5,
+     "games": 11962,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Tome Blast",
+     "inclusion": 47.5,
+     "winRate": 55.4,
+     "games": 52652,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 5.2,
+     "winRate": 55.4,
+     "games": 5745,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 27.8,
+     "winRate": 55.3,
+     "games": 30705,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 23.1,
+     "winRate": 55.3,
+     "games": 25519,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Pensive Professor",
+     "inclusion": 11.5,
+     "winRate": 55.3,
+     "games": 12744,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Flow State",
+     "inclusion": 26.5,
+     "winRate": 55.2,
+     "games": 29177,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 23.9,
+     "winRate": 55.2,
+     "games": 26222,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Spectacle Summit",
+     "inclusion": 59.5,
+     "winRate": 55.1,
+     "games": 65859,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 23.5,
+     "winRate": 55.1,
+     "games": 25887,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Great Hall of the Biblioplex",
+     "inclusion": 8.0,
+     "winRate": 55.1,
+     "games": 8733,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 6.1,
+     "winRate": 55.1,
+     "games": 6702,
+     "trophyInclusion": 6.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-05-06",
+    "main": [
+     [
+      2,
+      "Abrade"
+     ],
+     [
+      1,
+      "Ajani's Response"
+     ],
+     [
+      1,
+      "Burst Lightning"
+     ],
+     [
+      1,
+      "Charging Strifeknight"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Divergent Equation"
+     ],
+     [
+      1,
+      "Elemental Mascot"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Flow State"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Hydro-Channeler"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Magmablood Archaic"
+     ],
+     [
+      1,
+      "Mathemagics"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Muse Seeker"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Run Behind"
+     ],
+     [
+      1,
+      "Sanar, Unfinished Genius"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Splatter Technique"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Tome Blast"
+     ],
+     [
+      1,
+      "Unsubtle Mockery"
+     ],
+     [
+      1,
+      "Vibrant Outburst"
+     ],
+     [
+      1,
+      "Visionary's Dance"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Duel Tactics"
+     ],
+     [
+      1,
+      "Flashback"
+     ],
+     [
+      1,
+      "Informed Inkwright"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Rapturous Moment"
+     ],
+     [
+      1,
+      "Rearing Embermare"
+     ],
+     [
+      1,
+      "Silverquill Charm"
+     ],
+     [
+      2,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Wander Off"
+     ],
+     [
+      1,
+      "Zaffai and the Tempests"
+     ],
+     [
+      1,
+      "Zealous Lorecaster"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 100393,
+   "wins": 57927,
+   "winRate": 57.7,
+   "share": 17.22,
+   "drafts": 17657,
+   "trophies": 1651,
+   "cards": [
+    {
+     "name": "Practiced Offense",
+     "inclusion": 12.1,
+     "winRate": 61.6,
+     "games": 12788,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Antiquities on the Loose",
+     "inclusion": 11.4,
+     "winRate": 60.7,
+     "games": 11825,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Moment of Reckoning",
+     "inclusion": 17.0,
+     "winRate": 60.4,
+     "games": 17694,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Moseo, Vein's New Dean",
+     "inclusion": 9.8,
+     "winRate": 60.2,
+     "games": 10145,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Stirring Hopesinger",
+     "inclusion": 13.3,
+     "winRate": 60.1,
+     "games": 13883,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Informed Inkwright",
+     "inclusion": 14.2,
+     "winRate": 59.9,
+     "games": 14713,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 12.9,
+     "winRate": 59.8,
+     "games": 13173,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Postmortem Professor",
+     "inclusion": 11.4,
+     "winRate": 59.3,
+     "games": 11739,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Silverquill Charm",
+     "inclusion": 38.9,
+     "winRate": 59.2,
+     "games": 39865,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Lecturing Scornmage",
+     "inclusion": 34.5,
+     "winRate": 59.1,
+     "games": 35336,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Scheming Silvertongue",
+     "inclusion": 11.5,
+     "winRate": 59.1,
+     "games": 11760,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Scolding Administrator",
+     "inclusion": 41.3,
+     "winRate": 59.0,
+     "games": 42425,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Dissection Practice",
+     "inclusion": 23.5,
+     "winRate": 59.0,
+     "games": 23861,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Elite Interceptor",
+     "inclusion": 61.2,
+     "winRate": 58.9,
+     "games": 62579,
+     "trophyInclusion": 67.2
+    },
+    {
+     "name": "Foolish Fate",
+     "inclusion": 23.1,
+     "winRate": 58.9,
+     "games": 23513,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Repel Calamity",
+     "inclusion": 25.6,
+     "winRate": 58.7,
+     "games": 26028,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "End of the Hunt",
+     "inclusion": 22.1,
+     "winRate": 58.7,
+     "games": 22421,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Cost of Brilliance",
+     "inclusion": 50.7,
+     "winRate": 58.6,
+     "games": 51349,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 49.8,
+     "winRate": 58.6,
+     "games": 50646,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Quill-Blade Laureate",
+     "inclusion": 29.5,
+     "winRate": 58.5,
+     "games": 29777,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Conciliator's Duelist",
+     "inclusion": 20.7,
+     "winRate": 58.5,
+     "games": 21060,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Shattered Sanctum",
+     "inclusion": 11.1,
+     "winRate": 58.5,
+     "games": 11152,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Render Speechless",
+     "inclusion": 58.5,
+     "winRate": 58.4,
+     "games": 59295,
+     "trophyInclusion": 63.5
+    },
+    {
+     "name": "Stirring Honormancer",
+     "inclusion": 37.5,
+     "winRate": 58.4,
+     "games": 37978,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Imperious Inkmage",
+     "inclusion": 60.5,
+     "winRate": 58.3,
+     "games": 61283,
+     "trophyInclusion": 64.4
+    },
+    {
+     "name": "Killian's Confidence",
+     "inclusion": 36.2,
+     "winRate": 58.2,
+     "games": 36585,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 24.0,
+     "winRate": 58.2,
+     "games": 24370,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Melancholic Poet",
+     "inclusion": 52.9,
+     "winRate": 58.1,
+     "games": 53595,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Inkling Mascot",
+     "inclusion": 67.1,
+     "winRate": 58.0,
+     "games": 67646,
+     "trophyInclusion": 69.1
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 58.1,
+     "winRate": 58.0,
+     "games": 58625,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Eager Glyphmage",
+     "inclusion": 37.4,
+     "winRate": 58.0,
+     "games": 37772,
+     "trophyInclusion": 39.1
+    },
+    {
+     "name": "Stand Up for Yourself",
+     "inclusion": 23.5,
+     "winRate": 58.0,
+     "games": 23761,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 41.5,
+     "winRate": 57.8,
+     "games": 41873,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Stone Docent",
+     "inclusion": 38.7,
+     "winRate": 57.8,
+     "games": 38775,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Grave Researcher",
+     "inclusion": 8.8,
+     "winRate": 57.8,
+     "games": 8773,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Inkshape Demonstrator",
+     "inclusion": 26.2,
+     "winRate": 57.7,
+     "games": 26296,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Group Project",
+     "inclusion": 15.7,
+     "winRate": 57.7,
+     "games": 15789,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Emeritus of Truce",
+     "inclusion": 6.1,
+     "winRate": 57.7,
+     "games": 6169,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Shattered Acolyte",
+     "inclusion": 45.1,
+     "winRate": 57.6,
+     "games": 45104,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Masterful Flourish",
+     "inclusion": 29.6,
+     "winRate": 57.6,
+     "games": 29809,
+     "trophyInclusion": 29.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-05-10",
+    "main": [
+     [
+      1,
+      "Ajani's Response"
+     ],
+     [
+      1,
+      "Akroma's Will"
+     ],
+     [
+      1,
+      "Conciliator's Duelist"
+     ],
+     [
+      1,
+      "Cost of Brilliance"
+     ],
+     [
+      1,
+      "Dig Site Inventory"
+     ],
+     [
+      1,
+      "Elite Interceptor"
+     ],
+     [
+      1,
+      "Eternal Student"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      1,
+      "Imperious Inkmage"
+     ],
+     [
+      1,
+      "Informed Inkwright"
+     ],
+     [
+      1,
+      "Inkling Mascot"
+     ],
+     [
+      1,
+      "Interjection"
+     ],
+     [
+      1,
+      "Killian's Confidence"
+     ],
+     [
+      1,
+      "Lecturing Scornmage"
+     ],
+     [
+      1,
+      "Masterful Flourish"
+     ],
+     [
+      1,
+      "Melancholic Poet"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Practiced Offense"
+     ],
+     [
+      1,
+      "Rehearsed Debater"
+     ],
+     [
+      1,
+      "Render Speechless"
+     ],
+     [
+      1,
+      "Repel Calamity"
+     ],
+     [
+      1,
+      "Shattered Acolyte"
+     ],
+     [
+      1,
+      "Silverquill Charm"
+     ],
+     [
+      1,
+      "Stirring Honormancer"
+     ],
+     [
+      1,
+      "Stone Docent"
+     ],
+     [
+      8,
+      "Swamp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abigale, Poet Laureate"
+     ],
+     [
+      1,
+      "Abstract Paintmage"
+     ],
+     [
+      1,
+      "Ascendant Dustspeaker"
+     ],
+     [
+      1,
+      "Burrog Banemaker"
+     ],
+     [
+      1,
+      "Cost of Brilliance"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      1,
+      "Follow the Lumarets"
+     ],
+     [
+      1,
+      "Fractal Mascot"
+     ],
+     [
+      1,
+      "Inkling Mascot"
+     ],
+     [
+      1,
+      "Lecturing Scornmage"
+     ],
+     [
+      1,
+      "Mindful Biomancer"
+     ],
+     [
+      1,
+      "Pox Plague"
+     ],
+     [
+      1,
+      "Pull from the Grave"
+     ],
+     [
+      1,
+      "Rapier Wit"
+     ],
+     [
+      1,
+      "Requisition Raid"
+     ],
+     [
+      1,
+      "Sundown Pass"
+     ],
+     [
+      1,
+      "Tenured Concocter"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 73394,
+   "wins": 40006,
+   "winRate": 54.51,
+   "share": 12.59,
+   "drafts": 13423,
+   "trophies": 967,
+   "cards": [
+    {
+     "name": "Emeritus of Abundance",
+     "inclusion": 5.4,
+     "winRate": 58.0,
+     "games": 4139,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Postmortem Professor",
+     "inclusion": 13.4,
+     "winRate": 57.6,
+     "games": 10128,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Ambitious Augmenter",
+     "inclusion": 11.4,
+     "winRate": 57.6,
+     "games": 8676,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Slumbering Trudge",
+     "inclusion": 12.2,
+     "winRate": 57.4,
+     "games": 9379,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Moseo, Vein's New Dean",
+     "inclusion": 15.3,
+     "winRate": 56.7,
+     "games": 11516,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Professor Dellian Fel",
+     "inclusion": 7.9,
+     "winRate": 56.6,
+     "games": 5996,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Emeritus of Woe",
+     "inclusion": 5.3,
+     "winRate": 56.6,
+     "games": 4031,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Environmental Scientist",
+     "inclusion": 22.2,
+     "winRate": 56.5,
+     "games": 16664,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Pestbrood Sloth",
+     "inclusion": 29.7,
+     "winRate": 56.4,
+     "games": 22323,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Germination Practicum",
+     "inclusion": 6.7,
+     "winRate": 56.4,
+     "games": 5070,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Essenceknit Scholar",
+     "inclusion": 37.8,
+     "winRate": 56.3,
+     "games": 28457,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Blech, Loafing Pest",
+     "inclusion": 20.6,
+     "winRate": 56.3,
+     "games": 15395,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "End of the Hunt",
+     "inclusion": 23.9,
+     "winRate": 56.1,
+     "games": 18052,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Additive Evolution",
+     "inclusion": 20.6,
+     "winRate": 56.1,
+     "games": 15459,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Foolish Fate",
+     "inclusion": 23.7,
+     "winRate": 55.9,
+     "games": 17644,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Deathcap Glade",
+     "inclusion": 10.0,
+     "winRate": 55.8,
+     "games": 7471,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Lluwen, Exchange Student",
+     "inclusion": 34.9,
+     "winRate": 55.6,
+     "games": 25899,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Scheming Silvertongue",
+     "inclusion": 12.7,
+     "winRate": 55.6,
+     "games": 9422,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Poisoner's Apprentice",
+     "inclusion": 32.4,
+     "winRate": 55.5,
+     "games": 24133,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Thornfist Striker",
+     "inclusion": 32.2,
+     "winRate": 55.5,
+     "games": 23840,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 57.6,
+     "winRate": 55.4,
+     "games": 42769,
+     "trophyInclusion": 62.8
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 22.0,
+     "winRate": 55.4,
+     "games": 16335,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Dissection Practice",
+     "inclusion": 20.1,
+     "winRate": 55.3,
+     "games": 14870,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Decorum Dissertation",
+     "inclusion": 5.8,
+     "winRate": 55.3,
+     "games": 4315,
+     "trophyInclusion": 4.8
+    },
+    {
+     "name": "Teacher's Pest",
+     "inclusion": 36.2,
+     "winRate": 55.2,
+     "games": 26804,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Eternal Student",
+     "inclusion": 18.0,
+     "winRate": 55.2,
+     "games": 13409,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Tragedy Feaster",
+     "inclusion": 14.3,
+     "winRate": 55.2,
+     "games": 10627,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Stargaze",
+     "inclusion": 11.5,
+     "winRate": 55.2,
+     "games": 8544,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Grave Researcher",
+     "inclusion": 11.2,
+     "winRate": 55.2,
+     "games": 8254,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 10.5,
+     "winRate": 55.2,
+     "games": 7678,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Bogwater Lumaret",
+     "inclusion": 65.5,
+     "winRate": 55.1,
+     "games": 48442,
+     "trophyInclusion": 68.1
+    },
+    {
+     "name": "Grapple with Death",
+     "inclusion": 59.8,
+     "winRate": 55.1,
+     "games": 44301,
+     "trophyInclusion": 64.4
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 6.8,
+     "winRate": 55.1,
+     "games": 4934,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Pest Mascot",
+     "inclusion": 60.3,
+     "winRate": 55.0,
+     "games": 44653,
+     "trophyInclusion": 64.2
+    },
+    {
+     "name": "Send in the Pest",
+     "inclusion": 48.1,
+     "winRate": 55.0,
+     "games": 35529,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 45.8,
+     "winRate": 55.0,
+     "games": 33885,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 23.3,
+     "winRate": 55.0,
+     "games": 17120,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Cauldron of Essence",
+     "inclusion": 17.4,
+     "winRate": 55.0,
+     "games": 12961,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Vastlands Scavenger",
+     "inclusion": 12.2,
+     "winRate": 55.0,
+     "games": 8870,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Cost of Brilliance",
+     "inclusion": 29.6,
+     "winRate": 54.9,
+     "games": 21761,
+     "trophyInclusion": 28.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-04-28",
+    "main": [
+     [
+      1,
+      "Arnyn, Deathbloom Botanist"
+     ],
+     [
+      1,
+      "Bogwater Lumaret"
+     ],
+     [
+      1,
+      "Burrog Banemaker"
+     ],
+     [
+      1,
+      "Burrog Barrage"
+     ],
+     [
+      2,
+      "Cheerful Osteomancer"
+     ],
+     [
+      1,
+      "Cost of Brilliance"
+     ],
+     [
+      1,
+      "Environmental Scientist"
+     ],
+     [
+      1,
+      "Essenceknit Scholar"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Lluwen, Exchange Student"
+     ],
+     [
+      1,
+      "Masterful Flourish"
+     ],
+     [
+      1,
+      "Mindful Biomancer"
+     ],
+     [
+      1,
+      "Noxious Newt"
+     ],
+     [
+      1,
+      "Pest Mascot"
+     ],
+     [
+      2,
+      "Poisoner's Apprentice"
+     ],
+     [
+      1,
+      "Pull from the Grave"
+     ],
+     [
+      1,
+      "Send in the Pest"
+     ],
+     [
+      1,
+      "Shopkeeper's Bane"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tenured Concocter"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Thornfist Striker"
+     ],
+     [
+      2,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Wander Off"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Efflorescence"
+     ],
+     [
+      1,
+      "Elemental Mascot"
+     ],
+     [
+      1,
+      "Embrace the Paradox"
+     ],
+     [
+      1,
+      "Follow the Lumarets"
+     ],
+     [
+      1,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Graduation Day"
+     ],
+     [
+      1,
+      "Petrified Hamlet"
+     ],
+     [
+      1,
+      "Rapturous Moment"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      2,
+      "Stadium Tidalmage"
+     ],
+     [
+      1,
+      "Transcendent Archaic"
+     ],
+     [
+      1,
+      "Ulna Alley Shopkeep"
+     ],
+     [
+      1,
+      "Wild Hypothesis"
+     ],
+     [
+      1,
+      "Zombify"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 55753,
+   "wins": 30698,
+   "winRate": 55.06,
+   "share": 9.56,
+   "drafts": 10132,
+   "trophies": 739,
+   "cards": [
+    {
+     "name": "Emeritus of Ideation",
+     "inclusion": 5.5,
+     "winRate": 60.0,
+     "games": 3318,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Together as One",
+     "inclusion": 9.1,
+     "winRate": 58.8,
+     "games": 5325,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Archaic's Agony",
+     "inclusion": 6.8,
+     "winRate": 58.5,
+     "games": 3973,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Quandrix, the Proof",
+     "inclusion": 7.7,
+     "winRate": 58.0,
+     "games": 4494,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Stress Dream",
+     "inclusion": 8.5,
+     "winRate": 57.9,
+     "games": 4837,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Echocasting Symposium",
+     "inclusion": 6.1,
+     "winRate": 57.4,
+     "games": 3535,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Ambitious Augmenter",
+     "inclusion": 15.0,
+     "winRate": 57.3,
+     "games": 8620,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Environmental Scientist",
+     "inclusion": 29.0,
+     "winRate": 57.2,
+     "games": 16491,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 28.9,
+     "winRate": 57.1,
+     "games": 16632,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 11.1,
+     "winRate": 57.0,
+     "games": 6412,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Pestbrood Sloth",
+     "inclusion": 22.0,
+     "winRate": 56.9,
+     "games": 12615,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Paradox Surveyor",
+     "inclusion": 39.6,
+     "winRate": 56.8,
+     "games": 22796,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Stormcarved Coast",
+     "inclusion": 5.4,
+     "winRate": 56.8,
+     "games": 3103,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Slumbering Trudge",
+     "inclusion": 13.4,
+     "winRate": 56.7,
+     "games": 7592,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 19.1,
+     "winRate": 56.6,
+     "games": 10849,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Mathemagics",
+     "inclusion": 6.1,
+     "winRate": 56.6,
+     "games": 3446,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 15.5,
+     "winRate": 56.5,
+     "games": 8835,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 25.0,
+     "winRate": 56.4,
+     "games": 14102,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Jadzi, Steward of Fate",
+     "inclusion": 13.3,
+     "winRate": 56.4,
+     "games": 7477,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Proctor's Gaze",
+     "inclusion": 36.6,
+     "winRate": 56.3,
+     "games": 20795,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Vastlands Scavenger",
+     "inclusion": 11.5,
+     "winRate": 56.3,
+     "games": 6558,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 24.2,
+     "winRate": 56.2,
+     "games": 13668,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Germination Practicum",
+     "inclusion": 6.9,
+     "winRate": 56.2,
+     "games": 3969,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Deathcap Glade",
+     "inclusion": 5.2,
+     "winRate": 56.2,
+     "games": 2980,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Transcendent Archaic",
+     "inclusion": 15.2,
+     "winRate": 56.1,
+     "games": 8574,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Grapple with Death",
+     "inclusion": 13.0,
+     "winRate": 56.1,
+     "games": 7315,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Additive Evolution",
+     "inclusion": 27.6,
+     "winRate": 56.0,
+     "games": 15648,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 25.4,
+     "winRate": 56.0,
+     "games": 14383,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Applied Geometry",
+     "inclusion": 17.8,
+     "winRate": 56.0,
+     "games": 10122,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Mind into Matter",
+     "inclusion": 17.5,
+     "winRate": 56.0,
+     "games": 9922,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Skycoach Conductor",
+     "inclusion": 11.4,
+     "winRate": 56.0,
+     "games": 6433,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 31.4,
+     "winRate": 55.9,
+     "games": 17618,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Great Hall of the Biblioplex",
+     "inclusion": 5.6,
+     "winRate": 55.9,
+     "games": 3161,
+     "trophyInclusion": 3.9
+    },
+    {
+     "name": "Infirmary Healer",
+     "inclusion": 16.4,
+     "winRate": 55.8,
+     "games": 9176,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Pensive Professor",
+     "inclusion": 13.6,
+     "winRate": 55.8,
+     "games": 7699,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Wildgrowth Archaic",
+     "inclusion": 11.0,
+     "winRate": 55.8,
+     "games": 6220,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Noxious Newt",
+     "inclusion": 48.6,
+     "winRate": 55.7,
+     "games": 27390,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Quandrix Charm",
+     "inclusion": 35.3,
+     "winRate": 55.7,
+     "games": 19907,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Brush Off",
+     "inclusion": 18.9,
+     "winRate": 55.7,
+     "games": 10652,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Geometer's Arthropod",
+     "inclusion": 12.1,
+     "winRate": 55.7,
+     "games": 6850,
+     "trophyInclusion": 12.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-04-23",
+    "main": [
+     [
+      1,
+      "Additive Evolution"
+     ],
+     [
+      1,
+      "Banishing Betrayal"
+     ],
+     [
+      1,
+      "Burrog Barrage"
+     ],
+     [
+      1,
+      "Embrace the Paradox"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      1,
+      "Fractal Mascot"
+     ],
+     [
+      1,
+      "Fractal Tender"
+     ],
+     [
+      1,
+      "Grapple with Death"
+     ],
+     [
+      1,
+      "Hydro-Channeler"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noxious Newt"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Pestbrood Sloth"
+     ],
+     [
+      1,
+      "Planar Engineering"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Proctor's Gaze"
+     ],
+     [
+      1,
+      "Professor Dellian Fel"
+     ],
+     [
+      1,
+      "Pterafractyl"
+     ],
+     [
+      1,
+      "Rancorous Archaic"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spellbook Seeker"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      1,
+      "Studious First-Year"
+     ],
+     [
+      1,
+      "Sundering Archaic"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Topiary Lecturer"
+     ],
+     [
+      1,
+      "Unsubtle Mockery"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Banishing Betrayal"
+     ],
+     [
+      1,
+      "Cost of Brilliance"
+     ],
+     [
+      1,
+      "Deluge Virtuoso"
+     ],
+     [
+      1,
+      "Follow the Lumarets"
+     ],
+     [
+      1,
+      "Landscape Painter"
+     ],
+     [
+      1,
+      "Mage Tower Referee"
+     ],
+     [
+      2,
+      "Pull from the Grave"
+     ],
+     [
+      1,
+      "Tenured Concocter"
+     ],
+     [
+      2,
+      "Ulna Alley Shopkeep"
+     ],
+     [
+      1,
+      "Zealous Lorecaster"
+     ],
+     [
+      1,
+      "Zombify"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 46677,
+   "wins": 24832,
+   "winRate": 53.2,
+   "share": 8.01,
+   "drafts": 8818,
+   "trophies": 592,
+   "cards": [
+    {
+     "name": "Together as One",
+     "inclusion": 13.2,
+     "winRate": 58.5,
+     "games": 6657,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Mathemagics",
+     "inclusion": 6.4,
+     "winRate": 57.7,
+     "games": 3129,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Molten Note",
+     "inclusion": 5.8,
+     "winRate": 57.0,
+     "games": 2770,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 38.3,
+     "winRate": 56.5,
+     "games": 18553,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 5.9,
+     "winRate": 56.5,
+     "games": 2886,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 18.6,
+     "winRate": 56.3,
+     "games": 8980,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Colorstorm Stallion",
+     "inclusion": 11.3,
+     "winRate": 55.9,
+     "games": 5502,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Deathcap Glade",
+     "inclusion": 5.0,
+     "winRate": 55.9,
+     "games": 2429,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Grapple with Death",
+     "inclusion": 9.6,
+     "winRate": 55.6,
+     "games": 4591,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 24.6,
+     "winRate": 55.5,
+     "games": 11843,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Quandrix, the Proof",
+     "inclusion": 6.4,
+     "winRate": 55.5,
+     "games": 3054,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 23.8,
+     "winRate": 55.4,
+     "games": 11446,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 17.5,
+     "winRate": 55.4,
+     "games": 8399,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Environmental Scientist",
+     "inclusion": 28.4,
+     "winRate": 55.2,
+     "games": 13677,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Pestbrood Sloth",
+     "inclusion": 13.7,
+     "winRate": 55.0,
+     "games": 6528,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 29.3,
+     "winRate": 54.9,
+     "games": 13946,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Traumatic Critique",
+     "inclusion": 13.2,
+     "winRate": 54.9,
+     "games": 6374,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Proctor's Gaze",
+     "inclusion": 33.9,
+     "winRate": 54.8,
+     "games": 16085,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Paradox Surveyor",
+     "inclusion": 26.4,
+     "winRate": 54.8,
+     "games": 12632,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Splatter Technique",
+     "inclusion": 12.6,
+     "winRate": 54.8,
+     "games": 5963,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Exhibition Tidecaller",
+     "inclusion": 9.9,
+     "winRate": 54.8,
+     "games": 4746,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Run Behind",
+     "inclusion": 37.2,
+     "winRate": 54.7,
+     "games": 17652,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Stress Dream",
+     "inclusion": 28.0,
+     "winRate": 54.7,
+     "games": 13299,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Divergent Equation",
+     "inclusion": 22.8,
+     "winRate": 54.7,
+     "games": 10885,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Wisdom of Ages",
+     "inclusion": 10.6,
+     "winRate": 54.7,
+     "games": 5034,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Vibrant Outburst",
+     "inclusion": 22.9,
+     "winRate": 54.6,
+     "games": 10961,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Sanar, Unfinished Genius",
+     "inclusion": 23.8,
+     "winRate": 54.5,
+     "games": 11293,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 49.3,
+     "winRate": 54.4,
+     "games": 23356,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 20.7,
+     "winRate": 54.4,
+     "games": 9784,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Transcendent Archaic",
+     "inclusion": 19.0,
+     "winRate": 54.4,
+     "games": 8893,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Brush Off",
+     "inclusion": 18.8,
+     "winRate": 54.4,
+     "games": 8783,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 42.3,
+     "winRate": 54.3,
+     "games": 20053,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Ambitious Augmenter",
+     "inclusion": 8.8,
+     "winRate": 54.3,
+     "games": 4171,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Mana Sculpt",
+     "inclusion": 7.9,
+     "winRate": 54.3,
+     "games": 3703,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 31.1,
+     "winRate": 54.2,
+     "games": 14593,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Slumbering Trudge",
+     "inclusion": 8.9,
+     "winRate": 54.2,
+     "games": 4223,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 40.1,
+     "winRate": 54.1,
+     "games": 18827,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 17.2,
+     "winRate": 54.1,
+     "games": 8182,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Studious First-Year",
+     "inclusion": 43.6,
+     "winRate": 54.0,
+     "games": 20482,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Burst Lightning",
+     "inclusion": 16.4,
+     "winRate": 54.0,
+     "games": 7777,
+     "trophyInclusion": 16.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-04-26",
+    "main": [
+     [
+      1,
+      "Abrade"
+     ],
+     [
+      1,
+      "Additive Evolution"
+     ],
+     [
+      1,
+      "Applied Geometry"
+     ],
+     [
+      2,
+      "Archaic's Agony"
+     ],
+     [
+      1,
+      "Brush Off"
+     ],
+     [
+      1,
+      "Environmental Scientist"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      3,
+      "Mountain"
+     ],
+     [
+      2,
+      "Paradox Gardens"
+     ],
+     [
+      2,
+      "Paradox Surveyor"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Professor Dellian Fel"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Run Behind"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      1,
+      "Strixhaven Skycoach"
+     ],
+     [
+      1,
+      "Studious First-Year"
+     ],
+     [
+      1,
+      "Sundering Archaic"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tablet of Discovery"
+     ],
+     [
+      2,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Tome Blast"
+     ],
+     [
+      1,
+      "Transcendent Archaic"
+     ],
+     [
+      1,
+      "Unsubtle Mockery"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Banishing Betrayal"
+     ],
+     [
+      1,
+      "Chase Inspiration"
+     ],
+     [
+      1,
+      "Eager Glyphmage"
+     ],
+     [
+      1,
+      "Embrace the Paradox"
+     ],
+     [
+      1,
+      "Expressive Firedancer"
+     ],
+     [
+      1,
+      "Flow State"
+     ],
+     [
+      1,
+      "Flusterstorm"
+     ],
+     [
+      1,
+      "Muse's Encouragement"
+     ],
+     [
+      1,
+      "Rapier Wit"
+     ],
+     [
+      1,
+      "Rearing Embermare"
+     ],
+     [
+      1,
+      "Repel Calamity"
+     ],
+     [
+      1,
+      "Rubble Rouser"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 23123,
+   "wins": 12178,
+   "winRate": 52.67,
+   "share": 3.97,
+   "drafts": 4353,
+   "trophies": 262,
+   "cards": [
+    {
+     "name": "Together as One",
+     "inclusion": 11.6,
+     "winRate": 58.2,
+     "games": 2867,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Professor Dellian Fel",
+     "inclusion": 7.3,
+     "winRate": 58.0,
+     "games": 1813,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Archaic's Agony",
+     "inclusion": 5.8,
+     "winRate": 56.2,
+     "games": 1426,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 27.7,
+     "winRate": 56.1,
+     "games": 6653,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 21.8,
+     "winRate": 55.8,
+     "games": 5249,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 17.3,
+     "winRate": 55.8,
+     "games": 4111,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Divergent Equation",
+     "inclusion": 13.6,
+     "winRate": 55.7,
+     "games": 3248,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 9.8,
+     "winRate": 55.7,
+     "games": 2403,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Environmental Scientist",
+     "inclusion": 29.0,
+     "winRate": 55.6,
+     "games": 7007,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 21.0,
+     "winRate": 55.6,
+     "games": 5004,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "End of the Hunt",
+     "inclusion": 20.9,
+     "winRate": 55.4,
+     "games": 5065,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Visionary's Dance",
+     "inclusion": 8.8,
+     "winRate": 55.4,
+     "games": 2148,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 28.2,
+     "winRate": 55.3,
+     "games": 6787,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Spectacle Summit",
+     "inclusion": 23.9,
+     "winRate": 55.3,
+     "games": 5704,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Jadzi, Steward of Fate",
+     "inclusion": 10.2,
+     "winRate": 55.1,
+     "games": 2486,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 19.5,
+     "winRate": 55.0,
+     "games": 4648,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Pensive Professor",
+     "inclusion": 6.3,
+     "winRate": 55.0,
+     "games": 1554,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Vicious Rivalry",
+     "inclusion": 16.8,
+     "winRate": 54.9,
+     "games": 3908,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 10.1,
+     "winRate": 54.9,
+     "games": 2362,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Wildgrowth Archaic",
+     "inclusion": 10.8,
+     "winRate": 54.8,
+     "games": 2633,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Great Hall of the Biblioplex",
+     "inclusion": 6.5,
+     "winRate": 54.8,
+     "games": 1570,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Pestbrood Sloth",
+     "inclusion": 20.9,
+     "winRate": 54.5,
+     "games": 4990,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 15.3,
+     "winRate": 54.4,
+     "games": 3677,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Quandrix, the Proof",
+     "inclusion": 6.7,
+     "winRate": 54.4,
+     "games": 1607,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 38.0,
+     "winRate": 54.3,
+     "games": 8987,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Ambitious Augmenter",
+     "inclusion": 12.2,
+     "winRate": 54.3,
+     "games": 2908,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Exhibition Tidecaller",
+     "inclusion": 6.7,
+     "winRate": 54.3,
+     "games": 1579,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Foolish Fate",
+     "inclusion": 19.8,
+     "winRate": 54.2,
+     "games": 4667,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Homesickness",
+     "inclusion": 8.2,
+     "winRate": 54.2,
+     "games": 1954,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Paradox Surveyor",
+     "inclusion": 26.9,
+     "winRate": 54.1,
+     "games": 6340,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Studious First-Year",
+     "inclusion": 51.5,
+     "winRate": 54.0,
+     "games": 12219,
+     "trophyInclusion": 59.9
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 27.2,
+     "winRate": 54.0,
+     "games": 6417,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Deathcap Glade",
+     "inclusion": 12.8,
+     "winRate": 54.0,
+     "games": 3033,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Slumbering Trudge",
+     "inclusion": 10.2,
+     "winRate": 53.9,
+     "games": 2399,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Emeritus of Woe",
+     "inclusion": 5.9,
+     "winRate": 53.9,
+     "games": 1391,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Run Behind",
+     "inclusion": 23.1,
+     "winRate": 53.8,
+     "games": 5378,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Transcendent Archaic",
+     "inclusion": 17.6,
+     "winRate": 53.8,
+     "games": 4037,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Vastlands Scavenger",
+     "inclusion": 10.2,
+     "winRate": 53.8,
+     "games": 2437,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Additive Evolution",
+     "inclusion": 21.2,
+     "winRate": 53.6,
+     "games": 5023,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Flow State",
+     "inclusion": 12.5,
+     "winRate": 53.6,
+     "games": 2899,
+     "trophyInclusion": 13.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-04-24",
+    "main": [
+     [
+      1,
+      "Arcane Omens"
+     ],
+     [
+      1,
+      "Burrog Barrage"
+     ],
+     [
+      1,
+      "End of the Hunt"
+     ],
+     [
+      1,
+      "Environmental Scientist"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Fractal Mascot"
+     ],
+     [
+      1,
+      "Fractal Tender"
+     ],
+     [
+      1,
+      "Grapple with Death"
+     ],
+     [
+      1,
+      "Hydro-Channeler"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Landscape Painter"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Mind into Matter"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noxious Newt"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      2,
+      "Paradox Surveyor"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Run Behind"
+     ],
+     [
+      1,
+      "Shared Roots"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      1,
+      "Studious First-Year"
+     ],
+     [
+      1,
+      "Sundering Archaic"
+     ],
+     [
+      2,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Tome Blast"
+     ],
+     [
+      1,
+      "Vastlands Scavenger"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cost of Brilliance"
+     ],
+     [
+      1,
+      "Elite Interceptor"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      1,
+      "Fractal Tender"
+     ],
+     [
+      1,
+      "Hungry Graffalon"
+     ],
+     [
+      1,
+      "Imperious Inkmage"
+     ],
+     [
+      1,
+      "Inkling Mascot"
+     ],
+     [
+      1,
+      "Pest Mascot"
+     ],
+     [
+      1,
+      "Poisoner's Apprentice"
+     ],
+     [
+      1,
+      "Primary Research"
+     ],
+     [
+      1,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Spell Pierce"
+     ],
+     [
+      1,
+      "Stargaze"
+     ],
+     [
+      1,
+      "Wild Hypothesis"
+     ],
+     [
+      1,
+      "Zimone's Experiment"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUR",
+   "games": 19955,
+   "wins": 10888,
+   "winRate": 54.56,
+   "share": 3.42,
+   "drafts": 3747,
+   "trophies": 262,
+   "cards": [
+    {
+     "name": "Together as One",
+     "inclusion": 10.3,
+     "winRate": 59.5,
+     "games": 2208,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Mathemagics",
+     "inclusion": 6.0,
+     "winRate": 59.0,
+     "games": 1248,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 11.7,
+     "winRate": 58.3,
+     "games": 2452,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Stirring Hopesinger",
+     "inclusion": 5.1,
+     "winRate": 58.0,
+     "games": 1055,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Antiquities on the Loose",
+     "inclusion": 8.5,
+     "winRate": 57.5,
+     "games": 1710,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Traumatic Critique",
+     "inclusion": 13.8,
+     "winRate": 57.4,
+     "games": 2869,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 12.0,
+     "winRate": 57.4,
+     "games": 2525,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Jadzi, Steward of Fate",
+     "inclusion": 9.2,
+     "winRate": 56.9,
+     "games": 1922,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 18.8,
+     "winRate": 56.7,
+     "games": 3885,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 17.5,
+     "winRate": 56.7,
+     "games": 3538,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 41.1,
+     "winRate": 56.6,
+     "games": 8518,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Stress Dream",
+     "inclusion": 29.1,
+     "winRate": 56.6,
+     "games": 5994,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Great Hall of the Biblioplex",
+     "inclusion": 10.2,
+     "winRate": 56.6,
+     "games": 2123,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Paradox Gardens",
+     "inclusion": 18.3,
+     "winRate": 56.5,
+     "games": 3803,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Pensive Professor",
+     "inclusion": 7.7,
+     "winRate": 56.5,
+     "games": 1566,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Flow State",
+     "inclusion": 19.8,
+     "winRate": 56.4,
+     "games": 4093,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 23.7,
+     "winRate": 56.3,
+     "games": 4785,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Impractical Joke",
+     "inclusion": 21.9,
+     "winRate": 56.3,
+     "games": 4512,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Brush Off",
+     "inclusion": 20.4,
+     "winRate": 56.3,
+     "games": 4215,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Divergent Equation",
+     "inclusion": 24.3,
+     "winRate": 56.2,
+     "games": 5016,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 17.8,
+     "winRate": 56.2,
+     "games": 3641,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Wisdom of Ages",
+     "inclusion": 12.7,
+     "winRate": 56.2,
+     "games": 2528,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 48.5,
+     "winRate": 56.1,
+     "games": 9837,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 15.1,
+     "winRate": 56.1,
+     "games": 3070,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Magmablood Archaic",
+     "inclusion": 7.4,
+     "winRate": 56.1,
+     "games": 1551,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 20.3,
+     "winRate": 56.0,
+     "games": 4182,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Exhibition Tidecaller",
+     "inclusion": 11.7,
+     "winRate": 56.0,
+     "games": 2426,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Ark of Hunger",
+     "inclusion": 16.3,
+     "winRate": 55.9,
+     "games": 3327,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Splatter Technique",
+     "inclusion": 13.3,
+     "winRate": 55.9,
+     "games": 2758,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Erode",
+     "inclusion": 7.1,
+     "winRate": 55.9,
+     "games": 1427,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Tome Blast",
+     "inclusion": 42.6,
+     "winRate": 55.8,
+     "games": 8690,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Molten Note",
+     "inclusion": 35.8,
+     "winRate": 55.8,
+     "games": 7302,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Prismari Charm",
+     "inclusion": 20.8,
+     "winRate": 55.8,
+     "games": 4178,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Pursue the Past",
+     "inclusion": 57.1,
+     "winRate": 55.7,
+     "games": 11592,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Unsubtle Mockery",
+     "inclusion": 40.9,
+     "winRate": 55.7,
+     "games": 8380,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Run Behind",
+     "inclusion": 32.3,
+     "winRate": 55.7,
+     "games": 6517,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Vibrant Outburst",
+     "inclusion": 25.2,
+     "winRate": 55.7,
+     "games": 5136,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Tablet of Discovery",
+     "inclusion": 21.3,
+     "winRate": 55.6,
+     "games": 4328,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 35.4,
+     "winRate": 55.5,
+     "games": 7151,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Zealous Lorecaster",
+     "inclusion": 31.0,
+     "winRate": 55.5,
+     "games": 6342,
+     "trophyInclusion": 32.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-04-26",
+    "main": [
+     [
+      1,
+      "Colossus of the Blood Age"
+     ],
+     [
+      2,
+      "Divergent Equation"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      1,
+      "Flow State"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Great Hall of the Biblioplex"
+     ],
+     [
+      2,
+      "Hydro-Channeler"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      3,
+      "Mountain"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      2,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Practiced Scrollsmith"
+     ],
+     [
+      2,
+      "Pursue the Past"
+     ],
+     [
+      1,
+      "Resonating Lute"
+     ],
+     [
+      1,
+      "Run Behind"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Stock Up"
+     ],
+     [
+      1,
+      "Stormcarved Coast"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      1,
+      "Tablet of Discovery"
+     ],
+     [
+      3,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Together as One"
+     ],
+     [
+      1,
+      "Unsubtle Mockery"
+     ],
+     [
+      1,
+      "Vibrant Outburst"
+     ],
+     [
+      1,
+      "Wilt in the Heat"
+     ],
+     [
+      1,
+      "Zealous Lorecaster"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Expressive Firedancer"
+     ],
+     [
+      1,
+      "Homesickness"
+     ],
+     [
+      1,
+      "Landscape Painter"
+     ],
+     [
+      1,
+      "Muse Seeker"
+     ],
+     [
+      1,
+      "Muse's Encouragement"
+     ],
+     [
+      1,
+      "Rubble Rouser"
+     ],
+     [
+      1,
+      "Stirring Hopesinger"
+     ],
+     [
+      1,
+      "Strixhaven Skycoach"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 718,
+   "wins": 395,
+   "winRate": 55.01,
+   "share": 0.12,
+   "drafts": 135,
+   "trophies": 11,
+   "cards": [
+    {
+     "name": "Slumbering Trudge",
+     "inclusion": 16.3,
+     "winRate": 61.9,
+     "games": 126,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 17.8,
+     "winRate": 61.3,
+     "games": 142,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Rancorous Archaic",
+     "inclusion": 29.6,
+     "winRate": 61.0,
+     "games": 228,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Together as One",
+     "inclusion": 17.8,
+     "winRate": 59.7,
+     "games": 139,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Burst Lightning",
+     "inclusion": 23.0,
+     "winRate": 59.4,
+     "games": 165,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Spectacle Summit",
+     "inclusion": 42.2,
+     "winRate": 59.3,
+     "games": 329,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Grapple with Death",
+     "inclusion": 15.6,
+     "winRate": 59.2,
+     "games": 120,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Embrace the Paradox",
+     "inclusion": 20.0,
+     "winRate": 59.1,
+     "games": 149,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 40.0,
+     "winRate": 58.7,
+     "games": 293,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Studious First-Year",
+     "inclusion": 48.1,
+     "winRate": 58.4,
+     "games": 332,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 35.6,
+     "winRate": 58.3,
+     "games": 276,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Transcendent Archaic",
+     "inclusion": 23.0,
+     "winRate": 58.3,
+     "games": 163,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 40.7,
+     "winRate": 57.9,
+     "games": 304,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Tackle Artist",
+     "inclusion": 30.4,
+     "winRate": 57.5,
+     "games": 226,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Zealous Lorecaster",
+     "inclusion": 30.4,
+     "winRate": 57.5,
+     "games": 226,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Snarl Song",
+     "inclusion": 39.3,
+     "winRate": 57.3,
+     "games": 279,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 34.1,
+     "winRate": 57.0,
+     "games": 237,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Rubble Rouser",
+     "inclusion": 31.9,
+     "winRate": 57.0,
+     "games": 230,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Shared Roots",
+     "inclusion": 26.7,
+     "winRate": 56.7,
+     "games": 201,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Paradox Gardens",
+     "inclusion": 42.2,
+     "winRate": 56.6,
+     "games": 304,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Tome Blast",
+     "inclusion": 52.6,
+     "winRate": 56.1,
+     "games": 376,
+     "trophyInclusion": 72.7
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 27.4,
+     "winRate": 55.8,
+     "games": 224,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 21.5,
+     "winRate": 55.8,
+     "games": 154,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 25.9,
+     "winRate": 55.7,
+     "games": 185,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Heated Argument",
+     "inclusion": 34.1,
+     "winRate": 55.6,
+     "games": 261,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Archaic's Agony",
+     "inclusion": 33.3,
+     "winRate": 55.1,
+     "games": 236,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Ambitious Augmenter",
+     "inclusion": 15.6,
+     "winRate": 55.0,
+     "games": 120,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Emil, Vastlands Roamer",
+     "inclusion": 22.2,
+     "winRate": 54.9,
+     "games": 162,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Noxious Newt",
+     "inclusion": 45.2,
+     "winRate": 54.6,
+     "games": 313,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Strixhaven Skycoach",
+     "inclusion": 26.7,
+     "winRate": 54.6,
+     "games": 196,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Artistic Process",
+     "inclusion": 17.8,
+     "winRate": 54.5,
+     "games": 132,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Topiary Lecturer",
+     "inclusion": 18.5,
+     "winRate": 54.4,
+     "games": 136,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Thunderdrum Soloist",
+     "inclusion": 16.3,
+     "winRate": 54.4,
+     "games": 114,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Environmental Scientist",
+     "inclusion": 38.5,
+     "winRate": 54.3,
+     "games": 267,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 28.1,
+     "winRate": 54.0,
+     "games": 198,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Pestbrood Sloth",
+     "inclusion": 25.2,
+     "winRate": 54.0,
+     "games": 174,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Wild Hypothesis",
+     "inclusion": 19.3,
+     "winRate": 53.9,
+     "games": 141,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Shopkeeper's Bane",
+     "inclusion": 26.7,
+     "winRate": 53.8,
+     "games": 186,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Infirmary Healer",
+     "inclusion": 20.7,
+     "winRate": 53.8,
+     "games": 158,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Impractical Joke",
+     "inclusion": 28.9,
+     "winRate": 53.4,
+     "games": 208,
+     "trophyInclusion": 27.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-05-01",
+    "main": [
+     [
+      1,
+      "Abrade"
+     ],
+     [
+      1,
+      "Arcane Omens"
+     ],
+     [
+      2,
+      "Burst Lightning"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Emeritus of Abundance"
+     ],
+     [
+      2,
+      "Fields of Strife"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Heated Argument"
+     ],
+     [
+      1,
+      "Impractical Joke"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Jadzi, Steward of Fate"
+     ],
+     [
+      4,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noxious Newt"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Slumbering Trudge"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Strixhaven Skycoach"
+     ],
+     [
+      1,
+      "Studious First-Year"
+     ],
+     [
+      1,
+      "Subterranean Tremors"
+     ],
+     [
+      2,
+      "Sundering Archaic"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tablet of Discovery"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Tome Blast"
+     ],
+     [
+      1,
+      "Unsubtle Mockery"
+     ],
+     [
+      1,
+      "Wildgrowth Archaic"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abstract Paintmage"
+     ],
+     [
+      1,
+      "Hydro-Channeler"
+     ],
+     [
+      1,
+      "Infirmary Healer"
+     ],
+     [
+      2,
+      "Living History"
+     ],
+     [
+      1,
+      "Orysa, Tide Choreographer"
+     ],
+     [
+      1,
+      "Render Speechless"
+     ],
+     [
+      2,
+      "Seize the Spoils"
+     ],
+     [
+      1,
+      "Textbook Tabulator"
+     ],
+     [
+      1,
+      "Tome Blast"
+     ],
+     [
+      1,
+      "Wilt in the Heat"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 510,
+   "wins": 257,
+   "winRate": 50.39,
+   "share": 0.09,
+   "drafts": 96,
+   "trophies": 2,
+   "cards": [
+    {
+     "name": "Stock Up",
+     "inclusion": 29.2,
+     "winRate": 57.2,
+     "games": 166,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Flow State",
+     "inclusion": 21.9,
+     "winRate": 55.8,
+     "games": 104,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Foolish Fate",
+     "inclusion": 24.0,
+     "winRate": 55.6,
+     "games": 117,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Brush Off",
+     "inclusion": 30.2,
+     "winRate": 54.4,
+     "games": 158,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 28.1,
+     "winRate": 54.4,
+     "games": 149,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Spectacle Summit",
+     "inclusion": 36.5,
+     "winRate": 54.2,
+     "games": 192,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 61.5,
+     "winRate": 53.6,
+     "games": 317,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Arcane Omens",
+     "inclusion": 46.9,
+     "winRate": 52.9,
+     "games": 240,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Hydro-Channeler",
+     "inclusion": 39.6,
+     "winRate": 52.6,
+     "games": 209,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Wander Off",
+     "inclusion": 63.5,
+     "winRate": 52.5,
+     "games": 326,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 54.2,
+     "winRate": 52.3,
+     "games": 266,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "End of the Hunt",
+     "inclusion": 40.6,
+     "winRate": 52.3,
+     "games": 220,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Run Behind",
+     "inclusion": 38.5,
+     "winRate": 52.3,
+     "games": 193,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Divergent Equation",
+     "inclusion": 29.2,
+     "winRate": 52.3,
+     "games": 151,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Disdainful Stroke",
+     "inclusion": 30.2,
+     "winRate": 51.9,
+     "games": 160,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Quick Study",
+     "inclusion": 45.8,
+     "winRate": 51.8,
+     "games": 228,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Textbook Tabulator",
+     "inclusion": 24.0,
+     "winRate": 51.6,
+     "games": 122,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Deluge Virtuoso",
+     "inclusion": 28.1,
+     "winRate": 51.4,
+     "games": 142,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Deduce",
+     "inclusion": 21.9,
+     "winRate": 51.4,
+     "games": 111,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 42.7,
+     "winRate": 50.9,
+     "games": 212,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Send in the Pest",
+     "inclusion": 33.3,
+     "winRate": 50.9,
+     "games": 169,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Sundering Archaic",
+     "inclusion": 28.1,
+     "winRate": 50.7,
+     "games": 138,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 28.1,
+     "winRate": 50.7,
+     "games": 142,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Paradox Gardens",
+     "inclusion": 39.6,
+     "winRate": 50.5,
+     "games": 198,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 50.0,
+     "winRate": 50.4,
+     "games": 250,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Melancholic Poet",
+     "inclusion": 24.0,
+     "winRate": 49.6,
+     "games": 123,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 28.1,
+     "winRate": 49.3,
+     "games": 140,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Titan's Grave",
+     "inclusion": 44.8,
+     "winRate": 48.8,
+     "games": 215,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Landscape Painter",
+     "inclusion": 36.5,
+     "winRate": 47.8,
+     "games": 178,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Spellbook Seeker",
+     "inclusion": 21.9,
+     "winRate": 47.1,
+     "games": 104,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Banishing Betrayal",
+     "inclusion": 36.5,
+     "winRate": 46.7,
+     "games": 169,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Feed the Swarm",
+     "inclusion": 22.9,
+     "winRate": 46.0,
+     "games": 113,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Burrog Banemaker",
+     "inclusion": 25.0,
+     "winRate": 45.0,
+     "games": 120,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-05-17",
+    "main": [
+     [
+      1,
+      "Arcane Omens"
+     ],
+     [
+      1,
+      "Banishing Betrayal"
+     ],
+     [
+      1,
+      "Disdainful Stroke"
+     ],
+     [
+      1,
+      "Divergent Equation"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Flow State"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Jadzi, Steward of Fate"
+     ],
+     [
+      1,
+      "Landscape Painter"
+     ],
+     [
+      2,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Moment of Reckoning"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      2,
+      "Muse's Encouragement"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      2,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Procrastinate"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Shattered Sanctum"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Stock Up"
+     ],
+     [
+      1,
+      "Stress Dream"
+     ],
+     [
+      2,
+      "Sundering Archaic"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      2,
+      "Textbook Tabulator"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cauldron of Essence"
+     ],
+     [
+      1,
+      "Chase Inspiration"
+     ],
+     [
+      2,
+      "Fractal Mascot"
+     ],
+     [
+      1,
+      "Mage Tower Referee"
+     ],
+     [
+      1,
+      "Molten Note"
+     ],
+     [
+      1,
+      "Page, Loose Leaf"
+     ],
+     [
+      2,
+      "Quandrix Charm"
+     ],
+     [
+      1,
+      "Rancorous Archaic"
+     ],
+     [
+      1,
+      "Rearing Embermare"
+     ],
+     [
+      2,
+      "Render Speechless"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 353,
+   "wins": 180,
+   "winRate": 50.99,
+   "share": 0.06,
+   "drafts": 65,
+   "trophies": 2,
+   "cards": [
+    {
+     "name": "Tackle Artist",
+     "inclusion": 35.4,
+     "winRate": 57.4,
+     "games": 136,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Zealous Lorecaster",
+     "inclusion": 33.8,
+     "winRate": 55.8,
+     "games": 129,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Foolish Fate",
+     "inclusion": 30.8,
+     "winRate": 55.8,
+     "games": 120,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Rubble Rouser",
+     "inclusion": 43.1,
+     "winRate": 55.4,
+     "games": 168,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Send in the Pest",
+     "inclusion": 38.5,
+     "winRate": 55.2,
+     "games": 143,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Fields of Strife",
+     "inclusion": 33.8,
+     "winRate": 55.1,
+     "games": 118,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 32.3,
+     "winRate": 54.3,
+     "games": 127,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Wander Off",
+     "inclusion": 44.6,
+     "winRate": 53.5,
+     "games": 157,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Burst Lightning",
+     "inclusion": 30.8,
+     "winRate": 53.3,
+     "games": 107,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Forum of Amity",
+     "inclusion": 33.8,
+     "winRate": 52.9,
+     "games": 119,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Goblin Glasswright",
+     "inclusion": 47.7,
+     "winRate": 52.6,
+     "games": 175,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Potioner's Trove",
+     "inclusion": 41.5,
+     "winRate": 52.4,
+     "games": 145,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Melancholic Poet",
+     "inclusion": 49.2,
+     "winRate": 52.1,
+     "games": 169,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 56.9,
+     "winRate": 51.7,
+     "games": 205,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Unsubtle Mockery",
+     "inclusion": 52.3,
+     "winRate": 51.6,
+     "games": 188,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Heated Argument",
+     "inclusion": 33.8,
+     "winRate": 50.4,
+     "games": 117,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Seize the Spoils",
+     "inclusion": 33.8,
+     "winRate": 49.6,
+     "games": 117,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Burrog Banemaker",
+     "inclusion": 30.8,
+     "winRate": 49.0,
+     "games": 104,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Impractical Joke",
+     "inclusion": 36.9,
+     "winRate": 48.8,
+     "games": 121,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Expressive Firedancer",
+     "inclusion": 38.5,
+     "winRate": 48.0,
+     "games": 123,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Eternal Student",
+     "inclusion": 30.8,
+     "winRate": 48.0,
+     "games": 100,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Cost of Brilliance",
+     "inclusion": 32.3,
+     "winRate": 47.7,
+     "games": 109,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Tome Blast",
+     "inclusion": 49.2,
+     "winRate": 46.3,
+     "games": 164,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Adventurous Eater",
+     "inclusion": 40.0,
+     "winRate": 45.9,
+     "games": 135,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-05-16",
+    "main": [
+     [
+      2,
+      "Arcane Omens"
+     ],
+     [
+      2,
+      "Archaic's Agony"
+     ],
+     [
+      1,
+      "Brotherhood's End"
+     ],
+     [
+      1,
+      "Burrog Banemaker"
+     ],
+     [
+      1,
+      "Duel Tactics"
+     ],
+     [
+      1,
+      "Emeritus of Conflict"
+     ],
+     [
+      1,
+      "Emeritus of Woe"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      2,
+      "Fields of Strife"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      2,
+      "Goblin Glasswright"
+     ],
+     [
+      1,
+      "Heated Argument"
+     ],
+     [
+      1,
+      "Hydro-Channeler"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Molten Note"
+     ],
+     [
+      1,
+      "Moment of Reckoning"
+     ],
+     [
+      4,
+      "Mountain"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Rancorous Archaic"
+     ],
+     [
+      1,
+      "Rubble Rouser"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      4,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tackle Artist"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Vibrant Outburst"
+     ],
+     [
+      1,
+      "Wander Off"
+     ],
+     [
+      1,
+      "Zealous Lorecaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abstract Paintmage"
+     ],
+     [
+      1,
+      "Ancestral Anger"
+     ],
+     [
+      1,
+      "Bogwater Lumaret"
+     ],
+     [
+      1,
+      "Expressive Firedancer"
+     ],
+     [
+      1,
+      "Harsh Annotation"
+     ],
+     [
+      1,
+      "Lluwen, Exchange Student"
+     ],
+     [
+      2,
+      "Lorehold Charm"
+     ],
+     [
+      2,
+      "Mage Tower Referee"
+     ],
+     [
+      1,
+      "Poisoner's Apprentice"
+     ],
+     [
+      1,
+      "Practiced Scrollsmith"
+     ],
+     [
+      1,
+      "Run Behind"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 285,
+   "wins": 136,
+   "winRate": 47.72,
+   "share": 0.05,
+   "drafts": 59,
+   "trophies": 3,
+   "cards": [
+    {
+     "name": "Matterbending Mage",
+     "inclusion": 33.9,
+     "winRate": 55.7,
+     "games": 106,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Shattered Acolyte",
+     "inclusion": 35.6,
+     "winRate": 55.0,
+     "games": 109,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Elite Interceptor",
+     "inclusion": 61.0,
+     "winRate": 52.0,
+     "games": 177,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 55.9,
+     "winRate": 49.7,
+     "games": 159,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Run Behind",
+     "inclusion": 59.3,
+     "winRate": 49.1,
+     "games": 175,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Deluge Virtuoso",
+     "inclusion": 37.3,
+     "winRate": 48.1,
+     "games": 106,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Landscape Painter",
+     "inclusion": 54.2,
+     "winRate": 46.4,
+     "games": 151,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 52.5,
+     "winRate": 46.4,
+     "games": 140,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Banishing Betrayal",
+     "inclusion": 49.2,
+     "winRate": 42.5,
+     "games": 127,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Quick Study",
+     "inclusion": 40.7,
+     "winRate": 38.5,
+     "games": 104,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-04-26",
+    "main": [
+     [
+      3,
+      "Ajani's Response"
+     ],
+     [
+      1,
+      "Arcane Omens"
+     ],
+     [
+      1,
+      "Archaic's Agony"
+     ],
+     [
+      1,
+      "Cyclonic Rift"
+     ],
+     [
+      1,
+      "Eager Glyphmage"
+     ],
+     [
+      1,
+      "Elite Interceptor"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Fields of Strife"
+     ],
+     [
+      2,
+      "Forest"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      1,
+      "Great Hall of the Biblioplex"
+     ],
+     [
+      1,
+      "Imperious Inkmage"
+     ],
+     [
+      1,
+      "Informed Inkwright"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Mathemagics"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      4,
+      "Plains"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Practiced Offense"
+     ],
+     [
+      1,
+      "Run Behind"
+     ],
+     [
+      2,
+      "Shattered Acolyte"
+     ],
+     [
+      2,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      1,
+      "Stirring Honormancer"
+     ],
+     [
+      1,
+      "Stock Up"
+     ],
+     [
+      1,
+      "Sundown Pass"
+     ],
+     [
+      2,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Transcendent Archaic"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Biblioplex Tomekeeper"
+     ],
+     [
+      1,
+      "Hungry Graffalon"
+     ],
+     [
+      1,
+      "Locust Spray"
+     ],
+     [
+      1,
+      "Masterful Flourish"
+     ],
+     [
+      1,
+      "Owlin Historian"
+     ],
+     [
+      1,
+      "Pterafractyl"
+     ],
+     [
+      1,
+      "Pull from the Grave"
+     ],
+     [
+      1,
+      "Quandrix Charm"
+     ],
+     [
+      4,
+      "Rancorous Archaic"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 213,
+   "wins": 112,
+   "winRate": 52.58,
+   "share": 0.04,
+   "drafts": 42,
+   "trophies": 3,
+   "cards": [
+    {
+     "name": "Eager Glyphmage",
+     "inclusion": 47.6,
+     "winRate": 57.3,
+     "games": 117,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Ajani's Response",
+     "inclusion": 50.0,
+     "winRate": 54.8,
+     "games": 115,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Elite Interceptor",
+     "inclusion": 61.9,
+     "winRate": 53.9,
+     "games": 141,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Studious First-Year",
+     "inclusion": 47.6,
+     "winRate": 53.1,
+     "games": 113,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Burrog Barrage",
+     "inclusion": 52.4,
+     "winRate": 51.8,
+     "games": 114,
+     "trophyInclusion": 33.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-04-27",
+    "main": [
+     [
+      2,
+      "Ajani's Response"
+     ],
+     [
+      1,
+      "Eager Glyphmage"
+     ],
+     [
+      1,
+      "Elite Interceptor"
+     ],
+     [
+      2,
+      "Embrace the Paradox"
+     ],
+     [
+      1,
+      "End of the Hunt"
+     ],
+     [
+      1,
+      "Environmental Scientist"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Forum of Amity"
+     ],
+     [
+      1,
+      "Informed Inkwright"
+     ],
+     [
+      1,
+      "Inkshape Demonstrator"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Knockout Maneuver"
+     ],
+     [
+      1,
+      "Mind into Matter"
+     ],
+     [
+      1,
+      "Paradox Gardens"
+     ],
+     [
+      1,
+      "Pestbrood Sloth"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Potioner's Trove"
+     ],
+     [
+      1,
+      "Render Speechless"
+     ],
+     [
+      1,
+      "Repel Calamity"
+     ],
+     [
+      1,
+      "Slumbering Trudge"
+     ],
+     [
+      1,
+      "Snarl Song"
+     ],
+     [
+      1,
+      "Spectacle Summit"
+     ],
+     [
+      3,
+      "Stone Docent"
+     ],
+     [
+      1,
+      "Studious First-Year"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Titan's Grave"
+     ],
+     [
+      1,
+      "Transcendent Archaic"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Archaic's Agony"
+     ],
+     [
+      1,
+      "Ascendant Dustspeaker"
+     ],
+     [
+      1,
+      "Berserk"
+     ],
+     [
+      1,
+      "Biblioplex Tomekeeper"
+     ],
+     [
+      1,
+      "Efflorescence"
+     ],
+     [
+      1,
+      "Follow the Lumarets"
+     ],
+     [
+      1,
+      "Honorbound Page"
+     ],
+     [
+      1,
+      "Page, Loose Leaf"
+     ],
+     [
+      1,
+      "Pursue the Past"
+     ],
+     [
+      1,
+      "Rapier Wit"
+     ],
+     [
+      1,
+      "Rubble Rouser"
+     ],
+     [
+      1,
+      "Wander Off"
+     ]
+    ]
+   }
+  }
+ ]
+}

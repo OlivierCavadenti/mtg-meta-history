@@ -1,0 +1,4596 @@
+{
+ "set": "dsk",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.DSK.PremierDraft.csv.gz",
+ "lastModified": "Wed, 30 Oct 2024 01:44:09 GMT",
+ "colorsDerived": false,
+ "first": "2024-09-24",
+ "last": "2024-10-28",
+ "games": 1011949,
+ "drafts": 173545,
+ "winRate": 54.48,
+ "combos": [
+  {
+   "colors": "WU",
+   "games": 151906,
+   "wins": 85745,
+   "winRate": 56.45,
+   "share": 15.01,
+   "drafts": 25457,
+   "trophies": 3707,
+   "cards": [
+    {
+     "name": "Dollmaker's Shop // Porcelain Gallery",
+     "inclusion": 5.0,
+     "winRate": 59.8,
+     "games": 8098,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Ghostly Dancers",
+     "inclusion": 13.6,
+     "winRate": 59.7,
+     "games": 21617,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Overlord of the Floodpits",
+     "inclusion": 5.2,
+     "winRate": 59.5,
+     "games": 8206,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Entity Tracker",
+     "inclusion": 13.3,
+     "winRate": 59.2,
+     "games": 20976,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Silent Hallcreeper",
+     "inclusion": 11.3,
+     "winRate": 58.7,
+     "games": 17768,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Enduring Innocence",
+     "inclusion": 10.2,
+     "winRate": 58.6,
+     "games": 15823,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Sheltered by Ghosts",
+     "inclusion": 25.0,
+     "winRate": 58.4,
+     "games": 39201,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Fear of Isolation",
+     "inclusion": 29.3,
+     "winRate": 58.3,
+     "games": 45718,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Toby, Beastie Befriender",
+     "inclusion": 9.5,
+     "winRate": 58.3,
+     "games": 14932,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Optimistic Scavenger",
+     "inclusion": 34.0,
+     "winRate": 58.2,
+     "games": 53074,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Unidentified Hovership",
+     "inclusion": 9.7,
+     "winRate": 58.1,
+     "games": 15175,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Unnerving Grasp",
+     "inclusion": 25.9,
+     "winRate": 58.0,
+     "games": 40117,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 5.4,
+     "winRate": 58.0,
+     "games": 8406,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Splitskin Doll",
+     "inclusion": 21.9,
+     "winRate": 57.9,
+     "games": 33911,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Enduring Curiosity",
+     "inclusion": 11.7,
+     "winRate": 57.8,
+     "games": 18172,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Gremlin Tamer",
+     "inclusion": 45.8,
+     "winRate": 57.6,
+     "games": 70677,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 43.4,
+     "winRate": 57.6,
+     "games": 66919,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Niko, Light of Hope",
+     "inclusion": 8.3,
+     "winRate": 57.6,
+     "games": 12776,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Stay Hidden, Stay Silent",
+     "inclusion": 28.3,
+     "winRate": 57.4,
+     "games": 43746,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Surgical Suite // Hospital Room",
+     "inclusion": 23.1,
+     "winRate": 57.4,
+     "games": 35669,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Glimmerburst",
+     "inclusion": 58.4,
+     "winRate": 57.3,
+     "games": 89706,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Ethereal Armor",
+     "inclusion": 27.7,
+     "winRate": 57.3,
+     "games": 42590,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Floodpits Drowner",
+     "inclusion": 27.4,
+     "winRate": 57.3,
+     "games": 42152,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Bottomless Pool // Locker Room",
+     "inclusion": 26.8,
+     "winRate": 57.1,
+     "games": 41141,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Shardmage's Rescue",
+     "inclusion": 26.1,
+     "winRate": 57.1,
+     "games": 40012,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Reluctant Role Model",
+     "inclusion": 8.3,
+     "winRate": 57.1,
+     "games": 12545,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Trapped in the Screen",
+     "inclusion": 50.6,
+     "winRate": 57.0,
+     "games": 77698,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Glimmer Seeker",
+     "inclusion": 21.6,
+     "winRate": 57.0,
+     "games": 33056,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Unable to Scream",
+     "inclusion": 55.5,
+     "winRate": 56.9,
+     "games": 84961,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Abandoned Campground",
+     "inclusion": 42.2,
+     "winRate": 56.9,
+     "games": 64482,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Inquisitive Glimmer",
+     "inclusion": 43.1,
+     "winRate": 56.8,
+     "games": 65824,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Tunnel Surveyor",
+     "inclusion": 59.5,
+     "winRate": 56.7,
+     "games": 90886,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Grand Entryway // Elegant Rotunda",
+     "inclusion": 56.0,
+     "winRate": 56.7,
+     "games": 85251,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Meat Locker // Drowned Diner",
+     "inclusion": 52.4,
+     "winRate": 56.6,
+     "games": 79776,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Vanish from Sight",
+     "inclusion": 41.4,
+     "winRate": 56.6,
+     "games": 63125,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Fear of Abduction",
+     "inclusion": 23.1,
+     "winRate": 56.6,
+     "games": 35165,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Cursed Windbreaker",
+     "inclusion": 17.3,
+     "winRate": 56.6,
+     "games": 26324,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Fear of Surveillance",
+     "inclusion": 51.2,
+     "winRate": 56.5,
+     "games": 77972,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Fear of Immobility",
+     "inclusion": 44.7,
+     "winRate": 56.4,
+     "games": 67603,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Floodfarm Verge",
+     "inclusion": 10.6,
+     "winRate": 56.4,
+     "games": 16150,
+     "trophyInclusion": 10.3
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2024-09-29",
+    "main": [
+     [
+      1,
+      "Abandoned Campground"
+     ],
+     [
+      1,
+      "Bottomless Pool // Locker Room"
+     ],
+     [
+      1,
+      "Creeping Peeper"
+     ],
+     [
+      1,
+      "Cult Healer"
+     ],
+     [
+      1,
+      "Enduring Curiosity"
+     ],
+     [
+      1,
+      "Exorcise"
+     ],
+     [
+      1,
+      "Fear of Abduction"
+     ],
+     [
+      1,
+      "Fear of Surveillance"
+     ],
+     [
+      1,
+      "Floodfarm Verge"
+     ],
+     [
+      1,
+      "Ghostly Keybearer"
+     ],
+     [
+      1,
+      "Glimmerburst"
+     ],
+     [
+      1,
+      "Grand Entryway // Elegant Rotunda"
+     ],
+     [
+      1,
+      "Gremlin Tamer"
+     ],
+     [
+      1,
+      "Inquisitive Glimmer"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Meat Locker // Drowned Diner"
+     ],
+     [
+      1,
+      "Patched Plaything"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Seized from Slumber"
+     ],
+     [
+      1,
+      "Sheltered by Ghosts"
+     ],
+     [
+      1,
+      "Splitskin Doll"
+     ],
+     [
+      1,
+      "Stalked Researcher"
+     ],
+     [
+      1,
+      "Surgical Suite // Hospital Room"
+     ],
+     [
+      1,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Tunnel Surveyor"
+     ],
+     [
+      1,
+      "Unable to Scream"
+     ],
+     [
+      1,
+      "Underwater Tunnel // Slimy Aquarium"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Altanak, the Thrice-Called"
+     ],
+     [
+      1,
+      "Clammy Prowler"
+     ],
+     [
+      1,
+      "Emerge from the Cocoon"
+     ],
+     [
+      1,
+      "Enter the Enigma"
+     ],
+     [
+      1,
+      "Fear of Surveillance"
+     ],
+     [
+      1,
+      "Friendly Ghost"
+     ],
+     [
+      1,
+      "Greenhouse // Rickety Gazebo"
+     ],
+     [
+      1,
+      "Leyline of Mutation"
+     ],
+     [
+      1,
+      "Murky Sewer"
+     ],
+     [
+      1,
+      "Neglected Manor"
+     ],
+     [
+      1,
+      "Oblivious Bookworm"
+     ],
+     [
+      1,
+      "Peer Past the Veil"
+     ],
+     [
+      1,
+      "Seized from Slumber"
+     ],
+     [
+      1,
+      "Smoky Lounge // Misty Salon"
+     ],
+     [
+      1,
+      "Twist Reality"
+     ],
+     [
+      1,
+      "Vanish from Sight"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 140873,
+   "wins": 80186,
+   "winRate": 56.92,
+   "share": 13.92,
+   "drafts": 23252,
+   "trophies": 3423,
+   "cards": [
+    {
+     "name": "Toby, Beastie Befriender",
+     "inclusion": 11.0,
+     "winRate": 59.7,
+     "games": 16131,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Screaming Nemesis",
+     "inclusion": 5.6,
+     "winRate": 59.3,
+     "games": 8139,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Sheltered by Ghosts",
+     "inclusion": 23.8,
+     "winRate": 59.0,
+     "games": 34442,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Unidentified Hovership",
+     "inclusion": 10.5,
+     "winRate": 58.9,
+     "games": 15152,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Ghostly Dancers",
+     "inclusion": 7.7,
+     "winRate": 58.8,
+     "games": 11205,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Painter's Studio // Defaced Gallery",
+     "inclusion": 29.1,
+     "winRate": 58.4,
+     "games": 41814,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Midnight Mayhem",
+     "inclusion": 49.4,
+     "winRate": 58.3,
+     "games": 70918,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Chainsaw",
+     "inclusion": 10.6,
+     "winRate": 58.3,
+     "games": 15220,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Optimistic Scavenger",
+     "inclusion": 19.3,
+     "winRate": 58.2,
+     "games": 27556,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Dollmaker's Shop // Porcelain Gallery",
+     "inclusion": 5.3,
+     "winRate": 58.2,
+     "games": 7656,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Arabella, Abandoned Doll",
+     "inclusion": 51.1,
+     "winRate": 58.1,
+     "games": 73049,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 37.4,
+     "winRate": 58.1,
+     "games": 53544,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Enduring Innocence",
+     "inclusion": 11.6,
+     "winRate": 58.1,
+     "games": 16561,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 5.4,
+     "winRate": 58.1,
+     "games": 7711,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Irreverent Gremlin",
+     "inclusion": 34.6,
+     "winRate": 58.0,
+     "games": 49504,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Razorkin Hordecaller",
+     "inclusion": 28.9,
+     "winRate": 58.0,
+     "games": 41404,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Splitskin Doll",
+     "inclusion": 31.1,
+     "winRate": 57.9,
+     "games": 44408,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Fear of Missing Out",
+     "inclusion": 11.2,
+     "winRate": 57.9,
+     "games": 16106,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Veteran Survivor",
+     "inclusion": 24.3,
+     "winRate": 57.8,
+     "games": 34704,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Betrayer's Bargain",
+     "inclusion": 25.7,
+     "winRate": 57.7,
+     "games": 36685,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Piggy Bank",
+     "inclusion": 27.3,
+     "winRate": 57.6,
+     "games": 38932,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Glimmer Seeker",
+     "inclusion": 19.5,
+     "winRate": 57.6,
+     "games": 27785,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "inclusion": 54.5,
+     "winRate": 57.5,
+     "games": 77531,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Raucous Carnival",
+     "inclusion": 41.7,
+     "winRate": 57.5,
+     "games": 59334,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Clockwork Percussionist",
+     "inclusion": 58.7,
+     "winRate": 57.4,
+     "games": 83303,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Turn Inside Out",
+     "inclusion": 57.1,
+     "winRate": 57.4,
+     "games": 81284,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Glassworks // Shattered Yard",
+     "inclusion": 47.6,
+     "winRate": 57.4,
+     "games": 67692,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Trapped in the Screen",
+     "inclusion": 44.0,
+     "winRate": 57.4,
+     "games": 62449,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Exorcise",
+     "inclusion": 20.1,
+     "winRate": 57.4,
+     "games": 28643,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Reluctant Role Model",
+     "inclusion": 10.3,
+     "winRate": 57.4,
+     "games": 14696,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Unsettling Twins",
+     "inclusion": 47.9,
+     "winRate": 57.3,
+     "games": 67764,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 19.8,
+     "winRate": 57.3,
+     "games": 28118,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Ragged Playmate",
+     "inclusion": 60.3,
+     "winRate": 57.2,
+     "games": 85534,
+     "trophyInclusion": 61.4
+    },
+    {
+     "name": "Fear of Surveillance",
+     "inclusion": 46.9,
+     "winRate": 57.1,
+     "games": 66232,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Norin, Swift Survivalist",
+     "inclusion": 29.1,
+     "winRate": 57.1,
+     "games": 41123,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Fear of Being Hunted",
+     "inclusion": 28.6,
+     "winRate": 57.1,
+     "games": 40445,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Surgical Suite // Hospital Room",
+     "inclusion": 21.1,
+     "winRate": 57.1,
+     "games": 29847,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Enduring Courage",
+     "inclusion": 11.2,
+     "winRate": 57.1,
+     "games": 15909,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Most Valuable Slayer",
+     "inclusion": 56.8,
+     "winRate": 56.9,
+     "games": 80243,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "Jump Scare",
+     "inclusion": 43.7,
+     "winRate": 56.9,
+     "games": 61507,
+     "trophyInclusion": 43.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-10-04",
+    "main": [
+     [
+      1,
+      "Acrobatic Cheerleader"
+     ],
+     [
+      2,
+      "Arabella, Abandoned Doll"
+     ],
+     [
+      1,
+      "Betrayer's Bargain"
+     ],
+     [
+      1,
+      "Clockwork Percussionist"
+     ],
+     [
+      2,
+      "Fear of Being Hunted"
+     ],
+     [
+      1,
+      "Fear of Missing Out"
+     ],
+     [
+      1,
+      "Friendly Ghost"
+     ],
+     [
+      1,
+      "Glassworks // Shattered Yard"
+     ],
+     [
+      1,
+      "Irreverent Gremlin"
+     ],
+     [
+      1,
+      "Jump Scare"
+     ],
+     [
+      1,
+      "Midnight Mayhem"
+     ],
+     [
+      1,
+      "Most Valuable Slayer"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Patched Plaything"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Ragged Playmate"
+     ],
+     [
+      1,
+      "Raucous Carnival"
+     ],
+     [
+      1,
+      "Razorkin Hordecaller"
+     ],
+     [
+      1,
+      "Scorching Dragonfire"
+     ],
+     [
+      1,
+      "Splitskin Doll"
+     ],
+     [
+      1,
+      "Ticket Booth // Tunnel of Hate"
+     ],
+     [
+      1,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Turn Inside Out"
+     ],
+     [
+      1,
+      "Unsettling Twins"
+     ],
+     [
+      1,
+      "Vengeful Possession"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bedhead Beastie"
+     ],
+     [
+      1,
+      "Enter the Enigma"
+     ],
+     [
+      1,
+      "Erratic Apparition"
+     ],
+     [
+      2,
+      "Friendly Teddy"
+     ],
+     [
+      1,
+      "Get Out"
+     ],
+     [
+      1,
+      "Hand That Feeds"
+     ],
+     [
+      2,
+      "Impossible Inferno"
+     ],
+     [
+      1,
+      "Restricted Office // Lecture Hall"
+     ],
+     [
+      1,
+      "Ripchain Razorkin"
+     ],
+     [
+      1,
+      "Savior of the Small"
+     ],
+     [
+      1,
+      "Untimely Malfunction"
+     ],
+     [
+      1,
+      "Vicious Clown"
+     ],
+     [
+      1,
+      "Wary Watchdog"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 117510,
+   "wins": 65217,
+   "winRate": 55.5,
+   "share": 11.61,
+   "drafts": 19907,
+   "trophies": 2635,
+   "cards": [
+    {
+     "name": "Tyvar, the Pummeler",
+     "inclusion": 5.1,
+     "winRate": 60.7,
+     "games": 6386,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Abhorrent Oculus",
+     "inclusion": 6.7,
+     "winRate": 59.4,
+     "games": 8363,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Valgavoth's Onslaught",
+     "inclusion": 11.3,
+     "winRate": 59.3,
+     "games": 13941,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 6.6,
+     "winRate": 58.9,
+     "games": 8086,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Overlord of the Floodpits",
+     "inclusion": 5.3,
+     "winRate": 58.8,
+     "games": 6537,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Balustrade Wurm",
+     "inclusion": 9.6,
+     "winRate": 58.0,
+     "games": 11752,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "The Swarmweaver",
+     "inclusion": 5.9,
+     "winRate": 58.0,
+     "games": 7206,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Zimone, All-Questioning",
+     "inclusion": 20.8,
+     "winRate": 57.9,
+     "games": 25326,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Unnerving Grasp",
+     "inclusion": 34.2,
+     "winRate": 57.6,
+     "games": 41288,
+     "trophyInclusion": 40.5
+    },
+    {
+     "name": "Enduring Curiosity",
+     "inclusion": 10.6,
+     "winRate": 57.4,
+     "games": 12881,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Under the Skin",
+     "inclusion": 31.1,
+     "winRate": 57.2,
+     "games": 37475,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Oblivious Bookworm",
+     "inclusion": 53.8,
+     "winRate": 56.9,
+     "games": 64381,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Stay Hidden, Stay Silent",
+     "inclusion": 28.1,
+     "winRate": 56.9,
+     "games": 33618,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Cursed Windbreaker",
+     "inclusion": 30.7,
+     "winRate": 56.8,
+     "games": 36677,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Twitching Doll",
+     "inclusion": 9.8,
+     "winRate": 56.8,
+     "games": 11608,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Omnivorous Flytrap",
+     "inclusion": 9.1,
+     "winRate": 56.8,
+     "games": 10891,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Vanish from Sight",
+     "inclusion": 44.1,
+     "winRate": 56.7,
+     "games": 52584,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Floodpits Drowner",
+     "inclusion": 28.8,
+     "winRate": 56.7,
+     "games": 34462,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Patchwork Beastie",
+     "inclusion": 16.7,
+     "winRate": 56.6,
+     "games": 19866,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Fear of Isolation",
+     "inclusion": 25.3,
+     "winRate": 56.5,
+     "games": 30097,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Insidious Fungus",
+     "inclusion": 23.7,
+     "winRate": 56.4,
+     "games": 28333,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Conductive Machete",
+     "inclusion": 19.6,
+     "winRate": 56.4,
+     "games": 23253,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Growing Dread",
+     "inclusion": 49.1,
+     "winRate": 56.3,
+     "games": 58276,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Silent Hallcreeper",
+     "inclusion": 10.6,
+     "winRate": 56.3,
+     "games": 12729,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Enduring Vitality",
+     "inclusion": 8.9,
+     "winRate": 56.3,
+     "games": 10515,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Monstrous Emergence",
+     "inclusion": 50.9,
+     "winRate": 56.1,
+     "games": 60239,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Lakeside Shack",
+     "inclusion": 47.1,
+     "winRate": 56.1,
+     "games": 55733,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Threats Around Every Corner",
+     "inclusion": 33.7,
+     "winRate": 56.1,
+     "games": 40000,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Broodspinner",
+     "inclusion": 7.5,
+     "winRate": 56.0,
+     "games": 8827,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Unable to Scream",
+     "inclusion": 50.1,
+     "winRate": 55.9,
+     "games": 59025,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Spineseeker Centipede",
+     "inclusion": 47.6,
+     "winRate": 55.9,
+     "games": 56185,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Paranormal Analyst",
+     "inclusion": 39.4,
+     "winRate": 55.9,
+     "games": 46446,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 32.2,
+     "winRate": 55.9,
+     "games": 37881,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Manifest Dread",
+     "inclusion": 58.0,
+     "winRate": 55.8,
+     "games": 68427,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Wary Watchdog",
+     "inclusion": 42.6,
+     "winRate": 55.8,
+     "games": 50163,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Wickerfolk Thresher",
+     "inclusion": 20.9,
+     "winRate": 55.8,
+     "games": 24613,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Bashful Beastie",
+     "inclusion": 51.0,
+     "winRate": 55.6,
+     "games": 60274,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Break Down the Door",
+     "inclusion": 27.7,
+     "winRate": 55.6,
+     "games": 32556,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Twist Reality",
+     "inclusion": 41.9,
+     "winRate": 55.5,
+     "games": 49152,
+     "trophyInclusion": 42.6
+    },
+    {
+     "name": "Slavering Branchsnapper",
+     "inclusion": 39.0,
+     "winRate": 55.5,
+     "games": 45763,
+     "trophyInclusion": 38.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-10-01",
+    "main": [
+     [
+      1,
+      "Abhorrent Oculus"
+     ],
+     [
+      1,
+      "Altanak, the Thrice-Called"
+     ],
+     [
+      1,
+      "Bashful Beastie"
+     ],
+     [
+      1,
+      "Break Down the Door"
+     ],
+     [
+      1,
+      "Cryptid Inspector"
+     ],
+     [
+      1,
+      "Daggermaw Megalodon"
+     ],
+     [
+      1,
+      "Dissection Tools"
+     ],
+     [
+      1,
+      "Fear of Exposure"
+     ],
+     [
+      1,
+      "Fear of Falling"
+     ],
+     [
+      1,
+      "Flesh Burrower"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Get Out"
+     ],
+     [
+      1,
+      "Growing Dread"
+     ],
+     [
+      1,
+      "Hedge Shredder"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Lakeside Shack"
+     ],
+     [
+      1,
+      "Manifest Dread"
+     ],
+     [
+      1,
+      "Moldering Gym // Weight Room"
+     ],
+     [
+      1,
+      "Monstrous Emergence"
+     ],
+     [
+      1,
+      "Paranormal Analyst"
+     ],
+     [
+      1,
+      "Say Its Name"
+     ],
+     [
+      1,
+      "Spineseeker Centipede"
+     ],
+     [
+      1,
+      "Threats Around Every Corner"
+     ],
+     [
+      1,
+      "Twist Reality"
+     ],
+     [
+      1,
+      "Unable to Scream"
+     ],
+     [
+      1,
+      "Under the Skin"
+     ],
+     [
+      1,
+      "Underwater Tunnel // Slimy Aquarium"
+     ],
+     [
+      1,
+      "Unnerving Grasp"
+     ],
+     [
+      1,
+      "Wickerfolk Thresher"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bear Trap"
+     ],
+     [
+      1,
+      "Clammy Prowler"
+     ],
+     [
+      1,
+      "Conductive Machete"
+     ],
+     [
+      2,
+      "Creeping Peeper"
+     ],
+     [
+      1,
+      "Enter the Enigma"
+     ],
+     [
+      1,
+      "Flesh Burrower"
+     ],
+     [
+      2,
+      "Frantic Strength"
+     ],
+     [
+      1,
+      "Ghostly Keybearer"
+     ],
+     [
+      1,
+      "Malevolent Chandelier"
+     ],
+     [
+      1,
+      "Murky Sewer"
+     ],
+     [
+      2,
+      "Underwater Tunnel // Slimy Aquarium"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 116043,
+   "wins": 64217,
+   "winRate": 55.34,
+   "share": 11.47,
+   "drafts": 19537,
+   "trophies": 2529,
+   "cards": [
+    {
+     "name": "Overlord of the Boilerbilges",
+     "inclusion": 5.8,
+     "winRate": 60.0,
+     "games": 7195,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Valgavoth's Onslaught",
+     "inclusion": 10.7,
+     "winRate": 59.7,
+     "games": 13262,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 6.4,
+     "winRate": 58.7,
+     "games": 7686,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Tyvar, the Pummeler",
+     "inclusion": 6.0,
+     "winRate": 57.9,
+     "games": 7210,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "The Rollercrusher Ride",
+     "inclusion": 5.8,
+     "winRate": 57.5,
+     "games": 6972,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Fear of Missing Out",
+     "inclusion": 12.5,
+     "winRate": 57.3,
+     "games": 14845,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Screaming Nemesis",
+     "inclusion": 5.8,
+     "winRate": 57.3,
+     "games": 6919,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Patchwork Beastie",
+     "inclusion": 32.2,
+     "winRate": 57.2,
+     "games": 38327,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Balustrade Wurm",
+     "inclusion": 12.2,
+     "winRate": 57.2,
+     "games": 14629,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Chainsaw",
+     "inclusion": 11.5,
+     "winRate": 57.1,
+     "games": 13684,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Under the Skin",
+     "inclusion": 28.5,
+     "winRate": 57.0,
+     "games": 33834,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Hauntwoods Shrieker",
+     "inclusion": 5.7,
+     "winRate": 56.9,
+     "games": 6748,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Wildfire Wickerfolk",
+     "inclusion": 52.3,
+     "winRate": 56.8,
+     "games": 62237,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "The Swarmweaver",
+     "inclusion": 6.1,
+     "winRate": 56.8,
+     "games": 7146,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Fear of Burning Alive",
+     "inclusion": 31.6,
+     "winRate": 56.6,
+     "games": 37331,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Omnivorous Flytrap",
+     "inclusion": 12.3,
+     "winRate": 56.5,
+     "games": 14566,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Razorkin Hordecaller",
+     "inclusion": 28.8,
+     "winRate": 56.4,
+     "games": 33964,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "inclusion": 57.3,
+     "winRate": 56.3,
+     "games": 67459,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 35.0,
+     "winRate": 56.3,
+     "games": 41082,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Betrayer's Bargain",
+     "inclusion": 28.0,
+     "winRate": 56.2,
+     "games": 33032,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Fear of Being Hunted",
+     "inclusion": 27.0,
+     "winRate": 56.2,
+     "games": 31612,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Irreverent Gremlin",
+     "inclusion": 25.7,
+     "winRate": 56.2,
+     "games": 30393,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Waltz of Rage",
+     "inclusion": 12.6,
+     "winRate": 56.1,
+     "games": 14797,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Spineseeker Centipede",
+     "inclusion": 53.6,
+     "winRate": 56.0,
+     "games": 62800,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Turn Inside Out",
+     "inclusion": 46.5,
+     "winRate": 56.0,
+     "games": 54468,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Wary Watchdog",
+     "inclusion": 52.8,
+     "winRate": 55.9,
+     "games": 61826,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Beastie Beatdown",
+     "inclusion": 50.6,
+     "winRate": 55.9,
+     "games": 59222,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Manifest Dread",
+     "inclusion": 49.3,
+     "winRate": 55.9,
+     "games": 57808,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Clockwork Percussionist",
+     "inclusion": 47.4,
+     "winRate": 55.9,
+     "games": 55357,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Piggy Bank",
+     "inclusion": 29.1,
+     "winRate": 55.9,
+     "games": 34196,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Conductive Machete",
+     "inclusion": 14.0,
+     "winRate": 55.9,
+     "games": 16415,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Bleeding Woods",
+     "inclusion": 44.1,
+     "winRate": 55.6,
+     "games": 51373,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Wickerfolk Thresher",
+     "inclusion": 27.2,
+     "winRate": 55.6,
+     "games": 31619,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Insidious Fungus",
+     "inclusion": 23.1,
+     "winRate": 55.6,
+     "games": 26806,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Thornspire Verge",
+     "inclusion": 11.0,
+     "winRate": 55.6,
+     "games": 12700,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Broodspinner",
+     "inclusion": 6.5,
+     "winRate": 55.6,
+     "games": 7479,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Glassworks // Shattered Yard",
+     "inclusion": 48.8,
+     "winRate": 55.5,
+     "games": 56990,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Break Down the Door",
+     "inclusion": 22.3,
+     "winRate": 55.5,
+     "games": 25903,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Threats Around Every Corner",
+     "inclusion": 18.3,
+     "winRate": 55.5,
+     "games": 21292,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Twitching Doll",
+     "inclusion": 10.3,
+     "winRate": 55.5,
+     "games": 12039,
+     "trophyInclusion": 10.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-09-29",
+    "main": [
+     [
+      1,
+      "Beastie Beatdown"
+     ],
+     [
+      1,
+      "Bleeding Woods"
+     ],
+     [
+      1,
+      "Break Down the Door"
+     ],
+     [
+      1,
+      "Clockwork Percussionist"
+     ],
+     [
+      1,
+      "Conductive Machete"
+     ],
+     [
+      1,
+      "Fear of Missing Out"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      2,
+      "Glassworks // Shattered Yard"
+     ],
+     [
+      1,
+      "Grab the Prize"
+     ],
+     [
+      1,
+      "Grasping Longneck"
+     ],
+     [
+      1,
+      "Impossible Inferno"
+     ],
+     [
+      1,
+      "Manifest Dread"
+     ],
+     [
+      1,
+      "Most Valuable Slayer"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Peer Past the Veil"
+     ],
+     [
+      1,
+      "Ragged Playmate"
+     ],
+     [
+      1,
+      "Say Its Name"
+     ],
+     [
+      1,
+      "Scorching Dragonfire"
+     ],
+     [
+      1,
+      "Slavering Branchsnapper"
+     ],
+     [
+      1,
+      "Spineseeker Centipede"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Threats Around Every Corner"
+     ],
+     [
+      1,
+      "Turn Inside Out"
+     ],
+     [
+      1,
+      "Under the Skin"
+     ],
+     [
+      1,
+      "Wickerfolk Thresher"
+     ],
+     [
+      2,
+      "Wildfire Wickerfolk"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abandoned Campground"
+     ],
+     [
+      1,
+      "Bedhead Beastie"
+     ],
+     [
+      1,
+      "Boilerbilges Ripper"
+     ],
+     [
+      1,
+      "Break Down the Door"
+     ],
+     [
+      1,
+      "Creeping Peeper"
+     ],
+     [
+      1,
+      "Glimmerlight"
+     ],
+     [
+      1,
+      "Grab the Prize"
+     ],
+     [
+      1,
+      "Horrid Vigor"
+     ],
+     [
+      1,
+      "Marvin, Murderous Mimic"
+     ],
+     [
+      1,
+      "Most Valuable Slayer"
+     ],
+     [
+      1,
+      "Paranormal Analyst"
+     ],
+     [
+      1,
+      "Say Its Name"
+     ],
+     [
+      1,
+      "Strangled Cemetery"
+     ],
+     [
+      1,
+      "The Tale of Tamiyo"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 83146,
+   "wins": 45661,
+   "winRate": 54.92,
+   "share": 8.22,
+   "drafts": 14148,
+   "trophies": 1793,
+   "cards": [
+    {
+     "name": "Unholy Annex // Ritual Chamber",
+     "inclusion": 12.7,
+     "winRate": 59.1,
+     "games": 11204,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Overlord of the Balemurk",
+     "inclusion": 5.5,
+     "winRate": 58.4,
+     "games": 4849,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Unstoppable Slasher",
+     "inclusion": 13.3,
+     "winRate": 58.3,
+     "games": 11611,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Overlord of the Boilerbilges",
+     "inclusion": 5.8,
+     "winRate": 58.3,
+     "games": 5123,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Screaming Nemesis",
+     "inclusion": 5.7,
+     "winRate": 58.3,
+     "games": 5104,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 7.6,
+     "winRate": 57.6,
+     "games": 6580,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 24.9,
+     "winRate": 56.5,
+     "games": 21207,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Razorkin Hordecaller",
+     "inclusion": 29.9,
+     "winRate": 56.4,
+     "games": 25448,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Disturbing Mirth",
+     "inclusion": 58.3,
+     "winRate": 56.3,
+     "games": 49430,
+     "trophyInclusion": 65.5
+    },
+    {
+     "name": "Vengeful Possession",
+     "inclusion": 37.8,
+     "winRate": 56.2,
+     "games": 32008,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Fear of Missing Out",
+     "inclusion": 12.0,
+     "winRate": 56.2,
+     "games": 10165,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Piggy Bank",
+     "inclusion": 30.3,
+     "winRate": 56.1,
+     "games": 25640,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Undead Sprinter",
+     "inclusion": 27.2,
+     "winRate": 56.1,
+     "games": 22984,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Chainsaw",
+     "inclusion": 11.8,
+     "winRate": 56.1,
+     "games": 10088,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Final Vengeance",
+     "inclusion": 65.3,
+     "winRate": 56.0,
+     "games": 55280,
+     "trophyInclusion": 71.6
+    },
+    {
+     "name": "Clockwork Percussionist",
+     "inclusion": 61.4,
+     "winRate": 56.0,
+     "games": 51820,
+     "trophyInclusion": 67.6
+    },
+    {
+     "name": "Osseous Sticktwister",
+     "inclusion": 27.0,
+     "winRate": 55.9,
+     "games": 22754,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Glassworks // Shattered Yard",
+     "inclusion": 49.6,
+     "winRate": 55.8,
+     "games": 41892,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Betrayer's Bargain",
+     "inclusion": 33.2,
+     "winRate": 55.8,
+     "games": 28091,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Nowhere to Run",
+     "inclusion": 27.6,
+     "winRate": 55.8,
+     "games": 23428,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Painter's Studio // Defaced Gallery",
+     "inclusion": 23.9,
+     "winRate": 55.8,
+     "games": 20006,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Innocuous Rat",
+     "inclusion": 60.1,
+     "winRate": 55.7,
+     "games": 50655,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Irreverent Gremlin",
+     "inclusion": 27.9,
+     "winRate": 55.7,
+     "games": 23498,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Come Back Wrong",
+     "inclusion": 11.4,
+     "winRate": 55.6,
+     "games": 9515,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Fear of Burning Alive",
+     "inclusion": 26.9,
+     "winRate": 55.5,
+     "games": 22570,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Turn Inside Out",
+     "inclusion": 40.0,
+     "winRate": 55.4,
+     "games": 33488,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Sawblade Skinripper",
+     "inclusion": 54.6,
+     "winRate": 55.3,
+     "games": 45568,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Fear of Lost Teeth",
+     "inclusion": 52.0,
+     "winRate": 55.3,
+     "games": 43450,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "inclusion": 54.3,
+     "winRate": 55.2,
+     "games": 45498,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Razortrap Gorge",
+     "inclusion": 45.5,
+     "winRate": 55.2,
+     "games": 38041,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Popular Egotist",
+     "inclusion": 37.3,
+     "winRate": 55.2,
+     "games": 31147,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 30.8,
+     "winRate": 55.2,
+     "games": 25746,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Fear of Being Hunted",
+     "inclusion": 24.5,
+     "winRate": 55.2,
+     "games": 20648,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Enduring Courage",
+     "inclusion": 10.7,
+     "winRate": 55.1,
+     "games": 8987,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "The Rollercrusher Ride",
+     "inclusion": 5.2,
+     "winRate": 55.1,
+     "games": 4301,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Ticket Booth // Tunnel of Hate",
+     "inclusion": 32.2,
+     "winRate": 54.9,
+     "games": 26995,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Sporogenic Infection",
+     "inclusion": 22.9,
+     "winRate": 54.9,
+     "games": 19010,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Diversion Specialist",
+     "inclusion": 31.1,
+     "winRate": 54.7,
+     "games": 25853,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Boilerbilges Ripper",
+     "inclusion": 29.9,
+     "winRate": 54.6,
+     "games": 24771,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Hand That Feeds",
+     "inclusion": 43.1,
+     "winRate": 54.5,
+     "games": 35566,
+     "trophyInclusion": 40.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-10-02",
+    "main": [
+     [
+      1,
+      "Betrayer's Bargain"
+     ],
+     [
+      1,
+      "Boilerbilges Ripper"
+     ],
+     [
+      1,
+      "Clockwork Percussionist"
+     ],
+     [
+      1,
+      "Cynical Loner"
+     ],
+     [
+      2,
+      "Disturbing Mirth"
+     ],
+     [
+      1,
+      "Fear of Being Hunted"
+     ],
+     [
+      1,
+      "Fear of Lost Teeth"
+     ],
+     [
+      2,
+      "Final Vengeance"
+     ],
+     [
+      2,
+      "Glassworks // Shattered Yard"
+     ],
+     [
+      1,
+      "Glimmerlight"
+     ],
+     [
+      1,
+      "Innocuous Rat"
+     ],
+     [
+      1,
+      "Most Valuable Slayer"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Nowhere to Run"
+     ],
+     [
+      1,
+      "Painter's Studio // Defaced Gallery"
+     ],
+     [
+      1,
+      "Piggy Bank"
+     ],
+     [
+      1,
+      "Popular Egotist"
+     ],
+     [
+      1,
+      "Razorkin Hordecaller"
+     ],
+     [
+      1,
+      "Razortrap Gorge"
+     ],
+     [
+      1,
+      "Scorching Dragonfire"
+     ],
+     [
+      1,
+      "Sporogenic Infection"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Vengeful Possession"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arabella, Abandoned Doll"
+     ],
+     [
+      1,
+      "Bedhead Beastie"
+     ],
+     [
+      1,
+      "Defiled Crypt // Cadaver Lab"
+     ],
+     [
+      1,
+      "Final Vengeance"
+     ],
+     [
+      1,
+      "Friendly Ghost"
+     ],
+     [
+      1,
+      "Friendly Teddy"
+     ],
+     [
+      1,
+      "Ghost Vacuum"
+     ],
+     [
+      1,
+      "Resurrected Cultist"
+     ],
+     [
+      1,
+      "Saw"
+     ],
+     [
+      1,
+      "Strangled Cemetery"
+     ],
+     [
+      1,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Turn Inside Out"
+     ],
+     [
+      1,
+      "Unwanted Remake"
+     ],
+     [
+      1,
+      "Valgavoth's Faithful"
+     ],
+     [
+      1,
+      "Waltz of Rage"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 81880,
+   "wins": 44439,
+   "winRate": 54.27,
+   "share": 8.09,
+   "drafts": 14096,
+   "trophies": 1608,
+   "cards": [
+    {
+     "name": "Valgavoth's Onslaught",
+     "inclusion": 10.5,
+     "winRate": 59.0,
+     "games": 9242,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "The Swarmweaver",
+     "inclusion": 22.6,
+     "winRate": 58.0,
+     "games": 19546,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Unholy Annex // Ritual Chamber",
+     "inclusion": 13.1,
+     "winRate": 57.7,
+     "games": 11311,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Overlord of the Balemurk",
+     "inclusion": 6.4,
+     "winRate": 57.1,
+     "games": 5516,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Unstoppable Slasher",
+     "inclusion": 11.0,
+     "winRate": 56.8,
+     "games": 9367,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Tyvar, the Pummeler",
+     "inclusion": 5.5,
+     "winRate": 56.8,
+     "games": 4671,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 6.4,
+     "winRate": 56.6,
+     "games": 5363,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Broodspinner",
+     "inclusion": 50.7,
+     "winRate": 56.1,
+     "games": 42620,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Hauntwoods Shrieker",
+     "inclusion": 5.2,
+     "winRate": 56.1,
+     "games": 4370,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Under the Skin",
+     "inclusion": 29.5,
+     "winRate": 55.9,
+     "games": 24709,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Balustrade Wurm",
+     "inclusion": 11.7,
+     "winRate": 55.8,
+     "games": 9885,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Osseous Sticktwister",
+     "inclusion": 31.3,
+     "winRate": 55.5,
+     "games": 26159,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Patchwork Beastie",
+     "inclusion": 30.9,
+     "winRate": 55.5,
+     "games": 25816,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Spineseeker Centipede",
+     "inclusion": 54.1,
+     "winRate": 55.4,
+     "games": 45218,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Conductive Machete",
+     "inclusion": 12.9,
+     "winRate": 55.3,
+     "games": 10679,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 36.7,
+     "winRate": 55.2,
+     "games": 30406,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Omnivorous Flytrap",
+     "inclusion": 12.3,
+     "winRate": 55.1,
+     "games": 10185,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Come Back Wrong",
+     "inclusion": 11.1,
+     "winRate": 55.1,
+     "games": 9150,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Oblivious Bookworm",
+     "inclusion": 5.9,
+     "winRate": 55.1,
+     "games": 4909,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Drag to the Roots",
+     "inclusion": 46.7,
+     "winRate": 55.0,
+     "games": 38743,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Threats Around Every Corner",
+     "inclusion": 21.3,
+     "winRate": 55.0,
+     "games": 17781,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Twitching Doll",
+     "inclusion": 11.3,
+     "winRate": 55.0,
+     "games": 9415,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Say Its Name",
+     "inclusion": 49.9,
+     "winRate": 54.8,
+     "games": 41257,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Monstrous Emergence",
+     "inclusion": 48.4,
+     "winRate": 54.8,
+     "games": 39981,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Strangled Cemetery",
+     "inclusion": 45.2,
+     "winRate": 54.8,
+     "games": 37374,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Winter's Intervention",
+     "inclusion": 42.2,
+     "winRate": 54.8,
+     "games": 34869,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Insidious Fungus",
+     "inclusion": 26.2,
+     "winRate": 54.8,
+     "games": 21557,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Wary Watchdog",
+     "inclusion": 51.7,
+     "winRate": 54.7,
+     "games": 42622,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Manifest Dread",
+     "inclusion": 45.7,
+     "winRate": 54.7,
+     "games": 37706,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Altanak, the Thrice-Called",
+     "inclusion": 26.1,
+     "winRate": 54.7,
+     "games": 21405,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Slavering Branchsnapper",
+     "inclusion": 43.6,
+     "winRate": 54.6,
+     "games": 35934,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Nowhere to Run",
+     "inclusion": 26.9,
+     "winRate": 54.5,
+     "games": 22135,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Wickerfolk Thresher",
+     "inclusion": 26.8,
+     "winRate": 54.5,
+     "games": 22038,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Break Down the Door",
+     "inclusion": 24.2,
+     "winRate": 54.5,
+     "games": 19966,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Vile Mutilator",
+     "inclusion": 24.0,
+     "winRate": 54.5,
+     "games": 19781,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Found Footage",
+     "inclusion": 8.5,
+     "winRate": 54.5,
+     "games": 7036,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Bashful Beastie",
+     "inclusion": 41.5,
+     "winRate": 54.4,
+     "games": 34097,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Commune with Evil",
+     "inclusion": 21.7,
+     "winRate": 54.4,
+     "games": 17716,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Miasma Demon",
+     "inclusion": 20.6,
+     "winRate": 54.4,
+     "games": 16981,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Defiant Survivor",
+     "inclusion": 19.3,
+     "winRate": 54.4,
+     "games": 15978,
+     "trophyInclusion": 19.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-10-23",
+    "main": [
+     [
+      1,
+      "Broodspinner"
+     ],
+     [
+      1,
+      "Drag to the Roots"
+     ],
+     [
+      1,
+      "Fanatic of the Harrowing"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Found Footage"
+     ],
+     [
+      1,
+      "Innocuous Rat"
+     ],
+     [
+      1,
+      "Manifest Dread"
+     ],
+     [
+      1,
+      "Moldering Gym // Weight Room"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Nowhere to Run"
+     ],
+     [
+      1,
+      "Osseous Sticktwister"
+     ],
+     [
+      1,
+      "Patchwork Beastie"
+     ],
+     [
+      1,
+      "Resurrected Cultist"
+     ],
+     [
+      3,
+      "Say Its Name"
+     ],
+     [
+      1,
+      "Slavering Branchsnapper"
+     ],
+     [
+      2,
+      "Spineseeker Centipede"
+     ],
+     [
+      1,
+      "Strangled Cemetery"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Tyvar, the Pummeler"
+     ],
+     [
+      1,
+      "Under the Skin"
+     ],
+     [
+      1,
+      "Valgavoth's Faithful"
+     ],
+     [
+      1,
+      "Valgavoth's Onslaught"
+     ],
+     [
+      1,
+      "Wary Watchdog"
+     ],
+     [
+      1,
+      "Winter's Intervention"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cynical Loner"
+     ],
+     [
+      1,
+      "Fear of Lost Teeth"
+     ],
+     [
+      1,
+      "Found Footage"
+     ],
+     [
+      1,
+      "Grasping Longneck"
+     ],
+     [
+      1,
+      "Horrid Vigor"
+     ],
+     [
+      1,
+      "Leyline of Transformation"
+     ],
+     [
+      1,
+      "Neglected Manor"
+     ],
+     [
+      1,
+      "Norin, Swift Survivalist"
+     ],
+     [
+      1,
+      "Resurrected Cultist"
+     ],
+     [
+      1,
+      "Slavering Branchsnapper"
+     ],
+     [
+      1,
+      "Spectral Snatcher"
+     ],
+     [
+      1,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Vengeful Possession"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 54755,
+   "wins": 28484,
+   "winRate": 52.02,
+   "share": 5.41,
+   "drafts": 9699,
+   "trophies": 932,
+   "cards": [
+    {
+     "name": "Overlord of the Mistmoors",
+     "inclusion": 6.2,
+     "winRate": 58.2,
+     "games": 3735,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Unholy Annex // Ritual Chamber",
+     "inclusion": 13.3,
+     "winRate": 56.2,
+     "games": 7751,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Overlord of the Balemurk",
+     "inclusion": 6.5,
+     "winRate": 56.0,
+     "games": 3771,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Splitskin Doll",
+     "inclusion": 23.4,
+     "winRate": 54.8,
+     "games": 13318,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Ghostly Dancers",
+     "inclusion": 10.5,
+     "winRate": 54.8,
+     "games": 5962,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Enduring Innocence",
+     "inclusion": 9.5,
+     "winRate": 54.1,
+     "games": 5442,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Toby, Beastie Befriender",
+     "inclusion": 9.4,
+     "winRate": 53.8,
+     "games": 5325,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Valgavoth, Terror Eater",
+     "inclusion": 8.7,
+     "winRate": 53.6,
+     "games": 4924,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Nowhere to Run",
+     "inclusion": 27.5,
+     "winRate": 53.5,
+     "games": 15425,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Unstoppable Slasher",
+     "inclusion": 10.7,
+     "winRate": 53.5,
+     "games": 5973,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Unsettling Twins",
+     "inclusion": 41.7,
+     "winRate": 53.4,
+     "games": 23243,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Commune with Evil",
+     "inclusion": 27.4,
+     "winRate": 53.3,
+     "games": 15345,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Reluctant Role Model",
+     "inclusion": 8.9,
+     "winRate": 53.3,
+     "games": 4914,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Glimmer Seeker",
+     "inclusion": 17.8,
+     "winRate": 53.1,
+     "games": 9899,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Shroudstomper",
+     "inclusion": 52.5,
+     "winRate": 53.0,
+     "games": 29220,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Trapped in the Screen",
+     "inclusion": 46.7,
+     "winRate": 53.0,
+     "games": 25915,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Unidentified Hovership",
+     "inclusion": 9.9,
+     "winRate": 53.0,
+     "games": 5507,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Vile Mutilator",
+     "inclusion": 31.9,
+     "winRate": 52.9,
+     "games": 17792,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Osseous Sticktwister",
+     "inclusion": 25.9,
+     "winRate": 52.9,
+     "games": 14347,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Exorcise",
+     "inclusion": 22.1,
+     "winRate": 52.9,
+     "games": 12275,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Found Footage",
+     "inclusion": 6.5,
+     "winRate": 52.9,
+     "games": 3554,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Rite of the Moth",
+     "inclusion": 50.3,
+     "winRate": 52.8,
+     "games": 27877,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Innocuous Rat",
+     "inclusion": 46.3,
+     "winRate": 52.8,
+     "games": 25657,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Seized from Slumber",
+     "inclusion": 38.8,
+     "winRate": 52.8,
+     "games": 21492,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Split Up",
+     "inclusion": 10.4,
+     "winRate": 52.8,
+     "games": 5747,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Neglected Manor",
+     "inclusion": 46.2,
+     "winRate": 52.7,
+     "games": 25641,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Cynical Loner",
+     "inclusion": 31.8,
+     "winRate": 52.7,
+     "games": 17597,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 19.1,
+     "winRate": 52.7,
+     "games": 10587,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Fanatic of the Harrowing",
+     "inclusion": 46.3,
+     "winRate": 52.6,
+     "games": 25588,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Winter's Intervention",
+     "inclusion": 46.3,
+     "winRate": 52.5,
+     "games": 25548,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Live or Die",
+     "inclusion": 33.1,
+     "winRate": 52.5,
+     "games": 18270,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Sheltered by Ghosts",
+     "inclusion": 21.2,
+     "winRate": 52.5,
+     "games": 11667,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Emerge from the Cocoon",
+     "inclusion": 54.7,
+     "winRate": 52.3,
+     "games": 30196,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Valgavoth's Faithful",
+     "inclusion": 32.3,
+     "winRate": 52.3,
+     "games": 17833,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Fear of Abduction",
+     "inclusion": 24.9,
+     "winRate": 52.3,
+     "games": 13747,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Optimistic Scavenger",
+     "inclusion": 16.4,
+     "winRate": 52.3,
+     "games": 8951,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 6.3,
+     "winRate": 52.3,
+     "games": 3448,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Come Back Wrong",
+     "inclusion": 11.0,
+     "winRate": 52.2,
+     "games": 6053,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Spectral Snatcher",
+     "inclusion": 51.4,
+     "winRate": 52.1,
+     "games": 28192,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Murder",
+     "inclusion": 49.8,
+     "winRate": 52.1,
+     "games": 27341,
+     "trophyInclusion": 51.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2024-09-29",
+    "main": [
+     [
+      1,
+      "Cult Healer"
+     ],
+     [
+      1,
+      "Cynical Loner"
+     ],
+     [
+      1,
+      "Doomsday Excruciator"
+     ],
+     [
+      2,
+      "Emerge from the Cocoon"
+     ],
+     [
+      1,
+      "Fanatic of the Harrowing"
+     ],
+     [
+      1,
+      "Fear of Surveillance"
+     ],
+     [
+      1,
+      "Final Vengeance"
+     ],
+     [
+      2,
+      "Innocuous Rat"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Neglected Manor"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Possessed Goat"
+     ],
+     [
+      1,
+      "Rite of the Moth"
+     ],
+     [
+      1,
+      "Seized from Slumber"
+     ],
+     [
+      1,
+      "Shepherding Spirits"
+     ],
+     [
+      1,
+      "Shroudstomper"
+     ],
+     [
+      1,
+      "Spectral Snatcher"
+     ],
+     [
+      1,
+      "Splitskin Doll"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Toby, Beastie Befriender"
+     ],
+     [
+      2,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Unholy Annex // Ritual Chamber"
+     ],
+     [
+      1,
+      "Unsettling Twins"
+     ],
+     [
+      1,
+      "Winter's Intervention"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Acrobatic Cheerleader"
+     ],
+     [
+      1,
+      "Cackling Slasher"
+     ],
+     [
+      1,
+      "Derelict Attic // Widow's Walk"
+     ],
+     [
+      1,
+      "Erratic Apparition"
+     ],
+     [
+      1,
+      "Etched Cornfield"
+     ],
+     [
+      1,
+      "Fear of Immobility"
+     ],
+     [
+      1,
+      "Ghostly Keybearer"
+     ],
+     [
+      1,
+      "Glimmerlight"
+     ],
+     [
+      1,
+      "Gremlin Tamer"
+     ],
+     [
+      1,
+      "Living Phone"
+     ],
+     [
+      1,
+      "Malevolent Chandelier"
+     ],
+     [
+      1,
+      "Piranha Fly"
+     ],
+     [
+      1,
+      "Spectral Snatcher"
+     ],
+     [
+      1,
+      "The Tale of Tamiyo"
+     ],
+     [
+      1,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Twist Reality"
+     ],
+     [
+      1,
+      "Veteran Survivor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 52177,
+   "wins": 27177,
+   "winRate": 52.09,
+   "share": 5.16,
+   "drafts": 9230,
+   "trophies": 886,
+   "cards": [
+    {
+     "name": "Overlord of the Boilerbilges",
+     "inclusion": 5.1,
+     "winRate": 56.4,
+     "games": 2850,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 5.6,
+     "winRate": 56.1,
+     "games": 3145,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Fear of Missing Out",
+     "inclusion": 10.2,
+     "winRate": 55.7,
+     "games": 5581,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Entity Tracker",
+     "inclusion": 12.7,
+     "winRate": 55.4,
+     "games": 6906,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Fear of Isolation",
+     "inclusion": 29.4,
+     "winRate": 54.8,
+     "games": 15907,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Chainsaw",
+     "inclusion": 10.0,
+     "winRate": 54.8,
+     "games": 5505,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "The Rollercrusher Ride",
+     "inclusion": 5.6,
+     "winRate": 54.8,
+     "games": 3085,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Overlord of the Floodpits",
+     "inclusion": 6.4,
+     "winRate": 54.7,
+     "games": 3436,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Floodpits Drowner",
+     "inclusion": 28.7,
+     "winRate": 54.5,
+     "games": 15551,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Roaring Furnace // Steaming Sauna",
+     "inclusion": 30.0,
+     "winRate": 54.4,
+     "games": 16197,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Unnerving Grasp",
+     "inclusion": 29.0,
+     "winRate": 54.4,
+     "games": 15695,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Razorkin Hordecaller",
+     "inclusion": 19.8,
+     "winRate": 54.3,
+     "games": 10675,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Enduring Curiosity",
+     "inclusion": 11.5,
+     "winRate": 54.1,
+     "games": 6267,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Screaming Nemesis",
+     "inclusion": 5.2,
+     "winRate": 54.1,
+     "games": 2812,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Silent Hallcreeper",
+     "inclusion": 11.6,
+     "winRate": 54.0,
+     "games": 6307,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Stay Hidden, Stay Silent",
+     "inclusion": 27.6,
+     "winRate": 53.9,
+     "games": 14769,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Clockwork Percussionist",
+     "inclusion": 23.4,
+     "winRate": 53.7,
+     "games": 12512,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Irreverent Gremlin",
+     "inclusion": 18.9,
+     "winRate": 53.6,
+     "games": 10135,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 18.9,
+     "winRate": 53.6,
+     "games": 10132,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Piggy Bank",
+     "inclusion": 22.8,
+     "winRate": 53.3,
+     "games": 12177,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Turn Inside Out",
+     "inclusion": 18.4,
+     "winRate": 53.3,
+     "games": 9773,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "inclusion": 56.4,
+     "winRate": 53.1,
+     "games": 30035,
+     "trophyInclusion": 61.7
+    },
+    {
+     "name": "Painter's Studio // Defaced Gallery",
+     "inclusion": 29.4,
+     "winRate": 53.1,
+     "games": 15690,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 30.2,
+     "winRate": 52.9,
+     "games": 15957,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Glimmerburst",
+     "inclusion": 44.1,
+     "winRate": 52.7,
+     "games": 23141,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Vanish from Sight",
+     "inclusion": 38.3,
+     "winRate": 52.7,
+     "games": 20089,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Betrayer's Bargain",
+     "inclusion": 25.0,
+     "winRate": 52.7,
+     "games": 13272,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Glassworks // Shattered Yard",
+     "inclusion": 64.7,
+     "winRate": 52.6,
+     "games": 34207,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Peculiar Lighthouse",
+     "inclusion": 52.7,
+     "winRate": 52.6,
+     "games": 27726,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Fear of Burning Alive",
+     "inclusion": 20.6,
+     "winRate": 52.6,
+     "games": 10894,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Mirror Room // Fractured Realm",
+     "inclusion": 5.8,
+     "winRate": 52.6,
+     "games": 3025,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Unable to Scream",
+     "inclusion": 50.9,
+     "winRate": 52.5,
+     "games": 26646,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Tunnel Surveyor",
+     "inclusion": 40.4,
+     "winRate": 52.5,
+     "games": 21148,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Bottomless Pool // Locker Room",
+     "inclusion": 30.8,
+     "winRate": 52.4,
+     "games": 16274,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Ragged Playmate",
+     "inclusion": 15.8,
+     "winRate": 52.2,
+     "games": 8311,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Fear of Being Hunted",
+     "inclusion": 16.1,
+     "winRate": 52.1,
+     "games": 8475,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Intruding Soulrager",
+     "inclusion": 49.2,
+     "winRate": 52.0,
+     "games": 25682,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Fear of Falling",
+     "inclusion": 21.8,
+     "winRate": 52.0,
+     "games": 11400,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Waltz of Rage",
+     "inclusion": 9.9,
+     "winRate": 52.0,
+     "games": 5162,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Norin, Swift Survivalist",
+     "inclusion": 5.2,
+     "winRate": 52.0,
+     "games": 2727,
+     "trophyInclusion": 5.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-10-12",
+    "main": [
+     [
+      1,
+      "Betrayer's Bargain"
+     ],
+     [
+      1,
+      "Boilerbilges Ripper"
+     ],
+     [
+      1,
+      "Cursed Windbreaker"
+     ],
+     [
+      1,
+      "Erratic Apparition"
+     ],
+     [
+      1,
+      "Fear of Missing Out"
+     ],
+     [
+      1,
+      "Floodpits Drowner"
+     ],
+     [
+      1,
+      "Get Out"
+     ],
+     [
+      2,
+      "Glassworks // Shattered Yard"
+     ],
+     [
+      1,
+      "Glimmerburst"
+     ],
+     [
+      1,
+      "Glimmerlight"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Painter's Studio // Defaced Gallery"
+     ],
+     [
+      1,
+      "Peculiar Lighthouse"
+     ],
+     [
+      2,
+      "Piggy Bank"
+     ],
+     [
+      1,
+      "Pyroclasm"
+     ],
+     [
+      1,
+      "Rampaging Soulrager"
+     ],
+     [
+      1,
+      "Roaring Furnace // Steaming Sauna"
+     ],
+     [
+      1,
+      "Scorching Dragonfire"
+     ],
+     [
+      1,
+      "Smoky Lounge // Misty Salon"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Ticket Booth // Tunnel of Hate"
+     ],
+     [
+      1,
+      "Unable to Scream"
+     ],
+     [
+      1,
+      "Underwater Tunnel // Slimy Aquarium"
+     ],
+     [
+      1,
+      "Vanish from Sight"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Bedhead Beastie"
+     ],
+     [
+      1,
+      "Boilerbilges Ripper"
+     ],
+     [
+      1,
+      "Cracked Skull"
+     ],
+     [
+      1,
+      "Fanatic of the Harrowing"
+     ],
+     [
+      1,
+      "Fear of Burning Alive"
+     ],
+     [
+      1,
+      "Give In to Violence"
+     ],
+     [
+      1,
+      "Leyline of Resonance"
+     ],
+     [
+      1,
+      "Ragged Playmate"
+     ],
+     [
+      1,
+      "Strangled Cemetery"
+     ],
+     [
+      2,
+      "Ticket Booth // Tunnel of Hate"
+     ],
+     [
+      1,
+      "Tunnel Surveyor"
+     ],
+     [
+      2,
+      "Turn Inside Out"
+     ],
+     [
+      1,
+      "Vicious Clown"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 48718,
+   "wins": 25615,
+   "winRate": 52.58,
+   "share": 4.81,
+   "drafts": 8512,
+   "trophies": 795,
+   "cards": [
+    {
+     "name": "Overlord of the Mistmoors",
+     "inclusion": 5.3,
+     "winRate": 57.9,
+     "games": 2800,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Valgavoth's Onslaught",
+     "inclusion": 9.9,
+     "winRate": 56.4,
+     "games": 5093,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 5.4,
+     "winRate": 55.3,
+     "games": 2692,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Tyvar, the Pummeler",
+     "inclusion": 7.9,
+     "winRate": 55.1,
+     "games": 4015,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Sheltered by Ghosts",
+     "inclusion": 22.5,
+     "winRate": 55.0,
+     "games": 11364,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Ghostly Dancers",
+     "inclusion": 8.3,
+     "winRate": 54.9,
+     "games": 4219,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Toby, Beastie Befriender",
+     "inclusion": 10.2,
+     "winRate": 54.6,
+     "games": 5075,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Balustrade Wurm",
+     "inclusion": 10.5,
+     "winRate": 54.3,
+     "games": 5249,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 22.4,
+     "winRate": 54.2,
+     "games": 11052,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Unidentified Hovership",
+     "inclusion": 12.9,
+     "winRate": 54.0,
+     "games": 6444,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Dollmaker's Shop // Porcelain Gallery",
+     "inclusion": 5.1,
+     "winRate": 54.0,
+     "games": 2530,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Defiant Survivor",
+     "inclusion": 28.1,
+     "winRate": 53.8,
+     "games": 13929,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Split Up",
+     "inclusion": 9.5,
+     "winRate": 53.7,
+     "games": 4636,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Under the Skin",
+     "inclusion": 23.7,
+     "winRate": 53.6,
+     "games": 11695,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Splitskin Doll",
+     "inclusion": 22.3,
+     "winRate": 53.6,
+     "games": 11011,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Exorcise",
+     "inclusion": 22.0,
+     "winRate": 53.6,
+     "games": 10782,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Twitching Doll",
+     "inclusion": 10.3,
+     "winRate": 53.6,
+     "games": 5120,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Surgical Suite // Hospital Room",
+     "inclusion": 19.9,
+     "winRate": 53.4,
+     "games": 9910,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Veteran Survivor",
+     "inclusion": 25.1,
+     "winRate": 53.3,
+     "games": 12339,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Shardmage's Rescue",
+     "inclusion": 22.0,
+     "winRate": 53.3,
+     "games": 10787,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Reluctant Role Model",
+     "inclusion": 13.7,
+     "winRate": 53.3,
+     "games": 6813,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Optimistic Scavenger",
+     "inclusion": 14.9,
+     "winRate": 53.2,
+     "games": 7344,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Enduring Vitality",
+     "inclusion": 11.3,
+     "winRate": 53.2,
+     "games": 5520,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Trapped in the Screen",
+     "inclusion": 46.6,
+     "winRate": 53.1,
+     "games": 22875,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Jump Scare",
+     "inclusion": 35.2,
+     "winRate": 53.1,
+     "games": 17300,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Glimmer Seeker",
+     "inclusion": 25.4,
+     "winRate": 53.1,
+     "games": 12468,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 25.1,
+     "winRate": 53.1,
+     "games": 12265,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Insidious Fungus",
+     "inclusion": 22.7,
+     "winRate": 53.1,
+     "games": 11106,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Omnivorous Flytrap",
+     "inclusion": 9.2,
+     "winRate": 53.1,
+     "games": 4544,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Fear of Abduction",
+     "inclusion": 21.1,
+     "winRate": 53.0,
+     "games": 10375,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Hushwood Verge",
+     "inclusion": 11.9,
+     "winRate": 53.0,
+     "games": 5770,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Wary Watchdog",
+     "inclusion": 46.9,
+     "winRate": 52.9,
+     "games": 22961,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Unsettling Twins",
+     "inclusion": 38.1,
+     "winRate": 52.9,
+     "games": 18582,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "The Wandering Rescuer",
+     "inclusion": 6.5,
+     "winRate": 52.9,
+     "games": 3175,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Seized from Slumber",
+     "inclusion": 37.7,
+     "winRate": 52.8,
+     "games": 18460,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Spineseeker Centipede",
+     "inclusion": 37.1,
+     "winRate": 52.8,
+     "games": 18103,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Friendly Ghost",
+     "inclusion": 36.3,
+     "winRate": 52.8,
+     "games": 17598,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Fear of Immobility",
+     "inclusion": 33.6,
+     "winRate": 52.8,
+     "games": 16430,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Monstrous Emergence",
+     "inclusion": 51.8,
+     "winRate": 52.7,
+     "games": 25369,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Coordinated Clobbering",
+     "inclusion": 28.7,
+     "winRate": 52.7,
+     "games": 14068,
+     "trophyInclusion": 27.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-09-28",
+    "main": [
+     [
+      1,
+      "Acrobatic Cheerleader"
+     ],
+     [
+      1,
+      "Balustrade Wurm"
+     ],
+     [
+      1,
+      "Baseball Bat"
+     ],
+     [
+      1,
+      "Emerge from the Cocoon"
+     ],
+     [
+      2,
+      "Etched Cornfield"
+     ],
+     [
+      1,
+      "Ethereal Armor"
+     ],
+     [
+      1,
+      "Fear of Surveillance"
+     ],
+     [
+      1,
+      "Flesh Burrower"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Ghostly Dancers"
+     ],
+     [
+      1,
+      "Hardened Escort"
+     ],
+     [
+      1,
+      "Jump Scare"
+     ],
+     [
+      1,
+      "Manifest Dread"
+     ],
+     [
+      1,
+      "Moldering Gym // Weight Room"
+     ],
+     [
+      1,
+      "Monstrous Emergence"
+     ],
+     [
+      1,
+      "Optimistic Scavenger"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Seized from Slumber"
+     ],
+     [
+      1,
+      "Shrewd Storyteller"
+     ],
+     [
+      1,
+      "Slavering Branchsnapper"
+     ],
+     [
+      1,
+      "Splitskin Doll"
+     ],
+     [
+      1,
+      "Surgical Suite // Hospital Room"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      2,
+      "Trapped in the Screen"
+     ],
+     [
+      1,
+      "Tyvar, the Pummeler"
+     ],
+     [
+      1,
+      "Unsettling Twins"
+     ],
+     [
+      1,
+      "Veteran Survivor"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abandoned Campground"
+     ],
+     [
+      1,
+      "Blazemire Verge"
+     ],
+     [
+      1,
+      "Cracked Skull"
+     ],
+     [
+      1,
+      "Daggermaw Megalodon"
+     ],
+     [
+      1,
+      "Emerge from the Cocoon"
+     ],
+     [
+      1,
+      "Floodpits Drowner"
+     ],
+     [
+      3,
+      "Found Footage"
+     ],
+     [
+      1,
+      "Living Phone"
+     ],
+     [
+      2,
+      "Malevolent Chandelier"
+     ],
+     [
+      1,
+      "Overlord of the Balemurk"
+     ],
+     [
+      1,
+      "Pyroclasm"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 40863,
+   "wins": 21108,
+   "winRate": 51.66,
+   "share": 4.04,
+   "drafts": 7312,
+   "trophies": 644,
+   "cards": [
+    {
+     "name": "Unholy Annex // Ritual Chamber",
+     "inclusion": 14.9,
+     "winRate": 56.1,
+     "games": 6486,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Overlord of the Floodpits",
+     "inclusion": 6.9,
+     "winRate": 55.9,
+     "games": 3006,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Overlord of the Balemurk",
+     "inclusion": 6.0,
+     "winRate": 55.1,
+     "games": 2622,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Enduring Curiosity",
+     "inclusion": 13.5,
+     "winRate": 55.0,
+     "games": 5838,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Kaito, Bane of Nightmares",
+     "inclusion": 12.6,
+     "winRate": 54.1,
+     "games": 5328,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Fear of Isolation",
+     "inclusion": 29.0,
+     "winRate": 54.0,
+     "games": 12296,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Glimmerlight",
+     "inclusion": 20.4,
+     "winRate": 54.0,
+     "games": 8675,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Unnerving Grasp",
+     "inclusion": 28.4,
+     "winRate": 53.9,
+     "games": 12075,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Entity Tracker",
+     "inclusion": 13.1,
+     "winRate": 53.8,
+     "games": 5529,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Floodpits Drowner",
+     "inclusion": 28.4,
+     "winRate": 53.4,
+     "games": 11962,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Unstoppable Slasher",
+     "inclusion": 10.8,
+     "winRate": 53.4,
+     "games": 4607,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Abhorrent Oculus",
+     "inclusion": 5.9,
+     "winRate": 53.2,
+     "games": 2472,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Murky Sewer",
+     "inclusion": 46.6,
+     "winRate": 53.1,
+     "games": 19478,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Nowhere to Run",
+     "inclusion": 29.1,
+     "winRate": 53.1,
+     "games": 12088,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Stay Hidden, Stay Silent",
+     "inclusion": 28.5,
+     "winRate": 53.1,
+     "games": 11995,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "inclusion": 29.8,
+     "winRate": 52.9,
+     "games": 12406,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Strangled Cemetery",
+     "inclusion": 5.3,
+     "winRate": 52.9,
+     "games": 2207,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Glimmerburst",
+     "inclusion": 51.4,
+     "winRate": 52.8,
+     "games": 21372,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Lakeside Shack",
+     "inclusion": 5.5,
+     "winRate": 52.8,
+     "games": 2226,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Fear of Infinity",
+     "inclusion": 53.7,
+     "winRate": 52.6,
+     "games": 22263,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Osseous Sticktwister",
+     "inclusion": 22.9,
+     "winRate": 52.6,
+     "games": 9488,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Cynical Loner",
+     "inclusion": 13.0,
+     "winRate": 52.5,
+     "games": 5426,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Silent Hallcreeper",
+     "inclusion": 12.2,
+     "winRate": 52.5,
+     "games": 5087,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Dissection Tools",
+     "inclusion": 6.5,
+     "winRate": 52.5,
+     "games": 2657,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Tunnel Surveyor",
+     "inclusion": 47.2,
+     "winRate": 52.4,
+     "games": 19562,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Don't Make a Sound",
+     "inclusion": 24.1,
+     "winRate": 52.4,
+     "games": 9967,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Final Vengeance",
+     "inclusion": 40.9,
+     "winRate": 52.2,
+     "games": 16839,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Vanish from Sight",
+     "inclusion": 31.9,
+     "winRate": 52.2,
+     "games": 13168,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Cursed Windbreaker",
+     "inclusion": 17.7,
+     "winRate": 52.2,
+     "games": 7296,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Duskmourn's Domination",
+     "inclusion": 17.1,
+     "winRate": 52.2,
+     "games": 7077,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Unable to Scream",
+     "inclusion": 54.7,
+     "winRate": 52.1,
+     "games": 22504,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Skullsnap Nuisance",
+     "inclusion": 51.4,
+     "winRate": 52.1,
+     "games": 21124,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Gloomlake Verge",
+     "inclusion": 12.7,
+     "winRate": 52.1,
+     "games": 5267,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Murder",
+     "inclusion": 48.5,
+     "winRate": 52.0,
+     "games": 19956,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Fear of Falling",
+     "inclusion": 27.8,
+     "winRate": 51.9,
+     "games": 11494,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Bottomless Pool // Locker Room",
+     "inclusion": 28.4,
+     "winRate": 51.8,
+     "games": 11726,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Get Out",
+     "inclusion": 22.1,
+     "winRate": 51.8,
+     "games": 8971,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Winter's Intervention",
+     "inclusion": 43.1,
+     "winRate": 51.7,
+     "games": 17788,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Twist Reality",
+     "inclusion": 26.2,
+     "winRate": 51.7,
+     "games": 10730,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Sporogenic Infection",
+     "inclusion": 25.1,
+     "winRate": 51.7,
+     "games": 10254,
+     "trophyInclusion": 24.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2024-09-25",
+    "main": [
+     [
+      1,
+      "Appendage Amalgam"
+     ],
+     [
+      1,
+      "Cursed Windbreaker"
+     ],
+     [
+      1,
+      "Derelict Attic // Widow's Walk"
+     ],
+     [
+      1,
+      "Enduring Curiosity"
+     ],
+     [
+      1,
+      "Fear of Infinity"
+     ],
+     [
+      1,
+      "Fear of Isolation"
+     ],
+     [
+      2,
+      "Fear of Lost Teeth"
+     ],
+     [
+      1,
+      "Fear of the Dark"
+     ],
+     [
+      1,
+      "Glimmerburst"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Kaito, Bane of Nightmares"
+     ],
+     [
+      1,
+      "Murder"
+     ],
+     [
+      1,
+      "Murky Sewer"
+     ],
+     [
+      1,
+      "Nowhere to Run"
+     ],
+     [
+      1,
+      "Osseous Sticktwister"
+     ],
+     [
+      1,
+      "Skullsnap Nuisance"
+     ],
+     [
+      1,
+      "Stalked Researcher"
+     ],
+     [
+      1,
+      "Stay Hidden, Stay Silent"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terramorphic Expanse"
+     ],
+     [
+      1,
+      "Tunnel Surveyor"
+     ],
+     [
+      1,
+      "Underwater Tunnel // Slimy Aquarium"
+     ],
+     [
+      1,
+      "Unnerving Grasp"
+     ],
+     [
+      1,
+      "Vanish from Sight"
+     ],
+     [
+      1,
+      "Vile Mutilator"
+     ],
+     [
+      1,
+      "Winter's Intervention"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Betrayer's Bargain"
+     ],
+     [
+      1,
+      "Cackling Slasher"
+     ],
+     [
+      1,
+      "Cathartic Parting"
+     ],
+     [
+      1,
+      "Cautious Survivor"
+     ],
+     [
+      1,
+      "Cryptid Inspector"
+     ],
+     [
+      1,
+      "Daggermaw Megalodon"
+     ],
+     [
+      1,
+      "Defiant Survivor"
+     ],
+     [
+      1,
+      "Fear of the Dark"
+     ],
+     [
+      1,
+      "Found Footage"
+     ],
+     [
+      1,
+      "Frantic Strength"
+     ],
+     [
+      1,
+      "Grab the Prize"
+     ],
+     [
+      1,
+      "Greenhouse // Rickety Gazebo"
+     ],
+     [
+      1,
+      "Horrid Vigor"
+     ],
+     [
+      1,
+      "Malevolent Chandelier"
+     ],
+     [
+      1,
+      "Spineseeker Centipede"
+     ],
+     [
+      1,
+      "Vanish from Sight"
+     ],
+     [
+      1,
+      "Winter's Intervention"
+     ]
+    ]
+   }
+  }
+ ]
+}

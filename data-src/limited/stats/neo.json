@@ -1,0 +1,4688 @@
+{
+ "set": "neo",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.NEO.PremierDraft.csv.gz",
+ "lastModified": "Sun, 13 Mar 2022 05:55:59 GMT",
+ "colorsDerived": false,
+ "first": "2022-02-10",
+ "last": "2022-03-11",
+ "games": 630450,
+ "drafts": 106250,
+ "winRate": 55.6,
+ "combos": [
+  {
+   "colors": "WG",
+   "games": 96936,
+   "wins": 54640,
+   "winRate": 56.37,
+   "share": 15.38,
+   "drafts": 16149,
+   "trophies": 2357,
+   "cards": [
+    {
+     "name": "Farewell",
+     "inclusion": 7.7,
+     "winRate": 60.6,
+     "games": 7850,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "The Restoration of Eiganjo",
+     "inclusion": 9.2,
+     "winRate": 59.2,
+     "games": 9056,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Boseiju Reaches Skyward",
+     "inclusion": 34.5,
+     "winRate": 58.6,
+     "games": 34440,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Blossom Prancer",
+     "inclusion": 27.8,
+     "winRate": 58.6,
+     "games": 27938,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Kyodai, Soul of Kamigawa",
+     "inclusion": 7.5,
+     "winRate": 58.6,
+     "games": 7412,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Kami of Transience",
+     "inclusion": 10.6,
+     "winRate": 58.5,
+     "games": 10536,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Invoke the Ancients",
+     "inclusion": 8.7,
+     "winRate": 58.4,
+     "games": 8684,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Teachings of the Kirin",
+     "inclusion": 8.3,
+     "winRate": 58.4,
+     "games": 8327,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Kappa Tech-Wrecker",
+     "inclusion": 24.3,
+     "winRate": 58.3,
+     "games": 24190,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Touch the Spirit Realm",
+     "inclusion": 23.0,
+     "winRate": 58.1,
+     "games": 23001,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 9.8,
+     "winRate": 57.9,
+     "games": 9725,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Jukai Naturalist",
+     "inclusion": 40.6,
+     "winRate": 57.7,
+     "games": 40160,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Shigeki, Jukai Visionary",
+     "inclusion": 9.3,
+     "winRate": 57.7,
+     "games": 9126,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Eiganjo, Seat of the Empire",
+     "inclusion": 6.6,
+     "winRate": 57.7,
+     "games": 6538,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Spirited Companion",
+     "inclusion": 55.3,
+     "winRate": 57.6,
+     "games": 54459,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Generous Visitor",
+     "inclusion": 29.9,
+     "winRate": 57.6,
+     "games": 29612,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Spinning Wheel Kick",
+     "inclusion": 21.4,
+     "winRate": 57.6,
+     "games": 21115,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Blossoming Sands",
+     "inclusion": 30.9,
+     "winRate": 57.3,
+     "games": 30369,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Weaver of Harmony",
+     "inclusion": 10.3,
+     "winRate": 57.3,
+     "games": 10090,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Imperial Oath",
+     "inclusion": 44.7,
+     "winRate": 57.2,
+     "games": 43706,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Michiko's Reign of Truth",
+     "inclusion": 34.7,
+     "winRate": 57.2,
+     "games": 34160,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "The Fall of Lord Konda",
+     "inclusion": 27.6,
+     "winRate": 57.2,
+     "games": 27142,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Spring-Leaf Avenger",
+     "inclusion": 8.0,
+     "winRate": 57.2,
+     "games": 7816,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "inclusion": 30.1,
+     "winRate": 57.1,
+     "games": 29552,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 5.6,
+     "winRate": 57.1,
+     "games": 5449,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Season of Renewal",
+     "inclusion": 52.1,
+     "winRate": 57.0,
+     "games": 50766,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Fang of Shigeki",
+     "inclusion": 50.4,
+     "winRate": 57.0,
+     "games": 49269,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Commune with Spirits",
+     "inclusion": 38.4,
+     "winRate": 57.0,
+     "games": 37403,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "March of Otherworldly Light",
+     "inclusion": 7.6,
+     "winRate": 57.0,
+     "games": 7405,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Jukai Preserver",
+     "inclusion": 49.8,
+     "winRate": 56.9,
+     "games": 48835,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 8.0,
+     "winRate": 56.9,
+     "games": 7814,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Lion Sash",
+     "inclusion": 7.4,
+     "winRate": 56.9,
+     "games": 7299,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Master's Rebuke",
+     "inclusion": 45.5,
+     "winRate": 56.8,
+     "games": 44271,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Tales of Master Seshiro",
+     "inclusion": 53.7,
+     "winRate": 56.7,
+     "games": 52523,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Tamiyo's Safekeeping",
+     "inclusion": 25.2,
+     "winRate": 56.7,
+     "games": 24574,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Era of Enlightenment",
+     "inclusion": 50.4,
+     "winRate": 56.6,
+     "games": 48969,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Fade into Antiquity",
+     "inclusion": 48.3,
+     "winRate": 56.6,
+     "games": 46907,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Golden-Tail Disciple",
+     "inclusion": 43.4,
+     "winRate": 56.6,
+     "games": 42104,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Uncharted Haven",
+     "inclusion": 31.0,
+     "winRate": 56.6,
+     "games": 30136,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Banishing Slash",
+     "inclusion": 18.0,
+     "winRate": 56.6,
+     "games": 17551,
+     "trophyInclusion": 17.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-02-11",
+    "main": [
+     [
+      1,
+      "Azusa's Many Journeys"
+     ],
+     [
+      1,
+      "Bamboo Grove Archer"
+     ],
+     [
+      1,
+      "Blossoming Sands"
+     ],
+     [
+      1,
+      "Ecologist's Terrarium"
+     ],
+     [
+      1,
+      "Era of Enlightenment"
+     ],
+     [
+      1,
+      "Fade into Antiquity"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Generous Visitor"
+     ],
+     [
+      1,
+      "Geothermal Kami"
+     ],
+     [
+      1,
+      "Golden-Tail Disciple"
+     ],
+     [
+      1,
+      "Greater Tanuki"
+     ],
+     [
+      1,
+      "Intercessor's Arrest"
+     ],
+     [
+      1,
+      "Invigorating Hot Spring"
+     ],
+     [
+      1,
+      "Jukai Naturalist"
+     ],
+     [
+      1,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Jukai Trainee"
+     ],
+     [
+      1,
+      "Kami of Transience"
+     ],
+     [
+      1,
+      "Master's Rebuke"
+     ],
+     [
+      1,
+      "Michiko's Reign of Truth"
+     ],
+     [
+      1,
+      "Mothrider Patrol"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Roaring Earth"
+     ],
+     [
+      1,
+      "Season of Renewal"
+     ],
+     [
+      1,
+      "Spirited Companion"
+     ],
+     [
+      1,
+      "Sunblade Samurai"
+     ],
+     [
+      1,
+      "Tales of Master Seshiro"
+     ],
+     [
+      1,
+      "Uncharted Haven"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Armguard Familiar"
+     ],
+     [
+      1,
+      "Befriending the Moths"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      1,
+      "Dokuchi Shadow-Walker"
+     ],
+     [
+      1,
+      "Dragonspark Reactor"
+     ],
+     [
+      1,
+      "Gift of Wrath"
+     ],
+     [
+      1,
+      "Grafted Growth"
+     ],
+     [
+      1,
+      "Jukai Trainee"
+     ],
+     [
+      2,
+      "Lucky Offering"
+     ],
+     [
+      1,
+      "Mirror Box"
+     ],
+     [
+      1,
+      "Scrapyard Steelbreaker"
+     ],
+     [
+      1,
+      "Skyswimmer Koi"
+     ],
+     [
+      1,
+      "The Fall of Lord Konda"
+     ],
+     [
+      1,
+      "Thundersteel Colossus"
+     ],
+     [
+      1,
+      "Towashi Songshaper"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ],
+     [
+      1,
+      "Webspinner Cuff"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 85534,
+   "wins": 49111,
+   "winRate": 57.42,
+   "share": 13.57,
+   "drafts": 14121,
+   "trophies": 2298,
+   "cards": [
+    {
+     "name": "Inventive Iteration",
+     "inclusion": 8.6,
+     "winRate": 62.0,
+     "games": 7825,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Biting-Palm Ninja",
+     "inclusion": 9.2,
+     "winRate": 60.2,
+     "games": 8261,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Tatsunari, Toad Rider",
+     "inclusion": 6.9,
+     "winRate": 60.1,
+     "games": 6082,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Life of Toshiro Umezawa",
+     "inclusion": 33.5,
+     "winRate": 59.9,
+     "games": 29755,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 14.7,
+     "winRate": 59.6,
+     "games": 12908,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Suit Up",
+     "inclusion": 29.4,
+     "winRate": 59.5,
+     "games": 25828,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Okiba Reckoner Raid",
+     "inclusion": 57.7,
+     "winRate": 59.3,
+     "games": 50699,
+     "trophyInclusion": 68.5
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 9.3,
+     "winRate": 59.1,
+     "games": 8208,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Soul Transfer",
+     "inclusion": 8.0,
+     "winRate": 59.1,
+     "games": 6980,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Kaito Shizuki",
+     "inclusion": 6.9,
+     "winRate": 59.1,
+     "games": 6082,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Behold the Unspeakable",
+     "inclusion": 35.8,
+     "winRate": 59.0,
+     "games": 31438,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 36.4,
+     "winRate": 58.8,
+     "games": 31805,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "Mindlink Mech",
+     "inclusion": 7.6,
+     "winRate": 58.7,
+     "games": 6602,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Kami of Terrible Secrets",
+     "inclusion": 30.5,
+     "winRate": 58.6,
+     "games": 26497,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Clawing Torment",
+     "inclusion": 27.6,
+     "winRate": 58.6,
+     "games": 24086,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "High-Speed Hoverbike",
+     "inclusion": 12.6,
+     "winRate": 58.6,
+     "games": 10966,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "The Long Reach of Night",
+     "inclusion": 26.1,
+     "winRate": 58.5,
+     "games": 22677,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Dockside Chef",
+     "inclusion": 19.5,
+     "winRate": 58.5,
+     "games": 16851,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "The Reality Chip",
+     "inclusion": 8.9,
+     "winRate": 58.5,
+     "games": 7732,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Network Disruptor",
+     "inclusion": 64.5,
+     "winRate": 58.4,
+     "games": 56075,
+     "trophyInclusion": 71.0
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 53.6,
+     "winRate": 58.4,
+     "games": 46584,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Moon-Circuit Hacker",
+     "inclusion": 62.5,
+     "winRate": 58.3,
+     "games": 54156,
+     "trophyInclusion": 67.2
+    },
+    {
+     "name": "The Modern Age",
+     "inclusion": 59.1,
+     "winRate": 58.3,
+     "games": 51216,
+     "trophyInclusion": 63.2
+    },
+    {
+     "name": "Moonsnare Specialist",
+     "inclusion": 60.9,
+     "winRate": 58.2,
+     "games": 52581,
+     "trophyInclusion": 64.2
+    },
+    {
+     "name": "Mukotai Ambusher",
+     "inclusion": 49.5,
+     "winRate": 58.2,
+     "games": 42706,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Silver-Fur Master",
+     "inclusion": 41.3,
+     "winRate": 58.2,
+     "games": 35684,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Tribute to Horobi",
+     "inclusion": 7.7,
+     "winRate": 58.1,
+     "games": 6702,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Twisted Embrace",
+     "inclusion": 45.3,
+     "winRate": 57.9,
+     "games": 39036,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Nezumi Prowler",
+     "inclusion": 25.0,
+     "winRate": 57.9,
+     "games": 21471,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "inclusion": 6.6,
+     "winRate": 57.9,
+     "games": 5616,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Assassin's Ink",
+     "inclusion": 21.1,
+     "winRate": 57.8,
+     "games": 18157,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Inkrise Infiltrator",
+     "inclusion": 46.6,
+     "winRate": 57.7,
+     "games": 40096,
+     "trophyInclusion": 48.0
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 29.0,
+     "winRate": 57.7,
+     "games": 25042,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Prosperous Thief",
+     "inclusion": 28.5,
+     "winRate": 57.7,
+     "games": 24588,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Gravelighter",
+     "inclusion": 21.0,
+     "winRate": 57.7,
+     "games": 17954,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Dokuchi Shadow-Walker",
+     "inclusion": 45.3,
+     "winRate": 57.6,
+     "games": 38796,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Lethal Exploit",
+     "inclusion": 43.2,
+     "winRate": 57.6,
+     "games": 37141,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Containment Construct",
+     "inclusion": 13.3,
+     "winRate": 57.5,
+     "games": 11356,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "March of Wretched Sorrow",
+     "inclusion": 7.7,
+     "winRate": 57.5,
+     "games": 6507,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "inclusion": 7.3,
+     "winRate": 57.5,
+     "games": 6223,
+     "trophyInclusion": 7.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-03-03",
+    "main": [
+     [
+      1,
+      "Dokuchi Shadow-Walker"
+     ],
+     [
+      1,
+      "Gravelighter"
+     ],
+     [
+      1,
+      "Inkrise Infiltrator"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Kotose, the Silent Spider"
+     ],
+     [
+      1,
+      "Life of Toshiro Umezawa"
+     ],
+     [
+      1,
+      "Moon-Circuit Hacker"
+     ],
+     [
+      2,
+      "Moonsnare Specialist"
+     ],
+     [
+      1,
+      "Mukotai Ambusher"
+     ],
+     [
+      1,
+      "Network Disruptor"
+     ],
+     [
+      1,
+      "Nezumi Prowler"
+     ],
+     [
+      2,
+      "Okiba Reckoner Raid"
+     ],
+     [
+      1,
+      "Otawara, Soaring City"
+     ],
+     [
+      1,
+      "Saiba Trespassers"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      2,
+      "Silver-Fur Master"
+     ],
+     [
+      1,
+      "Soul Transfer"
+     ],
+     [
+      1,
+      "Suit Up"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tamiyo's Compleation"
+     ],
+     [
+      1,
+      "The Modern Age"
+     ],
+     [
+      1,
+      "Twisted Embrace"
+     ],
+     [
+      1,
+      "Uncharted Haven"
+     ],
+     [
+      2,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Akki Ember-Keeper"
+     ],
+     [
+      1,
+      "Bronze Cudgels"
+     ],
+     [
+      1,
+      "Dokuchi Shadow-Walker"
+     ],
+     [
+      1,
+      "Ecologist's Terrarium"
+     ],
+     [
+      1,
+      "Enormous Energy Blade"
+     ],
+     [
+      1,
+      "Futurist Operative"
+     ],
+     [
+      1,
+      "Iron Apprentice"
+     ],
+     [
+      1,
+      "Lizard Blades"
+     ],
+     [
+      2,
+      "Mech Hangar"
+     ],
+     [
+      1,
+      "Moonfolk Puzzlemaker"
+     ],
+     [
+      1,
+      "Planar Incision"
+     ],
+     [
+      1,
+      "Reality Heist"
+     ],
+     [
+      1,
+      "Saiba Trespassers"
+     ],
+     [
+      1,
+      "Short Circuit"
+     ],
+     [
+      1,
+      "Thundersteel Colossus"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 76839,
+   "wins": 43360,
+   "winRate": 56.43,
+   "share": 12.19,
+   "drafts": 12781,
+   "trophies": 1889,
+   "cards": [
+    {
+     "name": "Kami of Transience",
+     "inclusion": 7.8,
+     "winRate": 59.5,
+     "games": 6346,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Kappa Tech-Wrecker",
+     "inclusion": 28.5,
+     "winRate": 59.1,
+     "games": 22637,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Tatsunari, Toad Rider",
+     "inclusion": 9.3,
+     "winRate": 58.9,
+     "games": 7486,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Blossom Prancer",
+     "inclusion": 28.9,
+     "winRate": 58.7,
+     "games": 22809,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Invoke the Ancients",
+     "inclusion": 8.5,
+     "winRate": 58.7,
+     "games": 6688,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Life of Toshiro Umezawa",
+     "inclusion": 35.8,
+     "winRate": 58.4,
+     "games": 28435,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "Teachings of the Kirin",
+     "inclusion": 8.6,
+     "winRate": 58.3,
+     "games": 6779,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Boseiju Reaches Skyward",
+     "inclusion": 35.5,
+     "winRate": 58.1,
+     "games": 27918,
+     "trophyInclusion": 42.0
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 13.6,
+     "winRate": 58.1,
+     "games": 10610,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Spring-Leaf Avenger",
+     "inclusion": 8.9,
+     "winRate": 57.7,
+     "games": 6930,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Fang of Shigeki",
+     "inclusion": 52.7,
+     "winRate": 57.5,
+     "games": 41253,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Okiba Reckoner Raid",
+     "inclusion": 56.6,
+     "winRate": 57.4,
+     "games": 44134,
+     "trophyInclusion": 62.3
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "inclusion": 29.3,
+     "winRate": 57.4,
+     "games": 22696,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 8.9,
+     "winRate": 57.4,
+     "games": 6864,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Gloomshrieker",
+     "inclusion": 44.8,
+     "winRate": 57.3,
+     "games": 34962,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "The Long Reach of Night",
+     "inclusion": 34.5,
+     "winRate": 57.3,
+     "games": 26829,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Generous Visitor",
+     "inclusion": 21.4,
+     "winRate": 57.3,
+     "games": 16773,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "inclusion": 6.5,
+     "winRate": 57.3,
+     "games": 5012,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Twisted Embrace",
+     "inclusion": 51.2,
+     "winRate": 57.2,
+     "games": 39806,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Master's Rebuke",
+     "inclusion": 45.8,
+     "winRate": 57.2,
+     "games": 35701,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Shigeki, Jukai Visionary",
+     "inclusion": 9.5,
+     "winRate": 57.2,
+     "games": 7333,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Biting-Palm Ninja",
+     "inclusion": 7.5,
+     "winRate": 57.2,
+     "games": 5875,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 48.6,
+     "winRate": 57.0,
+     "games": 37712,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 33.1,
+     "winRate": 57.0,
+     "games": 25587,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Tamiyo's Safekeeping",
+     "inclusion": 25.1,
+     "winRate": 57.0,
+     "games": 19468,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 18.9,
+     "winRate": 57.0,
+     "games": 14604,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Harmonious Emergence",
+     "inclusion": 26.8,
+     "winRate": 56.9,
+     "games": 20801,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Boseiju, Who Endures",
+     "inclusion": 7.0,
+     "winRate": 56.9,
+     "games": 5365,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Weaver of Harmony",
+     "inclusion": 7.8,
+     "winRate": 56.8,
+     "games": 6083,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Commune with Spirits",
+     "inclusion": 33.2,
+     "winRate": 56.7,
+     "games": 25652,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Spinning Wheel Kick",
+     "inclusion": 22.4,
+     "winRate": 56.7,
+     "games": 17297,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Season of Renewal",
+     "inclusion": 51.5,
+     "winRate": 56.6,
+     "games": 39595,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Fade into Antiquity",
+     "inclusion": 51.4,
+     "winRate": 56.6,
+     "games": 39727,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Dockside Chef",
+     "inclusion": 19.6,
+     "winRate": 56.6,
+     "games": 15042,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Tales of Master Seshiro",
+     "inclusion": 53.3,
+     "winRate": 56.5,
+     "games": 41091,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Jukai Preserver",
+     "inclusion": 47.2,
+     "winRate": 56.5,
+     "games": 36386,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Lethal Exploit",
+     "inclusion": 38.2,
+     "winRate": 56.5,
+     "games": 29462,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Assassin's Ink",
+     "inclusion": 21.2,
+     "winRate": 56.5,
+     "games": 16326,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Gravelighter",
+     "inclusion": 18.8,
+     "winRate": 56.5,
+     "games": 14387,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Soul Transfer",
+     "inclusion": 8.3,
+     "winRate": 56.5,
+     "games": 6391,
+     "trophyInclusion": 8.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-02-14",
+    "main": [
+     [
+      2,
+      "Azusa's Many Journeys"
+     ],
+     [
+      1,
+      "Boseiju Reaches Skyward"
+     ],
+     [
+      1,
+      "Boseiju, Who Endures"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      1,
+      "Fade into Antiquity"
+     ],
+     [
+      1,
+      "Fang of Shigeki"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Geothermal Kami"
+     ],
+     [
+      1,
+      "Gloomshrieker"
+     ],
+     [
+      1,
+      "Inkrise Infiltrator"
+     ],
+     [
+      2,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Kami of Terrible Secrets"
+     ],
+     [
+      1,
+      "Kappa Tech-Wrecker"
+     ],
+     [
+      2,
+      "Life of Toshiro Umezawa"
+     ],
+     [
+      1,
+      "Okiba Reckoner Raid"
+     ],
+     [
+      1,
+      "Season of Renewal"
+     ],
+     [
+      1,
+      "Spring-Leaf Avenger"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tales of Master Seshiro"
+     ],
+     [
+      1,
+      "Tamiyo's Safekeeping"
+     ],
+     [
+      1,
+      "Towashi Guide-Bot"
+     ],
+     [
+      1,
+      "Twisted Embrace"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Automated Artificer"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      1,
+      "Debt to the Kami"
+     ],
+     [
+      2,
+      "Dokuchi Shadow-Walker"
+     ],
+     [
+      1,
+      "Eiganjo Exemplar"
+     ],
+     [
+      1,
+      "Go-Shintai of Hidden Cruelty"
+     ],
+     [
+      1,
+      "Grafted Growth"
+     ],
+     [
+      1,
+      "Imperial Oath"
+     ],
+     [
+      2,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Jukai Trainee"
+     ],
+     [
+      1,
+      "Moonsnare Prototype"
+     ],
+     [
+      1,
+      "Nezumi Bladeblesser"
+     ],
+     [
+      1,
+      "Return to Action"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Satsuki, the Living Lore"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Short Circuit"
+     ],
+     [
+      1,
+      "Thundersteel Colossus"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 62068,
+   "wins": 35334,
+   "winRate": 56.93,
+   "share": 9.85,
+   "drafts": 10211,
+   "trophies": 1540,
+   "cards": [
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "inclusion": 10.3,
+     "winRate": 61.5,
+     "games": 6775,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Life of Toshiro Umezawa",
+     "inclusion": 30.5,
+     "winRate": 59.1,
+     "games": 19592,
+     "trophyInclusion": 39.2
+    },
+    {
+     "name": "Kumano Faces Kakkazan",
+     "inclusion": 35.4,
+     "winRate": 59.0,
+     "games": 22572,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Thundering Raiju",
+     "inclusion": 9.6,
+     "winRate": 59.0,
+     "games": 6144,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Okiba Reckoner Raid",
+     "inclusion": 50.7,
+     "winRate": 58.9,
+     "games": 32370,
+     "trophyInclusion": 59.9
+    },
+    {
+     "name": "Gravelighter",
+     "inclusion": 19.3,
+     "winRate": 58.8,
+     "games": 12326,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Clawing Torment",
+     "inclusion": 25.4,
+     "winRate": 58.5,
+     "games": 16123,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Patchwork Automaton",
+     "inclusion": 22.0,
+     "winRate": 58.5,
+     "games": 13940,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Biting-Palm Ninja",
+     "inclusion": 7.4,
+     "winRate": 58.5,
+     "games": 4691,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Twinshot Sniper",
+     "inclusion": 29.9,
+     "winRate": 58.3,
+     "games": 18964,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "High-Speed Hoverbike",
+     "inclusion": 13.3,
+     "winRate": 58.0,
+     "games": 8339,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 16.6,
+     "winRate": 57.9,
+     "games": 10497,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Experimental Synthesizer",
+     "inclusion": 60.6,
+     "winRate": 57.8,
+     "games": 37996,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Oni-Cult Anvil",
+     "inclusion": 52.9,
+     "winRate": 57.8,
+     "games": 33115,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Kami's Flare",
+     "inclusion": 51.2,
+     "winRate": 57.8,
+     "games": 32203,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Iron Apprentice",
+     "inclusion": 36.1,
+     "winRate": 57.8,
+     "games": 22586,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Seismic Wave",
+     "inclusion": 22.6,
+     "winRate": 57.8,
+     "games": 14179,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Lizard Blades",
+     "inclusion": 9.1,
+     "winRate": 57.7,
+     "games": 5645,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Sokenzan Smelter",
+     "inclusion": 36.3,
+     "winRate": 57.6,
+     "games": 22753,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Rabbit Battery",
+     "inclusion": 30.1,
+     "winRate": 57.6,
+     "games": 18955,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 29.1,
+     "winRate": 57.6,
+     "games": 18188,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 53.2,
+     "winRate": 57.5,
+     "games": 33295,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Nezumi Prowler",
+     "inclusion": 21.4,
+     "winRate": 57.5,
+     "games": 13381,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Kami of Terrible Secrets",
+     "inclusion": 18.0,
+     "winRate": 57.5,
+     "games": 11331,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "inclusion": 7.4,
+     "winRate": 57.4,
+     "games": 4556,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Voltage Surge",
+     "inclusion": 55.2,
+     "winRate": 57.3,
+     "games": 34504,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Towashi Songshaper",
+     "inclusion": 56.5,
+     "winRate": 57.2,
+     "games": 35161,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "The Long Reach of Night",
+     "inclusion": 18.9,
+     "winRate": 57.2,
+     "games": 11888,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Mukotai Soulripper",
+     "inclusion": 8.3,
+     "winRate": 57.2,
+     "games": 5165,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Simian Sling",
+     "inclusion": 55.0,
+     "winRate": 57.1,
+     "games": 34238,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Ironhoof Boar",
+     "inclusion": 46.8,
+     "winRate": 57.1,
+     "games": 29153,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Unstoppable Ogre",
+     "inclusion": 39.0,
+     "winRate": 57.1,
+     "games": 24108,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Papercraft Decoy",
+     "inclusion": 24.9,
+     "winRate": 57.0,
+     "games": 15403,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Tribute to Horobi",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 4970,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Dockside Chef",
+     "inclusion": 24.5,
+     "winRate": 56.9,
+     "games": 15173,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Twisted Embrace",
+     "inclusion": 40.9,
+     "winRate": 56.8,
+     "games": 25423,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Reinforced Ronin",
+     "inclusion": 23.6,
+     "winRate": 56.8,
+     "games": 14583,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Brute Suit",
+     "inclusion": 13.3,
+     "winRate": 56.8,
+     "games": 8212,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Goro-Goro, Disciple of Ryusei",
+     "inclusion": 9.4,
+     "winRate": 56.8,
+     "games": 5793,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Mukotai Ambusher",
+     "inclusion": 35.6,
+     "winRate": 56.7,
+     "games": 21915,
+     "trophyInclusion": 33.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-02-17",
+    "main": [
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Chainflail Centipede"
+     ],
+     [
+      1,
+      "Dockside Chef"
+     ],
+     [
+      1,
+      "Dragonspark Reactor"
+     ],
+     [
+      1,
+      "Experimental Synthesizer"
+     ],
+     [
+      1,
+      "Iron Apprentice"
+     ],
+     [
+      1,
+      "Kami's Flare"
+     ],
+     [
+      1,
+      "Kumano Faces Kakkazan"
+     ],
+     [
+      1,
+      "Lethal Exploit"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Okiba Reckoner Raid"
+     ],
+     [
+      2,
+      "Oni-Cult Anvil"
+     ],
+     [
+      1,
+      "Patchwork Automaton"
+     ],
+     [
+      1,
+      "Scrapyard Steelbreaker"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      2,
+      "Simian Sling"
+     ],
+     [
+      1,
+      "Sokenzan Smelter"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Towashi Songshaper"
+     ],
+     [
+      1,
+      "Twinshot Sniper"
+     ],
+     [
+      1,
+      "Uncharted Haven"
+     ],
+     [
+      1,
+      "Undercity Scrounger"
+     ],
+     [
+      2,
+      "Unstoppable Ogre"
+     ],
+     [
+      2,
+      "Virus Beetle"
+     ],
+     [
+      1,
+      "Voltage Surge"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Akki Ronin"
+     ],
+     [
+      1,
+      "Gift of Wrath"
+     ],
+     [
+      1,
+      "Go-Shintai of Ancient Wars"
+     ],
+     [
+      1,
+      "Heiko Yamazaki, the General"
+     ],
+     [
+      1,
+      "Ironhoof Boar"
+     ],
+     [
+      1,
+      "Kami of Industry"
+     ],
+     [
+      1,
+      "Moonfolk Puzzlemaker"
+     ],
+     [
+      1,
+      "Network Disruptor"
+     ],
+     [
+      1,
+      "Reality Heist"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Scrapyard Steelbreaker"
+     ],
+     [
+      1,
+      "Shrine Steward"
+     ],
+     [
+      1,
+      "Simian Sling"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Tempered in Solitude"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 47577,
+   "wins": 26434,
+   "winRate": 55.56,
+   "share": 7.55,
+   "drafts": 8046,
+   "trophies": 1069,
+   "cards": [
+    {
+     "name": "Circuit Mender",
+     "inclusion": 13.6,
+     "winRate": 58.8,
+     "games": 6833,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Inventive Iteration",
+     "inclusion": 10.6,
+     "winRate": 58.7,
+     "games": 5326,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "The Reality Chip",
+     "inclusion": 10.6,
+     "winRate": 58.6,
+     "games": 5235,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Kappa Tech-Wrecker",
+     "inclusion": 30.0,
+     "winRate": 58.4,
+     "games": 14896,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Teachings of the Kirin",
+     "inclusion": 7.6,
+     "winRate": 58.2,
+     "games": 3789,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Behold the Unspeakable",
+     "inclusion": 46.4,
+     "winRate": 58.0,
+     "games": 22811,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Blossom Prancer",
+     "inclusion": 29.0,
+     "winRate": 58.0,
+     "games": 14300,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Kami of Transience",
+     "inclusion": 7.4,
+     "winRate": 57.7,
+     "games": 3615,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Boseiju Reaches Skyward",
+     "inclusion": 36.4,
+     "winRate": 57.6,
+     "games": 17933,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Invoke the Ancients",
+     "inclusion": 9.6,
+     "winRate": 57.6,
+     "games": 4720,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Tamiyo's Safekeeping",
+     "inclusion": 24.8,
+     "winRate": 57.5,
+     "games": 12006,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Tameshi, Reality Architect",
+     "inclusion": 6.8,
+     "winRate": 57.2,
+     "games": 3285,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Generous Visitor",
+     "inclusion": 19.8,
+     "winRate": 57.1,
+     "games": 9636,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Imperial Oath",
+     "inclusion": 8.3,
+     "winRate": 57.1,
+     "games": 3974,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Kairi, the Swirling Sky",
+     "inclusion": 5.7,
+     "winRate": 57.1,
+     "games": 2790,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Shigeki, Jukai Visionary",
+     "inclusion": 9.4,
+     "winRate": 57.0,
+     "games": 4555,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Spinning Wheel Kick",
+     "inclusion": 23.1,
+     "winRate": 56.7,
+     "games": 11220,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 7.0,
+     "winRate": 56.7,
+     "games": 3381,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "The Modern Age",
+     "inclusion": 64.6,
+     "winRate": 56.6,
+     "games": 31044,
+     "trophyInclusion": 70.3
+    },
+    {
+     "name": "Fang of Shigeki",
+     "inclusion": 52.3,
+     "winRate": 56.6,
+     "games": 25303,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Blossoming Sands",
+     "inclusion": 8.1,
+     "winRate": 56.6,
+     "games": 3847,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Spring-Leaf Avenger",
+     "inclusion": 8.8,
+     "winRate": 56.5,
+     "games": 4275,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 8.7,
+     "winRate": 56.5,
+     "games": 4182,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Season of Renewal",
+     "inclusion": 50.3,
+     "winRate": 56.4,
+     "games": 24172,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Master's Rebuke",
+     "inclusion": 49.3,
+     "winRate": 56.4,
+     "games": 23769,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "inclusion": 28.6,
+     "winRate": 56.4,
+     "games": 13787,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Jukai Trainee",
+     "inclusion": 32.5,
+     "winRate": 56.3,
+     "games": 15770,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Weaver of Harmony",
+     "inclusion": 8.0,
+     "winRate": 56.3,
+     "games": 3847,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 36.5,
+     "winRate": 56.2,
+     "games": 17519,
+     "trophyInclusion": 39.1
+    },
+    {
+     "name": "Colossal Skyturtle",
+     "inclusion": 44.5,
+     "winRate": 56.1,
+     "games": 21365,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Bamboo Grove Archer",
+     "inclusion": 41.1,
+     "winRate": 56.0,
+     "games": 19699,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Commune with Spirits",
+     "inclusion": 29.4,
+     "winRate": 56.0,
+     "games": 14075,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Planar Incision",
+     "inclusion": 6.7,
+     "winRate": 56.0,
+     "games": 3192,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Moon-Circuit Hacker",
+     "inclusion": 44.3,
+     "winRate": 55.9,
+     "games": 21121,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Harmonious Emergence",
+     "inclusion": 23.0,
+     "winRate": 55.9,
+     "games": 10882,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 20.2,
+     "winRate": 55.9,
+     "games": 9657,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Suit Up",
+     "inclusion": 14.4,
+     "winRate": 55.9,
+     "games": 6855,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Fade into Antiquity",
+     "inclusion": 52.3,
+     "winRate": 55.8,
+     "games": 25146,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Moonsnare Specialist",
+     "inclusion": 49.0,
+     "winRate": 55.8,
+     "games": 23401,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Boseiju, Who Endures",
+     "inclusion": 7.3,
+     "winRate": 55.8,
+     "games": 3478,
+     "trophyInclusion": 7.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-02-28",
+    "main": [
+     [
+      1,
+      "Bearer of Memory"
+     ],
+     [
+      1,
+      "Behold the Unspeakable"
+     ],
+     [
+      1,
+      "Blossom Prancer"
+     ],
+     [
+      1,
+      "Circuit Mender"
+     ],
+     [
+      1,
+      "Colossal Skyturtle"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      1,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Fade into Antiquity"
+     ],
+     [
+      1,
+      "Fang of Shigeki"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Geothermal Kami"
+     ],
+     [
+      1,
+      "Gloomshrieker"
+     ],
+     [
+      1,
+      "Go-Shintai of Boundless Vigor"
+     ],
+     [
+      1,
+      "Greater Tanuki"
+     ],
+     [
+      1,
+      "Harmonious Emergence"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Kappa Tech-Wrecker"
+     ],
+     [
+      2,
+      "Master's Rebuke"
+     ],
+     [
+      1,
+      "Moon-Circuit Hacker"
+     ],
+     [
+      1,
+      "Moonsnare Specialist"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      1,
+      "Season of Renewal"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tales of Master Seshiro"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      2,
+      "Uncharted Haven"
+     ],
+     [
+      1,
+      "Weaver of Harmony"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Armguard Familiar"
+     ],
+     [
+      1,
+      "Automated Artificer"
+     ],
+     [
+      1,
+      "Careful Cultivation"
+     ],
+     [
+      1,
+      "Clawing Torment"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      1,
+      "Futurist Sentinel"
+     ],
+     [
+      1,
+      "Grafted Growth"
+     ],
+     [
+      2,
+      "Imperial Oath"
+     ],
+     [
+      1,
+      "Mirrorshell Crab"
+     ],
+     [
+      1,
+      "Return to Action"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      1,
+      "Towashi Songshaper"
+     ],
+     [
+      1,
+      "Walking Skyscraper"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 46184,
+   "wins": 25901,
+   "winRate": 56.08,
+   "share": 7.33,
+   "drafts": 7705,
+   "trophies": 1072,
+   "cards": [
+    {
+     "name": "Farewell",
+     "inclusion": 7.9,
+     "winRate": 59.7,
+     "games": 3798,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Surgehacker Mech",
+     "inclusion": 5.1,
+     "winRate": 58.9,
+     "games": 2440,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "The Restoration of Eiganjo",
+     "inclusion": 9.0,
+     "winRate": 58.5,
+     "games": 4258,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Imperial Oath",
+     "inclusion": 44.6,
+     "winRate": 58.4,
+     "games": 21293,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Life of Toshiro Umezawa",
+     "inclusion": 34.9,
+     "winRate": 58.3,
+     "games": 16661,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 15.0,
+     "winRate": 58.3,
+     "games": 7001,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "inclusion": 6.9,
+     "winRate": 58.3,
+     "games": 3299,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Biting-Palm Ninja",
+     "inclusion": 7.6,
+     "winRate": 58.2,
+     "games": 3601,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Tatsunari, Toad Rider",
+     "inclusion": 7.0,
+     "winRate": 58.2,
+     "games": 3364,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Ao, the Dawn Sky",
+     "inclusion": 5.0,
+     "winRate": 58.1,
+     "games": 2378,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Michiko's Reign of Truth",
+     "inclusion": 32.1,
+     "winRate": 57.7,
+     "games": 15259,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Dockside Chef",
+     "inclusion": 24.2,
+     "winRate": 57.6,
+     "games": 11412,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 26.9,
+     "winRate": 57.5,
+     "games": 12664,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Spirited Companion",
+     "inclusion": 53.9,
+     "winRate": 57.4,
+     "games": 25294,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 15.2,
+     "winRate": 57.4,
+     "games": 7099,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Hidetsugu, Devouring Chaos",
+     "inclusion": 5.7,
+     "winRate": 57.4,
+     "games": 2644,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Okiba Reckoner Raid",
+     "inclusion": 55.6,
+     "winRate": 57.3,
+     "games": 26202,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "The Long Reach of Night",
+     "inclusion": 27.4,
+     "winRate": 57.3,
+     "games": 12884,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Shrine Steward",
+     "inclusion": 13.2,
+     "winRate": 57.3,
+     "games": 6164,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Banishing Slash",
+     "inclusion": 24.2,
+     "winRate": 57.2,
+     "games": 11341,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 51.6,
+     "winRate": 57.1,
+     "games": 24189,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Twisted Embrace",
+     "inclusion": 48.2,
+     "winRate": 57.1,
+     "games": 22676,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Touch the Spirit Realm",
+     "inclusion": 22.0,
+     "winRate": 57.1,
+     "games": 10343,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Kyodai, Soul of Kamigawa",
+     "inclusion": 8.0,
+     "winRate": 57.1,
+     "games": 3753,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Invoke Despair",
+     "inclusion": 7.0,
+     "winRate": 57.1,
+     "games": 3227,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Lion Sash",
+     "inclusion": 9.0,
+     "winRate": 57.0,
+     "games": 4285,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Kami of Terrible Secrets",
+     "inclusion": 53.2,
+     "winRate": 56.9,
+     "games": 24875,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Scoured Barrens",
+     "inclusion": 31.1,
+     "winRate": 56.9,
+     "games": 14604,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Papercraft Decoy",
+     "inclusion": 19.4,
+     "winRate": 56.9,
+     "games": 9116,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "March of Otherworldly Light",
+     "inclusion": 7.6,
+     "winRate": 56.9,
+     "games": 3564,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Mukotai Ambusher",
+     "inclusion": 38.3,
+     "winRate": 56.7,
+     "games": 17900,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "The Fall of Lord Konda",
+     "inclusion": 27.7,
+     "winRate": 56.6,
+     "games": 12922,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Soul Transfer",
+     "inclusion": 9.9,
+     "winRate": 56.6,
+     "games": 4655,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Ninja's Kunai",
+     "inclusion": 23.4,
+     "winRate": 56.5,
+     "games": 10875,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Assassin's Ink",
+     "inclusion": 22.8,
+     "winRate": 56.5,
+     "games": 10543,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Ecologist's Terrarium",
+     "inclusion": 16.6,
+     "winRate": 56.5,
+     "games": 7693,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Era of Enlightenment",
+     "inclusion": 49.0,
+     "winRate": 56.3,
+     "games": 22690,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Nezumi Prowler",
+     "inclusion": 20.5,
+     "winRate": 56.3,
+     "games": 9561,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "March of Wretched Sorrow",
+     "inclusion": 8.4,
+     "winRate": 56.3,
+     "games": 3860,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Lethal Exploit",
+     "inclusion": 39.1,
+     "winRate": 56.2,
+     "games": 18083,
+     "trophyInclusion": 42.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-02-27",
+    "main": [
+     [
+      1,
+      "Assassin's Ink"
+     ],
+     [
+      1,
+      "Chainflail Centipede"
+     ],
+     [
+      1,
+      "Circuit Mender"
+     ],
+     [
+      1,
+      "Dokuchi Shadow-Walker"
+     ],
+     [
+      1,
+      "Imperial Oath"
+     ],
+     [
+      1,
+      "Intercessor's Arrest"
+     ],
+     [
+      1,
+      "Kami of Terrible Secrets"
+     ],
+     [
+      1,
+      "Leech Gauntlet"
+     ],
+     [
+      1,
+      "Lethal Exploit"
+     ],
+     [
+      1,
+      "Life of Toshiro Umezawa"
+     ],
+     [
+      1,
+      "Mothrider Patrol"
+     ],
+     [
+      1,
+      "Nezumi Bladeblesser"
+     ],
+     [
+      2,
+      "Okiba Reckoner Raid"
+     ],
+     [
+      1,
+      "Papercraft Decoy"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Repel the Vile"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      1,
+      "Shrine Steward"
+     ],
+     [
+      1,
+      "Spirited Companion"
+     ],
+     [
+      1,
+      "Sunblade Samurai"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Fall of Lord Konda"
+     ],
+     [
+      1,
+      "Twisted Embrace"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Ancestral Katana"
+     ],
+     [
+      1,
+      "Awakened Awareness"
+     ],
+     [
+      1,
+      "Bronzeplate Boar"
+     ],
+     [
+      1,
+      "Chainflail Centipede"
+     ],
+     [
+      1,
+      "Eiganjo Exemplar"
+     ],
+     [
+      1,
+      "Enormous Energy Blade"
+     ],
+     [
+      1,
+      "Futurist Sentinel"
+     ],
+     [
+      1,
+      "Invigorating Hot Spring"
+     ],
+     [
+      1,
+      "Iron Apprentice"
+     ],
+     [
+      1,
+      "Kindled Fury"
+     ],
+     [
+      2,
+      "Reckoner Shakedown"
+     ],
+     [
+      1,
+      "Reckoner's Bargain"
+     ],
+     [
+      2,
+      "Regent's Authority"
+     ],
+     [
+      1,
+      "Seven-Tail Mentor"
+     ],
+     [
+      1,
+      "Simian Sling"
+     ],
+     [
+      1,
+      "Thundersteel Colossus"
+     ],
+     [
+      1,
+      "You Are Already Dead"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 41776,
+   "wins": 22566,
+   "winRate": 54.02,
+   "share": 6.63,
+   "drafts": 7152,
+   "trophies": 832,
+   "cards": [
+    {
+     "name": "Inventive Iteration",
+     "inclusion": 10.0,
+     "winRate": 57.9,
+     "games": 4442,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "inclusion": 10.0,
+     "winRate": 57.8,
+     "games": 4404,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Reckoner Bankbuster",
+     "inclusion": 5.2,
+     "winRate": 56.3,
+     "games": 2242,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Mindlink Mech",
+     "inclusion": 9.1,
+     "winRate": 56.2,
+     "games": 3893,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "The Reality Chip",
+     "inclusion": 9.9,
+     "winRate": 56.1,
+     "games": 4281,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Eater of Virtue",
+     "inclusion": 5.1,
+     "winRate": 56.1,
+     "games": 2172,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Twinshot Sniper",
+     "inclusion": 32.6,
+     "winRate": 56.0,
+     "games": 13965,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Moon-Circuit Hacker",
+     "inclusion": 35.1,
+     "winRate": 55.9,
+     "games": 15023,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Kumano Faces Kakkazan",
+     "inclusion": 22.4,
+     "winRate": 55.8,
+     "games": 9621,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Patchwork Automaton",
+     "inclusion": 28.2,
+     "winRate": 55.7,
+     "games": 12101,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Ogre-Head Helm",
+     "inclusion": 11.1,
+     "winRate": 55.5,
+     "games": 4631,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Enthusiastic Mechanaut",
+     "inclusion": 55.1,
+     "winRate": 55.4,
+     "games": 23508,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Behold the Unspeakable",
+     "inclusion": 31.6,
+     "winRate": 55.4,
+     "games": 13594,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Seismic Wave",
+     "inclusion": 23.5,
+     "winRate": 55.4,
+     "games": 9992,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Invoke the Winds",
+     "inclusion": 7.3,
+     "winRate": 55.3,
+     "games": 3072,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "inclusion": 7.4,
+     "winRate": 55.2,
+     "games": 3190,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Voltage Surge",
+     "inclusion": 57.5,
+     "winRate": 55.1,
+     "games": 24480,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Moonsnare Specialist",
+     "inclusion": 43.1,
+     "winRate": 55.1,
+     "games": 18269,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 19.6,
+     "winRate": 55.1,
+     "games": 8338,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Kami's Flare",
+     "inclusion": 52.1,
+     "winRate": 55.0,
+     "games": 22159,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Prosperous Thief",
+     "inclusion": 19.8,
+     "winRate": 54.9,
+     "games": 8396,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Suit Up",
+     "inclusion": 14.3,
+     "winRate": 54.9,
+     "games": 6045,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Thundering Raiju",
+     "inclusion": 8.9,
+     "winRate": 54.9,
+     "games": 3728,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "The Modern Age",
+     "inclusion": 39.2,
+     "winRate": 54.7,
+     "games": 16508,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 35.2,
+     "winRate": 54.7,
+     "games": 14886,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Network Disruptor",
+     "inclusion": 50.5,
+     "winRate": 54.6,
+     "games": 21177,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 30.7,
+     "winRate": 54.6,
+     "games": 12927,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "High-Speed Hoverbike",
+     "inclusion": 14.7,
+     "winRate": 54.6,
+     "games": 6170,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Rabbit Battery",
+     "inclusion": 28.3,
+     "winRate": 54.5,
+     "games": 11898,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "inclusion": 7.4,
+     "winRate": 54.5,
+     "games": 3104,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Sokenzan Smelter",
+     "inclusion": 29.1,
+     "winRate": 54.4,
+     "games": 12245,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Tezzeret, Betrayer of Flesh",
+     "inclusion": 6.7,
+     "winRate": 54.4,
+     "games": 2789,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Experimental Synthesizer",
+     "inclusion": 53.4,
+     "winRate": 54.3,
+     "games": 22368,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Thousand-Faced Shadow",
+     "inclusion": 6.2,
+     "winRate": 54.3,
+     "games": 2589,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 5.6,
+     "winRate": 54.3,
+     "games": 2322,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Goro-Goro, Disciple of Ryusei",
+     "inclusion": 8.2,
+     "winRate": 54.2,
+     "games": 3407,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Skyswimmer Koi",
+     "inclusion": 45.9,
+     "winRate": 54.0,
+     "games": 19142,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Iron Apprentice",
+     "inclusion": 25.0,
+     "winRate": 54.0,
+     "games": 10430,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Lizard Blades",
+     "inclusion": 9.6,
+     "winRate": 54.0,
+     "games": 4027,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Towashi Songshaper",
+     "inclusion": 50.2,
+     "winRate": 53.9,
+     "games": 20976,
+     "trophyInclusion": 50.2
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-02-17",
+    "main": [
+     [
+      1,
+      "Armguard Familiar"
+     ],
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Covert Technician"
+     ],
+     [
+      1,
+      "Enthusiastic Mechanaut"
+     ],
+     [
+      1,
+      "Experimental Synthesizer"
+     ],
+     [
+      2,
+      "Ironhoof Boar"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Kumano Faces Kakkazan"
+     ],
+     [
+      1,
+      "Mnemonic Sphere"
+     ],
+     [
+      1,
+      "Moon-Circuit Hacker"
+     ],
+     [
+      1,
+      "Moonfolk Puzzlemaker"
+     ],
+     [
+      2,
+      "Moonsnare Specialist"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Network Disruptor"
+     ],
+     [
+      2,
+      "Ninja's Kunai"
+     ],
+     [
+      1,
+      "Oni-Cult Anvil"
+     ],
+     [
+      2,
+      "Replication Specialist"
+     ],
+     [
+      1,
+      "Scrapyard Steelbreaker"
+     ],
+     [
+      1,
+      "Seismic Wave"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "The Modern Age"
+     ],
+     [
+      1,
+      "Towashi Songshaper"
+     ],
+     [
+      1,
+      "Twinshot Sniper"
+     ],
+     [
+      1,
+      "Uncharted Haven"
+     ],
+     [
+      1,
+      "Voltage Surge"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Akki War Paint"
+     ],
+     [
+      1,
+      "Ambitious Assault"
+     ],
+     [
+      1,
+      "Automated Artificer"
+     ],
+     [
+      1,
+      "Behold the Unspeakable"
+     ],
+     [
+      1,
+      "Essence Capture"
+     ],
+     [
+      1,
+      "Favor of Jukai"
+     ],
+     [
+      1,
+      "Iron Apprentice"
+     ],
+     [
+      1,
+      "Moon-Circuit Hacker"
+     ],
+     [
+      1,
+      "Reality Heist"
+     ],
+     [
+      1,
+      "Saiba Trespassers"
+     ],
+     [
+      1,
+      "Spell Pierce"
+     ],
+     [
+      1,
+      "Suit Up"
+     ],
+     [
+      1,
+      "The Shattered States Era"
+     ],
+     [
+      1,
+      "Towashi Guide-Bot"
+     ],
+     [
+      1,
+      "Webspinner Cuff"
+     ],
+     [
+      1,
+      "You Are Already Dead"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 37235,
+   "wins": 19686,
+   "winRate": 52.87,
+   "share": 5.91,
+   "drafts": 6512,
+   "trophies": 647,
+   "cards": [
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "inclusion": 9.8,
+     "winRate": 57.1,
+     "games": 3873,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Kyodai, Soul of Kamigawa",
+     "inclusion": 7.7,
+     "winRate": 56.2,
+     "games": 3078,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 9.1,
+     "winRate": 56.1,
+     "games": 3479,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Twinshot Sniper",
+     "inclusion": 27.3,
+     "winRate": 55.0,
+     "games": 10510,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Raiyuu, Storm's Edge",
+     "inclusion": 22.0,
+     "winRate": 55.0,
+     "games": 8471,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Goro-Goro, Disciple of Ryusei",
+     "inclusion": 10.1,
+     "winRate": 54.8,
+     "games": 3910,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "The Restoration of Eiganjo",
+     "inclusion": 7.4,
+     "winRate": 54.7,
+     "games": 2837,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Thundering Raiju",
+     "inclusion": 10.0,
+     "winRate": 54.5,
+     "games": 3862,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "inclusion": 8.3,
+     "winRate": 54.5,
+     "games": 3163,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Hotshot Mechanic",
+     "inclusion": 8.8,
+     "winRate": 54.4,
+     "games": 3271,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Eiganjo, Seat of the Empire",
+     "inclusion": 7.5,
+     "winRate": 54.4,
+     "games": 2835,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Banishing Slash",
+     "inclusion": 20.9,
+     "winRate": 54.3,
+     "games": 7949,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 8.1,
+     "winRate": 54.2,
+     "games": 3069,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 7.2,
+     "winRate": 54.2,
+     "games": 2749,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Voltage Surge",
+     "inclusion": 51.7,
+     "winRate": 54.1,
+     "games": 19671,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Wind-Scarred Crag",
+     "inclusion": 29.5,
+     "winRate": 54.1,
+     "games": 11150,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Spirited Companion",
+     "inclusion": 36.7,
+     "winRate": 54.0,
+     "games": 13872,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Selfless Samurai",
+     "inclusion": 31.3,
+     "winRate": 54.0,
+     "games": 11851,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Kumano Faces Kakkazan",
+     "inclusion": 33.2,
+     "winRate": 53.9,
+     "games": 12515,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Rabbit Battery",
+     "inclusion": 27.9,
+     "winRate": 53.9,
+     "games": 10596,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Bronzeplate Boar",
+     "inclusion": 23.6,
+     "winRate": 53.8,
+     "games": 8929,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Michiko's Reign of Truth",
+     "inclusion": 23.4,
+     "winRate": 53.8,
+     "games": 8810,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Lizard Blades",
+     "inclusion": 9.5,
+     "winRate": 53.8,
+     "games": 3584,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Kami's Flare",
+     "inclusion": 54.2,
+     "winRate": 53.7,
+     "games": 20455,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "The Fall of Lord Konda",
+     "inclusion": 21.3,
+     "winRate": 53.7,
+     "games": 8023,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Lion Sash",
+     "inclusion": 9.2,
+     "winRate": 53.7,
+     "games": 3444,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Experimental Synthesizer",
+     "inclusion": 38.2,
+     "winRate": 53.6,
+     "games": 14346,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "Touch the Spirit Realm",
+     "inclusion": 20.9,
+     "winRate": 53.6,
+     "games": 7876,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "High-Speed Hoverbike",
+     "inclusion": 8.7,
+     "winRate": 53.5,
+     "games": 3277,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Ironhoof Boar",
+     "inclusion": 42.0,
+     "winRate": 53.4,
+     "games": 15810,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Imperial Oath",
+     "inclusion": 29.3,
+     "winRate": 53.4,
+     "games": 10879,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Seismic Wave",
+     "inclusion": 23.2,
+     "winRate": 53.4,
+     "games": 8788,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Towashi Songshaper",
+     "inclusion": 23.5,
+     "winRate": 53.3,
+     "games": 8856,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "March of Otherworldly Light",
+     "inclusion": 7.5,
+     "winRate": 53.3,
+     "games": 2786,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Mothrider Patrol",
+     "inclusion": 49.7,
+     "winRate": 53.2,
+     "games": 18635,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Eiganjo Exemplar",
+     "inclusion": 56.6,
+     "winRate": 53.0,
+     "games": 21217,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Patchwork Automaton",
+     "inclusion": 7.7,
+     "winRate": 53.0,
+     "games": 2864,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Eater of Virtue",
+     "inclusion": 5.5,
+     "winRate": 53.0,
+     "games": 2057,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Go-Shintai of Ancient Wars",
+     "inclusion": 18.9,
+     "winRate": 52.9,
+     "games": 6984,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Risona, Asari Commander",
+     "inclusion": 17.8,
+     "winRate": 52.9,
+     "games": 6655,
+     "trophyInclusion": 16.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-02-25",
+    "main": [
+     [
+      1,
+      "Akki Ronin"
+     ],
+     [
+      1,
+      "Ancestral Katana"
+     ],
+     [
+      1,
+      "Asari Captain"
+     ],
+     [
+      1,
+      "Befriending the Moths"
+     ],
+     [
+      1,
+      "Blade-Blizzard Kitsune"
+     ],
+     [
+      1,
+      "Bronzeplate Boar"
+     ],
+     [
+      1,
+      "Eiganjo Exemplar"
+     ],
+     [
+      1,
+      "Experimental Synthesizer"
+     ],
+     [
+      1,
+      "Heiko Yamazaki, the General"
+     ],
+     [
+      1,
+      "Imperial Oath"
+     ],
+     [
+      1,
+      "Imperial Subduer"
+     ],
+     [
+      1,
+      "Ironhoof Boar"
+     ],
+     [
+      1,
+      "Kumano Faces Kakkazan"
+     ],
+     [
+      1,
+      "Lizard Blades"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Ninja's Kunai"
+     ],
+     [
+      1,
+      "Peerless Samurai"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Repel the Vile"
+     ],
+     [
+      1,
+      "Seismic Wave"
+     ],
+     [
+      1,
+      "Seven-Tail Mentor"
+     ],
+     [
+      1,
+      "Spirited Companion"
+     ],
+     [
+      1,
+      "Sunblade Samurai"
+     ],
+     [
+      1,
+      "Upriser Renegade"
+     ],
+     [
+      1,
+      "Voltage Surge"
+     ],
+     [
+      1,
+      "When We Were Young"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ambitious Assault"
+     ],
+     [
+      1,
+      "Careful Cultivation"
+     ],
+     [
+      1,
+      "Circuit Mender"
+     ],
+     [
+      1,
+      "Explosive Entry"
+     ],
+     [
+      2,
+      "Futurist Operative"
+     ],
+     [
+      1,
+      "Gift of Wrath"
+     ],
+     [
+      1,
+      "Golden-Tail Disciple"
+     ],
+     [
+      1,
+      "Greater Tanuki"
+     ],
+     [
+      1,
+      "Imperial Oath"
+     ],
+     [
+      1,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Network Terminal"
+     ],
+     [
+      1,
+      "Patchwork Automaton"
+     ],
+     [
+      1,
+      "Reality Heist"
+     ],
+     [
+      1,
+      "Saiba Trespassers"
+     ],
+     [
+      1,
+      "Scrapyard Steelbreaker"
+     ],
+     [
+      1,
+      "Wanderer's Intervention"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 35326,
+   "wins": 19460,
+   "winRate": 55.09,
+   "share": 5.6,
+   "drafts": 6053,
+   "trophies": 766,
+   "cards": [
+    {
+     "name": "Farewell",
+     "inclusion": 8.6,
+     "winRate": 59.7,
+     "games": 3233,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Reckoner Bankbuster",
+     "inclusion": 6.2,
+     "winRate": 58.8,
+     "games": 2312,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Inventive Iteration",
+     "inclusion": 10.2,
+     "winRate": 58.6,
+     "games": 3761,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "The Restoration of Eiganjo",
+     "inclusion": 8.2,
+     "winRate": 58.3,
+     "games": 3018,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "The Reality Chip",
+     "inclusion": 9.8,
+     "winRate": 57.7,
+     "games": 3628,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Tameshi, Reality Architect",
+     "inclusion": 16.7,
+     "winRate": 57.6,
+     "games": 6056,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Imperial Oath",
+     "inclusion": 38.8,
+     "winRate": 57.5,
+     "games": 14161,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Spirited Companion",
+     "inclusion": 50.9,
+     "winRate": 57.2,
+     "games": 18544,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Banishing Slash",
+     "inclusion": 24.4,
+     "winRate": 57.2,
+     "games": 8823,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Behold the Unspeakable",
+     "inclusion": 37.3,
+     "winRate": 57.1,
+     "games": 13618,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 15.9,
+     "winRate": 57.1,
+     "games": 5764,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Brilliant Restoration",
+     "inclusion": 6.2,
+     "winRate": 57.1,
+     "games": 2203,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Michiko's Reign of Truth",
+     "inclusion": 29.6,
+     "winRate": 57.0,
+     "games": 10763,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Selfless Samurai",
+     "inclusion": 17.5,
+     "winRate": 56.9,
+     "games": 6391,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Invoke the Winds",
+     "inclusion": 9.5,
+     "winRate": 56.9,
+     "games": 3495,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Surgehacker Mech",
+     "inclusion": 7.7,
+     "winRate": 56.9,
+     "games": 2757,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Kairi, the Swirling Sky",
+     "inclusion": 5.2,
+     "winRate": 56.9,
+     "games": 1928,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Uncharted Haven",
+     "inclusion": 25.8,
+     "winRate": 56.4,
+     "games": 9228,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "The Modern Age",
+     "inclusion": 56.5,
+     "winRate": 56.3,
+     "games": 20338,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Roadside Reliquary",
+     "inclusion": 11.0,
+     "winRate": 56.3,
+     "games": 3903,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Moon-Circuit Hacker",
+     "inclusion": 44.2,
+     "winRate": 56.1,
+     "games": 15751,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "The Fall of Lord Konda",
+     "inclusion": 27.4,
+     "winRate": 56.0,
+     "games": 9810,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Searchlight Companion",
+     "inclusion": 25.0,
+     "winRate": 56.0,
+     "games": 8986,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Touch the Spirit Realm",
+     "inclusion": 24.1,
+     "winRate": 56.0,
+     "games": 8608,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Mindlink Mech",
+     "inclusion": 12.5,
+     "winRate": 55.8,
+     "games": 4469,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Lion Sash",
+     "inclusion": 8.9,
+     "winRate": 55.8,
+     "games": 3195,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Era of Enlightenment",
+     "inclusion": 40.5,
+     "winRate": 55.7,
+     "games": 14419,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Kyodai, Soul of Kamigawa",
+     "inclusion": 8.2,
+     "winRate": 55.7,
+     "games": 2932,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Tamiyo's Compleation",
+     "inclusion": 47.2,
+     "winRate": 55.6,
+     "games": 16877,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 31.5,
+     "winRate": 55.6,
+     "games": 11187,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Ninja's Kunai",
+     "inclusion": 19.5,
+     "winRate": 55.6,
+     "games": 6920,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Moonsnare Specialist",
+     "inclusion": 48.2,
+     "winRate": 55.5,
+     "games": 17022,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Intercessor's Arrest",
+     "inclusion": 45.2,
+     "winRate": 55.5,
+     "games": 16114,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Prodigy's Prototype",
+     "inclusion": 43.2,
+     "winRate": 55.4,
+     "games": 15379,
+     "trophyInclusion": 45.3
+    },
+    {
+     "name": "Mothrider Patrol",
+     "inclusion": 37.2,
+     "winRate": 55.4,
+     "games": 13165,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Golden-Tail Disciple",
+     "inclusion": 32.0,
+     "winRate": 55.4,
+     "games": 11385,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Invoke Justice",
+     "inclusion": 6.0,
+     "winRate": 55.4,
+     "games": 2189,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Repel the Vile",
+     "inclusion": 30.0,
+     "winRate": 55.2,
+     "games": 10613,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Prosperous Thief",
+     "inclusion": 18.8,
+     "winRate": 55.2,
+     "games": 6673,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Containment Construct",
+     "inclusion": 15.7,
+     "winRate": 55.2,
+     "games": 5585,
+     "trophyInclusion": 16.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-02-16",
+    "main": [
+     [
+      1,
+      "Banishing Slash"
+     ],
+     [
+      1,
+      "Circuit Mender"
+     ],
+     [
+      1,
+      "Covert Technician"
+     ],
+     [
+      1,
+      "Essence Capture"
+     ],
+     [
+      1,
+      "Golden-Tail Disciple"
+     ],
+     [
+      1,
+      "High-Speed Hoverbike"
+     ],
+     [
+      1,
+      "Imperial Oath"
+     ],
+     [
+      1,
+      "Intercessor's Arrest"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "March of Otherworldly Light"
+     ],
+     [
+      1,
+      "Mnemonic Sphere"
+     ],
+     [
+      1,
+      "Moon-Circuit Hacker"
+     ],
+     [
+      1,
+      "Moonfolk Puzzlemaker"
+     ],
+     [
+      1,
+      "Ninja's Kunai"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Prodigy's Prototype"
+     ],
+     [
+      1,
+      "Reckoner Bankbuster"
+     ],
+     [
+      1,
+      "Replication Specialist"
+     ],
+     [
+      1,
+      "Searchlight Companion"
+     ],
+     [
+      2,
+      "Spirited Companion"
+     ],
+     [
+      1,
+      "Sunblade Samurai"
+     ],
+     [
+      1,
+      "Tamiyo's Compleation"
+     ],
+     [
+      1,
+      "The Fall of Lord Konda"
+     ],
+     [
+      1,
+      "The Modern Age"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Uncharted Haven"
+     ],
+     [
+      1,
+      "Wanderer's Intervention"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Akki War Paint"
+     ],
+     [
+      1,
+      "Befriending the Moths"
+     ],
+     [
+      1,
+      "Bronze Cudgels"
+     ],
+     [
+      1,
+      "Containment Construct"
+     ],
+     [
+      1,
+      "Dragonfly Suit"
+     ],
+     [
+      1,
+      "Futurist Sentinel"
+     ],
+     [
+      1,
+      "Kindled Fury"
+     ],
+     [
+      1,
+      "Life of Toshiro Umezawa"
+     ],
+     [
+      1,
+      "Lucky Offering"
+     ],
+     [
+      1,
+      "Moonsnare Prototype"
+     ],
+     [
+      1,
+      "Mothrider Patrol"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Secluded Courtyard"
+     ],
+     [
+      1,
+      "Seven-Tail Mentor"
+     ],
+     [
+      1,
+      "Walking Skyscraper"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 27354,
+   "wins": 14649,
+   "winRate": 53.55,
+   "share": 4.34,
+   "drafts": 4688,
+   "trophies": 544,
+   "cards": [
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "inclusion": 10.6,
+     "winRate": 58.3,
+     "games": 3068,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Kappa Tech-Wrecker",
+     "inclusion": 28.1,
+     "winRate": 56.4,
+     "games": 7934,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Teachings of the Kirin",
+     "inclusion": 8.1,
+     "winRate": 55.9,
+     "games": 2298,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Kami of Transience",
+     "inclusion": 7.0,
+     "winRate": 55.6,
+     "games": 1979,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Kumano Faces Kakkazan",
+     "inclusion": 36.5,
+     "winRate": 55.4,
+     "games": 10284,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Twinshot Sniper",
+     "inclusion": 31.0,
+     "winRate": 55.3,
+     "games": 8732,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Blossom Prancer",
+     "inclusion": 26.9,
+     "winRate": 55.3,
+     "games": 7579,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Flame Discharge",
+     "inclusion": 28.5,
+     "winRate": 55.2,
+     "games": 7963,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Shigeki, Jukai Visionary",
+     "inclusion": 7.6,
+     "winRate": 55.1,
+     "games": 2139,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Invoke the Ancients",
+     "inclusion": 8.6,
+     "winRate": 55.0,
+     "games": 2426,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Jukai Preserver",
+     "inclusion": 55.2,
+     "winRate": 54.9,
+     "games": 15386,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Spring-Leaf Avenger",
+     "inclusion": 9.2,
+     "winRate": 54.9,
+     "games": 2523,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Kami's Flare",
+     "inclusion": 58.5,
+     "winRate": 54.7,
+     "games": 16215,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Circuit Mender",
+     "inclusion": 10.5,
+     "winRate": 54.7,
+     "games": 2899,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Master's Rebuke",
+     "inclusion": 49.2,
+     "winRate": 54.6,
+     "games": 13672,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Rabbit Battery",
+     "inclusion": 27.8,
+     "winRate": 54.6,
+     "games": 7663,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Jukai Trainee",
+     "inclusion": 40.3,
+     "winRate": 54.5,
+     "games": 11206,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Boseiju Reaches Skyward",
+     "inclusion": 28.2,
+     "winRate": 54.5,
+     "games": 7829,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "inclusion": 19.0,
+     "winRate": 54.5,
+     "games": 5268,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Goro-Goro, Disciple of Ryusei",
+     "inclusion": 12.8,
+     "winRate": 54.5,
+     "games": 3590,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Historian's Wisdom",
+     "inclusion": 10.0,
+     "winRate": 54.5,
+     "games": 2753,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Upriser Renegade",
+     "inclusion": 26.2,
+     "winRate": 54.4,
+     "games": 7265,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Rugged Highlands",
+     "inclusion": 37.1,
+     "winRate": 54.3,
+     "games": 10245,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "Harmonious Emergence",
+     "inclusion": 24.3,
+     "winRate": 54.3,
+     "games": 6688,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Iron Apprentice",
+     "inclusion": 22.1,
+     "winRate": 54.3,
+     "games": 6106,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Generous Visitor",
+     "inclusion": 19.3,
+     "winRate": 54.3,
+     "games": 5360,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Thundering Raiju",
+     "inclusion": 14.8,
+     "winRate": 54.2,
+     "games": 4048,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Ogre-Head Helm",
+     "inclusion": 9.9,
+     "winRate": 54.2,
+     "games": 2694,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Boseiju, Who Endures",
+     "inclusion": 7.5,
+     "winRate": 54.2,
+     "games": 2039,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Atsushi, the Blazing Sky",
+     "inclusion": 5.8,
+     "winRate": 54.2,
+     "games": 1597,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Tales of Master Seshiro",
+     "inclusion": 50.8,
+     "winRate": 54.0,
+     "games": 14024,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Sokenzan Smelter",
+     "inclusion": 10.4,
+     "winRate": 54.0,
+     "games": 2883,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Voltage Surge",
+     "inclusion": 49.0,
+     "winRate": 53.9,
+     "games": 13399,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Fang of Shigeki",
+     "inclusion": 41.9,
+     "winRate": 53.9,
+     "games": 11502,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Seismic Wave",
+     "inclusion": 25.2,
+     "winRate": 53.9,
+     "games": 6979,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Bronzeplate Boar",
+     "inclusion": 24.3,
+     "winRate": 53.9,
+     "games": 6697,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "High-Speed Hoverbike",
+     "inclusion": 5.7,
+     "winRate": 53.9,
+     "games": 1529,
+     "trophyInclusion": 5.0
+    },
+    {
+     "name": "Ironhoof Boar",
+     "inclusion": 44.0,
+     "winRate": 53.8,
+     "games": 12011,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Invigorating Hot Spring",
+     "inclusion": 55.1,
+     "winRate": 53.7,
+     "games": 15102,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Akki Ember-Keeper",
+     "inclusion": 46.5,
+     "winRate": 53.7,
+     "games": 12710,
+     "trophyInclusion": 48.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-02-21",
+    "main": [
+     [
+      1,
+      "Akki Ember-Keeper"
+     ],
+     [
+      1,
+      "Blossom Prancer"
+     ],
+     [
+      1,
+      "Boseiju Reaches Skyward"
+     ],
+     [
+      1,
+      "Bronzeplate Boar"
+     ],
+     [
+      1,
+      "Commune with Spirits"
+     ],
+     [
+      2,
+      "Crackling Emergence"
+     ],
+     [
+      1,
+      "Fade into Antiquity"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Greater Tanuki"
+     ],
+     [
+      1,
+      "Harmonious Emergence"
+     ],
+     [
+      1,
+      "Invigorating Hot Spring"
+     ],
+     [
+      1,
+      "Jukai Preserver"
+     ],
+     [
+      1,
+      "Jukai Trainee"
+     ],
+     [
+      1,
+      "Kami's Flare"
+     ],
+     [
+      1,
+      "Kumano Faces Kakkazan"
+     ],
+     [
+      1,
+      "Master's Rebuke"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Ogre-Head Helm"
+     ],
+     [
+      1,
+      "Peerless Samurai"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Simian Sling"
+     ],
+     [
+      1,
+      "Spinning Wheel Kick"
+     ],
+     [
+      1,
+      "Tales of Master Seshiro"
+     ],
+     [
+      1,
+      "Tempered in Solitude"
+     ],
+     [
+      1,
+      "Twinshot Sniper"
+     ],
+     [
+      1,
+      "Voltage Surge"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Akki Ember-Keeper"
+     ],
+     [
+      1,
+      "Anchor to Reality"
+     ],
+     [
+      1,
+      "Bronzeplate Boar"
+     ],
+     [
+      2,
+      "Careful Cultivation"
+     ],
+     [
+      1,
+      "Dragonspark Reactor"
+     ],
+     [
+      1,
+      "Dramatist's Puppet"
+     ],
+     [
+      1,
+      "Grafted Growth"
+     ],
+     [
+      1,
+      "Kindled Fury"
+     ],
+     [
+      1,
+      "Okiba Salvage"
+     ],
+     [
+      1,
+      "Papercraft Decoy"
+     ],
+     [
+      1,
+      "Reinforced Ronin"
+     ],
+     [
+      1,
+      "Season of Renewal"
+     ],
+     [
+      1,
+      "Storyweave"
+     ],
+     [
+      1,
+      "The Shattered States Era"
+     ],
+     [
+      1,
+      "The Wandering Emperor"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Thundersteel Colossus"
+     ]
+    ]
+   }
+  }
+ ]
+}

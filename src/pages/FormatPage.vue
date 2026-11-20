@@ -3,7 +3,8 @@ import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import type { Archetype, Deck, SeasonWithDecks } from '../data/types'
 import { useFormat } from '../lib/useFormat'
-import { archetypeLabel, formatMonth, locale, seasonYears, t } from '../lib/i18n'
+import { archetypeLabel, formatMonth, formatNumber, locale, seasonYears, t } from '../lib/i18n'
+import { deckScore } from '../lib/deckStats'
 import DeckTile from '../components/DeckTile.vue'
 import { symbolUrl } from '../lib/cards'
 import SoonState from '../components/SoonState.vue'
@@ -41,9 +42,16 @@ const query = ref('')
 // 'recent': newest first, by each deck's first recorded result; 'top': by dominance
 // (tier, then share of top 8s). Kept in the URL: ?tri=dominance
 const router = useRouter()
-const sort = computed<'recent' | 'top'>(() => (route.query.tri === 'dominance' ? 'top' : 'recent'))
-function setSort(s: 'recent' | 'top') {
-  router.replace({ query: s === 'top' ? { tri: 'dominance' } : {}, hash: route.hash })
+// Limited: every deck of a set shares the same dates, so the two orders are win rate (default)
+// and share of games (?tri=parties)
+const limited = computed(() => formatId.value === 'limited')
+type Sort = 'recent' | 'top' | 'played'
+const sort = computed<Sort>(() =>
+  limited.value ? (route.query.tri === 'parties' ? 'played' : 'top') : route.query.tri === 'dominance' ? 'top' : 'recent',
+)
+function setSort(s: Sort) {
+  const tri = limited.value ? (s === 'played' ? 'parties' : '') : s === 'top' ? 'dominance' : ''
+  router.replace({ query: tri ? { tri } : {}, hash: route.hash })
 }
 
 function byRecent(a: Deck, b: Deck): number {
@@ -51,7 +59,11 @@ function byRecent(a: Deck, b: Deck): number {
 }
 
 function byTop(a: Deck, b: Deck): number {
-  return a.tier - b.tier || b.stats.share - a.stats.share
+  return a.tier - b.tier || deckScore(b) - deckScore(a)
+}
+
+function byPlayed(a: Deck, b: Deck): number {
+  return b.stats.share - a.stats.share
 }
 
 function toggleColor(c: string) {
@@ -76,7 +88,7 @@ const seasons = computed<Row[]>(() => {
   if (!data.value) return []
   return data.value.seasons.map((s) => ({
     ...s,
-    shown: s.decks.filter(matches).sort(sort.value === 'recent' ? byRecent : byTop),
+    shown: s.decks.filter(matches).sort(sort.value === 'recent' ? byRecent : sort.value === 'played' ? byPlayed : byTop),
   }))
 })
 
@@ -86,6 +98,7 @@ const visible = computed(() => seasons.value.filter((s) => s.shown.length).rever
 // calendar-year seasons (Modern, Premodern) where the full form is already short ("2020–21")
 const jumps = computed(() =>
   visible.value.map((s, _i, all) => {
+    if (s.code) return { id: s.id, label: s.code, title: s.set }
     const year = s.start.slice(0, 4)
     const title = seasonYears(s.start, s.end)
     const clash = all.some((o) => o.id !== s.id && o.start.slice(0, 4) === year)
@@ -134,7 +147,11 @@ const banLine = (s: Row) =>
             @click="toggleColor(c)"
           ><img :src="symbolUrl(c)" alt="" /></button>
         </div>
-        <div class="sort">
+        <div v-if="limited" class="sort">
+          <button type="button" :class="{ on: sort === 'top' }" @click="setSort('top')">{{ t('sortWinRate') }}</button>
+          <button type="button" :class="{ on: sort === 'played' }" @click="setSort('played')">{{ t('sortPlayed') }}</button>
+        </div>
+        <div v-else class="sort">
           <button type="button" :class="{ on: sort === 'top' }" @click="setSort('top')">{{ t('sortTop') }}</button>
           <button type="button" :class="{ on: sort === 'recent' }" @click="setSort('recent')">{{ t('sortRecent') }}</button>
         </div>
@@ -145,8 +162,21 @@ const banLine = (s: Row) =>
       </nav>
     </div>
 
+    <p v-if="limited" class="source-note">
+      {{ t('limitedSourceA') }}
+      <a href="https://www.17lands.com/public_datasets" target="_blank" rel="noopener noreferrer">{{ t('limitedSourceLink') }}</a>
+      {{ t('limitedSourceB') }}
+    </p>
+
     <section v-for="s in visible" :id="`s-${s.id}`" :key="s.id" class="season">
-      <div class="season-head">
+      <div v-if="s.code" class="season-head">
+        <h2 class="season-years">{{ s.set }}</h2>
+        <p class="season-set">
+          {{ formatMonth(s.start) }}<span class="season-count">, {{ s.shown.length }} {{ t('decksCount') }}<template v-if="s.source">,
+            <a :href="s.source.url" target="_blank" rel="noopener noreferrer">{{ formatNumber(s.source.games) }} {{ t('gamesWord') }}</a></template></span>
+        </p>
+      </div>
+      <div v-else class="season-head">
         <h2 class="season-years">{{ seasonYears(s.start, s.end) }}</h2>
         <p class="season-set">{{ s.set }}<span class="season-count">, {{ s.shown.length }} {{ t('decksCount') }}</span></p>
       </div>
@@ -161,6 +191,17 @@ const banLine = (s: Row) =>
 </template>
 
 <style scoped>
+.source-note {
+  max-width: 78ch;
+  margin: var(--space-md) 0 0;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.source-note a {
+  color: var(--ink);
+}
+
 .intro-meta {
   font-style: italic;
   color: var(--muted);

@@ -1,0 +1,4576 @@
+{
+ "set": "msh",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.PremierDraft.csv.gz",
+ "lastModified": "Mon, 27 Jul 2026 18:11:30 GMT",
+ "colorsDerived": false,
+ "first": "2026-06-23",
+ "last": "2026-07-24",
+ "games": 377514,
+ "drafts": 67808,
+ "winRate": 56.08,
+ "combos": [
+  {
+   "colors": "WU",
+   "games": 89376,
+   "wins": 52539,
+   "winRate": 58.78,
+   "share": 23.67,
+   "drafts": 15539,
+   "trophies": 1715,
+   "cards": [
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 6.4,
+     "winRate": 62.7,
+     "games": 6024,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Leader, Super-Genius",
+     "inclusion": 10.0,
+     "winRate": 62.2,
+     "games": 9180,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Justice, Vance Astrovik",
+     "inclusion": 29.8,
+     "winRate": 61.2,
+     "games": 27362,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "The Wondrous Wasp",
+     "inclusion": 11.9,
+     "winRate": 60.8,
+     "games": 10870,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "inclusion": 9.7,
+     "winRate": 60.6,
+     "games": 8903,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 18.5,
+     "winRate": 60.1,
+     "games": 16782,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "The Mighty Thor, Jane Foster",
+     "inclusion": 15.1,
+     "winRate": 60.1,
+     "games": 13717,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Trickster's Stratagem",
+     "inclusion": 58.5,
+     "winRate": 60.0,
+     "games": 53070,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Hero in Training",
+     "inclusion": 56.0,
+     "winRate": 60.0,
+     "games": 50969,
+     "trophyInclusion": 60.6
+    },
+    {
+     "name": "Loki, God of Mischief",
+     "inclusion": 9.1,
+     "winRate": 60.0,
+     "games": 8344,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "S.H.I.E.L.D. Deployment Drone",
+     "inclusion": 56.6,
+     "winRate": 59.9,
+     "games": 51186,
+     "trophyInclusion": 61.2
+    },
+    {
+     "name": "Falcon, Winged Wonder",
+     "inclusion": 29.5,
+     "winRate": 59.9,
+     "games": 26663,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "inclusion": 9.4,
+     "winRate": 59.9,
+     "games": 8540,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "King T'Challa",
+     "inclusion": 6.4,
+     "winRate": 59.9,
+     "games": 5880,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Murdock's Crusade",
+     "inclusion": 49.6,
+     "winRate": 59.8,
+     "games": 44890,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Stature, Size Shifter",
+     "inclusion": 29.4,
+     "winRate": 59.7,
+     "games": 26686,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Avengers Hangar",
+     "inclusion": 36.4,
+     "winRate": 59.6,
+     "games": 32812,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Agent Maria Hill",
+     "inclusion": 23.8,
+     "winRate": 59.5,
+     "games": 21377,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 22.7,
+     "winRate": 59.5,
+     "games": 20620,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Secret Invasion",
+     "inclusion": 9.4,
+     "winRate": 59.5,
+     "games": 8442,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 5.9,
+     "winRate": 59.5,
+     "games": 5336,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Borough Backup",
+     "inclusion": 49.8,
+     "winRate": 59.4,
+     "games": 44755,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Brave Brawler",
+     "inclusion": 48.9,
+     "winRate": 59.4,
+     "games": 44039,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Red Guardian, Super-Soldier",
+     "inclusion": 20.9,
+     "winRate": 59.4,
+     "games": 18844,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "We Say Thee Nay!",
+     "inclusion": 53.8,
+     "winRate": 59.3,
+     "games": 48297,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Raft Security Officer",
+     "inclusion": 52.3,
+     "winRate": 59.3,
+     "games": 47038,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Web Up",
+     "inclusion": 47.2,
+     "winRate": 59.3,
+     "games": 42626,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Night Nurse, Healer of Heroes",
+     "inclusion": 23.8,
+     "winRate": 59.3,
+     "games": 21426,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Political Triumph",
+     "inclusion": 22.4,
+     "winRate": 59.3,
+     "games": 20120,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Asgardian Citadel",
+     "inclusion": 8.5,
+     "winRate": 59.3,
+     "games": 7594,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 35.1,
+     "winRate": 59.1,
+     "games": 31359,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Agent 13, Sharon Carter",
+     "inclusion": 25.0,
+     "winRate": 59.1,
+     "games": 22344,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "U.S.Agent, John Walker",
+     "inclusion": 14.4,
+     "winRate": 59.1,
+     "games": 12839,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "S.H.I.E.L.D. Flying Car",
+     "inclusion": 10.1,
+     "winRate": 59.1,
+     "games": 9003,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 46.1,
+     "winRate": 59.0,
+     "games": 41337,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Okoye, Dora Milaje Leader",
+     "inclusion": 22.7,
+     "winRate": 59.0,
+     "games": 20434,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "S.H.I.E.L.D. Spy Kit",
+     "inclusion": 44.9,
+     "winRate": 58.9,
+     "games": 40179,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 25.0,
+     "winRate": 58.9,
+     "games": 22278,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Bold Biochemist",
+     "inclusion": 48.9,
+     "winRate": 58.8,
+     "games": 43654,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Frozen in Ice",
+     "inclusion": 45.0,
+     "winRate": 58.8,
+     "games": 40245,
+     "trophyInclusion": 46.6
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-07-04",
+    "main": [
+     [
+      1,
+      "Agent 13, Sharon Carter"
+     ],
+     [
+      1,
+      "Agent of Atlas"
+     ],
+     [
+      1,
+      "Agents of S.H.I.E.L.D."
+     ],
+     [
+      1,
+      "Atlantis Attacks"
+     ],
+     [
+      1,
+      "Avengers Hangar"
+     ],
+     [
+      1,
+      "Bold Biochemist"
+     ],
+     [
+      1,
+      "Borough Backup"
+     ],
+     [
+      1,
+      "Brave Brawler"
+     ],
+     [
+      1,
+      "Captain Marvel, Earth's Protector"
+     ],
+     [
+      1,
+      "Falcon, Winged Wonder"
+     ],
+     [
+      1,
+      "Helicarrier Strike"
+     ],
+     [
+      1,
+      "Hero in Training"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Murdock's Crusade"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Political Triumph"
+     ],
+     [
+      1,
+      "Raft Security Officer"
+     ],
+     [
+      1,
+      "Red Guardian, Super-Soldier"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Deployment Drone"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Spy Kit"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "The Vision"
+     ],
+     [
+      1,
+      "The Wondrous Wasp"
+     ],
+     [
+      1,
+      "Trickster's Stratagem"
+     ],
+     [
+      1,
+      "We Say Thee Nay!"
+     ],
+     [
+      1,
+      "Web Up"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "A.I.M. Scientists"
+     ],
+     [
+      1,
+      "Agents of S.H.I.E.L.D."
+     ],
+     [
+      1,
+      "Asgardian Citadel"
+     ],
+     [
+      1,
+      "Black Panther, Vanguard"
+     ],
+     [
+      2,
+      "Blazing Crescendo"
+     ],
+     [
+      1,
+      "Crimson Operative"
+     ],
+     [
+      1,
+      "Depower"
+     ],
+     [
+      2,
+      "I Am Iron Man"
+     ],
+     [
+      1,
+      "Panther Pounce"
+     ],
+     [
+      1,
+      "Pet Avengers"
+     ],
+     [
+      1,
+      "Rapid Rescue"
+     ],
+     [
+      2,
+      "Super Suit"
+     ],
+     [
+      1,
+      "The Astonishing Ant-Man"
+     ],
+     [
+      1,
+      "Villainous Hideout"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 43289,
+   "wins": 24734,
+   "winRate": 57.14,
+   "share": 11.47,
+   "drafts": 7611,
+   "trophies": 710,
+   "cards": [
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 6.8,
+     "winRate": 62.8,
+     "games": 3192,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Captain Marvel, Earth's Protector",
+     "inclusion": 5.2,
+     "winRate": 61.9,
+     "games": 2425,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Jennifer Walters",
+     "inclusion": 7.7,
+     "winRate": 60.9,
+     "games": 3504,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "inclusion": 7.2,
+     "winRate": 60.2,
+     "games": 3214,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Avengers Assemble!",
+     "inclusion": 5.9,
+     "winRate": 60.2,
+     "games": 2635,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Asgardian Citadel",
+     "inclusion": 10.5,
+     "winRate": 59.2,
+     "games": 4693,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 22.6,
+     "winRate": 59.1,
+     "games": 10041,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "She-Hulk, Jade Defender",
+     "inclusion": 30.9,
+     "winRate": 59.0,
+     "games": 13662,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 16.1,
+     "winRate": 59.0,
+     "games": 7052,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 12.4,
+     "winRate": 59.0,
+     "games": 5536,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "inclusion": 12.3,
+     "winRate": 59.0,
+     "games": 5396,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Punishing Punch",
+     "inclusion": 28.9,
+     "winRate": 58.9,
+     "games": 12769,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "inclusion": 31.5,
+     "winRate": 58.7,
+     "games": 13951,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "inclusion": 9.8,
+     "winRate": 58.7,
+     "games": 4342,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Hero in Training",
+     "inclusion": 54.1,
+     "winRate": 58.6,
+     "games": 23958,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Baxter Building",
+     "inclusion": 15.8,
+     "winRate": 58.6,
+     "games": 6928,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Undercover Skrull",
+     "inclusion": 51.7,
+     "winRate": 58.5,
+     "games": 22794,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Daredevil, Man Without Fear",
+     "inclusion": 5.1,
+     "winRate": 58.5,
+     "games": 2294,
+     "trophyInclusion": 4.6
+    },
+    {
+     "name": "Political Triumph",
+     "inclusion": 22.4,
+     "winRate": 58.4,
+     "games": 9818,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Storm, Windrider",
+     "inclusion": 19.8,
+     "winRate": 58.3,
+     "games": 8626,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+     "inclusion": 6.1,
+     "winRate": 58.2,
+     "games": 2614,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Go Nuts!",
+     "inclusion": 57.5,
+     "winRate": 58.0,
+     "games": 25207,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Murdock's Crusade",
+     "inclusion": 48.0,
+     "winRate": 58.0,
+     "games": 21003,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Web Up",
+     "inclusion": 47.5,
+     "winRate": 58.0,
+     "games": 20813,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "White Tiger, Ava Ayala",
+     "inclusion": 30.9,
+     "winRate": 58.0,
+     "games": 13512,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Agent 13, Sharon Carter",
+     "inclusion": 23.2,
+     "winRate": 58.0,
+     "games": 10196,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Patriot, Shield Wielder",
+     "inclusion": 22.5,
+     "winRate": 58.0,
+     "games": 9852,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 24.1,
+     "winRate": 57.9,
+     "games": 10609,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Agent Maria Hill",
+     "inclusion": 20.4,
+     "winRate": 57.9,
+     "games": 8954,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "The Unbeatable Squirrel Girl",
+     "inclusion": 13.3,
+     "winRate": 57.9,
+     "games": 5886,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "inclusion": 13.3,
+     "winRate": 57.8,
+     "games": 5835,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Brave Brawler",
+     "inclusion": 48.2,
+     "winRate": 57.6,
+     "games": 20981,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Borough Backup",
+     "inclusion": 45.8,
+     "winRate": 57.6,
+     "games": 19918,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 25.0,
+     "winRate": 57.5,
+     "games": 10791,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Earth's Mightiest Heroes",
+     "inclusion": 5.3,
+     "winRate": 57.5,
+     "games": 2260,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Pet Avengers",
+     "inclusion": 52.8,
+     "winRate": 57.4,
+     "games": 22891,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 48.9,
+     "winRate": 57.4,
+     "games": 21244,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Raft Security Officer",
+     "inclusion": 44.9,
+     "winRate": 57.4,
+     "games": 19562,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Red Guardian, Super-Soldier",
+     "inclusion": 20.4,
+     "winRate": 57.4,
+     "games": 8870,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Gathering Place",
+     "inclusion": 12.2,
+     "winRate": 57.4,
+     "games": 5287,
+     "trophyInclusion": 11.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-07-07",
+    "main": [
+     [
+      1,
+      "Agent 13, Sharon Carter"
+     ],
+     [
+      1,
+      "Avengers Tower"
+     ],
+     [
+      1,
+      "Birnin Zana Plaza"
+     ],
+     [
+      1,
+      "Borough Backup"
+     ],
+     [
+      1,
+      "Brave Brawler"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      3,
+      "Go Nuts!"
+     ],
+     [
+      1,
+      "Guerrilla Gorilla"
+     ],
+     [
+      1,
+      "Hercules, Prince of Power"
+     ],
+     [
+      1,
+      "Hero in Training"
+     ],
+     [
+      1,
+      "Murdock's Crusade"
+     ],
+     [
+      1,
+      "Patriot, Shield Wielder"
+     ],
+     [
+      1,
+      "Pet Avengers"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      2,
+      "Political Triumph"
+     ],
+     [
+      1,
+      "Punishing Punch"
+     ],
+     [
+      1,
+      "Raft Security Officer"
+     ],
+     [
+      1,
+      "Serpent Specialist"
+     ],
+     [
+      1,
+      "She-Hulk, Jade Defender"
+     ],
+     [
+      1,
+      "Spider-Man, To the Rescue"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Titania, Rugged Rumbler"
+     ],
+     [
+      1,
+      "U.S.Agent, John Walker"
+     ],
+     [
+      1,
+      "Undercover Skrull"
+     ],
+     [
+      1,
+      "Wakandan Royal Guard"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ant-Man, Colony Commander"
+     ],
+     [
+      1,
+      "Crowd of True Believers"
+     ],
+     [
+      1,
+      "Doc Samson, Super Psychiatrist"
+     ],
+     [
+      1,
+      "Killmonger, Scourge of Wakanda"
+     ],
+     [
+      1,
+      "Moon Girl and Devil Dinosaur"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      1,
+      "Subterranean Cavern"
+     ],
+     [
+      1,
+      "Super Strength"
+     ],
+     [
+      1,
+      "The Coming of Galactus"
+     ],
+     [
+      1,
+      "Training Regimen"
+     ],
+     [
+      1,
+      "Villainous Hideout"
+     ],
+     [
+      1,
+      "Viv Vision, Teen Synthezoid"
+     ],
+     [
+      1,
+      "Wakandan Drone Flock"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 30897,
+   "wins": 17018,
+   "winRate": 55.08,
+   "share": 8.18,
+   "drafts": 5620,
+   "trophies": 445,
+   "cards": [
+    {
+     "name": "M.O.D.O.K.",
+     "inclusion": 7.2,
+     "winRate": 59.2,
+     "games": 2407,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Leader, Super-Genius",
+     "inclusion": 16.9,
+     "winRate": 58.9,
+     "games": 5585,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Elektra, Daughter of the Hand",
+     "inclusion": 14.3,
+     "winRate": 58.7,
+     "games": 4659,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Avengers: Under Siege",
+     "inclusion": 6.1,
+     "winRate": 58.7,
+     "games": 1966,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "The Ruinous Wrecking Crew",
+     "inclusion": 5.4,
+     "winRate": 58.4,
+     "games": 1753,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "The Wondrous Wasp",
+     "inclusion": 10.7,
+     "winRate": 58.0,
+     "games": 3478,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Doctor Doom",
+     "inclusion": 7.2,
+     "winRate": 57.8,
+     "games": 2312,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Hell's Kitchen",
+     "inclusion": 11.3,
+     "winRate": 57.7,
+     "games": 3622,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 7.7,
+     "winRate": 57.3,
+     "games": 2468,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Justice, Vance Astrovik",
+     "inclusion": 26.2,
+     "winRate": 57.2,
+     "games": 8338,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Dark Deed",
+     "inclusion": 29.0,
+     "winRate": 56.9,
+     "games": 9216,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 7.9,
+     "winRate": 56.6,
+     "games": 2457,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Madame Masque",
+     "inclusion": 36.3,
+     "winRate": 56.5,
+     "games": 11379,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Cruel Alliance",
+     "inclusion": 57.3,
+     "winRate": 56.4,
+     "games": 18008,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "S.H.I.E.L.D. Deployment Drone",
+     "inclusion": 48.1,
+     "winRate": 56.4,
+     "games": 15016,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Pym Technologies",
+     "inclusion": 6.3,
+     "winRate": 56.4,
+     "games": 1937,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "We Say Thee Nay!",
+     "inclusion": 52.5,
+     "winRate": 56.3,
+     "games": 16535,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Super-Skrull",
+     "inclusion": 14.1,
+     "winRate": 56.3,
+     "games": 4420,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Trickster's Stratagem",
+     "inclusion": 54.7,
+     "winRate": 56.2,
+     "games": 17136,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Klaw, Sonic Subjugator",
+     "inclusion": 29.6,
+     "winRate": 56.2,
+     "games": 9292,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 11.4,
+     "winRate": 56.2,
+     "games": 3552,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Stark Industries",
+     "inclusion": 10.5,
+     "winRate": 56.2,
+     "games": 3247,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 28.1,
+     "winRate": 56.1,
+     "games": 8785,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "HYDRA Infiltration",
+     "inclusion": 18.4,
+     "winRate": 56.1,
+     "games": 5782,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Kang the Conqueror",
+     "inclusion": 5.8,
+     "winRate": 56.0,
+     "games": 1780,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Futurist Forge",
+     "inclusion": 38.8,
+     "winRate": 55.9,
+     "games": 12062,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Falcon, Winged Wonder",
+     "inclusion": 22.1,
+     "winRate": 55.9,
+     "games": 6829,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Giant-Sized Flying Ant",
+     "inclusion": 20.1,
+     "winRate": 55.9,
+     "games": 6291,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Bold Biochemist",
+     "inclusion": 44.2,
+     "winRate": 55.7,
+     "games": 13720,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Stature, Size Shifter",
+     "inclusion": 19.0,
+     "winRate": 55.7,
+     "games": 5894,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "A.I.M. Scientists",
+     "inclusion": 48.6,
+     "winRate": 55.6,
+     "games": 15218,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 26.4,
+     "winRate": 55.6,
+     "games": 8186,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Red Room Recruit",
+     "inclusion": 54.5,
+     "winRate": 55.5,
+     "games": 16915,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Widow's Bite",
+     "inclusion": 49.4,
+     "winRate": 55.5,
+     "games": 15349,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "A.I.M. Labs",
+     "inclusion": 45.2,
+     "winRate": 55.5,
+     "games": 14063,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Hydraulic Helper",
+     "inclusion": 11.8,
+     "winRate": 55.5,
+     "games": 3609,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Villainous Hideout",
+     "inclusion": 23.5,
+     "winRate": 55.3,
+     "games": 7397,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Secret Invasion",
+     "inclusion": 10.4,
+     "winRate": 55.3,
+     "games": 3180,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Dependable Quinjet",
+     "inclusion": 6.4,
+     "winRate": 55.3,
+     "games": 1941,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Super-Adaptoid",
+     "inclusion": 5.2,
+     "winRate": 55.3,
+     "games": 1613,
+     "trophyInclusion": 4.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-07-12",
+    "main": [
+     [
+      1,
+      "A.I.M. Labs"
+     ],
+     [
+      2,
+      "A.I.M. Scientists"
+     ],
+     [
+      1,
+      "Bold Biochemist"
+     ],
+     [
+      1,
+      "Cruel Alliance"
+     ],
+     [
+      2,
+      "Frozen in Ice"
+     ],
+     [
+      1,
+      "Futurist Forge"
+     ],
+     [
+      1,
+      "HYDRA Troopers"
+     ],
+     [
+      1,
+      "Hell's Kitchen"
+     ],
+     [
+      1,
+      "Hour of Defeat"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Justice, Vance Astrovik"
+     ],
+     [
+      1,
+      "Kang, Temporal Tyrant"
+     ],
+     [
+      1,
+      "Kingpin's Enforcers"
+     ],
+     [
+      1,
+      "Klaw, Sonic Subjugator"
+     ],
+     [
+      2,
+      "Madame Masque"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Project Deathlok Soldier"
+     ],
+     [
+      1,
+      "Red Room Recruit"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Deployment Drone"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Ruinous Wrecking Crew"
+     ],
+     [
+      2,
+      "Trickster's Stratagem"
+     ],
+     [
+      2,
+      "We Say Thee Nay!"
+     ],
+     [
+      1,
+      "Whiplash, Vengeful Engineer"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agent Maria Hill"
+     ],
+     [
+      1,
+      "Captain Marvel, Earth's Protector"
+     ],
+     [
+      1,
+      "Frozen in Ice"
+     ],
+     [
+      1,
+      "I Am Iron Man"
+     ],
+     [
+      1,
+      "Kingpin's Enforcers"
+     ],
+     [
+      1,
+      "Panther Pounce"
+     ],
+     [
+      1,
+      "Powerful Broker"
+     ],
+     [
+      1,
+      "Rewrite History"
+     ],
+     [
+      1,
+      "Robot Domination"
+     ],
+     [
+      1,
+      "Ronin, Shadow Stalker"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Helicarrier"
+     ],
+     [
+      1,
+      "Stature, Size Shifter"
+     ],
+     [
+      2,
+      "Super Suit"
+     ],
+     [
+      1,
+      "Tony Stark"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 29741,
+   "wins": 16712,
+   "winRate": 56.19,
+   "share": 7.88,
+   "drafts": 5329,
+   "trophies": 480,
+   "cards": [
+    {
+     "name": "Doctor Doom",
+     "inclusion": 6.7,
+     "winRate": 61.5,
+     "games": 2099,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "inclusion": 8.7,
+     "winRate": 59.7,
+     "games": 2675,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 5.5,
+     "winRate": 59.7,
+     "games": 1721,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "M.O.D.O.K.",
+     "inclusion": 6.2,
+     "winRate": 59.4,
+     "games": 1953,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Birnin Zana Plaza",
+     "inclusion": 7.1,
+     "winRate": 58.9,
+     "games": 2162,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 8.2,
+     "winRate": 58.7,
+     "games": 2518,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Cloak and Dagger, Entwined",
+     "inclusion": 22.9,
+     "winRate": 58.4,
+     "games": 7035,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Agent Maria Hill",
+     "inclusion": 21.8,
+     "winRate": 58.4,
+     "games": 6642,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 14.9,
+     "winRate": 58.2,
+     "games": 4476,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Hero in Training",
+     "inclusion": 47.1,
+     "winRate": 57.8,
+     "games": 14264,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Elektra, Daughter of the Hand",
+     "inclusion": 14.6,
+     "winRate": 57.6,
+     "games": 4458,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 8.9,
+     "winRate": 57.6,
+     "games": 2677,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 5.5,
+     "winRate": 57.6,
+     "games": 1655,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "HYDRA Infiltration",
+     "inclusion": 31.9,
+     "winRate": 57.5,
+     "games": 9703,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Red Guardian, Super-Soldier",
+     "inclusion": 22.5,
+     "winRate": 57.5,
+     "games": 6821,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Ronin, Shadow Stalker",
+     "inclusion": 17.5,
+     "winRate": 57.5,
+     "games": 5222,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Wakandan Drone Flock",
+     "inclusion": 29.4,
+     "winRate": 57.4,
+     "games": 8891,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 25.4,
+     "winRate": 57.4,
+     "games": 7658,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Brave Brawler",
+     "inclusion": 44.2,
+     "winRate": 57.3,
+     "games": 13261,
+     "trophyInclusion": 45.8
+    },
+    {
+     "name": "Web Up",
+     "inclusion": 46.2,
+     "winRate": 57.2,
+     "games": 13927,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Dark Deed",
+     "inclusion": 26.6,
+     "winRate": 57.2,
+     "games": 8001,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Agent 13, Sharon Carter",
+     "inclusion": 26.6,
+     "winRate": 57.2,
+     "games": 7975,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Cruel Alliance",
+     "inclusion": 55.4,
+     "winRate": 57.1,
+     "games": 16708,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "S.H.I.E.L.D. Spy Kit",
+     "inclusion": 49.9,
+     "winRate": 57.1,
+     "games": 14965,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Agent of Atlas",
+     "inclusion": 30.0,
+     "winRate": 57.1,
+     "games": 8968,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 27.4,
+     "winRate": 57.1,
+     "games": 8293,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Okoye, Dora Milaje Leader",
+     "inclusion": 19.8,
+     "winRate": 57.1,
+     "games": 5940,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Murdock's Crusade",
+     "inclusion": 43.4,
+     "winRate": 57.0,
+     "games": 13030,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Fisk Tower",
+     "inclusion": 43.9,
+     "winRate": 56.9,
+     "games": 13224,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Whiplash, Vengeful Engineer",
+     "inclusion": 22.0,
+     "winRate": 56.9,
+     "games": 6621,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "inclusion": 6.9,
+     "winRate": 56.9,
+     "games": 2117,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Winter Soldier, Icy Assassin",
+     "inclusion": 25.6,
+     "winRate": 56.8,
+     "games": 7687,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Madame Masque",
+     "inclusion": 23.7,
+     "winRate": 56.8,
+     "games": 7093,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 6.9,
+     "winRate": 56.8,
+     "games": 2043,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Raft Security Officer",
+     "inclusion": 47.8,
+     "winRate": 56.7,
+     "games": 14326,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Night Nurse, Healer of Heroes",
+     "inclusion": 24.3,
+     "winRate": 56.7,
+     "games": 7282,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "The Kingpin of Crime",
+     "inclusion": 22.4,
+     "winRate": 56.7,
+     "games": 6726,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Crowd of True Believers",
+     "inclusion": 20.0,
+     "winRate": 56.7,
+     "games": 6020,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Origin of the Avengers",
+     "inclusion": 7.7,
+     "winRate": 56.7,
+     "games": 2293,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Stolen Stark Tech",
+     "inclusion": 38.1,
+     "winRate": 56.6,
+     "games": 11287,
+     "trophyInclusion": 39.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-06-24",
+    "main": [
+     [
+      1,
+      "Agent of Atlas"
+     ],
+     [
+      1,
+      "Agents of S.H.I.E.L.D."
+     ],
+     [
+      1,
+      "Black Widow, Double Agent"
+     ],
+     [
+      1,
+      "Borough Backup"
+     ],
+     [
+      1,
+      "Brave Brawler"
+     ],
+     [
+      1,
+      "Cruel Alliance"
+     ],
+     [
+      1,
+      "Dark Deed"
+     ],
+     [
+      1,
+      "Decoy Ploy"
+     ],
+     [
+      1,
+      "Grim Reaper, Lethal Legionnaire"
+     ],
+     [
+      1,
+      "Helicarrier Strike"
+     ],
+     [
+      1,
+      "Hour of Defeat"
+     ],
+     [
+      1,
+      "Klaw, Sonic Subjugator"
+     ],
+     [
+      1,
+      "Luke Cage, Power Man"
+     ],
+     [
+      1,
+      "Murdock's Crusade"
+     ],
+     [
+      1,
+      "Night Nurse, Healer of Heroes"
+     ],
+     [
+      1,
+      "Okoye, Dora Milaje Leader"
+     ],
+     [
+      1,
+      "Patriot, Shield Wielder"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Raft Security Officer"
+     ],
+     [
+      1,
+      "Roxxon Brutes"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Spy Kit"
+     ],
+     [
+      1,
+      "Stolen Stark Tech"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Web Up"
+     ],
+     [
+      1,
+      "Winter Soldier, Icy Assassin"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agent of Atlas"
+     ],
+     [
+      1,
+      "Baxter Building"
+     ],
+     [
+      1,
+      "Borough Backup"
+     ],
+     [
+      1,
+      "Dependable Quinjet"
+     ],
+     [
+      2,
+      "Depower"
+     ],
+     [
+      1,
+      "Hawkeye, Young Avenger"
+     ],
+     [
+      1,
+      "Justice, Vance Astrovik"
+     ],
+     [
+      1,
+      "K'un-Lun Warrior"
+     ],
+     [
+      1,
+      "Kree Commandos"
+     ],
+     [
+      1,
+      "Rick Jones, Destined Sidekick"
+     ],
+     [
+      1,
+      "Ronin, Shadow Stalker"
+     ],
+     [
+      1,
+      "Swordsman, Sharp Scoundrel"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Volcanic Villain"
+     ],
+     [
+      1,
+      "Widow's Bite"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 26857,
+   "wins": 15502,
+   "winRate": 57.72,
+   "share": 7.11,
+   "drafts": 4746,
+   "trophies": 476,
+   "cards": [
+    {
+     "name": "Leader, Super-Genius",
+     "inclusion": 11.1,
+     "winRate": 61.8,
+     "games": 3154,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "The Wondrous Wasp",
+     "inclusion": 10.8,
+     "winRate": 61.6,
+     "games": 3028,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Rapid Rescue",
+     "inclusion": 18.1,
+     "winRate": 60.9,
+     "games": 5052,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "inclusion": 7.1,
+     "winRate": 60.4,
+     "games": 1985,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Justice, Vance Astrovik",
+     "inclusion": 29.4,
+     "winRate": 60.3,
+     "games": 8165,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 9.9,
+     "winRate": 60.2,
+     "games": 2736,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 13.5,
+     "winRate": 60.1,
+     "games": 3711,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Bruce Banner",
+     "inclusion": 6.4,
+     "winRate": 59.8,
+     "games": 1710,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 11.6,
+     "winRate": 59.4,
+     "games": 3146,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Stark Industries",
+     "inclusion": 9.0,
+     "winRate": 59.3,
+     "games": 2432,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Undercover Skrull",
+     "inclusion": 61.1,
+     "winRate": 59.2,
+     "games": 16750,
+     "trophyInclusion": 68.5
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "inclusion": 33.1,
+     "winRate": 59.2,
+     "games": 9001,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 10.4,
+     "winRate": 59.1,
+     "games": 2762,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Ant-Man's Army",
+     "inclusion": 46.1,
+     "winRate": 59.0,
+     "games": 12493,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Falcon, Winged Wonder",
+     "inclusion": 26.0,
+     "winRate": 59.0,
+     "games": 7067,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 25.0,
+     "winRate": 59.0,
+     "games": 6790,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 15.4,
+     "winRate": 59.0,
+     "games": 4108,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Trickster's Stratagem",
+     "inclusion": 57.4,
+     "winRate": 58.9,
+     "games": 15565,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "S.H.I.E.L.D. Deployment Drone",
+     "inclusion": 48.9,
+     "winRate": 58.9,
+     "games": 13403,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "She-Hulk, Jade Defender",
+     "inclusion": 31.2,
+     "winRate": 58.9,
+     "games": 8548,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Absorbing Man",
+     "inclusion": 24.9,
+     "winRate": 58.9,
+     "games": 6699,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 6.2,
+     "winRate": 58.9,
+     "games": 1670,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Earth's Mightiest Heroes",
+     "inclusion": 6.2,
+     "winRate": 58.9,
+     "games": 1666,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "A.I.M. Scientists",
+     "inclusion": 39.0,
+     "winRate": 58.8,
+     "games": 10542,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Futurist Forge",
+     "inclusion": 35.3,
+     "winRate": 58.8,
+     "games": 9644,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Kang the Conqueror",
+     "inclusion": 5.0,
+     "winRate": 58.8,
+     "games": 1387,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 33.6,
+     "winRate": 58.7,
+     "games": 9030,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Stature, Size Shifter",
+     "inclusion": 26.0,
+     "winRate": 58.7,
+     "games": 7124,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Baxter Building",
+     "inclusion": 15.8,
+     "winRate": 58.7,
+     "games": 4277,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Secret Invasion",
+     "inclusion": 10.6,
+     "winRate": 58.7,
+     "games": 2948,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Hulk, Gamma Goliath",
+     "inclusion": 5.2,
+     "winRate": 58.7,
+     "games": 1380,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "We Say Thee Nay!",
+     "inclusion": 51.4,
+     "winRate": 58.6,
+     "games": 13894,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Punishing Punch",
+     "inclusion": 31.2,
+     "winRate": 58.5,
+     "games": 8413,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Go Nuts!",
+     "inclusion": 58.7,
+     "winRate": 58.4,
+     "games": 15986,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "S.H.I.E.L.D. Flying Car",
+     "inclusion": 10.5,
+     "winRate": 58.4,
+     "games": 2884,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "The Unbeatable Squirrel Girl",
+     "inclusion": 13.5,
+     "winRate": 58.3,
+     "games": 3649,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Bold Biochemist",
+     "inclusion": 50.3,
+     "winRate": 58.2,
+     "games": 13630,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Frozen in Ice",
+     "inclusion": 49.6,
+     "winRate": 58.1,
+     "games": 13425,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Atlantis Attacks",
+     "inclusion": 47.3,
+     "winRate": 58.1,
+     "games": 12687,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Guerrilla Gorilla",
+     "inclusion": 42.3,
+     "winRate": 58.0,
+     "games": 11417,
+     "trophyInclusion": 43.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-07-13",
+    "main": [
+     [
+      1,
+      "Ant-Man's Army"
+     ],
+     [
+      1,
+      "Atlantis Attacks"
+     ],
+     [
+      2,
+      "Bold Biochemist"
+     ],
+     [
+      1,
+      "Bruce Banner"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Frozen in Ice"
+     ],
+     [
+      2,
+      "Go Nuts!"
+     ],
+     [
+      1,
+      "Guerrilla Gorilla"
+     ],
+     [
+      1,
+      "H.E.R.B.I.E. Scout Unit"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Knight of Wundagore"
+     ],
+     [
+      2,
+      "Los Diablos Missile Base"
+     ],
+     [
+      1,
+      "Pet Avengers"
+     ],
+     [
+      1,
+      "Powerful Broker"
+     ],
+     [
+      1,
+      "Punishing Punch"
+     ],
+     [
+      1,
+      "Pym Technologies"
+     ],
+     [
+      1,
+      "Rapid Rescue"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Deployment Drone"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      2,
+      "Surveillance Room"
+     ],
+     [
+      1,
+      "The Vision"
+     ],
+     [
+      1,
+      "Titania, Rugged Rumbler"
+     ],
+     [
+      1,
+      "Trickster's Stratagem"
+     ],
+     [
+      1,
+      "Undercover Skrull"
+     ],
+     [
+      1,
+      "We Say Thee Nay!"
+     ],
+     [
+      1,
+      "White Tiger, Ava Ayala"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "A.I.M. Labs"
+     ],
+     [
+      2,
+      "Atlantean Cavalry"
+     ],
+     [
+      1,
+      "Atlantis Attacks"
+     ],
+     [
+      1,
+      "Blazing Crescendo"
+     ],
+     [
+      1,
+      "Depower"
+     ],
+     [
+      1,
+      "HYDRA Infiltration"
+     ],
+     [
+      1,
+      "Kang, Temporal Tyrant"
+     ],
+     [
+      1,
+      "Red Room Recruit"
+     ],
+     [
+      1,
+      "Roxxon Brutes"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 24746,
+   "wins": 13201,
+   "winRate": 53.35,
+   "share": 6.55,
+   "drafts": 4613,
+   "trophies": 316,
+   "cards": [
+    {
+     "name": "Leader, Super-Genius",
+     "inclusion": 9.3,
+     "winRate": 58.0,
+     "games": 2443,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 5.5,
+     "winRate": 57.9,
+     "games": 1448,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Vision Quest",
+     "inclusion": 26.7,
+     "winRate": 56.4,
+     "games": 6762,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "inclusion": 6.6,
+     "winRate": 55.9,
+     "games": 1711,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Tony Stark",
+     "inclusion": 11.8,
+     "winRate": 55.8,
+     "games": 3051,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Justice, Vance Astrovik",
+     "inclusion": 24.4,
+     "winRate": 55.7,
+     "games": 6234,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "S.H.I.E.L.D. Flying Car",
+     "inclusion": 12.8,
+     "winRate": 55.2,
+     "games": 3249,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "The Wondrous Wasp",
+     "inclusion": 10.9,
+     "winRate": 55.2,
+     "games": 2755,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Trickster's Stratagem",
+     "inclusion": 50.1,
+     "winRate": 54.8,
+     "games": 12586,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Jessica Jones, Private Eye",
+     "inclusion": 24.8,
+     "winRate": 54.8,
+     "games": 6192,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Falcon, Winged Wonder",
+     "inclusion": 18.6,
+     "winRate": 54.8,
+     "games": 4681,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Baxter Building",
+     "inclusion": 8.6,
+     "winRate": 54.8,
+     "games": 2137,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Super-Adaptoid",
+     "inclusion": 6.1,
+     "winRate": 54.8,
+     "games": 1489,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Mjölnir, Hammer of Thor",
+     "inclusion": 5.2,
+     "winRate": 54.8,
+     "games": 1275,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Futurist Forge",
+     "inclusion": 55.2,
+     "winRate": 54.5,
+     "games": 13878,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "A.I.M. Scientists",
+     "inclusion": 23.1,
+     "winRate": 54.4,
+     "games": 5793,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Giant-Sized Flying Ant",
+     "inclusion": 15.1,
+     "winRate": 54.4,
+     "games": 3770,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Speed, Young Avenger",
+     "inclusion": 5.1,
+     "winRate": 54.4,
+     "games": 1240,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 5.0,
+     "winRate": 54.4,
+     "games": 1258,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "S.H.I.E.L.D. Deployment Drone",
+     "inclusion": 59.2,
+     "winRate": 54.3,
+     "games": 14872,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 7.3,
+     "winRate": 54.3,
+     "games": 1810,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Stark Industries",
+     "inclusion": 40.9,
+     "winRate": 54.2,
+     "games": 10176,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Stature, Size Shifter",
+     "inclusion": 17.1,
+     "winRate": 54.2,
+     "games": 4240,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 11.9,
+     "winRate": 54.2,
+     "games": 2941,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Frozen in Ice",
+     "inclusion": 46.3,
+     "winRate": 54.1,
+     "games": 11592,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Secret Invasion",
+     "inclusion": 10.9,
+     "winRate": 54.1,
+     "games": 2734,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Avengers Hangar",
+     "inclusion": 7.0,
+     "winRate": 54.1,
+     "games": 1739,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 51.9,
+     "winRate": 53.9,
+     "games": 12929,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Aerial Doombot",
+     "inclusion": 50.6,
+     "winRate": 53.9,
+     "games": 12629,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "We Say Thee Nay!",
+     "inclusion": 47.6,
+     "winRate": 53.9,
+     "games": 11850,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 41.1,
+     "winRate": 53.9,
+     "games": 10294,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "inclusion": 6.2,
+     "winRate": 53.8,
+     "games": 1540,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Super Suit",
+     "inclusion": 23.2,
+     "winRate": 53.7,
+     "games": 5832,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 21.1,
+     "winRate": 53.7,
+     "games": 5280,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Loki, God of Mischief",
+     "inclusion": 8.2,
+     "winRate": 53.7,
+     "games": 2041,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Iron Man, Master of Machines",
+     "inclusion": 50.5,
+     "winRate": 53.6,
+     "games": 12605,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "HULK SMASH!",
+     "inclusion": 39.0,
+     "winRate": 53.6,
+     "games": 9724,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Depower",
+     "inclusion": 22.1,
+     "winRate": 53.6,
+     "games": 5421,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Ultron, Artificial Malevolence",
+     "inclusion": 8.0,
+     "winRate": 53.6,
+     "games": 1998,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Photon Blast Barrage",
+     "inclusion": 26.4,
+     "winRate": 53.5,
+     "games": 6507,
+     "trophyInclusion": 27.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-06-24",
+    "main": [
+     [
+      1,
+      "A.I.M. Scientists"
+     ],
+     [
+      1,
+      "Aerial Doombot"
+     ],
+     [
+      1,
+      "Armor Wars"
+     ],
+     [
+      1,
+      "Crimson Operative"
+     ],
+     [
+      1,
+      "Death to Our Enemies"
+     ],
+     [
+      1,
+      "Falcon's Wing Harness"
+     ],
+     [
+      1,
+      "Frozen in Ice"
+     ],
+     [
+      1,
+      "Futurist Forge"
+     ],
+     [
+      1,
+      "H.E.R.B.I.E. Scout Unit"
+     ],
+     [
+      1,
+      "HYDRA Assault Robot"
+     ],
+     [
+      2,
+      "Hydraulic Helper"
+     ],
+     [
+      1,
+      "Iron Lad, Diverging Destiny"
+     ],
+     [
+      1,
+      "Iron Man, Master of Machines"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Kid Loki"
+     ],
+     [
+      1,
+      "Kree Sentinel"
+     ],
+     [
+      2,
+      "Machinesmith Automaton"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Repulsor Blast"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Deployment Drone"
+     ],
+     [
+      1,
+      "Stark Industries"
+     ],
+     [
+      1,
+      "Super-Adaptoid"
+     ],
+     [
+      1,
+      "Thirst for Knowledge"
+     ],
+     [
+      1,
+      "Tony Stark"
+     ],
+     [
+      1,
+      "We Say Thee Nay!"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Decoy Ploy"
+     ],
+     [
+      1,
+      "Dependable Quinjet"
+     ],
+     [
+      1,
+      "Falcon, Winged Wonder"
+     ],
+     [
+      1,
+      "Pet Avengers"
+     ],
+     [
+      2,
+      "Roxxon Brutes"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Spy Kit"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      1,
+      "Stolen Stark Tech"
+     ],
+     [
+      1,
+      "Super Speed"
+     ],
+     [
+      1,
+      "Super Strength"
+     ],
+     [
+      1,
+      "Super Suit"
+     ],
+     [
+      2,
+      "Taskmaster, Mercenary Mimic"
+     ],
+     [
+      1,
+      "Unliving Legionnaire"
+     ],
+     [
+      1,
+      "Wiccan, Rising Magician"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 21471,
+   "wins": 11895,
+   "winRate": 55.4,
+   "share": 5.69,
+   "drafts": 3869,
+   "trophies": 326,
+   "cards": [
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 19.9,
+     "winRate": 60.0,
+     "games": 4573,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "inclusion": 9.1,
+     "winRate": 59.8,
+     "games": 2075,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "inclusion": 9.9,
+     "winRate": 59.0,
+     "games": 2206,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 19.0,
+     "winRate": 57.8,
+     "games": 4196,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "inclusion": 8.4,
+     "winRate": 57.6,
+     "games": 1899,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Political Triumph",
+     "inclusion": 20.0,
+     "winRate": 57.5,
+     "games": 4418,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "inclusion": 15.0,
+     "winRate": 57.4,
+     "games": 3264,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Hero in Training",
+     "inclusion": 50.5,
+     "winRate": 57.3,
+     "games": 11006,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Murdock's Crusade",
+     "inclusion": 43.2,
+     "winRate": 57.1,
+     "games": 9445,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Hawkeye, Master Marksman",
+     "inclusion": 15.7,
+     "winRate": 57.1,
+     "games": 3440,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Jessica Jones, Private Eye",
+     "inclusion": 34.7,
+     "winRate": 56.9,
+     "games": 7602,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Monica Rambeau",
+     "inclusion": 10.0,
+     "winRate": 56.9,
+     "games": 2204,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Borough Backup",
+     "inclusion": 44.5,
+     "winRate": 56.8,
+     "games": 9678,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Agent Maria Hill",
+     "inclusion": 24.0,
+     "winRate": 56.8,
+     "games": 5237,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Red Guardian, Super-Soldier",
+     "inclusion": 22.6,
+     "winRate": 56.8,
+     "games": 4996,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Origin of the Avengers",
+     "inclusion": 9.8,
+     "winRate": 56.7,
+     "games": 2149,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+     "inclusion": 6.4,
+     "winRate": 56.7,
+     "games": 1379,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 5.3,
+     "winRate": 56.7,
+     "games": 1152,
+     "trophyInclusion": 4.6
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 7.8,
+     "winRate": 56.6,
+     "games": 1699,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Misty Knight, Hero for Hire",
+     "inclusion": 26.7,
+     "winRate": 56.5,
+     "games": 5865,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "S.H.I.E.L.D. Spy Kit",
+     "inclusion": 37.6,
+     "winRate": 56.4,
+     "games": 8172,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Patriot, Shield Wielder",
+     "inclusion": 25.0,
+     "winRate": 56.3,
+     "games": 5469,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Agent 13, Sharon Carter",
+     "inclusion": 24.9,
+     "winRate": 56.3,
+     "games": 5368,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Okoye, Dora Milaje Leader",
+     "inclusion": 21.3,
+     "winRate": 56.3,
+     "games": 4596,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Birnin Zana Plaza",
+     "inclusion": 6.1,
+     "winRate": 56.2,
+     "games": 1339,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 49.0,
+     "winRate": 56.1,
+     "games": 10626,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Raft Security Officer",
+     "inclusion": 46.2,
+     "winRate": 56.1,
+     "games": 9989,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Night Nurse, Healer of Heroes",
+     "inclusion": 23.3,
+     "winRate": 56.1,
+     "games": 5082,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Brave Brawler",
+     "inclusion": 47.4,
+     "winRate": 56.0,
+     "games": 10227,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Web Up",
+     "inclusion": 47.2,
+     "winRate": 56.0,
+     "games": 10232,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Agent of Atlas",
+     "inclusion": 46.5,
+     "winRate": 56.0,
+     "games": 10045,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Photon Blast Barrage",
+     "inclusion": 29.3,
+     "winRate": 56.0,
+     "games": 6301,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Quake, Agent of S.H.I.E.L.D.",
+     "inclusion": 23.5,
+     "winRate": 56.0,
+     "games": 5116,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 21.8,
+     "winRate": 56.0,
+     "games": 4659,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Helicarrier Strike",
+     "inclusion": 44.0,
+     "winRate": 55.9,
+     "games": 9513,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 54.3,
+     "winRate": 55.8,
+     "games": 11774,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "HULK SMASH!",
+     "inclusion": 52.3,
+     "winRate": 55.8,
+     "games": 11284,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Asgardian Citadel",
+     "inclusion": 40.0,
+     "winRate": 55.8,
+     "games": 8620,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Daredevil, Man Without Fear",
+     "inclusion": 24.0,
+     "winRate": 55.8,
+     "games": 5135,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Wakandan Drone Flock",
+     "inclusion": 28.0,
+     "winRate": 55.6,
+     "games": 6050,
+     "trophyInclusion": 32.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-06-27",
+    "main": [
+     [
+      1,
+      "Agent Maria Hill"
+     ],
+     [
+      1,
+      "Agent of Atlas"
+     ],
+     [
+      1,
+      "Agents of S.H.I.E.L.D."
+     ],
+     [
+      2,
+      "Asgardian Citadel"
+     ],
+     [
+      1,
+      "Borough Backup"
+     ],
+     [
+      1,
+      "Brave Brawler"
+     ],
+     [
+      1,
+      "Crowd of True Believers"
+     ],
+     [
+      1,
+      "Fin Fang Foom"
+     ],
+     [
+      2,
+      "H.E.R.B.I.E. Scout Unit"
+     ],
+     [
+      1,
+      "HULK SMASH!"
+     ],
+     [
+      1,
+      "Hero in Training"
+     ],
+     [
+      1,
+      "Kree Sentinel"
+     ],
+     [
+      1,
+      "Loki Laufeyson"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murdock's Crusade"
+     ],
+     [
+      1,
+      "Photon Blast Barrage"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Quake, Agent of S.H.I.E.L.D."
+     ],
+     [
+      1,
+      "Raft Security Officer"
+     ],
+     [
+      1,
+      "Red Hulk"
+     ],
+     [
+      1,
+      "Repulsor Blast"
+     ],
+     [
+      1,
+      "S.H.I.E.L.D. Spy Kit"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "The Super Hero Civil War"
+     ],
+     [
+      1,
+      "Web Up"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Hawkeye's Bow"
+     ],
+     [
+      1,
+      "Hire a Crew"
+     ],
+     [
+      1,
+      "Iron Fist, Living Weapon"
+     ],
+     [
+      1,
+      "K'un-Lun Warrior"
+     ],
+     [
+      1,
+      "Kree Sentinel"
+     ],
+     [
+      1,
+      "Misty Knight, Hero for Hire"
+     ],
+     [
+      1,
+      "Mockingbird, Ace Agent"
+     ],
+     [
+      1,
+      "Moonstone, Harsh Mistress"
+     ],
+     [
+      1,
+      "Raft Security Officer"
+     ],
+     [
+      1,
+      "Speedball, New Warrior"
+     ],
+     [
+      1,
+      "Super-Soldier Serum"
+     ],
+     [
+      1,
+      "Ultron Drone"
+     ],
+     [
+      1,
+      "Wakandan Drone Flock"
+     ],
+     [
+      1,
+      "Web Up"
+     ],
+     [
+      1,
+      "Widow's Bite"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 20552,
+   "wins": 10642,
+   "winRate": 51.78,
+   "share": 5.44,
+   "drafts": 3903,
+   "trophies": 242,
+   "cards": [
+    {
+     "name": "M.O.D.O.K.",
+     "inclusion": 6.2,
+     "winRate": 57.0,
+     "games": 1349,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Avengers: Under Siege",
+     "inclusion": 28.0,
+     "winRate": 55.8,
+     "games": 6110,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Doctor Doom",
+     "inclusion": 5.5,
+     "winRate": 55.6,
+     "games": 1200,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "inclusion": 5.2,
+     "winRate": 55.4,
+     "games": 1109,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Villainous Hideout",
+     "inclusion": 26.5,
+     "winRate": 54.1,
+     "games": 5631,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Dark Deed",
+     "inclusion": 26.9,
+     "winRate": 54.0,
+     "games": 5738,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Elektra, Daughter of the Hand",
+     "inclusion": 12.9,
+     "winRate": 54.0,
+     "games": 2701,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "The Ruinous Wrecking Crew",
+     "inclusion": 25.2,
+     "winRate": 53.8,
+     "games": 5338,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Jessica Jones, Private Eye",
+     "inclusion": 24.4,
+     "winRate": 53.5,
+     "games": 5129,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 9.6,
+     "winRate": 53.5,
+     "games": 1981,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 7.3,
+     "winRate": 53.5,
+     "games": 1506,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Klaw, Sonic Subjugator",
+     "inclusion": 31.0,
+     "winRate": 53.4,
+     "games": 6497,
+     "trophyInclusion": 41.3
+    },
+    {
+     "name": "Swordsman, Sharp Scoundrel",
+     "inclusion": 16.0,
+     "winRate": 53.4,
+     "games": 3379,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Black Widow, Super Spy",
+     "inclusion": 5.4,
+     "winRate": 53.4,
+     "games": 1149,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 9.4,
+     "winRate": 53.2,
+     "games": 1954,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Baron Strucker, HYDRA Overlord",
+     "inclusion": 33.1,
+     "winRate": 53.0,
+     "games": 6978,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Yellowjacket, Heartless Marauder",
+     "inclusion": 31.4,
+     "winRate": 53.0,
+     "games": 6569,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Madame Masque",
+     "inclusion": 30.3,
+     "winRate": 53.0,
+     "games": 6351,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Ares, God of War",
+     "inclusion": 23.8,
+     "winRate": 53.0,
+     "games": 4987,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Whiplash, Vengeful Engineer",
+     "inclusion": 16.6,
+     "winRate": 52.9,
+     "games": 3496,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Hell's Kitchen",
+     "inclusion": 42.1,
+     "winRate": 52.8,
+     "games": 8783,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Titania, Rugged Rumbler",
+     "inclusion": 17.2,
+     "winRate": 52.8,
+     "games": 3581,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "HYDRA Infiltration",
+     "inclusion": 15.2,
+     "winRate": 52.8,
+     "games": 3194,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Hawkeye, Master Marksman",
+     "inclusion": 10.9,
+     "winRate": 52.8,
+     "games": 2293,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Cruel Alliance",
+     "inclusion": 56.3,
+     "winRate": 52.7,
+     "games": 11744,
+     "trophyInclusion": 62.8
+    },
+    {
+     "name": "Avengers Disassembled",
+     "inclusion": 7.2,
+     "winRate": 52.7,
+     "games": 1499,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Red Room Recruit",
+     "inclusion": 55.0,
+     "winRate": 52.6,
+     "games": 11431,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "Hour of Defeat",
+     "inclusion": 52.5,
+     "winRate": 52.6,
+     "games": 10969,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "U.S.Agent, John Walker",
+     "inclusion": 9.7,
+     "winRate": 52.6,
+     "games": 2028,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 51.0,
+     "winRate": 52.5,
+     "games": 10656,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Ninja of the Hand",
+     "inclusion": 38.9,
+     "winRate": 52.5,
+     "games": 8123,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Crimson Operative",
+     "inclusion": 41.1,
+     "winRate": 52.3,
+     "games": 8428,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Doom Reigns Supreme",
+     "inclusion": 12.9,
+     "winRate": 52.3,
+     "games": 2697,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Ronin, Shadow Stalker",
+     "inclusion": 7.0,
+     "winRate": 52.3,
+     "games": 1437,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Widow's Bite",
+     "inclusion": 49.7,
+     "winRate": 52.2,
+     "games": 10215,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Photon Blast Barrage",
+     "inclusion": 23.6,
+     "winRate": 52.2,
+     "games": 4899,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 23.2,
+     "winRate": 52.2,
+     "games": 4802,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Unliving Legionnaire",
+     "inclusion": 24.2,
+     "winRate": 52.0,
+     "games": 5025,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 13.9,
+     "winRate": 52.0,
+     "games": 2842,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Super-Skrull",
+     "inclusion": 12.8,
+     "winRate": 52.0,
+     "games": 2680,
+     "trophyInclusion": 10.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-07-06",
+    "main": [
+     [
+      1,
+      "Ares, God of War"
+     ],
+     [
+      2,
+      "Baron Strucker, HYDRA Overlord"
+     ],
+     [
+      1,
+      "Crimson Operative"
+     ],
+     [
+      1,
+      "Crossbones, Malicious Mercenary"
+     ],
+     [
+      1,
+      "Cruel Alliance"
+     ],
+     [
+      1,
+      "Dark Deed"
+     ],
+     [
+      1,
+      "Elektra, Daughter of the Hand"
+     ],
+     [
+      1,
+      "HULK SMASH!"
+     ],
+     [
+      1,
+      "HYDRA Assault Robot"
+     ],
+     [
+      1,
+      "HYDRA Infiltration"
+     ],
+     [
+      1,
+      "HYDRA Troopers"
+     ],
+     [
+      1,
+      "Klaw, Sonic Subjugator"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      2,
+      "Madame Masque"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Red Room Recruit"
+     ],
+     [
+      1,
+      "Repulsor Blast"
+     ],
+     [
+      1,
+      "Roxxon Brutes"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Ruinous Wrecking Crew"
+     ],
+     [
+      1,
+      "Too Evil to Stay Dead"
+     ],
+     [
+      1,
+      "Visions of Villainy"
+     ],
+     [
+      1,
+      "Widow's Bite"
+     ],
+     [
+      1,
+      "Yellowjacket, Heartless Marauder"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aerial Doombot"
+     ],
+     [
+      1,
+      "Avengers Tower"
+     ],
+     [
+      1,
+      "Bold Biochemist"
+     ],
+     [
+      1,
+      "Bullseye, Death Dealer"
+     ],
+     [
+      1,
+      "Depower"
+     ],
+     [
+      1,
+      "Evil's Thrall"
+     ],
+     [
+      1,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Hire a Crew"
+     ],
+     [
+      1,
+      "Madame Masque"
+     ],
+     [
+      1,
+      "Project Deathlok Soldier"
+     ],
+     [
+      1,
+      "Roxxon Brutes"
+     ],
+     [
+      1,
+      "Speed, Young Avenger"
+     ],
+     [
+      1,
+      "Stolen Stark Tech"
+     ],
+     [
+      1,
+      "Swordsman, Sharp Scoundrel"
+     ],
+     [
+      1,
+      "Vibranium Energy Daggers"
+     ],
+     [
+      1,
+      "We Say Thee Nay!"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 20392,
+   "wins": 11460,
+   "winRate": 56.2,
+   "share": 5.4,
+   "drafts": 3630,
+   "trophies": 337,
+   "cards": [
+    {
+     "name": "Doctor Doom",
+     "inclusion": 6.4,
+     "winRate": 61.9,
+     "games": 1406,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "inclusion": 5.9,
+     "winRate": 60.7,
+     "games": 1281,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "The Ruinous Wrecking Crew",
+     "inclusion": 7.6,
+     "winRate": 60.4,
+     "games": 1616,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Elektra, Daughter of the Hand",
+     "inclusion": 13.5,
+     "winRate": 59.9,
+     "games": 2885,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "M.O.D.O.K.",
+     "inclusion": 6.6,
+     "winRate": 59.9,
+     "games": 1428,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Avengers: Under Siege",
+     "inclusion": 7.1,
+     "winRate": 59.8,
+     "games": 1480,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Black Widow, Super Spy",
+     "inclusion": 5.1,
+     "winRate": 59.8,
+     "games": 1052,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "She-Hulk, Jade Defender",
+     "inclusion": 28.5,
+     "winRate": 58.5,
+     "games": 6034,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 24.0,
+     "winRate": 58.5,
+     "games": 5061,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Villainous Hideout",
+     "inclusion": 21.6,
+     "winRate": 58.3,
+     "games": 4419,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 13.9,
+     "winRate": 58.2,
+     "games": 2841,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Birnin Zana Plaza",
+     "inclusion": 7.5,
+     "winRate": 58.2,
+     "games": 1589,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Baxter Building",
+     "inclusion": 14.5,
+     "winRate": 58.0,
+     "games": 3047,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Project Deathlok Soldier",
+     "inclusion": 15.6,
+     "winRate": 57.9,
+     "games": 3237,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "The Coming of Galactus",
+     "inclusion": 14.8,
+     "winRate": 57.9,
+     "games": 3098,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Fisk Tower",
+     "inclusion": 7.9,
+     "winRate": 57.8,
+     "games": 1652,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 55.1,
+     "winRate": 57.7,
+     "games": 11563,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Pet Avengers",
+     "inclusion": 37.2,
+     "winRate": 57.7,
+     "games": 7704,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "inclusion": 32.0,
+     "winRate": 57.7,
+     "games": 6625,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Hell's Kitchen",
+     "inclusion": 14.3,
+     "winRate": 57.6,
+     "games": 2960,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Dark Deed",
+     "inclusion": 29.2,
+     "winRate": 57.5,
+     "games": 6071,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "The Unbeatable Squirrel Girl",
+     "inclusion": 13.1,
+     "winRate": 57.5,
+     "games": 2752,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Reptil, Dinomorpher",
+     "inclusion": 8.3,
+     "winRate": 57.5,
+     "games": 1719,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Punishing Punch",
+     "inclusion": 30.0,
+     "winRate": 57.4,
+     "games": 6230,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Surveillance Room",
+     "inclusion": 26.8,
+     "winRate": 57.3,
+     "games": 5568,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Super-Skrull",
+     "inclusion": 14.3,
+     "winRate": 57.3,
+     "games": 2967,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Bullseye, Death Dealer",
+     "inclusion": 10.9,
+     "winRate": 57.3,
+     "games": 2236,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Dependable Quinjet",
+     "inclusion": 6.9,
+     "winRate": 57.3,
+     "games": 1399,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Undercover Skrull",
+     "inclusion": 63.8,
+     "winRate": 57.2,
+     "games": 13125,
+     "trophyInclusion": 70.6
+    },
+    {
+     "name": "Cruel Alliance",
+     "inclusion": 60.9,
+     "winRate": 57.2,
+     "games": 12609,
+     "trophyInclusion": 65.3
+    },
+    {
+     "name": "Madame Masque",
+     "inclusion": 26.1,
+     "winRate": 57.0,
+     "games": 5392,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Spider-Man, To the Rescue",
+     "inclusion": 9.1,
+     "winRate": 57.0,
+     "games": 1861,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Go Nuts!",
+     "inclusion": 55.3,
+     "winRate": 56.8,
+     "games": 11354,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 49.9,
+     "winRate": 56.6,
+     "games": 10234,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Serpent Specialist",
+     "inclusion": 51.9,
+     "winRate": 56.5,
+     "games": 10641,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Klaw, Sonic Subjugator",
+     "inclusion": 29.4,
+     "winRate": 56.5,
+     "games": 6085,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Rapid Rescue",
+     "inclusion": 26.0,
+     "winRate": 56.5,
+     "games": 5316,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "White Tiger, Ava Ayala",
+     "inclusion": 25.6,
+     "winRate": 56.5,
+     "games": 5195,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "inclusion": 19.6,
+     "winRate": 56.5,
+     "games": 3988,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Savage Land Dinosaur",
+     "inclusion": 45.5,
+     "winRate": 56.4,
+     "games": 9281,
+     "trophyInclusion": 45.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-07-17",
+    "main": [
+     [
+      1,
+      "A.I.M. Synthoids"
+     ],
+     [
+      1,
+      "Abomination, Terrifying Titan"
+     ],
+     [
+      1,
+      "Agents of HYDRA"
+     ],
+     [
+      1,
+      "Ant-Man's Army"
+     ],
+     [
+      1,
+      "Bullseye, Death Dealer"
+     ],
+     [
+      1,
+      "Cruel Alliance"
+     ],
+     [
+      1,
+      "Dark Deed"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Guerrilla Gorilla"
+     ],
+     [
+      1,
+      "Hour of Defeat"
+     ],
+     [
+      1,
+      "Ka-Zar of the Savage Land"
+     ],
+     [
+      1,
+      "Killmonger, Scourge of Wakanda"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      2,
+      "Pet Avengers"
+     ],
+     [
+      1,
+      "Red Room Recruit"
+     ],
+     [
+      1,
+      "Reptil, Dinomorpher"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      1,
+      "Serpent Specialist"
+     ],
+     [
+      1,
+      "She-Hulk, Jade Defender"
+     ],
+     [
+      1,
+      "Spider-Man, To the Rescue"
+     ],
+     [
+      1,
+      "Subterranean Cavern"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Ruinous Wrecking Crew"
+     ],
+     [
+      2,
+      "Undercover Skrull"
+     ],
+     [
+      1,
+      "Villainous Hideout"
+     ],
+     [
+      1,
+      "Widow's Bite"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agents of HYDRA"
+     ],
+     [
+      1,
+      "Black Panther, Vanguard"
+     ],
+     [
+      1,
+      "Black Widow, Double Agent"
+     ],
+     [
+      1,
+      "Call Damage Control"
+     ],
+     [
+      1,
+      "Grim Reaper, Lethal Legionnaire"
+     ],
+     [
+      1,
+      "Hire a Crew"
+     ],
+     [
+      1,
+      "Jessica Jones, Private Eye"
+     ],
+     [
+      2,
+      "Murdock's Crusade"
+     ],
+     [
+      1,
+      "Political Triumph"
+     ],
+     [
+      1,
+      "Project Deathlok Soldier"
+     ],
+     [
+      1,
+      "The Astonishing Ant-Man"
+     ],
+     [
+      1,
+      "The Scarlet Witch"
+     ],
+     [
+      1,
+      "Thor Odinson"
+     ],
+     [
+      1,
+      "Web Up"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 13490,
+   "wins": 7279,
+   "winRate": 53.96,
+   "share": 3.57,
+   "drafts": 2456,
+   "trophies": 170,
+   "cards": [
+    {
+     "name": "The Super Hero Civil War",
+     "inclusion": 6.2,
+     "winRate": 59.8,
+     "games": 906,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Hell's Kitchen",
+     "inclusion": 8.9,
+     "winRate": 58.2,
+     "games": 1237,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Subterranean Cavern",
+     "inclusion": 9.5,
+     "winRate": 57.2,
+     "games": 1298,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Hawkeye, Master Marksman",
+     "inclusion": 14.1,
+     "winRate": 56.7,
+     "games": 1993,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Photon Blast Barrage",
+     "inclusion": 30.5,
+     "winRate": 56.6,
+     "games": 4240,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "inclusion": 27.3,
+     "winRate": 56.6,
+     "games": 3850,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Asgardian Citadel",
+     "inclusion": 10.2,
+     "winRate": 56.4,
+     "games": 1375,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Killmonger, Scourge of Wakanda",
+     "inclusion": 8.4,
+     "winRate": 56.4,
+     "games": 1148,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "She-Hulk, Jade Defender",
+     "inclusion": 31.3,
+     "winRate": 56.0,
+     "games": 4322,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "inclusion": 29.2,
+     "winRate": 56.0,
+     "games": 4078,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Avengers Tower",
+     "inclusion": 11.9,
+     "winRate": 55.8,
+     "games": 1643,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Rapid Rescue",
+     "inclusion": 14.6,
+     "winRate": 55.7,
+     "games": 2004,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "inclusion": 7.2,
+     "winRate": 55.7,
+     "games": 998,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Mjölnir, Hammer of Thor",
+     "inclusion": 5.4,
+     "winRate": 55.6,
+     "games": 750,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Jessica Jones, Private Eye",
+     "inclusion": 30.2,
+     "winRate": 55.4,
+     "games": 4179,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "The Vision",
+     "inclusion": 5.0,
+     "winRate": 55.4,
+     "games": 689,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "inclusion": 31.7,
+     "winRate": 55.3,
+     "games": 4385,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Birnin Zana Plaza",
+     "inclusion": 10.7,
+     "winRate": 55.3,
+     "games": 1460,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Undercover Skrull",
+     "inclusion": 60.5,
+     "winRate": 55.2,
+     "games": 8333,
+     "trophyInclusion": 67.1
+    },
+    {
+     "name": "Punishing Punch",
+     "inclusion": 30.7,
+     "winRate": 55.1,
+     "games": 4155,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Epic Fight",
+     "inclusion": 13.5,
+     "winRate": 55.0,
+     "games": 1844,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "The Unbeatable Squirrel Girl",
+     "inclusion": 13.8,
+     "winRate": 54.9,
+     "games": 1891,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Ultron Drone",
+     "inclusion": 6.2,
+     "winRate": 54.9,
+     "games": 843,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Ant-Man's Army",
+     "inclusion": 51.6,
+     "winRate": 54.8,
+     "games": 7030,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Pet Avengers",
+     "inclusion": 50.3,
+     "winRate": 54.8,
+     "games": 6887,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Go Nuts!",
+     "inclusion": 58.6,
+     "winRate": 54.7,
+     "games": 8004,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Hercules, Prince of Power",
+     "inclusion": 25.9,
+     "winRate": 54.7,
+     "games": 3576,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Dependable Quinjet",
+     "inclusion": 10.7,
+     "winRate": 54.7,
+     "games": 1418,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Baxter Building",
+     "inclusion": 16.0,
+     "winRate": 54.6,
+     "games": 2144,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Hulk, Gamma Goliath",
+     "inclusion": 49.5,
+     "winRate": 54.5,
+     "games": 6754,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Los Diablos Missile Base",
+     "inclusion": 44.5,
+     "winRate": 54.5,
+     "games": 6084,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Kree Sentinel",
+     "inclusion": 32.9,
+     "winRate": 54.5,
+     "games": 4464,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Spider-Man, To the Rescue",
+     "inclusion": 15.5,
+     "winRate": 54.5,
+     "games": 2108,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Titania, Rugged Rumbler",
+     "inclusion": 13.8,
+     "winRate": 54.5,
+     "games": 1862,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Earth's Mightiest Heroes",
+     "inclusion": 8.0,
+     "winRate": 54.5,
+     "games": 1064,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "HULK SMASH!",
+     "inclusion": 55.6,
+     "winRate": 54.3,
+     "games": 7577,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Serpent Specialist",
+     "inclusion": 48.2,
+     "winRate": 54.3,
+     "games": 6556,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Guerrilla Gorilla",
+     "inclusion": 46.0,
+     "winRate": 54.3,
+     "games": 6204,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "White Tiger, Ava Ayala",
+     "inclusion": 32.1,
+     "winRate": 54.3,
+     "games": 4370,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "inclusion": 20.8,
+     "winRate": 54.3,
+     "games": 2803,
+     "trophyInclusion": 22.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-06-26",
+    "main": [
+     [
+      1,
+      "Abomination, Terrifying Titan"
+     ],
+     [
+      1,
+      "Ant-Man's Army"
+     ],
+     [
+      1,
+      "Avengers Tower"
+     ],
+     [
+      1,
+      "Baxter Building"
+     ],
+     [
+      1,
+      "Bruce Banner"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Go Nuts!"
+     ],
+     [
+      1,
+      "HULK SMASH!"
+     ],
+     [
+      2,
+      "Hercules, Prince of Power"
+     ],
+     [
+      1,
+      "Hulk, Gamma Goliath"
+     ],
+     [
+      1,
+      "Human Torch, Johnny Storm"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Los Diablos Missile Base"
+     ],
+     [
+      1,
+      "Misty Knight, Hero for Hire"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Photon Blast Barrage"
+     ],
+     [
+      1,
+      "Red Hulk"
+     ],
+     [
+      1,
+      "Savage Land Dinosaur"
+     ],
+     [
+      1,
+      "Serpent Specialist"
+     ],
+     [
+      1,
+      "Stark Industries"
+     ],
+     [
+      1,
+      "Stark Industries Executive"
+     ],
+     [
+      1,
+      "Sword of Fire and Ice"
+     ],
+     [
+      1,
+      "The Thing, Ben Grimm"
+     ],
+     [
+      1,
+      "Truck Toss"
+     ],
+     [
+      1,
+      "Undercover Skrull"
+     ],
+     [
+      1,
+      "White Tiger, Ava Ayala"
+     ],
+     [
+      1,
+      "Wolverine, Fierce Fighter"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Atlantean Cavalry"
+     ],
+     [
+      1,
+      "Call Damage Control"
+     ],
+     [
+      2,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Grim Reaper, Lethal Legionnaire"
+     ],
+     [
+      1,
+      "Guerrilla Gorilla"
+     ],
+     [
+      1,
+      "Hire a Crew"
+     ],
+     [
+      2,
+      "K'un-Lun Warrior"
+     ],
+     [
+      1,
+      "Rick Jones, Destined Sidekick"
+     ],
+     [
+      1,
+      "Thor Odinson"
+     ],
+     [
+      1,
+      "Tigra, Feline Fury"
+     ],
+     [
+      1,
+      "Vision of Love"
+     ]
+    ]
+   }
+  }
+ ]
+}

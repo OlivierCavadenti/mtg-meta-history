@@ -1,0 +1,4612 @@
+{
+ "set": "afr",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.AFR.PremierDraft.csv.gz",
+ "lastModified": "Thu, 11 Jan 2024 09:52:23 GMT",
+ "colorsDerived": false,
+ "first": "2021-07-08",
+ "last": "2021-08-12",
+ "games": 366660,
+ "drafts": 62271,
+ "winRate": 55.09,
+ "combos": [
+  {
+   "colors": "BR",
+   "games": 92833,
+   "wins": 54055,
+   "winRate": 58.23,
+   "share": 25.32,
+   "drafts": 15061,
+   "trophies": 2653,
+   "cards": [
+    {
+     "name": "Meteor Swarm",
+     "inclusion": 9.0,
+     "winRate": 61.1,
+     "games": 8538,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Orcus, Prince of Undeath",
+     "inclusion": 10.4,
+     "winRate": 60.8,
+     "games": 9936,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Warlock Class",
+     "inclusion": 22.5,
+     "winRate": 60.6,
+     "games": 21547,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Battle Cry Goblin",
+     "inclusion": 24.5,
+     "winRate": 60.5,
+     "games": 23407,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Skullport Merchant",
+     "inclusion": 28.5,
+     "winRate": 60.4,
+     "games": 27116,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Den of the Bugbear",
+     "inclusion": 7.0,
+     "winRate": 60.4,
+     "games": 6662,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Gelatinous Cube",
+     "inclusion": 7.8,
+     "winRate": 60.0,
+     "games": 7421,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Westgate Regent",
+     "inclusion": 7.5,
+     "winRate": 60.0,
+     "games": 7165,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Power Word Kill",
+     "inclusion": 21.1,
+     "winRate": 59.8,
+     "games": 20071,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Price of Loyalty",
+     "inclusion": 61.9,
+     "winRate": 59.6,
+     "games": 58610,
+     "trophyInclusion": 70.3
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "inclusion": 6.5,
+     "winRate": 59.6,
+     "games": 6110,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Wight",
+     "inclusion": 7.5,
+     "winRate": 59.5,
+     "games": 7058,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Forsworn Paladin",
+     "inclusion": 7.7,
+     "winRate": 59.4,
+     "games": 7259,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Grim Bounty",
+     "inclusion": 50.1,
+     "winRate": 59.3,
+     "games": 47210,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Red Dragon",
+     "inclusion": 20.2,
+     "winRate": 59.3,
+     "games": 19030,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Dragon's Fire",
+     "inclusion": 51.6,
+     "winRate": 59.2,
+     "games": 48422,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "Swarming Goblins",
+     "inclusion": 45.6,
+     "winRate": 59.2,
+     "games": 42896,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Reaper's Talisman",
+     "inclusion": 22.8,
+     "winRate": 59.2,
+     "games": 21437,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Chaos Channeler",
+     "inclusion": 21.9,
+     "winRate": 59.2,
+     "games": 20584,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Ray of Enfeeblement",
+     "inclusion": 21.5,
+     "winRate": 59.2,
+     "games": 20172,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Deadly Dispute",
+     "inclusion": 58.1,
+     "winRate": 59.1,
+     "games": 54678,
+     "trophyInclusion": 62.6
+    },
+    {
+     "name": "Sepulcher Ghoul",
+     "inclusion": 65.7,
+     "winRate": 59.0,
+     "games": 61652,
+     "trophyInclusion": 70.3
+    },
+    {
+     "name": "Vampire Spawn",
+     "inclusion": 41.0,
+     "winRate": 59.0,
+     "games": 38497,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Grim Wanderer",
+     "inclusion": 19.4,
+     "winRate": 59.0,
+     "games": 18221,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Kalain, Reclusive Painter",
+     "inclusion": 39.0,
+     "winRate": 58.9,
+     "games": 36597,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Valor Singer",
+     "inclusion": 43.9,
+     "winRate": 58.8,
+     "games": 41243,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Magic Missile",
+     "inclusion": 23.1,
+     "winRate": 58.8,
+     "games": 21578,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Black Dragon",
+     "inclusion": 19.0,
+     "winRate": 58.8,
+     "games": 17810,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Shambling Ghast",
+     "inclusion": 53.3,
+     "winRate": 58.7,
+     "games": 49886,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Hobgoblin Captain",
+     "inclusion": 52.3,
+     "winRate": 58.6,
+     "games": 48953,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Plundering Barbarian",
+     "inclusion": 54.6,
+     "winRate": 58.5,
+     "games": 51046,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Goblin Morningstar",
+     "inclusion": 20.2,
+     "winRate": 58.5,
+     "games": 19033,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 10.8,
+     "winRate": 58.5,
+     "games": 10036,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Hired Hexblade",
+     "inclusion": 51.8,
+     "winRate": 58.2,
+     "games": 48061,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Earth-Cult Elemental",
+     "inclusion": 25.4,
+     "winRate": 58.2,
+     "games": 23731,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Hulking Bugbear",
+     "inclusion": 18.9,
+     "winRate": 58.2,
+     "games": 17702,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 24.9,
+     "winRate": 58.1,
+     "games": 23104,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Feign Death",
+     "inclusion": 19.9,
+     "winRate": 58.1,
+     "games": 18427,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Burning Hands",
+     "inclusion": 19.4,
+     "winRate": 58.1,
+     "games": 17924,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Improvised Weaponry",
+     "inclusion": 48.4,
+     "winRate": 58.0,
+     "games": 44852,
+     "trophyInclusion": 46.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-08-05",
+    "main": [
+     [
+      1,
+      "Burning Hands"
+     ],
+     [
+      1,
+      "Deadly Dispute"
+     ],
+     [
+      1,
+      "Dragon's Fire"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Farideh's Fireball"
+     ],
+     [
+      1,
+      "Grim Bounty"
+     ],
+     [
+      1,
+      "Grim Wanderer"
+     ],
+     [
+      1,
+      "Hired Hexblade"
+     ],
+     [
+      2,
+      "Hoarding Ogre"
+     ],
+     [
+      1,
+      "Hobgoblin Captain"
+     ],
+     [
+      1,
+      "Improvised Weaponry"
+     ],
+     [
+      1,
+      "Magic Missile"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Plundering Barbarian"
+     ],
+     [
+      1,
+      "Price of Loyalty"
+     ],
+     [
+      1,
+      "Red Dragon"
+     ],
+     [
+      1,
+      "Rust Monster"
+     ],
+     [
+      1,
+      "Sepulcher Ghoul"
+     ],
+     [
+      1,
+      "Shambling Ghast"
+     ],
+     [
+      1,
+      "Skullport Merchant"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swarming Goblins"
+     ],
+     [
+      1,
+      "Temple of the Dragon Queen"
+     ],
+     [
+      1,
+      "Valor Singer"
+     ],
+     [
+      1,
+      "You See a Pair of Goblins"
+     ],
+     [
+      1,
+      "Yuan-Ti Fang-Blade"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "+2 Mace"
+     ],
+     [
+      1,
+      "Asmodeus the Archfiend"
+     ],
+     [
+      1,
+      "Baleful Beholder"
+     ],
+     [
+      1,
+      "Bard Class"
+     ],
+     [
+      1,
+      "Check for Traps"
+     ],
+     [
+      1,
+      "Djinni Windseer"
+     ],
+     [
+      1,
+      "Dungeon Crawler"
+     ],
+     [
+      1,
+      "Earth-Cult Elemental"
+     ],
+     [
+      1,
+      "Fates' Reversal"
+     ],
+     [
+      2,
+      "Jaded Sell-Sword"
+     ],
+     [
+      1,
+      "Spare Dagger"
+     ],
+     [
+      1,
+      "Targ Nar, Demon-Fang Gnoll"
+     ],
+     [
+      1,
+      "Thieves' Tools"
+     ],
+     [
+      1,
+      "Unexpected Windfall"
+     ],
+     [
+      1,
+      "You Come to the Gnoll Camp"
+     ],
+     [
+      1,
+      "You Find Some Prisoners"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 45305,
+   "wins": 25002,
+   "winRate": 55.19,
+   "share": 12.36,
+   "drafts": 7679,
+   "trophies": 999,
+   "cards": [
+    {
+     "name": "Ranger Class",
+     "inclusion": 10.0,
+     "winRate": 59.6,
+     "games": 4795,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Nadaar, Selfless Paladin",
+     "inclusion": 7.0,
+     "winRate": 58.7,
+     "games": 3306,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Drizzt Do'Urden",
+     "inclusion": 14.9,
+     "winRate": 58.6,
+     "games": 7147,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Varis, Silverymoon Ranger",
+     "inclusion": 9.7,
+     "winRate": 57.7,
+     "games": 4477,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "You're Ambushed on the Road",
+     "inclusion": 12.7,
+     "winRate": 57.0,
+     "games": 5936,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Paladin Class",
+     "inclusion": 8.9,
+     "winRate": 57.0,
+     "games": 4126,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Lair of the Hydra",
+     "inclusion": 7.9,
+     "winRate": 56.8,
+     "games": 3596,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Prosperous Innkeeper",
+     "inclusion": 30.8,
+     "winRate": 56.7,
+     "games": 14277,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Priest of Ancient Lore",
+     "inclusion": 60.8,
+     "winRate": 56.6,
+     "games": 28130,
+     "trophyInclusion": 69.0
+    },
+    {
+     "name": "Lurking Roper",
+     "inclusion": 35.3,
+     "winRate": 56.6,
+     "games": 16412,
+     "trophyInclusion": 41.3
+    },
+    {
+     "name": "Intrepid Outlander",
+     "inclusion": 24.5,
+     "winRate": 56.6,
+     "games": 11294,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Hunter's Mark",
+     "inclusion": 27.9,
+     "winRate": 56.3,
+     "games": 12766,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "White Dragon",
+     "inclusion": 20.9,
+     "winRate": 56.2,
+     "games": 9644,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Cleric Class",
+     "inclusion": 29.3,
+     "winRate": 56.1,
+     "games": 13452,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Werewolf Pack Leader",
+     "inclusion": 8.4,
+     "winRate": 56.1,
+     "games": 3909,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Spoils of the Hunt",
+     "inclusion": 58.7,
+     "winRate": 56.0,
+     "games": 26962,
+     "trophyInclusion": 63.2
+    },
+    {
+     "name": "Bull's Strength",
+     "inclusion": 32.7,
+     "winRate": 56.0,
+     "games": 15047,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Portable Hole",
+     "inclusion": 20.5,
+     "winRate": 56.0,
+     "games": 9452,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Loyal Warhound",
+     "inclusion": 7.7,
+     "winRate": 56.0,
+     "games": 3485,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Trelasarra, Moon Dancer",
+     "inclusion": 44.7,
+     "winRate": 55.8,
+     "games": 20500,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 11.0,
+     "winRate": 55.8,
+     "games": 5037,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Owlbear",
+     "inclusion": 57.8,
+     "winRate": 55.7,
+     "games": 26485,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Steadfast Paladin",
+     "inclusion": 60.4,
+     "winRate": 55.6,
+     "games": 27555,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Celestial Unicorn",
+     "inclusion": 60.4,
+     "winRate": 55.6,
+     "games": 27549,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "You Hear Something on Watch",
+     "inclusion": 47.6,
+     "winRate": 55.6,
+     "games": 21791,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Moon-Blessed Cleric",
+     "inclusion": 15.1,
+     "winRate": 55.6,
+     "games": 6861,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Hill Giant Herdgorger",
+     "inclusion": 59.0,
+     "winRate": 55.5,
+     "games": 26924,
+     "trophyInclusion": 61.4
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 27.2,
+     "winRate": 55.5,
+     "games": 12308,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Wandering Troubadour",
+     "inclusion": 23.5,
+     "winRate": 55.5,
+     "games": 10708,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Dawnbringer Cleric",
+     "inclusion": 49.5,
+     "winRate": 55.4,
+     "games": 22482,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "You Meet in a Tavern",
+     "inclusion": 14.3,
+     "winRate": 55.4,
+     "games": 6483,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Teleportation Circle",
+     "inclusion": 10.0,
+     "winRate": 55.4,
+     "games": 4558,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Ochre Jelly",
+     "inclusion": 8.5,
+     "winRate": 55.4,
+     "games": 3900,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Cave of the Frost Dragon",
+     "inclusion": 7.4,
+     "winRate": 55.4,
+     "games": 3390,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Inspiring Bard",
+     "inclusion": 51.6,
+     "winRate": 55.3,
+     "games": 23482,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Gnoll Hunter",
+     "inclusion": 47.3,
+     "winRate": 55.3,
+     "games": 21520,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Elturgard Ranger",
+     "inclusion": 39.8,
+     "winRate": 55.3,
+     "games": 18030,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Rally Maneuver",
+     "inclusion": 18.7,
+     "winRate": 55.3,
+     "games": 8537,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Sylvan Shepherd",
+     "inclusion": 48.0,
+     "winRate": 55.2,
+     "games": 21714,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Dancing Sword",
+     "inclusion": 8.4,
+     "winRate": 55.2,
+     "games": 3781,
+     "trophyInclusion": 8.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-08-05",
+    "main": [
+     [
+      1,
+      "Arborea Pegasus"
+     ],
+     [
+      2,
+      "Bull's Strength"
+     ],
+     [
+      1,
+      "Circle of the Moon Druid"
+     ],
+     [
+      1,
+      "Dawnbringer Cleric"
+     ],
+     [
+      1,
+      "Elturgard Ranger"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      2,
+      "Gnoll Hunter"
+     ],
+     [
+      1,
+      "Hill Giant Herdgorger"
+     ],
+     [
+      1,
+      "Hunter's Mark"
+     ],
+     [
+      1,
+      "Inspiring Bard"
+     ],
+     [
+      1,
+      "Intrepid Outlander"
+     ],
+     [
+      1,
+      "Minimus Containment"
+     ],
+     [
+      1,
+      "Owlbear"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Planar Ally"
+     ],
+     [
+      1,
+      "Priest of Ancient Lore"
+     ],
+     [
+      2,
+      "Spoils of the Hunt"
+     ],
+     [
+      1,
+      "Steadfast Paladin"
+     ],
+     [
+      1,
+      "Sylvan Shepherd"
+     ],
+     [
+      1,
+      "Trelasarra, Moon Dancer"
+     ],
+     [
+      1,
+      "Werewolf Pack Leader"
+     ],
+     [
+      1,
+      "You Hear Something on Watch"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "+2 Mace"
+     ],
+     [
+      1,
+      "Devoted Paladin"
+     ],
+     [
+      1,
+      "Dire Wolf Prowler"
+     ],
+     [
+      1,
+      "Dungeon Map"
+     ],
+     [
+      2,
+      "Dwarfhold Champion"
+     ],
+     [
+      1,
+      "Greataxe"
+     ],
+     [
+      1,
+      "Half-Elf Monk"
+     ],
+     [
+      1,
+      "Inspiring Bard"
+     ],
+     [
+      1,
+      "Monk of the Open Hand"
+     ],
+     [
+      1,
+      "Paladin's Shield"
+     ],
+     [
+      1,
+      "Power of Persuasion"
+     ],
+     [
+      1,
+      "Ranger's Hawk"
+     ],
+     [
+      1,
+      "Ray of Frost"
+     ],
+     [
+      1,
+      "Scaled Herbalist"
+     ],
+     [
+      1,
+      "You Find a Cursed Idol"
+     ],
+     [
+      2,
+      "You're Ambushed on the Road"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 42320,
+   "wins": 22964,
+   "winRate": 54.26,
+   "share": 11.54,
+   "drafts": 7215,
+   "trophies": 816,
+   "cards": [
+    {
+     "name": "Adult Gold Dragon",
+     "inclusion": 13.3,
+     "winRate": 58.3,
+     "games": 5963,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Nadaar, Selfless Paladin",
+     "inclusion": 7.7,
+     "winRate": 57.5,
+     "games": 3405,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Dancing Sword",
+     "inclusion": 10.5,
+     "winRate": 56.9,
+     "games": 4580,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Meteor Swarm",
+     "inclusion": 8.7,
+     "winRate": 56.8,
+     "games": 3855,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Den of the Bugbear",
+     "inclusion": 7.6,
+     "winRate": 56.6,
+     "games": 3313,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Goblin Morningstar",
+     "inclusion": 27.6,
+     "winRate": 56.2,
+     "games": 12019,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Battle Cry Goblin",
+     "inclusion": 26.9,
+     "winRate": 55.5,
+     "games": 11615,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Hand of Vecna",
+     "inclusion": 5.2,
+     "winRate": 55.4,
+     "games": 2217,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Hobgoblin Captain",
+     "inclusion": 59.2,
+     "winRate": 55.3,
+     "games": 25466,
+     "trophyInclusion": 65.9
+    },
+    {
+     "name": "Dragon's Fire",
+     "inclusion": 52.8,
+     "winRate": 55.2,
+     "games": 22670,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Priest of Ancient Lore",
+     "inclusion": 51.7,
+     "winRate": 55.2,
+     "games": 22140,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Burning Hands",
+     "inclusion": 20.7,
+     "winRate": 55.2,
+     "games": 8773,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Portable Hole",
+     "inclusion": 20.6,
+     "winRate": 55.2,
+     "games": 8891,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Magic Missile",
+     "inclusion": 24.2,
+     "winRate": 55.0,
+     "games": 10391,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Bruenor Battlehammer",
+     "inclusion": 51.2,
+     "winRate": 54.9,
+     "games": 21868,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Swarming Goblins",
+     "inclusion": 38.8,
+     "winRate": 54.9,
+     "games": 16668,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Plate Armor",
+     "inclusion": 34.2,
+     "winRate": 54.9,
+     "games": 14611,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Red Dragon",
+     "inclusion": 20.9,
+     "winRate": 54.9,
+     "games": 8973,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Hobgoblin Bandit Lord",
+     "inclusion": 7.6,
+     "winRate": 54.9,
+     "games": 3235,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Cave of the Frost Dragon",
+     "inclusion": 7.6,
+     "winRate": 54.9,
+     "games": 3230,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Valor Singer",
+     "inclusion": 50.5,
+     "winRate": 54.8,
+     "games": 21409,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "You See a Pair of Goblins",
+     "inclusion": 18.8,
+     "winRate": 54.8,
+     "games": 8128,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Paladin Class",
+     "inclusion": 8.9,
+     "winRate": 54.8,
+     "games": 3788,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Steadfast Paladin",
+     "inclusion": 58.7,
+     "winRate": 54.7,
+     "games": 25046,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Dueling Rapier",
+     "inclusion": 50.2,
+     "winRate": 54.7,
+     "games": 21406,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Chaos Channeler",
+     "inclusion": 20.4,
+     "winRate": 54.7,
+     "games": 8601,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Boots of Speed",
+     "inclusion": 53.7,
+     "winRate": 54.5,
+     "games": 22831,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Arborea Pegasus",
+     "inclusion": 51.2,
+     "winRate": 54.5,
+     "games": 21726,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Ranger's Hawk",
+     "inclusion": 44.5,
+     "winRate": 54.5,
+     "games": 18793,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Hulking Bugbear",
+     "inclusion": 24.5,
+     "winRate": 54.5,
+     "games": 10374,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Armory Veteran",
+     "inclusion": 58.2,
+     "winRate": 54.4,
+     "games": 24682,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Plundering Barbarian",
+     "inclusion": 46.4,
+     "winRate": 54.3,
+     "games": 19614,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Loyal Warhound",
+     "inclusion": 8.9,
+     "winRate": 54.3,
+     "games": 3732,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "You're Ambushed on the Road",
+     "inclusion": 8.1,
+     "winRate": 54.3,
+     "games": 3408,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Dwarfhold Champion",
+     "inclusion": 66.8,
+     "winRate": 54.2,
+     "games": 28257,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Farideh's Fireball",
+     "inclusion": 35.0,
+     "winRate": 54.1,
+     "games": 14808,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 20.7,
+     "winRate": 54.1,
+     "games": 8733,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "White Dragon",
+     "inclusion": 17.9,
+     "winRate": 54.1,
+     "games": 7614,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Ingenious Smith",
+     "inclusion": 16.5,
+     "winRate": 54.1,
+     "games": 7036,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Improvised Weaponry",
+     "inclusion": 39.0,
+     "winRate": 54.0,
+     "games": 16450,
+     "trophyInclusion": 37.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-07-16",
+    "main": [
+     [
+      1,
+      "+2 Mace"
+     ],
+     [
+      2,
+      "Armory Veteran"
+     ],
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Bruenor Battlehammer"
+     ],
+     [
+      1,
+      "Dawnbringer Cleric"
+     ],
+     [
+      1,
+      "Delver's Torch"
+     ],
+     [
+      1,
+      "Dragon's Fire"
+     ],
+     [
+      1,
+      "Dueling Rapier"
+     ],
+     [
+      2,
+      "Dwarfhold Champion"
+     ],
+     [
+      1,
+      "Farideh's Fireball"
+     ],
+     [
+      1,
+      "Gloom Stalker"
+     ],
+     [
+      1,
+      "Hoarding Ogre"
+     ],
+     [
+      2,
+      "Hobgoblin Captain"
+     ],
+     [
+      1,
+      "Improvised Weaponry"
+     ],
+     [
+      1,
+      "Minimus Containment"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Priest of Ancient Lore"
+     ],
+     [
+      1,
+      "Ranger's Hawk"
+     ],
+     [
+      2,
+      "Steadfast Paladin"
+     ],
+     [
+      1,
+      "Swarming Goblins"
+     ],
+     [
+      1,
+      "The Book of Exalted Deeds"
+     ],
+     [
+      1,
+      "Valor Singer"
+     ],
+     [
+      1,
+      "You're Ambushed on the Road"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arcane Investigator"
+     ],
+     [
+      1,
+      "Bar the Gate"
+     ],
+     [
+      2,
+      "Dragon's Disciple"
+     ],
+     [
+      1,
+      "Half-Elf Monk"
+     ],
+     [
+      1,
+      "Herald of Hadar"
+     ],
+     [
+      1,
+      "Keen-Eared Sentry"
+     ],
+     [
+      1,
+      "Kick in the Door"
+     ],
+     [
+      1,
+      "Lurking Roper"
+     ],
+     [
+      1,
+      "Moon-Blessed Cleric"
+     ],
+     [
+      1,
+      "Plundering Barbarian"
+     ],
+     [
+      1,
+      "Price of Loyalty"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Spare Dagger"
+     ],
+     [
+      1,
+      "Unexpected Windfall"
+     ],
+     [
+      1,
+      "Wish"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 38035,
+   "wins": 21211,
+   "winRate": 55.77,
+   "share": 10.37,
+   "drafts": 6366,
+   "trophies": 844,
+   "cards": [
+    {
+     "name": "Ranger Class",
+     "inclusion": 10.0,
+     "winRate": 59.9,
+     "games": 4068,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Lair of the Hydra",
+     "inclusion": 8.2,
+     "winRate": 58.2,
+     "games": 3167,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Battle Cry Goblin",
+     "inclusion": 30.0,
+     "winRate": 57.5,
+     "games": 11731,
+     "trophyInclusion": 37.2
+    },
+    {
+     "name": "Ochre Jelly",
+     "inclusion": 9.0,
+     "winRate": 57.5,
+     "games": 3484,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Hunter's Mark",
+     "inclusion": 28.1,
+     "winRate": 57.2,
+     "games": 10979,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Targ Nar, Demon-Fang Gnoll",
+     "inclusion": 51.1,
+     "winRate": 56.9,
+     "games": 19713,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Burning Hands",
+     "inclusion": 22.7,
+     "winRate": 56.9,
+     "games": 8804,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Werewolf Pack Leader",
+     "inclusion": 10.6,
+     "winRate": 56.9,
+     "games": 4086,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Varis, Silverymoon Ranger",
+     "inclusion": 8.6,
+     "winRate": 56.9,
+     "games": 3320,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Dragon's Fire",
+     "inclusion": 55.2,
+     "winRate": 56.8,
+     "games": 21386,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Hulking Bugbear",
+     "inclusion": 25.2,
+     "winRate": 56.8,
+     "games": 9747,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Bull's Strength",
+     "inclusion": 46.0,
+     "winRate": 56.7,
+     "games": 17755,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Magic Missile",
+     "inclusion": 25.2,
+     "winRate": 56.7,
+     "games": 9834,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Meteor Swarm",
+     "inclusion": 9.7,
+     "winRate": 56.7,
+     "games": 3734,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Intrepid Outlander",
+     "inclusion": 29.2,
+     "winRate": 56.6,
+     "games": 11260,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "You See a Pair of Goblins",
+     "inclusion": 18.4,
+     "winRate": 56.6,
+     "games": 7068,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Den of the Bugbear",
+     "inclusion": 8.0,
+     "winRate": 56.6,
+     "games": 3080,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Hobgoblin Captain",
+     "inclusion": 59.3,
+     "winRate": 56.5,
+     "games": 22850,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Valor Singer",
+     "inclusion": 52.6,
+     "winRate": 56.5,
+     "games": 20260,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Swarming Goblins",
+     "inclusion": 39.4,
+     "winRate": 56.5,
+     "games": 15117,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Chaos Channeler",
+     "inclusion": 23.6,
+     "winRate": 56.5,
+     "games": 9090,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Circle of the Moon Druid",
+     "inclusion": 53.3,
+     "winRate": 56.4,
+     "games": 20492,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Inspiring Bard",
+     "inclusion": 44.8,
+     "winRate": 56.4,
+     "games": 17226,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Wandering Troubadour",
+     "inclusion": 21.9,
+     "winRate": 56.3,
+     "games": 8372,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Plundering Barbarian",
+     "inclusion": 50.1,
+     "winRate": 56.2,
+     "games": 19227,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Gnoll Hunter",
+     "inclusion": 67.8,
+     "winRate": 56.0,
+     "games": 25968,
+     "trophyInclusion": 69.1
+    },
+    {
+     "name": "Owlbear",
+     "inclusion": 59.5,
+     "winRate": 56.0,
+     "games": 22773,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.4,
+     "winRate": 56.0,
+     "games": 10794,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Farideh's Fireball",
+     "inclusion": 42.3,
+     "winRate": 55.9,
+     "games": 16187,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Elturgard Ranger",
+     "inclusion": 41.2,
+     "winRate": 55.9,
+     "games": 15608,
+     "trophyInclusion": 42.7
+    },
+    {
+     "name": "Boots of Speed",
+     "inclusion": 31.8,
+     "winRate": 55.9,
+     "games": 12095,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Red Dragon",
+     "inclusion": 21.6,
+     "winRate": 55.9,
+     "games": 8237,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Spoils of the Hunt",
+     "inclusion": 59.0,
+     "winRate": 55.8,
+     "games": 22510,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Choose Your Weapon",
+     "inclusion": 12.4,
+     "winRate": 55.7,
+     "games": 4790,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Hill Giant Herdgorger",
+     "inclusion": 51.4,
+     "winRate": 55.6,
+     "games": 19537,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Improvised Weaponry",
+     "inclusion": 45.6,
+     "winRate": 55.5,
+     "games": 17313,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Hoarding Ogre",
+     "inclusion": 41.8,
+     "winRate": 55.5,
+     "games": 15879,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "You Come to the Gnoll Camp",
+     "inclusion": 13.0,
+     "winRate": 55.5,
+     "games": 4886,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 12.0,
+     "winRate": 55.5,
+     "games": 4550,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Tiger-Tribe Hunter",
+     "inclusion": 19.8,
+     "winRate": 55.4,
+     "games": 7463,
+     "trophyInclusion": 19.0
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2021-08-05",
+    "main": [
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Bull's Strength"
+     ],
+     [
+      1,
+      "Burning Hands"
+     ],
+     [
+      1,
+      "Circle of the Moon Druid"
+     ],
+     [
+      1,
+      "Dragon's Fire"
+     ],
+     [
+      1,
+      "Elturgard Ranger"
+     ],
+     [
+      1,
+      "Farideh's Fireball"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Gnoll Hunter"
+     ],
+     [
+      1,
+      "Hill Giant Herdgorger"
+     ],
+     [
+      2,
+      "Hobgoblin Captain"
+     ],
+     [
+      1,
+      "Hulking Bugbear"
+     ],
+     [
+      1,
+      "Improvised Weaponry"
+     ],
+     [
+      1,
+      "Inspiring Bard"
+     ],
+     [
+      2,
+      "Intrepid Outlander"
+     ],
+     [
+      9,
+      "Mountain"
+     ],
+     [
+      1,
+      "Plundering Barbarian"
+     ],
+     [
+      1,
+      "Spoils of the Hunt"
+     ],
+     [
+      2,
+      "Swarming Goblins"
+     ],
+     [
+      1,
+      "Targ Nar, Demon-Fang Gnoll"
+     ],
+     [
+      1,
+      "Underdark Basilisk"
+     ],
+     [
+      1,
+      "Wandering Troubadour"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Barrowin of Clan Undurr"
+     ],
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Bulette"
+     ],
+     [
+      2,
+      "Eyes of the Beholder"
+     ],
+     [
+      1,
+      "Greataxe"
+     ],
+     [
+      2,
+      "Herald of Hadar"
+     ],
+     [
+      1,
+      "Hired Hexblade"
+     ],
+     [
+      1,
+      "Ingenious Smith"
+     ],
+     [
+      1,
+      "Mimic"
+     ],
+     [
+      1,
+      "Plummet"
+     ],
+     [
+      1,
+      "Price of Loyalty"
+     ],
+     [
+      1,
+      "Ranger's Longbow"
+     ],
+     [
+      2,
+      "Sepulcher Ghoul"
+     ],
+     [
+      1,
+      "Shambling Ghast"
+     ],
+     [
+      1,
+      "Spare Dagger"
+     ],
+     [
+      1,
+      "You Find the Villains' Lair"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 32901,
+   "wins": 17840,
+   "winRate": 54.22,
+   "share": 8.97,
+   "drafts": 5654,
+   "trophies": 681,
+   "cards": [
+    {
+     "name": "Nadaar, Selfless Paladin",
+     "inclusion": 10.7,
+     "winRate": 60.4,
+     "games": 3853,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Power Word Kill",
+     "inclusion": 22.0,
+     "winRate": 57.0,
+     "games": 7539,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Westgate Regent",
+     "inclusion": 9.1,
+     "winRate": 56.9,
+     "games": 3127,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Gelatinous Cube",
+     "inclusion": 8.2,
+     "winRate": 56.8,
+     "games": 2764,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Triumphant Adventurer",
+     "inclusion": 19.6,
+     "winRate": 56.3,
+     "games": 6577,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Forsworn Paladin",
+     "inclusion": 7.4,
+     "winRate": 56.3,
+     "games": 2527,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Wight",
+     "inclusion": 7.9,
+     "winRate": 56.2,
+     "games": 2649,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Skullport Merchant",
+     "inclusion": 22.1,
+     "winRate": 56.1,
+     "games": 7449,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Ray of Enfeeblement",
+     "inclusion": 23.3,
+     "winRate": 55.7,
+     "games": 7807,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "inclusion": 6.5,
+     "winRate": 55.7,
+     "games": 2166,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Veteran Dungeoneer",
+     "inclusion": 57.1,
+     "winRate": 55.4,
+     "games": 19133,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Fates' Reversal",
+     "inclusion": 36.9,
+     "winRate": 55.4,
+     "games": 12373,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Reaper's Talisman",
+     "inclusion": 24.0,
+     "winRate": 55.3,
+     "games": 8090,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Black Dragon",
+     "inclusion": 20.0,
+     "winRate": 55.3,
+     "games": 6667,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Precipitous Drop",
+     "inclusion": 56.4,
+     "winRate": 55.2,
+     "games": 18882,
+     "trophyInclusion": 62.3
+    },
+    {
+     "name": "Grim Bounty",
+     "inclusion": 52.8,
+     "winRate": 55.2,
+     "games": 17625,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Vampire Spawn",
+     "inclusion": 35.4,
+     "winRate": 55.2,
+     "games": 11924,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Warlock Class",
+     "inclusion": 20.5,
+     "winRate": 55.2,
+     "games": 6851,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "You Hear Something on Watch",
+     "inclusion": 48.3,
+     "winRate": 55.1,
+     "games": 16116,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Loyal Warhound",
+     "inclusion": 8.3,
+     "winRate": 55.1,
+     "games": 2730,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Priest of Ancient Lore",
+     "inclusion": 56.6,
+     "winRate": 55.0,
+     "games": 18750,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Cloister Gargoyle",
+     "inclusion": 30.3,
+     "winRate": 55.0,
+     "games": 10014,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Steadfast Paladin",
+     "inclusion": 55.4,
+     "winRate": 54.9,
+     "games": 18408,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "You're Ambushed on the Road",
+     "inclusion": 9.0,
+     "winRate": 54.8,
+     "games": 2970,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Paladin Class",
+     "inclusion": 8.3,
+     "winRate": 54.8,
+     "games": 2750,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "White Dragon",
+     "inclusion": 22.8,
+     "winRate": 54.7,
+     "games": 7468,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Hired Hexblade",
+     "inclusion": 27.5,
+     "winRate": 54.6,
+     "games": 9079,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Teleportation Circle",
+     "inclusion": 8.2,
+     "winRate": 54.6,
+     "games": 2757,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Barrowin of Clan Undurr",
+     "inclusion": 42.3,
+     "winRate": 54.5,
+     "games": 13992,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Sepulcher Ghoul",
+     "inclusion": 29.7,
+     "winRate": 54.5,
+     "games": 9888,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Feign Death",
+     "inclusion": 20.7,
+     "winRate": 54.5,
+     "games": 6823,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Cleric Class",
+     "inclusion": 10.5,
+     "winRate": 54.5,
+     "games": 3456,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Guardian of Faith",
+     "inclusion": 6.9,
+     "winRate": 54.5,
+     "games": 2310,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Ranger's Hawk",
+     "inclusion": 43.0,
+     "winRate": 54.3,
+     "games": 14200,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Shambling Ghast",
+     "inclusion": 41.3,
+     "winRate": 54.3,
+     "games": 13642,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 12.1,
+     "winRate": 54.2,
+     "games": 4046,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Baleful Beholder",
+     "inclusion": 22.5,
+     "winRate": 54.0,
+     "games": 7372,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Dungeon Crawler",
+     "inclusion": 21.0,
+     "winRate": 54.0,
+     "games": 6941,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Plate Armor",
+     "inclusion": 20.6,
+     "winRate": 54.0,
+     "games": 6739,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Dancing Sword",
+     "inclusion": 8.5,
+     "winRate": 54.0,
+     "games": 2816,
+     "trophyInclusion": 8.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-08-05",
+    "main": [
+     [
+      2,
+      "Arborea Pegasus"
+     ],
+     [
+      1,
+      "Black Dragon"
+     ],
+     [
+      1,
+      "Deadly Dispute"
+     ],
+     [
+      1,
+      "Delver's Torch"
+     ],
+     [
+      1,
+      "Feign Death"
+     ],
+     [
+      1,
+      "Grim Bounty"
+     ],
+     [
+      1,
+      "Grim Wanderer"
+     ],
+     [
+      1,
+      "Hoard Robber"
+     ],
+     [
+      1,
+      "Nadaar, Selfless Paladin"
+     ],
+     [
+      1,
+      "Oswald Fiddlebender"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Planar Ally"
+     ],
+     [
+      1,
+      "Power Word Kill"
+     ],
+     [
+      1,
+      "Priest of Ancient Lore"
+     ],
+     [
+      1,
+      "Ranger's Hawk"
+     ],
+     [
+      1,
+      "Ray of Enfeeblement"
+     ],
+     [
+      1,
+      "Reaper's Talisman"
+     ],
+     [
+      1,
+      "Shambling Ghast"
+     ],
+     [
+      1,
+      "Steadfast Paladin"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      2,
+      "Temple of the Dragon Queen"
+     ],
+     [
+      1,
+      "Vampire Spawn"
+     ],
+     [
+      1,
+      "Veteran Dungeoneer"
+     ],
+     [
+      1,
+      "White Dragon"
+     ],
+     [
+      1,
+      "You Hear Something on Watch"
+     ],
+     [
+      1,
+      "Yuan-Ti Fang-Blade"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arborea Pegasus"
+     ],
+     [
+      1,
+      "Armory Veteran"
+     ],
+     [
+      1,
+      "Battle Cry Goblin"
+     ],
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Bruenor Battlehammer"
+     ],
+     [
+      1,
+      "Celestial Unicorn"
+     ],
+     [
+      1,
+      "Check for Traps"
+     ],
+     [
+      1,
+      "Clattering Skeletons"
+     ],
+     [
+      1,
+      "Dragon's Disciple"
+     ],
+     [
+      1,
+      "Eyes of the Beholder"
+     ],
+     [
+      1,
+      "Gloom Stalker"
+     ],
+     [
+      1,
+      "Herald of Hadar"
+     ],
+     [
+      1,
+      "Hired Hexblade"
+     ],
+     [
+      1,
+      "Sepulcher Ghoul"
+     ],
+     [
+      1,
+      "Vampire Spawn"
+     ],
+     [
+      1,
+      "You're Ambushed on the Road"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 29537,
+   "wins": 16046,
+   "winRate": 54.33,
+   "share": 8.06,
+   "drafts": 5075,
+   "trophies": 587,
+   "cards": [
+    {
+     "name": "Ranger Class",
+     "inclusion": 9.8,
+     "winRate": 58.3,
+     "games": 3101,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Werewolf Pack Leader",
+     "inclusion": 9.1,
+     "winRate": 57.0,
+     "games": 2790,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Westgate Regent",
+     "inclusion": 8.9,
+     "winRate": 57.0,
+     "games": 2739,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Power Word Kill",
+     "inclusion": 23.3,
+     "winRate": 56.6,
+     "games": 7197,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Warlock Class",
+     "inclusion": 23.5,
+     "winRate": 56.4,
+     "games": 7123,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Lair of the Hydra",
+     "inclusion": 7.9,
+     "winRate": 56.3,
+     "games": 2432,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Skullport Merchant",
+     "inclusion": 25.1,
+     "winRate": 56.2,
+     "games": 7546,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Ray of Enfeeblement",
+     "inclusion": 23.9,
+     "winRate": 56.0,
+     "games": 7262,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Forsworn Paladin",
+     "inclusion": 7.9,
+     "winRate": 56.0,
+     "games": 2368,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Hunter's Mark",
+     "inclusion": 30.4,
+     "winRate": 55.7,
+     "games": 9166,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Gelatinous Cube",
+     "inclusion": 8.7,
+     "winRate": 55.7,
+     "games": 2640,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Grim Bounty",
+     "inclusion": 55.2,
+     "winRate": 55.5,
+     "games": 16600,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Shambling Ghast",
+     "inclusion": 46.5,
+     "winRate": 55.4,
+     "games": 13941,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Vampire Spawn",
+     "inclusion": 36.2,
+     "winRate": 55.4,
+     "games": 10874,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Prosperous Innkeeper",
+     "inclusion": 20.5,
+     "winRate": 55.4,
+     "games": 6128,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Owlbear",
+     "inclusion": 61.3,
+     "winRate": 55.3,
+     "games": 18382,
+     "trophyInclusion": 68.3
+    },
+    {
+     "name": "Varis, Silverymoon Ranger",
+     "inclusion": 10.3,
+     "winRate": 55.3,
+     "games": 3128,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Ochre Jelly",
+     "inclusion": 9.1,
+     "winRate": 55.3,
+     "games": 2749,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Inspiring Bard",
+     "inclusion": 31.9,
+     "winRate": 55.1,
+     "games": 9523,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Wandering Troubadour",
+     "inclusion": 24.8,
+     "winRate": 55.1,
+     "games": 7368,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Black Dragon",
+     "inclusion": 23.5,
+     "winRate": 55.1,
+     "games": 7052,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Spoils of the Hunt",
+     "inclusion": 60.8,
+     "winRate": 55.0,
+     "games": 18228,
+     "trophyInclusion": 64.9
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "inclusion": 7.4,
+     "winRate": 54.9,
+     "games": 2196,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Intrepid Outlander",
+     "inclusion": 26.7,
+     "winRate": 54.8,
+     "games": 7862,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Lurking Roper",
+     "inclusion": 23.3,
+     "winRate": 54.8,
+     "games": 6884,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Hill Giant Herdgorger",
+     "inclusion": 53.7,
+     "winRate": 54.7,
+     "games": 15950,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Elturgard Ranger",
+     "inclusion": 44.1,
+     "winRate": 54.7,
+     "games": 13155,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Clattering Skeletons",
+     "inclusion": 32.3,
+     "winRate": 54.7,
+     "games": 9686,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 13.4,
+     "winRate": 54.7,
+     "games": 3935,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Gnoll Hunter",
+     "inclusion": 52.0,
+     "winRate": 54.6,
+     "games": 15420,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 31.9,
+     "winRate": 54.5,
+     "games": 9446,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Bull's Strength",
+     "inclusion": 27.0,
+     "winRate": 54.5,
+     "games": 8013,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Reaper's Talisman",
+     "inclusion": 24.2,
+     "winRate": 54.5,
+     "games": 7237,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Precipitous Drop",
+     "inclusion": 48.5,
+     "winRate": 54.4,
+     "games": 14483,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Fates' Reversal",
+     "inclusion": 27.8,
+     "winRate": 54.4,
+     "games": 8204,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Lightfoot Rogue",
+     "inclusion": 15.7,
+     "winRate": 54.4,
+     "games": 4682,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Circle of the Moon Druid",
+     "inclusion": 43.5,
+     "winRate": 54.3,
+     "games": 12921,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Underdark Basilisk",
+     "inclusion": 59.6,
+     "winRate": 54.2,
+     "games": 17587,
+     "trophyInclusion": 59.8
+    },
+    {
+     "name": "Hoard Robber",
+     "inclusion": 34.3,
+     "winRate": 54.1,
+     "games": 10184,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Purple Worm",
+     "inclusion": 24.5,
+     "winRate": 54.1,
+     "games": 7192,
+     "trophyInclusion": 24.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-07-26",
+    "main": [
+     [
+      1,
+      "Baleful Beholder"
+     ],
+     [
+      1,
+      "Bull's Strength"
+     ],
+     [
+      1,
+      "Circle of the Moon Druid"
+     ],
+     [
+      1,
+      "Death-Priest of Myrkul"
+     ],
+     [
+      1,
+      "Elturgard Ranger"
+     ],
+     [
+      1,
+      "Fates' Reversal"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Hill Giant Herdgorger"
+     ],
+     [
+      1,
+      "Hoard Robber"
+     ],
+     [
+      1,
+      "Hunter's Mark"
+     ],
+     [
+      2,
+      "Inspiring Bard"
+     ],
+     [
+      1,
+      "Owlbear"
+     ],
+     [
+      1,
+      "Precipitous Drop"
+     ],
+     [
+      1,
+      "Prosperous Innkeeper"
+     ],
+     [
+      1,
+      "Ray of Enfeeblement"
+     ],
+     [
+      1,
+      "Shambling Ghast"
+     ],
+     [
+      1,
+      "Shessra, Death's Whisper"
+     ],
+     [
+      1,
+      "Skullport Merchant"
+     ],
+     [
+      1,
+      "Spoils of the Hunt"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Underdark Basilisk"
+     ],
+     [
+      1,
+      "Vampire Spawn"
+     ],
+     [
+      1,
+      "Vorpal Sword"
+     ],
+     [
+      1,
+      "Warlock Class"
+     ],
+     [
+      1,
+      "Zombie Ogre"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Blink Dog"
+     ],
+     [
+      1,
+      "Den of the Bugbear"
+     ],
+     [
+      1,
+      "Dragon Turtle"
+     ],
+     [
+      1,
+      "Feign Death"
+     ],
+     [
+      1,
+      "Fifty Feet of Rope"
+     ],
+     [
+      1,
+      "Find the Path"
+     ],
+     [
+      1,
+      "Greataxe"
+     ],
+     [
+      1,
+      "Herald of Hadar"
+     ],
+     [
+      1,
+      "Mordenkainen's Polymorph"
+     ],
+     [
+      1,
+      "Plummet"
+     ],
+     [
+      1,
+      "Price of Loyalty"
+     ],
+     [
+      1,
+      "Ranger's Longbow"
+     ],
+     [
+      1,
+      "Silver Raven"
+     ],
+     [
+      1,
+      "Sylvan Shepherd"
+     ],
+     [
+      1,
+      "Targ Nar, Demon-Fang Gnoll"
+     ],
+     [
+      1,
+      "Unexpected Windfall"
+     ],
+     [
+      1,
+      "Wild Shape"
+     ],
+     [
+      1,
+      "You Meet in a Tavern"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 22076,
+   "wins": 11921,
+   "winRate": 54.0,
+   "share": 6.02,
+   "drafts": 3830,
+   "trophies": 456,
+   "cards": [
+    {
+     "name": "Mind Flayer",
+     "inclusion": 12.6,
+     "winRate": 59.6,
+     "games": 3003,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Gelatinous Cube",
+     "inclusion": 8.9,
+     "winRate": 59.1,
+     "games": 2099,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Iymrith, Desert Doom",
+     "inclusion": 6.1,
+     "winRate": 57.3,
+     "games": 1399,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Hall of Storm Giants",
+     "inclusion": 9.2,
+     "winRate": 56.9,
+     "games": 2101,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Mordenkainen",
+     "inclusion": 5.9,
+     "winRate": 56.9,
+     "games": 1360,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Yuan-Ti Malison",
+     "inclusion": 13.1,
+     "winRate": 56.7,
+     "games": 2972,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Vampire Spawn",
+     "inclusion": 24.8,
+     "winRate": 56.4,
+     "games": 5654,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Skullport Merchant",
+     "inclusion": 23.0,
+     "winRate": 56.4,
+     "games": 5233,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Forsworn Paladin",
+     "inclusion": 7.6,
+     "winRate": 56.3,
+     "games": 1767,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Ray of Enfeeblement",
+     "inclusion": 23.7,
+     "winRate": 56.1,
+     "games": 5421,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Wight",
+     "inclusion": 6.9,
+     "winRate": 55.9,
+     "games": 1595,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Black Dragon",
+     "inclusion": 21.4,
+     "winRate": 55.7,
+     "games": 4803,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Power Word Kill",
+     "inclusion": 23.5,
+     "winRate": 55.6,
+     "games": 5361,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Grim Bounty",
+     "inclusion": 54.9,
+     "winRate": 55.5,
+     "games": 12409,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Warlock Class",
+     "inclusion": 18.2,
+     "winRate": 55.4,
+     "games": 4096,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Feign Death",
+     "inclusion": 15.9,
+     "winRate": 55.3,
+     "games": 3529,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Krydle of Baldur's Gate",
+     "inclusion": 48.4,
+     "winRate": 55.1,
+     "games": 10890,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Precipitous Drop",
+     "inclusion": 50.1,
+     "winRate": 55.0,
+     "games": 11191,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Hired Hexblade",
+     "inclusion": 27.0,
+     "winRate": 55.0,
+     "games": 6020,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Displacer Beast",
+     "inclusion": 25.5,
+     "winRate": 55.0,
+     "games": 5766,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Shambling Ghast",
+     "inclusion": 40.8,
+     "winRate": 54.9,
+     "games": 9220,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Ray of Frost",
+     "inclusion": 26.6,
+     "winRate": 54.9,
+     "games": 5965,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "inclusion": 7.4,
+     "winRate": 54.9,
+     "games": 1654,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Djinni Windseer",
+     "inclusion": 57.8,
+     "winRate": 54.8,
+     "games": 12918,
+     "trophyInclusion": 61.2
+    },
+    {
+     "name": "Eccentric Apprentice",
+     "inclusion": 27.3,
+     "winRate": 54.8,
+     "games": 6120,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Sepulcher Ghoul",
+     "inclusion": 29.1,
+     "winRate": 54.7,
+     "games": 6593,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Fates' Reversal",
+     "inclusion": 24.4,
+     "winRate": 54.6,
+     "games": 5398,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Arcane Investigator",
+     "inclusion": 38.6,
+     "winRate": 54.5,
+     "games": 8607,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Westgate Regent",
+     "inclusion": 9.2,
+     "winRate": 54.5,
+     "games": 2042,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Clattering Skeletons",
+     "inclusion": 27.2,
+     "winRate": 54.3,
+     "games": 5917,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Soulknife Spy",
+     "inclusion": 62.5,
+     "winRate": 54.2,
+     "games": 13931,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Air-Cult Elemental",
+     "inclusion": 46.3,
+     "winRate": 54.1,
+     "games": 10234,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Blue Dragon",
+     "inclusion": 23.2,
+     "winRate": 54.1,
+     "games": 5118,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Dragon Turtle",
+     "inclusion": 9.4,
+     "winRate": 54.1,
+     "games": 2079,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Rimeshield Frost Giant",
+     "inclusion": 33.9,
+     "winRate": 54.0,
+     "games": 7475,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Check for Traps",
+     "inclusion": 13.3,
+     "winRate": 54.0,
+     "games": 2990,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Hoard Robber",
+     "inclusion": 42.2,
+     "winRate": 53.9,
+     "games": 9298,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Deadly Dispute",
+     "inclusion": 24.8,
+     "winRate": 53.9,
+     "games": 5463,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Fly",
+     "inclusion": 23.8,
+     "winRate": 53.9,
+     "games": 5187,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Reaper's Talisman",
+     "inclusion": 23.5,
+     "winRate": 53.9,
+     "games": 5188,
+     "trophyInclusion": 25.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-07-29",
+    "main": [
+     [
+      1,
+      "Arcane Investigator"
+     ],
+     [
+      1,
+      "Blue Dragon"
+     ],
+     [
+      2,
+      "Charmed Sleep"
+     ],
+     [
+      1,
+      "Contact Other Plane"
+     ],
+     [
+      1,
+      "Death-Priest of Myrkul"
+     ],
+     [
+      1,
+      "Displacer Beast"
+     ],
+     [
+      1,
+      "Djinni Windseer"
+     ],
+     [
+      1,
+      "Fly"
+     ],
+     [
+      1,
+      "Grim Bounty"
+     ],
+     [
+      1,
+      "Hired Hexblade"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Krydle of Baldur's Gate"
+     ],
+     [
+      1,
+      "Pixie Guide"
+     ],
+     [
+      1,
+      "Precipitous Drop"
+     ],
+     [
+      1,
+      "Ray of Frost"
+     ],
+     [
+      1,
+      "Rimeshield Frost Giant"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Shambling Ghast"
+     ],
+     [
+      1,
+      "Soulknife Spy"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Vampire Spawn"
+     ],
+     [
+      1,
+      "Wizard Class"
+     ],
+     [
+      1,
+      "Xanathar, Guild Kingpin"
+     ],
+     [
+      1,
+      "Yuan-Ti Fang-Blade"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Air-Cult Elemental"
+     ],
+     [
+      1,
+      "Bar the Gate"
+     ],
+     [
+      1,
+      "Eyes of the Beholder"
+     ],
+     [
+      1,
+      "Farideh's Fireball"
+     ],
+     [
+      1,
+      "Hobgoblin Captain"
+     ],
+     [
+      1,
+      "Mimic"
+     ],
+     [
+      1,
+      "Mordenkainen's Polymorph"
+     ],
+     [
+      1,
+      "Planar Ally"
+     ],
+     [
+      1,
+      "Plundering Barbarian"
+     ],
+     [
+      2,
+      "Price of Loyalty"
+     ],
+     [
+      1,
+      "Rogue Class"
+     ],
+     [
+      1,
+      "Shocking Grasp"
+     ],
+     [
+      2,
+      "Soulknife Spy"
+     ],
+     [
+      1,
+      "Spare Dagger"
+     ],
+     [
+      1,
+      "Trickster's Talisman"
+     ],
+     [
+      1,
+      "Vampire Spawn"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 18826,
+   "wins": 9858,
+   "winRate": 52.36,
+   "share": 5.13,
+   "drafts": 3328,
+   "trophies": 315,
+   "cards": [
+    {
+     "name": "Iymrith, Desert Doom",
+     "inclusion": 6.0,
+     "winRate": 59.6,
+     "games": 1241,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Meteor Swarm",
+     "inclusion": 11.1,
+     "winRate": 57.1,
+     "games": 2251,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Mind Flayer",
+     "inclusion": 12.3,
+     "winRate": 56.3,
+     "games": 2432,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Hall of Storm Giants",
+     "inclusion": 8.8,
+     "winRate": 55.2,
+     "games": 1684,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Yuan-Ti Malison",
+     "inclusion": 10.5,
+     "winRate": 54.9,
+     "games": 2045,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Battle Cry Goblin",
+     "inclusion": 19.6,
+     "winRate": 54.6,
+     "games": 3832,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Dragon Turtle",
+     "inclusion": 10.3,
+     "winRate": 54.4,
+     "games": 2016,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Den of the Bugbear",
+     "inclusion": 7.2,
+     "winRate": 54.0,
+     "games": 1379,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Swarming Goblins",
+     "inclusion": 54.1,
+     "winRate": 53.8,
+     "games": 10379,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Burning Hands",
+     "inclusion": 23.0,
+     "winRate": 53.8,
+     "games": 4328,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Plundering Barbarian",
+     "inclusion": 39.6,
+     "winRate": 53.7,
+     "games": 7561,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Djinni Windseer",
+     "inclusion": 64.4,
+     "winRate": 53.5,
+     "games": 12320,
+     "trophyInclusion": 72.1
+    },
+    {
+     "name": "Magic Missile",
+     "inclusion": 26.0,
+     "winRate": 53.5,
+     "games": 5011,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Red Dragon",
+     "inclusion": 21.4,
+     "winRate": 53.5,
+     "games": 4112,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Dragon's Fire",
+     "inclusion": 56.4,
+     "winRate": 53.4,
+     "games": 10713,
+     "trophyInclusion": 63.8
+    },
+    {
+     "name": "Chaos Channeler",
+     "inclusion": 28.9,
+     "winRate": 53.2,
+     "games": 5461,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 12.0,
+     "winRate": 53.1,
+     "games": 2276,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Blue Dragon",
+     "inclusion": 23.6,
+     "winRate": 53.0,
+     "games": 4501,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Eccentric Apprentice",
+     "inclusion": 18.4,
+     "winRate": 53.0,
+     "games": 3501,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "You See a Guard Approach",
+     "inclusion": 7.3,
+     "winRate": 53.0,
+     "games": 1361,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Arcane Investigator",
+     "inclusion": 52.6,
+     "winRate": 52.9,
+     "games": 9896,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Hobgoblin Captain",
+     "inclusion": 39.2,
+     "winRate": 52.9,
+     "games": 7504,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "Mordenkainen",
+     "inclusion": 6.0,
+     "winRate": 52.9,
+     "games": 1137,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Valor Singer",
+     "inclusion": 29.8,
+     "winRate": 52.8,
+     "games": 5652,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Improvised Weaponry",
+     "inclusion": 41.9,
+     "winRate": 52.7,
+     "games": 7948,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "Fly",
+     "inclusion": 15.9,
+     "winRate": 52.6,
+     "games": 3006,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Split the Party",
+     "inclusion": 5.9,
+     "winRate": 52.6,
+     "games": 1087,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Scion of Stygia",
+     "inclusion": 63.6,
+     "winRate": 52.4,
+     "games": 11962,
+     "trophyInclusion": 64.4
+    },
+    {
+     "name": "Contact Other Plane",
+     "inclusion": 56.6,
+     "winRate": 52.4,
+     "games": 10638,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Shortcut Seeker",
+     "inclusion": 17.5,
+     "winRate": 52.4,
+     "games": 3314,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Armory Veteran",
+     "inclusion": 17.2,
+     "winRate": 52.4,
+     "games": 3262,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Hoarding Ogre",
+     "inclusion": 50.7,
+     "winRate": 52.3,
+     "games": 9612,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Feywild Trickster",
+     "inclusion": 42.3,
+     "winRate": 52.3,
+     "games": 7947,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Clever Conjurer",
+     "inclusion": 30.9,
+     "winRate": 52.3,
+     "games": 5797,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "You Come to a River",
+     "inclusion": 30.2,
+     "winRate": 52.3,
+     "games": 5622,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Ray of Frost",
+     "inclusion": 26.2,
+     "winRate": 52.3,
+     "games": 4938,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Goblin Morningstar",
+     "inclusion": 23.6,
+     "winRate": 52.3,
+     "games": 4447,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Pixie Guide",
+     "inclusion": 67.4,
+     "winRate": 52.2,
+     "games": 12643,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Farideh's Fireball",
+     "inclusion": 54.7,
+     "winRate": 52.2,
+     "games": 10247,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Charmed Sleep",
+     "inclusion": 51.3,
+     "winRate": 52.2,
+     "games": 9614,
+     "trophyInclusion": 53.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-07-23",
+    "main": [
+     [
+      1,
+      "Arcane Investigator"
+     ],
+     [
+      1,
+      "Battle Cry Goblin"
+     ],
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Brazen Dwarf"
+     ],
+     [
+      1,
+      "Chaos Channeler"
+     ],
+     [
+      1,
+      "Contact Other Plane"
+     ],
+     [
+      1,
+      "Djinni Windseer"
+     ],
+     [
+      2,
+      "Dragon's Fire"
+     ],
+     [
+      1,
+      "Earth-Cult Elemental"
+     ],
+     [
+      1,
+      "Eccentric Apprentice"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Farideh, Devil's Chosen"
+     ],
+     [
+      2,
+      "Goblin Javelineer"
+     ],
+     [
+      1,
+      "Grazilaxx, Illithid Scholar"
+     ],
+     [
+      1,
+      "Hoarding Ogre"
+     ],
+     [
+      1,
+      "Hobgoblin Bandit Lord"
+     ],
+     [
+      1,
+      "Hobgoblin Captain"
+     ],
+     [
+      1,
+      "Improvised Weaponry"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Pixie Guide"
+     ],
+     [
+      1,
+      "Plundering Barbarian"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Swarming Goblins"
+     ],
+     [
+      1,
+      "Yuan-Ti Malison"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Bar the Gate"
+     ],
+     [
+      1,
+      "Boots of Speed"
+     ],
+     [
+      1,
+      "Brazen Dwarf"
+     ],
+     [
+      2,
+      "Circle of Dreams Druid"
+     ],
+     [
+      1,
+      "Devoted Paladin"
+     ],
+     [
+      1,
+      "Dwarfhold Champion"
+     ],
+     [
+      1,
+      "Jaded Sell-Sword"
+     ],
+     [
+      2,
+      "Plundering Barbarian"
+     ],
+     [
+      1,
+      "Power of Persuasion"
+     ],
+     [
+      1,
+      "Shocking Grasp"
+     ],
+     [
+      3,
+      "Unexpected Windfall"
+     ],
+     [
+      1,
+      "You See a Guard Approach"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 15550,
+   "wins": 8213,
+   "winRate": 52.82,
+   "share": 4.24,
+   "drafts": 2737,
+   "trophies": 268,
+   "cards": [
+    {
+     "name": "Mind Flayer",
+     "inclusion": 14.5,
+     "winRate": 57.9,
+     "games": 2447,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Ranger Class",
+     "inclusion": 9.2,
+     "winRate": 56.9,
+     "games": 1513,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Ochre Jelly",
+     "inclusion": 10.2,
+     "winRate": 55.8,
+     "games": 1666,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Iymrith, Desert Doom",
+     "inclusion": 5.7,
+     "winRate": 55.7,
+     "games": 918,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Grazilaxx, Illithid Scholar",
+     "inclusion": 10.0,
+     "winRate": 55.2,
+     "games": 1646,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Hall of Storm Giants",
+     "inclusion": 9.2,
+     "winRate": 55.2,
+     "games": 1468,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Lair of the Hydra",
+     "inclusion": 8.1,
+     "winRate": 55.1,
+     "games": 1304,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Lurking Roper",
+     "inclusion": 22.8,
+     "winRate": 54.9,
+     "games": 3599,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Mordenkainen",
+     "inclusion": 6.9,
+     "winRate": 54.3,
+     "games": 1109,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Prosperous Innkeeper",
+     "inclusion": 18.8,
+     "winRate": 54.1,
+     "games": 2984,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Djinni Windseer",
+     "inclusion": 58.9,
+     "winRate": 54.0,
+     "games": 9359,
+     "trophyInclusion": 66.8
+    },
+    {
+     "name": "Intrepid Outlander",
+     "inclusion": 26.3,
+     "winRate": 54.0,
+     "games": 4151,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Werewolf Pack Leader",
+     "inclusion": 9.4,
+     "winRate": 54.0,
+     "games": 1521,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Yuan-Ti Malison",
+     "inclusion": 11.5,
+     "winRate": 53.9,
+     "games": 1823,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Spoils of the Hunt",
+     "inclusion": 61.4,
+     "winRate": 53.8,
+     "games": 9719,
+     "trophyInclusion": 67.2
+    },
+    {
+     "name": "Hunter's Mark",
+     "inclusion": 30.2,
+     "winRate": 53.8,
+     "games": 4739,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Circle of the Moon Druid",
+     "inclusion": 33.6,
+     "winRate": 53.7,
+     "games": 5341,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Displacer Beast",
+     "inclusion": 25.2,
+     "winRate": 53.7,
+     "games": 3974,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Bull's Strength",
+     "inclusion": 22.8,
+     "winRate": 53.7,
+     "games": 3593,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Hill Giant Herdgorger",
+     "inclusion": 53.6,
+     "winRate": 53.6,
+     "games": 8396,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Air-Cult Elemental",
+     "inclusion": 49.2,
+     "winRate": 53.6,
+     "games": 7804,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Gnoll Hunter",
+     "inclusion": 45.1,
+     "winRate": 53.6,
+     "games": 7203,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Inspiring Bard",
+     "inclusion": 28.5,
+     "winRate": 53.6,
+     "games": 4505,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Dragon Turtle",
+     "inclusion": 11.3,
+     "winRate": 53.6,
+     "games": 1772,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Underdark Basilisk",
+     "inclusion": 58.9,
+     "winRate": 53.5,
+     "games": 9255,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Owlbear",
+     "inclusion": 62.7,
+     "winRate": 53.4,
+     "games": 9835,
+     "trophyInclusion": 65.3
+    },
+    {
+     "name": "Varis, Silverymoon Ranger",
+     "inclusion": 10.7,
+     "winRate": 53.3,
+     "games": 1672,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Charmed Sleep",
+     "inclusion": 54.8,
+     "winRate": 53.2,
+     "games": 8611,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Volo, Guide to Monsters",
+     "inclusion": 25.7,
+     "winRate": 53.2,
+     "games": 4045,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "You Happen On a Glade",
+     "inclusion": 23.0,
+     "winRate": 53.1,
+     "games": 3596,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Clever Conjurer",
+     "inclusion": 47.4,
+     "winRate": 53.0,
+     "games": 7378,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Wizard Class",
+     "inclusion": 25.8,
+     "winRate": 53.0,
+     "games": 3990,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Eccentric Apprentice",
+     "inclusion": 23.7,
+     "winRate": 53.0,
+     "games": 3684,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Soulknife Spy",
+     "inclusion": 45.6,
+     "winRate": 52.9,
+     "games": 7085,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Elturgard Ranger",
+     "inclusion": 39.3,
+     "winRate": 52.9,
+     "games": 6084,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "You Come to a River",
+     "inclusion": 30.8,
+     "winRate": 52.9,
+     "games": 4762,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Wandering Troubadour",
+     "inclusion": 25.8,
+     "winRate": 52.9,
+     "games": 4031,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Spiked Pit Trap",
+     "inclusion": 11.0,
+     "winRate": 52.9,
+     "games": 1655,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Split the Party",
+     "inclusion": 7.9,
+     "winRate": 52.9,
+     "games": 1242,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Gretchen Titchwillow",
+     "inclusion": 51.3,
+     "winRate": 52.8,
+     "games": 7974,
+     "trophyInclusion": 51.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2021-08-06",
+    "main": [
+     [
+      1,
+      "Air-Cult Elemental"
+     ],
+     [
+      1,
+      "Arcane Investigator"
+     ],
+     [
+      1,
+      "Bull's Strength"
+     ],
+     [
+      1,
+      "Circle of the Moon Druid"
+     ],
+     [
+      1,
+      "Clever Conjurer"
+     ],
+     [
+      1,
+      "Contact Other Plane"
+     ],
+     [
+      1,
+      "Djinni Windseer"
+     ],
+     [
+      1,
+      "Eccentric Apprentice"
+     ],
+     [
+      1,
+      "Elturgard Ranger"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Hall of Storm Giants"
+     ],
+     [
+      1,
+      "Hill Giant Herdgorger"
+     ],
+     [
+      1,
+      "Hunter's Mark"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Lair of the Hydra"
+     ],
+     [
+      1,
+      "Lurking Roper"
+     ],
+     [
+      1,
+      "Owlbear"
+     ],
+     [
+      1,
+      "Pixie Guide"
+     ],
+     [
+      1,
+      "Purple Worm"
+     ],
+     [
+      1,
+      "Ray of Frost"
+     ],
+     [
+      1,
+      "Rimeshield Frost Giant"
+     ],
+     [
+      1,
+      "Soulknife Spy"
+     ],
+     [
+      2,
+      "Spoils of the Hunt"
+     ],
+     [
+      2,
+      "Underdark Basilisk"
+     ],
+     [
+      1,
+      "Wizard Class"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bard Class"
+     ],
+     [
+      2,
+      "Devour Intellect"
+     ],
+     [
+      1,
+      "Earth-Cult Elemental"
+     ],
+     [
+      1,
+      "Elturgard Ranger"
+     ],
+     [
+      1,
+      "Farideh, Devil's Chosen"
+     ],
+     [
+      1,
+      "Find the Path"
+     ],
+     [
+      1,
+      "Improvised Weaponry"
+     ],
+     [
+      1,
+      "Neverwinter Dryad"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Shocking Grasp"
+     ],
+     [
+      1,
+      "Spiked Pit Trap"
+     ],
+     [
+      1,
+      "Tiger-Tribe Hunter"
+     ],
+     [
+      1,
+      "Trelasarra, Moon Dancer"
+     ],
+     [
+      1,
+      "Trickster's Talisman"
+     ],
+     [
+      1,
+      "You Happen On a Glade"
+     ],
+     [
+      1,
+      "You See a Guard Approach"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 13522,
+   "wins": 6796,
+   "winRate": 50.26,
+   "share": 3.69,
+   "drafts": 2488,
+   "trophies": 180,
+   "cards": [
+    {
+     "name": "Nadaar, Selfless Paladin",
+     "inclusion": 10.8,
+     "winRate": 55.3,
+     "games": 1586,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Iymrith, Desert Doom",
+     "inclusion": 7.2,
+     "winRate": 53.8,
+     "games": 998,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Mind Flayer",
+     "inclusion": 12.7,
+     "winRate": 53.6,
+     "games": 1812,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Yuan-Ti Malison",
+     "inclusion": 13.3,
+     "winRate": 53.4,
+     "games": 1845,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Grazilaxx, Illithid Scholar",
+     "inclusion": 12.0,
+     "winRate": 53.3,
+     "games": 1720,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Dragon Turtle",
+     "inclusion": 10.7,
+     "winRate": 52.9,
+     "games": 1517,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Loyal Warhound",
+     "inclusion": 8.7,
+     "winRate": 52.9,
+     "games": 1192,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Dancing Sword",
+     "inclusion": 9.3,
+     "winRate": 52.7,
+     "games": 1280,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Paladin Class",
+     "inclusion": 8.3,
+     "winRate": 52.5,
+     "games": 1167,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Cave of the Frost Dragon",
+     "inclusion": 8.1,
+     "winRate": 52.3,
+     "games": 1126,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Eccentric Apprentice",
+     "inclusion": 32.2,
+     "winRate": 52.1,
+     "games": 4437,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Cleric Class",
+     "inclusion": 6.5,
+     "winRate": 52.0,
+     "games": 894,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Trickster's Talisman",
+     "inclusion": 15.7,
+     "winRate": 51.8,
+     "games": 2198,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Priest of Ancient Lore",
+     "inclusion": 54.4,
+     "winRate": 51.6,
+     "games": 7444,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Cloister Gargoyle",
+     "inclusion": 28.7,
+     "winRate": 51.5,
+     "games": 3959,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Steadfast Paladin",
+     "inclusion": 52.2,
+     "winRate": 51.3,
+     "games": 7125,
+     "trophyInclusion": 62.8
+    },
+    {
+     "name": "You See a Guard Approach",
+     "inclusion": 7.4,
+     "winRate": 51.3,
+     "games": 986,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Ingenious Smith",
+     "inclusion": 6.2,
+     "winRate": 51.3,
+     "games": 854,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "You Hear Something on Watch",
+     "inclusion": 51.7,
+     "winRate": 51.2,
+     "games": 7085,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "White Dragon",
+     "inclusion": 25.2,
+     "winRate": 51.2,
+     "games": 3473,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Temple of the Dragon Queen",
+     "inclusion": 11.3,
+     "winRate": 51.2,
+     "games": 1589,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Plate Armor",
+     "inclusion": 18.9,
+     "winRate": 51.1,
+     "games": 2583,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Air-Cult Elemental",
+     "inclusion": 46.7,
+     "winRate": 51.0,
+     "games": 6413,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Djinni Windseer",
+     "inclusion": 54.0,
+     "winRate": 50.9,
+     "games": 7464,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Planar Ally",
+     "inclusion": 53.3,
+     "winRate": 50.9,
+     "games": 7289,
+     "trophyInclusion": 60.6
+    },
+    {
+     "name": "Minimus Containment",
+     "inclusion": 51.4,
+     "winRate": 50.9,
+     "games": 7011,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 27.3,
+     "winRate": 50.9,
+     "games": 3753,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Veteran Dungeoneer",
+     "inclusion": 51.8,
+     "winRate": 50.8,
+     "games": 7044,
+     "trophyInclusion": 57.2
+    },
+    {
+     "name": "Clever Conjurer",
+     "inclusion": 27.8,
+     "winRate": 50.7,
+     "games": 3796,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Dwarfhold Champion",
+     "inclusion": 31.8,
+     "winRate": 50.6,
+     "games": 4349,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Ray of Frost",
+     "inclusion": 27.4,
+     "winRate": 50.6,
+     "games": 3722,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Guardian of Faith",
+     "inclusion": 7.0,
+     "winRate": 50.6,
+     "games": 946,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Hall of Storm Giants",
+     "inclusion": 10.0,
+     "winRate": 50.4,
+     "games": 1364,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Soulknife Spy",
+     "inclusion": 43.8,
+     "winRate": 50.2,
+     "games": 5929,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "You Come to a River",
+     "inclusion": 29.8,
+     "winRate": 50.2,
+     "games": 4079,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Displacer Beast",
+     "inclusion": 29.5,
+     "winRate": 50.2,
+     "games": 4028,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Charmed Sleep",
+     "inclusion": 50.8,
+     "winRate": 50.1,
+     "games": 6909,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Fly",
+     "inclusion": 26.6,
+     "winRate": 50.1,
+     "games": 3546,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Arborea Pegasus",
+     "inclusion": 37.5,
+     "winRate": 50.0,
+     "games": 5019,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Arcane Investigator",
+     "inclusion": 34.8,
+     "winRate": 50.0,
+     "games": 4734,
+     "trophyInclusion": 31.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2021-07-24",
+    "main": [
+     [
+      1,
+      "Air-Cult Elemental"
+     ],
+     [
+      2,
+      "Clever Conjurer"
+     ],
+     [
+      1,
+      "Contact Other Plane"
+     ],
+     [
+      1,
+      "Dawnbringer Cleric"
+     ],
+     [
+      1,
+      "Djinni Windseer"
+     ],
+     [
+      1,
+      "Dragon Turtle"
+     ],
+     [
+      1,
+      "Eccentric Apprentice"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Minimus Containment"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Planar Ally"
+     ],
+     [
+      1,
+      "Priest of Ancient Lore"
+     ],
+     [
+      1,
+      "Ranger's Hawk"
+     ],
+     [
+      1,
+      "Ray of Frost"
+     ],
+     [
+      1,
+      "Rimeshield Frost Giant"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Secret Door"
+     ],
+     [
+      1,
+      "Shortcut Seeker"
+     ],
+     [
+      1,
+      "Soulknife Spy"
+     ],
+     [
+      1,
+      "Steadfast Paladin"
+     ],
+     [
+      1,
+      "Teleportation Circle"
+     ],
+     [
+      1,
+      "You Come to a River"
+     ],
+     [
+      1,
+      "You Hear Something on Watch"
+     ],
+     [
+      1,
+      "Yuan-Ti Malison"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arborea Pegasus"
+     ],
+     [
+      1,
+      "Devour Intellect"
+     ],
+     [
+      1,
+      "Gloom Stalker"
+     ],
+     [
+      1,
+      "Half-Elf Monk"
+     ],
+     [
+      1,
+      "Herald of Hadar"
+     ],
+     [
+      1,
+      "Paladin's Shield"
+     ],
+     [
+      1,
+      "Pixie Guide"
+     ],
+     [
+      1,
+      "Rimeshield Frost Giant"
+     ],
+     [
+      1,
+      "Scion of Stygia"
+     ],
+     [
+      1,
+      "Secret Door"
+     ],
+     [
+      2,
+      "Shocking Grasp"
+     ],
+     [
+      1,
+      "Skullport Merchant"
+     ],
+     [
+      1,
+      "Soulknife Spy"
+     ],
+     [
+      1,
+      "Spare Dagger"
+     ],
+     [
+      1,
+      "Trickster's Talisman"
+     ],
+     [
+      2,
+      "You See a Guard Approach"
+     ],
+     [
+      1,
+      "You're Ambushed on the Road"
+     ]
+    ]
+   }
+  }
+ ]
+}

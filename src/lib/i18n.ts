@@ -48,6 +48,7 @@ const STRINGS = {
   lands: { fr: 'Terrains', en: 'Lands' },
   landsLower: { fr: 'terrains', en: 'lands' },
   sideboard: { fr: 'Sideboard', en: 'Sideboard' },
+  restOfPool: { fr: 'Reste du pool', en: 'Rest of the pool' },
   list: { fr: 'Liste', en: 'List' },
   visual: { fr: 'Cartes', en: 'Cards' },
   copy: { fr: 'Copier la liste', en: 'Copy list' },
@@ -61,6 +62,10 @@ const STRINGS = {
   sortRecent: { fr: 'Chronologique', en: 'Chronological' },
   sortTop: { fr: 'Dominance', en: 'Dominance' },
   colorsView: { fr: 'Couleurs', en: 'Colors' },
+  colorsIntroLimited: {
+    fr: 'Part des parties 17Lands jouées par les decks de chaque couleur, extension par extension (Premier Draft). Un deck bicolore compte pour ses deux couleurs.',
+    en: 'Share of 17Lands games played by decks of each color, set by set (Premier Draft). A two-color deck counts for both colors.',
+  },
   colorsIntro: {
     fr: 'Part des top 8 prise par les decks jouant chaque couleur, saison par saison. Un deck bicolore compte pour ses deux couleurs.',
     en: 'Share of top 8 finishes taken by decks playing each color, season by season. A two-color deck counts for both colors.',
@@ -136,10 +141,35 @@ const STRINGS = {
   prev: { fr: 'Précédent', en: 'Previous' },
   next: { fr: 'Suivant', en: 'Next' },
   footer: {
-    fr: 'Résultats et listes : MTGTop8, Classic Dojo, StarCityGames. Images : Scryfall.',
-    en: 'Results and lists: MTGTop8, Classic Dojo, StarCityGames. Images: Scryfall.',
+    fr: 'Résultats et listes : MTGTop8, Classic Dojo, StarCityGames. Limited : données publiques 17Lands (CC BY 4.0). Images : Scryfall.',
+    en: 'Results and lists: MTGTop8, Classic Dojo, StarCityGames. Limited: 17Lands public data (CC BY 4.0). Images: Scryfall.',
   },
   staplesIntro: { fr: 'cartes devenues incontournables, des plus récentes aux plus anciennes', en: 'cards that became format staples, newest first' },
+  winRate: { fr: 'de victoires', en: 'win rate' },
+  sortWinRate: { fr: 'Taux de victoire', en: 'Win rate' },
+  sortPlayed: { fr: 'Les plus joués', en: 'Most played' },
+  ofGames: { fr: 'des parties', en: 'of games' },
+  gamesWord: { fr: 'parties', en: 'games' },
+  draftsWord: { fr: 'drafts', en: 'drafts' },
+  trophyDecks: { fr: 'decks à 7 victoires', en: '7-win decks' },
+  trophyDeck: { fr: 'Deck à 7 victoires', en: '7-win deck' },
+  setAverage: { fr: 'moyenne de l’extension', en: 'set average' },
+  premierDraft: { fr: 'Premier Draft sur MTG Arena', en: 'Premier Draft on MTG Arena' },
+  limitedSourceA: {
+    fr: 'Taux de victoire, parts des parties et decks à 7 victoires calculés à partir des',
+    en: 'Win rates, shares of games and 7-win decks computed from',
+  },
+  limitedSourceLink: { fr: 'données publiques de 17Lands', en: '17Lands public data' },
+  limitedSourceB: {
+    fr: '(Premier Draft sur MTG Arena, licence CC BY 4.0). L’échantillon réunit les joueurs équipés du traqueur 17Lands, plus forts que la moyenne : les taux se comparent au sein d’une même extension.',
+    en: '(Premier Draft on MTG Arena, CC BY 4.0 license). The sample is players using the 17Lands tracker, stronger than average: compare rates within a set.',
+  },
+  seasonTotalLimited: { fr: 'parties dans l’extension', en: 'games in the set' },
+  timelineCaptionLimited: {
+    fr: 'Une colonne par extension : part des parties jouées par la combinaison de couleurs (barre, même échelle partout), son taux de victoire et un deck à 7 victoires.',
+    en: 'One column per set: share of games played by the color combination (bar, one scale throughout), its win rate and a 7-win deck.',
+  },
+  setsPlural: { fr: 'extensions', en: 'sets' },
 } satisfies Record<string, L10n>
 
 export type StringKey = keyof typeof STRINGS
@@ -202,4 +232,16 @@ export function seasonYears(start: string, nextStart?: string): string {
     : new Date().getUTCFullYear()
   if (y2 <= y1) return String(y1)
   return `${y1}–${String(y2).slice(2)}`
+}
+
+type SeasonLike = { start: string; end?: string; set: string; code?: string }
+
+/** Heading of a season: its years ("2005–06"), or its set for Limited. */
+export function seasonTitle(s: SeasonLike): string {
+  return s.code ? s.set : seasonYears(s.start, s.end)
+}
+
+/** Short label (jumps, axes): years, or the set code for Limited. */
+export function seasonShort(s: SeasonLike): string {
+  return s.code ?? seasonYears(s.start, s.end)
 }

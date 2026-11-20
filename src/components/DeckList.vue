@@ -6,7 +6,7 @@ import { t } from '../lib/i18n'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import CardRow from './CardRow.vue'
 
-const props = defineProps<{ list: DeckList; cards: Record<string, CardInfo>; season?: string }>()
+const props = defineProps<{ list: DeckList; cards: Record<string, CardInfo>; season?: string; sideLabel?: string }>()
 
 type Mode = 'list' | 'visual'
 const MODE_KEY = 'mtg-decklist-mode'
@@ -143,7 +143,7 @@ async function copy() {
       </div>
 
       <div v-if="side.length" class="side">
-        <div class="col-head"><span>{{ t('sideboard') }}</span><span>{{ totalSide }}</span></div>
+        <div class="col-head"><span>{{ sideLabel ?? t('sideboard') }}</span><span>{{ totalSide }}</span></div>
         <div class="side-grid">
           <CardRow v-for="[n, name] in side" :key="name" :name="name" :count="n" :info="info(name)" :season="season" />
         </div>
@@ -194,7 +194,7 @@ async function copy() {
         </div>
       </div>
       <div v-if="side.length" class="side">
-        <div class="col-head"><span>{{ t('sideboard') }}</span><span>{{ totalSide }}</span></div>
+        <div class="col-head"><span>{{ sideLabel ?? t('sideboard') }}</span><span>{{ totalSide }}</span></div>
         <div class="stacks stacks--side">
           <div v-for="col in sideColumns" :key="col.label" class="stack-col">
             <div class="stack">

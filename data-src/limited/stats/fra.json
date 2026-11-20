@@ -1,0 +1,5063 @@
+{
+ "set": "fra",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FRA.PremierDraft.csv.gz",
+ "lastModified": "Sat, 14 Nov 2026 13:27:38 GMT",
+ "colorsDerived": false,
+ "first": "2026-09-29",
+ "last": "2026-11-01",
+ "games": 431627,
+ "drafts": 80430,
+ "winRate": 55.1,
+ "combos": [
+  {
+   "colors": "UB",
+   "games": 61335,
+   "wins": 34448,
+   "winRate": 56.16,
+   "share": 14.21,
+   "drafts": 11353,
+   "trophies": 903,
+   "cards": [
+    {
+     "name": "Uldaros Theorix",
+     "inclusion": 9.2,
+     "winRate": 61.7,
+     "games": 6062,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Overwrite the Multiverse",
+     "inclusion": 6.5,
+     "winRate": 60.2,
+     "games": 4241,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Sphinx of False Conclusions",
+     "inclusion": 10.7,
+     "winRate": 59.7,
+     "games": 6793,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Lich's Relic",
+     "inclusion": 11.1,
+     "winRate": 59.6,
+     "games": 7140,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Garruk, Veiled Butcher",
+     "inclusion": 6.0,
+     "winRate": 59.6,
+     "games": 3909,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Null Summoner",
+     "inclusion": 18.8,
+     "winRate": 59.3,
+     "games": 12057,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Vraska, the Cutting Glare",
+     "inclusion": 5.7,
+     "winRate": 58.5,
+     "games": 3636,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Sanctum Lurker",
+     "inclusion": 10.8,
+     "winRate": 58.3,
+     "games": 6831,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Hapatra, the Desert Fang",
+     "inclusion": 14.1,
+     "winRate": 58.1,
+     "games": 8809,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 49.5,
+     "winRate": 58.0,
+     "games": 31043,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Lyra, Tolarian Archangel",
+     "inclusion": 10.6,
+     "winRate": 57.8,
+     "games": 6709,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Break Under Pressure",
+     "inclusion": 31.9,
+     "winRate": 57.7,
+     "games": 20006,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Plan for All Outcomes",
+     "inclusion": 29.2,
+     "winRate": 57.7,
+     "games": 18248,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Seasoned Cryomancer",
+     "inclusion": 5.2,
+     "winRate": 57.7,
+     "games": 3266,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 55.8,
+     "winRate": 57.6,
+     "games": 34899,
+     "trophyInclusion": 64.1
+    },
+    {
+     "name": "Mindseeker Oculus",
+     "inclusion": 54.0,
+     "winRate": 57.6,
+     "games": 33788,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 40.4,
+     "winRate": 57.6,
+     "games": 25261,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Multiply by Zero",
+     "inclusion": 29.8,
+     "winRate": 57.6,
+     "games": 18679,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 28.4,
+     "winRate": 57.6,
+     "games": 17738,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Countersculpt",
+     "inclusion": 33.2,
+     "winRate": 57.5,
+     "games": 20653,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Innovative Commons",
+     "inclusion": 6.3,
+     "winRate": 57.5,
+     "games": 3938,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Chandra, Chill of Compliance",
+     "inclusion": 5.0,
+     "winRate": 57.5,
+     "games": 3134,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Transformative Commons",
+     "inclusion": 12.0,
+     "winRate": 57.3,
+     "games": 7376,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Formidable Commons",
+     "inclusion": 11.8,
+     "winRate": 57.3,
+     "games": 7332,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Theorist's Proxy",
+     "inclusion": 9.6,
+     "winRate": 57.3,
+     "games": 6029,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Gideon the Oathless",
+     "inclusion": 10.0,
+     "winRate": 57.2,
+     "games": 6157,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Icy Reception",
+     "inclusion": 49.8,
+     "winRate": 57.1,
+     "games": 30836,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Shipwreck Marsh",
+     "inclusion": 12.5,
+     "winRate": 57.1,
+     "games": 7816,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Jace, Reality Sculptor",
+     "inclusion": 8.7,
+     "winRate": 57.1,
+     "games": 5416,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Protege's Awakening",
+     "inclusion": 46.8,
+     "winRate": 57.0,
+     "games": 29016,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Diviner of Victory",
+     "inclusion": 10.0,
+     "winRate": 57.0,
+     "games": 6218,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Jace's Machinations",
+     "inclusion": 8.8,
+     "winRate": 57.0,
+     "games": 5475,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Theorix Annex",
+     "inclusion": 43.4,
+     "winRate": 56.8,
+     "games": 26985,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Way of the Mind Sculptor",
+     "inclusion": 25.6,
+     "winRate": 56.8,
+     "games": 15857,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Rewrite Regrets",
+     "inclusion": 31.1,
+     "winRate": 56.7,
+     "games": 19163,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Variable Chaser",
+     "inclusion": 8.0,
+     "winRate": 56.7,
+     "games": 4932,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 51.8,
+     "winRate": 56.6,
+     "games": 31945,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Mind Meanderer",
+     "inclusion": 10.5,
+     "winRate": 56.6,
+     "games": 6471,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Apex Witchstalker",
+     "inclusion": 50.9,
+     "winRate": 56.5,
+     "games": 31230,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Unsummon",
+     "inclusion": 46.4,
+     "winRate": 56.5,
+     "games": 28639,
+     "trophyInclusion": 46.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-03",
+    "main": [
+     [
+      2,
+      "Apex Witchstalker"
+     ],
+     [
+      1,
+      "Arni, Humble Scribe"
+     ],
+     [
+      2,
+      "Countersculpt"
+     ],
+     [
+      1,
+      "Extended Absence"
+     ],
+     [
+      1,
+      "Fblthp, Impossibly Lost"
+     ],
+     [
+      1,
+      "Gallia, Tragic Host"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      1,
+      "Infinite Coursework"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Mindseeker Oculus"
+     ],
+     [
+      1,
+      "Paradox Shaper"
+     ],
+     [
+      1,
+      "Proft, Sinister Mastermind"
+     ],
+     [
+      1,
+      "Rank Rat"
+     ],
+     [
+      1,
+      "Recursive Recruitment"
+     ],
+     [
+      2,
+      "Shipwreck Marsh"
+     ],
+     [
+      1,
+      "Surveillance Phantasm"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Theorist's Proxy"
+     ],
+     [
+      2,
+      "Theorix Annex"
+     ],
+     [
+      1,
+      "Theorix Charm"
+     ],
+     [
+      1,
+      "Theorix Metamage"
+     ],
+     [
+      1,
+      "Uldaros Theorix"
+     ],
+     [
+      1,
+      "Undulating Witness"
+     ],
+     [
+      1,
+      "Way of the Mind Sculptor"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cryotheory Adept"
+     ],
+     [
+      1,
+      "Hapatra, the Desert Fang"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      1,
+      "Jiang Yanggu, Alone"
+     ],
+     [
+      1,
+      "Living Library"
+     ],
+     [
+      1,
+      "Murmuring Volume"
+     ],
+     [
+      1,
+      "Proft, Consulting Detective"
+     ],
+     [
+      1,
+      "Protege's Awakening"
+     ],
+     [
+      1,
+      "Rampart Hunter"
+     ],
+     [
+      1,
+      "Semester Foreseer"
+     ],
+     [
+      1,
+      "Solve for Disappointment"
+     ],
+     [
+      1,
+      "Vraska, the Cutting Glare"
+     ],
+     [
+      1,
+      "Way of the Deathbringer"
+     ],
+     [
+      1,
+      "Yargle, Goliath of Otaria"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 53349,
+   "wins": 30413,
+   "winRate": 57.01,
+   "share": 12.36,
+   "drafts": 9685,
+   "trophies": 820,
+   "cards": [
+    {
+     "name": "The Theorist, Jace Beleren",
+     "inclusion": 5.0,
+     "winRate": 61.8,
+     "games": 2854,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Sphinx of False Conclusions",
+     "inclusion": 10.7,
+     "winRate": 61.4,
+     "games": 6052,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Kindred Judgment",
+     "inclusion": 13.6,
+     "winRate": 60.4,
+     "games": 7657,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Denzilore Fatehold",
+     "inclusion": 10.1,
+     "winRate": 59.9,
+     "games": 5606,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Guiding Hydra",
+     "inclusion": 9.1,
+     "winRate": 59.2,
+     "games": 5026,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 7.3,
+     "winRate": 59.1,
+     "games": 3990,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Proctor of Potential",
+     "inclusion": 22.9,
+     "winRate": 59.0,
+     "games": 12652,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Way of the Healer",
+     "inclusion": 33.1,
+     "winRate": 58.8,
+     "games": 18143,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Diviner of Victory",
+     "inclusion": 12.6,
+     "winRate": 58.8,
+     "games": 6878,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Lyra, Tolarian Archangel",
+     "inclusion": 11.0,
+     "winRate": 58.7,
+     "games": 6069,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Seasoned Cryomancer",
+     "inclusion": 5.2,
+     "winRate": 58.6,
+     "games": 2863,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Mindseeker Oculus",
+     "inclusion": 52.8,
+     "winRate": 58.3,
+     "games": 28589,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Your Fate Ends Here",
+     "inclusion": 29.2,
+     "winRate": 58.1,
+     "games": 15881,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Hexhaven Battalion",
+     "inclusion": 57.7,
+     "winRate": 58.0,
+     "games": 31197,
+     "trophyInclusion": 65.0
+    },
+    {
+     "name": "Campus Crier",
+     "inclusion": 55.0,
+     "winRate": 57.9,
+     "games": 29631,
+     "trophyInclusion": 59.8
+    },
+    {
+     "name": "Countersculpt",
+     "inclusion": 31.5,
+     "winRate": 57.9,
+     "games": 16968,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Plan for All Outcomes",
+     "inclusion": 27.6,
+     "winRate": 57.9,
+     "games": 14883,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Fatehold Charm",
+     "inclusion": 46.9,
+     "winRate": 57.8,
+     "games": 25262,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Repurposed Enforcer",
+     "inclusion": 12.4,
+     "winRate": 57.8,
+     "games": 6690,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Surgical Precision",
+     "inclusion": 53.1,
+     "winRate": 57.7,
+     "games": 28684,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 11.3,
+     "winRate": 57.7,
+     "games": 6074,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Jace, Reality Sculptor",
+     "inclusion": 8.7,
+     "winRate": 57.7,
+     "games": 4595,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Unsummon",
+     "inclusion": 47.1,
+     "winRate": 57.6,
+     "games": 25260,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Proft, Consulting Detective",
+     "inclusion": 34.2,
+     "winRate": 57.6,
+     "games": 18391,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Geist of Saint Thalia",
+     "inclusion": 22.3,
+     "winRate": 57.6,
+     "games": 11879,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Generous Revival",
+     "inclusion": 21.1,
+     "winRate": 57.6,
+     "games": 11396,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Fblthp, Impossibly Lost",
+     "inclusion": 25.5,
+     "winRate": 57.5,
+     "games": 13727,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Surveillance Phantasm",
+     "inclusion": 55.5,
+     "winRate": 57.4,
+     "games": 29786,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Prudent Fateseer",
+     "inclusion": 37.0,
+     "winRate": 57.4,
+     "games": 19883,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 29.3,
+     "winRate": 57.4,
+     "games": 15671,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 26.7,
+     "winRate": 57.4,
+     "games": 14407,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Way of the Mind Sculptor",
+     "inclusion": 25.1,
+     "winRate": 57.4,
+     "games": 13369,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Twisted Fates",
+     "inclusion": 12.6,
+     "winRate": 57.4,
+     "games": 6748,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Lyra, Archangel of Dawn",
+     "inclusion": 6.3,
+     "winRate": 57.4,
+     "games": 3472,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Memory Trap",
+     "inclusion": 50.4,
+     "winRate": 57.3,
+     "games": 27051,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Fatehold Annex",
+     "inclusion": 42.7,
+     "winRate": 57.3,
+     "games": 22828,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Teyo, Lightshield Expert",
+     "inclusion": 24.0,
+     "winRate": 57.3,
+     "games": 12890,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Protege's Awakening",
+     "inclusion": 42.3,
+     "winRate": 57.2,
+     "games": 22649,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Theorist's Sanctum",
+     "inclusion": 10.3,
+     "winRate": 57.2,
+     "games": 5490,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Fatehold Chronologist",
+     "inclusion": 55.5,
+     "winRate": 57.1,
+     "games": 29584,
+     "trophyInclusion": 58.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-10-02",
+    "main": [
+     [
+      1,
+      "Campus Crier"
+     ],
+     [
+      1,
+      "Countersculpt"
+     ],
+     [
+      1,
+      "Desperate Futurescribe"
+     ],
+     [
+      1,
+      "Fatehold Annex"
+     ],
+     [
+      1,
+      "Fatehold Chronologist"
+     ],
+     [
+      1,
+      "Geist of Saint Thalia"
+     ],
+     [
+      1,
+      "Hexhaven Battalion"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      1,
+      "Infinite Coursework"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Kindred Judgment"
+     ],
+     [
+      1,
+      "Memory Trap"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Proft, Consulting Detective"
+     ],
+     [
+      1,
+      "Protege's Awakening"
+     ],
+     [
+      1,
+      "Prudent Fateseer"
+     ],
+     [
+      1,
+      "Semester Foreseer"
+     ],
+     [
+      1,
+      "Shatterwing Pegasus"
+     ],
+     [
+      2,
+      "Surveillance Phantasm"
+     ],
+     [
+      1,
+      "Theorist's Sanctum"
+     ],
+     [
+      1,
+      "Tomik, Orzhov Lawmage"
+     ],
+     [
+      2,
+      "Twinned Vision"
+     ],
+     [
+      1,
+      "Unsummon"
+     ],
+     [
+      1,
+      "Way of the Healer"
+     ],
+     [
+      1,
+      "Your Fate Ends Here"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Academic Ascent"
+     ],
+     [
+      1,
+      "Charge the Sanctum"
+     ],
+     [
+      1,
+      "Ghalta the Immovable"
+     ],
+     [
+      2,
+      "Heartstring Puller"
+     ],
+     [
+      1,
+      "Paradox Shaper"
+     ],
+     [
+      1,
+      "Protege's Awakening"
+     ],
+     [
+      1,
+      "Rampart Hunter"
+     ],
+     [
+      1,
+      "Shatterwing Pegasus"
+     ],
+     [
+      1,
+      "Something Worth Saving"
+     ],
+     [
+      1,
+      "Tetsuko Umezawa, Fugitive"
+     ],
+     [
+      1,
+      "Tomik, Orzhov Lawmage"
+     ],
+     [
+      2,
+      "Undulating Witness"
+     ],
+     [
+      1,
+      "Vigorbloom Vanguard"
+     ],
+     [
+      2,
+      "Yargle, Goliath of Otaria"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 39277,
+   "wins": 21888,
+   "winRate": 55.73,
+   "share": 9.1,
+   "drafts": 7210,
+   "trophies": 541,
+   "cards": [
+    {
+     "name": "Ajani Unrelenting",
+     "inclusion": 5.8,
+     "winRate": 62.7,
+     "games": 2520,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Garruk, Curse Breaker",
+     "inclusion": 6.2,
+     "winRate": 59.8,
+     "games": 2597,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Aerid Konstrari",
+     "inclusion": 10.5,
+     "winRate": 59.2,
+     "games": 4265,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Hungering Puppetbeast",
+     "inclusion": 13.7,
+     "winRate": 58.4,
+     "games": 5552,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Kiora of Fire and Ashes",
+     "inclusion": 32.1,
+     "winRate": 58.2,
+     "games": 13064,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Chandra, Torch of Defiance",
+     "inclusion": 5.0,
+     "winRate": 58.2,
+     "games": 2044,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Carnivorous Cultivator",
+     "inclusion": 11.3,
+     "winRate": 58.0,
+     "games": 4600,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Violent Echoes",
+     "inclusion": 33.9,
+     "winRate": 57.7,
+     "games": 13765,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Craftwork Crusher",
+     "inclusion": 55.1,
+     "winRate": 57.6,
+     "games": 22218,
+     "trophyInclusion": 64.9
+    },
+    {
+     "name": "Something Worth Saving",
+     "inclusion": 27.7,
+     "winRate": 57.1,
+     "games": 11039,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Tenured Tethermage",
+     "inclusion": 21.6,
+     "winRate": 57.0,
+     "games": 8677,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Samut, Hazoret's Champion",
+     "inclusion": 9.8,
+     "winRate": 57.0,
+     "games": 3874,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 5.4,
+     "winRate": 57.0,
+     "games": 2150,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 25.1,
+     "winRate": 56.9,
+     "games": 9912,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Heartwood Crafter",
+     "inclusion": 39.3,
+     "winRate": 56.8,
+     "games": 15578,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Marwyn, the Preserver",
+     "inclusion": 25.3,
+     "winRate": 56.8,
+     "games": 10031,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Verdant Kraken",
+     "inclusion": 11.9,
+     "winRate": 56.8,
+     "games": 4709,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 17.5,
+     "winRate": 56.5,
+     "games": 7009,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Curse-Marred Demon",
+     "inclusion": 11.6,
+     "winRate": 56.5,
+     "games": 4585,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Awaken the Inferno",
+     "inclusion": 55.3,
+     "winRate": 56.4,
+     "games": 21782,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Arcane Amphisbaena",
+     "inclusion": 53.5,
+     "winRate": 56.4,
+     "games": 21215,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Fblthp, Knows the Way",
+     "inclusion": 31.8,
+     "winRate": 56.4,
+     "games": 12820,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Simulacrum Shaper",
+     "inclusion": 11.2,
+     "winRate": 56.4,
+     "games": 4449,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Pia, Determined Rebuilder",
+     "inclusion": 29.6,
+     "winRate": 56.3,
+     "games": 11725,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Bestial Incursion",
+     "inclusion": 55.1,
+     "winRate": 56.2,
+     "games": 21707,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Konstrari Annex",
+     "inclusion": 45.5,
+     "winRate": 56.2,
+     "games": 17943,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Konstrari Charm",
+     "inclusion": 34.7,
+     "winRate": 56.2,
+     "games": 13716,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Craterclaw Colossus",
+     "inclusion": 7.2,
+     "winRate": 56.2,
+     "games": 2802,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "No Admittance",
+     "inclusion": 55.3,
+     "winRate": 56.1,
+     "games": 21965,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Wrath of the Bloodmane",
+     "inclusion": 55.0,
+     "winRate": 56.1,
+     "games": 21737,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Fulminous Forte",
+     "inclusion": 31.3,
+     "winRate": 56.1,
+     "games": 12520,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Murmuring Volume",
+     "inclusion": 23.5,
+     "winRate": 56.1,
+     "games": 9269,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Vinelasher Adept",
+     "inclusion": 49.4,
+     "winRate": 56.0,
+     "games": 19534,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 11.5,
+     "winRate": 56.0,
+     "games": 4529,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Formidable Commons",
+     "inclusion": 8.8,
+     "winRate": 56.0,
+     "games": 3407,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Marwyn, the Clearcutter",
+     "inclusion": 23.1,
+     "winRate": 55.9,
+     "games": 9098,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Konstrari Improviser",
+     "inclusion": 59.9,
+     "winRate": 55.7,
+     "games": 23656,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Greenhouse Propagator",
+     "inclusion": 44.8,
+     "winRate": 55.7,
+     "games": 17477,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Tam's Resistance",
+     "inclusion": 18.5,
+     "winRate": 55.7,
+     "games": 7304,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Afterthought Sentry",
+     "inclusion": 6.5,
+     "winRate": 55.7,
+     "games": 2548,
+     "trophyInclusion": 7.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-07",
+    "main": [
+     [
+      1,
+      "Aerid Konstrari"
+     ],
+     [
+      1,
+      "Arcane Amphisbaena"
+     ],
+     [
+      2,
+      "Awaken the Inferno"
+     ],
+     [
+      1,
+      "Bestial Incursion"
+     ],
+     [
+      1,
+      "Budding Insurgent"
+     ],
+     [
+      1,
+      "Compel Brutality"
+     ],
+     [
+      2,
+      "Craftwork Crusher"
+     ],
+     [
+      1,
+      "Draconic Visitor"
+     ],
+     [
+      1,
+      "Fblthp, Knows the Way"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Greenhouse Propagator"
+     ],
+     [
+      1,
+      "Hallway Heckler"
+     ],
+     [
+      1,
+      "Heartwood Crafter"
+     ],
+     [
+      1,
+      "Kiora of Fire and Ashes"
+     ],
+     [
+      1,
+      "Konstrari Annex"
+     ],
+     [
+      1,
+      "Konstrari Charm"
+     ],
+     [
+      1,
+      "Konstrari Improviser"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      2,
+      "No Admittance"
+     ],
+     [
+      1,
+      "Pia, Determined Rebuilder"
+     ],
+     [
+      1,
+      "Sureshot Sower"
+     ],
+     [
+      1,
+      "Titanbones, Towering Heart"
+     ],
+     [
+      1,
+      "Traxos, Scourge Eternal"
+     ],
+     [
+      1,
+      "Vinelasher Adept"
+     ],
+     [
+      1,
+      "Wrath of the Bloodmane"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Innovative Commons"
+     ],
+     [
+      1,
+      "Inspired Tethermage"
+     ],
+     [
+      1,
+      "Karn, Argent Defender"
+     ],
+     [
+      1,
+      "Kiora of Salt and Sand"
+     ],
+     [
+      1,
+      "Living Library"
+     ],
+     [
+      1,
+      "Pia, Aether Ascetic"
+     ],
+     [
+      1,
+      "Puppet Crafting"
+     ],
+     [
+      1,
+      "Saheeli, Jewel of Avishkar"
+     ],
+     [
+      1,
+      "Sureshot Sower"
+     ],
+     [
+      1,
+      "Surgical Precision"
+     ],
+     [
+      1,
+      "Tam, the Possibility"
+     ],
+     [
+      1,
+      "Terminal Criticism"
+     ],
+     [
+      1,
+      "Vigorbloom Annex"
+     ],
+     [
+      1,
+      "Wrecking Gecko"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 36019,
+   "wins": 19555,
+   "winRate": 54.29,
+   "share": 8.34,
+   "drafts": 6729,
+   "trophies": 400,
+   "cards": [
+    {
+     "name": "Garruk, Curse Breaker",
+     "inclusion": 5.0,
+     "winRate": 59.7,
+     "games": 2010,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Kindred Judgment",
+     "inclusion": 10.4,
+     "winRate": 57.9,
+     "games": 3889,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Lyra, Archangel of Dawn",
+     "inclusion": 14.8,
+     "winRate": 57.1,
+     "games": 5594,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Kwia Vigorbloom",
+     "inclusion": 11.4,
+     "winRate": 56.7,
+     "games": 4240,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Hungering Puppetbeast",
+     "inclusion": 11.1,
+     "winRate": 56.7,
+     "games": 4139,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Carnivorous Cultivator",
+     "inclusion": 10.2,
+     "winRate": 56.7,
+     "games": 3782,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Repurposed Enforcer",
+     "inclusion": 10.4,
+     "winRate": 56.6,
+     "games": 3812,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Liliana the Faultless",
+     "inclusion": 13.6,
+     "winRate": 56.3,
+     "games": 5097,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Guiding Hydra",
+     "inclusion": 11.5,
+     "winRate": 56.0,
+     "games": 4224,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Enlightened Confidant",
+     "inclusion": 6.9,
+     "winRate": 56.0,
+     "games": 2546,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Vigorbloom Charm",
+     "inclusion": 51.2,
+     "winRate": 55.6,
+     "games": 18772,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Medic's Kitesail",
+     "inclusion": 37.2,
+     "winRate": 55.6,
+     "games": 13613,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Bloombrute",
+     "inclusion": 52.6,
+     "winRate": 55.5,
+     "games": 19309,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Generous Revival",
+     "inclusion": 21.5,
+     "winRate": 55.4,
+     "games": 7804,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Meticulous Commons",
+     "inclusion": 8.9,
+     "winRate": 55.3,
+     "games": 3260,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Surgical Precision",
+     "inclusion": 54.3,
+     "winRate": 55.2,
+     "games": 19793,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Your Fate Ends Here",
+     "inclusion": 29.0,
+     "winRate": 55.1,
+     "games": 10588,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Solarium Sentry",
+     "inclusion": 22.0,
+     "winRate": 55.1,
+     "games": 7956,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Verdant Kraken",
+     "inclusion": 10.1,
+     "winRate": 55.1,
+     "games": 3735,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Memory Trap",
+     "inclusion": 51.8,
+     "winRate": 55.0,
+     "games": 18805,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Hexhaven Battalion",
+     "inclusion": 49.6,
+     "winRate": 55.0,
+     "games": 18005,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 36.0,
+     "winRate": 55.0,
+     "games": 13045,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Something Worth Saving",
+     "inclusion": 25.6,
+     "winRate": 55.0,
+     "games": 9336,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Unflinching Hortimancer",
+     "inclusion": 57.6,
+     "winRate": 54.9,
+     "games": 20895,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Vigorbloom Annex",
+     "inclusion": 42.1,
+     "winRate": 54.9,
+     "games": 15353,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Teyo, Lightshield Expert",
+     "inclusion": 25.4,
+     "winRate": 54.9,
+     "games": 9292,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Bestial Incursion",
+     "inclusion": 37.3,
+     "winRate": 54.8,
+     "games": 13545,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Heartwood Crafter",
+     "inclusion": 16.0,
+     "winRate": 54.8,
+     "games": 5787,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Greenhouse Propagator",
+     "inclusion": 55.3,
+     "winRate": 54.7,
+     "games": 20058,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 10.6,
+     "winRate": 54.7,
+     "games": 3847,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Fblthp, Knows the Way",
+     "inclusion": 20.7,
+     "winRate": 54.6,
+     "games": 7510,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Simulacrum Shaper",
+     "inclusion": 11.4,
+     "winRate": 54.6,
+     "games": 4096,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Campus Crier",
+     "inclusion": 38.6,
+     "winRate": 54.5,
+     "games": 13938,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 25.0,
+     "winRate": 54.5,
+     "games": 9091,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Way of the Paradox",
+     "inclusion": 24.4,
+     "winRate": 54.5,
+     "games": 8744,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Blessed Ghoul",
+     "inclusion": 24.2,
+     "winRate": 54.5,
+     "games": 8717,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Danitha, Sword of Hope",
+     "inclusion": 17.4,
+     "winRate": 54.5,
+     "games": 6325,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Blossom-Blessed Angel",
+     "inclusion": 53.4,
+     "winRate": 54.4,
+     "games": 19293,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Prophesied End",
+     "inclusion": 25.2,
+     "winRate": 54.4,
+     "games": 9106,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Tomik, Orzhov Lawmage",
+     "inclusion": 22.6,
+     "winRate": 54.4,
+     "games": 8130,
+     "trophyInclusion": 21.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-04",
+    "main": [
+     [
+      1,
+      "Arcane Amphisbaena"
+     ],
+     [
+      2,
+      "Bestial Incursion"
+     ],
+     [
+      1,
+      "Blessed Ghoul"
+     ],
+     [
+      1,
+      "Bloombrute"
+     ],
+     [
+      1,
+      "Blossom-Blessed Angel"
+     ],
+     [
+      1,
+      "Compel Brutality"
+     ],
+     [
+      2,
+      "Emergency Phytomedic"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Germinate Recruits"
+     ],
+     [
+      1,
+      "Greenhouse Propagator"
+     ],
+     [
+      1,
+      "Hunter's Axe"
+     ],
+     [
+      1,
+      "Liliana the Faultless"
+     ],
+     [
+      1,
+      "Lyra, Archangel of Dawn"
+     ],
+     [
+      1,
+      "Memory Trap"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Shatterwing Pegasus"
+     ],
+     [
+      1,
+      "Solarium Sentry"
+     ],
+     [
+      1,
+      "Surgical Precision"
+     ],
+     [
+      1,
+      "Teyo, Lightshield Expert"
+     ],
+     [
+      1,
+      "Titanbones, Towering Heart"
+     ],
+     [
+      1,
+      "Unflinching Hortimancer"
+     ],
+     [
+      1,
+      "Vigorbloom Annex"
+     ],
+     [
+      1,
+      "Vigorbloom Charm"
+     ],
+     [
+      1,
+      "Vigorbloom Vanguard"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Academic Ascent"
+     ],
+     [
+      1,
+      "Bloodline Recollector"
+     ],
+     [
+      1,
+      "Campus Crier"
+     ],
+     [
+      1,
+      "Entrust the Spark"
+     ],
+     [
+      1,
+      "Eye of Jace"
+     ],
+     [
+      1,
+      "Ferocity of the Hunt"
+     ],
+     [
+      1,
+      "Formidable Commons"
+     ],
+     [
+      1,
+      "Ghalta the Immovable"
+     ],
+     [
+      1,
+      "Graft Surgeon"
+     ],
+     [
+      1,
+      "Hallway Heckler"
+     ],
+     [
+      1,
+      "Karn, Gilded Guardian"
+     ],
+     [
+      1,
+      "Mabel, Valley Hero"
+     ],
+     [
+      1,
+      "Puppet Crafting"
+     ],
+     [
+      1,
+      "Refute Destiny"
+     ],
+     [
+      2,
+      "Tethermage's Advantage"
+     ],
+     [
+      1,
+      "Yargle, Glutton of Urborg"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 34352,
+   "wins": 19105,
+   "winRate": 55.62,
+   "share": 7.96,
+   "drafts": 6348,
+   "trophies": 497,
+   "cards": [
+    {
+     "name": "Ajani Unrelenting",
+     "inclusion": 6.5,
+     "winRate": 64.9,
+     "games": 2567,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Kiora of Fire and Ashes",
+     "inclusion": 31.8,
+     "winRate": 58.5,
+     "games": 11379,
+     "trophyInclusion": 40.4
+    },
+    {
+     "name": "Sphinx of False Conclusions",
+     "inclusion": 10.9,
+     "winRate": 58.2,
+     "games": 3905,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Diviner of Victory",
+     "inclusion": 10.7,
+     "winRate": 57.8,
+     "games": 3805,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Violent Echoes",
+     "inclusion": 36.2,
+     "winRate": 57.6,
+     "games": 12877,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Chandra, Torch of Defiance",
+     "inclusion": 6.4,
+     "winRate": 57.4,
+     "games": 2289,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Countersculpt",
+     "inclusion": 29.6,
+     "winRate": 57.3,
+     "games": 10248,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Plan for All Outcomes",
+     "inclusion": 30.2,
+     "winRate": 57.1,
+     "games": 10507,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 58.1,
+     "winRate": 57.0,
+     "games": 20363,
+     "trophyInclusion": 65.8
+    },
+    {
+     "name": "Clash of Elements",
+     "inclusion": 54.7,
+     "winRate": 57.0,
+     "games": 19232,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Mindseeker Oculus",
+     "inclusion": 51.5,
+     "winRate": 57.0,
+     "games": 17910,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Lyra, Tolarian Archangel",
+     "inclusion": 12.1,
+     "winRate": 57.0,
+     "games": 4266,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Theorist's Proxy",
+     "inclusion": 8.1,
+     "winRate": 56.9,
+     "games": 2798,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 20.2,
+     "winRate": 56.8,
+     "games": 7010,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Proft, Consulting Detective",
+     "inclusion": 24.8,
+     "winRate": 56.7,
+     "games": 8603,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "No Admittance",
+     "inclusion": 55.0,
+     "winRate": 56.5,
+     "games": 19267,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Saheeli, Jewel of Avishkar",
+     "inclusion": 53.7,
+     "winRate": 56.4,
+     "games": 18650,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Icy Reception",
+     "inclusion": 50.3,
+     "winRate": 56.4,
+     "games": 17386,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Fulminous Forte",
+     "inclusion": 30.5,
+     "winRate": 56.4,
+     "games": 10687,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Theorist's Sanctum",
+     "inclusion": 9.6,
+     "winRate": 56.4,
+     "games": 3310,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Innovative Commons",
+     "inclusion": 45.9,
+     "winRate": 56.3,
+     "games": 15813,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Variable Chaser",
+     "inclusion": 10.6,
+     "winRate": 56.3,
+     "games": 3714,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Protege's Awakening",
+     "inclusion": 44.1,
+     "winRate": 56.2,
+     "games": 15165,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 7.0,
+     "winRate": 56.2,
+     "games": 2365,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Jace, Reality Sculptor",
+     "inclusion": 9.5,
+     "winRate": 56.1,
+     "games": 3325,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Geist of Saint Thalia",
+     "inclusion": 29.8,
+     "winRate": 56.0,
+     "games": 10285,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Fblthp, Impossibly Lost",
+     "inclusion": 24.3,
+     "winRate": 56.0,
+     "games": 8402,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Way of the Mind Sculptor",
+     "inclusion": 23.9,
+     "winRate": 56.0,
+     "games": 8273,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Ajani's Anguish",
+     "inclusion": 9.3,
+     "winRate": 56.0,
+     "games": 3235,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Mind Meanderer",
+     "inclusion": 6.3,
+     "winRate": 56.0,
+     "games": 2169,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Unsummon",
+     "inclusion": 54.0,
+     "winRate": 55.9,
+     "games": 18515,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Wrath of the Bloodmane",
+     "inclusion": 53.9,
+     "winRate": 55.9,
+     "games": 18541,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "Seasoned Cryomancer",
+     "inclusion": 5.3,
+     "winRate": 55.9,
+     "games": 1852,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Fatehold Chronologist",
+     "inclusion": 33.7,
+     "winRate": 55.8,
+     "games": 11646,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Curse-Marred Demon",
+     "inclusion": 10.5,
+     "winRate": 55.8,
+     "games": 3612,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Paradox Shaper",
+     "inclusion": 8.1,
+     "winRate": 55.8,
+     "games": 2693,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Surveillance Phantasm",
+     "inclusion": 40.9,
+     "winRate": 55.7,
+     "games": 14004,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Marwyn, the Clearcutter",
+     "inclusion": 16.8,
+     "winRate": 55.7,
+     "games": 5802,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Heartstring Puller",
+     "inclusion": 33.5,
+     "winRate": 55.6,
+     "games": 11589,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Pia, Determined Rebuilder",
+     "inclusion": 27.7,
+     "winRate": 55.6,
+     "games": 9380,
+     "trophyInclusion": 27.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-01",
+    "main": [
+     [
+      1,
+      "Awaken the Inferno"
+     ],
+     [
+      1,
+      "Clash of Elements"
+     ],
+     [
+      1,
+      "Dedicated Commons"
+     ],
+     [
+      1,
+      "Fulminous Forte"
+     ],
+     [
+      1,
+      "Geist of Saint Thalia"
+     ],
+     [
+      1,
+      "Haunted Ridge"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      1,
+      "Infinite Coursework"
+     ],
+     [
+      1,
+      "Innovative Commons"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Memory Trap"
+     ],
+     [
+      2,
+      "Mindseeker Oculus"
+     ],
+     [
+      4,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murmuring Volume"
+     ],
+     [
+      1,
+      "No Admittance"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Plan for All Outcomes"
+     ],
+     [
+      1,
+      "Proft, Consulting Detective"
+     ],
+     [
+      1,
+      "Protege's Awakening"
+     ],
+     [
+      1,
+      "Saheeli, Jewel of Avishkar"
+     ],
+     [
+      1,
+      "Sanctum Lurker"
+     ],
+     [
+      1,
+      "Surgical Precision"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tetsuko Umezawa, Pursuer"
+     ],
+     [
+      1,
+      "Tomik, Izzet Sparkmage"
+     ],
+     [
+      1,
+      "Twinned Vision"
+     ],
+     [
+      1,
+      "Undulating Witness"
+     ],
+     [
+      1,
+      "Unsummon"
+     ],
+     [
+      1,
+      "Way of the Mind Sculptor"
+     ],
+     [
+      1,
+      "Wrath of the Bloodmane"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Afterthought Sentry"
+     ],
+     [
+      1,
+      "Chandra's Emberling"
+     ],
+     [
+      1,
+      "Cryotheory Adept"
+     ],
+     [
+      1,
+      "Gardenize"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      2,
+      "Living Library"
+     ],
+     [
+      1,
+      "Paradox Shaper"
+     ],
+     [
+      1,
+      "Semester Foreseer"
+     ],
+     [
+      1,
+      "Tetsuko Umezawa, Fugitive"
+     ],
+     [
+      1,
+      "Theoretical Necromancer"
+     ],
+     [
+      1,
+      "Theorix Charm"
+     ],
+     [
+      1,
+      "Theorix Metamage"
+     ],
+     [
+      1,
+      "Yargle, Glutton of Urborg"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 27664,
+   "wins": 15304,
+   "winRate": 55.32,
+   "share": 6.41,
+   "drafts": 5132,
+   "trophies": 377,
+   "cards": [
+    {
+     "name": "Garruk, Veiled Butcher",
+     "inclusion": 5.3,
+     "winRate": 60.5,
+     "games": 1614,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Overwrite the Multiverse",
+     "inclusion": 6.6,
+     "winRate": 59.5,
+     "games": 1893,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Vraska, the Cutting Glare",
+     "inclusion": 26.4,
+     "winRate": 58.8,
+     "games": 7634,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Lich's Relic",
+     "inclusion": 11.8,
+     "winRate": 58.3,
+     "games": 3363,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 13.5,
+     "winRate": 58.0,
+     "games": 3875,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Hungering Puppetbeast",
+     "inclusion": 12.7,
+     "winRate": 57.4,
+     "games": 3571,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Break Under Pressure",
+     "inclusion": 33.3,
+     "winRate": 57.3,
+     "games": 9401,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Liliana the Repentant",
+     "inclusion": 14.4,
+     "winRate": 57.0,
+     "games": 4072,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Null Summoner",
+     "inclusion": 5.7,
+     "winRate": 57.0,
+     "games": 1614,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Gideon the Oathless",
+     "inclusion": 11.7,
+     "winRate": 56.9,
+     "games": 3303,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Primal Witchstalker",
+     "inclusion": 58.4,
+     "winRate": 56.8,
+     "games": 16474,
+     "trophyInclusion": 66.3
+    },
+    {
+     "name": "Theorix Annex",
+     "inclusion": 13.1,
+     "winRate": 56.8,
+     "games": 3724,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Simulacrum Shaper",
+     "inclusion": 12.6,
+     "winRate": 56.7,
+     "games": 3508,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Craftwork Crusher",
+     "inclusion": 11.0,
+     "winRate": 56.6,
+     "games": 3055,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Dark Matter Manipulator",
+     "inclusion": 8.6,
+     "winRate": 56.6,
+     "games": 2372,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 55.7,
+     "winRate": 56.5,
+     "games": 15620,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Transformative Commons",
+     "inclusion": 13.5,
+     "winRate": 56.5,
+     "games": 3788,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Archive Arbiter",
+     "inclusion": 9.8,
+     "winRate": 56.5,
+     "games": 2780,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Hapatra, the Desert Fang",
+     "inclusion": 60.3,
+     "winRate": 56.4,
+     "games": 16916,
+     "trophyInclusion": 66.0
+    },
+    {
+     "name": "Rewrite Regrets",
+     "inclusion": 34.5,
+     "winRate": 56.4,
+     "games": 9747,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Multiply by Zero",
+     "inclusion": 29.2,
+     "winRate": 56.4,
+     "games": 8188,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Carnivorous Cultivator",
+     "inclusion": 13.3,
+     "winRate": 56.4,
+     "games": 3710,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Sanctum Lurker",
+     "inclusion": 11.3,
+     "winRate": 56.3,
+     "games": 3149,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Theoretical Necromancer",
+     "inclusion": 50.5,
+     "winRate": 56.2,
+     "games": 14108,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Formidable Commons",
+     "inclusion": 48.4,
+     "winRate": 56.2,
+     "games": 13467,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Void Extrapolator",
+     "inclusion": 27.8,
+     "winRate": 56.2,
+     "games": 7760,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 9.4,
+     "winRate": 56.2,
+     "games": 2663,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Bestial Incursion",
+     "inclusion": 55.8,
+     "winRate": 56.1,
+     "games": 15655,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Something Worth Saving",
+     "inclusion": 50.8,
+     "winRate": 56.1,
+     "games": 14190,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Stingerquill Annex",
+     "inclusion": 11.5,
+     "winRate": 56.1,
+     "games": 3182,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 32.4,
+     "winRate": 56.0,
+     "games": 9094,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Murmuring Volume",
+     "inclusion": 23.1,
+     "winRate": 56.0,
+     "games": 6396,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Apex Witchstalker",
+     "inclusion": 55.6,
+     "winRate": 55.9,
+     "games": 15414,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 55.0,
+     "winRate": 55.9,
+     "games": 15349,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Vinelasher Adept",
+     "inclusion": 52.1,
+     "winRate": 55.9,
+     "games": 14537,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Konstrari Annex",
+     "inclusion": 12.4,
+     "winRate": 55.9,
+     "games": 3480,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Gallia, Tragic Host",
+     "inclusion": 28.0,
+     "winRate": 55.7,
+     "games": 7768,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Compel Brutality",
+     "inclusion": 47.0,
+     "winRate": 55.6,
+     "games": 13044,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Meticulous Commons",
+     "inclusion": 6.2,
+     "winRate": 55.5,
+     "games": 1656,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Proft, Sinister Mastermind",
+     "inclusion": 26.4,
+     "winRate": 55.4,
+     "games": 7416,
+     "trophyInclusion": 25.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-06",
+    "main": [
+     [
+      1,
+      "Ajani's Anguish"
+     ],
+     [
+      1,
+      "Apex Witchstalker"
+     ],
+     [
+      2,
+      "Arcane Amphisbaena"
+     ],
+     [
+      1,
+      "Archive Arbiter"
+     ],
+     [
+      1,
+      "Bestial Incursion"
+     ],
+     [
+      1,
+      "Compel Brutality"
+     ],
+     [
+      1,
+      "Extended Absence"
+     ],
+     [
+      1,
+      "Fblthp, Knows the Way"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Formidable Commons"
+     ],
+     [
+      1,
+      "Hapatra, the Desert Fang"
+     ],
+     [
+      1,
+      "Heartwood Crafter"
+     ],
+     [
+      1,
+      "Konstrari Annex"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Mabel, Bitter Recluse"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Primal Witchstalker"
+     ],
+     [
+      1,
+      "Proft, Sinister Mastermind"
+     ],
+     [
+      1,
+      "Rewrite Regrets"
+     ],
+     [
+      1,
+      "Room of Refuge"
+     ],
+     [
+      1,
+      "Silence the Echo"
+     ],
+     [
+      2,
+      "Something Worth Saving"
+     ],
+     [
+      1,
+      "Stingerquill Annex"
+     ],
+     [
+      1,
+      "Sureshot Sower"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      2,
+      "Theoretical Necromancer"
+     ],
+     [
+      1,
+      "Vinelasher Adept"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Budding Insurgent"
+     ],
+     [
+      2,
+      "Greenhouse Propagator"
+     ],
+     [
+      1,
+      "Inspired Tethermage"
+     ],
+     [
+      1,
+      "Mabel, Bitter Recluse"
+     ],
+     [
+      1,
+      "Paradox Shaper"
+     ],
+     [
+      1,
+      "Solve for Disappointment"
+     ],
+     [
+      1,
+      "Sureshot Sower"
+     ],
+     [
+      1,
+      "Tethermage's Advantage"
+     ],
+     [
+      2,
+      "Theoretical Necromancer"
+     ],
+     [
+      1,
+      "Void Extrapolator"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 27147,
+   "wins": 14798,
+   "winRate": 54.51,
+   "share": 6.29,
+   "drafts": 5076,
+   "trophies": 353,
+   "cards": [
+    {
+     "name": "Ajani Unrelenting",
+     "inclusion": 5.0,
+     "winRate": 62.9,
+     "games": 1526,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Sanctum Lurker",
+     "inclusion": 11.1,
+     "winRate": 58.7,
+     "games": 3125,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Stingcaster Mage",
+     "inclusion": 6.0,
+     "winRate": 58.6,
+     "games": 1724,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Lich's Relic",
+     "inclusion": 11.0,
+     "winRate": 58.2,
+     "games": 3098,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Gideon the Oathless",
+     "inclusion": 13.4,
+     "winRate": 58.0,
+     "games": 3788,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Chandra, Torch of Defiance",
+     "inclusion": 5.3,
+     "winRate": 58.0,
+     "games": 1504,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Kiora of Fire and Ashes",
+     "inclusion": 27.0,
+     "winRate": 57.4,
+     "games": 7560,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Liliana the Repentant",
+     "inclusion": 8.9,
+     "winRate": 57.4,
+     "games": 2469,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Samut, Hazoret's Champion",
+     "inclusion": 11.1,
+     "winRate": 56.9,
+     "games": 3080,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Garruk, Veiled Butcher",
+     "inclusion": 5.4,
+     "winRate": 56.9,
+     "games": 1504,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Dark Matter Manipulator",
+     "inclusion": 5.5,
+     "winRate": 56.8,
+     "games": 1513,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Haunted Ridge",
+     "inclusion": 13.8,
+     "winRate": 56.1,
+     "games": 3796,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Afterthought Sentry",
+     "inclusion": 7.4,
+     "winRate": 56.1,
+     "games": 2042,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Break Under Pressure",
+     "inclusion": 27.0,
+     "winRate": 56.0,
+     "games": 7478,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Violent Echoes",
+     "inclusion": 29.9,
+     "winRate": 55.9,
+     "games": 8356,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 24.0,
+     "winRate": 55.7,
+     "games": 6622,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Master of Barbs",
+     "inclusion": 18.6,
+     "winRate": 55.7,
+     "games": 5166,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Curse-Marred Demon",
+     "inclusion": 12.3,
+     "winRate": 55.6,
+     "games": 3399,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Ajani's Anguish",
+     "inclusion": 10.5,
+     "winRate": 55.6,
+     "games": 2863,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Gallia, Tragic Host",
+     "inclusion": 31.7,
+     "winRate": 55.5,
+     "games": 8642,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Pia, Determined Rebuilder",
+     "inclusion": 26.4,
+     "winRate": 55.5,
+     "games": 7293,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Ingris Stingerquill",
+     "inclusion": 12.5,
+     "winRate": 55.5,
+     "games": 3470,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Stingerquill Charm",
+     "inclusion": 55.7,
+     "winRate": 55.3,
+     "games": 15243,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Heartstring Puller",
+     "inclusion": 47.1,
+     "winRate": 55.3,
+     "games": 12890,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Ferocity of the Hunt",
+     "inclusion": 11.9,
+     "winRate": 55.3,
+     "games": 3230,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "No Admittance",
+     "inclusion": 54.8,
+     "winRate": 55.2,
+     "games": 14924,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Grim Repriser",
+     "inclusion": 53.3,
+     "winRate": 55.2,
+     "games": 14540,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Last Gasp",
+     "inclusion": 50.5,
+     "winRate": 55.2,
+     "games": 13755,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 50.5,
+     "winRate": 55.2,
+     "games": 13866,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Multiply by Zero",
+     "inclusion": 28.6,
+     "winRate": 55.2,
+     "games": 7752,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Marwyn, the Clearcutter",
+     "inclusion": 27.6,
+     "winRate": 55.1,
+     "games": 7529,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Hapatra, the Desert Fang",
+     "inclusion": 5.8,
+     "winRate": 55.1,
+     "games": 1570,
+     "trophyInclusion": 4.8
+    },
+    {
+     "name": "Skilled Battlecarver",
+     "inclusion": 49.6,
+     "winRate": 55.0,
+     "games": 13557,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Wrath of the Bloodmane",
+     "inclusion": 48.1,
+     "winRate": 55.0,
+     "games": 13130,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Fulminous Forte",
+     "inclusion": 28.0,
+     "winRate": 55.0,
+     "games": 7694,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Hallway Heckler",
+     "inclusion": 44.8,
+     "winRate": 54.9,
+     "games": 12160,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Cast Away Doubt",
+     "inclusion": 36.3,
+     "winRate": 54.9,
+     "games": 9884,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Mabel, Bitter Recluse",
+     "inclusion": 20.3,
+     "winRate": 54.9,
+     "games": 5539,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Void Extrapolator",
+     "inclusion": 14.6,
+     "winRate": 54.9,
+     "games": 3973,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Pompous Battlemage",
+     "inclusion": 11.0,
+     "winRate": 54.9,
+     "games": 2977,
+     "trophyInclusion": 7.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-17",
+    "main": [
+     [
+      1,
+      "Apex Witchstalker"
+     ],
+     [
+      1,
+      "Awaken the Inferno"
+     ],
+     [
+      1,
+      "Chandra's Emberling"
+     ],
+     [
+      1,
+      "Curse-Marred Demon"
+     ],
+     [
+      1,
+      "Extended Absence"
+     ],
+     [
+      1,
+      "Gallia, the Merrymaker"
+     ],
+     [
+      1,
+      "Grim Repriser"
+     ],
+     [
+      1,
+      "Hallway Heckler"
+     ],
+     [
+      1,
+      "Marwyn, the Clearcutter"
+     ],
+     [
+      1,
+      "Massacre Girl, Most Wanted"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "No Admittance"
+     ],
+     [
+      1,
+      "Pompous Battlemage"
+     ],
+     [
+      1,
+      "Rank Rat"
+     ],
+     [
+      2,
+      "Rewrite Regrets"
+     ],
+     [
+      1,
+      "Room of Refuge"
+     ],
+     [
+      1,
+      "Screeching Soulbreaker"
+     ],
+     [
+      1,
+      "Skilled Battlecarver"
+     ],
+     [
+      1,
+      "Stingerquill Annex"
+     ],
+     [
+      1,
+      "Stingerquill Charm"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tether Technician"
+     ],
+     [
+      1,
+      "Tinybones, Pocket Nuisance"
+     ],
+     [
+      1,
+      "Violent Echoes"
+     ],
+     [
+      1,
+      "Vraska's Final Mercy"
+     ],
+     [
+      1,
+      "Whiplash Wordsmith"
+     ],
+     [
+      1,
+      "Wrath of the Bloodmane"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Clash of Elements"
+     ],
+     [
+      1,
+      "Eye of Jace"
+     ],
+     [
+      1,
+      "Ferocity of the Hunt"
+     ],
+     [
+      1,
+      "Generous Revival"
+     ],
+     [
+      1,
+      "Hallway Heckler"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      2,
+      "Precise Redaction"
+     ],
+     [
+      1,
+      "Proft, Sinister Mastermind"
+     ],
+     [
+      1,
+      "Rank Rat"
+     ],
+     [
+      1,
+      "Solve for Disappointment"
+     ],
+     [
+      1,
+      "Sphinx's Approach"
+     ],
+     [
+      1,
+      "Stingerquill Annex"
+     ],
+     [
+      1,
+      "Void Extrapolator"
+     ],
+     [
+      1,
+      "Winter, Team Player"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 18406,
+   "wins": 10248,
+   "winRate": 55.68,
+   "share": 4.26,
+   "drafts": 3417,
+   "trophies": 281,
+   "cards": [
+    {
+     "name": "Uldaros Theorix",
+     "inclusion": 6.8,
+     "winRate": 62.9,
+     "games": 1374,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Sphinx of False Conclusions",
+     "inclusion": 9.0,
+     "winRate": 60.9,
+     "games": 1762,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Null Summoner",
+     "inclusion": 15.7,
+     "winRate": 58.6,
+     "games": 2981,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Vraska, the Cutting Glare",
+     "inclusion": 20.6,
+     "winRate": 58.4,
+     "games": 3944,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Simulacrum Shaper",
+     "inclusion": 8.7,
+     "winRate": 58.3,
+     "games": 1678,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Carnivorous Cultivator",
+     "inclusion": 9.9,
+     "winRate": 58.2,
+     "games": 1926,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Sanctum Lurker",
+     "inclusion": 9.1,
+     "winRate": 58.2,
+     "games": 1730,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Theorist's Proxy",
+     "inclusion": 6.7,
+     "winRate": 58.1,
+     "games": 1295,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 42.8,
+     "winRate": 58.0,
+     "games": 8039,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Rise of the Deathbringer",
+     "inclusion": 7.4,
+     "winRate": 57.9,
+     "games": 1388,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Dark Matter Manipulator",
+     "inclusion": 6.8,
+     "winRate": 57.7,
+     "games": 1278,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Rewrite Regrets",
+     "inclusion": 31.5,
+     "winRate": 57.6,
+     "games": 5951,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Break Under Pressure",
+     "inclusion": 26.9,
+     "winRate": 57.6,
+     "games": 5106,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Lich's Relic",
+     "inclusion": 9.2,
+     "winRate": 57.4,
+     "games": 1769,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Avatar of Burgeoning Echoes",
+     "inclusion": 9.2,
+     "winRate": 57.3,
+     "games": 1756,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Variable Chaser",
+     "inclusion": 5.6,
+     "winRate": 57.3,
+     "games": 1035,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 27.4,
+     "winRate": 57.1,
+     "games": 5074,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Shipwreck Marsh",
+     "inclusion": 13.3,
+     "winRate": 57.1,
+     "games": 2462,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Jace's Machinations",
+     "inclusion": 8.0,
+     "winRate": 57.1,
+     "games": 1526,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Something Worth Saving",
+     "inclusion": 35.0,
+     "winRate": 57.0,
+     "games": 6479,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 48.6,
+     "winRate": 56.9,
+     "games": 9109,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Multiply by Zero",
+     "inclusion": 24.7,
+     "winRate": 56.9,
+     "games": 4653,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Sphinx's Approach",
+     "inclusion": 11.0,
+     "winRate": 56.9,
+     "games": 2022,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Theoretical Necromancer",
+     "inclusion": 40.1,
+     "winRate": 56.8,
+     "games": 7418,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Plan for All Outcomes",
+     "inclusion": 23.8,
+     "winRate": 56.8,
+     "games": 4386,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Gideon the Oathless",
+     "inclusion": 7.7,
+     "winRate": 56.8,
+     "games": 1430,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Transformative Commons",
+     "inclusion": 51.3,
+     "winRate": 56.7,
+     "games": 9564,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Hapatra, the Desert Fang",
+     "inclusion": 50.9,
+     "winRate": 56.7,
+     "games": 9485,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Mind Meanderer",
+     "inclusion": 44.9,
+     "winRate": 56.7,
+     "games": 8357,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Primal Witchstalker",
+     "inclusion": 49.5,
+     "winRate": 56.6,
+     "games": 9152,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Mindseeker Oculus",
+     "inclusion": 46.9,
+     "winRate": 56.5,
+     "games": 8731,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 18.1,
+     "winRate": 56.5,
+     "games": 3337,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Countersculpt",
+     "inclusion": 20.7,
+     "winRate": 56.4,
+     "games": 3787,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Way of the Wildspeaker",
+     "inclusion": 17.1,
+     "winRate": 56.4,
+     "games": 3174,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Fblthp, Knows the Way",
+     "inclusion": 24.3,
+     "winRate": 56.3,
+     "games": 4492,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Protege's Awakening",
+     "inclusion": 42.0,
+     "winRate": 56.2,
+     "games": 7759,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Paradox Shaper",
+     "inclusion": 22.7,
+     "winRate": 56.1,
+     "games": 4162,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Marwyn, the Preserver",
+     "inclusion": 15.0,
+     "winRate": 56.1,
+     "games": 2775,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Archive Arbiter",
+     "inclusion": 8.8,
+     "winRate": 56.1,
+     "games": 1628,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Hungering Puppetbeast",
+     "inclusion": 8.6,
+     "winRate": 56.1,
+     "games": 1557,
+     "trophyInclusion": 6.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-24",
+    "main": [
+     [
+      1,
+      "Apex Witchstalker"
+     ],
+     [
+      1,
+      "Bestial Incursion"
+     ],
+     [
+      1,
+      "Compel Brutality"
+     ],
+     [
+      1,
+      "Cryotheory Adept"
+     ],
+     [
+      1,
+      "Extended Absence"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Formidable Commons"
+     ],
+     [
+      1,
+      "Hapatra, the Desert Fang"
+     ],
+     [
+      1,
+      "Icy Reception"
+     ],
+     [
+      1,
+      "Infinite Coursework"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Mind Meanderer"
+     ],
+     [
+      1,
+      "Murmuring Volume"
+     ],
+     [
+      1,
+      "Paradox Shaper"
+     ],
+     [
+      1,
+      "Primal Witchstalker"
+     ],
+     [
+      1,
+      "Recursive Recruitment"
+     ],
+     [
+      1,
+      "Restore with Empathy"
+     ],
+     [
+      1,
+      "Rewrite Regrets"
+     ],
+     [
+      1,
+      "Rise of the Deathbringer"
+     ],
+     [
+      1,
+      "Room of Refuge"
+     ],
+     [
+      1,
+      "Shipwreck Marsh"
+     ],
+     [
+      1,
+      "Sphinx's Approach"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tetsuko Umezawa, Fugitive"
+     ],
+     [
+      1,
+      "Theorix Annex"
+     ],
+     [
+      1,
+      "Theorix Metamage"
+     ],
+     [
+      1,
+      "Transformative Commons"
+     ],
+     [
+      1,
+      "Traxos, Academy Guardian"
+     ],
+     [
+      1,
+      "Twinned Vision"
+     ],
+     [
+      1,
+      "Unsummon"
+     ],
+     [
+      2,
+      "Vinelasher Adept"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Blazing Crescendo"
+     ],
+     [
+      1,
+      "Chandra's Emberling"
+     ],
+     [
+      1,
+      "Divining Duelist"
+     ],
+     [
+      1,
+      "Ferocity of the Hunt"
+     ],
+     [
+      1,
+      "Innovative Commons"
+     ],
+     [
+      1,
+      "Kiora of Fire and Ashes"
+     ],
+     [
+      1,
+      "Kiora of Salt and Sand"
+     ],
+     [
+      1,
+      "Konstrari Improviser"
+     ],
+     [
+      1,
+      "Living Library"
+     ],
+     [
+      1,
+      "Medic's Kitesail"
+     ],
+     [
+      1,
+      "Pia, Aether Ascetic"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 17218,
+   "wins": 9103,
+   "winRate": 52.87,
+   "share": 3.99,
+   "drafts": 3322,
+   "trophies": 183,
+   "cards": [
+    {
+     "name": "Sphinx of False Conclusions",
+     "inclusion": 11.6,
+     "winRate": 58.5,
+     "games": 2147,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Clash of Elements",
+     "inclusion": 5.5,
+     "winRate": 58.4,
+     "games": 1015,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Garruk, Curse Breaker",
+     "inclusion": 8.3,
+     "winRate": 57.2,
+     "games": 1512,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Recursive Recruitment",
+     "inclusion": 7.8,
+     "winRate": 56.5,
+     "games": 1348,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Chandra, Chill of Compliance",
+     "inclusion": 5.1,
+     "winRate": 55.8,
+     "games": 917,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Archive Arbiter",
+     "inclusion": 9.7,
+     "winRate": 55.7,
+     "games": 1744,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Konstrari Annex",
+     "inclusion": 14.0,
+     "winRate": 55.5,
+     "games": 2501,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Simulacrum Shaper",
+     "inclusion": 12.5,
+     "winRate": 55.5,
+     "games": 2234,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Craftwork Crusher",
+     "inclusion": 11.6,
+     "winRate": 55.5,
+     "games": 2110,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Awaken the Inferno",
+     "inclusion": 7.8,
+     "winRate": 55.2,
+     "games": 1370,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Hungering Puppetbeast",
+     "inclusion": 13.2,
+     "winRate": 55.1,
+     "games": 2299,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Seasoned Cryomancer",
+     "inclusion": 5.0,
+     "winRate": 55.1,
+     "games": 884,
+     "trophyInclusion": 4.9
+    },
+    {
+     "name": "Countersculpt",
+     "inclusion": 30.5,
+     "winRate": 55.0,
+     "games": 5383,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Murmuring Volume",
+     "inclusion": 28.1,
+     "winRate": 55.0,
+     "games": 4956,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 30.6,
+     "winRate": 54.8,
+     "games": 5377,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Way of the Paradox",
+     "inclusion": 25.2,
+     "winRate": 54.7,
+     "games": 4491,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Theorist's Sanctum",
+     "inclusion": 10.3,
+     "winRate": 54.7,
+     "games": 1851,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Heartwood Crafter",
+     "inclusion": 25.3,
+     "winRate": 54.6,
+     "games": 4479,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Innovative Commons",
+     "inclusion": 13.7,
+     "winRate": 54.6,
+     "games": 2427,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Avatar of Burgeoning Echoes",
+     "inclusion": 13.9,
+     "winRate": 54.5,
+     "games": 2478,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 31.8,
+     "winRate": 54.4,
+     "games": 5561,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Plan for All Outcomes",
+     "inclusion": 32.5,
+     "winRate": 54.3,
+     "games": 5728,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Lyra, Tolarian Archangel",
+     "inclusion": 10.9,
+     "winRate": 54.3,
+     "games": 1891,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Formidable Commons",
+     "inclusion": 14.8,
+     "winRate": 54.2,
+     "games": 2582,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Carnivorous Cultivator",
+     "inclusion": 11.7,
+     "winRate": 54.2,
+     "games": 2084,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Fblthp, Knows the Way",
+     "inclusion": 30.8,
+     "winRate": 54.1,
+     "games": 5344,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Something Worth Saving",
+     "inclusion": 28.0,
+     "winRate": 54.0,
+     "games": 4830,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Mind Meanderer",
+     "inclusion": 57.0,
+     "winRate": 53.8,
+     "games": 9979,
+     "trophyInclusion": 61.2
+    },
+    {
+     "name": "Restore with Empathy",
+     "inclusion": 14.8,
+     "winRate": 53.8,
+     "games": 2507,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Unsummon",
+     "inclusion": 47.8,
+     "winRate": 53.7,
+     "games": 8303,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Surveillance Phantasm",
+     "inclusion": 39.6,
+     "winRate": 53.7,
+     "games": 6894,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Variable Chaser",
+     "inclusion": 7.1,
+     "winRate": 53.7,
+     "games": 1247,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Icy Reception",
+     "inclusion": 46.1,
+     "winRate": 53.6,
+     "games": 7984,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Way of the Mind Sculptor",
+     "inclusion": 31.0,
+     "winRate": 53.6,
+     "games": 5483,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Mindseeker Oculus",
+     "inclusion": 55.0,
+     "winRate": 53.5,
+     "games": 9546,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "Vigorbloom Annex",
+     "inclusion": 8.0,
+     "winRate": 53.5,
+     "games": 1416,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Arcane Amphisbaena",
+     "inclusion": 55.8,
+     "winRate": 53.4,
+     "games": 9710,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Transformative Commons",
+     "inclusion": 49.7,
+     "winRate": 53.4,
+     "games": 8699,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "Verdant Kraken",
+     "inclusion": 13.0,
+     "winRate": 53.4,
+     "games": 2267,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Theorix Annex",
+     "inclusion": 12.6,
+     "winRate": 53.4,
+     "games": 2158,
+     "trophyInclusion": 12.0
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-10-27",
+    "main": [
+     [
+      1,
+      "Arcane Amphisbaena"
+     ],
+     [
+      1,
+      "Arni, Humble Scribe"
+     ],
+     [
+      1,
+      "Awaken the Inferno"
+     ],
+     [
+      1,
+      "Fblthp, Knows the Way"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Geist of Saint Thalia"
+     ],
+     [
+      1,
+      "Innovative Commons"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Jiang Yanggu, Alone"
+     ],
+     [
+      1,
+      "Marwyn, the Preserver"
+     ],
+     [
+      2,
+      "Mind Meanderer"
+     ],
+     [
+      1,
+      "Mindseeker Oculus"
+     ],
+     [
+      2,
+      "Mountain"
+     ],
+     [
+      1,
+      "Murmuring Volume"
+     ],
+     [
+      1,
+      "No Admittance"
+     ],
+     [
+      1,
+      "Protege's Awakening"
+     ],
+     [
+      1,
+      "Restore with Empathy"
+     ],
+     [
+      1,
+      "Room of Refuge"
+     ],
+     [
+      1,
+      "Ruric Thar, Biomagus"
+     ],
+     [
+      1,
+      "Surveillance Phantasm"
+     ],
+     [
+      1,
+      "Tam's Resistance"
+     ],
+     [
+      1,
+      "Transformative Commons"
+     ],
+     [
+      1,
+      "Traxos, Academy Guardian"
+     ],
+     [
+      1,
+      "Twinned Vision"
+     ],
+     [
+      1,
+      "Undulating Witness"
+     ],
+     [
+      1,
+      "Unsummon"
+     ],
+     [
+      1,
+      "Vinelasher Adept"
+     ],
+     [
+      1,
+      "Way of the Paradox"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Afterthought Sentry"
+     ],
+     [
+      1,
+      "Cast Away Doubt"
+     ],
+     [
+      1,
+      "Charge the Sanctum"
+     ],
+     [
+      1,
+      "Dedicated Commons"
+     ],
+     [
+      1,
+      "Fatehold Annex"
+     ],
+     [
+      1,
+      "Fblthp, Knows the Way"
+     ],
+     [
+      1,
+      "Ferocity of the Hunt"
+     ],
+     [
+      1,
+      "Flourishing Grapple"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Medic's Kitesail"
+     ],
+     [
+      1,
+      "Rise of the Deathbringer"
+     ],
+     [
+      1,
+      "Sureshot Sower"
+     ],
+     [
+      1,
+      "Tam's Resistance"
+     ],
+     [
+      1,
+      "Tethermage's Advantage"
+     ],
+     [
+      1,
+      "Way of the Healer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 15667,
+   "wins": 8428,
+   "winRate": 53.79,
+   "share": 3.63,
+   "drafts": 2928,
+   "trophies": 184,
+   "cards": [
+    {
+     "name": "Overwrite the Multiverse",
+     "inclusion": 5.2,
+     "winRate": 59.1,
+     "games": 847,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Garruk, Veiled Butcher",
+     "inclusion": 8.0,
+     "winRate": 58.7,
+     "games": 1338,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Lich's Relic",
+     "inclusion": 12.6,
+     "winRate": 57.8,
+     "games": 2117,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Sanctum Lurker",
+     "inclusion": 12.2,
+     "winRate": 56.8,
+     "games": 2004,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Lyra, Archangel of Dawn",
+     "inclusion": 13.5,
+     "winRate": 56.5,
+     "games": 2180,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Vraska, the Cutting Glare",
+     "inclusion": 5.1,
+     "winRate": 56.4,
+     "games": 816,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Guiding Hydra",
+     "inclusion": 10.2,
+     "winRate": 55.9,
+     "games": 1684,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Liliana the Faultless",
+     "inclusion": 9.0,
+     "winRate": 55.8,
+     "games": 1411,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Repurposed Enforcer",
+     "inclusion": 12.6,
+     "winRate": 55.7,
+     "games": 2070,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Fatehold Chronologist",
+     "inclusion": 30.0,
+     "winRate": 55.6,
+     "games": 4787,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Gideon the Oathless",
+     "inclusion": 12.1,
+     "winRate": 55.6,
+     "games": 1962,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Enlightened Confidant",
+     "inclusion": 5.5,
+     "winRate": 55.5,
+     "games": 923,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Generous Revival",
+     "inclusion": 28.8,
+     "winRate": 55.2,
+     "games": 4523,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Medic's Kitesail",
+     "inclusion": 17.6,
+     "winRate": 55.2,
+     "games": 2772,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Vigorbloom Annex",
+     "inclusion": 8.1,
+     "winRate": 55.1,
+     "games": 1286,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Hexhaven Battalion",
+     "inclusion": 54.5,
+     "winRate": 55.0,
+     "games": 8610,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 16.3,
+     "winRate": 55.0,
+     "games": 2565,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Kindred Judgment",
+     "inclusion": 11.2,
+     "winRate": 55.0,
+     "games": 1830,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Twisted Fates",
+     "inclusion": 60.8,
+     "winRate": 54.9,
+     "games": 9693,
+     "trophyInclusion": 65.2
+    },
+    {
+     "name": "Surgical Precision",
+     "inclusion": 46.9,
+     "winRate": 54.9,
+     "games": 7446,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Blossom-Blessed Angel",
+     "inclusion": 44.7,
+     "winRate": 54.9,
+     "games": 7090,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 27.6,
+     "winRate": 54.9,
+     "games": 4387,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Multiply by Zero",
+     "inclusion": 27.8,
+     "winRate": 54.7,
+     "games": 4460,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Theorix Annex",
+     "inclusion": 7.4,
+     "winRate": 54.7,
+     "games": 1178,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Stingerquill Voxmancer",
+     "inclusion": 5.3,
+     "winRate": 54.7,
+     "games": 812,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Your Fate Ends Here",
+     "inclusion": 27.5,
+     "winRate": 54.6,
+     "games": 4384,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Extended Absence",
+     "inclusion": 51.5,
+     "winRate": 54.5,
+     "games": 8141,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Teyo, Lightshield Expert",
+     "inclusion": 27.9,
+     "winRate": 54.5,
+     "games": 4460,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Break Under Pressure",
+     "inclusion": 27.8,
+     "winRate": 54.5,
+     "games": 4432,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 18.6,
+     "winRate": 54.5,
+     "games": 2928,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Murmuring Volume",
+     "inclusion": 10.9,
+     "winRate": 54.5,
+     "games": 1710,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Campus Crier",
+     "inclusion": 51.2,
+     "winRate": 54.2,
+     "games": 8049,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Blessed Ghoul",
+     "inclusion": 44.8,
+     "winRate": 54.2,
+     "games": 7030,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Unflinching Hortimancer",
+     "inclusion": 37.6,
+     "winRate": 54.2,
+     "games": 5922,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Hapatra, the Desert Fang",
+     "inclusion": 8.9,
+     "winRate": 54.2,
+     "games": 1421,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Dark Matter Manipulator",
+     "inclusion": 5.2,
+     "winRate": 54.2,
+     "games": 808,
+     "trophyInclusion": 4.3
+    },
+    {
+     "name": "Rank Rat",
+     "inclusion": 46.3,
+     "winRate": 54.1,
+     "games": 7303,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Screeching Soulbreaker",
+     "inclusion": 36.8,
+     "winRate": 54.1,
+     "games": 5835,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Gallia, Tragic Host",
+     "inclusion": 30.1,
+     "winRate": 54.1,
+     "games": 4776,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Archive Arbiter",
+     "inclusion": 9.5,
+     "winRate": 54.1,
+     "games": 1519,
+     "trophyInclusion": 8.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-10-25",
+    "main": [
+     [
+      1,
+      "Apex Witchstalker"
+     ],
+     [
+      1,
+      "Blessed Ghoul"
+     ],
+     [
+      1,
+      "Campus Crier"
+     ],
+     [
+      1,
+      "Darklight Phoenix"
+     ],
+     [
+      1,
+      "Edgar, Ancient Bloodlord"
+     ],
+     [
+      1,
+      "Enlightened Confidant"
+     ],
+     [
+      2,
+      "Extended Absence"
+     ],
+     [
+      1,
+      "Generous Revival"
+     ],
+     [
+      1,
+      "Hexhaven Battalion"
+     ],
+     [
+      1,
+      "Kindred Judgment"
+     ],
+     [
+      1,
+      "Last Gasp"
+     ],
+     [
+      1,
+      "Memory Trap"
+     ],
+     [
+      1,
+      "Meticulous Commons"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      2,
+      "Rank Rat"
+     ],
+     [
+      2,
+      "Screeching Soulbreaker"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Theoretical Necromancer"
+     ],
+     [
+      1,
+      "Tinybones, Pocket Nuisance"
+     ],
+     [
+      1,
+      "Twisted Fates"
+     ],
+     [
+      1,
+      "Unflinching Hortimancer"
+     ],
+     [
+      1,
+      "Vigorbloom Vanguard"
+     ],
+     [
+      1,
+      "Winter, Tormented Loner"
+     ],
+     [
+      1,
+      "Your Fate Ends Here"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Afterthought Sentry"
+     ],
+     [
+      1,
+      "Cast Away Doubt"
+     ],
+     [
+      1,
+      "Charge the Sanctum"
+     ],
+     [
+      1,
+      "Emergency Phytomedic"
+     ],
+     [
+      1,
+      "Hall of Echoes"
+     ],
+     [
+      1,
+      "Karn, Argent Defender"
+     ],
+     [
+      1,
+      "Keeper of the Quiet Hour"
+     ],
+     [
+      1,
+      "Living Library"
+     ],
+     [
+      1,
+      "Loot, the Anomaly"
+     ],
+     [
+      1,
+      "Overgrown Farmland"
+     ],
+     [
+      1,
+      "Predictive Preparations"
+     ],
+     [
+      1,
+      "Thalia, the Survivor"
+     ],
+     [
+      1,
+      "Theorix Annex"
+     ],
+     [
+      1,
+      "Unflinching Hortimancer"
+     ],
+     [
+      1,
+      "Way of the Necromancer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 15505,
+   "wins": 8374,
+   "winRate": 54.01,
+   "share": 3.59,
+   "drafts": 2895,
+   "trophies": 183,
+   "cards": [
+    {
+     "name": "Ajani Unrelenting",
+     "inclusion": 6.0,
+     "winRate": 62.2,
+     "games": 1062,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Chandra, Torch of Defiance",
+     "inclusion": 6.0,
+     "winRate": 57.2,
+     "games": 955,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Lyra, Archangel of Dawn",
+     "inclusion": 10.6,
+     "winRate": 56.9,
+     "games": 1718,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Vigorbloom Vanguard",
+     "inclusion": 18.6,
+     "winRate": 56.7,
+     "games": 2994,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Keeper of the Quiet Hour",
+     "inclusion": 13.3,
+     "winRate": 56.2,
+     "games": 2120,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Samut, Hazoret's Champion",
+     "inclusion": 13.9,
+     "winRate": 55.9,
+     "games": 2214,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Ajani's Anguish",
+     "inclusion": 11.0,
+     "winRate": 55.8,
+     "games": 1769,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Teyo, Lightshield Expert",
+     "inclusion": 30.6,
+     "winRate": 55.6,
+     "games": 4818,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Kiora of Fire and Ashes",
+     "inclusion": 29.9,
+     "winRate": 55.6,
+     "games": 4690,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Violent Echoes",
+     "inclusion": 28.6,
+     "winRate": 55.4,
+     "games": 4470,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Repurposed Enforcer",
+     "inclusion": 13.5,
+     "winRate": 55.4,
+     "games": 2149,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Hexhaven Battalion",
+     "inclusion": 50.8,
+     "winRate": 55.3,
+     "games": 8049,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Campus Crier",
+     "inclusion": 53.7,
+     "winRate": 55.1,
+     "games": 8417,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Surgical Precision",
+     "inclusion": 43.7,
+     "winRate": 55.1,
+     "games": 6919,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Tomik, Orzhov Lawmage",
+     "inclusion": 31.0,
+     "winRate": 55.0,
+     "games": 4878,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Guiding Hydra",
+     "inclusion": 13.3,
+     "winRate": 55.0,
+     "games": 2141,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Marwyn, the Clearcutter",
+     "inclusion": 27.4,
+     "winRate": 54.9,
+     "games": 4317,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Your Fate Ends Here",
+     "inclusion": 26.4,
+     "winRate": 54.9,
+     "games": 4199,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Kindred Judgment",
+     "inclusion": 8.7,
+     "winRate": 54.9,
+     "games": 1290,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Liliana the Faultless",
+     "inclusion": 8.5,
+     "winRate": 54.9,
+     "games": 1341,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Warrior's Blades",
+     "inclusion": 57.5,
+     "winRate": 54.8,
+     "games": 9088,
+     "trophyInclusion": 62.8
+    },
+    {
+     "name": "Blossom-Blessed Angel",
+     "inclusion": 40.3,
+     "winRate": 54.8,
+     "games": 6341,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Wrath of the Bloodmane",
+     "inclusion": 48.6,
+     "winRate": 54.7,
+     "games": 7568,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Fatehold Chronologist",
+     "inclusion": 32.9,
+     "winRate": 54.7,
+     "games": 5151,
+     "trophyInclusion": 37.2
+    },
+    {
+     "name": "Pia, Determined Rebuilder",
+     "inclusion": 31.5,
+     "winRate": 54.7,
+     "games": 4941,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Thalia, the Survivor",
+     "inclusion": 20.8,
+     "winRate": 54.7,
+     "games": 3232,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Heartstring Puller",
+     "inclusion": 49.4,
+     "winRate": 54.6,
+     "games": 7710,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Memory Trap",
+     "inclusion": 49.0,
+     "winRate": 54.6,
+     "games": 7706,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Meticulous Commons",
+     "inclusion": 6.5,
+     "winRate": 54.6,
+     "games": 1001,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "No Admittance",
+     "inclusion": 50.8,
+     "winRate": 54.5,
+     "games": 7935,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Room of Refuge",
+     "inclusion": 22.9,
+     "winRate": 54.5,
+     "games": 3567,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Way of the Healer",
+     "inclusion": 25.9,
+     "winRate": 54.4,
+     "games": 3962,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Graft Surgeon",
+     "inclusion": 23.6,
+     "winRate": 54.3,
+     "games": 3694,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Twinned Vision",
+     "inclusion": 19.3,
+     "winRate": 54.3,
+     "games": 2951,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Blessed Ghoul",
+     "inclusion": 13.7,
+     "winRate": 54.3,
+     "games": 2164,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Generous Revival",
+     "inclusion": 21.5,
+     "winRate": 54.2,
+     "games": 3338,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Afterthought Sentry",
+     "inclusion": 8.9,
+     "winRate": 54.2,
+     "games": 1425,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Pompous Battlemage",
+     "inclusion": 7.5,
+     "winRate": 54.2,
+     "games": 1151,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Dedicated Commons",
+     "inclusion": 47.9,
+     "winRate": 54.1,
+     "games": 7458,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Koth of the Homestead",
+     "inclusion": 25.1,
+     "winRate": 54.0,
+     "games": 3880,
+     "trophyInclusion": 26.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-10-01",
+    "main": [
+     [
+      2,
+      "Awaken the Inferno"
+     ],
+     [
+      1,
+      "Blossom-Blessed Angel"
+     ],
+     [
+      1,
+      "Campus Crier"
+     ],
+     [
+      1,
+      "Dedicated Commons"
+     ],
+     [
+      1,
+      "Draconic Visitor"
+     ],
+     [
+      1,
+      "Eardrum Rattler"
+     ],
+     [
+      1,
+      "Fatehold Chronologist"
+     ],
+     [
+      1,
+      "Gallia, the Merrymaker"
+     ],
+     [
+      1,
+      "Graft Surgeon"
+     ],
+     [
+      1,
+      "Heartstring Puller"
+     ],
+     [
+      1,
+      "Hexhaven Battalion"
+     ],
+     [
+      1,
+      "Koth of the Homestead"
+     ],
+     [
+      1,
+      "Koth, the Geomancer"
+     ],
+     [
+      1,
+      "Mabel, Valley Hero"
+     ],
+     [
+      1,
+      "Marwyn, the Clearcutter"
+     ],
+     [
+      1,
+      "Memory Trap"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      2,
+      "Skilled Battlecarver"
+     ],
+     [
+      1,
+      "Surgical Precision"
+     ],
+     [
+      1,
+      "Thalia, the Survivor"
+     ],
+     [
+      1,
+      "Twinned Vision"
+     ],
+     [
+      1,
+      "Wrath of the Bloodmane"
+     ],
+     [
+      1,
+      "Your Fate Ends Here"
+     ],
+     [
+      1,
+      "Yuriko, Blade of the Mighty"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Academic Ascent"
+     ],
+     [
+      2,
+      "Arni, Renowned Champion"
+     ],
+     [
+      1,
+      "Blazing Crescendo"
+     ],
+     [
+      1,
+      "Chandra's Emberling"
+     ],
+     [
+      1,
+      "Emergency Phytomedic"
+     ],
+     [
+      1,
+      "Hallway Heckler"
+     ],
+     [
+      1,
+      "Hungering Puppetbeast"
+     ],
+     [
+      1,
+      "Proctor of Potential"
+     ],
+     [
+      1,
+      "Refute Destiny"
+     ],
+     [
+      1,
+      "Ruric Thar, Biomagus"
+     ],
+     [
+      1,
+      "Surgical Precision"
+     ],
+     [
+      1,
+      "Tether Technician"
+     ],
+     [
+      1,
+      "Winter, Team Player"
+     ]
+    ]
+   }
+  }
+ ]
+}

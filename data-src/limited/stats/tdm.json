@@ -1,0 +1,7865 @@
+{
+ "set": "tdm",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TDM.PremierDraft.csv.gz",
+ "lastModified": "Tue, 20 May 2025 02:14:28 GMT",
+ "colorsDerived": false,
+ "first": "2025-04-08",
+ "last": "2025-05-14",
+ "games": 552428,
+ "drafts": 100076,
+ "winRate": 55.02,
+ "combos": [
+  {
+   "colors": "URG",
+   "games": 92612,
+   "wins": 51296,
+   "winRate": 55.39,
+   "share": 16.76,
+   "drafts": 16714,
+   "trophies": 1468,
+   "cards": [
+    {
+     "name": "Marang River Regent",
+     "inclusion": 9.1,
+     "winRate": 61.0,
+     "games": 9070,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Ureni, the Song Unending",
+     "inclusion": 8.3,
+     "winRate": 59.3,
+     "games": 8134,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Roar of Endless Song",
+     "inclusion": 18.3,
+     "winRate": 59.0,
+     "games": 17983,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Dragonback Assault",
+     "inclusion": 8.1,
+     "winRate": 59.0,
+     "games": 7886,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 10.9,
+     "winRate": 57.9,
+     "games": 10365,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 10.6,
+     "winRate": 57.4,
+     "games": 10052,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 8.1,
+     "winRate": 57.2,
+     "games": 7688,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Cori Mountain Monastery",
+     "inclusion": 6.6,
+     "winRate": 57.2,
+     "games": 6341,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 8.6,
+     "winRate": 57.0,
+     "games": 8134,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Ureni's Rebuff",
+     "inclusion": 19.5,
+     "winRate": 56.9,
+     "games": 18389,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Karakyk Guardian",
+     "inclusion": 37.3,
+     "winRate": 56.8,
+     "games": 35238,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Eshki Dragonclaw",
+     "inclusion": 18.7,
+     "winRate": 56.8,
+     "games": 17662,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 9.1,
+     "winRate": 56.8,
+     "games": 8567,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 52.4,
+     "winRate": 56.7,
+     "games": 49457,
+     "trophyInclusion": 59.0
+    },
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 7.9,
+     "winRate": 56.7,
+     "games": 7452,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Glacial Dragonhunt",
+     "inclusion": 27.0,
+     "winRate": 56.6,
+     "games": 25372,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 18.4,
+     "winRate": 56.6,
+     "games": 17285,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 17.1,
+     "winRate": 56.5,
+     "games": 16019,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 10.6,
+     "winRate": 56.5,
+     "games": 9882,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 39.5,
+     "winRate": 56.4,
+     "games": 37127,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 22.1,
+     "winRate": 56.4,
+     "games": 20697,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 18.9,
+     "winRate": 56.4,
+     "games": 17891,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 47.4,
+     "winRate": 56.3,
+     "games": 44357,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 22.7,
+     "winRate": 56.3,
+     "games": 21251,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 21.8,
+     "winRate": 56.3,
+     "games": 20578,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Kishla Skimmer",
+     "inclusion": 22.6,
+     "winRate": 56.2,
+     "games": 21248,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Temur Battlecrier",
+     "inclusion": 18.5,
+     "winRate": 56.2,
+     "games": 17258,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 14.2,
+     "winRate": 56.2,
+     "games": 13264,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 6.5,
+     "winRate": 56.2,
+     "games": 6098,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 49.6,
+     "winRate": 56.1,
+     "games": 46481,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Riverwalk Technique",
+     "inclusion": 38.0,
+     "winRate": 56.1,
+     "games": 35499,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Jeskai Monument",
+     "inclusion": 6.3,
+     "winRate": 56.1,
+     "games": 5793,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 43.1,
+     "winRate": 56.0,
+     "games": 40263,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Unending Whisper",
+     "inclusion": 31.8,
+     "winRate": 56.0,
+     "games": 29654,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 31.3,
+     "winRate": 56.0,
+     "games": 29260,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Frontier Bivouac",
+     "inclusion": 28.3,
+     "winRate": 56.0,
+     "games": 26506,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 17.5,
+     "winRate": 56.0,
+     "games": 16349,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 10.3,
+     "winRate": 56.0,
+     "games": 9637,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 7.3,
+     "winRate": 56.0,
+     "games": 6811,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Cori-Steel Cutter",
+     "inclusion": 5.0,
+     "winRate": 56.0,
+     "games": 4730,
+     "trophyInclusion": 5.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-21",
+    "main": [
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Attuned Hunter"
+     ],
+     [
+      1,
+      "Constrictor Sage"
+     ],
+     [
+      1,
+      "Cori Mountain Monastery"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Eshki Dragonclaw"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      1,
+      "Fresh Start"
+     ],
+     [
+      1,
+      "Frontier Bivouac"
+     ],
+     [
+      1,
+      "Frostcliff Siege"
+     ],
+     [
+      1,
+      "Glacial Dragonhunt"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Karakyk Guardian"
+     ],
+     [
+      1,
+      "Kishla Skimmer"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      2,
+      "Mountain"
+     ],
+     [
+      1,
+      "Rescue Leopard"
+     ],
+     [
+      1,
+      "Roiling Dragonstorm"
+     ],
+     [
+      2,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Runescale Stormbrood"
+     ],
+     [
+      1,
+      "Sagu Pummeler"
+     ],
+     [
+      1,
+      "Sagu Wildling"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Tersa Lightshatter"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Breaching Dragonstorm"
+     ],
+     [
+      1,
+      "Fangkeeper's Familiar"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Frostcliff Siege"
+     ],
+     [
+      1,
+      "Seize Opportunity"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Snowmelt Stag"
+     ],
+     [
+      1,
+      "Sultai Monument"
+     ],
+     [
+      1,
+      "Summit Intimidator"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Underfoot Underdogs"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 79588,
+   "wins": 43311,
+   "winRate": 54.42,
+   "share": 14.41,
+   "drafts": 14522,
+   "trophies": 1118,
+   "cards": [
+    {
+     "name": "Marang River Regent",
+     "inclusion": 9.5,
+     "winRate": 60.0,
+     "games": 8311,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 10.3,
+     "winRate": 57.4,
+     "games": 8390,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Teval, Arbiter of Virtue",
+     "inclusion": 9.7,
+     "winRate": 57.1,
+     "games": 8004,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 10.5,
+     "winRate": 56.8,
+     "games": 8570,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 9.1,
+     "winRate": 56.7,
+     "games": 7509,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Fangkeeper's Familiar",
+     "inclusion": 19.1,
+     "winRate": 56.6,
+     "games": 15573,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Death Begets Life",
+     "inclusion": 9.6,
+     "winRate": 56.4,
+     "games": 7795,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Great Arashin City",
+     "inclusion": 5.6,
+     "winRate": 56.4,
+     "games": 4501,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 10.2,
+     "winRate": 56.2,
+     "games": 8400,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Awaken the Honored Dead",
+     "inclusion": 20.0,
+     "winRate": 56.1,
+     "games": 16303,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 8.7,
+     "winRate": 55.9,
+     "games": 7108,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 22.8,
+     "winRate": 55.8,
+     "games": 18757,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 9.9,
+     "winRate": 55.8,
+     "games": 8030,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 48.0,
+     "winRate": 55.7,
+     "games": 38910,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Kin-Tree Severance",
+     "inclusion": 10.1,
+     "winRate": 55.7,
+     "games": 8238,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 50.7,
+     "winRate": 55.6,
+     "games": 41048,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 20.4,
+     "winRate": 55.5,
+     "games": 16508,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Bloomvine Regent",
+     "inclusion": 9.3,
+     "winRate": 55.5,
+     "games": 7484,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 36.4,
+     "winRate": 55.4,
+     "games": 29384,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Riverwalk Technique",
+     "inclusion": 29.8,
+     "winRate": 55.4,
+     "games": 23926,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Disruptive Stormbrood",
+     "inclusion": 26.3,
+     "winRate": 55.4,
+     "games": 21201,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 48.8,
+     "winRate": 55.3,
+     "games": 39395,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 43.5,
+     "winRate": 55.3,
+     "games": 34933,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 37.8,
+     "winRate": 55.3,
+     "games": 30424,
+     "trophyInclusion": 40.6
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 17.4,
+     "winRate": 55.3,
+     "games": 13983,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 8.4,
+     "winRate": 55.3,
+     "games": 6814,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 8.2,
+     "winRate": 55.3,
+     "games": 6646,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Herd Heirloom",
+     "inclusion": 7.1,
+     "winRate": 55.3,
+     "games": 5823,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Sultai Monument",
+     "inclusion": 33.8,
+     "winRate": 55.2,
+     "games": 27265,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 18.7,
+     "winRate": 55.2,
+     "games": 14944,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Ureni's Rebuff",
+     "inclusion": 15.4,
+     "winRate": 55.2,
+     "games": 12327,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Dragonbroods' Relic",
+     "inclusion": 15.0,
+     "winRate": 55.2,
+     "games": 12023,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 13.2,
+     "winRate": 55.2,
+     "games": 10496,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 19.7,
+     "winRate": 55.1,
+     "games": 15909,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Dragonclaw Strike",
+     "inclusion": 5.0,
+     "winRate": 55.1,
+     "games": 4073,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 60.1,
+     "winRate": 55.0,
+     "games": 48238,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 48.8,
+     "winRate": 55.0,
+     "games": 39140,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Sagu Wildling",
+     "inclusion": 41.5,
+     "winRate": 55.0,
+     "games": 33252,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Kishla Skimmer",
+     "inclusion": 28.8,
+     "winRate": 55.0,
+     "games": 23009,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Rugged Highlands",
+     "inclusion": 14.6,
+     "winRate": 55.0,
+     "games": 11676,
+     "trophyInclusion": 15.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-04-16",
+    "main": [
+     [
+      1,
+      "Aegis Sculptor"
+     ],
+     [
+      1,
+      "Agent of Kotis"
+     ],
+     [
+      1,
+      "Aggressive Negotiations"
+     ],
+     [
+      2,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Ambling Stormshell"
+     ],
+     [
+      1,
+      "Auroral Procession"
+     ],
+     [
+      1,
+      "Awaken the Honored Dead"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Constrictor Sage"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Dragonologist"
+     ],
+     [
+      1,
+      "Essence Anchor"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Fangkeeper's Familiar"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Gurmag Nightwatch"
+     ],
+     [
+      1,
+      "Gurmag Rakshasa"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Lie in Wait"
+     ],
+     [
+      1,
+      "Opulent Palace"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      1,
+      "Sagu Wildling"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Sultai Devotee"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adorned Crocodile"
+     ],
+     [
+      1,
+      "Auroral Procession"
+     ],
+     [
+      1,
+      "Dragonbroods' Relic"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      2,
+      "Sandskitter Outrider"
+     ],
+     [
+      1,
+      "Snowmelt Stag"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Synchronized Charge"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WBR",
+   "games": 75233,
+   "wins": 41871,
+   "winRate": 55.66,
+   "share": 13.62,
+   "drafts": 13395,
+   "trophies": 1170,
+   "cards": [
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 7.3,
+     "winRate": 59.7,
+     "games": 5768,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Mardu Monument",
+     "inclusion": 37.2,
+     "winRate": 58.1,
+     "games": 28780,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 8.8,
+     "winRate": 58.1,
+     "games": 6754,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 35.9,
+     "winRate": 57.8,
+     "games": 27888,
+     "trophyInclusion": 42.6
+    },
+    {
+     "name": "Cori Mountain Monastery",
+     "inclusion": 7.3,
+     "winRate": 57.8,
+     "games": 5674,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Inevitable Defeat",
+     "inclusion": 17.0,
+     "winRate": 57.6,
+     "games": 12972,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 10.7,
+     "winRate": 57.6,
+     "games": 8346,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "All-Out Assault",
+     "inclusion": 9.0,
+     "winRate": 57.5,
+     "games": 6948,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Windcrag Siege",
+     "inclusion": 11.2,
+     "winRate": 57.2,
+     "games": 8636,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 7.0,
+     "winRate": 57.2,
+     "games": 5341,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Clarion Conqueror",
+     "inclusion": 7.2,
+     "winRate": 57.1,
+     "games": 5437,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Fortress Kin-Guard",
+     "inclusion": 45.5,
+     "winRate": 57.0,
+     "games": 34853,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Shocking Sharpshooter",
+     "inclusion": 28.5,
+     "winRate": 57.0,
+     "games": 21851,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Neriv, Heart of the Storm",
+     "inclusion": 7.8,
+     "winRate": 57.0,
+     "games": 5920,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Great Arashin City",
+     "inclusion": 6.1,
+     "winRate": 57.0,
+     "games": 4568,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 56.2,
+     "winRate": 56.9,
+     "games": 42861,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 8.4,
+     "winRate": 56.9,
+     "games": 6446,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Salt Road Packbeast",
+     "inclusion": 49.7,
+     "winRate": 56.8,
+     "games": 37965,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 19.7,
+     "winRate": 56.8,
+     "games": 14947,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Frontline Rush",
+     "inclusion": 26.4,
+     "winRate": 56.7,
+     "games": 20204,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 21.6,
+     "winRate": 56.7,
+     "games": 16504,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Sunpearl Kirin",
+     "inclusion": 21.1,
+     "winRate": 56.7,
+     "games": 16123,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Reigning Victor",
+     "inclusion": 55.4,
+     "winRate": 56.6,
+     "games": 42131,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Zurgo, Thunder's Decree",
+     "inclusion": 19.4,
+     "winRate": 56.6,
+     "games": 14800,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Equilibrium Adept",
+     "inclusion": 13.4,
+     "winRate": 56.6,
+     "games": 10172,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Channeled Dragonfire",
+     "inclusion": 13.6,
+     "winRate": 56.5,
+     "games": 10366,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Stadium Headliner",
+     "inclusion": 11.1,
+     "winRate": 56.5,
+     "games": 8376,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 7.1,
+     "winRate": 56.3,
+     "games": 5251,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 7.0,
+     "winRate": 56.3,
+     "games": 5221,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 38.2,
+     "winRate": 56.2,
+     "games": 28915,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Nomad Outpost",
+     "inclusion": 27.1,
+     "winRate": 56.2,
+     "games": 20616,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 25.2,
+     "winRate": 56.2,
+     "games": 19095,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 18.8,
+     "winRate": 56.2,
+     "games": 14218,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Static Snare",
+     "inclusion": 18.8,
+     "winRate": 56.2,
+     "games": 14198,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Sunset Strikemaster",
+     "inclusion": 18.0,
+     "winRate": 56.2,
+     "games": 13647,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Teeming Dragonstorm",
+     "inclusion": 14.3,
+     "winRate": 56.2,
+     "games": 10786,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Scoured Barrens",
+     "inclusion": 45.4,
+     "winRate": 56.0,
+     "games": 34344,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Coordinated Maneuver",
+     "inclusion": 39.9,
+     "winRate": 56.0,
+     "games": 30065,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Shock Brigade",
+     "inclusion": 54.5,
+     "winRate": 55.9,
+     "games": 41094,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Dalkovan Packbeasts",
+     "inclusion": 24.9,
+     "winRate": 55.9,
+     "games": 18687,
+     "trophyInclusion": 25.1
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-04-13",
+    "main": [
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Coordinated Maneuver"
+     ],
+     [
+      1,
+      "Dalkovan Packbeasts"
+     ],
+     [
+      1,
+      "Defibrillating Current"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Fortress Kin-Guard"
+     ],
+     [
+      1,
+      "Frontline Rush"
+     ],
+     [
+      1,
+      "Furious Forebear"
+     ],
+     [
+      1,
+      "Mardu Devotee"
+     ],
+     [
+      1,
+      "Marshal of the Lost"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      5,
+      "Plains"
+     ],
+     [
+      1,
+      "Rally the Monastery"
+     ],
+     [
+      1,
+      "Rebellious Strike"
+     ],
+     [
+      1,
+      "Reigning Victor"
+     ],
+     [
+      2,
+      "Salt Road Packbeast"
+     ],
+     [
+      1,
+      "Sandsteppe Citadel"
+     ],
+     [
+      2,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Shock Brigade"
+     ],
+     [
+      1,
+      "Shocking Sharpshooter"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Twin Bolt"
+     ],
+     [
+      1,
+      "Underfoot Underdogs"
+     ],
+     [
+      1,
+      "War Effort"
+     ],
+     [
+      2,
+      "Windcrag Siege"
+     ],
+     [
+      1,
+      "Zurgo, Thunder's Decree"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Dragonback Lancer"
+     ],
+     [
+      2,
+      "Fire-Rim Form"
+     ],
+     [
+      1,
+      "Jeskai Devotee"
+     ],
+     [
+      1,
+      "Jeskai Monument"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Summit Intimidator"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Wild Ride"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ],
+     [
+      1,
+      "Wingspan Stride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUR",
+   "games": 69224,
+   "wins": 37927,
+   "winRate": 54.79,
+   "share": 12.53,
+   "drafts": 12605,
+   "trophies": 1087,
+   "cards": [
+    {
+     "name": "Jeskai Revelation",
+     "inclusion": 10.9,
+     "winRate": 60.6,
+     "games": 8154,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 11.2,
+     "winRate": 58.9,
+     "games": 8121,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Marang River Regent",
+     "inclusion": 9.1,
+     "winRate": 58.9,
+     "games": 6738,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Shiko, Paragon of the Way",
+     "inclusion": 9.1,
+     "winRate": 58.4,
+     "games": 6627,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 5.0,
+     "winRate": 57.1,
+     "games": 3538,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 9.5,
+     "winRate": 56.7,
+     "games": 6700,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 8.8,
+     "winRate": 56.7,
+     "games": 6290,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 22.1,
+     "winRate": 56.6,
+     "games": 15701,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Cori Mountain Monastery",
+     "inclusion": 10.6,
+     "winRate": 56.6,
+     "games": 7501,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 44.8,
+     "winRate": 56.5,
+     "games": 31778,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Glacial Dragonhunt",
+     "inclusion": 29.1,
+     "winRate": 56.4,
+     "games": 20577,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 24.1,
+     "winRate": 56.4,
+     "games": 17031,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Rediscover the Way",
+     "inclusion": 21.3,
+     "winRate": 56.4,
+     "games": 15060,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Sunset Strikemaster",
+     "inclusion": 21.5,
+     "winRate": 56.3,
+     "games": 15095,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 18.9,
+     "winRate": 56.3,
+     "games": 13286,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 6.7,
+     "winRate": 56.3,
+     "games": 4739,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Jeskai Monument",
+     "inclusion": 39.1,
+     "winRate": 56.2,
+     "games": 27434,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 19.3,
+     "winRate": 56.2,
+     "games": 13567,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Riverwheel Sweep",
+     "inclusion": 35.8,
+     "winRate": 56.1,
+     "games": 25185,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Cori-Steel Cutter",
+     "inclusion": 11.2,
+     "winRate": 56.1,
+     "games": 7841,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 44.9,
+     "winRate": 56.0,
+     "games": 31610,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 20.7,
+     "winRate": 56.0,
+     "games": 14432,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 41.1,
+     "winRate": 55.9,
+     "games": 28812,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Jeskai Shrinekeeper",
+     "inclusion": 38.2,
+     "winRate": 55.9,
+     "games": 26875,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Teeming Dragonstorm",
+     "inclusion": 18.3,
+     "winRate": 55.9,
+     "games": 12806,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 8.7,
+     "winRate": 55.9,
+     "games": 6112,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 29.0,
+     "winRate": 55.8,
+     "games": 20356,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Salt Road Packbeast",
+     "inclusion": 26.4,
+     "winRate": 55.6,
+     "games": 18519,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 16.6,
+     "winRate": 55.6,
+     "games": 11651,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Windcrag Siege",
+     "inclusion": 8.5,
+     "winRate": 55.6,
+     "games": 5983,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Mystic Monastery",
+     "inclusion": 29.1,
+     "winRate": 55.5,
+     "games": 20426,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Clarion Conqueror",
+     "inclusion": 6.6,
+     "winRate": 55.5,
+     "games": 4610,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Wind-Scarred Crag",
+     "inclusion": 46.7,
+     "winRate": 55.4,
+     "games": 32593,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 30.1,
+     "winRate": 55.4,
+     "games": 21062,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Channeled Dragonfire",
+     "inclusion": 18.8,
+     "winRate": 55.4,
+     "games": 13236,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 10.3,
+     "winRate": 55.4,
+     "games": 7186,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 61.4,
+     "winRate": 55.3,
+     "games": 42814,
+     "trophyInclusion": 64.9
+    },
+    {
+     "name": "Unending Whisper",
+     "inclusion": 36.8,
+     "winRate": 55.3,
+     "games": 25664,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Dragonstorm Globe",
+     "inclusion": 19.0,
+     "winRate": 55.3,
+     "games": 13064,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 50.9,
+     "winRate": 55.2,
+     "games": 35431,
+     "trophyInclusion": 54.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-04-13",
+    "main": [
+     [
+      1,
+      "Cori Mountain Monastery"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Dragonfire Blade"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Flamehold Grappler"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Jeskai Brushmaster"
+     ],
+     [
+      1,
+      "Jeskai Devotee"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      1,
+      "Monastery Messenger"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Rescue Leopard"
+     ],
+     [
+      2,
+      "Riverwheel Sweep"
+     ],
+     [
+      1,
+      "Runescale Stormbrood"
+     ],
+     [
+      2,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      1,
+      "Sunset Strikemaster"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Taigam, Master Opportunist"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Twinmaw Stormbrood"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adorned Crocodile"
+     ],
+     [
+      1,
+      "Boulderborn Dragon"
+     ],
+     [
+      1,
+      "Coordinated Maneuver"
+     ],
+     [
+      1,
+      "Dragonstorm Globe"
+     ],
+     [
+      1,
+      "Dusyut Earthcarver"
+     ],
+     [
+      1,
+      "Fire-Rim Form"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Krotiq Nestguard"
+     ],
+     [
+      1,
+      "Reigning Victor"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Temur Monument"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Watcher of the Wayside"
+     ],
+     [
+      1,
+      "Wild Ride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 50443,
+   "wins": 29471,
+   "winRate": 58.42,
+   "share": 9.13,
+   "drafts": 8765,
+   "trophies": 932,
+   "cards": [
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 11.0,
+     "winRate": 61.0,
+     "games": 5824,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Cori Mountain Monastery",
+     "inclusion": 10.0,
+     "winRate": 60.8,
+     "games": 5171,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 29.4,
+     "winRate": 60.3,
+     "games": 15183,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Dalkovan Encampment",
+     "inclusion": 10.6,
+     "winRate": 60.0,
+     "games": 5486,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 33.1,
+     "winRate": 59.9,
+     "games": 17072,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Windcrag Siege",
+     "inclusion": 14.2,
+     "winRate": 59.9,
+     "games": 7379,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 13.2,
+     "winRate": 59.9,
+     "games": 6761,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Frontline Rush",
+     "inclusion": 40.5,
+     "winRate": 59.8,
+     "games": 20633,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Riverwheel Sweep",
+     "inclusion": 10.2,
+     "winRate": 59.8,
+     "games": 5181,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Stadium Headliner",
+     "inclusion": 16.2,
+     "winRate": 59.7,
+     "games": 8367,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Mardu Monument",
+     "inclusion": 13.6,
+     "winRate": 59.7,
+     "games": 6918,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 11.0,
+     "winRate": 59.6,
+     "games": 5620,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 9.6,
+     "winRate": 59.5,
+     "games": 4936,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Sunset Strikemaster",
+     "inclusion": 26.4,
+     "winRate": 59.4,
+     "games": 13503,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Static Snare",
+     "inclusion": 23.2,
+     "winRate": 59.4,
+     "games": 11944,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Zurgo's Vanguard",
+     "inclusion": 33.7,
+     "winRate": 59.3,
+     "games": 17228,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Cori-Steel Cutter",
+     "inclusion": 12.3,
+     "winRate": 59.3,
+     "games": 6338,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 10.8,
+     "winRate": 59.3,
+     "games": 5559,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Salt Road Packbeast",
+     "inclusion": 64.7,
+     "winRate": 59.2,
+     "games": 33007,
+     "trophyInclusion": 70.4
+    },
+    {
+     "name": "Shocking Sharpshooter",
+     "inclusion": 36.8,
+     "winRate": 59.2,
+     "games": 18763,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Duty Beyond Death",
+     "inclusion": 30.3,
+     "winRate": 59.2,
+     "games": 15402,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 22.0,
+     "winRate": 59.2,
+     "games": 11246,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Anafenza, Unyielding Lineage",
+     "inclusion": 8.9,
+     "winRate": 59.2,
+     "games": 4571,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 62.6,
+     "winRate": 59.1,
+     "games": 31927,
+     "trophyInclusion": 67.6
+    },
+    {
+     "name": "Shock Brigade",
+     "inclusion": 68.0,
+     "winRate": 59.0,
+     "games": 34707,
+     "trophyInclusion": 71.8
+    },
+    {
+     "name": "Clarion Conqueror",
+     "inclusion": 9.0,
+     "winRate": 59.0,
+     "games": 4578,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Coordinated Maneuver",
+     "inclusion": 55.6,
+     "winRate": 58.8,
+     "games": 28085,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "War Effort",
+     "inclusion": 36.9,
+     "winRate": 58.8,
+     "games": 18776,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Dalkovan Packbeasts",
+     "inclusion": 29.0,
+     "winRate": 58.8,
+     "games": 14664,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Sunpearl Kirin",
+     "inclusion": 28.4,
+     "winRate": 58.8,
+     "games": 14407,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Channeled Dragonfire",
+     "inclusion": 20.9,
+     "winRate": 58.8,
+     "games": 10582,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Fortress Kin-Guard",
+     "inclusion": 61.6,
+     "winRate": 58.7,
+     "games": 31263,
+     "trophyInclusion": 61.7
+    },
+    {
+     "name": "Fleeting Effigy",
+     "inclusion": 26.5,
+     "winRate": 58.7,
+     "games": 13546,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Furious Forebear",
+     "inclusion": 26.2,
+     "winRate": 58.7,
+     "games": 13277,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Stormplain Detainment",
+     "inclusion": 41.2,
+     "winRate": 58.6,
+     "games": 20903,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Equilibrium Adept",
+     "inclusion": 25.3,
+     "winRate": 58.6,
+     "games": 12774,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Reigning Victor",
+     "inclusion": 21.9,
+     "winRate": 58.6,
+     "games": 10975,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Bearer of Glory",
+     "inclusion": 61.2,
+     "winRate": 58.5,
+     "games": 30975,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Rebellious Strike",
+     "inclusion": 48.9,
+     "winRate": 58.5,
+     "games": 24545,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 46.9,
+     "winRate": 58.5,
+     "games": 23790,
+     "trophyInclusion": 48.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-14",
+    "main": [
+     [
+      1,
+      "Bearer of Glory"
+     ],
+     [
+      1,
+      "Channeled Dragonfire"
+     ],
+     [
+      1,
+      "Coordinated Maneuver"
+     ],
+     [
+      1,
+      "Cori Mountain Monastery"
+     ],
+     [
+      1,
+      "Cori Mountain Stalwart"
+     ],
+     [
+      1,
+      "Cori-Steel Cutter"
+     ],
+     [
+      1,
+      "Duty Beyond Death"
+     ],
+     [
+      1,
+      "Equilibrium Adept"
+     ],
+     [
+      1,
+      "Fortress Kin-Guard"
+     ],
+     [
+      2,
+      "Frontline Rush"
+     ],
+     [
+      2,
+      "Furious Forebear"
+     ],
+     [
+      1,
+      "Mardu Devotee"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Rebellious Strike"
+     ],
+     [
+      1,
+      "Rescue Leopard"
+     ],
+     [
+      1,
+      "Riling Dawnbreaker"
+     ],
+     [
+      1,
+      "Sage of the Skies"
+     ],
+     [
+      1,
+      "Salt Road Packbeast"
+     ],
+     [
+      1,
+      "Shock Brigade"
+     ],
+     [
+      1,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      1,
+      "Tersa Lightshatter"
+     ],
+     [
+      1,
+      "Underfoot Underdogs"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ],
+     [
+      1,
+      "Zurgo's Vanguard"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Jade-Cast Sentinel"
+     ],
+     [
+      1,
+      "Kishla Village"
+     ],
+     [
+      2,
+      "Loxodon Battle Priest"
+     ],
+     [
+      1,
+      "Poised Practitioner"
+     ],
+     [
+      1,
+      "Rescue Leopard"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      1,
+      "Riverwheel Sweep"
+     ],
+     [
+      1,
+      "Skirmish Rhino"
+     ],
+     [
+      1,
+      "Summit Intimidator"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      2,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Twin Bolt"
+     ],
+     [
+      1,
+      "Wild Ride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WBG",
+   "games": 46781,
+   "wins": 24960,
+   "winRate": 53.35,
+   "share": 8.47,
+   "drafts": 8559,
+   "trophies": 607,
+   "cards": [
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 9.6,
+     "winRate": 57.2,
+     "games": 4787,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 8.9,
+     "winRate": 57.0,
+     "games": 4413,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Revival of the Ancestors",
+     "inclusion": 21.8,
+     "winRate": 56.9,
+     "games": 10635,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Betor, Kin to All",
+     "inclusion": 10.7,
+     "winRate": 56.6,
+     "games": 5237,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 7.8,
+     "winRate": 56.2,
+     "games": 3780,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Yathan Roadwatcher",
+     "inclusion": 19.3,
+     "winRate": 55.6,
+     "games": 9290,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 9.8,
+     "winRate": 55.6,
+     "games": 4626,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 19.2,
+     "winRate": 55.3,
+     "games": 9135,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 8.4,
+     "winRate": 55.3,
+     "games": 4092,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Kishla Village",
+     "inclusion": 5.8,
+     "winRate": 55.2,
+     "games": 2801,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 7.2,
+     "winRate": 55.0,
+     "games": 3453,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 6.5,
+     "winRate": 54.9,
+     "games": 3072,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 35.6,
+     "winRate": 54.7,
+     "games": 16860,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 8.7,
+     "winRate": 54.7,
+     "games": 4176,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 8.3,
+     "winRate": 54.7,
+     "games": 3952,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 29.6,
+     "winRate": 54.6,
+     "games": 14173,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Sage of the Fang",
+     "inclusion": 19.4,
+     "winRate": 54.6,
+     "games": 9184,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Synchronized Charge",
+     "inclusion": 17.3,
+     "winRate": 54.6,
+     "games": 8150,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Bloomvine Regent",
+     "inclusion": 7.9,
+     "winRate": 54.6,
+     "games": 3736,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Salt Road Skirmish",
+     "inclusion": 15.6,
+     "winRate": 54.5,
+     "games": 7368,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Nomad Outpost",
+     "inclusion": 9.8,
+     "winRate": 54.5,
+     "games": 4586,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Great Arashin City",
+     "inclusion": 8.4,
+     "winRate": 54.5,
+     "games": 4001,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 43.8,
+     "winRate": 54.4,
+     "games": 20781,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Severance Priest",
+     "inclusion": 13.4,
+     "winRate": 54.4,
+     "games": 6342,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 39.5,
+     "winRate": 54.3,
+     "games": 18820,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Disruptive Stormbrood",
+     "inclusion": 22.4,
+     "winRate": 54.2,
+     "games": 10657,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Hollowmurk Siege",
+     "inclusion": 13.8,
+     "winRate": 54.2,
+     "games": 6525,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 50.1,
+     "winRate": 54.1,
+     "games": 23755,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Formation Breaker",
+     "inclusion": 23.7,
+     "winRate": 54.1,
+     "games": 11188,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 16.1,
+     "winRate": 54.1,
+     "games": 7577,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Gurmag Rakshasa",
+     "inclusion": 12.6,
+     "winRate": 54.1,
+     "games": 6002,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Skirmish Rhino",
+     "inclusion": 36.4,
+     "winRate": 54.0,
+     "games": 17226,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 20.9,
+     "winRate": 54.0,
+     "games": 9833,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Anafenza, Unyielding Lineage",
+     "inclusion": 9.1,
+     "winRate": 54.0,
+     "games": 4295,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 36.6,
+     "winRate": 53.9,
+     "games": 17241,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Scoured Barrens",
+     "inclusion": 47.6,
+     "winRate": 53.8,
+     "games": 22414,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Abzan Monument",
+     "inclusion": 30.8,
+     "winRate": 53.8,
+     "games": 14505,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Sandsteppe Citadel",
+     "inclusion": 29.5,
+     "winRate": 53.8,
+     "games": 13933,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Purging Stormbrood",
+     "inclusion": 23.2,
+     "winRate": 53.8,
+     "games": 10853,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 12.6,
+     "winRate": 53.8,
+     "games": 5871,
+     "trophyInclusion": 13.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-04-19",
+    "main": [
+     [
+      2,
+      "Abzan Devotee"
+     ],
+     [
+      1,
+      "Abzan Monument"
+     ],
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Attuned Hunter"
+     ],
+     [
+      1,
+      "Blossoming Sands"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Dragon's Prey"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Felothar, Dawn of the Abzan"
+     ],
+     [
+      1,
+      "Feral Deathgorger"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Great Arashin City"
+     ],
+     [
+      1,
+      "Hardened Tactician"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Knockout Maneuver"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      3,
+      "Plains"
+     ],
+     [
+      1,
+      "Sage of the Fang"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      2,
+      "Skirmish Rhino"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Stalwart Successor"
+     ],
+     [
+      1,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      2,
+      "Sultai Devotee"
+     ],
+     [
+      3,
+      "Swamp"
+     ],
+     [
+      1,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Voice of Victory"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Heritage Reclamation"
+     ],
+     [
+      1,
+      "Jeskai Brushmaster"
+     ],
+     [
+      2,
+      "Krotiq Nestguard"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Rainveil Rejuvenator"
+     ],
+     [
+      1,
+      "Sandskitter Outrider"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 20977,
+   "wins": 11496,
+   "winRate": 54.8,
+   "share": 3.8,
+   "drafts": 3815,
+   "trophies": 322,
+   "cards": [
+    {
+     "name": "Marang River Regent",
+     "inclusion": 13.1,
+     "winRate": 59.4,
+     "games": 2959,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Roar of Endless Song",
+     "inclusion": 9.0,
+     "winRate": 58.4,
+     "games": 2029,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Fangkeeper's Familiar",
+     "inclusion": 7.5,
+     "winRate": 58.0,
+     "games": 1650,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Awaken the Honored Dead",
+     "inclusion": 6.0,
+     "winRate": 57.9,
+     "games": 1357,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Veteran Ice Climber",
+     "inclusion": 17.5,
+     "winRate": 56.9,
+     "games": 3747,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 16.8,
+     "winRate": 56.9,
+     "games": 3615,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Synchronized Charge",
+     "inclusion": 15.9,
+     "winRate": 56.3,
+     "games": 3400,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 12.8,
+     "winRate": 56.3,
+     "games": 2732,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 27.6,
+     "winRate": 56.2,
+     "games": 5907,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 27.4,
+     "winRate": 56.1,
+     "games": 5917,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Bloomvine Regent",
+     "inclusion": 11.8,
+     "winRate": 56.1,
+     "games": 2555,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Herd Heirloom",
+     "inclusion": 8.7,
+     "winRate": 56.1,
+     "games": 1883,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 12.4,
+     "winRate": 56.0,
+     "games": 2691,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 25.4,
+     "winRate": 55.9,
+     "games": 5468,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 23.5,
+     "winRate": 55.9,
+     "games": 5002,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Naga Fleshcrafter",
+     "inclusion": 11.4,
+     "winRate": 55.9,
+     "games": 2398,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 11.4,
+     "winRate": 55.9,
+     "games": 2378,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 10.7,
+     "winRate": 55.9,
+     "games": 2297,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 15.9,
+     "winRate": 55.8,
+     "games": 3357,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 14.5,
+     "winRate": 55.8,
+     "games": 3074,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Inspirited Vanguard",
+     "inclusion": 13.5,
+     "winRate": 55.8,
+     "games": 2909,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Dragonclaw Strike",
+     "inclusion": 11.3,
+     "winRate": 55.7,
+     "games": 2461,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Lie in Wait",
+     "inclusion": 12.1,
+     "winRate": 55.6,
+     "games": 2544,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 47.2,
+     "winRate": 55.5,
+     "games": 10099,
+     "trophyInclusion": 53.7
+    },
+    {
+     "name": "Champion of Dusan",
+     "inclusion": 44.5,
+     "winRate": 55.5,
+     "games": 9413,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 40.3,
+     "winRate": 55.5,
+     "games": 8587,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Lotuslight Dancers",
+     "inclusion": 5.5,
+     "winRate": 55.5,
+     "games": 1180,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Mammoth Bellow",
+     "inclusion": 11.7,
+     "winRate": 55.4,
+     "games": 2476,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 64.4,
+     "winRate": 55.3,
+     "games": 13581,
+     "trophyInclusion": 65.8
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 54.2,
+     "winRate": 55.3,
+     "games": 11556,
+     "trophyInclusion": 59.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 29.0,
+     "winRate": 55.3,
+     "games": 6110,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 28.0,
+     "winRate": 55.3,
+     "games": 5919,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Eshki Dragonclaw",
+     "inclusion": 7.8,
+     "winRate": 55.3,
+     "games": 1654,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 55.5,
+     "winRate": 55.2,
+     "games": 11704,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Sarkhan's Resolve",
+     "inclusion": 31.9,
+     "winRate": 55.2,
+     "games": 6713,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Iceridge Serpent",
+     "inclusion": 31.3,
+     "winRate": 55.2,
+     "games": 6616,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 31.2,
+     "winRate": 55.2,
+     "games": 6604,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 26.7,
+     "winRate": 55.2,
+     "games": 5664,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Frontier Bivouac",
+     "inclusion": 19.6,
+     "winRate": 55.2,
+     "games": 4123,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Sage of the Fang",
+     "inclusion": 14.8,
+     "winRate": 55.2,
+     "games": 3088,
+     "trophyInclusion": 18.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-04-19",
+    "main": [
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Attuned Hunter"
+     ],
+     [
+      1,
+      "Bloomvine Regent"
+     ],
+     [
+      2,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Frontier Bivouac"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Kishla Skimmer"
+     ],
+     [
+      1,
+      "Knockout Maneuver"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      1,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Sage of the Fang"
+     ],
+     [
+      1,
+      "Sagu Pummeler"
+     ],
+     [
+      2,
+      "Sagu Wildling"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      2,
+      "Temur Monument"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Traveling Botanist"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ],
+     [
+      1,
+      "Winternight Stories"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abzan Devotee"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      1,
+      "Rite of Renewal"
+     ],
+     [
+      1,
+      "Roamer's Routine"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Summit Intimidator"
+     ],
+     [
+      3,
+      "Synchronized Charge"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Undergrowth Leopard"
+     ],
+     [
+      1,
+      "Watcher of the Wayside"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBRG",
+   "games": 19857,
+   "wins": 10891,
+   "winRate": 54.85,
+   "share": 3.59,
+   "drafts": 3660,
+   "trophies": 323,
+   "cards": [
+    {
+     "name": "Marang River Regent",
+     "inclusion": 7.1,
+     "winRate": 60.2,
+     "games": 1530,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Ureni, the Song Unending",
+     "inclusion": 6.6,
+     "winRate": 59.7,
+     "games": 1423,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Dragonback Assault",
+     "inclusion": 6.6,
+     "winRate": 59.0,
+     "games": 1409,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 6.1,
+     "winRate": 59.0,
+     "games": 1287,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Death Begets Life",
+     "inclusion": 8.9,
+     "winRate": 58.6,
+     "games": 1869,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Glacial Dragonhunt",
+     "inclusion": 19.6,
+     "winRate": 58.0,
+     "games": 4026,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Roar of Endless Song",
+     "inclusion": 14.2,
+     "winRate": 57.9,
+     "games": 2914,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 6.4,
+     "winRate": 57.6,
+     "games": 1306,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 8.2,
+     "winRate": 57.1,
+     "games": 1698,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Sultai Monument",
+     "inclusion": 33.3,
+     "winRate": 56.9,
+     "games": 6673,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 33.1,
+     "winRate": 56.9,
+     "games": 6737,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 18.2,
+     "winRate": 56.9,
+     "games": 3675,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Herd Heirloom",
+     "inclusion": 6.9,
+     "winRate": 56.9,
+     "games": 1384,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 9.7,
+     "winRate": 56.8,
+     "games": 1969,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Riverwalk Technique",
+     "inclusion": 30.8,
+     "winRate": 56.7,
+     "games": 6211,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 45.6,
+     "winRate": 56.6,
+     "games": 9236,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Fangkeeper's Familiar",
+     "inclusion": 16.2,
+     "winRate": 56.6,
+     "games": 3302,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Kin-Tree Severance",
+     "inclusion": 8.6,
+     "winRate": 56.5,
+     "games": 1743,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 42.0,
+     "winRate": 56.4,
+     "games": 8420,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Karakyk Guardian",
+     "inclusion": 36.9,
+     "winRate": 56.4,
+     "games": 7426,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 17.3,
+     "winRate": 56.4,
+     "games": 3533,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Awaken the Honored Dead",
+     "inclusion": 16.0,
+     "winRate": 56.4,
+     "games": 3203,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Teval, Arbiter of Virtue",
+     "inclusion": 7.9,
+     "winRate": 56.4,
+     "games": 1622,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 14.6,
+     "winRate": 56.3,
+     "games": 3001,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Eshki Dragonclaw",
+     "inclusion": 13.7,
+     "winRate": 56.3,
+     "games": 2777,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 12.3,
+     "winRate": 56.3,
+     "games": 2544,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 8.3,
+     "winRate": 56.3,
+     "games": 1690,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 47.3,
+     "winRate": 56.2,
+     "games": 9533,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Dragonbroods' Relic",
+     "inclusion": 29.5,
+     "winRate": 56.2,
+     "games": 5945,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 14.2,
+     "winRate": 56.2,
+     "games": 2894,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Disruptive Stormbrood",
+     "inclusion": 27.9,
+     "winRate": 56.1,
+     "games": 5586,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 22.4,
+     "winRate": 56.1,
+     "games": 4490,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 31.0,
+     "winRate": 55.9,
+     "games": 6245,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 8.9,
+     "winRate": 55.9,
+     "games": 1828,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 53.0,
+     "winRate": 55.8,
+     "games": 10642,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Dragonstorm Forecaster",
+     "inclusion": 14.0,
+     "winRate": 55.8,
+     "games": 2707,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Temur Tawnyback",
+     "inclusion": 47.3,
+     "winRate": 55.7,
+     "games": 9603,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 39.2,
+     "winRate": 55.7,
+     "games": 7845,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 35.2,
+     "winRate": 55.7,
+     "games": 6981,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 14.9,
+     "winRate": 55.7,
+     "games": 2967,
+     "trophyInclusion": 17.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-20",
+    "main": [
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dismal Backwater"
+     ],
+     [
+      2,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Disruptive Stormbrood"
+     ],
+     [
+      1,
+      "Dragon's Prey"
+     ],
+     [
+      1,
+      "Dragonback Assault"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Frontier Bivouac"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Karakyk Guardian"
+     ],
+     [
+      1,
+      "Lie in Wait"
+     ],
+     [
+      1,
+      "Mammoth Bellow"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      2,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Sagu Wildling"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      2,
+      "Traveling Botanist"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Auroral Procession"
+     ],
+     [
+      1,
+      "Devoted Duelist"
+     ],
+     [
+      1,
+      "Dragonbroods' Relic"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      1,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Undergrowth Leopard"
+     ],
+     [
+      1,
+      "Wingspan Stride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUBRG",
+   "games": 18362,
+   "wins": 9720,
+   "winRate": 52.94,
+   "share": 3.32,
+   "drafts": 3453,
+   "trophies": 245,
+   "cards": [
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 5.6,
+     "winRate": 58.1,
+     "games": 1084,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Jeskai Revelation",
+     "inclusion": 7.1,
+     "winRate": 57.9,
+     "games": 1434,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Eshki Dragonclaw",
+     "inclusion": 9.1,
+     "winRate": 56.9,
+     "games": 1753,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Marang River Regent",
+     "inclusion": 6.1,
+     "winRate": 56.6,
+     "games": 1215,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Inevitable Defeat",
+     "inclusion": 12.9,
+     "winRate": 56.3,
+     "games": 2471,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Roar of Endless Song",
+     "inclusion": 10.6,
+     "winRate": 56.2,
+     "games": 2049,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Death Begets Life",
+     "inclusion": 5.9,
+     "winRate": 56.1,
+     "games": 1139,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 7.8,
+     "winRate": 56.0,
+     "games": 1489,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 7.0,
+     "winRate": 56.0,
+     "games": 1337,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 6.0,
+     "winRate": 56.0,
+     "games": 1145,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 8.0,
+     "winRate": 55.8,
+     "games": 1518,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Revival of the Ancestors",
+     "inclusion": 11.6,
+     "winRate": 55.7,
+     "games": 2163,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 33.9,
+     "winRate": 55.6,
+     "games": 6454,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 36.6,
+     "winRate": 55.2,
+     "games": 6845,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Jeskai Monument",
+     "inclusion": 27.9,
+     "winRate": 55.1,
+     "games": 5227,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Dragonstorm Forecaster",
+     "inclusion": 12.7,
+     "winRate": 55.1,
+     "games": 2397,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 10.5,
+     "winRate": 55.1,
+     "games": 1957,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Lotuslight Dancers",
+     "inclusion": 5.7,
+     "winRate": 55.1,
+     "games": 1087,
+     "trophyInclusion": 4.5
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 18.9,
+     "winRate": 55.0,
+     "games": 3588,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Ureni's Rebuff",
+     "inclusion": 6.8,
+     "winRate": 55.0,
+     "games": 1290,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 33.3,
+     "winRate": 54.9,
+     "games": 6232,
+     "trophyInclusion": 40.4
+    },
+    {
+     "name": "Sultai Monument",
+     "inclusion": 27.2,
+     "winRate": 54.9,
+     "games": 5145,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Riverwalk Technique",
+     "inclusion": 23.4,
+     "winRate": 54.8,
+     "games": 4354,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 23.4,
+     "winRate": 54.6,
+     "games": 4375,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 22.2,
+     "winRate": 54.6,
+     "games": 4138,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Betor, Kin to All",
+     "inclusion": 8.2,
+     "winRate": 54.6,
+     "games": 1545,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 26.2,
+     "winRate": 54.5,
+     "games": 4904,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 12.5,
+     "winRate": 54.5,
+     "games": 2332,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Rediscover the Way",
+     "inclusion": 8.8,
+     "winRate": 54.5,
+     "games": 1595,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Iceridge Serpent",
+     "inclusion": 11.6,
+     "winRate": 54.4,
+     "games": 2189,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Dragonstorm Globe",
+     "inclusion": 52.5,
+     "winRate": 54.3,
+     "games": 9805,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Dragonbroods' Relic",
+     "inclusion": 26.8,
+     "winRate": 54.2,
+     "games": 4993,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Gurmag Nightwatch",
+     "inclusion": 10.8,
+     "winRate": 54.2,
+     "games": 1974,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 29.7,
+     "winRate": 54.1,
+     "games": 5491,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 5.6,
+     "winRate": 54.0,
+     "games": 1049,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 32.9,
+     "winRate": 53.9,
+     "games": 6149,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Sultai Devotee",
+     "inclusion": 30.9,
+     "winRate": 53.9,
+     "games": 5680,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Scoured Barrens",
+     "inclusion": 30.1,
+     "winRate": 53.9,
+     "games": 5608,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Dragon's Prey",
+     "inclusion": 26.0,
+     "winRate": 53.9,
+     "games": 4769,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Riverwheel Sweep",
+     "inclusion": 11.6,
+     "winRate": 53.9,
+     "games": 2180,
+     "trophyInclusion": 13.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-11",
+    "main": [
+     [
+      1,
+      "Abzan Monument"
+     ],
+     [
+      1,
+      "Armament Dragon"
+     ],
+     [
+      1,
+      "Blossoming Sands"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Dragonbroods' Relic"
+     ],
+     [
+      1,
+      "Encroaching Dragonstorm"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Jeskai Monument"
+     ],
+     [
+      1,
+      "Jeskai Shrinekeeper"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      2,
+      "Karakyk Guardian"
+     ],
+     [
+      1,
+      "Knockout Maneuver"
+     ],
+     [
+      1,
+      "Mammoth Bellow"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      2,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nomad Outpost"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Roamer's Routine"
+     ],
+     [
+      1,
+      "Roiling Dragonstorm"
+     ],
+     [
+      1,
+      "Sagu Wildling"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      2,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Songcrafter Mage"
+     ],
+     [
+      1,
+      "Sonic Shrieker"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cori Mountain Stalwart"
+     ],
+     [
+      1,
+      "Fire-Rim Form"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Krotiq Nestguard"
+     ],
+     [
+      1,
+      "Monastery Messenger"
+     ],
+     [
+      1,
+      "Reputable Merchant"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Twin Bolt"
+     ],
+     [
+      1,
+      "Watcher of the Wayside"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 14196,
+   "wins": 7825,
+   "winRate": 55.12,
+   "share": 2.57,
+   "drafts": 2556,
+   "trophies": 200,
+   "cards": [
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 16.0,
+     "winRate": 59.4,
+     "games": 2390,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Yathan Roadwatcher",
+     "inclusion": 5.9,
+     "winRate": 58.7,
+     "games": 876,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 14.1,
+     "winRate": 58.6,
+     "games": 2089,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 13.7,
+     "winRate": 58.5,
+     "games": 1993,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Great Arashin City",
+     "inclusion": 8.6,
+     "winRate": 58.4,
+     "games": 1272,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 10.6,
+     "winRate": 58.3,
+     "games": 1577,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Synchronized Charge",
+     "inclusion": 33.9,
+     "winRate": 57.8,
+     "games": 5007,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 30.8,
+     "winRate": 57.6,
+     "games": 4531,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 25.1,
+     "winRate": 56.9,
+     "games": 3619,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Hollowmurk Siege",
+     "inclusion": 20.0,
+     "winRate": 56.9,
+     "games": 2894,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 12.6,
+     "winRate": 56.9,
+     "games": 1798,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 11.7,
+     "winRate": 56.8,
+     "games": 1686,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Warden of the Grove",
+     "inclusion": 14.1,
+     "winRate": 56.7,
+     "games": 2039,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Attuned Hunter",
+     "inclusion": 23.8,
+     "winRate": 56.6,
+     "games": 3457,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Formation Breaker",
+     "inclusion": 40.3,
+     "winRate": 56.3,
+     "games": 5809,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 28.2,
+     "winRate": 56.3,
+     "games": 4068,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 53.1,
+     "winRate": 56.2,
+     "games": 7676,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Gurmag Rakshasa",
+     "inclusion": 17.4,
+     "winRate": 56.2,
+     "games": 2497,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Revival of the Ancestors",
+     "inclusion": 9.1,
+     "winRate": 56.2,
+     "games": 1314,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Sage of the Fang",
+     "inclusion": 33.8,
+     "winRate": 56.1,
+     "games": 4849,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Avenger of the Fallen",
+     "inclusion": 8.8,
+     "winRate": 56.1,
+     "games": 1258,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 58.4,
+     "winRate": 56.0,
+     "games": 8336,
+     "trophyInclusion": 65.5
+    },
+    {
+     "name": "Kin-Tree Severance",
+     "inclusion": 14.9,
+     "winRate": 56.0,
+     "games": 2182,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Purging Stormbrood",
+     "inclusion": 8.7,
+     "winRate": 56.0,
+     "games": 1261,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Aggressive Negotiations",
+     "inclusion": 47.0,
+     "winRate": 55.9,
+     "games": 6660,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Stalwart Successor",
+     "inclusion": 39.0,
+     "winRate": 55.9,
+     "games": 5591,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Kishla Village",
+     "inclusion": 7.6,
+     "winRate": 55.8,
+     "games": 1060,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Champion of Dusan",
+     "inclusion": 60.9,
+     "winRate": 55.7,
+     "games": 8666,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 52.1,
+     "winRate": 55.7,
+     "games": 7436,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Sultai Devotee",
+     "inclusion": 42.3,
+     "winRate": 55.7,
+     "games": 6026,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Host of the Hereafter",
+     "inclusion": 38.3,
+     "winRate": 55.7,
+     "games": 5470,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Sagu Pummeler",
+     "inclusion": 52.1,
+     "winRate": 55.6,
+     "games": 7566,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 55.2,
+     "winRate": 55.5,
+     "games": 7825,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Sagu Wildling",
+     "inclusion": 32.4,
+     "winRate": 55.5,
+     "games": 4645,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Opulent Palace",
+     "inclusion": 14.2,
+     "winRate": 55.4,
+     "games": 2015,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Sarkhan's Resolve",
+     "inclusion": 38.1,
+     "winRate": 55.3,
+     "games": 5444,
+     "trophyInclusion": 42.0
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 45.0,
+     "winRate": 55.2,
+     "games": 6459,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Kin-Tree Nurturer",
+     "inclusion": 41.3,
+     "winRate": 55.2,
+     "games": 5939,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Delta Bloodflies",
+     "inclusion": 37.2,
+     "winRate": 55.2,
+     "games": 5292,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Disruptive Stormbrood",
+     "inclusion": 27.9,
+     "winRate": 55.2,
+     "games": 3933,
+     "trophyInclusion": 26.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-05-04",
+    "main": [
+     [
+      1,
+      "Abzan Devotee"
+     ],
+     [
+      1,
+      "Aggressive Negotiations"
+     ],
+     [
+      2,
+      "Ainok Wayfarer"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      2,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Delta Bloodflies"
+     ],
+     [
+      2,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Dragon's Prey"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Hollowmurk Siege"
+     ],
+     [
+      1,
+      "Inspirited Vanguard"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Kin-Tree Nurturer"
+     ],
+     [
+      1,
+      "Kishla Village"
+     ],
+     [
+      1,
+      "Opulent Palace"
+     ],
+     [
+      1,
+      "Qarsi Revenant"
+     ],
+     [
+      1,
+      "Rakshasa's Bargain"
+     ],
+     [
+      1,
+      "Sage of the Fang"
+     ],
+     [
+      2,
+      "Sagu Pummeler"
+     ],
+     [
+      1,
+      "Sinkhole Surveyor"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Stalwart Successor"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Synchronized Charge"
+     ],
+     [
+      1,
+      "Teval, Arbiter of Virtue"
+     ],
+     [
+      1,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Traveling Botanist"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Abzan Devotee"
+     ],
+     [
+      1,
+      "Adorned Crocodile"
+     ],
+     [
+      1,
+      "Cruel Truths"
+     ],
+     [
+      1,
+      "Emergent Ultimatum"
+     ],
+     [
+      1,
+      "Gurmag Nightwatch"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      1,
+      "Kin-Tree Nurturer"
+     ],
+     [
+      1,
+      "Rainveil Rejuvenator"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      1,
+      "Unburied Earthcarver"
+     ],
+     [
+      1,
+      "Worthy Cost"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 12252,
+   "wins": 6743,
+   "winRate": 55.04,
+   "share": 2.22,
+   "drafts": 2210,
+   "trophies": 193,
+   "cards": [
+    {
+     "name": "Elspeth, Storm Slayer",
+     "inclusion": 6.2,
+     "winRate": 60.6,
+     "games": 809,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 10.9,
+     "winRate": 58.5,
+     "games": 1366,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 14.6,
+     "winRate": 58.2,
+     "games": 1894,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Mardu Monument",
+     "inclusion": 10.5,
+     "winRate": 57.9,
+     "games": 1333,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Great Arashin City",
+     "inclusion": 10.3,
+     "winRate": 57.8,
+     "games": 1317,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Clarion Conqueror",
+     "inclusion": 9.0,
+     "winRate": 57.8,
+     "games": 1166,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Rot-Curse Rakshasa",
+     "inclusion": 5.2,
+     "winRate": 57.6,
+     "games": 634,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 14.1,
+     "winRate": 57.3,
+     "games": 1809,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Kin-Tree Severance",
+     "inclusion": 11.0,
+     "winRate": 57.3,
+     "games": 1377,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Revival of the Ancestors",
+     "inclusion": 6.8,
+     "winRate": 57.2,
+     "games": 879,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Wayspeaker Bodyguard",
+     "inclusion": 17.4,
+     "winRate": 56.8,
+     "games": 2183,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Salt Road Packbeast",
+     "inclusion": 61.6,
+     "winRate": 56.6,
+     "games": 7758,
+     "trophyInclusion": 74.1
+    },
+    {
+     "name": "Teeming Dragonstorm",
+     "inclusion": 20.5,
+     "winRate": 56.6,
+     "games": 2566,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 10.1,
+     "winRate": 56.6,
+     "games": 1280,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 30.6,
+     "winRate": 56.5,
+     "games": 3829,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Sandsteppe Citadel",
+     "inclusion": 11.8,
+     "winRate": 56.5,
+     "games": 1493,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Sunpearl Kirin",
+     "inclusion": 30.7,
+     "winRate": 56.4,
+     "games": 3831,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Defibrillating Current",
+     "inclusion": 7.4,
+     "winRate": 56.4,
+     "games": 938,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Smile at Death",
+     "inclusion": 5.5,
+     "winRate": 56.4,
+     "games": 676,
+     "trophyInclusion": 4.7
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 24.3,
+     "winRate": 56.3,
+     "games": 3024,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Fortress Kin-Guard",
+     "inclusion": 61.1,
+     "winRate": 56.2,
+     "games": 7661,
+     "trophyInclusion": 68.9
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 49.6,
+     "winRate": 56.2,
+     "games": 6178,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Osseous Exhale",
+     "inclusion": 34.5,
+     "winRate": 56.1,
+     "games": 4278,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Kin-Tree Nurturer",
+     "inclusion": 46.7,
+     "winRate": 56.0,
+     "games": 5773,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Hardened Tactician",
+     "inclusion": 36.6,
+     "winRate": 56.0,
+     "games": 4513,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Venerated Stormsinger",
+     "inclusion": 33.1,
+     "winRate": 56.0,
+     "games": 4128,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Aggressive Negotiations",
+     "inclusion": 27.3,
+     "winRate": 56.0,
+     "games": 3418,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 49.1,
+     "winRate": 55.9,
+     "games": 6135,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Dalkovan Packbeasts",
+     "inclusion": 27.9,
+     "winRate": 55.9,
+     "games": 3431,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Riling Dawnbreaker",
+     "inclusion": 42.8,
+     "winRate": 55.8,
+     "games": 5364,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Coordinated Maneuver",
+     "inclusion": 42.7,
+     "winRate": 55.8,
+     "games": 5271,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Purging Stormbrood",
+     "inclusion": 28.8,
+     "winRate": 55.8,
+     "games": 3560,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 23.4,
+     "winRate": 55.8,
+     "games": 2892,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Furious Forebear",
+     "inclusion": 31.1,
+     "winRate": 55.7,
+     "games": 3822,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 13.6,
+     "winRate": 55.7,
+     "games": 1725,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Duty Beyond Death",
+     "inclusion": 26.6,
+     "winRate": 55.6,
+     "games": 3219,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Desperate Measures",
+     "inclusion": 20.5,
+     "winRate": 55.6,
+     "games": 2514,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Avenger of the Fallen",
+     "inclusion": 12.9,
+     "winRate": 55.6,
+     "games": 1587,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Scoured Barrens",
+     "inclusion": 44.4,
+     "winRate": 55.3,
+     "games": 5514,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Rebellious Strike",
+     "inclusion": 25.6,
+     "winRate": 55.3,
+     "games": 3189,
+     "trophyInclusion": 25.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-09",
+    "main": [
+     [
+      1,
+      "Bearer of Glory"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Desperate Measures"
+     ],
+     [
+      1,
+      "Dragon's Prey"
+     ],
+     [
+      1,
+      "Dragonback Lancer"
+     ],
+     [
+      1,
+      "Feral Deathgorger"
+     ],
+     [
+      1,
+      "Fortress Kin-Guard"
+     ],
+     [
+      1,
+      "Gurmag Rakshasa"
+     ],
+     [
+      2,
+      "Kin-Tree Nurturer"
+     ],
+     [
+      1,
+      "Mardu Devotee"
+     ],
+     [
+      1,
+      "Marshal of the Lost"
+     ],
+     [
+      1,
+      "Nightblade Brigade"
+     ],
+     [
+      1,
+      "Osseous Exhale"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Riling Dawnbreaker"
+     ],
+     [
+      3,
+      "Salt Road Packbeast"
+     ],
+     [
+      1,
+      "Sandsteppe Citadel"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      2,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Unburied Earthcarver"
+     ],
+     [
+      1,
+      "Venerated Stormsinger"
+     ],
+     [
+      1,
+      "Worthy Cost"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adorned Crocodile"
+     ],
+     [
+      1,
+      "Alesha's Legacy"
+     ],
+     [
+      1,
+      "Arashin Sunshield"
+     ],
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Boulderborn Dragon"
+     ],
+     [
+      1,
+      "Dusyut Earthcarver"
+     ],
+     [
+      1,
+      "Embermouth Sentinel"
+     ],
+     [
+      1,
+      "Fire-Rim Form"
+     ],
+     [
+      1,
+      "Heritage Reclamation"
+     ],
+     [
+      1,
+      "Hundred-Battle Veteran"
+     ],
+     [
+      1,
+      "Jade-Cast Sentinel"
+     ],
+     [
+      1,
+      "Lightfoot Technique"
+     ],
+     [
+      1,
+      "Reigning Victor"
+     ],
+     [
+      1,
+      "Reputable Merchant"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Wingspan Stride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 10622,
+   "wins": 5829,
+   "winRate": 54.88,
+   "share": 1.92,
+   "drafts": 1953,
+   "trophies": 172,
+   "cards": [
+    {
+     "name": "Marang River Regent",
+     "inclusion": 13.5,
+     "winRate": 60.7,
+     "games": 1556,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Roar of Endless Song",
+     "inclusion": 5.2,
+     "winRate": 59.2,
+     "games": 579,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Sarkhan, Dragon Ascendant",
+     "inclusion": 10.1,
+     "winRate": 57.9,
+     "games": 1104,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Cori-Steel Cutter",
+     "inclusion": 17.6,
+     "winRate": 57.7,
+     "games": 1925,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Cori Mountain Monastery",
+     "inclusion": 11.3,
+     "winRate": 57.7,
+     "games": 1248,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 28.6,
+     "winRate": 56.9,
+     "games": 3139,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Glacial Dragonhunt",
+     "inclusion": 41.1,
+     "winRate": 56.6,
+     "games": 4460,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 13.3,
+     "winRate": 56.5,
+     "games": 1454,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Rediscover the Way",
+     "inclusion": 7.4,
+     "winRate": 56.5,
+     "games": 812,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 26.3,
+     "winRate": 56.3,
+     "games": 2872,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 11.5,
+     "winRate": 56.3,
+     "games": 1276,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Stadium Headliner",
+     "inclusion": 6.3,
+     "winRate": 56.3,
+     "games": 687,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 13.9,
+     "winRate": 56.2,
+     "games": 1538,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Stormscale Scion",
+     "inclusion": 7.0,
+     "winRate": 56.2,
+     "games": 765,
+     "trophyInclusion": 4.1
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 49.6,
+     "winRate": 56.1,
+     "games": 5363,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Meticulous Artisan",
+     "inclusion": 22.0,
+     "winRate": 56.1,
+     "games": 2444,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Iridescent Tiger",
+     "inclusion": 17.8,
+     "winRate": 56.1,
+     "games": 1896,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Riverwheel Sweep",
+     "inclusion": 17.3,
+     "winRate": 56.1,
+     "games": 1862,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Snowmelt Stag",
+     "inclusion": 13.1,
+     "winRate": 56.1,
+     "games": 1411,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Taigam, Master Opportunist",
+     "inclusion": 7.5,
+     "winRate": 56.1,
+     "games": 839,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 62.0,
+     "winRate": 56.0,
+     "games": 6647,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Channeled Dragonfire",
+     "inclusion": 25.1,
+     "winRate": 56.0,
+     "games": 2733,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Eshki Dragonclaw",
+     "inclusion": 6.2,
+     "winRate": 56.0,
+     "games": 670,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 59.1,
+     "winRate": 55.9,
+     "games": 6403,
+     "trophyInclusion": 66.9
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 27.6,
+     "winRate": 55.9,
+     "games": 3032,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Frostcliff Siege",
+     "inclusion": 14.1,
+     "winRate": 55.9,
+     "games": 1516,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 34.9,
+     "winRate": 55.8,
+     "games": 3800,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 55.1,
+     "winRate": 55.7,
+     "games": 5908,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Unending Whisper",
+     "inclusion": 54.9,
+     "winRate": 55.7,
+     "games": 5930,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Dirgur Island Dragon",
+     "inclusion": 48.8,
+     "winRate": 55.7,
+     "games": 5246,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Ureni's Rebuff",
+     "inclusion": 28.4,
+     "winRate": 55.7,
+     "games": 3021,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Rescue Leopard",
+     "inclusion": 25.8,
+     "winRate": 55.7,
+     "games": 2764,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 14.2,
+     "winRate": 55.7,
+     "games": 1531,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Runescale Stormbrood",
+     "inclusion": 34.0,
+     "winRate": 55.6,
+     "games": 3634,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Bewildering Blizzard",
+     "inclusion": 23.6,
+     "winRate": 55.5,
+     "games": 2512,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 21.2,
+     "winRate": 55.5,
+     "games": 2267,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Mystic Monastery",
+     "inclusion": 19.3,
+     "winRate": 55.4,
+     "games": 2065,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 11.1,
+     "winRate": 55.4,
+     "games": 1222,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Narset's Rebuke",
+     "inclusion": 54.4,
+     "winRate": 55.3,
+     "games": 5858,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 39.8,
+     "winRate": 55.2,
+     "games": 4341,
+     "trophyInclusion": 42.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-10",
+    "main": [
+     [
+      1,
+      "Agent of Kotis"
+     ],
+     [
+      1,
+      "Bewildering Blizzard"
+     ],
+     [
+      1,
+      "Breaching Dragonstorm"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Dragonclaw Strike"
+     ],
+     [
+      1,
+      "Dragonologist"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Fresh Start"
+     ],
+     [
+      1,
+      "Glacial Dragonhunt"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Knockout Maneuver"
+     ],
+     [
+      1,
+      "Marang River Regent"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      1,
+      "Rugged Highlands"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Stormshriek Feral"
+     ],
+     [
+      1,
+      "Sunset Strikemaster"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ],
+     [
+      1,
+      "Whirlwing Stormbrood"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Agent of Kotis"
+     ],
+     [
+      1,
+      "Cruel Truths"
+     ],
+     [
+      1,
+      "Jeskai Devotee"
+     ],
+     [
+      1,
+      "Krotiq Nestguard"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Reigning Victor"
+     ],
+     [
+      1,
+      "Reverberating Summons"
+     ],
+     [
+      1,
+      "Sandskitter Outrider"
+     ],
+     [
+      1,
+      "Spectral Denial"
+     ],
+     [
+      3,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "War Effort"
+     ],
+     [
+      1,
+      "Wingspan Stride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 2094,
+   "wins": 1161,
+   "winRate": 55.44,
+   "share": 0.38,
+   "drafts": 386,
+   "trophies": 31,
+   "cards": [
+    {
+     "name": "Taigam, Master Opportunist",
+     "inclusion": 8.3,
+     "winRate": 62.9,
+     "games": 186,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Ugin, Eye of the Storms",
+     "inclusion": 5.2,
+     "winRate": 61.9,
+     "games": 126,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Stormbeacon Blade",
+     "inclusion": 7.3,
+     "winRate": 61.8,
+     "games": 173,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Rediscover the Way",
+     "inclusion": 6.7,
+     "winRate": 61.5,
+     "games": 148,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Elspeth, Storm Slayer",
+     "inclusion": 12.4,
+     "winRate": 59.5,
+     "games": 274,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 21.5,
+     "winRate": 58.9,
+     "games": 470,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Fresh Start",
+     "inclusion": 26.2,
+     "winRate": 58.5,
+     "games": 566,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Fortress Kin-Guard",
+     "inclusion": 50.5,
+     "winRate": 58.0,
+     "games": 1126,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 13.5,
+     "winRate": 58.0,
+     "games": 300,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Unending Whisper",
+     "inclusion": 41.2,
+     "winRate": 57.8,
+     "games": 905,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 16.3,
+     "winRate": 57.8,
+     "games": 351,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Static Snare",
+     "inclusion": 23.8,
+     "winRate": 57.7,
+     "games": 537,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 13.0,
+     "winRate": 57.6,
+     "games": 295,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Dalkovan Packbeasts",
+     "inclusion": 16.6,
+     "winRate": 57.3,
+     "games": 389,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 32.9,
+     "winRate": 57.1,
+     "games": 716,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Narset's Rebuke",
+     "inclusion": 7.5,
+     "winRate": 57.1,
+     "games": 175,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Bearer of Glory",
+     "inclusion": 42.0,
+     "winRate": 56.8,
+     "games": 913,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 31.1,
+     "winRate": 56.8,
+     "games": 659,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Agent of Kotis",
+     "inclusion": 28.2,
+     "winRate": 56.8,
+     "games": 609,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Naga Fleshcrafter",
+     "inclusion": 12.2,
+     "winRate": 56.7,
+     "games": 254,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Salt Road Packbeast",
+     "inclusion": 50.3,
+     "winRate": 56.6,
+     "games": 1084,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 38.3,
+     "winRate": 56.6,
+     "games": 825,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Coordinated Maneuver",
+     "inclusion": 37.3,
+     "winRate": 56.6,
+     "games": 807,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Veteran Ice Climber",
+     "inclusion": 17.4,
+     "winRate": 56.5,
+     "games": 377,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 27.2,
+     "winRate": 56.4,
+     "games": 567,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 62.7,
+     "winRate": 56.3,
+     "games": 1333,
+     "trophyInclusion": 77.4
+    },
+    {
+     "name": "Riverwalk Technique",
+     "inclusion": 51.8,
+     "winRate": 56.2,
+     "games": 1138,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Jeskai Monument",
+     "inclusion": 10.9,
+     "winRate": 56.2,
+     "games": 235,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Dragonologist",
+     "inclusion": 8.8,
+     "winRate": 56.2,
+     "games": 201,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Duty Beyond Death",
+     "inclusion": 10.1,
+     "winRate": 56.1,
+     "games": 221,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Teeming Dragonstorm",
+     "inclusion": 29.8,
+     "winRate": 55.9,
+     "games": 637,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 18.4,
+     "winRate": 55.9,
+     "games": 390,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Whirlwing Stormbrood",
+     "inclusion": 8.0,
+     "winRate": 55.9,
+     "games": 186,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Humbling Elder",
+     "inclusion": 36.8,
+     "winRate": 55.7,
+     "games": 774,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Ringing Strike Mastery",
+     "inclusion": 18.1,
+     "winRate": 55.5,
+     "games": 371,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Dispelling Exhale",
+     "inclusion": 55.7,
+     "winRate": 55.3,
+     "games": 1178,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Riling Dawnbreaker",
+     "inclusion": 46.1,
+     "winRate": 55.1,
+     "games": 998,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 25.4,
+     "winRate": 55.1,
+     "games": 532,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Furious Forebear",
+     "inclusion": 18.1,
+     "winRate": 55.1,
+     "games": 376,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Focus the Mind",
+     "inclusion": 51.0,
+     "winRate": 54.9,
+     "games": 1074,
+     "trophyInclusion": 51.6
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-04-18",
+    "main": [
+     [
+      1,
+      "Bearer of Glory"
+     ],
+     [
+      1,
+      "Bewildering Blizzard"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Dispelling Exhale"
+     ],
+     [
+      2,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Fortress Kin-Guard"
+     ],
+     [
+      1,
+      "Fresh Start"
+     ],
+     [
+      1,
+      "Highspire Bell-Ringer"
+     ],
+     [
+      2,
+      "Humbling Elder"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Jeskai Monument"
+     ],
+     [
+      1,
+      "Marang River Regent"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Naga Fleshcrafter"
+     ],
+     [
+      1,
+      "Osseous Exhale"
+     ],
+     [
+      5,
+      "Plains"
+     ],
+     [
+      1,
+      "Rediscover the Way"
+     ],
+     [
+      1,
+      "Riling Dawnbreaker"
+     ],
+     [
+      2,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Roiling Dragonstorm"
+     ],
+     [
+      1,
+      "Salt Road Packbeast"
+     ],
+     [
+      2,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Spectral Denial"
+     ],
+     [
+      2,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Negotiations"
+     ],
+     [
+      1,
+      "Alesha's Legacy"
+     ],
+     [
+      1,
+      "Cruel Truths"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      1,
+      "Effortless Master"
+     ],
+     [
+      2,
+      "Lightfoot Technique"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Ringing Strike Mastery"
+     ],
+     [
+      1,
+      "Seize Opportunity"
+     ],
+     [
+      1,
+      "Wingspan Stride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 1942,
+   "wins": 1086,
+   "winRate": 55.92,
+   "share": 0.35,
+   "drafts": 344,
+   "trophies": 31,
+   "cards": [
+    {
+     "name": "Sage of the Skies",
+     "inclusion": 9.9,
+     "winRate": 64.1,
+     "games": 198,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Revival of the Ancestors",
+     "inclusion": 7.8,
+     "winRate": 63.7,
+     "games": 171,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Wayspeaker Bodyguard",
+     "inclusion": 19.5,
+     "winRate": 59.3,
+     "games": 405,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Trade Route Envoy",
+     "inclusion": 46.8,
+     "winRate": 58.9,
+     "games": 959,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Undergrowth Leopard",
+     "inclusion": 41.0,
+     "winRate": 58.7,
+     "games": 843,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Sage of the Fang",
+     "inclusion": 28.2,
+     "winRate": 58.7,
+     "games": 574,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Loxodon Battle Priest",
+     "inclusion": 19.2,
+     "winRate": 58.7,
+     "games": 368,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 16.0,
+     "winRate": 58.7,
+     "games": 329,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 10.5,
+     "winRate": 58.5,
+     "games": 205,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Mardu Devotee",
+     "inclusion": 34.6,
+     "winRate": 58.2,
+     "games": 687,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Descendant of Storms",
+     "inclusion": 30.2,
+     "winRate": 58.2,
+     "games": 625,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Static Snare",
+     "inclusion": 28.2,
+     "winRate": 58.0,
+     "games": 545,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Twinmaw Stormbrood",
+     "inclusion": 8.7,
+     "winRate": 57.9,
+     "games": 178,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Furious Forebear",
+     "inclusion": 20.9,
+     "winRate": 57.7,
+     "games": 416,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Champion of Dusan",
+     "inclusion": 57.8,
+     "winRate": 57.4,
+     "games": 1154,
+     "trophyInclusion": 74.2
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 29.7,
+     "winRate": 57.3,
+     "games": 585,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 24.1,
+     "winRate": 57.3,
+     "games": 483,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Synchronized Charge",
+     "inclusion": 32.0,
+     "winRate": 57.2,
+     "games": 631,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Herd Heirloom",
+     "inclusion": 8.7,
+     "winRate": 56.9,
+     "games": 167,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 43.9,
+     "winRate": 56.7,
+     "games": 871,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Rally the Monastery",
+     "inclusion": 26.7,
+     "winRate": 56.7,
+     "games": 526,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Reputable Merchant",
+     "inclusion": 11.9,
+     "winRate": 56.7,
+     "games": 233,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 52.6,
+     "winRate": 56.6,
+     "games": 1017,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Sarkhan's Resolve",
+     "inclusion": 46.8,
+     "winRate": 56.6,
+     "games": 944,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Formation Breaker",
+     "inclusion": 34.6,
+     "winRate": 56.6,
+     "games": 671,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Bearer of Glory",
+     "inclusion": 47.1,
+     "winRate": 56.5,
+     "games": 930,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Poised Practitioner",
+     "inclusion": 20.6,
+     "winRate": 56.4,
+     "games": 406,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Rebellious Strike",
+     "inclusion": 19.5,
+     "winRate": 56.4,
+     "games": 381,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Dalkovan Encampment",
+     "inclusion": 5.8,
+     "winRate": 56.3,
+     "games": 126,
+     "trophyInclusion": 3.2
+    },
+    {
+     "name": "Voice of Victory",
+     "inclusion": 11.6,
+     "winRate": 56.2,
+     "games": 235,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Stormplain Detainment",
+     "inclusion": 52.3,
+     "winRate": 56.0,
+     "games": 1022,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Inspirited Vanguard",
+     "inclusion": 25.9,
+     "winRate": 56.0,
+     "games": 484,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 25.6,
+     "winRate": 56.0,
+     "games": 504,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Sunpearl Kirin",
+     "inclusion": 29.4,
+     "winRate": 55.9,
+     "games": 583,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Sultai Devotee",
+     "inclusion": 33.1,
+     "winRate": 55.7,
+     "games": 645,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 55.2,
+     "winRate": 55.6,
+     "games": 1107,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Elspeth, Storm Slayer",
+     "inclusion": 7.6,
+     "winRate": 55.6,
+     "games": 153,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Riling Dawnbreaker",
+     "inclusion": 43.9,
+     "winRate": 55.5,
+     "games": 839,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Blossoming Sands",
+     "inclusion": 52.9,
+     "winRate": 55.4,
+     "games": 1049,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Fortress Kin-Guard",
+     "inclusion": 51.7,
+     "winRate": 55.4,
+     "games": 1013,
+     "trophyInclusion": 51.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-04-18",
+    "main": [
+     [
+      1,
+      "Blossoming Sands"
+     ],
+     [
+      1,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Descendant of Storms"
+     ],
+     [
+      1,
+      "Dragon Sniper"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      3,
+      "Fortress Kin-Guard"
+     ],
+     [
+      1,
+      "Inspirited Vanguard"
+     ],
+     [
+      1,
+      "Kin-Tree Severance"
+     ],
+     [
+      1,
+      "Lightfoot Technique"
+     ],
+     [
+      1,
+      "Mardu Devotee"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Poised Practitioner"
+     ],
+     [
+      1,
+      "Rally the Monastery"
+     ],
+     [
+      2,
+      "Salt Road Packbeast"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Snakeskin Veil"
+     ],
+     [
+      1,
+      "Starry-Eyed Skyrider"
+     ],
+     [
+      1,
+      "Static Snare"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      2,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Undergrowth Leopard"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abzan Devotee"
+     ],
+     [
+      2,
+      "Champion of Dusan"
+     ],
+     [
+      1,
+      "Dragon Sniper"
+     ],
+     [
+      1,
+      "Dusyut Earthcarver"
+     ],
+     [
+      1,
+      "Kheru Goldkeeper"
+     ],
+     [
+      1,
+      "Kin-Tree Nurturer"
+     ],
+     [
+      1,
+      "Piercing Exhale"
+     ],
+     [
+      1,
+      "Rebellious Strike"
+     ],
+     [
+      1,
+      "Sage of the Fang"
+     ],
+     [
+      1,
+      "Sandskitter Outrider"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Skirmish Rhino"
+     ],
+     [
+      1,
+      "Stormbeacon Blade"
+     ],
+     [
+      1,
+      "Trade Route Envoy"
+     ],
+     [
+      1,
+      "Unburied Earthcarver"
+     ],
+     [
+      1,
+      "Watcher of the Wayside"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 1217,
+   "wins": 648,
+   "winRate": 53.25,
+   "share": 0.22,
+   "drafts": 227,
+   "trophies": 16,
+   "cards": [
+    {
+     "name": "Surrak, Elusive Hunter",
+     "inclusion": 15.9,
+     "winRate": 59.2,
+     "games": 206,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Traveling Botanist",
+     "inclusion": 26.0,
+     "winRate": 58.6,
+     "games": 331,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Dragonclaw Strike",
+     "inclusion": 19.4,
+     "winRate": 57.7,
+     "games": 246,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Iridescent Tiger",
+     "inclusion": 14.1,
+     "winRate": 56.4,
+     "games": 181,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Jeskai Devotee",
+     "inclusion": 35.7,
+     "winRate": 56.3,
+     "games": 458,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Unsparing Boltcaster",
+     "inclusion": 15.4,
+     "winRate": 56.3,
+     "games": 183,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Narset's Rebuke",
+     "inclusion": 33.9,
+     "winRate": 56.0,
+     "games": 423,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Sagu Wildling",
+     "inclusion": 38.3,
+     "winRate": 55.9,
+     "games": 497,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 20.3,
+     "winRate": 55.9,
+     "games": 263,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Frontier Bivouac",
+     "inclusion": 18.5,
+     "winRate": 55.7,
+     "games": 228,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 15.9,
+     "winRate": 55.4,
+     "games": 193,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Synchronized Charge",
+     "inclusion": 33.5,
+     "winRate": 54.9,
+     "games": 415,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Lasyd Prowler",
+     "inclusion": 11.5,
+     "winRate": 54.9,
+     "games": 122,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Meticulous Artisan",
+     "inclusion": 19.8,
+     "winRate": 54.8,
+     "games": 239,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Overwhelming Surge",
+     "inclusion": 11.5,
+     "winRate": 54.8,
+     "games": 146,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Channeled Dragonfire",
+     "inclusion": 24.2,
+     "winRate": 54.7,
+     "games": 307,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Sarkhan's Resolve",
+     "inclusion": 53.7,
+     "winRate": 54.4,
+     "games": 654,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Zurgo's Vanguard",
+     "inclusion": 24.2,
+     "winRate": 54.3,
+     "games": 311,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Wild Ride",
+     "inclusion": 26.0,
+     "winRate": 54.2,
+     "games": 336,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Tersa Lightshatter",
+     "inclusion": 14.5,
+     "winRate": 54.2,
+     "games": 166,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Champion of Dusan",
+     "inclusion": 71.4,
+     "winRate": 54.1,
+     "games": 878,
+     "trophyInclusion": 81.2
+    },
+    {
+     "name": "Stadium Headliner",
+     "inclusion": 10.6,
+     "winRate": 54.1,
+     "games": 133,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Rugged Highlands",
+     "inclusion": 50.7,
+     "winRate": 54.0,
+     "games": 609,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Knockout Maneuver",
+     "inclusion": 36.1,
+     "winRate": 53.7,
+     "games": 441,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Temur Tawnyback",
+     "inclusion": 29.1,
+     "winRate": 53.7,
+     "games": 356,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Sagu Pummeler",
+     "inclusion": 54.2,
+     "winRate": 53.6,
+     "games": 668,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Undergrowth Leopard",
+     "inclusion": 50.7,
+     "winRate": 53.6,
+     "games": 605,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Underfoot Underdogs",
+     "inclusion": 16.3,
+     "winRate": 53.6,
+     "games": 196,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Piercing Exhale",
+     "inclusion": 59.0,
+     "winRate": 53.3,
+     "games": 724,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Dragon Sniper",
+     "inclusion": 34.8,
+     "winRate": 53.2,
+     "games": 419,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 25.1,
+     "winRate": 53.2,
+     "games": 299,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Rescue Leopard",
+     "inclusion": 44.9,
+     "winRate": 53.1,
+     "games": 554,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Summit Intimidator",
+     "inclusion": 29.1,
+     "winRate": 53.1,
+     "games": 352,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Ainok Wayfarer",
+     "inclusion": 45.8,
+     "winRate": 53.0,
+     "games": 559,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Dusyut Earthcarver",
+     "inclusion": 26.9,
+     "winRate": 52.9,
+     "games": 331,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Stormshriek Feral",
+     "inclusion": 41.9,
+     "winRate": 52.7,
+     "games": 518,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Fleeting Effigy",
+     "inclusion": 15.0,
+     "winRate": 52.7,
+     "games": 184,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Snakeskin Veil",
+     "inclusion": 62.1,
+     "winRate": 52.5,
+     "games": 746,
+     "trophyInclusion": 68.8
+    },
+    {
+     "name": "Shock Brigade",
+     "inclusion": 47.1,
+     "winRate": 52.5,
+     "games": 571,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 63.0,
+     "winRate": 52.4,
+     "games": 759,
+     "trophyInclusion": 50.0
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-04-26",
+    "main": [
+     [
+      1,
+      "Ainok Wayfarer"
+     ],
+     [
+      2,
+      "Champion of Dusan"
+     ],
+     [
+      2,
+      "Dragon Sniper"
+     ],
+     [
+      1,
+      "Dusyut Earthcarver"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Lasyd Prowler"
+     ],
+     [
+      1,
+      "Magmatic Hellkite"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Opulent Palace"
+     ],
+     [
+      2,
+      "Piercing Exhale"
+     ],
+     [
+      1,
+      "Sagu Pummeler"
+     ],
+     [
+      1,
+      "Sagu Wildling"
+     ],
+     [
+      2,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Sibsig Appraiser"
+     ],
+     [
+      1,
+      "Songcrafter Mage"
+     ],
+     [
+      1,
+      "Surrak, Elusive Hunter"
+     ],
+     [
+      1,
+      "Synchronized Charge"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Tersa Lightshatter"
+     ],
+     [
+      1,
+      "Traveling Botanist"
+     ],
+     [
+      1,
+      "Undergrowth Leopard"
+     ],
+     [
+      1,
+      "Unsparing Boltcaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Agent of Kotis"
+     ],
+     [
+      1,
+      "Auroral Procession"
+     ],
+     [
+      2,
+      "Dispelling Exhale"
+     ],
+     [
+      1,
+      "Dragonstorm Forecaster"
+     ],
+     [
+      1,
+      "Gurmag Nightwatch"
+     ],
+     [
+      2,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Kishla Village"
+     ],
+     [
+      1,
+      "Krotiq Nestguard"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Qarsi Revenant"
+     ],
+     [
+      1,
+      "Sarkhan's Resolve"
+     ],
+     [
+      1,
+      "Stillness in Motion"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 970,
+   "wins": 515,
+   "winRate": 53.09,
+   "share": 0.18,
+   "drafts": 178,
+   "trophies": 6,
+   "cards": [
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 18.5,
+     "winRate": 59.7,
+     "games": 186,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Sonic Shrieker",
+     "inclusion": 11.2,
+     "winRate": 58.0,
+     "games": 112,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Unsparing Boltcaster",
+     "inclusion": 26.4,
+     "winRate": 57.8,
+     "games": 275,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Stadium Headliner",
+     "inclusion": 17.4,
+     "winRate": 57.8,
+     "games": 192,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Cruel Truths",
+     "inclusion": 12.4,
+     "winRate": 57.8,
+     "games": 147,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Cori-Steel Cutter",
+     "inclusion": 14.0,
+     "winRate": 57.0,
+     "games": 149,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Alesha's Legacy",
+     "inclusion": 22.5,
+     "winRate": 56.6,
+     "games": 235,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Meticulous Artisan",
+     "inclusion": 12.9,
+     "winRate": 56.6,
+     "games": 136,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Aggressive Negotiations",
+     "inclusion": 23.6,
+     "winRate": 56.1,
+     "games": 230,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Gurmag Rakshasa",
+     "inclusion": 21.9,
+     "winRate": 55.3,
+     "games": 226,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Alchemist's Assistant",
+     "inclusion": 28.1,
+     "winRate": 55.2,
+     "games": 288,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Zurgo's Vanguard",
+     "inclusion": 36.0,
+     "winRate": 55.1,
+     "games": 363,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Unrooted Ancestor",
+     "inclusion": 19.1,
+     "winRate": 55.0,
+     "games": 191,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Jeskai Devotee",
+     "inclusion": 33.1,
+     "winRate": 54.9,
+     "games": 348,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Abzan Devotee",
+     "inclusion": 30.9,
+     "winRate": 54.9,
+     "games": 304,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 17.4,
+     "winRate": 54.7,
+     "games": 181,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Twin Bolt",
+     "inclusion": 28.7,
+     "winRate": 54.6,
+     "games": 284,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Wind-Scarred Crag",
+     "inclusion": 23.0,
+     "winRate": 54.6,
+     "games": 229,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Unburied Earthcarver",
+     "inclusion": 47.2,
+     "winRate": 54.5,
+     "games": 457,
+     "trophyInclusion": 83.3
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 13.5,
+     "winRate": 54.3,
+     "games": 127,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Dragon's Prey",
+     "inclusion": 48.9,
+     "winRate": 54.2,
+     "games": 493,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Magmatic Hellkite",
+     "inclusion": 12.9,
+     "winRate": 54.1,
+     "games": 133,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Worthy Cost",
+     "inclusion": 43.8,
+     "winRate": 54.0,
+     "games": 420,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Krumar Initiate",
+     "inclusion": 23.6,
+     "winRate": 53.8,
+     "games": 238,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Molten Exhale",
+     "inclusion": 55.1,
+     "winRate": 53.6,
+     "games": 549,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Stormshriek Feral",
+     "inclusion": 50.6,
+     "winRate": 53.6,
+     "games": 494,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Rescue Leopard",
+     "inclusion": 32.6,
+     "winRate": 53.6,
+     "games": 319,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Equilibrium Adept",
+     "inclusion": 21.9,
+     "winRate": 53.5,
+     "games": 215,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Bloodfell Caves",
+     "inclusion": 59.0,
+     "winRate": 53.4,
+     "games": 567,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 23.0,
+     "winRate": 53.4,
+     "games": 232,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 57.3,
+     "winRate": 53.3,
+     "games": 567,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Reigning Victor",
+     "inclusion": 23.0,
+     "winRate": 53.2,
+     "games": 235,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Shocking Sharpshooter",
+     "inclusion": 39.9,
+     "winRate": 53.1,
+     "games": 384,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Sandskitter Outrider",
+     "inclusion": 33.7,
+     "winRate": 52.9,
+     "games": 323,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Underfoot Underdogs",
+     "inclusion": 50.0,
+     "winRate": 52.7,
+     "games": 484,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Nomad Outpost",
+     "inclusion": 19.7,
+     "winRate": 52.7,
+     "games": 186,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "War Effort",
+     "inclusion": 35.4,
+     "winRate": 52.6,
+     "games": 342,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Kin-Tree Nurturer",
+     "inclusion": 36.0,
+     "winRate": 52.1,
+     "games": 359,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Adorned Crocodile",
+     "inclusion": 11.8,
+     "winRate": 52.1,
+     "games": 121,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Yathan Tombguard",
+     "inclusion": 11.2,
+     "winRate": 51.9,
+     "games": 108,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-05-10",
+    "main": [
+     [
+      1,
+      "Alesha's Legacy"
+     ],
+     [
+      2,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Caustic Exhale"
+     ],
+     [
+      1,
+      "Cori-Steel Cutter"
+     ],
+     [
+      1,
+      "Devoted Duelist"
+     ],
+     [
+      1,
+      "Jeskai Devotee"
+     ],
+     [
+      1,
+      "Molten Exhale"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nomad Outpost"
+     ],
+     [
+      1,
+      "Overwhelming Surge"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Rescue Leopard"
+     ],
+     [
+      2,
+      "Salt Road Skirmish"
+     ],
+     [
+      2,
+      "Sandskitter Outrider"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Shocking Sharpshooter"
+     ],
+     [
+      1,
+      "Sinkhole Surveyor"
+     ],
+     [
+      1,
+      "Sonic Shrieker"
+     ],
+     [
+      3,
+      "Stormshriek Feral"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thunder of Unity"
+     ],
+     [
+      1,
+      "Unburied Earthcarver"
+     ],
+     [
+      2,
+      "Underfoot Underdogs"
+     ],
+     [
+      1,
+      "Zurgo's Vanguard"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Alesha's Legacy"
+     ],
+     [
+      1,
+      "Breaching Dragonstorm"
+     ],
+     [
+      1,
+      "Fire-Rim Form"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      1,
+      "Iceridge Serpent"
+     ],
+     [
+      1,
+      "Monastery Messenger"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      1,
+      "Salt Road Packbeast"
+     ],
+     [
+      1,
+      "Seize Opportunity"
+     ],
+     [
+      1,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      2,
+      "Twin Bolt"
+     ],
+     [
+      1,
+      "Wild Ride"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 956,
+   "wins": 524,
+   "winRate": 54.81,
+   "share": 0.17,
+   "drafts": 176,
+   "trophies": 13,
+   "cards": [
+    {
+     "name": "Rakshasa's Bargain",
+     "inclusion": 14.8,
+     "winRate": 63.5,
+     "games": 148,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Purging Stormbrood",
+     "inclusion": 15.3,
+     "winRate": 62.8,
+     "games": 164,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Scavenger Regent",
+     "inclusion": 17.6,
+     "winRate": 62.0,
+     "games": 179,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Whirlwing Stormbrood",
+     "inclusion": 13.6,
+     "winRate": 61.5,
+     "games": 135,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Sinkhole Surveyor",
+     "inclusion": 13.6,
+     "winRate": 61.1,
+     "games": 144,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Dragonstorm Forecaster",
+     "inclusion": 17.6,
+     "winRate": 60.5,
+     "games": 177,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 15.9,
+     "winRate": 60.1,
+     "games": 158,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Marang River Regent",
+     "inclusion": 20.5,
+     "winRate": 59.9,
+     "games": 217,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Aegis Sculptor",
+     "inclusion": 17.6,
+     "winRate": 59.7,
+     "games": 181,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Alchemist's Assistant",
+     "inclusion": 18.8,
+     "winRate": 59.4,
+     "games": 197,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Roiling Dragonstorm",
+     "inclusion": 29.5,
+     "winRate": 59.1,
+     "games": 303,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Dragonstorm Globe",
+     "inclusion": 23.3,
+     "winRate": 58.9,
+     "games": 231,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Veteran Ice Climber",
+     "inclusion": 24.4,
+     "winRate": 58.5,
+     "games": 241,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Aggressive Negotiations",
+     "inclusion": 25.0,
+     "winRate": 58.4,
+     "games": 250,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Opulent Palace",
+     "inclusion": 18.8,
+     "winRate": 58.0,
+     "games": 188,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Avenger of the Fallen",
+     "inclusion": 11.4,
+     "winRate": 58.0,
+     "games": 119,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Salt Road Skirmish",
+     "inclusion": 21.6,
+     "winRate": 57.7,
+     "games": 208,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Kishla Trawlers",
+     "inclusion": 34.1,
+     "winRate": 57.6,
+     "games": 335,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Cruel Truths",
+     "inclusion": 20.5,
+     "winRate": 57.4,
+     "games": 209,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Winternight Stories",
+     "inclusion": 15.3,
+     "winRate": 57.1,
+     "games": 147,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Humbling Elder",
+     "inclusion": 23.3,
+     "winRate": 57.0,
+     "games": 244,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Caustic Exhale",
+     "inclusion": 65.9,
+     "winRate": 56.8,
+     "games": 651,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Temur Devotee",
+     "inclusion": 22.7,
+     "winRate": 56.7,
+     "games": 217,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Sibsig Appraiser",
+     "inclusion": 63.1,
+     "winRate": 56.4,
+     "games": 615,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Ambling Stormshell",
+     "inclusion": 18.8,
+     "winRate": 56.4,
+     "games": 179,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Wingblade Disciple",
+     "inclusion": 29.0,
+     "winRate": 56.3,
+     "games": 286,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Krumar Initiate",
+     "inclusion": 19.3,
+     "winRate": 56.3,
+     "games": 183,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Kin-Tree Nurturer",
+     "inclusion": 26.7,
+     "winRate": 56.1,
+     "games": 271,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 19.9,
+     "winRate": 55.9,
+     "games": 195,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Ureni's Rebuff",
+     "inclusion": 23.3,
+     "winRate": 55.7,
+     "games": 210,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 60.2,
+     "winRate": 55.6,
+     "games": 590,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Naga Fleshcrafter",
+     "inclusion": 15.9,
+     "winRate": 55.5,
+     "games": 137,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Feral Deathgorger",
+     "inclusion": 50.0,
+     "winRate": 55.4,
+     "games": 480,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Qarsi Revenant",
+     "inclusion": 22.2,
+     "winRate": 55.3,
+     "games": 217,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Spectral Denial",
+     "inclusion": 21.6,
+     "winRate": 55.3,
+     "games": 208,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Snowmelt Stag",
+     "inclusion": 21.6,
+     "winRate": 54.9,
+     "games": 213,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Embermouth Sentinel",
+     "inclusion": 18.8,
+     "winRate": 54.7,
+     "games": 190,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Dirgur Island Dragon",
+     "inclusion": 52.8,
+     "winRate": 54.4,
+     "games": 491,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Nightblade Brigade",
+     "inclusion": 22.7,
+     "winRate": 54.2,
+     "games": 216,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Boulderborn Dragon",
+     "inclusion": 29.5,
+     "winRate": 54.1,
+     "games": 281,
+     "trophyInclusion": 30.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-04-09",
+    "main": [
+     [
+      1,
+      "Avenger of the Fallen"
+     ],
+     [
+      1,
+      "Bewildering Blizzard"
+     ],
+     [
+      1,
+      "Dirgur Island Dragon"
+     ],
+     [
+      2,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Fangkeeper's Familiar"
+     ],
+     [
+      1,
+      "Feral Deathgorger"
+     ],
+     [
+      1,
+      "Focus the Mind"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Frontier Bivouac"
+     ],
+     [
+      1,
+      "Highspire Bell-Ringer"
+     ],
+     [
+      1,
+      "Humbling Elder"
+     ],
+     [
+      2,
+      "Iceridge Serpent"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Krumar Initiate"
+     ],
+     [
+      1,
+      "Marang River Regent"
+     ],
+     [
+      1,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Scavenger Regent"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Snowmelt Stag"
+     ],
+     [
+      1,
+      "Stormplain Detainment"
+     ],
+     [
+      1,
+      "Strategic Betrayal"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Temur Devotee"
+     ],
+     [
+      1,
+      "Temur Monument"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "Ureni's Rebuff"
+     ],
+     [
+      1,
+      "Wingblade Disciple"
+     ],
+     [
+      1,
+      "Winternight Stories"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Negotiations"
+     ],
+     [
+      1,
+      "Cruel Truths"
+     ],
+     [
+      1,
+      "Embermouth Sentinel"
+     ],
+     [
+      1,
+      "Gurmag Nightwatch"
+     ],
+     [
+      1,
+      "Iridescent Tiger"
+     ],
+     [
+      1,
+      "Jeskai Devotee"
+     ],
+     [
+      1,
+      "Meticulous Artisan"
+     ],
+     [
+      1,
+      "Narset's Rebuke"
+     ],
+     [
+      2,
+      "Riverwalk Technique"
+     ],
+     [
+      1,
+      "Sagu Pummeler"
+     ],
+     [
+      1,
+      "Temur Tawnyback"
+     ],
+     [
+      1,
+      "Unending Whisper"
+     ],
+     [
+      1,
+      "Watcher of the Wayside"
+     ]
+    ]
+   }
+  }
+ ]
+}

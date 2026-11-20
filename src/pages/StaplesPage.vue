@@ -9,7 +9,7 @@ import { seasonEndYear, seasonYears, t, type StringKey } from '../lib/i18n'
 import SoonState from '../components/SoonState.vue'
 
 type Mode = 'season' | 'color' | 'type' | 'played'
-type Group = { key: string; title: string; sub?: string; cards: string[] }
+type Group = { key: string; title: string; sub?: string; short?: string; cards: string[] }
 
 const route = useRoute()
 const router = useRouter()
@@ -78,8 +78,9 @@ const groups = computed<Group[]>(() => {
   if (mode.value === 'season') {
     return seasons.value.map((s) => ({
       key: s.id,
-      title: seasonYears(s.start, s.end),
-      sub: s.set,
+      title: s.code ? s.set : seasonYears(s.start, s.end),
+      sub: s.code ?? s.set,
+      short: s.code,
       cards: s.cards.map((c) => c.name),
     }))
   }
@@ -105,7 +106,7 @@ const groups = computed<Group[]>(() => {
         <button type="button" :class="{ on: mode === 'played' }" @click="setMode('played')">{{ t('byPlayed') }}</button>
       </nav>
       <nav v-if="mode !== 'played'" class="jump">
-        <a v-for="g in groups" :key="g.key" :href="`#g-${g.key}`">{{ g.title }}</a>
+        <a v-for="g in groups" :key="g.key" :href="`#g-${g.key}`" :title="g.title">{{ g.short ?? g.title }}</a>
       </nav>
     </div>
     <div v-if="mode !== 'played'" class="wall">

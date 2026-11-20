@@ -1,0 +1,405 @@
+[
+ {
+  "id": "khm",
+  "start": "2021-01-27",
+  "set": "Kaldheim",
+  "code": "KHM",
+  "bans": [],
+  "source": {
+   "games": 440826,
+   "drafts": 74952,
+   "winRate": 54.5,
+   "url": "https://www.17lands.com/color_ratings?expansion=KHM&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "stx",
+  "start": "2021-04-15",
+  "set": "Strixhaven",
+  "code": "STX",
+  "bans": [],
+  "source": {
+   "games": 465319,
+   "drafts": 79513,
+   "winRate": 54.5,
+   "url": "https://www.17lands.com/color_ratings?expansion=STX&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "afr",
+  "start": "2021-07-08",
+  "set": "Adventures in the Forgotten Realms",
+  "code": "AFR",
+  "bans": [],
+  "source": {
+   "games": 366660,
+   "drafts": 62271,
+   "winRate": 55.1,
+   "url": "https://www.17lands.com/color_ratings?expansion=AFR&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "mid",
+  "start": "2021-09-16",
+  "set": "Innistrad: Midnight Hunt",
+  "code": "MID",
+  "bans": [],
+  "source": {
+   "games": 653944,
+   "drafts": 109535,
+   "winRate": 55.9,
+   "url": "https://www.17lands.com/color_ratings?expansion=MID&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "vow",
+  "start": "2021-11-11",
+  "set": "Innistrad: Crimson Vow",
+  "code": "VOW",
+  "bans": [],
+  "source": {
+   "games": 494030,
+   "drafts": 84460,
+   "winRate": 54.7,
+   "url": "https://www.17lands.com/color_ratings?expansion=VOW&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "neo",
+  "start": "2022-02-10",
+  "set": "Kamigawa: Neon Dynasty",
+  "code": "NEO",
+  "bans": [],
+  "source": {
+   "games": 630450,
+   "drafts": 106250,
+   "winRate": 55.6,
+   "url": "https://www.17lands.com/color_ratings?expansion=NEO&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "snc",
+  "start": "2022-04-28",
+  "set": "Streets of New Capenna",
+  "code": "SNC",
+  "bans": [],
+  "source": {
+   "games": 812978,
+   "drafts": 138991,
+   "winRate": 55.2,
+   "url": "https://www.17lands.com/color_ratings?expansion=SNC&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "dmu",
+  "start": "2022-08-30",
+  "set": "Dominaria United",
+  "code": "DMU",
+  "bans": [],
+  "source": {
+   "games": 947395,
+   "drafts": 182727,
+   "winRate": 56.4,
+   "url": "https://www.17lands.com/color_ratings?expansion=DMU&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "bro",
+  "start": "2022-11-15",
+  "set": "The Brothers' War",
+  "code": "BRO",
+  "bans": [],
+  "source": {
+   "games": 542903,
+   "drafts": 92691,
+   "winRate": 55.5,
+   "url": "https://www.17lands.com/color_ratings?expansion=BRO&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "one",
+  "start": "2023-02-02",
+  "set": "Phyrexia: All Will Be One",
+  "code": "ONE",
+  "bans": [],
+  "source": {
+   "games": 583077,
+   "drafts": 99934,
+   "winRate": 54.8,
+   "url": "https://www.17lands.com/color_ratings?expansion=ONE&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "mom",
+  "start": "2023-04-13",
+  "set": "March of the Machine",
+  "code": "MOM",
+  "bans": [],
+  "source": {
+   "games": 1246850,
+   "drafts": 215027,
+   "winRate": 54.8,
+   "url": "https://www.17lands.com/color_ratings?expansion=MOM&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "ltr",
+  "start": "2023-06-15",
+  "set": "The Lord of the Rings: Tales of Middle-earth",
+  "code": "LTR",
+  "bans": [],
+  "source": {
+   "games": 980485,
+   "drafts": 167285,
+   "winRate": 55.6,
+   "url": "https://www.17lands.com/color_ratings?expansion=LTR&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "woe",
+  "start": "2023-08-31",
+  "set": "Wilds of Eldraine",
+  "code": "WOE",
+  "bans": [],
+  "source": {
+   "games": 1024028,
+   "drafts": 175022,
+   "winRate": 55.2,
+   "url": "https://www.17lands.com/color_ratings?expansion=WOE&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "lci",
+  "start": "2023-11-09",
+  "set": "The Lost Caverns of Ixalan",
+  "code": "LCI",
+  "bans": [],
+  "source": {
+   "games": 823614,
+   "drafts": 140364,
+   "winRate": 55.3,
+   "url": "https://www.17lands.com/color_ratings?expansion=LCI&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "mkm",
+  "start": "2024-02-06",
+  "set": "Murders at Karlov Manor",
+  "code": "MKM",
+  "bans": [],
+  "source": {
+   "games": 964377,
+   "drafts": 165251,
+   "winRate": 55.0,
+   "url": "https://www.17lands.com/color_ratings?expansion=MKM&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "otj",
+  "start": "2024-04-16",
+  "set": "Outlaws of Thunder Junction",
+  "code": "OTJ",
+  "bans": [],
+  "source": {
+   "games": 1172393,
+   "drafts": 202232,
+   "winRate": 54.1,
+   "url": "https://www.17lands.com/color_ratings?expansion=OTJ&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "mh3",
+  "start": "2024-06-11",
+  "set": "Modern Horizons 3",
+  "code": "MH3",
+  "bans": [],
+  "source": {
+   "games": 767772,
+   "drafts": 131813,
+   "winRate": 55.1,
+   "url": "https://www.17lands.com/color_ratings?expansion=MH3&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "blb",
+  "start": "2024-07-30",
+  "set": "Bloomburrow",
+  "code": "BLB",
+  "bans": [],
+  "source": {
+   "games": 931230,
+   "drafts": 160150,
+   "winRate": 54.6,
+   "url": "https://www.17lands.com/color_ratings?expansion=BLB&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "dsk",
+  "start": "2024-09-24",
+  "set": "Duskmourn: House of Horror",
+  "code": "DSK",
+  "bans": [],
+  "source": {
+   "games": 1011949,
+   "drafts": 173545,
+   "winRate": 54.5,
+   "url": "https://www.17lands.com/color_ratings?expansion=DSK&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "fdn",
+  "start": "2024-11-12",
+  "set": "Foundations",
+  "code": "FDN",
+  "bans": [],
+  "source": {
+   "games": 791159,
+   "drafts": 135418,
+   "winRate": 54.6,
+   "url": "https://www.17lands.com/color_ratings?expansion=FDN&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "dft",
+  "start": "2025-02-11",
+  "set": "Aetherdrift",
+  "code": "DFT",
+  "bans": [],
+  "source": {
+   "games": 857667,
+   "drafts": 147058,
+   "winRate": 54.9,
+   "url": "https://www.17lands.com/color_ratings?expansion=DFT&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "tdm",
+  "start": "2025-04-08",
+  "set": "Tarkir: Dragonstorm",
+  "code": "TDM",
+  "bans": [],
+  "source": {
+   "games": 552428,
+   "drafts": 100076,
+   "winRate": 55.0,
+   "url": "https://www.17lands.com/color_ratings?expansion=TDM&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "fin",
+  "start": "2025-06-10",
+  "set": "Final Fantasy",
+  "code": "FIN",
+  "bans": [],
+  "source": {
+   "games": 769659,
+   "drafts": 138498,
+   "winRate": 55.7,
+   "url": "https://www.17lands.com/color_ratings?expansion=FIN&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "eoe",
+  "start": "2025-07-29",
+  "set": "Edge of Eternities",
+  "code": "EOE",
+  "bans": [],
+  "source": {
+   "games": 563418,
+   "drafts": 103056,
+   "winRate": 55.3,
+   "url": "https://www.17lands.com/color_ratings?expansion=EOE&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "tla",
+  "start": "2025-11-18",
+  "set": "Avatar: The Last Airbender",
+  "code": "TLA",
+  "bans": [],
+  "source": {
+   "games": 562924,
+   "drafts": 101496,
+   "winRate": 56.0,
+   "url": "https://www.17lands.com/color_ratings?expansion=TLA&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "ecl",
+  "start": "2026-01-20",
+  "set": "Lorwyn Eclipsed",
+  "code": "ECL",
+  "bans": [],
+  "source": {
+   "games": 536566,
+   "drafts": 98116,
+   "winRate": 55.0,
+   "url": "https://www.17lands.com/color_ratings?expansion=ECL&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "tmt",
+  "start": "2026-03-03",
+  "set": "Teenage Mutant Ninja Turtles",
+  "code": "TMT",
+  "bans": [],
+  "source": {
+   "games": 180204,
+   "drafts": 31764,
+   "winRate": 56.8,
+   "url": "https://www.17lands.com/color_ratings?expansion=TMT&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "sos",
+  "start": "2026-04-21",
+  "set": "Secrets of Strixhaven",
+  "code": "SOS",
+  "bans": [],
+  "source": {
+   "games": 582914,
+   "drafts": 106121,
+   "winRate": 55.4,
+   "url": "https://www.17lands.com/color_ratings?expansion=SOS&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "msh",
+  "start": "2026-06-23",
+  "set": "Marvel Super Heroes",
+  "code": "MSH",
+  "bans": [],
+  "source": {
+   "games": 377514,
+   "drafts": 67808,
+   "winRate": 56.1,
+   "url": "https://www.17lands.com/color_ratings?expansion=MSH&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "hob",
+  "start": "2026-08-11",
+  "set": "The Hobbit",
+  "code": "HOB",
+  "bans": [],
+  "source": {
+   "games": 323114,
+   "drafts": 57421,
+   "winRate": 56.2,
+   "url": "https://www.17lands.com/color_ratings?expansion=HOB&event_type=PremierDraft&combine_splash=true"
+  }
+ },
+ {
+  "id": "fra",
+  "start": "2026-09-29",
+  "set": "Reality Fracture",
+  "code": "FRA",
+  "bans": [],
+  "source": {
+   "games": 431627,
+   "drafts": 80430,
+   "winRate": 55.1,
+   "url": "https://www.17lands.com/color_ratings?expansion=FRA&event_type=PremierDraft&combine_splash=true"
+  }
+ }
+]

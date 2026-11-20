@@ -1,0 +1,4748 @@
+{
+ "set": "bro",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.BRO.PremierDraft.csv.gz",
+ "lastModified": "Thu, 15 Dec 2022 05:02:35 GMT",
+ "colorsDerived": false,
+ "first": "2022-11-15",
+ "last": "2022-12-13",
+ "games": 542903,
+ "drafts": 92691,
+ "winRate": 55.48,
+ "combos": [
+  {
+   "colors": "BR",
+   "games": 76285,
+   "wins": 41654,
+   "winRate": 54.6,
+   "share": 14.05,
+   "drafts": 13188,
+   "trophies": 1570,
+   "cards": [
+    {
+     "name": "Gix's Command",
+     "inclusion": 7.9,
+     "winRate": 58.4,
+     "games": 6380,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Tyrant of Kher Ridges",
+     "inclusion": 7.7,
+     "winRate": 58.2,
+     "games": 6181,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Misery's Shadow",
+     "inclusion": 7.9,
+     "winRate": 57.8,
+     "games": 6330,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Phyrexian Dragon Engine",
+     "inclusion": 6.5,
+     "winRate": 57.3,
+     "games": 5059,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Mishra's Research Desk",
+     "inclusion": 25.8,
+     "winRate": 57.2,
+     "games": 20550,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Gixian Puppeteer",
+     "inclusion": 7.1,
+     "winRate": 57.2,
+     "games": 5562,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Transmogrant's Crown",
+     "inclusion": 6.0,
+     "winRate": 57.0,
+     "games": 4813,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Horned Stoneseeker",
+     "inclusion": 28.3,
+     "winRate": 56.9,
+     "games": 22189,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Mishra, Claimed by Gix",
+     "inclusion": 6.7,
+     "winRate": 56.6,
+     "games": 5275,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 18.2,
+     "winRate": 56.5,
+     "games": 14152,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 23.1,
+     "winRate": 56.4,
+     "games": 18054,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 12.8,
+     "winRate": 56.4,
+     "games": 10049,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Monastery Swiftspear",
+     "inclusion": 10.8,
+     "winRate": 56.4,
+     "games": 8346,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Ashnod, Flesh Mechanist",
+     "inclusion": 8.8,
+     "winRate": 56.2,
+     "games": 6890,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 57.7,
+     "winRate": 56.1,
+     "games": 45021,
+     "trophyInclusion": 67.5
+    },
+    {
+     "name": "Giant Cindermaw",
+     "inclusion": 24.9,
+     "winRate": 56.1,
+     "games": 19421,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Feldon, Ronom Excavator",
+     "inclusion": 7.9,
+     "winRate": 56.1,
+     "games": 6152,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Ichor Wellspring",
+     "inclusion": 22.5,
+     "winRate": 55.8,
+     "games": 17393,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Elsewhere Flask",
+     "inclusion": 15.0,
+     "winRate": 55.8,
+     "games": 11553,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Visions of Phyrexia",
+     "inclusion": 8.4,
+     "winRate": 55.8,
+     "games": 6573,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Junkyard Genius",
+     "inclusion": 48.0,
+     "winRate": 55.5,
+     "games": 37142,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Soul-Guide Lantern",
+     "inclusion": 13.8,
+     "winRate": 55.5,
+     "games": 10693,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Excavation Explosion",
+     "inclusion": 56.6,
+     "winRate": 55.4,
+     "games": 43632,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "Overwhelming Remorse",
+     "inclusion": 51.7,
+     "winRate": 55.4,
+     "games": 39817,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Obliterating Bolt",
+     "inclusion": 24.8,
+     "winRate": 55.4,
+     "games": 19159,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Penregon Strongbull",
+     "inclusion": 66.0,
+     "winRate": 55.3,
+     "games": 50958,
+     "trophyInclusion": 70.3
+    },
+    {
+     "name": "Goblin Blast-Runner",
+     "inclusion": 51.0,
+     "winRate": 55.3,
+     "games": 39337,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 35.5,
+     "winRate": 55.3,
+     "games": 27312,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Moment of Defiance",
+     "inclusion": 23.4,
+     "winRate": 55.3,
+     "games": 18026,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Mishra's Command",
+     "inclusion": 7.6,
+     "winRate": 55.3,
+     "games": 5883,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Disfigure",
+     "inclusion": 50.5,
+     "winRate": 55.1,
+     "games": 38814,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 7.5,
+     "winRate": 55.1,
+     "games": 5746,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Bitter Reunion",
+     "inclusion": 35.6,
+     "winRate": 54.8,
+     "games": 27270,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Sibling Rivalry",
+     "inclusion": 50.3,
+     "winRate": 54.7,
+     "games": 38661,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Mishra's Bauble",
+     "inclusion": 10.6,
+     "winRate": 54.7,
+     "games": 8072,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Gurgling Anointer",
+     "inclusion": 14.9,
+     "winRate": 54.6,
+     "games": 11327,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Thraxodemon",
+     "inclusion": 55.7,
+     "winRate": 54.5,
+     "games": 42548,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Powerstone Fracture",
+     "inclusion": 55.5,
+     "winRate": 54.5,
+     "games": 42143,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Gixian Infiltrator",
+     "inclusion": 53.3,
+     "winRate": 54.5,
+     "games": 40709,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Scrapwork Rager",
+     "inclusion": 40.1,
+     "winRate": 54.5,
+     "games": 30538,
+     "trophyInclusion": 38.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-11-19",
+    "main": [
+     [
+      1,
+      "Disfigure"
+     ],
+     [
+      2,
+      "Emergency Weld"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      2,
+      "Excavation Explosion"
+     ],
+     [
+      1,
+      "Giant Cindermaw"
+     ],
+     [
+      1,
+      "Gixian Infiltrator"
+     ],
+     [
+      1,
+      "Gnawing Vermin"
+     ],
+     [
+      2,
+      "Goblin Blast-Runner"
+     ],
+     [
+      1,
+      "Horned Stoneseeker"
+     ],
+     [
+      1,
+      "Ichor Wellspring"
+     ],
+     [
+      1,
+      "Junkyard Genius"
+     ],
+     [
+      1,
+      "Kill-Zone Acrobat"
+     ],
+     [
+      1,
+      "Mishra's Research Desk"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Obliterating Bolt"
+     ],
+     [
+      1,
+      "Overwhelming Remorse"
+     ],
+     [
+      1,
+      "Penregon Strongbull"
+     ],
+     [
+      1,
+      "Roc Hunter"
+     ],
+     [
+      3,
+      "Scrapwork Mutt"
+     ],
+     [
+      1,
+      "Sibling Rivalry"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thraxodemon"
+     ],
+     [
+      1,
+      "Whirling Strike"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Arbalest Engineers"
+     ],
+     [
+      1,
+      "Blanchwood Prowler"
+     ],
+     [
+      1,
+      "Blitz Automaton"
+     ],
+     [
+      1,
+      "Brotherhood's End"
+     ],
+     [
+      1,
+      "Coastal Bulwark"
+     ],
+     [
+      1,
+      "Fallaji Chaindancer"
+     ],
+     [
+      1,
+      "Fog of War"
+     ],
+     [
+      2,
+      "Gix's Caress"
+     ],
+     [
+      1,
+      "Hoarding Recluse"
+     ],
+     [
+      1,
+      "Legions to Ashes"
+     ],
+     [
+      1,
+      "Liquimetal Coating"
+     ],
+     [
+      1,
+      "Mishra's Domination"
+     ],
+     [
+      1,
+      "Mishra's Research Desk"
+     ],
+     [
+      1,
+      "Tawnos's Tinkering"
+     ],
+     [
+      1,
+      "Third Path Iconoclast"
+     ],
+     [
+      1,
+      "Tocasia's Dig Site"
+     ],
+     [
+      1,
+      "Unleash Shell"
+     ],
+     [
+      1,
+      "Urza's Rebuff"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 57919,
+   "wins": 33061,
+   "winRate": 57.08,
+   "share": 10.67,
+   "drafts": 9706,
+   "trophies": 1417,
+   "cards": [
+    {
+     "name": "Siege Veteran",
+     "inclusion": 8.4,
+     "winRate": 63.0,
+     "games": 5221,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Skystrike Officer",
+     "inclusion": 12.7,
+     "winRate": 60.9,
+     "games": 7829,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Harbin, Vanguard Aviator",
+     "inclusion": 18.7,
+     "winRate": 60.1,
+     "games": 11253,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Steel Seraph",
+     "inclusion": 5.4,
+     "winRate": 59.6,
+     "games": 3248,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Recruitment Officer",
+     "inclusion": 27.0,
+     "winRate": 59.4,
+     "games": 16158,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 11.1,
+     "winRate": 59.4,
+     "games": 6582,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Static Net",
+     "inclusion": 24.5,
+     "winRate": 59.2,
+     "games": 14573,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Military Discipline",
+     "inclusion": 24.0,
+     "winRate": 59.2,
+     "games": 14082,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Loran of the Third Path",
+     "inclusion": 8.0,
+     "winRate": 59.1,
+     "games": 4780,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Zephyr Sentinel",
+     "inclusion": 35.2,
+     "winRate": 58.9,
+     "games": 20898,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Airlift Chaplain",
+     "inclusion": 47.5,
+     "winRate": 58.8,
+     "games": 28071,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Yotian Frontliner",
+     "inclusion": 19.6,
+     "winRate": 58.8,
+     "games": 11602,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Thopter Mechanic",
+     "inclusion": 24.9,
+     "winRate": 58.7,
+     "games": 14664,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Ambush Paratrooper",
+     "inclusion": 56.1,
+     "winRate": 58.5,
+     "games": 33088,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 54.3,
+     "winRate": 58.5,
+     "games": 32088,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Yotian Tactician",
+     "inclusion": 44.7,
+     "winRate": 58.5,
+     "games": 26388,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Loran's Escape",
+     "inclusion": 36.0,
+     "winRate": 58.5,
+     "games": 21388,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Aeronaut Cavalry",
+     "inclusion": 54.1,
+     "winRate": 58.4,
+     "games": 31825,
+     "trophyInclusion": 61.4
+    },
+    {
+     "name": "Phalanx Vanguard",
+     "inclusion": 51.9,
+     "winRate": 58.3,
+     "games": 30627,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Autonomous Assembler",
+     "inclusion": 5.5,
+     "winRate": 58.3,
+     "games": 3265,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 43.8,
+     "winRate": 58.2,
+     "games": 25723,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Prison Sentence",
+     "inclusion": 54.4,
+     "winRate": 58.0,
+     "games": 32028,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Machine Over Matter",
+     "inclusion": 28.7,
+     "winRate": 57.9,
+     "games": 16903,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Combat Thresher",
+     "inclusion": 21.3,
+     "winRate": 57.9,
+     "games": 12427,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Air Marshal",
+     "inclusion": 55.7,
+     "winRate": 57.8,
+     "games": 32501,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Warlord's Elite",
+     "inclusion": 49.1,
+     "winRate": 57.7,
+     "games": 28745,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Recommission",
+     "inclusion": 40.5,
+     "winRate": 57.7,
+     "games": 23608,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Weakstone's Subjugation",
+     "inclusion": 50.4,
+     "winRate": 57.4,
+     "games": 29340,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Soul Partition",
+     "inclusion": 5.5,
+     "winRate": 57.4,
+     "games": 3164,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Wing Commando",
+     "inclusion": 56.2,
+     "winRate": 57.3,
+     "games": 32669,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Kayla's Command",
+     "inclusion": 8.0,
+     "winRate": 57.3,
+     "games": 4615,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 26.3,
+     "winRate": 57.2,
+     "games": 15238,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Desynchronize",
+     "inclusion": 18.3,
+     "winRate": 57.2,
+     "games": 10590,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Fortified Beachhead",
+     "inclusion": 10.0,
+     "winRate": 57.2,
+     "games": 5781,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Tocasia's Welcome",
+     "inclusion": 7.4,
+     "winRate": 57.2,
+     "games": 4322,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Disenchant",
+     "inclusion": 49.9,
+     "winRate": 57.1,
+     "games": 29033,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Survivor of Korlis",
+     "inclusion": 22.0,
+     "winRate": 56.9,
+     "games": 12695,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Lay Down Arms",
+     "inclusion": 14.9,
+     "winRate": 56.9,
+     "games": 8701,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Reconstructed Thopter",
+     "inclusion": 10.3,
+     "winRate": 56.7,
+     "games": 5915,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Urza's Command",
+     "inclusion": 7.4,
+     "winRate": 56.7,
+     "games": 4277,
+     "trophyInclusion": 6.5
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-11-17",
+    "main": [
+     [
+      1,
+      "Aeronaut Cavalry"
+     ],
+     [
+      2,
+      "Air Marshal"
+     ],
+     [
+      1,
+      "Airlift Chaplain"
+     ],
+     [
+      1,
+      "Ambush Paratrooper"
+     ],
+     [
+      1,
+      "Combat Courier"
+     ],
+     [
+      1,
+      "Disenchant"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      2,
+      "Loran's Escape"
+     ],
+     [
+      1,
+      "Myrel, Shield of Argive"
+     ],
+     [
+      1,
+      "Phalanx Vanguard"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Prison Sentence"
+     ],
+     [
+      1,
+      "Recommission"
+     ],
+     [
+      1,
+      "Scrapwork Cohort"
+     ],
+     [
+      2,
+      "Stern Lesson"
+     ],
+     [
+      1,
+      "Take Flight"
+     ],
+     [
+      1,
+      "Warlord's Elite"
+     ],
+     [
+      2,
+      "Weakstone's Subjugation"
+     ],
+     [
+      2,
+      "Wing Commando"
+     ],
+     [
+      1,
+      "Yotian Tactician"
+     ],
+     [
+      1,
+      "Zephyr Sentinel"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Argothian Sprite"
+     ],
+     [
+      1,
+      "Blanchwood Armor"
+     ],
+     [
+      2,
+      "Deadly Riposte"
+     ],
+     [
+      1,
+      "Desynchronize"
+     ],
+     [
+      1,
+      "Energy Refractor"
+     ],
+     [
+      1,
+      "Gnarlroot Pallbearer"
+     ],
+     [
+      1,
+      "Lay Down Arms"
+     ],
+     [
+      1,
+      "Loran's Escape"
+     ],
+     [
+      1,
+      "Mass Production"
+     ],
+     [
+      1,
+      "Meticulous Excavation"
+     ],
+     [
+      1,
+      "Military Discipline"
+     ],
+     [
+      1,
+      "Retrieval Agent"
+     ],
+     [
+      1,
+      "Springleaf Drum"
+     ],
+     [
+      1,
+      "Survivor of Korlis"
+     ],
+     [
+      1,
+      "The Fall of Kroog"
+     ],
+     [
+      1,
+      "Third Path Savant"
+     ],
+     [
+      1,
+      "Union of the Third Path"
+     ],
+     [
+      1,
+      "Weakstone's Subjugation"
+     ],
+     [
+      1,
+      "Whirling Strike"
+     ],
+     [
+      1,
+      "Yotian Medic"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 55757,
+   "wins": 30573,
+   "winRate": 54.83,
+   "share": 10.27,
+   "drafts": 9644,
+   "trophies": 1137,
+   "cards": [
+    {
+     "name": "Titania's Command",
+     "inclusion": 9.8,
+     "winRate": 60.0,
+     "games": 5916,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Gix's Command",
+     "inclusion": 9.5,
+     "winRate": 59.2,
+     "games": 5651,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Misery's Shadow",
+     "inclusion": 7.9,
+     "winRate": 57.8,
+     "games": 4673,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Gixian Puppeteer",
+     "inclusion": 6.9,
+     "winRate": 57.3,
+     "games": 3929,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Skyfisher Spider",
+     "inclusion": 50.1,
+     "winRate": 57.1,
+     "games": 28720,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 8.7,
+     "winRate": 57.1,
+     "games": 4987,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Simian Simulacrum",
+     "inclusion": 6.6,
+     "winRate": 57.0,
+     "games": 3861,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 20.5,
+     "winRate": 56.7,
+     "games": 11775,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Obstinate Baloth",
+     "inclusion": 26.7,
+     "winRate": 56.6,
+     "games": 15354,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Ashnod, Flesh Mechanist",
+     "inclusion": 8.3,
+     "winRate": 56.6,
+     "games": 4685,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 11.8,
+     "winRate": 56.5,
+     "games": 6697,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Transmogrant's Crown",
+     "inclusion": 5.6,
+     "winRate": 56.3,
+     "games": 3235,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Mask of the Jadecrafter",
+     "inclusion": 24.5,
+     "winRate": 56.2,
+     "games": 13972,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Reconstructed Thopter",
+     "inclusion": 6.6,
+     "winRate": 56.2,
+     "games": 3720,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Blanchwood Prowler",
+     "inclusion": 57.2,
+     "winRate": 56.0,
+     "games": 32451,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Moment of Defiance",
+     "inclusion": 27.3,
+     "winRate": 55.9,
+     "games": 15468,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Overwhelming Remorse",
+     "inclusion": 55.2,
+     "winRate": 55.8,
+     "games": 31284,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Boulderbranch Golem",
+     "inclusion": 55.1,
+     "winRate": 55.7,
+     "games": 31096,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "Argothian Opportunist",
+     "inclusion": 57.2,
+     "winRate": 55.6,
+     "games": 32302,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "Gaea's Gift",
+     "inclusion": 41.6,
+     "winRate": 55.6,
+     "games": 23504,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Ravenous Gigamole",
+     "inclusion": 42.6,
+     "winRate": 55.5,
+     "games": 24031,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Gix's Caress",
+     "inclusion": 32.4,
+     "winRate": 55.5,
+     "games": 18241,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Argothian Sprite",
+     "inclusion": 52.4,
+     "winRate": 55.4,
+     "games": 29550,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Disfigure",
+     "inclusion": 50.4,
+     "winRate": 55.4,
+     "games": 28304,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Epic Confrontation",
+     "inclusion": 51.2,
+     "winRate": 55.3,
+     "games": 28703,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Scrapwork Rager",
+     "inclusion": 43.0,
+     "winRate": 55.3,
+     "games": 24167,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 33.1,
+     "winRate": 55.3,
+     "games": 18539,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Teething Wurmlet",
+     "inclusion": 7.6,
+     "winRate": 55.3,
+     "games": 4205,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Emergency Weld",
+     "inclusion": 51.7,
+     "winRate": 55.2,
+     "games": 29015,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Burrowing Razormaw",
+     "inclusion": 23.4,
+     "winRate": 55.2,
+     "games": 13099,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Argoth, Sanctum of Nature",
+     "inclusion": 7.3,
+     "winRate": 55.2,
+     "games": 4149,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Gnawing Vermin",
+     "inclusion": 16.5,
+     "winRate": 54.9,
+     "games": 9159,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Thraxodemon",
+     "inclusion": 38.9,
+     "winRate": 54.8,
+     "games": 21788,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Go for the Throat",
+     "inclusion": 23.3,
+     "winRate": 54.8,
+     "games": 12957,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Haywire Mite",
+     "inclusion": 10.0,
+     "winRate": 54.8,
+     "games": 5685,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Fauna Shaman",
+     "inclusion": 6.9,
+     "winRate": 54.8,
+     "games": 3852,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Razorlash Transmogrant",
+     "inclusion": 5.5,
+     "winRate": 54.8,
+     "games": 3052,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Citanul Stalwart",
+     "inclusion": 24.6,
+     "winRate": 54.7,
+     "games": 13561,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 8.8,
+     "winRate": 54.6,
+     "games": 4906,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Giant Growth",
+     "inclusion": 20.0,
+     "winRate": 54.5,
+     "games": 11165,
+     "trophyInclusion": 19.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-11-16",
+    "main": [
+     [
+      1,
+      "Alloy Animist"
+     ],
+     [
+      1,
+      "Argothian Opportunist"
+     ],
+     [
+      1,
+      "Blanchwood Prowler"
+     ],
+     [
+      1,
+      "Boulderbranch Golem"
+     ],
+     [
+      1,
+      "Burrowing Razormaw"
+     ],
+     [
+      1,
+      "Combat Thresher"
+     ],
+     [
+      1,
+      "Cradle Clearcutter"
+     ],
+     [
+      1,
+      "Disfigure"
+     ],
+     [
+      1,
+      "Emergency Weld"
+     ],
+     [
+      1,
+      "Epic Confrontation"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gnarlroot Pallbearer"
+     ],
+     [
+      1,
+      "Gruesome Realization"
+     ],
+     [
+      1,
+      "Ichor Wellspring"
+     ],
+     [
+      1,
+      "Mask of the Jadecrafter"
+     ],
+     [
+      1,
+      "Moment of Defiance"
+     ],
+     [
+      1,
+      "Overwhelming Remorse"
+     ],
+     [
+      2,
+      "Powerstone Fracture"
+     ],
+     [
+      1,
+      "Ravenous Gigamole"
+     ],
+     [
+      1,
+      "Razorlash Transmogrant"
+     ],
+     [
+      1,
+      "Shoot Down"
+     ],
+     [
+      1,
+      "Skyfisher Spider"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thraxodemon"
+     ],
+     [
+      1,
+      "Tocasia's Dig Site"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ashnod's Intervention"
+     ],
+     [
+      1,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Cradle Clearcutter"
+     ],
+     [
+      1,
+      "Desynchronize"
+     ],
+     [
+      1,
+      "Dwarven Forge-Chanter"
+     ],
+     [
+      1,
+      "Emergency Weld"
+     ],
+     [
+      1,
+      "Energy Refractor"
+     ],
+     [
+      1,
+      "Flow of Knowledge"
+     ],
+     [
+      1,
+      "Gix's Caress"
+     ],
+     [
+      1,
+      "Gnarlroot Pallbearer"
+     ],
+     [
+      1,
+      "Mightstone's Animation"
+     ],
+     [
+      1,
+      "Power Plant Worker"
+     ],
+     [
+      1,
+      "Ravenous Gigamole"
+     ],
+     [
+      1,
+      "Reconstructed Thopter"
+     ],
+     [
+      1,
+      "Supply Drop"
+     ],
+     [
+      1,
+      "Tomakul Honor Guard"
+     ],
+     [
+      1,
+      "Transmogrant Altar"
+     ],
+     [
+      2,
+      "Trench Stalker"
+     ],
+     [
+      1,
+      "Union of the Third Path"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 54353,
+   "wins": 31519,
+   "winRate": 57.99,
+   "share": 10.01,
+   "drafts": 8919,
+   "trophies": 1412,
+   "cards": [
+    {
+     "name": "Siege Veteran",
+     "inclusion": 8.7,
+     "winRate": 62.5,
+     "games": 5054,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Tyrant of Kher Ridges",
+     "inclusion": 7.9,
+     "winRate": 61.6,
+     "games": 4534,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 6.8,
+     "winRate": 61.1,
+     "games": 3865,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Loran of the Third Path",
+     "inclusion": 8.0,
+     "winRate": 61.0,
+     "games": 4542,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Phyrexian Dragon Engine",
+     "inclusion": 6.5,
+     "winRate": 60.8,
+     "games": 3621,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Static Net",
+     "inclusion": 23.7,
+     "winRate": 60.2,
+     "games": 13290,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Steel Seraph",
+     "inclusion": 6.4,
+     "winRate": 60.2,
+     "games": 3586,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Horned Stoneseeker",
+     "inclusion": 29.8,
+     "winRate": 60.0,
+     "games": 16635,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Recruitment Officer",
+     "inclusion": 29.3,
+     "winRate": 59.9,
+     "games": 16446,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 57.3,
+     "winRate": 59.8,
+     "games": 31938,
+     "trophyInclusion": 66.3
+    },
+    {
+     "name": "Mishra's Command",
+     "inclusion": 8.6,
+     "winRate": 59.6,
+     "games": 4767,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Giant Cindermaw",
+     "inclusion": 29.1,
+     "winRate": 59.5,
+     "games": 16196,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Mishra's Bauble",
+     "inclusion": 7.0,
+     "winRate": 59.5,
+     "games": 3948,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 59.7,
+     "winRate": 59.4,
+     "games": 33098,
+     "trophyInclusion": 66.4
+    },
+    {
+     "name": "Mishra's Research Desk",
+     "inclusion": 23.6,
+     "winRate": 59.2,
+     "games": 13036,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Prison Sentence",
+     "inclusion": 52.8,
+     "winRate": 59.1,
+     "games": 29070,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Obliterating Bolt",
+     "inclusion": 24.9,
+     "winRate": 59.1,
+     "games": 13746,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Combat Thresher",
+     "inclusion": 22.3,
+     "winRate": 59.1,
+     "games": 12265,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.7,
+     "winRate": 59.0,
+     "games": 15749,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Reconstructed Thopter",
+     "inclusion": 14.5,
+     "winRate": 59.0,
+     "games": 7929,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Ambush Paratrooper",
+     "inclusion": 56.0,
+     "winRate": 58.8,
+     "games": 30888,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Fallaji Vanguard",
+     "inclusion": 49.1,
+     "winRate": 58.8,
+     "games": 26938,
+     "trophyInclusion": 53.4
+    },
+    {
+     "name": "Airlift Chaplain",
+     "inclusion": 54.4,
+     "winRate": 58.7,
+     "games": 30027,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Penregon Strongbull",
+     "inclusion": 47.3,
+     "winRate": 58.7,
+     "games": 26054,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Excavation Explosion",
+     "inclusion": 55.6,
+     "winRate": 58.6,
+     "games": 30542,
+     "trophyInclusion": 57.2
+    },
+    {
+     "name": "Feldon, Ronom Excavator",
+     "inclusion": 9.8,
+     "winRate": 58.6,
+     "games": 5340,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 18.2,
+     "winRate": 58.5,
+     "games": 10053,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Whirling Strike",
+     "inclusion": 51.2,
+     "winRate": 58.4,
+     "games": 28143,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Roc Hunter",
+     "inclusion": 46.5,
+     "winRate": 58.4,
+     "games": 25358,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Military Discipline",
+     "inclusion": 31.9,
+     "winRate": 58.4,
+     "games": 17474,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Aeronaut Cavalry",
+     "inclusion": 46.1,
+     "winRate": 58.3,
+     "games": 25238,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Yotian Frontliner",
+     "inclusion": 21.1,
+     "winRate": 58.3,
+     "games": 11491,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Visions of Phyrexia",
+     "inclusion": 7.5,
+     "winRate": 58.3,
+     "games": 4116,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 9.6,
+     "winRate": 58.2,
+     "games": 5185,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Kayla's Command",
+     "inclusion": 8.0,
+     "winRate": 58.1,
+     "games": 4383,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Soul Partition",
+     "inclusion": 5.0,
+     "winRate": 58.1,
+     "games": 2744,
+     "trophyInclusion": 5.1
+    },
+    {
+     "name": "Goblin Blast-Runner",
+     "inclusion": 21.3,
+     "winRate": 58.0,
+     "games": 11544,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Phalanx Vanguard",
+     "inclusion": 53.2,
+     "winRate": 57.9,
+     "games": 28971,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Loran's Escape",
+     "inclusion": 29.7,
+     "winRate": 57.9,
+     "games": 16188,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Bitter Reunion",
+     "inclusion": 30.6,
+     "winRate": 57.8,
+     "games": 16565,
+     "trophyInclusion": 29.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-11-23",
+    "main": [
+     [
+      1,
+      "Aeronaut Cavalry"
+     ],
+     [
+      1,
+      "Aeronaut's Wings"
+     ],
+     [
+      1,
+      "Airlift Chaplain"
+     ],
+     [
+      1,
+      "Ambush Paratrooper"
+     ],
+     [
+      1,
+      "Blitz Automaton"
+     ],
+     [
+      1,
+      "Combat Thresher"
+     ],
+     [
+      1,
+      "Conscripted Infantry"
+     ],
+     [
+      1,
+      "Disenchant"
+     ],
+     [
+      1,
+      "Excavation Explosion"
+     ],
+     [
+      1,
+      "Fallaji Vanguard"
+     ],
+     [
+      1,
+      "Giant Cindermaw"
+     ],
+     [
+      1,
+      "Loran's Escape"
+     ],
+     [
+      1,
+      "Military Discipline"
+     ],
+     [
+      1,
+      "Mishra's Juggernaut"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Obliterating Bolt"
+     ],
+     [
+      1,
+      "Penregon Strongbull"
+     ],
+     [
+      1,
+      "Phalanx Vanguard"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Recruitment Officer"
+     ],
+     [
+      2,
+      "Roc Hunter"
+     ],
+     [
+      1,
+      "Scrapwork Mutt"
+     ],
+     [
+      1,
+      "Siege Veteran"
+     ],
+     [
+      1,
+      "Sigil of Valor"
+     ],
+     [
+      1,
+      "Whirling Strike"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aeronaut's Wings"
+     ],
+     [
+      1,
+      "Ambush Paratrooper"
+     ],
+     [
+      2,
+      "Combat Courier"
+     ],
+     [
+      1,
+      "Disenchant"
+     ],
+     [
+      1,
+      "Door to Nothingness"
+     ],
+     [
+      1,
+      "Forging the Anchor"
+     ],
+     [
+      1,
+      "Kayla's Reconstruction"
+     ],
+     [
+      1,
+      "Military Discipline"
+     ],
+     [
+      1,
+      "Mishra's Bauble"
+     ],
+     [
+      2,
+      "Mishra's Domination"
+     ],
+     [
+      2,
+      "Raze to the Ground"
+     ],
+     [
+      1,
+      "Roc Hunter"
+     ],
+     [
+      1,
+      "Sibling Rivalry"
+     ],
+     [
+      1,
+      "Supply Drop"
+     ],
+     [
+      1,
+      "Swiftgear Drake"
+     ],
+     [
+      1,
+      "Thran Power Suit"
+     ],
+     [
+      1,
+      "Urza's Rebuff"
+     ],
+     [
+      1,
+      "Wasteful Harvest"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 45796,
+   "wins": 25275,
+   "winRate": 55.19,
+   "share": 8.44,
+   "drafts": 7824,
+   "trophies": 966,
+   "cards": [
+    {
+     "name": "Steel Seraph",
+     "inclusion": 6.9,
+     "winRate": 59.6,
+     "games": 3344,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Siege Veteran",
+     "inclusion": 7.6,
+     "winRate": 59.5,
+     "games": 3748,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Titania's Command",
+     "inclusion": 10.4,
+     "winRate": 59.4,
+     "games": 5036,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Autonomous Assembler",
+     "inclusion": 6.7,
+     "winRate": 58.6,
+     "games": 3217,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Loran of the Third Path",
+     "inclusion": 8.4,
+     "winRate": 58.4,
+     "games": 4004,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Static Net",
+     "inclusion": 25.4,
+     "winRate": 57.9,
+     "games": 12044,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Recruitment Officer",
+     "inclusion": 21.2,
+     "winRate": 57.7,
+     "games": 10146,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Simian Simulacrum",
+     "inclusion": 8.2,
+     "winRate": 57.7,
+     "games": 3820,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 5.2,
+     "winRate": 57.3,
+     "games": 2448,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 53.9,
+     "winRate": 57.1,
+     "games": 25283,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Mask of the Jadecrafter",
+     "inclusion": 23.5,
+     "winRate": 57.1,
+     "games": 11153,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 14.7,
+     "winRate": 56.9,
+     "games": 6829,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Ambush Paratrooper",
+     "inclusion": 40.5,
+     "winRate": 56.8,
+     "games": 19024,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Airlift Chaplain",
+     "inclusion": 44.4,
+     "winRate": 56.7,
+     "games": 20792,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Blanchwood Prowler",
+     "inclusion": 34.5,
+     "winRate": 56.6,
+     "games": 16107,
+     "trophyInclusion": 38.6
+    },
+    {
+     "name": "Aeronaut Cavalry",
+     "inclusion": 31.5,
+     "winRate": 56.6,
+     "games": 14632,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Hero of the Dunes",
+     "inclusion": 5.1,
+     "winRate": 56.6,
+     "games": 2424,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Argothian Opportunist",
+     "inclusion": 56.9,
+     "winRate": 56.3,
+     "games": 26396,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Gaea's Gift",
+     "inclusion": 51.2,
+     "winRate": 56.3,
+     "games": 23867,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Combat Thresher",
+     "inclusion": 23.7,
+     "winRate": 56.3,
+     "games": 10959,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 19.3,
+     "winRate": 56.3,
+     "games": 8971,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Teething Wurmlet",
+     "inclusion": 9.1,
+     "winRate": 56.3,
+     "games": 4263,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.9,
+     "winRate": 56.2,
+     "games": 13424,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Obstinate Baloth",
+     "inclusion": 22.7,
+     "winRate": 56.1,
+     "games": 10500,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Argothian Sprite",
+     "inclusion": 50.9,
+     "winRate": 56.0,
+     "games": 23665,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 7.2,
+     "winRate": 56.0,
+     "games": 3360,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Prison Sentence",
+     "inclusion": 51.7,
+     "winRate": 55.9,
+     "games": 23931,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Loran's Escape",
+     "inclusion": 24.2,
+     "winRate": 55.9,
+     "games": 11155,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Tocasia's Welcome",
+     "inclusion": 6.8,
+     "winRate": 55.7,
+     "games": 3101,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Citanul Stalwart",
+     "inclusion": 30.6,
+     "winRate": 55.6,
+     "games": 13950,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Clay Champion",
+     "inclusion": 6.2,
+     "winRate": 55.5,
+     "games": 2846,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Sarinth Steelseeker",
+     "inclusion": 26.1,
+     "winRate": 55.4,
+     "games": 12042,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Kayla's Command",
+     "inclusion": 8.1,
+     "winRate": 55.4,
+     "games": 3703,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Epic Confrontation",
+     "inclusion": 52.8,
+     "winRate": 55.3,
+     "games": 24346,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Giant Growth",
+     "inclusion": 31.0,
+     "winRate": 55.3,
+     "games": 14220,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Military Discipline",
+     "inclusion": 13.0,
+     "winRate": 55.3,
+     "games": 5988,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Haywire Mite",
+     "inclusion": 11.5,
+     "winRate": 55.3,
+     "games": 5249,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Burrowing Razormaw",
+     "inclusion": 8.4,
+     "winRate": 55.3,
+     "games": 3843,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Phalanx Vanguard",
+     "inclusion": 39.3,
+     "winRate": 55.2,
+     "games": 17948,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Reconstructed Thopter",
+     "inclusion": 12.7,
+     "winRate": 55.2,
+     "games": 5821,
+     "trophyInclusion": 12.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-12-03",
+    "main": [
+     [
+      1,
+      "Ambush Paratrooper"
+     ],
+     [
+      1,
+      "Argothian Opportunist"
+     ],
+     [
+      1,
+      "Blanchwood Prowler"
+     ],
+     [
+      1,
+      "Boulderbranch Golem"
+     ],
+     [
+      1,
+      "Bushwhack"
+     ],
+     [
+      1,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Cradle Clearcutter"
+     ],
+     [
+      1,
+      "Disenchant"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Gift"
+     ],
+     [
+      1,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Loran's Escape"
+     ],
+     [
+      1,
+      "Perimeter Patrol"
+     ],
+     [
+      1,
+      "Phalanx Vanguard"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Powerstone Engineer"
+     ],
+     [
+      1,
+      "Prison Sentence"
+     ],
+     [
+      1,
+      "Scrapwork Cohort"
+     ],
+     [
+      1,
+      "Scrapwork Mutt"
+     ],
+     [
+      1,
+      "Shoot Down"
+     ],
+     [
+      1,
+      "Soul Partition"
+     ],
+     [
+      1,
+      "Steel Seraph"
+     ],
+     [
+      1,
+      "Titania's Command"
+     ],
+     [
+      1,
+      "Tocasia's Dig Site"
+     ],
+     [
+      1,
+      "Tocasia's Welcome"
+     ],
+     [
+      1,
+      "Warlord's Elite"
+     ],
+     [
+      1,
+      "Yotian Frontliner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aeronaut's Wings"
+     ],
+     [
+      1,
+      "Blitz Automaton"
+     ],
+     [
+      1,
+      "Burrowing Razormaw"
+     ],
+     [
+      1,
+      "Deadly Riposte"
+     ],
+     [
+      1,
+      "Fallaji Vanguard"
+     ],
+     [
+      1,
+      "Gnarlroot Pallbearer"
+     ],
+     [
+      1,
+      "Goblin Firebomb"
+     ],
+     [
+      1,
+      "Hoarding Recluse"
+     ],
+     [
+      1,
+      "Military Discipline"
+     ],
+     [
+      1,
+      "Mishra's Juggernaut"
+     ],
+     [
+      1,
+      "Repair and Recharge"
+     ],
+     [
+      1,
+      "Roc Hunter"
+     ],
+     [
+      1,
+      "Sigil of Valor"
+     ],
+     [
+      1,
+      "Supply Drop"
+     ],
+     [
+      2,
+      "Swiftgear Drake"
+     ],
+     [
+      1,
+      "Symmetry Matrix"
+     ],
+     [
+      1,
+      "Tawnos's Tinkering"
+     ],
+     [
+      1,
+      "Unleash Shell"
+     ],
+     [
+      1,
+      "Veteran's Powerblade"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 44073,
+   "wins": 24809,
+   "winRate": 56.29,
+   "share": 8.12,
+   "drafts": 7368,
+   "trophies": 998,
+   "cards": [
+    {
+     "name": "Titania's Command",
+     "inclusion": 10.5,
+     "winRate": 60.9,
+     "games": 4918,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Simian Simulacrum",
+     "inclusion": 7.3,
+     "winRate": 59.6,
+     "games": 3425,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 5.3,
+     "winRate": 59.3,
+     "games": 2473,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Tyrant of Kher Ridges",
+     "inclusion": 9.1,
+     "winRate": 59.2,
+     "games": 4155,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Skyfisher Spider",
+     "inclusion": 6.1,
+     "winRate": 58.3,
+     "games": 2740,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Feldon, Ronom Excavator",
+     "inclusion": 8.3,
+     "winRate": 58.2,
+     "games": 3782,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Phyrexian Dragon Engine",
+     "inclusion": 6.6,
+     "winRate": 58.0,
+     "games": 2980,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 53.9,
+     "winRate": 57.8,
+     "games": 24291,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Horned Stoneseeker",
+     "inclusion": 30.3,
+     "winRate": 57.8,
+     "games": 13667,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 10.9,
+     "winRate": 57.7,
+     "games": 4924,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Visions of Phyrexia",
+     "inclusion": 9.5,
+     "winRate": 57.5,
+     "games": 4261,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Gaea's Gift",
+     "inclusion": 56.4,
+     "winRate": 57.4,
+     "games": 25210,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Obstinate Baloth",
+     "inclusion": 27.0,
+     "winRate": 57.4,
+     "games": 12051,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Mask of the Jadecrafter",
+     "inclusion": 23.1,
+     "winRate": 57.4,
+     "games": 10289,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Arbalest Engineers",
+     "inclusion": 53.3,
+     "winRate": 57.3,
+     "games": 23919,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Giant Cindermaw",
+     "inclusion": 28.1,
+     "winRate": 57.3,
+     "games": 12659,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Teething Wurmlet",
+     "inclusion": 8.7,
+     "winRate": 57.3,
+     "games": 3892,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Excavation Explosion",
+     "inclusion": 60.5,
+     "winRate": 57.1,
+     "games": 26905,
+     "trophyInclusion": 65.9
+    },
+    {
+     "name": "Argothian Opportunist",
+     "inclusion": 57.8,
+     "winRate": 57.1,
+     "games": 25733,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Mishra's Research Desk",
+     "inclusion": 21.4,
+     "winRate": 57.1,
+     "games": 9584,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Mishra's Command",
+     "inclusion": 8.6,
+     "winRate": 57.1,
+     "games": 3838,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Hajar, Loyal Bodyguard",
+     "inclusion": 16.7,
+     "winRate": 57.0,
+     "games": 7460,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Obliterating Bolt",
+     "inclusion": 26.6,
+     "winRate": 56.9,
+     "games": 11794,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 16.8,
+     "winRate": 56.9,
+     "games": 7560,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Giant Growth",
+     "inclusion": 40.8,
+     "winRate": 56.8,
+     "games": 18243,
+     "trophyInclusion": 41.1
+    },
+    {
+     "name": "Blanchwood Prowler",
+     "inclusion": 39.3,
+     "winRate": 56.8,
+     "games": 17486,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Audacity",
+     "inclusion": 22.0,
+     "winRate": 56.8,
+     "games": 9860,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Goblin Blast-Runner",
+     "inclusion": 14.5,
+     "winRate": 56.8,
+     "games": 6392,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Whirling Strike",
+     "inclusion": 37.5,
+     "winRate": 56.7,
+     "games": 16731,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Monastery Swiftspear",
+     "inclusion": 11.7,
+     "winRate": 56.7,
+     "games": 5220,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 33.8,
+     "winRate": 56.6,
+     "games": 14877,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Argothian Sprite",
+     "inclusion": 57.0,
+     "winRate": 56.5,
+     "games": 25244,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Mishra's Juggernaut",
+     "inclusion": 38.2,
+     "winRate": 56.5,
+     "games": 16876,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Alloy Animist",
+     "inclusion": 12.0,
+     "winRate": 56.4,
+     "games": 5296,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Epic Confrontation",
+     "inclusion": 55.6,
+     "winRate": 56.3,
+     "games": 24549,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Boulderbranch Golem",
+     "inclusion": 48.6,
+     "winRate": 56.3,
+     "games": 21441,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Penregon Strongbull",
+     "inclusion": 41.3,
+     "winRate": 56.3,
+     "games": 18226,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Perimeter Patrol",
+     "inclusion": 30.9,
+     "winRate": 56.3,
+     "games": 13572,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Bitter Reunion",
+     "inclusion": 25.9,
+     "winRate": 56.3,
+     "games": 11479,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Reconstructed Thopter",
+     "inclusion": 8.7,
+     "winRate": 56.3,
+     "games": 3829,
+     "trophyInclusion": 9.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-12-02",
+    "main": [
+     [
+      2,
+      "Arbalest Engineers"
+     ],
+     [
+      1,
+      "Argothian Sprite"
+     ],
+     [
+      1,
+      "Audacity"
+     ],
+     [
+      1,
+      "Blitz Automaton"
+     ],
+     [
+      1,
+      "Conscripted Infantry"
+     ],
+     [
+      1,
+      "Epic Confrontation"
+     ],
+     [
+      1,
+      "Excavation Explosion"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Courser"
+     ],
+     [
+      1,
+      "Gaea's Gift"
+     ],
+     [
+      1,
+      "Horned Stoneseeker"
+     ],
+     [
+      1,
+      "Mishra's Juggernaut"
+     ],
+     [
+      1,
+      "Monastery Swiftspear"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Obliterating Bolt"
+     ],
+     [
+      1,
+      "Obstinate Baloth"
+     ],
+     [
+      1,
+      "Raze to the Ground"
+     ],
+     [
+      1,
+      "Roc Hunter"
+     ],
+     [
+      1,
+      "Runechanter's Pike"
+     ],
+     [
+      1,
+      "Sarinth Steelseeker"
+     ],
+     [
+      1,
+      "Scrapwork Mutt"
+     ],
+     [
+      1,
+      "Shoot Down"
+     ],
+     [
+      1,
+      "Sibling Rivalry"
+     ],
+     [
+      1,
+      "Tomakul Honor Guard"
+     ],
+     [
+      1,
+      "Unleash Shell"
+     ],
+     [
+      1,
+      "Whirling Strike"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aeronaut's Wings"
+     ],
+     [
+      1,
+      "Bitter Reunion"
+     ],
+     [
+      1,
+      "Blanchwood Armor"
+     ],
+     [
+      1,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Conscripted Infantry"
+     ],
+     [
+      1,
+      "Flow of Knowledge"
+     ],
+     [
+      1,
+      "Involuntary Cooldown"
+     ],
+     [
+      1,
+      "Lodestone Golem"
+     ],
+     [
+      1,
+      "Machine Over Matter"
+     ],
+     [
+      1,
+      "Mass Production"
+     ],
+     [
+      1,
+      "Penregon Strongbull"
+     ],
+     [
+      1,
+      "Raze to the Ground"
+     ],
+     [
+      1,
+      "Retrieval Agent"
+     ],
+     [
+      1,
+      "Roc Hunter"
+     ],
+     [
+      1,
+      "Scrapwork Rager"
+     ],
+     [
+      1,
+      "Shoot Down"
+     ],
+     [
+      1,
+      "Tawnos's Tinkering"
+     ],
+     [
+      1,
+      "Third Path Iconoclast"
+     ],
+     [
+      1,
+      "Thran Power Suit"
+     ],
+     [
+      1,
+      "Tocasia, Dig Site Mentor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 40651,
+   "wins": 22054,
+   "winRate": 54.25,
+   "share": 7.49,
+   "drafts": 7067,
+   "trophies": 808,
+   "cards": [
+    {
+     "name": "Gix's Command",
+     "inclusion": 8.4,
+     "winRate": 59.6,
+     "games": 3639,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 7.3,
+     "winRate": 57.5,
+     "games": 3093,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Thopter Mechanic",
+     "inclusion": 36.2,
+     "winRate": 56.9,
+     "games": 15283,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Zephyr Sentinel",
+     "inclusion": 22.8,
+     "winRate": 56.6,
+     "games": 9584,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 14.9,
+     "winRate": 56.6,
+     "games": 6245,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Misery's Shadow",
+     "inclusion": 7.7,
+     "winRate": 56.6,
+     "games": 3227,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Moment of Defiance",
+     "inclusion": 37.8,
+     "winRate": 56.1,
+     "games": 15886,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Skystrike Officer",
+     "inclusion": 7.0,
+     "winRate": 56.1,
+     "games": 2935,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 18.7,
+     "winRate": 56.0,
+     "games": 7893,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Ashnod, Flesh Mechanist",
+     "inclusion": 7.2,
+     "winRate": 55.9,
+     "games": 3011,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Underground River",
+     "inclusion": 7.1,
+     "winRate": 55.9,
+     "games": 2992,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Gix's Caress",
+     "inclusion": 33.8,
+     "winRate": 55.7,
+     "games": 14133,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Gixian Puppeteer",
+     "inclusion": 12.3,
+     "winRate": 55.7,
+     "games": 5048,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Evangel of Synthesis",
+     "inclusion": 57.0,
+     "winRate": 55.6,
+     "games": 23700,
+     "trophyInclusion": 66.0
+    },
+    {
+     "name": "Disfigure",
+     "inclusion": 52.6,
+     "winRate": 55.6,
+     "games": 21786,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Ichor Wellspring",
+     "inclusion": 17.2,
+     "winRate": 55.6,
+     "games": 7125,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Urza's Command",
+     "inclusion": 8.9,
+     "winRate": 55.6,
+     "games": 3654,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 56.7,
+     "winRate": 55.5,
+     "games": 23383,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Energy Refractor",
+     "inclusion": 33.8,
+     "winRate": 55.4,
+     "games": 14001,
+     "trophyInclusion": 38.6
+    },
+    {
+     "name": "Go for the Throat",
+     "inclusion": 24.1,
+     "winRate": 55.3,
+     "games": 9982,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Fallaji Archaeologist",
+     "inclusion": 22.7,
+     "winRate": 55.3,
+     "games": 9346,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Teferi, Temporal Pilgrim",
+     "inclusion": 6.0,
+     "winRate": 55.3,
+     "games": 2453,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Mightstone's Animation",
+     "inclusion": 48.3,
+     "winRate": 55.2,
+     "games": 19962,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 30.8,
+     "winRate": 55.2,
+     "games": 12673,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Elsewhere Flask",
+     "inclusion": 17.8,
+     "winRate": 55.2,
+     "games": 7273,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Overwhelming Remorse",
+     "inclusion": 54.0,
+     "winRate": 55.0,
+     "games": 22180,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 17.1,
+     "winRate": 55.0,
+     "games": 7126,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Desynchronize",
+     "inclusion": 14.5,
+     "winRate": 55.0,
+     "games": 5999,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Gnawing Vermin",
+     "inclusion": 9.8,
+     "winRate": 55.0,
+     "games": 4004,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Boulderbranch Golem",
+     "inclusion": 5.3,
+     "winRate": 55.0,
+     "games": 2182,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Emergency Weld",
+     "inclusion": 41.4,
+     "winRate": 54.7,
+     "games": 16864,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Mishra's Bauble",
+     "inclusion": 9.6,
+     "winRate": 54.7,
+     "games": 3917,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Trench Stalker",
+     "inclusion": 59.3,
+     "winRate": 54.6,
+     "games": 24287,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Stern Lesson",
+     "inclusion": 57.2,
+     "winRate": 54.6,
+     "games": 23316,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Machine Over Matter",
+     "inclusion": 20.8,
+     "winRate": 54.6,
+     "games": 8534,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Levitating Statue",
+     "inclusion": 14.5,
+     "winRate": 54.6,
+     "games": 6026,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Gurgling Anointer",
+     "inclusion": 35.4,
+     "winRate": 54.5,
+     "games": 14506,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Wing Commando",
+     "inclusion": 36.8,
+     "winRate": 54.3,
+     "games": 15029,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Weakstone's Subjugation",
+     "inclusion": 48.8,
+     "winRate": 54.2,
+     "games": 19858,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Scrapwork Rager",
+     "inclusion": 47.4,
+     "winRate": 54.2,
+     "games": 19317,
+     "trophyInclusion": 47.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-12-11",
+    "main": [
+     [
+      1,
+      "Battlefield Butcher"
+     ],
+     [
+      1,
+      "Combat Courier"
+     ],
+     [
+      1,
+      "Curate"
+     ],
+     [
+      1,
+      "Disfigure"
+     ],
+     [
+      1,
+      "Emergency Weld"
+     ],
+     [
+      1,
+      "Energy Refractor"
+     ],
+     [
+      2,
+      "Evangel of Synthesis"
+     ],
+     [
+      1,
+      "Go for the Throat"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Koilos Roc"
+     ],
+     [
+      1,
+      "Levitating Statue"
+     ],
+     [
+      1,
+      "Mightstone's Animation"
+     ],
+     [
+      1,
+      "Overwhelming Remorse"
+     ],
+     [
+      1,
+      "Powerstone Fracture"
+     ],
+     [
+      1,
+      "Ravenous Gigamole"
+     ],
+     [
+      1,
+      "Reconstructed Thopter"
+     ],
+     [
+      1,
+      "Scrapwork Rager"
+     ],
+     [
+      1,
+      "Stern Lesson"
+     ],
+     [
+      1,
+      "Surge Engine"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Third Path Savant"
+     ],
+     [
+      1,
+      "Trench Stalker"
+     ],
+     [
+      2,
+      "Weakstone's Subjugation"
+     ],
+     [
+      1,
+      "Wing Commando"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Air Marshal"
+     ],
+     [
+      1,
+      "Battlefield Butcher"
+     ],
+     [
+      1,
+      "Bone Saw"
+     ],
+     [
+      1,
+      "Coastal Bulwark"
+     ],
+     [
+      1,
+      "Depth Charge Colossus"
+     ],
+     [
+      1,
+      "Dredging Claw"
+     ],
+     [
+      1,
+      "Fallaji Archaeologist"
+     ],
+     [
+      1,
+      "Fog of War"
+     ],
+     [
+      1,
+      "Gaea's Gift"
+     ],
+     [
+      1,
+      "Giant Growth"
+     ],
+     [
+      1,
+      "Gruesome Realization"
+     ],
+     [
+      1,
+      "Lat-Nam Adept"
+     ],
+     [
+      1,
+      "Machine Over Matter"
+     ],
+     [
+      1,
+      "Mightstone's Animation"
+     ],
+     [
+      1,
+      "Queen Kayla bin-Kroog"
+     ],
+     [
+      1,
+      "Scatter Ray"
+     ],
+     [
+      1,
+      "Thraxodemon"
+     ],
+     [
+      1,
+      "Tomakul Scrapsmith"
+     ],
+     [
+      1,
+      "Transmogrant Altar"
+     ],
+     [
+      1,
+      "Urza's Rebuff"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 38235,
+   "wins": 21703,
+   "winRate": 56.76,
+   "share": 7.04,
+   "drafts": 6412,
+   "trophies": 997,
+   "cards": [
+    {
+     "name": "Tyrant of Kher Ridges",
+     "inclusion": 8.0,
+     "winRate": 62.5,
+     "games": 3301,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Skystrike Officer",
+     "inclusion": 7.9,
+     "winRate": 60.7,
+     "games": 3192,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Mishra's Research Desk",
+     "inclusion": 25.7,
+     "winRate": 59.3,
+     "games": 10077,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Springleaf Drum",
+     "inclusion": 5.4,
+     "winRate": 59.3,
+     "games": 2143,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Phyrexian Dragon Engine",
+     "inclusion": 6.1,
+     "winRate": 58.8,
+     "games": 2394,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 10.5,
+     "winRate": 58.6,
+     "games": 4029,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 50.2,
+     "winRate": 58.5,
+     "games": 19633,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Zephyr Sentinel",
+     "inclusion": 25.2,
+     "winRate": 58.4,
+     "games": 9905,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Third Path Iconoclast",
+     "inclusion": 62.5,
+     "winRate": 58.2,
+     "games": 24369,
+     "trophyInclusion": 70.1
+    },
+    {
+     "name": "Obliterating Bolt",
+     "inclusion": 27.8,
+     "winRate": 58.2,
+     "games": 10871,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Goblin Blast-Runner",
+     "inclusion": 15.3,
+     "winRate": 58.2,
+     "games": 5892,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Urza's Command",
+     "inclusion": 9.1,
+     "winRate": 58.2,
+     "games": 3510,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Thopter Mechanic",
+     "inclusion": 29.0,
+     "winRate": 58.1,
+     "games": 11235,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Horned Stoneseeker",
+     "inclusion": 26.7,
+     "winRate": 58.1,
+     "games": 10503,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Elsewhere Flask",
+     "inclusion": 16.2,
+     "winRate": 58.1,
+     "games": 6427,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 48.7,
+     "winRate": 57.8,
+     "games": 18836,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Machine Over Matter",
+     "inclusion": 41.2,
+     "winRate": 57.8,
+     "games": 16132,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Giant Cindermaw",
+     "inclusion": 23.8,
+     "winRate": 57.8,
+     "games": 9234,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Saheeli, Filigree Master",
+     "inclusion": 9.8,
+     "winRate": 57.8,
+     "games": 3762,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Mightstone's Animation",
+     "inclusion": 58.3,
+     "winRate": 57.7,
+     "games": 22522,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Excavation Explosion",
+     "inclusion": 60.5,
+     "winRate": 57.6,
+     "games": 23403,
+     "trophyInclusion": 65.2
+    },
+    {
+     "name": "Levitating Statue",
+     "inclusion": 24.6,
+     "winRate": 57.6,
+     "games": 9573,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Mishra's Bauble",
+     "inclusion": 12.1,
+     "winRate": 57.6,
+     "games": 4637,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Feldon, Ronom Excavator",
+     "inclusion": 6.9,
+     "winRate": 57.6,
+     "games": 2660,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Stern Lesson",
+     "inclusion": 56.8,
+     "winRate": 57.5,
+     "games": 21878,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Penregon Strongbull",
+     "inclusion": 44.1,
+     "winRate": 57.5,
+     "games": 17047,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Energy Refractor",
+     "inclusion": 33.0,
+     "winRate": 57.5,
+     "games": 12762,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Desynchronize",
+     "inclusion": 19.4,
+     "winRate": 57.3,
+     "games": 7520,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Fallaji Archaeologist",
+     "inclusion": 21.0,
+     "winRate": 57.2,
+     "games": 8092,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 20.0,
+     "winRate": 57.2,
+     "games": 7688,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Ichor Wellspring",
+     "inclusion": 14.6,
+     "winRate": 57.1,
+     "games": 5651,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Bitter Reunion",
+     "inclusion": 34.5,
+     "winRate": 57.0,
+     "games": 13270,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 31.6,
+     "winRate": 57.0,
+     "games": 12200,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Weakstone's Subjugation",
+     "inclusion": 54.2,
+     "winRate": 56.9,
+     "games": 20699,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Unleash Shell",
+     "inclusion": 48.7,
+     "winRate": 56.9,
+     "games": 18633,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Whirling Strike",
+     "inclusion": 38.2,
+     "winRate": 56.8,
+     "games": 14672,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Curate",
+     "inclusion": 29.4,
+     "winRate": 56.8,
+     "games": 11202,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Urza's Rebuff",
+     "inclusion": 17.7,
+     "winRate": 56.7,
+     "games": 6725,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Monastery Swiftspear",
+     "inclusion": 23.0,
+     "winRate": 56.6,
+     "games": 8731,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Supply Drop",
+     "inclusion": 8.1,
+     "winRate": 56.6,
+     "games": 3110,
+     "trophyInclusion": 7.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-12-03",
+    "main": [
+     [
+      1,
+      "Bitter Reunion"
+     ],
+     [
+      1,
+      "Combat Courier"
+     ],
+     [
+      1,
+      "Curate"
+     ],
+     [
+      2,
+      "Energy Refractor"
+     ],
+     [
+      2,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Giant Cindermaw"
+     ],
+     [
+      2,
+      "Goblin Blast-Runner"
+     ],
+     [
+      1,
+      "Horned Stoneseeker"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Koilos Roc"
+     ],
+     [
+      1,
+      "Levitating Statue"
+     ],
+     [
+      1,
+      "Machine Over Matter"
+     ],
+     [
+      2,
+      "Mightstone's Animation"
+     ],
+     [
+      1,
+      "Mishra's Research Desk"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Penregon Strongbull"
+     ],
+     [
+      1,
+      "Stern Lesson"
+     ],
+     [
+      1,
+      "Take Flight"
+     ],
+     [
+      1,
+      "Third Path Iconoclast"
+     ],
+     [
+      1,
+      "Thopter Mechanic"
+     ],
+     [
+      1,
+      "Tyrant of Kher Ridges"
+     ],
+     [
+      1,
+      "Weakstone's Subjugation"
+     ],
+     [
+      1,
+      "Whirling Strike"
+     ],
+     [
+      1,
+      "Wing Commando"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Conscripted Infantry"
+     ],
+     [
+      1,
+      "Curate"
+     ],
+     [
+      1,
+      "Defabricate"
+     ],
+     [
+      1,
+      "Desynchronize"
+     ],
+     [
+      2,
+      "Fallaji Archaeologist"
+     ],
+     [
+      1,
+      "Fallaji Chaindancer"
+     ],
+     [
+      1,
+      "Lat-Nam Adept"
+     ],
+     [
+      1,
+      "Liquimetal Coating"
+     ],
+     [
+      1,
+      "Machine Over Matter"
+     ],
+     [
+      1,
+      "Mine Worker"
+     ],
+     [
+      1,
+      "Mishra's Onslaught"
+     ],
+     [
+      1,
+      "Mox Amber"
+     ],
+     [
+      1,
+      "Scatter Ray"
+     ],
+     [
+      1,
+      "Sibling Rivalry"
+     ],
+     [
+      1,
+      "Swiftgear Drake"
+     ],
+     [
+      1,
+      "Thran Power Suit"
+     ],
+     [
+      1,
+      "Urza's Rebuff"
+     ],
+     [
+      1,
+      "Urza, Powerstone Prodigy"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 32543,
+   "wins": 17682,
+   "winRate": 54.33,
+   "share": 5.99,
+   "drafts": 5656,
+   "trophies": 647,
+   "cards": [
+    {
+     "name": "Siege Veteran",
+     "inclusion": 9.2,
+     "winRate": 59.8,
+     "games": 3206,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Misery's Shadow",
+     "inclusion": 9.5,
+     "winRate": 58.4,
+     "games": 3293,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Gix's Command",
+     "inclusion": 9.8,
+     "winRate": 57.6,
+     "games": 3353,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Loran of the Third Path",
+     "inclusion": 9.1,
+     "winRate": 57.3,
+     "games": 3099,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Recruitment Officer",
+     "inclusion": 26.1,
+     "winRate": 57.0,
+     "games": 8887,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Steel Seraph",
+     "inclusion": 6.8,
+     "winRate": 57.0,
+     "games": 2298,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Transmogrant's Crown",
+     "inclusion": 6.3,
+     "winRate": 56.8,
+     "games": 2177,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Ambush Paratrooper",
+     "inclusion": 46.8,
+     "winRate": 56.6,
+     "games": 15804,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Ashnod's Harvester",
+     "inclusion": 25.3,
+     "winRate": 56.5,
+     "games": 8391,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 14.7,
+     "winRate": 56.4,
+     "games": 4921,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Static Net",
+     "inclusion": 24.1,
+     "winRate": 56.3,
+     "games": 8076,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Yotian Frontliner",
+     "inclusion": 14.5,
+     "winRate": 56.3,
+     "games": 4835,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 9.9,
+     "winRate": 56.3,
+     "games": 3265,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Ashnod, Flesh Mechanist",
+     "inclusion": 8.0,
+     "winRate": 56.3,
+     "games": 2648,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 50.2,
+     "winRate": 56.2,
+     "games": 16731,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Airlift Chaplain",
+     "inclusion": 57.3,
+     "winRate": 56.1,
+     "games": 19126,
+     "trophyInclusion": 67.7
+    },
+    {
+     "name": "Gixian Puppeteer",
+     "inclusion": 7.2,
+     "winRate": 56.0,
+     "games": 2392,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Aeronaut Cavalry",
+     "inclusion": 36.6,
+     "winRate": 55.9,
+     "games": 12196,
+     "trophyInclusion": 41.3
+    },
+    {
+     "name": "Military Discipline",
+     "inclusion": 13.8,
+     "winRate": 55.9,
+     "games": 4531,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Ravenous Gigamole",
+     "inclusion": 36.6,
+     "winRate": 55.8,
+     "games": 12149,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Moment of Defiance",
+     "inclusion": 30.9,
+     "winRate": 55.7,
+     "games": 10259,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Autonomous Assembler",
+     "inclusion": 6.8,
+     "winRate": 55.7,
+     "games": 2237,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Hero of the Dunes",
+     "inclusion": 51.4,
+     "winRate": 55.5,
+     "games": 17073,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Overwhelming Remorse",
+     "inclusion": 51.7,
+     "winRate": 55.4,
+     "games": 17049,
+     "trophyInclusion": 57.2
+    },
+    {
+     "name": "Combat Thresher",
+     "inclusion": 22.6,
+     "winRate": 55.4,
+     "games": 7457,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 29.9,
+     "winRate": 55.3,
+     "games": 9896,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Tocasia's Welcome",
+     "inclusion": 9.1,
+     "winRate": 55.1,
+     "games": 2981,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Legions to Ashes",
+     "inclusion": 15.3,
+     "winRate": 55.0,
+     "games": 5052,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 9.1,
+     "winRate": 55.0,
+     "games": 2995,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Prison Sentence",
+     "inclusion": 51.0,
+     "winRate": 54.9,
+     "games": 16755,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Disfigure",
+     "inclusion": 52.5,
+     "winRate": 54.8,
+     "games": 17180,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Warlord's Elite",
+     "inclusion": 45.6,
+     "winRate": 54.7,
+     "games": 14927,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Gurgling Anointer",
+     "inclusion": 17.6,
+     "winRate": 54.7,
+     "games": 5742,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Powerstone Engineer",
+     "inclusion": 45.9,
+     "winRate": 54.6,
+     "games": 15003,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Phalanx Vanguard",
+     "inclusion": 44.8,
+     "winRate": 54.6,
+     "games": 14591,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Elsewhere Flask",
+     "inclusion": 8.9,
+     "winRate": 54.5,
+     "games": 2874,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Gnawing Vermin",
+     "inclusion": 17.2,
+     "winRate": 54.4,
+     "games": 5676,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Emergency Weld",
+     "inclusion": 45.5,
+     "winRate": 54.3,
+     "games": 14867,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Gix's Caress",
+     "inclusion": 23.4,
+     "winRate": 54.3,
+     "games": 7594,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Corrupt",
+     "inclusion": 8.8,
+     "winRate": 54.3,
+     "games": 2885,
+     "trophyInclusion": 9.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-12-11",
+    "main": [
+     [
+      2,
+      "Aeronaut Cavalry"
+     ],
+     [
+      1,
+      "Airlift Chaplain"
+     ],
+     [
+      1,
+      "Ambush Paratrooper"
+     ],
+     [
+      2,
+      "Carrion Locust"
+     ],
+     [
+      1,
+      "Disenchant"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Go for the Throat"
+     ],
+     [
+      1,
+      "Hero of the Dunes"
+     ],
+     [
+      1,
+      "In the Trenches"
+     ],
+     [
+      2,
+      "Kayla's Command"
+     ],
+     [
+      1,
+      "Overwhelming Remorse"
+     ],
+     [
+      1,
+      "Phalanx Vanguard"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Powerstone Engineer"
+     ],
+     [
+      1,
+      "Prison Sentence"
+     ],
+     [
+      1,
+      "Ravenous Gigamole"
+     ],
+     [
+      1,
+      "Recommission"
+     ],
+     [
+      1,
+      "Scrapwork Cohort"
+     ],
+     [
+      1,
+      "Scrapwork Rager"
+     ],
+     [
+      1,
+      "Survivor of Korlis"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thraxodemon"
+     ],
+     [
+      1,
+      "Transmogrant's Crown"
+     ],
+     [
+      1,
+      "Warlord's Elite"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Air Marshal"
+     ],
+     [
+      1,
+      "Arms Race"
+     ],
+     [
+      1,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Deadly Riposte"
+     ],
+     [
+      1,
+      "Defense Grid"
+     ],
+     [
+      1,
+      "Demolition Field"
+     ],
+     [
+      1,
+      "Desynchronize"
+     ],
+     [
+      1,
+      "Diabolic Intent"
+     ],
+     [
+      2,
+      "Evangel of Synthesis"
+     ],
+     [
+      1,
+      "Heavyweight Demolisher"
+     ],
+     [
+      1,
+      "Lodestone Golem"
+     ],
+     [
+      1,
+      "Loran's Escape"
+     ],
+     [
+      1,
+      "Mishra's Bauble"
+     ],
+     [
+      1,
+      "Moment of Defiance"
+     ],
+     [
+      1,
+      "Queen Kayla bin-Kroog"
+     ],
+     [
+      1,
+      "Swiftfoot Boots"
+     ],
+     [
+      1,
+      "Union of the Third Path"
+     ],
+     [
+      1,
+      "Veteran's Powerblade"
+     ],
+     [
+      1,
+      "Yotian Dissident"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 28884,
+   "wins": 15203,
+   "winRate": 52.63,
+   "share": 5.32,
+   "drafts": 5109,
+   "trophies": 489,
+   "cards": [
+    {
+     "name": "Titania's Command",
+     "inclusion": 10.8,
+     "winRate": 57.6,
+     "games": 3357,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Simian Simulacrum",
+     "inclusion": 6.4,
+     "winRate": 56.1,
+     "games": 1857,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "The Mightstone and Weakstone",
+     "inclusion": 5.1,
+     "winRate": 55.9,
+     "games": 1539,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Skystrike Officer",
+     "inclusion": 7.1,
+     "winRate": 55.6,
+     "games": 2126,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Skyfisher Spider",
+     "inclusion": 5.9,
+     "winRate": 55.3,
+     "games": 1781,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Desynchronize",
+     "inclusion": 16.6,
+     "winRate": 55.0,
+     "games": 4945,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Thopter Mechanic",
+     "inclusion": 24.9,
+     "winRate": 54.6,
+     "games": 7331,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Teething Wurmlet",
+     "inclusion": 8.3,
+     "winRate": 54.6,
+     "games": 2441,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Gaea's Gift",
+     "inclusion": 39.0,
+     "winRate": 54.4,
+     "games": 11532,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Zephyr Sentinel",
+     "inclusion": 19.0,
+     "winRate": 54.4,
+     "games": 5573,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Scrapwork Mutt",
+     "inclusion": 8.9,
+     "winRate": 54.2,
+     "games": 2671,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Self-Assembler",
+     "inclusion": 5.8,
+     "winRate": 54.2,
+     "games": 1764,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Obstinate Baloth",
+     "inclusion": 25.6,
+     "winRate": 54.0,
+     "games": 7601,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Boulderbranch Golem",
+     "inclusion": 58.5,
+     "winRate": 53.7,
+     "games": 17176,
+     "trophyInclusion": 64.6
+    },
+    {
+     "name": "Combat Courier",
+     "inclusion": 42.1,
+     "winRate": 53.7,
+     "games": 12328,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Citanul Stalwart",
+     "inclusion": 25.9,
+     "winRate": 53.7,
+     "games": 7563,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Bushwhack",
+     "inclusion": 24.5,
+     "winRate": 53.6,
+     "games": 7220,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Scrapwork Cohort",
+     "inclusion": 5.9,
+     "winRate": 53.6,
+     "games": 1756,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Blanchwood Prowler",
+     "inclusion": 34.9,
+     "winRate": 53.5,
+     "games": 10084,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Argoth, Sanctum of Nature",
+     "inclusion": 6.0,
+     "winRate": 53.5,
+     "games": 1725,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Mask of the Jadecrafter",
+     "inclusion": 24.6,
+     "winRate": 53.4,
+     "games": 7212,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Urza's Command",
+     "inclusion": 9.4,
+     "winRate": 53.3,
+     "games": 2685,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Stern Lesson",
+     "inclusion": 53.3,
+     "winRate": 53.2,
+     "games": 15513,
+     "trophyInclusion": 57.5
+    },
+    {
+     "name": "Aeronaut's Wings",
+     "inclusion": 6.6,
+     "winRate": 53.2,
+     "games": 1955,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Argothian Sprite",
+     "inclusion": 50.9,
+     "winRate": 53.1,
+     "games": 14845,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Levitating Statue",
+     "inclusion": 7.1,
+     "winRate": 53.1,
+     "games": 2070,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Argothian Opportunist",
+     "inclusion": 62.1,
+     "winRate": 53.0,
+     "games": 18111,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Mightstone's Animation",
+     "inclusion": 37.6,
+     "winRate": 53.0,
+     "games": 10954,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Giant Growth",
+     "inclusion": 17.6,
+     "winRate": 53.0,
+     "games": 5086,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Alloy Animist",
+     "inclusion": 13.8,
+     "winRate": 53.0,
+     "games": 4003,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Chromatic Star",
+     "inclusion": 10.2,
+     "winRate": 53.0,
+     "games": 2958,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Hurkyl, Master Wizard",
+     "inclusion": 5.9,
+     "winRate": 53.0,
+     "games": 1693,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Epic Confrontation",
+     "inclusion": 54.7,
+     "winRate": 52.9,
+     "games": 15847,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Weakstone's Subjugation",
+     "inclusion": 53.6,
+     "winRate": 52.9,
+     "games": 15589,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Tomakul Honor Guard",
+     "inclusion": 18.7,
+     "winRate": 52.9,
+     "games": 5441,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Fallaji Archaeologist",
+     "inclusion": 13.4,
+     "winRate": 52.9,
+     "games": 3888,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Steel Exemplar",
+     "inclusion": 7.1,
+     "winRate": 52.9,
+     "games": 2021,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Machine Over Matter",
+     "inclusion": 21.0,
+     "winRate": 52.8,
+     "games": 6096,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Foundry Inspector",
+     "inclusion": 12.2,
+     "winRate": 52.8,
+     "games": 3501,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Koilos Roc",
+     "inclusion": 42.4,
+     "winRate": 52.6,
+     "games": 12254,
+     "trophyInclusion": 39.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-11-18",
+    "main": [
+     [
+      1,
+      "Argoth, Sanctum of Nature"
+     ],
+     [
+      1,
+      "Argothian Opportunist"
+     ],
+     [
+      1,
+      "Argothian Sprite"
+     ],
+     [
+      1,
+      "Battery Bearer"
+     ],
+     [
+      1,
+      "Blast Zone"
+     ],
+     [
+      1,
+      "Bushwhack"
+     ],
+     [
+      2,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Coastal Bulwark"
+     ],
+     [
+      1,
+      "Combat Courier"
+     ],
+     [
+      1,
+      "Energy Refractor"
+     ],
+     [
+      1,
+      "Epic Confrontation"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Goblin Firebomb"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Mask of the Jadecrafter"
+     ],
+     [
+      2,
+      "Mightstone's Animation"
+     ],
+     [
+      1,
+      "Rust Goliath"
+     ],
+     [
+      1,
+      "Shoot Down"
+     ],
+     [
+      1,
+      "Skyfisher Spider"
+     ],
+     [
+      2,
+      "Stern Lesson"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Teething Wurmlet"
+     ],
+     [
+      1,
+      "Titania's Command"
+     ],
+     [
+      1,
+      "Tomakul Honor Guard"
+     ],
+     [
+      1,
+      "Weakstone's Subjugation"
+     ],
+     [
+      1,
+      "Wing Commando"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aeronaut's Wings"
+     ],
+     [
+      1,
+      "Citanul Stalwart"
+     ],
+     [
+      1,
+      "Curate"
+     ],
+     [
+      1,
+      "Deadly Riposte"
+     ],
+     [
+      1,
+      "Desynchronize"
+     ],
+     [
+      1,
+      "Elsewhere Flask"
+     ],
+     [
+      1,
+      "Energy Refractor"
+     ],
+     [
+      1,
+      "Ivory Tower"
+     ],
+     [
+      1,
+      "Lat-Nam Adept"
+     ],
+     [
+      1,
+      "Machine Over Matter"
+     ],
+     [
+      1,
+      "Mass Production"
+     ],
+     [
+      1,
+      "Repair and Recharge"
+     ],
+     [
+      1,
+      "Scrapwork Mutt"
+     ],
+     [
+      1,
+      "Springleaf Drum"
+     ],
+     [
+      1,
+      "Stone Retrieval Unit"
+     ],
+     [
+      1,
+      "Supply Drop"
+     ],
+     [
+      1,
+      "Survivor of Korlis"
+     ],
+     [
+      1,
+      "Wasteful Harvest"
+     ]
+    ]
+   }
+  }
+ ]
+}

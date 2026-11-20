@@ -1,0 +1,4512 @@
+{
+ "set": "eoe",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.EOE.PremierDraft.csv.gz",
+ "lastModified": "Wed, 03 Sep 2025 12:42:21 GMT",
+ "colorsDerived": false,
+ "first": "2025-07-29",
+ "last": "2025-09-01",
+ "games": 563418,
+ "drafts": 103056,
+ "winRate": 55.32,
+ "combos": [
+  {
+   "colors": "UG",
+   "games": 70827,
+   "wins": 40489,
+   "winRate": 57.17,
+   "share": 12.57,
+   "drafts": 12666,
+   "trophies": 1170,
+   "cards": [
+    {
+     "name": "Quantum Riddler",
+     "inclusion": 5.3,
+     "winRate": 61.2,
+     "games": 3904,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Orbital Plunge",
+     "inclusion": 7.5,
+     "winRate": 59.4,
+     "games": 5320,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Glacier Godmaw",
+     "inclusion": 29.1,
+     "winRate": 59.0,
+     "games": 21171,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 6.2,
+     "winRate": 58.9,
+     "games": 4482,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Genemorph Imago",
+     "inclusion": 21.6,
+     "winRate": 58.8,
+     "games": 15672,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Extinguisher Battleship",
+     "inclusion": 6.4,
+     "winRate": 58.7,
+     "games": 4682,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Codecracker Hound",
+     "inclusion": 32.0,
+     "winRate": 58.6,
+     "games": 23053,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Nebula Dragon",
+     "inclusion": 6.1,
+     "winRate": 58.5,
+     "games": 4299,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Biomechan Engineer",
+     "inclusion": 50.5,
+     "winRate": 58.3,
+     "games": 36231,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.7,
+     "winRate": 58.3,
+     "games": 4092,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Meltstrider's Resolve",
+     "inclusion": 27.7,
+     "winRate": 58.2,
+     "games": 19859,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Seedship Impact",
+     "inclusion": 26.1,
+     "winRate": 58.2,
+     "games": 18728,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Galactic Wayfarer",
+     "inclusion": 60.7,
+     "winRate": 58.1,
+     "games": 43452,
+     "trophyInclusion": 65.7
+    },
+    {
+     "name": "Cryogen Relic",
+     "inclusion": 52.9,
+     "winRate": 58.1,
+     "games": 37816,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Mouth of the Storm",
+     "inclusion": 33.5,
+     "winRate": 58.1,
+     "games": 23933,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Larval Scoutlander",
+     "inclusion": 28.3,
+     "winRate": 58.1,
+     "games": 20297,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Harmonious Grovestrider",
+     "inclusion": 28.1,
+     "winRate": 58.1,
+     "games": 20277,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Edge Rover",
+     "inclusion": 27.9,
+     "winRate": 58.1,
+     "games": 20051,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Mightform Harmonizer",
+     "inclusion": 10.1,
+     "winRate": 58.1,
+     "games": 7190,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Synthesizer Labship",
+     "inclusion": 8.5,
+     "winRate": 58.1,
+     "games": 6015,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Gene Pollinator",
+     "inclusion": 58.3,
+     "winRate": 57.9,
+     "games": 41682,
+     "trophyInclusion": 60.9
+    },
+    {
+     "name": "Lost in Space",
+     "inclusion": 39.9,
+     "winRate": 57.9,
+     "games": 28655,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Close Encounter",
+     "inclusion": 25.2,
+     "winRate": 57.9,
+     "games": 17807,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 34.7,
+     "winRate": 57.7,
+     "games": 24835,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Desculpting Blast",
+     "inclusion": 25.1,
+     "winRate": 57.7,
+     "games": 17819,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Eumidian Terrabotanist",
+     "inclusion": 25.0,
+     "winRate": 57.7,
+     "games": 17759,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Tractor Beam",
+     "inclusion": 28.7,
+     "winRate": 57.6,
+     "games": 20372,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Germinating Wurm",
+     "inclusion": 45.9,
+     "winRate": 57.5,
+     "games": 32780,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Blooming Stinger",
+     "inclusion": 44.7,
+     "winRate": 57.5,
+     "games": 31770,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Divert Disaster",
+     "inclusion": 31.0,
+     "winRate": 57.5,
+     "games": 22110,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 15.4,
+     "winRate": 57.5,
+     "games": 10868,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Diplomatic Relations",
+     "inclusion": 54.1,
+     "winRate": 57.4,
+     "games": 38596,
+     "trophyInclusion": 56.9
+    },
+    {
+     "name": "Thawbringer",
+     "inclusion": 42.3,
+     "winRate": 57.4,
+     "games": 30230,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Icecave Crasher",
+     "inclusion": 41.8,
+     "winRate": 57.4,
+     "games": 29688,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Biosynthic Burst",
+     "inclusion": 38.5,
+     "winRate": 57.4,
+     "games": 27344,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Selfcraft Mechan",
+     "inclusion": 37.0,
+     "winRate": 57.4,
+     "games": 26104,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Uthros Scanship",
+     "inclusion": 20.6,
+     "winRate": 57.3,
+     "games": 14649,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Survey Mechan",
+     "inclusion": 14.1,
+     "winRate": 57.3,
+     "games": 9905,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Consult the Star Charts",
+     "inclusion": 9.5,
+     "winRate": 57.2,
+     "games": 6671,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Eusocial Engineering",
+     "inclusion": 24.6,
+     "winRate": 57.1,
+     "games": 17478,
+     "trophyInclusion": 24.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-07-30",
+    "main": [
+     [
+      1,
+      "Biomechan Engineer"
+     ],
+     [
+      1,
+      "Biosynthic Burst"
+     ],
+     [
+      1,
+      "Blooming Stinger"
+     ],
+     [
+      1,
+      "Codecracker Hound"
+     ],
+     [
+      2,
+      "Cryoshatter"
+     ],
+     [
+      1,
+      "Desculpting Blast"
+     ],
+     [
+      1,
+      "Diplomatic Relations"
+     ],
+     [
+      1,
+      "Edge Rover"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Gene Pollinator"
+     ],
+     [
+      1,
+      "Germinating Wurm"
+     ],
+     [
+      1,
+      "Glacier Godmaw"
+     ],
+     [
+      1,
+      "Icecave Crasher"
+     ],
+     [
+      1,
+      "Intrepid Tenderfoot"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Larval Scoutlander"
+     ],
+     [
+      1,
+      "Lost in Space"
+     ],
+     [
+      1,
+      "Meltstrider's Resolve"
+     ],
+     [
+      1,
+      "Mouth of the Storm"
+     ],
+     [
+      1,
+      "Ouroboroid"
+     ],
+     [
+      1,
+      "Pinnacle Kill-Ship"
+     ],
+     [
+      1,
+      "Sami's Curiosity"
+     ],
+     [
+      1,
+      "Seedship Impact"
+     ],
+     [
+      1,
+      "Uthros Psionicist"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      1,
+      "Dual-Sun Technique"
+     ],
+     [
+      1,
+      "Fungal Colossus"
+     ],
+     [
+      1,
+      "Illvoi Light Jammer"
+     ],
+     [
+      1,
+      "Illvoi Operative"
+     ],
+     [
+      1,
+      "Melded Moxite"
+     ],
+     [
+      1,
+      "Meltstrider's Gear"
+     ],
+     [
+      1,
+      "Plasma Bolt"
+     ],
+     [
+      1,
+      "Rescue Skiff"
+     ],
+     [
+      1,
+      "Selfcraft Mechan"
+     ],
+     [
+      1,
+      "Skystinger"
+     ],
+     [
+      1,
+      "Slagdrill Scrapper"
+     ],
+     [
+      1,
+      "Sunstar Lightsmith"
+     ],
+     [
+      1,
+      "Tannuk, Memorial Ensign"
+     ],
+     [
+      1,
+      "Wurmwall Sweeper"
+     ],
+     [
+      1,
+      "Zealous Display"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 62670,
+   "wins": 34444,
+   "winRate": 54.96,
+   "share": 11.12,
+   "drafts": 11603,
+   "trophies": 902,
+   "cards": [
+    {
+     "name": "Elegy Acolyte",
+     "inclusion": 10.7,
+     "winRate": 59.3,
+     "games": 7092,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Quantum Riddler",
+     "inclusion": 5.5,
+     "winRate": 59.1,
+     "games": 3613,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Creeping Tar Pit",
+     "inclusion": 5.1,
+     "winRate": 57.6,
+     "games": 3277,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Dubious Delicacy",
+     "inclusion": 30.5,
+     "winRate": 57.5,
+     "games": 19691,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Codecracker Hound",
+     "inclusion": 30.3,
+     "winRate": 57.2,
+     "games": 19549,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 6.4,
+     "winRate": 57.2,
+     "games": 4128,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Sunset Saboteur",
+     "inclusion": 10.9,
+     "winRate": 57.1,
+     "games": 6962,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Monoist Circuit-Feeder",
+     "inclusion": 33.0,
+     "winRate": 56.9,
+     "games": 21265,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Fell Gravship",
+     "inclusion": 27.9,
+     "winRate": 56.9,
+     "games": 17905,
+     "trophyInclusion": 33.5
+    },
+    {
+     "name": "Synthesizer Labship",
+     "inclusion": 11.3,
+     "winRate": 56.7,
+     "games": 7291,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Tractor Beam",
+     "inclusion": 29.6,
+     "winRate": 56.6,
+     "games": 18825,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Desculpting Blast",
+     "inclusion": 25.1,
+     "winRate": 56.4,
+     "games": 16024,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 15.5,
+     "winRate": 56.4,
+     "games": 9829,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Cryogen Relic",
+     "inclusion": 61.5,
+     "winRate": 56.3,
+     "games": 39207,
+     "trophyInclusion": 70.2
+    },
+    {
+     "name": "Faller's Faithful",
+     "inclusion": 25.7,
+     "winRate": 56.2,
+     "games": 16460,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Tragic Trajectory",
+     "inclusion": 25.4,
+     "winRate": 56.2,
+     "games": 16251,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Mouth of the Storm",
+     "inclusion": 27.4,
+     "winRate": 56.1,
+     "games": 17370,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Extinguisher Battleship",
+     "inclusion": 5.6,
+     "winRate": 56.1,
+     "games": 3524,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.5,
+     "winRate": 56.1,
+     "games": 3484,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Nutrient Block",
+     "inclusion": 30.1,
+     "winRate": 56.0,
+     "games": 18927,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Alpharael, Dreaming Acolyte",
+     "inclusion": 46.2,
+     "winRate": 55.9,
+     "games": 29210,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Divert Disaster",
+     "inclusion": 32.2,
+     "winRate": 55.8,
+     "games": 20354,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Gigastorm Titan",
+     "inclusion": 24.8,
+     "winRate": 55.8,
+     "games": 15655,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Singularity Rupture",
+     "inclusion": 20.8,
+     "winRate": 55.8,
+     "games": 13168,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 5.8,
+     "winRate": 55.8,
+     "games": 3673,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Selfcraft Mechan",
+     "inclusion": 54.4,
+     "winRate": 55.6,
+     "games": 34431,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Zero Point Ballad",
+     "inclusion": 10.3,
+     "winRate": 55.6,
+     "games": 6588,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Weftwalking",
+     "inclusion": 6.2,
+     "winRate": 55.6,
+     "games": 3906,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 58.2,
+     "winRate": 55.5,
+     "games": 36723,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Umbral Collar Zealot",
+     "inclusion": 22.2,
+     "winRate": 55.5,
+     "games": 14072,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Scour for Scrap",
+     "inclusion": 16.1,
+     "winRate": 55.5,
+     "games": 10148,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Gravpack Monoist",
+     "inclusion": 47.7,
+     "winRate": 55.3,
+     "games": 30109,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Perigee Beckoner",
+     "inclusion": 36.9,
+     "winRate": 55.3,
+     "games": 23219,
+     "trophyInclusion": 40.5
+    },
+    {
+     "name": "Uthros Scanship",
+     "inclusion": 22.2,
+     "winRate": 55.3,
+     "games": 13939,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Embrace Oblivion",
+     "inclusion": 43.3,
+     "winRate": 55.2,
+     "games": 27271,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 23.6,
+     "winRate": 55.2,
+     "games": 14812,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Depressurize",
+     "inclusion": 53.5,
+     "winRate": 55.1,
+     "games": 33775,
+     "trophyInclusion": 53.8
+    },
+    {
+     "name": "Beamsaw Prospector",
+     "inclusion": 44.1,
+     "winRate": 55.1,
+     "games": 27712,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Lost in Space",
+     "inclusion": 35.1,
+     "winRate": 55.1,
+     "games": 22078,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Mechan Navigator",
+     "inclusion": 23.2,
+     "winRate": 55.1,
+     "games": 14597,
+     "trophyInclusion": 22.5
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-08-28",
+    "main": [
+     [
+      1,
+      "Alpharael, Dreaming Acolyte"
+     ],
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      1,
+      "Cryogen Relic"
+     ],
+     [
+      1,
+      "Cryoshatter"
+     ],
+     [
+      1,
+      "Divert Disaster"
+     ],
+     [
+      1,
+      "Dubious Delicacy"
+     ],
+     [
+      1,
+      "Fell Gravship"
+     ],
+     [
+      2,
+      "Gravkill"
+     ],
+     [
+      1,
+      "Gravpack Monoist"
+     ],
+     [
+      1,
+      "Illvoi Light Jammer"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Lost in Space"
+     ],
+     [
+      1,
+      "Mechan Navigator"
+     ],
+     [
+      1,
+      "Mechanozoa"
+     ],
+     [
+      1,
+      "Monoist Circuit-Feeder"
+     ],
+     [
+      1,
+      "Mouth of the Storm"
+     ],
+     [
+      1,
+      "Nutrient Block"
+     ],
+     [
+      2,
+      "Perigee Beckoner"
+     ],
+     [
+      1,
+      "Selfcraft Mechan"
+     ],
+     [
+      1,
+      "Starbreach Whale"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Synthesizer Labship"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dark Endurance"
+     ],
+     [
+      1,
+      "Exosuit Savior"
+     ],
+     [
+      2,
+      "Illvoi Galeblade"
+     ],
+     [
+      1,
+      "Illvoi Light Jammer"
+     ],
+     [
+      1,
+      "Kav Landseeker"
+     ],
+     [
+      2,
+      "Lost in Space"
+     ],
+     [
+      2,
+      "Mechan Shieldmate"
+     ],
+     [
+      1,
+      "Mechanozoa"
+     ],
+     [
+      1,
+      "Nanoform Sentinel"
+     ],
+     [
+      1,
+      "Roving Actuator"
+     ],
+     [
+      1,
+      "Scavenger Grounds"
+     ],
+     [
+      1,
+      "Starbreach Whale"
+     ],
+     [
+      1,
+      "Starfighter Pilot"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 60806,
+   "wins": 34210,
+   "winRate": 56.26,
+   "share": 10.79,
+   "drafts": 10912,
+   "trophies": 934,
+   "cards": [
+    {
+     "name": "Terrapact Intimidator",
+     "inclusion": 31.8,
+     "winRate": 58.0,
+     "games": 19878,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Biotech Specialist",
+     "inclusion": 22.4,
+     "winRate": 58.0,
+     "games": 14018,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Possibility Technician",
+     "inclusion": 13.8,
+     "winRate": 57.9,
+     "games": 8560,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Biomechan Engineer",
+     "inclusion": 13.6,
+     "winRate": 57.9,
+     "games": 8347,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Nova Hellkite",
+     "inclusion": 12.2,
+     "winRate": 57.8,
+     "games": 7625,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Larval Scoutlander",
+     "inclusion": 28.9,
+     "winRate": 57.7,
+     "games": 17754,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Harmonious Grovestrider",
+     "inclusion": 27.9,
+     "winRate": 57.6,
+     "games": 17194,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Warmaker Gunship",
+     "inclusion": 9.2,
+     "winRate": 57.5,
+     "games": 5709,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Extinguisher Battleship",
+     "inclusion": 5.5,
+     "winRate": 57.5,
+     "games": 3456,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Seedship Impact",
+     "inclusion": 24.7,
+     "winRate": 57.4,
+     "games": 15183,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Mightform Harmonizer",
+     "inclusion": 10.9,
+     "winRate": 57.4,
+     "games": 6652,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Glacier Godmaw",
+     "inclusion": 30.8,
+     "winRate": 57.3,
+     "games": 19049,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Genemorph Imago",
+     "inclusion": 5.8,
+     "winRate": 57.3,
+     "games": 3575,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Galactic Wayfarer",
+     "inclusion": 60.2,
+     "winRate": 57.2,
+     "games": 37043,
+     "trophyInclusion": 64.1
+    },
+    {
+     "name": "Meltstrider's Resolve",
+     "inclusion": 27.6,
+     "winRate": 57.2,
+     "games": 17033,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Eusocial Engineering",
+     "inclusion": 26.2,
+     "winRate": 57.2,
+     "games": 16127,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Nebula Dragon",
+     "inclusion": 40.9,
+     "winRate": 57.1,
+     "games": 25018,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 29.8,
+     "winRate": 57.1,
+     "games": 18357,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Cut Propulsion",
+     "inclusion": 25.5,
+     "winRate": 57.1,
+     "games": 15645,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 5.6,
+     "winRate": 57.0,
+     "games": 3423,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Orbital Plunge",
+     "inclusion": 60.6,
+     "winRate": 56.9,
+     "games": 37155,
+     "trophyInclusion": 62.8
+    },
+    {
+     "name": "Gene Pollinator",
+     "inclusion": 54.4,
+     "winRate": 56.9,
+     "games": 33469,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Biosynthic Burst",
+     "inclusion": 40.9,
+     "winRate": 56.9,
+     "games": 25055,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Icecave Crasher",
+     "inclusion": 43.1,
+     "winRate": 56.8,
+     "games": 26548,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Edge Rover",
+     "inclusion": 27.9,
+     "winRate": 56.8,
+     "games": 16998,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.8,
+     "winRate": 56.8,
+     "games": 3506,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 5.7,
+     "winRate": 56.8,
+     "games": 3494,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Kav Landseeker",
+     "inclusion": 57.3,
+     "winRate": 56.7,
+     "games": 35022,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Tannuk, Memorial Ensign",
+     "inclusion": 45.4,
+     "winRate": 56.7,
+     "games": 27745,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Thawbringer",
+     "inclusion": 38.7,
+     "winRate": 56.7,
+     "games": 23641,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Seedship Agrarian",
+     "inclusion": 26.2,
+     "winRate": 56.7,
+     "games": 15999,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Eumidian Terrabotanist",
+     "inclusion": 25.7,
+     "winRate": 56.7,
+     "games": 15728,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Territorial Bruntar",
+     "inclusion": 29.9,
+     "winRate": 56.6,
+     "games": 18323,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Germinating Wurm",
+     "inclusion": 42.3,
+     "winRate": 56.4,
+     "games": 25766,
+     "trophyInclusion": 41.3
+    },
+    {
+     "name": "Survey Mechan",
+     "inclusion": 11.2,
+     "winRate": 56.4,
+     "games": 6702,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Frenzied Baloth",
+     "inclusion": 7.2,
+     "winRate": 56.4,
+     "games": 4403,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Zookeeper Mechan",
+     "inclusion": 53.8,
+     "winRate": 56.3,
+     "games": 32774,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Diplomatic Relations",
+     "inclusion": 52.6,
+     "winRate": 56.3,
+     "games": 32019,
+     "trophyInclusion": 53.7
+    },
+    {
+     "name": "Blooming Stinger",
+     "inclusion": 45.3,
+     "winRate": 56.3,
+     "games": 27664,
+     "trophyInclusion": 46.0
+    },
+    {
+     "name": "Plasma Bolt",
+     "inclusion": 44.2,
+     "winRate": 56.2,
+     "games": 26902,
+     "trophyInclusion": 44.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-08-17",
+    "main": [
+     [
+      1,
+      "Biosynthic Burst"
+     ],
+     [
+      1,
+      "Biotech Specialist"
+     ],
+     [
+      1,
+      "Blooming Stinger"
+     ],
+     [
+      1,
+      "Close Encounter"
+     ],
+     [
+      1,
+      "Edge Rover"
+     ],
+     [
+      1,
+      "Eumidian Terrabotanist"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Gene Pollinator"
+     ],
+     [
+      1,
+      "Germinating Wurm"
+     ],
+     [
+      1,
+      "Glacier Godmaw"
+     ],
+     [
+      1,
+      "Harmonious Grovestrider"
+     ],
+     [
+      1,
+      "Icecave Crasher"
+     ],
+     [
+      1,
+      "Kav Landseeker"
+     ],
+     [
+      1,
+      "Meltstrider's Resolve"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nebula Dragon"
+     ],
+     [
+      1,
+      "Orbital Plunge"
+     ],
+     [
+      1,
+      "Pinnacle Kill-Ship"
+     ],
+     [
+      1,
+      "Plasma Bolt"
+     ],
+     [
+      1,
+      "Tannuk, Memorial Ensign"
+     ],
+     [
+      1,
+      "Terrapact Intimidator"
+     ],
+     [
+      1,
+      "Territorial Bruntar"
+     ],
+     [
+      2,
+      "Thawbringer"
+     ],
+     [
+      1,
+      "Zookeeper Mechan"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cryoshatter"
+     ],
+     [
+      1,
+      "Elegy Acolyte"
+     ],
+     [
+      1,
+      "Germinating Wurm"
+     ],
+     [
+      1,
+      "Icecave Crasher"
+     ],
+     [
+      1,
+      "Illvoi Galeblade"
+     ],
+     [
+      1,
+      "Kavaron Skywarden"
+     ],
+     [
+      1,
+      "Melded Moxite"
+     ],
+     [
+      1,
+      "Oreplate Pangolin"
+     ],
+     [
+      1,
+      "Plasma Bolt"
+     ],
+     [
+      1,
+      "Plaza of Heroes"
+     ],
+     [
+      1,
+      "Red Tiger Mechan"
+     ],
+     [
+      1,
+      "Squire's Lightblade"
+     ],
+     [
+      1,
+      "Survey Mechan"
+     ],
+     [
+      1,
+      "Thawbringer"
+     ],
+     [
+      1,
+      "Vaultguard Trooper"
+     ],
+     [
+      1,
+      "Wurmwall Sweeper"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 58131,
+   "wins": 32237,
+   "winRate": 55.46,
+   "share": 10.32,
+   "drafts": 10620,
+   "trophies": 856,
+   "cards": [
+    {
+     "name": "Elegy Acolyte",
+     "inclusion": 11.0,
+     "winRate": 59.5,
+     "games": 6757,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Warmaker Gunship",
+     "inclusion": 12.4,
+     "winRate": 58.6,
+     "games": 7493,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Possibility Technician",
+     "inclusion": 13.3,
+     "winRate": 58.3,
+     "games": 8209,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Sunset Saboteur",
+     "inclusion": 12.5,
+     "winRate": 58.3,
+     "games": 7455,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Terrapact Intimidator",
+     "inclusion": 28.7,
+     "winRate": 57.9,
+     "games": 17212,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Nova Hellkite",
+     "inclusion": 12.1,
+     "winRate": 57.8,
+     "games": 7330,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Fell Gravship",
+     "inclusion": 26.8,
+     "winRate": 57.6,
+     "games": 16019,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "Dubious Delicacy",
+     "inclusion": 27.8,
+     "winRate": 57.5,
+     "games": 16503,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 14.4,
+     "winRate": 57.4,
+     "games": 8564,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.5,
+     "winRate": 57.3,
+     "games": 3351,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Mutinous Massacre",
+     "inclusion": 25.4,
+     "winRate": 57.1,
+     "games": 15176,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Monoist Circuit-Feeder",
+     "inclusion": 29.8,
+     "winRate": 57.0,
+     "games": 17711,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 6.7,
+     "winRate": 56.8,
+     "games": 3923,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 5.7,
+     "winRate": 56.8,
+     "games": 3407,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Faller's Faithful",
+     "inclusion": 27.1,
+     "winRate": 56.7,
+     "games": 15915,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Kav Landseeker",
+     "inclusion": 46.9,
+     "winRate": 56.6,
+     "games": 27729,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Gravpack Monoist",
+     "inclusion": 50.2,
+     "winRate": 56.5,
+     "games": 29629,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Timeline Culler",
+     "inclusion": 21.3,
+     "winRate": 56.5,
+     "games": 12570,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Orbital Plunge",
+     "inclusion": 52.6,
+     "winRate": 56.4,
+     "games": 31030,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Umbral Collar Zealot",
+     "inclusion": 30.8,
+     "winRate": 56.4,
+     "games": 18102,
+     "trophyInclusion": 35.4
+    },
+    {
+     "name": "Tragic Trajectory",
+     "inclusion": 25.6,
+     "winRate": 56.4,
+     "games": 15108,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Melded Moxite",
+     "inclusion": 45.4,
+     "winRate": 56.2,
+     "games": 26728,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Perigee Beckoner",
+     "inclusion": 43.8,
+     "winRate": 56.2,
+     "games": 25509,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Zookeeper Mechan",
+     "inclusion": 53.1,
+     "winRate": 56.0,
+     "games": 31135,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Systems Override",
+     "inclusion": 20.8,
+     "winRate": 56.0,
+     "games": 12168,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Nutrient Block",
+     "inclusion": 22.8,
+     "winRate": 55.9,
+     "games": 13338,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 56.4,
+     "winRate": 55.8,
+     "games": 32866,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Invasive Maneuvers",
+     "inclusion": 22.9,
+     "winRate": 55.8,
+     "games": 13357,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Rust Harvester",
+     "inclusion": 12.7,
+     "winRate": 55.8,
+     "games": 7490,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Depressurize",
+     "inclusion": 50.1,
+     "winRate": 55.7,
+     "games": 29346,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Interceptor Mechan",
+     "inclusion": 47.7,
+     "winRate": 55.7,
+     "games": 27714,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Nebula Dragon",
+     "inclusion": 24.9,
+     "winRate": 55.7,
+     "games": 14355,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Embrace Oblivion",
+     "inclusion": 46.9,
+     "winRate": 55.6,
+     "games": 27178,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Vote Out",
+     "inclusion": 22.0,
+     "winRate": 55.6,
+     "games": 12811,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Xu-Ifit, Osteoharmonist",
+     "inclusion": 8.9,
+     "winRate": 55.6,
+     "games": 5211,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Archenemy's Charm",
+     "inclusion": 8.4,
+     "winRate": 55.5,
+     "games": 4903,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Beamsaw Prospector",
+     "inclusion": 47.3,
+     "winRate": 55.4,
+     "games": 27480,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Plasma Bolt",
+     "inclusion": 46.9,
+     "winRate": 55.3,
+     "games": 27399,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Gravkill",
+     "inclusion": 47.9,
+     "winRate": 55.2,
+     "games": 27677,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Kavaron Harrier",
+     "inclusion": 24.7,
+     "winRate": 55.2,
+     "games": 14286,
+     "trophyInclusion": 24.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-31",
+    "main": [
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      1,
+      "Command Bridge"
+     ],
+     [
+      1,
+      "Dauntless Scrapbot"
+     ],
+     [
+      1,
+      "Debris Field Crusher"
+     ],
+     [
+      1,
+      "Decode Transmissions"
+     ],
+     [
+      1,
+      "Depressurize"
+     ],
+     [
+      1,
+      "Faller's Faithful"
+     ],
+     [
+      1,
+      "Fell Gravship"
+     ],
+     [
+      1,
+      "Gravkill"
+     ],
+     [
+      1,
+      "Gravpack Monoist"
+     ],
+     [
+      1,
+      "Hullcarver"
+     ],
+     [
+      1,
+      "Interceptor Mechan"
+     ],
+     [
+      2,
+      "Kav Landseeker"
+     ],
+     [
+      1,
+      "Kavaron Turbodrone"
+     ],
+     [
+      1,
+      "Melded Moxite"
+     ],
+     [
+      1,
+      "Monoist Circuit-Feeder"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nebula Dragon"
+     ],
+     [
+      1,
+      "Orbital Plunge"
+     ],
+     [
+      1,
+      "Oreplate Pangolin"
+     ],
+     [
+      1,
+      "Rust Harvester"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Terrapact Intimidator"
+     ],
+     [
+      1,
+      "Tragic Trajectory"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      1,
+      "Comet Crawler"
+     ],
+     [
+      1,
+      "Debris Field Crusher"
+     ],
+     [
+      1,
+      "Extinguisher Battleship"
+     ],
+     [
+      1,
+      "Galvanizing Sawship"
+     ],
+     [
+      1,
+      "Hullcarver"
+     ],
+     [
+      2,
+      "Melded Moxite"
+     ],
+     [
+      1,
+      "Scout for Survivors"
+     ],
+     [
+      1,
+      "Survey Mechan"
+     ],
+     [
+      1,
+      "Temporal Intervention"
+     ],
+     [
+      2,
+      "Terminal Velocity"
+     ],
+     [
+      1,
+      "Thawbringer"
+     ],
+     [
+      1,
+      "Weftstalker Ardent"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 54714,
+   "wins": 30565,
+   "winRate": 55.86,
+   "share": 9.71,
+   "drafts": 9853,
+   "trophies": 830,
+   "cards": [
+    {
+     "name": "Ouroboroid",
+     "inclusion": 6.1,
+     "winRate": 60.8,
+     "games": 3519,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Lumen-Class Frigate",
+     "inclusion": 11.1,
+     "winRate": 58.6,
+     "games": 6284,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "The Seriema",
+     "inclusion": 8.6,
+     "winRate": 58.6,
+     "games": 4833,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Sunstar Chaplain",
+     "inclusion": 12.7,
+     "winRate": 58.3,
+     "games": 7188,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Larval Scoutlander",
+     "inclusion": 21.0,
+     "winRate": 57.9,
+     "games": 11755,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Meltstrider's Resolve",
+     "inclusion": 26.9,
+     "winRate": 57.5,
+     "games": 14973,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Beyond the Quiet",
+     "inclusion": 8.7,
+     "winRate": 57.5,
+     "games": 4772,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Harmonious Grovestrider",
+     "inclusion": 22.0,
+     "winRate": 57.4,
+     "games": 12246,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Haliya, Guided by Light",
+     "inclusion": 10.3,
+     "winRate": 57.3,
+     "games": 5731,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Rayblade Trooper",
+     "inclusion": 30.2,
+     "winRate": 57.1,
+     "games": 16839,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Starfield Shepherd",
+     "inclusion": 27.5,
+     "winRate": 57.1,
+     "games": 15332,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Close Encounter",
+     "inclusion": 24.8,
+     "winRate": 57.1,
+     "games": 13654,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Edge Rover",
+     "inclusion": 23.5,
+     "winRate": 57.1,
+     "games": 13119,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "All-Fates Stalker",
+     "inclusion": 27.2,
+     "winRate": 57.0,
+     "games": 15183,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Glacier Godmaw",
+     "inclusion": 24.4,
+     "winRate": 56.9,
+     "games": 13658,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Focus Fire",
+     "inclusion": 50.5,
+     "winRate": 56.8,
+     "games": 27985,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Gene Pollinator",
+     "inclusion": 46.2,
+     "winRate": 56.8,
+     "games": 25683,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Dyadrine, Synthesis Amalgam",
+     "inclusion": 23.3,
+     "winRate": 56.8,
+     "games": 12955,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Knight Luminary",
+     "inclusion": 50.1,
+     "winRate": 56.7,
+     "games": 27777,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Biosynthic Burst",
+     "inclusion": 49.6,
+     "winRate": 56.7,
+     "games": 27513,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Sunstar Expansionist",
+     "inclusion": 25.9,
+     "winRate": 56.7,
+     "games": 14230,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Seedship Impact",
+     "inclusion": 21.2,
+     "winRate": 56.7,
+     "games": 11730,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Diplomatic Relations",
+     "inclusion": 51.3,
+     "winRate": 56.6,
+     "games": 28274,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Galactic Wayfarer",
+     "inclusion": 48.7,
+     "winRate": 56.6,
+     "games": 26886,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Thawbringer",
+     "inclusion": 35.5,
+     "winRate": 56.6,
+     "games": 19678,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Lightstall Inquisitor",
+     "inclusion": 8.7,
+     "winRate": 56.6,
+     "games": 4679,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Banishing Light",
+     "inclusion": 52.8,
+     "winRate": 56.5,
+     "games": 29004,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Eumidian Terrabotanist",
+     "inclusion": 21.8,
+     "winRate": 56.4,
+     "games": 12010,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Icecave Crasher",
+     "inclusion": 32.8,
+     "winRate": 56.3,
+     "games": 18040,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Sunstar Lightsmith",
+     "inclusion": 23.3,
+     "winRate": 56.2,
+     "games": 12819,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Mightform Harmonizer",
+     "inclusion": 9.7,
+     "winRate": 56.2,
+     "games": 5352,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Frenzied Baloth",
+     "inclusion": 7.5,
+     "winRate": 56.2,
+     "games": 4119,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Auxiliary Boosters",
+     "inclusion": 31.8,
+     "winRate": 56.1,
+     "games": 17491,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Honor",
+     "inclusion": 22.9,
+     "winRate": 56.1,
+     "games": 12556,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Biomechan Engineer",
+     "inclusion": 5.5,
+     "winRate": 56.1,
+     "games": 3017,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Haliya, Ascendant Cadet",
+     "inclusion": 48.7,
+     "winRate": 55.9,
+     "games": 26739,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Blooming Stinger",
+     "inclusion": 40.6,
+     "winRate": 55.9,
+     "games": 22181,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Pulsar Squadron Ace",
+     "inclusion": 23.7,
+     "winRate": 55.9,
+     "games": 12966,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Hemosymbic Mite",
+     "inclusion": 16.7,
+     "winRate": 55.9,
+     "games": 9129,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Intrepid Tenderfoot",
+     "inclusion": 43.1,
+     "winRate": 55.8,
+     "games": 23555,
+     "trophyInclusion": 44.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-10",
+    "main": [
+     [
+      1,
+      "Biosynthic Burst"
+     ],
+     [
+      1,
+      "Diplomatic Relations"
+     ],
+     [
+      1,
+      "Dockworker Drone"
+     ],
+     [
+      1,
+      "Drix Fatemaker"
+     ],
+     [
+      1,
+      "Focus Fire"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Galactic Wayfarer"
+     ],
+     [
+      1,
+      "Gene Pollinator"
+     ],
+     [
+      1,
+      "Germinating Wurm"
+     ],
+     [
+      1,
+      "Haliya, Ascendant Cadet"
+     ],
+     [
+      1,
+      "Hemosymbic Mite"
+     ],
+     [
+      1,
+      "Icecave Crasher"
+     ],
+     [
+      1,
+      "Intrepid Tenderfoot"
+     ],
+     [
+      1,
+      "Knight Luminary"
+     ],
+     [
+      1,
+      "Lumen-Class Frigate"
+     ],
+     [
+      1,
+      "Meltstrider Eulogist"
+     ],
+     [
+      1,
+      "Mightform Harmonizer"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      2,
+      "Radiant Strike"
+     ],
+     [
+      1,
+      "Rayblade Trooper"
+     ],
+     [
+      1,
+      "Sunstar Chaplain"
+     ],
+     [
+      1,
+      "Sunstar Expansionist"
+     ],
+     [
+      1,
+      "Survey Mechan"
+     ],
+     [
+      1,
+      "Thawbringer"
+     ]
+    ],
+    "side": [
+     [
+      3,
+      "Auxiliary Boosters"
+     ],
+     [
+      1,
+      "Blooming Stinger"
+     ],
+     [
+      1,
+      "Brightspear Zealot"
+     ],
+     [
+      1,
+      "Drill Too Deep"
+     ],
+     [
+      1,
+      "Frontline War-Rager"
+     ],
+     [
+      1,
+      "Icecave Crasher"
+     ],
+     [
+      1,
+      "Knight Luminary"
+     ],
+     [
+      1,
+      "Seam Rip"
+     ],
+     [
+      1,
+      "Sinister Cryologist"
+     ],
+     [
+      1,
+      "Squire's Lightblade"
+     ],
+     [
+      2,
+      "Starfighter Pilot"
+     ],
+     [
+      1,
+      "Starport Security"
+     ],
+     [
+      1,
+      "Wedgelight Rammer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 53910,
+   "wins": 30111,
+   "winRate": 55.85,
+   "share": 9.57,
+   "drafts": 9793,
+   "trophies": 839,
+   "cards": [
+    {
+     "name": "Elegy Acolyte",
+     "inclusion": 11.2,
+     "winRate": 59.2,
+     "games": 6312,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Sunset Saboteur",
+     "inclusion": 14.0,
+     "winRate": 58.9,
+     "games": 7705,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Fell Gravship",
+     "inclusion": 26.1,
+     "winRate": 58.5,
+     "games": 14521,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Haliya, Guided by Light",
+     "inclusion": 11.3,
+     "winRate": 58.3,
+     "games": 6178,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Dubious Delicacy",
+     "inclusion": 26.2,
+     "winRate": 58.0,
+     "games": 14530,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 6.1,
+     "winRate": 58.0,
+     "games": 3408,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Sunstar Chaplain",
+     "inclusion": 12.0,
+     "winRate": 57.9,
+     "games": 6705,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "The Seriema",
+     "inclusion": 9.5,
+     "winRate": 57.9,
+     "games": 5272,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "All-Fates Stalker",
+     "inclusion": 29.6,
+     "winRate": 57.6,
+     "games": 16178,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Syr Vondam, Sunstar Exemplar",
+     "inclusion": 24.7,
+     "winRate": 57.6,
+     "games": 13639,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Rayblade Trooper",
+     "inclusion": 25.9,
+     "winRate": 57.4,
+     "games": 14155,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Lightstall Inquisitor",
+     "inclusion": 10.0,
+     "winRate": 57.3,
+     "games": 5421,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Godless Shrine",
+     "inclusion": 12.3,
+     "winRate": 57.1,
+     "games": 6753,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Knight Luminary",
+     "inclusion": 58.8,
+     "winRate": 57.0,
+     "games": 32144,
+     "trophyInclusion": 63.5
+    },
+    {
+     "name": "Umbral Collar Zealot",
+     "inclusion": 27.3,
+     "winRate": 56.9,
+     "games": 14906,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Syr Vondam, the Lucent",
+     "inclusion": 49.6,
+     "winRate": 56.8,
+     "games": 27114,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Perigee Beckoner",
+     "inclusion": 45.0,
+     "winRate": 56.8,
+     "games": 24484,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Banishing Light",
+     "inclusion": 51.1,
+     "winRate": 56.7,
+     "games": 27840,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 12.0,
+     "winRate": 56.7,
+     "games": 6612,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Requiem Monolith",
+     "inclusion": 9.5,
+     "winRate": 56.7,
+     "games": 5149,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Faller's Faithful",
+     "inclusion": 29.2,
+     "winRate": 56.6,
+     "games": 15898,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Monoist Circuit-Feeder",
+     "inclusion": 22.2,
+     "winRate": 56.6,
+     "games": 12031,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Starfield Shepherd",
+     "inclusion": 27.8,
+     "winRate": 56.5,
+     "games": 15177,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.3,
+     "winRate": 56.5,
+     "games": 2877,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Gravpack Monoist",
+     "inclusion": 53.1,
+     "winRate": 56.4,
+     "games": 28830,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Lumen-Class Frigate",
+     "inclusion": 10.8,
+     "winRate": 56.4,
+     "games": 5810,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Depressurize",
+     "inclusion": 50.2,
+     "winRate": 56.3,
+     "games": 27285,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Focus Fire",
+     "inclusion": 48.4,
+     "winRate": 56.3,
+     "games": 26258,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Auxiliary Boosters",
+     "inclusion": 39.2,
+     "winRate": 56.3,
+     "games": 21228,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Virus Beetle",
+     "inclusion": 53.0,
+     "winRate": 56.2,
+     "games": 28754,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Hullcarver",
+     "inclusion": 40.5,
+     "winRate": 56.2,
+     "games": 21941,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Sunstar Expansionist",
+     "inclusion": 27.0,
+     "winRate": 56.2,
+     "games": 14648,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Dual-Sun Adepts",
+     "inclusion": 23.7,
+     "winRate": 56.1,
+     "games": 12870,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Sunstar Lightsmith",
+     "inclusion": 23.1,
+     "winRate": 56.1,
+     "games": 12490,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Timeline Culler",
+     "inclusion": 20.9,
+     "winRate": 56.1,
+     "games": 11411,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Astelli Reclaimer",
+     "inclusion": 9.9,
+     "winRate": 56.1,
+     "games": 5392,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Gravkill",
+     "inclusion": 45.9,
+     "winRate": 56.0,
+     "games": 24681,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Hylderblade",
+     "inclusion": 19.7,
+     "winRate": 56.0,
+     "games": 10619,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Susurian Dirgecraft",
+     "inclusion": 14.8,
+     "winRate": 56.0,
+     "games": 8061,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 5.3,
+     "winRate": 56.0,
+     "games": 2868,
+     "trophyInclusion": 6.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-25",
+    "main": [
+     [
+      1,
+      "Auxiliary Boosters"
+     ],
+     [
+      1,
+      "Banishing Light"
+     ],
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      1,
+      "Depressurize"
+     ],
+     [
+      1,
+      "Dockworker Drone"
+     ],
+     [
+      1,
+      "Embrace Oblivion"
+     ],
+     [
+      1,
+      "Faller's Faithful"
+     ],
+     [
+      1,
+      "Fell Gravship"
+     ],
+     [
+      1,
+      "Focus Fire"
+     ],
+     [
+      1,
+      "Gravkill"
+     ],
+     [
+      1,
+      "Gravpack Monoist"
+     ],
+     [
+      2,
+      "Hullcarver"
+     ],
+     [
+      1,
+      "Hylderblade"
+     ],
+     [
+      2,
+      "Knight Luminary"
+     ],
+     [
+      1,
+      "Monoist Circuit-Feeder"
+     ],
+     [
+      1,
+      "Perigee Beckoner"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Rayblade Trooper"
+     ],
+     [
+      1,
+      "Starfighter Pilot"
+     ],
+     [
+      1,
+      "Susurian Voidborn"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syr Vondam, the Lucent"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dawnstrike Vanguard"
+     ],
+     [
+      1,
+      "Dual-Sun Technique"
+     ],
+     [
+      1,
+      "Exosuit Savior"
+     ],
+     [
+      1,
+      "Lost in Space"
+     ],
+     [
+      2,
+      "Luxknight Breacher"
+     ],
+     [
+      1,
+      "Quantum Riddler"
+     ],
+     [
+      1,
+      "Rescue Skiff"
+     ],
+     [
+      1,
+      "Sinister Cryologist"
+     ],
+     [
+      1,
+      "Squire's Lightblade"
+     ],
+     [
+      1,
+      "Starport Security"
+     ],
+     [
+      1,
+      "Survey Mechan"
+     ],
+     [
+      2,
+      "Wurmwall Sweeper"
+     ],
+     [
+      1,
+      "Zealous Display"
+     ],
+     [
+      1,
+      "Zookeeper Mechan"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 53269,
+   "wins": 29518,
+   "winRate": 55.41,
+   "share": 9.45,
+   "drafts": 9745,
+   "trophies": 790,
+   "cards": [
+    {
+     "name": "Cosmogrand Zenith",
+     "inclusion": 6.5,
+     "winRate": 59.4,
+     "games": 3717,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Quantum Riddler",
+     "inclusion": 5.3,
+     "winRate": 59.0,
+     "games": 3073,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Celestial Colonnade",
+     "inclusion": 5.2,
+     "winRate": 58.6,
+     "games": 2925,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Beyond the Quiet",
+     "inclusion": 11.0,
+     "winRate": 58.5,
+     "games": 6124,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Sunstar Chaplain",
+     "inclusion": 11.3,
+     "winRate": 58.1,
+     "games": 6175,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Synthesizer Labship",
+     "inclusion": 10.5,
+     "winRate": 57.7,
+     "games": 5716,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Lumen-Class Frigate",
+     "inclusion": 10.4,
+     "winRate": 57.6,
+     "games": 5722,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Codecracker Hound",
+     "inclusion": 31.1,
+     "winRate": 57.4,
+     "games": 17128,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "All-Fates Stalker",
+     "inclusion": 30.1,
+     "winRate": 57.0,
+     "games": 16342,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Haliya, Guided by Light",
+     "inclusion": 10.6,
+     "winRate": 57.0,
+     "games": 5796,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Knight Luminary",
+     "inclusion": 51.6,
+     "winRate": 56.6,
+     "games": 27680,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Starfield Shepherd",
+     "inclusion": 28.7,
+     "winRate": 56.6,
+     "games": 15514,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Cryogen Relic",
+     "inclusion": 55.0,
+     "winRate": 56.5,
+     "games": 29705,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Banishing Light",
+     "inclusion": 54.6,
+     "winRate": 56.5,
+     "games": 29527,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Lightstall Inquisitor",
+     "inclusion": 10.0,
+     "winRate": 56.5,
+     "games": 5356,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Station Monitor",
+     "inclusion": 58.1,
+     "winRate": 56.4,
+     "games": 31376,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Lost in Space",
+     "inclusion": 35.6,
+     "winRate": 56.4,
+     "games": 19189,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Dual-Sun Adepts",
+     "inclusion": 21.6,
+     "winRate": 56.4,
+     "games": 11597,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Astelli Reclaimer",
+     "inclusion": 10.2,
+     "winRate": 56.4,
+     "games": 5560,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Rayblade Trooper",
+     "inclusion": 24.2,
+     "winRate": 56.3,
+     "games": 13018,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Uthros Scanship",
+     "inclusion": 21.9,
+     "winRate": 56.3,
+     "games": 11733,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 5.8,
+     "winRate": 56.3,
+     "games": 3129,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Gigastorm Titan",
+     "inclusion": 32.9,
+     "winRate": 56.2,
+     "games": 17829,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Wurmwall Sweeper",
+     "inclusion": 18.5,
+     "winRate": 56.1,
+     "games": 9986,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 13.2,
+     "winRate": 56.1,
+     "games": 7062,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Focus Fire",
+     "inclusion": 53.2,
+     "winRate": 56.0,
+     "games": 28648,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Sunstar Lightsmith",
+     "inclusion": 32.6,
+     "winRate": 56.0,
+     "games": 17459,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Sunstar Expansionist",
+     "inclusion": 26.7,
+     "winRate": 56.0,
+     "games": 14352,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Uthros Psionicist",
+     "inclusion": 33.6,
+     "winRate": 55.9,
+     "games": 18026,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Tractor Beam",
+     "inclusion": 28.0,
+     "winRate": 55.9,
+     "games": 14999,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Honor",
+     "inclusion": 23.0,
+     "winRate": 55.9,
+     "games": 12221,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Illvoi Galeblade",
+     "inclusion": 48.6,
+     "winRate": 55.8,
+     "games": 26047,
+     "trophyInclusion": 49.6
+    },
+    {
+     "name": "Weftwalking",
+     "inclusion": 5.5,
+     "winRate": 55.8,
+     "games": 2942,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Honored Knight-Captain",
+     "inclusion": 21.1,
+     "winRate": 55.7,
+     "games": 11165,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Consult the Star Charts",
+     "inclusion": 9.9,
+     "winRate": 55.7,
+     "games": 5228,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Cryoshatter",
+     "inclusion": 53.3,
+     "winRate": 55.6,
+     "games": 28594,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Mental Modulation",
+     "inclusion": 35.8,
+     "winRate": 55.6,
+     "games": 19089,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Pulsar Squadron Ace",
+     "inclusion": 21.2,
+     "winRate": 55.6,
+     "games": 11361,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Illvoi Infiltrator",
+     "inclusion": 29.2,
+     "winRate": 55.5,
+     "games": 15596,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Mouth of the Storm",
+     "inclusion": 21.6,
+     "winRate": 55.5,
+     "games": 11524,
+     "trophyInclusion": 21.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-08-06",
+    "main": [
+     [
+      1,
+      "Auxiliary Boosters"
+     ],
+     [
+      1,
+      "Banishing Light"
+     ],
+     [
+      1,
+      "Command Bridge"
+     ],
+     [
+      1,
+      "Cryogen Relic"
+     ],
+     [
+      1,
+      "Cryoshatter"
+     ],
+     [
+      1,
+      "Emergency Eject"
+     ],
+     [
+      1,
+      "Focus Fire"
+     ],
+     [
+      1,
+      "Gigastorm Titan"
+     ],
+     [
+      1,
+      "Honor"
+     ],
+     [
+      1,
+      "Illvoi Galeblade"
+     ],
+     [
+      1,
+      "Illvoi Infiltrator"
+     ],
+     [
+      1,
+      "Illvoi Operative"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Knight Luminary"
+     ],
+     [
+      1,
+      "Mechanozoa"
+     ],
+     [
+      1,
+      "Mental Modulation"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Radiant Strike"
+     ],
+     [
+      1,
+      "Rayblade Trooper"
+     ],
+     [
+      1,
+      "Starbreach Whale"
+     ],
+     [
+      1,
+      "Starfield Shepherd"
+     ],
+     [
+      2,
+      "Sunstar Lightsmith"
+     ],
+     [
+      1,
+      "Tractor Beam"
+     ],
+     [
+      2,
+      "Uthros Psionicist"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Annul"
+     ],
+     [
+      1,
+      "Dawnstrike Vanguard"
+     ],
+     [
+      1,
+      "Divert Disaster"
+     ],
+     [
+      1,
+      "Flight-Deck Coordinator"
+     ],
+     [
+      1,
+      "Focus Fire"
+     ],
+     [
+      1,
+      "Gene Pollinator"
+     ],
+     [
+      1,
+      "Mechanozoa"
+     ],
+     [
+      1,
+      "Pulsar Squadron Ace"
+     ],
+     [
+      1,
+      "Radiant Strike"
+     ],
+     [
+      1,
+      "Rig for War"
+     ],
+     [
+      1,
+      "Selfcraft Mechan"
+     ],
+     [
+      1,
+      "Temporal Intervention"
+     ],
+     [
+      1,
+      "Territorial Bruntar"
+     ],
+     [
+      1,
+      "Uthros Scanship"
+     ],
+     [
+      1,
+      "Zookeeper Mechan"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 39114,
+   "wins": 21031,
+   "winRate": 53.77,
+   "share": 6.94,
+   "drafts": 7291,
+   "trophies": 505,
+   "cards": [
+    {
+     "name": "Warmaker Gunship",
+     "inclusion": 15.0,
+     "winRate": 57.8,
+     "games": 6220,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Nova Hellkite",
+     "inclusion": 10.8,
+     "winRate": 56.9,
+     "games": 4423,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Possibility Technician",
+     "inclusion": 11.7,
+     "winRate": 56.7,
+     "games": 4646,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Synthesizer Labship",
+     "inclusion": 13.2,
+     "winRate": 56.4,
+     "games": 5392,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Rust Harvester",
+     "inclusion": 15.6,
+     "winRate": 56.1,
+     "games": 6287,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Terrapact Intimidator",
+     "inclusion": 27.6,
+     "winRate": 55.8,
+     "games": 11091,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Mouth of the Storm",
+     "inclusion": 21.6,
+     "winRate": 55.5,
+     "games": 8631,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Pinnacle Emissary",
+     "inclusion": 28.5,
+     "winRate": 55.4,
+     "games": 11446,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.1,
+     "winRate": 55.3,
+     "games": 2043,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Cryogen Relic",
+     "inclusion": 59.5,
+     "winRate": 55.1,
+     "games": 23654,
+     "trophyInclusion": 67.9
+    },
+    {
+     "name": "Codecracker Hound",
+     "inclusion": 27.5,
+     "winRate": 55.1,
+     "games": 10877,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Uthros Psionicist",
+     "inclusion": 20.9,
+     "winRate": 55.1,
+     "games": 8404,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Tractor Beam",
+     "inclusion": 26.8,
+     "winRate": 55.0,
+     "games": 10686,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 5.9,
+     "winRate": 54.9,
+     "games": 2385,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Gigastorm Titan",
+     "inclusion": 23.4,
+     "winRate": 54.8,
+     "games": 9260,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Orbital Plunge",
+     "inclusion": 56.8,
+     "winRate": 54.7,
+     "games": 22405,
+     "trophyInclusion": 61.6
+    },
+    {
+     "name": "Zookeeper Mechan",
+     "inclusion": 59.9,
+     "winRate": 54.6,
+     "games": 23668,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Selfcraft Mechan",
+     "inclusion": 58.6,
+     "winRate": 54.6,
+     "games": 23224,
+     "trophyInclusion": 63.6
+    },
+    {
+     "name": "Plasma Bolt",
+     "inclusion": 49.3,
+     "winRate": 54.5,
+     "games": 19607,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Invasive Maneuvers",
+     "inclusion": 24.7,
+     "winRate": 54.5,
+     "games": 9710,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Consult the Star Charts",
+     "inclusion": 10.0,
+     "winRate": 54.5,
+     "games": 3987,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Kav Landseeker",
+     "inclusion": 41.4,
+     "winRate": 54.4,
+     "games": 16308,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Desculpting Blast",
+     "inclusion": 26.8,
+     "winRate": 54.4,
+     "games": 10604,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Nebula Dragon",
+     "inclusion": 19.3,
+     "winRate": 54.4,
+     "games": 7479,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Illvoi Light Jammer",
+     "inclusion": 26.3,
+     "winRate": 54.3,
+     "games": 10360,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Emissary Escort",
+     "inclusion": 14.1,
+     "winRate": 54.3,
+     "games": 5569,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Starwinder",
+     "inclusion": 8.8,
+     "winRate": 54.2,
+     "games": 3464,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Oreplate Pangolin",
+     "inclusion": 57.5,
+     "winRate": 54.1,
+     "games": 22722,
+     "trophyInclusion": 59.8
+    },
+    {
+     "name": "Nutrient Block",
+     "inclusion": 25.4,
+     "winRate": 54.1,
+     "games": 10040,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Melded Moxite",
+     "inclusion": 50.3,
+     "winRate": 54.0,
+     "games": 19674,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Mechanozoa",
+     "inclusion": 46.9,
+     "winRate": 54.0,
+     "games": 18492,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 7.6,
+     "winRate": 54.0,
+     "games": 2907,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Slagdrill Scrapper",
+     "inclusion": 38.3,
+     "winRate": 53.9,
+     "games": 14896,
+     "trophyInclusion": 39.2
+    },
+    {
+     "name": "Lost in Space",
+     "inclusion": 30.6,
+     "winRate": 53.9,
+     "games": 12017,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Cut Propulsion",
+     "inclusion": 26.5,
+     "winRate": 53.9,
+     "games": 10487,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 23.0,
+     "winRate": 53.9,
+     "games": 8989,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Cryoshatter",
+     "inclusion": 46.8,
+     "winRate": 53.8,
+     "games": 18352,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Nanoform Sentinel",
+     "inclusion": 29.1,
+     "winRate": 53.7,
+     "games": 11443,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Divert Disaster",
+     "inclusion": 22.4,
+     "winRate": 53.7,
+     "games": 8765,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Specimen Freighter",
+     "inclusion": 22.1,
+     "winRate": 53.7,
+     "games": 8602,
+     "trophyInclusion": 24.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-31",
+    "main": [
+     [
+      1,
+      "Blinkmoth Nexus"
+     ],
+     [
+      1,
+      "Bombard"
+     ],
+     [
+      1,
+      "Cerebral Download"
+     ],
+     [
+      1,
+      "Codecracker Hound"
+     ],
+     [
+      1,
+      "Command Bridge"
+     ],
+     [
+      1,
+      "Cryogen Relic"
+     ],
+     [
+      1,
+      "Cryoshatter"
+     ],
+     [
+      1,
+      "Dauntless Scrapbot"
+     ],
+     [
+      2,
+      "Desculpting Blast"
+     ],
+     [
+      1,
+      "Divert Disaster"
+     ],
+     [
+      1,
+      "Gigastorm Titan"
+     ],
+     [
+      1,
+      "Illvoi Light Jammer"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "Kavaron Harrier"
+     ],
+     [
+      1,
+      "Mechanozoa"
+     ],
+     [
+      1,
+      "Melded Moxite"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mouth of the Storm"
+     ],
+     [
+      1,
+      "Orbital Plunge"
+     ],
+     [
+      1,
+      "Oreplate Pangolin"
+     ],
+     [
+      1,
+      "Scour for Scrap"
+     ],
+     [
+      3,
+      "Selfcraft Mechan"
+     ],
+     [
+      1,
+      "Slagdrill Scrapper"
+     ],
+     [
+      1,
+      "Tractor Beam"
+     ],
+     [
+      1,
+      "Weapons Manufacturing"
+     ],
+     [
+      1,
+      "Zookeeper Mechan"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Breeding Pool"
+     ],
+     [
+      1,
+      "Galvanizing Sawship"
+     ],
+     [
+      1,
+      "Illvoi Galeblade"
+     ],
+     [
+      1,
+      "Illvoi Operative"
+     ],
+     [
+      1,
+      "Mental Modulation"
+     ],
+     [
+      2,
+      "Rig for War"
+     ],
+     [
+      1,
+      "Roving Actuator"
+     ],
+     [
+      1,
+      "Sami's Curiosity"
+     ],
+     [
+      1,
+      "Squire's Lightblade"
+     ],
+     [
+      1,
+      "Steelswarm Operator"
+     ],
+     [
+      1,
+      "Thawbringer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 34412,
+   "wins": 18503,
+   "winRate": 53.77,
+   "share": 6.11,
+   "drafts": 6403,
+   "trophies": 456,
+   "cards": [
+    {
+     "name": "Elegy Acolyte",
+     "inclusion": 12.8,
+     "winRate": 57.6,
+     "games": 4681,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Ouroboroid",
+     "inclusion": 6.3,
+     "winRate": 56.7,
+     "games": 2290,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 5.4,
+     "winRate": 56.5,
+     "games": 1929,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Sunset Saboteur",
+     "inclusion": 11.2,
+     "winRate": 56.4,
+     "games": 4032,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Genemorph Imago",
+     "inclusion": 5.1,
+     "winRate": 56.2,
+     "games": 1826,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Monoist Circuit-Feeder",
+     "inclusion": 23.9,
+     "winRate": 55.9,
+     "games": 8422,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Mightform Harmonizer",
+     "inclusion": 10.3,
+     "winRate": 55.9,
+     "games": 3618,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Extinguisher Battleship",
+     "inclusion": 6.7,
+     "winRate": 55.7,
+     "games": 2359,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Singularity Rupture",
+     "inclusion": 5.9,
+     "winRate": 55.6,
+     "games": 2065,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Dubious Delicacy",
+     "inclusion": 28.7,
+     "winRate": 55.5,
+     "games": 10074,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Fell Gravship",
+     "inclusion": 29.1,
+     "winRate": 55.3,
+     "games": 10102,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Glacier Godmaw",
+     "inclusion": 28.8,
+     "winRate": 55.3,
+     "games": 10108,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Thawbringer",
+     "inclusion": 38.7,
+     "winRate": 55.2,
+     "games": 13583,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Thrumming Hivepool",
+     "inclusion": 6.1,
+     "winRate": 55.2,
+     "games": 2161,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Galactic Wayfarer",
+     "inclusion": 56.1,
+     "winRate": 55.1,
+     "games": 19609,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 27.7,
+     "winRate": 55.0,
+     "games": 9707,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Harmonious Grovestrider",
+     "inclusion": 26.3,
+     "winRate": 55.0,
+     "games": 9266,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Meltstrider's Resolve",
+     "inclusion": 24.2,
+     "winRate": 54.9,
+     "games": 8339,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.4,
+     "winRate": 54.9,
+     "games": 1902,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Larval Scoutlander",
+     "inclusion": 25.5,
+     "winRate": 54.8,
+     "games": 8876,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Biomechan Engineer",
+     "inclusion": 10.2,
+     "winRate": 54.8,
+     "games": 3543,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Survey Mechan",
+     "inclusion": 11.4,
+     "winRate": 54.7,
+     "games": 3965,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Icecave Crasher",
+     "inclusion": 39.4,
+     "winRate": 54.6,
+     "games": 13650,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Edge Rover",
+     "inclusion": 24.0,
+     "winRate": 54.6,
+     "games": 8390,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Biosynthic Burst",
+     "inclusion": 33.0,
+     "winRate": 54.4,
+     "games": 11518,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Faller's Faithful",
+     "inclusion": 24.1,
+     "winRate": 54.4,
+     "games": 8411,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Gene Pollinator",
+     "inclusion": 52.6,
+     "winRate": 54.3,
+     "games": 18230,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Germinating Wurm",
+     "inclusion": 44.0,
+     "winRate": 54.3,
+     "games": 15266,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Close Encounter",
+     "inclusion": 23.2,
+     "winRate": 54.3,
+     "games": 8036,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Zero Point Ballad",
+     "inclusion": 10.9,
+     "winRate": 54.3,
+     "games": 3787,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Archenemy's Charm",
+     "inclusion": 7.7,
+     "winRate": 54.3,
+     "games": 2688,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Interceptor Mechan",
+     "inclusion": 5.7,
+     "winRate": 54.3,
+     "games": 1934,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Depressurize",
+     "inclusion": 52.5,
+     "winRate": 54.2,
+     "games": 18129,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Seedship Broodtender",
+     "inclusion": 50.8,
+     "winRate": 54.1,
+     "games": 17639,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Diplomatic Relations",
+     "inclusion": 49.9,
+     "winRate": 54.1,
+     "games": 17257,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Gravkill",
+     "inclusion": 52.6,
+     "winRate": 54.0,
+     "games": 18207,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Seedship Agrarian",
+     "inclusion": 23.9,
+     "winRate": 54.0,
+     "games": 8206,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Seedship Impact",
+     "inclusion": 22.1,
+     "winRate": 54.0,
+     "games": 7566,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Umbral Collar Zealot",
+     "inclusion": 21.1,
+     "winRate": 54.0,
+     "games": 7289,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Eusocial Engineering",
+     "inclusion": 21.0,
+     "winRate": 54.0,
+     "games": 7247,
+     "trophyInclusion": 18.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-03",
+    "main": [
+     [
+      1,
+      "Beamsaw Prospector"
+     ],
+     [
+      2,
+      "Blooming Stinger"
+     ],
+     [
+      1,
+      "Close Encounter"
+     ],
+     [
+      1,
+      "Decode Transmissions"
+     ],
+     [
+      1,
+      "Depressurize"
+     ],
+     [
+      1,
+      "Dubious Delicacy"
+     ],
+     [
+      1,
+      "Embrace Oblivion"
+     ],
+     [
+      1,
+      "Eumidian Terrabotanist"
+     ],
+     [
+      1,
+      "Fell Gravship"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Galactic Wayfarer"
+     ],
+     [
+      2,
+      "Gene Pollinator"
+     ],
+     [
+      1,
+      "Germinating Wurm"
+     ],
+     [
+      1,
+      "Glacier Godmaw"
+     ],
+     [
+      1,
+      "Gravkill"
+     ],
+     [
+      1,
+      "Hullcarver"
+     ],
+     [
+      1,
+      "Larval Scoutlander"
+     ],
+     [
+      1,
+      "Perigee Beckoner"
+     ],
+     [
+      1,
+      "Seedship Impact"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swarm Culler"
+     ],
+     [
+      1,
+      "Thawbringer"
+     ],
+     [
+      1,
+      "Timeline Culler"
+     ],
+     [
+      1,
+      "Virus Beetle"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Dark Endurance"
+     ],
+     [
+      1,
+      "Fungal Colossus"
+     ],
+     [
+      1,
+      "Hylderblade"
+     ],
+     [
+      1,
+      "Lumbering Falls"
+     ],
+     [
+      1,
+      "Moonlit Meditation"
+     ],
+     [
+      1,
+      "Roving Actuator"
+     ],
+     [
+      1,
+      "Shattered Wings"
+     ],
+     [
+      1,
+      "Sinister Cryologist"
+     ],
+     [
+      1,
+      "Stomping Ground"
+     ],
+     [
+      3,
+      "Temporal Intervention"
+     ],
+     [
+      1,
+      "The Eternity Elevator"
+     ],
+     [
+      1,
+      "Umbral Collar Zealot"
+     ],
+     [
+      1,
+      "Zealous Display"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 23275,
+   "wins": 12486,
+   "winRate": 53.65,
+   "share": 4.13,
+   "drafts": 4284,
+   "trophies": 305,
+   "cards": [
+    {
+     "name": "Kavaron, Memorial World",
+     "inclusion": 5.6,
+     "winRate": 57.8,
+     "games": 1366,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Nova Hellkite",
+     "inclusion": 13.1,
+     "winRate": 56.3,
+     "games": 3146,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Lumen-Class Frigate",
+     "inclusion": 13.3,
+     "winRate": 56.2,
+     "games": 3227,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "The Seriema",
+     "inclusion": 9.4,
+     "winRate": 56.1,
+     "games": 2284,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Warmaker Gunship",
+     "inclusion": 12.3,
+     "winRate": 55.9,
+     "games": 2953,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "All-Fates Stalker",
+     "inclusion": 26.8,
+     "winRate": 55.8,
+     "games": 6423,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Needle Spires",
+     "inclusion": 5.0,
+     "winRate": 55.8,
+     "games": 1199,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Beyond the Quiet",
+     "inclusion": 8.2,
+     "winRate": 55.5,
+     "games": 1956,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Rayblade Trooper",
+     "inclusion": 25.6,
+     "winRate": 55.4,
+     "games": 6116,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Sunstar Chaplain",
+     "inclusion": 13.4,
+     "winRate": 55.4,
+     "games": 3136,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Possibility Technician",
+     "inclusion": 14.8,
+     "winRate": 55.2,
+     "games": 3555,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Kavaron Harrier",
+     "inclusion": 25.0,
+     "winRate": 55.1,
+     "games": 6037,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Starfield Shepherd",
+     "inclusion": 27.3,
+     "winRate": 55.0,
+     "games": 6459,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Cut Propulsion",
+     "inclusion": 24.7,
+     "winRate": 55.0,
+     "games": 5816,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Molecular Modifier",
+     "inclusion": 27.5,
+     "winRate": 54.9,
+     "games": 6519,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Lightstall Inquisitor",
+     "inclusion": 10.7,
+     "winRate": 54.9,
+     "games": 2556,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Rig for War",
+     "inclusion": 10.5,
+     "winRate": 54.9,
+     "games": 2485,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Terrapact Intimidator",
+     "inclusion": 28.9,
+     "winRate": 54.8,
+     "games": 6791,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Secluded Starforge",
+     "inclusion": 5.1,
+     "winRate": 54.8,
+     "games": 1200,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Wurmwall Sweeper",
+     "inclusion": 25.0,
+     "winRate": 54.7,
+     "games": 5859,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Astelli Reclaimer",
+     "inclusion": 11.2,
+     "winRate": 54.7,
+     "games": 2692,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Anticausal Vestige",
+     "inclusion": 5.5,
+     "winRate": 54.7,
+     "games": 1269,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Exalted Sunborn",
+     "inclusion": 5.1,
+     "winRate": 54.7,
+     "games": 1181,
+     "trophyInclusion": 4.9
+    },
+    {
+     "name": "Rust Harvester",
+     "inclusion": 11.2,
+     "winRate": 54.6,
+     "games": 2646,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Banishing Light",
+     "inclusion": 52.1,
+     "winRate": 54.5,
+     "games": 12213,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Haliya, Guided by Light",
+     "inclusion": 10.8,
+     "winRate": 54.5,
+     "games": 2539,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Pain for All",
+     "inclusion": 9.5,
+     "winRate": 54.5,
+     "games": 2218,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Sunstar Lightsmith",
+     "inclusion": 22.4,
+     "winRate": 54.4,
+     "games": 5304,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Pinnacle Kill-Ship",
+     "inclusion": 16.2,
+     "winRate": 54.4,
+     "games": 3809,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Orbital Plunge",
+     "inclusion": 50.9,
+     "winRate": 54.3,
+     "games": 11995,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Pulsar Squadron Ace",
+     "inclusion": 25.6,
+     "winRate": 54.3,
+     "games": 5998,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Nebula Dragon",
+     "inclusion": 19.2,
+     "winRate": 54.3,
+     "games": 4494,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Knight Luminary",
+     "inclusion": 52.7,
+     "winRate": 54.1,
+     "games": 12386,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "Focus Fire",
+     "inclusion": 49.2,
+     "winRate": 54.1,
+     "games": 11532,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Sunstar Expansionist",
+     "inclusion": 28.1,
+     "winRate": 54.1,
+     "games": 6596,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Honor",
+     "inclusion": 17.3,
+     "winRate": 54.1,
+     "games": 4001,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Dauntless Scrapbot",
+     "inclusion": 12.7,
+     "winRate": 54.1,
+     "games": 2964,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Auxiliary Boosters",
+     "inclusion": 42.7,
+     "winRate": 54.0,
+     "games": 10039,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Sacred Foundry",
+     "inclusion": 14.2,
+     "winRate": 54.0,
+     "games": 3308,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Zookeeper Mechan",
+     "inclusion": 52.5,
+     "winRate": 53.9,
+     "games": 12191,
+     "trophyInclusion": 55.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-08-03",
+    "main": [
+     [
+      1,
+      "All-Fates Stalker"
+     ],
+     [
+      1,
+      "Auxiliary Boosters"
+     ],
+     [
+      1,
+      "Banishing Light"
+     ],
+     [
+      1,
+      "Bombard"
+     ],
+     [
+      1,
+      "Dockworker Drone"
+     ],
+     [
+      2,
+      "Dual-Sun Adepts"
+     ],
+     [
+      1,
+      "Kav Landseeker"
+     ],
+     [
+      1,
+      "Kavaron Harrier"
+     ],
+     [
+      1,
+      "Knight Luminary"
+     ],
+     [
+      1,
+      "Melded Moxite"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Orbital Plunge"
+     ],
+     [
+      3,
+      "Oreplate Pangolin"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Plasma Bolt"
+     ],
+     [
+      1,
+      "Possibility Technician"
+     ],
+     [
+      1,
+      "Rayblade Trooper"
+     ],
+     [
+      1,
+      "Sacred Foundry"
+     ],
+     [
+      2,
+      "Seam Rip"
+     ],
+     [
+      1,
+      "Starport Security"
+     ],
+     [
+      1,
+      "Sunstar Expansionist"
+     ],
+     [
+      1,
+      "Weftblade Enhancer"
+     ],
+     [
+      1,
+      "Wurmwall Sweeper"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bygone Colossus"
+     ],
+     [
+      1,
+      "Exosuit Savior"
+     ],
+     [
+      1,
+      "Fell Gravship"
+     ],
+     [
+      1,
+      "Frontline War-Rager"
+     ],
+     [
+      2,
+      "Fungal Colossus"
+     ],
+     [
+      1,
+      "Insatiable Skittermaw"
+     ],
+     [
+      1,
+      "Kavaron Turbodrone"
+     ],
+     [
+      1,
+      "Luxknight Breacher"
+     ],
+     [
+      1,
+      "Red Tiger Mechan"
+     ],
+     [
+      1,
+      "Slagdrill Scrapper"
+     ],
+     [
+      1,
+      "Squire's Lightblade"
+     ],
+     [
+      1,
+      "Syr Vondam, the Lucent"
+     ],
+     [
+      1,
+      "Zealous Display"
+     ]
+    ]
+   }
+  }
+ ]
+}

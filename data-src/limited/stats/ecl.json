@@ -1,0 +1,4967 @@
+{
+ "set": "ecl",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.ECL.PremierDraft.csv.gz",
+ "lastModified": "Mon, 18 May 2026 20:28:10 GMT",
+ "colorsDerived": false,
+ "first": "2026-01-20",
+ "last": "2026-03-05",
+ "games": 536566,
+ "drafts": 98116,
+ "winRate": 54.99,
+ "combos": [
+  {
+   "colors": "BG",
+   "games": 111191,
+   "wins": 63303,
+   "winRate": 56.93,
+   "share": 20.72,
+   "drafts": 19781,
+   "trophies": 1817,
+   "cards": [
+    {
+     "name": "Gloom Ripper",
+     "inclusion": 17.1,
+     "winRate": 61.4,
+     "games": 20145,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Trystan's Command",
+     "inclusion": 15.4,
+     "winRate": 60.0,
+     "games": 17919,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Eclipsed Elf",
+     "inclusion": 39.3,
+     "winRate": 59.5,
+     "games": 45204,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Figure of Fable",
+     "inclusion": 5.6,
+     "winRate": 59.5,
+     "games": 6492,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Morcant's Eyes",
+     "inclusion": 39.3,
+     "winRate": 59.1,
+     "games": 45054,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 5.5,
+     "winRate": 58.9,
+     "games": 6243,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Morcant's Loyalist",
+     "inclusion": 39.7,
+     "winRate": 58.8,
+     "games": 45250,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Trystan, Callous Cultivator",
+     "inclusion": 15.3,
+     "winRate": 58.8,
+     "games": 17315,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Bloodline Bidding",
+     "inclusion": 11.7,
+     "winRate": 58.8,
+     "games": 13275,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "High Perfect Morcant",
+     "inclusion": 16.5,
+     "winRate": 58.7,
+     "games": 18885,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Champions of the Perfect",
+     "inclusion": 14.2,
+     "winRate": 58.7,
+     "games": 16238,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Gathering Stone",
+     "inclusion": 17.2,
+     "winRate": 58.4,
+     "games": 19473,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Taster of Wares",
+     "inclusion": 6.3,
+     "winRate": 58.4,
+     "games": 7162,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Virulent Emissary",
+     "inclusion": 29.8,
+     "winRate": 58.3,
+     "games": 33781,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Pitiless Fists",
+     "inclusion": 25.9,
+     "winRate": 58.3,
+     "games": 29314,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Moon-Vigil Adherents",
+     "inclusion": 31.3,
+     "winRate": 58.2,
+     "games": 35612,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Bristlebane Battler",
+     "inclusion": 7.2,
+     "winRate": 58.2,
+     "games": 8317,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Iron-Shield Elf",
+     "inclusion": 33.5,
+     "winRate": 58.1,
+     "games": 37842,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Nameless Inversion",
+     "inclusion": 23.6,
+     "winRate": 58.1,
+     "games": 26766,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Maralen, Fae Ascendant",
+     "inclusion": 11.7,
+     "winRate": 57.9,
+     "games": 13173,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Formidable Speaker",
+     "inclusion": 9.9,
+     "winRate": 57.9,
+     "games": 11060,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Dawnhand Eulogist",
+     "inclusion": 67.5,
+     "winRate": 57.8,
+     "games": 76020,
+     "trophyInclusion": 73.6
+    },
+    {
+     "name": "Scarblade Scout",
+     "inclusion": 67.3,
+     "winRate": 57.8,
+     "games": 75734,
+     "trophyInclusion": 72.7
+    },
+    {
+     "name": "Assert Perfection",
+     "inclusion": 55.1,
+     "winRate": 57.8,
+     "games": 62011,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Lys Alana Dignitary",
+     "inclusion": 36.1,
+     "winRate": 57.8,
+     "games": 40496,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Creakwood Safewright",
+     "inclusion": 35.5,
+     "winRate": 57.8,
+     "games": 40073,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Lluwen, Imperfect Naturalist",
+     "inclusion": 14.0,
+     "winRate": 57.7,
+     "games": 15637,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Dawnhand Dissident",
+     "inclusion": 11.9,
+     "winRate": 57.7,
+     "games": 13300,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Midnight Tilling",
+     "inclusion": 49.2,
+     "winRate": 57.6,
+     "games": 54971,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Lys Alana Informant",
+     "inclusion": 62.4,
+     "winRate": 57.5,
+     "games": 70166,
+     "trophyInclusion": 65.4
+    },
+    {
+     "name": "Safewright Cavalry",
+     "inclusion": 61.3,
+     "winRate": 57.4,
+     "games": 68660,
+     "trophyInclusion": 64.3
+    },
+    {
+     "name": "Dawn-Blessed Pennant",
+     "inclusion": 10.9,
+     "winRate": 57.2,
+     "games": 12233,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Eclipsed Realms",
+     "inclusion": 7.1,
+     "winRate": 57.2,
+     "games": 7906,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.2,
+     "winRate": 57.1,
+     "games": 31447,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Rooftop Percher",
+     "inclusion": 22.3,
+     "winRate": 57.1,
+     "games": 24953,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Bogslither's Embrace",
+     "inclusion": 48.3,
+     "winRate": 57.0,
+     "games": 53675,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Vinebred Brawler",
+     "inclusion": 30.4,
+     "winRate": 57.0,
+     "games": 33973,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Unbury",
+     "inclusion": 24.0,
+     "winRate": 57.0,
+     "games": 26854,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Overgrown Tomb",
+     "inclusion": 8.3,
+     "winRate": 57.0,
+     "games": 9143,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Blight Rot",
+     "inclusion": 47.2,
+     "winRate": 56.9,
+     "games": 52570,
+     "trophyInclusion": 47.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-03",
+    "main": [
+     [
+      1,
+      "Assert Perfection"
+     ],
+     [
+      2,
+      "Blight Rot"
+     ],
+     [
+      1,
+      "Creakwood Safewright"
+     ],
+     [
+      1,
+      "Dawn's Light Archer"
+     ],
+     [
+      1,
+      "Dawnhand Eulogist"
+     ],
+     [
+      2,
+      "Eclipsed Elf"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Iron-Shield Elf"
+     ],
+     [
+      1,
+      "Lys Alana Dignitary"
+     ],
+     [
+      2,
+      "Lys Alana Informant"
+     ],
+     [
+      1,
+      "Midnight Tilling"
+     ],
+     [
+      1,
+      "Moonglove Extractor"
+     ],
+     [
+      1,
+      "Morcant's Eyes"
+     ],
+     [
+      1,
+      "Morcant's Loyalist"
+     ],
+     [
+      1,
+      "Nameless Inversion"
+     ],
+     [
+      1,
+      "Rooftop Percher"
+     ],
+     [
+      1,
+      "Safewright Cavalry"
+     ],
+     [
+      1,
+      "Scarblade Scout"
+     ],
+     [
+      1,
+      "Scarblade's Malice"
+     ],
+     [
+      1,
+      "Stoic Grove-Guide"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Vinebred Brawler"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bile-Vial Boggart"
+     ],
+     [
+      1,
+      "Burning Curiosity"
+     ],
+     [
+      1,
+      "Chaos Spewer"
+     ],
+     [
+      1,
+      "Elder Auntie"
+     ],
+     [
+      1,
+      "Heirloom Auntie"
+     ],
+     [
+      1,
+      "Hovel Hurler"
+     ],
+     [
+      1,
+      "Midnight Tilling"
+     ],
+     [
+      2,
+      "Mischievous Sneakling"
+     ],
+     [
+      1,
+      "Moonglove Extractor"
+     ],
+     [
+      1,
+      "Mutable Explorer"
+     ],
+     [
+      1,
+      "Rimefire Torque"
+     ],
+     [
+      1,
+      "Run Away Together"
+     ],
+     [
+      1,
+      "Scarblade's Malice"
+     ],
+     [
+      1,
+      "Shimmerwilds Growth"
+     ],
+     [
+      1,
+      "Sunderflock"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 94969,
+   "wins": 53613,
+   "winRate": 56.45,
+   "share": 17.7,
+   "drafts": 17029,
+   "trophies": 1485,
+   "cards": [
+    {
+     "name": "Kinbinding",
+     "inclusion": 9.8,
+     "winRate": 60.4,
+     "games": 9909,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Loch Mare",
+     "inclusion": 5.7,
+     "winRate": 59.7,
+     "games": 5674,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Slumbering Walker",
+     "inclusion": 9.8,
+     "winRate": 59.4,
+     "games": 9588,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Champions of the Shoal",
+     "inclusion": 18.2,
+     "winRate": 59.3,
+     "games": 17947,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Figure of Fable",
+     "inclusion": 6.0,
+     "winRate": 59.2,
+     "games": 5886,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Rimekin Recluse",
+     "inclusion": 23.9,
+     "winRate": 58.8,
+     "games": 23436,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Disruptor of Currents",
+     "inclusion": 14.8,
+     "winRate": 58.8,
+     "games": 14446,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Deepchannel Duelist",
+     "inclusion": 46.2,
+     "winRate": 58.7,
+     "games": 45225,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Eclipsed Merrow",
+     "inclusion": 45.2,
+     "winRate": 58.7,
+     "games": 44138,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 6.6,
+     "winRate": 58.7,
+     "games": 6507,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Silvergill Mentor",
+     "inclusion": 41.6,
+     "winRate": 58.2,
+     "games": 40371,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Sygg, Wanderwine Wisdom",
+     "inclusion": 15.7,
+     "winRate": 58.2,
+     "games": 15220,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Curious Colossus",
+     "inclusion": 5.1,
+     "winRate": 58.2,
+     "games": 5016,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Wanderbrine Trapper",
+     "inclusion": 37.6,
+     "winRate": 58.0,
+     "games": 36257,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Flitterwing Nuisance",
+     "inclusion": 10.6,
+     "winRate": 57.9,
+     "games": 10264,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Wanderwine Farewell",
+     "inclusion": 35.8,
+     "winRate": 57.8,
+     "games": 34672,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Pyrrhic Strike",
+     "inclusion": 24.6,
+     "winRate": 57.8,
+     "games": 23810,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Sygg's Command",
+     "inclusion": 17.8,
+     "winRate": 57.5,
+     "games": 17120,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Merrow Skyswimmer",
+     "inclusion": 68.7,
+     "winRate": 57.2,
+     "games": 65936,
+     "trophyInclusion": 72.6
+    },
+    {
+     "name": "Protective Response",
+     "inclusion": 24.0,
+     "winRate": 57.2,
+     "games": 23059,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Temporal Cleansing",
+     "inclusion": 50.0,
+     "winRate": 57.1,
+     "games": 47969,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Encumbered Reejerey",
+     "inclusion": 32.8,
+     "winRate": 57.1,
+     "games": 31453,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Omni-Changeling",
+     "inclusion": 25.5,
+     "winRate": 57.0,
+     "games": 24287,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Glamer Gifter",
+     "inclusion": 24.6,
+     "winRate": 57.0,
+     "games": 23478,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Shinestriker",
+     "inclusion": 14.0,
+     "winRate": 57.0,
+     "games": 13422,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Gathering Stone",
+     "inclusion": 14.0,
+     "winRate": 56.9,
+     "games": 13375,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Glen Elendra's Answer",
+     "inclusion": 5.0,
+     "winRate": 56.9,
+     "games": 4826,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Gravelgill Scoundrel",
+     "inclusion": 63.4,
+     "winRate": 56.8,
+     "games": 60586,
+     "trophyInclusion": 64.1
+    },
+    {
+     "name": "Unexpected Assistance",
+     "inclusion": 57.5,
+     "winRate": 56.8,
+     "games": 54817,
+     "trophyInclusion": 61.0
+    },
+    {
+     "name": "Clachan Festival",
+     "inclusion": 9.8,
+     "winRate": 56.8,
+     "games": 9314,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Wanderbrine Preacher",
+     "inclusion": 64.3,
+     "winRate": 56.7,
+     "games": 61108,
+     "trophyInclusion": 66.2
+    },
+    {
+     "name": "Blossombind",
+     "inclusion": 48.5,
+     "winRate": 56.7,
+     "games": 46207,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Unwelcome Sprite",
+     "inclusion": 19.4,
+     "winRate": 56.7,
+     "games": 18473,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Glen Elendra Guardian",
+     "inclusion": 9.2,
+     "winRate": 56.7,
+     "games": 8746,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Silvergill Peddler",
+     "inclusion": 58.3,
+     "winRate": 56.6,
+     "games": 55626,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Adept Watershaper",
+     "inclusion": 12.8,
+     "winRate": 56.6,
+     "games": 12396,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Tributary Vaulter",
+     "inclusion": 59.0,
+     "winRate": 56.5,
+     "games": 56030,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 22.1,
+     "winRate": 56.4,
+     "games": 20900,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Personify",
+     "inclusion": 14.1,
+     "winRate": 56.4,
+     "games": 13328,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Liminal Hold",
+     "inclusion": 47.2,
+     "winRate": 56.3,
+     "games": 44958,
+     "trophyInclusion": 46.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-02-20",
+    "main": [
+     [
+      1,
+      "Adept Watershaper"
+     ],
+     [
+      1,
+      "Blossombind"
+     ],
+     [
+      1,
+      "Deepchannel Duelist"
+     ],
+     [
+      1,
+      "Eclipsed Merrow"
+     ],
+     [
+      1,
+      "Gravelgill Scoundrel"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      2,
+      "Liminal Hold"
+     ],
+     [
+      1,
+      "Lofty Dreams"
+     ],
+     [
+      1,
+      "Meanders Guide"
+     ],
+     [
+      2,
+      "Merrow Skyswimmer"
+     ],
+     [
+      1,
+      "Pestered Wellguard"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Protective Response"
+     ],
+     [
+      1,
+      "Rimekin Recluse"
+     ],
+     [
+      1,
+      "Shinestriker"
+     ],
+     [
+      1,
+      "Silvergill Mentor"
+     ],
+     [
+      1,
+      "Silvergill Peddler"
+     ],
+     [
+      1,
+      "Slumbering Walker"
+     ],
+     [
+      1,
+      "Spiral into Solitude"
+     ],
+     [
+      1,
+      "Temporal Cleansing"
+     ],
+     [
+      1,
+      "Tributary Vaulter"
+     ],
+     [
+      1,
+      "Unexpected Assistance"
+     ],
+     [
+      1,
+      "Wanderbrine Preacher"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aquitect's Defenses"
+     ],
+     [
+      1,
+      "Boldwyr Aggressor"
+     ],
+     [
+      1,
+      "Bristlebane Outrider"
+     ],
+     [
+      1,
+      "Chitinous Graspling"
+     ],
+     [
+      1,
+      "Flock Impostor"
+     ],
+     [
+      1,
+      "Keep Out"
+     ],
+     [
+      1,
+      "Run Away Together"
+     ],
+     [
+      2,
+      "Silvergill Peddler"
+     ],
+     [
+      1,
+      "Summit Sentinel"
+     ],
+     [
+      1,
+      "Sun-Dappled Celebrant"
+     ],
+     [
+      2,
+      "Temple Garden"
+     ],
+     [
+      1,
+      "Timid Shieldbearer"
+     ],
+     [
+      1,
+      "Unexpected Assistance"
+     ],
+     [
+      1,
+      "Wildvine Pummeler"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 83939,
+   "wins": 46789,
+   "winRate": 55.74,
+   "share": 15.64,
+   "drafts": 15208,
+   "trophies": 1304,
+   "cards": [
+    {
+     "name": "Ashling's Command",
+     "inclusion": 19.0,
+     "winRate": 60.7,
+     "games": 17051,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Sunderflock",
+     "inclusion": 18.7,
+     "winRate": 60.1,
+     "games": 16730,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Soul Immolation",
+     "inclusion": 7.8,
+     "winRate": 59.5,
+     "games": 6974,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Loch Mare",
+     "inclusion": 6.0,
+     "winRate": 59.2,
+     "games": 5227,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Spinerock Tyrant",
+     "inclusion": 7.4,
+     "winRate": 58.3,
+     "games": 6384,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Disruptor of Currents",
+     "inclusion": 9.6,
+     "winRate": 58.1,
+     "games": 8320,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Eclipsed Flamekin",
+     "inclusion": 43.5,
+     "winRate": 57.6,
+     "games": 37356,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Rimekin Recluse",
+     "inclusion": 33.9,
+     "winRate": 57.6,
+     "games": 29350,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Glen Elendra's Answer",
+     "inclusion": 5.1,
+     "winRate": 57.6,
+     "games": 4335,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Ashling, Rekindled",
+     "inclusion": 18.4,
+     "winRate": 57.4,
+     "games": 15775,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 33.6,
+     "winRate": 57.3,
+     "games": 28841,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 11.9,
+     "winRate": 57.3,
+     "games": 10300,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Flamebraider",
+     "inclusion": 41.8,
+     "winRate": 57.2,
+     "games": 35792,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "End-Blaze Epiphany",
+     "inclusion": 13.3,
+     "winRate": 57.1,
+     "games": 11384,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Shinestriker",
+     "inclusion": 32.0,
+     "winRate": 57.0,
+     "games": 27383,
+     "trophyInclusion": 34.2
+    },
+    {
+     "name": "Gathering Stone",
+     "inclusion": 15.2,
+     "winRate": 57.0,
+     "games": 13021,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Noggle Robber",
+     "inclusion": 14.8,
+     "winRate": 56.9,
+     "games": 12642,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Flitterwing Nuisance",
+     "inclusion": 10.3,
+     "winRate": 56.9,
+     "games": 8826,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Sear",
+     "inclusion": 27.2,
+     "winRate": 56.5,
+     "games": 22978,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Scuzzback Scrounger",
+     "inclusion": 7.1,
+     "winRate": 56.5,
+     "games": 5961,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Kulrath Zealot",
+     "inclusion": 66.5,
+     "winRate": 56.4,
+     "games": 56212,
+     "trophyInclusion": 67.9
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.0,
+     "winRate": 56.3,
+     "games": 23697,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Glen Elendra Guardian",
+     "inclusion": 9.8,
+     "winRate": 56.3,
+     "games": 8267,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Tam, Mindful First-Year",
+     "inclusion": 5.2,
+     "winRate": 56.3,
+     "games": 4430,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Cinder Strike",
+     "inclusion": 58.3,
+     "winRate": 56.2,
+     "games": 49186,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Temporal Cleansing",
+     "inclusion": 38.1,
+     "winRate": 56.2,
+     "games": 32214,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Tanufel Rimespeaker",
+     "inclusion": 34.8,
+     "winRate": 56.2,
+     "games": 29476,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Sygg, Wanderwine Wisdom",
+     "inclusion": 6.1,
+     "winRate": 56.2,
+     "games": 5136,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Twinflame Travelers",
+     "inclusion": 43.4,
+     "winRate": 56.1,
+     "games": 36648,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Flamekin Gildweaver",
+     "inclusion": 63.2,
+     "winRate": 56.0,
+     "games": 53296,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Flaring Cinder",
+     "inclusion": 62.3,
+     "winRate": 56.0,
+     "games": 52376,
+     "trophyInclusion": 62.4
+    },
+    {
+     "name": "Shimmercreep",
+     "inclusion": 6.3,
+     "winRate": 56.0,
+     "games": 5301,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Soulbright Seeker",
+     "inclusion": 31.7,
+     "winRate": 55.9,
+     "games": 26675,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Boulder Dash",
+     "inclusion": 26.1,
+     "winRate": 55.9,
+     "games": 21898,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Unwelcome Sprite",
+     "inclusion": 19.7,
+     "winRate": 55.9,
+     "games": 16566,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Omni-Changeling",
+     "inclusion": 25.8,
+     "winRate": 55.8,
+     "games": 21591,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Steam Vents",
+     "inclusion": 10.0,
+     "winRate": 55.8,
+     "games": 8457,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Feed the Flames",
+     "inclusion": 54.5,
+     "winRate": 55.7,
+     "games": 45700,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Blossombind",
+     "inclusion": 46.5,
+     "winRate": 55.7,
+     "games": 39043,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Stratosoarer",
+     "inclusion": 45.5,
+     "winRate": 55.7,
+     "games": 38144,
+     "trophyInclusion": 44.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-02-18",
+    "main": [
+     [
+      1,
+      "Ashling's Command"
+     ],
+     [
+      1,
+      "Ashling, Rekindled"
+     ],
+     [
+      1,
+      "Blossombind"
+     ],
+     [
+      1,
+      "Boulder Dash"
+     ],
+     [
+      1,
+      "Cinder Strike"
+     ],
+     [
+      1,
+      "Eclipsed Flamekin"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Explosive Prodigy"
+     ],
+     [
+      1,
+      "Feed the Flames"
+     ],
+     [
+      1,
+      "Flame-Chain Mauler"
+     ],
+     [
+      1,
+      "Flamebraider"
+     ],
+     [
+      2,
+      "Flamekin Gildweaver"
+     ],
+     [
+      2,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Goliath Daydreamer"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      9,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noggle Robber"
+     ],
+     [
+      1,
+      "Sear"
+     ],
+     [
+      1,
+      "Shinestriker"
+     ],
+     [
+      1,
+      "Soulbright Seeker"
+     ],
+     [
+      1,
+      "Tanufel Rimespeaker"
+     ],
+     [
+      1,
+      "Temporal Cleansing"
+     ],
+     [
+      1,
+      "Twinflame Travelers"
+     ],
+     [
+      1,
+      "Unexpected Assistance"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Appeal to Eirdu"
+     ],
+     [
+      1,
+      "Auntie's Sentence"
+     ],
+     [
+      1,
+      "Cinder Strike"
+     ],
+     [
+      1,
+      "Dose of Dawnglow"
+     ],
+     [
+      1,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Gristle Glutton"
+     ],
+     [
+      1,
+      "Kindle the Inner Flame"
+     ],
+     [
+      1,
+      "Kulrath Mystic"
+     ],
+     [
+      1,
+      "Reckless Ransacking"
+     ],
+     [
+      1,
+      "Silvergill Mentor"
+     ],
+     [
+      1,
+      "Spell Snare"
+     ],
+     [
+      1,
+      "Stratosoarer"
+     ],
+     [
+      1,
+      "Summit Sentinel"
+     ],
+     [
+      1,
+      "Tend the Sprigs"
+     ],
+     [
+      1,
+      "Thirst for Identity"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 72721,
+   "wins": 41041,
+   "winRate": 56.44,
+   "share": 13.55,
+   "drafts": 12943,
+   "trophies": 1122,
+   "cards": [
+    {
+     "name": "Figure of Fable",
+     "inclusion": 13.1,
+     "winRate": 59.7,
+     "games": 10010,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Eclipsed Kithkin",
+     "inclusion": 42.0,
+     "winRate": 59.6,
+     "games": 31854,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Kinbinding",
+     "inclusion": 13.8,
+     "winRate": 58.7,
+     "games": 10380,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Brigid's Command",
+     "inclusion": 19.0,
+     "winRate": 58.6,
+     "games": 14190,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Bristlebane Battler",
+     "inclusion": 13.0,
+     "winRate": 58.5,
+     "games": 9791,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Wanderbrine Trapper",
+     "inclusion": 17.3,
+     "winRate": 58.4,
+     "games": 12751,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 6.6,
+     "winRate": 58.3,
+     "games": 4948,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Brigid, Clachan's Heart",
+     "inclusion": 16.5,
+     "winRate": 58.0,
+     "games": 12193,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Slumbering Walker",
+     "inclusion": 10.2,
+     "winRate": 57.9,
+     "games": 7566,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Curious Colossus",
+     "inclusion": 5.4,
+     "winRate": 57.9,
+     "games": 3944,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Adept Watershaper",
+     "inclusion": 7.7,
+     "winRate": 57.8,
+     "games": 5763,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Ajani, Outland Chaperone",
+     "inclusion": 6.7,
+     "winRate": 57.7,
+     "games": 4955,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Thoughtweft Imbuer",
+     "inclusion": 39.7,
+     "winRate": 57.6,
+     "games": 29489,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Kinsbaile Aspirant",
+     "inclusion": 39.5,
+     "winRate": 57.6,
+     "games": 29215,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Pyrrhic Strike",
+     "inclusion": 26.2,
+     "winRate": 57.5,
+     "games": 19328,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Thoughtweft Lieutenant",
+     "inclusion": 45.4,
+     "winRate": 57.4,
+     "games": 33447,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Mistmeadow Council",
+     "inclusion": 67.8,
+     "winRate": 57.3,
+     "games": 49837,
+     "trophyInclusion": 72.5
+    },
+    {
+     "name": "Dundoolin Weaver",
+     "inclusion": 29.4,
+     "winRate": 57.3,
+     "games": 21704,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Pitiless Fists",
+     "inclusion": 23.0,
+     "winRate": 57.3,
+     "games": 16795,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Kinscaer Sentry",
+     "inclusion": 13.5,
+     "winRate": 57.3,
+     "games": 9940,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Clachan Festival",
+     "inclusion": 32.9,
+     "winRate": 57.2,
+     "games": 24127,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Bristlebane Outrider",
+     "inclusion": 31.6,
+     "winRate": 57.2,
+     "games": 23276,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Assert Perfection",
+     "inclusion": 52.0,
+     "winRate": 57.1,
+     "games": 38232,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Protective Response",
+     "inclusion": 24.4,
+     "winRate": 57.0,
+     "games": 17768,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Crossroads Watcher",
+     "inclusion": 62.3,
+     "winRate": 56.9,
+     "games": 45609,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Flock Impostor",
+     "inclusion": 21.2,
+     "winRate": 56.9,
+     "games": 15472,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Virulent Emissary",
+     "inclusion": 14.5,
+     "winRate": 56.9,
+     "games": 10619,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Formidable Speaker",
+     "inclusion": 7.0,
+     "winRate": 56.8,
+     "games": 5082,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Timid Shieldbearer",
+     "inclusion": 63.8,
+     "winRate": 56.7,
+     "games": 46690,
+     "trophyInclusion": 66.4
+    },
+    {
+     "name": "Wary Farmer",
+     "inclusion": 63.5,
+     "winRate": 56.7,
+     "games": 46271,
+     "trophyInclusion": 64.7
+    },
+    {
+     "name": "Liminal Hold",
+     "inclusion": 50.1,
+     "winRate": 56.6,
+     "games": 36644,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Gangly Stompling",
+     "inclusion": 22.8,
+     "winRate": 56.6,
+     "games": 16756,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Champion of the Clachan",
+     "inclusion": 18.0,
+     "winRate": 56.6,
+     "games": 13163,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Moon-Vigil Adherents",
+     "inclusion": 15.3,
+     "winRate": 56.6,
+     "games": 11186,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Gallant Fowlknight",
+     "inclusion": 56.1,
+     "winRate": 56.4,
+     "games": 40742,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Thoughtweft Charge",
+     "inclusion": 19.5,
+     "winRate": 56.4,
+     "games": 14193,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Blossoming Defense",
+     "inclusion": 21.5,
+     "winRate": 56.3,
+     "games": 15470,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Evershrike's Gift",
+     "inclusion": 15.2,
+     "winRate": 56.3,
+     "games": 10990,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Mutable Explorer",
+     "inclusion": 7.3,
+     "winRate": 56.3,
+     "games": 5279,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Prismabasher",
+     "inclusion": 14.1,
+     "winRate": 56.2,
+     "games": 10252,
+     "trophyInclusion": 14.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-01-28",
+    "main": [
+     [
+      1,
+      "Bristlebane Battler"
+     ],
+     [
+      1,
+      "Bristlebane Outrider"
+     ],
+     [
+      1,
+      "Crossroads Watcher"
+     ],
+     [
+      1,
+      "Dundoolin Weaver"
+     ],
+     [
+      1,
+      "Eclipsed Kithkin"
+     ],
+     [
+      1,
+      "Evershrike's Gift"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Gallant Fowlknight"
+     ],
+     [
+      1,
+      "Gathering Stone"
+     ],
+     [
+      2,
+      "Gilt-Leaf's Embrace"
+     ],
+     [
+      1,
+      "Goldmeadow Nomad"
+     ],
+     [
+      1,
+      "Keep Out"
+     ],
+     [
+      1,
+      "Kinbinding"
+     ],
+     [
+      1,
+      "Kinsbaile Aspirant"
+     ],
+     [
+      1,
+      "Liminal Hold"
+     ],
+     [
+      1,
+      "Mistmeadow Council"
+     ],
+     [
+      1,
+      "Personify"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Protective Response"
+     ],
+     [
+      1,
+      "Slumbering Walker"
+     ],
+     [
+      1,
+      "Surly Farrier"
+     ],
+     [
+      1,
+      "Thoughtweft Lieutenant"
+     ],
+     [
+      1,
+      "Timid Shieldbearer"
+     ],
+     [
+      1,
+      "Wanderbrine Trapper"
+     ],
+     [
+      1,
+      "Wary Farmer"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Appeal to Eirdu"
+     ],
+     [
+      1,
+      "Burdened Stoneback"
+     ],
+     [
+      1,
+      "Chitinous Graspling"
+     ],
+     [
+      2,
+      "Crib Swap"
+     ],
+     [
+      1,
+      "Crossroads Watcher"
+     ],
+     [
+      1,
+      "Deceit"
+     ],
+     [
+      1,
+      "Encumbered Reejerey"
+     ],
+     [
+      1,
+      "Firdoch Core"
+     ],
+     [
+      1,
+      "Gilt-Leaf's Embrace"
+     ],
+     [
+      1,
+      "Midnight Tilling"
+     ],
+     [
+      1,
+      "Rooftop Percher"
+     ],
+     [
+      1,
+      "Silvergill Mentor"
+     ],
+     [
+      1,
+      "Spell Snare"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 59489,
+   "wins": 31851,
+   "winRate": 53.54,
+   "share": 11.09,
+   "drafts": 11123,
+   "trophies": 764,
+   "cards": [
+    {
+     "name": "Grub's Command",
+     "inclusion": 22.6,
+     "winRate": 57.9,
+     "games": 14262,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 7.7,
+     "winRate": 57.7,
+     "games": 4843,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Spinerock Tyrant",
+     "inclusion": 6.3,
+     "winRate": 57.7,
+     "games": 3949,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Champion of the Weird",
+     "inclusion": 20.8,
+     "winRate": 56.6,
+     "games": 12901,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "End-Blaze Epiphany",
+     "inclusion": 11.6,
+     "winRate": 56.2,
+     "games": 7154,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Soul Immolation",
+     "inclusion": 7.1,
+     "winRate": 56.1,
+     "games": 4352,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Eclipsed Boggart",
+     "inclusion": 48.6,
+     "winRate": 55.9,
+     "games": 29868,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Grub, Storied Matriarch",
+     "inclusion": 21.5,
+     "winRate": 55.9,
+     "games": 13220,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Taster of Wares",
+     "inclusion": 19.4,
+     "winRate": 55.9,
+     "games": 11906,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Gathering Stone",
+     "inclusion": 13.1,
+     "winRate": 55.8,
+     "games": 8011,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Mudbutton Cursetosser",
+     "inclusion": 41.3,
+     "winRate": 55.5,
+     "games": 25135,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Dawnhand Dissident",
+     "inclusion": 10.5,
+     "winRate": 55.4,
+     "games": 6259,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Bitterbloom Bearer",
+     "inclusion": 5.2,
+     "winRate": 55.1,
+     "games": 3225,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 14.0,
+     "winRate": 55.0,
+     "games": 8431,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 5.8,
+     "winRate": 55.0,
+     "games": 3489,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Boggart Cursecrafter",
+     "inclusion": 49.9,
+     "winRate": 54.9,
+     "games": 30461,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Boggart Mischief",
+     "inclusion": 46.0,
+     "winRate": 54.9,
+     "games": 27917,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Sourbread Auntie",
+     "inclusion": 41.2,
+     "winRate": 54.9,
+     "games": 24918,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Reaping Willow",
+     "inclusion": 13.9,
+     "winRate": 54.8,
+     "games": 8358,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Iron-Shield Elf",
+     "inclusion": 9.0,
+     "winRate": 54.5,
+     "games": 5406,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Bogslither's Embrace",
+     "inclusion": 50.8,
+     "winRate": 54.4,
+     "games": 30657,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Nameless Inversion",
+     "inclusion": 24.3,
+     "winRate": 54.4,
+     "games": 14587,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Sear",
+     "inclusion": 25.9,
+     "winRate": 54.3,
+     "games": 15560,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Cinder Strike",
+     "inclusion": 57.6,
+     "winRate": 54.2,
+     "games": 34523,
+     "trophyInclusion": 60.9
+    },
+    {
+     "name": "Gristle Glutton",
+     "inclusion": 68.7,
+     "winRate": 54.0,
+     "games": 41068,
+     "trophyInclusion": 73.7
+    },
+    {
+     "name": "Retched Wretch",
+     "inclusion": 31.9,
+     "winRate": 54.0,
+     "games": 19167,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 20.2,
+     "winRate": 54.0,
+     "games": 12077,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Tweeze",
+     "inclusion": 47.9,
+     "winRate": 53.9,
+     "games": 28841,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Blood Crypt",
+     "inclusion": 10.4,
+     "winRate": 53.9,
+     "games": 6224,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Goliath Daydreamer",
+     "inclusion": 10.5,
+     "winRate": 53.8,
+     "games": 6303,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Boggart Prankster",
+     "inclusion": 59.6,
+     "winRate": 53.6,
+     "games": 35562,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Kulrath Zealot",
+     "inclusion": 25.0,
+     "winRate": 53.6,
+     "games": 14767,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Sizzling Changeling",
+     "inclusion": 24.1,
+     "winRate": 53.6,
+     "games": 14296,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Unbury",
+     "inclusion": 22.0,
+     "winRate": 53.6,
+     "games": 13125,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Rooftop Percher",
+     "inclusion": 10.6,
+     "winRate": 53.6,
+     "games": 6296,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Graveshifter",
+     "inclusion": 22.3,
+     "winRate": 53.5,
+     "games": 13279,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Scuzzback Scrounger",
+     "inclusion": 14.8,
+     "winRate": 53.4,
+     "games": 8859,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Feed the Flames",
+     "inclusion": 44.3,
+     "winRate": 53.3,
+     "games": 26291,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Blight Rot",
+     "inclusion": 43.0,
+     "winRate": 53.3,
+     "games": 25518,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Bloodline Bidding",
+     "inclusion": 8.7,
+     "winRate": 53.3,
+     "games": 5160,
+     "trophyInclusion": 8.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-02-16",
+    "main": [
+     [
+      1,
+      "Ashling's Command"
+     ],
+     [
+      1,
+      "Blight Rot"
+     ],
+     [
+      1,
+      "Boggart Cursecrafter"
+     ],
+     [
+      1,
+      "Boggart Mischief"
+     ],
+     [
+      1,
+      "Boggart Prankster"
+     ],
+     [
+      1,
+      "Bogslither's Embrace"
+     ],
+     [
+      1,
+      "Boneclub Berserker"
+     ],
+     [
+      1,
+      "Chaos Spewer"
+     ],
+     [
+      1,
+      "Eclipsed Boggart"
+     ],
+     [
+      1,
+      "Elder Auntie"
+     ],
+     [
+      1,
+      "Feed the Flames"
+     ],
+     [
+      1,
+      "Gristle Glutton"
+     ],
+     [
+      1,
+      "Gutsplitter Gang"
+     ],
+     [
+      1,
+      "Hovel Hurler"
+     ],
+     [
+      1,
+      "Iron-Shield Elf"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mudbutton Cursetosser"
+     ],
+     [
+      1,
+      "Nameless Inversion"
+     ],
+     [
+      1,
+      "Nightmare Sower"
+     ],
+     [
+      1,
+      "Sear"
+     ],
+     [
+      1,
+      "Sting-Slinger"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Taster of Wares"
+     ],
+     [
+      1,
+      "Tweeze"
+     ],
+     [
+      1,
+      "Warren Torchmaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Auntie's Sentence"
+     ],
+     [
+      1,
+      "Bile-Vial Boggart"
+     ],
+     [
+      2,
+      "Brambleback Brute"
+     ],
+     [
+      2,
+      "Dream Seizer"
+     ],
+     [
+      1,
+      "Enraged Flamecaster"
+     ],
+     [
+      1,
+      "Gangly Stompling"
+     ],
+     [
+      1,
+      "Gravelgill Scoundrel"
+     ],
+     [
+      1,
+      "Lasting Tarfire"
+     ],
+     [
+      1,
+      "Nightmare Sower"
+     ],
+     [
+      1,
+      "Reckless Ransacking"
+     ],
+     [
+      1,
+      "Shore Lurker"
+     ],
+     [
+      1,
+      "Stalactite Dagger"
+     ],
+     [
+      1,
+      "Temporal Cleansing"
+     ],
+     [
+      1,
+      "Voracious Tome-Skimmer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 16758,
+   "wins": 8739,
+   "winRate": 52.15,
+   "share": 3.12,
+   "drafts": 3183,
+   "trophies": 178,
+   "cards": [
+    {
+     "name": "Ashling's Command",
+     "inclusion": 14.5,
+     "winRate": 57.7,
+     "games": 2629,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Vibrance",
+     "inclusion": 11.4,
+     "winRate": 57.2,
+     "games": 2062,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Sunderflock",
+     "inclusion": 12.2,
+     "winRate": 55.2,
+     "games": 2137,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Wistfulness",
+     "inclusion": 10.3,
+     "winRate": 55.2,
+     "games": 1826,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 15.2,
+     "winRate": 54.9,
+     "games": 2635,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Rooftop Percher",
+     "inclusion": 10.5,
+     "winRate": 54.9,
+     "games": 1823,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Glen Elendra Guardian",
+     "inclusion": 6.9,
+     "winRate": 54.8,
+     "games": 1209,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Scuzzback Scrounger",
+     "inclusion": 6.4,
+     "winRate": 54.4,
+     "games": 1124,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Bristlebane Battler",
+     "inclusion": 5.5,
+     "winRate": 54.3,
+     "games": 923,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Noggle Robber",
+     "inclusion": 36.3,
+     "winRate": 54.1,
+     "games": 6185,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "End-Blaze Epiphany",
+     "inclusion": 10.5,
+     "winRate": 54.1,
+     "games": 1824,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Puca's Eye",
+     "inclusion": 15.2,
+     "winRate": 54.0,
+     "games": 2603,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Gristle Glutton",
+     "inclusion": 14.3,
+     "winRate": 54.0,
+     "games": 2417,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Aurora Awakener",
+     "inclusion": 9.6,
+     "winRate": 54.0,
+     "games": 1638,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Shinestriker",
+     "inclusion": 37.1,
+     "winRate": 53.9,
+     "games": 6387,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 33.1,
+     "winRate": 53.9,
+     "games": 5631,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Oko, Lorwyn Liege",
+     "inclusion": 9.8,
+     "winRate": 53.8,
+     "games": 1693,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Liminal Hold",
+     "inclusion": 7.5,
+     "winRate": 53.8,
+     "games": 1251,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Soul Immolation",
+     "inclusion": 5.9,
+     "winRate": 53.8,
+     "games": 1037,
+     "trophyInclusion": 3.9
+    },
+    {
+     "name": "Eclipsed Flamekin",
+     "inclusion": 32.8,
+     "winRate": 53.7,
+     "games": 5597,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Kithkeeper",
+     "inclusion": 12.9,
+     "winRate": 53.6,
+     "games": 2234,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Prismabasher",
+     "inclusion": 33.6,
+     "winRate": 53.5,
+     "games": 5803,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Spry and Mighty",
+     "inclusion": 6.4,
+     "winRate": 53.5,
+     "games": 1076,
+     "trophyInclusion": 4.5
+    },
+    {
+     "name": "Gathering Stone",
+     "inclusion": 7.9,
+     "winRate": 53.4,
+     "games": 1306,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 43.8,
+     "winRate": 53.3,
+     "games": 7407,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Twinflame Travelers",
+     "inclusion": 30.6,
+     "winRate": 53.2,
+     "games": 5174,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Sear",
+     "inclusion": 20.9,
+     "winRate": 53.2,
+     "games": 3521,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Ashling, Rekindled",
+     "inclusion": 13.4,
+     "winRate": 53.2,
+     "games": 2243,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Rimekin Recluse",
+     "inclusion": 23.5,
+     "winRate": 53.1,
+     "games": 4039,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Flamekin Gildweaver",
+     "inclusion": 43.4,
+     "winRate": 53.0,
+     "games": 7361,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Pummeler for Hire",
+     "inclusion": 17.7,
+     "winRate": 53.0,
+     "games": 3061,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Swat Away",
+     "inclusion": 8.5,
+     "winRate": 52.9,
+     "games": 1421,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Formidable Speaker",
+     "inclusion": 6.8,
+     "winRate": 52.9,
+     "games": 1175,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Foraging Wickermaw",
+     "inclusion": 54.3,
+     "winRate": 52.8,
+     "games": 9186,
+     "trophyInclusion": 56.7
+    },
+    {
+     "name": "Temporal Cleansing",
+     "inclusion": 22.1,
+     "winRate": 52.8,
+     "games": 3768,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Kulrath Zealot",
+     "inclusion": 51.7,
+     "winRate": 52.7,
+     "games": 8761,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Lys Alana Informant",
+     "inclusion": 13.7,
+     "winRate": 52.7,
+     "games": 2326,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Disruptor of Currents",
+     "inclusion": 6.5,
+     "winRate": 52.7,
+     "games": 1050,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Flamebraider",
+     "inclusion": 29.4,
+     "winRate": 52.6,
+     "games": 4957,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Assert Perfection",
+     "inclusion": 29.1,
+     "winRate": 52.6,
+     "games": 4905,
+     "trophyInclusion": 32.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-01-28",
+    "main": [
+     [
+      1,
+      "Blossombind"
+     ],
+     [
+      1,
+      "Cinder Strike"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Explosive Prodigy"
+     ],
+     [
+      1,
+      "Firdoch Core"
+     ],
+     [
+      1,
+      "Flamebraider"
+     ],
+     [
+      1,
+      "Flamekin Gildweaver"
+     ],
+     [
+      2,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Foraging Wickermaw"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Great Forest Druid"
+     ],
+     [
+      1,
+      "Gristle Glutton"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Kithkeeper"
+     ],
+     [
+      2,
+      "Kulrath Zealot"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noggle Robber"
+     ],
+     [
+      1,
+      "Noggle the Mind"
+     ],
+     [
+      2,
+      "Prismabasher"
+     ],
+     [
+      1,
+      "Sear"
+     ],
+     [
+      1,
+      "Shimmercreep"
+     ],
+     [
+      1,
+      "Shimmerwilds Growth"
+     ],
+     [
+      2,
+      "Shinestriker"
+     ],
+     [
+      1,
+      "Tweeze"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Appeal to Eirdu"
+     ],
+     [
+      1,
+      "Bark of Doran"
+     ],
+     [
+      1,
+      "Chitinous Graspling"
+     ],
+     [
+      1,
+      "Keep Out"
+     ],
+     [
+      1,
+      "Lys Alana Informant"
+     ],
+     [
+      1,
+      "Run Away Together"
+     ],
+     [
+      1,
+      "Soulbright Seeker"
+     ],
+     [
+      1,
+      "Squawkroaster"
+     ],
+     [
+      1,
+      "Stoic Grove-Guide"
+     ],
+     [
+      1,
+      "Summit Sentinel"
+     ],
+     [
+      2,
+      "Temporal Cleansing"
+     ],
+     [
+      1,
+      "Tend the Sprigs"
+     ],
+     [
+      1,
+      "Unwelcome Sprite"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 10474,
+   "wins": 5506,
+   "winRate": 52.57,
+   "share": 1.95,
+   "drafts": 1953,
+   "trophies": 115,
+   "cards": [
+    {
+     "name": "Ashling's Command",
+     "inclusion": 6.6,
+     "winRate": 58.4,
+     "games": 753,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Soul Immolation",
+     "inclusion": 11.2,
+     "winRate": 57.2,
+     "games": 1275,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Vibrance",
+     "inclusion": 14.8,
+     "winRate": 56.6,
+     "games": 1653,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Bre of Clan Stoutarm",
+     "inclusion": 7.5,
+     "winRate": 55.6,
+     "games": 828,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Bristlebane Battler",
+     "inclusion": 10.7,
+     "winRate": 55.5,
+     "games": 1165,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "End-Blaze Epiphany",
+     "inclusion": 11.9,
+     "winRate": 55.4,
+     "games": 1231,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Bristlebane Outrider",
+     "inclusion": 12.9,
+     "winRate": 55.0,
+     "games": 1364,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Aurora Awakener",
+     "inclusion": 9.2,
+     "winRate": 55.0,
+     "games": 1007,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 8.2,
+     "winRate": 54.9,
+     "games": 889,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Selfless Safewright",
+     "inclusion": 7.3,
+     "winRate": 54.8,
+     "games": 797,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 31.2,
+     "winRate": 54.7,
+     "games": 3375,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Pummeler for Hire",
+     "inclusion": 27.7,
+     "winRate": 54.7,
+     "games": 2967,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Lluwen, Imperfect Naturalist",
+     "inclusion": 5.8,
+     "winRate": 54.7,
+     "games": 640,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Giantfall",
+     "inclusion": 20.6,
+     "winRate": 54.5,
+     "games": 2215,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Prismabasher",
+     "inclusion": 33.8,
+     "winRate": 54.4,
+     "games": 3630,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Eclipsed Kithkin",
+     "inclusion": 5.5,
+     "winRate": 54.3,
+     "games": 586,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Spinerock Tyrant",
+     "inclusion": 8.7,
+     "winRate": 54.0,
+     "games": 939,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Trystan's Command",
+     "inclusion": 6.2,
+     "winRate": 54.0,
+     "games": 655,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Noggle Robber",
+     "inclusion": 40.8,
+     "winRate": 53.9,
+     "games": 4341,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Pitiless Fists",
+     "inclusion": 22.1,
+     "winRate": 53.8,
+     "games": 2325,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Goliath Daydreamer",
+     "inclusion": 13.3,
+     "winRate": 53.8,
+     "games": 1432,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Assert Perfection",
+     "inclusion": 48.7,
+     "winRate": 53.7,
+     "games": 5159,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Sear",
+     "inclusion": 27.6,
+     "winRate": 53.7,
+     "games": 2891,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Warren Torchmaster",
+     "inclusion": 6.3,
+     "winRate": 53.6,
+     "games": 659,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Cinder Strike",
+     "inclusion": 55.5,
+     "winRate": 53.5,
+     "games": 5911,
+     "trophyInclusion": 61.7
+    },
+    {
+     "name": "Kulrath Zealot",
+     "inclusion": 55.5,
+     "winRate": 53.5,
+     "games": 5915,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Brambleback Brute",
+     "inclusion": 26.3,
+     "winRate": 53.5,
+     "games": 2764,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Flamekin Gildweaver",
+     "inclusion": 49.8,
+     "winRate": 53.4,
+     "games": 5277,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Mistmeadow Council",
+     "inclusion": 25.2,
+     "winRate": 53.4,
+     "games": 2687,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Virulent Emissary",
+     "inclusion": 17.9,
+     "winRate": 53.4,
+     "games": 1935,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Formidable Speaker",
+     "inclusion": 11.3,
+     "winRate": 53.4,
+     "games": 1172,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Flamebraider",
+     "inclusion": 26.5,
+     "winRate": 53.3,
+     "games": 2795,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Boulder Dash",
+     "inclusion": 24.4,
+     "winRate": 53.3,
+     "games": 2566,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Dundoolin Weaver",
+     "inclusion": 20.1,
+     "winRate": 53.3,
+     "games": 2057,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Blossoming Defense",
+     "inclusion": 15.7,
+     "winRate": 53.2,
+     "games": 1644,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Boldwyr Aggressor",
+     "inclusion": 17.6,
+     "winRate": 53.1,
+     "games": 1859,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Sizzling Changeling",
+     "inclusion": 24.7,
+     "winRate": 53.0,
+     "games": 2661,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Crossroads Watcher",
+     "inclusion": 17.8,
+     "winRate": 53.0,
+     "games": 1883,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Wary Farmer",
+     "inclusion": 16.2,
+     "winRate": 53.0,
+     "games": 1713,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Ashling, Rekindled",
+     "inclusion": 9.7,
+     "winRate": 53.0,
+     "games": 992,
+     "trophyInclusion": 8.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-01-31",
+    "main": [
+     [
+      1,
+      "Assert Perfection"
+     ],
+     [
+      1,
+      "Aurora Awakener"
+     ],
+     [
+      2,
+      "Blossombind"
+     ],
+     [
+      1,
+      "Changeling Wayfinder"
+     ],
+     [
+      2,
+      "Cinder Strike"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Flamebraider"
+     ],
+     [
+      1,
+      "Flamekin Gildweaver"
+     ],
+     [
+      1,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Foraging Wickermaw"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Gangly Stompling"
+     ],
+     [
+      1,
+      "Great Forest Druid"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Kulrath Zealot"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Prideful Feastling"
+     ],
+     [
+      1,
+      "Prismabasher"
+     ],
+     [
+      1,
+      "Puca's Eye"
+     ],
+     [
+      1,
+      "Sear"
+     ],
+     [
+      1,
+      "Shimmercreep"
+     ],
+     [
+      1,
+      "Squawkroaster"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tweeze"
+     ],
+     [
+      2,
+      "Wildvine Pummeler"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Auntie's Sentence"
+     ],
+     [
+      1,
+      "Barbed Bloodletter"
+     ],
+     [
+      1,
+      "Boldwyr Aggressor"
+     ],
+     [
+      1,
+      "Bristlebane Outrider"
+     ],
+     [
+      1,
+      "Crossroads Watcher"
+     ],
+     [
+      1,
+      "Enraged Flamecaster"
+     ],
+     [
+      1,
+      "Flitterwing Nuisance"
+     ],
+     [
+      1,
+      "Gangly Stompling"
+     ],
+     [
+      1,
+      "Lys Alana Dignitary"
+     ],
+     [
+      1,
+      "Personify"
+     ],
+     [
+      1,
+      "Pitiless Fists"
+     ],
+     [
+      1,
+      "Stalactite Dagger"
+     ],
+     [
+      1,
+      "Unforgiving Aim"
+     ],
+     [
+      2,
+      "Wildvine Pummeler"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 9871,
+   "wins": 5154,
+   "winRate": 52.21,
+   "share": 1.84,
+   "drafts": 1879,
+   "trophies": 108,
+   "cards": [
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 7.9,
+     "winRate": 58.6,
+     "games": 856,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Soul Immolation",
+     "inclusion": 8.6,
+     "winRate": 57.7,
+     "games": 910,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Kinbinding",
+     "inclusion": 14.8,
+     "winRate": 56.4,
+     "games": 1555,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Curious Colossus",
+     "inclusion": 8.7,
+     "winRate": 56.2,
+     "games": 938,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Spinerock Tyrant",
+     "inclusion": 6.9,
+     "winRate": 55.4,
+     "games": 740,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Ajani, Outland Chaperone",
+     "inclusion": 6.5,
+     "winRate": 55.2,
+     "games": 678,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Moonlit Lamenter",
+     "inclusion": 31.3,
+     "winRate": 54.7,
+     "games": 3181,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Bre of Clan Stoutarm",
+     "inclusion": 29.6,
+     "winRate": 54.3,
+     "games": 3072,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Flamebraider",
+     "inclusion": 16.1,
+     "winRate": 54.2,
+     "games": 1610,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "End-Blaze Epiphany",
+     "inclusion": 13.3,
+     "winRate": 54.2,
+     "games": 1338,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Sizzling Changeling",
+     "inclusion": 27.4,
+     "winRate": 54.1,
+     "games": 2793,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Noggle Robber",
+     "inclusion": 11.1,
+     "winRate": 54.0,
+     "games": 1162,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Figure of Fable",
+     "inclusion": 7.6,
+     "winRate": 54.0,
+     "games": 767,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Kulrath Zealot",
+     "inclusion": 47.6,
+     "winRate": 53.9,
+     "games": 4830,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Pyrrhic Strike",
+     "inclusion": 25.5,
+     "winRate": 53.9,
+     "games": 2595,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Adept Watershaper",
+     "inclusion": 9.2,
+     "winRate": 53.9,
+     "games": 901,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Liminal Hold",
+     "inclusion": 50.5,
+     "winRate": 53.6,
+     "games": 5069,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 22.7,
+     "winRate": 53.5,
+     "games": 2260,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Slumbering Walker",
+     "inclusion": 15.9,
+     "winRate": 53.5,
+     "games": 1592,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Kinscaer Sentry",
+     "inclusion": 12.3,
+     "winRate": 53.5,
+     "games": 1230,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Cinder Strike",
+     "inclusion": 59.7,
+     "winRate": 53.4,
+     "games": 6002,
+     "trophyInclusion": 64.8
+    },
+    {
+     "name": "Reaping Willow",
+     "inclusion": 13.1,
+     "winRate": 53.3,
+     "games": 1348,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Wanderbrine Trapper",
+     "inclusion": 17.2,
+     "winRate": 53.2,
+     "games": 1721,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Catharsis",
+     "inclusion": 13.1,
+     "winRate": 53.2,
+     "games": 1295,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 26.8,
+     "winRate": 53.1,
+     "games": 2689,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Sourbread Auntie",
+     "inclusion": 19.2,
+     "winRate": 53.1,
+     "games": 1941,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Kithkeeper",
+     "inclusion": 10.5,
+     "winRate": 53.1,
+     "games": 1040,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 6.8,
+     "winRate": 52.9,
+     "games": 663,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Flaring Cinder",
+     "inclusion": 14.8,
+     "winRate": 52.8,
+     "games": 1484,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Eirdu, Carrier of Dawn",
+     "inclusion": 6.9,
+     "winRate": 52.8,
+     "games": 686,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Tweeze",
+     "inclusion": 54.6,
+     "winRate": 52.7,
+     "games": 5464,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Spiral into Solitude",
+     "inclusion": 48.1,
+     "winRate": 52.7,
+     "games": 4839,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Clachan Festival",
+     "inclusion": 17.5,
+     "winRate": 52.7,
+     "games": 1743,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Scuzzback Scrounger",
+     "inclusion": 13.4,
+     "winRate": 52.7,
+     "games": 1312,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Burning Curiosity",
+     "inclusion": 30.9,
+     "winRate": 52.6,
+     "games": 3086,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Encumbered Reejerey",
+     "inclusion": 20.4,
+     "winRate": 52.6,
+     "games": 2051,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Kinsbaile Aspirant",
+     "inclusion": 10.4,
+     "winRate": 52.6,
+     "games": 1011,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Feed the Flames",
+     "inclusion": 48.7,
+     "winRate": 52.5,
+     "games": 4838,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Flamekin Gildweaver",
+     "inclusion": 37.8,
+     "winRate": 52.5,
+     "games": 3752,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Squawkroaster",
+     "inclusion": 9.0,
+     "winRate": 52.5,
+     "games": 894,
+     "trophyInclusion": 7.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-01-29",
+    "main": [
+     [
+      1,
+      "Boldwyr Aggressor"
+     ],
+     [
+      1,
+      "Brambleback Brute"
+     ],
+     [
+      1,
+      "Burning Curiosity"
+     ],
+     [
+      1,
+      "Chaos Spewer"
+     ],
+     [
+      1,
+      "Cinder Strike"
+     ],
+     [
+      1,
+      "Feed the Flames"
+     ],
+     [
+      1,
+      "Flamekin Gildweaver"
+     ],
+     [
+      1,
+      "Giantfall"
+     ],
+     [
+      1,
+      "Gristle Glutton"
+     ],
+     [
+      1,
+      "Kinbinding"
+     ],
+     [
+      1,
+      "Kulrath Zealot"
+     ],
+     [
+      1,
+      "Liminal Hold"
+     ],
+     [
+      1,
+      "Moonlit Lamenter"
+     ],
+     [
+      9,
+      "Mountain"
+     ],
+     [
+      1,
+      "Noggle Robber"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Protective Response"
+     ],
+     [
+      1,
+      "Pyrrhic Strike"
+     ],
+     [
+      1,
+      "Sear"
+     ],
+     [
+      1,
+      "Slumbering Walker"
+     ],
+     [
+      1,
+      "Stalactite Dagger"
+     ],
+     [
+      1,
+      "Tweeze"
+     ],
+     [
+      1,
+      "Vibrance"
+     ],
+     [
+      1,
+      "Wanderbrine Preacher"
+     ],
+     [
+      1,
+      "Warren Torchmaster"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bloom Tender"
+     ],
+     [
+      1,
+      "Chaos Spewer"
+     ],
+     [
+      1,
+      "Elder Auntie"
+     ],
+     [
+      1,
+      "Feed the Flames"
+     ],
+     [
+      1,
+      "Firdoch Core"
+     ],
+     [
+      1,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Glister Bairn"
+     ],
+     [
+      2,
+      "Gnarlbark Elm"
+     ],
+     [
+      1,
+      "Gravelgill Scoundrel"
+     ],
+     [
+      1,
+      "Keep Out"
+     ],
+     [
+      2,
+      "Reckless Ransacking"
+     ],
+     [
+      1,
+      "Riverguard's Reflexes"
+     ],
+     [
+      1,
+      "Wanderwine Distracter"
+     ],
+     [
+      1,
+      "Wild Unraveling"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 9808,
+   "wins": 4962,
+   "winRate": 50.59,
+   "share": 1.83,
+   "drafts": 1915,
+   "trophies": 89,
+   "cards": [
+    {
+     "name": "Gloom Ripper",
+     "inclusion": 5.6,
+     "winRate": 55.2,
+     "games": 594,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Taster of Wares",
+     "inclusion": 7.4,
+     "winRate": 54.9,
+     "games": 783,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Loch Mare",
+     "inclusion": 8.0,
+     "winRate": 54.1,
+     "games": 799,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Deceit",
+     "inclusion": 11.4,
+     "winRate": 53.9,
+     "games": 1206,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Silvergill Mentor",
+     "inclusion": 8.8,
+     "winRate": 53.5,
+     "games": 886,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Rooftop Percher",
+     "inclusion": 13.3,
+     "winRate": 52.9,
+     "games": 1353,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Champions of the Shoal",
+     "inclusion": 5.5,
+     "winRate": 52.6,
+     "games": 527,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Rimekin Recluse",
+     "inclusion": 25.6,
+     "winRate": 52.5,
+     "games": 2584,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Iron-Shield Elf",
+     "inclusion": 15.1,
+     "winRate": 52.2,
+     "games": 1519,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Mirrorform",
+     "inclusion": 5.3,
+     "winRate": 52.2,
+     "games": 508,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Shinestriker",
+     "inclusion": 15.8,
+     "winRate": 52.1,
+     "games": 1552,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Creakwood Safewright",
+     "inclusion": 8.1,
+     "winRate": 52.0,
+     "games": 832,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Glen Elendra's Answer",
+     "inclusion": 8.4,
+     "winRate": 51.9,
+     "games": 846,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Nameless Inversion",
+     "inclusion": 28.7,
+     "winRate": 51.7,
+     "games": 2823,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Omni-Changeling",
+     "inclusion": 23.9,
+     "winRate": 51.7,
+     "games": 2430,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Moonshadow",
+     "inclusion": 5.3,
+     "winRate": 51.7,
+     "games": 536,
+     "trophyInclusion": 4.5
+    },
+    {
+     "name": "Blight Rot",
+     "inclusion": 56.3,
+     "winRate": 51.6,
+     "games": 5666,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Flitterwing Nuisance",
+     "inclusion": 17.3,
+     "winRate": 51.6,
+     "games": 1749,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Noggle the Mind",
+     "inclusion": 24.9,
+     "winRate": 51.5,
+     "games": 2483,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Dawnhand Dissident",
+     "inclusion": 9.2,
+     "winRate": 51.5,
+     "games": 939,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Voracious Tome-Skimmer",
+     "inclusion": 61.7,
+     "winRate": 51.4,
+     "games": 6127,
+     "trophyInclusion": 68.5
+    },
+    {
+     "name": "Mischievous Sneakling",
+     "inclusion": 56.4,
+     "winRate": 51.4,
+     "games": 5615,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "Unwelcome Sprite",
+     "inclusion": 43.2,
+     "winRate": 51.4,
+     "games": 4278,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Thirst for Identity",
+     "inclusion": 23.6,
+     "winRate": 51.4,
+     "games": 2357,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Graveshifter",
+     "inclusion": 22.1,
+     "winRate": 51.3,
+     "games": 2200,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Dawnhand Eulogist",
+     "inclusion": 7.4,
+     "winRate": 51.2,
+     "games": 742,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Wild Unraveling",
+     "inclusion": 48.6,
+     "winRate": 51.1,
+     "games": 4768,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Bitterbloom Bearer",
+     "inclusion": 15.6,
+     "winRate": 51.1,
+     "games": 1549,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 6.1,
+     "winRate": 51.0,
+     "games": 604,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Aquitect's Defenses",
+     "inclusion": 33.4,
+     "winRate": 50.9,
+     "games": 3292,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Merrow Skyswimmer",
+     "inclusion": 19.9,
+     "winRate": 50.9,
+     "games": 1910,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Glamer Gifter",
+     "inclusion": 37.9,
+     "winRate": 50.8,
+     "games": 3744,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Scarblade Scout",
+     "inclusion": 24.0,
+     "winRate": 50.8,
+     "games": 2412,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Requiting Hex",
+     "inclusion": 23.9,
+     "winRate": 50.8,
+     "games": 2347,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Gnarlbark Elm",
+     "inclusion": 20.8,
+     "winRate": 50.8,
+     "games": 2068,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Foraging Wickermaw",
+     "inclusion": 15.1,
+     "winRate": 50.8,
+     "games": 1529,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Bogslither's Embrace",
+     "inclusion": 50.7,
+     "winRate": 50.6,
+     "games": 5057,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Unexpected Assistance",
+     "inclusion": 55.6,
+     "winRate": 50.5,
+     "games": 5433,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Nightmare Sower",
+     "inclusion": 47.4,
+     "winRate": 50.5,
+     "games": 4633,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 31.0,
+     "winRate": 50.5,
+     "games": 3055,
+     "trophyInclusion": 31.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-01-23",
+    "main": [
+     [
+      1,
+      "Abigale, Eloquent First-Year"
+     ],
+     [
+      1,
+      "Aquitect's Defenses"
+     ],
+     [
+      1,
+      "Barbed Bloodletter"
+     ],
+     [
+      1,
+      "Blight Rot"
+     ],
+     [
+      1,
+      "Blossombind"
+     ],
+     [
+      2,
+      "Bogslither's Embrace"
+     ],
+     [
+      1,
+      "Dream Seizer"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Flitterwing Nuisance"
+     ],
+     [
+      1,
+      "Glamer Gifter"
+     ],
+     [
+      1,
+      "Glamermite"
+     ],
+     [
+      1,
+      "Graveshifter"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Merrow Skyswimmer"
+     ],
+     [
+      1,
+      "Mischievous Sneakling"
+     ],
+     [
+      1,
+      "Nightmare Sower"
+     ],
+     [
+      1,
+      "Omni-Changeling"
+     ],
+     [
+      1,
+      "Requiting Hex"
+     ],
+     [
+      1,
+      "Rimekin Recluse"
+     ],
+     [
+      1,
+      "Run Away Together"
+     ],
+     [
+      1,
+      "Scarblade Scout"
+     ],
+     [
+      1,
+      "Stoic Grove-Guide"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      2,
+      "Thirst for Identity"
+     ],
+     [
+      1,
+      "Unwelcome Sprite"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Barbed Bloodletter"
+     ],
+     [
+      1,
+      "Blighted Blackthorn"
+     ],
+     [
+      1,
+      "Bogslither's Embrace"
+     ],
+     [
+      1,
+      "Crossroads Watcher"
+     ],
+     [
+      1,
+      "Dawnhand Eulogist"
+     ],
+     [
+      1,
+      "Firdoch Core"
+     ],
+     [
+      1,
+      "Flaring Cinder"
+     ],
+     [
+      1,
+      "Goatnap"
+     ],
+     [
+      2,
+      "Gravelgill Scoundrel"
+     ],
+     [
+      1,
+      "Puca's Eye"
+     ],
+     [
+      1,
+      "Rooftop Percher"
+     ],
+     [
+      2,
+      "Stalactite Dagger"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 7051,
+   "wins": 3532,
+   "winRate": 50.09,
+   "share": 1.31,
+   "drafts": 1366,
+   "trophies": 68,
+   "cards": [
+    {
+     "name": "Taster of Wares",
+     "inclusion": 10.1,
+     "winRate": 56.2,
+     "games": 784,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Thoughtweft Imbuer",
+     "inclusion": 11.7,
+     "winRate": 54.9,
+     "games": 876,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Eclipsed Kithkin",
+     "inclusion": 8.3,
+     "winRate": 54.1,
+     "games": 636,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Ajani, Outland Chaperone",
+     "inclusion": 6.4,
+     "winRate": 53.9,
+     "games": 490,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Moonlit Lamenter",
+     "inclusion": 39.7,
+     "winRate": 52.5,
+     "games": 2858,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Brigid, Clachan's Heart",
+     "inclusion": 6.1,
+     "winRate": 52.5,
+     "games": 455,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Dawnhand Dissident",
+     "inclusion": 13.9,
+     "winRate": 52.4,
+     "games": 1036,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Mudbutton Cursetosser",
+     "inclusion": 13.2,
+     "winRate": 52.4,
+     "games": 946,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Curious Colossus",
+     "inclusion": 6.9,
+     "winRate": 52.3,
+     "games": 503,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Kinbinding",
+     "inclusion": 11.7,
+     "winRate": 52.2,
+     "games": 855,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Figure of Fable",
+     "inclusion": 6.4,
+     "winRate": 52.2,
+     "games": 458,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Foraging Wickermaw",
+     "inclusion": 18.4,
+     "winRate": 51.9,
+     "games": 1317,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Eirdu, Carrier of Dawn",
+     "inclusion": 11.3,
+     "winRate": 51.8,
+     "games": 824,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Adept Watershaper",
+     "inclusion": 9.6,
+     "winRate": 51.6,
+     "games": 674,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Gloom Ripper",
+     "inclusion": 7.5,
+     "winRate": 51.6,
+     "games": 519,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Twilight Diviner",
+     "inclusion": 10.2,
+     "winRate": 51.5,
+     "games": 722,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Reaping Willow",
+     "inclusion": 46.5,
+     "winRate": 51.4,
+     "games": 3306,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Requiting Hex",
+     "inclusion": 19.6,
+     "winRate": 51.4,
+     "games": 1427,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Iron-Shield Elf",
+     "inclusion": 19.5,
+     "winRate": 51.4,
+     "games": 1428,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Kinsbaile Aspirant",
+     "inclusion": 8.0,
+     "winRate": 51.4,
+     "games": 580,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Stalactite Dagger",
+     "inclusion": 8.7,
+     "winRate": 51.3,
+     "games": 638,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Spiral into Solitude",
+     "inclusion": 53.8,
+     "winRate": 51.1,
+     "games": 3816,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Changeling Wayfinder",
+     "inclusion": 26.3,
+     "winRate": 51.0,
+     "games": 1906,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Wary Farmer",
+     "inclusion": 19.0,
+     "winRate": 51.0,
+     "games": 1377,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Stoic Grove-Guide",
+     "inclusion": 10.2,
+     "winRate": 51.0,
+     "games": 731,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Liminal Hold",
+     "inclusion": 53.5,
+     "winRate": 50.9,
+     "games": 3833,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Blighted Blackthorn",
+     "inclusion": 51.7,
+     "winRate": 50.9,
+     "games": 3612,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Barbed Bloodletter",
+     "inclusion": 13.5,
+     "winRate": 50.9,
+     "games": 957,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Abigale, Eloquent First-Year",
+     "inclusion": 11.9,
+     "winRate": 50.9,
+     "games": 839,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Kinscaer Sentry",
+     "inclusion": 8.9,
+     "winRate": 50.9,
+     "games": 652,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Gnarlbark Elm",
+     "inclusion": 33.6,
+     "winRate": 50.8,
+     "games": 2400,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Clachan Festival",
+     "inclusion": 17.4,
+     "winRate": 50.8,
+     "games": 1201,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Moonshadow",
+     "inclusion": 6.9,
+     "winRate": 50.8,
+     "games": 498,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Blight Rot",
+     "inclusion": 49.6,
+     "winRate": 50.7,
+     "games": 3554,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Scarblade Scout",
+     "inclusion": 34.6,
+     "winRate": 50.7,
+     "games": 2455,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Pyrrhic Strike",
+     "inclusion": 28.6,
+     "winRate": 50.7,
+     "games": 2011,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Scarblade's Malice",
+     "inclusion": 18.2,
+     "winRate": 50.7,
+     "games": 1271,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 30.3,
+     "winRate": 50.6,
+     "games": 2127,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Graveshifter",
+     "inclusion": 23.6,
+     "winRate": 50.6,
+     "games": 1685,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Slumbering Walker",
+     "inclusion": 16.3,
+     "winRate": 50.6,
+     "games": 1184,
+     "trophyInclusion": 13.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-01-24",
+    "main": [
+     [
+      1,
+      "Auntie's Sentence"
+     ],
+     [
+      1,
+      "Bark of Doran"
+     ],
+     [
+      1,
+      "Bile-Vial Boggart"
+     ],
+     [
+      1,
+      "Blight Rot"
+     ],
+     [
+      1,
+      "Blighted Blackthorn"
+     ],
+     [
+      2,
+      "Bogslither's Embrace"
+     ],
+     [
+      1,
+      "Changeling Wayfinder"
+     ],
+     [
+      2,
+      "Chaos Spewer"
+     ],
+     [
+      1,
+      "Clachan Festival"
+     ],
+     [
+      1,
+      "Emptiness"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Flock Impostor"
+     ],
+     [
+      1,
+      "Gnarlbark Elm"
+     ],
+     [
+      1,
+      "Graveshifter"
+     ],
+     [
+      1,
+      "Moonglove Extractor"
+     ],
+     [
+      1,
+      "Moonlit Lamenter"
+     ],
+     [
+      1,
+      "Nameless Inversion"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Prideful Feastling"
+     ],
+     [
+      1,
+      "Reaping Willow"
+     ],
+     [
+      1,
+      "Requiting Hex"
+     ],
+     [
+      1,
+      "Sun-Dappled Celebrant"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thoughtweft Imbuer"
+     ],
+     [
+      1,
+      "Unbury"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Barbed Bloodletter"
+     ],
+     [
+      1,
+      "Bark of Doran"
+     ],
+     [
+      1,
+      "Blighted Blackthorn"
+     ],
+     [
+      1,
+      "Dream Seizer"
+     ],
+     [
+      1,
+      "Firdoch Core"
+     ],
+     [
+      1,
+      "Meanders Guide"
+     ],
+     [
+      1,
+      "Mistmeadow Council"
+     ],
+     [
+      2,
+      "Reluctant Dounguard"
+     ],
+     [
+      1,
+      "Rooftop Percher"
+     ],
+     [
+      1,
+      "Run Away Together"
+     ],
+     [
+      1,
+      "Scarblade's Malice"
+     ],
+     [
+      1,
+      "Silvergill Peddler"
+     ],
+     [
+      1,
+      "Tributary Vaulter"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 5482,
+   "wins": 2821,
+   "winRate": 51.46,
+   "share": 1.02,
+   "drafts": 1045,
+   "trophies": 54,
+   "cards": [
+    {
+     "name": "Glen Elendra's Answer",
+     "inclusion": 5.4,
+     "winRate": 60.0,
+     "games": 325,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Explosive Prodigy",
+     "inclusion": 5.2,
+     "winRate": 57.0,
+     "games": 316,
+     "trophyInclusion": 3.7
+    },
+    {
+     "name": "Maralen, Fae Ascendant",
+     "inclusion": 11.3,
+     "winRate": 56.9,
+     "games": 678,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Sanar, Innovative First-Year",
+     "inclusion": 8.3,
+     "winRate": 56.3,
+     "games": 476,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Champions of the Shoal",
+     "inclusion": 6.5,
+     "winRate": 56.2,
+     "games": 372,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Trystan, Callous Cultivator",
+     "inclusion": 5.7,
+     "winRate": 56.2,
+     "games": 340,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Puca's Eye",
+     "inclusion": 13.7,
+     "winRate": 56.0,
+     "games": 825,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Trystan's Command",
+     "inclusion": 6.0,
+     "winRate": 56.0,
+     "games": 350,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Flitterwing Nuisance",
+     "inclusion": 10.2,
+     "winRate": 55.2,
+     "games": 589,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Ashling's Command",
+     "inclusion": 5.4,
+     "winRate": 55.2,
+     "games": 315,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Aurora Awakener",
+     "inclusion": 9.8,
+     "winRate": 55.0,
+     "games": 560,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Loch Mare",
+     "inclusion": 7.6,
+     "winRate": 55.0,
+     "games": 418,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Eclipsed Kithkin",
+     "inclusion": 5.7,
+     "winRate": 55.0,
+     "games": 347,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Unwelcome Sprite",
+     "inclusion": 20.8,
+     "winRate": 54.5,
+     "games": 1179,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Rimekin Recluse",
+     "inclusion": 30.5,
+     "winRate": 54.3,
+     "games": 1706,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Moon-Vigil Adherents",
+     "inclusion": 14.5,
+     "winRate": 54.3,
+     "games": 847,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Selfless Safewright",
+     "inclusion": 7.7,
+     "winRate": 54.1,
+     "games": 458,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Eclipsed Flamekin",
+     "inclusion": 9.0,
+     "winRate": 54.0,
+     "games": 517,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Sunderflock",
+     "inclusion": 9.2,
+     "winRate": 53.9,
+     "games": 501,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Bristlebane Battler",
+     "inclusion": 8.7,
+     "winRate": 53.9,
+     "games": 505,
+     "trophyInclusion": 3.7
+    },
+    {
+     "name": "Noggle Robber",
+     "inclusion": 21.3,
+     "winRate": 53.6,
+     "games": 1185,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Silvergill Mentor",
+     "inclusion": 7.2,
+     "winRate": 53.6,
+     "games": 403,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Pummeler for Hire",
+     "inclusion": 25.2,
+     "winRate": 53.5,
+     "games": 1448,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Eclipsed Elf",
+     "inclusion": 5.1,
+     "winRate": 53.5,
+     "games": 286,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Virulent Emissary",
+     "inclusion": 20.3,
+     "winRate": 53.3,
+     "games": 1141,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Merrow Skyswimmer",
+     "inclusion": 22.4,
+     "winRate": 53.2,
+     "games": 1271,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Thoughtweft Charge",
+     "inclusion": 6.3,
+     "winRate": 53.2,
+     "games": 359,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Disruptor of Currents",
+     "inclusion": 12.3,
+     "winRate": 53.1,
+     "games": 700,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Sygg, Wanderwine Wisdom",
+     "inclusion": 6.3,
+     "winRate": 53.1,
+     "games": 343,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Dundoolin Weaver",
+     "inclusion": 21.0,
+     "winRate": 53.0,
+     "games": 1201,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Oko, Lorwyn Liege",
+     "inclusion": 15.2,
+     "winRate": 53.0,
+     "games": 856,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Wistfulness",
+     "inclusion": 12.5,
+     "winRate": 53.0,
+     "games": 719,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Mirrorform",
+     "inclusion": 5.1,
+     "winRate": 53.0,
+     "games": 279,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Shinestriker",
+     "inclusion": 37.5,
+     "winRate": 52.8,
+     "games": 2129,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Safewright Cavalry",
+     "inclusion": 27.7,
+     "winRate": 52.8,
+     "games": 1540,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Glamer Gifter",
+     "inclusion": 23.0,
+     "winRate": 52.7,
+     "games": 1255,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Swat Away",
+     "inclusion": 19.6,
+     "winRate": 52.6,
+     "games": 1074,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Morcant's Eyes",
+     "inclusion": 5.2,
+     "winRate": 52.5,
+     "games": 297,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Changeling Wayfinder",
+     "inclusion": 36.1,
+     "winRate": 52.3,
+     "games": 2021,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Great Forest Druid",
+     "inclusion": 53.8,
+     "winRate": 52.2,
+     "games": 2951,
+     "trophyInclusion": 50.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-02-14",
+    "main": [
+     [
+      2,
+      "Assert Perfection"
+     ],
+     [
+      1,
+      "Chitinous Graspling"
+     ],
+     [
+      1,
+      "Dawn's Light Archer"
+     ],
+     [
+      1,
+      "Flitterwing Nuisance"
+     ],
+     [
+      1,
+      "Foraging Wickermaw"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Great Forest Druid"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Lys Alana Dignitary"
+     ],
+     [
+      1,
+      "Lys Alana Informant"
+     ],
+     [
+      1,
+      "Merrow Skyswimmer"
+     ],
+     [
+      1,
+      "Mischievous Sneakling"
+     ],
+     [
+      2,
+      "Moon-Vigil Adherents"
+     ],
+     [
+      2,
+      "Pitiless Fists"
+     ],
+     [
+      1,
+      "Rime Chill"
+     ],
+     [
+      1,
+      "Rimekin Recluse"
+     ],
+     [
+      1,
+      "Safewright Cavalry"
+     ],
+     [
+      1,
+      "Shinestriker"
+     ],
+     [
+      1,
+      "Stoic Grove-Guide"
+     ],
+     [
+      1,
+      "Unexpected Assistance"
+     ],
+     [
+      2,
+      "Virulent Emissary"
+     ],
+     [
+      1,
+      "Wildvine Pummeler"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aquitect's Defenses"
+     ],
+     [
+      1,
+      "Changeling Wayfinder"
+     ],
+     [
+      2,
+      "Chomping Changeling"
+     ],
+     [
+      1,
+      "Flamekin Gildweaver"
+     ],
+     [
+      1,
+      "Foraging Wickermaw"
+     ],
+     [
+      2,
+      "Gilt-Leaf's Embrace"
+     ],
+     [
+      1,
+      "Hovel Hurler"
+     ],
+     [
+      1,
+      "Meanders Guide"
+     ],
+     [
+      1,
+      "Midnight Tilling"
+     ],
+     [
+      1,
+      "Scarblade Scout"
+     ],
+     [
+      1,
+      "Tend the Sprigs"
+     ],
+     [
+      1,
+      "Unforgiving Aim"
+     ],
+     [
+      1,
+      "Wanderbrine Trapper"
+     ]
+    ]
+   }
+  }
+ ]
+}

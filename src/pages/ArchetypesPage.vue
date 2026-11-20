@@ -3,7 +3,7 @@ import { computed, ref } from 'vue'
 import { useFormat } from '../lib/useFormat'
 import { buildLineages, type Lineage } from '../lib/lineage'
 import { successorOf } from '../data/lineageLinks'
-import { locale, seasonEndYear, seasonYears, t } from '../lib/i18n'
+import { locale, seasonEndYear, seasonShort, seasonYears, t } from '../lib/i18n'
 import ColorPips from '../components/ColorPips.vue'
 import SoonState from '../components/SoonState.vue'
 
@@ -31,14 +31,15 @@ const list = computed(() => {
       if (sort.value === 'name') return a.name.localeCompare(b.name)
       // newest archetypes first: by the date of their first recorded result, as on the Decks page
       if (sort.value === 'recent') return firstResult(b).localeCompare(firstResult(a)) || lastStart(b).localeCompare(lastStart(a))
-      return b.entries.length - a.entries.length || b.top8 - a.top8
+      return b.entries.length - a.entries.length || b.top8 - a.top8 || b.games - a.games
     })
 })
 
 /** label every n-th season on the axis so labels never collide */
 const axisStep = computed(() => Math.max(1, Math.ceil(seasons.value.length / 8)))
 // calendar-year seasons get their full label ("2020–21" for a grouped first season)
-const axisLabel = (s: { start: string; end?: string }) => (s.start.endsWith('-01-01') ? seasonYears(s.start, s.end) : s.start.slice(0, 4))
+const axisLabel = (s: { start: string; end?: string; set: string; code?: string }) =>
+  s.code ? seasonShort(s) : s.start.endsWith('-01-01') ? seasonYears(s.start, s.end) : s.start.slice(0, 4)
 
 const byslug = computed(() => new Map(all.value.map((l) => [l.slug, l])))
 const successorName = (l: Lineage) => {
@@ -51,7 +52,7 @@ const multi = computed(() => all.value.filter((l) => l.entries.length > 1).lengt
 /** for the lifeline: share of top 8s in each season of the format (0 when absent) */
 function life(l: Lineage): { id: string; share: number; label: string }[] {
   const by = new Map(l.entries.map((e) => [e.season.id, e.deck.stats.share]))
-  return seasons.value.map((s) => ({ id: s.id, share: by.get(s.id) ?? 0, label: seasonYears(s.start, s.end) }))
+  return seasons.value.map((s) => ({ id: s.id, share: by.get(s.id) ?? 0, label: s.code ? s.set : seasonYears(s.start, s.end) }))
 }
 const maxShare = computed(() => Math.max(1, ...all.value.flatMap((l) => l.entries.map((e) => e.deck.stats.share))))
 

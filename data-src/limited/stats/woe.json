@@ -1,0 +1,4684 @@
+{
+ "set": "woe",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.WOE.PremierDraft.csv.gz",
+ "lastModified": "Wed, 18 Oct 2023 03:06:42 GMT",
+ "colorsDerived": false,
+ "first": "2023-08-31",
+ "last": "2023-10-15",
+ "games": 1024028,
+ "drafts": 175022,
+ "winRate": 55.2,
+ "combos": [
+  {
+   "colors": "BR",
+   "games": 151999,
+   "wins": 87033,
+   "winRate": 57.26,
+   "share": 14.84,
+   "drafts": 25055,
+   "trophies": 3751,
+   "cards": [
+    {
+     "name": "Lord Skitter, Sewer King",
+     "inclusion": 10.1,
+     "winRate": 60.0,
+     "games": 15909,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Redcap Gutter-Dweller",
+     "inclusion": 10.7,
+     "winRate": 59.7,
+     "games": 16865,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Goblin Bombardment",
+     "inclusion": 6.7,
+     "winRate": 59.7,
+     "games": 10594,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Imodane's Recruiter",
+     "inclusion": 22.2,
+     "winRate": 59.5,
+     "games": 34738,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Twisted Fealty",
+     "inclusion": 21.4,
+     "winRate": 59.1,
+     "games": 33405,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Faerie Dreamthief",
+     "inclusion": 21.0,
+     "winRate": 58.9,
+     "games": 32454,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Eriette's Tempting Apple",
+     "inclusion": 10.9,
+     "winRate": 58.8,
+     "games": 16964,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Tangled Colony",
+     "inclusion": 10.3,
+     "winRate": 58.6,
+     "games": 16009,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Song of Totentanz",
+     "inclusion": 9.9,
+     "winRate": 58.6,
+     "games": 15297,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "The Witch's Vanity",
+     "inclusion": 19.7,
+     "winRate": 58.5,
+     "games": 30499,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Gumdrop Poisoner",
+     "inclusion": 7.0,
+     "winRate": 58.5,
+     "games": 10743,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Twisted Sewer-Witch",
+     "inclusion": 29.8,
+     "winRate": 58.3,
+     "games": 46056,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Cut In",
+     "inclusion": 49.4,
+     "winRate": 58.2,
+     "games": 76146,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Candy Grapple",
+     "inclusion": 48.0,
+     "winRate": 58.2,
+     "games": 73842,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Flick a Coin",
+     "inclusion": 40.0,
+     "winRate": 58.2,
+     "games": 61573,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Embereth Veteran",
+     "inclusion": 26.1,
+     "winRate": 58.2,
+     "games": 40195,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Torch the Tower",
+     "inclusion": 52.4,
+     "winRate": 58.1,
+     "games": 80586,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Lord Skitter's Butcher",
+     "inclusion": 27.7,
+     "winRate": 58.1,
+     "games": 42549,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Witchstalker Frenzy",
+     "inclusion": 24.8,
+     "winRate": 58.1,
+     "games": 38134,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 11.0,
+     "winRate": 58.1,
+     "games": 17019,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Rat Out",
+     "inclusion": 47.8,
+     "winRate": 58.0,
+     "games": 73218,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Monstrous Rage",
+     "inclusion": 22.8,
+     "winRate": 58.0,
+     "games": 34929,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Spiteful Hexmage",
+     "inclusion": 7.6,
+     "winRate": 58.0,
+     "games": 11584,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Hopeless Nightmare",
+     "inclusion": 33.4,
+     "winRate": 57.9,
+     "games": 51135,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Mintstrosity",
+     "inclusion": 44.5,
+     "winRate": 57.8,
+     "games": 68174,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Callous Sell-Sword",
+     "inclusion": 34.2,
+     "winRate": 57.8,
+     "games": 52347,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Harried Spearguard",
+     "inclusion": 49.0,
+     "winRate": 57.7,
+     "games": 75034,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "Totentanz, Swarm Piper",
+     "inclusion": 39.2,
+     "winRate": 57.7,
+     "games": 60056,
+     "trophyInclusion": 41.0
+    },
+    {
+     "name": "Sweettooth Witch",
+     "inclusion": 31.9,
+     "winRate": 57.7,
+     "games": 48569,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Scalding Viper",
+     "inclusion": 5.2,
+     "winRate": 57.7,
+     "games": 7924,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Ratcatcher Trainee",
+     "inclusion": 58.1,
+     "winRate": 57.6,
+     "games": 88666,
+     "trophyInclusion": 59.5
+    },
+    {
+     "name": "Edgewall Pack",
+     "inclusion": 53.9,
+     "winRate": 57.6,
+     "games": 82662,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Picnic Ruiner",
+     "inclusion": 13.7,
+     "winRate": 57.6,
+     "games": 20860,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Decadent Dragon",
+     "inclusion": 10.2,
+     "winRate": 57.6,
+     "games": 15520,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Grand Ball Guest",
+     "inclusion": 47.6,
+     "winRate": 57.5,
+     "games": 72911,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Gnawing Crescendo",
+     "inclusion": 31.9,
+     "winRate": 57.5,
+     "games": 48911,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 18.0,
+     "winRate": 57.5,
+     "games": 27341,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Voracious Vermin",
+     "inclusion": 50.5,
+     "winRate": 57.4,
+     "games": 76955,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "High Fae Negotiator",
+     "inclusion": 19.3,
+     "winRate": 57.4,
+     "games": 29359,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 16.8,
+     "winRate": 57.4,
+     "games": 25420,
+     "trophyInclusion": 17.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-07",
+    "main": [
+     [
+      1,
+      "Barrow Naughty"
+     ],
+     [
+      1,
+      "Bespoke Battlegarb"
+     ],
+     [
+      1,
+      "Candy Grapple"
+     ],
+     [
+      1,
+      "Conceited Witch"
+     ],
+     [
+      1,
+      "Cut In"
+     ],
+     [
+      1,
+      "Embereth Veteran"
+     ],
+     [
+      1,
+      "Faerie Dreamthief"
+     ],
+     [
+      1,
+      "Faerie Fencing"
+     ],
+     [
+      1,
+      "Flick a Coin"
+     ],
+     [
+      1,
+      "Frantic Firebolt"
+     ],
+     [
+      1,
+      "Gnawing Crescendo"
+     ],
+     [
+      1,
+      "Goblin Bombardment"
+     ],
+     [
+      1,
+      "Grabby Giant"
+     ],
+     [
+      1,
+      "Grand Ball Guest"
+     ],
+     [
+      1,
+      "Harried Spearguard"
+     ],
+     [
+      1,
+      "Hearth Elemental"
+     ],
+     [
+      1,
+      "Hopeless Nightmare"
+     ],
+     [
+      1,
+      "Merry Bards"
+     ],
+     [
+      1,
+      "Mintstrosity"
+     ],
+     [
+      1,
+      "Monstrous Rage"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Rat Out"
+     ],
+     [
+      1,
+      "Ratcatcher Trainee"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Torch the Tower"
+     ],
+     [
+      1,
+      "Voracious Vermin"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aquatic Alchemist"
+     ],
+     [
+      2,
+      "Bestial Bloodline"
+     ],
+     [
+      1,
+      "Blood Moon"
+     ],
+     [
+      1,
+      "Candy Trail"
+     ],
+     [
+      1,
+      "Compulsion"
+     ],
+     [
+      1,
+      "Eriette's Whisper"
+     ],
+     [
+      1,
+      "Hopeless Nightmare"
+     ],
+     [
+      1,
+      "Intangible Virtue"
+     ],
+     [
+      1,
+      "Kindled Heroism"
+     ],
+     [
+      1,
+      "Not Dead After All"
+     ],
+     [
+      1,
+      "Omniscience"
+     ],
+     [
+      1,
+      "Redcap Thief"
+     ],
+     [
+      1,
+      "Skewer Slinger"
+     ],
+     [
+      1,
+      "Sweettooth Witch"
+     ],
+     [
+      1,
+      "Three Bowls of Porridge"
+     ],
+     [
+      1,
+      "Warehouse Tabby"
+     ],
+     [
+      1,
+      "Wicked Visitor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 144267,
+   "wins": 81301,
+   "winRate": 56.35,
+   "share": 14.09,
+   "drafts": 24311,
+   "trophies": 3369,
+   "cards": [
+    {
+     "name": "Gruff Triplets",
+     "inclusion": 9.3,
+     "winRate": 60.1,
+     "games": 14114,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Lord Skitter, Sewer King",
+     "inclusion": 6.3,
+     "winRate": 59.2,
+     "games": 9462,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Faunsbane Troll",
+     "inclusion": 14.1,
+     "winRate": 59.1,
+     "games": 21147,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Mosswood Dreadknight",
+     "inclusion": 12.0,
+     "winRate": 58.7,
+     "games": 17707,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Gumdrop Poisoner",
+     "inclusion": 8.9,
+     "winRate": 58.2,
+     "games": 13214,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Gingerbread Hunter",
+     "inclusion": 35.7,
+     "winRate": 58.1,
+     "games": 52762,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Tough Cookie",
+     "inclusion": 30.1,
+     "winRate": 58.1,
+     "games": 44492,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Restless Cottage",
+     "inclusion": 11.6,
+     "winRate": 58.1,
+     "games": 17090,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Welcome to Sweettooth",
+     "inclusion": 30.9,
+     "winRate": 58.0,
+     "games": 45793,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "The Huntsman's Redemption",
+     "inclusion": 8.8,
+     "winRate": 57.6,
+     "games": 12955,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "The Goose Mother",
+     "inclusion": 5.4,
+     "winRate": 57.6,
+     "games": 7931,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Spellscorn Coven",
+     "inclusion": 11.1,
+     "winRate": 57.5,
+     "games": 16280,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Faerie Dreamthief",
+     "inclusion": 16.4,
+     "winRate": 57.4,
+     "games": 23884,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Candy Grapple",
+     "inclusion": 48.3,
+     "winRate": 57.3,
+     "games": 70455,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Hopeless Nightmare",
+     "inclusion": 36.8,
+     "winRate": 57.3,
+     "games": 53698,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Royal Treatment",
+     "inclusion": 25.3,
+     "winRate": 57.3,
+     "games": 37167,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "The Witch's Vanity",
+     "inclusion": 23.9,
+     "winRate": 57.3,
+     "games": 34884,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Greta, Sweettooth Scourge",
+     "inclusion": 40.5,
+     "winRate": 57.2,
+     "games": 59176,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Stormkeld Vanguard",
+     "inclusion": 22.1,
+     "winRate": 57.2,
+     "games": 32262,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Tangled Colony",
+     "inclusion": 5.8,
+     "winRate": 57.2,
+     "games": 8473,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "High Fae Negotiator",
+     "inclusion": 22.0,
+     "winRate": 57.1,
+     "games": 32198,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Taken by Nightmares",
+     "inclusion": 21.7,
+     "winRate": 57.1,
+     "games": 31752,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Up the Beanstalk",
+     "inclusion": 18.2,
+     "winRate": 57.1,
+     "games": 26588,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Hamlet Glutton",
+     "inclusion": 58.1,
+     "winRate": 57.0,
+     "games": 84562,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Rat Out",
+     "inclusion": 31.6,
+     "winRate": 57.0,
+     "games": 45752,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Utopia Sprawl",
+     "inclusion": 29.5,
+     "winRate": 57.0,
+     "games": 42911,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Sweettooth Witch",
+     "inclusion": 53.8,
+     "winRate": 56.9,
+     "games": 78257,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Lord Skitter's Butcher",
+     "inclusion": 17.1,
+     "winRate": 56.9,
+     "games": 24971,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Feral Encounter",
+     "inclusion": 9.0,
+     "winRate": 56.9,
+     "games": 13080,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Hollow Scavenger",
+     "inclusion": 55.5,
+     "winRate": 56.8,
+     "games": 80691,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Mintstrosity",
+     "inclusion": 51.7,
+     "winRate": 56.8,
+     "games": 75055,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Agatha's Champion",
+     "inclusion": 27.7,
+     "winRate": 56.8,
+     "games": 40222,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Brave the Wilds",
+     "inclusion": 42.6,
+     "winRate": 56.7,
+     "games": 61449,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 15.5,
+     "winRate": 56.7,
+     "games": 22454,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Spiteful Hexmage",
+     "inclusion": 5.9,
+     "winRate": 56.7,
+     "games": 8670,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 27.7,
+     "winRate": 56.6,
+     "games": 40113,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Ferocious Werefox",
+     "inclusion": 44.9,
+     "winRate": 56.5,
+     "games": 64919,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Feed the Cauldron",
+     "inclusion": 43.2,
+     "winRate": 56.5,
+     "games": 62493,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Graceful Takedown",
+     "inclusion": 23.4,
+     "winRate": 56.5,
+     "games": 33993,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Tanglespan Lookout",
+     "inclusion": 16.3,
+     "winRate": 56.5,
+     "games": 23597,
+     "trophyInclusion": 16.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-10",
+    "main": [
+     [
+      1,
+      "Brave the Wilds"
+     ],
+     [
+      1,
+      "Candy Grapple"
+     ],
+     [
+      1,
+      "Conceited Witch"
+     ],
+     [
+      1,
+      "Curse of the Werefox"
+     ],
+     [
+      1,
+      "Ferocious Werefox"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Gingerbread Hunter"
+     ],
+     [
+      1,
+      "Greta, Sweettooth Scourge"
+     ],
+     [
+      1,
+      "Griffin Aerie"
+     ],
+     [
+      1,
+      "Hamlet Glutton"
+     ],
+     [
+      1,
+      "High Fae Negotiator"
+     ],
+     [
+      1,
+      "Hollow Scavenger"
+     ],
+     [
+      1,
+      "Hopeless Nightmare"
+     ],
+     [
+      1,
+      "Leaping Ambush"
+     ],
+     [
+      1,
+      "Mintstrosity"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Redtooth Vanguard"
+     ],
+     [
+      1,
+      "Restless Cottage"
+     ],
+     [
+      1,
+      "Return from the Wilds"
+     ],
+     [
+      1,
+      "Rootrider Faun"
+     ],
+     [
+      1,
+      "Royal Treatment"
+     ],
+     [
+      1,
+      "Shatter the Oath"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Sweettooth Witch"
+     ],
+     [
+      1,
+      "The Huntsman's Redemption"
+     ],
+     [
+      1,
+      "Tough Cookie"
+     ],
+     [
+      1,
+      "Utopia Sprawl"
+     ],
+     [
+      1,
+      "Welcome to Sweettooth"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aquatic Alchemist"
+     ],
+     [
+      1,
+      "Beanstalk Wurm"
+     ],
+     [
+      1,
+      "Bestial Bloodline"
+     ],
+     [
+      1,
+      "Food Fight"
+     ],
+     [
+      1,
+      "Grand Ball Guest"
+     ],
+     [
+      1,
+      "Living Lectern"
+     ],
+     [
+      1,
+      "Minecart Daredevil"
+     ],
+     [
+      1,
+      "Monstrous Rage"
+     ],
+     [
+      1,
+      "Redcap Thief"
+     ],
+     [
+      2,
+      "Rowan's Grim Search"
+     ],
+     [
+      1,
+      "Skybeast Tracker"
+     ],
+     [
+      1,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Spider Food"
+     ],
+     [
+      1,
+      "Territorial Witchstalker"
+     ],
+     [
+      1,
+      "Toadstool Admirer"
+     ],
+     [
+      1,
+      "Warehouse Tabby"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 125144,
+   "wins": 71529,
+   "winRate": 57.16,
+   "share": 12.22,
+   "drafts": 20754,
+   "trophies": 3088,
+   "cards": [
+    {
+     "name": "Virtue of Loyalty",
+     "inclusion": 5.0,
+     "winRate": 60.6,
+     "games": 6527,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Imodane's Recruiter",
+     "inclusion": 39.3,
+     "winRate": 59.9,
+     "games": 51242,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Spellbook Vendor",
+     "inclusion": 9.8,
+     "winRate": 59.8,
+     "games": 12653,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Redcap Gutter-Dweller",
+     "inclusion": 8.4,
+     "winRate": 59.8,
+     "games": 10845,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Regal Bunnicorn",
+     "inclusion": 9.5,
+     "winRate": 59.0,
+     "games": 12112,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Twisted Fealty",
+     "inclusion": 19.2,
+     "winRate": 58.6,
+     "games": 24458,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Witchstalker Frenzy",
+     "inclusion": 26.0,
+     "winRate": 58.5,
+     "games": 33244,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Woodland Acolyte",
+     "inclusion": 16.6,
+     "winRate": 58.4,
+     "games": 21054,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Eriette's Tempting Apple",
+     "inclusion": 9.6,
+     "winRate": 58.4,
+     "games": 12166,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "The Princess Takes Flight",
+     "inclusion": 24.2,
+     "winRate": 58.3,
+     "games": 30586,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Heartflame Duelist",
+     "inclusion": 14.0,
+     "winRate": 58.3,
+     "games": 17856,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Torch the Tower",
+     "inclusion": 53.1,
+     "winRate": 58.2,
+     "games": 67383,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Shrouded Shepherd",
+     "inclusion": 21.0,
+     "winRate": 58.2,
+     "games": 26774,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Cut In",
+     "inclusion": 52.6,
+     "winRate": 58.1,
+     "games": 66768,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Ash, Party Crasher",
+     "inclusion": 50.4,
+     "winRate": 58.1,
+     "games": 64075,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Monstrous Rage",
+     "inclusion": 27.7,
+     "winRate": 58.1,
+     "games": 35282,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Werefox Bodyguard",
+     "inclusion": 9.4,
+     "winRate": 58.1,
+     "games": 11928,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Song of Totentanz",
+     "inclusion": 7.8,
+     "winRate": 58.1,
+     "games": 9989,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Hopeful Vigil",
+     "inclusion": 58.6,
+     "winRate": 57.9,
+     "games": 74038,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Flick a Coin",
+     "inclusion": 35.1,
+     "winRate": 57.9,
+     "games": 44225,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Picnic Ruiner",
+     "inclusion": 14.4,
+     "winRate": 57.9,
+     "games": 18291,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Archon of the Wild Rose",
+     "inclusion": 8.9,
+     "winRate": 57.9,
+     "games": 11288,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Ratcatcher Trainee",
+     "inclusion": 52.5,
+     "winRate": 57.8,
+     "games": 66324,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Cooped Up",
+     "inclusion": 47.0,
+     "winRate": 57.8,
+     "games": 59415,
+     "trophyInclusion": 49.6
+    },
+    {
+     "name": "Three Blind Mice",
+     "inclusion": 9.4,
+     "winRate": 57.8,
+     "games": 11823,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Archon's Glory",
+     "inclusion": 49.2,
+     "winRate": 57.7,
+     "games": 62219,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Gingerbrute",
+     "inclusion": 39.3,
+     "winRate": 57.7,
+     "games": 49669,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Witch's Mark",
+     "inclusion": 38.2,
+     "winRate": 57.7,
+     "games": 48251,
+     "trophyInclusion": 40.5
+    },
+    {
+     "name": "Hearth Elemental",
+     "inclusion": 18.3,
+     "winRate": 57.7,
+     "games": 23005,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Restless Bivouac",
+     "inclusion": 12.9,
+     "winRate": 57.7,
+     "games": 16274,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 9.7,
+     "winRate": 57.7,
+     "games": 12196,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Grand Ball Guest",
+     "inclusion": 57.6,
+     "winRate": 57.6,
+     "games": 72684,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Belligerent of the Ball",
+     "inclusion": 29.9,
+     "winRate": 57.6,
+     "games": 37721,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Cheeky House-Mouse",
+     "inclusion": 29.2,
+     "winRate": 57.6,
+     "games": 36831,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 13.1,
+     "winRate": 57.6,
+     "games": 16404,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Edgewall Pack",
+     "inclusion": 50.8,
+     "winRate": 57.5,
+     "games": 64154,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Embereth Veteran",
+     "inclusion": 30.4,
+     "winRate": 57.5,
+     "games": 38294,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Decadent Dragon",
+     "inclusion": 5.6,
+     "winRate": 57.5,
+     "games": 7054,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Scalding Viper",
+     "inclusion": 5.6,
+     "winRate": 57.5,
+     "games": 7074,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Minecart Daredevil",
+     "inclusion": 39.3,
+     "winRate": 57.4,
+     "games": 49486,
+     "trophyInclusion": 40.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2023-09-25",
+    "main": [
+     [
+      1,
+      "Archon's Glory"
+     ],
+     [
+      1,
+      "Armory Mice"
+     ],
+     [
+      1,
+      "Ash, Party Crasher"
+     ],
+     [
+      1,
+      "Belligerent of the Ball"
+     ],
+     [
+      1,
+      "Besotted Knight"
+     ],
+     [
+      1,
+      "Cheeky House-Mouse"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Cut In"
+     ],
+     [
+      1,
+      "Edgewall Pack"
+     ],
+     [
+      1,
+      "Flick a Coin"
+     ],
+     [
+      1,
+      "Grabby Giant"
+     ],
+     [
+      1,
+      "Grand Ball Guest"
+     ],
+     [
+      1,
+      "Harried Spearguard"
+     ],
+     [
+      1,
+      "Hearth Elemental"
+     ],
+     [
+      1,
+      "Hopeful Vigil"
+     ],
+     [
+      1,
+      "Minecart Daredevil"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Picnic Ruiner"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Restless Bivouac"
+     ],
+     [
+      1,
+      "Return Triumphant"
+     ],
+     [
+      1,
+      "Scalding Viper"
+     ],
+     [
+      1,
+      "Spellbook Vendor"
+     ],
+     [
+      1,
+      "Stockpiling Celebrant"
+     ],
+     [
+      1,
+      "The Princess Takes Flight"
+     ],
+     [
+      1,
+      "Torch the Tower"
+     ],
+     [
+      1,
+      "Twisted Fealty"
+     ],
+     [
+      1,
+      "Witchstalker Frenzy"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beluna's Gatekeeper"
+     ],
+     [
+      1,
+      "Cruel Somnophage"
+     ],
+     [
+      1,
+      "Frostbridge Guard"
+     ],
+     [
+      1,
+      "Ice Out"
+     ],
+     [
+      1,
+      "Kindled Heroism"
+     ],
+     [
+      1,
+      "Living Lectern"
+     ],
+     [
+      1,
+      "Misleading Motes"
+     ],
+     [
+      1,
+      "Royal Treatment"
+     ],
+     [
+      1,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Splashy Spellcaster"
+     ],
+     [
+      1,
+      "Tenacious Tomeseeker"
+     ],
+     [
+      1,
+      "Tuinvale Guide"
+     ],
+     [
+      1,
+      "Unassuming Sage"
+     ],
+     [
+      1,
+      "Unruly Catapult"
+     ],
+     [
+      1,
+      "Virtue of Knowledge"
+     ],
+     [
+      1,
+      "Water Wings"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 95963,
+   "wins": 54087,
+   "winRate": 56.36,
+   "share": 9.37,
+   "drafts": 16084,
+   "trophies": 2265,
+   "cards": [
+    {
+     "name": "Gruff Triplets",
+     "inclusion": 10.9,
+     "winRate": 60.6,
+     "games": 11080,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Redcap Gutter-Dweller",
+     "inclusion": 9.1,
+     "winRate": 60.3,
+     "games": 9216,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Realm-Scorcher Hellkite",
+     "inclusion": 5.1,
+     "winRate": 58.4,
+     "games": 4991,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Welcome to Sweettooth",
+     "inclusion": 27.3,
+     "winRate": 58.2,
+     "games": 26957,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Tough Cookie",
+     "inclusion": 28.7,
+     "winRate": 58.0,
+     "games": 28234,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "The Huntsman's Redemption",
+     "inclusion": 9.8,
+     "winRate": 58.0,
+     "games": 9657,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Goddric, Cloaked Reveler",
+     "inclusion": 8.5,
+     "winRate": 58.0,
+     "games": 8358,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 15.5,
+     "winRate": 57.9,
+     "games": 15048,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Imodane's Recruiter",
+     "inclusion": 22.1,
+     "winRate": 57.7,
+     "games": 21739,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Mosswood Dreadknight",
+     "inclusion": 6.4,
+     "winRate": 57.7,
+     "games": 6244,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Torch the Tower",
+     "inclusion": 52.9,
+     "winRate": 57.5,
+     "games": 51632,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Picnic Ruiner",
+     "inclusion": 41.5,
+     "winRate": 57.5,
+     "games": 40603,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Feral Encounter",
+     "inclusion": 9.5,
+     "winRate": 57.5,
+     "games": 9212,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Decadent Dragon",
+     "inclusion": 7.0,
+     "winRate": 57.4,
+     "games": 6841,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Utopia Sprawl",
+     "inclusion": 29.3,
+     "winRate": 57.3,
+     "games": 28452,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Witchstalker Frenzy",
+     "inclusion": 27.0,
+     "winRate": 57.3,
+     "games": 26352,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Royal Treatment",
+     "inclusion": 27.0,
+     "winRate": 57.3,
+     "games": 26158,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Two-Headed Hunter",
+     "inclusion": 25.3,
+     "winRate": 57.3,
+     "games": 24615,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Gingerbread Hunter",
+     "inclusion": 19.6,
+     "winRate": 57.3,
+     "games": 18937,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Flick a Coin",
+     "inclusion": 41.7,
+     "winRate": 57.1,
+     "games": 40250,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Monstrous Rage",
+     "inclusion": 23.5,
+     "winRate": 57.1,
+     "games": 22802,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Minecart Daredevil",
+     "inclusion": 40.2,
+     "winRate": 57.0,
+     "games": 38939,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 26.3,
+     "winRate": 57.0,
+     "games": 25414,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Hearth Elemental",
+     "inclusion": 20.4,
+     "winRate": 57.0,
+     "games": 19755,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Hollow Scavenger",
+     "inclusion": 46.9,
+     "winRate": 56.9,
+     "games": 45386,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Song of Totentanz",
+     "inclusion": 7.0,
+     "winRate": 56.9,
+     "games": 6750,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Eriette's Tempting Apple",
+     "inclusion": 6.0,
+     "winRate": 56.9,
+     "games": 5734,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Cut In",
+     "inclusion": 52.3,
+     "winRate": 56.8,
+     "games": 50454,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Agatha's Champion",
+     "inclusion": 27.6,
+     "winRate": 56.8,
+     "games": 26763,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Ruby, Daring Tracker",
+     "inclusion": 47.2,
+     "winRate": 56.7,
+     "games": 45612,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Rootrider Faun",
+     "inclusion": 43.6,
+     "winRate": 56.7,
+     "games": 42139,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Grabby Giant",
+     "inclusion": 47.8,
+     "winRate": 56.6,
+     "games": 45883,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Embereth Veteran",
+     "inclusion": 19.9,
+     "winRate": 56.6,
+     "games": 19151,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Brave the Wilds",
+     "inclusion": 40.3,
+     "winRate": 56.5,
+     "games": 38729,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Ratcatcher Trainee",
+     "inclusion": 34.1,
+     "winRate": 56.5,
+     "games": 32843,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Howling Galefang",
+     "inclusion": 21.8,
+     "winRate": 56.5,
+     "games": 20974,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Stormkeld Vanguard",
+     "inclusion": 20.7,
+     "winRate": 56.5,
+     "games": 19864,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Titanic Growth",
+     "inclusion": 20.1,
+     "winRate": 56.5,
+     "games": 19317,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Hamlet Glutton",
+     "inclusion": 52.4,
+     "winRate": 56.4,
+     "games": 50384,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Ferocious Werefox",
+     "inclusion": 47.5,
+     "winRate": 56.4,
+     "games": 45495,
+     "trophyInclusion": 47.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-17",
+    "main": [
+     [
+      2,
+      "Brave the Wilds"
+     ],
+     [
+      1,
+      "Dragon Mantle"
+     ],
+     [
+      1,
+      "Edgewall Pack"
+     ],
+     [
+      1,
+      "Embereth Veteran"
+     ],
+     [
+      1,
+      "Flick a Coin"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Grabby Giant"
+     ],
+     [
+      1,
+      "Hamlet Glutton"
+     ],
+     [
+      1,
+      "Hollow Scavenger"
+     ],
+     [
+      1,
+      "Hylda's Crown of Winter"
+     ],
+     [
+      1,
+      "Leaping Ambush"
+     ],
+     [
+      1,
+      "Minecart Daredevil"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Picnic Ruiner"
+     ],
+     [
+      1,
+      "Redcap Thief"
+     ],
+     [
+      1,
+      "Redtooth Genealogist"
+     ],
+     [
+      1,
+      "Redtooth Vanguard"
+     ],
+     [
+      1,
+      "Rootrider Faun"
+     ],
+     [
+      1,
+      "Royal Treatment"
+     ],
+     [
+      1,
+      "Ruby, Daring Tracker"
+     ],
+     [
+      1,
+      "The Irencrag"
+     ],
+     [
+      1,
+      "Torch the Tower"
+     ],
+     [
+      1,
+      "Tough Cookie"
+     ],
+     [
+      1,
+      "Two-Headed Hunter"
+     ],
+     [
+      1,
+      "Welcome to Sweettooth"
+     ],
+     [
+      1,
+      "Witch's Mark"
+     ],
+     [
+      1,
+      "Witchstalker Frenzy"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beanstalk Wurm"
+     ],
+     [
+      1,
+      "Bellowing Bruiser"
+     ],
+     [
+      1,
+      "Commune with Nature"
+     ],
+     [
+      1,
+      "Hearth Elemental"
+     ],
+     [
+      1,
+      "Minecart Daredevil"
+     ],
+     [
+      1,
+      "Redcap Thief"
+     ],
+     [
+      1,
+      "Redtooth Genealogist"
+     ],
+     [
+      1,
+      "Return from the Wilds"
+     ],
+     [
+      1,
+      "Rootrider Faun"
+     ],
+     [
+      1,
+      "Skybeast Tracker"
+     ],
+     [
+      1,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Tempest Hart"
+     ],
+     [
+      1,
+      "Territorial Witchstalker"
+     ],
+     [
+      1,
+      "Troublemaker Ouphe"
+     ],
+     [
+      1,
+      "Up the Beanstalk"
+     ],
+     [
+      1,
+      "Utopia Sprawl"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 81550,
+   "wins": 44255,
+   "winRate": 54.27,
+   "share": 7.96,
+   "drafts": 14122,
+   "trophies": 1614,
+   "cards": [
+    {
+     "name": "Talion's Messenger",
+     "inclusion": 16.4,
+     "winRate": 58.4,
+     "games": 14101,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Horned Loch-Whale",
+     "inclusion": 11.1,
+     "winRate": 58.2,
+     "games": 9559,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Gumdrop Poisoner",
+     "inclusion": 7.6,
+     "winRate": 57.9,
+     "games": 6488,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Lord Skitter, Sewer King",
+     "inclusion": 6.2,
+     "winRate": 57.5,
+     "games": 5273,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "The Witch's Vanity",
+     "inclusion": 20.5,
+     "winRate": 56.5,
+     "games": 17319,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Gingerbread Hunter",
+     "inclusion": 5.3,
+     "winRate": 56.5,
+     "games": 4456,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Sleep-Cursed Faerie",
+     "inclusion": 13.6,
+     "winRate": 56.3,
+     "games": 11491,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Picklock Prankster",
+     "inclusion": 36.2,
+     "winRate": 56.0,
+     "games": 30195,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Talion, the Kindly Lord",
+     "inclusion": 8.6,
+     "winRate": 56.0,
+     "games": 7315,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Candy Grapple",
+     "inclusion": 48.7,
+     "winRate": 55.9,
+     "games": 40930,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Faerie Fencing",
+     "inclusion": 31.3,
+     "winRate": 55.8,
+     "games": 26109,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Twining Twins",
+     "inclusion": 10.8,
+     "winRate": 55.8,
+     "games": 9077,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Hopeless Nightmare",
+     "inclusion": 37.8,
+     "winRate": 55.7,
+     "games": 31340,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Spiteful Hexmage",
+     "inclusion": 5.9,
+     "winRate": 55.7,
+     "games": 4941,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Sweettooth Witch",
+     "inclusion": 25.7,
+     "winRate": 55.6,
+     "games": 21475,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Mintstrosity",
+     "inclusion": 31.9,
+     "winRate": 55.4,
+     "games": 26479,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Rat Out",
+     "inclusion": 29.1,
+     "winRate": 55.3,
+     "games": 24181,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 15.5,
+     "winRate": 55.3,
+     "games": 12849,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Extraordinary Journey",
+     "inclusion": 10.7,
+     "winRate": 55.3,
+     "games": 8911,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Spell Stutter",
+     "inclusion": 59.3,
+     "winRate": 55.2,
+     "games": 49099,
+     "trophyInclusion": 65.8
+    },
+    {
+     "name": "Spellscorn Coven",
+     "inclusion": 39.6,
+     "winRate": 55.2,
+     "games": 32630,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Bitter Chill",
+     "inclusion": 24.9,
+     "winRate": 55.2,
+     "games": 20659,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Faerie Dreamthief",
+     "inclusion": 29.2,
+     "winRate": 55.1,
+     "games": 24253,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Barrow Naughty",
+     "inclusion": 61.2,
+     "winRate": 54.9,
+     "games": 50463,
+     "trophyInclusion": 64.5
+    },
+    {
+     "name": "Tenacious Tomeseeker",
+     "inclusion": 26.0,
+     "winRate": 54.9,
+     "games": 21331,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Into the Fae Court",
+     "inclusion": 49.0,
+     "winRate": 54.8,
+     "games": 40243,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Feed the Cauldron",
+     "inclusion": 43.2,
+     "winRate": 54.8,
+     "games": 35565,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Hatching Plans",
+     "inclusion": 32.4,
+     "winRate": 54.8,
+     "games": 26594,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Lord Skitter's Butcher",
+     "inclusion": 13.4,
+     "winRate": 54.8,
+     "games": 10995,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Candy Trail",
+     "inclusion": 7.7,
+     "winRate": 54.8,
+     "games": 6252,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Johann's Stopgap",
+     "inclusion": 49.1,
+     "winRate": 54.7,
+     "games": 40229,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "High Fae Negotiator",
+     "inclusion": 27.7,
+     "winRate": 54.6,
+     "games": 22692,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Obyra, Dreaming Duelist",
+     "inclusion": 46.1,
+     "winRate": 54.5,
+     "games": 37826,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Quick Study",
+     "inclusion": 41.7,
+     "winRate": 54.5,
+     "games": 34014,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 25.6,
+     "winRate": 54.5,
+     "games": 20945,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Conceited Witch",
+     "inclusion": 29.0,
+     "winRate": 54.4,
+     "games": 23639,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Diminisher Witch",
+     "inclusion": 27.1,
+     "winRate": 54.4,
+     "games": 22040,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "The End",
+     "inclusion": 7.9,
+     "winRate": 54.4,
+     "games": 6529,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Taken by Nightmares",
+     "inclusion": 22.7,
+     "winRate": 54.3,
+     "games": 18557,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Threadbind Clique",
+     "inclusion": 19.0,
+     "winRate": 54.2,
+     "games": 15484,
+     "trophyInclusion": 20.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-10-04",
+    "main": [
+     [
+      1,
+      "Aquatic Alchemist"
+     ],
+     [
+      1,
+      "Barrow Naughty"
+     ],
+     [
+      1,
+      "Bitter Chill"
+     ],
+     [
+      2,
+      "Candy Grapple"
+     ],
+     [
+      1,
+      "Conceited Witch"
+     ],
+     [
+      2,
+      "Evolving Wilds"
+     ],
+     [
+      2,
+      "Feed the Cauldron"
+     ],
+     [
+      1,
+      "Hopeless Nightmare"
+     ],
+     [
+      1,
+      "Ice Out"
+     ],
+     [
+      1,
+      "Into the Fae Court"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Mintstrosity"
+     ],
+     [
+      1,
+      "Obyra's Attendants"
+     ],
+     [
+      1,
+      "Obyra, Dreaming Duelist"
+     ],
+     [
+      1,
+      "Picklock Prankster"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      2,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Spellscorn Coven"
+     ],
+     [
+      1,
+      "Stingblade Assassin"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Sweettooth Witch"
+     ],
+     [
+      1,
+      "Talion's Messenger"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Archon's Glory"
+     ],
+     [
+      1,
+      "Bespoke Battlegarb"
+     ],
+     [
+      1,
+      "Commune with Nature"
+     ],
+     [
+      1,
+      "Dream Spoilers"
+     ],
+     [
+      1,
+      "Eriette's Whisper"
+     ],
+     [
+      1,
+      "Gadwick's First Duel"
+     ],
+     [
+      1,
+      "Johann, Apprentice Sorcerer"
+     ],
+     [
+      1,
+      "Mana Flare"
+     ],
+     [
+      1,
+      "Misleading Motes"
+     ],
+     [
+      1,
+      "Mocking Sprite"
+     ],
+     [
+      1,
+      "Redtooth Genealogist"
+     ],
+     [
+      1,
+      "Stingblade Assassin"
+     ],
+     [
+      1,
+      "Sugar Rush"
+     ],
+     [
+      1,
+      "Voracious Vermin"
+     ],
+     [
+      2,
+      "Warehouse Tabby"
+     ],
+     [
+      1,
+      "Water Wings"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 75684,
+   "wins": 41327,
+   "winRate": 54.6,
+   "share": 7.39,
+   "drafts": 13129,
+   "trophies": 1584,
+   "cards": [
+    {
+     "name": "Horned Loch-Whale",
+     "inclusion": 11.5,
+     "winRate": 58.8,
+     "games": 9100,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Twining Twins",
+     "inclusion": 9.8,
+     "winRate": 57.9,
+     "games": 7816,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Redcap Gutter-Dweller",
+     "inclusion": 7.2,
+     "winRate": 57.6,
+     "games": 5749,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Heartflame Duelist",
+     "inclusion": 5.7,
+     "winRate": 56.6,
+     "games": 4407,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Sleep-Cursed Faerie",
+     "inclusion": 10.6,
+     "winRate": 56.5,
+     "games": 8398,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Imodane's Recruiter",
+     "inclusion": 15.6,
+     "winRate": 56.4,
+     "games": 12099,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Witchstalker Frenzy",
+     "inclusion": 27.2,
+     "winRate": 56.3,
+     "games": 21059,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Torch the Tower",
+     "inclusion": 59.5,
+     "winRate": 56.2,
+     "games": 46112,
+     "trophyInclusion": 69.3
+    },
+    {
+     "name": "Flick a Coin",
+     "inclusion": 54.4,
+     "winRate": 56.2,
+     "games": 42055,
+     "trophyInclusion": 63.7
+    },
+    {
+     "name": "Hatching Plans",
+     "inclusion": 31.0,
+     "winRate": 56.2,
+     "games": 23810,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Frolicking Familiar",
+     "inclusion": 49.2,
+     "winRate": 56.1,
+     "games": 38202,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Picklock Prankster",
+     "inclusion": 30.3,
+     "winRate": 55.7,
+     "games": 23269,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 16.1,
+     "winRate": 55.7,
+     "games": 12255,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Spell Stutter",
+     "inclusion": 47.3,
+     "winRate": 55.5,
+     "games": 36055,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 24.8,
+     "winRate": 55.5,
+     "games": 18983,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Threadbind Clique",
+     "inclusion": 16.7,
+     "winRate": 55.5,
+     "games": 12752,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Into the Fae Court",
+     "inclusion": 49.5,
+     "winRate": 55.4,
+     "games": 37965,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Sleight of Hand",
+     "inclusion": 39.2,
+     "winRate": 55.4,
+     "games": 30012,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Scalding Viper",
+     "inclusion": 16.4,
+     "winRate": 55.4,
+     "games": 12556,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Redcap Thief",
+     "inclusion": 26.8,
+     "winRate": 55.3,
+     "games": 20603,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Talion's Messenger",
+     "inclusion": 9.9,
+     "winRate": 55.3,
+     "games": 7686,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Picnic Ruiner",
+     "inclusion": 7.9,
+     "winRate": 55.3,
+     "games": 5994,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Restless Spire",
+     "inclusion": 13.4,
+     "winRate": 55.2,
+     "games": 10229,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Extraordinary Journey",
+     "inclusion": 11.7,
+     "winRate": 55.1,
+     "games": 9017,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Johann's Stopgap",
+     "inclusion": 54.4,
+     "winRate": 55.0,
+     "games": 41332,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Grabby Giant",
+     "inclusion": 41.0,
+     "winRate": 55.0,
+     "games": 31155,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Hearth Elemental",
+     "inclusion": 30.6,
+     "winRate": 55.0,
+     "games": 23276,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Two-Headed Hunter",
+     "inclusion": 14.8,
+     "winRate": 55.0,
+     "games": 11341,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Decadent Dragon",
+     "inclusion": 6.5,
+     "winRate": 55.0,
+     "games": 5067,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Bitter Chill",
+     "inclusion": 21.2,
+     "winRate": 54.9,
+     "games": 16122,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Cut In",
+     "inclusion": 49.9,
+     "winRate": 54.8,
+     "games": 37937,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Witch's Mark",
+     "inclusion": 30.5,
+     "winRate": 54.8,
+     "games": 23427,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 22.5,
+     "winRate": 54.8,
+     "games": 17072,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Prophetic Prism",
+     "inclusion": 19.4,
+     "winRate": 54.8,
+     "games": 14689,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Frantic Firebolt",
+     "inclusion": 58.0,
+     "winRate": 54.7,
+     "games": 44070,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Ratcatcher Trainee",
+     "inclusion": 30.3,
+     "winRate": 54.7,
+     "games": 23042,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Monstrous Rage",
+     "inclusion": 12.7,
+     "winRate": 54.7,
+     "games": 9705,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Goddric, Cloaked Reveler",
+     "inclusion": 6.8,
+     "winRate": 54.7,
+     "games": 5245,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Imodane, the Pyrohammer",
+     "inclusion": 7.6,
+     "winRate": 54.6,
+     "games": 5770,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Aquatic Alchemist",
+     "inclusion": 57.9,
+     "winRate": 54.5,
+     "games": 44007,
+     "trophyInclusion": 57.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-17",
+    "main": [
+     [
+      1,
+      "Beluna's Gatekeeper"
+     ],
+     [
+      1,
+      "Cut In"
+     ],
+     [
+      2,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Frantic Firebolt"
+     ],
+     [
+      1,
+      "Frolicking Familiar"
+     ],
+     [
+      1,
+      "Hearth Elemental"
+     ],
+     [
+      1,
+      "Ice Out"
+     ],
+     [
+      1,
+      "Into the Fae Court"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Johann's Stopgap"
+     ],
+     [
+      1,
+      "Johann, Apprentice Sorcerer"
+     ],
+     [
+      2,
+      "Mocking Sprite"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      2,
+      "Obyra's Attendants"
+     ],
+     [
+      1,
+      "Picklock Prankster"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      2,
+      "Ratcatcher Trainee"
+     ],
+     [
+      1,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Stonesplitter Bolt"
+     ],
+     [
+      1,
+      "Talion's Messenger"
+     ],
+     [
+      1,
+      "Torch the Tower"
+     ],
+     [
+      1,
+      "Unruly Catapult"
+     ],
+     [
+      1,
+      "Vantress Transmuter"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Conceited Witch"
+     ],
+     [
+      1,
+      "Edgewall Pack"
+     ],
+     [
+      1,
+      "Ego Drain"
+     ],
+     [
+      1,
+      "Feed the Cauldron"
+     ],
+     [
+      1,
+      "Gingerbrute"
+     ],
+     [
+      1,
+      "Hatching Plans"
+     ],
+     [
+      1,
+      "Likeness Looter"
+     ],
+     [
+      1,
+      "Living Lectern"
+     ],
+     [
+      1,
+      "Merfolk Coralsmith"
+     ],
+     [
+      1,
+      "Misleading Motes"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Snaremaster Sprite"
+     ],
+     [
+      1,
+      "Spreading Seas"
+     ],
+     [
+      1,
+      "Tangled Colony"
+     ],
+     [
+      2,
+      "Wicked Visitor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 68915,
+   "wins": 37086,
+   "winRate": 53.81,
+   "share": 6.73,
+   "drafts": 11983,
+   "trophies": 1291,
+   "cards": [
+    {
+     "name": "Virtue of Loyalty",
+     "inclusion": 5.3,
+     "winRate": 58.0,
+     "games": 3911,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Gruff Triplets",
+     "inclusion": 9.9,
+     "winRate": 57.4,
+     "games": 7085,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Spellbook Vendor",
+     "inclusion": 10.7,
+     "winRate": 56.4,
+     "games": 7687,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Tough Cookie",
+     "inclusion": 24.9,
+     "winRate": 56.3,
+     "games": 17758,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Welcome to Sweettooth",
+     "inclusion": 26.2,
+     "winRate": 56.0,
+     "games": 18709,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "The Huntsman's Redemption",
+     "inclusion": 9.8,
+     "winRate": 55.9,
+     "games": 6926,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "The Goose Mother",
+     "inclusion": 5.2,
+     "winRate": 55.7,
+     "games": 3708,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "The Princess Takes Flight",
+     "inclusion": 26.9,
+     "winRate": 55.6,
+     "games": 19087,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Werefox Bodyguard",
+     "inclusion": 9.7,
+     "winRate": 55.6,
+     "games": 6914,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 14.4,
+     "winRate": 55.5,
+     "games": 10128,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Threadbind Clique",
+     "inclusion": 5.6,
+     "winRate": 55.5,
+     "games": 3844,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Regal Bunnicorn",
+     "inclusion": 10.0,
+     "winRate": 55.4,
+     "games": 7157,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Imodane's Recruiter",
+     "inclusion": 6.8,
+     "winRate": 55.4,
+     "games": 4803,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Three Blind Mice",
+     "inclusion": 9.6,
+     "winRate": 55.2,
+     "games": 6667,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Royal Treatment",
+     "inclusion": 27.0,
+     "winRate": 55.0,
+     "games": 18943,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Agatha's Champion",
+     "inclusion": 25.4,
+     "winRate": 55.0,
+     "games": 17751,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Archon of the Wild Rose",
+     "inclusion": 12.8,
+     "winRate": 55.0,
+     "games": 8935,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Woodland Acolyte",
+     "inclusion": 38.2,
+     "winRate": 54.9,
+     "games": 26664,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Archon's Glory",
+     "inclusion": 37.9,
+     "winRate": 54.9,
+     "games": 26570,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Hopeful Vigil",
+     "inclusion": 52.7,
+     "winRate": 54.8,
+     "games": 36813,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Utopia Sprawl",
+     "inclusion": 29.0,
+     "winRate": 54.8,
+     "games": 20226,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Gingerbread Hunter",
+     "inclusion": 14.1,
+     "winRate": 54.8,
+     "games": 9836,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Tanglespan Lookout",
+     "inclusion": 32.5,
+     "winRate": 54.7,
+     "games": 22774,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Cursed Courtier",
+     "inclusion": 24.4,
+     "winRate": 54.6,
+     "games": 17041,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Redtooth Genealogist",
+     "inclusion": 49.9,
+     "winRate": 54.4,
+     "games": 34712,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Elvish Archivist",
+     "inclusion": 10.8,
+     "winRate": 54.4,
+     "games": 7515,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Brave the Wilds",
+     "inclusion": 37.3,
+     "winRate": 54.3,
+     "games": 25908,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Cooped Up",
+     "inclusion": 53.0,
+     "winRate": 54.2,
+     "games": 36818,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Stockpiling Celebrant",
+     "inclusion": 49.6,
+     "winRate": 54.2,
+     "games": 34282,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Syr Armont, the Redeemer",
+     "inclusion": 44.2,
+     "winRate": 54.2,
+     "games": 30718,
+     "trophyInclusion": 44.2
+    },
+    {
+     "name": "Hollow Scavenger",
+     "inclusion": 36.4,
+     "winRate": 54.2,
+     "games": 25173,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Shrouded Shepherd",
+     "inclusion": 16.2,
+     "winRate": 54.2,
+     "games": 11256,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Up the Beanstalk",
+     "inclusion": 12.9,
+     "winRate": 54.2,
+     "games": 8914,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Sentinel of Lost Lore",
+     "inclusion": 7.4,
+     "winRate": 54.2,
+     "games": 5115,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 28.5,
+     "winRate": 54.1,
+     "games": 19691,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Prophetic Prism",
+     "inclusion": 18.6,
+     "winRate": 54.1,
+     "games": 12889,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Hamlet Glutton",
+     "inclusion": 50.7,
+     "winRate": 54.0,
+     "games": 35153,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Ferocious Werefox",
+     "inclusion": 49.2,
+     "winRate": 54.0,
+     "games": 34073,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Stormkeld Vanguard",
+     "inclusion": 21.0,
+     "winRate": 54.0,
+     "games": 14454,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Rootrider Faun",
+     "inclusion": 42.9,
+     "winRate": 53.9,
+     "games": 29674,
+     "trophyInclusion": 42.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-29",
+    "main": [
+     [
+      1,
+      "Archon's Glory"
+     ],
+     [
+      1,
+      "Besotted Knight"
+     ],
+     [
+      1,
+      "Brave the Wilds"
+     ],
+     [
+      1,
+      "Curse of the Werefox"
+     ],
+     [
+      1,
+      "Elvish Archivist"
+     ],
+     [
+      1,
+      "Ferocious Werefox"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Grasp of Fate"
+     ],
+     [
+      1,
+      "Hollow Scavenger"
+     ],
+     [
+      1,
+      "Hopeful Vigil"
+     ],
+     [
+      1,
+      "Hylda's Crown of Winter"
+     ],
+     [
+      1,
+      "Kellan's Lightblades"
+     ],
+     [
+      1,
+      "Moment of Valor"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Redtooth Genealogist"
+     ],
+     [
+      1,
+      "Redtooth Vanguard"
+     ],
+     [
+      1,
+      "Rootrider Faun"
+     ],
+     [
+      1,
+      "Royal Treatment"
+     ],
+     [
+      1,
+      "Stockpiling Celebrant"
+     ],
+     [
+      1,
+      "Stormkeld Vanguard"
+     ],
+     [
+      1,
+      "Syr Armont, the Redeemer"
+     ],
+     [
+      1,
+      "Tough Cookie"
+     ],
+     [
+      1,
+      "Utopia Sprawl"
+     ],
+     [
+      1,
+      "Welcome to Sweettooth"
+     ],
+     [
+      1,
+      "Woodland Acolyte"
+     ],
+     [
+      1,
+      "Yenna, Redtooth Regent"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Beanstalk Wurm"
+     ],
+     [
+      2,
+      "Bestial Bloodline"
+     ],
+     [
+      1,
+      "Bitterblossom"
+     ],
+     [
+      1,
+      "Hopeless Nightmare"
+     ],
+     [
+      1,
+      "Ice Out"
+     ],
+     [
+      1,
+      "Intangible Virtue"
+     ],
+     [
+      1,
+      "Merry Bards"
+     ],
+     [
+      1,
+      "Moment of Valor"
+     ],
+     [
+      1,
+      "Primal Vigor"
+     ],
+     [
+      1,
+      "Questing Druid"
+     ],
+     [
+      1,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Spider Food"
+     ],
+     [
+      1,
+      "Sugar Rush"
+     ],
+     [
+      1,
+      "Toadstool Admirer"
+     ],
+     [
+      1,
+      "Troublemaker Ouphe"
+     ],
+     [
+      1,
+      "Twisted Fealty"
+     ],
+     [
+      1,
+      "Unassuming Sage"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 68525,
+   "wins": 36855,
+   "winRate": 53.78,
+   "share": 6.69,
+   "drafts": 11958,
+   "trophies": 1361,
+   "cards": [
+    {
+     "name": "Spellbook Vendor",
+     "inclusion": 10.6,
+     "winRate": 57.1,
+     "games": 7635,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Lord Skitter, Sewer King",
+     "inclusion": 6.5,
+     "winRate": 57.0,
+     "games": 4674,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Gumdrop Poisoner",
+     "inclusion": 8.2,
+     "winRate": 56.8,
+     "games": 5832,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Woodland Acolyte",
+     "inclusion": 17.4,
+     "winRate": 56.1,
+     "games": 12300,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Devouring Sugarmaw",
+     "inclusion": 12.7,
+     "winRate": 56.1,
+     "games": 9045,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Regal Bunnicorn",
+     "inclusion": 9.3,
+     "winRate": 55.9,
+     "games": 6584,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Shrouded Shepherd",
+     "inclusion": 36.0,
+     "winRate": 55.7,
+     "games": 25445,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "The Witch's Vanity",
+     "inclusion": 23.7,
+     "winRate": 55.7,
+     "games": 16737,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Restless Fortress",
+     "inclusion": 11.8,
+     "winRate": 55.7,
+     "games": 8246,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Archon of the Wild Rose",
+     "inclusion": 10.4,
+     "winRate": 55.7,
+     "games": 7401,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Faerie Dreamthief",
+     "inclusion": 17.5,
+     "winRate": 55.6,
+     "games": 12255,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Hopeless Nightmare",
+     "inclusion": 48.0,
+     "winRate": 55.5,
+     "games": 33733,
+     "trophyInclusion": 57.2
+    },
+    {
+     "name": "High Fae Negotiator",
+     "inclusion": 23.3,
+     "winRate": 55.5,
+     "games": 16374,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Spellscorn Coven",
+     "inclusion": 10.3,
+     "winRate": 55.5,
+     "games": 7202,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Stockpiling Celebrant",
+     "inclusion": 54.4,
+     "winRate": 55.2,
+     "games": 38112,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Expel the Interlopers",
+     "inclusion": 10.4,
+     "winRate": 55.2,
+     "games": 7269,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Virtue of Loyalty",
+     "inclusion": 5.2,
+     "winRate": 55.2,
+     "games": 3653,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Candy Grapple",
+     "inclusion": 47.9,
+     "winRate": 55.1,
+     "games": 33595,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "The Princess Takes Flight",
+     "inclusion": 27.9,
+     "winRate": 55.1,
+     "games": 19532,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Werefox Bodyguard",
+     "inclusion": 9.9,
+     "winRate": 55.1,
+     "games": 6929,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Tangled Colony",
+     "inclusion": 7.0,
+     "winRate": 55.1,
+     "games": 4901,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Hopeful Vigil",
+     "inclusion": 58.9,
+     "winRate": 54.9,
+     "games": 41164,
+     "trophyInclusion": 66.4
+    },
+    {
+     "name": "Archon's Glory",
+     "inclusion": 39.3,
+     "winRate": 54.9,
+     "games": 27367,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Lord Skitter's Butcher",
+     "inclusion": 17.6,
+     "winRate": 54.9,
+     "games": 12346,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Three Blind Mice",
+     "inclusion": 9.5,
+     "winRate": 54.9,
+     "games": 6663,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Rat Out",
+     "inclusion": 25.9,
+     "winRate": 54.8,
+     "games": 18062,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Spiteful Hexmage",
+     "inclusion": 9.0,
+     "winRate": 54.7,
+     "games": 6263,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Sweettooth Witch",
+     "inclusion": 29.3,
+     "winRate": 54.6,
+     "games": 20320,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Cooped Up",
+     "inclusion": 50.6,
+     "winRate": 54.5,
+     "games": 35053,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "The End",
+     "inclusion": 8.1,
+     "winRate": 54.5,
+     "games": 5651,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Mintstrosity",
+     "inclusion": 36.8,
+     "winRate": 54.4,
+     "games": 25430,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 12.3,
+     "winRate": 54.4,
+     "games": 8502,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Voracious Vermin",
+     "inclusion": 27.5,
+     "winRate": 54.3,
+     "games": 19017,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Neva, Stalked by Nightmares",
+     "inclusion": 41.5,
+     "winRate": 54.0,
+     "games": 28598,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Taken by Nightmares",
+     "inclusion": 21.9,
+     "winRate": 54.0,
+     "games": 15107,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Conceited Witch",
+     "inclusion": 45.0,
+     "winRate": 53.9,
+     "games": 30866,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Shatter the Oath",
+     "inclusion": 34.3,
+     "winRate": 53.9,
+     "games": 23639,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 22.9,
+     "winRate": 53.9,
+     "games": 15775,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Candy Trail",
+     "inclusion": 8.2,
+     "winRate": 53.9,
+     "games": 5604,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Feed the Cauldron",
+     "inclusion": 35.8,
+     "winRate": 53.8,
+     "games": 24666,
+     "trophyInclusion": 36.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-22",
+    "main": [
+     [
+      1,
+      "Archon's Glory"
+     ],
+     [
+      1,
+      "Ashiok's Reaper"
+     ],
+     [
+      1,
+      "Back for Seconds"
+     ],
+     [
+      1,
+      "Barrow Naughty"
+     ],
+     [
+      1,
+      "Besotted Knight"
+     ],
+     [
+      1,
+      "Candy Grapple"
+     ],
+     [
+      1,
+      "Cheeky House-Mouse"
+     ],
+     [
+      1,
+      "Conceited Witch"
+     ],
+     [
+      1,
+      "Cooped Up"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Cursed Courtier"
+     ],
+     [
+      1,
+      "Eriette's Tempting Apple"
+     ],
+     [
+      1,
+      "Evolving Wilds"
+     ],
+     [
+      1,
+      "Gallant Pie-Wielder"
+     ],
+     [
+      1,
+      "Glass Casket"
+     ],
+     [
+      1,
+      "Grasp of Fate"
+     ],
+     [
+      1,
+      "High Fae Negotiator"
+     ],
+     [
+      1,
+      "Hopeful Vigil"
+     ],
+     [
+      1,
+      "Neva, Stalked by Nightmares"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Return Triumphant"
+     ],
+     [
+      1,
+      "Shatter the Oath"
+     ],
+     [
+      1,
+      "Shrouded Shepherd"
+     ],
+     [
+      1,
+      "Stab Wound"
+     ],
+     [
+      1,
+      "Stockpiling Celebrant"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Princess Takes Flight"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Archon's Glory"
+     ],
+     [
+      1,
+      "Armory Mice"
+     ],
+     [
+      1,
+      "Ashiok's Reaper"
+     ],
+     [
+      1,
+      "Barrow Naughty"
+     ],
+     [
+      2,
+      "Charmed Clothier"
+     ],
+     [
+      1,
+      "Eriette's Whisper"
+     ],
+     [
+      1,
+      "Frostbridge Guard"
+     ],
+     [
+      1,
+      "Griffin Aerie"
+     ],
+     [
+      1,
+      "Imodane's Recruiter"
+     ],
+     [
+      1,
+      "Knightly Valor"
+     ],
+     [
+      2,
+      "Plunge into Winter"
+     ],
+     [
+      1,
+      "Stockpiling Celebrant"
+     ],
+     [
+      1,
+      "Stroke of Midnight"
+     ],
+     [
+      1,
+      "Sugar Rush"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 48608,
+   "wins": 25566,
+   "winRate": 52.6,
+   "share": 4.75,
+   "drafts": 8604,
+   "trophies": 816,
+   "cards": [
+    {
+     "name": "Gruff Triplets",
+     "inclusion": 11.4,
+     "winRate": 58.8,
+     "games": 6099,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Horned Loch-Whale",
+     "inclusion": 13.4,
+     "winRate": 56.8,
+     "games": 6929,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "The Goose Mother",
+     "inclusion": 19.7,
+     "winRate": 55.7,
+     "games": 9956,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Sleep-Cursed Faerie",
+     "inclusion": 9.7,
+     "winRate": 55.1,
+     "games": 4893,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Welcome to Sweettooth",
+     "inclusion": 24.8,
+     "winRate": 54.8,
+     "games": 12419,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Talion's Messenger",
+     "inclusion": 9.1,
+     "winRate": 54.7,
+     "games": 4542,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Tough Cookie",
+     "inclusion": 26.4,
+     "winRate": 54.6,
+     "games": 13150,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Mosswood Dreadknight",
+     "inclusion": 5.6,
+     "winRate": 54.6,
+     "games": 2798,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Gingerbread Hunter",
+     "inclusion": 18.8,
+     "winRate": 54.5,
+     "games": 9330,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Twining Twins",
+     "inclusion": 9.5,
+     "winRate": 54.5,
+     "games": 4718,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Feral Encounter",
+     "inclusion": 8.9,
+     "winRate": 54.5,
+     "games": 4443,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Candy Grapple",
+     "inclusion": 7.1,
+     "winRate": 54.5,
+     "games": 3524,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Extraordinary Journey",
+     "inclusion": 13.4,
+     "winRate": 54.2,
+     "games": 6661,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Utopia Sprawl",
+     "inclusion": 37.1,
+     "winRate": 54.1,
+     "games": 18395,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Hollow Scavenger",
+     "inclusion": 43.5,
+     "winRate": 53.8,
+     "games": 21514,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 31.2,
+     "winRate": 53.6,
+     "games": 15282,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Royal Treatment",
+     "inclusion": 23.2,
+     "winRate": 53.6,
+     "games": 11539,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Redtooth Vanguard",
+     "inclusion": 18.5,
+     "winRate": 53.6,
+     "games": 9156,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Hamlet Glutton",
+     "inclusion": 57.7,
+     "winRate": 53.5,
+     "games": 28474,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Restless Vinestalk",
+     "inclusion": 16.7,
+     "winRate": 53.4,
+     "games": 8251,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Rootrider Faun",
+     "inclusion": 56.2,
+     "winRate": 53.3,
+     "games": 27644,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "Hatching Plans",
+     "inclusion": 33.3,
+     "winRate": 53.3,
+     "games": 16395,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 25.6,
+     "winRate": 53.3,
+     "games": 12612,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Threadbind Clique",
+     "inclusion": 16.9,
+     "winRate": 53.3,
+     "games": 8287,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Curse of the Werefox",
+     "inclusion": 45.3,
+     "winRate": 53.2,
+     "games": 22273,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Bitter Chill",
+     "inclusion": 25.5,
+     "winRate": 53.2,
+     "games": 12455,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Ingenious Prodigy",
+     "inclusion": 11.3,
+     "winRate": 53.2,
+     "games": 5518,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "The Huntsman's Redemption",
+     "inclusion": 8.7,
+     "winRate": 53.2,
+     "games": 4243,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Up the Beanstalk",
+     "inclusion": 31.9,
+     "winRate": 53.1,
+     "games": 15664,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Agatha's Champion",
+     "inclusion": 27.2,
+     "winRate": 53.1,
+     "games": 13368,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Stormkeld Vanguard",
+     "inclusion": 26.3,
+     "winRate": 53.1,
+     "games": 12960,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Greta, Sweettooth Scourge",
+     "inclusion": 5.2,
+     "winRate": 53.1,
+     "games": 2492,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Archive Dragon",
+     "inclusion": 27.4,
+     "winRate": 53.0,
+     "games": 13368,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Sleight of Hand",
+     "inclusion": 13.6,
+     "winRate": 53.0,
+     "games": 6631,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Johann's Stopgap",
+     "inclusion": 46.0,
+     "winRate": 52.9,
+     "games": 22432,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Return from the Wilds",
+     "inclusion": 42.5,
+     "winRate": 52.9,
+     "games": 20692,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Spell Stutter",
+     "inclusion": 28.0,
+     "winRate": 52.9,
+     "games": 13566,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Into the Fae Court",
+     "inclusion": 47.5,
+     "winRate": 52.8,
+     "games": 23253,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Troublemaker Ouphe",
+     "inclusion": 34.8,
+     "winRate": 52.8,
+     "games": 17033,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Graceful Takedown",
+     "inclusion": 25.1,
+     "winRate": 52.8,
+     "games": 12219,
+     "trophyInclusion": 28.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-14",
+    "main": [
+     [
+      1,
+      "Archive Dragon"
+     ],
+     [
+      1,
+      "Beanstalk Wurm"
+     ],
+     [
+      1,
+      "Bitter Chill"
+     ],
+     [
+      1,
+      "Curse of the Werefox"
+     ],
+     [
+      1,
+      "Diminisher Witch"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Frolicking Familiar"
+     ],
+     [
+      1,
+      "Graceful Takedown"
+     ],
+     [
+      2,
+      "Hamlet Glutton"
+     ],
+     [
+      1,
+      "Hatching Plans"
+     ],
+     [
+      1,
+      "Hollow Scavenger"
+     ],
+     [
+      1,
+      "Howling Galefang"
+     ],
+     [
+      1,
+      "Into the Fae Court"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Johann's Stopgap"
+     ],
+     [
+      1,
+      "Questing Druid"
+     ],
+     [
+      1,
+      "Rootrider Faun"
+     ],
+     [
+      1,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Stormkeld Vanguard"
+     ],
+     [
+      1,
+      "Tempest Hart"
+     ],
+     [
+      1,
+      "Tough Cookie"
+     ],
+     [
+      1,
+      "Troublemaker Ouphe"
+     ],
+     [
+      1,
+      "Troyan, Gutsy Explorer"
+     ],
+     [
+      1,
+      "Up the Beanstalk"
+     ],
+     [
+      1,
+      "Utopia Sprawl"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bespoke Battlegarb"
+     ],
+     [
+      1,
+      "Bestial Bloodline"
+     ],
+     [
+      1,
+      "Commune with Nature"
+     ],
+     [
+      1,
+      "Diminisher Witch"
+     ],
+     [
+      1,
+      "Flick a Coin"
+     ],
+     [
+      1,
+      "Garruk's Uprising"
+     ],
+     [
+      1,
+      "Ice Out"
+     ],
+     [
+      1,
+      "Misleading Motes"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Rest in Peace"
+     ],
+     [
+      1,
+      "Scream Puff"
+     ],
+     [
+      1,
+      "Smothering Tithe"
+     ],
+     [
+      2,
+      "Spell Stutter"
+     ],
+     [
+      1,
+      "Stormkeld Prowler"
+     ],
+     [
+      1,
+      "Titanic Growth"
+     ],
+     [
+      1,
+      "Toadstool Admirer"
+     ],
+     [
+      1,
+      "Tuinvale Guide"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 40055,
+   "wins": 20425,
+   "winRate": 50.99,
+   "share": 3.91,
+   "drafts": 7313,
+   "trophies": 578,
+   "cards": [
+    {
+     "name": "Woodland Acolyte",
+     "inclusion": 17.6,
+     "winRate": 54.9,
+     "games": 7476,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Expel the Interlopers",
+     "inclusion": 12.5,
+     "winRate": 54.5,
+     "games": 5273,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Sleep-Cursed Faerie",
+     "inclusion": 10.3,
+     "winRate": 54.2,
+     "games": 4366,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Horned Loch-Whale",
+     "inclusion": 11.1,
+     "winRate": 53.9,
+     "games": 4631,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Talion's Messenger",
+     "inclusion": 9.7,
+     "winRate": 53.9,
+     "games": 4131,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Werefox Bodyguard",
+     "inclusion": 9.7,
+     "winRate": 53.8,
+     "games": 4043,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Twining Twins",
+     "inclusion": 15.6,
+     "winRate": 53.7,
+     "games": 6571,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Threadbind Clique",
+     "inclusion": 43.5,
+     "winRate": 53.1,
+     "games": 18020,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "Extraordinary Journey",
+     "inclusion": 11.5,
+     "winRate": 53.0,
+     "games": 4818,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Spellbook Vendor",
+     "inclusion": 8.9,
+     "winRate": 52.9,
+     "games": 3721,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Shrouded Shepherd",
+     "inclusion": 13.9,
+     "winRate": 52.8,
+     "games": 5651,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Hopeful Vigil",
+     "inclusion": 50.3,
+     "winRate": 52.6,
+     "games": 20747,
+     "trophyInclusion": 58.8
+    },
+    {
+     "name": "Picklock Prankster",
+     "inclusion": 22.7,
+     "winRate": 52.6,
+     "games": 9321,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Edgewall Inn",
+     "inclusion": 15.5,
+     "winRate": 52.6,
+     "games": 6400,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Archon's Glory",
+     "inclusion": 26.8,
+     "winRate": 52.4,
+     "games": 10970,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "The Princess Takes Flight",
+     "inclusion": 26.5,
+     "winRate": 52.3,
+     "games": 10810,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Spreading Seas",
+     "inclusion": 11.4,
+     "winRate": 52.3,
+     "games": 4605,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Prophetic Prism",
+     "inclusion": 20.0,
+     "winRate": 52.2,
+     "games": 8073,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Ingenious Prodigy",
+     "inclusion": 11.1,
+     "winRate": 52.2,
+     "games": 4553,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Sharae of Numbing Depths",
+     "inclusion": 52.5,
+     "winRate": 52.1,
+     "games": 21373,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Hatching Plans",
+     "inclusion": 30.0,
+     "winRate": 52.1,
+     "games": 12153,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Johann's Stopgap",
+     "inclusion": 48.0,
+     "winRate": 52.0,
+     "games": 19516,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Candy Trail",
+     "inclusion": 7.8,
+     "winRate": 52.0,
+     "games": 3125,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Into the Fae Court",
+     "inclusion": 39.6,
+     "winRate": 51.8,
+     "games": 16103,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Glass Casket",
+     "inclusion": 24.3,
+     "winRate": 51.8,
+     "games": 9839,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 21.8,
+     "winRate": 51.8,
+     "games": 8803,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Hylda's Crown of Winter",
+     "inclusion": 8.9,
+     "winRate": 51.8,
+     "games": 3558,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Spell Stutter",
+     "inclusion": 35.2,
+     "winRate": 51.7,
+     "games": 14287,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Stockpiling Celebrant",
+     "inclusion": 44.2,
+     "winRate": 51.6,
+     "games": 17836,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Sleight of Hand",
+     "inclusion": 17.3,
+     "winRate": 51.6,
+     "games": 6990,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Armory Mice",
+     "inclusion": 15.5,
+     "winRate": 51.6,
+     "games": 6304,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Kellan's Lightblades",
+     "inclusion": 48.1,
+     "winRate": 51.5,
+     "games": 19496,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Diminisher Witch",
+     "inclusion": 31.5,
+     "winRate": 51.5,
+     "games": 12701,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Tenacious Tomeseeker",
+     "inclusion": 24.1,
+     "winRate": 51.5,
+     "games": 9747,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Cooped Up",
+     "inclusion": 50.1,
+     "winRate": 51.4,
+     "games": 20255,
+     "trophyInclusion": 55.9
+    },
+    {
+     "name": "Regal Bunnicorn",
+     "inclusion": 8.5,
+     "winRate": 51.4,
+     "games": 3503,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Ice Out",
+     "inclusion": 36.9,
+     "winRate": 51.2,
+     "games": 14748,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Icewrought Sentry",
+     "inclusion": 30.6,
+     "winRate": 51.2,
+     "games": 12387,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Bitter Chill",
+     "inclusion": 31.8,
+     "winRate": 51.1,
+     "games": 12797,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Evolving Wilds",
+     "inclusion": 26.5,
+     "winRate": 51.1,
+     "games": 10634,
+     "trophyInclusion": 28.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-09-27",
+    "main": [
+     [
+      1,
+      "Archive Dragon"
+     ],
+     [
+      1,
+      "Armory Mice"
+     ],
+     [
+      1,
+      "Beluna's Gatekeeper"
+     ],
+     [
+      1,
+      "Besotted Knight"
+     ],
+     [
+      1,
+      "Cooped Up"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Diminisher Witch"
+     ],
+     [
+      1,
+      "Expel the Interlopers"
+     ],
+     [
+      1,
+      "Hopeful Vigil"
+     ],
+     [
+      1,
+      "Into the Fae Court"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Johann's Stopgap"
+     ],
+     [
+      1,
+      "Kellan's Lightblades"
+     ],
+     [
+      1,
+      "Moment of Valor"
+     ],
+     [
+      1,
+      "Picklock Prankster"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Sharae of Numbing Depths"
+     ],
+     [
+      1,
+      "Shrouded Shepherd"
+     ],
+     [
+      1,
+      "Sleep-Cursed Faerie"
+     ],
+     [
+      1,
+      "Sleight of Hand"
+     ],
+     [
+      1,
+      "Snaremaster Sprite"
+     ],
+     [
+      1,
+      "Spellbook Vendor"
+     ],
+     [
+      1,
+      "Stockpiling Celebrant"
+     ],
+     [
+      1,
+      "Tenacious Tomeseeker"
+     ],
+     [
+      1,
+      "Vantress Transmuter"
+     ],
+     [
+      1,
+      "Werefox Bodyguard"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bespoke Battlegarb"
+     ],
+     [
+      1,
+      "Candy Grapple"
+     ],
+     [
+      1,
+      "Freeze in Place"
+     ],
+     [
+      1,
+      "Harried Spearguard"
+     ],
+     [
+      1,
+      "Johann's Stopgap"
+     ],
+     [
+      1,
+      "Kindred Discovery"
+     ],
+     [
+      2,
+      "Merfolk Coralsmith"
+     ],
+     [
+      1,
+      "Protective Parents"
+     ],
+     [
+      1,
+      "Quick Study"
+     ],
+     [
+      1,
+      "Return Triumphant"
+     ],
+     [
+      1,
+      "Rowan's Grim Search"
+     ],
+     [
+      1,
+      "Scarecrow Guide"
+     ],
+     [
+      2,
+      "Snaremaster Sprite"
+     ],
+     [
+      1,
+      "Unassuming Sage"
+     ],
+     [
+      1,
+      "Water Wings"
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,6 +1,21 @@
 import type { Deck, FormatData, SeasonWithDecks } from '../data/types'
 import { BASIC_LANDS } from './cards'
 
+/** Limited: an archetype across sets is a color combination, named after its guild / shard / wedge. */
+const COMBO_NAMES: Record<string, string> = {
+  'four-color-non-white': 'Four-color (no white)',
+  'four-color-non-blue': 'Four-color (no blue)',
+  'four-color-non-black': 'Four-color (no black)',
+  'four-color-non-red': 'Four-color (no red)',
+  'four-color-non-green': 'Four-color (no green)',
+  'five-color': 'Five-color',
+}
+
+function lineageName(slug: string, deck: Deck): string {
+  if (!deck.limited) return deck.name
+  return COMBO_NAMES[slug] ?? slug.split('-').map((w) => w[0].toUpperCase() + w.slice(1)).join('-')
+}
+
 /** A deck id is `{slug}-{season}`: the slug names the archetype across seasons. */
 export function slugOf(deck: Deck): string {
   return deck.id.endsWith(`-${deck.season}`) ? deck.id.slice(0, -(deck.season.length + 1)) : deck.id
@@ -16,6 +31,8 @@ export type Lineage = {
   entries: LineageEntry[]
   top8: number
   wins: number
+  /** Limited: 17Lands games, all sets together */
+  games: number
 }
 
 /** Every archetype of a format, keyed by slug, entries in chronological order. */
@@ -26,13 +43,14 @@ export function buildLineages(data: FormatData): Map<string, Lineage> {
       const slug = slugOf(deck)
       let l = map.get(slug)
       if (!l) {
-        l = { slug, name: deck.name, entries: [], top8: 0, wins: 0 }
+        l = { slug, name: lineageName(slug, deck), entries: [], top8: 0, wins: 0, games: 0 }
         map.set(slug, l)
       }
       l.entries.push({ deck, season })
-      l.name = deck.name
+      l.name = lineageName(slug, deck)
       l.top8 += deck.stats.top8
       l.wins += deck.stats.wins
+      l.games += deck.limited?.games ?? 0
     }
   }
   return map

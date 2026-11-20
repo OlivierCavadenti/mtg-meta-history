@@ -1,0 +1,5047 @@
+{
+ "set": "tla",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TLA.PremierDraft.csv.gz",
+ "lastModified": "Sat, 10 Jan 2026 14:07:36 GMT",
+ "colorsDerived": false,
+ "first": "2025-11-18",
+ "last": "2025-12-31",
+ "games": 562924,
+ "drafts": 101496,
+ "winRate": 56.01,
+ "combos": [
+  {
+   "colors": "WU",
+   "games": 77050,
+   "wins": 44009,
+   "winRate": 57.12,
+   "share": 13.69,
+   "drafts": 13643,
+   "trophies": 1315,
+   "cards": [
+    {
+     "name": "The Legend of Yangchen",
+     "inclusion": 6.6,
+     "winRate": 61.2,
+     "games": 5326,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "The Legend of Kuruk",
+     "inclusion": 6.0,
+     "winRate": 61.2,
+     "games": 4901,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Wan Shi Tong, Librarian",
+     "inclusion": 6.0,
+     "winRate": 60.7,
+     "games": 4833,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Aang, Swift Savior",
+     "inclusion": 18.0,
+     "winRate": 60.6,
+     "games": 14590,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "United Front",
+     "inclusion": 5.4,
+     "winRate": 59.5,
+     "games": 4285,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Katara, Water Tribe's Hope",
+     "inclusion": 20.0,
+     "winRate": 59.4,
+     "games": 15917,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Invasion Submersible",
+     "inclusion": 28.2,
+     "winRate": 59.3,
+     "games": 22201,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Ty Lee, Chi Blocker",
+     "inclusion": 10.8,
+     "winRate": 59.2,
+     "games": 8568,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Aang, at the Crossroads",
+     "inclusion": 7.6,
+     "winRate": 59.2,
+     "games": 6008,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Earth Kingdom Jailer",
+     "inclusion": 22.5,
+     "winRate": 59.1,
+     "games": 17819,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Suki, Courageous Rescuer",
+     "inclusion": 10.3,
+     "winRate": 59.1,
+     "games": 8248,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Aang, the Last Airbender",
+     "inclusion": 24.6,
+     "winRate": 58.9,
+     "games": 19512,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "South Pole Voyager",
+     "inclusion": 10.2,
+     "winRate": 58.7,
+     "games": 8027,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Gran-Gran",
+     "inclusion": 23.4,
+     "winRate": 58.6,
+     "games": 18371,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "The Unagi of Kyoshi Island",
+     "inclusion": 10.1,
+     "winRate": 58.6,
+     "games": 7946,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Earth Kingdom Protectors",
+     "inclusion": 20.9,
+     "winRate": 58.3,
+     "games": 16313,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 8.8,
+     "winRate": 58.3,
+     "games": 6933,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Meditation Pools",
+     "inclusion": 6.3,
+     "winRate": 58.3,
+     "games": 4953,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 26.1,
+     "winRate": 58.2,
+     "games": 20552,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 7.3,
+     "winRate": 58.2,
+     "games": 5693,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Knowledge Seeker",
+     "inclusion": 24.2,
+     "winRate": 58.1,
+     "games": 18877,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Abandoned Air Temple",
+     "inclusion": 9.9,
+     "winRate": 58.1,
+     "games": 7752,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Lost Days",
+     "inclusion": 51.8,
+     "winRate": 58.0,
+     "games": 40355,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Water Tribe Rallier",
+     "inclusion": 25.8,
+     "winRate": 58.0,
+     "games": 20091,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Glider Staff",
+     "inclusion": 24.9,
+     "winRate": 58.0,
+     "games": 19585,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "It'll Quench Ya!",
+     "inclusion": 44.1,
+     "winRate": 57.9,
+     "games": 34204,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Kyoshi Battle Fan",
+     "inclusion": 30.3,
+     "winRate": 57.9,
+     "games": 23644,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Benevolent River Spirit",
+     "inclusion": 25.5,
+     "winRate": 57.9,
+     "games": 19866,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Momo, Friendly Flier",
+     "inclusion": 12.7,
+     "winRate": 57.9,
+     "games": 9876,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Watery Grasp",
+     "inclusion": 50.6,
+     "winRate": 57.8,
+     "games": 39174,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Forecasting Fortune Teller",
+     "inclusion": 54.0,
+     "winRate": 57.7,
+     "games": 41654,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Airbending Lesson",
+     "inclusion": 51.1,
+     "winRate": 57.7,
+     "games": 39560,
+     "trophyInclusion": 55.0
+    },
+    {
+     "name": "North Pole Gates",
+     "inclusion": 36.0,
+     "winRate": 57.7,
+     "games": 28011,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Invasion Reinforcements",
+     "inclusion": 20.2,
+     "winRate": 57.7,
+     "games": 15763,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Earth Kingdom Soldier",
+     "inclusion": 14.2,
+     "winRate": 57.7,
+     "games": 11062,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Guru Pathik",
+     "inclusion": 6.7,
+     "winRate": 57.7,
+     "games": 5163,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Momo, Playful Pet",
+     "inclusion": 23.0,
+     "winRate": 57.6,
+     "games": 17920,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Compassionate Healer",
+     "inclusion": 47.5,
+     "winRate": 57.5,
+     "games": 36800,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Path to Redemption",
+     "inclusion": 45.9,
+     "winRate": 57.5,
+     "games": 35573,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Kyoshi Warriors",
+     "inclusion": 42.7,
+     "winRate": 57.5,
+     "games": 33050,
+     "trophyInclusion": 43.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-11-28",
+    "main": [
+     [
+      1,
+      "Aang, the Last Airbender"
+     ],
+     [
+      1,
+      "Abandoned Air Temple"
+     ],
+     [
+      1,
+      "Airbender's Reversal"
+     ],
+     [
+      1,
+      "Airbending Lesson"
+     ],
+     [
+      1,
+      "Avatar Enthusiasts"
+     ],
+     [
+      1,
+      "Benevolent River Spirit"
+     ],
+     [
+      1,
+      "Boomerang Basics"
+     ],
+     [
+      1,
+      "Compassionate Healer"
+     ],
+     [
+      1,
+      "First-Time Flyer"
+     ],
+     [
+      1,
+      "Glider Kids"
+     ],
+     [
+      1,
+      "Invasion Reinforcements"
+     ],
+     [
+      1,
+      "Invasion Submersible"
+     ],
+     [
+      9,
+      "Island"
+     ],
+     [
+      1,
+      "It'll Quench Ya!"
+     ],
+     [
+      1,
+      "Jeong Jeong's Deserters"
+     ],
+     [
+      1,
+      "Messenger Hawk"
+     ],
+     [
+      2,
+      "Octopus Form"
+     ],
+     [
+      1,
+      "Path to Redemption"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Pretending Poxbearers"
+     ],
+     [
+      1,
+      "Razor Rings"
+     ],
+     [
+      1,
+      "Water Tribe Captain"
+     ],
+     [
+      1,
+      "Water Tribe Rallier"
+     ],
+     [
+      1,
+      "Waterbending Lesson"
+     ],
+     [
+      1,
+      "Watery Grasp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aang's Journey"
+     ],
+     [
+      1,
+      "Boiling Rock Prison"
+     ],
+     [
+      1,
+      "Crashing Wave"
+     ],
+     [
+      1,
+      "Crescent Island Temple"
+     ],
+     [
+      1,
+      "Cruel Administrator"
+     ],
+     [
+      1,
+      "Curious Farm Animals"
+     ],
+     [
+      1,
+      "Deserter's Disciple"
+     ],
+     [
+      1,
+      "Earth Rumble Wrestlers"
+     ],
+     [
+      1,
+      "Giant Koi"
+     ],
+     [
+      1,
+      "Iguana Parrot"
+     ],
+     [
+      2,
+      "Master Pakku"
+     ],
+     [
+      1,
+      "Origin of Metalbending"
+     ],
+     [
+      2,
+      "Sandbenders' Storm"
+     ],
+     [
+      1,
+      "Turtle-Duck"
+     ],
+     [
+      1,
+      "Yip Yip!"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 62087,
+   "wins": 35128,
+   "winRate": 56.58,
+   "share": 11.03,
+   "drafts": 11158,
+   "trophies": 981,
+   "cards": [
+    {
+     "name": "The Rise of Sozin",
+     "inclusion": 9.0,
+     "winRate": 61.6,
+     "games": 5947,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "The Legend of Kuruk",
+     "inclusion": 7.1,
+     "winRate": 61.3,
+     "games": 4722,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Wan Shi Tong, Librarian",
+     "inclusion": 6.1,
+     "winRate": 59.5,
+     "games": 3990,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "The Fire Nation Drill",
+     "inclusion": 15.3,
+     "winRate": 59.4,
+     "games": 9909,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Koh, the Face Stealer",
+     "inclusion": 8.6,
+     "winRate": 59.4,
+     "games": 5498,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Invasion Submersible",
+     "inclusion": 27.4,
+     "winRate": 59.0,
+     "games": 17590,
+     "trophyInclusion": 32.4
+    },
+    {
+     "name": "Azula, Cunning Usurper",
+     "inclusion": 25.7,
+     "winRate": 58.6,
+     "games": 16395,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Raven Eagle",
+     "inclusion": 16.2,
+     "winRate": 58.4,
+     "games": 10346,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 11.4,
+     "winRate": 58.4,
+     "games": 7228,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Kyoshi Battle Fan",
+     "inclusion": 19.3,
+     "winRate": 58.3,
+     "games": 12243,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Day of Black Sun",
+     "inclusion": 15.1,
+     "winRate": 58.2,
+     "games": 9543,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Agna Qel'a",
+     "inclusion": 13.3,
+     "winRate": 58.2,
+     "games": 8442,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "The Mechanist, Aerial Artisan",
+     "inclusion": 12.0,
+     "winRate": 58.2,
+     "games": 7617,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Ty Lee, Chi Blocker",
+     "inclusion": 10.9,
+     "winRate": 58.1,
+     "games": 6910,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Phoenix Fleet Airship",
+     "inclusion": 8.1,
+     "winRate": 58.1,
+     "games": 5169,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Gran-Gran",
+     "inclusion": 23.3,
+     "winRate": 57.7,
+     "games": 14645,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 12.9,
+     "winRate": 57.7,
+     "games": 8108,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "North Pole Gates",
+     "inclusion": 6.3,
+     "winRate": 57.7,
+     "games": 4016,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Knowledge Seeker",
+     "inclusion": 30.7,
+     "winRate": 57.6,
+     "games": 19386,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Heartless Act",
+     "inclusion": 27.2,
+     "winRate": 57.6,
+     "games": 16966,
+     "trophyInclusion": 31.7
+    },
+    {
+     "name": "The Unagi of Kyoshi Island",
+     "inclusion": 11.8,
+     "winRate": 57.6,
+     "games": 7385,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Lost Days",
+     "inclusion": 54.7,
+     "winRate": 57.5,
+     "games": 34306,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Watery Grasp",
+     "inclusion": 49.8,
+     "winRate": 57.4,
+     "games": 31290,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Serpent's Pass",
+     "inclusion": 47.9,
+     "winRate": 57.4,
+     "games": 30011,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Sokka's Haiku",
+     "inclusion": 13.0,
+     "winRate": 57.4,
+     "games": 8150,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Forecasting Fortune Teller",
+     "inclusion": 59.2,
+     "winRate": 57.3,
+     "games": 37108,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Foggy Swamp Spirit Keeper",
+     "inclusion": 51.3,
+     "winRate": 57.3,
+     "games": 32251,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Epic Downfall",
+     "inclusion": 27.3,
+     "winRate": 57.3,
+     "games": 17047,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Realm of Koh",
+     "inclusion": 11.7,
+     "winRate": 57.3,
+     "games": 7256,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Guru Pathik",
+     "inclusion": 6.9,
+     "winRate": 57.3,
+     "games": 4320,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Octopus Form",
+     "inclusion": 39.4,
+     "winRate": 57.2,
+     "games": 24686,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Messenger Hawk",
+     "inclusion": 61.6,
+     "winRate": 57.1,
+     "games": 38626,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Waterbending Lesson",
+     "inclusion": 47.7,
+     "winRate": 57.1,
+     "games": 29756,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Benevolent River Spirit",
+     "inclusion": 23.6,
+     "winRate": 57.1,
+     "games": 14684,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Corrupt Court Official",
+     "inclusion": 49.9,
+     "winRate": 57.0,
+     "games": 31317,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "It'll Quench Ya!",
+     "inclusion": 48.3,
+     "winRate": 57.0,
+     "games": 30217,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Boomerang Basics",
+     "inclusion": 20.3,
+     "winRate": 57.0,
+     "games": 12731,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Obsessive Pursuit",
+     "inclusion": 13.4,
+     "winRate": 57.0,
+     "games": 8414,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Canyon Crawler",
+     "inclusion": 31.5,
+     "winRate": 56.9,
+     "games": 19738,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Misty Palms Oasis",
+     "inclusion": 7.5,
+     "winRate": 56.9,
+     "games": 4638,
+     "trophyInclusion": 8.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-11-22",
+    "main": [
+     [
+      1,
+      "Abandon Attachments"
+     ],
+     [
+      1,
+      "Boomerang Basics"
+     ],
+     [
+      1,
+      "Canyon Crawler"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Deadly Precision"
+     ],
+     [
+      1,
+      "Foggy Swamp Spirit Keeper"
+     ],
+     [
+      2,
+      "Forecasting Fortune Teller"
+     ],
+     [
+      1,
+      "Geyser Leaper"
+     ],
+     [
+      1,
+      "Gran-Gran"
+     ],
+     [
+      1,
+      "Hama, the Bloodbender"
+     ],
+     [
+      1,
+      "Invasion Submersible"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "It'll Quench Ya!"
+     ],
+     [
+      2,
+      "June, Bounty Hunter"
+     ],
+     [
+      1,
+      "Lost Days"
+     ],
+     [
+      1,
+      "Merchant of Many Hats"
+     ],
+     [
+      1,
+      "Messenger Hawk"
+     ],
+     [
+      1,
+      "Otter-Penguin"
+     ],
+     [
+      1,
+      "Planetarium of Wan Shi Tong"
+     ],
+     [
+      1,
+      "Rumble Arena"
+     ],
+     [
+      1,
+      "Serpent's Pass"
+     ],
+     [
+      1,
+      "Sokka, Lateral Strategist"
+     ],
+     [
+      1,
+      "Sold Out"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Watery Grasp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aang's Journey"
+     ],
+     [
+      1,
+      "Avatar Destiny"
+     ],
+     [
+      1,
+      "Bumi, King of Three Trials"
+     ],
+     [
+      1,
+      "Crashing Wave"
+     ],
+     [
+      1,
+      "Cunning Maneuver"
+     ],
+     [
+      1,
+      "Deadly Precision"
+     ],
+     [
+      1,
+      "First-Time Flyer"
+     ],
+     [
+      1,
+      "Foggy Swamp Hunters"
+     ],
+     [
+      1,
+      "Hog-Monkey"
+     ],
+     [
+      1,
+      "Northern Air Temple"
+     ],
+     [
+      1,
+      "Otter-Penguin"
+     ],
+     [
+      1,
+      "Pirate Peddlers"
+     ],
+     [
+      1,
+      "The Lion-Turtle"
+     ],
+     [
+      1,
+      "Tiger-Seal"
+     ],
+     [
+      1,
+      "Tolls of War"
+     ],
+     [
+      1,
+      "Zuko's Conviction"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 51090,
+   "wins": 29015,
+   "winRate": 56.79,
+   "share": 9.08,
+   "drafts": 9173,
+   "trophies": 838,
+   "cards": [
+    {
+     "name": "The Legend of Kuruk",
+     "inclusion": 6.7,
+     "winRate": 61.4,
+     "games": 3611,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Wan Shi Tong, Librarian",
+     "inclusion": 5.9,
+     "winRate": 61.0,
+     "games": 3096,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "The Legend of Roku",
+     "inclusion": 8.5,
+     "winRate": 60.7,
+     "games": 4516,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Guru Pathik",
+     "inclusion": 15.4,
+     "winRate": 59.9,
+     "games": 8151,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Ran and Shaw",
+     "inclusion": 16.8,
+     "winRate": 59.7,
+     "games": 8927,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Invasion Submersible",
+     "inclusion": 29.3,
+     "winRate": 59.6,
+     "games": 15491,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "The Cave of Two Lovers",
+     "inclusion": 24.0,
+     "winRate": 59.6,
+     "games": 12795,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Ty Lee, Chi Blocker",
+     "inclusion": 12.4,
+     "winRate": 59.0,
+     "games": 6443,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Combustion Technique",
+     "inclusion": 33.2,
+     "winRate": 58.8,
+     "games": 17373,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Gran-Gran",
+     "inclusion": 26.2,
+     "winRate": 58.5,
+     "games": 13692,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Iroh's Demonstration",
+     "inclusion": 29.4,
+     "winRate": 58.4,
+     "games": 15293,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 62.5,
+     "winRate": 58.2,
+     "games": 32712,
+     "trophyInclusion": 70.0
+    },
+    {
+     "name": "Lost Days",
+     "inclusion": 58.9,
+     "winRate": 58.1,
+     "games": 30673,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Dragonfly Swarm",
+     "inclusion": 49.1,
+     "winRate": 57.9,
+     "games": 25337,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Fated Firepower",
+     "inclusion": 5.3,
+     "winRate": 57.9,
+     "games": 2733,
+     "trophyInclusion": 4.9
+    },
+    {
+     "name": "Accumulate Wisdom",
+     "inclusion": 27.1,
+     "winRate": 57.8,
+     "games": 14032,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 11.0,
+     "winRate": 57.8,
+     "games": 5692,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "It'll Quench Ya!",
+     "inclusion": 54.2,
+     "winRate": 57.7,
+     "games": 27880,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Fire Nation Cadets",
+     "inclusion": 50.9,
+     "winRate": 57.7,
+     "games": 26486,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Messenger Hawk",
+     "inclusion": 31.9,
+     "winRate": 57.7,
+     "games": 16358,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "Knowledge Seeker",
+     "inclusion": 26.8,
+     "winRate": 57.7,
+     "games": 13724,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Yuyan Archers",
+     "inclusion": 50.0,
+     "winRate": 57.6,
+     "games": 25792,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Watery Grasp",
+     "inclusion": 41.7,
+     "winRate": 57.5,
+     "games": 21567,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Fire Nation Attacks",
+     "inclusion": 19.1,
+     "winRate": 57.5,
+     "games": 9827,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Iroh, Grand Lotus",
+     "inclusion": 7.7,
+     "winRate": 57.4,
+     "games": 3968,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Waterbending Lesson",
+     "inclusion": 51.4,
+     "winRate": 57.3,
+     "games": 26340,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Sokka's Haiku",
+     "inclusion": 14.0,
+     "winRate": 57.3,
+     "games": 7155,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Forecasting Fortune Teller",
+     "inclusion": 47.2,
+     "winRate": 57.2,
+     "games": 24181,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Airship Engine Room",
+     "inclusion": 41.6,
+     "winRate": 57.2,
+     "games": 21239,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 12.9,
+     "winRate": 57.2,
+     "games": 6609,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "The Mechanist, Aerial Artisan",
+     "inclusion": 12.5,
+     "winRate": 57.2,
+     "games": 6424,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Wartime Protestors",
+     "inclusion": 8.4,
+     "winRate": 57.2,
+     "games": 4291,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 53.9,
+     "winRate": 57.1,
+     "games": 27802,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "The Unagi of Kyoshi Island",
+     "inclusion": 12.1,
+     "winRate": 57.1,
+     "games": 6229,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Meditation Pools",
+     "inclusion": 6.3,
+     "winRate": 57.1,
+     "games": 3237,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "North Pole Gates",
+     "inclusion": 6.0,
+     "winRate": 57.1,
+     "games": 3054,
+     "trophyInclusion": 5.3
+    },
+    {
+     "name": "Energybending",
+     "inclusion": 5.5,
+     "winRate": 57.1,
+     "games": 2855,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Octopus Form",
+     "inclusion": 53.7,
+     "winRate": 57.0,
+     "games": 27426,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Fire Sages",
+     "inclusion": 23.1,
+     "winRate": 57.0,
+     "games": 11961,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Sun-Blessed Peak",
+     "inclusion": 6.6,
+     "winRate": 57.0,
+     "games": 3362,
+     "trophyInclusion": 6.7
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-12-20",
+    "main": [
+     [
+      2,
+      "Abandon Attachments"
+     ],
+     [
+      1,
+      "Accumulate Wisdom"
+     ],
+     [
+      1,
+      "Airship Engine Room"
+     ],
+     [
+      1,
+      "Bumi, Unleashed"
+     ],
+     [
+      1,
+      "Dragonfly Swarm"
+     ],
+     [
+      1,
+      "Fire Nation Cadets"
+     ],
+     [
+      1,
+      "Fire Sages"
+     ],
+     [
+      1,
+      "Firebending Lesson"
+     ],
+     [
+      1,
+      "Forecasting Fortune Teller"
+     ],
+     [
+      1,
+      "Forest"
+     ],
+     [
+      1,
+      "Gran-Gran"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "It'll Quench Ya!"
+     ],
+     [
+      1,
+      "Katara, Bending Prodigy"
+     ],
+     [
+      2,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Lost Days"
+     ],
+     [
+      1,
+      "Meditation Pools"
+     ],
+     [
+      1,
+      "Messenger Hawk"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "North Pole Patrol"
+     ],
+     [
+      1,
+      "Omashu City"
+     ],
+     [
+      1,
+      "Ran and Shaw"
+     ],
+     [
+      1,
+      "Sokka's Haiku"
+     ],
+     [
+      1,
+      "The Unagi of Kyoshi Island"
+     ],
+     [
+      1,
+      "Waterbending Lesson"
+     ],
+     [
+      1,
+      "Watery Grasp"
+     ],
+     [
+      1,
+      "Yuyan Archers"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Abandon Attachments"
+     ],
+     [
+      1,
+      "Barrels of Blasting Jelly"
+     ],
+     [
+      1,
+      "Deserter's Disciple"
+     ],
+     [
+      1,
+      "Earth Kingdom Soldier"
+     ],
+     [
+      1,
+      "Fire Nation Attacks"
+     ],
+     [
+      1,
+      "Fire Nation Raider"
+     ],
+     [
+      1,
+      "Flopsie, Bumi's Buddy"
+     ],
+     [
+      1,
+      "Geyser Leaper"
+     ],
+     [
+      1,
+      "Otter-Penguin"
+     ],
+     [
+      1,
+      "Rabaroo Troop"
+     ],
+     [
+      1,
+      "Rocky Rebuke"
+     ],
+     [
+      1,
+      "Toph, the Blind Bandit"
+     ],
+     [
+      1,
+      "Trusty Boomerang"
+     ],
+     [
+      1,
+      "Waterbending Scroll"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 48826,
+   "wins": 27996,
+   "winRate": 57.34,
+   "share": 8.67,
+   "drafts": 8620,
+   "trophies": 822,
+   "cards": [
+    {
+     "name": "Badgermole Cub",
+     "inclusion": 6.6,
+     "winRate": 60.7,
+     "games": 3321,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "The Legend of Yangchen",
+     "inclusion": 6.8,
+     "winRate": 60.5,
+     "games": 3437,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "The Earth King",
+     "inclusion": 13.4,
+     "winRate": 60.1,
+     "games": 6835,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Great Divide Guide",
+     "inclusion": 14.8,
+     "winRate": 60.0,
+     "games": 7396,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Earthen Ally",
+     "inclusion": 7.2,
+     "winRate": 59.9,
+     "games": 3611,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Appa, Steadfast Guardian",
+     "inclusion": 5.8,
+     "winRate": 59.8,
+     "games": 2905,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Ba Sing Se",
+     "inclusion": 11.9,
+     "winRate": 59.7,
+     "games": 6020,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Water Tribe Rallier",
+     "inclusion": 25.2,
+     "winRate": 59.6,
+     "games": 12700,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Abandoned Air Temple",
+     "inclusion": 11.4,
+     "winRate": 59.3,
+     "games": 5812,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Aang, at the Crossroads",
+     "inclusion": 10.7,
+     "winRate": 59.2,
+     "games": 5380,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Glider Staff",
+     "inclusion": 23.7,
+     "winRate": 59.1,
+     "games": 11792,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Aang, the Last Airbender",
+     "inclusion": 22.3,
+     "winRate": 59.1,
+     "games": 11149,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Earth King's Lieutenant",
+     "inclusion": 25.2,
+     "winRate": 58.9,
+     "games": 12632,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Allies at Last",
+     "inclusion": 31.4,
+     "winRate": 58.7,
+     "games": 15561,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 6.2,
+     "winRate": 58.7,
+     "games": 3092,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Earth Kingdom Protectors",
+     "inclusion": 26.0,
+     "winRate": 58.6,
+     "games": 12837,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Earth Kingdom Jailer",
+     "inclusion": 23.3,
+     "winRate": 58.6,
+     "games": 11487,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 12.6,
+     "winRate": 58.6,
+     "games": 6185,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Earthbender Ascension",
+     "inclusion": 12.4,
+     "winRate": 58.6,
+     "games": 6154,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "South Pole Voyager",
+     "inclusion": 11.5,
+     "winRate": 58.6,
+     "games": 5723,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Yip Yip!",
+     "inclusion": 36.2,
+     "winRate": 58.5,
+     "games": 17898,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Secret Tunnel",
+     "inclusion": 8.8,
+     "winRate": 58.5,
+     "games": 4400,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Invasion Reinforcements",
+     "inclusion": 24.0,
+     "winRate": 58.3,
+     "games": 11762,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Suki, Kyoshi Warrior",
+     "inclusion": 25.3,
+     "winRate": 58.2,
+     "games": 12408,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Suki, Courageous Rescuer",
+     "inclusion": 11.0,
+     "winRate": 58.2,
+     "games": 5494,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "White Lotus Reinforcements",
+     "inclusion": 45.5,
+     "winRate": 58.1,
+     "games": 22388,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Momo, Playful Pet",
+     "inclusion": 20.8,
+     "winRate": 58.1,
+     "games": 10265,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Kyoshi Warriors",
+     "inclusion": 52.5,
+     "winRate": 57.9,
+     "games": 25896,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Airbending Lesson",
+     "inclusion": 47.7,
+     "winRate": 57.9,
+     "games": 23385,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Wandering Musicians",
+     "inclusion": 29.0,
+     "winRate": 57.9,
+     "games": 14321,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Path to Redemption",
+     "inclusion": 47.6,
+     "winRate": 57.8,
+     "games": 23391,
+     "trophyInclusion": 49.1
+    },
+    {
+     "name": "Pillar Launch",
+     "inclusion": 22.8,
+     "winRate": 57.8,
+     "games": 11206,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Enter the Avatar State",
+     "inclusion": 16.9,
+     "winRate": 57.8,
+     "games": 8203,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Jasmine Dragon Tea Shop",
+     "inclusion": 7.6,
+     "winRate": 57.8,
+     "games": 3736,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "United Front",
+     "inclusion": 6.6,
+     "winRate": 57.8,
+     "games": 3297,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "Jeong Jeong's Deserters",
+     "inclusion": 49.5,
+     "winRate": 57.7,
+     "games": 24272,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Water Tribe Captain",
+     "inclusion": 48.2,
+     "winRate": 57.7,
+     "games": 23702,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Toph, the Blind Bandit",
+     "inclusion": 25.7,
+     "winRate": 57.7,
+     "games": 12668,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Flopsie, Bumi's Buddy",
+     "inclusion": 21.1,
+     "winRate": 57.7,
+     "games": 10543,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 15.5,
+     "winRate": 57.7,
+     "games": 7599,
+     "trophyInclusion": 15.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-11-23",
+    "main": [
+     [
+      1,
+      "Abandoned Air Temple"
+     ],
+     [
+      1,
+      "Airbender's Reversal"
+     ],
+     [
+      1,
+      "Airbending Lesson"
+     ],
+     [
+      1,
+      "Avatar Enthusiasts"
+     ],
+     [
+      1,
+      "Badgermole"
+     ],
+     [
+      2,
+      "Earth King's Lieutenant"
+     ],
+     [
+      1,
+      "Earth Kingdom Soldier"
+     ],
+     [
+      1,
+      "Foggy Swamp Vinebender"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Glider Kids"
+     ],
+     [
+      1,
+      "Glider Staff"
+     ],
+     [
+      1,
+      "Jeong Jeong's Deserters"
+     ],
+     [
+      1,
+      "Kyoshi Warriors"
+     ],
+     [
+      1,
+      "Pillar Launch"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      2,
+      "Pretending Poxbearers"
+     ],
+     [
+      1,
+      "Razor Rings"
+     ],
+     [
+      1,
+      "Rebellious Captives"
+     ],
+     [
+      1,
+      "Rumble Arena"
+     ],
+     [
+      1,
+      "Secret Tunnel"
+     ],
+     [
+      1,
+      "Suki, Kyoshi Warrior"
+     ],
+     [
+      1,
+      "Team Avatar"
+     ],
+     [
+      1,
+      "Toph, the Blind Bandit"
+     ],
+     [
+      1,
+      "Walltop Sentries"
+     ],
+     [
+      1,
+      "Wandering Musicians"
+     ],
+     [
+      1,
+      "Water Tribe Captain"
+     ],
+     [
+      1,
+      "White Lotus Reinforcements"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Barrels of Blasting Jelly"
+     ],
+     [
+      2,
+      "Beetle-Headed Merchants"
+     ],
+     [
+      1,
+      "Cat-Gator"
+     ],
+     [
+      1,
+      "Curious Farm Animals"
+     ],
+     [
+      2,
+      "Earthbending Lesson"
+     ],
+     [
+      1,
+      "Pirate Peddlers"
+     ],
+     [
+      1,
+      "Rabaroo Troop"
+     ],
+     [
+      1,
+      "Raucous Audience"
+     ],
+     [
+      1,
+      "Tiger-Seal"
+     ],
+     [
+      1,
+      "Wandering Musicians"
+     ],
+     [
+      1,
+      "Zuko, Conflicted"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 47614,
+   "wins": 27301,
+   "winRate": 57.34,
+   "share": 8.46,
+   "drafts": 8418,
+   "trophies": 843,
+   "cards": [
+    {
+     "name": "The Legend of Yangchen",
+     "inclusion": 6.5,
+     "winRate": 60.6,
+     "games": 3236,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Suki, Courageous Rescuer",
+     "inclusion": 11.8,
+     "winRate": 60.4,
+     "games": 5868,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "The Legend of Roku",
+     "inclusion": 7.7,
+     "winRate": 59.9,
+     "games": 3850,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Secret Tunnel",
+     "inclusion": 6.5,
+     "winRate": 59.8,
+     "games": 3173,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "United Front",
+     "inclusion": 7.5,
+     "winRate": 59.6,
+     "games": 3718,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Earth Kingdom Jailer",
+     "inclusion": 22.7,
+     "winRate": 59.4,
+     "games": 11175,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "The Cave of Two Lovers",
+     "inclusion": 29.8,
+     "winRate": 59.2,
+     "games": 14553,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Aang, the Last Airbender",
+     "inclusion": 23.1,
+     "winRate": 59.2,
+     "games": 11276,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Water Tribe Rallier",
+     "inclusion": 24.9,
+     "winRate": 59.1,
+     "games": 12209,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Abandoned Air Temple",
+     "inclusion": 12.1,
+     "winRate": 58.7,
+     "games": 5837,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "South Pole Voyager",
+     "inclusion": 11.9,
+     "winRate": 58.7,
+     "games": 5728,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Appa, Steadfast Guardian",
+     "inclusion": 5.7,
+     "winRate": 58.7,
+     "games": 2782,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Iroh's Demonstration",
+     "inclusion": 23.8,
+     "winRate": 58.6,
+     "games": 11447,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Iroh, Tea Master",
+     "inclusion": 21.2,
+     "winRate": 58.6,
+     "games": 10117,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Aang's Iceberg",
+     "inclusion": 8.6,
+     "winRate": 58.6,
+     "games": 4142,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Wartime Protestors",
+     "inclusion": 18.1,
+     "winRate": 58.5,
+     "games": 8729,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Glider Staff",
+     "inclusion": 24.7,
+     "winRate": 58.3,
+     "games": 11909,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 15.0,
+     "winRate": 58.2,
+     "games": 7230,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 52.5,
+     "winRate": 58.1,
+     "games": 25387,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Yuyan Archers",
+     "inclusion": 53.1,
+     "winRate": 57.9,
+     "games": 25537,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Path to Redemption",
+     "inclusion": 45.7,
+     "winRate": 57.9,
+     "games": 21903,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 36.1,
+     "winRate": 57.9,
+     "games": 17327,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Earth Kingdom Protectors",
+     "inclusion": 22.0,
+     "winRate": 57.9,
+     "games": 10513,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Momo, Playful Pet",
+     "inclusion": 20.7,
+     "winRate": 57.9,
+     "games": 9900,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 53.5,
+     "winRate": 57.8,
+     "games": 25587,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Compassionate Healer",
+     "inclusion": 49.5,
+     "winRate": 57.8,
+     "games": 23661,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Airbending Lesson",
+     "inclusion": 48.9,
+     "winRate": 57.7,
+     "games": 23402,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Kyoshi Warriors",
+     "inclusion": 47.4,
+     "winRate": 57.7,
+     "games": 22561,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Fire Nation Cadets",
+     "inclusion": 42.4,
+     "winRate": 57.7,
+     "games": 20356,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 10.8,
+     "winRate": 57.7,
+     "games": 5157,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Water Tribe Captain",
+     "inclusion": 49.3,
+     "winRate": 57.6,
+     "games": 23649,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Invasion Reinforcements",
+     "inclusion": 23.3,
+     "winRate": 57.6,
+     "games": 11048,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Twin Blades",
+     "inclusion": 20.6,
+     "winRate": 57.6,
+     "games": 9840,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Deserter's Disciple",
+     "inclusion": 51.9,
+     "winRate": 57.5,
+     "games": 24782,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Yip Yip!",
+     "inclusion": 42.9,
+     "winRate": 57.5,
+     "games": 20537,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Glider Kids",
+     "inclusion": 44.6,
+     "winRate": 57.4,
+     "games": 21201,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Sun-Blessed Peak",
+     "inclusion": 40.5,
+     "winRate": 57.4,
+     "games": 19309,
+     "trophyInclusion": 42.0
+    },
+    {
+     "name": "Combustion Technique",
+     "inclusion": 20.6,
+     "winRate": 57.4,
+     "games": 9742,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Vindictive Warden",
+     "inclusion": 17.9,
+     "winRate": 57.4,
+     "games": 8679,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Fated Firepower",
+     "inclusion": 5.7,
+     "winRate": 57.4,
+     "games": 2683,
+     "trophyInclusion": 6.3
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-12-01",
+    "main": [
+     [
+      1,
+      "Abandoned Air Temple"
+     ],
+     [
+      1,
+      "Airbending Lesson"
+     ],
+     [
+      1,
+      "Avatar Enthusiasts"
+     ],
+     [
+      1,
+      "Compassionate Healer"
+     ],
+     [
+      1,
+      "Cunning Maneuver"
+     ],
+     [
+      1,
+      "Deserter's Disciple"
+     ],
+     [
+      1,
+      "Fancy Footwork"
+     ],
+     [
+      1,
+      "Fire Nation Cadets"
+     ],
+     [
+      1,
+      "How to Start a Riot"
+     ],
+     [
+      1,
+      "Jeong Jeong's Deserters"
+     ],
+     [
+      1,
+      "Jet, Freedom Fighter"
+     ],
+     [
+      1,
+      "Kyoshi Warriors"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Momo, Playful Pet"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Path to Redemption"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Planetarium of Wan Shi Tong"
+     ],
+     [
+      1,
+      "Suki, Courageous Rescuer"
+     ],
+     [
+      1,
+      "Sun-Blessed Peak"
+     ],
+     [
+      1,
+      "Treetop Freedom Fighters"
+     ],
+     [
+      2,
+      "Wandering Musicians"
+     ],
+     [
+      2,
+      "Water Tribe Captain"
+     ],
+     [
+      1,
+      "Water Tribe Rallier"
+     ],
+     [
+      1,
+      "Yuyan Archers"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Airship Engine Room"
+     ],
+     [
+      1,
+      "Avatar Enthusiasts"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Day of Black Sun"
+     ],
+     [
+      1,
+      "Fire Nation Raider"
+     ],
+     [
+      1,
+      "Flexible Waterbender"
+     ],
+     [
+      1,
+      "Meditation Pools"
+     ],
+     [
+      1,
+      "Pirate Peddlers"
+     ],
+     [
+      1,
+      "Raucous Audience"
+     ],
+     [
+      1,
+      "Rough Rhino Cavalry"
+     ],
+     [
+      1,
+      "The Boulder, Ready to Rumble"
+     ],
+     [
+      1,
+      "Vengeful Villagers"
+     ],
+     [
+      1,
+      "Vindictive Warden"
+     ],
+     [
+      1,
+      "Zhao, Ruthless Admiral"
+     ],
+     [
+      1,
+      "Zhao, the Moon Slayer"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 36035,
+   "wins": 20160,
+   "winRate": 55.95,
+   "share": 6.4,
+   "drafts": 6502,
+   "trophies": 554,
+   "cards": [
+    {
+     "name": "The Rise of Sozin",
+     "inclusion": 7.7,
+     "winRate": 60.0,
+     "games": 2967,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "The Fire Nation Drill",
+     "inclusion": 16.4,
+     "winRate": 59.9,
+     "games": 6222,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "The Legend of Yangchen",
+     "inclusion": 7.4,
+     "winRate": 59.9,
+     "games": 2741,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "United Front",
+     "inclusion": 6.2,
+     "winRate": 59.4,
+     "games": 2374,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Phoenix Fleet Airship",
+     "inclusion": 11.4,
+     "winRate": 58.6,
+     "games": 4232,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Azula, Cunning Usurper",
+     "inclusion": 5.2,
+     "winRate": 58.4,
+     "games": 1957,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Koh, the Face Stealer",
+     "inclusion": 8.4,
+     "winRate": 58.3,
+     "games": 3113,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Earth Kingdom Jailer",
+     "inclusion": 21.9,
+     "winRate": 58.1,
+     "games": 8102,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Aang, the Last Airbender",
+     "inclusion": 21.9,
+     "winRate": 58.1,
+     "games": 8174,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Raven Eagle",
+     "inclusion": 14.5,
+     "winRate": 58.1,
+     "games": 5380,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Suki, Courageous Rescuer",
+     "inclusion": 12.3,
+     "winRate": 58.0,
+     "games": 4626,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 12.4,
+     "winRate": 57.7,
+     "games": 4635,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Water Tribe Rallier",
+     "inclusion": 23.0,
+     "winRate": 57.5,
+     "games": 8498,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Messenger Hawk",
+     "inclusion": 35.6,
+     "winRate": 57.1,
+     "games": 13025,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Invasion Reinforcements",
+     "inclusion": 19.3,
+     "winRate": 57.1,
+     "games": 6994,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Sokka, Lateral Strategist",
+     "inclusion": 11.8,
+     "winRate": 57.1,
+     "games": 4266,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "North Pole Gates",
+     "inclusion": 5.2,
+     "winRate": 57.1,
+     "games": 1908,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Epic Downfall",
+     "inclusion": 25.8,
+     "winRate": 57.0,
+     "games": 9453,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 2918,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Serpent's Pass",
+     "inclusion": 7.7,
+     "winRate": 56.9,
+     "games": 2801,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Realm of Koh",
+     "inclusion": 13.1,
+     "winRate": 56.8,
+     "games": 4764,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Enter the Avatar State",
+     "inclusion": 10.5,
+     "winRate": 56.8,
+     "games": 3814,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Momo, Friendly Flier",
+     "inclusion": 5.0,
+     "winRate": 56.8,
+     "games": 1806,
+     "trophyInclusion": 4.5
+    },
+    {
+     "name": "Deadly Precision",
+     "inclusion": 61.9,
+     "winRate": 56.7,
+     "games": 22526,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Tolls of War",
+     "inclusion": 54.0,
+     "winRate": 56.7,
+     "games": 19593,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Water Tribe Captain",
+     "inclusion": 31.4,
+     "winRate": 56.7,
+     "games": 11546,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Heartless Act",
+     "inclusion": 26.0,
+     "winRate": 56.7,
+     "games": 9514,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Obsessive Pursuit",
+     "inclusion": 16.3,
+     "winRate": 56.7,
+     "games": 5979,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Earth Kingdom Soldier",
+     "inclusion": 11.9,
+     "winRate": 56.7,
+     "games": 4355,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Misty Palms Oasis",
+     "inclusion": 47.1,
+     "winRate": 56.6,
+     "games": 17168,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Momo, Playful Pet",
+     "inclusion": 18.7,
+     "winRate": 56.6,
+     "games": 6709,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Abandoned Air Temple",
+     "inclusion": 10.4,
+     "winRate": 56.6,
+     "games": 3789,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Glider Staff",
+     "inclusion": 21.9,
+     "winRate": 56.5,
+     "games": 7940,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "South Pole Voyager",
+     "inclusion": 9.5,
+     "winRate": 56.5,
+     "games": 3436,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Callous Inspector",
+     "inclusion": 52.9,
+     "winRate": 56.4,
+     "games": 19180,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Path to Redemption",
+     "inclusion": 45.0,
+     "winRate": 56.4,
+     "games": 16263,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Compassionate Healer",
+     "inclusion": 36.0,
+     "winRate": 56.4,
+     "games": 13015,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Day of Black Sun",
+     "inclusion": 12.9,
+     "winRate": 56.4,
+     "games": 4674,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 12.7,
+     "winRate": 56.4,
+     "games": 4584,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Kyoshi Warriors",
+     "inclusion": 41.4,
+     "winRate": 56.3,
+     "games": 14913,
+     "trophyInclusion": 42.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-12-16",
+    "main": [
+     [
+      1,
+      "Aang, the Last Airbender"
+     ],
+     [
+      1,
+      "Azula Always Lies"
+     ],
+     [
+      1,
+      "Azula, On the Hunt"
+     ],
+     [
+      1,
+      "Callous Inspector"
+     ],
+     [
+      1,
+      "Canyon Crawler"
+     ],
+     [
+      1,
+      "Compassionate Healer"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Deadly Precision"
+     ],
+     [
+      1,
+      "Earth Kingdom Jailer"
+     ],
+     [
+      1,
+      "Fire Nation Engineer"
+     ],
+     [
+      1,
+      "Fire Nation Warship"
+     ],
+     [
+      1,
+      "Fire Navy Trebuchet"
+     ],
+     [
+      1,
+      "Heartless Act"
+     ],
+     [
+      1,
+      "Hei Bai, Spirit of Balance"
+     ],
+     [
+      1,
+      "Jeong Jeong's Deserters"
+     ],
+     [
+      1,
+      "Jet, Freedom Fighter"
+     ],
+     [
+      1,
+      "June, Bounty Hunter"
+     ],
+     [
+      1,
+      "Kyoshi Warriors"
+     ],
+     [
+      1,
+      "Merchant of Many Hats"
+     ],
+     [
+      1,
+      "Misty Palms Oasis"
+     ],
+     [
+      1,
+      "Pirate Peddlers"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Pretending Poxbearers"
+     ],
+     [
+      1,
+      "Sold Out"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Team Avatar"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Azula Always Lies"
+     ],
+     [
+      1,
+      "Beetle-Headed Merchants"
+     ],
+     [
+      1,
+      "Cat-Gator"
+     ],
+     [
+      1,
+      "Cat-Owl"
+     ],
+     [
+      1,
+      "Destined Confrontation"
+     ],
+     [
+      1,
+      "Earth Kingdom Protectors"
+     ],
+     [
+      2,
+      "Earth Kingdom Soldier"
+     ],
+     [
+      1,
+      "Foggy Bottom Swamp"
+     ],
+     [
+      1,
+      "Giant Koi"
+     ],
+     [
+      1,
+      "Hog-Monkey"
+     ],
+     [
+      1,
+      "June, Bounty Hunter"
+     ],
+     [
+      1,
+      "Sandbenders' Storm"
+     ],
+     [
+      1,
+      "Trusty Boomerang"
+     ],
+     [
+      1,
+      "Water Tribe Captain"
+     ],
+     [
+      1,
+      "Wolfbat"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 28945,
+   "wins": 15952,
+   "winRate": 55.11,
+   "share": 5.14,
+   "drafts": 5292,
+   "trophies": 415,
+   "cards": [
+    {
+     "name": "The Legend of Kuruk",
+     "inclusion": 7.0,
+     "winRate": 59.5,
+     "games": 2203,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Wan Shi Tong, Librarian",
+     "inclusion": 7.2,
+     "winRate": 59.3,
+     "games": 2193,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "The Earth King",
+     "inclusion": 13.4,
+     "winRate": 58.7,
+     "games": 4143,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "The Legend of Kyoshi",
+     "inclusion": 8.4,
+     "winRate": 58.7,
+     "games": 2533,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Earthbender Ascension",
+     "inclusion": 14.1,
+     "winRate": 58.3,
+     "games": 4266,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 7.0,
+     "winRate": 57.6,
+     "games": 2097,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Badgermole Cub",
+     "inclusion": 8.8,
+     "winRate": 57.5,
+     "games": 2650,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Great Divide Guide",
+     "inclusion": 12.2,
+     "winRate": 57.4,
+     "games": 3665,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Ty Lee, Chi Blocker",
+     "inclusion": 10.5,
+     "winRate": 57.4,
+     "games": 3124,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Katara, Water Tribe's Hope",
+     "inclusion": 6.5,
+     "winRate": 57.2,
+     "games": 1988,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Allies at Last",
+     "inclusion": 25.9,
+     "winRate": 57.0,
+     "games": 7633,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Aang, Swift Savior",
+     "inclusion": 5.2,
+     "winRate": 56.8,
+     "games": 1533,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Invasion Submersible",
+     "inclusion": 28.6,
+     "winRate": 56.7,
+     "games": 8408,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Omashu City",
+     "inclusion": 17.5,
+     "winRate": 56.7,
+     "games": 5132,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Toph, Hardheaded Teacher",
+     "inclusion": 7.2,
+     "winRate": 56.7,
+     "games": 2141,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Iroh, Grand Lotus",
+     "inclusion": 13.1,
+     "winRate": 56.6,
+     "games": 3891,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "The Unagi of Kyoshi Island",
+     "inclusion": 12.8,
+     "winRate": 56.6,
+     "games": 3790,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Ba Sing Se",
+     "inclusion": 13.5,
+     "winRate": 56.5,
+     "games": 3978,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Foggy Bottom Swamp",
+     "inclusion": 9.6,
+     "winRate": 56.5,
+     "games": 2809,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Serpent's Pass",
+     "inclusion": 7.9,
+     "winRate": 56.5,
+     "games": 2339,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Lost Days",
+     "inclusion": 57.8,
+     "winRate": 56.4,
+     "games": 17003,
+     "trophyInclusion": 66.3
+    },
+    {
+     "name": "Rocky Rebuke",
+     "inclusion": 44.9,
+     "winRate": 56.4,
+     "games": 13316,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Dragonfly Swarm",
+     "inclusion": 6.4,
+     "winRate": 56.4,
+     "games": 1881,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Waterbending Lesson",
+     "inclusion": 48.4,
+     "winRate": 56.3,
+     "games": 14244,
+     "trophyInclusion": 54.9
+    },
+    {
+     "name": "Aang, at the Crossroads",
+     "inclusion": 12.0,
+     "winRate": 56.3,
+     "games": 3505,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 8.3,
+     "winRate": 56.3,
+     "games": 2413,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Ostrich-Horse",
+     "inclusion": 46.5,
+     "winRate": 56.0,
+     "games": 13637,
+     "trophyInclusion": 50.8
+    },
+    {
+     "name": "True Ancestry",
+     "inclusion": 27.8,
+     "winRate": 56.0,
+     "games": 8082,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "The Lion-Turtle",
+     "inclusion": 21.3,
+     "winRate": 56.0,
+     "games": 6234,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Beifong's Bounty Hunters",
+     "inclusion": 5.0,
+     "winRate": 56.0,
+     "games": 1481,
+     "trophyInclusion": 5.5
+    },
+    {
+     "name": "It'll Quench Ya!",
+     "inclusion": 49.3,
+     "winRate": 55.9,
+     "games": 14354,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 26.4,
+     "winRate": 55.9,
+     "games": 7767,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "North Pole Gates",
+     "inclusion": 11.9,
+     "winRate": 55.9,
+     "games": 3493,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Hermitic Herbalist",
+     "inclusion": 46.9,
+     "winRate": 55.8,
+     "games": 13692,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Watery Grasp",
+     "inclusion": 46.0,
+     "winRate": 55.8,
+     "games": 13356,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Guru Pathik",
+     "inclusion": 32.7,
+     "winRate": 55.8,
+     "games": 9588,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Kyoshi Village",
+     "inclusion": 12.7,
+     "winRate": 55.8,
+     "games": 3741,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Badgermole",
+     "inclusion": 40.9,
+     "winRate": 55.7,
+     "games": 11975,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Benevolent River Spirit",
+     "inclusion": 18.5,
+     "winRate": 55.7,
+     "games": 5390,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Diligent Zookeeper",
+     "inclusion": 11.0,
+     "winRate": 55.7,
+     "games": 3180,
+     "trophyInclusion": 10.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-12-07",
+    "main": [
+     [
+      1,
+      "Aang, Swift Savior"
+     ],
+     [
+      1,
+      "Badgermole"
+     ],
+     [
+      1,
+      "Cycle of Renewal"
+     ],
+     [
+      1,
+      "Earthbender Ascension"
+     ],
+     [
+      1,
+      "Earthbending Lesson"
+     ],
+     [
+      1,
+      "Fire Nation Warship"
+     ],
+     [
+      1,
+      "First-Time Flyer"
+     ],
+     [
+      1,
+      "Flopsie, Bumi's Buddy"
+     ],
+     [
+      1,
+      "Forecasting Fortune Teller"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "It'll Quench Ya!"
+     ],
+     [
+      1,
+      "Knowledge Seeker"
+     ],
+     [
+      1,
+      "Lost Days"
+     ],
+     [
+      1,
+      "Meditation Pools"
+     ],
+     [
+      1,
+      "Octopus Form"
+     ],
+     [
+      1,
+      "Omashu City"
+     ],
+     [
+      1,
+      "Origin of Metalbending"
+     ],
+     [
+      2,
+      "Ostrich-Horse"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Rebellious Captives"
+     ],
+     [
+      1,
+      "Rocky Rebuke"
+     ],
+     [
+      1,
+      "The Boulder, Ready to Rumble"
+     ],
+     [
+      1,
+      "The Lion-Turtle"
+     ],
+     [
+      1,
+      "The Mechanist, Aerial Artisan"
+     ],
+     [
+      1,
+      "Toph, the Blind Bandit"
+     ],
+     [
+      1,
+      "Waterbending Lesson"
+     ],
+     [
+      1,
+      "Watery Grasp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bender's Waterskin"
+     ],
+     [
+      1,
+      "Bitter Work"
+     ],
+     [
+      1,
+      "Cat-Gator"
+     ],
+     [
+      1,
+      "Deserter's Disciple"
+     ],
+     [
+      1,
+      "Earth Kingdom Soldier"
+     ],
+     [
+      1,
+      "Giant Koi"
+     ],
+     [
+      1,
+      "Haru, Hidden Talent"
+     ],
+     [
+      1,
+      "How to Start a Riot"
+     ],
+     [
+      2,
+      "Pillar Launch"
+     ],
+     [
+      1,
+      "Platypus-Bear"
+     ],
+     [
+      1,
+      "Saber-Tooth Moose-Lion"
+     ],
+     [
+      1,
+      "Tiger-Seal"
+     ],
+     [
+      1,
+      "Trusty Boomerang"
+     ],
+     [
+      1,
+      "Watery Grasp"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 28601,
+   "wins": 16049,
+   "winRate": 56.11,
+   "share": 5.08,
+   "drafts": 5138,
+   "trophies": 433,
+   "cards": [
+    {
+     "name": "The Fire Nation Drill",
+     "inclusion": 15.6,
+     "winRate": 60.6,
+     "games": 4730,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Earthbender Ascension",
+     "inclusion": 15.1,
+     "winRate": 59.8,
+     "games": 4592,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "The Earth King",
+     "inclusion": 15.0,
+     "winRate": 59.4,
+     "games": 4559,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "The Rise of Sozin",
+     "inclusion": 8.6,
+     "winRate": 59.4,
+     "games": 2576,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 8.4,
+     "winRate": 58.6,
+     "games": 2487,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Koh, the Face Stealer",
+     "inclusion": 8.4,
+     "winRate": 58.6,
+     "games": 2486,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Ba Sing Se",
+     "inclusion": 14.8,
+     "winRate": 58.4,
+     "games": 4377,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Badgermole Cub",
+     "inclusion": 9.1,
+     "winRate": 58.4,
+     "games": 2640,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Great Divide Guide",
+     "inclusion": 10.1,
+     "winRate": 58.2,
+     "games": 2949,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Secret Tunnel",
+     "inclusion": 9.1,
+     "winRate": 58.1,
+     "games": 2667,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Beifong's Bounty Hunters",
+     "inclusion": 31.6,
+     "winRate": 57.9,
+     "games": 9252,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Raven Eagle",
+     "inclusion": 12.6,
+     "winRate": 57.9,
+     "games": 3725,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Azula, Cunning Usurper",
+     "inclusion": 7.4,
+     "winRate": 57.8,
+     "games": 2159,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Heartless Act",
+     "inclusion": 27.4,
+     "winRate": 57.6,
+     "games": 8052,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Ostrich-Horse",
+     "inclusion": 49.1,
+     "winRate": 57.5,
+     "games": 14494,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Allies at Last",
+     "inclusion": 23.6,
+     "winRate": 57.5,
+     "games": 6835,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Obsessive Pursuit",
+     "inclusion": 10.9,
+     "winRate": 57.4,
+     "games": 3186,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Raucous Audience",
+     "inclusion": 54.9,
+     "winRate": 57.3,
+     "games": 16006,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Toph, the Blind Bandit",
+     "inclusion": 29.3,
+     "winRate": 57.3,
+     "games": 8527,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Diligent Zookeeper",
+     "inclusion": 10.3,
+     "winRate": 57.3,
+     "games": 3012,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Earth Kingdom General",
+     "inclusion": 26.3,
+     "winRate": 57.2,
+     "games": 7690,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Suki, Kyoshi Warrior",
+     "inclusion": 6.4,
+     "winRate": 57.2,
+     "games": 1891,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Messenger Hawk",
+     "inclusion": 20.2,
+     "winRate": 57.0,
+     "games": 5846,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Dai Li Agents",
+     "inclusion": 54.1,
+     "winRate": 56.9,
+     "games": 15739,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "Rebellious Captives",
+     "inclusion": 48.1,
+     "winRate": 56.9,
+     "games": 13935,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Epic Downfall",
+     "inclusion": 28.7,
+     "winRate": 56.9,
+     "games": 8340,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Boiling Rock Rioter",
+     "inclusion": 10.8,
+     "winRate": 56.9,
+     "games": 3152,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Omashu City",
+     "inclusion": 7.6,
+     "winRate": 56.9,
+     "games": 2189,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 30.1,
+     "winRate": 56.8,
+     "games": 8738,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Pillar Launch",
+     "inclusion": 16.0,
+     "winRate": 56.8,
+     "games": 4611,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Badgermole",
+     "inclusion": 52.4,
+     "winRate": 56.7,
+     "games": 15202,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Earth Kingdom Soldier",
+     "inclusion": 13.0,
+     "winRate": 56.7,
+     "games": 3771,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Realm of Koh",
+     "inclusion": 11.5,
+     "winRate": 56.7,
+     "games": 3312,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Kyoshi Battle Fan",
+     "inclusion": 9.6,
+     "winRate": 56.7,
+     "games": 2778,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Ozai's Cruelty",
+     "inclusion": 8.9,
+     "winRate": 56.7,
+     "games": 2517,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Toph, Hardheaded Teacher",
+     "inclusion": 5.2,
+     "winRate": 56.7,
+     "games": 1499,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Flopsie, Bumi's Buddy",
+     "inclusion": 25.7,
+     "winRate": 56.6,
+     "games": 7416,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "The Boulder, Ready to Rumble",
+     "inclusion": 26.7,
+     "winRate": 56.5,
+     "games": 7769,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "The Legend of Kyoshi",
+     "inclusion": 8.7,
+     "winRate": 56.5,
+     "games": 2515,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Sold Out",
+     "inclusion": 55.6,
+     "winRate": 56.4,
+     "games": 16049,
+     "trophyInclusion": 55.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-12-11",
+    "main": [
+     [
+      1,
+      "Callous Inspector"
+     ],
+     [
+      2,
+      "Corrupt Court Official"
+     ],
+     [
+      2,
+      "Dai Li Agents"
+     ],
+     [
+      1,
+      "Deadly Precision"
+     ],
+     [
+      1,
+      "Epic Downfall"
+     ],
+     [
+      2,
+      "Foggy Bottom Swamp"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      2,
+      "Heartless Act"
+     ],
+     [
+      1,
+      "June, Bounty Hunter"
+     ],
+     [
+      1,
+      "Merchant of Many Hats"
+     ],
+     [
+      1,
+      "Messenger Hawk"
+     ],
+     [
+      1,
+      "Ostrich-Horse"
+     ],
+     [
+      1,
+      "Raucous Audience"
+     ],
+     [
+      1,
+      "Rebellious Captives"
+     ],
+     [
+      2,
+      "Rocky Rebuke"
+     ],
+     [
+      1,
+      "Rumble Arena"
+     ],
+     [
+      1,
+      "Sold Out"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Boulder, Ready to Rumble"
+     ],
+     [
+      1,
+      "The Earth King"
+     ],
+     [
+      1,
+      "The Fire Nation Drill"
+     ],
+     [
+      1,
+      "Toph, the Blind Bandit"
+     ],
+     [
+      1,
+      "Walltop Sentries"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Azula Always Lies"
+     ],
+     [
+      1,
+      "Canyon Crawler"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Earth Rumble Wrestlers"
+     ],
+     [
+      1,
+      "Earthbending Lesson"
+     ],
+     [
+      1,
+      "Foggy Swamp Hunters"
+     ],
+     [
+      1,
+      "Foggy Swamp Vinebender"
+     ],
+     [
+      1,
+      "Leaves from the Vine"
+     ],
+     [
+      1,
+      "Origin of Metalbending"
+     ],
+     [
+      1,
+      "Pillar Launch"
+     ],
+     [
+      1,
+      "Saber-Tooth Moose-Lion"
+     ],
+     [
+      1,
+      "Turtle-Duck"
+     ],
+     [
+      1,
+      "Vindictive Warden"
+     ],
+     [
+      1,
+      "Zhao, Ruthless Admiral"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 27141,
+   "wins": 14660,
+   "winRate": 54.01,
+   "share": 4.82,
+   "drafts": 5004,
+   "trophies": 347,
+   "cards": [
+    {
+     "name": "The Fire Nation Drill",
+     "inclusion": 15.0,
+     "winRate": 58.6,
+     "games": 4333,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Koh, the Face Stealer",
+     "inclusion": 7.6,
+     "winRate": 58.3,
+     "games": 2189,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Raven Eagle",
+     "inclusion": 13.0,
+     "winRate": 56.9,
+     "games": 3713,
+     "trophyInclusion": 18.4
+    },
+    {
+     "name": "Fated Firepower",
+     "inclusion": 7.3,
+     "winRate": 56.5,
+     "games": 2047,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "The Cave of Two Lovers",
+     "inclusion": 20.9,
+     "winRate": 56.2,
+     "games": 5862,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "The Rise of Sozin",
+     "inclusion": 8.5,
+     "winRate": 56.2,
+     "games": 2355,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "The Legend of Roku",
+     "inclusion": 9.6,
+     "winRate": 55.8,
+     "games": 2736,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Realm of Koh",
+     "inclusion": 11.0,
+     "winRate": 55.7,
+     "games": 3097,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 9.8,
+     "winRate": 55.7,
+     "games": 2763,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Kyoshi Battle Fan",
+     "inclusion": 12.2,
+     "winRate": 55.6,
+     "games": 3386,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Yuyan Archers",
+     "inclusion": 50.7,
+     "winRate": 55.4,
+     "games": 14085,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Ozai, the Phoenix King",
+     "inclusion": 23.0,
+     "winRate": 55.4,
+     "games": 6341,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 56.8,
+     "winRate": 55.3,
+     "games": 15797,
+     "trophyInclusion": 66.0
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 8.2,
+     "winRate": 55.2,
+     "games": 2245,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Fire Nation Cadets",
+     "inclusion": 40.0,
+     "winRate": 55.0,
+     "games": 10994,
+     "trophyInclusion": 43.5
+    },
+    {
+     "name": "Fire Sages",
+     "inclusion": 29.8,
+     "winRate": 55.0,
+     "games": 8184,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Ozai's Cruelty",
+     "inclusion": 14.5,
+     "winRate": 55.0,
+     "games": 4003,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Azula, Cunning Usurper",
+     "inclusion": 5.5,
+     "winRate": 55.0,
+     "games": 1489,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Fire Nation Engineer",
+     "inclusion": 27.4,
+     "winRate": 54.9,
+     "games": 7611,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Ran and Shaw",
+     "inclusion": 11.3,
+     "winRate": 54.9,
+     "games": 3101,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 55.0,
+     "winRate": 54.8,
+     "games": 15151,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Heartless Act",
+     "inclusion": 27.1,
+     "winRate": 54.8,
+     "games": 7436,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Obsessive Pursuit",
+     "inclusion": 13.7,
+     "winRate": 54.8,
+     "games": 3775,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Earth Village Ruffians",
+     "inclusion": 11.2,
+     "winRate": 54.8,
+     "games": 3065,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Zhao, the Moon Slayer",
+     "inclusion": 9.4,
+     "winRate": 54.8,
+     "games": 2584,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Azula Always Lies",
+     "inclusion": 40.5,
+     "winRate": 54.7,
+     "games": 11094,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Fire Nation Attacks",
+     "inclusion": 25.7,
+     "winRate": 54.7,
+     "games": 6986,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Twin Blades",
+     "inclusion": 19.4,
+     "winRate": 54.7,
+     "games": 5315,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Messenger Hawk",
+     "inclusion": 25.5,
+     "winRate": 54.6,
+     "games": 6923,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Iroh's Demonstration",
+     "inclusion": 25.2,
+     "winRate": 54.6,
+     "games": 6932,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Epic Downfall",
+     "inclusion": 24.7,
+     "winRate": 54.6,
+     "games": 6827,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Day of Black Sun",
+     "inclusion": 11.0,
+     "winRate": 54.6,
+     "games": 2998,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Boiling Rock Prison",
+     "inclusion": 46.9,
+     "winRate": 54.4,
+     "games": 12737,
+     "trophyInclusion": 50.7
+    },
+    {
+     "name": "Vindictive Warden",
+     "inclusion": 45.0,
+     "winRate": 54.4,
+     "games": 12286,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Sold Out",
+     "inclusion": 50.9,
+     "winRate": 54.3,
+     "games": 13892,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Mai, Jaded Edge",
+     "inclusion": 24.4,
+     "winRate": 54.3,
+     "games": 6640,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Lo and Li, Twin Tutors",
+     "inclusion": 14.3,
+     "winRate": 54.3,
+     "games": 3886,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Boiling Rock Rioter",
+     "inclusion": 11.4,
+     "winRate": 54.3,
+     "games": 3137,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Jet's Brainwashing",
+     "inclusion": 11.1,
+     "winRate": 54.2,
+     "games": 3003,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Aang's Journey",
+     "inclusion": 8.1,
+     "winRate": 54.1,
+     "games": 2245,
+     "trophyInclusion": 7.2
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-11-20",
+    "main": [
+     [
+      1,
+      "Boiling Rock Prison"
+     ],
+     [
+      1,
+      "Boiling Rock Rioter"
+     ],
+     [
+      1,
+      "Cat-Gator"
+     ],
+     [
+      1,
+      "Corrupt Court Official"
+     ],
+     [
+      1,
+      "Cruel Administrator"
+     ],
+     [
+      1,
+      "Cunning Maneuver"
+     ],
+     [
+      1,
+      "Deadly Precision"
+     ],
+     [
+      1,
+      "Deserter's Disciple"
+     ],
+     [
+      1,
+      "Firebending Lesson"
+     ],
+     [
+      1,
+      "Heartless Act"
+     ],
+     [
+      1,
+      "Joo Dee, One of Many"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Mai, Jaded Edge"
+     ],
+     [
+      1,
+      "Merchant of Many Hats"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Ozai, the Phoenix King"
+     ],
+     [
+      1,
+      "Pretending Poxbearers"
+     ],
+     [
+      2,
+      "Sold Out"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swampsnare Trap"
+     ],
+     [
+      1,
+      "The Cave of Two Lovers"
+     ],
+     [
+      1,
+      "The Fire Nation Drill"
+     ],
+     [
+      1,
+      "Treetop Freedom Fighters"
+     ],
+     [
+      1,
+      "Vindictive Warden"
+     ],
+     [
+      1,
+      "Yuyan Archers"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Azula Always Lies"
+     ],
+     [
+      1,
+      "Bumi Bash"
+     ],
+     [
+      1,
+      "Buzzard-Wasp Colony"
+     ],
+     [
+      1,
+      "Callous Inspector"
+     ],
+     [
+      1,
+      "Earth Kingdom Jailer"
+     ],
+     [
+      1,
+      "Fatal Fissure"
+     ],
+     [
+      1,
+      "Hog-Monkey"
+     ],
+     [
+      1,
+      "How to Start a Riot"
+     ],
+     [
+      1,
+      "Merchant of Many Hats"
+     ],
+     [
+      1,
+      "Otter-Penguin"
+     ],
+     [
+      1,
+      "Ozai's Cruelty"
+     ],
+     [
+      1,
+      "Pirate Peddlers"
+     ],
+     [
+      1,
+      "Rough Rhino Cavalry"
+     ],
+     [
+      2,
+      "Treetop Freedom Fighters"
+     ],
+     [
+      1,
+      "Vengeful Villagers"
+     ],
+     [
+      1,
+      "Wandering Musicians"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 25804,
+   "wins": 14324,
+   "winRate": 55.51,
+   "share": 4.58,
+   "drafts": 4659,
+   "trophies": 392,
+   "cards": [
+    {
+     "name": "Badgermole Cub",
+     "inclusion": 8.2,
+     "winRate": 60.1,
+     "games": 2239,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "The Legend of Roku",
+     "inclusion": 7.7,
+     "winRate": 60.1,
+     "games": 2084,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Bumi, Unleashed",
+     "inclusion": 18.4,
+     "winRate": 59.1,
+     "games": 5031,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "The Cave of Two Lovers",
+     "inclusion": 26.2,
+     "winRate": 58.5,
+     "games": 7061,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "The Earth King",
+     "inclusion": 15.0,
+     "winRate": 58.1,
+     "games": 3974,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Secret Tunnel",
+     "inclusion": 9.4,
+     "winRate": 57.7,
+     "games": 2519,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Earthbender Ascension",
+     "inclusion": 15.2,
+     "winRate": 57.6,
+     "games": 3980,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Iroh's Demonstration",
+     "inclusion": 27.1,
+     "winRate": 57.5,
+     "games": 7225,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Allies at Last",
+     "inclusion": 26.4,
+     "winRate": 57.3,
+     "games": 6976,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Jet, Freedom Fighter",
+     "inclusion": 6.7,
+     "winRate": 57.2,
+     "games": 1768,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Tiger-Dillo",
+     "inclusion": 25.1,
+     "winRate": 57.1,
+     "games": 6748,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Ostrich-Horse",
+     "inclusion": 52.6,
+     "winRate": 57.0,
+     "games": 13856,
+     "trophyInclusion": 60.2
+    },
+    {
+     "name": "The Legend of Kyoshi",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 2142,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Boiling Rock Prison",
+     "inclusion": 6.5,
+     "winRate": 56.9,
+     "games": 1721,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 31.5,
+     "winRate": 56.8,
+     "games": 8392,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Pillar Launch",
+     "inclusion": 21.3,
+     "winRate": 56.8,
+     "games": 5636,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Yuyan Archers",
+     "inclusion": 45.3,
+     "winRate": 56.7,
+     "games": 11955,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Twin Blades",
+     "inclusion": 15.9,
+     "winRate": 56.6,
+     "games": 4140,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Ba Sing Se",
+     "inclusion": 13.3,
+     "winRate": 56.6,
+     "games": 3492,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Wartime Protestors",
+     "inclusion": 12.0,
+     "winRate": 56.6,
+     "games": 3169,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Toph, the Blind Bandit",
+     "inclusion": 29.3,
+     "winRate": 56.5,
+     "games": 7685,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Beifong's Bounty Hunters",
+     "inclusion": 5.6,
+     "winRate": 56.4,
+     "games": 1474,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Raucous Audience",
+     "inclusion": 60.1,
+     "winRate": 56.3,
+     "games": 15727,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 56.8,
+     "winRate": 56.3,
+     "games": 14825,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Badgermole",
+     "inclusion": 53.9,
+     "winRate": 56.3,
+     "games": 14108,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Rocky Rebuke",
+     "inclusion": 54.9,
+     "winRate": 56.2,
+     "games": 14372,
+     "trophyInclusion": 61.2
+    },
+    {
+     "name": "Great Divide Guide",
+     "inclusion": 10.8,
+     "winRate": 56.2,
+     "games": 2842,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Fire Nation Warship",
+     "inclusion": 10.3,
+     "winRate": 56.2,
+     "games": 2706,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Kyoshi Village",
+     "inclusion": 7.3,
+     "winRate": 56.2,
+     "games": 1877,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Toph, Hardheaded Teacher",
+     "inclusion": 26.0,
+     "winRate": 56.1,
+     "games": 6770,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Rebellious Captives",
+     "inclusion": 52.5,
+     "winRate": 56.0,
+     "games": 13731,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Origin of Metalbending",
+     "inclusion": 40.1,
+     "winRate": 56.0,
+     "games": 10432,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Earth Kingdom Soldier",
+     "inclusion": 16.7,
+     "winRate": 55.9,
+     "games": 4352,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Omashu City",
+     "inclusion": 44.8,
+     "winRate": 55.8,
+     "games": 11537,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Combustion Technique",
+     "inclusion": 24.9,
+     "winRate": 55.8,
+     "games": 6510,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Zuko, Exiled Prince",
+     "inclusion": 18.9,
+     "winRate": 55.8,
+     "games": 4909,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Earth Kingdom General",
+     "inclusion": 24.1,
+     "winRate": 55.7,
+     "games": 6250,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Diligent Zookeeper",
+     "inclusion": 11.2,
+     "winRate": 55.7,
+     "games": 2875,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "The Boulder, Ready to Rumble",
+     "inclusion": 30.8,
+     "winRate": 55.6,
+     "games": 8067,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Rockalanche",
+     "inclusion": 17.3,
+     "winRate": 55.6,
+     "games": 4486,
+     "trophyInclusion": 17.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-12-05",
+    "main": [
+     [
+      1,
+      "Allies at Last"
+     ],
+     [
+      1,
+      "Badgermole"
+     ],
+     [
+      1,
+      "Badgermole Cub"
+     ],
+     [
+      1,
+      "Bitter Work"
+     ],
+     [
+      1,
+      "Bumi Bash"
+     ],
+     [
+      1,
+      "Diligent Zookeeper"
+     ],
+     [
+      1,
+      "Earthbending Lesson"
+     ],
+     [
+      2,
+      "Firebending Lesson"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Kyoshi Village"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Meditation Pools"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Omashu City"
+     ],
+     [
+      1,
+      "Origin of Metalbending"
+     ],
+     [
+      1,
+      "Ostrich-Horse"
+     ],
+     [
+      2,
+      "Raucous Audience"
+     ],
+     [
+      2,
+      "Rocky Rebuke"
+     ],
+     [
+      1,
+      "Rumble Arena"
+     ],
+     [
+      1,
+      "The Boulder, Ready to Rumble"
+     ],
+     [
+      1,
+      "Tiger-Dillo"
+     ],
+     [
+      1,
+      "Toph, Hardheaded Teacher"
+     ],
+     [
+      1,
+      "Toph, the Blind Bandit"
+     ],
+     [
+      1,
+      "Turtle-Duck"
+     ],
+     [
+      1,
+      "Twin Blades"
+     ],
+     [
+      1,
+      "White Lotus Hideout"
+     ],
+     [
+      1,
+      "Zuko, Exiled Prince"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Earthbending Lesson"
+     ],
+     [
+      2,
+      "Foggy Swamp Vinebender"
+     ],
+     [
+      1,
+      "Hog-Monkey"
+     ],
+     [
+      1,
+      "Honest Work"
+     ],
+     [
+      2,
+      "Mongoose Lizard"
+     ],
+     [
+      1,
+      "Platypus-Bear"
+     ],
+     [
+      1,
+      "Rockalanche"
+     ],
+     [
+      1,
+      "Rocky Rebuke"
+     ],
+     [
+      1,
+      "Ty Lee, Artful Acrobat"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 23510,
+   "wins": 12891,
+   "winRate": 54.83,
+   "share": 4.18,
+   "drafts": 4325,
+   "trophies": 330,
+   "cards": [
+    {
+     "name": "The Legend of Roku",
+     "inclusion": 5.1,
+     "winRate": 60.0,
+     "games": 1301,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "The Earth King",
+     "inclusion": 9.2,
+     "winRate": 59.6,
+     "games": 2293,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Earthbender Ascension",
+     "inclusion": 10.7,
+     "winRate": 58.5,
+     "games": 2623,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Lost Days",
+     "inclusion": 50.3,
+     "winRate": 57.4,
+     "games": 12126,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Great Divide Guide",
+     "inclusion": 9.8,
+     "winRate": 57.4,
+     "games": 2417,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Ty Lee, Chi Blocker",
+     "inclusion": 7.7,
+     "winRate": 57.4,
+     "games": 1867,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Invasion Submersible",
+     "inclusion": 19.6,
+     "winRate": 57.1,
+     "games": 4678,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Ran and Shaw",
+     "inclusion": 13.2,
+     "winRate": 57.0,
+     "games": 3164,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Toph, the First Metalbender",
+     "inclusion": 5.9,
+     "winRate": 56.9,
+     "games": 1443,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Guru Pathik",
+     "inclusion": 33.3,
+     "winRate": 56.6,
+     "games": 7986,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Combustion Technique",
+     "inclusion": 28.2,
+     "winRate": 56.6,
+     "games": 6844,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "The Legend of Kyoshi",
+     "inclusion": 5.7,
+     "winRate": 56.6,
+     "games": 1431,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Accumulate Wisdom",
+     "inclusion": 26.0,
+     "winRate": 56.4,
+     "games": 6197,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Knowledge Seeker",
+     "inclusion": 13.3,
+     "winRate": 56.4,
+     "games": 3188,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Bumi, Unleashed",
+     "inclusion": 9.0,
+     "winRate": 56.4,
+     "games": 2151,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "The Unagi of Kyoshi Island",
+     "inclusion": 8.4,
+     "winRate": 56.4,
+     "games": 2043,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Wartime Protestors",
+     "inclusion": 5.9,
+     "winRate": 56.3,
+     "games": 1412,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Firebending Lesson",
+     "inclusion": 53.3,
+     "winRate": 56.1,
+     "games": 12688,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Waterbending Lesson",
+     "inclusion": 43.0,
+     "winRate": 56.1,
+     "games": 10300,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Bumi, King of Three Trials",
+     "inclusion": 22.5,
+     "winRate": 56.1,
+     "games": 5407,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Toph, Hardheaded Teacher",
+     "inclusion": 21.1,
+     "winRate": 56.1,
+     "games": 5018,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Aang, at the Crossroads",
+     "inclusion": 5.5,
+     "winRate": 56.1,
+     "games": 1320,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Ostrich-Horse",
+     "inclusion": 34.2,
+     "winRate": 55.9,
+     "games": 8086,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Rumble Arena",
+     "inclusion": 28.0,
+     "winRate": 55.9,
+     "games": 6680,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Iroh's Demonstration",
+     "inclusion": 25.2,
+     "winRate": 55.9,
+     "games": 5963,
+     "trophyInclusion": 28.5
+    },
+    {
+     "name": "Seismic Sense",
+     "inclusion": 24.4,
+     "winRate": 55.9,
+     "games": 5750,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Toph, the Blind Bandit",
+     "inclusion": 14.9,
+     "winRate": 55.9,
+     "games": 3521,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "North Pole Patrol",
+     "inclusion": 11.6,
+     "winRate": 55.9,
+     "games": 2754,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Sokka's Haiku",
+     "inclusion": 9.8,
+     "winRate": 55.9,
+     "games": 2311,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Airship Engine Room",
+     "inclusion": 45.1,
+     "winRate": 55.8,
+     "games": 10714,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Aang's Journey",
+     "inclusion": 44.3,
+     "winRate": 55.8,
+     "games": 10506,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Barrels of Blasting Jelly",
+     "inclusion": 27.9,
+     "winRate": 55.8,
+     "games": 6547,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Abandon Attachments",
+     "inclusion": 47.5,
+     "winRate": 55.7,
+     "games": 11247,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Iroh, Grand Lotus",
+     "inclusion": 44.9,
+     "winRate": 55.7,
+     "games": 10667,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Dragonfly Swarm",
+     "inclusion": 35.3,
+     "winRate": 55.7,
+     "games": 8457,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Gran-Gran",
+     "inclusion": 16.0,
+     "winRate": 55.7,
+     "games": 3731,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Agna Qel'a",
+     "inclusion": 7.4,
+     "winRate": 55.7,
+     "games": 1758,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Hermitic Herbalist",
+     "inclusion": 38.8,
+     "winRate": 55.6,
+     "games": 9159,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Octopus Form",
+     "inclusion": 37.8,
+     "winRate": 55.6,
+     "games": 9008,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Badgermole Cub",
+     "inclusion": 5.2,
+     "winRate": 55.6,
+     "games": 1254,
+     "trophyInclusion": 6.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-12-22",
+    "main": [
+     [
+      1,
+      "Aang's Journey"
+     ],
+     [
+      1,
+      "Abandon Attachments"
+     ],
+     [
+      1,
+      "Airship Engine Room"
+     ],
+     [
+      1,
+      "Barrels of Blasting Jelly"
+     ],
+     [
+      1,
+      "Combustion Technique"
+     ],
+     [
+      1,
+      "Cycle of Renewal"
+     ],
+     [
+      2,
+      "Dragonfly Swarm"
+     ],
+     [
+      1,
+      "Firebending Lesson"
+     ],
+     [
+      1,
+      "Forecasting Fortune Teller"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Gran-Gran"
+     ],
+     [
+      2,
+      "Guru Pathik"
+     ],
+     [
+      1,
+      "Invasion Submersible"
+     ],
+     [
+      1,
+      "Iroh, Grand Lotus"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "It'll Quench Ya!"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      2,
+      "Lost Days"
+     ],
+     [
+      4,
+      "Mountain"
+     ],
+     [
+      1,
+      "North Pole Patrol"
+     ],
+     [
+      1,
+      "Omashu City"
+     ],
+     [
+      1,
+      "Ostrich-Horse"
+     ],
+     [
+      1,
+      "Serpent of the Pass"
+     ],
+     [
+      1,
+      "Shared Roots"
+     ],
+     [
+      1,
+      "The Legend of Kyoshi"
+     ],
+     [
+      1,
+      "Walltop Sentries"
+     ],
+     [
+      1,
+      "Waterbending Lesson"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aang's Journey"
+     ],
+     [
+      1,
+      "Bumi Bash"
+     ],
+     [
+      1,
+      "Destined Confrontation"
+     ],
+     [
+      1,
+      "Earth Kingdom Soldier"
+     ],
+     [
+      1,
+      "Fire Lord Azula"
+     ],
+     [
+      1,
+      "Gran-Gran"
+     ],
+     [
+      2,
+      "Iguana Parrot"
+     ],
+     [
+      1,
+      "Lost Days"
+     ],
+     [
+      1,
+      "Rough Rhino Cavalry"
+     ],
+     [
+      1,
+      "The Spirit Oasis"
+     ],
+     [
+      1,
+      "Waterbending Lesson"
+     ],
+     [
+      1,
+      "Yuyan Archers"
+     ]
+    ]
+   }
+  }
+ ]
+}

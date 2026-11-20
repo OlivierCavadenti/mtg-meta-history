@@ -1,0 +1,7342 @@
+{
+ "set": "dmu",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.DMU.PremierDraft.csv.gz",
+ "lastModified": "Fri, 28 Oct 2022 04:12:39 GMT",
+ "colorsDerived": false,
+ "first": "2022-08-30",
+ "last": "2022-10-25",
+ "games": 947395,
+ "drafts": 182727,
+ "winRate": 56.44,
+ "combos": [
+  {
+   "colors": "UR",
+   "games": 87279,
+   "wins": 49649,
+   "winRate": 56.89,
+   "share": 9.21,
+   "drafts": 16431,
+   "trophies": 1311,
+   "cards": [
+    {
+     "name": "Squee, Dubious Monarch",
+     "inclusion": 7.2,
+     "winRate": 61.6,
+     "games": 6662,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 8.9,
+     "winRate": 60.2,
+     "games": 8130,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 12.2,
+     "winRate": 58.9,
+     "games": 10985,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Fires of Victory",
+     "inclusion": 36.2,
+     "winRate": 58.6,
+     "games": 32646,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 8.8,
+     "winRate": 58.6,
+     "games": 7871,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 32.0,
+     "winRate": 58.5,
+     "games": 28697,
+     "trophyInclusion": 36.0
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 60.8,
+     "winRate": 58.4,
+     "games": 54319,
+     "trophyInclusion": 70.7
+    },
+    {
+     "name": "Radha's Firebrand",
+     "inclusion": 7.0,
+     "winRate": 58.3,
+     "games": 6258,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Balmor, Battlemage Captain",
+     "inclusion": 57.5,
+     "winRate": 58.2,
+     "games": 51009,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Electrostatic Infantry",
+     "inclusion": 39.9,
+     "winRate": 58.1,
+     "games": 35379,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Defiler of Instinct",
+     "inclusion": 8.1,
+     "winRate": 58.1,
+     "games": 7200,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 46.0,
+     "winRate": 57.9,
+     "games": 41006,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 21.0,
+     "winRate": 57.7,
+     "games": 18672,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 57.1,
+     "winRate": 57.6,
+     "games": 50719,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 18.9,
+     "winRate": 57.6,
+     "games": 16550,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Flowstone Infusion",
+     "inclusion": 64.5,
+     "winRate": 57.5,
+     "games": 56946,
+     "trophyInclusion": 68.6
+    },
+    {
+     "name": "Impulse",
+     "inclusion": 59.9,
+     "winRate": 57.5,
+     "games": 53074,
+     "trophyInclusion": 66.9
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 38.5,
+     "winRate": 57.5,
+     "games": 33868,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 8.0,
+     "winRate": 57.4,
+     "games": 6989,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Tolarian Terror",
+     "inclusion": 69.1,
+     "winRate": 57.3,
+     "games": 60887,
+     "trophyInclusion": 71.7
+    },
+    {
+     "name": "Shore Up",
+     "inclusion": 63.3,
+     "winRate": 57.3,
+     "games": 55541,
+     "trophyInclusion": 65.2
+    },
+    {
+     "name": "Talas Lookout",
+     "inclusion": 58.9,
+     "winRate": 57.3,
+     "games": 51789,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 8.5,
+     "winRate": 57.2,
+     "games": 7459,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Ghitu Amplifier",
+     "inclusion": 77.0,
+     "winRate": 57.1,
+     "games": 67423,
+     "trophyInclusion": 77.6
+    },
+    {
+     "name": "Timely Interference",
+     "inclusion": 74.3,
+     "winRate": 57.1,
+     "games": 65194,
+     "trophyInclusion": 75.7
+    },
+    {
+     "name": "Frostfist Strider",
+     "inclusion": 25.1,
+     "winRate": 57.1,
+     "games": 22014,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 58.4,
+     "winRate": 57.0,
+     "games": 51330,
+     "trophyInclusion": 59.8
+    },
+    {
+     "name": "Joint Exploration",
+     "inclusion": 10.2,
+     "winRate": 57.0,
+     "games": 8990,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 14.8,
+     "winRate": 56.9,
+     "games": 13027,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 52.1,
+     "winRate": 56.8,
+     "games": 45978,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Thrill of Possibility",
+     "inclusion": 39.1,
+     "winRate": 56.7,
+     "games": 34097,
+     "trophyInclusion": 38.5
+    },
+    {
+     "name": "Furious Bellow",
+     "inclusion": 36.3,
+     "winRate": 56.6,
+     "games": 31154,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Keldon Flamesage",
+     "inclusion": 11.5,
+     "winRate": 56.6,
+     "games": 10135,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Haunting Figment",
+     "inclusion": 55.3,
+     "winRate": 56.4,
+     "games": 47998,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Soaring Drake",
+     "inclusion": 48.2,
+     "winRate": 56.4,
+     "games": 41648,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Impede Momentum",
+     "inclusion": 32.6,
+     "winRate": 56.4,
+     "games": 27899,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 16.3,
+     "winRate": 56.4,
+     "games": 14257,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Temporal Firestorm",
+     "inclusion": 7.9,
+     "winRate": 56.4,
+     "games": 6946,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Flowstone Kavu",
+     "inclusion": 38.1,
+     "winRate": 56.3,
+     "games": 33121,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 20.5,
+     "winRate": 56.3,
+     "games": 18032,
+     "trophyInclusion": 19.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-10-09",
+    "main": [
+     [
+      1,
+      "Academy Loremaster"
+     ],
+     [
+      1,
+      "Balmor, Battlemage Captain"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Electrostatic Infantry"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      1,
+      "Ghitu Amplifier"
+     ],
+     [
+      1,
+      "Goblin Picker"
+     ],
+     [
+      1,
+      "Haunting Figment"
+     ],
+     [
+      2,
+      "Idyllic Beachfront"
+     ],
+     [
+      3,
+      "Impulse"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Jaya, Fiery Negotiator"
+     ],
+     [
+      1,
+      "Joint Exploration"
+     ],
+     [
+      2,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Meria's Outrider"
+     ],
+     [
+      1,
+      "Micromancer"
+     ],
+     [
+      2,
+      "Molten Tributary"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Soaring Drake"
+     ],
+     [
+      1,
+      "Talas Lookout"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      1,
+      "Timely Interference"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Battle-Rage Blessing"
+     ],
+     [
+      2,
+      "Benalish Faithbonder"
+     ],
+     [
+      1,
+      "Cleaving Skyrider"
+     ],
+     [
+      1,
+      "Colossal Growth"
+     ],
+     [
+      1,
+      "Elfhame Wurm"
+     ],
+     [
+      1,
+      "Juniper Order Rootweaver"
+     ],
+     [
+      1,
+      "Knight of Dawn's Light"
+     ],
+     [
+      1,
+      "Molten Monstrosity"
+     ],
+     [
+      2,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Salvaged Manaworker"
+     ],
+     [
+      1,
+      "Viashino Branchrider"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 81576,
+   "wins": 47597,
+   "winRate": 58.35,
+   "share": 8.61,
+   "drafts": 15317,
+   "trophies": 1269,
+   "cards": [
+    {
+     "name": "Archangel of Wrath",
+     "inclusion": 8.8,
+     "winRate": 62.9,
+     "games": 7701,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 19.2,
+     "winRate": 61.0,
+     "games": 16494,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Guardian of New Benalia",
+     "inclusion": 8.6,
+     "winRate": 61.0,
+     "games": 7323,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 17.5,
+     "winRate": 60.6,
+     "games": 14975,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Walking Bulwark",
+     "inclusion": 9.3,
+     "winRate": 60.3,
+     "games": 7888,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 31.5,
+     "winRate": 59.9,
+     "games": 26343,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Anointed Peacekeeper",
+     "inclusion": 7.9,
+     "winRate": 59.9,
+     "games": 6595,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Clockwork Drawbridge",
+     "inclusion": 17.0,
+     "winRate": 59.8,
+     "games": 14347,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 25.7,
+     "winRate": 59.5,
+     "games": 21279,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Knight of Dusk's Shadow",
+     "inclusion": 27.2,
+     "winRate": 59.4,
+     "games": 22672,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 45.1,
+     "winRate": 59.3,
+     "games": 37229,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Elas il-Kor, Sadistic Pilgrim",
+     "inclusion": 45.0,
+     "winRate": 59.3,
+     "games": 37199,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 49.4,
+     "winRate": 59.2,
+     "games": 40552,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 21.7,
+     "winRate": 59.2,
+     "games": 17851,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Cult Conscript",
+     "inclusion": 30.2,
+     "winRate": 59.1,
+     "games": 24838,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Evolved Sleeper",
+     "inclusion": 8.7,
+     "winRate": 59.1,
+     "games": 7246,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 7.3,
+     "winRate": 59.1,
+     "games": 5994,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Citizen's Arrest",
+     "inclusion": 48.6,
+     "winRate": 58.9,
+     "games": 40014,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 8.0,
+     "winRate": 58.9,
+     "games": 6599,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Argivian Cavalier",
+     "inclusion": 57.8,
+     "winRate": 58.8,
+     "games": 47723,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Resolute Reinforcements",
+     "inclusion": 24.5,
+     "winRate": 58.8,
+     "games": 20200,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Caves of Koilos",
+     "inclusion": 5.9,
+     "winRate": 58.8,
+     "games": 4932,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Blight Pile",
+     "inclusion": 15.0,
+     "winRate": 58.7,
+     "games": 12427,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Valiant Veteran",
+     "inclusion": 7.4,
+     "winRate": 58.7,
+     "games": 6121,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Benalish Sleeper",
+     "inclusion": 61.2,
+     "winRate": 58.6,
+     "games": 50224,
+     "trophyInclusion": 60.8
+    },
+    {
+     "name": "Love Song of Night and Day",
+     "inclusion": 20.6,
+     "winRate": 58.6,
+     "games": 16834,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Phyrexian Rager",
+     "inclusion": 55.2,
+     "winRate": 58.5,
+     "games": 45277,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 49.6,
+     "winRate": 58.5,
+     "games": 40697,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Cut Down",
+     "inclusion": 19.5,
+     "winRate": 58.5,
+     "games": 15960,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Braids's Frightful Return",
+     "inclusion": 16.9,
+     "winRate": 58.5,
+     "games": 13920,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Eerie Soultender",
+     "inclusion": 41.0,
+     "winRate": 58.4,
+     "games": 33724,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Sunlit Marsh",
+     "inclusion": 45.3,
+     "winRate": 58.3,
+     "games": 37401,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Aron, Benalia's Ruin",
+     "inclusion": 44.0,
+     "winRate": 58.3,
+     "games": 35585,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 16.1,
+     "winRate": 58.3,
+     "games": 13236,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Phyrexian Warhorse",
+     "inclusion": 62.9,
+     "winRate": 58.2,
+     "games": 50990,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 15.8,
+     "winRate": 58.2,
+     "games": 12906,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Argivian Phalanx",
+     "inclusion": 45.7,
+     "winRate": 58.1,
+     "games": 36881,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Defiler of Flesh",
+     "inclusion": 8.5,
+     "winRate": 58.1,
+     "games": 6927,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Phyrexian Vivisector",
+     "inclusion": 48.0,
+     "winRate": 58.0,
+     "games": 39020,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 22.0,
+     "winRate": 58.0,
+     "games": 17835,
+     "trophyInclusion": 21.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-09-08",
+    "main": [
+     [
+      2,
+      "Argivian Cavalier"
+     ],
+     [
+      1,
+      "Argivian Phalanx"
+     ],
+     [
+      2,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Bone Splinters"
+     ],
+     [
+      1,
+      "Braids's Frightful Return"
+     ],
+     [
+      1,
+      "Citizen's Arrest"
+     ],
+     [
+      1,
+      "Cleaving Skyrider"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Elas il-Kor, Sadistic Pilgrim"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Knight of Dawn's Light"
+     ],
+     [
+      1,
+      "Phyrexian Missionary"
+     ],
+     [
+      1,
+      "Phyrexian Rager"
+     ],
+     [
+      1,
+      "Phyrexian Vivisector"
+     ],
+     [
+      1,
+      "Phyrexian Warhorse"
+     ],
+     [
+      4,
+      "Plains"
+     ],
+     [
+      3,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Resolute Reinforcements"
+     ],
+     [
+      1,
+      "Splatter Goblin"
+     ],
+     [
+      2,
+      "Sunlit Marsh"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Tribute to Urborg"
+     ],
+     [
+      2,
+      "Urborg Repossession"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Eerie Soultender"
+     ],
+     [
+      1,
+      "Goblin Picker"
+     ],
+     [
+      1,
+      "Heroic Charge"
+     ],
+     [
+      1,
+      "Hurloon Battle Hymn"
+     ],
+     [
+      1,
+      "Samite Herbalist"
+     ],
+     [
+      2,
+      "Shield-Wall Sentinel"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      2,
+      "Toxic Abomination"
+     ],
+     [
+      1,
+      "Writhing Necromass"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 77311,
+   "wins": 43199,
+   "winRate": 55.88,
+   "share": 8.16,
+   "drafts": 14926,
+   "trophies": 1036,
+   "cards": [
+    {
+     "name": "Drag to the Bottom",
+     "inclusion": 9.6,
+     "winRate": 59.4,
+     "games": 7896,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 8.5,
+     "winRate": 59.2,
+     "games": 6950,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 7.1,
+     "winRate": 58.9,
+     "games": 5672,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Nemata, Primeval Warden",
+     "inclusion": 11.5,
+     "winRate": 58.7,
+     "games": 9355,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 5.2,
+     "winRate": 58.4,
+     "games": 4205,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 27.0,
+     "winRate": 58.2,
+     "games": 21518,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 7.7,
+     "winRate": 58.2,
+     "games": 6144,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 24.0,
+     "winRate": 58.1,
+     "games": 19188,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Ertai Resurrected",
+     "inclusion": 10.2,
+     "winRate": 58.0,
+     "games": 8041,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 22.8,
+     "winRate": 57.8,
+     "games": 17921,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 21.6,
+     "winRate": 57.8,
+     "games": 17222,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Mossbeard Ancient",
+     "inclusion": 22.5,
+     "winRate": 57.7,
+     "games": 17759,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 16.9,
+     "winRate": 57.7,
+     "games": 13339,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 6.1,
+     "winRate": 57.6,
+     "games": 4797,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 36.7,
+     "winRate": 57.4,
+     "games": 29021,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 7.0,
+     "winRate": 57.4,
+     "games": 5693,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 33.0,
+     "winRate": 57.3,
+     "games": 26182,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 12.8,
+     "winRate": 57.3,
+     "games": 9988,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 6.0,
+     "winRate": 57.1,
+     "games": 4790,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Tear Asunder",
+     "inclusion": 31.1,
+     "winRate": 56.8,
+     "games": 24384,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 5.6,
+     "winRate": 56.8,
+     "games": 4413,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Wooded Ridgeline",
+     "inclusion": 30.3,
+     "winRate": 56.7,
+     "games": 23817,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 28.7,
+     "winRate": 56.7,
+     "games": 22607,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 21.3,
+     "winRate": 56.6,
+     "games": 16681,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Vohar, Vodalian Desecrator",
+     "inclusion": 25.9,
+     "winRate": 56.5,
+     "games": 20193,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 5.3,
+     "winRate": 56.5,
+     "games": 4151,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 11.8,
+     "winRate": 56.4,
+     "games": 9171,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 7.2,
+     "winRate": 56.4,
+     "games": 5670,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 65.8,
+     "winRate": 56.3,
+     "games": 51294,
+     "trophyInclusion": 70.6
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 60.2,
+     "winRate": 56.3,
+     "games": 47047,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Vineshaper Prodigy",
+     "inclusion": 55.3,
+     "winRate": 56.3,
+     "games": 43174,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Magnigoth Sentry",
+     "inclusion": 35.7,
+     "winRate": 56.3,
+     "games": 27899,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 33.2,
+     "winRate": 56.3,
+     "games": 25850,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 27.8,
+     "winRate": 56.3,
+     "games": 21726,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Gaea's Might",
+     "inclusion": 24.2,
+     "winRate": 56.3,
+     "games": 18630,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Tangled Islet",
+     "inclusion": 60.6,
+     "winRate": 56.2,
+     "games": 47476,
+     "trophyInclusion": 64.4
+    },
+    {
+     "name": "Tribute to Urborg",
+     "inclusion": 54.0,
+     "winRate": 56.2,
+     "games": 42145,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 37.5,
+     "winRate": 56.2,
+     "games": 29227,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 35.9,
+     "winRate": 56.2,
+     "games": 28152,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Yavimaya Sojourner",
+     "inclusion": 33.2,
+     "winRate": 56.2,
+     "games": 25777,
+     "trophyInclusion": 35.1
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-09-05",
+    "main": [
+     [
+      1,
+      "Battlewing Mystic"
+     ],
+     [
+      2,
+      "Contaminated Aquifer"
+     ],
+     [
+      1,
+      "Deathbloom Gardener"
+     ],
+     [
+      1,
+      "Eerie Soultender"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      4,
+      "Forest"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Hurloon Battle Hymn"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Knight of Dusk's Shadow"
+     ],
+     [
+      1,
+      "Micromancer"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      1,
+      "Phyrexian Espionage"
+     ],
+     [
+      1,
+      "Phyrexian Rager"
+     ],
+     [
+      1,
+      "Pixie Illusionist"
+     ],
+     [
+      1,
+      "Rona's Vortex"
+     ],
+     [
+      1,
+      "Scout the Wilderness"
+     ],
+     [
+      1,
+      "Splatter Goblin"
+     ],
+     [
+      1,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      4,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      1,
+      "Tatyova, Steward of Tides"
+     ],
+     [
+      1,
+      "Timely Interference"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ],
+     [
+      1,
+      "Tribute to Urborg"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      1,
+      "Uurg, Spawn of Turg"
+     ],
+     [
+      1,
+      "Vineshaper Prodigy"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Sabotage"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      1,
+      "Ghitu Amplifier"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      2,
+      "Hexbane Tortoise"
+     ],
+     [
+      1,
+      "In Thrall to the Pit"
+     ],
+     [
+      1,
+      "Phyrexian Warhorse"
+     ],
+     [
+      1,
+      "Scout the Wilderness"
+     ],
+     [
+      1,
+      "Stronghold Arena"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 68044,
+   "wins": 40709,
+   "winRate": 59.83,
+   "share": 7.18,
+   "drafts": 12856,
+   "trophies": 958,
+   "cards": [
+    {
+     "name": "Archangel of Wrath",
+     "inclusion": 8.1,
+     "winRate": 63.5,
+     "games": 5804,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Squee, Dubious Monarch",
+     "inclusion": 10.3,
+     "winRate": 62.9,
+     "games": 7387,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Guardian of New Benalia",
+     "inclusion": 10.3,
+     "winRate": 62.3,
+     "games": 7169,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Anointed Peacekeeper",
+     "inclusion": 8.4,
+     "winRate": 62.3,
+     "games": 5960,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Valiant Veteran",
+     "inclusion": 11.4,
+     "winRate": 62.1,
+     "games": 8031,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 8.4,
+     "winRate": 62.1,
+     "games": 5937,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 29.0,
+     "winRate": 61.1,
+     "games": 20138,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 20.4,
+     "winRate": 61.1,
+     "games": 14171,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Love Song of Night and Day",
+     "inclusion": 23.7,
+     "winRate": 61.0,
+     "games": 16450,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 59.8,
+     "winRate": 60.8,
+     "games": 41101,
+     "trophyInclusion": 63.7
+    },
+    {
+     "name": "Keldon Strike Team",
+     "inclusion": 77.9,
+     "winRate": 60.7,
+     "games": 53705,
+     "trophyInclusion": 82.9
+    },
+    {
+     "name": "Argivian Cavalier",
+     "inclusion": 64.7,
+     "winRate": 60.7,
+     "games": 44818,
+     "trophyInclusion": 71.9
+    },
+    {
+     "name": "Radha's Firebrand",
+     "inclusion": 10.1,
+     "winRate": 60.7,
+     "games": 6996,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Goblin Picker",
+     "inclusion": 45.6,
+     "winRate": 60.5,
+     "games": 31505,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 43.7,
+     "winRate": 60.5,
+     "games": 29994,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Benalish Sleeper",
+     "inclusion": 28.8,
+     "winRate": 60.5,
+     "games": 20068,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 26.3,
+     "winRate": 60.4,
+     "games": 18040,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 17.3,
+     "winRate": 60.4,
+     "games": 11936,
+     "trophyInclusion": 18.6
+    },
+    {
+     "name": "Phoenix Chick",
+     "inclusion": 22.3,
+     "winRate": 60.3,
+     "games": 15286,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Sprouting Goblin",
+     "inclusion": 11.6,
+     "winRate": 60.3,
+     "games": 8060,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 7.2,
+     "winRate": 60.3,
+     "games": 4906,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Heroic Charge",
+     "inclusion": 71.1,
+     "winRate": 60.2,
+     "games": 48475,
+     "trophyInclusion": 71.8
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 53.5,
+     "winRate": 60.2,
+     "games": 36922,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Automatic Librarian",
+     "inclusion": 8.4,
+     "winRate": 60.2,
+     "games": 5802,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Baird, Argivian Recruiter",
+     "inclusion": 50.5,
+     "winRate": 60.1,
+     "games": 34309,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Citizen's Arrest",
+     "inclusion": 48.7,
+     "winRate": 60.1,
+     "games": 33278,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 45.8,
+     "winRate": 60.0,
+     "games": 31735,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "Captain's Call",
+     "inclusion": 54.4,
+     "winRate": 59.9,
+     "games": 37119,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Argivian Phalanx",
+     "inclusion": 54.0,
+     "winRate": 59.9,
+     "games": 36492,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Flowstone Infusion",
+     "inclusion": 52.4,
+     "winRate": 59.9,
+     "games": 35854,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Yavimaya Steelcrusher",
+     "inclusion": 52.3,
+     "winRate": 59.9,
+     "games": 35758,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Resolute Reinforcements",
+     "inclusion": 27.5,
+     "winRate": 59.9,
+     "games": 18745,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Samite Herbalist",
+     "inclusion": 48.5,
+     "winRate": 59.8,
+     "games": 33180,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Cleaving Skyrider",
+     "inclusion": 33.7,
+     "winRate": 59.8,
+     "games": 22924,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Defiler of Instinct",
+     "inclusion": 9.4,
+     "winRate": 59.8,
+     "games": 6400,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Tori D'Avenant, Fury Rider",
+     "inclusion": 45.9,
+     "winRate": 59.7,
+     "games": 31081,
+     "trophyInclusion": 44.3
+    },
+    {
+     "name": "Keldon Flamesage",
+     "inclusion": 7.7,
+     "winRate": 59.7,
+     "games": 5199,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Warhost's Frenzy",
+     "inclusion": 10.5,
+     "winRate": 59.6,
+     "games": 7166,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Griffin Protector",
+     "inclusion": 48.2,
+     "winRate": 59.5,
+     "games": 32521,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Charismatic Vanguard",
+     "inclusion": 43.6,
+     "winRate": 59.5,
+     "games": 29564,
+     "trophyInclusion": 39.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-10-22",
+    "main": [
+     [
+      1,
+      "Argivian Cavalier"
+     ],
+     [
+      1,
+      "Argivian Phalanx"
+     ],
+     [
+      1,
+      "Baird, Argivian Recruiter"
+     ],
+     [
+      1,
+      "Captain's Call"
+     ],
+     [
+      1,
+      "Charismatic Vanguard"
+     ],
+     [
+      1,
+      "Citizen's Arrest"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Dragon Whelp"
+     ],
+     [
+      1,
+      "Flowstone Kavu"
+     ],
+     [
+      1,
+      "Griffin Protector"
+     ],
+     [
+      1,
+      "Hammerhand"
+     ],
+     [
+      1,
+      "Heroic Charge"
+     ],
+     [
+      1,
+      "Jaya, Fiery Negotiator"
+     ],
+     [
+      2,
+      "Keldon Strike Team"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Love Song of Night and Day"
+     ],
+     [
+      9,
+      "Mountain"
+     ],
+     [
+      1,
+      "Phyrexian Missionary"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Prayer of Binding"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Samite Herbalist"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Tori D'Avenant, Fury Rider"
+     ],
+     [
+      1,
+      "Yavimaya Steelcrusher"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Sabotage"
+     ],
+     [
+      1,
+      "Argivian Phalanx"
+     ],
+     [
+      1,
+      "Elfhame Wurm"
+     ],
+     [
+      1,
+      "Flowstone Kavu"
+     ],
+     [
+      1,
+      "Hammerhand"
+     ],
+     [
+      1,
+      "Heroic Charge"
+     ],
+     [
+      1,
+      "Jaya's Firenado"
+     ],
+     [
+      2,
+      "Mesa Cavalier"
+     ],
+     [
+      1,
+      "Negate"
+     ],
+     [
+      1,
+      "Quirion Beastcaller"
+     ],
+     [
+      1,
+      "Samite Herbalist"
+     ],
+     [
+      1,
+      "Shield-Wall Sentinel"
+     ],
+     [
+      2,
+      "Timely Interference"
+     ],
+     [
+      2,
+      "Viashino Branchrider"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 57587,
+   "wins": 32070,
+   "winRate": 55.69,
+   "share": 6.08,
+   "drafts": 10951,
+   "trophies": 866,
+   "cards": [
+    {
+     "name": "Sheoldred, the Apocalypse",
+     "inclusion": 5.1,
+     "winRate": 61.3,
+     "games": 3172,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 9.9,
+     "winRate": 58.6,
+     "games": 5951,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Evolved Sleeper",
+     "inclusion": 8.9,
+     "winRate": 58.4,
+     "games": 5367,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Drag to the Bottom",
+     "inclusion": 8.6,
+     "winRate": 58.2,
+     "games": 5222,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 38.0,
+     "winRate": 58.0,
+     "games": 22667,
+     "trophyInclusion": 47.8
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 30.8,
+     "winRate": 57.4,
+     "games": 18270,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 9.8,
+     "winRate": 57.4,
+     "games": 5802,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Ertai Resurrected",
+     "inclusion": 14.6,
+     "winRate": 57.2,
+     "games": 8599,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Cut Down",
+     "inclusion": 22.9,
+     "winRate": 56.9,
+     "games": 13568,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 64.6,
+     "winRate": 56.8,
+     "games": 37900,
+     "trophyInclusion": 72.4
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 51.8,
+     "winRate": 56.8,
+     "games": 30589,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 40.4,
+     "winRate": 56.7,
+     "games": 23476,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 56.4,
+     "winRate": 56.6,
+     "games": 32942,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Vohar, Vodalian Desecrator",
+     "inclusion": 49.3,
+     "winRate": 56.6,
+     "games": 28623,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 65.7,
+     "winRate": 56.5,
+     "games": 38438,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Tribute to Urborg",
+     "inclusion": 71.8,
+     "winRate": 56.4,
+     "games": 41888,
+     "trophyInclusion": 75.8
+    },
+    {
+     "name": "Tolarian Terror",
+     "inclusion": 63.2,
+     "winRate": 56.4,
+     "games": 36729,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Haunted Mire",
+     "inclusion": 22.1,
+     "winRate": 56.4,
+     "games": 12920,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Impulse",
+     "inclusion": 49.6,
+     "winRate": 56.3,
+     "games": 28743,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Knight of Dusk's Shadow",
+     "inclusion": 22.6,
+     "winRate": 56.3,
+     "games": 13135,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 8.4,
+     "winRate": 56.3,
+     "games": 4818,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Talas Lookout",
+     "inclusion": 55.1,
+     "winRate": 56.2,
+     "games": 32025,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 24.7,
+     "winRate": 56.2,
+     "games": 14396,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Ertai's Scorn",
+     "inclusion": 14.9,
+     "winRate": 56.1,
+     "games": 8735,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Frostfist Strider",
+     "inclusion": 26.4,
+     "winRate": 56.0,
+     "games": 15373,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "Tangled Islet",
+     "inclusion": 21.1,
+     "winRate": 55.9,
+     "games": 12227,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Eerie Soultender",
+     "inclusion": 47.3,
+     "winRate": 55.8,
+     "games": 27197,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 9.4,
+     "winRate": 55.8,
+     "games": 5485,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Shore Up",
+     "inclusion": 45.0,
+     "winRate": 55.7,
+     "games": 25873,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 5.3,
+     "winRate": 55.7,
+     "games": 3060,
+     "trophyInclusion": 4.8
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 50.9,
+     "winRate": 55.6,
+     "games": 29414,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Shadow Prophecy",
+     "inclusion": 31.4,
+     "winRate": 55.6,
+     "games": 17956,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 18.6,
+     "winRate": 55.6,
+     "games": 10869,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 7.2,
+     "winRate": 55.6,
+     "games": 4165,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Phyrexian Rager",
+     "inclusion": 53.8,
+     "winRate": 55.5,
+     "games": 31052,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Battlefly Swarm",
+     "inclusion": 27.3,
+     "winRate": 55.5,
+     "games": 15555,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 24.4,
+     "winRate": 55.5,
+     "games": 14098,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Choking Miasma",
+     "inclusion": 14.1,
+     "winRate": 55.5,
+     "games": 8127,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Negate",
+     "inclusion": 14.4,
+     "winRate": 55.4,
+     "games": 8108,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Defiler of Dreams",
+     "inclusion": 10.0,
+     "winRate": 55.4,
+     "games": 5807,
+     "trophyInclusion": 9.8
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-10-04",
+    "main": [
+     [
+      1,
+      "Academy Wall"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Cult Conscript"
+     ],
+     [
+      1,
+      "Eerie Soultender"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Evolved Sleeper"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Knight of Dusk's Shadow"
+     ],
+     [
+      1,
+      "Monstrous War-Leech"
+     ],
+     [
+      1,
+      "Phyrexian Rager"
+     ],
+     [
+      1,
+      "Rona's Vortex"
+     ],
+     [
+      1,
+      "Rona, Sheoldred's Faithful"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Splatter Goblin"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Talas Lookout"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      2,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ],
+     [
+      3,
+      "Tribute to Urborg"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      1,
+      "Vohar, Vodalian Desecrator"
+     ],
+     [
+      1,
+      "Writhing Necromass"
+     ],
+     [
+      1,
+      "Yavimaya Coast"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Sabotage"
+     ],
+     [
+      1,
+      "Barkweave Crusher"
+     ],
+     [
+      1,
+      "Bone Splinters"
+     ],
+     [
+      1,
+      "Joint Exploration"
+     ],
+     [
+      1,
+      "Prayer of Binding"
+     ],
+     [
+      1,
+      "Sheoldred's Restoration"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      1,
+      "Vanquisher's Axe"
+     ],
+     [
+      1,
+      "Voda Sea Scavenger"
+     ],
+     [
+      1,
+      "Wingmantle Chaplain"
+     ],
+     [
+      1,
+      "Yotia Declares War"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 51394,
+   "wins": 29524,
+   "winRate": 57.45,
+   "share": 5.42,
+   "drafts": 9694,
+   "trophies": 830,
+   "cards": [
+    {
+     "name": "Walking Bulwark",
+     "inclusion": 12.0,
+     "winRate": 60.7,
+     "games": 6525,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Guardian of New Benalia",
+     "inclusion": 8.6,
+     "winRate": 60.5,
+     "games": 4574,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 20.1,
+     "winRate": 60.2,
+     "games": 10865,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 22.1,
+     "winRate": 60.0,
+     "games": 11851,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 10.4,
+     "winRate": 60.0,
+     "games": 5543,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Protect the Negotiators",
+     "inclusion": 36.0,
+     "winRate": 59.3,
+     "games": 18919,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 25.8,
+     "winRate": 59.3,
+     "games": 13645,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Anointed Peacekeeper",
+     "inclusion": 9.3,
+     "winRate": 59.1,
+     "games": 4900,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Coral Colony",
+     "inclusion": 16.0,
+     "winRate": 58.9,
+     "games": 8516,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 7.9,
+     "winRate": 58.9,
+     "games": 4078,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 9.3,
+     "winRate": 58.7,
+     "games": 4802,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Raff, Weatherlight Stalwart",
+     "inclusion": 53.0,
+     "winRate": 58.6,
+     "games": 27534,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 23.0,
+     "winRate": 58.6,
+     "games": 11996,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Clockwork Drawbridge",
+     "inclusion": 22.3,
+     "winRate": 58.6,
+     "games": 11667,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Leyline Binding",
+     "inclusion": 6.0,
+     "winRate": 58.6,
+     "games": 3055,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 15.2,
+     "winRate": 58.5,
+     "games": 8000,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 14.7,
+     "winRate": 58.5,
+     "games": 7665,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 50.4,
+     "winRate": 58.4,
+     "games": 26159,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 70.5,
+     "winRate": 58.2,
+     "games": 36655,
+     "trophyInclusion": 75.4
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 61.6,
+     "winRate": 58.2,
+     "games": 32073,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 50.0,
+     "winRate": 58.2,
+     "games": 25895,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 36.4,
+     "winRate": 58.2,
+     "games": 18962,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 21.5,
+     "winRate": 58.1,
+     "games": 11081,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Impulse",
+     "inclusion": 47.5,
+     "winRate": 58.0,
+     "games": 24738,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Argivian Cavalier",
+     "inclusion": 45.4,
+     "winRate": 58.0,
+     "games": 23568,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Frostfist Strider",
+     "inclusion": 27.4,
+     "winRate": 58.0,
+     "games": 14151,
+     "trophyInclusion": 29.6
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 17.5,
+     "winRate": 57.9,
+     "games": 9013,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 20.9,
+     "winRate": 57.8,
+     "games": 10874,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 23.1,
+     "winRate": 57.7,
+     "games": 11848,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Love Song of Night and Day",
+     "inclusion": 18.0,
+     "winRate": 57.7,
+     "games": 9345,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 48.1,
+     "winRate": 57.6,
+     "games": 25074,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Academy Wall",
+     "inclusion": 35.2,
+     "winRate": 57.6,
+     "games": 18240,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Runic Shot",
+     "inclusion": 26.9,
+     "winRate": 57.6,
+     "games": 13932,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 7.8,
+     "winRate": 57.6,
+     "games": 4031,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Citizen's Arrest",
+     "inclusion": 44.7,
+     "winRate": 57.5,
+     "games": 22983,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Resolute Reinforcements",
+     "inclusion": 18.8,
+     "winRate": 57.5,
+     "games": 9564,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Sunlit Marsh",
+     "inclusion": 18.5,
+     "winRate": 57.5,
+     "games": 9553,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Talas Lookout",
+     "inclusion": 56.7,
+     "winRate": 57.3,
+     "games": 29154,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Shore Up",
+     "inclusion": 51.2,
+     "winRate": 57.2,
+     "games": 25974,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Timely Interference",
+     "inclusion": 36.1,
+     "winRate": 57.2,
+     "games": 18465,
+     "trophyInclusion": 31.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-09-15",
+    "main": [
+     [
+      1,
+      "Academy Wall"
+     ],
+     [
+      1,
+      "Citizen's Arrest"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Haunting Figment"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Knight of Dawn's Light"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      2,
+      "Prayer of Binding"
+     ],
+     [
+      1,
+      "Protect the Negotiators"
+     ],
+     [
+      1,
+      "Raff, Weatherlight Stalwart"
+     ],
+     [
+      1,
+      "Runic Shot"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Silver Scrutiny"
+     ],
+     [
+      2,
+      "Soaring Drake"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Talas Lookout"
+     ],
+     [
+      2,
+      "Timely Interference"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      3,
+      "Tolarian Terror"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Academy Wall"
+     ],
+     [
+      1,
+      "Astor, Bearer of Blades"
+     ],
+     [
+      1,
+      "Barkweave Crusher"
+     ],
+     [
+      1,
+      "Charismatic Vanguard"
+     ],
+     [
+      2,
+      "Clockwork Drawbridge"
+     ],
+     [
+      1,
+      "Frostfist Strider"
+     ],
+     [
+      1,
+      "Hurloon Battle Hymn"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      1,
+      "Joint Exploration"
+     ],
+     [
+      1,
+      "Love Song of Night and Day"
+     ],
+     [
+      1,
+      "Pilfer"
+     ],
+     [
+      1,
+      "Rulik Mons, Warren Chief"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      1,
+      "Tidepool Turtle"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 43607,
+   "wins": 24392,
+   "winRate": 55.94,
+   "share": 4.6,
+   "drafts": 8363,
+   "trophies": 558,
+   "cards": [
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 9.5,
+     "winRate": 58.7,
+     "games": 4247,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 9.5,
+     "winRate": 58.3,
+     "games": 4307,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 8.0,
+     "winRate": 58.3,
+     "games": 3636,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 25.9,
+     "winRate": 57.9,
+     "games": 11631,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Drag to the Bottom",
+     "inclusion": 11.0,
+     "winRate": 57.9,
+     "games": 5032,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 9.5,
+     "winRate": 57.9,
+     "games": 4325,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 13.9,
+     "winRate": 57.8,
+     "games": 6092,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 8.7,
+     "winRate": 57.8,
+     "games": 3948,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 27.0,
+     "winRate": 57.7,
+     "games": 12125,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 6.8,
+     "winRate": 57.6,
+     "games": 3096,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Tear Asunder",
+     "inclusion": 34.9,
+     "winRate": 57.4,
+     "games": 15642,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Nemata, Primeval Warden",
+     "inclusion": 16.2,
+     "winRate": 57.3,
+     "games": 7204,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 23.6,
+     "winRate": 57.1,
+     "games": 10458,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 22.3,
+     "winRate": 57.1,
+     "games": 9826,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Evolved Sleeper",
+     "inclusion": 8.2,
+     "winRate": 57.0,
+     "games": 3673,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 14.7,
+     "winRate": 56.9,
+     "games": 6576,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Uurg, Spawn of Turg",
+     "inclusion": 45.6,
+     "winRate": 56.8,
+     "games": 20125,
+     "trophyInclusion": 50.2
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 10.6,
+     "winRate": 56.8,
+     "games": 4706,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Mossbeard Ancient",
+     "inclusion": 28.7,
+     "winRate": 56.7,
+     "games": 12585,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Nael, Avizoa Aeronaut",
+     "inclusion": 8.4,
+     "winRate": 56.6,
+     "games": 3640,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Magnigoth Sentry",
+     "inclusion": 52.6,
+     "winRate": 56.5,
+     "games": 23093,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Bite Down",
+     "inclusion": 48.7,
+     "winRate": 56.5,
+     "games": 21340,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 70.3,
+     "winRate": 56.4,
+     "games": 30847,
+     "trophyInclusion": 69.7
+    },
+    {
+     "name": "Phyrexian Rager",
+     "inclusion": 54.6,
+     "winRate": 56.4,
+     "games": 24169,
+     "trophyInclusion": 59.5
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 53.6,
+     "winRate": 56.4,
+     "games": 23547,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Sunbathing Rootwalla",
+     "inclusion": 52.2,
+     "winRate": 56.4,
+     "games": 22935,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 41.4,
+     "winRate": 56.4,
+     "games": 18138,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Wooded Ridgeline",
+     "inclusion": 36.3,
+     "winRate": 56.4,
+     "games": 15909,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Shadow Prophecy",
+     "inclusion": 41.6,
+     "winRate": 56.3,
+     "games": 18440,
+     "trophyInclusion": 43.0
+    },
+    {
+     "name": "Knight of Dusk's Shadow",
+     "inclusion": 23.9,
+     "winRate": 56.3,
+     "games": 10437,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 14.9,
+     "winRate": 56.3,
+     "games": 6504,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 9.0,
+     "winRate": 56.3,
+     "games": 4007,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Cut Down",
+     "inclusion": 20.5,
+     "winRate": 56.2,
+     "games": 9049,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Braids, Arisen Nightmare",
+     "inclusion": 6.5,
+     "winRate": 56.2,
+     "games": 2845,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Tangled Islet",
+     "inclusion": 40.2,
+     "winRate": 56.1,
+     "games": 17596,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 39.1,
+     "winRate": 56.1,
+     "games": 17058,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 36.6,
+     "winRate": 56.1,
+     "games": 15960,
+     "trophyInclusion": 36.4
+    },
+    {
+     "name": "Tribute to Urborg",
+     "inclusion": 33.4,
+     "winRate": 56.1,
+     "games": 14708,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 21.0,
+     "winRate": 56.1,
+     "games": 9180,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Eerie Soultender",
+     "inclusion": 53.4,
+     "winRate": 56.0,
+     "games": 23323,
+     "trophyInclusion": 53.4
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-10-06",
+    "main": [
+     [
+      1,
+      "Bite Down"
+     ],
+     [
+      1,
+      "Bone Splinters"
+     ],
+     [
+      1,
+      "Choking Miasma"
+     ],
+     [
+      1,
+      "Cult Conscript"
+     ],
+     [
+      1,
+      "Cut Down"
+     ],
+     [
+      1,
+      "Deathbloom Gardener"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Karn's Sylex"
+     ],
+     [
+      1,
+      "Magnigoth Sentry"
+     ],
+     [
+      1,
+      "Nael, Avizoa Aeronaut"
+     ],
+     [
+      1,
+      "Nishoba Brawler"
+     ],
+     [
+      1,
+      "Phyrexian Missionary"
+     ],
+     [
+      1,
+      "Phyrexian Rager"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Shadow Prophecy"
+     ],
+     [
+      1,
+      "Sheoldred, the Apocalypse"
+     ],
+     [
+      2,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      1,
+      "Territorial Maro"
+     ],
+     [
+      1,
+      "The Weatherseed Treaty"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      1,
+      "Uurg, Spawn of Turg"
+     ],
+     [
+      1,
+      "Writhing Necromass"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Elvish Hydromancer"
+     ],
+     [
+      1,
+      "Hexbane Tortoise"
+     ],
+     [
+      1,
+      "Knight of Dawn's Light"
+     ],
+     [
+      1,
+      "Ratadrabik of Urborg"
+     ],
+     [
+      1,
+      "Relic of Legends"
+     ],
+     [
+      1,
+      "Sheoldred's Restoration"
+     ],
+     [
+      1,
+      "Smash to Dust"
+     ],
+     [
+      1,
+      "Soaring Drake"
+     ],
+     [
+      1,
+      "Talas Lookout"
+     ],
+     [
+      1,
+      "Tatyova, Steward of Tides"
+     ],
+     [
+      1,
+      "Vanquisher's Axe"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Writhing Necromass"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUB",
+   "games": 41889,
+   "wins": 23613,
+   "winRate": 56.37,
+   "share": 4.42,
+   "drafts": 8123,
+   "trophies": 649,
+   "cards": [
+    {
+     "name": "Archangel of Wrath",
+     "inclusion": 6.0,
+     "winRate": 61.1,
+     "games": 2739,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 35.9,
+     "winRate": 59.3,
+     "games": 15792,
+     "trophyInclusion": 45.3
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 33.7,
+     "winRate": 59.2,
+     "games": 14791,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Walking Bulwark",
+     "inclusion": 17.1,
+     "winRate": 59.2,
+     "games": 7490,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 6.7,
+     "winRate": 58.8,
+     "games": 2894,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 6.1,
+     "winRate": 58.7,
+     "games": 2618,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Leyline Binding",
+     "inclusion": 5.8,
+     "winRate": 58.6,
+     "games": 2477,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 20.5,
+     "winRate": 58.4,
+     "games": 8947,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 7.3,
+     "winRate": 58.3,
+     "games": 3154,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 29.8,
+     "winRate": 58.2,
+     "games": 12793,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 26.3,
+     "winRate": 58.2,
+     "games": 11319,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Vohar, Vodalian Desecrator",
+     "inclusion": 30.3,
+     "winRate": 58.1,
+     "games": 13059,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 40.4,
+     "winRate": 58.0,
+     "games": 17272,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 29.7,
+     "winRate": 57.8,
+     "games": 12811,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Clockwork Drawbridge",
+     "inclusion": 24.1,
+     "winRate": 57.8,
+     "games": 10224,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 30.3,
+     "winRate": 57.7,
+     "games": 13035,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Protect the Negotiators",
+     "inclusion": 24.2,
+     "winRate": 57.7,
+     "games": 10318,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Coral Colony",
+     "inclusion": 22.8,
+     "winRate": 57.7,
+     "games": 9856,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 6.2,
+     "winRate": 57.7,
+     "games": 2625,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Ertai Resurrected",
+     "inclusion": 10.8,
+     "winRate": 57.6,
+     "games": 4577,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Raff, Weatherlight Stalwart",
+     "inclusion": 35.2,
+     "winRate": 57.5,
+     "games": 15123,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Blight Pile",
+     "inclusion": 22.0,
+     "winRate": 57.5,
+     "games": 9365,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Braids's Frightful Return",
+     "inclusion": 8.1,
+     "winRate": 57.4,
+     "games": 3388,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 60.6,
+     "winRate": 57.2,
+     "games": 25912,
+     "trophyInclusion": 68.1
+    },
+    {
+     "name": "Shadow Prophecy",
+     "inclusion": 24.1,
+     "winRate": 57.2,
+     "games": 10347,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 17.4,
+     "winRate": 57.1,
+     "games": 7388,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Salvaged Manaworker",
+     "inclusion": 16.8,
+     "winRate": 57.1,
+     "games": 7288,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 51.2,
+     "winRate": 57.0,
+     "games": 21798,
+     "trophyInclusion": 57.8
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 47.6,
+     "winRate": 57.0,
+     "games": 20388,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 13.7,
+     "winRate": 57.0,
+     "games": 5871,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 12.1,
+     "winRate": 57.0,
+     "games": 5164,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Sunlit Marsh",
+     "inclusion": 54.1,
+     "winRate": 56.9,
+     "games": 22693,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Runic Shot",
+     "inclusion": 20.3,
+     "winRate": 56.9,
+     "games": 8578,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Cut Down",
+     "inclusion": 15.4,
+     "winRate": 56.9,
+     "games": 6448,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Gibbering Barricade",
+     "inclusion": 41.2,
+     "winRate": 56.8,
+     "games": 17289,
+     "trophyInclusion": 42.5
+    },
+    {
+     "name": "Academy Wall",
+     "inclusion": 40.9,
+     "winRate": 56.8,
+     "games": 17331,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 56.4,
+     "winRate": 56.7,
+     "games": 23988,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 57.2,
+     "winRate": 56.6,
+     "games": 24174,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Tribute to Urborg",
+     "inclusion": 52.9,
+     "winRate": 56.6,
+     "games": 22231,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 33.7,
+     "winRate": 56.6,
+     "games": 14107,
+     "trophyInclusion": 33.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-09-12",
+    "main": [
+     [
+      1,
+      "Academy Wall"
+     ],
+     [
+      3,
+      "Clockwork Drawbridge"
+     ],
+     [
+      1,
+      "Contaminated Aquifer"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Cut Down"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Micromancer"
+     ],
+     [
+      1,
+      "Phyrexian Espionage"
+     ],
+     [
+      1,
+      "Pixie Illusionist"
+     ],
+     [
+      4,
+      "Plains"
+     ],
+     [
+      1,
+      "Protect the Negotiators"
+     ],
+     [
+      1,
+      "Raff, Weatherlight Stalwart"
+     ],
+     [
+      1,
+      "Shadow Prophecy"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      5,
+      "Swamp"
+     ],
+     [
+      2,
+      "Tangled Islet"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ],
+     [
+      1,
+      "Tribute to Urborg"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      1,
+      "Vohar, Vodalian Desecrator"
+     ],
+     [
+      1,
+      "Walking Bulwark"
+     ],
+     [
+      1,
+      "Wingmantle Chaplain"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Battlefly Swarm"
+     ],
+     [
+      1,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Ertai's Scorn"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      1,
+      "Ghitu Amplifier"
+     ],
+     [
+      1,
+      "Haunting Figment"
+     ],
+     [
+      1,
+      "Hexbane Tortoise"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      1,
+      "Ivy, Gleeful Spellthief"
+     ],
+     [
+      2,
+      "Shadow Prophecy"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      2,
+      "Voda Sea Scavenger"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 39625,
+   "wins": 23037,
+   "winRate": 58.14,
+   "share": 4.18,
+   "drafts": 7520,
+   "trophies": 557,
+   "cards": [
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 32.8,
+     "winRate": 60.9,
+     "games": 13564,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Squee, Dubious Monarch",
+     "inclusion": 9.6,
+     "winRate": 60.8,
+     "games": 3873,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 9.8,
+     "winRate": 60.5,
+     "games": 4080,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 25.7,
+     "winRate": 60.2,
+     "games": 10462,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 10.9,
+     "winRate": 60.2,
+     "games": 4534,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 10.2,
+     "winRate": 60.1,
+     "games": 4177,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 8.3,
+     "winRate": 60.0,
+     "games": 3342,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Sprouting Goblin",
+     "inclusion": 41.3,
+     "winRate": 59.7,
+     "games": 16764,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 44.0,
+     "winRate": 59.6,
+     "games": 17711,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Fires of Victory",
+     "inclusion": 15.7,
+     "winRate": 59.5,
+     "games": 6422,
+     "trophyInclusion": 19.9
+    },
+    {
+     "name": "Twinferno",
+     "inclusion": 14.5,
+     "winRate": 59.4,
+     "games": 5806,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Radha's Firebrand",
+     "inclusion": 11.2,
+     "winRate": 59.3,
+     "games": 4534,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 20.3,
+     "winRate": 59.2,
+     "games": 8232,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Defiler of Instinct",
+     "inclusion": 10.0,
+     "winRate": 59.2,
+     "games": 4011,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Strength of the Coalition",
+     "inclusion": 13.2,
+     "winRate": 59.1,
+     "games": 5248,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 38.4,
+     "winRate": 59.0,
+     "games": 15384,
+     "trophyInclusion": 42.7
+    },
+    {
+     "name": "Gaea's Might",
+     "inclusion": 56.6,
+     "winRate": 58.9,
+     "games": 22643,
+     "trophyInclusion": 61.4
+    },
+    {
+     "name": "Goblin Picker",
+     "inclusion": 42.0,
+     "winRate": 58.8,
+     "games": 16693,
+     "trophyInclusion": 47.6
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 39.0,
+     "winRate": 58.8,
+     "games": 15852,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Bog Badger",
+     "inclusion": 30.0,
+     "winRate": 58.8,
+     "games": 11892,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 10.7,
+     "winRate": 58.8,
+     "games": 4241,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 10.1,
+     "winRate": 58.8,
+     "games": 4082,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 7.5,
+     "winRate": 58.8,
+     "games": 3131,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Colossal Growth",
+     "inclusion": 64.3,
+     "winRate": 58.7,
+     "games": 25574,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 52.2,
+     "winRate": 58.7,
+     "games": 20879,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Haunted Mire",
+     "inclusion": 36.7,
+     "winRate": 58.7,
+     "games": 14692,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 27.2,
+     "winRate": 58.7,
+     "games": 10730,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Karplusan Forest",
+     "inclusion": 5.5,
+     "winRate": 58.7,
+     "games": 2256,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 60.7,
+     "winRate": 58.6,
+     "games": 24148,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Coalition Warbrute",
+     "inclusion": 42.1,
+     "winRate": 58.6,
+     "games": 16754,
+     "trophyInclusion": 40.4
+    },
+    {
+     "name": "Tangled Islet",
+     "inclusion": 39.8,
+     "winRate": 58.6,
+     "games": 16103,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Keldon Strike Team",
+     "inclusion": 19.7,
+     "winRate": 58.6,
+     "games": 7837,
+     "trophyInclusion": 20.3
+    },
+    {
+     "name": "Keldon Flamesage",
+     "inclusion": 7.8,
+     "winRate": 58.6,
+     "games": 3064,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Bite Down",
+     "inclusion": 55.1,
+     "winRate": 58.5,
+     "games": 21854,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Flowstone Kavu",
+     "inclusion": 49.2,
+     "winRate": 58.5,
+     "games": 19585,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 38.1,
+     "winRate": 58.5,
+     "games": 15315,
+     "trophyInclusion": 39.7
+    },
+    {
+     "name": "Electrostatic Infantry",
+     "inclusion": 15.3,
+     "winRate": 58.5,
+     "games": 5981,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Tear Asunder",
+     "inclusion": 10.4,
+     "winRate": 58.4,
+     "games": 4143,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Sunbathing Rootwalla",
+     "inclusion": 62.0,
+     "winRate": 58.3,
+     "games": 24755,
+     "trophyInclusion": 62.3
+    },
+    {
+     "name": "Yavimaya Steelcrusher",
+     "inclusion": 46.0,
+     "winRate": 58.3,
+     "games": 18171,
+     "trophyInclusion": 48.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-10-08",
+    "main": [
+     [
+      1,
+      "Bite Down"
+     ],
+     [
+      1,
+      "Bog Badger"
+     ],
+     [
+      1,
+      "Colossal Growth"
+     ],
+     [
+      1,
+      "Deathbloom Gardener"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      1,
+      "Flowstone Kavu"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Might"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      2,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Magnigoth Sentry"
+     ],
+     [
+      1,
+      "Meria's Outrider"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      5,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nishoba Brawler"
+     ],
+     [
+      1,
+      "Rulik Mons, Warren Chief"
+     ],
+     [
+      1,
+      "Sprouting Goblin"
+     ],
+     [
+      1,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      1,
+      "Temporal Firestorm"
+     ],
+     [
+      2,
+      "The Weatherseed Treaty"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Viashino Branchrider"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Yavimaya Iconoclast"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Automatic Librarian"
+     ],
+     [
+      1,
+      "Charismatic Vanguard"
+     ],
+     [
+      1,
+      "Djinn of the Fountain"
+     ],
+     [
+      1,
+      "Heroic Charge"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      2,
+      "In Thrall to the Pit"
+     ],
+     [
+      1,
+      "Meteorite"
+     ],
+     [
+      1,
+      "Salvaged Manaworker"
+     ],
+     [
+      1,
+      "Scout the Wilderness"
+     ],
+     [
+      1,
+      "Snarespinner"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      3,
+      "Yavimaya Steelcrusher"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUR",
+   "games": 37700,
+   "wins": 21121,
+   "winRate": 56.02,
+   "share": 3.98,
+   "drafts": 7333,
+   "trophies": 511,
+   "cards": [
+    {
+     "name": "Squee, Dubious Monarch",
+     "inclusion": 5.4,
+     "winRate": 60.1,
+     "games": 2141,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Archangel of Wrath",
+     "inclusion": 5.2,
+     "winRate": 59.6,
+     "games": 2057,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 7.3,
+     "winRate": 59.1,
+     "games": 2936,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 6.3,
+     "winRate": 58.2,
+     "games": 2468,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 22.3,
+     "winRate": 58.0,
+     "games": 8761,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Fires of Victory",
+     "inclusion": 28.6,
+     "winRate": 57.9,
+     "games": 11188,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 8.6,
+     "winRate": 57.9,
+     "games": 3361,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 7.9,
+     "winRate": 57.9,
+     "games": 3071,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Joint Exploration",
+     "inclusion": 6.5,
+     "winRate": 57.5,
+     "games": 2495,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 32.7,
+     "winRate": 57.4,
+     "games": 12645,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Protect the Negotiators",
+     "inclusion": 23.7,
+     "winRate": 57.4,
+     "games": 9088,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 24.4,
+     "winRate": 57.3,
+     "games": 9431,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 6.4,
+     "winRate": 57.2,
+     "games": 2386,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 67.9,
+     "winRate": 57.1,
+     "games": 26162,
+     "trophyInclusion": 78.1
+    },
+    {
+     "name": "Talas Lookout",
+     "inclusion": 44.8,
+     "winRate": 57.1,
+     "games": 17229,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 11.9,
+     "winRate": 57.1,
+     "games": 4592,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Balmor, Battlemage Captain",
+     "inclusion": 45.2,
+     "winRate": 57.0,
+     "games": 17185,
+     "trophyInclusion": 48.9
+    },
+    {
+     "name": "Shivan Reef",
+     "inclusion": 7.4,
+     "winRate": 57.0,
+     "games": 2877,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 31.4,
+     "winRate": 56.9,
+     "games": 12139,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 28.7,
+     "winRate": 56.9,
+     "games": 11079,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Impulse",
+     "inclusion": 42.3,
+     "winRate": 56.8,
+     "games": 16196,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Electrostatic Infantry",
+     "inclusion": 25.9,
+     "winRate": 56.8,
+     "games": 9872,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Timely Interference",
+     "inclusion": 58.8,
+     "winRate": 56.7,
+     "games": 22540,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 47.5,
+     "winRate": 56.7,
+     "games": 18272,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 28.0,
+     "winRate": 56.6,
+     "games": 10459,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 27.6,
+     "winRate": 56.6,
+     "games": 10379,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 58.7,
+     "winRate": 56.5,
+     "games": 22483,
+     "trophyInclusion": 63.2
+    },
+    {
+     "name": "Flowstone Infusion",
+     "inclusion": 41.5,
+     "winRate": 56.5,
+     "games": 15723,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Keldon Strike Team",
+     "inclusion": 32.3,
+     "winRate": 56.5,
+     "games": 12214,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Love Song of Night and Day",
+     "inclusion": 7.8,
+     "winRate": 56.5,
+     "games": 2940,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Tolarian Terror",
+     "inclusion": 53.1,
+     "winRate": 56.4,
+     "games": 20193,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Raff, Weatherlight Stalwart",
+     "inclusion": 38.0,
+     "winRate": 56.3,
+     "games": 14323,
+     "trophyInclusion": 36.6
+    },
+    {
+     "name": "Argivian Cavalier",
+     "inclusion": 22.6,
+     "winRate": 56.3,
+     "games": 8418,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 10.4,
+     "winRate": 56.3,
+     "games": 3998,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Tangled Islet",
+     "inclusion": 7.7,
+     "winRate": 56.3,
+     "games": 2906,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 5.2,
+     "winRate": 56.3,
+     "games": 1986,
+     "trophyInclusion": 4.3
+    },
+    {
+     "name": "Thrill of Possibility",
+     "inclusion": 22.4,
+     "winRate": 56.2,
+     "games": 8543,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Temporal Firestorm",
+     "inclusion": 13.3,
+     "winRate": 56.2,
+     "games": 5048,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 12.3,
+     "winRate": 56.2,
+     "games": 4703,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 12.1,
+     "winRate": 56.2,
+     "games": 4560,
+     "trophyInclusion": 11.7
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-10-03",
+    "main": [
+     [
+      1,
+      "Aether Channeler"
+     ],
+     [
+      1,
+      "Automatic Librarian"
+     ],
+     [
+      1,
+      "Balmor, Battlemage Captain"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      2,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      2,
+      "Ghitu Amplifier"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      2,
+      "Micromancer"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      3,
+      "Mountain"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Raff, Weatherlight Stalwart"
+     ],
+     [
+      2,
+      "Sacred Peaks"
+     ],
+     [
+      2,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      1,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Talas Lookout"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      1,
+      "Timely Interference"
+     ],
+     [
+      2,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Battlefly Swarm"
+     ],
+     [
+      1,
+      "Bog Badger"
+     ],
+     [
+      1,
+      "Elas il-Kor, Sadistic Pilgrim"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      1,
+      "Founding the Third Path"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Haunting Figment"
+     ],
+     [
+      1,
+      "Impede Momentum"
+     ],
+     [
+      1,
+      "Llanowar Stalker"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      2,
+      "Voda Sea Scavenger"
+     ],
+     [
+      1,
+      "Vohar, Vodalian Desecrator"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WUG",
+   "games": 35197,
+   "wins": 19599,
+   "winRate": 55.68,
+   "share": 3.72,
+   "drafts": 6850,
+   "trophies": 453,
+   "cards": [
+    {
+     "name": "Herd Migration",
+     "inclusion": 9.2,
+     "winRate": 60.3,
+     "games": 3482,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Leyline Binding",
+     "inclusion": 7.9,
+     "winRate": 59.4,
+     "games": 2839,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 7.2,
+     "winRate": 58.4,
+     "games": 2591,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 10.2,
+     "winRate": 58.3,
+     "games": 3618,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 9.5,
+     "winRate": 58.2,
+     "games": 3490,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 20.6,
+     "winRate": 58.1,
+     "games": 7500,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 15.6,
+     "winRate": 58.1,
+     "games": 5639,
+     "trophyInclusion": 20.8
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 7.3,
+     "winRate": 58.0,
+     "games": 2716,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 22.6,
+     "winRate": 57.8,
+     "games": 8148,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 7.5,
+     "winRate": 57.8,
+     "games": 2755,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 18.7,
+     "winRate": 57.5,
+     "games": 6799,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 18.7,
+     "winRate": 57.5,
+     "games": 6763,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 16.0,
+     "winRate": 57.5,
+     "games": 5856,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 11.9,
+     "winRate": 57.4,
+     "games": 4317,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 6.7,
+     "winRate": 57.3,
+     "games": 2457,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 35.5,
+     "winRate": 57.2,
+     "games": 12856,
+     "trophyInclusion": 42.4
+    },
+    {
+     "name": "Protect the Negotiators",
+     "inclusion": 17.5,
+     "winRate": 57.0,
+     "games": 6270,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 6.9,
+     "winRate": 57.0,
+     "games": 2486,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Strength of the Coalition",
+     "inclusion": 20.2,
+     "winRate": 56.9,
+     "games": 7114,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 8.6,
+     "winRate": 56.9,
+     "games": 3019,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 55.9,
+     "winRate": 56.8,
+     "games": 20187,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 38.1,
+     "winRate": 56.8,
+     "games": 13576,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Mossbeard Ancient",
+     "inclusion": 20.5,
+     "winRate": 56.8,
+     "games": 7221,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "King Darien XLVIII",
+     "inclusion": 10.4,
+     "winRate": 56.8,
+     "games": 3733,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 27.6,
+     "winRate": 56.7,
+     "games": 9915,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 20.6,
+     "winRate": 56.7,
+     "games": 7438,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Ivy, Gleeful Spellthief",
+     "inclusion": 6.9,
+     "winRate": 56.6,
+     "games": 2408,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Haunted Mire",
+     "inclusion": 28.0,
+     "winRate": 56.5,
+     "games": 10093,
+     "trophyInclusion": 32.2
+    },
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 6.3,
+     "winRate": 56.5,
+     "games": 2297,
+     "trophyInclusion": 6.0
+    },
+    {
+     "name": "Defiler of Dreams",
+     "inclusion": 5.6,
+     "winRate": 56.5,
+     "games": 1969,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Wooded Ridgeline",
+     "inclusion": 29.0,
+     "winRate": 56.4,
+     "games": 10224,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Gaea's Might",
+     "inclusion": 28.2,
+     "winRate": 56.4,
+     "games": 9974,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 8.8,
+     "winRate": 56.4,
+     "games": 3126,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Walking Bulwark",
+     "inclusion": 8.1,
+     "winRate": 56.4,
+     "games": 2903,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Raff, Weatherlight Stalwart",
+     "inclusion": 29.6,
+     "winRate": 56.3,
+     "games": 10536,
+     "trophyInclusion": 30.2
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 19.2,
+     "winRate": 56.3,
+     "games": 6905,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Shanna, Purifying Blade",
+     "inclusion": 12.7,
+     "winRate": 56.3,
+     "games": 4506,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Tear Asunder",
+     "inclusion": 7.7,
+     "winRate": 56.3,
+     "games": 2711,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Vineshaper Prodigy",
+     "inclusion": 56.6,
+     "winRate": 56.2,
+     "games": 20090,
+     "trophyInclusion": 61.1
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 56.6,
+     "winRate": 56.2,
+     "games": 20156,
+     "trophyInclusion": 61.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-09-14",
+    "main": [
+     [
+      1,
+      "Anointed Peacekeeper"
+     ],
+     [
+      2,
+      "Argivian Cavalier"
+     ],
+     [
+      1,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Danitha, Benalia's Hope"
+     ],
+     [
+      1,
+      "Elvish Hydromancer"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Might"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Herd Migration"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Magnigoth Sentry"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      1,
+      "Nael, Avizoa Aeronaut"
+     ],
+     [
+      1,
+      "Nishoba Brawler"
+     ],
+     [
+      2,
+      "Plains"
+     ],
+     [
+      1,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Scout the Wilderness"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      1,
+      "Tatyova, Steward of Tides"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      3,
+      "Vineshaper Prodigy"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      2,
+      "Yavimaya Sojourner"
+     ],
+     [
+      1,
+      "Zar Ojanen, Scion of Efrava"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Battle-Rage Blessing"
+     ],
+     [
+      1,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Coalition Warbrute"
+     ],
+     [
+      1,
+      "Heroic Charge"
+     ],
+     [
+      1,
+      "Join Forces"
+     ],
+     [
+      1,
+      "Joint Exploration"
+     ],
+     [
+      1,
+      "Llanowar Stalker"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Tidepool Turtle"
+     ],
+     [
+      1,
+      "Toxic Abomination"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WBG",
+   "games": 34489,
+   "wins": 18974,
+   "winRate": 55.01,
+   "share": 3.64,
+   "drafts": 6858,
+   "trophies": 396,
+   "cards": [
+    {
+     "name": "Archangel of Wrath",
+     "inclusion": 6.6,
+     "winRate": 60.8,
+     "games": 2421,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 20.8,
+     "winRate": 59.3,
+     "games": 7741,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Walking Bulwark",
+     "inclusion": 9.5,
+     "winRate": 59.3,
+     "games": 3477,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 23.1,
+     "winRate": 59.2,
+     "games": 8670,
+     "trophyInclusion": 37.6
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 6.0,
+     "winRate": 58.1,
+     "games": 2151,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 7.1,
+     "winRate": 57.8,
+     "games": 2517,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 7.3,
+     "winRate": 57.6,
+     "games": 2620,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 18.5,
+     "winRate": 57.3,
+     "games": 6627,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Clockwork Drawbridge",
+     "inclusion": 14.8,
+     "winRate": 57.0,
+     "games": 5346,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Nemata, Primeval Warden",
+     "inclusion": 11.6,
+     "winRate": 57.0,
+     "games": 4036,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 6.5,
+     "winRate": 56.9,
+     "games": 2284,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Gibbering Barricade",
+     "inclusion": 33.4,
+     "winRate": 56.7,
+     "games": 11836,
+     "trophyInclusion": 43.4
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 7.2,
+     "winRate": 56.7,
+     "games": 2544,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 36.6,
+     "winRate": 56.6,
+     "games": 13012,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 18.1,
+     "winRate": 56.6,
+     "games": 6293,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Blight Pile",
+     "inclusion": 13.8,
+     "winRate": 56.6,
+     "games": 4968,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 6.7,
+     "winRate": 56.6,
+     "games": 2366,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Floriferous Vinewall",
+     "inclusion": 39.4,
+     "winRate": 56.5,
+     "games": 13958,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 29.4,
+     "winRate": 56.3,
+     "games": 10338,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 19.1,
+     "winRate": 56.3,
+     "games": 6829,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 33.5,
+     "winRate": 56.2,
+     "games": 11736,
+     "trophyInclusion": 38.1
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 6.3,
+     "winRate": 56.0,
+     "games": 2176,
+     "trophyInclusion": 4.8
+    },
+    {
+     "name": "King Darien XLVIII",
+     "inclusion": 12.5,
+     "winRate": 55.9,
+     "games": 4361,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Guardian of New Benalia",
+     "inclusion": 5.4,
+     "winRate": 55.9,
+     "games": 1865,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 59.0,
+     "winRate": 55.8,
+     "games": 20684,
+     "trophyInclusion": 62.1
+    },
+    {
+     "name": "Shadow Prophecy",
+     "inclusion": 28.5,
+     "winRate": 55.8,
+     "games": 10041,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 9.3,
+     "winRate": 55.8,
+     "games": 3286,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Tear Asunder",
+     "inclusion": 27.3,
+     "winRate": 55.7,
+     "games": 9529,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 22.7,
+     "winRate": 55.7,
+     "games": 8091,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Contaminated Aquifer",
+     "inclusion": 22.4,
+     "winRate": 55.7,
+     "games": 7908,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 21.3,
+     "winRate": 55.7,
+     "games": 7545,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 18.8,
+     "winRate": 55.7,
+     "games": 6593,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 6.3,
+     "winRate": 55.7,
+     "games": 2187,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Drag to the Bottom",
+     "inclusion": 5.9,
+     "winRate": 55.7,
+     "games": 2020,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Salvaged Manaworker",
+     "inclusion": 16.4,
+     "winRate": 55.6,
+     "games": 5781,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Leyline Binding",
+     "inclusion": 7.0,
+     "winRate": 55.6,
+     "games": 2501,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 57.2,
+     "winRate": 55.5,
+     "games": 19884,
+     "trophyInclusion": 60.4
+    },
+    {
+     "name": "Sunlit Marsh",
+     "inclusion": 55.9,
+     "winRate": 55.5,
+     "games": 19537,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 28.4,
+     "winRate": 55.5,
+     "games": 9849,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 16.5,
+     "winRate": 55.5,
+     "games": 5717,
+     "trophyInclusion": 16.2
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-09-06",
+    "main": [
+     [
+      1,
+      "Archangel of Wrath"
+     ],
+     [
+      2,
+      "Argivian Cavalier"
+     ],
+     [
+      1,
+      "Argivian Phalanx"
+     ],
+     [
+      1,
+      "Artillery Blast"
+     ],
+     [
+      1,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Bortuk Bonerattle"
+     ],
+     [
+      1,
+      "Charismatic Vanguard"
+     ],
+     [
+      1,
+      "Citizen's Arrest"
+     ],
+     [
+      2,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      2,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Juniper Order Rootweaver"
+     ],
+     [
+      1,
+      "Knight of Dusk's Shadow"
+     ],
+     [
+      1,
+      "Phyrexian Rager"
+     ],
+     [
+      4,
+      "Plains"
+     ],
+     [
+      2,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Shadow Prophecy"
+     ],
+     [
+      1,
+      "Splatter Goblin"
+     ],
+     [
+      2,
+      "Sunlit Marsh"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      2,
+      "Take Up the Shield"
+     ],
+     [
+      1,
+      "Tribute to Urborg"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      1,
+      "Uurg, Spawn of Turg"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aggressive Sabotage"
+     ],
+     [
+      1,
+      "Barkweave Crusher"
+     ],
+     [
+      1,
+      "Bone Splinters"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      1,
+      "Juniper Order Rootweaver"
+     ],
+     [
+      1,
+      "Molten Monstrosity"
+     ],
+     [
+      1,
+      "Relic of Legends"
+     ],
+     [
+      1,
+      "Shadow-Rite Priest"
+     ],
+     [
+      1,
+      "Slimefoot's Survey"
+     ],
+     [
+      2,
+      "Toxic Abomination"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 33312,
+   "wins": 18591,
+   "winRate": 55.81,
+   "share": 3.52,
+   "drafts": 6470,
+   "trophies": 440,
+   "cards": [
+    {
+     "name": "Herd Migration",
+     "inclusion": 8.5,
+     "winRate": 60.0,
+     "games": 3024,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 8.2,
+     "winRate": 59.4,
+     "games": 2930,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 6.6,
+     "winRate": 59.4,
+     "games": 2283,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 26.1,
+     "winRate": 59.2,
+     "games": 9133,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Temporal Firestorm",
+     "inclusion": 7.3,
+     "winRate": 59.2,
+     "games": 2507,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 19.0,
+     "winRate": 59.1,
+     "games": 6699,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 25.1,
+     "winRate": 58.5,
+     "games": 8812,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 7.1,
+     "winRate": 58.3,
+     "games": 2442,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 11.3,
+     "winRate": 58.1,
+     "games": 3883,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 9.4,
+     "winRate": 57.9,
+     "games": 3199,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 9.9,
+     "winRate": 57.8,
+     "games": 3455,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Sprouting Goblin",
+     "inclusion": 31.1,
+     "winRate": 57.7,
+     "games": 10696,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 20.6,
+     "winRate": 57.6,
+     "games": 7050,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Fires of Victory",
+     "inclusion": 28.7,
+     "winRate": 57.5,
+     "games": 9878,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 7.5,
+     "winRate": 57.5,
+     "games": 2617,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 15.0,
+     "winRate": 57.4,
+     "games": 5067,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Bog Badger",
+     "inclusion": 11.7,
+     "winRate": 57.4,
+     "games": 3947,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 22.9,
+     "winRate": 57.3,
+     "games": 7818,
+     "trophyInclusion": 24.8
+    },
+    {
+     "name": "Mossbeard Ancient",
+     "inclusion": 19.3,
+     "winRate": 57.3,
+     "games": 6536,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Gaea's Might",
+     "inclusion": 43.6,
+     "winRate": 57.2,
+     "games": 14761,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 35.7,
+     "winRate": 57.2,
+     "games": 12231,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Magnigoth Sentry",
+     "inclusion": 35.5,
+     "winRate": 57.2,
+     "games": 12049,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Crystal Grotto",
+     "inclusion": 20.5,
+     "winRate": 57.2,
+     "games": 6996,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 16.4,
+     "winRate": 57.2,
+     "games": 5594,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 27.7,
+     "winRate": 57.1,
+     "games": 9436,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Radha's Firebrand",
+     "inclusion": 5.5,
+     "winRate": 57.1,
+     "games": 1852,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 38.6,
+     "winRate": 57.0,
+     "games": 13098,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Impulse",
+     "inclusion": 22.1,
+     "winRate": 56.9,
+     "games": 7500,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 51.3,
+     "winRate": 56.7,
+     "games": 17227,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 28.0,
+     "winRate": 56.7,
+     "games": 9507,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 33.0,
+     "winRate": 56.6,
+     "games": 11209,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 41.2,
+     "winRate": 56.5,
+     "games": 13860,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 5.6,
+     "winRate": 56.4,
+     "games": 1869,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 22.7,
+     "winRate": 56.3,
+     "games": 7679,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 6.8,
+     "winRate": 56.3,
+     "games": 2290,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Vineshaper Prodigy",
+     "inclusion": 57.6,
+     "winRate": 56.2,
+     "games": 19432,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Sunbathing Rootwalla",
+     "inclusion": 47.5,
+     "winRate": 56.2,
+     "games": 16001,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Bite Down",
+     "inclusion": 40.8,
+     "winRate": 56.2,
+     "games": 13640,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 22.4,
+     "winRate": 56.2,
+     "games": 7581,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Automatic Librarian",
+     "inclusion": 10.0,
+     "winRate": 56.1,
+     "games": 3450,
+     "trophyInclusion": 10.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-10-18",
+    "main": [
+     [
+      1,
+      "Automatic Librarian"
+     ],
+     [
+      1,
+      "Balmor, Battlemage Captain"
+     ],
+     [
+      1,
+      "Bite Down"
+     ],
+     [
+      1,
+      "Bog Badger"
+     ],
+     [
+      1,
+      "Contaminated Aquifer"
+     ],
+     [
+      1,
+      "Fires of Victory"
+     ],
+     [
+      1,
+      "Floriferous Vinewall"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Might"
+     ],
+     [
+      1,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Ghitu Amplifier"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      1,
+      "Impulse"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Meria's Outrider"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Nishoba Brawler"
+     ],
+     [
+      1,
+      "Phyrexian Espionage"
+     ],
+     [
+      1,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Raff, Weatherlight Stalwart"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Shore Up"
+     ],
+     [
+      1,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      1,
+      "Tatyova, Steward of Tides"
+     ],
+     [
+      2,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Urborg Repossession"
+     ],
+     [
+      2,
+      "Vineshaper Prodigy"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Yavimaya Iconoclast"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Coalition Warbrute"
+     ],
+     [
+      1,
+      "Eerie Soultender"
+     ],
+     [
+      1,
+      "Ertai's Scorn"
+     ],
+     [
+      1,
+      "Furious Bellow"
+     ],
+     [
+      1,
+      "Haunting Figment"
+     ],
+     [
+      1,
+      "Inscribed Tablet"
+     ],
+     [
+      1,
+      "Jhoira, Ageless Innovator"
+     ],
+     [
+      1,
+      "Meteorite"
+     ],
+     [
+      1,
+      "Shield-Wall Sentinel"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 30374,
+   "wins": 17139,
+   "winRate": 56.43,
+   "share": 3.21,
+   "drafts": 5860,
+   "trophies": 386,
+   "cards": [
+    {
+     "name": "Danitha, Benalia's Hope",
+     "inclusion": 7.6,
+     "winRate": 59.8,
+     "games": 2399,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 11.3,
+     "winRate": 59.6,
+     "games": 3546,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Phyrexian Missionary",
+     "inclusion": 16.1,
+     "winRate": 59.4,
+     "games": 5114,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Guardian of New Benalia",
+     "inclusion": 8.4,
+     "winRate": 59.3,
+     "games": 2690,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Leyline Binding",
+     "inclusion": 6.8,
+     "winRate": 59.2,
+     "games": 2132,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "King Darien XLVIII",
+     "inclusion": 20.4,
+     "winRate": 58.7,
+     "games": 6341,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Strength of the Coalition",
+     "inclusion": 40.6,
+     "winRate": 58.4,
+     "games": 12501,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 17.7,
+     "winRate": 58.1,
+     "games": 5477,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Anointed Peacekeeper",
+     "inclusion": 9.2,
+     "winRate": 58.1,
+     "games": 2874,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 6.9,
+     "winRate": 58.1,
+     "games": 2191,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 8.8,
+     "winRate": 58.0,
+     "games": 2765,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 7.9,
+     "winRate": 58.0,
+     "games": 2484,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Knight of Dawn's Light",
+     "inclusion": 25.7,
+     "winRate": 57.7,
+     "games": 7944,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Benalish Sleeper",
+     "inclusion": 20.9,
+     "winRate": 57.6,
+     "games": 6370,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 20.8,
+     "winRate": 57.6,
+     "games": 6551,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Take Up the Shield",
+     "inclusion": 49.8,
+     "winRate": 57.5,
+     "games": 15244,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 23.6,
+     "winRate": 57.5,
+     "games": 7352,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 8.3,
+     "winRate": 57.5,
+     "games": 2572,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Shield-Wall Sentinel",
+     "inclusion": 10.1,
+     "winRate": 57.4,
+     "games": 3132,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Argivian Cavalier",
+     "inclusion": 57.6,
+     "winRate": 57.3,
+     "games": 17654,
+     "trophyInclusion": 64.8
+    },
+    {
+     "name": "Destroy Evil",
+     "inclusion": 42.8,
+     "winRate": 57.3,
+     "games": 13059,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Prayer of Binding",
+     "inclusion": 21.9,
+     "winRate": 57.3,
+     "games": 6706,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Love Song of Night and Day",
+     "inclusion": 22.0,
+     "winRate": 57.2,
+     "games": 6732,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 5.4,
+     "winRate": 57.1,
+     "games": 1638,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "Wingmantle Chaplain",
+     "inclusion": 11.8,
+     "winRate": 57.0,
+     "games": 3692,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 23.8,
+     "winRate": 56.9,
+     "games": 7258,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "Juniper Order Rootweaver",
+     "inclusion": 60.1,
+     "winRate": 56.7,
+     "games": 18197,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Bite Down",
+     "inclusion": 49.7,
+     "winRate": 56.7,
+     "games": 15150,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Magnigoth Sentry",
+     "inclusion": 45.5,
+     "winRate": 56.7,
+     "games": 13875,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Heroic Charge",
+     "inclusion": 33.8,
+     "winRate": 56.7,
+     "games": 10146,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Sunlit Marsh",
+     "inclusion": 28.4,
+     "winRate": 56.7,
+     "games": 8788,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 52.7,
+     "winRate": 56.6,
+     "games": 16230,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Citizen's Arrest",
+     "inclusion": 50.8,
+     "winRate": 56.6,
+     "games": 15447,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Griffin Protector",
+     "inclusion": 43.2,
+     "winRate": 56.6,
+     "games": 13086,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Resolute Reinforcements",
+     "inclusion": 23.9,
+     "winRate": 56.6,
+     "games": 7281,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Join Forces",
+     "inclusion": 12.7,
+     "winRate": 56.6,
+     "games": 3849,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Valiant Veteran",
+     "inclusion": 8.5,
+     "winRate": 56.5,
+     "games": 2554,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Captain's Call",
+     "inclusion": 49.0,
+     "winRate": 56.4,
+     "games": 14807,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Argivian Phalanx",
+     "inclusion": 48.2,
+     "winRate": 56.3,
+     "games": 14531,
+     "trophyInclusion": 44.0
+    },
+    {
+     "name": "Charismatic Vanguard",
+     "inclusion": 38.3,
+     "winRate": 56.3,
+     "games": 11496,
+     "trophyInclusion": 34.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2022-09-04",
+    "main": [
+     [
+      2,
+      "Argivian Cavalier"
+     ],
+     [
+      2,
+      "Benalish Sleeper"
+     ],
+     [
+      1,
+      "Bite Down"
+     ],
+     [
+      1,
+      "Captain's Call"
+     ],
+     [
+      1,
+      "Citizen's Arrest"
+     ],
+     [
+      2,
+      "Cleaving Skyrider"
+     ],
+     [
+      1,
+      "Colossal Growth"
+     ],
+     [
+      5,
+      "Forest"
+     ],
+     [
+      2,
+      "Griffin Protector"
+     ],
+     [
+      1,
+      "Juniper Order Rootweaver"
+     ],
+     [
+      1,
+      "King Darien XLVIII"
+     ],
+     [
+      1,
+      "Leyline Binding"
+     ],
+     [
+      1,
+      "Mesa Cavalier"
+     ],
+     [
+      6,
+      "Plains"
+     ],
+     [
+      1,
+      "Queen Allenal of Ruadach"
+     ],
+     [
+      1,
+      "Radiant Grove"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      1,
+      "Samite Herbalist"
+     ],
+     [
+      1,
+      "Shalai's Acolyte"
+     ],
+     [
+      1,
+      "Stall for Time"
+     ],
+     [
+      1,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Sunlit Marsh"
+     ],
+     [
+      1,
+      "Tail Swipe"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      1,
+      "The Weatherseed Treaty"
+     ],
+     [
+      1,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Zar Ojanen, Scion of Efrava"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Argivian Phalanx"
+     ],
+     [
+      1,
+      "Artillery Blast"
+     ],
+     [
+      1,
+      "Automatic Librarian"
+     ],
+     [
+      1,
+      "Clockwork Drawbridge"
+     ],
+     [
+      1,
+      "Deathbloom Gardener"
+     ],
+     [
+      1,
+      "Destroy Evil"
+     ],
+     [
+      1,
+      "Hexbane Tortoise"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Phyrexian Warhorse"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      1,
+      "Tori D'Avenant, Fury Rider"
+     ],
+     [
+      1,
+      "Viashino Branchrider"
+     ],
+     [
+      1,
+      "Wingmantle Chaplain"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 26862,
+   "wins": 14716,
+   "winRate": 54.78,
+   "share": 2.84,
+   "drafts": 5282,
+   "trophies": 259,
+   "cards": [
+    {
+     "name": "Squee, Dubious Monarch",
+     "inclusion": 10.5,
+     "winRate": 58.2,
+     "games": 2952,
+     "trophyInclusion": 15.8
+    },
+    {
+     "name": "Evolved Sleeper",
+     "inclusion": 9.2,
+     "winRate": 57.8,
+     "games": 2626,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Radha's Firebrand",
+     "inclusion": 10.0,
+     "winRate": 57.7,
+     "games": 2810,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "inclusion": 8.9,
+     "winRate": 57.2,
+     "games": 2544,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "The Elder Dragon War",
+     "inclusion": 10.2,
+     "winRate": 56.9,
+     "games": 2826,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Cult Conscript",
+     "inclusion": 32.4,
+     "winRate": 56.3,
+     "games": 8869,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Cut Down",
+     "inclusion": 21.7,
+     "winRate": 56.3,
+     "games": 6057,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Rivaz of the Claw",
+     "inclusion": 13.0,
+     "winRate": 56.2,
+     "games": 3537,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Braids, Arisen Nightmare",
+     "inclusion": 11.2,
+     "winRate": 56.2,
+     "games": 3129,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Sulfurous Springs",
+     "inclusion": 7.3,
+     "winRate": 56.2,
+     "games": 2029,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Knight of Dusk's Shadow",
+     "inclusion": 29.3,
+     "winRate": 56.1,
+     "games": 8060,
+     "trophyInclusion": 35.9
+    },
+    {
+     "name": "Keldon Flamesage",
+     "inclusion": 8.6,
+     "winRate": 56.1,
+     "games": 2351,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Lagomos, Hand of Hatred",
+     "inclusion": 54.4,
+     "winRate": 55.8,
+     "games": 14874,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 54.5,
+     "winRate": 55.7,
+     "games": 14973,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Furious Bellow",
+     "inclusion": 28.2,
+     "winRate": 55.5,
+     "games": 7621,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Defiler of Instinct",
+     "inclusion": 11.9,
+     "winRate": 55.5,
+     "games": 3316,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Phyrexian Vivisector",
+     "inclusion": 55.3,
+     "winRate": 55.4,
+     "games": 14862,
+     "trophyInclusion": 60.6
+    },
+    {
+     "name": "Yavimaya Steelcrusher",
+     "inclusion": 48.2,
+     "winRate": 55.3,
+     "games": 13138,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Phoenix Chick",
+     "inclusion": 21.1,
+     "winRate": 55.3,
+     "games": 5778,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Splatter Goblin",
+     "inclusion": 60.5,
+     "winRate": 55.2,
+     "games": 16428,
+     "trophyInclusion": 66.0
+    },
+    {
+     "name": "Balduvian Berserker",
+     "inclusion": 26.1,
+     "winRate": 55.2,
+     "games": 7068,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Balduvian Atrocity",
+     "inclusion": 38.7,
+     "winRate": 55.1,
+     "games": 10440,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "Hurloon Battle Hymn",
+     "inclusion": 20.2,
+     "winRate": 55.1,
+     "games": 5458,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Phyrexian Rager",
+     "inclusion": 59.8,
+     "winRate": 55.0,
+     "games": 16235,
+     "trophyInclusion": 63.3
+    },
+    {
+     "name": "Flowstone Infusion",
+     "inclusion": 52.2,
+     "winRate": 55.0,
+     "games": 14116,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Dragon Whelp",
+     "inclusion": 25.6,
+     "winRate": 55.0,
+     "games": 6902,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Bone Splinters",
+     "inclusion": 50.7,
+     "winRate": 54.9,
+     "games": 13637,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Coalition Warbrute",
+     "inclusion": 39.4,
+     "winRate": 54.9,
+     "games": 10549,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Goblin Picker",
+     "inclusion": 47.4,
+     "winRate": 54.8,
+     "games": 12930,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Battlefly Swarm",
+     "inclusion": 35.9,
+     "winRate": 54.8,
+     "games": 9690,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Toxic Abomination",
+     "inclusion": 28.8,
+     "winRate": 54.8,
+     "games": 7697,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Fires of Victory",
+     "inclusion": 12.7,
+     "winRate": 54.8,
+     "games": 3484,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 53.0,
+     "winRate": 54.7,
+     "games": 14428,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "In Thrall to the Pit",
+     "inclusion": 46.0,
+     "winRate": 54.7,
+     "games": 12404,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Eerie Soultender",
+     "inclusion": 41.4,
+     "winRate": 54.7,
+     "games": 11143,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Hurler Cyclops",
+     "inclusion": 30.3,
+     "winRate": 54.7,
+     "games": 8107,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Extinguish the Light",
+     "inclusion": 55.5,
+     "winRate": 54.6,
+     "games": 14920,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Garna, Bloodfist of Keld",
+     "inclusion": 54.1,
+     "winRate": 54.6,
+     "games": 14502,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Braids's Frightful Return",
+     "inclusion": 16.6,
+     "winRate": 54.6,
+     "games": 4463,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Writhing Necromass",
+     "inclusion": 46.8,
+     "winRate": 54.5,
+     "games": 12403,
+     "trophyInclusion": 43.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2022-09-25",
+    "main": [
+     [
+      1,
+      "Aggressive Sabotage"
+     ],
+     [
+      1,
+      "Automatic Librarian"
+     ],
+     [
+      1,
+      "Battlefly Swarm"
+     ],
+     [
+      1,
+      "Bone Splinters"
+     ],
+     [
+      1,
+      "Contaminated Aquifer"
+     ],
+     [
+      2,
+      "Cult Conscript"
+     ],
+     [
+      1,
+      "Eerie Soultender"
+     ],
+     [
+      1,
+      "Extinguish the Light"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      1,
+      "Flowstone Kavu"
+     ],
+     [
+      1,
+      "Garna, Bloodfist of Keld"
+     ],
+     [
+      2,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Goblin Picker"
+     ],
+     [
+      1,
+      "Hurler Cyclops"
+     ],
+     [
+      1,
+      "Knight of Dusk's Shadow"
+     ],
+     [
+      1,
+      "Lagomos, Hand of Hatred"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      2,
+      "Phyrexian Vivisector"
+     ],
+     [
+      2,
+      "Splatter Goblin"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Toxic Abomination"
+     ],
+     [
+      1,
+      "Warhost's Frenzy"
+     ],
+     [
+      1,
+      "Writhing Necromass"
+     ],
+     [
+      1,
+      "Yavimaya Steelcrusher"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Argivian Cavalier"
+     ],
+     [
+      1,
+      "Choking Miasma"
+     ],
+     [
+      1,
+      "Founding the Third Path"
+     ],
+     [
+      1,
+      "Gibbering Barricade"
+     ],
+     [
+      1,
+      "Hammerhand"
+     ],
+     [
+      1,
+      "Joint Exploration"
+     ],
+     [
+      1,
+      "Juniper Order Rootweaver"
+     ],
+     [
+      1,
+      "Llanowar Stalker"
+     ],
+     [
+      1,
+      "Pixie Illusionist"
+     ],
+     [
+      1,
+      "Raff, Weatherlight Stalwart"
+     ],
+     [
+      1,
+      "Thrill of Possibility"
+     ],
+     [
+      1,
+      "Tribute to Urborg"
+     ],
+     [
+      1,
+      "Viashino Branchrider"
+     ],
+     [
+      1,
+      "Vohar, Vodalian Desecrator"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 25674,
+   "wins": 14293,
+   "winRate": 55.67,
+   "share": 2.71,
+   "drafts": 4944,
+   "trophies": 329,
+   "cards": [
+    {
+     "name": "Quirion Beastcaller",
+     "inclusion": 8.7,
+     "winRate": 60.0,
+     "games": 2376,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Vodalian Mindsinger",
+     "inclusion": 10.3,
+     "winRate": 58.3,
+     "games": 2745,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Meria's Outrider",
+     "inclusion": 12.4,
+     "winRate": 58.1,
+     "games": 3177,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Bortuk Bonerattle",
+     "inclusion": 12.5,
+     "winRate": 58.0,
+     "games": 3291,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "The Weatherseed Treaty",
+     "inclusion": 27.6,
+     "winRate": 57.9,
+     "games": 7328,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Tail Swipe",
+     "inclusion": 26.7,
+     "winRate": 57.9,
+     "games": 6981,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Herd Migration",
+     "inclusion": 10.4,
+     "winRate": 57.9,
+     "games": 2816,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Territorial Maro",
+     "inclusion": 27.2,
+     "winRate": 57.6,
+     "games": 7152,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Urborg Repossession",
+     "inclusion": 16.4,
+     "winRate": 57.6,
+     "games": 4246,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Haughty Djinn",
+     "inclusion": 6.6,
+     "winRate": 57.6,
+     "games": 1720,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Sphinx of Clear Skies",
+     "inclusion": 5.7,
+     "winRate": 57.6,
+     "games": 1529,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 5.2,
+     "winRate": 57.6,
+     "games": 1348,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Tatyova, Steward of Tides",
+     "inclusion": 52.8,
+     "winRate": 57.5,
+     "games": 13887,
+     "trophyInclusion": 58.1
+    },
+    {
+     "name": "Geothermal Bog",
+     "inclusion": 16.7,
+     "winRate": 57.5,
+     "games": 4325,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Yavimaya Iconoclast",
+     "inclusion": 14.5,
+     "winRate": 57.5,
+     "games": 3789,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "Llanowar Greenwidow",
+     "inclusion": 10.0,
+     "winRate": 57.5,
+     "games": 2638,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Llanowar Loamspeaker",
+     "inclusion": 9.0,
+     "winRate": 57.5,
+     "games": 2391,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Micromancer",
+     "inclusion": 24.3,
+     "winRate": 57.4,
+     "games": 6363,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Defiler of Vigor",
+     "inclusion": 11.0,
+     "winRate": 57.4,
+     "games": 2904,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Nishoba Brawler",
+     "inclusion": 27.5,
+     "winRate": 57.3,
+     "games": 7215,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Rona's Vortex",
+     "inclusion": 16.5,
+     "winRate": 57.3,
+     "games": 4382,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Aether Channeler",
+     "inclusion": 8.7,
+     "winRate": 57.2,
+     "games": 2284,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Silver Scrutiny",
+     "inclusion": 8.3,
+     "winRate": 57.1,
+     "games": 2175,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Tolarian Geyser",
+     "inclusion": 47.8,
+     "winRate": 57.0,
+     "games": 12577,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Wooded Ridgeline",
+     "inclusion": 40.3,
+     "winRate": 56.9,
+     "games": 10522,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Haunted Mire",
+     "inclusion": 39.3,
+     "winRate": 56.8,
+     "games": 10305,
+     "trophyInclusion": 38.9
+    },
+    {
+     "name": "Gaea's Might",
+     "inclusion": 43.0,
+     "winRate": 56.7,
+     "games": 11053,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Phyrexian Espionage",
+     "inclusion": 33.4,
+     "winRate": 56.6,
+     "games": 8747,
+     "trophyInclusion": 38.6
+    },
+    {
+     "name": "Sunbathing Rootwalla",
+     "inclusion": 55.1,
+     "winRate": 56.5,
+     "games": 14228,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Sacred Peaks",
+     "inclusion": 16.0,
+     "winRate": 56.5,
+     "games": 4107,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Battlewing Mystic",
+     "inclusion": 14.6,
+     "winRate": 56.4,
+     "games": 3790,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Idyllic Beachfront",
+     "inclusion": 39.6,
+     "winRate": 56.2,
+     "games": 10232,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Radiant Grove",
+     "inclusion": 38.6,
+     "winRate": 56.2,
+     "games": 10003,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Vineshaper Prodigy",
+     "inclusion": 68.3,
+     "winRate": 56.1,
+     "games": 17783,
+     "trophyInclusion": 70.5
+    },
+    {
+     "name": "Talas Lookout",
+     "inclusion": 51.3,
+     "winRate": 56.1,
+     "games": 13227,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Essence Scatter",
+     "inclusion": 51.0,
+     "winRate": 56.1,
+     "games": 13265,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Molten Tributary",
+     "inclusion": 40.6,
+     "winRate": 56.1,
+     "games": 10534,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Yavimaya Sojourner",
+     "inclusion": 38.0,
+     "winRate": 56.1,
+     "games": 9733,
+     "trophyInclusion": 39.2
+    },
+    {
+     "name": "Protect the Negotiators",
+     "inclusion": 6.7,
+     "winRate": 56.1,
+     "games": 1690,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Zar Ojanen, Scion of Efrava",
+     "inclusion": 5.6,
+     "winRate": 56.1,
+     "games": 1466,
+     "trophyInclusion": 5.5
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2022-09-20",
+    "main": [
+     [
+      1,
+      "Artillery Blast"
+     ],
+     [
+      1,
+      "Bite Down"
+     ],
+     [
+      1,
+      "Contaminated Aquifer"
+     ],
+     [
+      1,
+      "Essence Scatter"
+     ],
+     [
+      2,
+      "Floriferous Vinewall"
+     ],
+     [
+      1,
+      "Flowstone Infusion"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      1,
+      "Gaea's Might"
+     ],
+     [
+      2,
+      "Geothermal Bog"
+     ],
+     [
+      1,
+      "Haunted Mire"
+     ],
+     [
+      1,
+      "Idyllic Beachfront"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Magnigoth Sentry"
+     ],
+     [
+      2,
+      "Micromancer"
+     ],
+     [
+      1,
+      "Molten Tributary"
+     ],
+     [
+      1,
+      "Mossbeard Ancient"
+     ],
+     [
+      1,
+      "Nael, Avizoa Aeronaut"
+     ],
+     [
+      1,
+      "Nishoba Brawler"
+     ],
+     [
+      1,
+      "Pixie Illusionist"
+     ],
+     [
+      1,
+      "Sacred Peaks"
+     ],
+     [
+      2,
+      "Sunbathing Rootwalla"
+     ],
+     [
+      1,
+      "Tail Swipe"
+     ],
+     [
+      1,
+      "Tangled Islet"
+     ],
+     [
+      2,
+      "Tatyova, Steward of Tides"
+     ],
+     [
+      1,
+      "Tolarian Geyser"
+     ],
+     [
+      1,
+      "Tolarian Terror"
+     ],
+     [
+      2,
+      "Urborg Repossession"
+     ],
+     [
+      2,
+      "Wooded Ridgeline"
+     ],
+     [
+      1,
+      "Yavimaya Coast"
+     ],
+     [
+      1,
+      "Yavimaya Sojourner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Academy Wall"
+     ],
+     [
+      1,
+      "Balmor, Battlemage Captain"
+     ],
+     [
+      1,
+      "Crystal Grotto"
+     ],
+     [
+      1,
+      "Negate"
+     ],
+     [
+      1,
+      "Salvaged Manaworker"
+     ],
+     [
+      1,
+      "Scout the Wilderness"
+     ],
+     [
+      1,
+      "Tidepool Turtle"
+     ]
+    ]
+   }
+  }
+ ]
+}

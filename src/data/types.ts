@@ -1,4 +1,4 @@
-export type FormatId = 'standard' | 'pioneer' | 'modern' | 'legacy' | 'vintage' | 'pauper' | 'premodern'
+export type FormatId = 'standard' | 'pioneer' | 'modern' | 'legacy' | 'vintage' | 'pauper' | 'premodern' | 'limited'
 
 export type Archetype = 'aggro' | 'midrange' | 'control' | 'combo' | 'tempo' | 'ramp'
 
@@ -57,13 +57,26 @@ export type Deck = {
   /** first and last recorded result in the season (ISO dates) */
   first: string
   last: string
-  /** counts from mtgtop8 high-level events in the season */
+  /** counts from mtgtop8 high-level events in the season (Limited: drafts and share of games) */
   stats: { results: number; top8: number; wins: number; share: number }
+  /** Limited only: 17Lands public data for the color combination in the set's Premier Draft */
+  limited?: LimitedStats
   summary: L10n
   why: { fr: string[]; en: string[] }
   keyCards: string[]
   cover: string
   list: DeckList
+}
+
+export type LimitedStats = {
+  games: number
+  /** game win rate, % */
+  winRate: number
+  drafts: number
+  /** 7-win runs */
+  trophies: number
+  /** average game win rate of the set's 17Lands players, % */
+  setWinRate: number
 }
 
 export type Ban = { date: string; cards: string[] }
@@ -75,6 +88,10 @@ export type Season = {
   /** first set of the season */
   set: string
   bans: Ban[]
+  /** Limited: the set code; the season is named after its set instead of its years */
+  code?: string
+  /** Limited: 17Lands sample of the set */
+  source?: { games: number; drafts: number; winRate: number; url: string }
 }
 
 /** end = start of the following season (undefined for the current one) */

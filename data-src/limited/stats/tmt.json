@@ -1,0 +1,5342 @@
+{
+ "set": "tmt",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TMT.PremierDraft.csv.gz",
+ "lastModified": "Wed, 08 Apr 2026 22:00:52 GMT",
+ "colorsDerived": false,
+ "first": "2026-03-03",
+ "last": "2026-04-04",
+ "games": 180204,
+ "drafts": 31764,
+ "winRate": 56.8,
+ "combos": [
+  {
+   "colors": "WB",
+   "games": 40782,
+   "wins": 24051,
+   "winRate": 58.97,
+   "share": 22.63,
+   "drafts": 6958,
+   "trophies": 785,
+   "cards": [
+    {
+     "name": "Sally Pride, Lioness Leader",
+     "inclusion": 12.0,
+     "winRate": 64.0,
+     "games": 5250,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Agent Bishop, Man in Black",
+     "inclusion": 10.4,
+     "winRate": 62.6,
+     "games": 4455,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Mighty Mutanimals",
+     "inclusion": 37.5,
+     "winRate": 61.6,
+     "games": 15837,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Dream Beavers",
+     "inclusion": 43.3,
+     "winRate": 61.4,
+     "games": 18207,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Leonardo, Sewer Samurai",
+     "inclusion": 6.7,
+     "winRate": 60.8,
+     "games": 2798,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "The Last Ronin's Technique",
+     "inclusion": 36.5,
+     "winRate": 60.3,
+     "games": 15131,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Ninja Teen",
+     "inclusion": 11.5,
+     "winRate": 60.3,
+     "games": 4775,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Koya, Death from Above",
+     "inclusion": 42.7,
+     "winRate": 60.2,
+     "games": 17625,
+     "trophyInclusion": 45.1
+    },
+    {
+     "name": "Leonardo, Leader in Blue",
+     "inclusion": 38.9,
+     "winRate": 60.1,
+     "games": 16113,
+     "trophyInclusion": 42.7
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 16.3,
+     "winRate": 60.1,
+     "games": 6785,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Dark Leo & Shredder",
+     "inclusion": 11.8,
+     "winRate": 60.1,
+     "games": 4871,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 42.6,
+     "winRate": 59.9,
+     "games": 17429,
+     "trophyInclusion": 46.6
+    },
+    {
+     "name": "Turtle Lair",
+     "inclusion": 20.1,
+     "winRate": 59.8,
+     "games": 8296,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Karai, Future of the Foot",
+     "inclusion": 45.8,
+     "winRate": 59.7,
+     "games": 18874,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Splinter, Hamato Yoshi",
+     "inclusion": 42.1,
+     "winRate": 59.7,
+     "games": 17246,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Savanti Romero, Time's Exile",
+     "inclusion": 10.5,
+     "winRate": 59.7,
+     "games": 4319,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Triceraton Commander",
+     "inclusion": 8.5,
+     "winRate": 59.7,
+     "games": 3453,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Lita, Little Orphan Amphibian",
+     "inclusion": 34.0,
+     "winRate": 59.6,
+     "games": 14040,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Dimensional Exile",
+     "inclusion": 32.4,
+     "winRate": 59.6,
+     "games": 13335,
+     "trophyInclusion": 33.2
+    },
+    {
+     "name": "Death in the Family",
+     "inclusion": 29.7,
+     "winRate": 59.6,
+     "games": 12215,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 23.9,
+     "winRate": 59.5,
+     "games": 9818,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Turtle Van",
+     "inclusion": 5.6,
+     "winRate": 59.5,
+     "games": 2283,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "April O'Neil, Kunoichi Trainee",
+     "inclusion": 72.6,
+     "winRate": 59.4,
+     "games": 29758,
+     "trophyInclusion": 75.7
+    },
+    {
+     "name": "Featherbrained Filcher",
+     "inclusion": 38.3,
+     "winRate": 59.4,
+     "games": 15771,
+     "trophyInclusion": 38.7
+    },
+    {
+     "name": "Shredder's Technique",
+     "inclusion": 28.2,
+     "winRate": 59.4,
+     "games": 11517,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "The Cloning of Shredder",
+     "inclusion": 7.3,
+     "winRate": 59.4,
+     "games": 2990,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Oroku Saki, Shredder Rising",
+     "inclusion": 74.8,
+     "winRate": 59.3,
+     "games": 30621,
+     "trophyInclusion": 76.8
+    },
+    {
+     "name": "Turncoat Kunoichi",
+     "inclusion": 14.9,
+     "winRate": 59.3,
+     "games": 6203,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Squirrelanoids",
+     "inclusion": 63.1,
+     "winRate": 59.2,
+     "games": 25834,
+     "trophyInclusion": 66.1
+    },
+    {
+     "name": "Quintessential Katana",
+     "inclusion": 32.6,
+     "winRate": 59.2,
+     "games": 13266,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Prehistoric Pet",
+     "inclusion": 11.9,
+     "winRate": 59.2,
+     "games": 4840,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Super Shredder",
+     "inclusion": 7.1,
+     "winRate": 59.2,
+     "games": 2878,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Uneasy Alliance",
+     "inclusion": 61.0,
+     "winRate": 59.1,
+     "games": 24903,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 52.2,
+     "winRate": 59.1,
+     "games": 21334,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Jennika, Bad Apple Big Sister",
+     "inclusion": 49.9,
+     "winRate": 59.0,
+     "games": 20313,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 5.6,
+     "winRate": 59.0,
+     "games": 2287,
+     "trophyInclusion": 4.5
+    },
+    {
+     "name": "Leonardo, Big Brother",
+     "inclusion": 68.1,
+     "winRate": 58.9,
+     "games": 27754,
+     "trophyInclusion": 66.4
+    },
+    {
+     "name": "Foot Ninjas",
+     "inclusion": 65.3,
+     "winRate": 58.9,
+     "games": 26625,
+     "trophyInclusion": 63.8
+    },
+    {
+     "name": "Stomped by the Foot",
+     "inclusion": 57.5,
+     "winRate": 58.9,
+     "games": 23343,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Shredder, Unrelenting",
+     "inclusion": 32.6,
+     "winRate": 58.9,
+     "games": 13259,
+     "trophyInclusion": 32.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-09",
+    "main": [
+     [
+      1,
+      "April O'Neil, Kunoichi Trainee"
+     ],
+     [
+      1,
+      "Death in the Family"
+     ],
+     [
+      1,
+      "Foot Elite"
+     ],
+     [
+      1,
+      "Foot Headquarters"
+     ],
+     [
+      1,
+      "Foot Ninjas"
+     ],
+     [
+      1,
+      "Grounded for Life"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Koya, Death from Above"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Leonardo, Leader in Blue"
+     ],
+     [
+      1,
+      "Lord Dregg, Insect Invader"
+     ],
+     [
+      1,
+      "Mechanized Ninja Cavalry"
+     ],
+     [
+      1,
+      "Mighty Mutanimals"
+     ],
+     [
+      2,
+      "Oroku Saki, Shredder Rising"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Quintessential Katana"
+     ],
+     [
+      1,
+      "Shredder, Unrelenting"
+     ],
+     [
+      1,
+      "Splinter, Hamato Yoshi"
+     ],
+     [
+      1,
+      "Splinter, Radical Rat"
+     ],
+     [
+      1,
+      "Squirrelanoids"
+     ],
+     [
+      1,
+      "Stomped by the Foot"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Last Ronin's Technique"
+     ],
+     [
+      1,
+      "Turtle Blimp"
+     ],
+     [
+      1,
+      "Turtle Lair"
+     ],
+     [
+      1,
+      "Uneasy Alliance"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Grounded for Life"
+     ],
+     [
+      2,
+      "Hamato Guardian Stance"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Metalhead"
+     ],
+     [
+      1,
+      "Mutant Chain Reaction"
+     ],
+     [
+      1,
+      "Negate"
+     ],
+     [
+      1,
+      "Ooze Spill"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      1,
+      "Stockman, Mad Fly-entist"
+     ],
+     [
+      1,
+      "Trouble in Pairs"
+     ],
+     [
+      1,
+      "Tunnel Rats"
+     ],
+     [
+      1,
+      "Zog, Triceraton Castaway"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 40121,
+   "wins": 23316,
+   "winRate": 58.11,
+   "share": 22.26,
+   "drafts": 6936,
+   "trophies": 768,
+   "cards": [
+    {
+     "name": "Chrome Dome",
+     "inclusion": 14.3,
+     "winRate": 60.3,
+     "games": 5921,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 23.5,
+     "winRate": 60.2,
+     "games": 9742,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Casey Jones, Jury-Rig Justiciar",
+     "inclusion": 48.1,
+     "winRate": 60.1,
+     "games": 19834,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Ravenous Robots",
+     "inclusion": 17.1,
+     "winRate": 60.1,
+     "games": 7027,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 9.1,
+     "winRate": 60.1,
+     "games": 3722,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Kitsune, Dragon's Daughter",
+     "inclusion": 13.7,
+     "winRate": 60.0,
+     "games": 5616,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 13.7,
+     "winRate": 60.0,
+     "games": 5687,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 31.1,
+     "winRate": 59.9,
+     "games": 12770,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 47.9,
+     "winRate": 59.8,
+     "games": 19693,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Krang, Master Mind",
+     "inclusion": 16.7,
+     "winRate": 59.6,
+     "games": 6853,
+     "trophyInclusion": 18.0
+    },
+    {
+     "name": "Brilliance Unleashed",
+     "inclusion": 54.5,
+     "winRate": 59.5,
+     "games": 22302,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Everything Pizza",
+     "inclusion": 6.2,
+     "winRate": 59.4,
+     "games": 2446,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Does Machines",
+     "inclusion": 16.5,
+     "winRate": 59.3,
+     "games": 6766,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 5.5,
+     "winRate": 59.3,
+     "games": 2226,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Mouser Foundry",
+     "inclusion": 79.3,
+     "winRate": 59.1,
+     "games": 32176,
+     "trophyInclusion": 85.8
+    },
+    {
+     "name": "Manhole Missile",
+     "inclusion": 72.3,
+     "winRate": 59.0,
+     "games": 29278,
+     "trophyInclusion": 77.1
+    },
+    {
+     "name": "Return to the Sewers",
+     "inclusion": 63.9,
+     "winRate": 58.9,
+     "games": 25845,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Donatello, Mutant Mechanic",
+     "inclusion": 7.6,
+     "winRate": 58.9,
+     "games": 3009,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 73.6,
+     "winRate": 58.7,
+     "games": 29741,
+     "trophyInclusion": 77.3
+    },
+    {
+     "name": "TCRI Building",
+     "inclusion": 60.0,
+     "winRate": 58.7,
+     "games": 24211,
+     "trophyInclusion": 64.2
+    },
+    {
+     "name": "Weather Maker",
+     "inclusion": 7.4,
+     "winRate": 58.7,
+     "games": 2917,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Nobody",
+     "inclusion": 80.1,
+     "winRate": 58.6,
+     "games": 32224,
+     "trophyInclusion": 83.6
+    },
+    {
+     "name": "Baxter Stockman",
+     "inclusion": 54.0,
+     "winRate": 58.6,
+     "games": 21818,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 31.4,
+     "winRate": 58.6,
+     "games": 12621,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Donatello, Turtle Techie",
+     "inclusion": 76.8,
+     "winRate": 58.5,
+     "games": 30950,
+     "trophyInclusion": 78.4
+    },
+    {
+     "name": "Technodrome",
+     "inclusion": 8.0,
+     "winRate": 58.5,
+     "games": 3216,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "The Ooze",
+     "inclusion": 6.3,
+     "winRate": 58.5,
+     "games": 2578,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Buzz Bots",
+     "inclusion": 71.5,
+     "winRate": 58.4,
+     "games": 28869,
+     "trophyInclusion": 71.7
+    },
+    {
+     "name": "North Wind Avatar",
+     "inclusion": 12.7,
+     "winRate": 58.3,
+     "games": 5085,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Dimension X",
+     "inclusion": 6.1,
+     "winRate": 58.3,
+     "games": 2383,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 49.3,
+     "winRate": 58.2,
+     "games": 19854,
+     "trophyInclusion": 49.5
+    },
+    {
+     "name": "Spicy Oatmeal Pizza",
+     "inclusion": 38.4,
+     "winRate": 58.2,
+     "games": 15466,
+     "trophyInclusion": 37.5
+    },
+    {
+     "name": "General Traag, Heart of Stone",
+     "inclusion": 40.2,
+     "winRate": 58.1,
+     "games": 16125,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Improvised Arsenal",
+     "inclusion": 15.7,
+     "winRate": 58.1,
+     "games": 6301,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 21.4,
+     "winRate": 58.0,
+     "games": 8538,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Donatello, Way with Machines",
+     "inclusion": 36.7,
+     "winRate": 57.6,
+     "games": 14656,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Turtle Van",
+     "inclusion": 6.3,
+     "winRate": 57.6,
+     "games": 2544,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Mikey & Don, Party Planners",
+     "inclusion": 5.5,
+     "winRate": 57.6,
+     "games": 2182,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Raphael, the Nightwatcher",
+     "inclusion": 9.9,
+     "winRate": 57.5,
+     "games": 3949,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Krang & Shredder",
+     "inclusion": 5.8,
+     "winRate": 57.4,
+     "games": 2300,
+     "trophyInclusion": 4.8
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-03-10",
+    "main": [
+     [
+      1,
+      "Baxter Stockman"
+     ],
+     [
+      1,
+      "Brilliance Unleashed"
+     ],
+     [
+      1,
+      "Casey Jones, Jury-Rig Justiciar"
+     ],
+     [
+      1,
+      "Chrome Dome"
+     ],
+     [
+      1,
+      "Don & Raph, Hard Science"
+     ],
+     [
+      1,
+      "Donatello, Gadget Master"
+     ],
+     [
+      1,
+      "Donatello, Mutant Mechanic"
+     ],
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      2,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Fugitive Droid"
+     ],
+     [
+      1,
+      "General Traag, Heart of Stone"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      1,
+      "Mechanized Ninja Cavalry"
+     ],
+     [
+      2,
+      "Metalhead"
+     ],
+     [
+      1,
+      "Mind Transfer Protocol"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mouser Foundry"
+     ],
+     [
+      1,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Nobody"
+     ],
+     [
+      1,
+      "Omni-Cheese Pizza"
+     ],
+     [
+      1,
+      "Ooze Spill"
+     ],
+     [
+      2,
+      "Return to the Sewers"
+     ],
+     [
+      1,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "TCRI Building"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cowabunga!"
+     ],
+     [
+      1,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "Everything Pizza"
+     ],
+     [
+      1,
+      "Leatherhead, Swamp Stalker"
+     ],
+     [
+      1,
+      "Michelangelo, Game Master"
+     ],
+     [
+      1,
+      "Mind Transfer Protocol"
+     ],
+     [
+      1,
+      "Mutant Chain Reaction"
+     ],
+     [
+      2,
+      "Nobody"
+     ],
+     [
+      1,
+      "Purple Dragon Punks"
+     ],
+     [
+      1,
+      "Retro-Mutation"
+     ],
+     [
+      1,
+      "Rock Soldiers"
+     ],
+     [
+      2,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "Stockman, Mad Fly-entist"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 21473,
+   "wins": 11852,
+   "winRate": 55.19,
+   "share": 11.92,
+   "drafts": 3862,
+   "trophies": 302,
+   "cards": [
+    {
+     "name": "The Last Ronin",
+     "inclusion": 14.0,
+     "winRate": 60.4,
+     "games": 3239,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Everything Pizza",
+     "inclusion": 10.9,
+     "winRate": 59.4,
+     "games": 2421,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Armaggon, Future Shark",
+     "inclusion": 15.8,
+     "winRate": 59.0,
+     "games": 3609,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Mikey & Don, Party Planners",
+     "inclusion": 7.7,
+     "winRate": 58.6,
+     "games": 1717,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 11.0,
+     "winRate": 58.3,
+     "games": 2460,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Weather Maker",
+     "inclusion": 5.5,
+     "winRate": 58.0,
+     "games": 1213,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Super Shredder",
+     "inclusion": 7.9,
+     "winRate": 57.9,
+     "games": 1758,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "The Cloning of Shredder",
+     "inclusion": 10.8,
+     "winRate": 57.4,
+     "games": 2444,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 45.3,
+     "winRate": 57.3,
+     "games": 10135,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Lessons from Life",
+     "inclusion": 11.1,
+     "winRate": 57.0,
+     "games": 2454,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 28.2,
+     "winRate": 56.9,
+     "games": 6189,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Savanti Romero, Time's Exile",
+     "inclusion": 13.4,
+     "winRate": 56.9,
+     "games": 2908,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Leatherhead, Swamp Stalker",
+     "inclusion": 11.9,
+     "winRate": 56.7,
+     "games": 2597,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 9.0,
+     "winRate": 56.7,
+     "games": 1954,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Tainted Treats",
+     "inclusion": 51.2,
+     "winRate": 56.5,
+     "games": 11237,
+     "trophyInclusion": 57.6
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 33.3,
+     "winRate": 56.4,
+     "games": 7366,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 69.8,
+     "winRate": 56.2,
+     "games": 15259,
+     "trophyInclusion": 75.8
+    },
+    {
+     "name": "Michelangelo, Mutant BFF",
+     "inclusion": 34.3,
+     "winRate": 56.2,
+     "games": 7450,
+     "trophyInclusion": 39.1
+    },
+    {
+     "name": "Rat King, Verminister",
+     "inclusion": 12.0,
+     "winRate": 56.2,
+     "games": 2631,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Mutant Town",
+     "inclusion": 19.3,
+     "winRate": 56.1,
+     "games": 4258,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Illegitimate Business",
+     "inclusion": 57.8,
+     "winRate": 56.0,
+     "games": 12695,
+     "trophyInclusion": 62.3
+    },
+    {
+     "name": "Groundchuck & Dirtbag",
+     "inclusion": 13.2,
+     "winRate": 55.9,
+     "games": 2867,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Bebop & Rocksteady",
+     "inclusion": 9.2,
+     "winRate": 55.8,
+     "games": 1980,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Krang & Shredder",
+     "inclusion": 6.8,
+     "winRate": 55.8,
+     "games": 1492,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Primordial Pachyderm",
+     "inclusion": 62.7,
+     "winRate": 55.6,
+     "games": 13570,
+     "trophyInclusion": 66.9
+    },
+    {
+     "name": "Pizza Face, Gastromancer",
+     "inclusion": 50.2,
+     "winRate": 55.6,
+     "games": 10783,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 12.0,
+     "winRate": 55.6,
+     "games": 2583,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Ragamuffin Raptor",
+     "inclusion": 69.2,
+     "winRate": 55.5,
+     "games": 14930,
+     "trophyInclusion": 67.9
+    },
+    {
+     "name": "West Wind Avatar",
+     "inclusion": 38.4,
+     "winRate": 55.5,
+     "games": 8318,
+     "trophyInclusion": 39.4
+    },
+    {
+     "name": "Saved by the Shell",
+     "inclusion": 29.4,
+     "winRate": 55.5,
+     "games": 6324,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Shark Shredder, Killer Clone",
+     "inclusion": 11.8,
+     "winRate": 55.5,
+     "games": 2528,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Anchovy & Banana Pizza",
+     "inclusion": 70.5,
+     "winRate": 55.4,
+     "games": 15247,
+     "trophyInclusion": 70.2
+    },
+    {
+     "name": "Death in the Family",
+     "inclusion": 30.4,
+     "winRate": 55.4,
+     "games": 6569,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "Transdimensional Bovine",
+     "inclusion": 12.6,
+     "winRate": 55.4,
+     "games": 2724,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "South Wind Avatar",
+     "inclusion": 9.7,
+     "winRate": 55.3,
+     "games": 2044,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "The Ooze",
+     "inclusion": 6.9,
+     "winRate": 55.3,
+     "games": 1489,
+     "trophyInclusion": 5.6
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 64.6,
+     "winRate": 55.2,
+     "games": 13772,
+     "trophyInclusion": 66.9
+    },
+    {
+     "name": "Dream Beavers",
+     "inclusion": 23.5,
+     "winRate": 55.2,
+     "games": 5111,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Stomped by the Foot",
+     "inclusion": 61.8,
+     "winRate": 55.1,
+     "games": 13264,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Lord Dregg, Insect Invader",
+     "inclusion": 35.8,
+     "winRate": 55.1,
+     "games": 7723,
+     "trophyInclusion": 37.4
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2026-03-12",
+    "main": [
+     [
+      1,
+      "Courier of Comestibles"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      2,
+      "Frog Butler"
+     ],
+     [
+      2,
+      "Guac & Marshmallow Pizza"
+     ],
+     [
+      1,
+      "Ice Cream Kitty"
+     ],
+     [
+      2,
+      "Illegitimate Business"
+     ],
+     [
+      1,
+      "Island"
+     ],
+     [
+      1,
+      "Leatherhead, Swamp Stalker"
+     ],
+     [
+      1,
+      "Lessons from Life"
+     ],
+     [
+      1,
+      "Lord Dregg, Insect Invader"
+     ],
+     [
+      2,
+      "Michelangelo, Game Master"
+     ],
+     [
+      1,
+      "Michelangelo, Mutant BFF"
+     ],
+     [
+      1,
+      "Mutagen Man, Living Ooze"
+     ],
+     [
+      1,
+      "Mutant Town"
+     ],
+     [
+      1,
+      "Omni-Cheese Pizza"
+     ],
+     [
+      1,
+      "Pizza Face, Gastromancer"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Rocksteady, Crash Courser"
+     ],
+     [
+      1,
+      "Shredder's Technique"
+     ],
+     [
+      1,
+      "Stomped by the Foot"
+     ],
+     [
+      1,
+      "Super Shredder"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tainted Treats"
+     ],
+     [
+      1,
+      "Tenderize"
+     ],
+     [
+      1,
+      "Zoo Escapees"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "East Wind Avatar"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "Illegitimate Business"
+     ],
+     [
+      1,
+      "Lessons from Life"
+     ],
+     [
+      1,
+      "Mind Transfer Protocol"
+     ],
+     [
+      1,
+      "Mutant Chain Reaction"
+     ],
+     [
+      1,
+      "Ooze Spill"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      2,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "Shredder's Revenge"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 17293,
+   "wins": 9669,
+   "winRate": 55.91,
+   "share": 9.6,
+   "drafts": 3062,
+   "trophies": 247,
+   "cards": [
+    {
+     "name": "Sally Pride, Lioness Leader",
+     "inclusion": 15.9,
+     "winRate": 60.8,
+     "games": 2959,
+     "trophyInclusion": 26.3
+    },
+    {
+     "name": "Triceraton Commander",
+     "inclusion": 10.3,
+     "winRate": 58.6,
+     "games": 1865,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Mighty Mutanimals",
+     "inclusion": 45.5,
+     "winRate": 58.5,
+     "games": 8169,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "The Last Ronin's Technique",
+     "inclusion": 36.1,
+     "winRate": 57.9,
+     "games": 6339,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Dimensional Exile",
+     "inclusion": 35.0,
+     "winRate": 57.8,
+     "games": 6201,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Agent Bishop, Man in Black",
+     "inclusion": 13.7,
+     "winRate": 57.8,
+     "games": 2451,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Koya, Death from Above",
+     "inclusion": 28.1,
+     "winRate": 57.2,
+     "games": 4976,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Leonardo, Sewer Samurai",
+     "inclusion": 6.8,
+     "winRate": 57.2,
+     "games": 1196,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 5.5,
+     "winRate": 57.1,
+     "games": 961,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Casey Jones, Jury-Rig Justiciar",
+     "inclusion": 18.8,
+     "winRate": 57.0,
+     "games": 3328,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Ravenous Robots",
+     "inclusion": 6.4,
+     "winRate": 57.0,
+     "games": 1120,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 68.7,
+     "winRate": 56.9,
+     "games": 12028,
+     "trophyInclusion": 76.1
+    },
+    {
+     "name": "Lita, Little Orphan Amphibian",
+     "inclusion": 37.0,
+     "winRate": 56.9,
+     "games": 6461,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Manhole Missile",
+     "inclusion": 67.3,
+     "winRate": 56.8,
+     "games": 11769,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Dimension X",
+     "inclusion": 59.3,
+     "winRate": 56.8,
+     "games": 10405,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Leonardo, Leader in Blue",
+     "inclusion": 38.1,
+     "winRate": 56.7,
+     "games": 6685,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Turncoat Kunoichi",
+     "inclusion": 8.7,
+     "winRate": 56.6,
+     "games": 1537,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "April O'Neil, Kunoichi Trainee",
+     "inclusion": 67.1,
+     "winRate": 56.5,
+     "games": 11686,
+     "trophyInclusion": 70.9
+    },
+    {
+     "name": "Uneasy Alliance",
+     "inclusion": 61.3,
+     "winRate": 56.5,
+     "games": 10713,
+     "trophyInclusion": 61.5
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 20.7,
+     "winRate": 56.5,
+     "games": 3637,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 15.5,
+     "winRate": 56.4,
+     "games": 2673,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 7.4,
+     "winRate": 56.4,
+     "games": 1322,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "The Neutrinos",
+     "inclusion": 58.2,
+     "winRate": 56.2,
+     "games": 10138,
+     "trophyInclusion": 64.8
+    },
+    {
+     "name": "Leonardo, Big Brother",
+     "inclusion": 66.9,
+     "winRate": 56.1,
+     "games": 11631,
+     "trophyInclusion": 67.6
+    },
+    {
+     "name": "Slash, Reptile Rampager",
+     "inclusion": 15.3,
+     "winRate": 56.1,
+     "games": 2644,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Jennika, Bad Apple Big Sister",
+     "inclusion": 59.0,
+     "winRate": 56.0,
+     "games": 10242,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Spicy Oatmeal Pizza",
+     "inclusion": 31.5,
+     "winRate": 55.9,
+     "games": 5452,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Prehistoric Pet",
+     "inclusion": 10.5,
+     "winRate": 55.9,
+     "games": 1825,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Raphael, Tough Turtle",
+     "inclusion": 79.2,
+     "winRate": 55.8,
+     "games": 13703,
+     "trophyInclusion": 77.7
+    },
+    {
+     "name": "Wingnut, Bat on the Belfry",
+     "inclusion": 42.2,
+     "winRate": 55.8,
+     "games": 7261,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "EPF Point Squad",
+     "inclusion": 64.2,
+     "winRate": 55.7,
+     "games": 11096,
+     "trophyInclusion": 67.6
+    },
+    {
+     "name": "Mouser Foundry",
+     "inclusion": 48.6,
+     "winRate": 55.7,
+     "games": 8408,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Quintessential Katana",
+     "inclusion": 23.4,
+     "winRate": 55.7,
+     "games": 3991,
+     "trophyInclusion": 24.7
+    },
+    {
+     "name": "Null Group Biological Assets",
+     "inclusion": 31.5,
+     "winRate": 55.6,
+     "games": 5394,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Purple Dragon Punks",
+     "inclusion": 9.8,
+     "winRate": 55.6,
+     "games": 1710,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Go Ninja Go",
+     "inclusion": 53.4,
+     "winRate": 55.5,
+     "games": 9210,
+     "trophyInclusion": 52.2
+    },
+    {
+     "name": "Action News Crew",
+     "inclusion": 52.9,
+     "winRate": 55.5,
+     "games": 9128,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Mutant Town Musicians",
+     "inclusion": 35.9,
+     "winRate": 55.5,
+     "games": 6172,
+     "trophyInclusion": 34.0
+    },
+    {
+     "name": "High-Flying Ace",
+     "inclusion": 41.3,
+     "winRate": 55.4,
+     "games": 7116,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Nobody",
+     "inclusion": 14.4,
+     "winRate": 55.4,
+     "games": 2460,
+     "trophyInclusion": 13.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-08",
+    "main": [
+     [
+      1,
+      "Action News Crew"
+     ],
+     [
+      1,
+      "April O'Neil, Kunoichi Trainee"
+     ],
+     [
+      1,
+      "Bot Bashing Time"
+     ],
+     [
+      2,
+      "Dimension X"
+     ],
+     [
+      1,
+      "EPF Point Squad"
+     ],
+     [
+      1,
+      "Foot Ninjas"
+     ],
+     [
+      1,
+      "Go Ninja Go"
+     ],
+     [
+      1,
+      "Grounded for Life"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Jennika, Bad Apple Big Sister"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Leonardo, Cutting Edge"
+     ],
+     [
+      1,
+      "Leonardo, Leader in Blue"
+     ],
+     [
+      1,
+      "Lita, Little Orphan Amphibian"
+     ],
+     [
+      1,
+      "Make Your Move"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      1,
+      "Mechanized Ninja Cavalry"
+     ],
+     [
+      1,
+      "Mighty Mutanimals"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mouser Attack!"
+     ],
+     [
+      1,
+      "Null Group Biological Assets"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Quintessential Katana"
+     ],
+     [
+      1,
+      "Raphael, Most Attitude"
+     ],
+     [
+      1,
+      "Raphael, Tough Turtle"
+     ],
+     [
+      1,
+      "The Last Ronin's Technique"
+     ],
+     [
+      1,
+      "The Neutrinos"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Brilliance Unleashed"
+     ],
+     [
+      1,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "East Wind Avatar"
+     ],
+     [
+      1,
+      "Featherbrained Filcher"
+     ],
+     [
+      1,
+      "Foot Elite"
+     ],
+     [
+      1,
+      "Foot Headquarters"
+     ],
+     [
+      2,
+      "Hamato Guardian Stance"
+     ],
+     [
+      1,
+      "Jennika, Bad Apple Big Sister"
+     ],
+     [
+      1,
+      "Lita, Little Orphan Amphibian"
+     ],
+     [
+      2,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Slithering Cryptid"
+     ],
+     [
+      1,
+      "Spicy Oatmeal Pizza"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 15878,
+   "wins": 8440,
+   "winRate": 53.16,
+   "share": 8.81,
+   "drafts": 2944,
+   "trophies": 178,
+   "cards": [
+    {
+     "name": "Everything Pizza",
+     "inclusion": 13.9,
+     "winRate": 57.7,
+     "games": 2348,
+     "trophyInclusion": 23.6
+    },
+    {
+     "name": "North Wind Avatar",
+     "inclusion": 5.2,
+     "winRate": 56.6,
+     "games": 857,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 28.5,
+     "winRate": 56.2,
+     "games": 4708,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "TCRI Building",
+     "inclusion": 18.0,
+     "winRate": 56.0,
+     "games": 2993,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 32.4,
+     "winRate": 55.9,
+     "games": 5351,
+     "trophyInclusion": 39.3
+    },
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 8.5,
+     "winRate": 55.8,
+     "games": 1393,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Krang & Shredder",
+     "inclusion": 6.2,
+     "winRate": 55.6,
+     "games": 1021,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 14.7,
+     "winRate": 55.5,
+     "games": 2400,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Michelangelo, Weirdness to 11",
+     "inclusion": 16.9,
+     "winRate": 55.2,
+     "games": 2761,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Mutagen Man, Living Ooze",
+     "inclusion": 15.7,
+     "winRate": 55.0,
+     "games": 2491,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 8.2,
+     "winRate": 54.9,
+     "games": 1336,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Saved by the Shell",
+     "inclusion": 31.5,
+     "winRate": 54.8,
+     "games": 5090,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 31.2,
+     "winRate": 54.8,
+     "games": 5055,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 30.8,
+     "winRate": 54.8,
+     "games": 4971,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 15.1,
+     "winRate": 54.7,
+     "games": 2481,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Illegitimate Business",
+     "inclusion": 22.2,
+     "winRate": 54.6,
+     "games": 3615,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Groundchuck & Dirtbag",
+     "inclusion": 13.0,
+     "winRate": 54.6,
+     "games": 2115,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 72.2,
+     "winRate": 54.4,
+     "games": 11682,
+     "trophyInclusion": 84.8
+    },
+    {
+     "name": "Mikey & Don, Party Planners",
+     "inclusion": 15.7,
+     "winRate": 54.4,
+     "games": 2539,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Leatherhead, Swamp Stalker",
+     "inclusion": 15.1,
+     "winRate": 54.4,
+     "games": 2477,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Brilliance Unleashed",
+     "inclusion": 7.4,
+     "winRate": 54.4,
+     "games": 1218,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Does Machines",
+     "inclusion": 7.4,
+     "winRate": 54.4,
+     "games": 1149,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Transdimensional Bovine",
+     "inclusion": 12.2,
+     "winRate": 54.2,
+     "games": 1964,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Mikey & Leo, Chaos & Order",
+     "inclusion": 9.3,
+     "winRate": 54.2,
+     "games": 1499,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Return to the Sewers",
+     "inclusion": 64.0,
+     "winRate": 54.0,
+     "games": 10269,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Novel Nunchaku",
+     "inclusion": 40.3,
+     "winRate": 54.0,
+     "games": 6524,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Tainted Treats",
+     "inclusion": 10.3,
+     "winRate": 54.0,
+     "games": 1648,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Mutant Town",
+     "inclusion": 63.7,
+     "winRate": 53.8,
+     "games": 10215,
+     "trophyInclusion": 70.2
+    },
+    {
+     "name": "Genghis Frog",
+     "inclusion": 56.4,
+     "winRate": 53.8,
+     "games": 9068,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 48.3,
+     "winRate": 53.8,
+     "games": 7754,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Weather Maker",
+     "inclusion": 7.4,
+     "winRate": 53.8,
+     "games": 1192,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 70.6,
+     "winRate": 53.7,
+     "games": 11329,
+     "trophyInclusion": 79.8
+    },
+    {
+     "name": "Primordial Pachyderm",
+     "inclusion": 54.6,
+     "winRate": 53.6,
+     "games": 8707,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Donatello, Turtle Techie",
+     "inclusion": 54.0,
+     "winRate": 53.6,
+     "games": 8623,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 32.2,
+     "winRate": 53.6,
+     "games": 5137,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Kitsune, Dragon's Daughter",
+     "inclusion": 14.7,
+     "winRate": 53.6,
+     "games": 2383,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "The Ooze",
+     "inclusion": 7.8,
+     "winRate": 53.6,
+     "games": 1280,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "West Wind Avatar",
+     "inclusion": 35.7,
+     "winRate": 53.5,
+     "games": 5661,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Donatello, Mutant Mechanic",
+     "inclusion": 5.6,
+     "winRate": 53.5,
+     "games": 910,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Michelangelo, Mutant BFF",
+     "inclusion": 38.5,
+     "winRate": 53.4,
+     "games": 6147,
+     "trophyInclusion": 36.0
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-03-06",
+    "main": [
+     [
+      1,
+      "April, Reporter of the Weird"
+     ],
+     [
+      1,
+      "Bespoke B?"
+     ],
+     [
+      1,
+      "Buzz Bots"
+     ],
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "Genghis Frog"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Krang, Master Mind"
+     ],
+     [
+      1,
+      "Leatherhead, Swamp Stalker"
+     ],
+     [
+      1,
+      "Metalhead"
+     ],
+     [
+      1,
+      "Michelangelo, Game Master"
+     ],
+     [
+      2,
+      "Mutagen Man, Living Ooze"
+     ],
+     [
+      1,
+      "Mutant Town"
+     ],
+     [
+      1,
+      "Novel Nunchaku"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Ragamuffin Raptor"
+     ],
+     [
+      1,
+      "Ray Fillet, Man Ray"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      1,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "Slithering Cryptid"
+     ],
+     [
+      2,
+      "Tenderize"
+     ],
+     [
+      2,
+      "Zoo Escapees"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "Foot Ninjas"
+     ],
+     [
+      1,
+      "Mechanized Ninja Cavalry"
+     ],
+     [
+      1,
+      "Mind Transfer Protocol"
+     ],
+     [
+      2,
+      "Pizza Face, Gastromancer"
+     ],
+     [
+      1,
+      "Putrid Pals"
+     ],
+     [
+      2,
+      "Retro-Mutation"
+     ],
+     [
+      2,
+      "Rocksteady, Crash Courser"
+     ],
+     [
+      1,
+      "Stomped by the Foot"
+     ],
+     [
+      1,
+      "Tainted Treats"
+     ],
+     [
+      1,
+      "The Cloning of Shredder"
+     ],
+     [
+      1,
+      "Utrom Scientists"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 12001,
+   "wins": 6715,
+   "winRate": 55.95,
+   "share": 6.66,
+   "drafts": 2134,
+   "trophies": 193,
+   "cards": [
+    {
+     "name": "The Last Ronin",
+     "inclusion": 10.3,
+     "winRate": 62.0,
+     "games": 1382,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "TCRI Building",
+     "inclusion": 21.5,
+     "winRate": 60.3,
+     "games": 2709,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Dimension X",
+     "inclusion": 8.4,
+     "winRate": 60.2,
+     "games": 1060,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 16.4,
+     "winRate": 60.1,
+     "games": 2053,
+     "trophyInclusion": 24.4
+    },
+    {
+     "name": "Everything Pizza",
+     "inclusion": 42.3,
+     "winRate": 59.6,
+     "games": 5401,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 12.7,
+     "winRate": 58.9,
+     "games": 1572,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 44.1,
+     "winRate": 58.6,
+     "games": 5480,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Armaggon, Future Shark",
+     "inclusion": 14.2,
+     "winRate": 58.6,
+     "games": 1792,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Mikey & Don, Party Planners",
+     "inclusion": 13.9,
+     "winRate": 58.6,
+     "games": 1690,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Leatherhead, Swamp Stalker",
+     "inclusion": 11.6,
+     "winRate": 58.6,
+     "games": 1448,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Shark Shredder, Killer Clone",
+     "inclusion": 7.4,
+     "winRate": 58.5,
+     "games": 920,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Brilliance Unleashed",
+     "inclusion": 7.9,
+     "winRate": 58.3,
+     "games": 960,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Rat King, Verminister",
+     "inclusion": 7.6,
+     "winRate": 58.3,
+     "games": 953,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Weather Maker",
+     "inclusion": 8.6,
+     "winRate": 58.2,
+     "games": 1049,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 12.1,
+     "winRate": 58.0,
+     "games": 1504,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 7.6,
+     "winRate": 58.0,
+     "games": 947,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Groundchuck & Dirtbag",
+     "inclusion": 10.3,
+     "winRate": 57.6,
+     "games": 1287,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 72.1,
+     "winRate": 57.4,
+     "games": 8736,
+     "trophyInclusion": 78.8
+    },
+    {
+     "name": "Savanti Romero, Time's Exile",
+     "inclusion": 9.6,
+     "winRate": 57.4,
+     "games": 1199,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Michelangelo, Weirdness to 11",
+     "inclusion": 10.3,
+     "winRate": 57.3,
+     "games": 1244,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 44.5,
+     "winRate": 57.1,
+     "games": 5420,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 47.3,
+     "winRate": 57.0,
+     "games": 5794,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Michelangelo, Mutant BFF",
+     "inclusion": 28.2,
+     "winRate": 57.0,
+     "games": 3372,
+     "trophyInclusion": 32.1
+    },
+    {
+     "name": "Anchovy & Banana Pizza",
+     "inclusion": 54.5,
+     "winRate": 56.9,
+     "games": 6569,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "West Wind Avatar",
+     "inclusion": 31.4,
+     "winRate": 56.9,
+     "games": 3766,
+     "trophyInclusion": 35.8
+    },
+    {
+     "name": "Novel Nunchaku",
+     "inclusion": 30.6,
+     "winRate": 56.9,
+     "games": 3709,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 11.5,
+     "winRate": 56.8,
+     "games": 1406,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Mutant Town",
+     "inclusion": 70.7,
+     "winRate": 56.7,
+     "games": 8560,
+     "trophyInclusion": 78.8
+    },
+    {
+     "name": "Transdimensional Bovine",
+     "inclusion": 13.1,
+     "winRate": 56.7,
+     "games": 1627,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 20.8,
+     "winRate": 56.6,
+     "games": 2531,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Lessons from Life",
+     "inclusion": 50.4,
+     "winRate": 56.5,
+     "games": 6105,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Ragamuffin Raptor",
+     "inclusion": 62.2,
+     "winRate": 56.4,
+     "games": 7503,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Stomped by the Foot",
+     "inclusion": 46.4,
+     "winRate": 56.4,
+     "games": 5612,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Cowabunga!",
+     "inclusion": 12.8,
+     "winRate": 56.4,
+     "games": 1549,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Illegitimate Business",
+     "inclusion": 66.0,
+     "winRate": 56.3,
+     "games": 7887,
+     "trophyInclusion": 67.4
+    },
+    {
+     "name": "Pizza Face, Gastromancer",
+     "inclusion": 42.3,
+     "winRate": 56.2,
+     "games": 5085,
+     "trophyInclusion": 41.5
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 34.3,
+     "winRate": 56.2,
+     "games": 4095,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Donatello, Turtle Techie",
+     "inclusion": 27.5,
+     "winRate": 56.2,
+     "games": 3228,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Dream Beavers",
+     "inclusion": 9.3,
+     "winRate": 56.2,
+     "games": 1116,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 55.9,
+     "winRate": 56.1,
+     "games": 6729,
+     "trophyInclusion": 57.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-03-09",
+    "main": [
+     [
+      1,
+      "Anchovy & Banana Pizza"
+     ],
+     [
+      1,
+      "Courier of Comestibles"
+     ],
+     [
+      1,
+      "Cowabunga!"
+     ],
+     [
+      1,
+      "Death in the Family"
+     ],
+     [
+      1,
+      "Dimension X"
+     ],
+     [
+      3,
+      "Escape Tunnel"
+     ],
+     [
+      2,
+      "Everything Pizza"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "Ice Cream Kitty"
+     ],
+     [
+      1,
+      "Illegitimate Business"
+     ],
+     [
+      2,
+      "Island"
+     ],
+     [
+      1,
+      "Lord Dregg, Insect Invader"
+     ],
+     [
+      1,
+      "Metalhead"
+     ],
+     [
+      1,
+      "Michelangelo, Game Master"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mutant Town"
+     ],
+     [
+      1,
+      "Pizza Face, Gastromancer"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Ragamuffin Raptor"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      2,
+      "Slithering Cryptid"
+     ],
+     [
+      1,
+      "South Wind Avatar"
+     ],
+     [
+      1,
+      "Stockman, Mad Fly-entist"
+     ],
+     [
+      1,
+      "Stomped by the Foot"
+     ],
+     [
+      4,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tainted Treats"
+     ],
+     [
+      1,
+      "Tenderize"
+     ],
+     [
+      1,
+      "Zoo Escapees"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      2,
+      "Go Ninja Go"
+     ],
+     [
+      1,
+      "Negate"
+     ],
+     [
+      1,
+      "Omni-Cheese Pizza"
+     ],
+     [
+      1,
+      "Paramecia Coloniex"
+     ],
+     [
+      3,
+      "Punk Frogs"
+     ],
+     [
+      1,
+      "Stockman, Mad Fly-entist"
+     ],
+     [
+      1,
+      "Tunnel Rats"
+     ],
+     [
+      1,
+      "Uneasy Alliance"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "URG",
+   "games": 6710,
+   "wins": 3814,
+   "winRate": 56.84,
+   "share": 3.72,
+   "drafts": 1182,
+   "trophies": 119,
+   "cards": [
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 13.4,
+     "winRate": 61.1,
+     "games": 909,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Dimension X",
+     "inclusion": 19.4,
+     "winRate": 60.9,
+     "games": 1407,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Kitsune, Dragon's Daughter",
+     "inclusion": 11.4,
+     "winRate": 60.3,
+     "games": 795,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Krang, Master Mind",
+     "inclusion": 8.9,
+     "winRate": 59.9,
+     "games": 641,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Everything Pizza",
+     "inclusion": 51.3,
+     "winRate": 59.5,
+     "games": 3580,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Tainted Treats",
+     "inclusion": 7.6,
+     "winRate": 59.4,
+     "games": 544,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 39.0,
+     "winRate": 59.3,
+     "games": 2689,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 28.1,
+     "winRate": 59.0,
+     "games": 1901,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Lessons from Life",
+     "inclusion": 50.0,
+     "winRate": 58.8,
+     "games": 3404,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Casey Jones, Jury-Rig Justiciar",
+     "inclusion": 14.8,
+     "winRate": 58.7,
+     "games": 1009,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "Weather Maker",
+     "inclusion": 8.7,
+     "winRate": 58.6,
+     "games": 597,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 47.7,
+     "winRate": 58.3,
+     "games": 3249,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 19.0,
+     "winRate": 58.3,
+     "games": 1310,
+     "trophyInclusion": 16.8
+    },
+    {
+     "name": "Mikey & Don, Party Planners",
+     "inclusion": 13.1,
+     "winRate": 58.3,
+     "games": 889,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 53.6,
+     "winRate": 58.2,
+     "games": 3676,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Does Machines",
+     "inclusion": 11.1,
+     "winRate": 58.2,
+     "games": 772,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 68.3,
+     "winRate": 58.1,
+     "games": 4725,
+     "trophyInclusion": 76.5
+    },
+    {
+     "name": "Brilliance Unleashed",
+     "inclusion": 51.7,
+     "winRate": 58.1,
+     "games": 3517,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 49.8,
+     "winRate": 58.1,
+     "games": 3413,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 14.6,
+     "winRate": 58.1,
+     "games": 987,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Michelangelo, Weirdness to 11",
+     "inclusion": 10.8,
+     "winRate": 58.1,
+     "games": 733,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "General Traag, Heart of Stone",
+     "inclusion": 11.4,
+     "winRate": 58.0,
+     "games": 762,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Primordial Pachyderm",
+     "inclusion": 45.3,
+     "winRate": 57.9,
+     "games": 3084,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Illegitimate Business",
+     "inclusion": 25.3,
+     "winRate": 57.9,
+     "games": 1748,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Mutagen Man, Living Ooze",
+     "inclusion": 10.9,
+     "winRate": 57.5,
+     "games": 758,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Manhole Missile",
+     "inclusion": 44.4,
+     "winRate": 57.4,
+     "games": 3001,
+     "trophyInclusion": 47.1
+    },
+    {
+     "name": "Ice Cream Kitty",
+     "inclusion": 20.8,
+     "winRate": 57.4,
+     "games": 1400,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Novel Nunchaku",
+     "inclusion": 28.6,
+     "winRate": 57.3,
+     "games": 1920,
+     "trophyInclusion": 31.9
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 47.3,
+     "winRate": 57.2,
+     "games": 3205,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "North Wind Avatar",
+     "inclusion": 11.8,
+     "winRate": 57.2,
+     "games": 789,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 8.5,
+     "winRate": 57.2,
+     "games": 579,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 60.4,
+     "winRate": 57.0,
+     "games": 3990,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Chrome Dome",
+     "inclusion": 7.7,
+     "winRate": 57.0,
+     "games": 512,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "TCRI Building",
+     "inclusion": 70.1,
+     "winRate": 56.9,
+     "games": 4666,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Return to the Sewers",
+     "inclusion": 60.3,
+     "winRate": 56.9,
+     "games": 4039,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Nobody",
+     "inclusion": 57.0,
+     "winRate": 56.9,
+     "games": 3821,
+     "trophyInclusion": 59.7
+    },
+    {
+     "name": "Ragamuffin Raptor",
+     "inclusion": 43.4,
+     "winRate": 56.9,
+     "games": 2916,
+     "trophyInclusion": 44.5
+    },
+    {
+     "name": "Slithering Cryptid",
+     "inclusion": 33.7,
+     "winRate": 56.9,
+     "games": 2249,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Ravenous Robots",
+     "inclusion": 6.3,
+     "winRate": 56.9,
+     "games": 420,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Mutant Town",
+     "inclusion": 71.1,
+     "winRate": 56.8,
+     "games": 4765,
+     "trophyInclusion": 75.6
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2026-03-10",
+    "main": [
+     [
+      1,
+      "Brilliance Unleashed"
+     ],
+     [
+      1,
+      "Buzz Bots"
+     ],
+     [
+      1,
+      "Courier of Comestibles"
+     ],
+     [
+      1,
+      "Does Machines"
+     ],
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      1,
+      "Escape Tunnel"
+     ],
+     [
+      1,
+      "Everything Pizza"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "Genghis Frog"
+     ],
+     [
+      1,
+      "Illegitimate Business"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      2,
+      "Lessons from Life"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      2,
+      "Metalhead"
+     ],
+     [
+      2,
+      "Mona Lisa, Science Geek"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Mutant Town"
+     ],
+     [
+      1,
+      "Novel Nunchaku"
+     ],
+     [
+      1,
+      "Omni-Cheese Pizza"
+     ],
+     [
+      1,
+      "Ooze Spill"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Raph & Mikey, Troublemakers"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      1,
+      "Swamp"
+     ],
+     [
+      1,
+      "TCRI Building"
+     ],
+     [
+      1,
+      "The Last Ronin"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bot Bashing Time"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      1,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Punk Frogs"
+     ],
+     [
+      1,
+      "Putrid Pals"
+     ],
+     [
+      2,
+      "Ragamuffin Raptor"
+     ],
+     [
+      1,
+      "Stockman, Mad Fly-entist"
+     ],
+     [
+      1,
+      "Utrom Scientists"
+     ],
+     [
+      1,
+      "Zoo Escapees"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 2235,
+   "wins": 1254,
+   "winRate": 56.11,
+   "share": 1.24,
+   "drafts": 387,
+   "trophies": 34,
+   "cards": [
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 7.8,
+     "winRate": 63.5,
+     "games": 203,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Sally Pride, Lioness Leader",
+     "inclusion": 21.2,
+     "winRate": 61.9,
+     "games": 512,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 9.6,
+     "winRate": 61.3,
+     "games": 238,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Everything Pizza",
+     "inclusion": 7.8,
+     "winRate": 60.9,
+     "games": 179,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Mikey & Leo, Chaos & Order",
+     "inclusion": 20.7,
+     "winRate": 60.3,
+     "games": 473,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Turtle Van",
+     "inclusion": 6.2,
+     "winRate": 60.1,
+     "games": 138,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Agent Bishop, Man in Black",
+     "inclusion": 17.1,
+     "winRate": 60.0,
+     "games": 405,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Dimension X",
+     "inclusion": 5.4,
+     "winRate": 59.8,
+     "games": 122,
+     "trophyInclusion": 2.9
+    },
+    {
+     "name": "Mutant Town",
+     "inclusion": 14.5,
+     "winRate": 59.7,
+     "games": 345,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Tainted Treats",
+     "inclusion": 7.0,
+     "winRate": 59.6,
+     "games": 166,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Transdimensional Bovine",
+     "inclusion": 12.1,
+     "winRate": 59.4,
+     "games": 293,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Putrid Pals",
+     "inclusion": 8.8,
+     "winRate": 59.1,
+     "games": 193,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Leatherhead, Swamp Stalker",
+     "inclusion": 14.5,
+     "winRate": 58.3,
+     "games": 350,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Uneasy Alliance",
+     "inclusion": 59.9,
+     "winRate": 58.1,
+     "games": 1359,
+     "trophyInclusion": 76.5
+    },
+    {
+     "name": "Prehistoric Pet",
+     "inclusion": 8.0,
+     "winRate": 58.0,
+     "games": 188,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Lita, Little Orphan Amphibian",
+     "inclusion": 34.9,
+     "winRate": 57.8,
+     "games": 790,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Foot Elite",
+     "inclusion": 9.8,
+     "winRate": 57.8,
+     "games": 230,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 70.0,
+     "winRate": 57.5,
+     "games": 1596,
+     "trophyInclusion": 76.5
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 63.6,
+     "winRate": 57.4,
+     "games": 1457,
+     "trophyInclusion": 76.5
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 29.5,
+     "winRate": 57.4,
+     "games": 669,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Leader's Talent",
+     "inclusion": 12.1,
+     "winRate": 57.4,
+     "games": 270,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Primordial Pachyderm",
+     "inclusion": 58.1,
+     "winRate": 57.2,
+     "games": 1338,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Novel Nunchaku",
+     "inclusion": 40.1,
+     "winRate": 57.2,
+     "games": 920,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Guac & Marshmallow Pizza",
+     "inclusion": 40.8,
+     "winRate": 57.1,
+     "games": 936,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Foot Headquarters",
+     "inclusion": 16.3,
+     "winRate": 57.1,
+     "games": 387,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Illegitimate Business",
+     "inclusion": 16.5,
+     "winRate": 57.0,
+     "games": 393,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Michelangelo's Technique",
+     "inclusion": 9.0,
+     "winRate": 57.0,
+     "games": 214,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Michelangelo, Mutant BFF",
+     "inclusion": 38.0,
+     "winRate": 56.9,
+     "games": 845,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Leonardo, Sewer Samurai",
+     "inclusion": 6.5,
+     "winRate": 56.9,
+     "games": 144,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Ragamuffin Raptor",
+     "inclusion": 63.6,
+     "winRate": 56.8,
+     "games": 1435,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 26.1,
+     "winRate": 56.8,
+     "games": 592,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Turtle Lair",
+     "inclusion": 12.4,
+     "winRate": 56.8,
+     "games": 292,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Michelangelo, Improviser",
+     "inclusion": 8.3,
+     "winRate": 56.8,
+     "games": 176,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Mutagen Man, Living Ooze",
+     "inclusion": 16.3,
+     "winRate": 56.7,
+     "games": 356,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Dimensional Exile",
+     "inclusion": 36.4,
+     "winRate": 56.6,
+     "games": 824,
+     "trophyInclusion": 41.2
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 21.2,
+     "winRate": 56.4,
+     "games": 472,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Mighty Mutanimals",
+     "inclusion": 47.5,
+     "winRate": 56.3,
+     "games": 1060,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 26.4,
+     "winRate": 56.3,
+     "games": 595,
+     "trophyInclusion": 20.6
+    },
+    {
+     "name": "Grounded for Life",
+     "inclusion": 47.5,
+     "winRate": 56.1,
+     "games": 1050,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Rocksteady, Crash Courser",
+     "inclusion": 41.9,
+     "winRate": 56.1,
+     "games": 943,
+     "trophyInclusion": 47.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-09",
+    "main": [
+     [
+      1,
+      "April O'Neil, Kunoichi Trainee"
+     ],
+     [
+      1,
+      "Dimensional Exile"
+     ],
+     [
+      1,
+      "East Wind Avatar"
+     ],
+     [
+      9,
+      "Forest"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "Guac & Marshmallow Pizza"
+     ],
+     [
+      1,
+      "Jennika, Bad Apple Big Sister"
+     ],
+     [
+      1,
+      "Leonardo, Leader in Blue"
+     ],
+     [
+      1,
+      "Mechanized Ninja Cavalry"
+     ],
+     [
+      1,
+      "Michelangelo, Game Master"
+     ],
+     [
+      1,
+      "Michelangelo, Mutant BFF"
+     ],
+     [
+      1,
+      "Mighty Mutanimals"
+     ],
+     [
+      1,
+      "Novel Nunchaku"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Ragamuffin Raptor"
+     ],
+     [
+      1,
+      "Raph & Mikey, Troublemakers"
+     ],
+     [
+      1,
+      "Rocksteady, Crash Courser"
+     ],
+     [
+      1,
+      "Saved by the Shell"
+     ],
+     [
+      1,
+      "Slithering Cryptid"
+     ],
+     [
+      1,
+      "Tenderize"
+     ],
+     [
+      1,
+      "Transdimensional Bovine"
+     ],
+     [
+      1,
+      "Turtle Van"
+     ],
+     [
+      1,
+      "Uneasy Alliance"
+     ],
+     [
+      2,
+      "Zoo Escapees"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Action News Crew"
+     ],
+     [
+      1,
+      "Buzz Bots"
+     ],
+     [
+      1,
+      "Cowabunga!"
+     ],
+     [
+      1,
+      "Guac & Marshmallow Pizza"
+     ],
+     [
+      1,
+      "Karai's Technique"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Leonardo, Leader in Blue"
+     ],
+     [
+      1,
+      "Mutant Town"
+     ],
+     [
+      1,
+      "Pizza Face, Gastromancer"
+     ],
+     [
+      1,
+      "Putrid Pals"
+     ],
+     [
+      1,
+      "Retro-Mutation"
+     ],
+     [
+      1,
+      "Rock Soldiers"
+     ],
+     [
+      1,
+      "Skateboard"
+     ],
+     [
+      1,
+      "Splinter, Hamato Yoshi"
+     ],
+     [
+      3,
+      "Squirrelanoids"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 1436,
+   "wins": 841,
+   "winRate": 58.57,
+   "share": 0.8,
+   "drafts": 250,
+   "trophies": 26,
+   "cards": [
+    {
+     "name": "Sally Pride, Lioness Leader",
+     "inclusion": 16.4,
+     "winRate": 65.8,
+     "games": 257,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Agent Bishop, Man in Black",
+     "inclusion": 10.8,
+     "winRate": 63.4,
+     "games": 153,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Triceraton Commander",
+     "inclusion": 10.4,
+     "winRate": 63.1,
+     "games": 149,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "The Last Ronin's Technique",
+     "inclusion": 27.2,
+     "winRate": 62.3,
+     "games": 409,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Kitsune, Dragon's Daughter",
+     "inclusion": 15.2,
+     "winRate": 62.3,
+     "games": 220,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Action News Crew",
+     "inclusion": 45.2,
+     "winRate": 62.1,
+     "games": 673,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Turncoat Kunoichi",
+     "inclusion": 10.8,
+     "winRate": 62.0,
+     "games": 166,
+     "trophyInclusion": 3.8
+    },
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 16.4,
+     "winRate": 61.8,
+     "games": 249,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Koya, Death from Above",
+     "inclusion": 23.2,
+     "winRate": 61.6,
+     "games": 365,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Splinter, Radical Rat",
+     "inclusion": 12.0,
+     "winRate": 61.6,
+     "games": 172,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 40.4,
+     "winRate": 61.2,
+     "games": 583,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Quintessential Katana",
+     "inclusion": 29.6,
+     "winRate": 61.2,
+     "games": 436,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Donatello, Gadget Master",
+     "inclusion": 14.0,
+     "winRate": 61.2,
+     "games": 201,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 26.0,
+     "winRate": 61.1,
+     "games": 378,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Mind Transfer Protocol",
+     "inclusion": 47.2,
+     "winRate": 60.9,
+     "games": 714,
+     "trophyInclusion": 65.4
+    },
+    {
+     "name": "Krang, Master Mind",
+     "inclusion": 14.8,
+     "winRate": 60.6,
+     "games": 226,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 21.6,
+     "winRate": 60.5,
+     "games": 296,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Leonardo, Leader in Blue",
+     "inclusion": 32.0,
+     "winRate": 60.3,
+     "games": 453,
+     "trophyInclusion": 42.3
+    },
+    {
+     "name": "Fugitive Droid",
+     "inclusion": 28.8,
+     "winRate": 60.3,
+     "games": 395,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "EPF Point Squad",
+     "inclusion": 9.6,
+     "winRate": 60.3,
+     "games": 131,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Lita, Little Orphan Amphibian",
+     "inclusion": 30.4,
+     "winRate": 60.2,
+     "games": 460,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Mighty Mutanimals",
+     "inclusion": 48.0,
+     "winRate": 60.1,
+     "games": 684,
+     "trophyInclusion": 46.2
+    },
+    {
+     "name": "Leonardo, Big Brother",
+     "inclusion": 45.6,
+     "winRate": 60.0,
+     "games": 687,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "April O'Neil, Kunoichi Trainee",
+     "inclusion": 67.6,
+     "winRate": 59.8,
+     "games": 986,
+     "trophyInclusion": 80.8
+    },
+    {
+     "name": "Return to the Sewers",
+     "inclusion": 67.2,
+     "winRate": 59.7,
+     "games": 975,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Buzz Bots",
+     "inclusion": 76.4,
+     "winRate": 59.6,
+     "games": 1123,
+     "trophyInclusion": 80.8
+    },
+    {
+     "name": "Grounded for Life",
+     "inclusion": 50.0,
+     "winRate": 59.6,
+     "games": 745,
+     "trophyInclusion": 65.4
+    },
+    {
+     "name": "Featherbrained Filcher",
+     "inclusion": 12.4,
+     "winRate": 59.6,
+     "games": 166,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 31.6,
+     "winRate": 59.3,
+     "games": 462,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Leonardo, Cutting Edge",
+     "inclusion": 11.2,
+     "winRate": 59.3,
+     "games": 172,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 65.2,
+     "winRate": 59.1,
+     "games": 934,
+     "trophyInclusion": 76.9
+    },
+    {
+     "name": "Utrom Scientists",
+     "inclusion": 51.2,
+     "winRate": 59.1,
+     "games": 753,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Leader's Talent",
+     "inclusion": 10.0,
+     "winRate": 59.1,
+     "games": 149,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Jennika, Bad Apple Big Sister",
+     "inclusion": 36.8,
+     "winRate": 59.0,
+     "games": 547,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 24.8,
+     "winRate": 58.7,
+     "games": 361,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "Foot Ninjas",
+     "inclusion": 24.4,
+     "winRate": 58.7,
+     "games": 344,
+     "trophyInclusion": 19.2
+    },
+    {
+     "name": "High-Flying Ace",
+     "inclusion": 22.0,
+     "winRate": 58.7,
+     "games": 312,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Dimensional Exile",
+     "inclusion": 40.0,
+     "winRate": 58.5,
+     "games": 579,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Mondo Gecko",
+     "inclusion": 12.0,
+     "winRate": 58.3,
+     "games": 175,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Ray Fillet, Man Ray",
+     "inclusion": 29.2,
+     "winRate": 58.2,
+     "games": 404,
+     "trophyInclusion": 26.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-18",
+    "main": [
+     [
+      1,
+      "Action News Crew"
+     ],
+     [
+      1,
+      "April O'Neil, Hacktivist"
+     ],
+     [
+      2,
+      "April O'Neil, Kunoichi Trainee"
+     ],
+     [
+      1,
+      "April, Reporter of the Weird"
+     ],
+     [
+      2,
+      "Buzz Bots"
+     ],
+     [
+      1,
+      "Donatello, Gadget Master"
+     ],
+     [
+      1,
+      "Grounded for Life"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Leonardo, Leader in Blue"
+     ],
+     [
+      1,
+      "Make Your Move"
+     ],
+     [
+      2,
+      "Mind Transfer Protocol"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Quintessential Katana"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      2,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "Splinter, Radical Rat"
+     ],
+     [
+      1,
+      "Technodrome"
+     ],
+     [
+      1,
+      "Uneasy Alliance"
+     ],
+     [
+      2,
+      "Utrom Scientists"
+     ],
+     [
+      1,
+      "Weather Maker"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Crustacean Commando"
+     ],
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      1,
+      "EPF Point Squad"
+     ],
+     [
+      1,
+      "Foot Mystic"
+     ],
+     [
+      2,
+      "Hamato Guardian Stance"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Mouser Attack!"
+     ],
+     [
+      1,
+      "Mouser Mark III"
+     ],
+     [
+      2,
+      "Negate"
+     ],
+     [
+      2,
+      "Retro-Mutation"
+     ],
+     [
+      1,
+      "Zog, Triceraton Castaway"
+     ],
+     [
+      1,
+      "Zoo Escapees"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 1097,
+   "wins": 563,
+   "winRate": 51.32,
+   "share": 0.61,
+   "drafts": 209,
+   "trophies": 15,
+   "cards": [
+    {
+     "name": "Don & Leo, Problem Solvers",
+     "inclusion": 9.6,
+     "winRate": 57.5,
+     "games": 113,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Armaggon, Future Shark",
+     "inclusion": 11.0,
+     "winRate": 56.8,
+     "games": 132,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Super Shredder",
+     "inclusion": 12.9,
+     "winRate": 56.2,
+     "games": 153,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Dream Beavers",
+     "inclusion": 34.9,
+     "winRate": 55.6,
+     "games": 403,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Ooze Spill",
+     "inclusion": 33.5,
+     "winRate": 55.6,
+     "games": 394,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "April O'Neil, Hacktivist",
+     "inclusion": 18.2,
+     "winRate": 55.2,
+     "games": 203,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Ninja Teen",
+     "inclusion": 10.0,
+     "winRate": 55.2,
+     "games": 116,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Squirrelanoids",
+     "inclusion": 44.0,
+     "winRate": 55.1,
+     "games": 534,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Metalhead",
+     "inclusion": 37.3,
+     "winRate": 55.0,
+     "games": 416,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Turtle Blimp",
+     "inclusion": 22.0,
+     "winRate": 55.0,
+     "games": 249,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Nobody",
+     "inclusion": 30.1,
+     "winRate": 54.8,
+     "games": 361,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Oroku Saki, Shredder Rising",
+     "inclusion": 53.6,
+     "winRate": 54.6,
+     "games": 630,
+     "trophyInclusion": 80.0
+    },
+    {
+     "name": "Sewer-veillance Cam",
+     "inclusion": 64.6,
+     "winRate": 54.4,
+     "games": 747,
+     "trophyInclusion": 80.0
+    },
+    {
+     "name": "Fugitive Droid",
+     "inclusion": 31.6,
+     "winRate": 54.0,
+     "games": 365,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Does Machines",
+     "inclusion": 12.0,
+     "winRate": 53.6,
+     "games": 140,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Donatello, Mutant Mechanic",
+     "inclusion": 9.6,
+     "winRate": 53.3,
+     "games": 105,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Foot Ninjas",
+     "inclusion": 22.5,
+     "winRate": 53.2,
+     "games": 250,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Mouser Mark III",
+     "inclusion": 27.3,
+     "winRate": 53.0,
+     "games": 296,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 25.8,
+     "winRate": 53.0,
+     "games": 296,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Return to the Sewers",
+     "inclusion": 55.0,
+     "winRate": 52.8,
+     "games": 617,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Bespoke B?",
+     "inclusion": 35.4,
+     "winRate": 52.7,
+     "games": 408,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "TCRI Building",
+     "inclusion": 14.8,
+     "winRate": 52.7,
+     "games": 165,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Lord Dregg, Insect Invader",
+     "inclusion": 18.7,
+     "winRate": 52.3,
+     "games": 214,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Paramecia Coloniex",
+     "inclusion": 17.7,
+     "winRate": 52.2,
+     "games": 184,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Kitsune, Dragon's Daughter",
+     "inclusion": 13.9,
+     "winRate": 52.2,
+     "games": 157,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Utrom Scientists",
+     "inclusion": 45.0,
+     "winRate": 51.6,
+     "games": 500,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Krang, Master Mind",
+     "inclusion": 12.4,
+     "winRate": 51.6,
+     "games": 126,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Anchovy & Banana Pizza",
+     "inclusion": 73.7,
+     "winRate": 51.5,
+     "games": 829,
+     "trophyInclusion": 73.3
+    },
+    {
+     "name": "Buzz Bots",
+     "inclusion": 73.2,
+     "winRate": 51.5,
+     "games": 788,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Slithering Cryptid",
+     "inclusion": 21.5,
+     "winRate": 51.3,
+     "games": 230,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 28.2,
+     "winRate": 51.2,
+     "games": 297,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Shark Shredder, Killer Clone",
+     "inclusion": 13.4,
+     "winRate": 51.0,
+     "games": 147,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Rat King, Verminister",
+     "inclusion": 9.6,
+     "winRate": 51.0,
+     "games": 102,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Ray Fillet, Man Ray",
+     "inclusion": 34.4,
+     "winRate": 50.9,
+     "games": 383,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Tunnel Rats",
+     "inclusion": 30.6,
+     "winRate": 50.9,
+     "games": 330,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Death in the Family",
+     "inclusion": 32.5,
+     "winRate": 50.7,
+     "games": 363,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Stomped by the Foot",
+     "inclusion": 65.1,
+     "winRate": 50.6,
+     "games": 715,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Savanti Romero, Time's Exile",
+     "inclusion": 15.8,
+     "winRate": 50.6,
+     "games": 180,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "April, Reporter of the Weird",
+     "inclusion": 14.8,
+     "winRate": 50.6,
+     "games": 170,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Donatello, Turtle Techie",
+     "inclusion": 65.1,
+     "winRate": 50.5,
+     "games": 695,
+     "trophyInclusion": 66.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-20",
+    "main": [
+     [
+      1,
+      "Anchovy & Banana Pizza"
+     ],
+     [
+      1,
+      "Bespoke B?"
+     ],
+     [
+      1,
+      "Brilliance Unleashed"
+     ],
+     [
+      2,
+      "Buzz Bots"
+     ],
+     [
+      1,
+      "Donatello, Turtle Techie"
+     ],
+     [
+      1,
+      "Dream Beavers"
+     ],
+     [
+      1,
+      "Ice Cream Kitty"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Mind Transfer Protocol"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      2,
+      "Nobody"
+     ],
+     [
+      1,
+      "Omni-Cheese Pizza"
+     ],
+     [
+      1,
+      "Ooze Spill"
+     ],
+     [
+      2,
+      "Oroku Saki, Shredder Rising"
+     ],
+     [
+      1,
+      "Return to the Sewers"
+     ],
+     [
+      2,
+      "Sewer-veillance Cam"
+     ],
+     [
+      1,
+      "Squirrelanoids"
+     ],
+     [
+      3,
+      "Stomped by the Foot"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Weather Maker"
+     ]
+    ],
+    "side": [
+     [
+      3,
+      "Cowabunga!"
+     ],
+     [
+      1,
+      "Foot Elite"
+     ],
+     [
+      1,
+      "Foot Headquarters"
+     ],
+     [
+      1,
+      "Foot Mystic"
+     ],
+     [
+      1,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "High-Flying Ace"
+     ],
+     [
+      1,
+      "Insectoid Exterminator"
+     ],
+     [
+      1,
+      "Leonardo, Big Brother"
+     ],
+     [
+      1,
+      "Mutant Town Musicians"
+     ],
+     [
+      1,
+      "New Generation's Technique"
+     ],
+     [
+      1,
+      "Oroku Saki, Shredder Rising"
+     ],
+     [
+      1,
+      "Pain 101"
+     ],
+     [
+      2,
+      "Punk Frogs"
+     ],
+     [
+      1,
+      "Raphael's Technique"
+     ],
+     [
+      1,
+      "Tainted Treats"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 679,
+   "wins": 310,
+   "winRate": 45.66,
+   "share": 0.38,
+   "drafts": 140,
+   "trophies": 7,
+   "cards": [
+    {
+     "name": "Transdimensional Bovine",
+     "inclusion": 17.1,
+     "winRate": 53.1,
+     "games": 130,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Saved by the Shell",
+     "inclusion": 35.7,
+     "winRate": 51.4,
+     "games": 257,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 33.6,
+     "winRate": 51.4,
+     "games": 253,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Novel Nunchaku",
+     "inclusion": 32.1,
+     "winRate": 50.8,
+     "games": 240,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Ragamuffin Raptor",
+     "inclusion": 61.4,
+     "winRate": 49.0,
+     "games": 447,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Guac & Marshmallow Pizza",
+     "inclusion": 37.9,
+     "winRate": 48.9,
+     "games": 270,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Mouser Foundry",
+     "inclusion": 35.0,
+     "winRate": 48.7,
+     "games": 232,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "West Wind Avatar",
+     "inclusion": 39.3,
+     "winRate": 48.6,
+     "games": 286,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Raph & Mikey, Troublemakers",
+     "inclusion": 31.4,
+     "winRate": 48.4,
+     "games": 221,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Omni-Cheese Pizza",
+     "inclusion": 29.3,
+     "winRate": 47.8,
+     "games": 205,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Courier of Comestibles",
+     "inclusion": 37.9,
+     "winRate": 47.6,
+     "games": 271,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Raphael, Most Attitude",
+     "inclusion": 40.0,
+     "winRate": 47.5,
+     "games": 280,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Venus, Torn Between Worlds",
+     "inclusion": 17.9,
+     "winRate": 47.5,
+     "games": 122,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Frog Butler",
+     "inclusion": 60.0,
+     "winRate": 47.3,
+     "games": 414,
+     "trophyInclusion": 85.7
+    },
+    {
+     "name": "Spicy Oatmeal Pizza",
+     "inclusion": 47.9,
+     "winRate": 47.3,
+     "games": 330,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Primordial Pachyderm",
+     "inclusion": 62.1,
+     "winRate": 47.0,
+     "games": 436,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Leatherhead, Swamp Stalker",
+     "inclusion": 17.9,
+     "winRate": 46.6,
+     "games": 116,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Null Group Biological Assets",
+     "inclusion": 31.4,
+     "winRate": 46.4,
+     "games": 209,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Ice Cream Kitty",
+     "inclusion": 29.3,
+     "winRate": 46.4,
+     "games": 211,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Groundchuck & Dirtbag",
+     "inclusion": 16.4,
+     "winRate": 46.2,
+     "games": 117,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Tenderize",
+     "inclusion": 68.6,
+     "winRate": 45.8,
+     "games": 463,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Mutagen Man, Living Ooze",
+     "inclusion": 15.0,
+     "winRate": 45.5,
+     "games": 99,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Raphael, the Nightwatcher",
+     "inclusion": 21.4,
+     "winRate": 45.3,
+     "games": 139,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Slash, Reptile Rampager",
+     "inclusion": 17.1,
+     "winRate": 45.3,
+     "games": 117,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Mutant Chain Reaction",
+     "inclusion": 15.7,
+     "winRate": 45.2,
+     "games": 104,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Manhole Missile",
+     "inclusion": 76.4,
+     "winRate": 44.9,
+     "games": 506,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "Cowabunga!",
+     "inclusion": 25.7,
+     "winRate": 44.8,
+     "games": 172,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Mona Lisa, Science Geek",
+     "inclusion": 29.3,
+     "winRate": 44.7,
+     "games": 197,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Zoo Escapees",
+     "inclusion": 40.7,
+     "winRate": 44.6,
+     "games": 271,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Slithering Cryptid",
+     "inclusion": 31.4,
+     "winRate": 44.6,
+     "games": 202,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Wingnut, Bat on the Belfry",
+     "inclusion": 25.0,
+     "winRate": 44.6,
+     "games": 166,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Michelangelo, Game Master",
+     "inclusion": 67.1,
+     "winRate": 44.5,
+     "games": 438,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Michelangelo, Mutant BFF",
+     "inclusion": 39.3,
+     "winRate": 44.3,
+     "games": 264,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Casey Jones, Jury-Rig Justiciar",
+     "inclusion": 23.6,
+     "winRate": 44.3,
+     "games": 158,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Hard-Won Jitte",
+     "inclusion": 14.3,
+     "winRate": 43.8,
+     "games": 96,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Bot Bashing Time",
+     "inclusion": 55.7,
+     "winRate": 43.6,
+     "games": 360,
+     "trophyInclusion": 71.4
+    },
+    {
+     "name": "General Traag, Heart of Stone",
+     "inclusion": 24.3,
+     "winRate": 43.0,
+     "games": 149,
+     "trophyInclusion": 42.9
+    },
+    {
+     "name": "Old Hob, Alleycat Blues",
+     "inclusion": 17.9,
+     "winRate": 42.1,
+     "games": 114,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Rocksteady, Crash Courser",
+     "inclusion": 56.4,
+     "winRate": 41.8,
+     "games": 364,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 22.9,
+     "winRate": 41.5,
+     "games": 147,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-29",
+    "main": [
+     [
+      1,
+      "Bot Bashing Time"
+     ],
+     [
+      1,
+      "Cool but Rude"
+     ],
+     [
+      1,
+      "Cowabunga!"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      2,
+      "Frog Butler"
+     ],
+     [
+      1,
+      "General Traag, Heart of Stone"
+     ],
+     [
+      1,
+      "Guac & Marshmallow Pizza"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      1,
+      "Michelangelo, Game Master"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mouser Attack!"
+     ],
+     [
+      1,
+      "Mutant Chain Reaction"
+     ],
+     [
+      1,
+      "Primordial Pachyderm"
+     ],
+     [
+      1,
+      "Ragamuffin Raptor"
+     ],
+     [
+      1,
+      "Raph & Mikey, Troublemakers"
+     ],
+     [
+      2,
+      "Raphael, Most Attitude"
+     ],
+     [
+      1,
+      "Raphael, the Nightwatcher"
+     ],
+     [
+      2,
+      "Rocksteady, Crash Courser"
+     ],
+     [
+      1,
+      "Spicy Oatmeal Pizza"
+     ],
+     [
+      2,
+      "Turtle Lair"
+     ],
+     [
+      1,
+      "Zog, Triceraton Castaway"
+     ],
+     [
+      2,
+      "Zoo Escapees"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bot Bashing Time"
+     ],
+     [
+      1,
+      "Dimensional Exile"
+     ],
+     [
+      1,
+      "Donatello's Technique"
+     ],
+     [
+      1,
+      "General Traag, Heart of Stone"
+     ],
+     [
+      1,
+      "Hard-Won Jitte"
+     ],
+     [
+      1,
+      "Jennika's Technique"
+     ],
+     [
+      2,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Mutant Chain Reaction"
+     ],
+     [
+      2,
+      "Mutant Town Musicians"
+     ],
+     [
+      1,
+      "Negate"
+     ],
+     [
+      1,
+      "Null Group Biological Assets"
+     ],
+     [
+      1,
+      "Rocksteady, Crash Courser"
+     ],
+     [
+      1,
+      "Tainted Treats"
+     ],
+     [
+      1,
+      "Turtles Forever"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 465,
+   "wins": 219,
+   "winRate": 47.1,
+   "share": 0.26,
+   "drafts": 92,
+   "trophies": 2,
+   "cards": [
+    {
+     "name": "Null Group Biological Assets",
+     "inclusion": 43.5,
+     "winRate": 51.9,
+     "games": 216,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Shredder's Revenge",
+     "inclusion": 21.7,
+     "winRate": 51.5,
+     "games": 103,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Mechanized Ninja Cavalry",
+     "inclusion": 40.2,
+     "winRate": 50.8,
+     "games": 199,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Splinter, Hamato Yoshi",
+     "inclusion": 22.8,
+     "winRate": 50.5,
+     "games": 111,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Squirrelanoids",
+     "inclusion": 48.9,
+     "winRate": 49.4,
+     "games": 237,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Escape Tunnel",
+     "inclusion": 31.5,
+     "winRate": 49.3,
+     "games": 150,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Anchovy & Banana Pizza",
+     "inclusion": 66.3,
+     "winRate": 49.2,
+     "games": 327,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Casey Jones, Jury-Rig Justiciar",
+     "inclusion": 25.0,
+     "winRate": 49.1,
+     "games": 116,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Manhole Missile",
+     "inclusion": 73.9,
+     "winRate": 48.9,
+     "games": 356,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Spicy Oatmeal Pizza",
+     "inclusion": 43.5,
+     "winRate": 48.8,
+     "games": 203,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Shredder's Technique",
+     "inclusion": 30.4,
+     "winRate": 48.6,
+     "games": 148,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Stomped by the Foot",
+     "inclusion": 64.1,
+     "winRate": 48.5,
+     "games": 309,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Oroku Saki, Shredder Rising",
+     "inclusion": 57.6,
+     "winRate": 48.5,
+     "games": 272,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Nobody",
+     "inclusion": 33.7,
+     "winRate": 48.5,
+     "games": 167,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Dream Beavers",
+     "inclusion": 40.2,
+     "winRate": 48.2,
+     "games": 193,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Zog, Triceraton Castaway",
+     "inclusion": 38.0,
+     "winRate": 48.0,
+     "games": 171,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Foot Ninjas",
+     "inclusion": 30.4,
+     "winRate": 47.8,
+     "games": 136,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Death in the Family",
+     "inclusion": 37.0,
+     "winRate": 47.4,
+     "games": 173,
+     "trophyInclusion": 100.0
+    },
+    {
+     "name": "Tunnel Rats",
+     "inclusion": 26.1,
+     "winRate": 47.2,
+     "games": 127,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Raphael, Most Attitude",
+     "inclusion": 34.8,
+     "winRate": 46.8,
+     "games": 156,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "General Traag, Heart of Stone",
+     "inclusion": 37.0,
+     "winRate": 46.2,
+     "games": 169,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Wingnut, Bat on the Belfry",
+     "inclusion": 26.1,
+     "winRate": 45.5,
+     "games": 110,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Mouser Foundry",
+     "inclusion": 62.0,
+     "winRate": 45.1,
+     "games": 284,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Bot Bashing Time",
+     "inclusion": 53.3,
+     "winRate": 44.3,
+     "games": 235,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Old Hob, Alleycat Blues",
+     "inclusion": 38.0,
+     "winRate": 44.3,
+     "games": 176,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Bebop, Warthog Warrior",
+     "inclusion": 28.3,
+     "winRate": 44.0,
+     "games": 116,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Ice Cream Kitty",
+     "inclusion": 26.1,
+     "winRate": 44.0,
+     "games": 116,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Lord Dregg, Insect Invader",
+     "inclusion": 29.3,
+     "winRate": 43.3,
+     "games": 134,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Raphael, Tough Turtle",
+     "inclusion": 60.9,
+     "winRate": 42.3,
+     "games": 265,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Rock Soldiers",
+     "inclusion": 23.9,
+     "winRate": 42.0,
+     "games": 100,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Purple Dragon Punks",
+     "inclusion": 26.1,
+     "winRate": 41.1,
+     "games": 112,
+     "trophyInclusion": 0.0
+    },
+    {
+     "name": "Insectoid Exterminator",
+     "inclusion": 22.8,
+     "winRate": 38.5,
+     "games": 91,
+     "trophyInclusion": 0.0
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2026-03-07",
+    "main": [
+     [
+      2,
+      "Anchovy & Banana Pizza"
+     ],
+     [
+      1,
+      "Casey Jones, Jury-Rig Justiciar"
+     ],
+     [
+      2,
+      "Death in the Family"
+     ],
+     [
+      1,
+      "Dream Beavers"
+     ],
+     [
+      1,
+      "General Traag, Heart of Stone"
+     ],
+     [
+      1,
+      "Manhole Missile"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Null Group Biological Assets"
+     ],
+     [
+      1,
+      "Old Hob, Alleycat Blues"
+     ],
+     [
+      3,
+      "Oroku Saki, Shredder Rising"
+     ],
+     [
+      1,
+      "Paramecia Coloniex"
+     ],
+     [
+      1,
+      "Raphael, Most Attitude"
+     ],
+     [
+      1,
+      "Shark Shredder, Killer Clone"
+     ],
+     [
+      1,
+      "South Wind Avatar"
+     ],
+     [
+      2,
+      "Spicy Oatmeal Pizza"
+     ],
+     [
+      1,
+      "Squirrelanoids"
+     ],
+     [
+      2,
+      "Stomped by the Foot"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "Turtle Blimp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Bebop, Warthog Warrior"
+     ],
+     [
+      1,
+      "Casey Jones, Vigilante"
+     ],
+     [
+      1,
+      "Death in the Family"
+     ],
+     [
+      1,
+      "Don & Raph, Hard Science"
+     ],
+     [
+      1,
+      "EPF Point Squad"
+     ],
+     [
+      2,
+      "Foot Elite"
+     ],
+     [
+      1,
+      "Foot Headquarters"
+     ],
+     [
+      1,
+      "Foot Mystic"
+     ],
+     [
+      1,
+      "Insectoid Exterminator"
+     ],
+     [
+      1,
+      "Leonardo's Technique"
+     ],
+     [
+      1,
+      "Mouser Mark III"
+     ],
+     [
+      1,
+      "Pain 101"
+     ],
+     [
+      1,
+      "Purple Dragon Punks"
+     ],
+     [
+      1,
+      "Putrid Pals"
+     ],
+     [
+      1,
+      "Splinter's Technique"
+     ],
+     [
+      2,
+      "Zog, Triceraton Castaway"
+     ]
+    ]
+   }
+  }
+ ]
+}

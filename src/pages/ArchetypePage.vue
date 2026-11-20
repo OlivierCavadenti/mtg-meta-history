@@ -6,7 +6,7 @@ import { buildLineages, cardTracks, coreCards } from '../lib/lineage'
 import { predecessorsOf, successorOf } from '../data/lineageLinks'
 import { cardImage, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
-import { formatNumber, seasonEndYear, seasonYears, t } from '../lib/i18n'
+import { formatNumber, seasonEndYear, seasonShort, seasonYears, t } from '../lib/i18n'
 import ColorPips from '../components/ColorPips.vue'
 import ManaCost from '../components/ManaCost.vue'
 import SoonState from '../components/SoonState.vue'
@@ -67,6 +67,8 @@ function imgFor(name: string, version: 'normal' | 'large' = 'normal'): string {
 }
 
 const shortYear = (start: string, end?: string) => seasonYears(start, end)
+/** Limited: a color combination across sets; each set has its own cards, so no core or evolution table */
+const limited = computed(() => formatId.value === 'limited')
 
 watchEffect(() => {
   if (lineage.value) document.title = `${lineage.value.name} · ${span.value} · MTG Meta History`
@@ -86,8 +88,13 @@ watchEffect(() => {
     <header class="head">
       <h1>{{ lineage.name }} <ColorPips :colors="latest.deck.colors" :size="16" /></h1>
       <p class="meta">
-        {{ entries.length }} {{ entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}, {{ span }}.
-        {{ lineage.top8 }} {{ t('top8') }}, {{ lineage.wins }} {{ lineage.wins > 1 ? t('wins') : t('win') }}.
+        <template v-if="limited">
+          {{ entries.length }} {{ t('setsPlural') }}, {{ span }}. {{ formatNumber(lineage.games) }} {{ t('gamesWord') }} (17Lands).
+        </template>
+        <template v-else>
+          {{ entries.length }} {{ entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}, {{ span }}.
+          {{ lineage.top8 }} {{ t('top8') }}, {{ lineage.wins }} {{ lineage.wins > 1 ? t('wins') : t('win') }}.
+        </template>
       </p>
       <p v-if="successor || predecessors.length" class="links">
         <router-link v-for="p in predecessors" :key="p!.slug" :to="`/${formatId}/archetype/${p!.slug}`">← {{ t('cameFrom') }} {{ p!.name }}</router-link>
@@ -104,7 +111,7 @@ watchEffect(() => {
         :to="`/${formatId}/deck/${e.deck.id}`"
         class="step"
       >
-        <span class="step-year">{{ shortYear(e.season.start, e.season.end) }}</span>
+        <span class="step-year">{{ e.season.code ? seasonShort(e.season) : shortYear(e.season.start, e.season.end) }}</span>
         <span class="step-art">
           <img v-fade :src="cardImage(cards[e.deck.cover], e.deck.cover, 'art_crop', e.season.id)" :alt="e.deck.cover" loading="lazy" />
         </span>
@@ -112,15 +119,21 @@ watchEffect(() => {
           <span class="step-fill" :style="{ height: (e.deck.stats.share / maxShare) * 100 + '%' }"></span>
         </span>
         <span class="step-stats">
-          {{ formatNumber(e.deck.stats.share) }} %<br />
-          <span class="step-sub">{{ e.deck.stats.top8 }} {{ t('top8') }}</span>
+          <template v-if="e.deck.limited">
+            {{ formatNumber(e.deck.limited.winRate) }} %<br />
+            <span class="step-sub">{{ formatNumber(e.deck.stats.share) }} % {{ t('ofGames') }}</span>
+          </template>
+          <template v-else>
+            {{ formatNumber(e.deck.stats.share) }} %<br />
+            <span class="step-sub">{{ e.deck.stats.top8 }} {{ t('top8') }}</span>
+          </template>
         </span>
         <span v-if="e.deck.name !== lineage.name" class="step-name">{{ e.deck.name }}</span>
       </router-link>
     </section>
-    <p class="caption">{{ t('timelineCaption') }}</p>
+    <p class="caption">{{ limited ? t('timelineCaptionLimited') : t('timelineCaption') }}</p>
 
-    <section v-if="core.length" class="core">
+    <section v-if="core.length && !limited" class="core">
       <h2>{{ t('core') }}</h2>
       <p class="caption">{{ t('coreCaption') }}</p>
       <div class="core-grid">
@@ -139,7 +152,7 @@ watchEffect(() => {
       </div>
     </section>
 
-    <section class="evolution">
+    <section v-if="!limited" class="evolution">
       <h2>{{ t('evolution') }}</h2>
       <p class="caption">{{ t('evolutionCaption') }}</p>
       <div class="table-wrap">

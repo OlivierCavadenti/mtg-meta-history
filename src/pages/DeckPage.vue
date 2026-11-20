@@ -4,7 +4,7 @@ import { useRoute } from 'vue-router'
 import { findDeck } from '../data/load'
 import { buildLineages, slugOf } from '../lib/lineage'
 import { useFormat } from '../lib/useFormat'
-import { archetypeLabel, formatDate, formatMonth, formatNumber, locale, seasonYears, t, tx } from '../lib/i18n'
+import { archetypeLabel, formatDate, formatMonth, formatNumber, locale, seasonTitle, t, tx } from '../lib/i18n'
 import { cardImage, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import ColorPips from '../components/ColorPips.vue'
@@ -22,7 +22,7 @@ const why = computed(() => deck.value?.why[locale.value] ?? [])
 /** the same archetype in other seasons (link to its history page) */
 const lineage = computed(() => (data.value && deck.value ? buildLineages(data.value).get(slugOf(deck.value)) : undefined))
 
-const years = computed(() => (season.value ? seasonYears(season.value.start, season.value.end) : ''))
+const years = computed(() => (season.value ? seasonTitle(season.value) : ''))
 
 const siblings = computed(() => {
   if (!season.value || !deck.value) return { prev: undefined, next: undefined }
@@ -48,27 +48,39 @@ watchEffect(() => {
   <article v-else :key="deck.id" class="deck">
     <nav class="crumbs">
       <router-link :to="`/${formatId}`">{{ format?.label }}</router-link>,
-      <router-link :to="`/${formatId}#s-${season.id}`">{{ years }}, {{ season.set }}</router-link>
+      <router-link :to="`/${formatId}#s-${season.id}`">{{ season.code ? season.set : `${years}, ${season.set}` }}</router-link>
     </nav>
 
     <header class="hero">
       <div class="hero-text">
         <p v-if="deck.tier === 1" class="kicker">{{ t('deckToBeat') }}</p>
         <h1>{{ deck.name }}</h1>
-        <p class="byline">
+        <p v-if="deck.limited" class="byline">
+          <ColorPips :colors="deck.colors" :size="15" />
+          {{ archetypeLabel(deck.archetype) }}. {{ t('trophyDeck') }} ({{ deck.list.rank.replace('-', '–') }}),
+          {{ t('premierDraft') }}, {{ formatDate(deck.list.date) }}.
+        </p>
+        <p v-else class="byline">
           <ColorPips :colors="deck.colors" :size="15" />
           {{ archetypeLabel(deck.archetype) }}. {{ deck.list.player }}, {{ rankLabel }},
           <a :href="deck.list.url" target="_blank" rel="noopener noreferrer">{{ deck.list.event }}</a>,
           {{ formatDate(deck.list.date) }}.
         </p>
         <p class="summary">{{ tx(deck.summary) }}</p>
-        <p class="record">
+        <p v-if="deck.limited" class="record">
+          {{ formatNumber(deck.limited.winRate) }} % {{ t('winRate') }} ({{ t('setAverage') }} {{ formatNumber(deck.limited.setWinRate) }} %),
+          {{ formatNumber(deck.stats.share) }} % {{ t('ofGames') }}, {{ deck.limited.trophies.toLocaleString(locale === 'fr' ? 'fr-FR' : 'en-US') }} {{ t('trophyDecks') }}.
+          <a :href="deck.list.url" target="_blank" rel="noopener noreferrer">17Lands</a>,
+          {{ deck.limited.games.toLocaleString(locale === 'fr' ? 'fr-FR' : 'en-US') }} {{ t('gamesWord') }}
+          ({{ formatMonth(deck.first) }} – {{ formatMonth(deck.last) }})
+        </p>
+        <p v-else class="record">
           {{ deck.stats.top8 }} {{ t('top8') }}, {{ deck.stats.wins }} {{ deck.stats.wins > 1 ? t('wins') : t('win') }},
           {{ formatNumber(deck.stats.share) }} % {{ t('share') }} ({{ formatMonth(deck.first) }} – {{ formatMonth(deck.last) }})
         </p>
         <p v-if="lineage && lineage.entries.length > 1" class="history-link">
           <router-link :to="`/${formatId}/archetype/${lineage.slug}`">
-            {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ t('seasonsPlural') }}) →
+            {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ deck.limited ? t('setsPlural') : t('seasonsPlural') }}) →
           </router-link>
         </p>
       </div>
@@ -109,7 +121,7 @@ watchEffect(() => {
       </div>
     </section>
 
-    <DeckList :list="deck.list" :cards="cards" :season="deck.season" />
+    <DeckList :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
 
     <nav class="siblings">
       <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">

@@ -116,3 +116,28 @@ Competitive-level events are added for years where Professional and Major covera
 - Never invent results or statistics. Numbers on the site come from the scraped data.
 - Decklists come from public mtgtop8 tournament pages only.
 - Bans: official Banned & Restricted announcements (MTG Wiki timeline as index).
+
+## Limited
+
+Limited has its own pipeline (`scripts/pipeline/limited/`), fed by 17Lands' public game data
+(Premier Draft on MTG Arena, CC BY 4.0, https://www.17lands.com/public_datasets), never by the
+17Lands API or its deck pages (their usage guidelines and robots.txt). Sets: from Kaldheim (2021),
+the first set with a public game dump, in `scripts/pipeline/seasons.limited.json`.
+
+```bash
+python3 scripts/pipeline/limited/seventeen.py khm stx      # dump → data-src/limited/stats/{set}.json
+python3 scripts/pipeline/limited/build_limited.py --check  # stats + editorial: report only
+python3 scripts/pipeline/limited/build_limited.py          # → src/data/limited/
+```
+
+- A season is a set; a deck is a color combination (main colors, splashes folded in): the ten
+  pairs, plus any other combination with 3%+ of games. Its list is a real 7-win deck from the
+  dump (the most typical one). Its slug is the guild / shard / wedge name, so the Archetypes
+  view follows a color pair across sets.
+- Stats: game win rate, share of games, 7-win runs; the site cites 17Lands at the top of the page.
+  The sample is 17Lands users, stronger than average: rates compare within a set.
+- Editorial (`data-src/limited/editorial/{set}.json`): `colors`, `name` (guild + the set's theme
+  for the pair, from its signpost uncommons), `archetype`, `summary`, `why`, `keyCards`, `cover`
+  (in the 7-win deck). Same writing rules; never write a percentage (the site prints them).
+- 17Lands asks third-party sites to wait 12 days after a set's Arena release before showing its
+  data; the public dumps come out later than that.

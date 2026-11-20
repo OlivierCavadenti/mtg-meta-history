@@ -1,0 +1,4564 @@
+{
+ "set": "dft",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.DFT.PremierDraft.csv.gz",
+ "lastModified": "Sun, 23 Mar 2025 16:16:14 GMT",
+ "colorsDerived": false,
+ "first": "2025-02-11",
+ "last": "2025-03-18",
+ "games": 857667,
+ "drafts": 147058,
+ "winRate": 54.91,
+ "combos": [
+  {
+   "colors": "BG",
+   "games": 135603,
+   "wins": 76634,
+   "winRate": 56.51,
+   "share": 15.81,
+   "drafts": 22725,
+   "trophies": 3242,
+   "cards": [
+    {
+     "name": "Agonasaur Rex",
+     "inclusion": 10.3,
+     "winRate": 59.9,
+     "games": 14539,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Lumbering Worldwagon",
+     "inclusion": 10.0,
+     "winRate": 59.5,
+     "games": 14147,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Thundering Broodwagon",
+     "inclusion": 47.3,
+     "winRate": 58.6,
+     "games": 65921,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Debris Beetle",
+     "inclusion": 18.3,
+     "winRate": 58.6,
+     "games": 25594,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Back on Track",
+     "inclusion": 31.6,
+     "winRate": 58.0,
+     "games": 43703,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Autarch Mammoth",
+     "inclusion": 25.0,
+     "winRate": 58.0,
+     "games": 34421,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Cursecloth Wrappings",
+     "inclusion": 12.9,
+     "winRate": 57.8,
+     "games": 17799,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Molt Tender",
+     "inclusion": 28.5,
+     "winRate": 57.7,
+     "games": 39237,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Terrian, World Tyrant",
+     "inclusion": 22.9,
+     "winRate": 57.7,
+     "games": 31571,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Aatchik, Emerald Radian",
+     "inclusion": 20.4,
+     "winRate": 57.6,
+     "games": 28088,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Migrating Ketradon",
+     "inclusion": 54.6,
+     "winRate": 57.5,
+     "games": 75030,
+     "trophyInclusion": 59.4
+    },
+    {
+     "name": "Webstrike Elite",
+     "inclusion": 10.7,
+     "winRate": 57.5,
+     "games": 14630,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Pothole Mole",
+     "inclusion": 59.6,
+     "winRate": 57.4,
+     "games": 81919,
+     "trophyInclusion": 65.1
+    },
+    {
+     "name": "Dredger's Insight",
+     "inclusion": 31.0,
+     "winRate": 57.3,
+     "games": 42442,
+     "trophyInclusion": 33.1
+    },
+    {
+     "name": "Quag Feast",
+     "inclusion": 12.9,
+     "winRate": 57.3,
+     "games": 17612,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Gonti, Night Minister",
+     "inclusion": 10.9,
+     "winRate": 57.3,
+     "games": 15031,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Stampeding Scurryfoot",
+     "inclusion": 50.2,
+     "winRate": 57.2,
+     "games": 68619,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 28.6,
+     "winRate": 57.2,
+     "games": 39245,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Greenbelt Guardian",
+     "inclusion": 23.5,
+     "winRate": 57.2,
+     "games": 32299,
+     "trophyInclusion": 24.3
+    },
+    {
+     "name": "Grim Bauble",
+     "inclusion": 49.1,
+     "winRate": 57.1,
+     "games": 67234,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Jungle Hollow",
+     "inclusion": 43.4,
+     "winRate": 57.1,
+     "games": 59199,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Fang-Druid Summoner",
+     "inclusion": 21.0,
+     "winRate": 57.1,
+     "games": 28616,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Regal Imperiosaur",
+     "inclusion": 10.9,
+     "winRate": 57.1,
+     "games": 14832,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Engine Rat",
+     "inclusion": 49.9,
+     "winRate": 57.0,
+     "games": 68043,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Hazard of the Dunes",
+     "inclusion": 49.1,
+     "winRate": 57.0,
+     "games": 66998,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Wild Roads",
+     "inclusion": 13.9,
+     "winRate": 57.0,
+     "games": 19028,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Afterburner Expert",
+     "inclusion": 8.1,
+     "winRate": 57.0,
+     "games": 11026,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 7.4,
+     "winRate": 57.0,
+     "games": 10118,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Spin Out",
+     "inclusion": 50.5,
+     "winRate": 56.9,
+     "games": 68893,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Run Over",
+     "inclusion": 50.4,
+     "winRate": 56.9,
+     "games": 68762,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Broodheart Engine",
+     "inclusion": 43.7,
+     "winRate": 56.9,
+     "games": 59593,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Carrion Cruiser",
+     "inclusion": 25.0,
+     "winRate": 56.9,
+     "games": 34095,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Foul Roads",
+     "inclusion": 14.4,
+     "winRate": 56.9,
+     "games": 19558,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Wreckage Wickerfolk",
+     "inclusion": 50.3,
+     "winRate": 56.8,
+     "games": 68683,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Beastrider Vanguard",
+     "inclusion": 48.7,
+     "winRate": 56.8,
+     "games": 66465,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "District Mascot",
+     "inclusion": 9.0,
+     "winRate": 56.8,
+     "games": 12329,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Fang Guardian",
+     "inclusion": 21.5,
+     "winRate": 56.7,
+     "games": 29257,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Shefet Archfiend",
+     "inclusion": 18.1,
+     "winRate": 56.7,
+     "games": 24478,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Wastewood Verge",
+     "inclusion": 11.9,
+     "winRate": 56.6,
+     "games": 16115,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Venomsac Lagac",
+     "inclusion": 46.7,
+     "winRate": 56.5,
+     "games": 63510,
+     "trophyInclusion": 46.3
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-03-07",
+    "main": [
+     [
+      1,
+      "Aatchik, Emerald Radian"
+     ],
+     [
+      1,
+      "Back on Track"
+     ],
+     [
+      1,
+      "Beastrider Vanguard"
+     ],
+     [
+      1,
+      "Dredger's Insight"
+     ],
+     [
+      1,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Fang-Druid Summoner"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Hazard of the Dunes"
+     ],
+     [
+      1,
+      "Jibbirik Omnivore"
+     ],
+     [
+      1,
+      "Jungle Hollow"
+     ],
+     [
+      1,
+      "Marketback Walker"
+     ],
+     [
+      2,
+      "Migrating Ketradon"
+     ],
+     [
+      1,
+      "Molt Tender"
+     ],
+     [
+      1,
+      "Pothole Mole"
+     ],
+     [
+      2,
+      "Run Over"
+     ],
+     [
+      1,
+      "Spin Out"
+     ],
+     [
+      1,
+      "Stampeding Scurryfoot"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syphon Fuel"
+     ],
+     [
+      2,
+      "Thundering Broodwagon"
+     ],
+     [
+      1,
+      "Veloheart Bike"
+     ],
+     [
+      1,
+      "Venomsac Lagac"
+     ],
+     [
+      1,
+      "Wild Roads"
+     ],
+     [
+      1,
+      "Wreckage Wickerfolk"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Adrenaline Jockey"
+     ],
+     [
+      1,
+      "Alacrian Jaguar"
+     ],
+     [
+      1,
+      "Avishkar Raceway"
+     ],
+     [
+      1,
+      "Bestow Greatness"
+     ],
+     [
+      1,
+      "Brightfield Mustang"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Burner Rocket"
+     ],
+     [
+      1,
+      "Camera Launcher"
+     ],
+     [
+      1,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Fang Guardian"
+     ],
+     [
+      1,
+      "Glitch Ghost Surveyor"
+     ],
+     [
+      1,
+      "Hulldrifter"
+     ],
+     [
+      1,
+      "Pedal to the Metal"
+     ],
+     [
+      1,
+      "Repurposing Bay"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 110494,
+   "wins": 62569,
+   "winRate": 56.63,
+   "share": 12.88,
+   "drafts": 18555,
+   "trophies": 2692,
+   "cards": [
+    {
+     "name": "Sab-Sunen, Luxa Embodied",
+     "inclusion": 8.9,
+     "winRate": 62.1,
+     "games": 10543,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Mu Yanling, Wind Rider",
+     "inclusion": 5.5,
+     "winRate": 60.8,
+     "games": 6377,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Lumbering Worldwagon",
+     "inclusion": 9.8,
+     "winRate": 60.5,
+     "games": 11454,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "March of the World Ooze",
+     "inclusion": 5.0,
+     "winRate": 59.7,
+     "games": 5811,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Agonasaur Rex",
+     "inclusion": 10.6,
+     "winRate": 58.8,
+     "games": 12126,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Loot, the Pathfinder",
+     "inclusion": 5.9,
+     "winRate": 58.7,
+     "games": 6789,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Spikeshell Harrier",
+     "inclusion": 27.8,
+     "winRate": 58.6,
+     "games": 31747,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Rangers' Refueler",
+     "inclusion": 32.1,
+     "winRate": 58.3,
+     "games": 36287,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Sita Varma, Masked Racer",
+     "inclusion": 21.7,
+     "winRate": 58.3,
+     "games": 24575,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Afterburner Expert",
+     "inclusion": 11.1,
+     "winRate": 58.2,
+     "games": 12615,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 29.6,
+     "winRate": 58.1,
+     "games": 33393,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Mindspring Merfolk",
+     "inclusion": 13.9,
+     "winRate": 58.1,
+     "games": 15643,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Possession Engine",
+     "inclusion": 11.5,
+     "winRate": 58.1,
+     "games": 13073,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Skyserpent Seeker",
+     "inclusion": 47.4,
+     "winRate": 57.9,
+     "games": 53259,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "District Mascot",
+     "inclusion": 8.6,
+     "winRate": 57.9,
+     "games": 9692,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Riverchurn Monument",
+     "inclusion": 10.7,
+     "winRate": 57.8,
+     "games": 11997,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Webstrike Elite",
+     "inclusion": 10.3,
+     "winRate": 57.8,
+     "games": 11505,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Autarch Mammoth",
+     "inclusion": 24.9,
+     "winRate": 57.7,
+     "games": 28014,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Migrating Ketradon",
+     "inclusion": 54.5,
+     "winRate": 57.6,
+     "games": 61081,
+     "trophyInclusion": 59.3
+    },
+    {
+     "name": "Stampeding Scurryfoot",
+     "inclusion": 56.9,
+     "winRate": 57.5,
+     "games": 63585,
+     "trophyInclusion": 62.4
+    },
+    {
+     "name": "Molt Tender",
+     "inclusion": 21.4,
+     "winRate": 57.5,
+     "games": 23841,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Transit Mage",
+     "inclusion": 17.1,
+     "winRate": 57.4,
+     "games": 19134,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Greenbelt Guardian",
+     "inclusion": 25.9,
+     "winRate": 57.3,
+     "games": 28814,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Terrian, World Tyrant",
+     "inclusion": 21.4,
+     "winRate": 57.3,
+     "games": 23992,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Thornwood Falls",
+     "inclusion": 43.4,
+     "winRate": 57.2,
+     "games": 48159,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Fang-Druid Summoner",
+     "inclusion": 19.1,
+     "winRate": 57.2,
+     "games": 21263,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Wild Roads",
+     "inclusion": 12.7,
+     "winRate": 57.2,
+     "games": 14168,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Pothole Mole",
+     "inclusion": 41.9,
+     "winRate": 57.1,
+     "games": 46648,
+     "trophyInclusion": 43.6
+    },
+    {
+     "name": "Roadside Blowout",
+     "inclusion": 25.7,
+     "winRate": 57.1,
+     "games": 28601,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Fang Guardian",
+     "inclusion": 22.3,
+     "winRate": 57.1,
+     "games": 24839,
+     "trophyInclusion": 23.3
+    },
+    {
+     "name": "Run Over",
+     "inclusion": 51.5,
+     "winRate": 57.0,
+     "games": 57333,
+     "trophyInclusion": 53.2
+    },
+    {
+     "name": "Spectral Interference",
+     "inclusion": 41.8,
+     "winRate": 57.0,
+     "games": 46483,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Flood the Engine",
+     "inclusion": 55.0,
+     "winRate": 56.9,
+     "games": 61035,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Bounce Off",
+     "inclusion": 47.3,
+     "winRate": 56.9,
+     "games": 52373,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Hazard of the Dunes",
+     "inclusion": 52.3,
+     "winRate": 56.8,
+     "games": 58145,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Defend the Rider",
+     "inclusion": 18.2,
+     "winRate": 56.8,
+     "games": 20066,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Skystreak Engineer",
+     "inclusion": 56.0,
+     "winRate": 56.7,
+     "games": 62234,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Beastrider Vanguard",
+     "inclusion": 48.7,
+     "winRate": 56.7,
+     "games": 53869,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Venomsac Lagac",
+     "inclusion": 44.7,
+     "winRate": 56.6,
+     "games": 49427,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 31.0,
+     "winRate": 56.6,
+     "games": 34277,
+     "trophyInclusion": 31.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-02-13",
+    "main": [
+     [
+      2,
+      "Beastrider Vanguard"
+     ],
+     [
+      1,
+      "Bounce Off"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Earthrumbler"
+     ],
+     [
+      1,
+      "Elvish Refueler"
+     ],
+     [
+      1,
+      "Flood the Engine"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Greenbelt Guardian"
+     ],
+     [
+      1,
+      "Hazard of the Dunes"
+     ],
+     [
+      1,
+      "Hulldrifter"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Lumbering Worldwagon"
+     ],
+     [
+      1,
+      "Migrating Ketradon"
+     ],
+     [
+      1,
+      "Rangers' Aetherhive"
+     ],
+     [
+      1,
+      "Roadside Blowout"
+     ],
+     [
+      1,
+      "Run Over"
+     ],
+     [
+      1,
+      "Sita Varma, Masked Racer"
+     ],
+     [
+      1,
+      "Skyserpent Seeker"
+     ],
+     [
+      1,
+      "Skystreak Engineer"
+     ],
+     [
+      1,
+      "Stampeding Scurryfoot"
+     ],
+     [
+      1,
+      "Thornwood Falls"
+     ],
+     [
+      1,
+      "Transit Mage"
+     ],
+     [
+      1,
+      "Trip Up"
+     ],
+     [
+      1,
+      "Venomsac Lagac"
+     ],
+     [
+      1,
+      "Webstrike Elite"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Brightfield Glider"
+     ],
+     [
+      1,
+      "Broodheart Engine"
+     ],
+     [
+      1,
+      "Jibbirik Omnivore"
+     ],
+     [
+      1,
+      "Loxodon Surveyor"
+     ],
+     [
+      1,
+      "Marshals' Pathcruiser"
+     ],
+     [
+      1,
+      "Mutant Surveyor"
+     ],
+     [
+      1,
+      "Nimble Thopterist"
+     ],
+     [
+      1,
+      "Risky Shortcut"
+     ],
+     [
+      1,
+      "Scrap Compactor"
+     ],
+     [
+      1,
+      "Skystreak Engineer"
+     ],
+     [
+      1,
+      "Spotcycle Scouter"
+     ],
+     [
+      1,
+      "Terrian, World Tyrant"
+     ],
+     [
+      1,
+      "Ticket Tortoise"
+     ],
+     [
+      1,
+      "Transit Mage"
+     ],
+     [
+      1,
+      "Tyrox, Saurid Tyrant"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 90030,
+   "wins": 49136,
+   "winRate": 54.58,
+   "share": 10.5,
+   "drafts": 15471,
+   "trophies": 1840,
+   "cards": [
+    {
+     "name": "Mu Yanling, Wind Rider",
+     "inclusion": 5.9,
+     "winRate": 58.8,
+     "games": 5588,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Possession Engine",
+     "inclusion": 13.3,
+     "winRate": 57.0,
+     "games": 12392,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Mindspring Merfolk",
+     "inclusion": 11.8,
+     "winRate": 56.7,
+     "games": 10905,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 6.5,
+     "winRate": 56.7,
+     "games": 6043,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Spikeshell Harrier",
+     "inclusion": 31.0,
+     "winRate": 56.6,
+     "games": 28675,
+     "trophyInclusion": 37.4
+    },
+    {
+     "name": "Transit Mage",
+     "inclusion": 31.2,
+     "winRate": 56.4,
+     "games": 28808,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 29.0,
+     "winRate": 56.4,
+     "games": 26712,
+     "trophyInclusion": 34.7
+    },
+    {
+     "name": "The Speed Demon",
+     "inclusion": 5.5,
+     "winRate": 56.2,
+     "games": 5071,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Rangers' Refueler",
+     "inclusion": 23.9,
+     "winRate": 56.1,
+     "games": 22002,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Riverchurn Monument",
+     "inclusion": 12.1,
+     "winRate": 56.1,
+     "games": 11199,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Oildeep Gearhulk",
+     "inclusion": 11.8,
+     "winRate": 56.1,
+     "games": 10837,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Haunt the Network",
+     "inclusion": 52.0,
+     "winRate": 56.0,
+     "games": 47892,
+     "trophyInclusion": 59.8
+    },
+    {
+     "name": "Marketback Walker",
+     "inclusion": 5.5,
+     "winRate": 56.0,
+     "games": 5016,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "Demonic Junker",
+     "inclusion": 12.8,
+     "winRate": 55.7,
+     "games": 11847,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Cursecloth Wrappings",
+     "inclusion": 11.1,
+     "winRate": 55.6,
+     "games": 10162,
+     "trophyInclusion": 12.0
+    },
+    {
+     "name": "Pactdoll Terror",
+     "inclusion": 67.3,
+     "winRate": 55.5,
+     "games": 61437,
+     "trophyInclusion": 73.4
+    },
+    {
+     "name": "Roadside Blowout",
+     "inclusion": 25.1,
+     "winRate": 55.5,
+     "games": 22860,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Thopter Fabricator",
+     "inclusion": 10.9,
+     "winRate": 55.5,
+     "games": 9970,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Wreckage Wickerfolk",
+     "inclusion": 62.0,
+     "winRate": 55.4,
+     "games": 56544,
+     "trophyInclusion": 66.7
+    },
+    {
+     "name": "Engine Rat",
+     "inclusion": 46.0,
+     "winRate": 55.4,
+     "games": 41728,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Grim Bauble",
+     "inclusion": 59.5,
+     "winRate": 55.2,
+     "games": 53954,
+     "trophyInclusion": 63.2
+    },
+    {
+     "name": "Carrion Cruiser",
+     "inclusion": 19.7,
+     "winRate": 55.2,
+     "games": 17881,
+     "trophyInclusion": 20.9
+    },
+    {
+     "name": "Flood the Engine",
+     "inclusion": 49.1,
+     "winRate": 55.1,
+     "games": 44536,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Dismal Backwater",
+     "inclusion": 44.7,
+     "winRate": 55.1,
+     "games": 40401,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 29.0,
+     "winRate": 55.0,
+     "games": 26405,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Memory Guardian",
+     "inclusion": 28.3,
+     "winRate": 55.0,
+     "games": 25803,
+     "trophyInclusion": 29.7
+    },
+    {
+     "name": "Aether Syphon",
+     "inclusion": 25.8,
+     "winRate": 55.0,
+     "games": 23328,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Spin Out",
+     "inclusion": 51.7,
+     "winRate": 54.9,
+     "games": 46765,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Nimble Thopterist",
+     "inclusion": 48.2,
+     "winRate": 54.9,
+     "games": 43522,
+     "trophyInclusion": 49.4
+    },
+    {
+     "name": "Ticket Tortoise",
+     "inclusion": 18.0,
+     "winRate": 54.9,
+     "games": 16300,
+     "trophyInclusion": 19.6
+    },
+    {
+     "name": "Reef Roads",
+     "inclusion": 12.7,
+     "winRate": 54.9,
+     "games": 11394,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Guidelight Optimizer",
+     "inclusion": 52.1,
+     "winRate": 54.8,
+     "games": 47021,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Foul Roads",
+     "inclusion": 12.2,
+     "winRate": 54.8,
+     "games": 10979,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Quag Feast",
+     "inclusion": 10.8,
+     "winRate": 54.8,
+     "games": 9805,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Guidelight Matrix",
+     "inclusion": 7.5,
+     "winRate": 54.8,
+     "games": 6732,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Diversion Unit",
+     "inclusion": 26.5,
+     "winRate": 54.7,
+     "games": 23907,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Gonti, Night Minister",
+     "inclusion": 11.8,
+     "winRate": 54.7,
+     "games": 10694,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Hulldrifter",
+     "inclusion": 42.8,
+     "winRate": 54.6,
+     "games": 38463,
+     "trophyInclusion": 42.2
+    },
+    {
+     "name": "Winter, Cursed Rider",
+     "inclusion": 20.5,
+     "winRate": 54.6,
+     "games": 18483,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Gas Guzzler",
+     "inclusion": 6.8,
+     "winRate": 54.6,
+     "games": 6160,
+     "trophyInclusion": 6.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-03-06",
+    "main": [
+     [
+      1,
+      "Aether Syphon"
+     ],
+     [
+      1,
+      "Bounce Off"
+     ],
+     [
+      1,
+      "Demonic Junker"
+     ],
+     [
+      1,
+      "Dismal Backwater"
+     ],
+     [
+      1,
+      "Diversion Unit"
+     ],
+     [
+      1,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Flood the Engine"
+     ],
+     [
+      1,
+      "Grim Bauble"
+     ],
+     [
+      2,
+      "Guidelight Optimizer"
+     ],
+     [
+      1,
+      "Haunt the Network"
+     ],
+     [
+      1,
+      "Hulldrifter"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Mindspring Merfolk"
+     ],
+     [
+      2,
+      "Night Market"
+     ],
+     [
+      1,
+      "Nimble Thopterist"
+     ],
+     [
+      1,
+      "Oildeep Gearhulk"
+     ],
+     [
+      1,
+      "Pactdoll Terror"
+     ],
+     [
+      1,
+      "Quag Feast"
+     ],
+     [
+      1,
+      "Risky Shortcut"
+     ],
+     [
+      1,
+      "Scrap Compactor"
+     ],
+     [
+      1,
+      "Spectral Interference"
+     ],
+     [
+      1,
+      "Starting Column"
+     ],
+     [
+      1,
+      "Stock Up"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Transit Mage"
+     ],
+     [
+      1,
+      "Wreckage Wickerfolk"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Avishkar Raceway"
+     ],
+     [
+      1,
+      "Brightglass Gearhulk"
+     ],
+     [
+      1,
+      "Caelorna, Coral Tyrant"
+     ],
+     [
+      1,
+      "Collision Course"
+     ],
+     [
+      1,
+      "Deathless Pilot"
+     ],
+     [
+      1,
+      "Gearseeker Serpent"
+     ],
+     [
+      1,
+      "Grim Javelineer"
+     ],
+     [
+      1,
+      "Keen Buccaneer"
+     ],
+     [
+      1,
+      "Magmakin Artillerist"
+     ],
+     [
+      1,
+      "Risky Shortcut"
+     ],
+     [
+      1,
+      "Scrap Compactor"
+     ],
+     [
+      1,
+      "Streaking Oilgorger"
+     ],
+     [
+      1,
+      "Trade the Helm"
+     ],
+     [
+      2,
+      "Trip Up"
+     ],
+     [
+      1,
+      "Voyager Quickwelder"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 73247,
+   "wins": 39191,
+   "winRate": 53.51,
+   "share": 8.54,
+   "drafts": 12826,
+   "trophies": 1454,
+   "cards": [
+    {
+     "name": "Mu Yanling, Wind Rider",
+     "inclusion": 5.3,
+     "winRate": 58.7,
+     "games": 4161,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Draconautics Engineer",
+     "inclusion": 11.6,
+     "winRate": 57.0,
+     "games": 8842,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Howlsquad Heavy",
+     "inclusion": 11.4,
+     "winRate": 56.8,
+     "games": 8738,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Thopter Fabricator",
+     "inclusion": 15.5,
+     "winRate": 56.5,
+     "games": 11811,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Possession Engine",
+     "inclusion": 11.2,
+     "winRate": 56.3,
+     "games": 8567,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Transit Mage",
+     "inclusion": 20.5,
+     "winRate": 55.6,
+     "games": 15469,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Greasewrench Goblin",
+     "inclusion": 30.2,
+     "winRate": 55.5,
+     "games": 22750,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Mindspring Merfolk",
+     "inclusion": 12.0,
+     "winRate": 55.5,
+     "games": 8958,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Spikeshell Harrier",
+     "inclusion": 25.8,
+     "winRate": 55.4,
+     "games": 19394,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Captain Howler, Sea Scourge",
+     "inclusion": 28.5,
+     "winRate": 55.2,
+     "games": 21330,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 25.7,
+     "winRate": 55.2,
+     "games": 19167,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Rangers' Refueler",
+     "inclusion": 22.2,
+     "winRate": 55.2,
+     "games": 16581,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Riverchurn Monument",
+     "inclusion": 7.6,
+     "winRate": 55.2,
+     "games": 5706,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Chandra, Spark Hunter",
+     "inclusion": 6.1,
+     "winRate": 55.2,
+     "games": 4616,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Broadside Barrage",
+     "inclusion": 50.5,
+     "winRate": 54.9,
+     "games": 37740,
+     "trophyInclusion": 56.3
+    },
+    {
+     "name": "Boommobile",
+     "inclusion": 11.8,
+     "winRate": 54.6,
+     "games": 8833,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Scrounging Skyray",
+     "inclusion": 44.0,
+     "winRate": 54.5,
+     "games": 32678,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Marauding Mako",
+     "inclusion": 41.2,
+     "winRate": 54.5,
+     "games": 30539,
+     "trophyInclusion": 46.4
+    },
+    {
+     "name": "Skycrash",
+     "inclusion": 27.6,
+     "winRate": 54.5,
+     "games": 20584,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Roadside Blowout",
+     "inclusion": 25.7,
+     "winRate": 54.5,
+     "games": 19016,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Gastal Thrillroller",
+     "inclusion": 9.6,
+     "winRate": 54.5,
+     "games": 7133,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Burnout Bashtronaut",
+     "inclusion": 10.6,
+     "winRate": 54.4,
+     "games": 7900,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Thunderhead Gunner",
+     "inclusion": 62.0,
+     "winRate": 54.3,
+     "games": 46024,
+     "trophyInclusion": 66.2
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 44.5,
+     "winRate": 54.2,
+     "games": 32916,
+     "trophyInclusion": 47.2
+    },
+    {
+     "name": "Nimble Thopterist",
+     "inclusion": 34.5,
+     "winRate": 54.2,
+     "games": 25564,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Road Rage",
+     "inclusion": 25.8,
+     "winRate": 54.2,
+     "games": 19116,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Bounce Off",
+     "inclusion": 41.0,
+     "winRate": 54.1,
+     "games": 30184,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Spectral Interference",
+     "inclusion": 34.7,
+     "winRate": 54.1,
+     "games": 25658,
+     "trophyInclusion": 37.2
+    },
+    {
+     "name": "Howler's Heavy",
+     "inclusion": 55.6,
+     "winRate": 54.0,
+     "games": 40821,
+     "trophyInclusion": 59.1
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 49.2,
+     "winRate": 54.0,
+     "games": 36306,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Flood the Engine",
+     "inclusion": 48.1,
+     "winRate": 54.0,
+     "games": 35413,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Riverpyre Verge",
+     "inclusion": 13.7,
+     "winRate": 54.0,
+     "games": 10042,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Reef Roads",
+     "inclusion": 11.9,
+     "winRate": 54.0,
+     "games": 8728,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 29.2,
+     "winRate": 53.9,
+     "games": 21537,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Outpace Oblivion",
+     "inclusion": 25.7,
+     "winRate": 53.9,
+     "games": 18850,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Fuel the Flames",
+     "inclusion": 17.8,
+     "winRate": 53.9,
+     "games": 13114,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Skystreak Engineer",
+     "inclusion": 42.2,
+     "winRate": 53.7,
+     "games": 31079,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Push the Limit",
+     "inclusion": 8.4,
+     "winRate": 53.7,
+     "games": 6163,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Diversion Unit",
+     "inclusion": 23.0,
+     "winRate": 53.6,
+     "games": 16894,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Wreck Remover",
+     "inclusion": 10.0,
+     "winRate": 53.6,
+     "games": 7326,
+     "trophyInclusion": 10.6
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-03-03",
+    "main": [
+     [
+      1,
+      "Bounce Off"
+     ],
+     [
+      1,
+      "Broadside Barrage"
+     ],
+     [
+      1,
+      "Burner Rocket"
+     ],
+     [
+      3,
+      "Clamorous Ironclad"
+     ],
+     [
+      1,
+      "Explosive Getaway"
+     ],
+     [
+      1,
+      "Fearless Swashbuckler"
+     ],
+     [
+      1,
+      "Flood the Engine"
+     ],
+     [
+      1,
+      "Greasewrench Goblin"
+     ],
+     [
+      2,
+      "Howler's Heavy"
+     ],
+     [
+      4,
+      "Island"
+     ],
+     [
+      1,
+      "Keen Buccaneer"
+     ],
+     [
+      1,
+      "Kickoff Celebrations"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Magmakin Artillerist"
+     ],
+     [
+      1,
+      "Marauding Mako"
+     ],
+     [
+      1,
+      "Marshals' Pathcruiser"
+     ],
+     [
+      3,
+      "Mountain"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      1,
+      "Outpace Oblivion"
+     ],
+     [
+      1,
+      "Plains"
+     ],
+     [
+      1,
+      "Rangers' Refueler"
+     ],
+     [
+      1,
+      "Riverpyre Verge"
+     ],
+     [
+      1,
+      "Road Rage"
+     ],
+     [
+      1,
+      "Rocky Roads"
+     ],
+     [
+      1,
+      "Slick Imitator"
+     ],
+     [
+      2,
+      "Spectral Interference"
+     ],
+     [
+      2,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Thunderhead Gunner"
+     ],
+     [
+      1,
+      "Trip Up"
+     ],
+     [
+      1,
+      "Vnwxt, Verbose Host"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Brightfield Glider"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Gilded Ghoda"
+     ],
+     [
+      1,
+      "Hulldrifter"
+     ],
+     [
+      1,
+      "Skybox Ferry"
+     ],
+     [
+      1,
+      "Spire Mechcycle"
+     ],
+     [
+      1,
+      "Starting Column"
+     ],
+     [
+      2,
+      "Wreck Remover"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 68439,
+   "wins": 37734,
+   "winRate": 55.14,
+   "share": 7.98,
+   "drafts": 11615,
+   "trophies": 1433,
+   "cards": [
+    {
+     "name": "Lumbering Worldwagon",
+     "inclusion": 9.8,
+     "winRate": 59.8,
+     "games": 7081,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Howlsquad Heavy",
+     "inclusion": 12.8,
+     "winRate": 57.7,
+     "games": 9101,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Draconautics Engineer",
+     "inclusion": 14.2,
+     "winRate": 57.5,
+     "games": 10068,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Boommobile",
+     "inclusion": 13.8,
+     "winRate": 57.4,
+     "games": 9797,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Afterburner Expert",
+     "inclusion": 12.9,
+     "winRate": 57.3,
+     "games": 9133,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Agonasaur Rex",
+     "inclusion": 10.5,
+     "winRate": 57.2,
+     "games": 7361,
+     "trophyInclusion": 13.5
+    },
+    {
+     "name": "Loot, the Pathfinder",
+     "inclusion": 5.3,
+     "winRate": 57.2,
+     "games": 3670,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Burnout Bashtronaut",
+     "inclusion": 12.1,
+     "winRate": 57.0,
+     "games": 8527,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "District Mascot",
+     "inclusion": 9.7,
+     "winRate": 57.0,
+     "games": 6773,
+     "trophyInclusion": 11.7
+    },
+    {
+     "name": "Greenbelt Guardian",
+     "inclusion": 26.4,
+     "winRate": 56.8,
+     "games": 18584,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Pyrewood Gearhulk",
+     "inclusion": 15.0,
+     "winRate": 56.7,
+     "games": 10501,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Road Rage",
+     "inclusion": 25.6,
+     "winRate": 56.5,
+     "games": 17884,
+     "trophyInclusion": 28.3
+    },
+    {
+     "name": "Terrian, World Tyrant",
+     "inclusion": 21.4,
+     "winRate": 56.5,
+     "games": 15008,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Fang-Druid Summoner",
+     "inclusion": 18.7,
+     "winRate": 56.5,
+     "games": 13089,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Regal Imperiosaur",
+     "inclusion": 11.4,
+     "winRate": 56.4,
+     "games": 7909,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Stampeding Scurryfoot",
+     "inclusion": 53.6,
+     "winRate": 56.3,
+     "games": 37295,
+     "trophyInclusion": 60.9
+    },
+    {
+     "name": "Fang Guardian",
+     "inclusion": 24.9,
+     "winRate": 56.2,
+     "games": 17420,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Autarch Mammoth",
+     "inclusion": 24.8,
+     "winRate": 56.2,
+     "games": 17308,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Run Over",
+     "inclusion": 51.3,
+     "winRate": 56.0,
+     "games": 35474,
+     "trophyInclusion": 56.6
+    },
+    {
+     "name": "Greasewrench Goblin",
+     "inclusion": 26.8,
+     "winRate": 56.0,
+     "games": 18702,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Defend the Rider",
+     "inclusion": 20.2,
+     "winRate": 56.0,
+     "games": 14051,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 5.8,
+     "winRate": 56.0,
+     "games": 3979,
+     "trophyInclusion": 6.4
+    },
+    {
+     "name": "Hazard of the Dunes",
+     "inclusion": 52.5,
+     "winRate": 55.9,
+     "games": 36281,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Rocketeer Boostbuggy",
+     "inclusion": 49.5,
+     "winRate": 55.9,
+     "games": 34353,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Outpace Oblivion",
+     "inclusion": 25.5,
+     "winRate": 55.8,
+     "games": 17688,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Swiftwater Cliffs",
+     "inclusion": 8.4,
+     "winRate": 55.8,
+     "games": 5784,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Bestow Greatness",
+     "inclusion": 33.2,
+     "winRate": 55.7,
+     "games": 22884,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Rugged Highlands",
+     "inclusion": 45.2,
+     "winRate": 55.6,
+     "games": 31089,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Jibbirik Omnivore",
+     "inclusion": 42.4,
+     "winRate": 55.6,
+     "games": 29214,
+     "trophyInclusion": 43.8
+    },
+    {
+     "name": "Pothole Mole",
+     "inclusion": 36.9,
+     "winRate": 55.6,
+     "games": 25327,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Earthrumbler",
+     "inclusion": 22.0,
+     "winRate": 55.6,
+     "games": 15274,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Dredger's Insight",
+     "inclusion": 7.8,
+     "winRate": 55.6,
+     "games": 5328,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Venomsac Lagac",
+     "inclusion": 45.3,
+     "winRate": 55.5,
+     "games": 31110,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 28.1,
+     "winRate": 55.5,
+     "games": 19275,
+     "trophyInclusion": 29.0
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 50.9,
+     "winRate": 55.4,
+     "games": 34989,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Thunderhead Gunner",
+     "inclusion": 50.8,
+     "winRate": 55.4,
+     "games": 34972,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Beastrider Vanguard",
+     "inclusion": 45.9,
+     "winRate": 55.4,
+     "games": 31586,
+     "trophyInclusion": 45.5
+    },
+    {
+     "name": "Plow Through",
+     "inclusion": 21.9,
+     "winRate": 55.4,
+     "games": 15098,
+     "trophyInclusion": 22.5
+    },
+    {
+     "name": "Blossoming Sands",
+     "inclusion": 7.9,
+     "winRate": 55.4,
+     "games": 5433,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Molt Tender",
+     "inclusion": 17.6,
+     "winRate": 55.3,
+     "games": 11997,
+     "trophyInclusion": 17.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-02-15",
+    "main": [
+     [
+      1,
+      "Adrenaline Jockey"
+     ],
+     [
+      1,
+      "Boom Scholar"
+     ],
+     [
+      1,
+      "Broken Wings"
+     ],
+     [
+      1,
+      "Burnout Bashtronaut"
+     ],
+     [
+      1,
+      "Crash and Burn"
+     ],
+     [
+      1,
+      "Defend the Rider"
+     ],
+     [
+      1,
+      "Dracosaur Auxiliary"
+     ],
+     [
+      1,
+      "Endrider Catalyzer"
+     ],
+     [
+      1,
+      "Endrider Spikespitter"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Gilded Ghoda"
+     ],
+     [
+      1,
+      "Hazard of the Dunes"
+     ],
+     [
+      2,
+      "Loxodon Surveyor"
+     ],
+     [
+      1,
+      "Migrating Ketradon"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      1,
+      "Outpace Oblivion"
+     ],
+     [
+      1,
+      "Prowcatcher Specialist"
+     ],
+     [
+      1,
+      "Road Rage"
+     ],
+     [
+      1,
+      "Rocketeer Boostbuggy"
+     ],
+     [
+      1,
+      "Run Over"
+     ],
+     [
+      1,
+      "Samut, the Driving Force"
+     ],
+     [
+      1,
+      "Stampeding Scurryfoot"
+     ],
+     [
+      1,
+      "Thunderhead Gunner"
+     ],
+     [
+      1,
+      "Venomsac Lagac"
+     ],
+     [
+      1,
+      "Wind-Scarred Crag"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Alacrian Jaguar"
+     ],
+     [
+      1,
+      "Dredger's Insight"
+     ],
+     [
+      1,
+      "Endrider Catalyzer"
+     ],
+     [
+      1,
+      "Goblin Surveyor"
+     ],
+     [
+      1,
+      "Grim Bauble"
+     ],
+     [
+      3,
+      "Migrating Ketradon"
+     ],
+     [
+      1,
+      "Mutant Surveyor"
+     ],
+     [
+      1,
+      "Pedal to the Metal"
+     ],
+     [
+      1,
+      "Silken Strength"
+     ],
+     [
+      1,
+      "Trip Up"
+     ],
+     [
+      1,
+      "Wild Roads"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 64937,
+   "wins": 35868,
+   "winRate": 55.24,
+   "share": 7.57,
+   "drafts": 11037,
+   "trophies": 1400,
+   "cards": [
+    {
+     "name": "Howlsquad Heavy",
+     "inclusion": 14.3,
+     "winRate": 58.3,
+     "games": 9771,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Draconautics Engineer",
+     "inclusion": 12.2,
+     "winRate": 58.0,
+     "games": 8245,
+     "trophyInclusion": 15.9
+    },
+    {
+     "name": "Burnout Bashtronaut",
+     "inclusion": 15.5,
+     "winRate": 57.6,
+     "games": 10449,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Hazoret, Godseeker",
+     "inclusion": 7.3,
+     "winRate": 57.4,
+     "games": 4895,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "The Speed Demon",
+     "inclusion": 6.1,
+     "winRate": 57.4,
+     "games": 4083,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Chandra, Spark Hunter",
+     "inclusion": 5.2,
+     "winRate": 57.2,
+     "games": 3510,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Far Fortune, End Boss",
+     "inclusion": 26.9,
+     "winRate": 57.1,
+     "games": 17906,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Greasewrench Goblin",
+     "inclusion": 29.1,
+     "winRate": 56.9,
+     "games": 19463,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Cursecloth Wrappings",
+     "inclusion": 10.5,
+     "winRate": 56.7,
+     "games": 6924,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Gastal Thrillseeker",
+     "inclusion": 57.7,
+     "winRate": 56.6,
+     "games": 38293,
+     "trophyInclusion": 64.9
+    },
+    {
+     "name": "Quag Feast",
+     "inclusion": 11.0,
+     "winRate": 56.5,
+     "games": 7196,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Engine Rat",
+     "inclusion": 49.8,
+     "winRate": 56.4,
+     "games": 32820,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Hour of Victory",
+     "inclusion": 25.4,
+     "winRate": 56.3,
+     "games": 16675,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Gas Guzzler",
+     "inclusion": 14.1,
+     "winRate": 56.3,
+     "games": 9224,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Boommobile",
+     "inclusion": 12.7,
+     "winRate": 56.3,
+     "games": 8330,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Road Rage",
+     "inclusion": 25.0,
+     "winRate": 56.2,
+     "games": 16553,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Momentum Breaker",
+     "inclusion": 25.0,
+     "winRate": 56.1,
+     "games": 16476,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Gonti, Night Minister",
+     "inclusion": 11.7,
+     "winRate": 56.1,
+     "games": 7749,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Wreckage Wickerfolk",
+     "inclusion": 52.9,
+     "winRate": 56.0,
+     "games": 34658,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Mutant Surveyor",
+     "inclusion": 50.9,
+     "winRate": 56.0,
+     "games": 33481,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Gastal Raider",
+     "inclusion": 27.1,
+     "winRate": 56.0,
+     "games": 17859,
+     "trophyInclusion": 29.1
+    },
+    {
+     "name": "Grim Bauble",
+     "inclusion": 50.3,
+     "winRate": 55.9,
+     "games": 32993,
+     "trophyInclusion": 55.1
+    },
+    {
+     "name": "Maximum Overdrive",
+     "inclusion": 46.1,
+     "winRate": 55.9,
+     "games": 30321,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Outpace Oblivion",
+     "inclusion": 28.6,
+     "winRate": 55.9,
+     "games": 18870,
+     "trophyInclusion": 29.9
+    },
+    {
+     "name": "Risen Necroregent",
+     "inclusion": 29.7,
+     "winRate": 55.8,
+     "games": 19419,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 22.5,
+     "winRate": 55.8,
+     "games": 14757,
+     "trophyInclusion": 23.7
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 51.6,
+     "winRate": 55.7,
+     "games": 33768,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Bloodfell Caves",
+     "inclusion": 47.6,
+     "winRate": 55.7,
+     "games": 31138,
+     "trophyInclusion": 50.6
+    },
+    {
+     "name": "Endrider Catalyzer",
+     "inclusion": 51.5,
+     "winRate": 55.6,
+     "games": 33731,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Endrider Spikespitter",
+     "inclusion": 30.0,
+     "winRate": 55.6,
+     "games": 19536,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Spin Out",
+     "inclusion": 51.9,
+     "winRate": 55.5,
+     "games": 33921,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Crash and Burn",
+     "inclusion": 47.6,
+     "winRate": 55.5,
+     "games": 31235,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Wretched Doll",
+     "inclusion": 22.8,
+     "winRate": 55.5,
+     "games": 14730,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Thunderhead Gunner",
+     "inclusion": 50.1,
+     "winRate": 55.4,
+     "games": 32570,
+     "trophyInclusion": 49.7
+    },
+    {
+     "name": "Streaking Oilgorger",
+     "inclusion": 39.9,
+     "winRate": 55.4,
+     "games": 26008,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Gastal Thrillroller",
+     "inclusion": 12.1,
+     "winRate": 55.4,
+     "games": 7957,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Pactdoll Terror",
+     "inclusion": 41.4,
+     "winRate": 55.3,
+     "games": 27018,
+     "trophyInclusion": 41.6
+    },
+    {
+     "name": "Grim Javelineer",
+     "inclusion": 41.2,
+     "winRate": 55.3,
+     "games": 26839,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Foul Roads",
+     "inclusion": 11.9,
+     "winRate": 55.3,
+     "games": 7766,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Risky Shortcut",
+     "inclusion": 31.4,
+     "winRate": 55.2,
+     "games": 20528,
+     "trophyInclusion": 32.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-03-15",
+    "main": [
+     [
+      1,
+      "Apocalypse Runner"
+     ],
+     [
+      1,
+      "Bloodfell Caves"
+     ],
+     [
+      1,
+      "Burnout Bashtronaut"
+     ],
+     [
+      1,
+      "Crash and Burn"
+     ],
+     [
+      1,
+      "Deathless Pilot"
+     ],
+     [
+      1,
+      "Dracosaur Auxiliary"
+     ],
+     [
+      1,
+      "Endrider Catalyzer"
+     ],
+     [
+      1,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Far Fortune, End Boss"
+     ],
+     [
+      1,
+      "Gastal Thrillseeker"
+     ],
+     [
+      1,
+      "Gilded Ghoda"
+     ],
+     [
+      1,
+      "Grim Bauble"
+     ],
+     [
+      2,
+      "Grim Javelineer"
+     ],
+     [
+      1,
+      "Hour of Victory"
+     ],
+     [
+      2,
+      "Maximum Overdrive"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mutant Surveyor"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      1,
+      "Pedal to the Metal"
+     ],
+     [
+      1,
+      "Prowcatcher Specialist"
+     ],
+     [
+      1,
+      "Risky Shortcut"
+     ],
+     [
+      1,
+      "Streaking Oilgorger"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tyrox, Saurid Tyrant"
+     ],
+     [
+      1,
+      "Wreckage Wickerfolk"
+     ],
+     [
+      1,
+      "Wretched Doll"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Avishkar Raceway"
+     ],
+     [
+      1,
+      "Cloudspire Skycycle"
+     ],
+     [
+      1,
+      "Embalmed Ascendant"
+     ],
+     [
+      1,
+      "Gastal Blockbuster"
+     ],
+     [
+      1,
+      "Kalakscion, Hunger Tyrant"
+     ],
+     [
+      1,
+      "Kickoff Celebrations"
+     ],
+     [
+      1,
+      "Kolodin, Triumph Caster"
+     ],
+     [
+      2,
+      "Pacesetter Paragon"
+     ],
+     [
+      1,
+      "Risen Necroregent"
+     ],
+     [
+      2,
+      "Risky Shortcut"
+     ],
+     [
+      1,
+      "Walking Sarcophagus"
+     ],
+     [
+      1,
+      "Wreck Remover"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 60135,
+   "wins": 33810,
+   "winRate": 56.22,
+   "share": 7.01,
+   "drafts": 10097,
+   "trophies": 1415,
+   "cards": [
+    {
+     "name": "Agonasaur Rex",
+     "inclusion": 9.9,
+     "winRate": 60.0,
+     "games": 6308,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Lumbering Worldwagon",
+     "inclusion": 10.0,
+     "winRate": 59.4,
+     "games": 6278,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 7.5,
+     "winRate": 59.4,
+     "games": 4685,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Basri, Tomorrow's Champion",
+     "inclusion": 12.5,
+     "winRate": 58.6,
+     "games": 7718,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Gloryheath Lynx",
+     "inclusion": 32.9,
+     "winRate": 58.2,
+     "games": 20364,
+     "trophyInclusion": 38.6
+    },
+    {
+     "name": "Perilous Snare",
+     "inclusion": 12.4,
+     "winRate": 58.1,
+     "games": 7659,
+     "trophyInclusion": 14.6
+    },
+    {
+     "name": "Veteran Beastrider",
+     "inclusion": 53.7,
+     "winRate": 57.9,
+     "games": 33176,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Fang-Druid Summoner",
+     "inclusion": 18.4,
+     "winRate": 57.9,
+     "games": 11290,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Brightglass Gearhulk",
+     "inclusion": 13.3,
+     "winRate": 57.9,
+     "games": 8129,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "March of the World Ooze",
+     "inclusion": 5.4,
+     "winRate": 57.9,
+     "games": 3318,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Bestow Greatness",
+     "inclusion": 34.4,
+     "winRate": 57.6,
+     "games": 21159,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Gallant Strike",
+     "inclusion": 27.4,
+     "winRate": 57.5,
+     "games": 16752,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Voyager Glidecar",
+     "inclusion": 10.9,
+     "winRate": 57.4,
+     "games": 6624,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Thunderous Velocipede",
+     "inclusion": 5.3,
+     "winRate": 57.4,
+     "games": 3250,
+     "trophyInclusion": 5.9
+    },
+    {
+     "name": "Caradora, Heart of Alacria",
+     "inclusion": 24.9,
+     "winRate": 57.3,
+     "games": 15343,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Greenbelt Guardian",
+     "inclusion": 23.6,
+     "winRate": 57.3,
+     "games": 14417,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Stampeding Scurryfoot",
+     "inclusion": 47.4,
+     "winRate": 57.2,
+     "games": 28972,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Beastrider Vanguard",
+     "inclusion": 45.4,
+     "winRate": 57.2,
+     "games": 27669,
+     "trophyInclusion": 49.6
+    },
+    {
+     "name": "Terrian, World Tyrant",
+     "inclusion": 19.7,
+     "winRate": 57.2,
+     "games": 12029,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Country Roads",
+     "inclusion": 19.6,
+     "winRate": 57.2,
+     "games": 11915,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Bulwark Ox",
+     "inclusion": 14.8,
+     "winRate": 57.2,
+     "games": 9063,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Regal Imperiosaur",
+     "inclusion": 10.7,
+     "winRate": 57.2,
+     "games": 6526,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Ride's End",
+     "inclusion": 55.8,
+     "winRate": 57.1,
+     "games": 34012,
+     "trophyInclusion": 61.3
+    },
+    {
+     "name": "Autarch Mammoth",
+     "inclusion": 26.1,
+     "winRate": 57.1,
+     "games": 15840,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Hazard of the Dunes",
+     "inclusion": 46.2,
+     "winRate": 57.0,
+     "games": 28079,
+     "trophyInclusion": 49.6
+    },
+    {
+     "name": "Fang Guardian",
+     "inclusion": 23.3,
+     "winRate": 57.0,
+     "games": 14218,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Dredger's Insight",
+     "inclusion": 6.9,
+     "winRate": 57.0,
+     "games": 4207,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Lagorin, Soul of Alacria",
+     "inclusion": 51.4,
+     "winRate": 56.9,
+     "games": 31210,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Canyon Vaulter",
+     "inclusion": 29.6,
+     "winRate": 56.9,
+     "games": 17917,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Wild Roads",
+     "inclusion": 19.1,
+     "winRate": 56.9,
+     "games": 11592,
+     "trophyInclusion": 21.1
+    },
+    {
+     "name": "Guardian Sunmare",
+     "inclusion": 15.8,
+     "winRate": 56.9,
+     "games": 9603,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "District Mascot",
+     "inclusion": 12.1,
+     "winRate": 56.9,
+     "games": 7339,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Marketback Walker",
+     "inclusion": 5.2,
+     "winRate": 56.9,
+     "games": 3124,
+     "trophyInclusion": 5.2
+    },
+    {
+     "name": "Blossoming Sands",
+     "inclusion": 47.1,
+     "winRate": 56.8,
+     "games": 28506,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 26.0,
+     "winRate": 56.8,
+     "games": 15821,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Silken Strength",
+     "inclusion": 18.9,
+     "winRate": 56.7,
+     "games": 11535,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Molt Tender",
+     "inclusion": 16.2,
+     "winRate": 56.7,
+     "games": 9737,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Elvish Refueler",
+     "inclusion": 15.8,
+     "winRate": 56.6,
+     "games": 9471,
+     "trophyInclusion": 15.6
+    },
+    {
+     "name": "Migrating Ketradon",
+     "inclusion": 44.3,
+     "winRate": 56.5,
+     "games": 26715,
+     "trophyInclusion": 45.8
+    },
+    {
+     "name": "Venomsac Lagac",
+     "inclusion": 51.1,
+     "winRate": 56.4,
+     "games": 30818,
+     "trophyInclusion": 51.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-02-25",
+    "main": [
+     [
+      1,
+      "Autarch Mammoth"
+     ],
+     [
+      1,
+      "Blossoming Sands"
+     ],
+     [
+      1,
+      "Brightfield Glider"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Collision Course"
+     ],
+     [
+      1,
+      "Dredger's Insight"
+     ],
+     [
+      6,
+      "Forest"
+     ],
+     [
+      1,
+      "Gallant Strike"
+     ],
+     [
+      1,
+      "Gloryheath Lynx"
+     ],
+     [
+      1,
+      "Guardian Sunmare"
+     ],
+     [
+      1,
+      "Hazard of the Dunes"
+     ],
+     [
+      1,
+      "Leonin Surveyor"
+     ],
+     [
+      1,
+      "Lightshield Parry"
+     ],
+     [
+      1,
+      "Lotusguard Disciple"
+     ],
+     [
+      1,
+      "Loxodon Surveyor"
+     ],
+     [
+      1,
+      "Migrating Ketradon"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Ride's End"
+     ],
+     [
+      1,
+      "Rise from the Wreck"
+     ],
+     [
+      1,
+      "Silken Strength"
+     ],
+     [
+      1,
+      "Stampeding Scurryfoot"
+     ],
+     [
+      1,
+      "Sundial, Dawn Tyrant"
+     ],
+     [
+      2,
+      "Swiftwing Assailant"
+     ],
+     [
+      1,
+      "Venomsac Lagac"
+     ],
+     [
+      1,
+      "Veteran Beastrider"
+     ],
+     [
+      1,
+      "Wild Roads"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Brightfield Mustang"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Chitin Gravestalker"
+     ],
+     [
+      1,
+      "Debris Beetle"
+     ],
+     [
+      1,
+      "Dune Drifter"
+     ],
+     [
+      1,
+      "Gearseeker Serpent"
+     ],
+     [
+      1,
+      "Interface Ace"
+     ],
+     [
+      1,
+      "Ketramose, the New Dawn"
+     ],
+     [
+      1,
+      "Magmakin Artillerist"
+     ],
+     [
+      1,
+      "Momentum Breaker"
+     ],
+     [
+      1,
+      "Racers' Scoreboard"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Starting Column"
+     ],
+     [
+      1,
+      "Wastewood Verge"
+     ],
+     [
+      1,
+      "Wreck Remover"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 55478,
+   "wins": 30032,
+   "winRate": 54.13,
+   "share": 6.47,
+   "drafts": 9637,
+   "trophies": 1115,
+   "cards": [
+    {
+     "name": "Riptide Gearhulk",
+     "inclusion": 16.1,
+     "winRate": 58.2,
+     "games": 9411,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Perilous Snare",
+     "inclusion": 13.3,
+     "winRate": 57.9,
+     "games": 7791,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Possession Engine",
+     "inclusion": 12.7,
+     "winRate": 57.1,
+     "games": 7275,
+     "trophyInclusion": 16.9
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 7.3,
+     "winRate": 56.2,
+     "games": 4163,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 27.0,
+     "winRate": 56.1,
+     "games": 15348,
+     "trophyInclusion": 33.7
+    },
+    {
+     "name": "Mu Yanling, Wind Rider",
+     "inclusion": 6.6,
+     "winRate": 56.1,
+     "games": 3771,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Gloryheath Lynx",
+     "inclusion": 26.5,
+     "winRate": 55.9,
+     "games": 15021,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Stock Up",
+     "inclusion": 25.7,
+     "winRate": 55.9,
+     "games": 14639,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Riverchurn Monument",
+     "inclusion": 10.8,
+     "winRate": 55.9,
+     "games": 6141,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Rangers' Refueler",
+     "inclusion": 22.8,
+     "winRate": 55.8,
+     "games": 12936,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Transit Mage",
+     "inclusion": 32.2,
+     "winRate": 55.7,
+     "games": 18296,
+     "trophyInclusion": 37.2
+    },
+    {
+     "name": "Gallant Strike",
+     "inclusion": 28.1,
+     "winRate": 55.7,
+     "games": 15957,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Spectacular Pileup",
+     "inclusion": 14.7,
+     "winRate": 55.7,
+     "games": 8272,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Spikeshell Harrier",
+     "inclusion": 29.0,
+     "winRate": 55.6,
+     "games": 16541,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Pactdoll Terror",
+     "inclusion": 6.4,
+     "winRate": 55.6,
+     "games": 3586,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Diversion Unit",
+     "inclusion": 29.5,
+     "winRate": 55.4,
+     "games": 16593,
+     "trophyInclusion": 35.2
+    },
+    {
+     "name": "Thopter Fabricator",
+     "inclusion": 11.4,
+     "winRate": 55.3,
+     "games": 6427,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Ride's End",
+     "inclusion": 55.3,
+     "winRate": 55.2,
+     "games": 31173,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Guidelight Pathmaker",
+     "inclusion": 50.5,
+     "winRate": 55.2,
+     "games": 28382,
+     "trophyInclusion": 56.5
+    },
+    {
+     "name": "Country Roads",
+     "inclusion": 15.5,
+     "winRate": 55.2,
+     "games": 8747,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Salvation Engine",
+     "inclusion": 9.2,
+     "winRate": 55.2,
+     "games": 5202,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Mindspring Merfolk",
+     "inclusion": 11.1,
+     "winRate": 55.1,
+     "games": 6322,
+     "trophyInclusion": 12.3
+    },
+    {
+     "name": "Broadcast Rambler",
+     "inclusion": 51.6,
+     "winRate": 54.9,
+     "games": 28962,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Voyage Home",
+     "inclusion": 48.1,
+     "winRate": 54.9,
+     "games": 26810,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Aether Syphon",
+     "inclusion": 21.7,
+     "winRate": 54.9,
+     "games": 12189,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Haunt the Network",
+     "inclusion": 12.8,
+     "winRate": 54.9,
+     "games": 7215,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Marketback Walker",
+     "inclusion": 6.7,
+     "winRate": 54.9,
+     "games": 3759,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Tranquil Cove",
+     "inclusion": 46.9,
+     "winRate": 54.8,
+     "games": 26385,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Roadside Blowout",
+     "inclusion": 25.3,
+     "winRate": 54.8,
+     "games": 14241,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Ticket Tortoise",
+     "inclusion": 18.1,
+     "winRate": 54.8,
+     "games": 10157,
+     "trophyInclusion": 19.7
+    },
+    {
+     "name": "Basri, Tomorrow's Champion",
+     "inclusion": 10.9,
+     "winRate": 54.8,
+     "games": 6190,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Flood the Engine",
+     "inclusion": 49.9,
+     "winRate": 54.7,
+     "games": 28002,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Guidelight Synergist",
+     "inclusion": 39.8,
+     "winRate": 54.7,
+     "games": 22301,
+     "trophyInclusion": 41.9
+    },
+    {
+     "name": "Valor's Flagship",
+     "inclusion": 6.2,
+     "winRate": 54.7,
+     "games": 3477,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Voyager Quickwelder",
+     "inclusion": 64.3,
+     "winRate": 54.6,
+     "games": 35843,
+     "trophyInclusion": 67.9
+    },
+    {
+     "name": "Sundial, Dawn Tyrant",
+     "inclusion": 30.5,
+     "winRate": 54.6,
+     "games": 17099,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Memory Guardian",
+     "inclusion": 34.9,
+     "winRate": 54.4,
+     "games": 19507,
+     "trophyInclusion": 35.3
+    },
+    {
+     "name": "Nesting Bot",
+     "inclusion": 26.9,
+     "winRate": 54.4,
+     "games": 14990,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Mendicant Core, Guidelight",
+     "inclusion": 26.6,
+     "winRate": 54.4,
+     "games": 14753,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Guidelight Matrix",
+     "inclusion": 13.2,
+     "winRate": 54.4,
+     "games": 7322,
+     "trophyInclusion": 14.3
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-02-15",
+    "main": [
+     [
+      1,
+      "Aether Syphon"
+     ],
+     [
+      2,
+      "Bounce Off"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Canyon Vaulter"
+     ],
+     [
+      1,
+      "Collision Course"
+     ],
+     [
+      1,
+      "Detention Chariot"
+     ],
+     [
+      1,
+      "Flood the Engine"
+     ],
+     [
+      1,
+      "Gearseeker Serpent"
+     ],
+     [
+      2,
+      "Gloryheath Lynx"
+     ],
+     [
+      1,
+      "Guidelight Matrix"
+     ],
+     [
+      1,
+      "Guidelight Optimizer"
+     ],
+     [
+      10,
+      "Island"
+     ],
+     [
+      1,
+      "Nesting Bot"
+     ],
+     [
+      1,
+      "Nimble Thopterist"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Reef Roads"
+     ],
+     [
+      1,
+      "Ride's End"
+     ],
+     [
+      1,
+      "Riptide Gearhulk"
+     ],
+     [
+      2,
+      "Roadside Blowout"
+     ],
+     [
+      1,
+      "Scrap Compactor"
+     ],
+     [
+      1,
+      "Spikeshell Harrier"
+     ],
+     [
+      2,
+      "Stock Up"
+     ],
+     [
+      1,
+      "Sundial, Dawn Tyrant"
+     ],
+     [
+      1,
+      "Tranquil Cove"
+     ],
+     [
+      1,
+      "Transit Mage"
+     ],
+     [
+      2,
+      "Voyage Home"
+     ],
+     [
+      1,
+      "Voyager Quickwelder"
+     ],
+     [
+      1,
+      "Wreck Remover"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Aetherjacket"
+     ],
+     [
+      1,
+      "Bounce Off"
+     ],
+     [
+      1,
+      "Brightglass Gearhulk"
+     ],
+     [
+      1,
+      "Caelorna, Coral Tyrant"
+     ],
+     [
+      1,
+      "Grim Javelineer"
+     ],
+     [
+      1,
+      "Lightwheel Enhancements"
+     ],
+     [
+      1,
+      "Marshals' Pathcruiser"
+     ],
+     [
+      1,
+      "Rover Blades"
+     ],
+     [
+      2,
+      "Starting Column"
+     ],
+     [
+      1,
+      "Wreckage Wickerfolk"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 41006,
+   "wins": 22801,
+   "winRate": 55.6,
+   "share": 4.78,
+   "drafts": 6973,
+   "trophies": 901,
+   "cards": [
+    {
+     "name": "Perilous Snare",
+     "inclusion": 14.9,
+     "winRate": 59.9,
+     "games": 6399,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Gloryheath Lynx",
+     "inclusion": 31.5,
+     "winRate": 57.5,
+     "games": 13228,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "Carrion Cruiser",
+     "inclusion": 23.6,
+     "winRate": 57.4,
+     "games": 9972,
+     "trophyInclusion": 27.7
+    },
+    {
+     "name": "Marketback Walker",
+     "inclusion": 6.0,
+     "winRate": 57.3,
+     "games": 2452,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Nesting Bot",
+     "inclusion": 29.1,
+     "winRate": 57.2,
+     "games": 12220,
+     "trophyInclusion": 32.5
+    },
+    {
+     "name": "Skyseer's Chariot",
+     "inclusion": 9.5,
+     "winRate": 57.2,
+     "games": 3984,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Embalmed Ascendant",
+     "inclusion": 58.0,
+     "winRate": 57.1,
+     "games": 24310,
+     "trophyInclusion": 67.7
+    },
+    {
+     "name": "Wreckage Wickerfolk",
+     "inclusion": 54.9,
+     "winRate": 57.1,
+     "games": 22970,
+     "trophyInclusion": 62.3
+    },
+    {
+     "name": "Guardian Sunmare",
+     "inclusion": 13.5,
+     "winRate": 56.9,
+     "games": 5782,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Gas Guzzler",
+     "inclusion": 13.4,
+     "winRate": 56.9,
+     "games": 5545,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Engine Rat",
+     "inclusion": 46.5,
+     "winRate": 56.8,
+     "games": 19402,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Demonic Junker",
+     "inclusion": 12.1,
+     "winRate": 56.8,
+     "games": 5120,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Gallant Strike",
+     "inclusion": 26.8,
+     "winRate": 56.7,
+     "games": 11301,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Gonti, Night Minister",
+     "inclusion": 12.3,
+     "winRate": 56.7,
+     "games": 5111,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Night Market",
+     "inclusion": 25.3,
+     "winRate": 56.6,
+     "games": 10461,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Cursecloth Wrappings",
+     "inclusion": 13.3,
+     "winRate": 56.6,
+     "games": 5502,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Bloodfell Caves",
+     "inclusion": 6.0,
+     "winRate": 56.6,
+     "games": 2512,
+     "trophyInclusion": 6.9
+    },
+    {
+     "name": "Broadcast Rambler",
+     "inclusion": 44.1,
+     "winRate": 56.5,
+     "games": 18343,
+     "trophyInclusion": 47.3
+    },
+    {
+     "name": "Momentum Breaker",
+     "inclusion": 23.0,
+     "winRate": 56.5,
+     "games": 9584,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Grim Bauble",
+     "inclusion": 51.4,
+     "winRate": 56.4,
+     "games": 21367,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Pactdoll Terror",
+     "inclusion": 50.0,
+     "winRate": 56.4,
+     "games": 20783,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Sundial, Dawn Tyrant",
+     "inclusion": 28.6,
+     "winRate": 56.4,
+     "games": 11929,
+     "trophyInclusion": 29.3
+    },
+    {
+     "name": "Gastal Raider",
+     "inclusion": 22.5,
+     "winRate": 56.4,
+     "games": 9441,
+     "trophyInclusion": 23.0
+    },
+    {
+     "name": "Starting Column",
+     "inclusion": 11.3,
+     "winRate": 56.4,
+     "games": 4635,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Voyager Glidecar",
+     "inclusion": 10.9,
+     "winRate": 56.4,
+     "games": 4491,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "The Speed Demon",
+     "inclusion": 5.7,
+     "winRate": 56.4,
+     "games": 2394,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Avishkar Raceway",
+     "inclusion": 14.6,
+     "winRate": 56.3,
+     "games": 6053,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 5.7,
+     "winRate": 56.3,
+     "games": 2399,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Ride's End",
+     "inclusion": 55.1,
+     "winRate": 56.2,
+     "games": 22839,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Spin Out",
+     "inclusion": 50.4,
+     "winRate": 56.2,
+     "games": 20845,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Walking Sarcophagus",
+     "inclusion": 22.1,
+     "winRate": 56.1,
+     "games": 9141,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Basri, Tomorrow's Champion",
+     "inclusion": 14.5,
+     "winRate": 56.1,
+     "games": 5907,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Streaking Oilgorger",
+     "inclusion": 32.6,
+     "winRate": 56.0,
+     "games": 13434,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Risky Shortcut",
+     "inclusion": 29.8,
+     "winRate": 55.9,
+     "games": 12220,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Intimidation Tactics",
+     "inclusion": 15.7,
+     "winRate": 55.9,
+     "games": 6469,
+     "trophyInclusion": 15.5
+    },
+    {
+     "name": "Spectacular Pileup",
+     "inclusion": 14.3,
+     "winRate": 55.9,
+     "games": 5899,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Quag Feast",
+     "inclusion": 11.7,
+     "winRate": 55.9,
+     "games": 4803,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Maximum Overdrive",
+     "inclusion": 38.9,
+     "winRate": 55.8,
+     "games": 16113,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Bleachbone Verge",
+     "inclusion": 14.0,
+     "winRate": 55.8,
+     "games": 5731,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Zahur, Glory's Past",
+     "inclusion": 30.6,
+     "winRate": 55.7,
+     "games": 12603,
+     "trophyInclusion": 31.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-03-09",
+    "main": [
+     [
+      1,
+      "Avishkar Raceway"
+     ],
+     [
+      1,
+      "Basri, Tomorrow's Champion"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Collision Course"
+     ],
+     [
+      1,
+      "Deathless Pilot"
+     ],
+     [
+      1,
+      "Embalmed Ascendant"
+     ],
+     [
+      2,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Foul Roads"
+     ],
+     [
+      2,
+      "Gallant Strike"
+     ],
+     [
+      1,
+      "Gastal Raider"
+     ],
+     [
+      1,
+      "Gonti, Night Minister"
+     ],
+     [
+      1,
+      "Grim Bauble"
+     ],
+     [
+      1,
+      "Grim Javelineer"
+     ],
+     [
+      1,
+      "Maximum Overdrive"
+     ],
+     [
+      1,
+      "Mutant Surveyor"
+     ],
+     [
+      1,
+      "Nesting Bot"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      1,
+      "Pactdoll Terror"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Risen Necroregent"
+     ],
+     [
+      1,
+      "Scoured Barrens"
+     ],
+     [
+      1,
+      "Spin Out"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Swiftwing Assailant"
+     ],
+     [
+      1,
+      "The Speed Demon"
+     ],
+     [
+      1,
+      "Walking Sarcophagus"
+     ],
+     [
+      1,
+      "Wreckage Wickerfolk"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Alacrian Jaguar"
+     ],
+     [
+      1,
+      "Deathless Pilot"
+     ],
+     [
+      1,
+      "Draconautics Engineer"
+     ],
+     [
+      1,
+      "Engine Rat"
+     ],
+     [
+      1,
+      "Intimidation Tactics"
+     ],
+     [
+      1,
+      "Lightshield Parry"
+     ],
+     [
+      1,
+      "Mutant Surveyor"
+     ],
+     [
+      2,
+      "Redshift, Rocketeer Chief"
+     ],
+     [
+      1,
+      "Spotcycle Scouter"
+     ],
+     [
+      2,
+      "Syphon Fuel"
+     ],
+     [
+      1,
+      "Walking Sarcophagus"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 37047,
+   "wins": 19211,
+   "winRate": 51.86,
+   "share": 4.32,
+   "drafts": 6612,
+   "trophies": 589,
+   "cards": [
+    {
+     "name": "Perilous Snare",
+     "inclusion": 12.0,
+     "winRate": 55.1,
+     "games": 4696,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Draconautics Engineer",
+     "inclusion": 11.3,
+     "winRate": 55.1,
+     "games": 4421,
+     "trophyInclusion": 16.1
+    },
+    {
+     "name": "Gloryheath Lynx",
+     "inclusion": 32.6,
+     "winRate": 54.7,
+     "games": 12489,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Howlsquad Heavy",
+     "inclusion": 12.3,
+     "winRate": 54.7,
+     "games": 4689,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Boommobile",
+     "inclusion": 13.8,
+     "winRate": 54.6,
+     "games": 5272,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Marshals' Pathcruiser",
+     "inclusion": 6.1,
+     "winRate": 54.2,
+     "games": 2323,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Chandra, Spark Hunter",
+     "inclusion": 6.4,
+     "winRate": 54.0,
+     "games": 2416,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Burnout Bashtronaut",
+     "inclusion": 12.8,
+     "winRate": 53.8,
+     "games": 4889,
+     "trophyInclusion": 15.1
+    },
+    {
+     "name": "Rocky Roads",
+     "inclusion": 20.2,
+     "winRate": 53.5,
+     "games": 7637,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Guardian Sunmare",
+     "inclusion": 14.3,
+     "winRate": 53.5,
+     "games": 5467,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Road Rage",
+     "inclusion": 28.8,
+     "winRate": 53.4,
+     "games": 10917,
+     "trophyInclusion": 33.4
+    },
+    {
+     "name": "Cloudspire Coordinator",
+     "inclusion": 54.1,
+     "winRate": 53.3,
+     "games": 20407,
+     "trophyInclusion": 64.0
+    },
+    {
+     "name": "Gallant Strike",
+     "inclusion": 26.6,
+     "winRate": 53.3,
+     "games": 10058,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Hazoret, Godseeker",
+     "inclusion": 6.5,
+     "winRate": 53.3,
+     "games": 2473,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Basri, Tomorrow's Champion",
+     "inclusion": 14.2,
+     "winRate": 53.2,
+     "games": 5418,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Canyon Vaulter",
+     "inclusion": 32.7,
+     "winRate": 52.9,
+     "games": 12259,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Outpace Oblivion",
+     "inclusion": 26.1,
+     "winRate": 52.9,
+     "games": 9772,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Greasewrench Goblin",
+     "inclusion": 23.2,
+     "winRate": 52.9,
+     "games": 8700,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Nesting Bot",
+     "inclusion": 20.6,
+     "winRate": 52.9,
+     "games": 7617,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Country Roads",
+     "inclusion": 20.1,
+     "winRate": 52.9,
+     "games": 7486,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Bulwark Ox",
+     "inclusion": 14.5,
+     "winRate": 52.9,
+     "games": 5408,
+     "trophyInclusion": 16.5
+    },
+    {
+     "name": "Thunderhead Gunner",
+     "inclusion": 34.5,
+     "winRate": 52.8,
+     "games": 12885,
+     "trophyInclusion": 39.0
+    },
+    {
+     "name": "Gastal Thrillroller",
+     "inclusion": 12.4,
+     "winRate": 52.8,
+     "games": 4620,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Ride's End",
+     "inclusion": 50.6,
+     "winRate": 52.6,
+     "games": 18909,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Lotusguard Disciple",
+     "inclusion": 38.0,
+     "winRate": 52.6,
+     "games": 14165,
+     "trophyInclusion": 41.4
+    },
+    {
+     "name": "Explosive Getaway",
+     "inclusion": 20.8,
+     "winRate": 52.6,
+     "games": 7795,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Voyager Glidecar",
+     "inclusion": 13.5,
+     "winRate": 52.6,
+     "games": 5029,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Samut, the Driving Force",
+     "inclusion": 5.9,
+     "winRate": 52.6,
+     "games": 2221,
+     "trophyInclusion": 6.1
+    },
+    {
+     "name": "Lightning Strike",
+     "inclusion": 51.2,
+     "winRate": 52.5,
+     "games": 19184,
+     "trophyInclusion": 55.3
+    },
+    {
+     "name": "Gilded Ghoda",
+     "inclusion": 49.5,
+     "winRate": 52.5,
+     "games": 18557,
+     "trophyInclusion": 52.6
+    },
+    {
+     "name": "Sunbillow Verge",
+     "inclusion": 15.6,
+     "winRate": 52.5,
+     "games": 5793,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Roadside Assistance",
+     "inclusion": 15.4,
+     "winRate": 52.5,
+     "games": 5702,
+     "trophyInclusion": 16.0
+    },
+    {
+     "name": "Skyseer's Chariot",
+     "inclusion": 12.2,
+     "winRate": 52.4,
+     "games": 4542,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Walking Sarcophagus",
+     "inclusion": 8.3,
+     "winRate": 52.3,
+     "games": 3106,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Wind-Scarred Crag",
+     "inclusion": 46.4,
+     "winRate": 52.2,
+     "games": 17280,
+     "trophyInclusion": 46.9
+    },
+    {
+     "name": "Broadcast Rambler",
+     "inclusion": 42.4,
+     "winRate": 52.2,
+     "games": 15779,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Brightfield Glider",
+     "inclusion": 31.9,
+     "winRate": 52.2,
+     "games": 11855,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Cloudspire Captain",
+     "inclusion": 31.2,
+     "winRate": 52.2,
+     "games": 11544,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Sundial, Dawn Tyrant",
+     "inclusion": 27.1,
+     "winRate": 52.2,
+     "games": 10090,
+     "trophyInclusion": 27.0
+    },
+    {
+     "name": "Dracosaur Auxiliary",
+     "inclusion": 25.7,
+     "winRate": 52.2,
+     "games": 9683,
+     "trophyInclusion": 24.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-03-14",
+    "main": [
+     [
+      1,
+      "Brightfield Glider"
+     ],
+     [
+      1,
+      "Brightfield Mustang"
+     ],
+     [
+      1,
+      "Broadcast Rambler"
+     ],
+     [
+      1,
+      "Canyon Vaulter"
+     ],
+     [
+      1,
+      "Clamorous Ironclad"
+     ],
+     [
+      2,
+      "Cloudspire Coordinator"
+     ],
+     [
+      1,
+      "Cloudspire Skycycle"
+     ],
+     [
+      1,
+      "Daring Mechanic"
+     ],
+     [
+      1,
+      "Draconautics Engineer"
+     ],
+     [
+      1,
+      "Dracosaur Auxiliary"
+     ],
+     [
+      1,
+      "Gloryheath Lynx"
+     ],
+     [
+      1,
+      "Goblin Surveyor"
+     ],
+     [
+      1,
+      "Greasewrench Goblin"
+     ],
+     [
+      1,
+      "Lightning Strike"
+     ],
+     [
+      1,
+      "Lightshield Parry"
+     ],
+     [
+      1,
+      "Lotusguard Disciple"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Reckless Velocitaur"
+     ],
+     [
+      1,
+      "Ride's End"
+     ],
+     [
+      1,
+      "Road Rage"
+     ],
+     [
+      1,
+      "Rocky Roads"
+     ],
+     [
+      1,
+      "Skycrash"
+     ],
+     [
+      1,
+      "Spire Mechcycle"
+     ],
+     [
+      1,
+      "Spotcycle Scouter"
+     ],
+     [
+      1,
+      "Sunbillow Verge"
+     ],
+     [
+      1,
+      "Thunderhead Gunner"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Autarch Mammoth"
+     ],
+     [
+      1,
+      "Brightfield Mustang"
+     ],
+     [
+      1,
+      "Demonic Junker"
+     ],
+     [
+      1,
+      "Fuel the Flames"
+     ],
+     [
+      1,
+      "Kalakscion, Hunger Tyrant"
+     ],
+     [
+      2,
+      "Leonin Surveyor"
+     ],
+     [
+      1,
+      "Lightwheel Enhancements"
+     ],
+     [
+      1,
+      "Lotusguard Disciple"
+     ],
+     [
+      1,
+      "Night Market"
+     ],
+     [
+      1,
+      "Pacesetter Paragon"
+     ],
+     [
+      2,
+      "Swiftwater Cliffs"
+     ],
+     [
+      1,
+      "Voyage Home"
+     ]
+    ]
+   }
+  }
+ ]
+}

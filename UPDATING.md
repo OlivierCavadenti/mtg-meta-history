@@ -1,6 +1,6 @@
 # UPDATING.md — Weekly incremental update
 
-How to add the latest tournaments to every published format (Standard, Modern, Premodern) without
+How to add the latest tournaments to every published format (Standard, Modern, Premodern, Limited) without
 redoing the history. A scheduled Claude session runs this every Monday and pushes to `main`
 directly (the owner's choice: no pull request). A human can run it the same way.
 
@@ -67,6 +67,16 @@ Inclusion rule, after merging titles into real archetypes:
 
 Do not rewrite the texts of existing decks unless a new fact makes them wrong (a deck that "never
 won an event" just won one). Never type statistics: the site computes them.
+
+## 3b. Limited (17Lands)
+
+`weekly.sh refresh` also runs `scripts/pipeline/limited/refresh.py`: sets whose 17Lands dump
+changed are processed again, and a newly released set is added to
+`scripts/pipeline/seasons.limited.json` once 17Lands publishes its Premier Draft dump (about three
+weeks after release). For a `NEW SET`, write `data-src/limited/editorial/{set}.json`: one entry per
+color combination of `data-src/limited/stats/{set}.json` that has a 7-win deck (`rep`), following
+the editorial rules of `AGENTS.md` (section Limited). `build_limited.py --check {set}` must report
+0 errors.
 
 ## 4. Bans
 

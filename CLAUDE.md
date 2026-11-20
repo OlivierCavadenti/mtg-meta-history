@@ -37,6 +37,7 @@ npm run validate:content  # validate generated deck data
 - `ArchetypesPage` / `ArchetypePage` — an archetype across seasons (lifelines, core, card-by-card evolution); built in `src/lib/lineage.ts` from the editorial `slug`, so keep one slug per archetype across seasons
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
 - `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern | premodern). See `AGENTS.md`.
+- Limited: one season per set, one deck per color combination, from 17Lands public data (`scripts/pipeline/limited/`, `data-src/limited/`, generated `src/data/limited/` including `seasons.json`). Deck stats are in `deck.limited` (win rate, share of games); `src/lib/deckStats.ts` picks the right weight per format. The 17Lands citation must stay visible at the top of the Limited page
 
 ## Data pipeline (summary)
 
@@ -52,7 +53,7 @@ Weekly incremental update (new tournaments, new decks, new seasons, bans): `UPDA
 `data-src/{format}/results.json`.
 
 Stats shown on the site (top 8s, wins, share of top 8s) are computed from the scraped mtgtop8
-results only. Never type numbers by hand.
+results only (Limited: from 17Lands public data). Never type numbers by hand.
 
 ## Writing style for deck texts
 
@@ -90,4 +91,4 @@ results only. Never type numbers by hand.
 - No `any` types
 - No inline styles except dynamic values
 - No new npm dependencies without strong justification
-- No decklists copied from premium/paywalled content (mtgtop8 public tournament results only)
+- No decklists copied from premium/paywalled content (mtgtop8 public tournament results only; Limited: 17Lands public dumps only, never their API or deck pages)

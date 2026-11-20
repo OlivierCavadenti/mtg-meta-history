@@ -4,13 +4,20 @@ import { useRouter } from 'vue-router'
 import { useFormat } from '../lib/useFormat'
 import { colorSeries, COLOR_KEYS, THIN_SAMPLE, type ColorKey, type ColorPoint } from '../lib/colorStats'
 import { symbolUrl } from '../lib/cards'
-import { formatMonth, formatNumber, seasonYears, t, type StringKey } from '../lib/i18n'
+import { formatMonth, formatNumber, seasonShort, seasonYears, t, type StringKey } from '../lib/i18n'
 import SoonState from '../components/SoonState.vue'
 
 const router = useRouter()
 const { formatId, format, data, loading } = useFormat()
 
 const series = computed<ColorPoint[]>(() => (data.value ? colorSeries(data.value) : []))
+/** Limited: one point per set, weighted by 17Lands games instead of top 8s */
+const limited = computed(() => formatId.value === 'limited')
+const seasonOf = (id: string) => data.value?.seasons.find((s) => s.id === id)
+const rowLabel = (p: ColorPoint) => {
+  const s = seasonOf(p.season)
+  return s?.code ? seasonShort(s) : seasonYears(p.start, p.end)
+}
 const bans = computed(() => (data.value ? data.value.seasons.flatMap((s) => s.bans) : []))
 
 const LABEL: Record<ColorKey, StringKey> = {
@@ -135,7 +142,7 @@ const newestFirst = computed(() => series.value.slice().reverse())
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
   <div v-else class="colors-page">
     <header class="intro">
-      <p class="lede">{{ t('colorsIntro') }}</p>
+      <p class="lede">{{ limited ? t('colorsIntroLimited') : t('colorsIntro') }}</p>
       <nav class="views">
         <button type="button" :class="{ on: view === 'chart' }" @click="view = 'chart'">{{ t('chart') }}</button>
         <button type="button" :class="{ on: view === 'table' }" @click="view = 'table'">{{ t('table') }}</button>
@@ -218,8 +225,8 @@ const newestFirst = computed(() => series.value.slice().reverse())
 
       <div v-if="hovered" class="tip" :style="{ left: tipLeft + 'px' }">
         <p class="tip-head">
-          <strong>{{ seasonYears(hovered.start, hovered.end) }}</strong>
-          {{ data.seasons.find((s) => s.id === hovered!.season)?.set }}
+          <strong>{{ rowLabel(hovered) }}</strong>
+          {{ seasonOf(hovered.season)?.set }}
         </p>
         <ul>
           <li v-for="c in COLOR_KEYS" :key="c">
@@ -228,9 +235,9 @@ const newestFirst = computed(() => series.value.slice().reverse())
             <span class="tip-decks">{{ hovered.decks[c].slice(0, 2).map((d) => d.name).join(', ') || '–' }}</span>
           </li>
         </ul>
-        <p class="tip-foot">{{ hovered.total }} {{ t('seasonTotal') }}</p>
+        <p class="tip-foot">{{ formatNumber(hovered.total) }} {{ limited ? t('seasonTotalLimited') : t('seasonTotal') }}</p>
       </div>
-      <p class="note">{{ t('colorsThin') }}</p>
+      <p v-if="!limited" class="note">{{ t('colorsThin') }}</p>
     </div>
 
     <table v-if="view === 'table'" class="table">
@@ -238,16 +245,16 @@ const newestFirst = computed(() => series.value.slice().reverse())
         <tr>
           <th scope="col">{{ t('season') }}</th>
           <th v-for="c in COLOR_KEYS" :key="c" scope="col"><img :src="symbolUrl(c)" :alt="t(LABEL[c])" /></th>
-          <th scope="col">{{ t('top8') }}</th>
+          <th scope="col">{{ limited ? t('gamesWord') : t('top8') }}</th>
         </tr>
       </thead>
       <tbody>
         <tr v-for="p in newestFirst" :key="p.season" :class="{ thin: thin(p) }">
           <th scope="row">
-            <router-link :to="`/${formatId}#s-${p.season}`">{{ seasonYears(p.start, p.end) }}</router-link>
+            <router-link :to="`/${formatId}#s-${p.season}`">{{ rowLabel(p) }}</router-link>
           </th>
           <td v-for="c in COLOR_KEYS" :key="c">{{ pct(p.share[c]) }}</td>
-          <td>{{ p.total }}</td>
+          <td>{{ formatNumber(p.total) }}</td>
         </tr>
       </tbody>
     </table>

@@ -1,0 +1,4660 @@
+{
+ "set": "lci",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.LCI.PremierDraft.csv.gz",
+ "lastModified": "Wed, 27 Dec 2023 18:31:11 GMT",
+ "colorsDerived": false,
+ "first": "2023-11-09",
+ "last": "2023-12-25",
+ "games": 823614,
+ "drafts": 140364,
+ "winRate": 55.34,
+ "combos": [
+  {
+   "colors": "WU",
+   "games": 135947,
+   "wins": 77942,
+   "winRate": 57.33,
+   "share": 16.51,
+   "drafts": 22631,
+   "trophies": 3388,
+   "cards": [
+    {
+     "name": "Unstable Glyphbridge",
+     "inclusion": 8.7,
+     "winRate": 61.8,
+     "games": 12433,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Kitesail Larcenist",
+     "inclusion": 7.9,
+     "winRate": 61.0,
+     "games": 11318,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Thousand Moons Smithy",
+     "inclusion": 9.2,
+     "winRate": 60.0,
+     "games": 13068,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Warden of the Inner Sky",
+     "inclusion": 8.4,
+     "winRate": 60.0,
+     "games": 11825,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Akal Pakal, First Among Equals",
+     "inclusion": 9.6,
+     "winRate": 59.9,
+     "games": 13593,
+     "trophyInclusion": 12.2
+    },
+    {
+     "name": "Sanguine Evangelist",
+     "inclusion": 7.4,
+     "winRate": 59.9,
+     "games": 10485,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Zoetic Glyph",
+     "inclusion": 31.8,
+     "winRate": 59.8,
+     "games": 44747,
+     "trophyInclusion": 39.5
+    },
+    {
+     "name": "Spyglass Siren",
+     "inclusion": 29.9,
+     "winRate": 59.8,
+     "games": 41963,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Staunch Crewmate",
+     "inclusion": 27.4,
+     "winRate": 59.5,
+     "games": 38338,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Clay-Fired Bricks",
+     "inclusion": 37.6,
+     "winRate": 59.2,
+     "games": 52546,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Spring-Loaded Sawblades",
+     "inclusion": 33.3,
+     "winRate": 59.1,
+     "games": 46426,
+     "trophyInclusion": 38.3
+    },
+    {
+     "name": "Subterranean Schooner",
+     "inclusion": 8.2,
+     "winRate": 59.0,
+     "games": 11363,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Restless Anchorage",
+     "inclusion": 11.4,
+     "winRate": 58.9,
+     "games": 15884,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Ruin-Lurker Bat",
+     "inclusion": 25.4,
+     "winRate": 58.7,
+     "games": 35177,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Waterwind Scout",
+     "inclusion": 58.1,
+     "winRate": 58.5,
+     "games": 80476,
+     "trophyInclusion": 63.7
+    },
+    {
+     "name": "Lodestone Needle",
+     "inclusion": 37.3,
+     "winRate": 58.5,
+     "games": 51605,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Dusk Rose Reliquary",
+     "inclusion": 24.5,
+     "winRate": 58.3,
+     "games": 33663,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Inverted Iceberg",
+     "inclusion": 58.6,
+     "winRate": 58.2,
+     "games": 80609,
+     "trophyInclusion": 62.2
+    },
+    {
+     "name": "Oltec Cloud Guard",
+     "inclusion": 57.7,
+     "winRate": 58.2,
+     "games": 79581,
+     "trophyInclusion": 62.1
+    },
+    {
+     "name": "Petrify",
+     "inclusion": 49.8,
+     "winRate": 58.1,
+     "games": 68656,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Oaken Siren",
+     "inclusion": 59.3,
+     "winRate": 58.0,
+     "games": 81541,
+     "trophyInclusion": 62.6
+    },
+    {
+     "name": "Cogwork Wrestler",
+     "inclusion": 55.4,
+     "winRate": 58.0,
+     "games": 76031,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Tinker's Tote",
+     "inclusion": 54.2,
+     "winRate": 57.9,
+     "games": 74302,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Miner's Guidewing",
+     "inclusion": 50.1,
+     "winRate": 57.9,
+     "games": 68807,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Brackish Blunder",
+     "inclusion": 46.5,
+     "winRate": 57.9,
+     "games": 63764,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Hidden Courtyard",
+     "inclusion": 40.8,
+     "winRate": 57.9,
+     "games": 56013,
+     "trophyInclusion": 42.7
+    },
+    {
+     "name": "Braided Net",
+     "inclusion": 8.4,
+     "winRate": 57.9,
+     "games": 11524,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Malcolm, Alluring Scoundrel",
+     "inclusion": 7.9,
+     "winRate": 57.9,
+     "games": 10918,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Hidden Cataract",
+     "inclusion": 42.7,
+     "winRate": 57.8,
+     "games": 58592,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Unlucky Drop",
+     "inclusion": 36.9,
+     "winRate": 57.8,
+     "games": 50557,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Kellan, Daring Traveler",
+     "inclusion": 6.4,
+     "winRate": 57.8,
+     "games": 8702,
+     "trophyInclusion": 6.5
+    },
+    {
+     "name": "The Everflowing Well",
+     "inclusion": 5.9,
+     "winRate": 57.8,
+     "games": 8012,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Abuelo, Ancestral Echo",
+     "inclusion": 13.8,
+     "winRate": 57.7,
+     "games": 18878,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Chart a Course",
+     "inclusion": 20.6,
+     "winRate": 57.6,
+     "games": 28082,
+     "trophyInclusion": 21.3
+    },
+    {
+     "name": "Vanguard of the Rose",
+     "inclusion": 18.7,
+     "winRate": 57.6,
+     "games": 25649,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Guardian of the Great Door",
+     "inclusion": 22.6,
+     "winRate": 57.5,
+     "games": 30977,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Market Gnome",
+     "inclusion": 22.0,
+     "winRate": 57.5,
+     "games": 29908,
+     "trophyInclusion": 22.7
+    },
+    {
+     "name": "Kinjalli's Dawnrunner",
+     "inclusion": 18.8,
+     "winRate": 57.5,
+     "games": 25767,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Master's Guide-Mural",
+     "inclusion": 51.2,
+     "winRate": 57.4,
+     "games": 69818,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Waylaying Pirates",
+     "inclusion": 44.9,
+     "winRate": 57.3,
+     "games": 61070,
+     "trophyInclusion": 45.4
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2023-11-19",
+    "main": [
+     [
+      1,
+      "Adaptive Gemguard"
+     ],
+     [
+      1,
+      "Attentive Sunscribe"
+     ],
+     [
+      1,
+      "Captivating Cave"
+     ],
+     [
+      1,
+      "Careening Mine Cart"
+     ],
+     [
+      1,
+      "Clay-Fired Bricks"
+     ],
+     [
+      1,
+      "Cogwork Wrestler"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      1,
+      "Glorifier of Suffering"
+     ],
+     [
+      1,
+      "Guardian of the Great Door"
+     ],
+     [
+      1,
+      "Hermitic Nautilus"
+     ],
+     [
+      1,
+      "Hidden Cataract"
+     ],
+     [
+      1,
+      "Hidden Courtyard"
+     ],
+     [
+      2,
+      "Ironpaw Aspirant"
+     ],
+     [
+      6,
+      "Island"
+     ],
+     [
+      1,
+      "Kinjalli's Dawnrunner"
+     ],
+     [
+      1,
+      "Lodestone Needle"
+     ],
+     [
+      1,
+      "Malamet War Scribe"
+     ],
+     [
+      1,
+      "Master's Guide-Mural"
+     ],
+     [
+      1,
+      "Miner's Guidewing"
+     ],
+     [
+      1,
+      "Oaken Siren"
+     ],
+     [
+      1,
+      "Oltec Cloud Guard"
+     ],
+     [
+      1,
+      "Petrify"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Ruin-Lurker Bat"
+     ],
+     [
+      1,
+      "Subterranean Schooner"
+     ],
+     [
+      1,
+      "Tinker's Tote"
+     ],
+     [
+      1,
+      "Waterwind Scout"
+     ],
+     [
+      1,
+      "Zoetic Glyph"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ancestral Reminiscence"
+     ],
+     [
+      1,
+      "Buried Treasure"
+     ],
+     [
+      1,
+      "Coati Scavenger"
+     ],
+     [
+      1,
+      "Cosmium Blast"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      2,
+      "Envoy of Okinec Ahau"
+     ],
+     [
+      1,
+      "Fanatical Offering"
+     ],
+     [
+      1,
+      "Merfolk Cave-Diver"
+     ],
+     [
+      1,
+      "Might of the Ancestors"
+     ],
+     [
+      1,
+      "Mineshaft Spider"
+     ],
+     [
+      1,
+      "Oltec Archaeologists"
+     ],
+     [
+      1,
+      "Oteclan Landmark"
+     ],
+     [
+      1,
+      "Sage of Days"
+     ],
+     [
+      1,
+      "Sinuous Benthisaur"
+     ],
+     [
+      1,
+      "Sunfire Torch"
+     ],
+     [
+      1,
+      "Thousand Moons Infantry"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UR",
+   "games": 129268,
+   "wins": 74201,
+   "winRate": 57.4,
+   "share": 15.7,
+   "drafts": 21287,
+   "trophies": 3238,
+   "cards": [
+    {
+     "name": "Breeches, Eager Pillager",
+     "inclusion": 9.6,
+     "winRate": 61.4,
+     "games": 13171,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Kitesail Larcenist",
+     "inclusion": 8.2,
+     "winRate": 61.0,
+     "games": 11051,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Magmatic Galleon",
+     "inclusion": 8.0,
+     "winRate": 60.6,
+     "games": 10725,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Spyglass Siren",
+     "inclusion": 28.9,
+     "winRate": 60.2,
+     "games": 38840,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Zoetic Glyph",
+     "inclusion": 32.8,
+     "winRate": 59.9,
+     "games": 43960,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Inti, Seneschal of the Sun",
+     "inclusion": 7.1,
+     "winRate": 59.6,
+     "games": 9403,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Trumpeting Carnosaur",
+     "inclusion": 5.8,
+     "winRate": 59.6,
+     "games": 7653,
+     "trophyInclusion": 7.1
+    },
+    {
+     "name": "Staunch Crewmate",
+     "inclusion": 35.4,
+     "winRate": 59.2,
+     "games": 47029,
+     "trophyInclusion": 41.8
+    },
+    {
+     "name": "Subterranean Schooner",
+     "inclusion": 8.5,
+     "winRate": 59.2,
+     "games": 11316,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Geological Appraiser",
+     "inclusion": 24.1,
+     "winRate": 59.1,
+     "games": 31907,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Akal Pakal, First Among Equals",
+     "inclusion": 9.2,
+     "winRate": 59.1,
+     "games": 12140,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Lodestone Needle",
+     "inclusion": 34.3,
+     "winRate": 58.7,
+     "games": 45161,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Dire Flail",
+     "inclusion": 9.0,
+     "winRate": 58.7,
+     "games": 11846,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Malcolm, Alluring Scoundrel",
+     "inclusion": 7.8,
+     "winRate": 58.7,
+     "games": 10334,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Waterwind Scout",
+     "inclusion": 57.9,
+     "winRate": 58.6,
+     "games": 76178,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "Captain Storm, Cosmium Raider",
+     "inclusion": 51.4,
+     "winRate": 58.4,
+     "games": 67439,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Goblin Tomb Raider",
+     "inclusion": 61.5,
+     "winRate": 58.3,
+     "games": 80397,
+     "trophyInclusion": 66.6
+    },
+    {
+     "name": "Cogwork Wrestler",
+     "inclusion": 59.7,
+     "winRate": 58.3,
+     "games": 78167,
+     "trophyInclusion": 65.0
+    },
+    {
+     "name": "Oaken Siren",
+     "inclusion": 62.9,
+     "winRate": 58.2,
+     "games": 82137,
+     "trophyInclusion": 67.0
+    },
+    {
+     "name": "Etali's Favor",
+     "inclusion": 41.6,
+     "winRate": 58.1,
+     "games": 54310,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Unlucky Drop",
+     "inclusion": 33.1,
+     "winRate": 58.1,
+     "games": 43030,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Volatile Wanderglyph",
+     "inclusion": 54.0,
+     "winRate": 58.0,
+     "games": 70482,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Inverted Iceberg",
+     "inclusion": 49.3,
+     "winRate": 58.0,
+     "games": 64196,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Dreadmaw's Ire",
+     "inclusion": 22.0,
+     "winRate": 58.0,
+     "games": 28517,
+     "trophyInclusion": 23.2
+    },
+    {
+     "name": "Plundering Pirate",
+     "inclusion": 55.2,
+     "winRate": 57.9,
+     "games": 71873,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 48.9,
+     "winRate": 57.9,
+     "games": 63489,
+     "trophyInclusion": 51.2
+    },
+    {
+     "name": "Brackish Blunder",
+     "inclusion": 47.0,
+     "winRate": 57.9,
+     "games": 61187,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Waylaying Pirates",
+     "inclusion": 56.4,
+     "winRate": 57.8,
+     "games": 73457,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Sunshot Militia",
+     "inclusion": 47.1,
+     "winRate": 57.8,
+     "games": 61372,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Diamond Pick-Axe",
+     "inclusion": 26.4,
+     "winRate": 57.8,
+     "games": 34422,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Belligerent Yearling",
+     "inclusion": 12.9,
+     "winRate": 57.8,
+     "games": 16755,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Poetic Ingenuity",
+     "inclusion": 7.8,
+     "winRate": 57.8,
+     "games": 10075,
+     "trophyInclusion": 8.6
+    },
+    {
+     "name": "Ancestors' Aid",
+     "inclusion": 27.4,
+     "winRate": 57.6,
+     "games": 35653,
+     "trophyInclusion": 28.7
+    },
+    {
+     "name": "Sunfire Torch",
+     "inclusion": 55.6,
+     "winRate": 57.5,
+     "games": 72141,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Hermitic Nautilus",
+     "inclusion": 23.1,
+     "winRate": 57.3,
+     "games": 29807,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Idol of the Deep King",
+     "inclusion": 49.8,
+     "winRate": 57.2,
+     "games": 64107,
+     "trophyInclusion": 48.3
+    },
+    {
+     "name": "Dinotomaton",
+     "inclusion": 35.6,
+     "winRate": 57.1,
+     "games": 45804,
+     "trophyInclusion": 34.8
+    },
+    {
+     "name": "The Belligerent",
+     "inclusion": 13.1,
+     "winRate": 57.1,
+     "games": 16830,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "Braided Net",
+     "inclusion": 8.6,
+     "winRate": 57.1,
+     "games": 11136,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Hidden Cataract",
+     "inclusion": 37.3,
+     "winRate": 57.0,
+     "games": 47906,
+     "trophyInclusion": 35.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2023-12-18",
+    "main": [
+     [
+      1,
+      "Abrade"
+     ],
+     [
+      1,
+      "Brackish Blunder"
+     ],
+     [
+      1,
+      "Brazen Blademaster"
+     ],
+     [
+      2,
+      "Captain Storm, Cosmium Raider"
+     ],
+     [
+      1,
+      "Cogwork Wrestler"
+     ],
+     [
+      1,
+      "Diamond Pick-Axe"
+     ],
+     [
+      1,
+      "Dinotomaton"
+     ],
+     [
+      1,
+      "Dowsing Device"
+     ],
+     [
+      1,
+      "Dreadmaw's Ire"
+     ],
+     [
+      3,
+      "Goblin Tomb Raider"
+     ],
+     [
+      1,
+      "Hidden Cataract"
+     ],
+     [
+      2,
+      "Hidden Volcano"
+     ],
+     [
+      1,
+      "Idol of the Deep King"
+     ],
+     [
+      1,
+      "Inverted Iceberg"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Oaken Siren"
+     ],
+     [
+      1,
+      "Plundering Pirate"
+     ],
+     [
+      1,
+      "Shipwreck Sentry"
+     ],
+     [
+      1,
+      "Sunfire Torch"
+     ],
+     [
+      1,
+      "Tishana's Tidebinder"
+     ],
+     [
+      1,
+      "Volatile Wanderglyph"
+     ],
+     [
+      1,
+      "Waterwind Scout"
+     ],
+     [
+      1,
+      "Waylaying Pirates"
+     ],
+     [
+      1,
+      "Zoetic Glyph"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Acrobatic Leap"
+     ],
+     [
+      1,
+      "Ancestors' Aid"
+     ],
+     [
+      1,
+      "Ancestral Reminiscence"
+     ],
+     [
+      1,
+      "Brazen Blademaster"
+     ],
+     [
+      1,
+      "Contested Game Ball"
+     ],
+     [
+      1,
+      "Dauntless Dismantler"
+     ],
+     [
+      1,
+      "Dead Weight"
+     ],
+     [
+      1,
+      "Didact Echo"
+     ],
+     [
+      1,
+      "Digsite Conservator"
+     ],
+     [
+      4,
+      "Pirate Hat"
+     ],
+     [
+      1,
+      "Self-Reflection"
+     ],
+     [
+      1,
+      "Song of Stupefaction"
+     ],
+     [
+      1,
+      "Thousand Moons Infantry"
+     ],
+     [
+      1,
+      "Unlucky Drop"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 107523,
+   "wins": 60363,
+   "winRate": 56.14,
+   "share": 13.06,
+   "drafts": 18048,
+   "trophies": 2459,
+   "cards": [
+    {
+     "name": "Sanguine Evangelist",
+     "inclusion": 7.9,
+     "winRate": 61.4,
+     "games": 9203,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Breeches, Eager Pillager",
+     "inclusion": 6.7,
+     "winRate": 60.1,
+     "games": 7572,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Magmatic Galleon",
+     "inclusion": 8.4,
+     "winRate": 59.1,
+     "games": 9404,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Warden of the Inner Sky",
+     "inclusion": 8.6,
+     "winRate": 58.9,
+     "games": 9554,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Kellan, Daring Traveler",
+     "inclusion": 7.3,
+     "winRate": 58.9,
+     "games": 8173,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Unstable Glyphbridge",
+     "inclusion": 7.3,
+     "winRate": 58.9,
+     "games": 8015,
+     "trophyInclusion": 9.2
+    },
+    {
+     "name": "Anim Pakal, Thousandth Moon",
+     "inclusion": 14.9,
+     "winRate": 58.8,
+     "games": 16681,
+     "trophyInclusion": 19.0
+    },
+    {
+     "name": "Inti, Seneschal of the Sun",
+     "inclusion": 8.0,
+     "winRate": 58.4,
+     "games": 8805,
+     "trophyInclusion": 9.5
+    },
+    {
+     "name": "Ruin-Lurker Bat",
+     "inclusion": 28.5,
+     "winRate": 58.3,
+     "games": 31674,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Quintorius Kand",
+     "inclusion": 6.1,
+     "winRate": 58.1,
+     "games": 6721,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Geological Appraiser",
+     "inclusion": 24.5,
+     "winRate": 57.9,
+     "games": 26918,
+     "trophyInclusion": 29.2
+    },
+    {
+     "name": "Trumpeting Carnosaur",
+     "inclusion": 6.2,
+     "winRate": 57.8,
+     "games": 6986,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Miner's Guidewing",
+     "inclusion": 55.8,
+     "winRate": 57.5,
+     "games": 61241,
+     "trophyInclusion": 62.5
+    },
+    {
+     "name": "Clay-Fired Bricks",
+     "inclusion": 29.5,
+     "winRate": 57.4,
+     "games": 32300,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Etali's Favor",
+     "inclusion": 42.9,
+     "winRate": 57.3,
+     "games": 46999,
+     "trophyInclusion": 47.4
+    },
+    {
+     "name": "Oltec Cloud Guard",
+     "inclusion": 55.8,
+     "winRate": 57.2,
+     "games": 61077,
+     "trophyInclusion": 60.5
+    },
+    {
+     "name": "Dire Flail",
+     "inclusion": 9.7,
+     "winRate": 57.2,
+     "games": 10541,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Thousand Moons Smithy",
+     "inclusion": 8.7,
+     "winRate": 57.2,
+     "games": 9502,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Petrify",
+     "inclusion": 48.3,
+     "winRate": 57.1,
+     "games": 52674,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Diamond Pick-Axe",
+     "inclusion": 24.2,
+     "winRate": 57.0,
+     "games": 26192,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Sunshot Militia",
+     "inclusion": 58.6,
+     "winRate": 56.8,
+     "games": 63557,
+     "trophyInclusion": 62.6
+    },
+    {
+     "name": "Vanguard of the Rose",
+     "inclusion": 24.4,
+     "winRate": 56.8,
+     "games": 26419,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Volatile Wanderglyph",
+     "inclusion": 53.4,
+     "winRate": 56.7,
+     "games": 58090,
+     "trophyInclusion": 57.3
+    },
+    {
+     "name": "Plundering Pirate",
+     "inclusion": 47.3,
+     "winRate": 56.7,
+     "games": 51215,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Dusk Rose Reliquary",
+     "inclusion": 23.0,
+     "winRate": 56.7,
+     "games": 24930,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Belligerent Yearling",
+     "inclusion": 16.9,
+     "winRate": 56.7,
+     "games": 18326,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Tinker's Tote",
+     "inclusion": 52.7,
+     "winRate": 56.6,
+     "games": 56939,
+     "trophyInclusion": 54.8
+    },
+    {
+     "name": "Spring-Loaded Sawblades",
+     "inclusion": 27.7,
+     "winRate": 56.6,
+     "games": 30109,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Dreadmaw's Ire",
+     "inclusion": 22.6,
+     "winRate": 56.6,
+     "games": 24496,
+     "trophyInclusion": 24.0
+    },
+    {
+     "name": "Ironpaw Aspirant",
+     "inclusion": 50.6,
+     "winRate": 56.5,
+     "games": 54800,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Caparocti Sunborn",
+     "inclusion": 42.9,
+     "winRate": 56.5,
+     "games": 46333,
+     "trophyInclusion": 44.8
+    },
+    {
+     "name": "Kinjalli's Dawnrunner",
+     "inclusion": 22.6,
+     "winRate": 56.4,
+     "games": 24364,
+     "trophyInclusion": 22.9
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 49.2,
+     "winRate": 56.3,
+     "games": 53010,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Attentive Sunscribe",
+     "inclusion": 50.0,
+     "winRate": 56.2,
+     "games": 53720,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Hidden Volcano",
+     "inclusion": 33.7,
+     "winRate": 56.2,
+     "games": 36303,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Goblin Tomb Raider",
+     "inclusion": 48.9,
+     "winRate": 56.1,
+     "games": 52495,
+     "trophyInclusion": 48.1
+    },
+    {
+     "name": "Hidden Courtyard",
+     "inclusion": 36.6,
+     "winRate": 56.1,
+     "games": 39164,
+     "trophyInclusion": 36.9
+    },
+    {
+     "name": "Triumphant Chomp",
+     "inclusion": 14.9,
+     "winRate": 56.1,
+     "games": 16074,
+     "trophyInclusion": 14.5
+    },
+    {
+     "name": "Acrobatic Leap",
+     "inclusion": 12.5,
+     "winRate": 56.1,
+     "games": 13582,
+     "trophyInclusion": 12.6
+    },
+    {
+     "name": "Sunfire Torch",
+     "inclusion": 49.5,
+     "winRate": 56.0,
+     "games": 53387,
+     "trophyInclusion": 49.1
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2023-11-16",
+    "main": [
+     [
+      1,
+      "Abrade"
+     ],
+     [
+      1,
+      "Ancestors' Aid"
+     ],
+     [
+      1,
+      "Attentive Sunscribe"
+     ],
+     [
+      1,
+      "Caparocti Sunborn"
+     ],
+     [
+      1,
+      "Etali's Favor"
+     ],
+     [
+      1,
+      "Goblin Tomb Raider"
+     ],
+     [
+      1,
+      "Hidden Courtyard"
+     ],
+     [
+      1,
+      "Hidden Volcano"
+     ],
+     [
+      2,
+      "Ironpaw Aspirant"
+     ],
+     [
+      1,
+      "Magmatic Galleon"
+     ],
+     [
+      1,
+      "Miner's Guidewing"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      1,
+      "Oltec Cloud Guard"
+     ],
+     [
+      2,
+      "Panicked Altisaur"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Plundering Pirate"
+     ],
+     [
+      1,
+      "Ruin-Lurker Bat"
+     ],
+     [
+      1,
+      "Rumbling Rockslide"
+     ],
+     [
+      1,
+      "Seismic Monstrosaur"
+     ],
+     [
+      1,
+      "Soaring Sandwing"
+     ],
+     [
+      1,
+      "Sunfire Torch"
+     ],
+     [
+      1,
+      "Sunshot Militia"
+     ],
+     [
+      1,
+      "Tinker's Tote"
+     ],
+     [
+      1,
+      "Vanguard of the Rose"
+     ],
+     [
+      1,
+      "Volatile Wanderglyph"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Attentive Sunscribe"
+     ],
+     [
+      1,
+      "Bitter Triumph"
+     ],
+     [
+      1,
+      "Chart a Course"
+     ],
+     [
+      1,
+      "Cosmium Blast"
+     ],
+     [
+      1,
+      "Daring Discovery"
+     ],
+     [
+      1,
+      "Dinotomaton"
+     ],
+     [
+      1,
+      "Disturbed Slumber"
+     ],
+     [
+      1,
+      "Dreadmaw's Ire"
+     ],
+     [
+      1,
+      "Envoy of Okinec Ahau"
+     ],
+     [
+      1,
+      "Idol of the Deep King"
+     ],
+     [
+      1,
+      "Kutzil, Malamet Exemplar"
+     ],
+     [
+      1,
+      "Oteclan Landmark"
+     ],
+     [
+      1,
+      "Over the Edge"
+     ],
+     [
+      1,
+      "Panicked Altisaur"
+     ],
+     [
+      1,
+      "Runaway Boulder"
+     ],
+     [
+      1,
+      "Song of Stupefaction"
+     ],
+     [
+      1,
+      "Tectonic Hazard"
+     ],
+     [
+      1,
+      "Unlucky Drop"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 102311,
+   "wins": 57987,
+   "winRate": 56.68,
+   "share": 12.42,
+   "drafts": 17071,
+   "trophies": 2495,
+   "cards": [
+    {
+     "name": "Palani's Hatcher",
+     "inclusion": 15.4,
+     "winRate": 60.7,
+     "games": 16658,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Sentinel of the Nameless City",
+     "inclusion": 7.5,
+     "winRate": 60.4,
+     "games": 8152,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Pugnacious Hammerskull",
+     "inclusion": 12.0,
+     "winRate": 60.1,
+     "games": 12844,
+     "trophyInclusion": 15.7
+    },
+    {
+     "name": "Huatli, Poet of Unity",
+     "inclusion": 5.6,
+     "winRate": 60.0,
+     "games": 5966,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Breeches, Eager Pillager",
+     "inclusion": 5.5,
+     "winRate": 59.3,
+     "games": 5828,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Intrepid Paleontologist",
+     "inclusion": 10.3,
+     "winRate": 59.2,
+     "games": 10917,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Trumpeting Carnosaur",
+     "inclusion": 8.8,
+     "winRate": 59.0,
+     "games": 9369,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Magmatic Galleon",
+     "inclusion": 7.0,
+     "winRate": 58.8,
+     "games": 7432,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Itzquinth, Firstborn of Gishath",
+     "inclusion": 45.2,
+     "winRate": 58.5,
+     "games": 47586,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Geological Appraiser",
+     "inclusion": 22.7,
+     "winRate": 58.5,
+     "games": 23680,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Inti, Seneschal of the Sun",
+     "inclusion": 6.8,
+     "winRate": 58.4,
+     "games": 7024,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Triumphant Chomp",
+     "inclusion": 30.1,
+     "winRate": 58.1,
+     "games": 31637,
+     "trophyInclusion": 34.4
+    },
+    {
+     "name": "Cenote Scout",
+     "inclusion": 22.0,
+     "winRate": 58.0,
+     "games": 22784,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Hulking Raptor",
+     "inclusion": 10.0,
+     "winRate": 57.9,
+     "games": 10443,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Pathfinding Axejaw",
+     "inclusion": 58.8,
+     "winRate": 57.8,
+     "games": 61328,
+     "trophyInclusion": 63.4
+    },
+    {
+     "name": "Belligerent Yearling",
+     "inclusion": 32.2,
+     "winRate": 57.8,
+     "games": 33717,
+     "trophyInclusion": 34.5
+    },
+    {
+     "name": "Huatli's Final Strike",
+     "inclusion": 55.5,
+     "winRate": 57.6,
+     "games": 57600,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Poison Dart Frog",
+     "inclusion": 54.7,
+     "winRate": 57.6,
+     "games": 56592,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Dreadmaw's Ire",
+     "inclusion": 25.1,
+     "winRate": 57.6,
+     "games": 25955,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Restless Ridgeline",
+     "inclusion": 11.3,
+     "winRate": 57.6,
+     "games": 11719,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Malamet Battle Glyph",
+     "inclusion": 26.5,
+     "winRate": 57.5,
+     "games": 27427,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Jadelight Spelunker",
+     "inclusion": 7.3,
+     "winRate": 57.5,
+     "games": 7545,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 48.4,
+     "winRate": 57.4,
+     "games": 49987,
+     "trophyInclusion": 51.3
+    },
+    {
+     "name": "Bedrock Tortoise",
+     "inclusion": 8.2,
+     "winRate": 57.4,
+     "games": 8460,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Armored Kincaller",
+     "inclusion": 65.0,
+     "winRate": 57.3,
+     "games": 67060,
+     "trophyInclusion": 68.3
+    },
+    {
+     "name": "Saheeli's Lattice",
+     "inclusion": 32.0,
+     "winRate": 57.3,
+     "games": 32914,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Thrashing Brontodon",
+     "inclusion": 29.3,
+     "winRate": 57.3,
+     "games": 30187,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Tendril of the Mycotyrant",
+     "inclusion": 22.1,
+     "winRate": 57.3,
+     "games": 22821,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Staggering Size",
+     "inclusion": 44.1,
+     "winRate": 57.2,
+     "games": 45405,
+     "trophyInclusion": 45.9
+    },
+    {
+     "name": "Colossadactyl",
+     "inclusion": 27.9,
+     "winRate": 57.2,
+     "games": 28611,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Scytheclaw Raptor",
+     "inclusion": 26.1,
+     "winRate": 57.2,
+     "games": 26895,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Cavern Stomper",
+     "inclusion": 52.6,
+     "winRate": 57.1,
+     "games": 54221,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Etali's Favor",
+     "inclusion": 40.5,
+     "winRate": 57.1,
+     "games": 41671,
+     "trophyInclusion": 42.8
+    },
+    {
+     "name": "Hidden Nursery",
+     "inclusion": 46.9,
+     "winRate": 57.0,
+     "games": 48106,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Ixalli's Lorekeeper",
+     "inclusion": 30.9,
+     "winRate": 57.0,
+     "games": 31695,
+     "trophyInclusion": 31.3
+    },
+    {
+     "name": "Scampering Surveyor",
+     "inclusion": 10.5,
+     "winRate": 57.0,
+     "games": 10763,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Panicked Altisaur",
+     "inclusion": 48.9,
+     "winRate": 56.9,
+     "games": 50304,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Hidden Volcano",
+     "inclusion": 42.7,
+     "winRate": 56.9,
+     "games": 43929,
+     "trophyInclusion": 43.1
+    },
+    {
+     "name": "Earthshaker Dreadmaw",
+     "inclusion": 31.3,
+     "winRate": 56.9,
+     "games": 32108,
+     "trophyInclusion": 32.0
+    },
+    {
+     "name": "Volatile Wanderglyph",
+     "inclusion": 34.6,
+     "winRate": 56.8,
+     "games": 35418,
+     "trophyInclusion": 35.5
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2023-12-07",
+    "main": [
+     [
+      1,
+      "Abrade"
+     ],
+     [
+      1,
+      "Armored Kincaller"
+     ],
+     [
+      1,
+      "Belligerent Yearling"
+     ],
+     [
+      1,
+      "Bonehoard Dracosaur"
+     ],
+     [
+      1,
+      "Burning Sun Cavalry"
+     ],
+     [
+      1,
+      "Captivating Cave"
+     ],
+     [
+      1,
+      "Cavern Stomper"
+     ],
+     [
+      1,
+      "Colossadactyl"
+     ],
+     [
+      1,
+      "Dinotomaton"
+     ],
+     [
+      1,
+      "Dreadmaw's Ire"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      2,
+      "Hidden Volcano"
+     ],
+     [
+      1,
+      "Huatli's Final Strike"
+     ],
+     [
+      1,
+      "Ixalli's Lorekeeper"
+     ],
+     [
+      1,
+      "Malamet Battle Glyph"
+     ],
+     [
+      1,
+      "Malamet Brawler"
+     ],
+     [
+      1,
+      "Mineshaft Spider"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Panicked Altisaur"
+     ],
+     [
+      1,
+      "Pathfinding Axejaw"
+     ],
+     [
+      2,
+      "Plundering Pirate"
+     ],
+     [
+      1,
+      "Poison Dart Frog"
+     ],
+     [
+      1,
+      "Restless Ridgeline"
+     ],
+     [
+      1,
+      "Rumbling Rockslide"
+     ],
+     [
+      1,
+      "Saheeli's Lattice"
+     ],
+     [
+      1,
+      "Staggering Size"
+     ],
+     [
+      1,
+      "Sunfire Torch"
+     ],
+     [
+      1,
+      "Triumphant Chomp"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Acolyte of Aclazotz"
+     ],
+     [
+      1,
+      "Ancestors' Aid"
+     ],
+     [
+      2,
+      "Another Chance"
+     ],
+     [
+      1,
+      "Buried Treasure"
+     ],
+     [
+      1,
+      "Compass Gnome"
+     ],
+     [
+      1,
+      "Daring Discovery"
+     ],
+     [
+      1,
+      "Disturbed Slumber"
+     ],
+     [
+      1,
+      "Goblin Tomb Raider"
+     ],
+     [
+      1,
+      "Kutzil, Malamet Exemplar"
+     ],
+     [
+      1,
+      "Pit of Offerings"
+     ],
+     [
+      1,
+      "River Herald Guide"
+     ],
+     [
+      1,
+      "Sage of Days"
+     ],
+     [
+      1,
+      "Soulcoil Viper"
+     ],
+     [
+      1,
+      "Vanguard of the Rose"
+     ],
+     [
+      1,
+      "Zoyowa's Justice"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 67417,
+   "wins": 36035,
+   "winRate": 53.45,
+   "share": 8.19,
+   "drafts": 11887,
+   "trophies": 1284,
+   "cards": [
+    {
+     "name": "Aclazotz, Deepest Betrayal",
+     "inclusion": 5.0,
+     "winRate": 60.6,
+     "games": 3780,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Kitesail Larcenist",
+     "inclusion": 8.0,
+     "winRate": 58.1,
+     "games": 5770,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Preacher of the Schism",
+     "inclusion": 9.2,
+     "winRate": 56.6,
+     "games": 6587,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Malcolm, Alluring Scoundrel",
+     "inclusion": 8.4,
+     "winRate": 56.4,
+     "games": 5896,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Chupacabra Echo",
+     "inclusion": 31.3,
+     "winRate": 56.3,
+     "games": 22060,
+     "trophyInclusion": 40.3
+    },
+    {
+     "name": "Deep-Cavern Bat",
+     "inclusion": 29.2,
+     "winRate": 55.9,
+     "games": 20409,
+     "trophyInclusion": 36.7
+    },
+    {
+     "name": "The Everflowing Well",
+     "inclusion": 9.7,
+     "winRate": 55.9,
+     "games": 6740,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Spyglass Siren",
+     "inclusion": 24.9,
+     "winRate": 55.8,
+     "games": 17382,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Zoetic Glyph",
+     "inclusion": 22.4,
+     "winRate": 55.7,
+     "games": 15634,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Akal Pakal, First Among Equals",
+     "inclusion": 7.8,
+     "winRate": 55.6,
+     "games": 5442,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Scampering Surveyor",
+     "inclusion": 12.4,
+     "winRate": 55.2,
+     "games": 8557,
+     "trophyInclusion": 13.7
+    },
+    {
+     "name": "Staunch Crewmate",
+     "inclusion": 14.7,
+     "winRate": 54.9,
+     "games": 10076,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Stalactite Stalker",
+     "inclusion": 8.7,
+     "winRate": 54.9,
+     "games": 6034,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Souls of the Lost",
+     "inclusion": 8.8,
+     "winRate": 54.8,
+     "games": 6082,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Waterwind Scout",
+     "inclusion": 52.7,
+     "winRate": 54.7,
+     "games": 36238,
+     "trophyInclusion": 58.6
+    },
+    {
+     "name": "Bringer of the Last Gift",
+     "inclusion": 8.1,
+     "winRate": 54.7,
+     "games": 5560,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Orazca Puzzle-Door",
+     "inclusion": 35.6,
+     "winRate": 54.6,
+     "games": 24366,
+     "trophyInclusion": 39.9
+    },
+    {
+     "name": "Defossilize",
+     "inclusion": 24.0,
+     "winRate": 54.6,
+     "games": 16437,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 23.9,
+     "winRate": 54.6,
+     "games": 16484,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Terror Tide",
+     "inclusion": 10.3,
+     "winRate": 54.5,
+     "games": 7125,
+     "trophyInclusion": 10.6
+    },
+    {
+     "name": "Cogwork Wrestler",
+     "inclusion": 33.2,
+     "winRate": 54.4,
+     "games": 22652,
+     "trophyInclusion": 36.8
+    },
+    {
+     "name": "Starving Revenant",
+     "inclusion": 9.8,
+     "winRate": 54.3,
+     "games": 6740,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Tithing Blade",
+     "inclusion": 51.7,
+     "winRate": 54.2,
+     "games": 35258,
+     "trophyInclusion": 55.4
+    },
+    {
+     "name": "Subterranean Schooner",
+     "inclusion": 7.7,
+     "winRate": 54.2,
+     "games": 5219,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Sage of Days",
+     "inclusion": 33.9,
+     "winRate": 54.1,
+     "games": 23030,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Unlucky Drop",
+     "inclusion": 21.9,
+     "winRate": 54.1,
+     "games": 14898,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Hidden Necropolis",
+     "inclusion": 48.2,
+     "winRate": 54.0,
+     "games": 32702,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Restless Reef",
+     "inclusion": 13.1,
+     "winRate": 54.0,
+     "games": 8935,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Dead Weight",
+     "inclusion": 58.3,
+     "winRate": 53.9,
+     "games": 39583,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Inverted Iceberg",
+     "inclusion": 55.1,
+     "winRate": 53.9,
+     "games": 37367,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Echo of Dusk",
+     "inclusion": 48.4,
+     "winRate": 53.9,
+     "games": 32824,
+     "trophyInclusion": 51.8
+    },
+    {
+     "name": "Deathcap Marionette",
+     "inclusion": 56.0,
+     "winRate": 53.8,
+     "games": 38082,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "The Ancient One",
+     "inclusion": 8.0,
+     "winRate": 53.8,
+     "games": 5441,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Join the Dead",
+     "inclusion": 53.3,
+     "winRate": 53.7,
+     "games": 36153,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Hidden Cataract",
+     "inclusion": 47.2,
+     "winRate": 53.7,
+     "games": 31847,
+     "trophyInclusion": 50.3
+    },
+    {
+     "name": "Chart a Course",
+     "inclusion": 19.1,
+     "winRate": 53.7,
+     "games": 12967,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Visage of Dread",
+     "inclusion": 30.9,
+     "winRate": 53.6,
+     "games": 20882,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Wail of the Forgotten",
+     "inclusion": 14.0,
+     "winRate": 53.6,
+     "games": 9490,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Another Chance",
+     "inclusion": 52.1,
+     "winRate": 53.5,
+     "games": 35042,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Oaken Siren",
+     "inclusion": 34.1,
+     "winRate": 53.4,
+     "games": 23005,
+     "trophyInclusion": 35.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-11-18",
+    "main": [
+     [
+      1,
+      "Another Chance"
+     ],
+     [
+      2,
+      "Bitter Triumph"
+     ],
+     [
+      1,
+      "Confounding Riddle"
+     ],
+     [
+      1,
+      "Deathcap Marionette"
+     ],
+     [
+      1,
+      "Deep-Cavern Bat"
+     ],
+     [
+      2,
+      "Didact Echo"
+     ],
+     [
+      1,
+      "Eaten by Piranhas"
+     ],
+     [
+      2,
+      "Fanatical Offering"
+     ],
+     [
+      1,
+      "Hidden Cataract"
+     ],
+     [
+      1,
+      "Hidden Necropolis"
+     ],
+     [
+      1,
+      "Inverted Iceberg"
+     ],
+     [
+      16,
+      "Island"
+     ],
+     [
+      1,
+      "Kitesail Larcenist"
+     ],
+     [
+      1,
+      "Lodestone Needle"
+     ],
+     [
+      2,
+      "Oaken Siren"
+     ],
+     [
+      2,
+      "Orazca Puzzle-Door"
+     ],
+     [
+      1,
+      "Ray of Ruin"
+     ],
+     [
+      1,
+      "River Herald Scout"
+     ],
+     [
+      1,
+      "Screaming Phantom"
+     ],
+     [
+      1,
+      "Spyglass Siren"
+     ],
+     [
+      1,
+      "Staunch Crewmate"
+     ],
+     [
+      9,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Everflowing Well"
+     ],
+     [
+      1,
+      "Uchbenbak, the Great Mistake"
+     ],
+     [
+      2,
+      "Unlucky Drop"
+     ],
+     [
+      1,
+      "Visage of Dread"
+     ],
+     [
+      1,
+      "Waterlogged Hulk"
+     ],
+     [
+      5,
+      "Waterwind Scout"
+     ],
+     [
+      1,
+      "Waylaying Pirates"
+     ],
+     [
+      1,
+      "Zoetic Glyph"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Acolyte of Aclazotz"
+     ],
+     [
+      1,
+      "Dusk Rose Reliquary"
+     ],
+     [
+      1,
+      "Oltec Cloud Guard"
+     ],
+     [
+      1,
+      "Spelunking"
+     ],
+     [
+      1,
+      "Walk with the Ancestors"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 56623,
+   "wins": 29870,
+   "winRate": 52.75,
+   "share": 6.87,
+   "drafts": 9992,
+   "trophies": 964,
+   "cards": [
+    {
+     "name": "Aclazotz, Deepest Betrayal",
+     "inclusion": 5.3,
+     "winRate": 60.0,
+     "games": 3412,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Sanguine Evangelist",
+     "inclusion": 9.7,
+     "winRate": 56.8,
+     "games": 5896,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Preacher of the Schism",
+     "inclusion": 10.4,
+     "winRate": 56.5,
+     "games": 6238,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Unstable Glyphbridge",
+     "inclusion": 9.3,
+     "winRate": 56.4,
+     "games": 5532,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Starving Revenant",
+     "inclusion": 9.0,
+     "winRate": 55.7,
+     "games": 5345,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Deep-Cavern Bat",
+     "inclusion": 29.8,
+     "winRate": 55.2,
+     "games": 17537,
+     "trophyInclusion": 38.4
+    },
+    {
+     "name": "Warden of the Inner Sky",
+     "inclusion": 7.7,
+     "winRate": 55.1,
+     "games": 4443,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Chupacabra Echo",
+     "inclusion": 26.3,
+     "winRate": 55.0,
+     "games": 15396,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Clay-Fired Bricks",
+     "inclusion": 30.0,
+     "winRate": 54.8,
+     "games": 17631,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Thousand Moons Smithy",
+     "inclusion": 7.3,
+     "winRate": 54.6,
+     "games": 4243,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Spring-Loaded Sawblades",
+     "inclusion": 28.7,
+     "winRate": 54.4,
+     "games": 16458,
+     "trophyInclusion": 34.9
+    },
+    {
+     "name": "Oltec Cloud Guard",
+     "inclusion": 50.4,
+     "winRate": 54.1,
+     "games": 29302,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Ruin-Lurker Bat",
+     "inclusion": 26.5,
+     "winRate": 54.1,
+     "games": 15271,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Corpses of the Lost",
+     "inclusion": 8.7,
+     "winRate": 54.1,
+     "games": 5006,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Miner's Guidewing",
+     "inclusion": 42.6,
+     "winRate": 54.0,
+     "games": 24548,
+     "trophyInclusion": 46.7
+    },
+    {
+     "name": "Scampering Surveyor",
+     "inclusion": 9.7,
+     "winRate": 53.9,
+     "games": 5624,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Tithing Blade",
+     "inclusion": 48.0,
+     "winRate": 53.8,
+     "games": 27687,
+     "trophyInclusion": 53.3
+    },
+    {
+     "name": "Fanatical Offering",
+     "inclusion": 47.7,
+     "winRate": 53.7,
+     "games": 27420,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Hidden Courtyard",
+     "inclusion": 41.8,
+     "winRate": 53.7,
+     "games": 24073,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Visage of Dread",
+     "inclusion": 29.2,
+     "winRate": 53.7,
+     "games": 16765,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Hidden Necropolis",
+     "inclusion": 43.3,
+     "winRate": 53.6,
+     "games": 24889,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Another Chance",
+     "inclusion": 40.6,
+     "winRate": 53.6,
+     "games": 23210,
+     "trophyInclusion": 45.4
+    },
+    {
+     "name": "Kinjalli's Dawnrunner",
+     "inclusion": 18.7,
+     "winRate": 53.6,
+     "games": 10691,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Skullcap Snail",
+     "inclusion": 49.3,
+     "winRate": 53.4,
+     "games": 28114,
+     "trophyInclusion": 51.6
+    },
+    {
+     "name": "Deconstruction Hammer",
+     "inclusion": 20.4,
+     "winRate": 53.4,
+     "games": 11709,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "Market Gnome",
+     "inclusion": 19.2,
+     "winRate": 53.4,
+     "games": 10977,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Kellan, Daring Traveler",
+     "inclusion": 6.6,
+     "winRate": 53.4,
+     "games": 3739,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Join the Dead",
+     "inclusion": 50.6,
+     "winRate": 53.3,
+     "games": 28898,
+     "trophyInclusion": 53.1
+    },
+    {
+     "name": "Tinker's Tote",
+     "inclusion": 49.1,
+     "winRate": 53.3,
+     "games": 28027,
+     "trophyInclusion": 52.8
+    },
+    {
+     "name": "Soaring Sandwing",
+     "inclusion": 32.7,
+     "winRate": 53.3,
+     "games": 18678,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Dusk Rose Reliquary",
+     "inclusion": 24.7,
+     "winRate": 53.3,
+     "games": 14139,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Synapse Necromage",
+     "inclusion": 26.0,
+     "winRate": 53.2,
+     "games": 14917,
+     "trophyInclusion": 26.6
+    },
+    {
+     "name": "Mephitic Draught",
+     "inclusion": 42.3,
+     "winRate": 53.0,
+     "games": 24086,
+     "trophyInclusion": 42.0
+    },
+    {
+     "name": "Quicksand Whirlpool",
+     "inclusion": 31.8,
+     "winRate": 53.0,
+     "games": 18039,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Vanguard of the Rose",
+     "inclusion": 24.9,
+     "winRate": 53.0,
+     "games": 14176,
+     "trophyInclusion": 25.9
+    },
+    {
+     "name": "Defossilize",
+     "inclusion": 16.3,
+     "winRate": 53.0,
+     "games": 9205,
+     "trophyInclusion": 17.1
+    },
+    {
+     "name": "Dead Weight",
+     "inclusion": 52.1,
+     "winRate": 52.9,
+     "games": 29550,
+     "trophyInclusion": 55.6
+    },
+    {
+     "name": "Petrify",
+     "inclusion": 42.8,
+     "winRate": 52.9,
+     "games": 24304,
+     "trophyInclusion": 42.1
+    },
+    {
+     "name": "Ironpaw Aspirant",
+     "inclusion": 37.2,
+     "winRate": 52.9,
+     "games": 21042,
+     "trophyInclusion": 37.1
+    },
+    {
+     "name": "Guardian of the Great Door",
+     "inclusion": 21.3,
+     "winRate": 52.9,
+     "games": 12012,
+     "trophyInclusion": 21.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-11-23",
+    "main": [
+     [
+      1,
+      "Aclazotz, Deepest Betrayal"
+     ],
+     [
+      1,
+      "Another Chance"
+     ],
+     [
+      1,
+      "Chupacabra Echo"
+     ],
+     [
+      1,
+      "Clay-Fired Bricks"
+     ],
+     [
+      1,
+      "Dead Weight"
+     ],
+     [
+      1,
+      "Deathcap Marionette"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      1,
+      "Echo of Dusk"
+     ],
+     [
+      1,
+      "Fanatical Offering"
+     ],
+     [
+      1,
+      "Greedy Freebooter"
+     ],
+     [
+      1,
+      "Guardian of the Great Door"
+     ],
+     [
+      1,
+      "Hidden Courtyard"
+     ],
+     [
+      1,
+      "Hidden Necropolis"
+     ],
+     [
+      1,
+      "Ironpaw Aspirant"
+     ],
+     [
+      2,
+      "Join the Dead"
+     ],
+     [
+      1,
+      "Kinjalli's Dawnrunner"
+     ],
+     [
+      1,
+      "Malamet War Scribe"
+     ],
+     [
+      2,
+      "Miner's Guidewing"
+     ],
+     [
+      1,
+      "Oltec Cloud Guard"
+     ],
+     [
+      1,
+      "Petrify"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Ray of Ruin"
+     ],
+     [
+      1,
+      "Starving Revenant"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tinker's Tote"
+     ],
+     [
+      1,
+      "Tithing Blade"
+     ]
+    ],
+    "side": [
+     [
+      3,
+      "Acrobatic Leap"
+     ],
+     [
+      1,
+      "Captivating Cave"
+     ],
+     [
+      1,
+      "Cosmium Blast"
+     ],
+     [
+      1,
+      "Family Reunion"
+     ],
+     [
+      1,
+      "Fungal Fortitude"
+     ],
+     [
+      1,
+      "Hit the Mother Lode"
+     ],
+     [
+      1,
+      "Hotfoot Gnome"
+     ],
+     [
+      1,
+      "Malamet Brawler"
+     ],
+     [
+      1,
+      "Master's Guide-Mural"
+     ],
+     [
+      1,
+      "Mephitic Draught"
+     ],
+     [
+      1,
+      "Primordial Gnawer"
+     ],
+     [
+      1,
+      "Rampaging Spiketail"
+     ],
+     [
+      1,
+      "Tectonic Hazard"
+     ],
+     [
+      1,
+      "Thousand Moons Infantry"
+     ],
+     [
+      1,
+      "Tinker's Tote"
+     ],
+     [
+      1,
+      "Tithing Blade"
+     ],
+     [
+      1,
+      "Zoyowa Lava-Tongue"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 56513,
+   "wins": 30507,
+   "winRate": 53.98,
+   "share": 6.86,
+   "drafts": 9825,
+   "trophies": 1099,
+   "cards": [
+    {
+     "name": "Preacher of the Schism",
+     "inclusion": 9.3,
+     "winRate": 58.8,
+     "games": 5598,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Sentinel of the Nameless City",
+     "inclusion": 9.4,
+     "winRate": 57.2,
+     "games": 5553,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Deep-Cavern Bat",
+     "inclusion": 28.5,
+     "winRate": 57.1,
+     "games": 16786,
+     "trophyInclusion": 37.9
+    },
+    {
+     "name": "Pugnacious Hammerskull",
+     "inclusion": 7.6,
+     "winRate": 56.9,
+     "games": 4510,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Intrepid Paleontologist",
+     "inclusion": 8.6,
+     "winRate": 56.6,
+     "games": 4998,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Cenote Scout",
+     "inclusion": 23.4,
+     "winRate": 56.0,
+     "games": 13579,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Jadelight Spelunker",
+     "inclusion": 8.8,
+     "winRate": 55.7,
+     "games": 5014,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Chupacabra Echo",
+     "inclusion": 30.3,
+     "winRate": 55.6,
+     "games": 17603,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Scampering Surveyor",
+     "inclusion": 12.2,
+     "winRate": 55.6,
+     "games": 7009,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Bringer of the Last Gift",
+     "inclusion": 9.3,
+     "winRate": 55.6,
+     "games": 5369,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Starving Revenant",
+     "inclusion": 9.6,
+     "winRate": 55.5,
+     "games": 5546,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Hulking Raptor",
+     "inclusion": 7.7,
+     "winRate": 55.5,
+     "games": 4409,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Thrashing Brontodon",
+     "inclusion": 22.8,
+     "winRate": 55.4,
+     "games": 13187,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Pathfinding Axejaw",
+     "inclusion": 45.9,
+     "winRate": 55.3,
+     "games": 26463,
+     "trophyInclusion": 53.0
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 25.2,
+     "winRate": 55.3,
+     "games": 14522,
+     "trophyInclusion": 28.9
+    },
+    {
+     "name": "Hidden Nursery",
+     "inclusion": 46.6,
+     "winRate": 55.2,
+     "games": 26809,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Poison Dart Frog",
+     "inclusion": 52.3,
+     "winRate": 55.1,
+     "games": 30068,
+     "trophyInclusion": 56.9
+    },
+    {
+     "name": "In the Presence of Ages",
+     "inclusion": 20.4,
+     "winRate": 55.0,
+     "games": 11669,
+     "trophyInclusion": 22.1
+    },
+    {
+     "name": "Souls of the Lost",
+     "inclusion": 8.2,
+     "winRate": 55.0,
+     "games": 4678,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Defossilize",
+     "inclusion": 28.5,
+     "winRate": 54.9,
+     "games": 16364,
+     "trophyInclusion": 31.0
+    },
+    {
+     "name": "Bedrock Tortoise",
+     "inclusion": 9.6,
+     "winRate": 54.8,
+     "games": 5476,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Armored Kincaller",
+     "inclusion": 28.3,
+     "winRate": 54.7,
+     "games": 16104,
+     "trophyInclusion": 31.5
+    },
+    {
+     "name": "Twists and Turns",
+     "inclusion": 18.1,
+     "winRate": 54.7,
+     "games": 10381,
+     "trophyInclusion": 20.0
+    },
+    {
+     "name": "Terror Tide",
+     "inclusion": 9.5,
+     "winRate": 54.7,
+     "games": 5405,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Dead Weight",
+     "inclusion": 58.2,
+     "winRate": 54.6,
+     "games": 33207,
+     "trophyInclusion": 60.7
+    },
+    {
+     "name": "Hidden Necropolis",
+     "inclusion": 50.4,
+     "winRate": 54.6,
+     "games": 28721,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Rampaging Spiketail",
+     "inclusion": 48.2,
+     "winRate": 54.6,
+     "games": 27557,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Nurturing Bristleback",
+     "inclusion": 47.1,
+     "winRate": 54.6,
+     "games": 26842,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Huatli's Final Strike",
+     "inclusion": 45.0,
+     "winRate": 54.6,
+     "games": 25607,
+     "trophyInclusion": 49.0
+    },
+    {
+     "name": "Colossadactyl",
+     "inclusion": 23.6,
+     "winRate": 54.6,
+     "games": 13389,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Malamet Battle Glyph",
+     "inclusion": 20.2,
+     "winRate": 54.6,
+     "games": 11528,
+     "trophyInclusion": 22.4
+    },
+    {
+     "name": "Another Chance",
+     "inclusion": 54.0,
+     "winRate": 54.5,
+     "games": 30869,
+     "trophyInclusion": 56.1
+    },
+    {
+     "name": "Captivating Cave",
+     "inclusion": 22.1,
+     "winRate": 54.5,
+     "games": 12596,
+     "trophyInclusion": 23.1
+    },
+    {
+     "name": "Deathcap Marionette",
+     "inclusion": 58.6,
+     "winRate": 54.4,
+     "games": 33405,
+     "trophyInclusion": 61.4
+    },
+    {
+     "name": "Mineshaft Spider",
+     "inclusion": 47.5,
+     "winRate": 54.4,
+     "games": 27028,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "River Herald Guide",
+     "inclusion": 36.9,
+     "winRate": 54.4,
+     "games": 20932,
+     "trophyInclusion": 39.1
+    },
+    {
+     "name": "Tendril of the Mycotyrant",
+     "inclusion": 24.4,
+     "winRate": 54.3,
+     "games": 13901,
+     "trophyInclusion": 26.2
+    },
+    {
+     "name": "Soulcoil Viper",
+     "inclusion": 22.7,
+     "winRate": 54.3,
+     "games": 12972,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Earthshaker Dreadmaw",
+     "inclusion": 15.2,
+     "winRate": 54.3,
+     "games": 8610,
+     "trophyInclusion": 16.2
+    },
+    {
+     "name": "Join the Dead",
+     "inclusion": 54.6,
+     "winRate": 54.2,
+     "games": 31049,
+     "trophyInclusion": 54.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2023-12-24",
+    "main": [
+     [
+      1,
+      "Another Chance"
+     ],
+     [
+      1,
+      "Armored Kincaller"
+     ],
+     [
+      1,
+      "Bringer of the Last Gift"
+     ],
+     [
+      1,
+      "Cavern Stomper"
+     ],
+     [
+      1,
+      "Cenote Scout"
+     ],
+     [
+      2,
+      "Colossadactyl"
+     ],
+     [
+      2,
+      "Deathcap Marionette"
+     ],
+     [
+      1,
+      "Defossilize"
+     ],
+     [
+      1,
+      "Echo of Dusk"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Hidden Necropolis"
+     ],
+     [
+      1,
+      "Hidden Nursery"
+     ],
+     [
+      1,
+      "Huatli's Final Strike"
+     ],
+     [
+      1,
+      "In the Presence of Ages"
+     ],
+     [
+      1,
+      "Malamet Battle Glyph"
+     ],
+     [
+      1,
+      "Nurturing Bristleback"
+     ],
+     [
+      1,
+      "Pathfinding Axejaw"
+     ],
+     [
+      1,
+      "Pit of Offerings"
+     ],
+     [
+      1,
+      "Poison Dart Frog"
+     ],
+     [
+      1,
+      "Rampaging Spiketail"
+     ],
+     [
+      1,
+      "Ray of Ruin"
+     ],
+     [
+      2,
+      "River Herald Guide"
+     ],
+     [
+      1,
+      "Shipwreck Sentry"
+     ],
+     [
+      1,
+      "Staggering Size"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Thrashing Brontodon"
+     ],
+     [
+      1,
+      "Throne of the Grim Captain"
+     ],
+     [
+      1,
+      "Tithing Blade"
+     ],
+     [
+      1,
+      "Twists and Turns"
+     ],
+     [
+      1,
+      "Walk with the Ancestors"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Ancestral Reminiscence"
+     ],
+     [
+      4,
+      "Basking Capybara"
+     ],
+     [
+      1,
+      "Deathcap Marionette"
+     ],
+     [
+      1,
+      "Didact Echo"
+     ],
+     [
+      1,
+      "Glimpse the Core"
+     ],
+     [
+      1,
+      "Malamet Brawler"
+     ],
+     [
+      1,
+      "Pirate Hat"
+     ],
+     [
+      1,
+      "Sage of Days"
+     ],
+     [
+      1,
+      "Song of Stupefaction"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 41829,
+   "wins": 23166,
+   "winRate": 55.38,
+   "share": 5.08,
+   "drafts": 7091,
+   "trophies": 877,
+   "cards": [
+    {
+     "name": "Sentinel of the Nameless City",
+     "inclusion": 10.1,
+     "winRate": 59.6,
+     "games": 4515,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Sanguine Evangelist",
+     "inclusion": 8.2,
+     "winRate": 59.4,
+     "games": 3646,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Ojer Kaslem, Deepest Growth",
+     "inclusion": 5.3,
+     "winRate": 58.3,
+     "games": 2311,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Bedrock Tortoise",
+     "inclusion": 10.4,
+     "winRate": 58.2,
+     "games": 4459,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Unstable Glyphbridge",
+     "inclusion": 8.1,
+     "winRate": 57.9,
+     "games": 3510,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Ruin-Lurker Bat",
+     "inclusion": 25.8,
+     "winRate": 57.7,
+     "games": 11241,
+     "trophyInclusion": 31.2
+    },
+    {
+     "name": "Pugnacious Hammerskull",
+     "inclusion": 7.8,
+     "winRate": 57.5,
+     "games": 3361,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Kellan, Daring Traveler",
+     "inclusion": 12.7,
+     "winRate": 57.4,
+     "games": 5500,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Warden of the Inner Sky",
+     "inclusion": 8.3,
+     "winRate": 57.1,
+     "games": 3567,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Intrepid Paleontologist",
+     "inclusion": 8.0,
+     "winRate": 57.0,
+     "games": 3449,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Explorer's Cache",
+     "inclusion": 28.5,
+     "winRate": 56.8,
+     "games": 12262,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Cenote Scout",
+     "inclusion": 28.3,
+     "winRate": 56.8,
+     "games": 12145,
+     "trophyInclusion": 31.4
+    },
+    {
+     "name": "Thrashing Brontodon",
+     "inclusion": 23.7,
+     "winRate": 56.7,
+     "games": 10113,
+     "trophyInclusion": 27.9
+    },
+    {
+     "name": "Miner's Guidewing",
+     "inclusion": 52.4,
+     "winRate": 56.6,
+     "games": 22413,
+     "trophyInclusion": 57.9
+    },
+    {
+     "name": "Petrify",
+     "inclusion": 51.1,
+     "winRate": 56.5,
+     "games": 21736,
+     "trophyInclusion": 56.0
+    },
+    {
+     "name": "Oltec Cloud Guard",
+     "inclusion": 53.5,
+     "winRate": 56.4,
+     "games": 22771,
+     "trophyInclusion": 59.2
+    },
+    {
+     "name": "Clay-Fired Bricks",
+     "inclusion": 28.4,
+     "winRate": 56.4,
+     "games": 12054,
+     "trophyInclusion": 30.8
+    },
+    {
+     "name": "Vanguard of the Rose",
+     "inclusion": 20.3,
+     "winRate": 56.4,
+     "games": 8710,
+     "trophyInclusion": 21.4
+    },
+    {
+     "name": "Malamet Battle Glyph",
+     "inclusion": 26.1,
+     "winRate": 56.2,
+     "games": 11148,
+     "trophyInclusion": 27.5
+    },
+    {
+     "name": "Thousand Moons Smithy",
+     "inclusion": 6.9,
+     "winRate": 56.2,
+     "games": 2890,
+     "trophyInclusion": 7.9
+    },
+    {
+     "name": "Hidden Nursery",
+     "inclusion": 44.5,
+     "winRate": 56.1,
+     "games": 18788,
+     "trophyInclusion": 47.0
+    },
+    {
+     "name": "Staggering Size",
+     "inclusion": 43.8,
+     "winRate": 56.1,
+     "games": 18627,
+     "trophyInclusion": 48.0
+    },
+    {
+     "name": "Huatli's Final Strike",
+     "inclusion": 54.7,
+     "winRate": 55.9,
+     "games": 23139,
+     "trophyInclusion": 57.2
+    },
+    {
+     "name": "Acrobatic Leap",
+     "inclusion": 16.9,
+     "winRate": 55.9,
+     "games": 7130,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Deconstruction Hammer",
+     "inclusion": 36.7,
+     "winRate": 55.8,
+     "games": 15593,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Kinjalli's Dawnrunner",
+     "inclusion": 25.4,
+     "winRate": 55.8,
+     "games": 10809,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Jadelight Spelunker",
+     "inclusion": 8.7,
+     "winRate": 55.8,
+     "games": 3659,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Kutzil, Malamet Exemplar",
+     "inclusion": 53.6,
+     "winRate": 55.7,
+     "games": 22606,
+     "trophyInclusion": 53.6
+    },
+    {
+     "name": "Dusk Rose Reliquary",
+     "inclusion": 18.4,
+     "winRate": 55.7,
+     "games": 7691,
+     "trophyInclusion": 19.5
+    },
+    {
+     "name": "Pathfinding Axejaw",
+     "inclusion": 50.5,
+     "winRate": 55.6,
+     "games": 21233,
+     "trophyInclusion": 52.1
+    },
+    {
+     "name": "Poison Dart Frog",
+     "inclusion": 47.6,
+     "winRate": 55.6,
+     "games": 19972,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Jade Seedstones",
+     "inclusion": 32.6,
+     "winRate": 55.6,
+     "games": 13841,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Spring-Loaded Sawblades",
+     "inclusion": 26.6,
+     "winRate": 55.6,
+     "games": 11134,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Restless Prairie",
+     "inclusion": 14.2,
+     "winRate": 55.6,
+     "games": 5958,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Ironpaw Aspirant",
+     "inclusion": 57.2,
+     "winRate": 55.5,
+     "games": 24055,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Tendril of the Mycotyrant",
+     "inclusion": 24.8,
+     "winRate": 55.5,
+     "games": 10393,
+     "trophyInclusion": 25.4
+    },
+    {
+     "name": "Earthshaker Dreadmaw",
+     "inclusion": 15.0,
+     "winRate": 55.5,
+     "games": 6339,
+     "trophyInclusion": 16.6
+    },
+    {
+     "name": "Kutzil's Flanker",
+     "inclusion": 7.5,
+     "winRate": 55.5,
+     "games": 3090,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "Hidden Courtyard",
+     "inclusion": 42.2,
+     "winRate": 55.4,
+     "games": 17652,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Soaring Sandwing",
+     "inclusion": 35.6,
+     "winRate": 55.4,
+     "games": 14859,
+     "trophyInclusion": 36.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2023-11-22",
+    "main": [
+     [
+      1,
+      "Acrobatic Leap"
+     ],
+     [
+      1,
+      "Clay-Fired Bricks"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Hidden Courtyard"
+     ],
+     [
+      1,
+      "Huatli's Final Strike"
+     ],
+     [
+      2,
+      "Ironpaw Aspirant"
+     ],
+     [
+      1,
+      "Jade Seedstones"
+     ],
+     [
+      1,
+      "Kellan, Daring Traveler"
+     ],
+     [
+      1,
+      "Kutzil, Malamet Exemplar"
+     ],
+     [
+      1,
+      "Malamet Battle Glyph"
+     ],
+     [
+      1,
+      "Malamet Brawler"
+     ],
+     [
+      1,
+      "Malamet Scythe"
+     ],
+     [
+      1,
+      "Miner's Guidewing"
+     ],
+     [
+      1,
+      "Oltec Cloud Guard"
+     ],
+     [
+      2,
+      "Pathfinding Axejaw"
+     ],
+     [
+      1,
+      "Petrify"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Poison Dart Frog"
+     ],
+     [
+      1,
+      "Quicksand Whirlpool"
+     ],
+     [
+      1,
+      "Restless Prairie"
+     ],
+     [
+      1,
+      "River Herald Guide"
+     ],
+     [
+      1,
+      "Soaring Sandwing"
+     ],
+     [
+      1,
+      "Staggering Size"
+     ],
+     [
+      1,
+      "Thrashing Brontodon"
+     ],
+     [
+      1,
+      "Vanguard of the Rose"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Acolyte of Aclazotz"
+     ],
+     [
+      1,
+      "Acrobatic Leap"
+     ],
+     [
+      1,
+      "Bartolomé del Presidio"
+     ],
+     [
+      1,
+      "Basking Capybara"
+     ],
+     [
+      1,
+      "Bat Colony"
+     ],
+     [
+      1,
+      "Caparocti Sunborn"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      1,
+      "Family Reunion"
+     ],
+     [
+      1,
+      "Idol of the Deep King"
+     ],
+     [
+      1,
+      "In the Presence of Ages"
+     ],
+     [
+      1,
+      "Malamet Scythe"
+     ],
+     [
+      1,
+      "Nurturing Bristleback"
+     ],
+     [
+      1,
+      "Oteclan Landmark"
+     ],
+     [
+      1,
+      "Scytheclaw Raptor"
+     ],
+     [
+      3,
+      "Thousand Moons Infantry"
+     ],
+     [
+      1,
+      "Volatile Fault"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 40176,
+   "wins": 21005,
+   "winRate": 52.28,
+   "share": 4.88,
+   "drafts": 7144,
+   "trophies": 713,
+   "cards": [
+    {
+     "name": "Aclazotz, Deepest Betrayal",
+     "inclusion": 5.1,
+     "winRate": 58.9,
+     "games": 2224,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Breeches, Eager Pillager",
+     "inclusion": 7.2,
+     "winRate": 57.0,
+     "games": 3102,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Magmatic Galleon",
+     "inclusion": 8.9,
+     "winRate": 56.9,
+     "games": 3759,
+     "trophyInclusion": 13.6
+    },
+    {
+     "name": "Trumpeting Carnosaur",
+     "inclusion": 8.6,
+     "winRate": 55.7,
+     "games": 3674,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Deep-Cavern Bat",
+     "inclusion": 29.2,
+     "winRate": 55.4,
+     "games": 12350,
+     "trophyInclusion": 39.6
+    },
+    {
+     "name": "Geological Appraiser",
+     "inclusion": 24.8,
+     "winRate": 55.3,
+     "games": 10420,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Preacher of the Schism",
+     "inclusion": 9.4,
+     "winRate": 55.2,
+     "games": 3942,
+     "trophyInclusion": 11.6
+    },
+    {
+     "name": "Chupacabra Echo",
+     "inclusion": 27.7,
+     "winRate": 54.9,
+     "games": 11474,
+     "trophyInclusion": 37.0
+    },
+    {
+     "name": "Inti, Seneschal of the Sun",
+     "inclusion": 8.5,
+     "winRate": 54.7,
+     "games": 3578,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Saheeli's Lattice",
+     "inclusion": 18.6,
+     "winRate": 53.8,
+     "games": 7645,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Starving Revenant",
+     "inclusion": 9.1,
+     "winRate": 53.8,
+     "games": 3771,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Tithing Blade",
+     "inclusion": 46.7,
+     "winRate": 53.5,
+     "games": 19076,
+     "trophyInclusion": 53.9
+    },
+    {
+     "name": "Belligerent Yearling",
+     "inclusion": 16.3,
+     "winRate": 53.5,
+     "games": 6718,
+     "trophyInclusion": 17.0
+    },
+    {
+     "name": "Volatile Wanderglyph",
+     "inclusion": 46.5,
+     "winRate": 53.4,
+     "games": 19061,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Bitter Triumph",
+     "inclusion": 25.6,
+     "winRate": 53.4,
+     "games": 10468,
+     "trophyInclusion": 27.3
+    },
+    {
+     "name": "Etali's Favor",
+     "inclusion": 29.1,
+     "winRate": 53.3,
+     "games": 11795,
+     "trophyInclusion": 31.6
+    },
+    {
+     "name": "Restless Vents",
+     "inclusion": 12.8,
+     "winRate": 53.2,
+     "games": 5221,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Scampering Surveyor",
+     "inclusion": 9.8,
+     "winRate": 53.2,
+     "games": 3956,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Plundering Pirate",
+     "inclusion": 43.4,
+     "winRate": 53.1,
+     "games": 17640,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Hidden Volcano",
+     "inclusion": 41.8,
+     "winRate": 53.1,
+     "games": 17000,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Echo of Dusk",
+     "inclusion": 41.0,
+     "winRate": 53.1,
+     "games": 16655,
+     "trophyInclusion": 45.0
+    },
+    {
+     "name": "Another Chance",
+     "inclusion": 43.9,
+     "winRate": 53.0,
+     "games": 17863,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Visage of Dread",
+     "inclusion": 29.4,
+     "winRate": 53.0,
+     "games": 11920,
+     "trophyInclusion": 30.0
+    },
+    {
+     "name": "Hidden Necropolis",
+     "inclusion": 46.6,
+     "winRate": 52.9,
+     "games": 18955,
+     "trophyInclusion": 49.9
+    },
+    {
+     "name": "Stalactite Stalker",
+     "inclusion": 9.1,
+     "winRate": 52.9,
+     "games": 3669,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Dead Weight",
+     "inclusion": 56.5,
+     "winRate": 52.8,
+     "games": 22926,
+     "trophyInclusion": 60.9
+    },
+    {
+     "name": "Synapse Necromage",
+     "inclusion": 21.2,
+     "winRate": 52.8,
+     "games": 8515,
+     "trophyInclusion": 22.2
+    },
+    {
+     "name": "Corpses of the Lost",
+     "inclusion": 9.7,
+     "winRate": 52.8,
+     "games": 3919,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Careening Mine Cart",
+     "inclusion": 9.3,
+     "winRate": 52.8,
+     "games": 3744,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Dire Flail",
+     "inclusion": 8.3,
+     "winRate": 52.8,
+     "games": 3362,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Abrade",
+     "inclusion": 51.3,
+     "winRate": 52.7,
+     "games": 20726,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Defossilize",
+     "inclusion": 20.1,
+     "winRate": 52.7,
+     "games": 8103,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Scytheclaw Raptor",
+     "inclusion": 18.6,
+     "winRate": 52.7,
+     "games": 7531,
+     "trophyInclusion": 18.2
+    },
+    {
+     "name": "Panicked Altisaur",
+     "inclusion": 27.6,
+     "winRate": 52.6,
+     "games": 11133,
+     "trophyInclusion": 27.8
+    },
+    {
+     "name": "Molten Collapse",
+     "inclusion": 18.6,
+     "winRate": 52.6,
+     "games": 7465,
+     "trophyInclusion": 17.4
+    },
+    {
+     "name": "Digsite Conservator",
+     "inclusion": 9.0,
+     "winRate": 52.6,
+     "games": 3625,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Join the Dead",
+     "inclusion": 54.6,
+     "winRate": 52.5,
+     "games": 21963,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Deathcap Marionette",
+     "inclusion": 46.4,
+     "winRate": 52.5,
+     "games": 18565,
+     "trophyInclusion": 47.5
+    },
+    {
+     "name": "Sunfire Torch",
+     "inclusion": 36.9,
+     "winRate": 52.5,
+     "games": 14928,
+     "trophyInclusion": 38.6
+    },
+    {
+     "name": "Skullcap Snail",
+     "inclusion": 47.8,
+     "winRate": 52.4,
+     "games": 19237,
+     "trophyInclusion": 47.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2023-12-03",
+    "main": [
+     [
+      2,
+      "Abrade"
+     ],
+     [
+      1,
+      "Another Chance"
+     ],
+     [
+      1,
+      "Captivating Cave"
+     ],
+     [
+      1,
+      "Chupacabra Echo"
+     ],
+     [
+      1,
+      "Dead Weight"
+     ],
+     [
+      1,
+      "Deep Goblin Skulltaker"
+     ],
+     [
+      1,
+      "Dinotomaton"
+     ],
+     [
+      1,
+      "Echo of Dusk"
+     ],
+     [
+      1,
+      "Fanatical Offering"
+     ],
+     [
+      1,
+      "Grasping Shadows"
+     ],
+     [
+      1,
+      "Hidden Necropolis"
+     ],
+     [
+      1,
+      "Hidden Volcano"
+     ],
+     [
+      1,
+      "Magmatic Galleon"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      2,
+      "Panicked Altisaur"
+     ],
+     [
+      1,
+      "Rampaging Spiketail"
+     ],
+     [
+      1,
+      "Restless Vents"
+     ],
+     [
+      1,
+      "Saheeli's Lattice"
+     ],
+     [
+      1,
+      "Screaming Phantom"
+     ],
+     [
+      1,
+      "Skullcap Snail"
+     ],
+     [
+      1,
+      "Stinging Cave Crawler"
+     ],
+     [
+      1,
+      "Sunfire Torch"
+     ],
+     [
+      6,
+      "Swamp"
+     ],
+     [
+      1,
+      "Tithing Blade"
+     ],
+     [
+      1,
+      "Visage of Dread"
+     ],
+     [
+      1,
+      "Volatile Wanderglyph"
+     ],
+     [
+      2,
+      "Zoyowa Lava-Tongue"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Brackish Blunder"
+     ],
+     [
+      1,
+      "Brazen Blademaster"
+     ],
+     [
+      1,
+      "Burning Sun Cavalry"
+     ],
+     [
+      1,
+      "Careening Mine Cart"
+     ],
+     [
+      1,
+      "Child of the Volcano"
+     ],
+     [
+      1,
+      "Dead Weight"
+     ],
+     [
+      1,
+      "Gargantuan Leech"
+     ],
+     [
+      1,
+      "Hermitic Nautilus"
+     ],
+     [
+      1,
+      "Malamet Scythe"
+     ],
+     [
+      1,
+      "Mephitic Draught"
+     ],
+     [
+      1,
+      "Mineshaft Spider"
+     ],
+     [
+      1,
+      "Primordial Gnawer"
+     ],
+     [
+      1,
+      "Ray of Ruin"
+     ],
+     [
+      1,
+      "Runaway Boulder"
+     ],
+     [
+      1,
+      "Uchbenbak, the Great Mistake"
+     ],
+     [
+      1,
+      "Vito's Inquisitor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 32059,
+   "wins": 17051,
+   "winRate": 53.19,
+   "share": 3.89,
+   "drafts": 5656,
+   "trophies": 592,
+   "cards": [
+    {
+     "name": "Kitesail Larcenist",
+     "inclusion": 8.3,
+     "winRate": 58.3,
+     "games": 2908,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Sentinel of the Nameless City",
+     "inclusion": 12.1,
+     "winRate": 58.1,
+     "games": 4074,
+     "trophyInclusion": 20.1
+    },
+    {
+     "name": "Pugnacious Hammerskull",
+     "inclusion": 7.3,
+     "winRate": 56.4,
+     "games": 2480,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Malcolm, Alluring Scoundrel",
+     "inclusion": 7.9,
+     "winRate": 56.0,
+     "games": 2598,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Spyglass Siren",
+     "inclusion": 27.2,
+     "winRate": 55.7,
+     "games": 9098,
+     "trophyInclusion": 33.6
+    },
+    {
+     "name": "Deepfathom Echo",
+     "inclusion": 25.2,
+     "winRate": 55.6,
+     "games": 8437,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Zoetic Glyph",
+     "inclusion": 17.5,
+     "winRate": 55.2,
+     "games": 5759,
+     "trophyInclusion": 21.5
+    },
+    {
+     "name": "Jadelight Spelunker",
+     "inclusion": 11.7,
+     "winRate": 55.1,
+     "games": 3894,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Intrepid Paleontologist",
+     "inclusion": 7.0,
+     "winRate": 55.0,
+     "games": 2328,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Cogwork Wrestler",
+     "inclusion": 33.5,
+     "winRate": 54.8,
+     "games": 10907,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Lodestone Needle",
+     "inclusion": 30.8,
+     "winRate": 54.8,
+     "games": 10024,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Subterranean Schooner",
+     "inclusion": 10.0,
+     "winRate": 54.8,
+     "games": 3295,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "Cenote Scout",
+     "inclusion": 32.5,
+     "winRate": 54.7,
+     "games": 10598,
+     "trophyInclusion": 40.7
+    },
+    {
+     "name": "Unlucky Drop",
+     "inclusion": 33.2,
+     "winRate": 54.6,
+     "games": 10903,
+     "trophyInclusion": 37.7
+    },
+    {
+     "name": "Malamet Battle Glyph",
+     "inclusion": 27.1,
+     "winRate": 54.5,
+     "games": 8790,
+     "trophyInclusion": 32.8
+    },
+    {
+     "name": "Staggering Size",
+     "inclusion": 33.6,
+     "winRate": 54.4,
+     "games": 11019,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Thrashing Brontodon",
+     "inclusion": 22.7,
+     "winRate": 54.4,
+     "games": 7386,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Bedrock Tortoise",
+     "inclusion": 9.0,
+     "winRate": 54.4,
+     "games": 2942,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Akal Pakal, First Among Equals",
+     "inclusion": 6.3,
+     "winRate": 54.4,
+     "games": 2048,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Waterwind Scout",
+     "inclusion": 60.8,
+     "winRate": 54.2,
+     "games": 19787,
+     "trophyInclusion": 66.2
+    },
+    {
+     "name": "Pathfinding Axejaw",
+     "inclusion": 54.0,
+     "winRate": 54.2,
+     "games": 17604,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Jade Seedstones",
+     "inclusion": 25.5,
+     "winRate": 54.2,
+     "games": 8328,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Inverted Iceberg",
+     "inclusion": 32.6,
+     "winRate": 54.1,
+     "games": 10567,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Explorer's Cache",
+     "inclusion": 22.2,
+     "winRate": 54.1,
+     "games": 7180,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Armored Kincaller",
+     "inclusion": 29.3,
+     "winRate": 54.0,
+     "games": 9464,
+     "trophyInclusion": 32.3
+    },
+    {
+     "name": "Poison Dart Frog",
+     "inclusion": 48.4,
+     "winRate": 53.9,
+     "games": 15686,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Tendril of the Mycotyrant",
+     "inclusion": 23.2,
+     "winRate": 53.9,
+     "games": 7489,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Earthshaker Dreadmaw",
+     "inclusion": 15.3,
+     "winRate": 53.8,
+     "games": 4919,
+     "trophyInclusion": 17.2
+    },
+    {
+     "name": "Hulking Raptor",
+     "inclusion": 6.9,
+     "winRate": 53.8,
+     "games": 2226,
+     "trophyInclusion": 7.8
+    },
+    {
+     "name": "Huatli's Final Strike",
+     "inclusion": 56.3,
+     "winRate": 53.7,
+     "games": 18274,
+     "trophyInclusion": 62.0
+    },
+    {
+     "name": "Brackish Blunder",
+     "inclusion": 49.7,
+     "winRate": 53.7,
+     "games": 16019,
+     "trophyInclusion": 51.5
+    },
+    {
+     "name": "Oaken Siren",
+     "inclusion": 33.3,
+     "winRate": 53.6,
+     "games": 10739,
+     "trophyInclusion": 33.3
+    },
+    {
+     "name": "Cavern Stomper",
+     "inclusion": 39.1,
+     "winRate": 53.5,
+     "games": 12597,
+     "trophyInclusion": 40.2
+    },
+    {
+     "name": "Hidden Nursery",
+     "inclusion": 48.2,
+     "winRate": 53.4,
+     "games": 15589,
+     "trophyInclusion": 48.6
+    },
+    {
+     "name": "Merfolk Cave-Diver",
+     "inclusion": 32.0,
+     "winRate": 53.4,
+     "games": 10252,
+     "trophyInclusion": 31.8
+    },
+    {
+     "name": "Colossadactyl",
+     "inclusion": 21.5,
+     "winRate": 53.4,
+     "games": 6930,
+     "trophyInclusion": 21.6
+    },
+    {
+     "name": "Hidden Cataract",
+     "inclusion": 47.9,
+     "winRate": 53.3,
+     "games": 15389,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "River Herald Scout",
+     "inclusion": 63.5,
+     "winRate": 53.2,
+     "games": 20383,
+     "trophyInclusion": 63.0
+    },
+    {
+     "name": "Eaten by Piranhas",
+     "inclusion": 19.9,
+     "winRate": 53.2,
+     "games": 6341,
+     "trophyInclusion": 20.4
+    },
+    {
+     "name": "Hermitic Nautilus",
+     "inclusion": 19.4,
+     "winRate": 53.2,
+     "games": 6183,
+     "trophyInclusion": 20.3
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2023-11-25",
+    "main": [
+     [
+      1,
+      "Ancestral Reminiscence"
+     ],
+     [
+      1,
+      "Armored Kincaller"
+     ],
+     [
+      1,
+      "Brackish Blunder"
+     ],
+     [
+      2,
+      "Cavern Stomper"
+     ],
+     [
+      1,
+      "Cogwork Wrestler"
+     ],
+     [
+      1,
+      "Colossadactyl"
+     ],
+     [
+      1,
+      "Eaten by Piranhas"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Hidden Cataract"
+     ],
+     [
+      1,
+      "Hidden Nursery"
+     ],
+     [
+      1,
+      "Huatli's Final Strike"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Lodestone Needle"
+     ],
+     [
+      1,
+      "Malamet Brawler"
+     ],
+     [
+      1,
+      "Nicanzil, Current Conductor"
+     ],
+     [
+      1,
+      "Nurturing Bristleback"
+     ],
+     [
+      1,
+      "Over the Edge"
+     ],
+     [
+      2,
+      "Pathfinding Axejaw"
+     ],
+     [
+      1,
+      "Poison Dart Frog"
+     ],
+     [
+      1,
+      "River Herald Guide"
+     ],
+     [
+      1,
+      "River Herald Scout"
+     ],
+     [
+      1,
+      "Sentinel of the Nameless City"
+     ],
+     [
+      2,
+      "Staggering Size"
+     ],
+     [
+      1,
+      "Waterwind Scout"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Akawalli, the Seething Tower"
+     ],
+     [
+      1,
+      "Basking Capybara"
+     ],
+     [
+      1,
+      "Deathcap Marionette"
+     ],
+     [
+      1,
+      "Deconstruction Hammer"
+     ],
+     [
+      1,
+      "Deep-Cavern Bat"
+     ],
+     [
+      1,
+      "Dusk Rose Reliquary"
+     ],
+     [
+      1,
+      "Frilled Cave-Wurm"
+     ],
+     [
+      1,
+      "Hidden Nursery"
+     ],
+     [
+      1,
+      "In the Presence of Ages"
+     ],
+     [
+      1,
+      "Inti, Seneschal of the Sun"
+     ],
+     [
+      1,
+      "Ironpaw Aspirant"
+     ],
+     [
+      1,
+      "Malamet Scythe"
+     ],
+     [
+      2,
+      "Over the Edge"
+     ],
+     [
+      1,
+      "Primordial Gnawer"
+     ],
+     [
+      1,
+      "Ruin-Lurker Bat"
+     ],
+     [
+      1,
+      "Stalactite Stalker"
+     ],
+     [
+      1,
+      "Tectonic Hazard"
+     ],
+     [
+      1,
+      "Tinker's Tote"
+     ],
+     [
+      1,
+      "Vito's Inquisitor"
+     ]
+    ]
+   }
+  }
+ ]
+}

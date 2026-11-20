@@ -1,0 +1,4999 @@
+{
+ "set": "fin",
+ "format": "PremierDraft",
+ "source": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FIN.PremierDraft.csv.gz",
+ "lastModified": "Sat, 19 Jul 2025 01:24:08 GMT",
+ "colorsDerived": false,
+ "first": "2025-06-10",
+ "last": "2025-07-14",
+ "games": 769659,
+ "drafts": 138498,
+ "winRate": 55.73,
+ "combos": [
+  {
+   "colors": "UR",
+   "games": 104526,
+   "wins": 59938,
+   "winRate": 57.34,
+   "share": 13.58,
+   "drafts": 18547,
+   "trophies": 1848,
+   "cards": [
+    {
+     "name": "Nibelheim Aflame",
+     "inclusion": 5.8,
+     "winRate": 61.1,
+     "games": 6411,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "Jill, Shiva's Dominant",
+     "inclusion": 8.9,
+     "winRate": 59.9,
+     "games": 9552,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Memories Returning",
+     "inclusion": 12.1,
+     "winRate": 59.8,
+     "games": 13062,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Lightning Bolt",
+     "inclusion": 10.0,
+     "winRate": 59.7,
+     "games": 10840,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Choco-Comet",
+     "inclusion": 31.2,
+     "winRate": 59.6,
+     "games": 33631,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Swallowed by Leviathan",
+     "inclusion": 26.7,
+     "winRate": 59.1,
+     "games": 28558,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Ultros, Obnoxious Octopus",
+     "inclusion": 36.0,
+     "winRate": 59.0,
+     "games": 38440,
+     "trophyInclusion": 43.3
+    },
+    {
+     "name": "Counterspell",
+     "inclusion": 10.6,
+     "winRate": 59.0,
+     "games": 11225,
+     "trophyInclusion": 12.7
+    },
+    {
+     "name": "The Lunar Whale",
+     "inclusion": 9.7,
+     "winRate": 59.0,
+     "games": 10323,
+     "trophyInclusion": 11.8
+    },
+    {
+     "name": "Sorceress's Schemes",
+     "inclusion": 28.8,
+     "winRate": 58.6,
+     "games": 30345,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Sidequest: Card Collection",
+     "inclusion": 26.1,
+     "winRate": 58.6,
+     "games": 27636,
+     "trophyInclusion": 28.4
+    },
+    {
+     "name": "Ice Magic",
+     "inclusion": 62.7,
+     "winRate": 58.5,
+     "games": 66421,
+     "trophyInclusion": 69.9
+    },
+    {
+     "name": "Thunder Magic",
+     "inclusion": 58.4,
+     "winRate": 58.5,
+     "games": 62031,
+     "trophyInclusion": 64.1
+    },
+    {
+     "name": "Samurai's Katana",
+     "inclusion": 21.5,
+     "winRate": 58.5,
+     "games": 22908,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Combat Tutorial",
+     "inclusion": 54.9,
+     "winRate": 58.4,
+     "games": 58160,
+     "trophyInclusion": 60.1
+    },
+    {
+     "name": "Eject",
+     "inclusion": 32.6,
+     "winRate": 58.4,
+     "games": 34844,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Sleep Magic",
+     "inclusion": 23.5,
+     "winRate": 58.4,
+     "games": 25080,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Sahagin",
+     "inclusion": 68.2,
+     "winRate": 58.3,
+     "games": 72313,
+     "trophyInclusion": 72.5
+    },
+    {
+     "name": "Call the Mountain Chocobo",
+     "inclusion": 57.8,
+     "winRate": 58.3,
+     "games": 61244,
+     "trophyInclusion": 62.7
+    },
+    {
+     "name": "Il Mheg Pixie",
+     "inclusion": 25.2,
+     "winRate": 58.3,
+     "games": 26686,
+     "trophyInclusion": 26.1
+    },
+    {
+     "name": "Dragoon's Wyvern",
+     "inclusion": 55.5,
+     "winRate": 58.2,
+     "games": 58909,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Shantotto, Tactician Magician",
+     "inclusion": 50.1,
+     "winRate": 58.2,
+     "games": 53061,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Prompto Argentum",
+     "inclusion": 25.2,
+     "winRate": 58.2,
+     "games": 26704,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Dreams of Laguna",
+     "inclusion": 61.7,
+     "winRate": 58.1,
+     "games": 65262,
+     "trophyInclusion": 66.2
+    },
+    {
+     "name": "Blazing Bomb",
+     "inclusion": 54.4,
+     "winRate": 58.1,
+     "games": 57420,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "The Emperor of Palamecia",
+     "inclusion": 49.5,
+     "winRate": 58.1,
+     "games": 52393,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Summon: Leviathan",
+     "inclusion": 9.3,
+     "winRate": 58.1,
+     "games": 9800,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Syncopate",
+     "inclusion": 52.5,
+     "winRate": 57.8,
+     "games": 55300,
+     "trophyInclusion": 54.2
+    },
+    {
+     "name": "Fire Magic",
+     "inclusion": 23.2,
+     "winRate": 57.6,
+     "games": 24260,
+     "trophyInclusion": 22.6
+    },
+    {
+     "name": "Seifer Almasy",
+     "inclusion": 8.6,
+     "winRate": 57.6,
+     "games": 9001,
+     "trophyInclusion": 9.3
+    },
+    {
+     "name": "Retrieve the Esper",
+     "inclusion": 58.9,
+     "winRate": 57.5,
+     "games": 62015,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Baron, Airship Kingdom",
+     "inclusion": 53.1,
+     "winRate": 57.5,
+     "games": 55717,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Suplex",
+     "inclusion": 48.9,
+     "winRate": 57.5,
+     "games": 51423,
+     "trophyInclusion": 48.4
+    },
+    {
+     "name": "Captain Lannery Storm",
+     "inclusion": 7.5,
+     "winRate": 57.5,
+     "games": 7870,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Vivi Ornitier",
+     "inclusion": 7.8,
+     "winRate": 57.4,
+     "games": 8301,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Scorpion Sentinel",
+     "inclusion": 35.2,
+     "winRate": 57.3,
+     "games": 36817,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 25.0,
+     "winRate": 57.3,
+     "games": 26166,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Astrologian's Planisphere",
+     "inclusion": 9.5,
+     "winRate": 57.3,
+     "games": 10051,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Quistis Trepe",
+     "inclusion": 25.4,
+     "winRate": 57.1,
+     "games": 26520,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Magic Damper",
+     "inclusion": 26.2,
+     "winRate": 56.9,
+     "games": 27171,
+     "trophyInclusion": 23.9
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-07-02",
+    "main": [
+     [
+      1,
+      "Adventurer's Inn"
+     ],
+     [
+      1,
+      "Baron, Airship Kingdom"
+     ],
+     [
+      2,
+      "Blazing Bomb"
+     ],
+     [
+      1,
+      "Call the Mountain Chocobo"
+     ],
+     [
+      1,
+      "Choco-Comet"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      1,
+      "Dreams of Laguna"
+     ],
+     [
+      1,
+      "Eject"
+     ],
+     [
+      1,
+      "Fire Magic"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      1,
+      "Il Mheg Pixie"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Laughing Mad"
+     ],
+     [
+      1,
+      "Light of Judgment"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Sahagin"
+     ],
+     [
+      1,
+      "Shantotto, Tactician Magician"
+     ],
+     [
+      1,
+      "Sleep Magic"
+     ],
+     [
+      1,
+      "Sorceress's Schemes"
+     ],
+     [
+      1,
+      "Summon: Shiva"
+     ],
+     [
+      1,
+      "Suplex"
+     ],
+     [
+      2,
+      "Syncopate"
+     ],
+     [
+      1,
+      "The Emperor of Palamecia"
+     ],
+     [
+      1,
+      "Thunder Magic"
+     ],
+     [
+      1,
+      "Warrior's Sword"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Guadosalam, Farplane Gateway"
+     ],
+     [
+      1,
+      "Hill Gigas"
+     ],
+     [
+      1,
+      "Ice Flan"
+     ],
+     [
+      1,
+      "Laboratory Maniac"
+     ],
+     [
+      1,
+      "Laughing Mad"
+     ],
+     [
+      1,
+      "Light of Judgment"
+     ],
+     [
+      1,
+      "Mysidian Elder"
+     ],
+     [
+      2,
+      "Red Mage's Rapier"
+     ],
+     [
+      1,
+      "Ring of the Lucii"
+     ],
+     [
+      4,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BG",
+   "games": 87880,
+   "wins": 49863,
+   "winRate": 56.74,
+   "share": 11.42,
+   "drafts": 15545,
+   "trophies": 1460,
+   "cards": [
+    {
+     "name": "Esper Origins",
+     "inclusion": 11.5,
+     "winRate": 61.5,
+     "games": 10744,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Ardyn, the Usurper",
+     "inclusion": 12.5,
+     "winRate": 60.1,
+     "games": 11475,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Summon: Primal Odin",
+     "inclusion": 9.7,
+     "winRate": 59.9,
+     "games": 8984,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Sazh Katzroy",
+     "inclusion": 9.6,
+     "winRate": 59.9,
+     "games": 8817,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Summon: Fenrir",
+     "inclusion": 27.0,
+     "winRate": 58.8,
+     "games": 24457,
+     "trophyInclusion": 32.6
+    },
+    {
+     "name": "Cloud of Darkness",
+     "inclusion": 46.8,
+     "winRate": 58.5,
+     "games": 42126,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "The Final Days",
+     "inclusion": 24.8,
+     "winRate": 58.1,
+     "games": 22219,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Town Greeter",
+     "inclusion": 64.3,
+     "winRate": 58.0,
+     "games": 57532,
+     "trophyInclusion": 70.9
+    },
+    {
+     "name": "Sazh's Chocobo",
+     "inclusion": 21.9,
+     "winRate": 58.0,
+     "games": 19626,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Jenova, Ancient Calamity",
+     "inclusion": 17.3,
+     "winRate": 58.0,
+     "games": 15494,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Resentful Revelation",
+     "inclusion": 52.9,
+     "winRate": 57.9,
+     "games": 47046,
+     "trophyInclusion": 57.7
+    },
+    {
+     "name": "Torgal, A Fine Hound",
+     "inclusion": 26.7,
+     "winRate": 57.8,
+     "games": 23802,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Shinra Reinforcements",
+     "inclusion": 53.2,
+     "winRate": 57.7,
+     "games": 47303,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Vanille, Cheerful l'Cie",
+     "inclusion": 35.9,
+     "winRate": 57.7,
+     "games": 31844,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Coliseum Behemoth",
+     "inclusion": 27.4,
+     "winRate": 57.7,
+     "games": 24405,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Sidequest: Hunt the Mark",
+     "inclusion": 25.2,
+     "winRate": 57.7,
+     "games": 22451,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Zenos yae Galvus",
+     "inclusion": 9.2,
+     "winRate": 57.6,
+     "games": 8074,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Sephiroth's Intervention",
+     "inclusion": 47.4,
+     "winRate": 57.5,
+     "games": 42035,
+     "trophyInclusion": 50.4
+    },
+    {
+     "name": "Exdeath, Void Warlock",
+     "inclusion": 41.1,
+     "winRate": 57.5,
+     "games": 36444,
+     "trophyInclusion": 43.9
+    },
+    {
+     "name": "Overkill",
+     "inclusion": 22.4,
+     "winRate": 57.5,
+     "games": 19943,
+     "trophyInclusion": 24.2
+    },
+    {
+     "name": "Summon: Titan",
+     "inclusion": 11.2,
+     "winRate": 57.4,
+     "games": 9906,
+     "trophyInclusion": 11.1
+    },
+    {
+     "name": "Summon: Fat Chocobo",
+     "inclusion": 47.9,
+     "winRate": 57.3,
+     "games": 42602,
+     "trophyInclusion": 50.0
+    },
+    {
+     "name": "Capital City",
+     "inclusion": 10.3,
+     "winRate": 57.3,
+     "games": 9161,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Chocobo Kick",
+     "inclusion": 50.8,
+     "winRate": 57.2,
+     "games": 44791,
+     "trophyInclusion": 51.4
+    },
+    {
+     "name": "Balamb T-Rexaur",
+     "inclusion": 53.4,
+     "winRate": 57.1,
+     "games": 47207,
+     "trophyInclusion": 54.3
+    },
+    {
+     "name": "Gohn, Town of Ruin",
+     "inclusion": 52.9,
+     "winRate": 57.1,
+     "games": 46574,
+     "trophyInclusion": 54.0
+    },
+    {
+     "name": "Vayne's Treachery",
+     "inclusion": 50.5,
+     "winRate": 57.1,
+     "games": 44661,
+     "trophyInclusion": 52.9
+    },
+    {
+     "name": "Hecteyes",
+     "inclusion": 44.5,
+     "winRate": 57.1,
+     "games": 39272,
+     "trophyInclusion": 44.7
+    },
+    {
+     "name": "Fatal Push",
+     "inclusion": 9.3,
+     "winRate": 57.1,
+     "games": 8148,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Fight On!",
+     "inclusion": 51.3,
+     "winRate": 57.0,
+     "games": 45285,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Evil Reawakened",
+     "inclusion": 25.3,
+     "winRate": 57.0,
+     "games": 22290,
+     "trophyInclusion": 26.4
+    },
+    {
+     "name": "Gaius van Baelsar",
+     "inclusion": 17.6,
+     "winRate": 57.0,
+     "games": 15509,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 28.8,
+     "winRate": 56.9,
+     "games": 25372,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Zanarkand, Ancient Metropolis",
+     "inclusion": 8.6,
+     "winRate": 56.9,
+     "games": 7480,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Malboro",
+     "inclusion": 45.6,
+     "winRate": 56.8,
+     "games": 40189,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "Midgar, City of Mako",
+     "inclusion": 6.0,
+     "winRate": 56.8,
+     "games": 5287,
+     "trophyInclusion": 5.8
+    },
+    {
+     "name": "Eden, Seat of the Sanctum",
+     "inclusion": 9.8,
+     "winRate": 56.7,
+     "games": 8533,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Vincent Valentine",
+     "inclusion": 7.8,
+     "winRate": 56.7,
+     "games": 6953,
+     "trophyInclusion": 7.3
+    },
+    {
+     "name": "Goobbue Gardener",
+     "inclusion": 49.6,
+     "winRate": 56.6,
+     "games": 43587,
+     "trophyInclusion": 48.8
+    },
+    {
+     "name": "Diamond Weapon",
+     "inclusion": 25.2,
+     "winRate": 56.6,
+     "games": 22047,
+     "trophyInclusion": 25.1
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-06-17",
+    "main": [
+     [
+      1,
+      "Balamb T-Rexaur"
+     ],
+     [
+      2,
+      "Black Mage's Rod"
+     ],
+     [
+      1,
+      "Chocobo Kick"
+     ],
+     [
+      1,
+      "Cloud of Darkness"
+     ],
+     [
+      1,
+      "Commune with Beavers"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Exdeath, Void Warlock"
+     ],
+     [
+      1,
+      "Fight On!"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Goobbue Gardener"
+     ],
+     [
+      1,
+      "Malboro"
+     ],
+     [
+      1,
+      "Namazu Trader"
+     ],
+     [
+      2,
+      "Resentful Revelation"
+     ],
+     [
+      1,
+      "Sazh's Chocobo"
+     ],
+     [
+      1,
+      "Sephiroth's Intervention"
+     ],
+     [
+      1,
+      "Sephiroth, Fabled SOLDIER"
+     ],
+     [
+      1,
+      "Shinra Reinforcements"
+     ],
+     [
+      1,
+      "Sidequest: Hunt the Mark"
+     ],
+     [
+      1,
+      "Summon: Fat Chocobo"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "Town Greeter"
+     ],
+     [
+      1,
+      "Undercity Dire Rat"
+     ],
+     [
+      1,
+      "Vanille, Cheerful l'Cie"
+     ],
+     [
+      1,
+      "Vayne's Treachery"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adventurer's Inn"
+     ],
+     [
+      1,
+      "Demon Wall"
+     ],
+     [
+      1,
+      "Garnet, Princess of Alexandria"
+     ],
+     [
+      1,
+      "Gigantoad"
+     ],
+     [
+      1,
+      "Ice Flan"
+     ],
+     [
+      1,
+      "Instant Ramen"
+     ],
+     [
+      2,
+      "Omega, Heartless Evolution"
+     ],
+     [
+      1,
+      "Quina, Qu Gourmet"
+     ],
+     [
+      1,
+      "Relentless X-ATM092"
+     ],
+     [
+      1,
+      "Relm's Sketching"
+     ],
+     [
+      1,
+      "Rinoa Heartilly"
+     ],
+     [
+      1,
+      "Rydia's Return"
+     ],
+     [
+      1,
+      "Sleep Magic"
+     ],
+     [
+      1,
+      "Stuck in Summoner's Sanctum"
+     ],
+     [
+      1,
+      "Windurst, Federation Center"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UB",
+   "games": 78464,
+   "wins": 43562,
+   "winRate": 55.52,
+   "share": 10.19,
+   "drafts": 14189,
+   "trophies": 1173,
+   "cards": [
+    {
+     "name": "Ardyn, the Usurper",
+     "inclusion": 10.9,
+     "winRate": 58.7,
+     "games": 8937,
+     "trophyInclusion": 13.0
+    },
+    {
+     "name": "Summon: Primal Odin",
+     "inclusion": 10.2,
+     "winRate": 58.7,
+     "games": 8366,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Sidequest: Hunt the Mark",
+     "inclusion": 27.2,
+     "winRate": 57.7,
+     "games": 22067,
+     "trophyInclusion": 33.8
+    },
+    {
+     "name": "Jill, Shiva's Dominant",
+     "inclusion": 10.3,
+     "winRate": 57.7,
+     "games": 8413,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Fatal Push",
+     "inclusion": 9.9,
+     "winRate": 57.3,
+     "games": 8014,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Swallowed by Leviathan",
+     "inclusion": 31.5,
+     "winRate": 57.1,
+     "games": 25175,
+     "trophyInclusion": 37.3
+    },
+    {
+     "name": "Sidequest: Card Collection",
+     "inclusion": 23.7,
+     "winRate": 57.0,
+     "games": 18928,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Memories Returning",
+     "inclusion": 12.1,
+     "winRate": 56.9,
+     "games": 9613,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Overkill",
+     "inclusion": 24.2,
+     "winRate": 56.8,
+     "games": 19303,
+     "trophyInclusion": 26.8
+    },
+    {
+     "name": "Sleep Magic",
+     "inclusion": 23.1,
+     "winRate": 56.8,
+     "games": 18392,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Resentful Revelation",
+     "inclusion": 44.2,
+     "winRate": 56.7,
+     "games": 35060,
+     "trophyInclusion": 48.5
+    },
+    {
+     "name": "Baron, Airship Kingdom",
+     "inclusion": 12.4,
+     "winRate": 56.7,
+     "games": 9820,
+     "trophyInclusion": 13.2
+    },
+    {
+     "name": "Summon: Leviathan",
+     "inclusion": 10.2,
+     "winRate": 56.7,
+     "games": 8179,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Zenos yae Galvus",
+     "inclusion": 9.9,
+     "winRate": 56.7,
+     "games": 8001,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Dragoon's Wyvern",
+     "inclusion": 57.1,
+     "winRate": 56.6,
+     "games": 45289,
+     "trophyInclusion": 62.7
+    },
+    {
+     "name": "Combat Tutorial",
+     "inclusion": 52.5,
+     "winRate": 56.6,
+     "games": 41626,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Eject",
+     "inclusion": 28.8,
+     "winRate": 56.6,
+     "games": 22897,
+     "trophyInclusion": 30.9
+    },
+    {
+     "name": "Counterspell",
+     "inclusion": 10.5,
+     "winRate": 56.6,
+     "games": 8389,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Cecil, Dark Knight",
+     "inclusion": 7.6,
+     "winRate": 56.6,
+     "games": 6015,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Sephiroth's Intervention",
+     "inclusion": 52.5,
+     "winRate": 56.5,
+     "games": 41863,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Astrologian's Planisphere",
+     "inclusion": 9.1,
+     "winRate": 56.5,
+     "games": 7240,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Vincent Valentine",
+     "inclusion": 8.7,
+     "winRate": 56.5,
+     "games": 6906,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Dreams of Laguna",
+     "inclusion": 53.8,
+     "winRate": 56.4,
+     "games": 42609,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Circle of Power",
+     "inclusion": 21.7,
+     "winRate": 56.4,
+     "games": 17162,
+     "trophyInclusion": 22.3
+    },
+    {
+     "name": "Cornered by Black Mages",
+     "inclusion": 45.4,
+     "winRate": 56.3,
+     "games": 36083,
+     "trophyInclusion": 48.7
+    },
+    {
+     "name": "Il Mheg Pixie",
+     "inclusion": 27.2,
+     "winRate": 56.3,
+     "games": 21666,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Vayne's Treachery",
+     "inclusion": 51.7,
+     "winRate": 56.2,
+     "games": 40947,
+     "trophyInclusion": 56.4
+    },
+    {
+     "name": "Treno, Dark City",
+     "inclusion": 48.8,
+     "winRate": 56.2,
+     "games": 38636,
+     "trophyInclusion": 51.1
+    },
+    {
+     "name": "Sahagin",
+     "inclusion": 47.6,
+     "winRate": 56.2,
+     "games": 37743,
+     "trophyInclusion": 46.8
+    },
+    {
+     "name": "Locke Cole",
+     "inclusion": 41.0,
+     "winRate": 56.2,
+     "games": 32645,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Ice Magic",
+     "inclusion": 53.8,
+     "winRate": 56.1,
+     "games": 42463,
+     "trophyInclusion": 55.5
+    },
+    {
+     "name": "Ultros, Obnoxious Octopus",
+     "inclusion": 25.7,
+     "winRate": 56.1,
+     "games": 20290,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Malboro",
+     "inclusion": 42.8,
+     "winRate": 56.0,
+     "games": 33681,
+     "trophyInclusion": 44.9
+    },
+    {
+     "name": "The Lunar Whale",
+     "inclusion": 10.0,
+     "winRate": 56.0,
+     "games": 7897,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Emet-Selch, Unsundered",
+     "inclusion": 7.7,
+     "winRate": 55.9,
+     "games": 6078,
+     "trophyInclusion": 8.1
+    },
+    {
+     "name": "Hecteyes",
+     "inclusion": 46.3,
+     "winRate": 55.8,
+     "games": 36547,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Ninja's Blades",
+     "inclusion": 7.0,
+     "winRate": 55.8,
+     "games": 5508,
+     "trophyInclusion": 8.4
+    },
+    {
+     "name": "Syncopate",
+     "inclusion": 45.7,
+     "winRate": 55.6,
+     "games": 35766,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "Evil Reawakened",
+     "inclusion": 16.6,
+     "winRate": 55.6,
+     "games": 13124,
+     "trophyInclusion": 17.5
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 28.5,
+     "winRate": 55.5,
+     "games": 22349,
+     "trophyInclusion": 26.8
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-06-18",
+    "main": [
+     [
+      1,
+      "Al Bhed Salvagers"
+     ],
+     [
+      1,
+      "Circle of Power"
+     ],
+     [
+      1,
+      "Cornered by Black Mages"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      3,
+      "Dreams of Laguna"
+     ],
+     [
+      1,
+      "Eject"
+     ],
+     [
+      1,
+      "Fight On!"
+     ],
+     [
+      1,
+      "Hecteyes"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      8,
+      "Island"
+     ],
+     [
+      1,
+      "Malboro"
+     ],
+     [
+      1,
+      "Quistis Trepe"
+     ],
+     [
+      1,
+      "Reno and Rude"
+     ],
+     [
+      1,
+      "Sahagin"
+     ],
+     [
+      1,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Sephiroth's Intervention"
+     ],
+     [
+      1,
+      "Shinra Reinforcements"
+     ],
+     [
+      1,
+      "Sidequest: Hunt the Mark"
+     ],
+     [
+      1,
+      "Sleep Magic"
+     ],
+     [
+      1,
+      "Summon: Shiva"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syncopate"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ],
+     [
+      1,
+      "Vayne's Treachery"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Combat Tutorial"
+     ],
+     [
+      1,
+      "Gran Pulse Ochu"
+     ],
+     [
+      1,
+      "Guadosalam, Farplane Gateway"
+     ],
+     [
+      1,
+      "Haste Magic"
+     ],
+     [
+      2,
+      "Magic Pot"
+     ],
+     [
+      1,
+      "Namazu Trader"
+     ],
+     [
+      2,
+      "Sage's Nouliths"
+     ],
+     [
+      3,
+      "Town Greeter"
+     ],
+     [
+      1,
+      "Travel the Overworld"
+     ],
+     [
+      2,
+      "World Map"
+     ],
+     [
+      1,
+      "Zidane, Tantalus Thief"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WU",
+   "games": 75662,
+   "wins": 42278,
+   "winRate": 55.88,
+   "share": 9.83,
+   "drafts": 13593,
+   "trophies": 1170,
+   "cards": [
+    {
+     "name": "Dion, Bahamut's Dominant",
+     "inclusion": 8.4,
+     "winRate": 58.5,
+     "games": 6644,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Dragoon's Lance",
+     "inclusion": 31.2,
+     "winRate": 58.1,
+     "games": 24285,
+     "trophyInclusion": 37.8
+    },
+    {
+     "name": "Jill, Shiva's Dominant",
+     "inclusion": 10.0,
+     "winRate": 57.8,
+     "games": 7694,
+     "trophyInclusion": 10.8
+    },
+    {
+     "name": "Delivery Moogle",
+     "inclusion": 31.0,
+     "winRate": 57.6,
+     "games": 24188,
+     "trophyInclusion": 36.2
+    },
+    {
+     "name": "Machinist's Arsenal",
+     "inclusion": 13.3,
+     "winRate": 57.5,
+     "games": 10357,
+     "trophyInclusion": 14.8
+    },
+    {
+     "name": "Magitek Infantry",
+     "inclusion": 38.7,
+     "winRate": 57.4,
+     "games": 29870,
+     "trophyInclusion": 46.3
+    },
+    {
+     "name": "White Auracite",
+     "inclusion": 59.7,
+     "winRate": 57.3,
+     "games": 46119,
+     "trophyInclusion": 68.5
+    },
+    {
+     "name": "Dragoon's Wyvern",
+     "inclusion": 54.5,
+     "winRate": 57.3,
+     "games": 41940,
+     "trophyInclusion": 59.6
+    },
+    {
+     "name": "Memories Returning",
+     "inclusion": 8.8,
+     "winRate": 57.3,
+     "games": 6832,
+     "trophyInclusion": 9.1
+    },
+    {
+     "name": "Magitek Armor",
+     "inclusion": 29.6,
+     "winRate": 57.2,
+     "games": 22731,
+     "trophyInclusion": 33.0
+    },
+    {
+     "name": "Adelbert Steiner",
+     "inclusion": 23.4,
+     "winRate": 57.2,
+     "games": 18080,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Combat Tutorial",
+     "inclusion": 50.1,
+     "winRate": 56.9,
+     "games": 38466,
+     "trophyInclusion": 54.5
+    },
+    {
+     "name": "Sleep Magic",
+     "inclusion": 23.2,
+     "winRate": 56.8,
+     "games": 17709,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Battle Menu",
+     "inclusion": 23.2,
+     "winRate": 56.8,
+     "games": 17803,
+     "trophyInclusion": 25.1
+    },
+    {
+     "name": "Astrologian's Planisphere",
+     "inclusion": 10.4,
+     "winRate": 56.8,
+     "games": 7957,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "White Mage's Staff",
+     "inclusion": 56.6,
+     "winRate": 56.7,
+     "games": 43268,
+     "trophyInclusion": 58.3
+    },
+    {
+     "name": "Zack Fair",
+     "inclusion": 20.7,
+     "winRate": 56.7,
+     "games": 15790,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Wall of Omens",
+     "inclusion": 6.6,
+     "winRate": 56.7,
+     "games": 5034,
+     "trophyInclusion": 7.7
+    },
+    {
+     "name": "The Lunar Whale",
+     "inclusion": 11.0,
+     "winRate": 56.6,
+     "games": 8349,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Moogles' Valor",
+     "inclusion": 9.8,
+     "winRate": 56.6,
+     "games": 7490,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Swallowed by Leviathan",
+     "inclusion": 18.0,
+     "winRate": 56.5,
+     "games": 13666,
+     "trophyInclusion": 19.1
+    },
+    {
+     "name": "Slash of Light",
+     "inclusion": 44.9,
+     "winRate": 56.4,
+     "games": 34112,
+     "trophyInclusion": 46.5
+    },
+    {
+     "name": "Il Mheg Pixie",
+     "inclusion": 25.0,
+     "winRate": 56.4,
+     "games": 18970,
+     "trophyInclusion": 26.0
+    },
+    {
+     "name": "The Crystal's Chosen",
+     "inclusion": 17.7,
+     "winRate": 56.4,
+     "games": 13388,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Gaelicat",
+     "inclusion": 55.8,
+     "winRate": 56.3,
+     "games": 42536,
+     "trophyInclusion": 58.4
+    },
+    {
+     "name": "Ice Magic",
+     "inclusion": 47.1,
+     "winRate": 56.3,
+     "games": 35836,
+     "trophyInclusion": 49.3
+    },
+    {
+     "name": "You're Not Alone",
+     "inclusion": 24.2,
+     "winRate": 56.3,
+     "games": 18418,
+     "trophyInclusion": 24.9
+    },
+    {
+     "name": "Ambrosia Whiteheart",
+     "inclusion": 20.6,
+     "winRate": 56.3,
+     "games": 15696,
+     "trophyInclusion": 20.7
+    },
+    {
+     "name": "Eject",
+     "inclusion": 22.9,
+     "winRate": 56.2,
+     "games": 17355,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Aerith Gainsborough",
+     "inclusion": 5.9,
+     "winRate": 56.2,
+     "games": 4550,
+     "trophyInclusion": 6.3
+    },
+    {
+     "name": "Monk's Fist",
+     "inclusion": 24.4,
+     "winRate": 56.1,
+     "games": 18488,
+     "trophyInclusion": 25.2
+    },
+    {
+     "name": "Weapons Vendor",
+     "inclusion": 34.0,
+     "winRate": 56.0,
+     "games": 25711,
+     "trophyInclusion": 35.0
+    },
+    {
+     "name": "Cargo Ship",
+     "inclusion": 24.8,
+     "winRate": 56.0,
+     "games": 18757,
+     "trophyInclusion": 23.4
+    },
+    {
+     "name": "Summon: Primal Garuda",
+     "inclusion": 14.3,
+     "winRate": 56.0,
+     "games": 10999,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Capital City",
+     "inclusion": 6.9,
+     "winRate": 56.0,
+     "games": 5122,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Paladin's Arms",
+     "inclusion": 49.0,
+     "winRate": 55.9,
+     "games": 37190,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Sharlayan, Nation of Scholars",
+     "inclusion": 47.8,
+     "winRate": 55.9,
+     "games": 36249,
+     "trophyInclusion": 49.2
+    },
+    {
+     "name": "Restoration Magic",
+     "inclusion": 14.4,
+     "winRate": 55.9,
+     "games": 10813,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Cid, Timeless Artificer",
+     "inclusion": 40.0,
+     "winRate": 55.8,
+     "games": 30387,
+     "trophyInclusion": 40.9
+    },
+    {
+     "name": "Valkyrie Aerial Unit",
+     "inclusion": 30.0,
+     "winRate": 55.7,
+     "games": 22682,
+     "trophyInclusion": 30.3
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-06-15",
+    "main": [
+     [
+      1,
+      "Buster Sword"
+     ],
+     [
+      1,
+      "Cid, Timeless Artificer"
+     ],
+     [
+      1,
+      "Coeurl"
+     ],
+     [
+      1,
+      "Combat Tutorial"
+     ],
+     [
+      1,
+      "Dragoon's Lance"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      2,
+      "Gaelicat"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      7,
+      "Island"
+     ],
+     [
+      1,
+      "Magitek Armor"
+     ],
+     [
+      2,
+      "Magitek Infantry"
+     ],
+     [
+      2,
+      "Paladin's Arms"
+     ],
+     [
+      9,
+      "Plains"
+     ],
+     [
+      1,
+      "Sage's Nouliths"
+     ],
+     [
+      1,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Sharlayan, Nation of Scholars"
+     ],
+     [
+      1,
+      "Slash of Light"
+     ],
+     [
+      1,
+      "Sleep Magic"
+     ],
+     [
+      1,
+      "Stuck in Summoner's Sanctum"
+     ],
+     [
+      1,
+      "Summon: Shiva"
+     ],
+     [
+      1,
+      "White Auracite"
+     ],
+     [
+      1,
+      "White Mage's Staff"
+     ],
+     [
+      1,
+      "Zack Fair"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adventurer's Airship"
+     ],
+     [
+      1,
+      "Aerith Rescue Mission"
+     ],
+     [
+      1,
+      "Ashe, Princess of Dalmasca"
+     ],
+     [
+      1,
+      "Black Mage's Rod"
+     ],
+     [
+      1,
+      "Cargo Ship"
+     ],
+     [
+      1,
+      "Cloudbound Moogle"
+     ],
+     [
+      1,
+      "Dwarven Castle Guard"
+     ],
+     [
+      1,
+      "Instant Ramen"
+     ],
+     [
+      1,
+      "Lunatic Pandora"
+     ],
+     [
+      1,
+      "Magic Damper"
+     ],
+     [
+      1,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Stuck in Summoner's Sanctum"
+     ],
+     [
+      1,
+      "Summon: Choco/Mog"
+     ],
+     [
+      1,
+      "The Crystal's Chosen"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ],
+     [
+      1,
+      "Weapons Vendor"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WB",
+   "games": 63167,
+   "wins": 35756,
+   "winRate": 56.61,
+   "share": 8.21,
+   "drafts": 11225,
+   "trophies": 1028,
+   "cards": [
+    {
+     "name": "Dion, Bahamut's Dominant",
+     "inclusion": 10.5,
+     "winRate": 59.9,
+     "games": 6963,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Dragoon's Lance",
+     "inclusion": 27.4,
+     "winRate": 59.4,
+     "games": 17971,
+     "trophyInclusion": 35.5
+    },
+    {
+     "name": "Summon: Primal Odin",
+     "inclusion": 9.4,
+     "winRate": 59.0,
+     "games": 6193,
+     "trophyInclusion": 12.1
+    },
+    {
+     "name": "Delivery Moogle",
+     "inclusion": 26.3,
+     "winRate": 58.5,
+     "games": 17113,
+     "trophyInclusion": 30.7
+    },
+    {
+     "name": "Sephiroth, Fabled SOLDIER",
+     "inclusion": 6.2,
+     "winRate": 57.8,
+     "games": 3962,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "White Auracite",
+     "inclusion": 53.0,
+     "winRate": 57.7,
+     "games": 33942,
+     "trophyInclusion": 58.5
+    },
+    {
+     "name": "Overkill",
+     "inclusion": 20.9,
+     "winRate": 57.7,
+     "games": 13447,
+     "trophyInclusion": 22.8
+    },
+    {
+     "name": "Moogles' Valor",
+     "inclusion": 10.5,
+     "winRate": 57.7,
+     "games": 6702,
+     "trophyInclusion": 10.7
+    },
+    {
+     "name": "Ardyn, the Usurper",
+     "inclusion": 8.2,
+     "winRate": 57.7,
+     "games": 5285,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Magitek Armor",
+     "inclusion": 24.8,
+     "winRate": 57.6,
+     "games": 15782,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Sidequest: Hunt the Mark",
+     "inclusion": 23.4,
+     "winRate": 57.6,
+     "games": 14967,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Adelbert Steiner",
+     "inclusion": 21.7,
+     "winRate": 57.6,
+     "games": 13871,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Ninja's Blades",
+     "inclusion": 8.0,
+     "winRate": 57.6,
+     "games": 5195,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "White Mage's Staff",
+     "inclusion": 52.6,
+     "winRate": 57.5,
+     "games": 33583,
+     "trophyInclusion": 57.4
+    },
+    {
+     "name": "Magitek Infantry",
+     "inclusion": 28.6,
+     "winRate": 57.5,
+     "games": 18197,
+     "trophyInclusion": 31.1
+    },
+    {
+     "name": "Battle Menu",
+     "inclusion": 24.3,
+     "winRate": 57.5,
+     "games": 15512,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Dark Knight's Greatsword",
+     "inclusion": 24.2,
+     "winRate": 57.5,
+     "games": 15357,
+     "trophyInclusion": 27.2
+    },
+    {
+     "name": "Wall of Omens",
+     "inclusion": 8.9,
+     "winRate": 57.5,
+     "games": 5621,
+     "trophyInclusion": 8.9
+    },
+    {
+     "name": "Danitha Capashen, Paragon",
+     "inclusion": 6.8,
+     "winRate": 57.5,
+     "games": 4318,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Weapons Vendor",
+     "inclusion": 32.1,
+     "winRate": 57.4,
+     "games": 20368,
+     "trophyInclusion": 33.9
+    },
+    {
+     "name": "Al Bhed Salvagers",
+     "inclusion": 26.3,
+     "winRate": 57.3,
+     "games": 16766,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Zack Fair",
+     "inclusion": 23.2,
+     "winRate": 57.3,
+     "games": 14778,
+     "trophyInclusion": 24.5
+    },
+    {
+     "name": "Vincent Valentine",
+     "inclusion": 8.5,
+     "winRate": 57.3,
+     "games": 5465,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Zenos yae Galvus",
+     "inclusion": 8.5,
+     "winRate": 57.3,
+     "games": 5447,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Cornered by Black Mages",
+     "inclusion": 40.6,
+     "winRate": 57.2,
+     "games": 25768,
+     "trophyInclusion": 40.8
+    },
+    {
+     "name": "Circle of Power",
+     "inclusion": 15.3,
+     "winRate": 57.2,
+     "games": 9727,
+     "trophyInclusion": 15.4
+    },
+    {
+     "name": "Cecil, Dark Knight",
+     "inclusion": 9.9,
+     "winRate": 57.2,
+     "games": 6320,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Venat, Heart of Hydaelyn",
+     "inclusion": 9.8,
+     "winRate": 57.2,
+     "games": 6158,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Deadly Dispute",
+     "inclusion": 10.1,
+     "winRate": 57.1,
+     "games": 6384,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Fatal Push",
+     "inclusion": 9.7,
+     "winRate": 57.1,
+     "games": 6078,
+     "trophyInclusion": 9.4
+    },
+    {
+     "name": "Insomnia, Crown City",
+     "inclusion": 50.3,
+     "winRate": 57.0,
+     "games": 32011,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Rufus Shinra",
+     "inclusion": 43.3,
+     "winRate": 57.0,
+     "games": 27409,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Paladin's Arms",
+     "inclusion": 42.3,
+     "winRate": 57.0,
+     "games": 26793,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Gaelicat",
+     "inclusion": 37.6,
+     "winRate": 57.0,
+     "games": 23784,
+     "trophyInclusion": 39.2
+    },
+    {
+     "name": "You're Not Alone",
+     "inclusion": 27.5,
+     "winRate": 57.0,
+     "games": 17461,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Monk's Fist",
+     "inclusion": 20.4,
+     "winRate": 57.0,
+     "games": 12881,
+     "trophyInclusion": 21.0
+    },
+    {
+     "name": "Restoration Magic",
+     "inclusion": 17.2,
+     "winRate": 57.0,
+     "games": 10791,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Vayne's Treachery",
+     "inclusion": 50.4,
+     "winRate": 56.9,
+     "games": 32144,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Judge Magister Gabranth",
+     "inclusion": 46.1,
+     "winRate": 56.9,
+     "games": 29224,
+     "trophyInclusion": 47.7
+    },
+    {
+     "name": "Resentful Revelation",
+     "inclusion": 33.7,
+     "winRate": 56.8,
+     "games": 21207,
+     "trophyInclusion": 33.2
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-07-12",
+    "main": [
+     [
+      1,
+      "Ahriman"
+     ],
+     [
+      1,
+      "Ambrosia Whiteheart"
+     ],
+     [
+      1,
+      "Battle Menu"
+     ],
+     [
+      1,
+      "Cornered by Black Mages"
+     ],
+     [
+      1,
+      "Dwarven Castle Guard"
+     ],
+     [
+      1,
+      "Eden, Seat of the Sanctum"
+     ],
+     [
+      1,
+      "Fate of the Sun-Cryst"
+     ],
+     [
+      1,
+      "G'raha Tia"
+     ],
+     [
+      1,
+      "Hecteyes"
+     ],
+     [
+      1,
+      "Insomnia, Crown City"
+     ],
+     [
+      1,
+      "Judge Magister Gabranth"
+     ],
+     [
+      2,
+      "Overkill"
+     ],
+     [
+      1,
+      "Paladin's Arms"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      2,
+      "Resentful Revelation"
+     ],
+     [
+      1,
+      "Restoration Magic"
+     ],
+     [
+      1,
+      "Rufus Shinra"
+     ],
+     [
+      2,
+      "Slash of Light"
+     ],
+     [
+      7,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Final Days"
+     ],
+     [
+      1,
+      "Tonberry"
+     ],
+     [
+      1,
+      "White Auracite"
+     ],
+     [
+      1,
+      "White Mage's Staff"
+     ],
+     [
+      1,
+      "You're Not Alone"
+     ],
+     [
+      1,
+      "Zack Fair"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adventurer's Airship"
+     ],
+     [
+      1,
+      "Blitzball Shot"
+     ],
+     [
+      1,
+      "Coeurl"
+     ],
+     [
+      1,
+      "Fight On!"
+     ],
+     [
+      1,
+      "Phoenix Down"
+     ],
+     [
+      1,
+      "Ring of the Lucii"
+     ],
+     [
+      1,
+      "Rook Turret"
+     ],
+     [
+      1,
+      "Sandworm"
+     ],
+     [
+      2,
+      "Snow Villiers"
+     ],
+     [
+      1,
+      "Syncopate"
+     ],
+     [
+      1,
+      "Tidus, Blitzball Star"
+     ],
+     [
+      1,
+      "Valkyrie Aerial Unit"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WR",
+   "games": 61693,
+   "wins": 35103,
+   "winRate": 56.9,
+   "share": 8.02,
+   "drafts": 10899,
+   "trophies": 1066,
+   "cards": [
+    {
+     "name": "Dion, Bahamut's Dominant",
+     "inclusion": 8.9,
+     "winRate": 60.3,
+     "games": 5754,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Dragoon's Lance",
+     "inclusion": 31.2,
+     "winRate": 60.0,
+     "games": 20180,
+     "trophyInclusion": 41.7
+    },
+    {
+     "name": "Samurai's Katana",
+     "inclusion": 37.3,
+     "winRate": 59.7,
+     "games": 23960,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Delivery Moogle",
+     "inclusion": 29.0,
+     "winRate": 58.9,
+     "games": 18313,
+     "trophyInclusion": 32.9
+    },
+    {
+     "name": "Battle Menu",
+     "inclusion": 25.0,
+     "winRate": 58.8,
+     "games": 15770,
+     "trophyInclusion": 28.0
+    },
+    {
+     "name": "Machinist's Arsenal",
+     "inclusion": 10.7,
+     "winRate": 58.6,
+     "games": 6755,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Magitek Infantry",
+     "inclusion": 35.2,
+     "winRate": 58.5,
+     "games": 21986,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Venat, Heart of Hydaelyn",
+     "inclusion": 8.4,
+     "winRate": 58.5,
+     "games": 5249,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Zack Fair",
+     "inclusion": 27.6,
+     "winRate": 58.4,
+     "games": 17344,
+     "trophyInclusion": 30.3
+    },
+    {
+     "name": "Zidane, Tantalus Thief",
+     "inclusion": 41.8,
+     "winRate": 58.1,
+     "games": 26244,
+     "trophyInclusion": 44.6
+    },
+    {
+     "name": "Adelbert Steiner",
+     "inclusion": 32.0,
+     "winRate": 58.1,
+     "games": 20033,
+     "trophyInclusion": 34.3
+    },
+    {
+     "name": "Seifer Almasy",
+     "inclusion": 9.8,
+     "winRate": 58.0,
+     "games": 6226,
+     "trophyInclusion": 10.4
+    },
+    {
+     "name": "Moogles' Valor",
+     "inclusion": 9.2,
+     "winRate": 58.0,
+     "games": 5766,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "White Mage's Staff",
+     "inclusion": 59.6,
+     "winRate": 57.9,
+     "games": 37138,
+     "trophyInclusion": 63.9
+    },
+    {
+     "name": "White Auracite",
+     "inclusion": 51.3,
+     "winRate": 57.9,
+     "games": 32190,
+     "trophyInclusion": 52.4
+    },
+    {
+     "name": "Ambrosia Whiteheart",
+     "inclusion": 23.7,
+     "winRate": 57.9,
+     "games": 14823,
+     "trophyInclusion": 25.3
+    },
+    {
+     "name": "Restoration Magic",
+     "inclusion": 17.3,
+     "winRate": 57.9,
+     "games": 10821,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Gilgamesh, Master-at-Arms",
+     "inclusion": 16.3,
+     "winRate": 57.9,
+     "games": 10159,
+     "trophyInclusion": 18.8
+    },
+    {
+     "name": "Firion, Wild Rose Warrior",
+     "inclusion": 16.1,
+     "winRate": 57.9,
+     "games": 10064,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Captain Lannery Storm",
+     "inclusion": 9.1,
+     "winRate": 57.8,
+     "games": 5729,
+     "trophyInclusion": 10.1
+    },
+    {
+     "name": "Adventurer's Airship",
+     "inclusion": 8.0,
+     "winRate": 57.8,
+     "games": 5010,
+     "trophyInclusion": 9.8
+    },
+    {
+     "name": "Slash of Light",
+     "inclusion": 54.6,
+     "winRate": 57.7,
+     "games": 33984,
+     "trophyInclusion": 58.7
+    },
+    {
+     "name": "Gaelicat",
+     "inclusion": 51.6,
+     "winRate": 57.6,
+     "games": 32084,
+     "trophyInclusion": 55.2
+    },
+    {
+     "name": "Choco-Comet",
+     "inclusion": 23.7,
+     "winRate": 57.6,
+     "games": 14884,
+     "trophyInclusion": 23.5
+    },
+    {
+     "name": "Capital City",
+     "inclusion": 5.6,
+     "winRate": 57.6,
+     "games": 3497,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Paladin's Arms",
+     "inclusion": 59.7,
+     "winRate": 57.5,
+     "games": 37095,
+     "trophyInclusion": 61.8
+    },
+    {
+     "name": "Giott, King of the Dwarves",
+     "inclusion": 46.6,
+     "winRate": 57.5,
+     "games": 28966,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Magitek Armor",
+     "inclusion": 20.9,
+     "winRate": 57.5,
+     "games": 13020,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Lightning Bolt",
+     "inclusion": 9.9,
+     "winRate": 57.5,
+     "games": 6169,
+     "trophyInclusion": 10.2
+    },
+    {
+     "name": "Joshua, Phoenix's Dominant",
+     "inclusion": 18.6,
+     "winRate": 57.4,
+     "games": 11639,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Weapons Vendor",
+     "inclusion": 57.7,
+     "winRate": 57.3,
+     "games": 35725,
+     "trophyInclusion": 60.0
+    },
+    {
+     "name": "Thunder Magic",
+     "inclusion": 50.0,
+     "winRate": 57.3,
+     "games": 31052,
+     "trophyInclusion": 51.7
+    },
+    {
+     "name": "You're Not Alone",
+     "inclusion": 41.2,
+     "winRate": 57.3,
+     "games": 25440,
+     "trophyInclusion": 43.2
+    },
+    {
+     "name": "Coral Sword",
+     "inclusion": 24.7,
+     "winRate": 57.3,
+     "games": 15261,
+     "trophyInclusion": 24.6
+    },
+    {
+     "name": "Rabanastre, Royal City",
+     "inclusion": 50.8,
+     "winRate": 57.2,
+     "games": 31421,
+     "trophyInclusion": 51.0
+    },
+    {
+     "name": "Monk's Fist",
+     "inclusion": 35.0,
+     "winRate": 57.2,
+     "games": 21585,
+     "trophyInclusion": 36.3
+    },
+    {
+     "name": "Suplex",
+     "inclusion": 47.1,
+     "winRate": 56.9,
+     "games": 28994,
+     "trophyInclusion": 47.9
+    },
+    {
+     "name": "Lightning, Army of One",
+     "inclusion": 10.1,
+     "winRate": 56.9,
+     "games": 6258,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Lion Heart",
+     "inclusion": 15.8,
+     "winRate": 56.8,
+     "games": 9761,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Cloud, Midgar Mercenary",
+     "inclusion": 5.8,
+     "winRate": 56.8,
+     "games": 3538,
+     "trophyInclusion": 5.9
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-07-05",
+    "main": [
+     [
+      1,
+      "Captain Lannery Storm"
+     ],
+     [
+      1,
+      "Coral Sword"
+     ],
+     [
+      1,
+      "Dragoon's Lance"
+     ],
+     [
+      1,
+      "Dwarven Castle Guard"
+     ],
+     [
+      1,
+      "Fate of the Sun-Cryst"
+     ],
+     [
+      1,
+      "Gaelicat"
+     ],
+     [
+      1,
+      "Giott, King of the Dwarves"
+     ],
+     [
+      1,
+      "Item Shopkeep"
+     ],
+     [
+      1,
+      "Lightning, Army of One"
+     ],
+     [
+      2,
+      "Magitek Infantry"
+     ],
+     [
+      8,
+      "Mountain"
+     ],
+     [
+      8,
+      "Plains"
+     ],
+     [
+      1,
+      "Rabanastre, Royal City"
+     ],
+     [
+      1,
+      "Raubahn, Bull of Ala Mhigo"
+     ],
+     [
+      1,
+      "Samurai's Katana"
+     ],
+     [
+      1,
+      "Self-Destruct"
+     ],
+     [
+      1,
+      "Slash of Light"
+     ],
+     [
+      1,
+      "Thunder Magic"
+     ],
+     [
+      1,
+      "Warrior's Sword"
+     ],
+     [
+      1,
+      "Weapons Vendor"
+     ],
+     [
+      1,
+      "White Auracite"
+     ],
+     [
+      1,
+      "White Mage's Staff"
+     ],
+     [
+      1,
+      "You're Not Alone"
+     ],
+     [
+      1,
+      "Zack Fair"
+     ],
+     [
+      1,
+      "Zidane, Tantalus Thief"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Adventurer's Inn"
+     ],
+     [
+      1,
+      "Cloud of Darkness"
+     ],
+     [
+      1,
+      "Combat Tutorial"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      1,
+      "Giott, King of the Dwarves"
+     ],
+     [
+      1,
+      "Hill Gigas"
+     ],
+     [
+      2,
+      "Item Shopkeep"
+     ],
+     [
+      1,
+      "Light Up the Stage"
+     ],
+     [
+      1,
+      "Qutrub Forayer"
+     ],
+     [
+      1,
+      "Rydia, Summoner of Mist"
+     ],
+     [
+      1,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Sidequest: Catch a Fish"
+     ],
+     [
+      1,
+      "Sidequest: Play Blitzball"
+     ],
+     [
+      1,
+      "Summon: G.F. Ifrit"
+     ],
+     [
+      1,
+      "The Crystal's Chosen"
+     ],
+     [
+      1,
+      "Unexpected Request"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "BR",
+   "games": 51479,
+   "wins": 28398,
+   "winRate": 55.16,
+   "share": 6.69,
+   "drafts": 9322,
+   "trophies": 774,
+   "cards": [
+    {
+     "name": "Nibelheim Aflame",
+     "inclusion": 5.1,
+     "winRate": 58.7,
+     "games": 2810,
+     "trophyInclusion": 5.7
+    },
+    {
+     "name": "Lightning Bolt",
+     "inclusion": 11.4,
+     "winRate": 57.9,
+     "games": 6041,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Kuja, Genome Sorcerer",
+     "inclusion": 22.5,
+     "winRate": 57.7,
+     "games": 12084,
+     "trophyInclusion": 25.6
+    },
+    {
+     "name": "Summon: Primal Odin",
+     "inclusion": 8.2,
+     "winRate": 57.7,
+     "games": 4422,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Choco-Comet",
+     "inclusion": 28.7,
+     "winRate": 57.4,
+     "games": 15183,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Sorceress's Schemes",
+     "inclusion": 20.0,
+     "winRate": 57.4,
+     "games": 10565,
+     "trophyInclusion": 23.8
+    },
+    {
+     "name": "Seifer Almasy",
+     "inclusion": 9.4,
+     "winRate": 57.4,
+     "games": 5022,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Samurai's Katana",
+     "inclusion": 25.4,
+     "winRate": 57.2,
+     "games": 13523,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Sidequest: Hunt the Mark",
+     "inclusion": 24.5,
+     "winRate": 57.1,
+     "games": 12992,
+     "trophyInclusion": 29.5
+    },
+    {
+     "name": "Ardyn, the Usurper",
+     "inclusion": 8.0,
+     "winRate": 56.9,
+     "games": 4216,
+     "trophyInclusion": 8.8
+    },
+    {
+     "name": "Circle of Power",
+     "inclusion": 31.9,
+     "winRate": 56.7,
+     "games": 16805,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Fatal Push",
+     "inclusion": 9.2,
+     "winRate": 56.6,
+     "games": 4804,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Firion, Wild Rose Warrior",
+     "inclusion": 6.0,
+     "winRate": 56.6,
+     "games": 3159,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Overkill",
+     "inclusion": 22.3,
+     "winRate": 56.5,
+     "games": 11870,
+     "trophyInclusion": 26.7
+    },
+    {
+     "name": "Instant Ramen",
+     "inclusion": 6.2,
+     "winRate": 56.5,
+     "games": 3222,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Cornered by Black Mages",
+     "inclusion": 61.0,
+     "winRate": 56.4,
+     "games": 31922,
+     "trophyInclusion": 69.3
+    },
+    {
+     "name": "Captain Lannery Storm",
+     "inclusion": 9.6,
+     "winRate": 56.4,
+     "games": 4996,
+     "trophyInclusion": 11.5
+    },
+    {
+     "name": "Resentful Revelation",
+     "inclusion": 48.9,
+     "winRate": 56.3,
+     "games": 25406,
+     "trophyInclusion": 55.7
+    },
+    {
+     "name": "Deadly Dispute",
+     "inclusion": 9.3,
+     "winRate": 56.3,
+     "games": 4852,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Midgar, City of Mako",
+     "inclusion": 8.2,
+     "winRate": 56.3,
+     "games": 4294,
+     "trophyInclusion": 8.7
+    },
+    {
+     "name": "Cecil, Dark Knight",
+     "inclusion": 8.1,
+     "winRate": 56.3,
+     "games": 4229,
+     "trophyInclusion": 9.9
+    },
+    {
+     "name": "Vayne's Treachery",
+     "inclusion": 51.9,
+     "winRate": 56.2,
+     "games": 27145,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Garland, Knight of Cornelia",
+     "inclusion": 48.8,
+     "winRate": 56.1,
+     "games": 25377,
+     "trophyInclusion": 52.5
+    },
+    {
+     "name": "Monk's Fist",
+     "inclusion": 13.5,
+     "winRate": 56.1,
+     "games": 6983,
+     "trophyInclusion": 12.8
+    },
+    {
+     "name": "Ninja's Blades",
+     "inclusion": 7.6,
+     "winRate": 56.1,
+     "games": 3953,
+     "trophyInclusion": 7.5
+    },
+    {
+     "name": "Thunder Magic",
+     "inclusion": 55.4,
+     "winRate": 56.0,
+     "games": 28811,
+     "trophyInclusion": 57.1
+    },
+    {
+     "name": "Sephiroth's Intervention",
+     "inclusion": 48.0,
+     "winRate": 56.0,
+     "games": 25049,
+     "trophyInclusion": 52.3
+    },
+    {
+     "name": "Phantom Train",
+     "inclusion": 13.1,
+     "winRate": 55.8,
+     "games": 6735,
+     "trophyInclusion": 14.9
+    },
+    {
+     "name": "Vincent Valentine",
+     "inclusion": 8.0,
+     "winRate": 55.8,
+     "games": 4202,
+     "trophyInclusion": 8.3
+    },
+    {
+     "name": "Black Mage's Rod",
+     "inclusion": 61.9,
+     "winRate": 55.7,
+     "games": 32111,
+     "trophyInclusion": 65.5
+    },
+    {
+     "name": "Call the Mountain Chocobo",
+     "inclusion": 42.4,
+     "winRate": 55.7,
+     "games": 21899,
+     "trophyInclusion": 43.7
+    },
+    {
+     "name": "Shinra Reinforcements",
+     "inclusion": 16.8,
+     "winRate": 55.7,
+     "games": 8691,
+     "trophyInclusion": 17.6
+    },
+    {
+     "name": "Light Up the Stage",
+     "inclusion": 8.6,
+     "winRate": 55.7,
+     "games": 4414,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Suplex",
+     "inclusion": 52.4,
+     "winRate": 55.6,
+     "games": 27108,
+     "trophyInclusion": 52.7
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 23.2,
+     "winRate": 55.5,
+     "games": 11905,
+     "trophyInclusion": 23.9
+    },
+    {
+     "name": "Dark Knight's Greatsword",
+     "inclusion": 20.7,
+     "winRate": 55.5,
+     "games": 10701,
+     "trophyInclusion": 20.2
+    },
+    {
+     "name": "Vector, Imperial Capital",
+     "inclusion": 53.1,
+     "winRate": 55.4,
+     "games": 27414,
+     "trophyInclusion": 53.5
+    },
+    {
+     "name": "Hecteyes",
+     "inclusion": 44.9,
+     "winRate": 55.4,
+     "games": 23181,
+     "trophyInclusion": 45.7
+    },
+    {
+     "name": "Al Bhed Salvagers",
+     "inclusion": 20.8,
+     "winRate": 55.3,
+     "games": 10714,
+     "trophyInclusion": 21.2
+    },
+    {
+     "name": "Opera Love Song",
+     "inclusion": 10.9,
+     "winRate": 55.3,
+     "games": 5612,
+     "trophyInclusion": 10.7
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-06-19",
+    "main": [
+     [
+      1,
+      "Ahriman"
+     ],
+     [
+      1,
+      "Al Bhed Salvagers"
+     ],
+     [
+      1,
+      "Black Mage's Rod"
+     ],
+     [
+      1,
+      "Blazing Bomb"
+     ],
+     [
+      1,
+      "Call the Mountain Chocobo"
+     ],
+     [
+      1,
+      "Choco-Comet"
+     ],
+     [
+      1,
+      "Circle of Power"
+     ],
+     [
+      1,
+      "Cornered by Black Mages"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Demon Wall"
+     ],
+     [
+      1,
+      "Hecteyes"
+     ],
+     [
+      1,
+      "Lightning Bolt"
+     ],
+     [
+      1,
+      "Malboro"
+     ],
+     [
+      7,
+      "Mountain"
+     ],
+     [
+      1,
+      "Overkill"
+     ],
+     [
+      1,
+      "Resentful Revelation"
+     ],
+     [
+      1,
+      "Sephiroth's Intervention"
+     ],
+     [
+      2,
+      "Sidequest: Hunt the Mark"
+     ],
+     [
+      1,
+      "Suplex"
+     ],
+     [
+      8,
+      "Swamp"
+     ],
+     [
+      1,
+      "The Darkness Crystal"
+     ],
+     [
+      1,
+      "Tonberry"
+     ],
+     [
+      2,
+      "Vayne's Treachery"
+     ],
+     [
+      1,
+      "Vector, Imperial Capital"
+     ],
+     [
+      1,
+      "Warrior's Sword"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Baron, Airship Kingdom"
+     ],
+     [
+      1,
+      "Coral Sword"
+     ],
+     [
+      1,
+      "Ether"
+     ],
+     [
+      1,
+      "Fight On!"
+     ],
+     [
+      1,
+      "Gigantoad"
+     ],
+     [
+      1,
+      "Haste Magic"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      1,
+      "Laughing Mad"
+     ],
+     [
+      1,
+      "Phantom Train"
+     ],
+     [
+      1,
+      "Qutrub Forayer"
+     ],
+     [
+      1,
+      "Random Encounter"
+     ],
+     [
+      1,
+      "Shinra Reinforcements"
+     ],
+     [
+      1,
+      "Stiltzkin, Moogle Merchant"
+     ],
+     [
+      1,
+      "The Final Days"
+     ],
+     [
+      1,
+      "Undercity Dire Rat"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UG",
+   "games": 49347,
+   "wins": 27573,
+   "winRate": 55.88,
+   "share": 6.41,
+   "drafts": 8858,
+   "trophies": 761,
+   "cards": [
+    {
+     "name": "Esper Origins",
+     "inclusion": 12.3,
+     "winRate": 59.5,
+     "games": 6336,
+     "trophyInclusion": 18.3
+    },
+    {
+     "name": "Sazh Katzroy",
+     "inclusion": 10.9,
+     "winRate": 59.5,
+     "games": 5535,
+     "trophyInclusion": 14.3
+    },
+    {
+     "name": "Jill, Shiva's Dominant",
+     "inclusion": 9.6,
+     "winRate": 59.5,
+     "games": 4901,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Zanarkand, Ancient Metropolis",
+     "inclusion": 10.6,
+     "winRate": 58.3,
+     "games": 5441,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Cloud of Darkness",
+     "inclusion": 12.0,
+     "winRate": 57.9,
+     "games": 6162,
+     "trophyInclusion": 14.1
+    },
+    {
+     "name": "Sazh's Chocobo",
+     "inclusion": 25.3,
+     "winRate": 57.7,
+     "games": 12834,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Summon: Fenrir",
+     "inclusion": 29.7,
+     "winRate": 57.6,
+     "games": 15017,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Balamb Garden, SeeD Academy",
+     "inclusion": 18.5,
+     "winRate": 57.5,
+     "games": 9253,
+     "trophyInclusion": 21.9
+    },
+    {
+     "name": "The Lunar Whale",
+     "inclusion": 10.5,
+     "winRate": 57.3,
+     "games": 5355,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Eden, Seat of the Sanctum",
+     "inclusion": 9.7,
+     "winRate": 57.2,
+     "games": 4794,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Summon: Leviathan",
+     "inclusion": 12.2,
+     "winRate": 57.1,
+     "games": 6150,
+     "trophyInclusion": 12.5
+    },
+    {
+     "name": "Memories Returning",
+     "inclusion": 11.4,
+     "winRate": 57.1,
+     "games": 5722,
+     "trophyInclusion": 13.3
+    },
+    {
+     "name": "Omega, Heartless Evolution",
+     "inclusion": 42.1,
+     "winRate": 57.0,
+     "games": 20976,
+     "trophyInclusion": 45.2
+    },
+    {
+     "name": "Swallowed by Leviathan",
+     "inclusion": 25.8,
+     "winRate": 57.0,
+     "games": 12846,
+     "trophyInclusion": 27.6
+    },
+    {
+     "name": "Vanille, Cheerful l'Cie",
+     "inclusion": 22.9,
+     "winRate": 57.0,
+     "games": 11365,
+     "trophyInclusion": 26.9
+    },
+    {
+     "name": "Sidequest: Card Collection",
+     "inclusion": 18.1,
+     "winRate": 57.0,
+     "games": 8945,
+     "trophyInclusion": 19.8
+    },
+    {
+     "name": "Summon: Titan",
+     "inclusion": 10.9,
+     "winRate": 57.0,
+     "games": 5503,
+     "trophyInclusion": 10.9
+    },
+    {
+     "name": "Counterspell",
+     "inclusion": 8.0,
+     "winRate": 57.0,
+     "games": 3898,
+     "trophyInclusion": 8.5
+    },
+    {
+     "name": "Ancient Adamantoise",
+     "inclusion": 5.2,
+     "winRate": 57.0,
+     "games": 2570,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Capital City",
+     "inclusion": 16.7,
+     "winRate": 56.9,
+     "games": 8288,
+     "trophyInclusion": 17.3
+    },
+    {
+     "name": "PuPu UFO",
+     "inclusion": 14.5,
+     "winRate": 56.9,
+     "games": 7209,
+     "trophyInclusion": 16.3
+    },
+    {
+     "name": "Town Greeter",
+     "inclusion": 54.0,
+     "winRate": 56.8,
+     "games": 26937,
+     "trophyInclusion": 60.3
+    },
+    {
+     "name": "Chocobo Kick",
+     "inclusion": 52.0,
+     "winRate": 56.8,
+     "games": 26062,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Ignis Scientia",
+     "inclusion": 50.0,
+     "winRate": 56.8,
+     "games": 25029,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Sleep Magic",
+     "inclusion": 25.4,
+     "winRate": 56.8,
+     "games": 12692,
+     "trophyInclusion": 26.5
+    },
+    {
+     "name": "Fynn, the Fangbearer",
+     "inclusion": 8.2,
+     "winRate": 56.7,
+     "games": 4054,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Combat Tutorial",
+     "inclusion": 49.8,
+     "winRate": 56.6,
+     "games": 24710,
+     "trophyInclusion": 51.9
+    },
+    {
+     "name": "Eject",
+     "inclusion": 26.5,
+     "winRate": 56.6,
+     "games": 13167,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 39.2,
+     "winRate": 56.5,
+     "games": 19457,
+     "trophyInclusion": 40.1
+    },
+    {
+     "name": "Coliseum Behemoth",
+     "inclusion": 27.8,
+     "winRate": 56.5,
+     "games": 13830,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Il Mheg Pixie",
+     "inclusion": 24.0,
+     "winRate": 56.5,
+     "games": 11974,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Adventurer's Inn",
+     "inclusion": 12.8,
+     "winRate": 56.5,
+     "games": 6403,
+     "trophyInclusion": 13.9
+    },
+    {
+     "name": "Dragoon's Wyvern",
+     "inclusion": 53.0,
+     "winRate": 56.4,
+     "games": 26484,
+     "trophyInclusion": 54.7
+    },
+    {
+     "name": "Guadosalam, Farplane Gateway",
+     "inclusion": 61.1,
+     "winRate": 56.3,
+     "games": 30345,
+     "trophyInclusion": 61.9
+    },
+    {
+     "name": "Ice Magic",
+     "inclusion": 50.7,
+     "winRate": 56.3,
+     "games": 25133,
+     "trophyInclusion": 49.8
+    },
+    {
+     "name": "Summon: Fat Chocobo",
+     "inclusion": 49.7,
+     "winRate": 56.3,
+     "games": 24564,
+     "trophyInclusion": 50.5
+    },
+    {
+     "name": "Gran Pulse Ochu",
+     "inclusion": 37.1,
+     "winRate": 56.3,
+     "games": 18403,
+     "trophyInclusion": 38.8
+    },
+    {
+     "name": "Gladiolus Amicitia",
+     "inclusion": 13.8,
+     "winRate": 56.3,
+     "games": 6864,
+     "trophyInclusion": 14.2
+    },
+    {
+     "name": "Travel the Overworld",
+     "inclusion": 29.3,
+     "winRate": 56.2,
+     "games": 14475,
+     "trophyInclusion": 30.6
+    },
+    {
+     "name": "Torgal, A Fine Hound",
+     "inclusion": 27.9,
+     "winRate": 56.2,
+     "games": 13844,
+     "trophyInclusion": 27.2
+    }
+   ],
+   "rep": {
+    "record": "7-1",
+    "date": "2025-06-16",
+    "main": [
+     [
+      1,
+      "Balamb Garden, SeeD Academy"
+     ],
+     [
+      1,
+      "Capital City"
+     ],
+     [
+      1,
+      "Choco, Seeker of Paradise"
+     ],
+     [
+      1,
+      "Chocobo Kick"
+     ],
+     [
+      1,
+      "Coliseum Behemoth"
+     ],
+     [
+      1,
+      "Combat Tutorial"
+     ],
+     [
+      2,
+      "Crossroads Village"
+     ],
+     [
+      3,
+      "Forest"
+     ],
+     [
+      1,
+      "Gohn, Town of Ruin"
+     ],
+     [
+      2,
+      "Goobbue Gardener"
+     ],
+     [
+      1,
+      "Guadosalam, Farplane Gateway"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      2,
+      "Ignis Scientia"
+     ],
+     [
+      1,
+      "Il Mheg Pixie"
+     ],
+     [
+      3,
+      "Island"
+     ],
+     [
+      1,
+      "Kefka, Court Mage"
+     ],
+     [
+      1,
+      "Magic Damper"
+     ],
+     [
+      1,
+      "Mountain"
+     ],
+     [
+      1,
+      "Omega, Heartless Evolution"
+     ],
+     [
+      1,
+      "Retrieve the Esper"
+     ],
+     [
+      1,
+      "Sage's Nouliths"
+     ],
+     [
+      1,
+      "Sazh's Chocobo"
+     ],
+     [
+      1,
+      "Scorpion Sentinel"
+     ],
+     [
+      1,
+      "Sharlayan, Nation of Scholars"
+     ],
+     [
+      1,
+      "Sleep Magic"
+     ],
+     [
+      1,
+      "Stuck in Summoner's Sanctum"
+     ],
+     [
+      1,
+      "Summon: Fat Chocobo"
+     ],
+     [
+      1,
+      "Swallowed by Leviathan"
+     ],
+     [
+      1,
+      "Town Greeter"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ],
+     [
+      1,
+      "Vanille, Cheerful l'Cie"
+     ],
+     [
+      1,
+      "Vayne's Treachery"
+     ],
+     [
+      1,
+      "Windurst, Federation Center"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Auron's Inspiration"
+     ],
+     [
+      1,
+      "Cargo Ship"
+     ],
+     [
+      1,
+      "Hill Gigas"
+     ],
+     [
+      1,
+      "Magitek Infantry"
+     ],
+     [
+      1,
+      "Rook Turret"
+     ],
+     [
+      1,
+      "Samurai's Katana"
+     ],
+     [
+      1,
+      "Sidequest: Play Blitzball"
+     ],
+     [
+      1,
+      "Strixhaven Stadium"
+     ],
+     [
+      1,
+      "Vector, Imperial Capital"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "WG",
+   "games": 43682,
+   "wins": 24547,
+   "winRate": 56.19,
+   "share": 5.68,
+   "drafts": 7728,
+   "trophies": 701,
+   "cards": [
+    {
+     "name": "Dion, Bahamut's Dominant",
+     "inclusion": 10.4,
+     "winRate": 60.1,
+     "games": 4754,
+     "trophyInclusion": 14.0
+    },
+    {
+     "name": "Sazh Katzroy",
+     "inclusion": 12.0,
+     "winRate": 60.0,
+     "games": 5465,
+     "trophyInclusion": 14.7
+    },
+    {
+     "name": "Esper Origins",
+     "inclusion": 11.3,
+     "winRate": 59.1,
+     "games": 5146,
+     "trophyInclusion": 15.3
+    },
+    {
+     "name": "Dragoon's Lance",
+     "inclusion": 25.0,
+     "winRate": 59.0,
+     "games": 11334,
+     "trophyInclusion": 30.5
+    },
+    {
+     "name": "Delivery Moogle",
+     "inclusion": 20.6,
+     "winRate": 58.4,
+     "games": 9198,
+     "trophyInclusion": 25.0
+    },
+    {
+     "name": "Zanarkand, Ancient Metropolis",
+     "inclusion": 9.5,
+     "winRate": 58.0,
+     "games": 4214,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Summon: Fenrir",
+     "inclusion": 27.4,
+     "winRate": 57.7,
+     "games": 12305,
+     "trophyInclusion": 30.1
+    },
+    {
+     "name": "Weapons Vendor",
+     "inclusion": 25.9,
+     "winRate": 57.6,
+     "games": 11471,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Torgal, A Fine Hound",
+     "inclusion": 27.7,
+     "winRate": 57.4,
+     "games": 12337,
+     "trophyInclusion": 29.8
+    },
+    {
+     "name": "Vanille, Cheerful l'Cie",
+     "inclusion": 19.3,
+     "winRate": 57.4,
+     "games": 8459,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Adelbert Steiner",
+     "inclusion": 18.1,
+     "winRate": 57.4,
+     "games": 7964,
+     "trophyInclusion": 17.8
+    },
+    {
+     "name": "Rinoa Heartilly",
+     "inclusion": 49.0,
+     "winRate": 57.3,
+     "games": 21821,
+     "trophyInclusion": 54.6
+    },
+    {
+     "name": "Coliseum Behemoth",
+     "inclusion": 19.1,
+     "winRate": 57.3,
+     "games": 8380,
+     "trophyInclusion": 20.5
+    },
+    {
+     "name": "Bard's Bow",
+     "inclusion": 48.8,
+     "winRate": 57.2,
+     "games": 21545,
+     "trophyInclusion": 54.1
+    },
+    {
+     "name": "Sazh's Chocobo",
+     "inclusion": 27.1,
+     "winRate": 57.2,
+     "games": 11976,
+     "trophyInclusion": 28.2
+    },
+    {
+     "name": "Venat, Heart of Hydaelyn",
+     "inclusion": 10.8,
+     "winRate": 57.2,
+     "games": 4825,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Summon: Knights of Round",
+     "inclusion": 6.0,
+     "winRate": 57.2,
+     "games": 2675,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Machinist's Arsenal",
+     "inclusion": 5.9,
+     "winRate": 57.2,
+     "games": 2605,
+     "trophyInclusion": 5.4
+    },
+    {
+     "name": "White Auracite",
+     "inclusion": 53.9,
+     "winRate": 57.1,
+     "games": 23754,
+     "trophyInclusion": 63.1
+    },
+    {
+     "name": "Battle Menu",
+     "inclusion": 24.5,
+     "winRate": 57.1,
+     "games": 10916,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "White Mage's Staff",
+     "inclusion": 45.7,
+     "winRate": 57.0,
+     "games": 20142,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Monk's Fist",
+     "inclusion": 13.3,
+     "winRate": 57.0,
+     "games": 5903,
+     "trophyInclusion": 14.4
+    },
+    {
+     "name": "Traveling Chocobo",
+     "inclusion": 5.1,
+     "winRate": 57.0,
+     "games": 2280,
+     "trophyInclusion": 3.7
+    },
+    {
+     "name": "The Regalia",
+     "inclusion": 5.1,
+     "winRate": 57.0,
+     "games": 2271,
+     "trophyInclusion": 7.0
+    },
+    {
+     "name": "Magitek Armor",
+     "inclusion": 20.1,
+     "winRate": 56.9,
+     "games": 8904,
+     "trophyInclusion": 19.4
+    },
+    {
+     "name": "Summon: Fat Chocobo",
+     "inclusion": 58.7,
+     "winRate": 56.8,
+     "games": 25897,
+     "trophyInclusion": 58.2
+    },
+    {
+     "name": "Town Greeter",
+     "inclusion": 31.0,
+     "winRate": 56.8,
+     "games": 13631,
+     "trophyInclusion": 32.7
+    },
+    {
+     "name": "Zack Fair",
+     "inclusion": 22.9,
+     "winRate": 56.8,
+     "games": 10079,
+     "trophyInclusion": 25.7
+    },
+    {
+     "name": "Ambrosia Whiteheart",
+     "inclusion": 28.0,
+     "winRate": 56.7,
+     "games": 12219,
+     "trophyInclusion": 28.1
+    },
+    {
+     "name": "The Crystal's Chosen",
+     "inclusion": 26.8,
+     "winRate": 56.7,
+     "games": 11745,
+     "trophyInclusion": 28.8
+    },
+    {
+     "name": "Magitek Infantry",
+     "inclusion": 18.8,
+     "winRate": 56.7,
+     "games": 8246,
+     "trophyInclusion": 21.7
+    },
+    {
+     "name": "Moogles' Valor",
+     "inclusion": 11.7,
+     "winRate": 56.7,
+     "games": 5189,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Gladiolus Amicitia",
+     "inclusion": 6.5,
+     "winRate": 56.7,
+     "games": 2880,
+     "trophyInclusion": 6.8
+    },
+    {
+     "name": "Summon: Titan",
+     "inclusion": 10.0,
+     "winRate": 56.6,
+     "games": 4366,
+     "trophyInclusion": 11.3
+    },
+    {
+     "name": "Yuna, Hope of Spira",
+     "inclusion": 10.4,
+     "winRate": 56.5,
+     "games": 4586,
+     "trophyInclusion": 11.4
+    },
+    {
+     "name": "Bartz and Boko",
+     "inclusion": 9.6,
+     "winRate": 56.5,
+     "games": 4185,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Danitha Capashen, Paragon",
+     "inclusion": 6.4,
+     "winRate": 56.5,
+     "games": 2843,
+     "trophyInclusion": 6.7
+    },
+    {
+     "name": "Chocobo Kick",
+     "inclusion": 53.7,
+     "winRate": 56.4,
+     "games": 23480,
+     "trophyInclusion": 56.8
+    },
+    {
+     "name": "Windurst, Federation Center",
+     "inclusion": 52.9,
+     "winRate": 56.4,
+     "games": 23182,
+     "trophyInclusion": 56.2
+    },
+    {
+     "name": "Garnet, Princess of Alexandria",
+     "inclusion": 44.0,
+     "winRate": 56.4,
+     "games": 19276,
+     "trophyInclusion": 45.1
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-06-28",
+    "main": [
+     [
+      1,
+      "Ambrosia Whiteheart"
+     ],
+     [
+      1,
+      "Ashe, Princess of Dalmasca"
+     ],
+     [
+      1,
+      "Balamb T-Rexaur"
+     ],
+     [
+      1,
+      "Bard's Bow"
+     ],
+     [
+      1,
+      "Chocobo Kick"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Fate of the Sun-Cryst"
+     ],
+     [
+      7,
+      "Forest"
+     ],
+     [
+      1,
+      "Garnet, Princess of Alexandria"
+     ],
+     [
+      1,
+      "Moogles' Valor"
+     ],
+     [
+      7,
+      "Plains"
+     ],
+     [
+      1,
+      "Prishe's Wanderings"
+     ],
+     [
+      1,
+      "Ride the Shoopuf"
+     ],
+     [
+      1,
+      "Rinoa Heartilly"
+     ],
+     [
+      1,
+      "Slash of Light"
+     ],
+     [
+      2,
+      "Summon: Choco/Mog"
+     ],
+     [
+      1,
+      "Summon: Fat Chocobo"
+     ],
+     [
+      2,
+      "Summon: Primal Garuda"
+     ],
+     [
+      1,
+      "The Crystal's Chosen"
+     ],
+     [
+      1,
+      "Torgal, A Fine Hound"
+     ],
+     [
+      1,
+      "Venat, Heart of Hydaelyn"
+     ],
+     [
+      1,
+      "Weapons Vendor"
+     ],
+     [
+      1,
+      "White Auracite"
+     ],
+     [
+      2,
+      "Windurst, Federation Center"
+     ],
+     [
+      1,
+      "Yuna, Hope of Spira"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Cloudbound Moogle"
+     ],
+     [
+      2,
+      "Coeurl"
+     ],
+     [
+      1,
+      "Crystal Fragments"
+     ],
+     [
+      1,
+      "Delivery Moogle"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      1,
+      "Gaelicat"
+     ],
+     [
+      1,
+      "Gongaga, Reactor Town"
+     ],
+     [
+      1,
+      "Insomnia, Crown City"
+     ],
+     [
+      1,
+      "Lunatic Pandora"
+     ],
+     [
+      2,
+      "Snow Villiers"
+     ],
+     [
+      1,
+      "Stroke of Midnight"
+     ],
+     [
+      1,
+      "Ultimecia, Time Sorceress"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "UBG",
+   "games": 37276,
+   "wins": 20301,
+   "winRate": 54.46,
+   "share": 4.84,
+   "drafts": 6862,
+   "trophies": 513,
+   "cards": [
+    {
+     "name": "Ardyn, the Usurper",
+     "inclusion": 7.7,
+     "winRate": 58.6,
+     "games": 3127,
+     "trophyInclusion": 11.9
+    },
+    {
+     "name": "Esper Origins",
+     "inclusion": 10.1,
+     "winRate": 58.1,
+     "games": 4017,
+     "trophyInclusion": 15.2
+    },
+    {
+     "name": "Jill, Shiva's Dominant",
+     "inclusion": 7.5,
+     "winRate": 57.6,
+     "games": 2883,
+     "trophyInclusion": 10.5
+    },
+    {
+     "name": "Summon: Primal Odin",
+     "inclusion": 6.5,
+     "winRate": 57.6,
+     "games": 2546,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Sazh Katzroy",
+     "inclusion": 8.6,
+     "winRate": 57.4,
+     "games": 3371,
+     "trophyInclusion": 10.3
+    },
+    {
+     "name": "Summon: Fenrir",
+     "inclusion": 24.8,
+     "winRate": 57.1,
+     "games": 9588,
+     "trophyInclusion": 30.4
+    },
+    {
+     "name": "Summon: Leviathan",
+     "inclusion": 7.7,
+     "winRate": 56.9,
+     "games": 2967,
+     "trophyInclusion": 9.0
+    },
+    {
+     "name": "Balamb Garden, SeeD Academy",
+     "inclusion": 17.0,
+     "winRate": 56.4,
+     "games": 6536,
+     "trophyInclusion": 18.1
+    },
+    {
+     "name": "Starting Town",
+     "inclusion": 6.7,
+     "winRate": 56.4,
+     "games": 2559,
+     "trophyInclusion": 8.0
+    },
+    {
+     "name": "The Lunar Whale",
+     "inclusion": 7.7,
+     "winRate": 56.3,
+     "games": 2985,
+     "trophyInclusion": 9.7
+    },
+    {
+     "name": "Swallowed by Leviathan",
+     "inclusion": 20.7,
+     "winRate": 56.1,
+     "games": 7917,
+     "trophyInclusion": 27.1
+    },
+    {
+     "name": "Sidequest: Card Collection",
+     "inclusion": 15.9,
+     "winRate": 56.1,
+     "games": 6093,
+     "trophyInclusion": 18.9
+    },
+    {
+     "name": "Sazh's Chocobo",
+     "inclusion": 15.7,
+     "winRate": 56.1,
+     "games": 5962,
+     "trophyInclusion": 17.7
+    },
+    {
+     "name": "Ignis Scientia",
+     "inclusion": 43.6,
+     "winRate": 56.0,
+     "games": 16653,
+     "trophyInclusion": 50.9
+    },
+    {
+     "name": "Town Greeter",
+     "inclusion": 58.8,
+     "winRate": 55.8,
+     "games": 22290,
+     "trophyInclusion": 67.8
+    },
+    {
+     "name": "Cloud of Darkness",
+     "inclusion": 38.6,
+     "winRate": 55.8,
+     "games": 14705,
+     "trophyInclusion": 40.0
+    },
+    {
+     "name": "Summon: Titan",
+     "inclusion": 8.4,
+     "winRate": 55.8,
+     "games": 3215,
+     "trophyInclusion": 8.2
+    },
+    {
+     "name": "Zanarkand, Ancient Metropolis",
+     "inclusion": 7.9,
+     "winRate": 55.8,
+     "games": 2977,
+     "trophyInclusion": 9.6
+    },
+    {
+     "name": "Evil Reawakened",
+     "inclusion": 17.8,
+     "winRate": 55.7,
+     "games": 6758,
+     "trophyInclusion": 17.9
+    },
+    {
+     "name": "Overkill",
+     "inclusion": 17.3,
+     "winRate": 55.7,
+     "games": 6523,
+     "trophyInclusion": 18.7
+    },
+    {
+     "name": "Vanille, Cheerful l'Cie",
+     "inclusion": 32.4,
+     "winRate": 55.6,
+     "games": 12279,
+     "trophyInclusion": 36.5
+    },
+    {
+     "name": "Coliseum Behemoth",
+     "inclusion": 19.6,
+     "winRate": 55.6,
+     "games": 7404,
+     "trophyInclusion": 22.0
+    },
+    {
+     "name": "Sleep Magic",
+     "inclusion": 18.5,
+     "winRate": 55.6,
+     "games": 7027,
+     "trophyInclusion": 21.8
+    },
+    {
+     "name": "Emet-Selch, Unsundered",
+     "inclusion": 6.2,
+     "winRate": 55.6,
+     "games": 2385,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Sephiroth's Intervention",
+     "inclusion": 41.1,
+     "winRate": 55.5,
+     "games": 15428,
+     "trophyInclusion": 44.1
+    },
+    {
+     "name": "Dragoon's Wyvern",
+     "inclusion": 35.2,
+     "winRate": 55.5,
+     "games": 13343,
+     "trophyInclusion": 38.0
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 44.9,
+     "winRate": 55.4,
+     "games": 17015,
+     "trophyInclusion": 50.1
+    },
+    {
+     "name": "Omega, Heartless Evolution",
+     "inclusion": 38.0,
+     "winRate": 55.4,
+     "games": 14368,
+     "trophyInclusion": 39.2
+    },
+    {
+     "name": "Jenova, Ancient Calamity",
+     "inclusion": 13.8,
+     "winRate": 55.4,
+     "games": 5253,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Fatal Push",
+     "inclusion": 6.4,
+     "winRate": 55.4,
+     "games": 2402,
+     "trophyInclusion": 6.6
+    },
+    {
+     "name": "Combat Tutorial",
+     "inclusion": 35.4,
+     "winRate": 55.3,
+     "games": 13341,
+     "trophyInclusion": 38.2
+    },
+    {
+     "name": "Chocobo Kick",
+     "inclusion": 36.3,
+     "winRate": 55.2,
+     "games": 13654,
+     "trophyInclusion": 39.8
+    },
+    {
+     "name": "Summon: Fat Chocobo",
+     "inclusion": 34.2,
+     "winRate": 55.2,
+     "games": 12891,
+     "trophyInclusion": 36.1
+    },
+    {
+     "name": "Sin, Spira's Punishment",
+     "inclusion": 30.0,
+     "winRate": 55.2,
+     "games": 11358,
+     "trophyInclusion": 34.1
+    },
+    {
+     "name": "Eject",
+     "inclusion": 18.4,
+     "winRate": 55.2,
+     "games": 6963,
+     "trophyInclusion": 18.5
+    },
+    {
+     "name": "PuPu UFO",
+     "inclusion": 14.5,
+     "winRate": 55.2,
+     "games": 5437,
+     "trophyInclusion": 16.4
+    },
+    {
+     "name": "Treno, Dark City",
+     "inclusion": 59.2,
+     "winRate": 55.1,
+     "games": 22316,
+     "trophyInclusion": 64.3
+    },
+    {
+     "name": "Guadosalam, Farplane Gateway",
+     "inclusion": 66.7,
+     "winRate": 55.0,
+     "games": 25054,
+     "trophyInclusion": 69.2
+    },
+    {
+     "name": "Ice Magic",
+     "inclusion": 35.0,
+     "winRate": 55.0,
+     "games": 13200,
+     "trophyInclusion": 35.7
+    },
+    {
+     "name": "Torgal, A Fine Hound",
+     "inclusion": 24.1,
+     "winRate": 55.0,
+     "games": 9141,
+     "trophyInclusion": 24.0
+    }
+   ],
+   "rep": {
+    "record": "7-0",
+    "date": "2025-06-24",
+    "main": [
+     [
+      2,
+      "Capital City"
+     ],
+     [
+      1,
+      "Combat Tutorial"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      1,
+      "Dragoon's Wyvern"
+     ],
+     [
+      2,
+      "Forest"
+     ],
+     [
+      1,
+      "Gohn, Town of Ruin"
+     ],
+     [
+      1,
+      "Guadosalam, Farplane Gateway"
+     ],
+     [
+      1,
+      "Ice Flan"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      5,
+      "Island"
+     ],
+     [
+      1,
+      "Locke Cole"
+     ],
+     [
+      2,
+      "Omega, Heartless Evolution"
+     ],
+     [
+      2,
+      "Prishe's Wanderings"
+     ],
+     [
+      1,
+      "Qiqirn Merchant"
+     ],
+     [
+      1,
+      "Sahagin"
+     ],
+     [
+      1,
+      "Sephiroth's Intervention"
+     ],
+     [
+      1,
+      "Sephiroth, Fabled SOLDIER"
+     ],
+     [
+      1,
+      "Sidequest: Card Collection"
+     ],
+     [
+      1,
+      "Starting Town"
+     ],
+     [
+      1,
+      "Stuck in Summoner's Sanctum"
+     ],
+     [
+      1,
+      "Summon: Fenrir"
+     ],
+     [
+      1,
+      "Swallowed by Leviathan"
+     ],
+     [
+      2,
+      "Swamp"
+     ],
+     [
+      1,
+      "Syncopate"
+     ],
+     [
+      1,
+      "The Wandering Minstrel"
+     ],
+     [
+      1,
+      "Town Greeter"
+     ],
+     [
+      1,
+      "Travel the Overworld"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ],
+     [
+      1,
+      "Ultimecia, Time Sorceress"
+     ],
+     [
+      1,
+      "Vayne's Treachery"
+     ],
+     [
+      1,
+      "Windurst, Federation Center"
+     ]
+    ],
+    "side": [
+     [
+      2,
+      "Airship Crash"
+     ],
+     [
+      1,
+      "Barret Wallace"
+     ],
+     [
+      1,
+      "Blazing Bomb"
+     ],
+     [
+      1,
+      "Fire Magic"
+     ],
+     [
+      2,
+      "Stolen Uniform"
+     ],
+     [
+      1,
+      "Vector, Imperial Capital"
+     ],
+     [
+      1,
+      "World Map"
+     ],
+     [
+      1,
+      "You're Not Alone"
+     ],
+     [
+      1,
+      "Zell Dincht"
+     ]
+    ]
+   }
+  },
+  {
+   "colors": "RG",
+   "games": 30682,
+   "wins": 16513,
+   "winRate": 53.82,
+   "share": 3.99,
+   "drafts": 5595,
+   "trophies": 419,
+   "cards": [
+    {
+     "name": "Nibelheim Aflame",
+     "inclusion": 5.9,
+     "winRate": 58.6,
+     "games": 1933,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Seifer Almasy",
+     "inclusion": 9.3,
+     "winRate": 58.2,
+     "games": 3032,
+     "trophyInclusion": 12.9
+    },
+    {
+     "name": "Esper Origins",
+     "inclusion": 9.8,
+     "winRate": 57.7,
+     "games": 3108,
+     "trophyInclusion": 13.4
+    },
+    {
+     "name": "Sazh Katzroy",
+     "inclusion": 11.6,
+     "winRate": 57.4,
+     "games": 3800,
+     "trophyInclusion": 16.7
+    },
+    {
+     "name": "Summon: Fenrir",
+     "inclusion": 29.0,
+     "winRate": 56.2,
+     "games": 9156,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Sazh's Chocobo",
+     "inclusion": 28.8,
+     "winRate": 56.1,
+     "games": 9052,
+     "trophyInclusion": 35.6
+    },
+    {
+     "name": "Samurai's Katana",
+     "inclusion": 22.2,
+     "winRate": 56.0,
+     "games": 6965,
+     "trophyInclusion": 25.8
+    },
+    {
+     "name": "Summon: Titan",
+     "inclusion": 11.7,
+     "winRate": 55.8,
+     "games": 3657,
+     "trophyInclusion": 12.4
+    },
+    {
+     "name": "Choco-Comet",
+     "inclusion": 31.3,
+     "winRate": 55.7,
+     "games": 9784,
+     "trophyInclusion": 35.1
+    },
+    {
+     "name": "Vanille, Cheerful l'Cie",
+     "inclusion": 19.2,
+     "winRate": 55.6,
+     "games": 6009,
+     "trophyInclusion": 19.3
+    },
+    {
+     "name": "Town Greeter",
+     "inclusion": 41.5,
+     "winRate": 55.5,
+     "games": 12997,
+     "trophyInclusion": 46.1
+    },
+    {
+     "name": "Torgal, A Fine Hound",
+     "inclusion": 25.7,
+     "winRate": 55.1,
+     "games": 7995,
+     "trophyInclusion": 28.6
+    },
+    {
+     "name": "Coliseum Behemoth",
+     "inclusion": 25.5,
+     "winRate": 55.1,
+     "games": 7916,
+     "trophyInclusion": 29.4
+    },
+    {
+     "name": "Lightning Bolt",
+     "inclusion": 10.3,
+     "winRate": 55.1,
+     "games": 3237,
+     "trophyInclusion": 11.0
+    },
+    {
+     "name": "Captain Lannery Storm",
+     "inclusion": 8.6,
+     "winRate": 55.1,
+     "games": 2642,
+     "trophyInclusion": 10.0
+    },
+    {
+     "name": "Summon: Fat Chocobo",
+     "inclusion": 61.1,
+     "winRate": 54.9,
+     "games": 18959,
+     "trophyInclusion": 67.8
+    },
+    {
+     "name": "Zanarkand, Ancient Metropolis",
+     "inclusion": 10.7,
+     "winRate": 54.9,
+     "games": 3338,
+     "trophyInclusion": 11.2
+    },
+    {
+     "name": "Chocobo Kick",
+     "inclusion": 58.8,
+     "winRate": 54.8,
+     "games": 18356,
+     "trophyInclusion": 65.2
+    },
+    {
+     "name": "Bartz and Boko",
+     "inclusion": 11.7,
+     "winRate": 54.8,
+     "games": 3675,
+     "trophyInclusion": 13.1
+    },
+    {
+     "name": "The Regalia",
+     "inclusion": 5.7,
+     "winRate": 54.8,
+     "games": 1735,
+     "trophyInclusion": 6.2
+    },
+    {
+     "name": "Call the Mountain Chocobo",
+     "inclusion": 62.6,
+     "winRate": 54.7,
+     "games": 19467,
+     "trophyInclusion": 68.7
+    },
+    {
+     "name": "Thunder Magic",
+     "inclusion": 51.4,
+     "winRate": 54.6,
+     "games": 15923,
+     "trophyInclusion": 55.8
+    },
+    {
+     "name": "Gladiolus Amicitia",
+     "inclusion": 50.7,
+     "winRate": 54.6,
+     "games": 15724,
+     "trophyInclusion": 54.4
+    },
+    {
+     "name": "Suplex",
+     "inclusion": 51.3,
+     "winRate": 54.5,
+     "games": 15851,
+     "trophyInclusion": 57.0
+    },
+    {
+     "name": "Crossroads Village",
+     "inclusion": 25.2,
+     "winRate": 54.4,
+     "games": 7814,
+     "trophyInclusion": 25.5
+    },
+    {
+     "name": "Traveling Chocobo",
+     "inclusion": 6.9,
+     "winRate": 54.4,
+     "games": 2184,
+     "trophyInclusion": 7.2
+    },
+    {
+     "name": "Gysahl Greens",
+     "inclusion": 53.7,
+     "winRate": 54.3,
+     "games": 16592,
+     "trophyInclusion": 58.9
+    },
+    {
+     "name": "Sidequest: Raise a Chocobo",
+     "inclusion": 26.8,
+     "winRate": 54.3,
+     "games": 8338,
+     "trophyInclusion": 27.4
+    },
+    {
+     "name": "Vector, Imperial Capital",
+     "inclusion": 7.6,
+     "winRate": 54.3,
+     "games": 2301,
+     "trophyInclusion": 7.6
+    },
+    {
+     "name": "Blitzball Shot",
+     "inclusion": 29.8,
+     "winRate": 54.2,
+     "games": 9173,
+     "trophyInclusion": 34.6
+    },
+    {
+     "name": "Bard's Bow",
+     "inclusion": 44.5,
+     "winRate": 54.1,
+     "games": 13688,
+     "trophyInclusion": 45.6
+    },
+    {
+     "name": "Goobbue Gardener",
+     "inclusion": 50.7,
+     "winRate": 54.0,
+     "games": 15554,
+     "trophyInclusion": 48.2
+    },
+    {
+     "name": "Rydia, Summoner of Mist",
+     "inclusion": 43.6,
+     "winRate": 54.0,
+     "games": 13349,
+     "trophyInclusion": 44.4
+    },
+    {
+     "name": "Ride the Shoopuf",
+     "inclusion": 23.7,
+     "winRate": 54.0,
+     "games": 7274,
+     "trophyInclusion": 24.1
+    },
+    {
+     "name": "Zell Dincht",
+     "inclusion": 15.8,
+     "winRate": 53.9,
+     "games": 4882,
+     "trophyInclusion": 15.0
+    },
+    {
+     "name": "Gongaga, Reactor Town",
+     "inclusion": 60.7,
+     "winRate": 53.8,
+     "games": 18519,
+     "trophyInclusion": 58.0
+    },
+    {
+     "name": "Balamb T-Rexaur",
+     "inclusion": 54.7,
+     "winRate": 53.8,
+     "games": 16746,
+     "trophyInclusion": 52.0
+    },
+    {
+     "name": "Prompto Argentum",
+     "inclusion": 14.9,
+     "winRate": 53.8,
+     "games": 4569,
+     "trophyInclusion": 13.8
+    },
+    {
+     "name": "Gohn, Town of Ruin",
+     "inclusion": 8.5,
+     "winRate": 53.7,
+     "games": 2518,
+     "trophyInclusion": 7.4
+    },
+    {
+     "name": "Terra, Magical Adept",
+     "inclusion": 9.7,
+     "winRate": 53.6,
+     "games": 2923,
+     "trophyInclusion": 8.4
+    }
+   ],
+   "rep": {
+    "record": "7-2",
+    "date": "2025-06-11",
+    "main": [
+     [
+      2,
+      "Balamb T-Rexaur"
+     ],
+     [
+      1,
+      "Bard's Bow"
+     ],
+     [
+      1,
+      "Blitzball Shot"
+     ],
+     [
+      2,
+      "Call the Mountain Chocobo"
+     ],
+     [
+      2,
+      "Chocobo Kick"
+     ],
+     [
+      1,
+      "Coliseum Behemoth"
+     ],
+     [
+      1,
+      "Commune with Beavers"
+     ],
+     [
+      1,
+      "Crossroads Village"
+     ],
+     [
+      8,
+      "Forest"
+     ],
+     [
+      1,
+      "Gongaga, Reactor Town"
+     ],
+     [
+      1,
+      "Goobbue Gardener"
+     ],
+     [
+      1,
+      "Gysahl Greens"
+     ],
+     [
+      6,
+      "Mountain"
+     ],
+     [
+      1,
+      "Mysidian Elder"
+     ],
+     [
+      1,
+      "Quina, Qu Gourmet"
+     ],
+     [
+      1,
+      "Rydia, Summoner of Mist"
+     ],
+     [
+      1,
+      "Sabotender"
+     ],
+     [
+      1,
+      "Summon: Fat Chocobo"
+     ],
+     [
+      1,
+      "Summon: Fenrir"
+     ],
+     [
+      1,
+      "Summon: G.F. Ifrit"
+     ],
+     [
+      2,
+      "Suplex"
+     ],
+     [
+      2,
+      "Thunder Magic"
+     ],
+     [
+      1,
+      "Town Greeter"
+     ]
+    ],
+    "side": [
+     [
+      1,
+      "Coliseum Behemoth"
+     ],
+     [
+      1,
+      "Gohn, Town of Ruin"
+     ],
+     [
+      1,
+      "Ice Flan"
+     ],
+     [
+      1,
+      "Ice Magic"
+     ],
+     [
+      1,
+      "Item Shopkeep"
+     ],
+     [
+      1,
+      "Magic Damper"
+     ],
+     [
+      1,
+      "Magic Pot"
+     ],
+     [
+      1,
+      "Rabanastre, Royal City"
+     ],
+     [
+      1,
+      "Retrieve the Esper"
+     ],
+     [
+      1,
+      "Rydia's Return"
+     ],
+     [
+      2,
+      "Sabotender"
+     ],
+     [
+      1,
+      "Treno, Dark City"
+     ],
+     [
+      2,
+      "Ultimecia, Time Sorceress"
+     ]
+    ]
+   }
+  }
+ ]
+}

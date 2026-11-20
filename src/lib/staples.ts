@@ -6,6 +6,8 @@ export type StapleSeason = {
   start: string
   end?: string
   set: string
+  /** Limited: set code */
+  code?: string
   /** newest first: by the first result of a performing deck playing the card */
   cards: { name: string; decks: number; since: string }[]
 }
@@ -44,7 +46,7 @@ export function computeStaples(data: FormatData): StapleSeason[] {
       .map(([name, decks]) => ({ name, decks, since: since.get(name) ?? s.start }))
       .sort((a, b) => b.since.localeCompare(a.since) || b.decks - a.decks || a.name.localeCompare(b.name))
     for (const c of cards) seen.add(c.name)
-    return { id: s.id, start: s.start, end: s.end, set: s.set, cards }
+    return { id: s.id, start: s.start, end: s.end, set: s.set, code: s.code, cards }
   }).filter((s) => s.cards.length > 0)
 }
 
