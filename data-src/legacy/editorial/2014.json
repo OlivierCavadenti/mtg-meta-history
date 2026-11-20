@@ -1,0 +1,861 @@
+[
+  {
+    "name": "Miracles",
+    "slug": "miracles",
+    "archetype": "control",
+    "titles": [
+      "UW Miracles",
+      "Jeskai Miracle",
+      "Jeskai Miracles",
+      "Stone Miracle",
+      "Stonemiracle",
+      "UWr Miracles",
+      "Miracle Blade"
+    ],
+    "rep": 245815,
+    "cover": "Terminus",
+    "keyCards": [
+      "Terminus",
+      "Sensei's Divining Top",
+      "Counterbalance",
+      "Jace, the Mind Sculptor",
+      "Entreat the Angels",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Sensei's Divining Top plaçait Terminus ou Entreat the Angels sur le dessus pour les lancer en miracle, Counterbalance bloquait les sorts adverses, Jace piochait.",
+      "en": "Sensei's Divining Top set up Terminus or Entreat the Angels to be cast as miracles, Counterbalance locked opposing spells and Jace drew cards."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année, quatre victoires en Opens SCG",
+        "Une version à rouge a gagné l'Ovinogeddon 9 à Milan"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights, with four SCG Open wins",
+        "A red-splash version won Ovinogeddon 9 in Milan"
+      ]
+    }
+  },
+  {
+    "name": "Stoneblade",
+    "slug": "stoneblade",
+    "archetype": "control",
+    "titles": [
+      "Stoneblade",
+      "Death Blade",
+      "Deathblade",
+      "Esper Deathblade",
+      "Young Stoneblade"
+    ],
+    "rep": 240223,
+    "cover": "Stoneforge Mystic",
+    "keyCards": [
+      "Stoneforge Mystic",
+      "True-Name Nemesis",
+      "Jace, the Mind Sculptor",
+      "Deathrite Shaman",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Stoneforge Mystic et Batterskull, True-Name Nemesis et Jace ; la version Deathblade ajoutait Deathrite Shaman et Liliana of the Veil.",
+      "en": "Stoneforge Mystic and Batterskull, True-Name Nemesis and Jace; the Deathblade version added Deathrite Shaman and Liliana of the Veil."
+    },
+    "why": {
+      "fr": [
+        "Derrick Sheets a gagné l'Invitational SCG de Charlotte en mars",
+        "Une version à Young Pyromancer et Treasure Cruise a gagné le Grand Prix Edison 2014"
+      ],
+      "en": [
+        "Derrick Sheets won the SCG Invitational in Charlotte in March",
+        "A version with Young Pyromancer and Treasure Cruise won Grand Prix Edison 2014"
+      ]
+    }
+  },
+  {
+    "name": "BUG Delver",
+    "slug": "team-america",
+    "archetype": "tempo",
+    "titles": [
+      "BUG Aggro / Midrange",
+      "BUG Threshold",
+      "BUG Delver",
+      "Bolted BUG"
+    ],
+    "rep": 238204,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Deathrite Shaman",
+      "Tarmogoyf",
+      "Abrupt Decay",
+      "Hymn to Tourach",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir-vert : Delver of Secrets, Deathrite Shaman et Tarmogoyf derrière Daze et Force of Will, Hymn to Tourach et Abrupt Decay pour l'interaction.",
+      "en": "Blue-black-green tempo: Delver of Secrets, Deathrite Shaman and Tarmogoyf behind Daze and Force of Will, with Hymn to Tourach and Abrupt Decay for interaction."
+    },
+    "why": {
+      "fr": [
+        "Javier Dominguez a gagné le Grand Prix Paris 2014",
+        "Victoire aussi au Super Legacy Arcanis de Barcelone"
+      ],
+      "en": [
+        "Javier Dominguez won Grand Prix Paris 2014",
+        "Also won the Super Legacy Arcanis in Barcelona"
+      ]
+    }
+  },
+  {
+    "name": "Patriot",
+    "slug": "patriot",
+    "archetype": "tempo",
+    "titles": [
+      "Patriot Aggro",
+      "Patriot",
+      "Patriot Delver"
+    ],
+    "rep": 240209,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Stoneforge Mystic",
+      "True-Name Nemesis",
+      "Lightning Bolt",
+      "Swords to Plowshares",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo blanc-bleu-rouge : Delver of Secrets, Stoneforge Mystic et True-Name Nemesis, Lightning Bolt et Swords to Plowshares, Daze et Force of Will.",
+      "en": "White-blue-red tempo: Delver of Secrets, Stoneforge Mystic and True-Name Nemesis, Lightning Bolt and Swords to Plowshares, Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "Cinq victoires en Opens SCG, dont Charlotte (Michael Majors) et Dallas",
+        "Batterskull suffisait souvent contre les decks d'attaque"
+      ],
+      "en": [
+        "Five SCG Open wins, including Charlotte (Michael Majors) and Dallas",
+        "Batterskull was often enough against attack decks"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Threshold"
+    ],
+    "rep": 238048,
+    "cover": "Nimble Mongoose",
+    "keyCards": [
+      "Nimble Mongoose",
+      "Delver of Secrets",
+      "Tarmogoyf",
+      "Stifle",
+      "Daze",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets, Nimble Mongoose et Tarmogoyf, Stifle, Daze et Wasteland pour priver l'adversaire de mana.",
+      "en": "Blue-green-red tempo: Delver of Secrets, Nimble Mongoose and Tarmogoyf, with Stifle, Daze and Wasteland to starve the opponent of mana."
+    },
+    "why": {
+      "fr": [
+        "Victoires aux Opens SCG de Nashville (Taylor Scott), Atlanta et Detroit",
+        "Forked Bolt et Spell Snare complétaient l'interaction"
+      ],
+      "en": [
+        "Won the SCG Opens in Nashville (Taylor Scott), Atlanta and Detroit",
+        "Forked Bolt and Spell Snare rounded out the interaction"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves",
+      "Elves !"
+    ],
+    "rep": 242973,
+    "cover": "Craterhoof Behemoth",
+    "keyCards": [
+      "Craterhoof Behemoth",
+      "Natural Order",
+      "Glimpse of Nature",
+      "Green Sun's Zenith",
+      "Wirewood Symbiote",
+      "Quirion Ranger"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Glimpse of Nature faisait piocher la meute, Natural Order ou Green Sun's Zenith allait chercher Craterhoof Behemoth, qui finissait en une attaque.",
+      "en": "Elf combo: Glimpse of Nature drew the pack, and Natural Order or Green Sun's Zenith fetched Craterhoof Behemoth, which won in one attack."
+    },
+    "why": {
+      "fr": [
+        "Quatre victoires, à Indianapolis (Riley Curran), Saint-Louis et Padoue",
+        "Quirion Ranger et Wirewood Symbiote relançaient Elvish Visionary"
+      ],
+      "en": [
+        "Four wins, in Indianapolis (Riley Curran), St. Louis and Padua",
+        "Quirion Ranger and Wirewood Symbiote replayed Elvish Visionary"
+      ]
+    }
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Delver"
+    ],
+    "rep": 240622,
+    "cover": "Young Pyromancer",
+    "keyCards": [
+      "Young Pyromancer",
+      "Delver of Secrets",
+      "Deathrite Shaman",
+      "Stifle",
+      "Lightning Bolt",
+      "Gitaxian Probe"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets et Young Pyromancer, des sorts bon marché pour fabriquer des jetons, Stifle et Daze contre le mana adverse.",
+      "en": "Blue-red tempo: Delver of Secrets and Young Pyromancer, cheap spells to make tokens, Stifle and Daze against the opponent's mana."
+    },
+    "why": {
+      "fr": [
+        "Quatre victoires en Opens SCG, dont Milwaukee (Eric Rill) et Edison",
+        "Treasure Cruise, de Khans of Tarkir, est arrivé en fin d'année"
+      ],
+      "en": [
+        "Four SCG Open wins, including Milwaukee (Eric Rill) and Edison",
+        "Treasure Cruise, from Khans of Tarkir, arrived late in the year"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Sneak Show"
+    ],
+    "rep": 237256,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Emrakul, the Aeons Torn",
+      "Show and Tell",
+      "Sneak Attack",
+      "Lotus Petal",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Griselbrand ou Emrakul dès le deuxième tour, Force of Will et Spell Pierce protégeaient.",
+      "en": "Show and Tell or Sneak Attack put Griselbrand or Emrakul into play from turn two, with Force of Will and Spell Pierce as protection."
+    },
+    "why": {
+      "fr": [
+        "Deuxième place dans plusieurs Opens SCG : Columbus, Nashville, Milwaukee",
+        "Présent dans les top 8 toute l'année sans victoire"
+      ],
+      "en": [
+        "Second place at several SCG Opens: Columbus, Nashville, Milwaukee",
+        "In top eights all year without a win"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 241610,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Phyrexian Revoker",
+      "Mother of Runes",
+      "Stoneforge Mystic",
+      "Aether Vial",
+      "Flickerwisp"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia, Phyrexian Revoker et Wasteland ralentissaient l'adversaire, Aether Vial et Flickerwisp gardaient l'avance.",
+      "en": "Small white taxing creatures: Thalia, Phyrexian Revoker and Wasteland slowed the opponent, while Aether Vial and Flickerwisp kept the lead."
+    },
+    "why": {
+      "fr": [
+        "Quatre victoires en Opens SCG, à Cincinnati, Kansas City et Richmond notamment",
+        "Karakas renvoyait en main Griselbrand ou Emrakul adverse"
+      ],
+      "en": [
+        "Four SCG Open wins, including Cincinnati, Kansas City and Richmond",
+        "Karakas bounced an opposing Griselbrand or Emrakul"
+      ]
+    }
+  },
+  {
+    "name": "Shardless BUG",
+    "slug": "shardless-bug",
+    "archetype": "midrange",
+    "titles": [
+      "Shardless BUG",
+      "True Name BUG",
+      "BUG Nemesis",
+      "Bug Midrange"
+    ],
+    "rep": 245219,
+    "cover": "Shardless Agent",
+    "keyCards": [
+      "Shardless Agent",
+      "Ancestral Vision",
+      "Abrupt Decay",
+      "Deathrite Shaman",
+      "Tarmogoyf",
+      "Baleful Strix"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain bleu-noir-vert : Shardless Agent cascadait sur Ancestral Vision, Deathrite Shaman accélérait, Abrupt Decay et Liliana répondaient.",
+      "en": "Blue-black-green midrange: Shardless Agent cascaded into Ancestral Vision, Deathrite Shaman accelerated, and Abrupt Decay and Liliana answered threats."
+    },
+    "why": {
+      "fr": [
+        "Victoires aux Opens SCG de Baltimore, Portland et Washington",
+        "Les versions à True-Name Nemesis ont gagné l'Open SCG de Los Angeles"
+      ],
+      "en": [
+        "Won the SCG Opens in Baltimore, Portland and Washington",
+        "True-Name Nemesis versions won the SCG Open in Los Angeles"
+      ]
+    }
+  },
+  {
+    "name": "Infect",
+    "slug": "infect",
+    "archetype": "aggro",
+    "titles": [
+      "Berserk Poison"
+    ],
+    "rep": 243512,
+    "cover": "Glistener Elf",
+    "keyCards": [
+      "Glistener Elf",
+      "Blighted Agent",
+      "Invigorate",
+      "Berserk",
+      "Vines of Vastwood",
+      "Inkmoth Nexus"
+    ],
+    "summary": {
+      "fr": "Créatures à infection, Glistener Elf, Blighted Agent et Inkmoth Nexus ; Invigorate et Berserk gratuits ou presque donnaient dix marqueurs poison en un ou deux tours.",
+      "en": "Infect creatures, Glistener Elf, Blighted Agent and Inkmoth Nexus; free or near-free Invigorate and Berserk gave ten poison counters in one or two turns."
+    },
+    "why": {
+      "fr": [
+        "Tom Ross a gagné les Invitationals SCG de Columbus et de Somerset",
+        "Tom Ross a aussi fini deuxième du Grand Prix Edison 2014"
+      ],
+      "en": [
+        "Tom Ross won the SCG Invitationals in Columbus and Somerset",
+        "Tom Ross also finished second at Grand Prix Edison 2014"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "TES"
+    ],
+    "rep": 245089,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Cabal Therapy",
+      "Gitaxian Probe",
+      "Ad Nauseam"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Past in Flames prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Past in Flames extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Kai Thiele a gagné le Prague Eternal 2014, TES a gagné le Tarmogeddon 10 à Padoue",
+        "Top 4 au Grand Prix Edison 2014"
+      ],
+      "en": [
+        "Kai Thiele won Prague Eternal 2014, and TES won Tarmogeddon 10 in Padua",
+        "Top four at Grand Prix Edison 2014"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator"
+    ],
+    "rep": 237255,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Entomb",
+      "Exhume",
+      "Reanimate",
+      "Careful Study",
+      "Show and Tell"
+    ],
+    "summary": {
+      "fr": "Entomb ou Careful Study mettait Griselbrand au cimetière, Exhume ou Reanimate le ramenait au premier ou au deuxième tour ; Show and Tell servait de plan bis.",
+      "en": "Entomb or Careful Study put Griselbrand in the graveyard, and Exhume or Reanimate brought it back on turn one or two; Show and Tell was a backup plan."
+    },
+    "why": {
+      "fr": [
+        "Thomas Graves a gagné l'Open SCG de Columbus en janvier",
+        "Deuxième aux Opens SCG d'Orlando et d'Edison"
+      ],
+      "en": [
+        "Thomas Graves won the SCG Open in Columbus in January",
+        "Second at the SCG Opens in Orlando and Edison"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 241249,
+    "cover": "Golgari Grave-Troll",
+    "keyCards": [
+      "Golgari Grave-Troll",
+      "Narcomoeba",
+      "Bridge from Below",
+      "Lion's Eye Diamond",
+      "Faithless Looting",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "fr": "Le cimetière servait de main : Faithless Looting et Careful Study lançaient le draguage, Lion's Eye Diamond vidait la main, Bridge from Below fabriquait des Zombies.",
+      "en": "The graveyard was the hand: Faithless Looting and Careful Study started the dredging, Lion's Eye Diamond emptied the hand and Bridge from Below made Zombies."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Super Legacy Arcanis de Barcelone (Fran Sierra)",
+        "Top 4 à l'Open SCG d'Edison et à Milan"
+      ],
+      "en": [
+        "Second at the Super Legacy Arcanis in Barcelona (Fran Sierra)",
+        "Top four at the SCG Open in Edison and in Milan"
+      ]
+    }
+  },
+  {
+    "name": "Jund",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Jund"
+    ],
+    "rep": 245220,
+    "cover": "Liliana of the Veil",
+    "keyCards": [
+      "Liliana of the Veil",
+      "Tarmogoyf",
+      "Deathrite Shaman",
+      "Dark Confidant",
+      "Abrupt Decay",
+      "Punishing Fire"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir-vert-rouge : Thoughtseize, Hymn to Tourach et Liliana of the Veil, Tarmogoyf et Dark Confidant, Punishing Fire et Abrupt Decay pour répondre.",
+      "en": "Black-green-red midrange: Thoughtseize, Hymn to Tourach and Liliana of the Veil, Tarmogoyf and Dark Confidant, with Punishing Fire and Abrupt Decay as answers."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Open SCG de Baltimore (Dustin Shiles)",
+        "Top 4 à l'Open SCG de Seattle et à Padoue"
+      ],
+      "en": [
+        "Second at the SCG Open in Baltimore (Dustin Shiles)",
+        "Top four at the SCG Open in Seattle and in Padua"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn",
+      "Petal Burn"
+    ],
+    "rep": 244005,
+    "cover": "Eidolon of the Great Revel",
+    "keyCards": [
+      "Eidolon of the Great Revel",
+      "Goblin Guide",
+      "Lightning Bolt",
+      "Price of Progress",
+      "Fireblast",
+      "Sulfuric Vortex"
+    ],
+    "summary": {
+      "fr": "Rouge agressif : Goblin Guide, Eidolon of the Great Revel de Journey into Nyx, burn à un mana, Price of Progress contre les terrains doubles et Fireblast pour finir.",
+      "en": "Aggressive red: Goblin Guide, Eidolon of the Great Revel from Journey into Nyx, one-mana burn, Price of Progress against dual lands and Fireblast to finish."
+    },
+    "why": {
+      "fr": [
+        "Bryan Cambidge a gagné l'Open SCG de Las Vegas en juin",
+        "Sulfuric Vortex empêchait l'adversaire de regagner des points de vie"
+      ],
+      "en": [
+        "Bryan Cambidge won the SCG Open in Las Vegas in June",
+        "Sulfuric Vortex stopped the opponent from gaining life"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter",
+      "Imperial Painter",
+      "UR Balancing Painter"
+    ],
+    "rep": 238610,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Grindstone",
+      "Imperial Recruiter",
+      "Blood Moon",
+      "Simian Spirit Guide",
+      "Sensei's Divining Top"
+    ],
+    "summary": {
+      "fr": "Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors toute la bibliothèque ; Blood Moon gênait les bases à terrains doubles.",
+      "en": "Painter's Servant made every card one color, so Grindstone milled the whole library; Blood Moon hurt dual-land mana bases."
+    },
+    "why": {
+      "fr": [
+        "Greg Smith a gagné un Open SCG Legacy en février",
+        "Deuxième à l'Open SCG de Knoxville (Arthur Reynolds)"
+      ],
+      "en": [
+        "Greg Smith won an SCG Legacy Open in February",
+        "Second at the SCG Open in Knoxville (Arthur Reynolds)"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands (Eternal Garden)",
+      "Lands"
+    ],
+    "rep": 237516,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Mox Diamond",
+      "Punishing Fire",
+      "Gamble",
+      "Crop Rotation"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Exploration et Mox Diamond les posaient, Life from the Loam les recyclait, Punishing Fire et Grove of the Burnwillows tenaient la table.",
+      "en": "A deck made almost entirely of lands: Exploration and Mox Diamond dumped them, Life from the Loam recycled them, and Punishing Fire with Grove of the Burnwillows held the board."
+    },
+    "why": {
+      "fr": [
+        "Kurt Speiss a gagné l'Open SCG de Baltimore en janvier",
+        "Crop Rotation allait chercher Dark Depths ou The Tabernacle at Pendrell Vale"
+      ],
+      "en": [
+        "Kurt Speiss won the SCG Open in Baltimore in January",
+        "Crop Rotation fetched Dark Depths or The Tabernacle at Pendrell Vale"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Loam",
+      "Junk Deepth"
+    ],
+    "rep": 241544,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Life from the Loam",
+      "Chalice of the Void",
+      "Dark Confidant",
+      "Liliana of the Veil",
+      "Punishing Fire"
+    ],
+    "summary": {
+      "fr": "Life from the Loam recyclait Wasteland et les terrains cyclables, Knight of the Reliquary et Dark Confidant frappaient, Chalice of the Void ralentissait l'adversaire.",
+      "en": "Life from the Loam recycled Wasteland and cycling lands, Knight of the Reliquary and Dark Confidant attacked, and Chalice of the Void slowed the opponent."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Bazaar of Moxen 9",
+        "Punishing Fire et Grove of the Burnwillows tenaient les petites créatures"
+      ],
+      "en": [
+        "Won Bazaar of Moxen 9",
+        "Punishing Fire and Grove of the Burnwillows held off small creatures"
+      ]
+    }
+  },
+  {
+    "name": "Loam Pox",
+    "slug": "pox",
+    "archetype": "control",
+    "titles": [
+      "Glam Loam",
+      "Loam Control",
+      "Pox"
+    ],
+    "rep": 236769,
+    "cover": "Smallpox",
+    "keyCards": [
+      "Smallpox",
+      "Life from the Loam",
+      "Liliana of the Veil",
+      "Entomb",
+      "Faithless Looting",
+      "Mox Diamond"
+    ],
+    "summary": {
+      "fr": "Smallpox et Liliana of the Veil faisaient perdre ressources aux deux joueurs, Life from the Loam rendait la symétrie favorable ; Thespian's Stage et Dark Depths pour gagner.",
+      "en": "Smallpox and Liliana of the Veil cost both players resources, and Life from the Loam tilted the symmetry; Thespian's Stage and Dark Depths to win."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Open SCG d'Indianapolis en janvier",
+        "Entomb et Faithless Looting mettaient Life from the Loam au cimetière"
+      ],
+      "en": [
+        "Won the SCG Open in Indianapolis in January",
+        "Entomb and Faithless Looting put Life from the Loam in the graveyard"
+      ]
+    }
+  },
+  {
+    "name": "Omni-Show",
+    "slug": "omni-show",
+    "archetype": "combo",
+    "titles": [
+      "Omni - Show"
+    ],
+    "rep": 237042,
+    "cover": "Omniscience",
+    "keyCards": [
+      "Omniscience",
+      "Show and Tell",
+      "Enter the Infinite",
+      "Dream Halls",
+      "Cunning Wish",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Dream Halls mettait en jeu Omniscience : tous les sorts devenaient gratuits, et Enter the Infinite piochait toute la bibliothèque.",
+      "en": "Show and Tell or Dream Halls put Omniscience into play: every spell became free, and Enter the Infinite drew the whole library."
+    },
+    "why": {
+      "fr": [
+        "Top 4 aux Opens SCG d'Orlando et de Kansas City",
+        "Top 4 aussi à l'Eternal Festival de Tokyo"
+      ],
+      "en": [
+        "Top four at the SCG Opens in Orlando and Kansas City",
+        "Also top four at the Eternal Festival in Tokyo"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk",
+      "Mono U Merfolk"
+    ],
+    "rep": 242405,
+    "cover": "True-Name Nemesis",
+    "keyCards": [
+      "True-Name Nemesis",
+      "Master of the Pearl Trident",
+      "Lord of Atlantis",
+      "Silvergill Adept",
+      "Aether Vial",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Ondins à seigneurs posés par Aether Vial, True-Name Nemesis impossible à bloquer ou à cibler, Daze et Force of Will pour protéger l'avance.",
+      "en": "Merfolk with lords put into play by Aether Vial, True-Name Nemesis that could not be blocked or targeted, and Daze and Force of Will to protect the lead."
+    },
+    "why": {
+      "fr": [
+        "Top 8 à l'Open SCG de Somerset, à Milan et à Padoue",
+        "Phantasmal Image copiait un seigneur"
+      ],
+      "en": [
+        "Top eights at the SCG Open in Somerset, in Milan and in Padua",
+        "Phantasmal Image copied a lord"
+      ]
+    }
+  },
+  {
+    "name": "Maverick",
+    "slug": "maverick",
+    "archetype": "midrange",
+    "titles": [
+      "Maverick"
+    ],
+    "rep": 242967,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Thalia, Guardian of Thraben",
+      "Green Sun's Zenith",
+      "Mother of Runes",
+      "Qasali Pridemage",
+      "Stoneforge Mystic"
+    ],
+    "summary": {
+      "fr": "Vert-blanc à Green Sun's Zenith et Knight of the Reliquary, Thalia pour taxer, Mother of Runes pour protéger, Stoneforge Mystic pour une Sword.",
+      "en": "Green-white with Green Sun's Zenith and Knight of the Reliquary, Thalia to tax, Mother of Runes to protect and Stoneforge Mystic for a Sword."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Open SCG d'Indianapolis et au Legacy Championship de l'Eternal Weekend",
+        "Karakas et Gaea's Cradle parmi les terrains utilitaires"
+      ],
+      "en": [
+        "Top four at the SCG Open in Indianapolis and the Eternal Weekend Legacy Championship",
+        "Karakas and Gaea's Cradle among the utility lands"
+      ]
+    }
+  },
+  {
+    "name": "High Tide",
+    "slug": "high-tide",
+    "archetype": "combo",
+    "titles": [
+      "High Tide"
+    ],
+    "rep": 240768,
+    "cover": "High Tide",
+    "keyCards": [
+      "High Tide",
+      "Time Spiral",
+      "Merchant Scroll",
+      "Brainstorm",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "High Tide doublait le mana des Islands, Time Spiral les dégageait et relançait la main, jusqu'à un Brain Freeze final.",
+      "en": "High Tide doubled the mana of Islands, and Time Spiral untapped them and refilled the hand until a final Brain Freeze."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Open SCG de Dallas (Colin Chilbert)",
+        "Top 8 à l'Open SCG d'Atlanta et à Milan"
+      ],
+      "en": [
+        "Top four at the SCG Open in Dallas (Colin Chilbert)",
+        "Top eights at the SCG Open in Atlanta and in Milan"
+      ]
+    }
+  },
+  {
+    "name": "Belcher",
+    "slug": "belcher",
+    "archetype": "combo",
+    "titles": [
+      "Belcher"
+    ],
+    "rep": 239834,
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Empty the Warrens",
+      "Elvish Spirit Guide",
+      "Simian Spirit Guide",
+      "Lotus Petal",
+      "Land Grant"
+    ],
+    "summary": {
+      "fr": "Un ou deux terrains : rituels et Spirit Guides activaient Goblin Charbelcher ou lançaient Empty the Warrens dès le premier tour.",
+      "en": "One or two lands: rituals and Spirit Guides activated Goblin Charbelcher or cast Empty the Warrens on turn one."
+    },
+    "why": {
+      "fr": [
+        "Top 8 aux Opens SCG de Los Angeles, Las Vegas et Worcester",
+        "Chrome Mox et Lotus Petal complétaient l'accélération"
+      ],
+      "en": [
+        "Top eights at the SCG Opens in Los Angeles, Las Vegas and Worcester",
+        "Chrome Mox and Lotus Petal rounded out the acceleration"
+      ]
+    }
+  },
+  {
+    "name": "MUD",
+    "slug": "mud",
+    "archetype": "aggro",
+    "titles": [
+      "MUD"
+    ],
+    "rep": 240221,
+    "cover": "Kuldotha Forgemaster",
+    "keyCards": [
+      "Kuldotha Forgemaster",
+      "Lodestone Golem",
+      "Metalworker",
+      "Chalice of the Void",
+      "Trinisphere",
+      "Grim Monolith"
+    ],
+    "summary": {
+      "fr": "Artefacts incolores accélérés par Ancient Tomb, Grim Monolith et Metalworker : Chalice of the Void et Trinisphere tôt, puis Kuldotha Forgemaster allait chercher une grosse menace.",
+      "en": "Colorless artifacts powered by Ancient Tomb, Grim Monolith and Metalworker: Chalice of the Void and Trinisphere early, then Kuldotha Forgemaster fetched a big threat."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Invitational SCG de Charlotte, top 8 au Grand Prix Edison 2014",
+        "Lodestone Golem rendait plus chers tous les sorts non-artefacts"
+      ],
+      "en": [
+        "Top four at the SCG Invitational in Charlotte, top eight at Grand Prix Edison 2014",
+        "Lodestone Golem made every nonartifact spell more expensive"
+      ]
+    }
+  }
+]
