@@ -1,0 +1,697 @@
+[
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver",
+      "Grixis Pyromancer"
+    ],
+    "rep": 319455,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Young Pyromancer",
+      "Deathrite Shaman",
+      "Gurmag Angler",
+      "True-Name Nemesis",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets, Young Pyromancer et Deathrite Shaman, Gurmag Angler et True-Name Nemesis, derrière Daze et Force of Will.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets, Young Pyromancer and Deathrite Shaman, Gurmag Angler and True-Name Nemesis, behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "Daniel Duterte a gagné le Grand Prix Seattle 2018 ; l'archétype le plus présent de l'année",
+        "Deathrite Shaman et Gitaxian Probe ont été bannis en juillet 2018"
+      ],
+      "en": [
+        "Daniel Duterte won Grand Prix Seattle 2018; the most frequent archetype of the year",
+        "Deathrite Shaman and Gitaxian Probe were banned in July 2018"
+      ]
+    }
+  },
+  {
+    "name": "Miracles",
+    "slug": "miracles",
+    "archetype": "control",
+    "titles": [
+      "Miracles",
+      "Jeskai"
+    ],
+    "rep": 329601,
+    "cover": "Terminus",
+    "keyCards": [
+      "Terminus",
+      "Predict",
+      "Snapcaster Mage",
+      "Jace, the Mind Sculptor",
+      "Counterbalance",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu sans Sensei's Divining Top : Predict, Ponder et Brainstorm préparaient Terminus, Snapcaster Mage et Jace prenaient l'avantage.",
+      "en": "White-blue control without Sensei's Divining Top: Predict, Ponder and Brainstorm set up Terminus, and Snapcaster Mage and Jace took over."
+    },
+    "why": {
+      "fr": [
+        "Andrew Cuneo a gagné le Grand Prix Richmond 2018",
+        "Victoires aussi à Bologne et à la MKM Series de Paris"
+      ],
+      "en": [
+        "Andrew Cuneo won Grand Prix Richmond 2018",
+        "Also won in Bologna and at the MKM Series event in Paris"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy"
+    ],
+    "rep": 321441,
+    "cover": "Goblin Rabblemaster",
+    "keyCards": [
+      "Goblin Rabblemaster",
+      "Magus of the Moon",
+      "Chalice of the Void",
+      "Ensnaring Bridge",
+      "Blood Moon",
+      "Fiery Confluence"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb, City of Traitors et Chrome Mox posaient Chalice of the Void, Blood Moon ou Ensnaring Bridge, puis Goblin Rabblemaster et Chandra.",
+      "en": "Red prison: Ancient Tomb, City of Traitors and Chrome Mox put down Chalice of the Void, Blood Moon or Ensnaring Bridge, then Goblin Rabblemaster and Chandra."
+    },
+    "why": {
+      "fr": [
+        "Gary Campbell a gagné le Grand Prix Birmingham 2018",
+        "Deuxième au Grand Prix Shizuoka 2018"
+      ],
+      "en": [
+        "Gary Campbell won Grand Prix Birmingham 2018",
+        "Second at Grand Prix Shizuoka 2018"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro",
+      "Eldrazi Stompy",
+      "Big Eldrazi",
+      "Eldrazi Post"
+    ],
+    "rep": 317158,
+    "cover": "Thought-Knot Seer",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Chalice of the Void",
+      "Matter Reshaper",
+      "Endless One",
+      "Eldrazi Mimic"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, City of Traitors et Eldrazi Temple posaient Chalice of the Void puis Thought-Knot Seer et Reality Smasher dès le deuxième tour.",
+      "en": "Ancient Tomb, City of Traitors and Eldrazi Temple put down Chalice of the Void, then Thought-Knot Seer and Reality Smasher from turn two."
+    },
+    "why": {
+      "fr": [
+        "Teruya Kakumae a gagné le Grand Prix Shizuoka 2018",
+        "Victoire aussi au Grand Prix Madrid 2018 par équipes"
+      ],
+      "en": [
+        "Teruya Kakumae won Grand Prix Shizuoka 2018",
+        "Also won the team Grand Prix Madrid 2018"
+      ]
+    }
+  },
+  {
+    "name": "Turbo Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Dark Depths",
+      "Turbo Depths",
+      "Golgari Depths"
+    ],
+    "rep": 313437,
+    "cover": "Vampire Hexmage",
+    "keyCards": [
+      "Vampire Hexmage",
+      "Crop Rotation",
+      "Sylvan Scrying",
+      "Thoughtseize",
+      "Elvish Spirit Guide",
+      "Pithing Needle"
+    ],
+    "summary": {
+      "fr": "Vampire Hexmage retirait les marqueurs de Dark Depths, ou Thespian's Stage le copiait, pour obtenir Marit Lage, 20/20, dès le premier ou le deuxième tour.",
+      "en": "Vampire Hexmage removed the counters from Dark Depths, or Thespian's Stage copied it, to make Marit Lage, a 20/20, on turn one or two."
+    },
+    "why": {
+      "fr": [
+        "Vladimir Arneuve a gagné le Legacy de l'Eternal Weekend européen 2018",
+        "Victoires aussi au Legacy God Challenger et à l'Open SCG par équipes de Philadelphie"
+      ],
+      "en": [
+        "Vladimir Arneuve won the Legacy event of the 2018 European Eternal Weekend",
+        "Also won the Legacy God Challenger and the SCG team Open in Philadelphia"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands"
+    ],
+    "rep": 312918,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Mox Diamond",
+      "Crop Rotation",
+      "Gamble",
+      "Punishing Fire"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland et Rishadan Port, Punishing Fire tenait la table, Thespian's Stage et Dark Depths gagnaient.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland and Rishadan Port, Punishing Fire held the board, and Thespian's Stage with Dark Depths won."
+    },
+    "why": {
+      "fr": [
+        "Victoires aux Opens SCG par équipes de Dallas (Kevin King) et de Philadelphie",
+        "Deuxième au Grand Prix Richmond 2018 (Lucien Longlais)"
+      ],
+      "en": [
+        "Won the SCG team Opens in Dallas (Kevin King) and Philadelphia",
+        "Second at Grand Prix Richmond 2018 (Lucien Longlais)"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 327363,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Stoneforge Mystic",
+      "Flickerwisp",
+      "Mother of Runes",
+      "Phyrexian Revoker",
+      "Aether Vial"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia, Phyrexian Revoker et Wasteland ralentissaient l'adversaire, Aether Vial et Stoneforge Mystic accéléraient le jeu.",
+      "en": "Small white taxing creatures: Thalia, Phyrexian Revoker and Wasteland slowed the opponent, while Aether Vial and Stoneforge Mystic sped up the deck."
+    },
+    "why": {
+      "fr": [
+        "Allen Wu a gagné le tournoi Legacy du Pro Tour 25th Anniversary",
+        "Deuxième au Legacy de l'Eternal Weekend européen 2018"
+      ],
+      "en": [
+        "Allen Wu won the Legacy event of the Pro Tour 25th Anniversary",
+        "Second at the Legacy event of the 2018 European Eternal Weekend"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control",
+      "Grixis Kess"
+    ],
+    "rep": 332357,
+    "cover": "Baleful Strix",
+    "keyCards": [
+      "Baleful Strix",
+      "Snapcaster Mage",
+      "Kolaghan's Command",
+      "Hymn to Tourach",
+      "Jace, the Mind Sculptor",
+      "Gurmag Angler"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge : Baleful Strix, Snapcaster Mage et Kolaghan's Command pour l'avantage de cartes, Hymn to Tourach et Fatal Push, Jace pour finir.",
+      "en": "Blue-black-red control: Baleful Strix, Snapcaster Mage and Kolaghan's Command for card advantage, Hymn to Tourach and Fatal Push, Jace to finish."
+    },
+    "why": {
+      "fr": [
+        "Victor Logan a gagné l'Open SCG par équipes de Columbus",
+        "Deuxième et top 4 à l'Open SCG de Baltimore en septembre"
+      ],
+      "en": [
+        "Victor Logan won the SCG team Open in Columbus",
+        "Second and top four at the SCG Open in Baltimore in September"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4c Control",
+      "4c Czech Pile",
+      "Czech Pile"
+    ],
+    "rep": 322158,
+    "cover": "Leovold, Emissary of Trest",
+    "keyCards": [
+      "Leovold, Emissary of Trest",
+      "Deathrite Shaman",
+      "Kolaghan's Command",
+      "Baleful Strix",
+      "Snapcaster Mage",
+      "Fatal Push"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre couleurs : Deathrite Shaman, Baleful Strix et Snapcaster Mage, Kolaghan's Command et Fatal Push ; Leovold limitait la pioche adverse.",
+      "en": "Four-color control: Deathrite Shaman, Baleful Strix and Snapcaster Mage, Kolaghan's Command and Fatal Push; Leovold limited the opponent's draws."
+    },
+    "why": {
+      "fr": [
+        "Lucas Siow a gagné le Grand Prix Toronto 2018 par équipes",
+        "Deuxième au Grand Prix Madrid 2018 par équipes (Thomas Enevoldsen)"
+      ],
+      "en": [
+        "Lucas Siow won the team Grand Prix Toronto 2018",
+        "Second at the team Grand Prix Madrid 2018 (Thomas Enevoldsen)"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "Ant",
+      "TES"
+    ],
+    "rep": 328756,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Thoughtseize",
+      "Ponder",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Past in Flames prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Past in Flames extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Takahashi Masataka a gagné le Legacy Championship de l'Eternal Weekend Asia 2018",
+        "Victoires aussi aux Opens SCG par équipes de Las Vegas et de Worcester"
+      ],
+      "en": [
+        "Takahashi Masataka won the Legacy Championship at Eternal Weekend Asia 2018",
+        "Also won the SCG team Opens in Las Vegas and Worcester"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 322138,
+    "cover": "Glimpse of Nature",
+    "keyCards": [
+      "Glimpse of Nature",
+      "Green Sun's Zenith",
+      "Wirewood Symbiote",
+      "Quirion Ranger",
+      "Nettle Sentinel",
+      "Heritage Druid"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Heritage Druid et Nettle Sentinel produisaient du mana à chaque elfe, Glimpse of Nature faisait piocher la meute, Natural Order finissait par Craterhoof Behemoth.",
+      "en": "Elf combo: Heritage Druid and Nettle Sentinel made mana with each elf, Glimpse of Nature drew the pack and Natural Order ended with Craterhoof Behemoth."
+    },
+    "why": {
+      "fr": [
+        "Julian Knab a gagné la MKM Series de Hambourg, Linus Valdemarsson celle de Prague",
+        "Quirion Ranger et Wirewood Symbiote relançaient Elvish Visionary"
+      ],
+      "en": [
+        "Julian Knab won the MKM Series event in Hamburg, Linus Valdemarsson the one in Prague",
+        "Quirion Ranger and Wirewood Symbiote replayed Elvish Visionary"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Show and Tell",
+      "Sneak And Show",
+      "Sneak Show"
+    ],
+    "rep": 312215,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Show and Tell",
+      "Sneak Attack",
+      "Lotus Petal",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Show and Tell ou Sneak Attack mettait en jeu Griselbrand ou Emrakul dès le deuxième tour, Force of Will protégeait.",
+      "en": "Show and Tell or Sneak Attack put Griselbrand or Emrakul into play from turn two, with Force of Will as protection."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Grand Prix Santa Clara 2018 par équipes",
+        "Top 4 au Legacy de l'Eternal Weekend nord-américain"
+      ],
+      "en": [
+        "Second at the team Grand Prix Santa Clara 2018",
+        "Top four at the North American Eternal Weekend Legacy event"
+      ]
+    }
+  },
+  {
+    "name": "Stoneblade",
+    "slug": "stoneblade",
+    "archetype": "control",
+    "titles": [
+      "Stoneblade",
+      "4c Stoneblade",
+      "DelverBlade"
+    ],
+    "rep": 337845,
+    "cover": "Stoneforge Mystic",
+    "keyCards": [
+      "Stoneforge Mystic",
+      "True-Name Nemesis",
+      "Snapcaster Mage",
+      "Swords to Plowshares",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Stoneforge Mystic allait chercher Batterskull ou une Sword, True-Name Nemesis et Snapcaster Mage complétaient un contrôle blanc-bleu.",
+      "en": "Stoneforge Mystic fetched Batterskull or a Sword, and True-Name Nemesis and Snapcaster Mage rounded out white-blue control."
+    },
+    "why": {
+      "fr": [
+        "Kuroda Masashiro a gagné l'Eternal Party 2018 au Japon",
+        "Top 4 à The Last Sun 2018"
+      ],
+      "en": [
+        "Kuroda Masashiro won Eternal Party 2018 in Japan",
+        "Top four at The Last Sun 2018"
+      ]
+    }
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "aggro",
+    "titles": [
+      "UR Delver"
+    ],
+    "rep": 315337,
+    "cover": "Monastery Swiftspear",
+    "keyCards": [
+      "Monastery Swiftspear",
+      "Delver of Secrets",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Bleu-rouge agressif : Delver of Secrets et Monastery Swiftspear grossissaient à chaque sort, Lightning Bolt finissait.",
+      "en": "Aggressive blue-red: Delver of Secrets and Monastery Swiftspear grew with each spell, and Lightning Bolt finished."
+    },
+    "why": {
+      "fr": [
+        "Deuxième et top 4 au 4Seasons Winter en Italie",
+        "Top 4 à la MKM Series de Paris"
+      ],
+      "en": [
+        "Second and top four at the 4Seasons Winter in Italy",
+        "Top four at the MKM Series event in Paris"
+      ]
+    }
+  },
+  {
+    "name": "Death's Shadow",
+    "slug": "deaths-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow",
+      "UB Shadow",
+      "Death's Shadow Bug"
+    ],
+    "rep": 327361,
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Street Wraith",
+      "Delver of Secrets",
+      "Gurmag Angler",
+      "Thoughtseize",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir : Street Wraith, Thoughtseize et les fetchlands faisaient baisser ses propres points de vie pour que Death's Shadow devienne énorme pour un mana.",
+      "en": "Blue-black tempo: Street Wraith, Thoughtseize and fetch lands lowered its own life total so that Death's Shadow became huge for one mana."
+    },
+    "why": {
+      "fr": [
+        "Josh Utter-Leyton a fini deuxième du tournoi Legacy du Pro Tour 25th Anniversary",
+        "Top 4 à l'Eternal Weekend Asia 2018"
+      ],
+      "en": [
+        "Josh Utter-Leyton finished second at the Legacy event of the Pro Tour 25th Anniversary",
+        "Top four at Eternal Weekend Asia 2018"
+      ]
+    }
+  },
+  {
+    "name": "BUG Delver",
+    "slug": "team-america",
+    "archetype": "tempo",
+    "titles": [
+      "BUG Threshold"
+    ],
+    "rep": 320983,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Deathrite Shaman",
+      "Hymn to Tourach",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir-vert : Delver of Secrets, Deathrite Shaman et Tarmogoyf derrière Daze et Force of Will, Hymn to Tourach et Abrupt Decay.",
+      "en": "Blue-black-green tempo: Delver of Secrets, Deathrite Shaman and Tarmogoyf behind Daze and Force of Will, with Hymn to Tourach and Abrupt Decay."
+    },
+    "why": {
+      "fr": [
+        "Roshen Eapen a gagné l'Open SCG par équipes de Baltimore",
+        "Top 8 au Grand Prix Madrid 2018 par équipes (Javier Dominguez)"
+      ],
+      "en": [
+        "Roshen Eapen won the SCG team Open in Baltimore",
+        "Top eight at the team Grand Prix Madrid 2018 (Javier Dominguez)"
+      ]
+    }
+  },
+  {
+    "name": "BUG Midrange",
+    "slug": "shardless-bug",
+    "archetype": "midrange",
+    "titles": [
+      "BUG Leovold",
+      "Bug Midrange",
+      "True Name BUG"
+    ],
+    "rep": 319454,
+    "cover": "Leovold, Emissary of Trest",
+    "keyCards": [
+      "Leovold, Emissary of Trest",
+      "Baleful Strix",
+      "Deathrite Shaman",
+      "True-Name Nemesis",
+      "Abrupt Decay",
+      "Jace, the Mind Sculptor"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain bleu-noir-vert : Deathrite Shaman, Baleful Strix et True-Name Nemesis, Abrupt Decay et Fatal Push ; Leovold limitait la pioche adverse.",
+      "en": "Blue-black-green midrange: Deathrite Shaman, Baleful Strix and True-Name Nemesis, with Abrupt Decay and Fatal Push; Leovold limited the opponent's draws."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Grand Prix Seattle 2018",
+        "Deuxième aussi au 4Seasons Spring de Bologne"
+      ],
+      "en": [
+        "Second at Grand Prix Seattle 2018",
+        "Also second at the 4Seasons Spring in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Threshold"
+    ],
+    "rep": 325911,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Stifle",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets et Nimble Mongoose, Stifle, Daze et Wasteland pour priver l'adversaire de mana.",
+      "en": "Blue-green-red tempo: Delver of Secrets and Nimble Mongoose, with Stifle, Daze and Wasteland to starve the opponent of mana."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à l'Open SCG par équipes de Worcester (Nathan Robinson)",
+        "Top 8 au Grand Prix Richmond 2018"
+      ],
+      "en": [
+        "Second at the SCG team Open in Worcester (Nathan Robinson)",
+        "Top eight at Grand Prix Richmond 2018"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 315336,
+    "cover": "Ichorid",
+    "keyCards": [
+      "Ichorid",
+      "Narcomoeba",
+      "Golgari Grave-Troll",
+      "Bridge from Below",
+      "Faithless Looting",
+      "Street Wraith"
+    ],
+    "summary": {
+      "fr": "Le cimetière servait de main : Faithless Looting et Street Wraith lançaient le draguage, Ichorid et Narcomoeba revenaient seuls, Bridge from Below fabriquait des Zombies.",
+      "en": "The graveyard was the hand: Faithless Looting and Street Wraith started the dredging, Ichorid and Narcomoeba came back on their own and Bridge from Below made Zombies."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au 4Seasons Winter en Italie",
+        "Top 8 au Grand Prix Birmingham 2018 et à l'Eternal Weekend européen"
+      ],
+      "en": [
+        "Top four at the 4Seasons Winter in Italy",
+        "Top eights at Grand Prix Birmingham 2018 and the European Eternal Weekend"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Four-color Loam",
+      "Loam"
+    ],
+    "rep": 331273,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Mox Diamond",
+      "Liliana of the Veil",
+      "Abrupt Decay",
+      "Punishing Fire",
+      "Green Sun's Zenith"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain à Life from the Loam : Mox Diamond, Knight of the Reliquary et Liliana of the Veil, Punishing Fire recyclé par Grove of the Burnwillows.",
+      "en": "Life from the Loam midrange: Mox Diamond, Knight of the Reliquary and Liliana of the Veil, Punishing Fire recurred by Grove of the Burnwillows."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Open SCG de Baltimore en septembre",
+        "Top 4 à l'Eternal Party 2018 au Japon"
+      ],
+      "en": [
+        "Won the SCG Open in Baltimore in September",
+        "Top four at Eternal Party 2018 in Japan"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Grixis Reanimator",
+      "UB Reanimator"
+    ],
+    "rep": 327454,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Chancellor of the Annex",
+      "Entomb",
+      "Exhume",
+      "Animate Dead",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Entomb ou Faithless Looting mettait Griselbrand au cimetière, Dark Ritual et Lotus Petal permettaient Reanimate, Exhume ou Animate Dead dès le premier tour.",
+      "en": "Entomb or Faithless Looting put Griselbrand in the graveyard, and Dark Ritual and Lotus Petal enabled Reanimate, Exhume or Animate Dead on turn one."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au tournoi Legacy du Pro Tour 25th Anniversary",
+        "Top 8 aussi à l'Open SCG de Baltimore et à The Last Sun"
+      ],
+      "en": [
+        "Top eight at the Legacy event of the Pro Tour 25th Anniversary",
+        "Also top eights at the SCG Open in Baltimore and The Last Sun"
+      ]
+    }
+  }
+]

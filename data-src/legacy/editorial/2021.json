@@ -1,0 +1,568 @@
+[
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Aggro",
+      "UR Delver",
+      "UR Delver Tempo",
+      "Ur Delver",
+      "Ur Delver Tempo",
+      "Ur Saga",
+      "Canadian Threshold"
+    ],
+    "rep": 455670,
+    "cover": "Murktide Regent",
+    "keyCards": [
+      "Murktide Regent",
+      "Ragavan, Nimble Pilferer",
+      "Dragon's Rage Channeler",
+      "Delver of Secrets",
+      "Expressive Iteration",
+      "Daze"
+    ],
+    "summary": {
+      "fr": "Après Modern Horizons 2, le tempo bleu-rouge prenait Ragavan, Dragon's Rage Channeler et Murktide Regent, payé par les sorts du cimetière ; Expressive Iteration rechargeait la main.",
+      "en": "After Modern Horizons 2, blue-red tempo took Ragavan, Dragon's Rage Channeler and Murktide Regent, paid for by spells in the graveyard; Expressive Iteration refilled the hand."
+    },
+    "why": {
+      "fr": [
+        "Victoires au NRG Series Showdown, au God of Legacy et au 4Seasons de Bologne",
+        "Avant juin, la version à Dreadhorde Arcanist et Sprite Dragon gagnait déjà en ligne"
+      ],
+      "en": [
+        "Won the NRG Series Showdown, the God of Legacy and the 4Seasons in Bologna",
+        "Before June, the Dreadhorde Arcanist and Sprite Dragon version was already winning online"
+      ]
+    },
+    "note": "Pre-MH2 UR Delver (Arcanist, Sprite Dragon; filed as Canadian Threshold in February) merged with post-MH2 Murktide lists."
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes",
+      "D&t",
+      "D&t Yorion",
+      "Eldrazi & Taxes"
+    ],
+    "rep": 433493,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Stoneforge Mystic",
+      "Flickerwisp",
+      "Mother of Runes",
+      "Aether Vial",
+      "Phyrexian Revoker"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia, Phyrexian Revoker et Wasteland ralentissaient l'adversaire, Aether Vial et Stoneforge Mystic accéléraient le jeu.",
+      "en": "Small white taxing creatures: Thalia, Phyrexian Revoker and Wasteland slowed the opponent, while Aether Vial and Stoneforge Mystic sped up the deck."
+    },
+    "why": {
+      "fr": [
+        "Une version à compagnon Yorion a gagné le 4Seasons de Bologne en août",
+        "Deuxième en Super Qualifier sur Magic Online et au 4Seasons d'automne"
+      ],
+      "en": [
+        "A Yorion companion version won the 4Seasons in Bologna in August",
+        "Second in a Magic Online Super Qualifier and at the autumn 4Seasons"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Ragavan",
+    "slug": "patriot",
+    "archetype": "tempo",
+    "titles": [
+      "Jeskai Aggro",
+      "Jeskai Midrange",
+      "Jeskai Ragavan Standstill",
+      "Jeskai Standstill Sagavan",
+      "Patriot Aggro"
+    ],
+    "rep": 449189,
+    "cover": "Ragavan, Nimble Pilferer",
+    "keyCards": [
+      "Ragavan, Nimble Pilferer",
+      "Murktide Regent",
+      "Dragon's Rage Channeler",
+      "Swords to Plowshares",
+      "Prismatic Ending",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo blanc-bleu-rouge : Ragavan, Dragon's Rage Channeler et Murktide Regent, avec Swords to Plowshares et Prismatic Ending pour l'interaction.",
+      "en": "White-blue-red tempo: Ragavan, Dragon's Rage Channeler and Murktide Regent, with Swords to Plowshares and Prismatic Ending for interaction."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Legacy Pit Open de Frederick et un Showcase Challenge sur Magic Online",
+        "Ragavan a été banni en janvier 2022"
+      ],
+      "en": [
+        "Won the Legacy Pit Open in Frederick and a Magic Online Showcase Challenge",
+        "Ragavan was banned in January 2022"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Reanimator Br"
+    ],
+    "rep": 443953,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Chancellor of the Annex",
+      "Animate Dead",
+      "Entomb",
+      "Exhume",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Entomb mettait Griselbrand au cimetière, Dark Ritual et Lotus Petal permettaient Animate Dead ou Exhume dès le premier tour.",
+      "en": "Entomb put Griselbrand in the graveyard, and Dark Ritual and Lotus Petal enabled Animate Dead or Exhume on turn one."
+    },
+    "why": {
+      "fr": [
+        "Stefano Sergi a gagné le 4Seasons The Park de Bologne en juin",
+        "Top 4 en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Stefano Sergi won the 4Seasons The Park in Bologna in June",
+        "Top four in a Magic Online Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands"
+    ],
+    "rep": 449192,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Mox Diamond",
+      "Crop Rotation",
+      "Valakut Exploration",
+      "Punishing Fire"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland, Valakut Exploration de Zendikar Rising donnait des cartes, Dark Depths et Thespian's Stage gagnaient.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland, Valakut Exploration from Zendikar Rising drew cards, and Dark Depths with Thespian's Stage won."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Legacy Pit Open de Frederick et à The Last Sun au Japon",
+        "Top 8 au NRG Series Showdown"
+      ],
+      "en": [
+        "Top four at the Legacy Pit Open in Frederick and at The Last Sun in Japan",
+        "Top eight at the NRG Series Showdown"
+      ]
+    }
+  },
+  {
+    "name": "Bant Miracles",
+    "slug": "miracles",
+    "archetype": "control",
+    "titles": [
+      "Bant Control",
+      "Landstill"
+    ],
+    "rep": 443956,
+    "cover": "Terminus",
+    "keyCards": [
+      "Terminus",
+      "Ice-Fang Coatl",
+      "Uro, Titan of Nature's Wrath",
+      "Portent",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu-vert : Portent et Ponder préparaient Terminus, Ice-Fang Coatl et Uro donnaient l'avantage de cartes, Endurance protégeait contre le cimetière.",
+      "en": "White-blue-green control: Portent and Ponder set up Terminus, Ice-Fang Coatl and Uro gave card advantage, and Endurance protected against graveyard decks."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au 4Seasons de Bologne et au God of Legacy de Hareruya",
+        "Une version à Standstill a fini dans le top 8 au Japon"
+      ],
+      "en": [
+        "Top four at the 4Seasons in Bologna and the God of Legacy at Hareruya",
+        "A Standstill version made a top eight in Japan"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 435977,
+    "cover": "Allosaurus Shepherd",
+    "keyCards": [
+      "Allosaurus Shepherd",
+      "Glimpse of Nature",
+      "Heritage Druid",
+      "Nettle Sentinel",
+      "Wirewood Symbiote",
+      "Quirion Ranger"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Heritage Druid et Nettle Sentinel produisaient du mana à chaque elfe, Glimpse of Nature faisait piocher la meute, Natural Order finissait.",
+      "en": "Elf combo: Heritage Druid and Nettle Sentinel made mana with each elf, Glimpse of Nature drew the pack and Natural Order finished."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Showcase Challenge et top 4 en Super Qualifier sur Magic Online",
+        "Allosaurus Shepherd rendait les sorts verts incontrables"
+      ],
+      "en": [
+        "Second in a Showcase Challenge and top four in a Super Qualifier on Magic Online",
+        "Allosaurus Shepherd made green spells uncounterable"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "TES",
+      "Storm",
+      "Ad Nauseam Tendrils"
+    ],
+    "rep": 433495,
+    "cover": "Infernal Tutor",
+    "keyCards": [
+      "Infernal Tutor",
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Lotus Petal",
+      "Preordain"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Burning Wish prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Burning Wish extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en Super Qualifier sur Magic Online en mars",
+        "Deux top 8 au God of Legacy de décembre"
+      ],
+      "en": [
+        "Top four in a Magic Online Super Qualifier in March",
+        "Two top eights at the December God of Legacy"
+      ]
+    }
+  },
+  {
+    "name": "Oops All Spells",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "All my Spells"
+    ],
+    "rep": 444688,
+    "cover": "Balustrade Spy",
+    "keyCards": [
+      "Balustrade Spy",
+      "Undercity Informer",
+      "Thassa's Oracle",
+      "Agadeem's Awakening",
+      "Narcomoeba",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon les cartes modales de Zendikar Rising : Balustrade Spy ou Undercity Informer meulait toute la bibliothèque, Thassa's Oracle gagnait.",
+      "en": "A deck with no lands except Zendikar Rising modal cards: Balustrade Spy or Undercity Informer milled the whole library, and Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au God of Legacy de Hareruya et au NRG Series Showdown",
+        "Narcomoeba et Dread Return donnaient un second plan"
+      ],
+      "en": [
+        "Second at the God of Legacy at Hareruya and the NRG Series Showdown",
+        "Narcomoeba and Dread Return gave a second plan"
+      ]
+    }
+  },
+  {
+    "name": "Aluren",
+    "slug": "aluren",
+    "archetype": "combo",
+    "titles": [
+      "Aluren"
+    ],
+    "rep": 453602,
+    "cover": "Recruiter of the Guard",
+    "keyCards": [
+      "Recruiter of the Guard",
+      "Ice-Fang Coatl",
+      "Uro, Titan of Nature's Wrath",
+      "Green Sun's Zenith",
+      "Cavern Harpy",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Aluren rendait gratuites les petites créatures ; Recruiter of the Guard et Green Sun's Zenith trouvaient Cavern Harpy pour boucler, Ice-Fang Coatl et Uro servaient en milieu de terrain.",
+      "en": "Aluren made small creatures free; Recruiter of the Guard and Green Sun's Zenith found Cavern Harpy for the loop, while Ice-Fang Coatl and Uro played as midrange."
+    },
+    "why": {
+      "fr": [
+        "A gagné The Last Sun au Japon en novembre",
+        "Deuxième au Legacy Pit Open de Frederick"
+      ],
+      "en": [
+        "Won The Last Sun in Japan in November",
+        "Second at the Legacy Pit Open in Frederick"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 451936,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Dark Ritual",
+      "Lotus Petal",
+      "Street Wraith",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Street Wraith parcouraient jusqu'à Thassa's Oracle.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Street Wraith went through until Thassa's Oracle."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au 4Seasons d'automne à Bologne",
+        "Top 4 en Champ Qual sur Magic Online en février"
+      ],
+      "en": [
+        "Top four at the autumn 4Seasons in Bologna",
+        "Top four in a Magic Online Champ Qual in February"
+      ]
+    }
+  },
+  {
+    "name": "Valki Cascade",
+    "slug": "valki-cascade",
+    "archetype": "combo",
+    "titles": [
+      "Valki Cascade"
+    ],
+    "rep": 429987,
+    "cover": "Valki, God of Lies",
+    "keyCards": [
+      "Valki, God of Lies",
+      "Shardless Agent",
+      "Violent Outburst",
+      "Oko, Thief of Crowns",
+      "Force of Will",
+      "Simian Spirit Guide"
+    ],
+    "summary": {
+      "fr": "Sans aucun sort bon marché, Shardless Agent et Violent Outburst cascadaient forcément sur Valki, dont la face Tibalt, Cosmic Impostor, arrivait ainsi dès le deuxième tour.",
+      "en": "With no cheap spells in the deck, Shardless Agent and Violent Outburst always cascaded into Valki, whose Tibalt, Cosmic Impostor face thus arrived on turn two."
+    },
+    "why": {
+      "fr": [
+        "Deux top 8 en Champ Qual sur Magic Online en février",
+        "Oko, Thief of Crowns a été banni le même mois"
+      ],
+      "en": [
+        "Two top eights in a Magic Online Champ Qual in February",
+        "Oko, Thief of Crowns was banned the same month"
+      ]
+    }
+  },
+  {
+    "name": "Esper Vial",
+    "slug": "esper-vial",
+    "archetype": "aggro",
+    "titles": [
+      "Esper Vial"
+    ],
+    "rep": 433492,
+    "cover": "Meddling Mage",
+    "keyCards": [
+      "Meddling Mage",
+      "Recruiter of the Guard",
+      "Baleful Strix",
+      "Charming Prince",
+      "Aether Vial",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Créatures utilitaires posées par Aether Vial : Meddling Mage bloquait un sort, Recruiter of the Guard allait chercher Baleful Strix ou une autre créature à effet.",
+      "en": "Utility creatures put into play by Aether Vial: Meddling Mage named a spell, and Recruiter of the Guard fetched Baleful Strix or another value creature."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Super Qualifier sur Magic Online en mars",
+        "Charming Prince et Soulherder recyclaient les effets d'arrivée"
+      ],
+      "en": [
+        "Won a Magic Online Super Qualifier in March",
+        "Charming Prince and Soulherder recycled enter-the-battlefield effects"
+      ]
+    }
+  },
+  {
+    "name": "Dark Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Depths",
+      "Dark Depths",
+      "Selesnya Depths"
+    ],
+    "rep": 448321,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Green Sun's Zenith",
+      "Sylvan Library",
+      "Mox Diamond"
+    ],
+    "summary": {
+      "fr": "Vert-blanc à combinaison : Knight of the Reliquary, Elvish Reclaimer et Crop Rotation allaient chercher Dark Depths et Thespian's Stage pour obtenir Marit Lage.",
+      "en": "Green-white with a combo: Knight of the Reliquary, Elvish Reclaimer and Crop Rotation fetched Dark Depths and Thespian's Stage to make Marit Lage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au 4Seasons de Bologne en août",
+        "Top 8 au NRG Series Showdown et en Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Second at the 4Seasons in Bologna in August",
+        "Top eights at the NRG Series Showdown and in a Magic Online Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter",
+      "Painter Rw"
+    ],
+    "rep": 443958,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Imperial Recruiter",
+      "Pyroblast",
+      "Goblin Welder",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Painter's Servant rendait toutes les cartes d'une couleur, Grindstone meulait alors toute la bibliothèque et Pyroblast contrait n'importe quel sort.",
+      "en": "Painter's Servant made every card one color, so Grindstone milled the whole library and Pyroblast countered any spell."
+    },
+    "why": {
+      "fr": [
+        "Deux top 8 au 4Seasons de Bologne",
+        "Imperial Recruiter et Goblin Welder retrouvaient les pièces"
+      ],
+      "en": [
+        "Two top eights at the 4Seasons in Bologna",
+        "Imperial Recruiter and Goblin Welder found the pieces again"
+      ]
+    }
+  },
+  {
+    "name": "Show and Tell",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Omnitell Ug",
+      "Show and Tell"
+    ],
+    "rep": 443954,
+    "cover": "Omniscience",
+    "keyCards": [
+      "Omniscience",
+      "Ice-Fang Coatl",
+      "Emrakul, the Aeons Torn",
+      "Cunning Wish",
+      "Veil of Summer",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Show and Tell mettait en jeu Omniscience, Emrakul ou Griselbrand ; la version bleu-vert ajoutait Ice-Fang Coatl, Uro et Veil of Summer.",
+      "en": "Show and Tell put Omniscience, Emrakul or Griselbrand into play; the blue-green version added Ice-Fang Coatl, Uro and Veil of Summer."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au 4Seasons The Park de Bologne",
+        "Top 4 au God of Legacy de Hareruya avec Sneak Attack"
+      ],
+      "en": [
+        "Second at the 4Seasons The Park in Bologna",
+        "Top four at the God of Legacy at Hareruya with Sneak Attack"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver",
+      "Grixis Ragavan"
+    ],
+    "rep": 443960,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Murktide Regent",
+      "Sedgemoor Witch",
+      "Expressive Iteration",
+      "Thoughtseize",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets et Murktide Regent, Thoughtseize, Sedgemoor Witch et Brazen Borrower, derrière Daze et Force of Will.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets and Murktide Regent, Thoughtseize, Sedgemoor Witch and Brazen Borrower, behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au 4Seasons The Park de Bologne",
+        "Top 8 en Showcase Challenge sur Magic Online avec Ragavan"
+      ],
+      "en": [
+        "Top eight at the 4Seasons The Park in Bologna",
+        "Top eight in a Magic Online Showcase Challenge with Ragavan"
+      ]
+    }
+  }
+]

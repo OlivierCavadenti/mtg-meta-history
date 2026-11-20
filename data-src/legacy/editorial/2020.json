@@ -1,0 +1,588 @@
+[
+  {
+    "name": "Hogaak",
+    "slug": "hogaak",
+    "archetype": "combo",
+    "titles": [
+      "Hogaak",
+      "Bridgevine"
+    ],
+    "rep": 418036,
+    "cover": "Hogaak, Arisen Necropolis",
+    "keyCards": [
+      "Hogaak, Arisen Necropolis",
+      "Vengevine",
+      "Bridge from Below",
+      "Altar of Dementia",
+      "Hedron Crab",
+      "Stitcher's Supplier"
+    ],
+    "summary": {
+      "fr": "Hedron Crab et Stitcher's Supplier remplissaient le cimetière, Bloodghast et Vengevine revenaient, Hogaak se lançait gratuitement et Altar of Dementia sacrifiait pour Bridge from Below.",
+      "en": "Hedron Crab and Stitcher's Supplier filled the graveyard, Bloodghast and Vengevine came back, Hogaak was cast for free and Altar of Dementia sacrificed for Bridge from Below."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Legacy Championship de Magic Online en septembre",
+        "L'archétype le plus présent dans les top 8 d'une année surtout jouée en ligne"
+      ],
+      "en": [
+        "Won the Magic Online Legacy Championship in September",
+        "The most frequent archetype in the top eights of a year played mostly online"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "4cc",
+      "4cc Yorion",
+      "Bant Control",
+      "UWx Control"
+    ],
+    "rep": 394030,
+    "cover": "Uro, Titan of Nature's Wrath",
+    "keyCards": [
+      "Uro, Titan of Nature's Wrath",
+      "Ice-Fang Coatl",
+      "Arcum's Astrolabe",
+      "Dack Fayden",
+      "Assassin's Trophy",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre couleurs à base de neige : Arcum's Astrolabe et Ice-Fang Coatl, Uro, Titan of Nature's Wrath de Theros Beyond Death pour l'avantage de cartes, Dack Fayden pour voler les artefacts.",
+      "en": "Four-color snow control: Arcum's Astrolabe and Ice-Fang Coatl, Uro, Titan of Nature's Wrath from Theros Beyond Death for card advantage, Dack Fayden to steal artifacts."
+    },
+    "why": {
+      "fr": [
+        "A gagné la Lotus Box League 1.5K de Team Lotus et un Premier sur Magic Online",
+        "Arcum's Astrolabe a été banni en février 2021"
+      ],
+      "en": [
+        "Won the Team Lotus Box League 1.5K and a Magic Online Premier",
+        "Arcum's Astrolabe was banned in February 2021"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Threshold"
+    ],
+    "rep": 402667,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Tarmogoyf",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets et Tarmogoyf, Lightning Bolt, Daze et Wasteland pour priver l'adversaire de mana.",
+      "en": "Blue-green-red tempo: Delver of Secrets and Tarmogoyf, Lightning Bolt, Daze and Wasteland to starve the opponent of mana."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online en juillet",
+        "Deuxième en Premier sur Magic Online en octobre"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge in July",
+        "Second in a Magic Online Premier in October"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes"
+    ],
+    "rep": 394032,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Stoneforge Mystic",
+      "Phyrexian Revoker",
+      "Mother of Runes",
+      "Aether Vial",
+      "Flickerwisp"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia, Phyrexian Revoker et Wasteland ralentissaient l'adversaire, Aether Vial et Stoneforge Mystic accéléraient le jeu.",
+      "en": "Small white taxing creatures: Thalia, Phyrexian Revoker and Wasteland slowed the opponent, while Aether Vial and Stoneforge Mystic sped up the deck."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à la Lotus Box League 1.5K et à l'Eternal Party 2020 à Tokyo",
+        "Présent en top 8 de mai à décembre"
+      ],
+      "en": [
+        "Top four at the Lotus Box League 1.5K and at Eternal Party 2020 in Tokyo",
+        "In top eights from May to December"
+      ]
+    }
+  },
+  {
+    "name": "Dark Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Dark Depths",
+      "Slow Depths",
+      "Turbo Depths",
+      "Selesnya Depths"
+    ],
+    "rep": 391621,
+    "cover": "Vampire Hexmage",
+    "keyCards": [
+      "Vampire Hexmage",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Dark Confidant",
+      "Abrupt Decay",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir-vert à combinaison : Vampire Hexmage ou Thespian's Stage avec Dark Depths donnait Marit Lage, Elvish Reclaimer et Crop Rotation allaient chercher les terrains.",
+      "en": "Black-green midrange with a combo: Vampire Hexmage or Thespian's Stage with Dark Depths made Marit Lage, and Elvish Reclaimer and Crop Rotation fetched the lands."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Super Qualifier sur Magic Online en mai",
+        "Top 4 au Legacy Championship de Magic Online"
+      ],
+      "en": [
+        "Second in a Magic Online Super Qualifier in May",
+        "Top four at the Magic Online Legacy Championship"
+      ]
+    }
+  },
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Delver"
+    ],
+    "rep": 402665,
+    "cover": "Dreadhorde Arcanist",
+    "keyCards": [
+      "Dreadhorde Arcanist",
+      "Delver of Secrets",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets et Dreadhorde Arcanist, qui relançait Brainstorm ou Lightning Bolt depuis le cimetière à chaque attaque.",
+      "en": "Blue-red tempo: Delver of Secrets and Dreadhorde Arcanist, which recast Brainstorm or Lightning Bolt from the graveyard on each attack."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Showcase Challenge sur Magic Online en juillet",
+        "Dreadhorde Arcanist a été banni en février 2021"
+      ],
+      "en": [
+        "Second in a Magic Online Showcase Challenge in July",
+        "Dreadhorde Arcanist was banned in February 2021"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver"
+    ],
+    "rep": 391619,
+    "cover": "Dreadhorde Arcanist",
+    "keyCards": [
+      "Dreadhorde Arcanist",
+      "Delver of Secrets",
+      "Mishra's Bauble",
+      "Kolaghan's Command",
+      "Baleful Strix",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets et Dreadhorde Arcanist, Mishra's Bauble pour retourner Delver, Baleful Strix et Kolaghan's Command.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets and Dreadhorde Arcanist, Mishra's Bauble to flip Delver, Baleful Strix and Kolaghan's Command."
+    },
+    "why": {
+      "fr": [
+        "Deux top 8 en Super Qualifier sur Magic Online en mai",
+        "Force of Negation, de Modern Horizons, s'ajoutait à Force of Will"
+      ],
+      "en": [
+        "Two top eights in a Magic Online Super Qualifier in May",
+        "Force of Negation, from Modern Horizons, joined Force of Will"
+      ]
+    }
+  },
+  {
+    "name": "Show and Tell",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Omni - Show",
+      "Sneak Show"
+    ],
+    "rep": 418035,
+    "cover": "Show and Tell",
+    "keyCards": [
+      "Show and Tell",
+      "Omniscience",
+      "Cunning Wish",
+      "Force of Will",
+      "Brainstorm",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Show and Tell mettait en jeu Omniscience ou Griselbrand ; avec Omniscience, tous les sorts devenaient gratuits et Cunning Wish trouvait de quoi finir.",
+      "en": "Show and Tell put Omniscience or Griselbrand into play; with Omniscience every spell was free and Cunning Wish found the finish."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Legacy Championship de Magic Online en septembre",
+        "Top 8 en Showcase Challenge sur Magic Online"
+      ],
+      "en": [
+        "Second at the Magic Online Legacy Championship in September",
+        "Top eights in Magic Online Showcase Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "TES"
+    ],
+    "rep": 395687,
+    "cover": "Lion's Eye Diamond",
+    "keyCards": [
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Lotus Petal",
+      "Brainstorm",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Burning Wish prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Burning Wish extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "TES a gagné un Champ Qual sur Magic Online en septembre",
+        "Deuxième à l'Eternal Party 2020 à Tokyo"
+      ],
+      "en": [
+        "TES won a Magic Online Champ Qual in September",
+        "Second at Eternal Party 2020 in Tokyo"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 420448,
+    "cover": "Allosaurus Shepherd",
+    "keyCards": [
+      "Allosaurus Shepherd",
+      "Glimpse of Nature",
+      "Heritage Druid",
+      "Nettle Sentinel",
+      "Wirewood Symbiote",
+      "Quirion Ranger"
+    ],
+    "summary": {
+      "fr": "Combo elfe : Heritage Druid et Nettle Sentinel produisaient du mana à chaque elfe, Glimpse of Nature faisait piocher la meute ; Allosaurus Shepherd rendait les sorts verts incontrables.",
+      "en": "Elf combo: Heritage Druid and Nettle Sentinel made mana with each elf and Glimpse of Nature drew the pack; Allosaurus Shepherd made green spells uncounterable."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Premier sur Magic Online et l'Eternal Party 2020 à Tokyo",
+        "Natural Order finissait par Craterhoof Behemoth"
+      ],
+      "en": [
+        "Won a Magic Online Premier and Eternal Party 2020 in Tokyo",
+        "Natural Order ended with Craterhoof Behemoth"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands"
+    ],
+    "rep": 414504,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Exploration",
+      "Mox Diamond",
+      "Crop Rotation",
+      "Punishing Fire",
+      "Elvish Reclaimer"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland, Elvish Reclaimer et Crop Rotation allaient chercher Dark Depths et Thespian's Stage.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland, and Elvish Reclaimer and Crop Rotation fetched Dark Depths and Thespian's Stage."
+    },
+    "why": {
+      "fr": [
+        "Giacomo Battaglia a gagné le 4Season de Bologne en septembre",
+        "Top 4 aussi au même tournoi"
+      ],
+      "en": [
+        "Giacomo Battaglia won the 4Season in Bologna in September",
+        "Also top four at the same event"
+      ]
+    }
+  },
+  {
+    "name": "Worldgorger Dragon",
+    "slug": "worldgorger-dragon",
+    "archetype": "combo",
+    "titles": [
+      "Dragon"
+    ],
+    "rep": 418034,
+    "cover": "Animate Dead",
+    "keyCards": [
+      "Animate Dead",
+      "Entomb",
+      "Ice-Fang Coatl",
+      "Arcum's Astrolabe",
+      "Uro, Titan of Nature's Wrath",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Entomb mettait Worldgorger Dragon au cimetière ; ramené par Animate Dead, il exilait et rendait sans fin les permanents, une boucle qui finissait par Duskmantle Guildmage.",
+      "en": "Entomb put Worldgorger Dragon in the graveyard; brought back by Animate Dead, it exiled and returned permanents endlessly, a loop finished by Duskmantle Guildmage."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Legacy Championship de Magic Online et à l'Eternal Party 2020",
+        "Ice-Fang Coatl et Uro donnaient un plan de contrôle"
+      ],
+      "en": [
+        "Top four at the Magic Online Legacy Championship and at Eternal Party 2020",
+        "Ice-Fang Coatl and Uro gave a control plan"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro"
+    ],
+    "rep": 395688,
+    "cover": "Thought-Knot Seer",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Thalia, Guardian of Thraben",
+      "Stoneforge Mystic",
+      "Chalice of the Void",
+      "Mox Diamond"
+    ],
+    "summary": {
+      "fr": "Version blanche des Eldrazi : Ancient Tomb et Eldrazi Temple posaient Chalice of the Void, Thought-Knot Seer et Reality Smasher, avec Thalia et Stoneforge Mystic.",
+      "en": "White Eldrazi version: Ancient Tomb and Eldrazi Temple put down Chalice of the Void, Thought-Knot Seer and Reality Smasher, with Thalia and Stoneforge Mystic."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en Showcase Challenge sur Magic Online en juin",
+        "Top 8 en Premier sur Magic Online en octobre"
+      ],
+      "en": [
+        "Top four in a Magic Online Showcase Challenge in June",
+        "Top eight in a Magic Online Premier in October"
+      ]
+    }
+  },
+  {
+    "name": "Esper Vial",
+    "slug": "esper-vial",
+    "archetype": "aggro",
+    "titles": [
+      "Esper Vial"
+    ],
+    "rep": 416336,
+    "cover": "Meddling Mage",
+    "keyCards": [
+      "Meddling Mage",
+      "Recruiter of the Guard",
+      "Baleful Strix",
+      "Aether Vial",
+      "Teferi, Time Raveler",
+      "Charming Prince"
+    ],
+    "summary": {
+      "fr": "Créatures utilitaires posées par Aether Vial : Meddling Mage bloquait un sort, Recruiter of the Guard allait chercher Baleful Strix, Soulherder ou une autre créature à effet.",
+      "en": "Utility creatures put into play by Aether Vial: Meddling Mage named a spell, and Recruiter of the Guard fetched Baleful Strix, Soulherder or another value creature."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Champ Qual sur Magic Online en septembre",
+        "Top 8 en Premier sur Magic Online"
+      ],
+      "en": [
+        "Second in a Magic Online Champ Qual in September",
+        "Top eight in a Magic Online Premier"
+      ]
+    }
+  },
+  {
+    "name": "Gyruda",
+    "slug": "gyruda",
+    "archetype": "combo",
+    "titles": [
+      "Gyruda"
+    ],
+    "rep": 394031,
+    "cover": "Gyruda, Doom of Depths",
+    "keyCards": [
+      "Gyruda, Doom of Depths",
+      "Spark Double",
+      "Phyrexian Metamorph",
+      "Chalice of the Void",
+      "Lion's Eye Diamond",
+      "Restoration Angel"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, City of Traitors et Lion's Eye Diamond accéléraient vers Gyruda, Doom of Depths, copié par Spark Double et Phyrexian Metamorph pour voler les créatures adverses.",
+      "en": "Ancient Tomb, City of Traitors and Lion's Eye Diamond ramped into Gyruda, Doom of Depths, copied by Spark Double and Phyrexian Metamorph to steal opposing creatures."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la Lotus Box League 1.5K de Team Lotus",
+        "Chalice of the Void ralentissait l'adversaire en attendant Gyruda"
+      ],
+      "en": [
+        "Second at the Team Lotus Box League 1.5K",
+        "Chalice of the Void slowed the opponent while waiting for Gyruda"
+      ]
+    }
+  },
+  {
+    "name": "Blue Artifacts",
+    "slug": "blue-artifacts",
+    "archetype": "combo",
+    "titles": [
+      "Artifacts Blue"
+    ],
+    "rep": 395686,
+    "cover": "Urza, Lord High Artificer",
+    "keyCards": [
+      "Urza, Lord High Artificer",
+      "Karn, the Great Creator",
+      "Emry, Lurker of the Loch",
+      "Echo of Eons",
+      "Mox Opal",
+      "Narset, Parter of Veils"
+    ],
+    "summary": {
+      "fr": "Artefacts bleus : Mox Opal, Lotus Petal et les Baubles accéléraient vers Urza, Lord High Artificer et Karn, the Great Creator ; Echo of Eons et Narset verrouillaient la pioche.",
+      "en": "Blue artifacts: Mox Opal, Lotus Petal and the Baubles ramped into Urza, Lord High Artificer and Karn, the Great Creator; Echo of Eons with Narset locked the draws."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Showcase Challenge sur Magic Online en juin",
+        "Emry et Lion's Eye Diamond rejouaient les artefacts"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge in June",
+        "Emry and Lion's Eye Diamond replayed artifacts"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control"
+    ],
+    "rep": 391622,
+    "cover": "Baleful Strix",
+    "keyCards": [
+      "Baleful Strix",
+      "Snapcaster Mage",
+      "Kolaghan's Command",
+      "Hymn to Tourach",
+      "Fatal Push",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge : Baleful Strix, Snapcaster Mage et Kolaghan's Command pour l'avantage de cartes, Hymn to Tourach et Fatal Push pour l'interaction.",
+      "en": "Blue-black-red control: Baleful Strix, Snapcaster Mage and Kolaghan's Command for card advantage, Hymn to Tourach and Fatal Push for interaction."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Super Qualifier sur Magic Online en mai",
+        "Drown in the Loch, de Throne of Eldraine, servait de contre-sort et de réponse"
+      ],
+      "en": [
+        "Won a Magic Online Super Qualifier in May",
+        "Drown in the Loch, from Throne of Eldraine, served as counterspell and removal"
+      ]
+    }
+  },
+  {
+    "name": "Miracles",
+    "slug": "miracles",
+    "archetype": "control",
+    "titles": [
+      "Miracle 4c",
+      "Miracles"
+    ],
+    "rep": 414489,
+    "cover": "Terminus",
+    "keyCards": [
+      "Terminus",
+      "Frantic Inventory",
+      "Oko, Thief of Crowns",
+      "Teferi, Time Raveler",
+      "Arcum's Astrolabe",
+      "Swords to Plowshares"
+    ],
+    "summary": {
+      "fr": "Ponder et Brainstorm préparaient Terminus ; la version quatre couleurs ajoutait Arcum's Astrolabe, Oko et Teferi, Time Raveler, Frantic Inventory pour piocher.",
+      "en": "Ponder and Brainstorm set up Terminus; the four-color version added Arcum's Astrolabe, Oko and Teferi, Time Raveler, with Frantic Inventory to draw."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au 4Season de Bologne et en Super Qualifier sur Magic Online",
+        "Oko, Thief of Crowns a été banni en février 2021"
+      ],
+      "en": [
+        "Top eights at the 4Season in Bologna and in a Magic Online Super Qualifier",
+        "Oko, Thief of Crowns was banned in February 2021"
+      ]
+    }
+  }
+]

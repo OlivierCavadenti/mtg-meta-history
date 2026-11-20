@@ -1,0 +1,769 @@
+[
+  {
+    "name": "UR Delver",
+    "slug": "ur-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Delver",
+      "Ur Delver"
+    ],
+    "rep": 363913,
+    "cover": "Dreadhorde Arcanist",
+    "keyCards": [
+      "Dreadhorde Arcanist",
+      "Delver of Secrets",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets, puis Dreadhorde Arcanist de War of the Spark, qui relançait Brainstorm ou Lightning Bolt depuis le cimetière à chaque attaque.",
+      "en": "Blue-red tempo: Delver of Secrets, then Dreadhorde Arcanist from War of the Spark, which recast Brainstorm or Lightning Bolt from the graveyard on each attack."
+    },
+    "why": {
+      "fr": [
+        "Rich Cali a gagné l'Open SCG de Syracuse en mars",
+        "Victoires aussi au God of Legacy de Hareruya et en PTQ sur Magic Online"
+      ],
+      "en": [
+        "Rich Cali won the SCG Open in Syracuse in March",
+        "Also won the God of Legacy at Hareruya and a Magic Online PTQ"
+      ]
+    }
+  },
+  {
+    "name": "RUG Delver",
+    "slug": "threshold",
+    "archetype": "tempo",
+    "titles": [
+      "Canadian Threshold",
+      "Canadian Wrenn Threshold",
+      "Rug Delver",
+      "4c Delver"
+    ],
+    "rep": 364000,
+    "cover": "Wrenn and Six",
+    "keyCards": [
+      "Wrenn and Six",
+      "Delver of Secrets",
+      "Tarmogoyf",
+      "Hooting Mandrills",
+      "Daze",
+      "Lightning Bolt"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-vert-rouge : Delver of Secrets et Tarmogoyf ; Wrenn and Six, de Modern Horizons, rejouait Wasteland et tuait les créatures à une endurance. Il a été banni en novembre.",
+      "en": "Blue-green-red tempo: Delver of Secrets and Tarmogoyf; Wrenn and Six, from Modern Horizons, rebought Wasteland and killed one-toughness creatures. It was banned in November."
+    },
+    "why": {
+      "fr": [
+        "Tom Hertfelder a gagné le Legacy Championship de l'Eternal Weekend 2019",
+        "Victoires aussi au Mythic Championship Qualifier d'Atlanta et aux Swiss Magic Masters"
+      ],
+      "en": [
+        "Tom Hertfelder won the 2019 Legacy Championship at Eternal Weekend",
+        "Also won the Mythic Championship Qualifier in Atlanta and the Swiss Magic Masters"
+      ]
+    }
+  },
+  {
+    "name": "4c Control",
+    "slug": "4c-control",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control",
+      "4c Control",
+      "4c Leovold",
+      "Five-color Astrolabe",
+      "Four-color Astrolabe"
+    ],
+    "rep": 358553,
+    "cover": "Arcum's Astrolabe",
+    "keyCards": [
+      "Arcum's Astrolabe",
+      "Wrenn and Six",
+      "Jace, the Mind Sculptor",
+      "Snapcaster Mage",
+      "Abrupt Decay",
+      "Plague Engineer"
+    ],
+    "summary": {
+      "fr": "Contrôle quatre couleurs à base de neige : Arcum's Astrolabe corrigeait le mana, Wrenn and Six et Plague Engineer tenaient la table, Jace et Snapcaster Mage prenaient l'avantage.",
+      "en": "Four-color snow control: Arcum's Astrolabe fixed the mana, Wrenn and Six and Plague Engineer held the board, and Jace and Snapcaster Mage took over."
+    },
+    "why": {
+      "fr": [
+        "Aiden Brier a gagné l'Open SCG de Syracuse en septembre",
+        "Top 4 à la MKM Series de Ghent et au Grand Prix Niagara Falls"
+      ],
+      "en": [
+        "Aiden Brier won the SCG Open in Syracuse in September",
+        "Top four at the MKM Series event in Ghent and Grand Prix Niagara Falls"
+      ]
+    }
+  },
+  {
+    "name": "Dark Depths",
+    "slug": "turbo-depths",
+    "archetype": "combo",
+    "titles": [
+      "Dark Depths",
+      "Loam - Dark Depths"
+    ],
+    "rep": 356458,
+    "cover": "Dark Depths",
+    "keyCards": [
+      "Dark Depths",
+      "Vampire Hexmage",
+      "Elvish Reclaimer",
+      "Crop Rotation",
+      "Dark Confidant",
+      "Thoughtseize"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir-vert à combinaison : Vampire Hexmage ou Thespian's Stage avec Dark Depths donnait Marit Lage, Elvish Reclaimer et Crop Rotation allaient chercher les terrains.",
+      "en": "Black-green midrange with a combo: Vampire Hexmage or Thespian's Stage with Dark Depths made Marit Lage, and Elvish Reclaimer and Crop Rotation fetched the lands."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Legacy de l'Eternal Weekend Asia 2019",
+        "Vladimir Arneuve a gagné la MKM Series de Paris en juin"
+      ],
+      "en": [
+        "Won the Legacy event at Eternal Weekend Asia 2019",
+        "Vladimir Arneuve won the MKM Series event in Paris in June"
+      ]
+    }
+  },
+  {
+    "name": "Miracles",
+    "slug": "miracles",
+    "archetype": "control",
+    "titles": [
+      "Miracles",
+      "Wu Miracle",
+      "Bant Miracle"
+    ],
+    "rep": 342191,
+    "cover": "Terminus",
+    "keyCards": [
+      "Terminus",
+      "Snapcaster Mage",
+      "Accumulated Knowledge",
+      "Swords to Plowshares",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu : Ponder et Brainstorm préparaient Terminus, Accumulated Knowledge et Snapcaster Mage donnaient l'avantage de cartes, Jace finissait.",
+      "en": "White-blue control: Ponder and Brainstorm set up Terminus, Accumulated Knowledge and Snapcaster Mage gave card advantage, and Jace finished."
+    },
+    "why": {
+      "fr": [
+        "Marc Vogt a gagné le Grand Prix Bologna 2019",
+        "Joseph Horton a gagné le Classic SCG de Syracuse en mars"
+      ],
+      "en": [
+        "Marc Vogt won Grand Prix Bologna 2019",
+        "Joseph Horton won the SCG Classic in Syracuse in March"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Delver",
+    "slug": "grixis-delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Delver"
+    ],
+    "rep": 361464,
+    "cover": "Delver of Secrets",
+    "keyCards": [
+      "Delver of Secrets",
+      "Dreadhorde Arcanist",
+      "Lightning Bolt",
+      "Daze",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à touche noire : Delver of Secrets et Dreadhorde Arcanist, Lightning Bolt et Gurmag Angler, derrière Daze et Force of Will.",
+      "en": "Blue-red tempo with a black touch: Delver of Secrets and Dreadhorde Arcanist, Lightning Bolt and Gurmag Angler, behind Daze and Force of Will."
+    },
+    "why": {
+      "fr": [
+        "Hans Jacob Goddik a gagné l'Eternal Weekend européen au Magic Bazar",
+        "Victoire aussi en MOCS sur Magic Online"
+      ],
+      "en": [
+        "Hans Jacob Goddik won the European Eternal Weekend at Magic Bazar",
+        "Also won a MOCS event on Magic Online"
+      ]
+    }
+  },
+  {
+    "name": "Death and Taxes",
+    "slug": "death-and-taxes",
+    "archetype": "aggro",
+    "titles": [
+      "Death & Taxes",
+      "Death And Taxes",
+      "Death & Drazis",
+      "Eldrazi White"
+    ],
+    "rep": 365986,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Stoneforge Mystic",
+      "Mother of Runes",
+      "Aether Vial",
+      "Flickerwisp",
+      "Phyrexian Revoker"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent : Thalia, Phyrexian Revoker et Wasteland ralentissaient l'adversaire, Aether Vial et Stoneforge Mystic accéléraient le jeu.",
+      "en": "Small white taxing creatures: Thalia, Phyrexian Revoker and Wasteland slowed the opponent, while Aether Vial and Stoneforge Mystic sped up the deck."
+    },
+    "why": {
+      "fr": [
+        "Karel Gil a gagné la MKM Series de Prague en novembre",
+        "Une version à Eldrazi et Chalice of the Void a aussi fait des top 8"
+      ],
+      "en": [
+        "Karel Gil won the MKM Series event in Prague in November",
+        "A version with Eldrazi and Chalice of the Void also made top eights"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Storm",
+      "Ant",
+      "Ad Nauseam"
+    ],
+    "rep": 359345,
+    "cover": "Lion's Eye Diamond",
+    "keyCards": [
+      "Lion's Eye Diamond",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Lotus Petal",
+      "Thoughtseize",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Rituels, Lion's Eye Diamond et Infernal Tutor ; Ad Nauseam ou Past in Flames prolongeait la chaîne jusqu'à Tendrils of Agony.",
+      "en": "Rituals, Lion's Eye Diamond and Infernal Tutor; Ad Nauseam or Past in Flames extended the chain into Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "Cyrus Corman-gill a gagné le Grand Prix Atlanta 2019",
+        "Deuxième à l'Open SCG de Syracuse en septembre"
+      ],
+      "en": [
+        "Cyrus Corman-gill won Grand Prix Atlanta 2019",
+        "Second at the SCG Open in Syracuse in September"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy"
+    ],
+    "rep": 355746,
+    "cover": "Goblin Rabblemaster",
+    "keyCards": [
+      "Goblin Rabblemaster",
+      "Chandra, Torch of Defiance",
+      "Chalice of the Void",
+      "Blood Moon",
+      "Ensnaring Bridge",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb, City of Traitors et Chrome Mox posaient Chalice of the Void, Blood Moon ou Ensnaring Bridge, puis Goblin Rabblemaster et Chandra.",
+      "en": "Red prison: Ancient Tomb, City of Traitors and Chrome Mox put down Chalice of the Void, Blood Moon or Ensnaring Bridge, then Goblin Rabblemaster and Chandra."
+    },
+    "why": {
+      "fr": [
+        "A gagné le God of Legacy de Hareruya en août",
+        "Deuxième et troisième en MCQ sur Magic Online"
+      ],
+      "en": [
+        "Won the God of Legacy at Hareruya in August",
+        "Second and third in a Magic Online MCQ"
+      ]
+    }
+  },
+  {
+    "name": "Hogaak",
+    "slug": "hogaak",
+    "archetype": "combo",
+    "titles": [
+      "Hogaak",
+      "Hogaak Dredge",
+      "Hogaak, Arisen Necropolis"
+    ],
+    "rep": 361459,
+    "cover": "Hogaak, Arisen Necropolis",
+    "keyCards": [
+      "Hogaak, Arisen Necropolis",
+      "Stitcher's Supplier",
+      "Bloodghast",
+      "Gravecrawler",
+      "Vengevine",
+      "Altar of Dementia"
+    ],
+    "summary": {
+      "fr": "Stitcher's Supplier et Faithless Looting remplissaient le cimetière, Bloodghast et Gravecrawler revenaient, puis Hogaak, de Modern Horizons, se lançait gratuitement par convocation.",
+      "en": "Stitcher's Supplier and Faithless Looting filled the graveyard, Bloodghast and Gravecrawler came back, then Hogaak, from Modern Horizons, was cast for free with convoke."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Players' Championship SCG de Roanoke (Dylan Donegan)",
+        "Top 4 aussi en MOCS sur Magic Online"
+      ],
+      "en": [
+        "Top four at the SCG Players' Championship in Roanoke (Dylan Donegan)",
+        "Also top four in a MOCS event on Magic Online"
+      ]
+    }
+  },
+  {
+    "name": "Stoneblade",
+    "slug": "stoneblade",
+    "archetype": "control",
+    "titles": [
+      "Stoneblade",
+      "Uw Stoneblade",
+      "DelverBlade"
+    ],
+    "rep": 346006,
+    "cover": "Stoneforge Mystic",
+    "keyCards": [
+      "Stoneforge Mystic",
+      "Jace, the Mind Sculptor",
+      "Snapcaster Mage",
+      "Swords to Plowshares",
+      "Force of Will",
+      "Ponder"
+    ],
+    "summary": {
+      "fr": "Stoneforge Mystic allait chercher Batterskull ou une Sword, Jace et Snapcaster Mage complétaient un contrôle blanc-bleu.",
+      "en": "Stoneforge Mystic fetched Batterskull or a Sword, and Jace and Snapcaster Mage rounded out white-blue control."
+    },
+    "why": {
+      "fr": [
+        "Daniel Goetschel a gagné le Grand Prix Niagara Falls 2019",
+        "Victoire aussi en MCQ sur Magic Online"
+      ],
+      "en": [
+        "Daniel Goetschel won Grand Prix Niagara Falls 2019",
+        "Also won a Magic Online MCQ"
+      ]
+    }
+  },
+  {
+    "name": "Aggro Loam",
+    "slug": "aggro-loam",
+    "archetype": "midrange",
+    "titles": [
+      "Loam",
+      "Loamless"
+    ],
+    "rep": 343668,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Dark Confidant",
+      "Chalice of the Void",
+      "Mox Diamond",
+      "Liliana of the Veil",
+      "Punishing Fire"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain à Life from the Loam : Mox Diamond et Chalice of the Void, Knight of the Reliquary et Dark Confidant, Punishing Fire recyclé par Grove of the Burnwillows.",
+      "en": "Life from the Loam midrange: Mox Diamond and Chalice of the Void, Knight of the Reliquary and Dark Confidant, Punishing Fire recurred by Grove of the Burnwillows."
+    },
+    "why": {
+      "fr": [
+        "Christopher Minor a gagné l'Open SCG par équipes de Cincinnati",
+        "Deuxième au Mythic Championship Qualifier d'Atlanta"
+      ],
+      "en": [
+        "Christopher Minor won the SCG team Open in Cincinnati",
+        "Second at the Mythic Championship Qualifier in Atlanta"
+      ]
+    }
+  },
+  {
+    "name": "Sneak and Show",
+    "slug": "show-and-tell",
+    "archetype": "combo",
+    "titles": [
+      "Show and Tell",
+      "Omni Show",
+      "Uw OmniShow"
+    ],
+    "rep": 345650,
+    "cover": "Show and Tell",
+    "keyCards": [
+      "Show and Tell",
+      "Emrakul, the Aeons Torn",
+      "Griselbrand",
+      "Lotus Petal",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Show and Tell mettait en jeu Emrakul, Griselbrand ou Omniscience dès le deuxième tour, Force of Will protégeait.",
+      "en": "Show and Tell put Emrakul, Griselbrand or Omniscience into play from turn two, with Force of Will as protection."
+    },
+    "why": {
+      "fr": [
+        "Philipp Schröder a gagné la MKM Series de Ghent en avril",
+        "Deuxième en MCQ sur Magic Online"
+      ],
+      "en": [
+        "Philipp Schröder won the MKM Series event in Ghent in April",
+        "Second in a Magic Online MCQ"
+      ]
+    }
+  },
+  {
+    "name": "Lands",
+    "slug": "lands",
+    "archetype": "control",
+    "titles": [
+      "Lands"
+    ],
+    "rep": 363916,
+    "cover": "Life from the Loam",
+    "keyCards": [
+      "Life from the Loam",
+      "Oko, Thief of Crowns",
+      "Wrenn and Six",
+      "Crop Rotation",
+      "Mox Diamond",
+      "Exploration"
+    ],
+    "summary": {
+      "fr": "Un deck presque tout en terrains : Life from the Loam recyclait Wasteland ; Wrenn and Six et Oko, Thief of Crowns s'ajoutaient en fin d'année.",
+      "en": "A deck made almost entirely of lands: Life from the Loam recycled Wasteland; Wrenn and Six and Oko, Thief of Crowns joined late in the year."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en PTQ sur Magic Online et à l'Open SCG par équipes de Cincinnati",
+        "Top 8 au God of Legacy de Hareruya"
+      ],
+      "en": [
+        "Top four in a Magic Online PTQ and at the SCG team Open in Cincinnati",
+        "Top eight at the God of Legacy at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator",
+      "Br Reanimator",
+      "Rb Reanimator"
+    ],
+    "rep": 363915,
+    "cover": "Griselbrand",
+    "keyCards": [
+      "Griselbrand",
+      "Chancellor of the Annex",
+      "Exhume",
+      "Reanimate",
+      "Faithless Looting",
+      "Unmask"
+    ],
+    "summary": {
+      "fr": "Entomb ou Faithless Looting mettait Griselbrand au cimetière, Dark Ritual et Lotus Petal permettaient Reanimate ou Exhume dès le premier tour.",
+      "en": "Entomb or Faithless Looting put Griselbrand in the graveyard, and Dark Ritual and Lotus Petal enabled Reanimate or Exhume on turn one."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Open SCG de Syracuse et en PTQ sur Magic Online",
+        "Deuxième aux Swiss Magic Masters de Berne"
+      ],
+      "en": [
+        "Top four at the SCG Open in Syracuse and in a Magic Online PTQ",
+        "Second at the Swiss Magic Masters in Bern"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 370105,
+    "cover": "Ichorid",
+    "keyCards": [
+      "Ichorid",
+      "Bridge from Below",
+      "Stinkweed Imp",
+      "Lion's Eye Diamond",
+      "Faithless Looting",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "fr": "Le cimetière servait de main : Faithless Looting lançait le draguage, Lion's Eye Diamond vidait la main, Ichorid revenait seul et Bridge from Below fabriquait des Zombies.",
+      "en": "The graveyard was the hand: Faithless Looting started the dredging, Lion's Eye Diamond emptied the hand, Ichorid came back on its own and Bridge from Below made Zombies."
+    },
+    "why": {
+      "fr": [
+        "Top 4 à l'Eternal Party 2019 à Tokyo",
+        "Top 8 en MCQ sur Magic Online et à Atlanta"
+      ],
+      "en": [
+        "Top four at Eternal Party 2019 in Tokyo",
+        "Top eights in a Magic Online MCQ and in Atlanta"
+      ]
+    }
+  },
+  {
+    "name": "UW Control",
+    "slug": "uw-control",
+    "archetype": "control",
+    "titles": [
+      "UWx Control",
+      "Bant Mentor",
+      "Bant Control"
+    ],
+    "rep": 367608,
+    "cover": "Monastery Mentor",
+    "keyCards": [
+      "Monastery Mentor",
+      "Arcum's Astrolabe",
+      "Snapcaster Mage",
+      "Swords to Plowshares",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu à Arcum's Astrolabe : contre-sorts et Swords to Plowshares, Snapcaster Mage pour rejouer les réponses, Monastery Mentor pour finir.",
+      "en": "White-blue control with Arcum's Astrolabe: counterspells and Swords to Plowshares, Snapcaster Mage to replay answers, Monastery Mentor to finish."
+    },
+    "why": {
+      "fr": [
+        "La version Bant a gagné le Players' Championship SCG de Roanoke",
+        "Top 4 à l'Open SCG par équipes de Philadelphie"
+      ],
+      "en": [
+        "The Bant version won the SCG Players' Championship in Roanoke",
+        "Top four at the SCG team Open in Philadelphia"
+      ]
+    }
+  },
+  {
+    "name": "Bomberman",
+    "slug": "bomberman",
+    "archetype": "combo",
+    "titles": [
+      "Bomberman",
+      "Salvager Combo"
+    ],
+    "rep": 370108,
+    "cover": "Auriok Salvagers",
+    "keyCards": [
+      "Auriok Salvagers",
+      "Monastery Mentor",
+      "Karn, the Great Creator",
+      "Lion's Eye Diamond",
+      "Urza's Bauble",
+      "Chalice of the Void"
+    ],
+    "summary": {
+      "fr": "Auriok Salvagers rejouait sans fin Lion's Eye Diamond ou les Baubles : mana et sorts infinis, que Monastery Mentor changeait en armée.",
+      "en": "Auriok Salvagers recast Lion's Eye Diamond or the Baubles endlessly: infinite mana and spells, which Monastery Mentor turned into an army."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Eternal Party 2019 à Tokyo",
+        "Top 4 à la MKM Series de Paris et à l'Open SCG par équipes de Philadelphie"
+      ],
+      "en": [
+        "Won Eternal Party 2019 in Tokyo",
+        "Top four at the MKM Series event in Paris and the SCG team Open in Philadelphia"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro",
+      "Eldrazi Stompy",
+      "Eldrazi Karn"
+    ],
+    "rep": 365990,
+    "cover": "Thought-Knot Seer",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Chalice of the Void",
+      "Matter Reshaper",
+      "Endless One",
+      "Eldrazi Mimic"
+    ],
+    "summary": {
+      "fr": "Ancient Tomb, City of Traitors et Eldrazi Temple posaient Chalice of the Void puis Thought-Knot Seer et Reality Smasher dès le deuxième tour.",
+      "en": "Ancient Tomb, City of Traitors and Eldrazi Temple put down Chalice of the Void, then Thought-Knot Seer and Reality Smasher from turn two."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au Grand Prix Bologna 2019 et à la MKM Series de Prague",
+        "Une version à Karn, the Great Creator a fini dans le top 4 à Francfort"
+      ],
+      "en": [
+        "Top eights at Grand Prix Bologna 2019 and the MKM Series event in Prague",
+        "A Karn, the Great Creator version made the top four in Frankfurt"
+      ]
+    }
+  },
+  {
+    "name": "Maverick",
+    "slug": "maverick",
+    "archetype": "midrange",
+    "titles": [
+      "Maverick"
+    ],
+    "rep": 367484,
+    "cover": "Knight of the Reliquary",
+    "keyCards": [
+      "Knight of the Reliquary",
+      "Thalia, Guardian of Thraben",
+      "Once Upon a Time",
+      "Green Sun's Zenith",
+      "Swords to Plowshares",
+      "Noble Hierarch"
+    ],
+    "summary": {
+      "fr": "Vert-blanc à Green Sun's Zenith et Knight of the Reliquary, Thalia pour taxer, Once Upon a Time de Throne of Eldraine pour trouver les créatures.",
+      "en": "Green-white with Green Sun's Zenith and Knight of the Reliquary, Thalia to tax, and Once Upon a Time from Throne of Eldraine to find creatures."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en MCQ et en Format Playoff sur Magic Online",
+        "Top 8 au Classic SCG de Syracuse"
+      ],
+      "en": [
+        "Top four in a Magic Online MCQ and a Format Playoff",
+        "Top eight at the SCG Classic in Syracuse"
+      ]
+    }
+  },
+  {
+    "name": "BUG Midrange",
+    "slug": "shardless-bug",
+    "archetype": "midrange",
+    "titles": [
+      "BUG Midrange",
+      "Bug Oko",
+      "Okosition"
+    ],
+    "rep": 366165,
+    "cover": "Oko, Thief of Crowns",
+    "keyCards": [
+      "Oko, Thief of Crowns",
+      "Ice-Fang Coatl",
+      "Green Sun's Zenith",
+      "Arcum's Astrolabe",
+      "Force of Will",
+      "Brainstorm"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain bleu-noir-vert : Oko, Thief of Crowns, de Throne of Eldraine, changeait les menaces adverses en élans 3/3, Ice-Fang Coatl et Astrolabe complétaient.",
+      "en": "Blue-black-green midrange: Oko, Thief of Crowns, from Throne of Eldraine, turned opposing threats into 3/3 Elks, with Ice-Fang Coatl and Astrolabe alongside."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Grand Prix Bologna 2019",
+        "Deuxième aussi à l'Eternal Weekend européen au Magic Bazar"
+      ],
+      "en": [
+        "Second at Grand Prix Bologna 2019",
+        "Also second at the European Eternal Weekend at Magic Bazar"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins"
+    ],
+    "rep": 366962,
+    "cover": "Goblin Lackey",
+    "keyCards": [
+      "Goblin Lackey",
+      "Goblin Matron",
+      "Goblin Ringleader",
+      "Goblin Cratermaker",
+      "Aether Vial"
+    ],
+    "summary": {
+      "fr": "Aether Vial et Goblin Lackey posaient les gobelins, Goblin Matron et Goblin Ringleader rechargeaient la main, Goblin Cratermaker répondait aux artefacts et créatures.",
+      "en": "Aether Vial and Goblin Lackey put goblins into play, Goblin Matron and Goblin Ringleader refilled the hand, and Goblin Cratermaker answered artifacts and creatures."
+    },
+    "why": {
+      "fr": [
+        "A gagné le PTQ du dimanche au MagicFest de Bologne",
+        "Cavern of Souls rendait les gobelins impossibles à contrer"
+      ],
+      "en": [
+        "Won the Sunday PTQ at MagicFest Bologna",
+        "Cavern of Souls made the goblins uncounterable"
+      ]
+    }
+  },
+  {
+    "name": "Death's Shadow",
+    "slug": "deaths-shadow",
+    "archetype": "aggro",
+    "titles": [
+      "Death's Shadow"
+    ],
+    "rep": 339967,
+    "cover": "Death's Shadow",
+    "keyCards": [
+      "Death's Shadow",
+      "Street Wraith",
+      "Delver of Secrets",
+      "Thoughtseize",
+      "Daze",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir : Street Wraith, Thoughtseize et les fetchlands faisaient baisser ses propres points de vie pour que Death's Shadow devienne énorme pour un mana.",
+      "en": "Blue-black tempo: Street Wraith, Thoughtseize and fetch lands lowered its own life total so that Death's Shadow became huge for one mana."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'Open SCG par équipes de Baltimore en février",
+        "Delver of Secrets et Gurmag Angler complétaient les menaces"
+      ],
+      "en": [
+        "Won the SCG team Open in Baltimore in February",
+        "Delver of Secrets and Gurmag Angler rounded out the threats"
+      ]
+    }
+  }
+]
