@@ -1,11 +1,11 @@
 [
   {
     "colors": "UB",
-    "name": "Dimir Control",
+    "name": "Dimir Graveyard",
     "archetype": "control",
     "summary": {
-      "fr": "Halo Forager relance un éphémère ou un rituel depuis le cimetière. Un deck de contrôle fait de removal, de pioche et de volants bleus qui gagnait les parties longues.",
-      "en": "Halo Forager recasts an instant or sorcery from the graveyard. A control deck of removal, card draw and blue flyers that won the long game."
+      "fr": "Halo Forager relance un éphémère ou un rituel depuis un cimetière. Un deck de contrôle axé sur le cimetière, fait de removal, de pioche et de volants bleus, qui gagnait les parties longues.",
+      "en": "Halo Forager recasts an instant or sorcery from a graveyard. A graveyard-value control deck of removal, card draw and blue flyers that won the long game."
     },
     "why": {
       "fr": [
@@ -301,7 +301,7 @@
   },
   {
     "colors": "RG",
-    "name": "Gruul Aggro",
+    "name": "Gruul Battles",
     "archetype": "aggro",
     "summary": {
       "fr": "Rampaging Geoderm renforce un attaquant à chaque combat. Un deck de créatures qui jouait aussi des batailles comme Invasion of Ergamon et les attaquait pour leur valeur.",

@@ -90,7 +90,7 @@
   },
   {
     "colors": "RG",
-    "name": "Gruul Aggro",
+    "name": "Gruul Midrange",
     "archetype": "aggro",
     "summary": {
       "fr": "Deck de créatures rouge-vert autour d'Arbalest Engineers, dont l'arrivée inflige un dégât, renforce un attaquant ou crée un Powerstone. Gaea's Gift et Obstinate Baloth donnaient des corps solides, Excavation Explosion la removal.",
@@ -150,11 +150,11 @@
   },
   {
     "colors": "BG",
-    "name": "Golgari Sacrifice",
+    "name": "Golgari Graveyard",
     "archetype": "midrange",
     "summary": {
-      "fr": "Skyfisher Spider sacrifie une autre créature pour détruire un permanent non-terrain. Autour, des créatures de valeur comme Ravenous Gigamole et de la removal noire comme Overwhelming Remorse.",
-      "en": "Skyfisher Spider sacrifices another creature to destroy a nonland permanent. Around it, value creatures such as Ravenous Gigamole and black removal like Overwhelming Remorse."
+      "fr": "La valeur du cimetière : Skyfisher Spider sacrifie une autre créature pour détruire un permanent non-terrain, Ravenous Gigamole meule et récupère une carte de créature. La removal noire comme Overwhelming Remorse faisait le reste.",
+      "en": "Graveyard value: Skyfisher Spider sacrifices another creature to destroy a nonland permanent, while Ravenous Gigamole mills and returns a creature card. Black removal like Overwhelming Remorse did the rest."
     },
     "why": {
       "fr": [
@@ -180,7 +180,7 @@
   },
   {
     "colors": "BR",
-    "name": "Rakdos Artifacts",
+    "name": "Rakdos Sacrifice",
     "archetype": "aggro",
     "summary": {
       "fr": "Junkyard Genius crée un Powerstone et sacrifie artefacts ou créatures pour donner menace et célérité à l'équipe. Goblin Blast-Runner et Penregon Strongbull convertissaient les artefacts en trop en dégâts.",

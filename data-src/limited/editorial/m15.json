@@ -1,0 +1,345 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les volants bleus et blancs font la course par les airs pendant que Coral Barrier et Research Assistant tiennent le sol ; Heliod's Pilgrim cherche la bonne aura.",
+      "en": "Blue and white fliers race over the ground while Coral Barrier and Research Assistant hold it; Heliod's Pilgrim fetches the right aura."
+    },
+    "why": {
+      "fr": [
+        "Brian Braun-Duin : les volants blanc-bleu sont un classique de presque tous les formats, M15 compris",
+        "Heliod's Pilgrim peut chercher Ensoul Artifact ou Divine Favor pour les volants",
+        "Les créatures terrestres aux statistiques moyennes sont à éviter"
+      ],
+      "en": [
+        "Brian Braun-Duin: U/W fliers has been a staple archetype in nearly every format, M15 included",
+        "Heliod's Pilgrim can find Ensoul Artifact or Divine Favor for the fliers",
+        "Ground creatures with mediocre stats are the cards to avoid here"
+      ]
+    },
+    "keyCards": [
+      "Sungrace Pegasus",
+      "Heliod's Pilgrim",
+      "Coral Barrier",
+      "Research Assistant",
+      "Divine Favor",
+      "Quickling"
+    ],
+    "cover": "Sungrace Pegasus",
+    "sources": [
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/",
+      "https://mtg.wiki/page/Magic_2015"
+    ]
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Attaquants évasifs bleus et noirs, de Welkin Tern à Illusory Angel, avec Void Snare pour gagner les tours nécessaires à la course aérienne.",
+      "en": "Black and blue evasive beaters, from Welkin Tern to Illusory Angel, with Void Snare buying the turns needed to finish in the air."
+    },
+    "why": {
+      "fr": [
+        "Frank Skarren : le noir est un peu juste, mais ses nombreuses créatures évasives font sa force",
+        "Welkin Tern au tour deux peut infliger beaucoup ; surtout le rouge a des réponses faciles",
+        "Dans un set pauvre en interaction, chaque Void Snare fait gagner du temps contre un gros terrestre"
+      ],
+      "en": [
+        "Frank Skarren: black comes up short, but its many evasive creatures are its strength",
+        "Welkin Tern on turn two can deal a lot of damage; mostly red has easy answers to it",
+        "In a low-interaction set, each Void Snare buys time against a big ground threat"
+      ]
+    },
+    "keyCards": [
+      "Welkin Tern",
+      "Illusory Angel",
+      "Necrogen Scudder",
+      "Carrion Crow",
+      "Void Snare",
+      "Shadowcloak Vampire"
+    ],
+    "cover": "Illusory Angel",
+    "sources": [
+      "https://articles.starcitygames.com/articles/learning-the-m15-draft-archetypes/",
+      "https://mtg.wiki/page/Magic_2015"
+    ]
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures noires et rouges costaudes et beaucoup de destructions, Rummaging Goblin filtrant vers Nightfire Giant et Altac Bloodseeker.",
+      "en": "Beefy black and red creatures and plenty of removal, Rummaging Goblin filtering into Nightfire Giant and Altac Bloodseeker."
+    },
+    "why": {
+      "fr": [
+        "Brian Braun-Duin jugeait l'agressif noir-rouge à base de X/1 généralement très mauvais",
+        "La version riche en destructions et gros corps a eu un certain succès",
+        "Nightfire Giant est l'une des meilleures cartes que ce deck puisse obtenir"
+      ],
+      "en": [
+        "Brian Braun-Duin found R/B aggro with X/1s typically really bad in M15",
+        "The removal-heavy version with big creatures had a decent bit of success",
+        "Nightfire Giant is one of the best cards the deck can get"
+      ]
+    },
+    "keyCards": [
+      "Nightfire Giant",
+      "Rummaging Goblin",
+      "Altac Bloodseeker",
+      "Borderland Marauder",
+      "Lightning Strike",
+      "Covenant of Blood"
+    ],
+    "cover": "Nightfire Giant",
+    "sources": [
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/",
+      "https://hipstersofthecoast.com/2014/07/2317-five-winning-m15-draft-decks"
+    ]
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Beats",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Attaquants rouges et verts, Hammerhand pour écarter les bloqueurs tôt, Kird Chieftain ou Feral Incarnation pour la puissance en fin de partie.",
+      "en": "Red and green beaters, Hammerhand to clear blockers early and Kird Chieftain or Feral Incarnation for late-game power."
+    },
+    "why": {
+      "fr": [
+        "Le premier consensus faisait du rouge la couleur la plus forte de M15",
+        "Hipsters of the Coast : un rouge-vert à 2-1, pauvre en destructions, gagnait sur Hammerhand et ses gros",
+        "Le vert a peu de destructions bon marché : le deck compte sur la brûlure rouge et la pression"
+      ],
+      "en": [
+        "Early consensus held red to be the strongest color of M15",
+        "Hipsters of the Coast: a 2-1 R/G deck short on removal won on Hammerhand and big beaters",
+        "Green has little cheap removal, so the deck relies on red burn and pressure"
+      ]
+    },
+    "keyCards": [
+      "Kird Chieftain",
+      "Hammerhand",
+      "Feral Incarnation",
+      "Borderland Marauder",
+      "Charging Rhino"
+    ],
+    "cover": "Kird Chieftain",
+    "sources": [
+      "https://hipstersofthecoast.com/2014/07/2317-five-winning-m15-draft-decks",
+      "https://articles.starcitygames.com/articles/learning-the-m15-draft-archetypes/",
+      "https://mtg.wiki/page/Magic_2015"
+    ]
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Convoke",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Élargir avec des jetons, convoquer de gros sorts comme Seraph of the Masses et Siege Wurm, puis renforcer l'équipe avec Sanctified Charge.",
+      "en": "Go wide with tokens, convoke big spells such as Seraph of the Masses and Siege Wurm, then pump the team with Sanctified Charge."
+    },
+    "why": {
+      "fr": [
+        "Brian Braun-Duin faisait de Seraph of the Masses un premier choix évident, lançable dès le tour quatre",
+        "Triplicate Spirits plus Sanctified Charge a gagné beaucoup de parties, des deux côtés",
+        "Frank Skarren jugeait le convoke vert-blanc bon, un peu derrière le convoke bleu-vert"
+      ],
+      "en": [
+        "Brian Braun-Duin called Seraph of the Masses a windmill-slam first pick, castable by turn four",
+        "Triplicate Spirits plus Sanctified Charge won many games, on both sides of the table",
+        "Frank Skarren rated G/W convoke a good archetype, a little behind U/G convoke"
+      ]
+    },
+    "keyCards": [
+      "Seraph of the Masses",
+      "Triplicate Spirits",
+      "Sanctified Charge",
+      "Raise the Alarm",
+      "Sunblade Elf",
+      "Living Totem"
+    ],
+    "cover": "Seraph of the Masses",
+    "sources": [
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/",
+      "https://articles.starcitygames.com/articles/learning-the-m15-draft-archetypes/",
+      "https://www.hipstersofthecoast.com/2014/08/ensnaring-cambridge-case-black-white-m15-limited/"
+    ]
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Lifegain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les gains de vie réguliers de Soulmender, Child of Night et Sungrace Pegasus font grandir Ajani's Pridemate et Wall of Limbs et compensent les paiements de vie du noir.",
+      "en": "Steady life gain from Soulmender, Child of Night and Sungrace Pegasus grows Ajani's Pridemate and Wall of Limbs, offsetting black's life payments."
+    },
+    "why": {
+      "fr": [
+        "Hipsters of the Coast y voyait un archétype discret, aux récompenses qui partent souvent tard",
+        "Le gain de vie compense le coût en vie de Necrogen Scudder, Sign in Blood et Ulcerate",
+        "Brian Braun-Duin : il ne marche vraiment qu'avec plusieurs Pridemate et Wall of Limbs"
+      ],
+      "en": [
+        "Hipsters of the Coast saw it as an under-the-radar archetype, with payoffs that often go late",
+        "Life gain offsets the life cost of Necrogen Scudder, Sign in Blood and Ulcerate",
+        "Brian Braun-Duin: it only really works with multiple Pridemates and Walls of Limbs"
+      ]
+    },
+    "keyCards": [
+      "Ajani's Pridemate",
+      "Wall of Limbs",
+      "Soulmender",
+      "Child of Night",
+      "Sungrace Pegasus",
+      "Covenant of Blood"
+    ],
+    "cover": "Ajani's Pridemate",
+    "sources": [
+      "https://www.hipstersofthecoast.com/2014/08/ensnaring-cambridge-case-black-white-m15-limited/",
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/"
+    ]
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Artifacts",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Créatures agressives et évasives avec quelques artefacts pour activer Aeronaut Tinkerer, Scrapyard Mongrel et Ensoul Artifact, plus brûlures et renvois.",
+      "en": "Aggressive and evasive creatures with a handful of artifacts turning on Aeronaut Tinkerer, Scrapyard Mongrel and Ensoul Artifact, plus burn and bounce."
+    },
+    "why": {
+      "fr": [
+        "L'archétype M15 préféré de Brian Braun-Duin et celui avec lequel il a le mieux réussi",
+        "Pour Hipsters of the Coast, le tempo bleu-rouge est l'un des meilleurs malgré un bleu faible",
+        "Environ cinq artefacts suffisent ; Darksteel Citadel en ajoute un gratuitement"
+      ],
+      "en": [
+        "Brian Braun-Duin's favorite M15 archetype and the one he performed best with",
+        "Hipsters of the Coast called blue-red tempo one of the better archetypes despite weak blue",
+        "About five artifacts are enough; Darksteel Citadel pads the count for free"
+      ]
+    },
+    "keyCards": [
+      "Aeronaut Tinkerer",
+      "Scrapyard Mongrel",
+      "Ensoul Artifact",
+      "Darksteel Citadel",
+      "Forge Devil",
+      "Hot Soup"
+    ],
+    "cover": "Aeronaut Tinkerer",
+    "sources": [
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/",
+      "https://www.hipstersofthecoast.com/2014/08/ensnaring-cambridge-case-black-white-m15-limited/",
+      "https://mtg.wiki/page/Magic_2015"
+    ],
+    "tier": 1
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "control",
+    "summary": {
+      "fr": "Deck d'usure lent : Satyr Wayfinder et Necromancer's Assistant remplissent le cimetière, Gravedigger, Undergrowth Scavenger et Unmake the Graves l'exploitent.",
+      "en": "A slow grinding deck: Satyr Wayfinder and Necromancer's Assistant fill the graveyard, Gravedigger, Undergrowth Scavenger and Unmake the Graves cash it in."
+    },
+    "why": {
+      "fr": [
+        "Brian Braun-Duin : redoutable quand tout s'assemble, sans être son préféré",
+        "Privilégier les cartes qui remplissent le cimetière, sauf Gravedigger, qui revient rarement",
+        "Très lent, il peut mourir aux volants : Plummet et Netcaster Spider sont nécessaires"
+      ],
+      "en": [
+        "Brian Braun-Duin: formidable when the pieces come together, though not his favorite",
+        "Value enablers over payoffs, except Gravedigger, which rarely tables",
+        "Glacially slow, it can die to fliers: Plummet and Netcaster Spider are needed"
+      ]
+    },
+    "keyCards": [
+      "Satyr Wayfinder",
+      "Necromancer's Assistant",
+      "Gravedigger",
+      "Undergrowth Scavenger",
+      "Unmake the Graves",
+      "Netcaster Spider"
+    ],
+    "cover": "Undergrowth Scavenger",
+    "sources": [
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/",
+      "https://mtg.wiki/page/Magic_2015"
+    ]
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Auras",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Heliod's Pilgrim cherche des auras comme Inferno Fist et Marked by Honor, et Brood Keeper transforme chacune en dragon.",
+      "en": "Heliod's Pilgrim fetches auras such as Inferno Fist and Marked by Honor, and Brood Keeper turns each one into a dragon."
+    },
+    "why": {
+      "fr": [
+        "Pour Frank Skarren, Brood Keeper devient presque imbattable avec une seule aura",
+        "Heliod's Pilgrim fait tourner l'archétype et évite de perdre deux cartes pour une",
+        "Brian Braun-Duin ne s'y engageait qu'avec plusieurs Brood Keeper"
+      ],
+      "en": [
+        "Frank Skarren called Brood Keeper nearly unbeatable once it carries a single aura",
+        "Heliod's Pilgrim is the card that makes the archetype tick, avoiding the two-for-one",
+        "Brian Braun-Duin would only pursue it with multiple Brood Keepers"
+      ]
+    },
+    "keyCards": [
+      "Brood Keeper",
+      "Heliod's Pilgrim",
+      "Inferno Fist",
+      "Marked by Honor",
+      "Hammerhand",
+      "Ephemeral Shields"
+    ],
+    "cover": "Brood Keeper",
+    "sources": [
+      "https://articles.starcitygames.com/articles/learning-the-m15-draft-archetypes/",
+      "https://articles.starcitygames.com/articles/figuring-out-m15-limited/"
+    ]
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Convoke",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Corps bleus et verts bon marché, Coral Barrier et Satyr Wayfinder en tête, pour convoquer tôt Feral Incarnation et Siege Wurm ; le bleu ajoute pioche et interaction.",
+      "en": "Cheap blue and green bodies, Coral Barrier and Satyr Wayfinder first, convoke Feral Incarnation and Siege Wurm out early; blue adds card flow and interaction."
+    },
+    "why": {
+      "fr": [
+        "L'archétype préféré de Frank Skarren, qu'il jugeait meilleur que le convoke vert-blanc",
+        "Feral Incarnation peut arriver dès le tour cinq",
+        "Le bleu apporte Void Snare, Peel from Reality et Research Assistant pour ne pas s'essouffler"
+      ],
+      "en": [
+        "Frank Skarren's favorite archetype, which he rated better overall than G/W convoke",
+        "Feral Incarnation can come down as early as turn five",
+        "Blue brings Void Snare, Peel from Reality and Research Assistant to keep the gas coming"
+      ]
+    },
+    "keyCards": [
+      "Feral Incarnation",
+      "Siege Wurm",
+      "Coral Barrier",
+      "Satyr Wayfinder",
+      "Research Assistant",
+      "Living Totem"
+    ],
+    "cover": "Feral Incarnation",
+    "sources": [
+      "https://articles.starcitygames.com/articles/learning-the-m15-draft-archetypes/",
+      "https://mtg.wiki/page/Magic_2015"
+    ]
+  }
+]
