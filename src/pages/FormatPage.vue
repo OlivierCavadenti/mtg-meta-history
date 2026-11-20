@@ -174,9 +174,11 @@ const banLine = (s: Row) =>
   top: var(--header-h);
   z-index: 20;
   background: var(--paper) var(--grain);
-  border-bottom: 1px solid var(--line);
-  padding: var(--space-sm) 0 var(--space-xs);
-  margin: calc(-1 * var(--space-lg) + var(--space-xs)) 0 var(--space-lg);
+  /* flush under the header and directly above the first season's black rule, so the page
+     looks the same before and after jumping to a year (the jump scrolls the season to this
+     exact position): no gap, no separate rule */
+  padding: var(--space-sm) 0 var(--space-sm);
+  margin: calc(-1 * var(--space-lg)) 0 0;
 }
 
 .jump {
@@ -312,7 +314,7 @@ const banLine = (s: Row) =>
 
 .season {
   margin-bottom: var(--space-xl);
-  scroll-margin-top: calc(var(--header-h) + var(--tools-h, 0px) - 1px);
+  scroll-margin-top: calc(var(--header-h) + var(--tools-h, 0px));
 }
 
 /* running head: the season title stays pinned under the filter bar while its decks scroll */
@@ -367,6 +369,8 @@ const banLine = (s: Row) =>
 @media (max-width: 640px) {
   .tools {
     position: static;
+    /* mobile page padding is --space-md */
+    margin: calc(-1 * var(--space-md)) 0 var(--space-md);
   }
 
   .search {
