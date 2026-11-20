@@ -77,6 +77,10 @@ const STRINGS = {
     fr: "archétypes présents sur plusieurs saisons. Chaque ligne suit un archétype à travers toute l'histoire du format.",
     en: 'archetypes that lasted more than one season. Each row follows one archetype across the whole history of the format.',
   },
+  archetypesRecentIntro: {
+    fr: "Les archétypes du plus récent au plus ancien, selon leur premier résultat (y compris ceux d'une seule saison).",
+    en: 'Archetypes from newest to oldest, by their first result (including single-season ones).',
+  },
   sortLongest: { fr: 'Les plus durables', en: 'Longest-lived' },
   sortLatest: { fr: 'Les plus récents', en: 'Most recent' },
   sortName: { fr: 'Alphabétique', en: 'A–Z' },

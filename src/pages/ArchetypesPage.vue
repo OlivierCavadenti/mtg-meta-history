@@ -18,15 +18,18 @@ const all = computed<Lineage[]>(() => (data.value ? [...buildLineages(data.value
 
 const lastStart = (l: Lineage) => l.entries[l.entries.length - 1].season.start
 const firstStart = (l: Lineage) => l.entries[0].season.start
+const firstResult = (l: Lineage) => l.entries[0].deck.first
 
 const list = computed(() => {
   const q = query.value.trim().toLowerCase()
   return all.value
-    .filter((l) => showSingle.value || l.entries.length > 1)
+    // the newest archetypes often have a single season so far: always show them in that sort
+    .filter((l) => showSingle.value || sort.value === 'recent' || l.entries.length > 1)
     .filter((l) => !q || l.name.toLowerCase().includes(q) || l.entries.some((e) => e.deck.name.toLowerCase().includes(q)))
     .sort((a, b) => {
       if (sort.value === 'name') return a.name.localeCompare(b.name)
-      if (sort.value === 'recent') return lastStart(b).localeCompare(lastStart(a)) || b.entries.length - a.entries.length
+      // newest archetypes first: by the date of their first recorded result, as on the Decks page
+      if (sort.value === 'recent') return firstResult(b).localeCompare(firstResult(a)) || lastStart(b).localeCompare(lastStart(a))
       return b.entries.length - a.entries.length || b.top8 - a.top8
     })
 })
@@ -56,14 +59,15 @@ const spanOf = (l: Lineage) => {
   <div v-else-if="loading || !data" class="state">{{ t('loading') }}</div>
   <div v-else class="archetypes">
     <header class="intro">
-      <p class="lede">{{ multi }} {{ t('archetypesIntro') }}</p>
+      <p v-if="sort === 'recent'" class="lede">{{ t('archetypesRecentIntro') }}</p>
+      <p v-else class="lede">{{ multi }} {{ t('archetypesIntro') }}</p>
       <div class="controls">
         <nav class="sorts">
           <button type="button" :class="{ on: sort === 'longest' }" @click="sort = 'longest'">{{ t('sortLongest') }}</button>
           <button type="button" :class="{ on: sort === 'recent' }" @click="sort = 'recent'">{{ t('sortLatest') }}</button>
           <button type="button" :class="{ on: sort === 'name' }" @click="sort = 'name'">{{ t('sortName') }}</button>
         </nav>
-        <label class="single"><input v-model="showSingle" type="checkbox" /> {{ t('showSingle') }}</label>
+        <label v-if="sort !== 'recent'" class="single"><input v-model="showSingle" type="checkbox" /> {{ t('showSingle') }}</label>
         <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Chercher un archétype' : 'Search an archetype'" />
       </div>
       <!-- year axis aligned with the lifelines below -->
