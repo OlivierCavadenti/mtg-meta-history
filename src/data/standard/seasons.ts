@@ -80,4 +80,5 @@ export const STANDARD_SEASONS: Season[] = [
     { date: '2025-11-10', cards: ['Vivi Ornitier', 'Screaming Nemesis', "Proft's Eidetic Memory"] },
     { date: '2026-08-01', cards: ['Badgermole Cub', "Stormchaser's Talent", 'Gran-Gran'] },
   ] },
+  { id: '2026-hob', start: '2026-08-14', set: 'The Hobbit', bans: [] },
 ]
