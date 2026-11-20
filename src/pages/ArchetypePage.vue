@@ -3,6 +3,7 @@ import { computed, ref, watchEffect } from 'vue'
 import { useRoute } from 'vue-router'
 import { useFormat } from '../lib/useFormat'
 import { buildLineages, cardTracks, coreCards } from '../lib/lineage'
+import { predecessorsOf, successorOf } from '../data/lineageLinks'
 import { cardImage, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import { formatNumber, seasonEndYear, seasonYears, t } from '../lib/i18n'
@@ -13,7 +14,18 @@ import SoonState from '../components/SoonState.vue'
 const route = useRoute()
 const { formatId, format, data, loading } = useFormat()
 
-const lineage = computed(() => (data.value ? buildLineages(data.value).get(String(route.params.slug)) : undefined))
+const lineages = computed(() => (data.value ? buildLineages(data.value) : undefined))
+const lineage = computed(() => lineages.value?.get(String(route.params.slug)))
+/** the archetype it turned into, and the ones it came from (src/data/lineageLinks.ts) */
+const successor = computed(() => {
+  const s = lineage.value && successorOf(formatId.value, lineage.value.slug)
+  return s ? lineages.value?.get(s) : undefined
+})
+const predecessors = computed(() =>
+  lineage.value
+    ? predecessorsOf(formatId.value, lineage.value.slug).map((s) => lineages.value?.get(s)).filter((l) => !!l)
+    : [],
+)
 const entries = computed(() => lineage.value?.entries ?? [])
 const latest = computed(() => entries.value[entries.value.length - 1])
 const tracks = computed(() => (lineage.value ? cardTracks(lineage.value) : []))
@@ -76,6 +88,10 @@ watchEffect(() => {
       <p class="meta">
         {{ entries.length }} {{ entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}, {{ span }}.
         {{ lineage.top8 }} {{ t('top8') }}, {{ lineage.wins }} {{ lineage.wins > 1 ? t('wins') : t('win') }}.
+      </p>
+      <p v-if="successor || predecessors.length" class="links">
+        <router-link v-for="p in predecessors" :key="p!.slug" :to="`/${formatId}/archetype/${p!.slug}`">← {{ t('cameFrom') }} {{ p!.name }}</router-link>
+        <router-link v-if="successor" :to="`/${formatId}/archetype/${successor.slug}`">{{ t('becomes') }} {{ successor.name }} →</router-link>
       </p>
     </header>
 
@@ -185,6 +201,21 @@ h1 {
   align-items: center;
   gap: var(--space-md);
   flex-wrap: wrap;
+}
+
+.links {
+  margin-top: var(--space-sm);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-lg);
+}
+
+.links a {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--accent);
+  text-underline-offset: 4px;
 }
 
 .meta {

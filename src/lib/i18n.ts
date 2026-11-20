@@ -81,6 +81,8 @@ const STRINGS = {
     fr: "Les archétypes du plus récent au plus ancien, selon leur premier résultat (y compris ceux d'une seule saison).",
     en: 'Archetypes from newest to oldest, by their first result (including single-season ones).',
   },
+  becomes: { fr: 'Se poursuit en', en: 'Continues as' },
+  cameFrom: { fr: 'Issu de', en: 'Grew out of' },
   sortLongest: { fr: 'Les plus durables', en: 'Longest-lived' },
   sortLatest: { fr: 'Les plus récents', en: 'Most recent' },
   sortName: { fr: 'Alphabétique', en: 'A–Z' },

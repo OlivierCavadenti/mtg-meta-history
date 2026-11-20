@@ -2,6 +2,7 @@
 import { computed, ref } from 'vue'
 import { useFormat } from '../lib/useFormat'
 import { buildLineages, type Lineage } from '../lib/lineage'
+import { successorOf } from '../data/lineageLinks'
 import { locale, seasonEndYear, seasonYears, t } from '../lib/i18n'
 import ColorPips from '../components/ColorPips.vue'
 import SoonState from '../components/SoonState.vue'
@@ -36,6 +37,12 @@ const list = computed(() => {
 
 /** label every n-th season on the axis so labels never collide */
 const axisStep = computed(() => Math.max(1, Math.ceil(seasons.value.length / 8)))
+
+const byslug = computed(() => new Map(all.value.map((l) => [l.slug, l])))
+const successorName = (l: Lineage) => {
+  const s = successorOf(formatId.value, l.slug)
+  return s ? byslug.value.get(s)?.name : undefined
+}
 
 const multi = computed(() => all.value.filter((l) => l.entries.length > 1).length)
 
@@ -84,7 +91,9 @@ const spanOf = (l: Lineage) => {
       <li v-for="(l, i) in list" :key="l.slug" v-reveal="i % 6">
         <router-link :to="`/${formatId}/archetype/${l.slug}`" class="row">
           <span class="name">{{ l.name }} <ColorPips :colors="l.entries[l.entries.length - 1].deck.colors" :size="12" /></span>
-          <span class="span">{{ spanOf(l) }}, {{ l.entries.length }} {{ l.entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}</span>
+          <span class="span">
+            {{ spanOf(l) }}, {{ l.entries.length }} {{ l.entries.length > 1 ? t('seasonsPlural') : t('seasonSingular') }}<template v-if="successorName(l)">, {{ t('becomes').toLowerCase() }} {{ successorName(l) }}</template>
+          </span>
           <!-- lifeline: one cell per season of the format, ink by share of top 8s -->
           <span class="life" aria-hidden="true">
             <span
