@@ -1,143 +1,148 @@
 #!/usr/bin/env python3
-"""Bulk-download archived tournament pages from the Wayback Machine (web.archive.org).
+"""Download archived pages from the Wayback Machine (web.archive.org), politely.
 
-Run it on a computer that can reach web.archive.org (the build environment cannot).
-Python 3.8+, standard library only, no install needed.
+    python3 scripts/wayback/fetch_wayback.py [SEEDS.json] [OUT_DIR]
 
-    python3 fetch_wayback.py                 # every preset below
-    python3 fetch_wayback.py dojo sideboard  # only some presets
-    python3 fetch_wayback.py --prefix "example.com/coverage/*"
+Defaults: scripts/wayback/seeds.json (the Wizards Sideboard pages behind the 1998-2002 Standard
+results in data-src/standard/extra) and ./wayback (git-ignored). Python 3.8+, standard library only.
+Re-running resumes: pages already in OUT_DIR/index.json are not fetched again.
 
-Pages land in ./wayback/<host>/<path>, with ./wayback/index.json listing every file, its
-original URL and capture date. Re-running resumes where it stopped. When done it writes
-./wayback.zip: send that file (or push the folder to a branch) so the pages can be parsed.
+Each seed is {"url": ..., "ts": "YYYY[MMDDhhmmss]", "depth": 1}. "ts" picks the capture closest to
+that date ("id_" mode: the original HTML, without the Wayback toolbar). To explore a site, give a
+seed a depth > 1 and a "follow" regex (absolute URLs to follow), plus optional "title" (link text or
+URL must match) and "skip" (link text or URL must not match) regexes.
 
-It uses the official CDX API to list captures (one capture per URL, the earliest one, so the
-page reflects the time of the event) and the raw "id_" mode to get the original HTML/text
-without the Wayback toolbar. Requests are spaced out to stay polite (about 1 per second).
+Notes from the 2026 import:
+- The CDX API answers prefix/wildcard queries on large hosts (wizards.com/sideboard/*) with
+  timeouts or an empty body: start from index pages instead (sideboard/archives.asp and
+  article.asp?x=coverage list every article and event).
+- web.archive.org refuses connections for several minutes past roughly 15 requests a minute, and
+  each page costs two requests (redirect to the nearest capture, then the capture): keep DELAY >= 10.
 """
+import html
 import json
 import os
+import re
+import socket
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
-import zipfile
 
-PRESETS = {
-    # The Dojo: tournament reports with decklists, 1996-2001 (Regionals, States, Nationals, PTQs)
-    'dojo': ['thedojo.com/tourney/*', 'www.thedojo.com/tourney/*', 'thedojo.com/tourney97/*',
-             'www.thedojo.com/tourney97/*', 'thedojo.com/t*', 'www.thedojo.com/t*'],
-    # Wizards' Sideboard: official coverage of Pro Tours, Worlds, Nationals, Regionals 1998-2002
-    # (2002 pages live under default.asp?x=sideboard/..., outside the /sideboard/ path)
-    'sideboard': ['www.wizards.com/sideboard/*', 'wizards.com/sideboard/*',
-                  'www.wizards.com/default.asp?x=sideboard*', 'www.wizards.com/default.asp?x=mtgcom*'],
-    # Brainburst and Mindripper: tournament reports 1999-2002
-    'brainburst': ['www.brainburst.com/*', 'brainburst.com/*'],
-    'mindripper': ['www.mindripper.com/*', 'mindripper.com/*'],
-    # New Wave and Neutral Ground: Regionals / States reports 1999-2001
-    'newwave': ['newwave.org/strategy/*', 'www.newwave.org/strategy/*'],
-    'neutralground': ['www.neutralground.com/*', 'neutralground.com/*'],
-}
-
-# Priority pages for the 1998-2002 gaps (all under the presets above):
-#   Sideboard article.asp?x=sb19991124a (States 1999), sb20001106b (States 2000 lists),
-#   sb20011114a (States 2001 top 8 lists), sb20000508a / sb20000502a (Regionals 2000),
-#   default.asp?x=sideboard/info/2002regionals (Regionals 2002 lists),
-#   Dojo t991/t8.* and t991/t2.* (Regionals and Nationals 1999).
-# Only keep pages that can hold tournament results or decklists (skip images, scripts, forums...)
-KEEP_MIME = ('text/html', 'text/plain')
-SKIP_HINTS = ('forum', 'board', 'login', 'cgi-bin/ubb', '.gif', '.jpg', '.png', '.css', '.js')
-FROM, TO = '1996', '2004'  # capture years worth fetching
-
-OUT = os.path.abspath('wayback')
+HERE = os.path.dirname(os.path.abspath(__file__))
+SEEDS = json.load(open(sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, 'seeds.json')))
+OUT = os.path.abspath(sys.argv[2] if len(sys.argv) > 2 else 'wayback')
 UA = {'User-Agent': 'mtg-meta-history archive fetch (personal research)'}
+DELAY = 10.0
+os.makedirs(OUT, exist_ok=True)
+IDX = os.path.join(OUT, 'index.json')
+FAIL = os.path.join(OUT, 'failed.json')
+index = json.load(open(IDX)) if os.path.exists(IDX) else {}
+failed = json.load(open(FAIL)) if os.path.exists(FAIL) else {}
+_last = [0.0]
 
 
-def get(url, tries=5):
-    for i in range(tries):
-        try:
-            req = urllib.request.Request(url, headers=UA)
-            with urllib.request.urlopen(req, timeout=60) as r:
-                return r.read()
-        except Exception as e:  # noqa: BLE001 - retry any network error
-            wait = 5 * (i + 1)
-            print(f'    retry in {wait}s ({e})', flush=True)
+def norm(u):
+    u = html.unescape(u.strip())
+    p = urllib.parse.urlsplit(u)
+    host = (p.hostname or '').lower()
+    if host == 'wizards.com':
+        host = 'www.wizards.com'
+    return urllib.parse.urlunsplit(('http', host, p.path or '/', p.query, ''))
+
+
+def key(u):
+    return norm(u).lower()
+
+
+def fetch(url, ts):
+    for attempt in range(6):
+        wait = _last[0] + DELAY - time.time()
+        if wait > 0:
             time.sleep(wait)
-    return None
+        _last[0] = time.time()
+        try:
+            req = urllib.request.Request(f'https://web.archive.org/web/{ts}id_/{url}', headers=UA)
+            with urllib.request.urlopen(req, timeout=90) as r:
+                return r.geturl(), r.read()
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return None, None
+            pause = 30 * (attempt + 1) if e.code in (429, 503, 504) else 10
+            print(f'    HTTP {e.code}, pause {pause}s', flush=True)
+        except (urllib.error.URLError, socket.timeout, ConnectionError, OSError) as e:
+            pause = 300 * (attempt + 1)  # refused connections: the archive is rate-limiting this address
+            print(f'    {e!r}, pause {pause}s', flush=True)
+        time.sleep(pause)
+    return None, None
 
 
-def list_captures(prefix):
-    q = urllib.parse.urlencode({
-        'url': prefix, 'output': 'json', 'from': FROM, 'to': TO,
-        'fl': 'timestamp,original,mimetype,statuscode', 'filter': 'statuscode:200',
-        'collapse': 'urlkey', 'limit': '200000',
-    })
-    raw = get(f'https://web.archive.org/cdx/search/cdx?{q}')
-    if not raw:
-        return []
-    rows = json.loads(raw or b'[]')
-    return [dict(zip(rows[0], r)) for r in rows[1:]] if rows else []
-
-
-def local_path(original):
-    u = urllib.parse.urlsplit(original)
-    host = u.hostname or 'unknown'
-    path = u.path or '/'
+def local(u):
+    p = urllib.parse.urlsplit(u)
+    path = p.path or '/'
     if path.endswith('/'):
         path += 'index.html'
-    if u.query:
-        path += '__' + urllib.parse.quote(u.query, safe='')
-    return os.path.join(OUT, host, path.lstrip('/'))
+    if p.query:
+        path += '__' + urllib.parse.quote(p.query, safe='')
+    return os.path.join(OUT, p.hostname or 'unknown', path.lstrip('/'))
 
 
-def main():
-    args = sys.argv[1:]
-    prefixes = []
-    if '--prefix' in args:
-        i = args.index('--prefix')
-        prefixes = [args[i + 1]]
-        args = args[:i] + args[i + 2:]
-    for name in args or ([] if prefixes else list(PRESETS)):
-        prefixes += PRESETS[name]
-
-    os.makedirs(OUT, exist_ok=True)
-    index_file = os.path.join(OUT, 'index.json')
-    index = json.load(open(index_file)) if os.path.exists(index_file) else {}
-
-    for prefix in prefixes:
-        print(f'Listing {prefix} ...', flush=True)
-        caps = [c for c in list_captures(prefix)
-                if c['mimetype'] in KEEP_MIME and not any(h in c['original'].lower() for h in SKIP_HINTS)]
-        print(f'  {len(caps)} pages', flush=True)
-        for n, c in enumerate(caps, 1):
-            dest = local_path(c['original'])
-            if c['original'] in index and os.path.exists(dest):
-                continue
-            body = get(f"https://web.archive.org/web/{c['timestamp']}id_/{c['original']}")
-            if body is None:
-                print(f'  ! failed {c["original"]}', flush=True)
-                continue
-            os.makedirs(os.path.dirname(dest), exist_ok=True)
-            with open(dest, 'wb') as f:
-                f.write(body)
-            index[c['original']] = {
-                'file': os.path.relpath(dest, OUT), 'timestamp': c['timestamp'],
-                'wayback': f"https://web.archive.org/web/{c['timestamp']}/{c['original']}",
-            }
-            if n % 25 == 0:
-                print(f'  {n}/{len(caps)}', flush=True)
-                json.dump(index, open(index_file, 'w'), indent=1)
-            time.sleep(1)
-        json.dump(index, open(index_file, 'w'), indent=1)
-
-    with zipfile.ZipFile('wayback.zip', 'w', zipfile.ZIP_DEFLATED) as z:
-        for root, _, files in os.walk(OUT):
-            for f in files:
-                p = os.path.join(root, f)
-                z.write(p, os.path.relpath(p, os.path.dirname(OUT)))
-    print(f'Done: {len(index)} pages in {OUT}, archive written to wayback.zip')
+def links(body, base):
+    t = body.decode('latin-1')
+    for h, txt in re.findall(r'''<a\s[^>]*?href\s*=\s*["']?([^"' >]+)[^>]*>(.*?)</a>''', t, re.I | re.S):
+        if h.lower().startswith(('javascript:', 'mailto:', '#')):
+            continue
+        txt = ' '.join(html.unescape(re.sub(r'<[^>]+>', ' ', txt)).split())
+        yield norm(urllib.parse.urljoin(base, h)), txt
 
 
-if __name__ == '__main__':
-    main()
+def save():
+    json.dump(index, open(IDX, 'w'), indent=1)
+    json.dump(failed, open(FAIL, 'w'), indent=1)
+
+
+queue = [(norm(s['url']), s, s.get('depth', 1), '') for s in SEEDS]
+seen = set()
+while queue:
+    u, rule, depth, via = queue.pop(0)
+    k = key(u)
+    if k in seen:
+        continue
+    seen.add(k)
+    if k in index and os.path.exists(os.path.join(OUT, index[k]['file'])):
+        body = open(os.path.join(OUT, index[k]['file']), 'rb').read()
+        base = index[k]['original']
+    elif k in failed:
+        continue
+    else:
+        final, body = fetch(u, rule.get('ts', '2001'))
+        if body is None:
+            failed[k] = {'url': u, 'via': via}
+            print(f'  - missing {u}', flush=True)
+            save()
+            continue
+        m = re.match(r'https://web\.archive\.org/web/(\d+)id_/(.*)', final or '')
+        stamp, base = (m.group(1), m.group(2)) if m else (rule.get('ts', ''), u)
+        dest = local(norm(u))
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        open(dest, 'wb').write(body)
+        index[k] = {'file': os.path.relpath(dest, OUT), 'original': base, 'timestamp': stamp,
+                    'wayback': f'https://web.archive.org/web/{stamp}/{base}', 'via': via}
+        print(f'  + {stamp} {u} ({len(body)} b)', flush=True)
+        save()
+    if depth <= 1:
+        continue
+    fol = re.compile(rule['follow'], re.I)
+    tit = re.compile(rule['title'], re.I) if rule.get('title') else None
+    skip = re.compile(rule['skip'], re.I) if rule.get('skip') else None
+    for lu, txt in links(body, base):
+        if key(lu) in seen or not fol.search(lu):
+            continue
+        if tit and not tit.search(txt) and not tit.search(lu):
+            continue
+        if skip and (skip.search(txt) or skip.search(lu)):
+            continue
+        queue.append((lu, rule, depth - 1, u))
+save()
+print(f'done: {len(index)} pages in {OUT}, {len(failed)} missing')

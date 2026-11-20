@@ -78,8 +78,13 @@ python3 scripts/pipeline/check_editorial.py 2005-rav                     # valid
   mandatory and becomes the deck's source link. A result without a list counts in stats only.
   Reachable period sources so far: classicdojo.org (Dojo tournament reports, 1996 – Dec 1998) and
   the StarCityGames deck database from Oct 2002 (`https://ajax.starcitygames.com/decks/deck/N/user-display`
-  returns the list behind `https://starcitygames.com/decklists/deck/?id=N`). web.archive.org is not
-  reachable from the build environment; Oct 2001 – 2002 and 1999 – 2001 Regionals remain thin.
+  returns the list behind `https://starcitygames.com/decklists/deck/?id=N`). Wizards' *Sideboard*
+  coverage of 1999 – 2002 (US Regionals 1999, 2001, 2002; State Championships 1999 – 2001; Regionals
+  2000 top 8s; Australian, New Zealand and other Nationals) is read through web.archive.org, which the
+  cloud build environment cannot reach: run `scripts/wayback/fetch_wayback.py` on a local machine
+  (pages listed in `scripts/wayback/seeds.json`), then `extract_lists.py` and `sideboard_to_extra.py`
+  (dry run first; `--write` merges into the extra files). Lists printed without a deck name get an
+  `Unnamed <colours>` title: attach them to archetypes with `include`, never with `titles`.
 
 ## 4. Card data and build
 

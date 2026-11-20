@@ -9,7 +9,9 @@
       "Long Fire",
       "Dark Fires",
       "Fires of Yavimaya",
-      "R/G Fires"
+      "R/G Fires",
+      "Basic fires",
+      "Flaming Boom"
     ],
     "cover": "Fires of Yavimaya",
     "keyCards": [
@@ -34,7 +36,66 @@
       ]
     },
     "note": "'Dark Fires' adds a black splash for Spiritmonger; same Fires shell.",
-    "rep": 329840
+    "rep": 329840,
+    "include": [
+      "x-2000-states-newbrunswick-1-comeau",
+      "x-2000-states-hawaii-1-bui",
+      "x-2000-states-wisconsin-1-hron",
+      "x-2000-states-vermont-1-dougherty",
+      "x-2000-states-newyork-1-werle",
+      "x-2000-states-britishcolumbia-1-blackstock",
+      "x-2000-states-australiancapitalterritory-1-lightfoot",
+      "x-2000-states-quebec-1-roberge",
+      "x-2000-states-maryland-1-shuldiner",
+      "x-2000-states-georgia-1-gaffner",
+      "x-2001-regionals-southeast-3-baughman",
+      "x-2001-regionals-southeast-5-hudson",
+      "x-2001-regionals-northwest-5-tsay",
+      "x-2001-regionals-northwest-5-hanson",
+      "x-2001-regionals-ohiovalley-3-fox",
+      "x-2001-regionals-florida-1-bluett",
+      "x-2001-regionals-florida-5-steht",
+      "x-2001-regionals-adelaideaustralia-2-raslan",
+      "x-2001-regionals-adelaideaustralia-5-copus",
+      "x-2001-regionals-adelaideaustralia-5-collis",
+      "x-2001-regionals-adelaideaustralia-5-finney",
+      "x-2001-regionals-perthaustralia-5-mcgann",
+      "x-2001-regionals-perthaustralia-5-shankar",
+      "x-2001-regionals-sydneyaustralia-3-amos",
+      "x-2001-regionals-canberraaustralia-3-jowett",
+      "x-2001-regionals-canberraaustralia-3-everitt",
+      "x-2001-regionals-canberraaustralia-5-vance",
+      "x-2001-regionals-canberraaustralia-5-green",
+      "x-2001-regionals-brisbaneaustralia-3-hamilton",
+      "x-2001-regionals-brisbaneaustralia-5-cuff",
+      "x-2001-regionals-brisbaneaustralia-5-pohlman",
+      "x-2001-regionals-brisbaneaustralia-5-morgans",
+      "x-2001-regionals-melbourneaustralia-2-nadebaum",
+      "x-2001-regionals-melbourneaustralia-5-bruce",
+      "x-2001-regionals-darwinaustralia-3-hill",
+      "x-2001-regionals-darwinaustralia-5-ferguson",
+      "x-2001-regionals-darwinaustralia-5-beckwith",
+      "x-2001-regionals-townsvilleaustralia-1-parry",
+      "x-2001-regionals-townsvilleaustralia-5-wiltshire",
+      "x-2001-regionals-wellingtonnewzealand-5-wilson",
+      "x-2001-regionals-wellingtonnewzealand-5-cranefield",
+      "x-2001-regionals-aucklandnewzealand-1-chang",
+      "x-2001-regionals-aucklandnewzealand-2-laird",
+      "x-2001-regionals-aucklandnewzealand-3-mccarthy",
+      "x-2001-regionals-christchurchnewzealand-1-manuuli",
+      "x-2001-regionals-christchurchnewzealand-2-cheong",
+      "x-2001-regionals-christchurchnewzealand-3-gardener",
+      "x-2001-regionals-christchurchnewzealand-5-bailey",
+      "x-2001-nationalsportugal-1-maia",
+      "x-2001-nationalsmalaysia-1-huat",
+      "x-2001-nationalsmalaysia-3-morgan",
+      "x-2000-states-wyoming-1-lang",
+      "x-2000-states-delaware-1-keulman",
+      "x-2000-states-washington-1-robertsen",
+      "x-2000-states-montana-1-begit",
+      "x-2000-states-utah-1-pritchett",
+      "x-2001-regionals-melbourneaustralia-1-fusta"
+    ]
   },
   {
     "name": "Nether-Go",
@@ -43,7 +104,11 @@
     "titles": [
       "Nether Go",
       "Mori-katsu Go (Nether  Go)",
-      "Counter Crosis"
+      "Counter Crosis",
+      "Killer UB",
+      "Nebbish-go",
+      "Nether-Go",
+      "Blue-Black Control"
     ],
     "rep": 599596,
     "cover": "Nether Spirit",
@@ -68,7 +133,28 @@
         "Fact or Fiction and Accumulated Knowledge kept the hand full"
       ]
     },
-    "note": "Several lists (incl. 'Counter Crosis' and Ruel's Worlds list) splash red for Urza's Rage and Fire/Ice; rep = straight UB list."
+    "note": "Several lists (incl. 'Counter Crosis' and Ruel's Worlds list) splash red for Urza's Rage and Fire/Ice; rep = straight UB list.",
+    "include": [
+      "x-2000-states-newfoundland-1-fitzgerald",
+      "x-2000-states-kansas-1-green",
+      "x-2000-states-texas-1-rao",
+      "x-2000-states-ohio-1-wright",
+      "x-2000-states-louisiana-1-flora",
+      "x-2000-states-manitoba-1-lount",
+      "x-2001-regionals-southeast-3-lovelace",
+      "x-2001-regionals-southeast-5-leader",
+      "x-2001-regionals-ohiovalley-2-arthurs",
+      "x-2001-regionals-florida-2-nader",
+      "x-2001-regionals-florida-3-reitman",
+      "x-2001-regionals-perthaustralia-3-dunsford",
+      "x-2001-regionals-sydneyaustralia-1-lopez",
+      "x-2001-regionals-melbourneaustralia-3-emsley",
+      "x-2001-regionals-melbourneaustralia-5-ritchie",
+      "x-2001-regionals-melbourneaustralia-5-rosati",
+      "x-2001-nationalsmalaysia-2-wen",
+      "x-2001-nationalsmalaysia-5-sangabo",
+      "x-2001-amateurchampionship-1-bonneville"
+    ]
   },
   {
     "name": "Probe-Go",
@@ -77,7 +163,9 @@
     "titles": [
       "Probe Go",
       "Probe Dromar Go",
-      "Dromar Probe Go"
+      "Dromar Probe Go",
+      "Probe-Go",
+      "Blue-White-Black Control"
     ],
     "cover": "Probe",
     "keyCards": [
@@ -101,7 +189,17 @@
         "Dromar's Charm countered, gained life or killed a creature as needed"
       ]
     },
-    "rep": 603651
+    "rep": 603651,
+    "include": [
+      "x-2000-states-michigan-1-breider",
+      "x-2001-regionals-northwest-3-roeder",
+      "x-2001-regionals-perthaustralia-3-rayson",
+      "x-2001-regionals-perthaustralia-5-hopperton",
+      "x-2001-regionals-sydneyaustralia-5-gow",
+      "x-2001-regionals-brisbaneaustralia-1-collings",
+      "x-2001-nationalsportugal-5-bailadeira",
+      "x-2001-amateurchampionship-5-willoughby"
+    ]
   },
   {
     "name": "Counter-Rebels",
@@ -109,7 +207,10 @@
     "archetype": "tempo",
     "titles": [
       "Counter Rebels",
-      "Counter Rebel"
+      "Counter Rebel",
+      "CounterRebels",
+      "CounterRebel",
+      "Counter-Rebel"
     ],
     "cover": "Meddling Mage",
     "keyCards": [
@@ -133,7 +234,17 @@
         "Counterspell and Absorb protected the board against sweepers"
       ]
     },
-    "rep": 603649
+    "rep": 603649,
+    "include": [
+      "x-2000-states-oklahoma-1-austin",
+      "x-2001-regionals-southeast-5-wescoe",
+      "x-2001-regionals-northwest-2-leair",
+      "x-2001-regionals-northwest-5-strong",
+      "x-2001-regionals-brisbaneaustralia-3-harris",
+      "x-2001-regionals-wellingtonnewzealand-3-liao",
+      "x-2001-nationalsportugal-5-nunes",
+      "x-2001-nationalsmalaysia-3-choon"
+    ]
   },
   {
     "name": "Rebels",
@@ -142,7 +253,10 @@
     "titles": [
       "Rebels",
       "Mono White Rebels",
-      "Mono White Weenie/Rebels"
+      "Mono White Weenie/Rebels",
+      "Evangelion.dec",
+      "Red Rebels",
+      "3-Color Frickin' Rebels"
     ],
     "cover": "Parallax Wave",
     "keyCards": [
@@ -166,7 +280,21 @@
         "Rishadan Port and Dust Bowl disrupted the opponent's mana"
       ]
     },
-    "rep": 252463
+    "rep": 252463,
+    "include": [
+      "x-2000-states-alabama-1-thomasupdike",
+      "x-2000-states-princeedwardisland-1-guay",
+      "x-2000-states-illinois-1-thoren",
+      "x-2000-states-connecticut-1-morales",
+      "x-2000-states-southcarolina-1-hager",
+      "x-2000-states-southdakota-1-browning",
+      "x-2001-regionals-southeast-1-miller",
+      "x-2001-regionals-northwest-5-epley",
+      "x-2001-regionals-ohiovalley-5-munn",
+      "x-2001-regionals-florida-3-cain",
+      "x-2001-regionals-sydneyaustralia-5-wright",
+      "x-2001-regionals-canberraaustralia-2-sailly"
+    ]
   },
   {
     "name": "Orbosition",
@@ -237,7 +365,8 @@
     "slug": "ug-opposition",
     "archetype": "midrange",
     "titles": [
-      "UG Aggro Opposition"
+      "UG Aggro Opposition",
+      "Saproling Prison"
     ],
     "cover": "Opposition",
     "keyCards": [
@@ -270,7 +399,9 @@
     "titles": [
       "Blue Skies",
       "Mono Blue",
-      "Blue Skies and whatnot"
+      "Blue Skies and whatnot",
+      "Clear Water Skies",
+      "Thanks Seth"
     ],
     "cover": "Rishadan Airship",
     "keyCards": [
@@ -294,7 +425,19 @@
         "Rising Waters and Rishadan Port slowed the opponent's development"
       ]
     },
-    "rep": 599595
+    "rep": 599595,
+    "include": [
+      "x-2000-states-alberta-1-bower",
+      "x-2000-states-kentucky-1-just",
+      "x-2000-states-victoria-1-grain",
+      "x-2001-regionals-northwest-3-luik",
+      "x-2001-regionals-ohiovalley-5-martin",
+      "x-2001-regionals-perthaustralia-2-page",
+      "x-2001-regionals-melbourneaustralia-5-whitby",
+      "x-2001-regionals-hobartaustralia-5-hay",
+      "x-2001-regionals-wellingtonnewzealand-5-elwin",
+      "x-2001-nationalsmalaysia-5-chin"
+    ]
   },
   {
     "name": "UW Control",
@@ -304,7 +447,8 @@
       "UW Control",
       "U/w Control",
       "U/W Millstone",
-      "U/W Control"
+      "U/W Control",
+      "Blue-White Control"
     ],
     "cover": "Story Circle",
     "keyCards": [
@@ -328,7 +472,25 @@
         "Absorb countered spells while gaining life against aggro"
       ]
     },
-    "rep": 601622
+    "rep": 601622,
+    "include": [
+      "x-2000-states-colorado-1-york",
+      "x-2000-states-puertorico-1-rodriguez",
+      "x-2000-states-nevada-1-davis",
+      "x-2000-states-southaustralia-1-oks",
+      "x-2001-regionals-ohiovalley-1-aten",
+      "x-2001-regionals-florida-5-stark",
+      "x-2001-regionals-florida-5-simkins",
+      "x-2001-regionals-perthaustralia-5-cook",
+      "x-2001-regionals-brisbaneaustralia-2-ren",
+      "x-2001-regionals-hobartaustralia-3-fry",
+      "x-2001-regionals-hobartaustralia-5-cowley",
+      "x-2001-regionals-darwinaustralia-3-smith",
+      "x-2001-regionals-wellingtonnewzealand-2-dean",
+      "x-2001-regionals-christchurchnewzealand-5-hitchcock",
+      "x-2001-nationalsportugal-5-graca",
+      "x-2001-regionals-christchurchnewzealand-5-wirojwong"
+    ]
   },
   {
     "name": "Red Zone",
@@ -337,7 +499,8 @@
     "titles": [
       "Red Zone",
       "No Fires",
-      "Scuffletown"
+      "Scuffletown",
+      "Noble Panther/Wax Combo.dec"
     ],
     "cover": "Armageddon",
     "keyCards": [
@@ -362,7 +525,24 @@
       ]
     },
     "note": "'No Fires' (Kibler, PT Chicago) is the same R/G/w Armageddon beatdown without Fires of Yavimaya.",
-    "rep": 601615
+    "rep": 601615,
+    "include": [
+      "x-2000-states-indiana-1-martin",
+      "x-2000-states-nebraska-1-connell",
+      "x-2000-states-newsouthwales-1-bow",
+      "x-2000-states-maine-1-ceprona",
+      "x-2000-states-tennessee-1-allen",
+      "x-2000-states-newjersey-1-sonne",
+      "x-2000-states-idaho-1-gripp",
+      "x-2000-states-california-1-balla",
+      "x-2001-regionals-florida-5-atta",
+      "x-2001-regionals-adelaideaustralia-3-diprose",
+      "x-2001-regionals-perthaustralia-1-tan",
+      "x-2001-regionals-sydneyaustralia-5-mercer",
+      "x-2001-regionals-sydneyaustralia-5-ellis",
+      "x-2001-regionals-christchurchnewzealand-5-hanson",
+      "x-2001-nationalsmalaysia-5-christophe"
+    ]
   },
   {
     "name": "Machine Head",
@@ -370,7 +550,8 @@
     "archetype": "midrange",
     "titles": [
       "Machine Head",
-      "Machinehead"
+      "Machinehead",
+      "Aggressive Control"
     ],
     "cover": "Blazing Specter",
     "keyCards": [
@@ -394,7 +575,11 @@
         "Dark Ritual powered out Blazing Specter early"
       ]
     },
-    "rep": 253037
+    "rep": 253037,
+    "include": [
+      "x-2001-regionals-wellingtonnewzealand-3-clouston",
+      "x-2001-nationalsportugal-3-girao"
+    ]
   },
   {
     "name": "Red Deck Wins",
@@ -426,7 +611,12 @@
         "Urza's Rage could not be countered by control decks"
       ]
     },
-    "rep": 601354
+    "rep": 601354,
+    "include": [
+      "x-2001-regionals-melbourneaustralia-3-johnston",
+      "x-2001-regionals-southeast-5-burt",
+      "x-2001-nationalsportugal-3-sousa"
+    ]
   },
   {
     "name": "Ponza",
@@ -434,7 +624,8 @@
     "archetype": "aggro",
     "titles": [
       "Ponza",
-      "Ponza Aggro"
+      "Ponza Aggro",
+      "Rogue LD"
     ],
     "cover": "Pillage",
     "keyCards": [
@@ -458,7 +649,10 @@
         "Burn kept the board clear while lands were destroyed"
       ]
     },
-    "rep": 603650
+    "rep": 603650,
+    "include": [
+      "x-2001-regionals-townsvilleaustralia-5-chellew"
+    ]
   },
   {
     "name": "UB Gating",
@@ -490,7 +684,10 @@
       ]
     },
     "note": "mtgtop8 title 'Digger' (single top 8, Canada Nationals); name uncertain.",
-    "rep": 603421
+    "rep": 603421,
+    "include": [
+      "x-2001-regionals-darwinaustralia-1-semmens"
+    ]
   },
   {
     "name": "BR Void",
@@ -523,7 +720,21 @@
       ]
     },
     "note": "'Lovely Sunshine' is a land-destruction-heavy version (Stone Rain, Despoil) of the same B/R Void shell.",
-    "rep": 603409
+    "rep": 603409,
+    "include": [
+      "x-2000-states-alaska-1-weimer",
+      "x-2000-states-ontario-1-croft",
+      "x-2000-states-northdakota-1-lindvall",
+      "x-2000-states-oregon-1-irwin",
+      "x-2000-states-westvirginia-1-visnic",
+      "x-2001-regionals-sydneyaustralia-3-wong",
+      "x-2001-regionals-canberraaustralia-1-bray",
+      "x-2001-regionals-canberraaustralia-5-gall",
+      "x-2001-regionals-darwinaustralia-2-rayner",
+      "x-2001-regionals-wellingtonnewzealand-1-martin",
+      "x-2001-regionals-aucklandnewzealand-5-wootton",
+      "x-2001-regionals-christchurchnewzealand-3-maguire"
+    ]
   },
   {
     "name": "Burning Bridge",
@@ -616,6 +827,50 @@
         "Nether Spirit and Chimeric Idol came back quickly after the reset"
       ]
     },
-    "rep": 599597
+    "rep": 599597,
+    "include": [
+      "x-2000-states-newzealandnorthisland-1-ying",
+      "x-2001-regionals-southeast-2-kamihara",
+      "x-2001-regionals-northwest-1-hilts",
+      "x-2001-regionals-ohiovalley-5-valentine",
+      "x-2001-regionals-adelaideaustralia-1-adams",
+      "x-2001-regionals-adelaideaustralia-5-ivas",
+      "x-2001-nationalsmalaysia-5-hanshen"
+    ]
+  },
+  {
+    "name": "Draw-Go",
+    "slug": "draw-go",
+    "archetype": "control",
+    "titles": [
+      "Mono-Blue"
+    ],
+    "include": [
+      "x-2000-states-newhampshire-1-tevvy",
+      "x-2001-regionals-midwest-5-sullivan"
+    ],
+    "rep": "x-2000-states-newhampshire-1-tevvy",
+    "cover": "Air Elemental",
+    "keyCards": [
+      "Counterspell",
+      "Accumulated Knowledge",
+      "Fact or Fiction",
+      "Memory Lapse",
+      "Air Elemental"
+    ],
+    "summary": {
+      "fr": "Contrôle monobleu de l'ère Invasion : contresorts, pioche avec Accumulated Knowledge et Fact or Fiction, et quelques menaces volantes comme Air Elemental pour conclure.",
+      "en": "Mono-blue counter-control of the Invasion era: counterspells, card draw from Accumulated Knowledge and Fact or Fiction, and a few flying threats such as Air Elemental to finish."
+    },
+    "why": {
+      "fr": [
+        "Le deck jouait presque tout à l'instant, pendant le tour adverse",
+        "Accumulated Knowledge devenait plus fort à chaque exemplaire joué"
+      ],
+      "en": [
+        "The deck played almost everything at instant speed, on the opponent's turn",
+        "Accumulated Knowledge grew stronger with each copy played"
+      ]
+    }
   }
 ]

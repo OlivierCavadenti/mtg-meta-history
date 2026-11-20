@@ -8,7 +8,9 @@
       "Mono Green Aggro",
       "The Guildmages Deck",
       "Mono-Green Speed",
-      "Speed Green"
+      "Speed Green",
+      "Green",
+      "The Green Beats"
     ],
     "cover": "Rancor",
     "keyCards": [
@@ -39,7 +41,8 @@
     "slug": "living-death",
     "archetype": "combo",
     "titles": [
-      "Living Death"
+      "Living Death",
+      "Death"
     ],
     "cover": "Living Death",
     "keyCards": [
@@ -105,7 +108,8 @@
       "Mono Red Land D",
       "Ponza Red",
       "LandKill Sligh",
-      "Even More LD Sligh"
+      "Even More LD Sligh",
+      "Red LD"
     ],
     "cover": "Avalanche Riders",
     "keyCards": [
@@ -141,7 +145,10 @@
       "Smokestack Black",
       "Suicide Hatred",
       "Mono-Black Speed Weenie",
-      "Hate"
+      "Hate",
+      "Hatred",
+      "Pox",
+      "POX"
     ],
     "cover": "Dauthi Slayer",
     "keyCards": [
@@ -489,7 +496,8 @@
       "Mono-Red Speed Weenie",
       "Old-school Sligh",
       "Yet Another Sligh",
-      "Some Amount of Sligh"
+      "Some Amount of Sligh",
+      "White-Red"
     ],
     "cover": "Goblin Lackey",
     "keyCards": [
@@ -698,5 +706,202 @@
       ]
     },
     "rep": "x-1998-states-delaware-1-pahutski"
+  },
+  {
+    "name": "Necro",
+    "slug": "necro",
+    "archetype": "control",
+    "titles": [
+      "Necro"
+    ],
+    "rep": "x-1999-regionals-southwest-1-krumick",
+    "cover": "Necropotence",
+    "keyCards": [
+      "Necropotence",
+      "Drain Life",
+      "Corrupt",
+      "Nevinyrral's Disk",
+      "Yawgmoth's Will",
+      "Urza's Bauble"
+    ],
+    "summary": {
+      "fr": "Necropotence monocouleur noir du printemps 1999 : Dark Ritual et Urza's Bauble nourrissaient le moteur de pioche, Nevinyrral's Disk et Diabolic Edict tenaient la table, Drain Life et Corrupt concluaient.",
+      "en": "Mono-black Necropotence deck of spring 1999: Dark Ritual and Urza's Bauble fed the card engine, Nevinyrral's Disk and Diabolic Edict held the board, and Drain Life and Corrupt closed games."
+    },
+    "why": {
+      "fr": [
+        "Necropotence convertissait les points de vie en un flot de cartes",
+        "Nevinyrral's Disk et Diabolic Edict nettoyaient les decks de créatures comme Stompy",
+        "Drain Life et Corrupt rendaient de la vie tout en concluant la partie"
+      ],
+      "en": [
+        "Necropotence turned life points into a steady stream of cards",
+        "Nevinyrral's Disk and Diabolic Edict cleared creature decks such as Stompy",
+        "Drain Life and Corrupt regained life while closing the game"
+      ]
+    }
+  },
+  {
+    "name": "RG Aggro",
+    "slug": "rg-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Red-Green",
+      "Red/Green speed"
+    ],
+    "rep": "x-1999-regionals-midatlantic-3-bass",
+    "cover": "Pouncing Jaguar",
+    "keyCards": [
+      "Pouncing Jaguar",
+      "Albino Troll",
+      "Rancor",
+      "Incinerate",
+      "Winter Orb"
+    ],
+    "summary": {
+      "fr": "Beatdown rouge-vert bâti sur Pouncing Jaguar, Albino Troll et Rancor, avec Incinerate et Shock pour dégager les bloqueurs et Winter Orb pour freiner les decks plus lents.",
+      "en": "Red-green beatdown built on Pouncing Jaguar, Albino Troll and Rancor, with Incinerate and Shock to clear blockers and Winter Orb to slow down slower decks."
+    },
+    "why": {
+      "fr": [
+        "Les créatures vertes à bas coût arrivaient tôt et portaient Rancor",
+        "Les sorts de dégâts rouges retiraient les bloqueurs ou achevaient l'adversaire"
+      ],
+      "en": [
+        "Cheap green creatures came down early and carried Rancor",
+        "Red burn removed blockers or finished the opponent"
+      ]
+    }
+  },
+  {
+    "name": "Stroke",
+    "slug": "stroke",
+    "archetype": "combo",
+    "titles": [
+      "Stroke",
+      "Mind Over Mana",
+      "Mana Flair.dec",
+      "MoMa Stroke",
+      "Blue-Red"
+    ],
+    "rep": "x-1999-regionals-socal-1-quelle",
+    "cover": "Stroke of Genius",
+    "keyCards": [
+      "Stroke of Genius",
+      "Turnabout",
+      "Mana Flare",
+      "Intuition",
+      "Meditate",
+      "Yawgmoth's Will"
+    ],
+    "summary": {
+      "fr": "Combo bleu qui produisait une grande quantité de mana avec Turnabout, Mana Flare ou Palinchron, trouvait ses pièces avec Intuition, puis faisait piocher toute sa bibliothèque à l'adversaire avec Stroke of Genius.",
+      "en": "Blue combo deck that generated large amounts of mana with Turnabout, Mana Flare or Palinchron, found its pieces with Intuition, then made the opponent draw out with Stroke of Genius."
+    },
+    "why": {
+      "fr": [
+        "Turnabout dégageait terrains et sources de mana pour un tour décisif",
+        "Stroke of Genius servait à la fois de pioche et de condition de victoire"
+      ],
+      "en": [
+        "Turnabout untapped lands and mana sources for one decisive turn",
+        "Stroke of Genius was both the card draw and the win condition"
+      ]
+    }
+  },
+  {
+    "name": "Tinker",
+    "slug": "tinker",
+    "archetype": "ramp",
+    "titles": [
+      "R/U Tinker",
+      "Tinker"
+    ],
+    "rep": "x-1999-regionals-midwest-5-stern",
+    "cover": "Tinker",
+    "keyCards": [
+      "Tinker",
+      "Phyrexian Colossus",
+      "Goblin Welder",
+      "Grim Monolith",
+      "Voltaic Key",
+      "Wildfire"
+    ],
+    "summary": {
+      "fr": "Deck d'artefacts bleu-rouge qui utilisait Grim Monolith, Mana Vault et Voltaic Key pour lancer Tinker tôt et aller chercher Phyrexian Colossus, avec Goblin Welder et Wildfire en soutien.",
+      "en": "Blue-red artifact deck using Grim Monolith, Mana Vault and Voltaic Key to cast Tinker early and fetch Phyrexian Colossus, with Goblin Welder and Wildfire in support."
+    },
+    "why": {
+      "fr": [
+        "Tinker transformait un artefact bon marché en Phyrexian Colossus dès les premiers tours",
+        "Voltaic Key dégageait Grim Monolith et Mana Vault pour du mana supplémentaire"
+      ],
+      "en": [
+        "Tinker turned a cheap artifact into Phyrexian Colossus in the first turns",
+        "Voltaic Key untapped Grim Monolith and Mana Vault for extra mana"
+      ]
+    }
+  },
+  {
+    "name": "Oath of Druids",
+    "slug": "oath-of-druids",
+    "archetype": "combo",
+    "titles": [
+      "Oath of Druids"
+    ],
+    "rep": "x-1999-regionals-northeast-5-marcus",
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Argothian Wurm",
+      "Shivan Hellkite",
+      "Avalanche Riders",
+      "Stone Rain"
+    ],
+    "summary": {
+      "fr": "Deck rouge-vert construit autour d'Oath of Druids, qui mettait gratuitement en jeu des créatures comme Argothian Wurm et Shivan Hellkite, avec Stone Rain et des sorts de dégâts.",
+      "en": "Red-green deck built around Oath of Druids, which put creatures such as Argothian Wurm and Shivan Hellkite into play for free, alongside Stone Rain and burn."
+    },
+    "why": {
+      "fr": [
+        "Oath of Druids sortait une créature dès que l'adversaire en contrôlait davantage",
+        "Stone Rain et Avalanche Riders privaient de mana les adversaires plus lents"
+      ],
+      "en": [
+        "Oath of Druids put a creature into play whenever the opponent had more creatures",
+        "Stone Rain and Avalanche Riders kept slower opponents off their mana"
+      ]
+    }
+  },
+  {
+    "name": "Turbo Stasis",
+    "slug": "turbo-stasis",
+    "archetype": "control",
+    "titles": [
+      "Stasis"
+    ],
+    "rep": "x-1999-regionals-newengland-1-warren",
+    "cover": "Stasis",
+    "keyCards": [
+      "Stasis",
+      "Howling Mine",
+      "Turnabout",
+      "Claws of Gix",
+      "Propaganda"
+    ],
+    "summary": {
+      "fr": "Deck de verrouillage monobleu qui figeait la table avec Stasis tout en piochant davantage grâce à Howling Mine, Turnabout dégageant ses terrains et les contresorts protégeant le verrou.",
+      "en": "Mono-blue lock deck that froze the board with Stasis while drawing extra cards with Howling Mine, using Turnabout to untap its lands and counterspells to protect the lock."
+    },
+    "why": {
+      "fr": [
+        "Stasis supprimait les phases de dégagement tandis que le deck payait son entretien",
+        "Turnabout dégageait ses propres terrains au moment voulu"
+      ],
+      "en": [
+        "Stasis stopped untap steps while the deck kept paying its upkeep",
+        "Turnabout untapped its own lands at the right moment"
+      ]
+    }
   }
 ]

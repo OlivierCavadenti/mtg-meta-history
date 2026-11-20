@@ -7,7 +7,8 @@
       "Psychatog",
       "Bug Psychatog",
       "Frog in a Blender",
-      "BUG Tog with Pernicious"
+      "BUG Tog with Pernicious",
+      "Zevatog"
     ],
     "rep": 253051,
     "cover": "Psychatog",
@@ -34,7 +35,10 @@
         "Upheaval plus Nightscape Familiar let it replay its hand a turn ahead"
       ]
     },
-    "note": "Bug Psychatog (Pernicious Deed splash), Frog in a Blender and BUG Tog with Pernicious (lists unavailable) merged here."
+    "note": "Bug Psychatog (Pernicious Deed splash), Frog in a Blender and BUG Tog with Pernicious (lists unavailable) merged here.",
+    "include": [
+      "x-2001-states-oklahoma-5-mishkin"
+    ]
   },
   {
     "name": "Burning Tog",
@@ -81,7 +85,11 @@
       "UGw Madness",
       "UGr Madness",
       "RUG Madness",
-      "Rug Madness"
+      "Rug Madness",
+      "U/G Madness",
+      "R/U/G Tempo",
+      "R/U/G Madness",
+      "G/U Madness"
     ],
     "rep": 258614,
     "cover": "Wild Mongrel",
@@ -119,7 +127,9 @@
       "Squirrel Oppo",
       "Squirrel Opposition",
       "Squirrel oppo UGr",
-      "Wallace & A Zombie"
+      "Wallace & A Zombie",
+      "Orbosition",
+      "R/U/G Opposition"
     ],
     "cover": "Opposition",
     "keyCards": [
@@ -145,7 +155,13 @@
         "A madness creature base gave it early pressure before the lock"
       ]
     },
-    "rep": 601631
+    "rep": 601631,
+    "include": [
+      "x-2001-states-connecticut-5-keean",
+      "x-2001-states-connecticut-5-beverley",
+      "x-2001-states-georgia-5-ransom",
+      "x-2001-states-newhampshire-3-siu"
+    ]
   },
   {
     "name": "RG Beats",
@@ -155,7 +171,9 @@
       "RG Beats",
       "R/g Beats",
       "RG Reckless Charge",
-      "R/G"
+      "R/G",
+      "R/G Beats",
+      "G/R Beats"
     ],
     "cover": "Call of the Herd",
     "keyCards": [
@@ -181,7 +199,16 @@
         "Llanowar Elves sped out threats from turn one"
       ]
     },
-    "rep": 604987
+    "rep": 604987,
+    "include": [
+      "x-2001-states-connecticut-3-mason",
+      "x-2001-states-connecticut-2-tautic",
+      "x-2001-states-newhampshire-5-blais",
+      "x-2001-states-virginia-3-mcdaniel",
+      "x-2001-states-georgia-3-leader",
+      "x-2001-states-newhampshire-3-garner",
+      "x-2001-states-oklahoma-5-collinsworth"
+    ]
   },
   {
     "name": "RG Madness",
@@ -229,7 +256,9 @@
       "Goblin Trenches Control",
       "Goblin Trenches Aggro",
       "Edge.dec",
-      "Counter Burn"
+      "Counter Burn",
+      "Star Spangled Slaughter",
+      "R/W/U Angel"
     ],
     "cover": "Goblin Trenches",
     "keyCards": [
@@ -258,7 +287,10 @@
     "note": "Goblin Trenches Aggro (Meddling Mage, Lightning Angel) merged as a more aggressive variant. 'Edge.dec' (New Zealand Nationals 2002 winner: UWR counters, Prophetic Bolt, Goblin Trenches) and GP Milwaukee 'Counter Burn' merged.",
     "rep": 301499,
     "include": [
-      "x-2001-states-arizona-5-jaffe"
+      "x-2001-states-arizona-5-jaffe",
+      "x-2001-states-newhampshire-1-dorr",
+      "x-2001-states-oklahoma-2-menzer",
+      "x-2001-states-oklahoma-1-bright"
     ]
   },
   {
@@ -268,7 +300,14 @@
     "titles": [
       "UG Threshold",
       "UGr Threshold",
-      "Threshold Enforcer"
+      "Threshold Enforcer",
+      "U/G Threshold",
+      "G/U/W Threshold",
+      "U/G/W Enforcer",
+      "G/U Threshold",
+      "U/G/W Threshold",
+      "R/U/G Threshold",
+      "G/U/R Threshold"
     ],
     "cover": "Werebear",
     "keyCards": [
@@ -368,7 +407,8 @@
     "archetype": "midrange",
     "titles": [
       "White Braids",
-      "BW Braids"
+      "BW Braids",
+      "B/W Braids"
     ],
     "cover": "Braids, Cabal Minion",
     "keyCards": [
@@ -401,7 +441,8 @@
     "slug": "four-color-braids",
     "archetype": "midrange",
     "titles": [
-      "4 Color Braids"
+      "4 Color Braids",
+      "B/R/G Braids"
     ],
     "cover": "Braids, Cabal Minion",
     "keyCards": [
@@ -435,7 +476,8 @@
     "archetype": "control",
     "titles": [
       "Mono-black Control",
-      "Kazaa - By \"wesley Willis\""
+      "Kazaa - By \"wesley Willis\"",
+      "Mono Black Control"
     ],
     "cover": "Corrupt",
     "keyCards": [
@@ -536,7 +578,12 @@
     "titles": [
       "Frankenstein",
       "Tea Party",
-      "The Goods"
+      "The Goods",
+      "B/W/G Beats",
+      "B/U/G Beats",
+      "B/G Beats",
+      "R/G/B Beats",
+      "B/R/G Beats"
     ],
     "rep": 775136,
     "cover": "Spiritmonger",
@@ -563,14 +610,23 @@
         "Terminate and other removal kept the board in check"
       ]
     },
-    "note": "New Zealand Nationals 2002 'Frankenstein' (BRG) and 'Tea Party' (BWG) grouped: same Deed and Spiritmonger core."
+    "note": "New Zealand Nationals 2002 'Frankenstein' (BRG) and 'Tea Party' (BWG) grouped: same Deed and Spiritmonger core.",
+    "include": [
+      "x-2001-states-georgia-5-bradley",
+      "x-2001-states-newhampshire-5-stemkoski",
+      "x-2001-states-oklahoma-5-hamilton",
+      "x-2001-states-virginia-5-myres",
+      "x-2001-states-virginia-2-potter"
+    ]
   },
   {
     "name": "BR Aggro",
     "slug": "br-aggro",
     "archetype": "aggro",
     "titles": [
-      "Tuna Taco With Tomato Sauce"
+      "Tuna Taco With Tomato Sauce",
+      "B/R Beats",
+      "B/G/R Beats"
     ],
     "rep": 775135,
     "cover": "Nantuko Shade",
@@ -598,5 +654,242 @@
       ]
     },
     "note": "mtgtop8 title 'Tuna Taco With Tomato Sauce' (New Zealand Nationals 2002); named by colours."
+  },
+  {
+    "name": "BG Braids",
+    "slug": "bg-braids",
+    "archetype": "midrange",
+    "titles": [
+      "B/G Braids",
+      "B/G/R Braids"
+    ],
+    "rep": "x-2002-regionals-centralprariecanada-2-parton",
+    "cover": "Braids, Cabal Minion",
+    "keyCards": [
+      "Braids, Cabal Minion",
+      "Nantuko Shade",
+      "Phyrexian Rager",
+      "Chainer's Edict",
+      "Call of the Herd",
+      "Pernicious Deed"
+    ],
+    "summary": {
+      "fr": "Variante noir-vert du deck Braids : Braids, Cabal Minion et Chainer's Edict pour l'attrition, Call of the Herd et Pernicious Deed en renfort vert.",
+      "en": "Black-green take on the Braids deck: Braids, Cabal Minion and Chainer's Edict for attrition, with Call of the Herd and Pernicious Deed from green."
+    },
+    "why": {
+      "fr": [
+        "Braids forçait l'adversaire à sacrifier un permanent à chaque entretien",
+        "Les jetons de Call of the Herd nourrissaient Braids sans coûter de cartes",
+        "Pernicious Deed remettait la table à zéro une fois l'avance prise"
+      ],
+      "en": [
+        "Braids made the opponent sacrifice a permanent every upkeep",
+        "Call of the Herd tokens fed Braids without costing cards",
+        "Pernicious Deed reset the board once the deck was ahead"
+      ]
+    }
+  },
+  {
+    "name": "Four-Color Jumble",
+    "slug": "four-color-jumble",
+    "archetype": "midrange",
+    "titles": [
+      "4 Color Jumble",
+      "G/R/U/W Mystic Enforcer",
+      "G/U/R/W Mystic Enforcer"
+    ],
+    "rep": "x-2002-regionals-midwest-2-kellerstrass",
+    "cover": "Mystic Enforcer",
+    "keyCards": [
+      "Mystic Enforcer",
+      "Werebear",
+      "Wild Mongrel",
+      "Flametongue Kavu",
+      "Fire // Ice",
+      "Fact or Fiction"
+    ],
+    "summary": {
+      "fr": "Milieu de table vert à quatre couleurs du printemps 2002 : Werebear et Wild Mongrel, Flametongue Kavu et Fire // Ice en rouge, Fact or Fiction en bleu et Mystic Enforcer en blanc.",
+      "en": "Four-colour green midrange of spring 2002: Werebear and Wild Mongrel, Flametongue Kavu and Fire // Ice in red, Fact or Fiction in blue and Mystic Enforcer in white."
+    },
+    "why": {
+      "fr": [
+        "Birds of Paradise et Werebear soutenaient une base de mana à quatre couleurs",
+        "Mystic Enforcer devenait une menace volante une fois le seuil atteint"
+      ],
+      "en": [
+        "Birds of Paradise and Werebear supported a four-colour mana base",
+        "Mystic Enforcer became a flying threat once threshold was reached"
+      ]
+    }
+  },
+  {
+    "name": "UR Madness",
+    "slug": "ur-madness",
+    "archetype": "tempo",
+    "titles": [
+      "Wild Research Madness",
+      "Compulsion Madness"
+    ],
+    "rep": "x-2002-regionals-centralprariecanada-1-aloisio",
+    "cover": "Wild Research",
+    "keyCards": [
+      "Wild Research",
+      "Aquamoeba",
+      "Merfolk Looter",
+      "Fiery Temper",
+      "Violent Eruption",
+      "Circular Logic"
+    ],
+    "summary": {
+      "fr": "Deck de folie bleu-rouge : Merfolk Looter, Aquamoeba et Wild Research défaussaient Fiery Temper, Violent Eruption et Circular Logic pour les lancer à leur coût de folie.",
+      "en": "Blue-red madness deck: Merfolk Looter, Aquamoeba and Wild Research discarded Fiery Temper, Violent Eruption and Circular Logic to cast them for their madness cost."
+    },
+    "why": {
+      "fr": [
+        "Chaque défausse transformait un sort de dégâts en coup bon marché",
+        "Circular Logic restait peu coûteux tant que le deck pouvait défausser"
+      ],
+      "en": [
+        "Each discard turned a burn spell into a cheap hit",
+        "Circular Logic stayed cheap as long as the deck could discard"
+      ]
+    }
+  },
+  {
+    "name": "UG Control",
+    "slug": "ug-control",
+    "archetype": "control",
+    "titles": [
+      "U/G Control",
+      "U/G"
+    ],
+    "rep": "x-2002-regionals-westernprairiecanada-1-bede",
+    "cover": "Mystic Snake",
+    "keyCards": [
+      "Mystic Snake",
+      "Exclude",
+      "Fact or Fiction",
+      "Counterspell",
+      "Call of the Herd",
+      "Repulse"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-vert à base de contresorts : Exclude, Counterspell et Mystic Snake répondaient aux menaces, Fact or Fiction remplissait la main et Call of the Herd concluait.",
+      "en": "Blue-green counter-control: Exclude, Counterspell and Mystic Snake answered threats, Fact or Fiction refilled the hand and Call of the Herd closed the game."
+    },
+    "why": {
+      "fr": [
+        "Exclude contrait une créature tout en piochant une carte",
+        "Call of the Herd donnait deux menaces pour une seule carte"
+      ],
+      "en": [
+        "Exclude countered a creature and drew a card",
+        "Call of the Herd gave two threats from a single card"
+      ]
+    }
+  },
+  {
+    "name": "UB Control",
+    "slug": "ub-control",
+    "archetype": "control",
+    "titles": [
+      "U/B Upheaval"
+    ],
+    "rep": "x-2001-states-virginia-1-dooley",
+    "cover": "Upheaval",
+    "keyCards": [
+      "Upheaval",
+      "Shadowmage Infiltrator",
+      "Zombie Infestation",
+      "Undermine",
+      "Fact or Fiction"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir de l'automne 2001 : contresorts, Shadowmage Infiltrator pour piocher et Upheaval pour renvoyer toute la table en main avant de rejouer le premier.",
+      "en": "Blue-black control of autumn 2001: counterspells, Shadowmage Infiltrator for card draw and Upheaval to return the whole board to hand before rebuilding first."
+    },
+    "why": {
+      "fr": [
+        "Upheaval effaçait l'avance de l'adversaire en un seul sort",
+        "Zombie Infestation transformait les cartes en trop en créatures"
+      ],
+      "en": [
+        "Upheaval erased the opponent's lead with a single spell",
+        "Zombie Infestation turned spare cards into creatures"
+      ]
+    }
+  },
+  {
+    "name": "Snaketongue",
+    "slug": "snaketongue",
+    "archetype": "midrange",
+    "titles": [
+      "Snaketongue",
+      "U/G/R Snaketongue",
+      "R/U/G Snaketongue"
+    ],
+    "include": [
+      "x-2001-states-connecticut-1-tsai",
+      "x-2001-states-georgia-1-kibler"
+    ],
+    "rep": "x-2002-regionals-centralmaritimescanada-2-page",
+    "cover": "Mystic Snake",
+    "keyCards": [
+      "Mystic Snake",
+      "Flametongue Kavu",
+      "Call of the Herd",
+      "Fact or Fiction",
+      "Birds of Paradise"
+    ],
+    "summary": {
+      "fr": "Milieu de table bleu-vert-rouge qui associait Mystic Snake et Flametongue Kavu, deux créatures à double effet, à Call of the Herd, Fact or Fiction et quelques contresorts.",
+      "en": "Blue-green-red midrange pairing Mystic Snake and Flametongue Kavu, two creatures that each did two jobs, with Call of the Herd, Fact or Fiction and a few counterspells."
+    },
+    "why": {
+      "fr": [
+        "Mystic Snake contrait un sort tout en ajoutant une créature",
+        "Flametongue Kavu détruisait une créature en arrivant en jeu"
+      ],
+      "en": [
+        "Mystic Snake countered a spell while adding a creature",
+        "Flametongue Kavu killed a creature as it entered play"
+      ]
+    }
+  },
+  {
+    "name": "UBR Control",
+    "slug": "grixis-control",
+    "archetype": "control",
+    "titles": [],
+    "include": [
+      "x-2001-states-oklahoma-3-fernandez",
+      "x-2001-states-newhampshire-5-dilorenzo",
+      "x-2001-states-newhampshire-5-johnson"
+    ],
+    "rep": "x-2001-states-oklahoma-3-fernandez",
+    "cover": "Crosis, the Purger",
+    "keyCards": [
+      "Undermine",
+      "Fact or Fiction",
+      "Void",
+      "Crosis, the Purger",
+      "Flametongue Kavu"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir-rouge des State Championships 2001 : Undermine et Fact or Fiction de l'ère Invasion, Flametongue Kavu et Void contre les créatures, Crosis pour conclure.",
+      "en": "Blue-black-red control from the 2001 State Championships: Invasion-era Undermine and Fact or Fiction, Flametongue Kavu and Void against creatures, and Crosis to finish."
+    },
+    "why": {
+      "fr": [
+        "Undermine contrait un sort tout en faisant perdre de la vie",
+        "Void détruisait les permanents d'un coût choisi et vidait la main adverse"
+      ],
+      "en": [
+        "Undermine countered a spell and cost the opponent life",
+        "Void destroyed permanents of a chosen cost and stripped them from hand"
+      ]
+    }
   }
 ]
