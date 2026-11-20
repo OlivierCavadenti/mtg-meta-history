@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Gush Mentor",
+    "slug": "gush",
+    "archetype": "tempo",
+    "titles": [
+      "Monastery",
+      "Mentor",
+      "Jeskai Mentor",
+      "Esper Mentor",
+      "Jace Mentor",
+      "UW Mentor"
+    ],
+    "rep": 281429,
+    "cover": "Monastery Mentor",
+    "keyCards": [
+      "Monastery Mentor",
+      "Gush",
+      "Jace, Vryn's Prodigy",
+      "Dack Fayden",
+      "Swords to Plowshares",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Monastery Mentor et Jace, Vryn's Prodigy, Gush et les Moxen gratuits pour lancer plusieurs sorts par tour, Swords to Plowshares et Force of Will pour l'interaction.",
+      "en": "Monastery Mentor and Jace, Vryn's Prodigy, Gush and the free Moxen to cast several spells a turn, Swords to Plowshares and Force of Will for interaction."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 ; Joe Brennan a gagné l'Eternal Extravaganza 5",
+        "Plusieurs victoires en Vintage Premier sur Magic Online"
+      ],
+      "en": [
+        "The most frequent archetype in top eights; Joe Brennan won Eternal Extravaganza 5",
+        "Several wins in Magic Online Vintage Premiers"
+      ]
+    }
+  },
+  {
+    "name": "Ravager Shops",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MUD"
+    ],
+    "rep": 266767,
+    "cover": "Arcbound Ravager",
+    "keyCards": [
+      "Arcbound Ravager",
+      "Lodestone Golem",
+      "Thorn of Amethyst",
+      "Tangle Wire",
+      "Phyrexian Revoker",
+      "Hangarback Walker"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop posait Thorn of Amethyst, Tangle Wire et Phyrexian Revoker, Arcbound Ravager et Hangarback Walker frappaient ; Lodestone Golem a été restreint en avril.",
+      "en": "Mishra's Workshop put down Thorn of Amethyst, Tangle Wire and Phyrexian Revoker, while Arcbound Ravager and Hangarback Walker attacked; Lodestone Golem was restricted in April."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Vintage Premier sur Magic Online et à la LCV d'octobre",
+        "Mishra's Factory complétait les menaces"
+      ],
+      "en": [
+        "Won a Magic Online Vintage Premier and the October LCV",
+        "Mishra's Factory rounded out the threats"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 273152,
+    "cover": "Ichorid",
+    "keyCards": [
+      "Ichorid",
+      "Golgari Grave-Troll",
+      "Narcomoeba",
+      "Bridge from Below",
+      "Cabal Therapy",
+      "Leyline of the Void"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait, Golgari Grave-Troll se draguait, Ichorid et Narcomoeba revenaient, Dread Return ramenait la créature qui gagnait.",
+      "en": "Bazaar of Baghdad drew and discarded, Golgari Grave-Troll dredged, Ichorid and Narcomoeba came back, and Dread Return brought back the winning creature."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Vintage Premier sur Magic Online et à la LCV de mars",
+        "Leyline of the Void en main de départ contre les autres decks de cimetière"
+      ],
+      "en": [
+        "Won a Magic Online Vintage Premier and the March LCV",
+        "Leyline of the Void from the opening hand against other graveyard decks"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro"
+    ],
+    "rep": 274441,
+    "cover": "Thought-Knot Seer",
+    "keyCards": [
+      "Thought-Knot Seer",
+      "Reality Smasher",
+      "Eldrazi Displacer",
+      "Thalia, Guardian of Thraben",
+      "Containment Priest",
+      "Thorn of Amethyst"
+    ],
+    "summary": {
+      "fr": "Eldrazi Temple et Ancient Tomb accéléraient Thought-Knot Seer et Reality Smasher, issus d'Oath of the Gatewatch ; Thalia, Thorn of Amethyst et Phyrexian Revoker taxaient.",
+      "en": "Eldrazi Temple and Ancient Tomb powered out Thought-Knot Seer and Reality Smasher from Oath of the Gatewatch; Thalia, Thorn of Amethyst and Phyrexian Revoker taxed."
+    },
+    "why": {
+      "fr": [
+        "Ben Williams a gagné l'Eternal Extravaganza 4 en juin",
+        "Containment Priest et Cavern of Souls contre Oath of Druids et les contre-sorts"
+      ],
+      "en": [
+        "Ben Williams won Eternal Extravaganza 4 in June",
+        "Containment Priest and Cavern of Souls against Oath of Druids and counterspells"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath of Druids",
+      "Bomber Oath",
+      "Burning Oath",
+      "Odd Oath"
+    ],
+    "rep": 268620,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Griselbrand",
+      "Show and Tell",
+      "Forbidden Orchard",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Forbidden Orchard donnait une créature à l'adversaire pour déclencher Oath of Druids, qui mettait Griselbrand ou Emrakul en jeu ; Show and Tell servait de seconde entrée.",
+      "en": "Forbidden Orchard gave the opponent a creature to trigger Oath of Druids, which put Griselbrand or Emrakul into play; Show and Tell was a second way in."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Vintage God Challenge de Hareruya et un Vintage Premier sur Magic Online",
+        "Une version Omniscience a gagné le LCQ de la Vintage Super League"
+      ],
+      "en": [
+        "Won the Vintage God Challenge at Hareruya and a Magic Online Vintage Premier",
+        "An Omniscience version won the Vintage Super League LCQ"
+      ]
+    }
+  },
+  {
+    "name": "Storm",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "TPS",
+      "Storm"
+    ],
+    "rep": 269804,
+    "cover": "Dark Petition",
+    "keyCards": [
+      "Dark Petition",
+      "Dark Ritual",
+      "Cabal Ritual",
+      "Duress",
+      "Cabal Therapy",
+      "Gitaxian Probe"
+    ],
+    "summary": {
+      "fr": "Combo storm noir : Dark Ritual et les Moxen, Dark Petition et les tuteurs trouvaient Necropotence, Yawgmoth's Will et Tendrils of Agony.",
+      "en": "Black storm combo: Dark Ritual and the Moxen, with Dark Petition and the tutors finding Necropotence, Yawgmoth's Will and Tendrils of Agony."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Knight Ware Sanctioned Vintage de juillet",
+        "Deux fois deuxième en Vintage Premier sur Magic Online"
+      ],
+      "en": [
+        "Won the July Knight Ware Sanctioned Vintage",
+        "Second twice in Magic Online Vintage Premiers"
+      ]
+    }
+  },
+  {
+    "name": "Landstill",
+    "slug": "landstill",
+    "archetype": "control",
+    "titles": [
+      "Landstill",
+      "U/R Landstill"
+    ],
+    "rep": 282649,
+    "cover": "Standstill",
+    "keyCards": [
+      "Standstill",
+      "Jace, the Mind Sculptor",
+      "Snapcaster Mage",
+      "Swords to Plowshares",
+      "Mishra's Factory",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle à Standstill : Wasteland, Strip Mine et Mishra's Factory, Swords to Plowshares et Moat contre les créatures, Jace et Snapcaster Mage pour l'avantage.",
+      "en": "Standstill control: Wasteland, Strip Mine and Mishra's Factory, Swords to Plowshares and Moat against creatures, and Jace and Snapcaster Mage for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Joseph Bogaard a gagné l'Eternal Weekend nord-américain 2016",
+        "Victoire aussi au Team Serious Open en version bleu-rouge"
+      ],
+      "en": [
+        "Joseph Bogaard won the 2016 North American Eternal Weekend",
+        "Also won the Team Serious Open with a blue-red version"
+      ]
+    }
+  },
+  {
+    "name": "Jace Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "PW Control",
+      "Jace Control",
+      "Remora Control"
+    ],
+    "rep": 265849,
+    "cover": "Jace, the Mind Sculptor",
+    "keyCards": [
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Mental Misstep",
+      "Thirst for Knowledge",
+      "Time Vault",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu à Mana Drain : Jace, the Mind Sculptor et Thirst for Knowledge pour l'avantage, Time Vault et Voltaic Key ou Tinker pour finir.",
+      "en": "Blue Mana Drain control: Jace, the Mind Sculptor and Thirst for Knowledge for card advantage, Time Vault with Voltaic Key or Tinker to finish."
+    },
+    "why": {
+      "fr": [
+        "Luca Bastianelli a gagné le Top European Series de Milan",
+        "La version Mystic Remora a gagné l'OvinoSpring de Milan"
+      ],
+      "en": [
+        "Luca Bastianelli won the Top European Series in Milan",
+        "The Mystic Remora version won the OvinoSpring in Milan"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Pyromancer",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "Grixis Pyromancer",
+      "Grixis Pyro",
+      "GrixisPyromancer",
+      "UR Pyromancer",
+      "UR Aggro",
+      "4C LEOmancer"
+    ],
+    "rep": 277043,
+    "cover": "Young Pyromancer",
+    "keyCards": [
+      "Young Pyromancer",
+      "Gush",
+      "Cabal Therapy",
+      "Gitaxian Probe",
+      "Jace, Vryn's Prodigy",
+      "Mental Misstep"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à Gush : Young Pyromancer fabriquait des jetons à chaque sort, Gitaxian Probe et Cabal Therapy ouvraient la voie, Delver of Secrets dans la version Ovino.",
+      "en": "Blue-red Gush tempo: Young Pyromancer made tokens with each spell, Gitaxian Probe and Cabal Therapy cleared the way, with Delver of Secrets in the Ovino version."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Vintage Premier sur Magic Online et à l'Ovino XI de Milan",
+        "Gush et Gitaxian Probe ont été restreints en avril 2017"
+      ],
+      "en": [
+        "Won Magic Online Vintage Premiers and Ovino XI in Milan",
+        "Gush and Gitaxian Probe were restricted in April 2017"
+      ]
+    }
+  },
+  {
+    "name": "Painter",
+    "slug": "painter",
+    "archetype": "combo",
+    "titles": [
+      "Painter"
+    ],
+    "rep": 276390,
+    "cover": "Painter's Servant",
+    "keyCards": [
+      "Painter's Servant",
+      "Helm of Obedience",
+      "Leyline of the Void",
+      "Grindstone",
+      "Goblin Welder",
+      "Defense Grid"
+    ],
+    "summary": {
+      "fr": "Painter's Servant ou Leyline of the Void avec Helm of Obedience : la bibliothèque adverse partait entière au cimetière ; Mishra's Workshop accélérait.",
+      "en": "Painter's Servant, or Leyline of the Void with Helm of Obedience: the opponent's whole library went to the graveyard; Mishra's Workshop accelerated."
+    },
+    "why": {
+      "fr": [
+        "Ben Perry a gagné le Team Serious Invitational",
+        "Top 4 à la LCV de juin"
+      ],
+      "en": [
+        "Ben Perry won the Team Serious Invitational",
+        "Top four at the June LCV"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "5c Fish Hate",
+      "Walking Fish",
+      "2/1 Control",
+      "Bug Fish",
+      "Noble Fish"
+    ],
+    "rep": 271026,
+    "cover": "Thalia, Guardian of Thraben",
+    "keyCards": [
+      "Thalia, Guardian of Thraben",
+      "Noble Hierarch",
+      "Scab-Clan Berserker",
+      "Containment Priest",
+      "Mantis Rider",
+      "Dark Confidant"
+    ],
+    "summary": {
+      "fr": "Créatures cinq couleurs sans Moxen : Cavern of Souls et City of Brass, Thalia et Scab-Clan Berserker pour taxer et punir, Containment Priest contre Oath et Dredge.",
+      "en": "Five-color creatures without Moxen: Cavern of Souls and City of Brass, Thalia and Scab-Clan Berserker to tax and punish, and Containment Priest against Oath and Dredge."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Bazaar of Moxen d'Annecy",
+        "Une version à Thalia a gagné l'Eternal Masters #7 de Melbourne"
+      ],
+      "en": [
+        "Won Bazaar of Moxen in Annecy",
+        "A Thalia version won Eternal Masters #7 in Melbourne"
+      ]
+    }
+  },
+  {
+    "name": "Belcher",
+    "slug": "belcher",
+    "archetype": "combo",
+    "titles": [
+      "STORM BELCHER 2k16",
+      "Day of the Leyline"
+    ],
+    "rep": 271532,
+    "cover": "Goblin Charbelcher",
+    "keyCards": [
+      "Goblin Charbelcher",
+      "Seething Song",
+      "Rite of Flame",
+      "Land Grant",
+      "Empty the Warrens",
+      "Storm Entity"
+    ],
+    "summary": {
+      "fr": "Rituels rouges, Moxen et Black Lotus activaient Goblin Charbelcher dès le premier tour, Empty the Warrens et Storm Entity en plan bis.",
+      "en": "Red rituals, Moxen and Black Lotus activated Goblin Charbelcher on turn one, with Empty the Warrens and Storm Entity as backup."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi annexe Vintage du GP Tokyo 2016",
+        "Une version à Leyline of Anticipation a gagné la LCV de juin"
+      ],
+      "en": [
+        "Won the Vintage side event at GP Tokyo 2016",
+        "A Leyline of Anticipation version won the June LCV"
+      ]
+    }
+  }
+]

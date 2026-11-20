@@ -1,0 +1,382 @@
+[
+  {
+    "name": "MUD",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MUD",
+      "Mud"
+    ],
+    "rep": 245688,
+    "cover": "Kuldotha Forgemaster",
+    "keyCards": [
+      "Kuldotha Forgemaster",
+      "Lodestone Golem",
+      "Metalworker",
+      "Tangle Wire",
+      "Chalice of the Void",
+      "Thorn of Amethyst"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop posait Lodestone Golem, Thorn of Amethyst et Tangle Wire, Metalworker accélérait encore, Kuldotha Forgemaster allait chercher Wurmcoil Engine ou Blightsteel.",
+      "en": "Mishra's Workshop put down Lodestone Golem, Thorn of Amethyst and Tangle Wire, Metalworker ramped further, and Kuldotha Forgemaster fetched Wurmcoil Engine or Blightsteel."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Luke McCandless a gagné le Vintage de l'Eternal Masters 2014"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Luke McCandless won the Vintage event at Eternal Masters 2014"
+      ]
+    }
+  },
+  {
+    "name": "Delver",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Delver",
+      "URg Delver",
+      "Canadian Threshold",
+      "URbg Delver"
+    ],
+    "rep": 251490,
+    "cover": "Treasure Cruise",
+    "keyCards": [
+      "Treasure Cruise",
+      "Young Pyromancer",
+      "Delver of Secrets",
+      "Gush",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Delver of Secrets et Young Pyromancer, Gush et des sorts bon marché, puis Treasure Cruise de Khans of Tarkir pour trois cartes presque gratuites.",
+      "en": "Blue-red tempo: Delver of Secrets and Young Pyromancer, Gush and cheap spells, then Treasure Cruise from Khans of Tarkir for three nearly free cards."
+    },
+    "why": {
+      "fr": [
+        "Luis Scott-Vargas a gagné le Vintage Championship de Magic Online 2014",
+        "Treasure Cruise a été restreint en janvier 2015"
+      ],
+      "en": [
+        "Luis Scott-Vargas won the 2014 Magic Online Vintage Championship",
+        "Treasure Cruise was restricted in January 2015"
+      ]
+    }
+  },
+  {
+    "name": "Fish",
+    "slug": "fish",
+    "archetype": "tempo",
+    "titles": [
+      "BUG Fish",
+      "Noble Fish",
+      "Junk",
+      "The Rock",
+      "Bant"
+    ],
+    "rep": 248489,
+    "cover": "Deathrite Shaman",
+    "keyCards": [
+      "Deathrite Shaman",
+      "Dark Confidant",
+      "Snapcaster Mage",
+      "Lightning Bolt",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain à petites créatures : Deathrite Shaman et Dark Confidant, Snapcaster Mage, Abrupt Decay ou Lightning Bolt, Mental Misstep contre les sorts à un mana.",
+      "en": "Small-creature midrange: Deathrite Shaman and Dark Confidant, Snapcaster Mage, Abrupt Decay or Lightning Bolt, and Mental Misstep against one-mana spells."
+    },
+    "why": {
+      "fr": [
+        "Anton Karlinsky a gagné le Vintage de l'Ovinogeddon 9 à Milan",
+        "Deuxième au Prague Eternal 2014 (Julian Knab)"
+      ],
+      "en": [
+        "Anton Karlinsky won the Vintage event at Ovinogeddon 9 in Milan",
+        "Second at Prague Eternal 2014 (Julian Knab)"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath of Druids",
+      "Oath",
+      "Tezoath",
+      "Oath of Bomberman"
+    ],
+    "rep": 248195,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Griselbrand",
+      "Show and Tell",
+      "Mana Drain",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Oath of Druids mettait Griselbrand en jeu dès que l'adversaire avait une créature, Forbidden Orchard lui en donnait une, Show and Tell servait de seconde entrée.",
+      "en": "Oath of Druids put Griselbrand into play whenever the opponent had a creature, Forbidden Orchard gave them one, and Show and Tell was a second way in."
+    },
+    "why": {
+      "fr": [
+        "Mark Tocco a gagné le Vintage Championship de l'Eternal Weekend 2014",
+        "La version à Tezzeret a gagné le Bazaar of Moxen 9"
+      ],
+      "en": [
+        "Mark Tocco won the 2014 Eternal Weekend Vintage Championship",
+        "The Tezzeret version won Bazaar of Moxen 9"
+      ]
+    }
+  },
+  {
+    "name": "Stax",
+    "slug": "stax",
+    "archetype": "control",
+    "titles": [
+      "Stax",
+      "Stax MUD",
+      "MUD Stax",
+      "Welder Red"
+    ],
+    "rep": 238759,
+    "cover": "Smokestack",
+    "keyCards": [
+      "Smokestack",
+      "Tangle Wire",
+      "Sphere of Resistance",
+      "Chalice of the Void",
+      "Lodestone Golem",
+      "Crucible of Worlds"
+    ],
+    "summary": {
+      "fr": "Prison à Mishra's Workshop : Chalice of the Void, Sphere of Resistance et Tangle Wire étouffaient l'adversaire, Smokestack et Crucible of Worlds achevaient le verrou.",
+      "en": "Mishra's Workshop prison: Chalice of the Void, Sphere of Resistance and Tangle Wire choked the opponent, and Smokestack with Crucible of Worlds completed the lock."
+    },
+    "why": {
+      "fr": [
+        "Niels Thiim a gagné le Vintage du Prague Eternal 2014",
+        "Victoires aussi à la LCV de février et au Team Serious Open"
+      ],
+      "en": [
+        "Niels Thiim won the Vintage event at Prague Eternal 2014",
+        "Also won the February LCV and the Team Serious Open"
+      ]
+    }
+  },
+  {
+    "name": "Tezzerator",
+    "slug": "tezzeret",
+    "archetype": "combo",
+    "titles": [
+      "Tezzerator",
+      "Tezzcast"
+    ],
+    "rep": 247118,
+    "cover": "Tezzeret the Seeker",
+    "keyCards": [
+      "Tezzeret the Seeker",
+      "Voltaic Key",
+      "Grim Monolith",
+      "Sensei's Divining Top",
+      "Thoughtseize",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tezzeret the Seeker allait chercher Time Vault, que Voltaic Key dégageait sans fin pour des tours supplémentaires infinis.",
+      "en": "Tezzeret the Seeker fetched Time Vault, which Voltaic Key untapped endlessly for infinite extra turns."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la LCV de septembre et au tournoi TokyoMTG.com",
+        "Top 4 à la LCV de février"
+      ],
+      "en": [
+        "Second at the September LCV and the TokyoMTG.com event",
+        "Top four at the February LCV"
+      ]
+    }
+  },
+  {
+    "name": "Snapcaster Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "Snapcaster Control",
+      "PW Control",
+      "Jace Control",
+      "Snap Control",
+      "Snapcontrol",
+      "Jace Control Control",
+      "Welder Control",
+      "2/1 Control",
+      "Keeper",
+      "4c Control"
+    ],
+    "rep": 240474,
+    "cover": "Snapcaster Mage",
+    "keyCards": [
+      "Snapcaster Mage",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Mental Misstep",
+      "Duress",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu à Snapcaster Mage, Jace et Mana Drain, Mental Misstep contre les sorts à un mana, les cartes restreintes pour l'avantage.",
+      "en": "Blue control with Snapcaster Mage, Jace and Mana Drain, Mental Misstep against one-mana spells, and the restricted cards for card advantage."
+    },
+    "why": {
+      "fr": [
+        "La version Planeswalker a gagné le N.Y.S.E. 20",
+        "Victoire aussi à Alcobendas en mars"
+      ],
+      "en": [
+        "The Planeswalker version won N.Y.S.E. 20",
+        "Also won in Alcobendas in March"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 239709,
+    "cover": "Golgari Grave-Troll",
+    "keyCards": [
+      "Golgari Grave-Troll",
+      "Bloodghast",
+      "Narcomoeba",
+      "Bridge from Below",
+      "Cabal Therapy",
+      "Serum Powder"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait, Golgari Grave-Troll se draguait, Narcomoeba et Bloodghast revenaient, Serum Powder trouvait Bazaar.",
+      "en": "Bazaar of Baghdad drew and discarded, Golgari Grave-Troll dredged, Narcomoeba and Bloodghast came back, and Serum Powder found Bazaar."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi annexe Vintage du GP Melbourne et un tournoi Top Deck Games",
+        "Deuxième au tournoi annexe Vintage du GP Sydney"
+      ],
+      "en": [
+        "Won the Vintage side event at GP Melbourne and a Top Deck Games event",
+        "Second at the Vintage side event at GP Sydney"
+      ]
+    }
+  },
+  {
+    "name": "Gush",
+    "slug": "gush",
+    "archetype": "combo",
+    "titles": [
+      "Gush Storm",
+      "Gush Control",
+      "Gush Doomsday",
+      "Chasm Storm"
+    ],
+    "rep": 596190,
+    "cover": "Gush",
+    "keyCards": [
+      "Gush",
+      "Mental Misstep",
+      "Flusterstorm",
+      "Mana Drain",
+      "Preordain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Gush piochait deux cartes gratuitement, Fastbond et Yawgmoth's Will enchaînaient les sorts jusqu'à Tendrils of Agony ou Brain Freeze.",
+      "en": "Gush drew two cards for free, and Fastbond and Yawgmoth's Will chained spells into Tendrils of Agony or Brain Freeze."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Nebraska T1 de Camaiore et à deux LCV",
+        "Une version à Doomsday a fini deuxième à The Players Guild"
+      ],
+      "en": [
+        "Won the Nebraska T1 in Camaiore and two LCV events",
+        "A Doomsday version finished second at The Players Guild"
+      ]
+    }
+  },
+  {
+    "name": "Stoneblade",
+    "slug": "stoneblade",
+    "archetype": "control",
+    "titles": [
+      "Stoneblade",
+      "Esper Stoneblade",
+      "Stoneblade Control"
+    ],
+    "rep": 245696,
+    "cover": "Stoneforge Mystic",
+    "keyCards": [
+      "Stoneforge Mystic",
+      "Jace, the Mind Sculptor",
+      "Mana Drain",
+      "Swords to Plowshares",
+      "Mental Misstep",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu : Stoneforge Mystic allait chercher Batterskull, Mana Drain et Jace prenaient l'avantage, Swords to Plowshares répondait aux créatures.",
+      "en": "White-blue control: Stoneforge Mystic fetched Batterskull, Mana Drain and Jace took over, and Swords to Plowshares answered creatures."
+    },
+    "why": {
+      "fr": [
+        "Charlie Krug a gagné le Team Serious Open",
+        "Victoire aussi à la LCV de mars"
+      ],
+      "en": [
+        "Charlie Krug won the Team Serious Open",
+        "Also won the March LCV"
+      ]
+    }
+  },
+  {
+    "name": "Merfolk",
+    "slug": "merfolk",
+    "archetype": "aggro",
+    "titles": [
+      "Merfolk"
+    ],
+    "rep": 241643,
+    "cover": "Lord of Atlantis",
+    "keyCards": [
+      "Lord of Atlantis",
+      "Master of the Pearl Trident",
+      "True-Name Nemesis",
+      "Aether Vial",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Ondins à seigneurs posés par Aether Vial, True-Name Nemesis impossible à cibler, Mental Misstep et Force of Will contre les combinaisons.",
+      "en": "Merfolk with lords put into play by Aether Vial, True-Name Nemesis that could not be targeted, and Mental Misstep and Force of Will against combos."
+    },
+    "why": {
+      "fr": [
+        "A gagné le second tournoi qualificatif du Bazaar of Moxen 9",
+        "L'îlemarche passait les bloqueurs adverses"
+      ],
+      "en": [
+        "Won the second Bazaar of Moxen 9 qualifier",
+        "Islandwalk got past opposing blockers"
+      ]
+    }
+  }
+]
