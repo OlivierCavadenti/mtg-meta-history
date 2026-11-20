@@ -2,6 +2,7 @@
 import { computed, watchEffect } from 'vue'
 import { useRoute } from 'vue-router'
 import { findDeck } from '../data/load'
+import { buildLineages, slugOf } from '../lib/lineage'
 import { useFormat } from '../lib/useFormat'
 import { archetypeLabel, formatDate, formatMonth, formatNumber, locale, seasonYears, t, tx } from '../lib/i18n'
 import { cardImage, scryfallSearch } from '../lib/cards'
@@ -18,6 +19,8 @@ const deck = computed(() => found.value?.deck)
 const season = computed(() => found.value?.season)
 const cards = computed(() => data.value?.cards ?? {})
 const why = computed(() => deck.value?.why[locale.value] ?? [])
+/** the same archetype in other seasons (link to its history page) */
+const lineage = computed(() => (data.value && deck.value ? buildLineages(data.value).get(slugOf(deck.value)) : undefined))
 
 const years = computed(() => (season.value ? seasonYears(season.value.start, season.value.end) : ''))
 
@@ -62,6 +65,11 @@ watchEffect(() => {
         <p class="record">
           {{ deck.stats.top8 }} {{ t('top8') }}, {{ deck.stats.wins }} {{ deck.stats.wins > 1 ? t('wins') : t('win') }},
           {{ formatNumber(deck.stats.share) }} % {{ t('share') }} ({{ formatMonth(deck.first) }} – {{ formatMonth(deck.last) }})
+        </p>
+        <p v-if="lineage && lineage.entries.length > 1" class="history-link">
+          <router-link :to="`/${formatId}/archetype/${lineage.slug}`">
+            {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ t('seasonsPlural') }}) →
+          </router-link>
         </p>
       </div>
       <figure class="hero-art">
@@ -181,6 +189,18 @@ h1 {
   margin-top: var(--space-md);
   font-style: italic;
   color: var(--muted);
+}
+
+.history-link {
+  margin-top: var(--space-sm);
+}
+
+.history-link a {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--accent);
+  text-underline-offset: 4px;
 }
 
 .hero-art {

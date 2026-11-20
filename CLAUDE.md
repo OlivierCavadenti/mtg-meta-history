@@ -33,6 +33,7 @@ npm run validate:content  # validate generated deck data
 - `src/data/load.ts` — lazy loader for a format
 - `src/components/` — `DeckTile`, `DeckList` (bar-style decklist), `CardRow`, `ManaCost`, `ColorPips`…
 - `src/pages/` — `FormatPage` (listing), `DeckPage`, `StaplesPage`, `ColorsPage` (color evolution, small multiples; data in `src/lib/colorStats.ts`)
+- `ArchetypesPage` / `ArchetypePage` — an archetype across seasons (lifelines, core, card-by-card evolution); built in `src/lib/lineage.ts` from the editorial `slug`, so keep one slug per archetype across seasons
 - `data-src/standard/editorial/{season}.json` — hand-written editorial layer (names, merges, texts)
 - `scripts/pipeline/` — data pipeline (Python 3, stdlib only), one format at a time via `MTG_FORMAT` (standard | modern). See `AGENTS.md`.
 

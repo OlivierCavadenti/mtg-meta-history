@@ -8,6 +8,7 @@ const route = useRoute()
 const current = computed(() => (typeof route.params.format === 'string' ? route.params.format : 'standard'))
 const onStaples = computed(() => route.name === 'staples')
 const onColors = computed(() => route.name === 'colors')
+const onArchetypes = computed(() => route.name === 'archetypes' || route.name === 'archetype')
 </script>
 
 <template>
@@ -18,13 +19,14 @@ const onColors = computed(() => route.name === 'colors')
         <router-link
           v-for="f in FORMATS"
           :key="f.id"
-          :to="onStaples ? `/${f.id}/staples` : onColors ? `/${f.id}/colors` : `/${f.id}`"
+          :to="onStaples ? `/${f.id}/staples` : onColors ? `/${f.id}/colors` : onArchetypes ? `/${f.id}/archetypes` : `/${f.id}`"
           class="format"
           :class="{ active: current === f.id, soon: !f.ready }"
         >{{ f.label }}</router-link>
       </nav>
       <div class="views">
-        <router-link :to="`/${current}`" class="view" :class="{ active: !onStaples && !onColors }">{{ t('decks') }}</router-link>
+        <router-link :to="`/${current}`" class="view" :class="{ active: !onStaples && !onColors && !onArchetypes }">{{ t('decks') }}</router-link>
+        <router-link :to="`/${current}/archetypes`" class="view" :class="{ active: onArchetypes }">{{ t('archetypes') }}</router-link>
         <router-link :to="`/${current}/staples`" class="view" :class="{ active: onStaples }">{{ t('staples') }}</router-link>
         <router-link :to="`/${current}/colors`" class="view" :class="{ active: onColors }">{{ t('colorsView') }}</router-link>
         <button class="locale" type="button" @click="toggleLocale()">{{ locale === 'fr' ? 'en' : 'fr' }}</button>

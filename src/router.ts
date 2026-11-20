@@ -13,6 +13,16 @@ const routes = [
     component: () => import('./pages/StaplesPage.vue'),
   },
   {
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/archetypes',
+    name: 'archetypes',
+    component: () => import('./pages/ArchetypesPage.vue'),
+  },
+  {
+    path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/archetype/:slug',
+    name: 'archetype',
+    component: () => import('./pages/ArchetypePage.vue'),
+  },
+  {
     path: '/:format(standard|pioneer|modern|legacy|vintage|pauper)/colors',
     name: 'colors',
     component: () => import('./pages/ColorsPage.vue'),
