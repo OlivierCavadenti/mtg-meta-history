@@ -22,6 +22,13 @@ const wide = computed(() => route.name === 'staples')
     <footer class="site-footer">
       <span class="colophon-mark" aria-hidden="true"></span>
       <p>{{ t('footer') }}</p>
+      <!-- Wizards of the Coast Fan Content Policy statement, verbatim (the policy gives it in English) -->
+      <p class="fan-content" lang="en">
+        MTG Meta History is unofficial Fan Content permitted under the
+        <a href="https://company.wizards.com/en/legal/fancontentpolicy" target="_blank" rel="noopener noreferrer">Fan Content Policy</a>.
+        Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast.
+        ©Wizards of the Coast LLC.
+      </p>
     </footer>
     <CardPreview />
   </div>
@@ -38,6 +45,16 @@ const wide = computed(() => route.name === 'staples')
 
 .site-footer p {
   margin: var(--space-sm) auto 0;
+}
+
+.fan-content {
+  max-width: 62ch;
+  font-size: 0.78rem;
+  color: var(--faint);
+}
+
+.fan-content a {
+  color: inherit;
 }
 
 /* colophon: a short double rule, like the end of a printed article */

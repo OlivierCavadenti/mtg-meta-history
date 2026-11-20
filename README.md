@@ -39,5 +39,9 @@ Vue 3, TypeScript, Vite, Vue Router, hand-written CSS. No backend.
 
 ## License
 
-Editorial commentary on publicly available competitive results. Card names and images are
-property of Wizards of the Coast. Not affiliated with Wizards of the Coast.
+MTG Meta History is unofficial Fan Content permitted under the Fan Content Policy. Not
+approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the
+Coast. ©Wizards of the Coast LLC.
+
+Editorial texts are commentary on publicly available competitive results. Card data and images
+come from Scryfall; tournament results and decklists from the sources listed above.
