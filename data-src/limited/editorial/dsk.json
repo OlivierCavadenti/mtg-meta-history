@@ -1,0 +1,152 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Eerie",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Eerie : enchantements et Rooms déverrouillées déclenchent Gremlin Tamer et les Glimmers, Unable to Scream et Trapped in the Screen servent de removal.",
+      "en": "Eerie: enchantments and unlocked Rooms trigger Gremlin Tamer and the Glimmers, with Unable to Scream and Trapped in the Screen as removal."
+    },
+    "why": {
+      "fr": ["Paire la plus jouée, avec l'un des deux meilleurs taux de victoire.", "Gremlin Tamer et Sheltered by Ghosts parmi ses meilleures cartes.", "Le removal-enchantement en commune répondait à presque tout."],
+      "en": ["The most played pair, with one of the two best win rates.", "Gremlin Tamer and Sheltered by Ghosts did best among its cards.", "Enchantment-based removal at common answered almost anything."]
+    },
+    "keyCards": ["Gremlin Tamer", "Sheltered by Ghosts", "Splitskin Doll", "Unable to Scream", "Trapped in the Screen", "Inquisitive Glimmer"],
+    "cover": "Gremlin Tamer"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Petites créatures en nombre : Arabella, Abandoned Doll draine pour chaque petite créature, Midnight Mayhem termine la partie.",
+      "en": "Low-power creatures in numbers: Arabella, Abandoned Doll drains for each small creature, and Midnight Mayhem ends the game."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set.", "Arabella et Midnight Mayhem, dans beaucoup de decks, avec de hauts taux.", "La vitesse face à un format d'enchantements plus lent."],
+      "en": ["The best win rate of the set.", "Arabella and Midnight Mayhem were in many decks, with high win rates.", "Speed against a format of slower enchantment decks."]
+    },
+    "keyCards": ["Arabella, Abandoned Doll", "Midnight Mayhem", "Ragged Playmate", "Clockwork Percussionist", "Razorkin Hordecaller"],
+    "cover": "Arabella, Abandoned Doll"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Manifest",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Manifest dread : des créatures face cachée qui peuvent se retourner, Growing Dread et Manifest Dread bâtissent une table de menaces masquées.",
+      "en": "Manifest dread: face-down creatures that can turn face up, with Growing Dread and Manifest Dread building a board of hidden threats."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne, parmi les meilleures paires.", "Unnerving Grasp et Under the Skin avaient de hauts taux de victoire.", "La sélection offerte par manifest dread lissait les pioches."],
+      "en": ["Above the set average, among the leading pairs.", "Unnerving Grasp and Under the Skin had high win rates.", "The selection built into manifest dread smoothed its draws."]
+    },
+    "keyCards": ["Growing Dread", "Manifest Dread", "Unnerving Grasp", "Under the Skin", "Spineseeker Centipede"],
+    "cover": "Growing Dread"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Delirium",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Délire sous pression : les types de cartes au cimetière renforcent Wildfire Wickerfolk et Beastie Beatdown, le removal rouge ouvre la voie.",
+      "en": "Delirium with pressure: card types in the graveyard power up Wildfire Wickerfolk and Beastie Beatdown, and red removal clears the way."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Scorching Dragonfire et Wildfire Wickerfolk dans la plupart des decks.", "Terramorphic Expanse et Spineseeker Centipede aidaient à atteindre le délire."],
+      "en": ["Above the set average.", "Scorching Dragonfire and Wildfire Wickerfolk were in most decks.", "Terramorphic Expanse and Spineseeker Centipede helped reach delirium."]
+    },
+    "keyCards": ["Wildfire Wickerfolk", "Beastie Beatdown", "Scorching Dragonfire", "Under the Skin", "Fear of Missing Out"],
+    "cover": "Wildfire Wickerfolk"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifice : créatures et enchantements qui laissent de la valeur en mourant, Disturbing Mirth et Final Vengeance comme moteur et removal.",
+      "en": "Sacrifice: creatures and enchantments that leave value when they die, with Disturbing Mirth and Final Vengeance as engine and removal."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Final Vengeance et Disturbing Mirth dans la plupart des decks.", "Piggy Bank et Clockwork Percussionist transformaient les échanges en cartes."],
+      "en": ["Above the set average.", "Final Vengeance and Disturbing Mirth were in most decks.", "Piggy Bank and Clockwork Percussionist turned trades into cards."]
+    },
+    "keyCards": ["Disturbing Mirth", "Final Vengeance", "Clockwork Percussionist", "Razorkin Hordecaller", "Piggy Bank"],
+    "cover": "Disturbing Mirth"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Delirium",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Délire et valeur : Broodspinner et Say Its Name remplissent le cimetière, puis Drag to the Roots et les récompenses de délire prennent le relais.",
+      "en": "Delirium value: Broodspinner and Say Its Name fill the graveyard, then Drag to the Roots and delirium payoffs take over."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Broodspinner et Spineseeker Centipede formaient le noyau commun.", "Remplir le cimetière coûtait du tempo face à Boros et Azorius."],
+      "en": ["Close to the set average.", "Broodspinner and Spineseeker Centipede formed the common core.", "Filling the graveyard cost tempo against Boros and Azorius."]
+    },
+    "keyCards": ["Broodspinner", "Spineseeker Centipede", "Say Its Name", "Drag to the Roots", "Osseous Sticktwister"],
+    "cover": "Broodspinner"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Survival",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Survie : les créatures engagées reçoivent des bonus à la seconde phase principale, comme avec Shrewd Storyteller.",
+      "en": "Survival: tapped creatures earn bonuses in the second main phase, as with Shrewd Storyteller."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Les déclencheurs de survie exigeaient des attaquants qui survivent au combat.", "Ses meilleures cartes étaient partagées avec Azorius et Simic."],
+      "en": ["Below the set average.", "Survival triggers needed attackers that lived through combat.", "Its best cards were shared with Azorius and Simic."]
+    },
+    "keyCards": ["Shrewd Storyteller", "Trapped in the Screen", "Monstrous Emergence", "Unsettling Twins", "Splitskin Doll"],
+    "cover": "Shrewd Storyteller"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Rooms",
+    "archetype": "control",
+    "summary": {
+      "fr": "Rooms : des enchantements à double porte déverrouillés sur plusieurs tours, Smoky Lounge accélérant vers eux.",
+      "en": "Rooms: double-door enchantments unlocked over several turns, with Smoky Lounge ramping into them."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Déverrouiller les Rooms coûtait du tempo face aux decks agressifs.", "Fear of Missing Out et Floodpits Drowner parmi ses meilleures cartes."],
+      "en": ["Among the lowest win rates of the set.", "Unlocking Rooms cost tempo against the aggressive decks.", "Fear of Missing Out and Floodpits Drowner were among its better cards."]
+    },
+    "keyCards": ["Smoky Lounge // Misty Salon", "Glassworks // Shattered Yard", "Roaring Furnace // Steaming Sauna", "Scorching Dragonfire", "Fear of Missing Out"],
+    "cover": "Smoky Lounge // Misty Salon"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Reanimator",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Réanimation : Rite of the Moth et Emerge from the Cocoon ramènent des créatures à effet d'arrivée comme Shroudstomper.",
+      "en": "Reanimation: Rite of the Moth and Emerge from the Cocoon return creatures with enter effects such as Shroudstomper."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Les sorts de réanimation ne valaient rien sans cible au cimetière.", "Splitskin Doll et Unsettling Twins parmi ses meilleures cartes."],
+      "en": ["Among the lowest win rates of the set.", "Reanimation spells did little without a target in the graveyard.", "Splitskin Doll and Unsettling Twins were among its better cards."]
+    },
+    "keyCards": ["Shroudstomper", "Rite of the Moth", "Emerge from the Cocoon", "Unsettling Twins", "Splitskin Doll"],
+    "cover": "Shroudstomper"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Eerie",
+    "archetype": "control",
+    "summary": {
+      "fr": "Contrôle eerie : enchantements et Rooms déclenchent Skullsnap Nuisance et ramènent Fear of Infinity, removal et renvois ralentissent la partie.",
+      "en": "Eerie control: enchantments and Rooms trigger Skullsnap Nuisance and return Fear of Infinity, while removal and bounce slow the game."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "Trop lent face à la pression de Boros et Azorius.", "Unnerving Grasp et Fear of Isolation parmi ses meilleures cartes."],
+      "en": ["The lowest win rate of the set.", "Too slow against Boros and Azorius pressure.", "Unnerving Grasp and Fear of Isolation were among its better cards."]
+    },
+    "keyCards": ["Fear of Infinity", "Skullsnap Nuisance", "Unnerving Grasp", "Fear of Isolation", "Glimmerburst"],
+    "cover": "Fear of Infinity"
+  }
+]

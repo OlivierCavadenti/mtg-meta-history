@@ -1,0 +1,152 @@
+[
+  {
+    "colors": "WB",
+    "name": "Orzhov Lifegain",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gain de vie : Healer's Hawk et Dazzling Angel gagnent de petites quantités, Ajani's Pridemate et Cat Collector en grandissent.",
+      "en": "Lifegain: Healer's Hawk and Dazzling Angel gain small amounts, and Ajani's Pridemate and Cat Collector grow from it."
+    },
+    "why": {
+      "fr": ["Paire la plus jouée du set, au-dessus de la moyenne.", "Helpful Hunter et Dazzling Angel, dans beaucoup de decks.", "Le removal noir comme Stab couvrait les faiblesses du plan."],
+      "en": ["The most played pair of the set, above the average.", "Helpful Hunter and Dazzling Angel were in many decks.", "Black removal such as Stab covered the plan's weak spots."]
+    },
+    "keyCards": ["Ajani's Pridemate", "Cat Collector", "Healer's Hawk", "Dazzling Angel", "Helpful Hunter", "Stab"],
+    "cover": "Ajani's Pridemate"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Threshold",
+    "archetype": "control",
+    "summary": {
+      "fr": "Seuil et contrôle : Dreadwing Scavenger pioche et défausse jusqu'au seuil, Stab, Refute et Bake into a Pie répondent aux menaces.",
+      "en": "Threshold and control: Dreadwing Scavenger loots toward threshold while Stab, Refute and Bake into a Pie answer threats."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Dreadwing Scavenger et Mischievous Mystic parmi ses meilleures cartes.", "Souvent joué en contrôle classique plutôt qu'en deck de seuil."],
+      "en": ["Above the set average.", "Dreadwing Scavenger and Mischievous Mystic did best among its cards.", "Often played as classic control rather than as a threshold deck."]
+    },
+    "keyCards": ["Dreadwing Scavenger", "Stab", "Refute", "Bake into a Pie", "Think Twice", "Mischievous Mystic"],
+    "cover": "Dreadwing Scavenger"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Flyers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Volants : Empyrean Eagle renforce l'escadrille, renvois et bloqueurs ralentissent le sol pendant la course aérienne.",
+      "en": "Flyers: Empyrean Eagle pumps the squadron while bounce and blockers slow the ground during the race in the air."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set.", "Empyrean Eagle et Luminous Rebuke, dans beaucoup de decks, avec de hauts taux.", "Refute et les renvois protégeaient la course dans les airs."],
+      "en": ["The best win rate of the set.", "Empyrean Eagle and Luminous Rebuke were in many decks, with high win rates.", "Refute and bounce protected the race in the air."]
+    },
+    "keyCards": ["Empyrean Eagle", "Luminous Rebuke", "Strix Lookout", "Skyship Buccaneer", "Mischievous Mystic"],
+    "cover": "Empyrean Eagle"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Raid",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Raid : attaquer chaque tour déclenche Perforating Artist et les bonus de raid, le removal rouge et noir dégage le chemin.",
+      "en": "Raid: attacking each turn triggers Perforating Artist and the raid bonuses, while red and black removal clears the path."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Burst Lightning et Infestation Sage formaient le noyau commun.", "Le raid récompensait l'attaque, ce qui allait aux couleurs riches en removal."],
+      "en": ["Above the set average.", "Burst Lightning and Infestation Sage formed the common core.", "Raid rewarded attacking, which suited the removal-heavy colors."]
+    },
+    "keyCards": ["Perforating Artist", "Burst Lightning", "Infestation Sage", "Hungry Ghoul", "Involuntary Employment"],
+    "cover": "Perforating Artist"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Marqueurs : Felidar Savior et les renforts répartissent des marqueurs, la table grossit ou s'élargit selon les tirages.",
+      "en": "Counters: Felidar Savior and other support cards spread counters, and the board grows taller or wider depending on the draft."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Sun-Blessed Healer et Banishing Light parmi ses meilleures cartes.", "Peu de récompenses communes pour les marqueurs ; les decks s'élargissaient souvent."],
+      "en": ["Close to the set average.", "Sun-Blessed Healer and Banishing Light did well among its cards.", "Few common payoffs for counters; decks often went wide instead."]
+    },
+    "keyCards": ["Felidar Savior", "Sun-Blessed Healer", "Banishing Light", "Wary Thespian", "Inspiring Paladin"],
+    "cover": "Felidar Savior"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorts : instants et rituels déclenchent Balmor, Battlemage Captain et remplissent le cimetière pour Tolarian Terror.",
+      "en": "Spells: instants and sorceries trigger Balmor, Battlemage Captain and fill the graveyard for Tolarian Terror."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Burst Lightning et Micromancer avaient ses meilleurs taux.", "Les cantrips donnaient du flux de cartes mais peu de présence sur la table."],
+      "en": ["Below the set average.", "Burst Lightning and Micromancer had its best win rates.", "Cheap cantrips gave card flow but little board presence."]
+    },
+    "keyCards": ["Balmor, Battlemage Captain", "Burst Lightning", "Micromancer", "Think Twice", "Tolarian Terror"],
+    "cover": "Balmor, Battlemage Captain"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Power",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Grosses créatures : Ruby, Daring Tracker et les cartes qui récompensent une forte force, avec Felling Blow pour combattre.",
+      "en": "Big creatures: Ruby, Daring Tracker and the cards that reward high power, with Felling Blow to fight."
+    },
+    "why": {
+      "fr": ["L'un des deux meilleurs taux de victoire du set.", "Gorehorn Raider, Eager Trufflesnout et Felling Blow avaient de hauts taux.", "Des créatures plus grosses que les communes adverses."],
+      "en": ["One of the two best win rates of the set.", "Gorehorn Raider, Eager Trufflesnout and Felling Blow had high win rates.", "Its creatures outsized the format's other commons."]
+    },
+    "keyCards": ["Ruby, Daring Tracker", "Gorehorn Raider", "Eager Trufflesnout", "Felling Blow", "Slumbering Cerberus"],
+    "cover": "Ruby, Daring Tracker"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures bon marché et effets globaux : Heroic Reinforcements ajoute des corps et pompe toute l'équipe pour conclure.",
+      "en": "Cheap creatures and team pumps: Heroic Reinforcements adds bodies and pumps the whole team to finish."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne, près des meilleurs.", "Burst Lightning et Battlesong Berserker portaient sa courbe.", "Heroic Reinforcements offrait une fin de partie en largeur."],
+      "en": ["Above the set average, close to the top.", "Burst Lightning and Battlesong Berserker carried its curve.", "Heroic Reinforcements gave a go-wide finish."]
+    },
+    "keyCards": ["Heroic Reinforcements", "Battlesong Berserker", "Burst Lightning", "Helpful Hunter", "Celestial Armor"],
+    "cover": "Heroic Reinforcements"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Morbid",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Morbid : la mort d'une créature déclenche Wardens of the Cycle et les cartes d'attrition, avec Burglar Rat et Infestation Sage pour échanger.",
+      "en": "Morbid: a creature dying triggers Wardens of the Cycle and the attrition cards, with Burglar Rat and Infestation Sage to trade."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "Les récompenses morbid étaient lentes face aux menaces évasives.", "Hero's Downfall et Elvish Regrower parmi ses meilleures cartes."],
+      "en": ["The lowest win rate of the set.", "Morbid payoffs were slow against evasive threats.", "Hero's Downfall and Elvish Regrower were among its better cards."]
+    },
+    "keyCards": ["Wardens of the Cycle", "Burglar Rat", "Infestation Sage", "Hero's Downfall", "Elvish Regrower"],
+    "cover": "Wardens of the Cycle"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Ramp",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe et grosses créatures : Tatyova, Benthic Druid pioche sur chaque terrain, le mana supplémentaire paie les menaces de fin de partie.",
+      "en": "Ramp and big creatures: Tatyova, Benthic Druid draws off each land, and the extra mana pays for late threats."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Felling Blow et Curator of Destinies étaient ses meilleures cartes.", "Peu de communes pour rentabiliser le mana supplémentaire."],
+      "en": ["Among the lowest win rates of the set.", "Felling Blow and Curator of Destinies were its best cards.", "Few commons paid off the extra mana."]
+    },
+    "keyCards": ["Tatyova, Benthic Druid", "Felling Blow", "Curator of Destinies", "Spectral Sailor", "Bite Down"],
+    "cover": "Tatyova, Benthic Druid"
+  }
+]

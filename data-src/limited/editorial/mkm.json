@@ -1,0 +1,331 @@
+[
+  {
+    "colors": "WR",
+    "name": "Boros Go-Wide",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Meddling Youths enquête quand vous attaquez avec plusieurs créatures ; la paire récompensait le jeu en largeur. Créatures bon marché, Indices et brûlures comme Lightning Helix remplissaient les listes.",
+      "en": "Meddling Youths investigates when you attack with several creatures; the pair rewarded going wide. Cheap creatures, Clues and burn such as Lightning Helix filled lists."
+    },
+    "why": {
+      "fr": [
+        "Meilleur taux de victoire du set et sa paire la plus jouée.",
+        "Dog Walker, Person of Interest et Novice Inspector donnaient corps ou Indices en plus.",
+        "Fuss // Bother et Lightning Helix concluaient vite les parties."
+      ],
+      "en": [
+        "Best win rate of the set and its most played pair.",
+        "Dog Walker, Person of Interest and Novice Inspector gave extra bodies or Clues for one card.",
+        "Fuss // Bother and Lightning Helix finished games quickly."
+      ]
+    },
+    "keyCards": [
+      "Meddling Youths",
+      "Fuss // Bother",
+      "Lightning Helix",
+      "Novice Inspector",
+      "Person of Interest",
+      "Dog Walker"
+    ],
+    "cover": "Meddling Youths"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Disguise",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Déguisement : Sumala Sentry place des marqueurs sur les créatures retournées face visible. Des corps face cachée comme Crowd-Control Warden le portaient.",
+      "en": "Disguise: Sumala Sentry puts counters on creatures as they are turned face up. Face-down bodies such as Crowd-Control Warden carried it."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set, derrière Boros.",
+        "Crowd-Control Warden et Loxodon Eavesdropper étaient des créatures à déguisement efficaces.",
+        "Makeshift Binding et Buried in the Garden géraient les menaces."
+      ],
+      "en": [
+        "Second-best win rate of the set, behind Boros.",
+        "Crowd-Control Warden and Loxodon Eavesdropper were efficient disguise creatures.",
+        "Makeshift Binding and Buried in the Garden handled threats."
+      ]
+    },
+    "keyCards": [
+      "Sumala Sentry",
+      "Crowd-Control Warden",
+      "Loxodon Eavesdropper",
+      "Buried in the Garden",
+      "Makeshift Binding",
+      "Novice Inspector"
+    ],
+    "cover": "Sumala Sentry"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Detectives",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Détectives : Private Eye les renforce et en rend un imblocable quand vous piochez votre deuxième carte du tour. Les listes jouaient créatures Détectives et pioche.",
+      "en": "Detectives: Private Eye pumps them and makes one unblockable when you draw your second card in a turn. Lists played Detective creatures and card draw."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Projektor Inspector et Granite Witness remplissaient la courbe.",
+        "Makeshift Binding était sa principale removal."
+      ],
+      "en": [
+        "Above the set average.",
+        "Projektor Inspector and Granite Witness filled the curve.",
+        "Makeshift Binding was its main removal."
+      ]
+    },
+    "keyCards": [
+      "Private Eye",
+      "Ezrim, Agency Chief",
+      "Projektor Inspector",
+      "Granite Witness",
+      "Makeshift Binding",
+      "No More Lies"
+    ],
+    "cover": "Private Eye"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Artifacts",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Artefacts et Indices : Gleaming Geardrake grandit quand des artefacts sont sacrifiés, et Detective's Satchel et Gadget Technician les fournissent.",
+      "en": "Artifacts and Clues: Gleaming Geardrake grows as artifacts are sacrificed, and Detective's Satchel and Gadget Technician supply them."
+    },
+    "why": {
+      "fr": [
+        "Juste sous la moyenne du set.",
+        "Galvanize et Torch the Witness apportaient la removal ; les Indices le flux de cartes.",
+        "Lent à se déployer face à l'agression Boros."
+      ],
+      "en": [
+        "Just below the set average.",
+        "Galvanize and Torch the Witness gave removal; Clues gave card flow.",
+        "Slow to deploy against Boros aggression."
+      ]
+    },
+    "keyCards": [
+      "Gleaming Geardrake",
+      "Detective's Satchel",
+      "Gadget Technician",
+      "Torch the Witness",
+      "Galvanize",
+      "Reckless Detective"
+    ],
+    "cover": "Gleaming Geardrake"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Collect Evidence",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Collecte de preuves : Evidence Examiner exile des cartes du cimetière pour enquêter. Créatures à déguisement et Indices produisaient l'avantage de cartes.",
+      "en": "Collect evidence: Evidence Examiner exiles graveyard cards to investigate. Disguise creatures and Clues produced card advantage."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Repulsive Mutation combinait contresort et croissance.",
+        "Kellan, Inquisitive Prodigy et A Killer Among Us se distinguaient parmi ses cartes plus rares."
+      ],
+      "en": [
+        "Above the set average.",
+        "Repulsive Mutation combined a counterspell with growth.",
+        "Kellan, Inquisitive Prodigy and A Killer Among Us stood out among its rarer cards."
+      ]
+    },
+    "keyCards": [
+      "Evidence Examiner",
+      "Repulsive Mutation",
+      "Kellan, Inquisitive Prodigy",
+      "A Killer Among Us",
+      "Loxodon Eavesdropper",
+      "Projektor Inspector"
+    ],
+    "cover": "Evidence Examiner"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Cimetière et jetons : Insidious Roots donne mana et marqueurs aux jetons quand des cartes de créature quittent le cimetière. Les listes étaient surtout removal noire et corps verts à déguisement.",
+      "en": "Graveyard and tokens: Insidious Roots gives tokens mana and counters when creature cards leave the graveyard. Lists were mostly black removal with green disguise bodies."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Murder et Long Goodbye étaient de fortes removals.",
+        "Peu de récompenses de cimetière en commune."
+      ],
+      "en": [
+        "Below the set average.",
+        "Murder and Long Goodbye were strong removal.",
+        "Graveyard payoffs were few at common."
+      ]
+    },
+    "keyCards": [
+      "Kraul Whipcracker",
+      "Deadly Cover-Up",
+      "Long Goodbye",
+      "Murder",
+      "Loxodon Eavesdropper",
+      "Undercover Crocodelf"
+    ],
+    "cover": "Kraul Whipcracker"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Disguise",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Déguisement : Tin Street Gossip produit du mana pour les sorts face cachée et le retournement des créatures. Créatures rouges et vertes à déguisement, avec combat et brûlures.",
+      "en": "Disguise: Tin Street Gossip makes mana for face-down spells and turning creatures face up. Red and green disguise creatures with fight and burn removal."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Torch the Witness était sa meilleure removal.",
+        "Les créatures face cachée se retournaient lentement face à l'aggro rapide."
+      ],
+      "en": [
+        "Below the set average.",
+        "Torch the Witness was its best removal.",
+        "Face-down creatures were slow to flip against fast aggro."
+      ]
+    },
+    "keyCards": [
+      "Tin Street Gossip",
+      "Torch the Witness",
+      "A Killer Among Us",
+      "Get a Leg Up",
+      "Riftburst Hellion",
+      "Vengeful Creeper"
+    ],
+    "cover": "Tin Street Gossip"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Petites créatures : Wispdrinker Vampire draine à chaque arrivée d'une créature à faible force. Corps blancs et noirs bon marché, soutenus par de la removal.",
+      "en": "Small creatures: Wispdrinker Vampire drains whenever a creature with low power enters. Cheap white and black bodies backed by removal."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Novice Inspector et Snarling Gorehound remplissaient la courbe.",
+        "Makeshift Binding et Long Goodbye géraient les bloqueurs."
+      ],
+      "en": [
+        "Above the set average.",
+        "Novice Inspector and Snarling Gorehound filled the curve.",
+        "Makeshift Binding and Long Goodbye handled blockers."
+      ]
+    },
+    "keyCards": [
+      "Wispdrinker Vampire",
+      "Novice Inspector",
+      "Snarling Gorehound",
+      "Sanguine Savior",
+      "Makeshift Binding",
+      "Long Goodbye"
+    ],
+    "cover": "Wispdrinker Vampire"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Suspect",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Suspect : les créatures suspectées gagnent la menace et ne peuvent pas bloquer. Rune-Brand Juggler et Deadly Complication récompensaient le fait de suspecter vos créatures.",
+      "en": "Suspect: suspected creatures gain menace and cannot block. Rune-Brand Juggler and Deadly Complication rewarded suspecting your own creatures."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Murder et Shock apportaient la removal.",
+        "Peu de récompenses de suspect, et les meilleures communes rouges partaient chez Boros."
+      ],
+      "en": [
+        "Below the set average.",
+        "Murder and Shock gave removal.",
+        "Suspect payoffs were few, and red's best commons went to Boros."
+      ]
+    },
+    "keyCards": [
+      "Deadly Complication",
+      "Rune-Brand Juggler",
+      "Person of Interest",
+      "Reckless Detective",
+      "Murder",
+      "Shock"
+    ],
+    "cover": "Deadly Complication"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Clues",
+    "archetype": "control",
+    "summary": {
+      "fr": "Sacrifice d'Indices : Curious Cadaver revient en main quand un Indice est sacrifié. Les listes jouaient le contrôle avec de la removal comme Coerced to Kill et Murder.",
+      "en": "Clue sacrifice: Curious Cadaver returns to hand when a Clue is sacrificed. Lists played as control with removal such as Coerced to Kill and Murder."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire du set.",
+        "Coerced to Kill et Murder étaient forts, mais les menaces manquaient.",
+        "Le plan Indices était trop lent face à l'agression Boros."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "Coerced to Kill and Murder were strong, but the threats were thin.",
+        "The Clue plan was too slow against Boros aggression."
+      ]
+    },
+    "keyCards": [
+      "Coerced to Kill",
+      "Lazav, Wearer of Faces",
+      "Reasonable Doubt",
+      "Murder",
+      "Drag the Canal",
+      "Cold Case Cracker"
+    ],
+    "cover": "Coerced to Kill"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Midrange tricolore de cimetière avec la carte scindée sultai Flotsam // Jetsam et des rares comme Izoni, Center of the Web. Escape Tunnel et les terrains à surveillance corrigeaient le mana.",
+      "en": "Three-color graveyard midrange using the Sultai split card Flotsam // Jetsam and rares such as Izoni, Center of the Web. Escape Tunnel and surveil lands fixed the mana."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, le prix d'une base de mana tricolore.",
+        "Izoni, Center of the Web et Doppelgang étaient les rares qui le justifiaient.",
+        "Deadly Cover-Up et Repulsive Mutation venaient de ses composantes bleue et noire."
+      ],
+      "en": [
+        "Below the set average, the price of a three-color mana base.",
+        "Izoni, Center of the Web and Doppelgang were the rares that justified it.",
+        "Deadly Cover-Up and Repulsive Mutation came from its blue and black halves."
+      ]
+    },
+    "keyCards": [
+      "Izoni, Center of the Web",
+      "Doppelgang",
+      "Flotsam // Jetsam",
+      "Deadly Cover-Up",
+      "Repulsive Mutation"
+    ],
+    "cover": "Izoni, Center of the Web"
+  }
+]

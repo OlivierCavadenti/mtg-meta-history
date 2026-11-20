@@ -1,0 +1,301 @@
+[
+  {
+    "colors": "WR",
+    "name": "Boros Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures blanches et rouges à bas coût autour de Fallaji Vanguard, qui renforce une créature à chaque arrivée. Scrapwork Mutt et Recruitment Officer remplissaient la courbe, Obliterating Bolt dégageait les bloqueurs.",
+      "en": "Low-curve white and red creatures around Fallaji Vanguard, which pumps a creature whenever another enters. Scrapwork Mutt and Recruitment Officer kept the curve full, Obliterating Bolt cleared blockers."
+    },
+    "why": {
+      "fr": [
+        "Meilleur taux de victoire du set, devant les decks d'artefacts plus lents.",
+        "Recruitment Officer, Scrapwork Mutt et Airlift Chaplain remplissaient la courbe et la main.",
+        "Obliterating Bolt répondait aux grosses menaces prototype qui bloquaient la table."
+      ],
+      "en": [
+        "Best win rate of the set, ahead of the slower artifact decks.",
+        "Recruitment Officer, Scrapwork Mutt and Airlift Chaplain kept both the curve and the hand full.",
+        "Obliterating Bolt answered the big prototype threats that stalled the board."
+      ]
+    },
+    "keyCards": [
+      "Fallaji Vanguard",
+      "Recruitment Officer",
+      "Scrapwork Mutt",
+      "Airlift Chaplain",
+      "Obliterating Bolt",
+      "Giant Cindermaw"
+    ],
+    "cover": "Fallaji Vanguard"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Soldiers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Tribal Soldats : Yotian Tactician renforce les autres Soldats tandis que des volants comme Aeronaut Cavalry et Ambush Paratrooper, à flash, attaquent par les airs. Zephyr Sentinel rejoue un effet d'arrivée.",
+      "en": "Soldier tribal: Yotian Tactician pumps the other Soldiers while flyers such as Aeronaut Cavalry and the flash Ambush Paratrooper attack in the air. Zephyr Sentinel replays an arrival effect."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set, juste derrière Boros, grâce aux nombreux Soldats blancs en commune.",
+        "Airlift Chaplain trouvait les Soldats ; Zephyr Sentinel les relançait pour un nouvel effet.",
+        "Évasion et flash convenaient à un format où le sol se bloquait souvent."
+      ],
+      "en": [
+        "Second-best win rate of the set, just behind Boros, on a deep pool of white Soldier commons.",
+        "Airlift Chaplain found Soldiers; Zephyr Sentinel bounced them for a second trigger.",
+        "Evasion and flash fit a format where the ground often stalled."
+      ]
+    },
+    "keyCards": [
+      "Yotian Tactician",
+      "Zephyr Sentinel",
+      "Airlift Chaplain",
+      "Ambush Paratrooper",
+      "Aeronaut Cavalry"
+    ],
+    "cover": "Yotian Tactician"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Third Path Iconoclast transforme chaque sort non-créature en jeton Soldat. Le deck se remplissait d'artefacts bon marché et de sorts comme Mightstone's Animation et Machine Over Matter.",
+      "en": "Third Path Iconoclast turns each noncreature spell into a Soldier token. The deck filled its list with cheap artifacts and spells such as Mightstone's Animation and Machine Over Matter."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set, pour une part modeste du terrain.",
+        "Third Path Iconoclast et Thopter Mechanic récompensaient les nombreux artefacts bon marché du set.",
+        "Mishra's Research Desk assurait le flux de cartes qui maintenait le nombre de sorts."
+      ],
+      "en": [
+        "Above the set average with a modest share of the field.",
+        "Third Path Iconoclast and Thopter Mechanic rewarded the many cheap artifacts of the set.",
+        "Mishra's Research Desk gave the card flow that kept the spell count high."
+      ]
+    },
+    "keyCards": [
+      "Third Path Iconoclast",
+      "Thopter Mechanic",
+      "Mishra's Research Desk",
+      "Mightstone's Animation",
+      "Machine Over Matter",
+      "Combat Courier"
+    ],
+    "cover": "Third Path Iconoclast"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Deck de créatures rouge-vert autour d'Arbalest Engineers, dont l'arrivée inflige un dégât, renforce un attaquant ou crée un Powerstone. Gaea's Gift et Obstinate Baloth donnaient des corps solides, Excavation Explosion la removal.",
+      "en": "A red-green creature deck around Arbalest Engineers, whose arrival pings, grows an attacker or makes a Powerstone. Gaea's Gift and Obstinate Baloth gave it durable bodies, Excavation Explosion its removal."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set, avec Scrapwork Mutt et Gaea's Gift dans la plupart des listes.",
+        "Horned Stoneseeker et Obstinate Baloth tenaient le sol face aux decks agressifs blancs.",
+        "Peu de vraies synergies au-delà de bonnes communes : il restait derrière Boros et Azorius."
+      ],
+      "en": [
+        "Above the set average, with Scrapwork Mutt and Gaea's Gift in most lists.",
+        "Horned Stoneseeker and Obstinate Baloth held the ground against the white aggro decks.",
+        "Few real synergies beyond solid commons, so it trailed Boros and Azorius."
+      ]
+    },
+    "keyCards": [
+      "Arbalest Engineers",
+      "Scrapwork Mutt",
+      "Gaea's Gift",
+      "Horned Stoneseeker",
+      "Obstinate Baloth",
+      "Excavation Explosion"
+    ],
+    "cover": "Arbalest Engineers"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Artifacts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "L'archétype de Yotian Dissident : chaque artefact qui arrive renforce une créature. En pratique, un midrange de corps verts solides, de volants blancs comme Ambush Paratrooper et du récursif Scrapwork Cohort.",
+      "en": "Yotian Dissident's archetype: artifacts entering grow your creatures. In practice a midrange deck of solid green bodies, white flyers such as Ambush Paratrooper and the recursive Scrapwork Cohort."
+    },
+    "why": {
+      "fr": [
+        "Juste sous la moyenne du set, derrière les decks blancs agressifs.",
+        "Scrapwork Cohort et Argothian Opportunist apportaient de l'avantage de cartes sur des corps bon marché.",
+        "Peu de récompenses artefacts en commune : le thème se mettait rarement en place."
+      ],
+      "en": [
+        "Just below the set average, behind the aggressive white decks.",
+        "Scrapwork Cohort and Argothian Opportunist gave card advantage from cheap bodies.",
+        "Few artifact payoffs at common, so the theme rarely came together."
+      ]
+    },
+    "keyCards": [
+      "Scrapwork Cohort",
+      "Ambush Paratrooper",
+      "Argothian Opportunist",
+      "Gaea's Gift",
+      "Blanchwood Prowler",
+      "Steel Seraph"
+    ],
+    "cover": "Scrapwork Cohort"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Skyfisher Spider sacrifie une autre créature pour détruire un permanent non-terrain. Autour, des créatures de valeur comme Ravenous Gigamole et de la removal noire comme Overwhelming Remorse.",
+      "en": "Skyfisher Spider sacrifices another creature to destroy a nonland permanent. Around it, value creatures such as Ravenous Gigamole and black removal like Overwhelming Remorse."
+    },
+    "why": {
+      "fr": [
+        "L'une des paires les plus jouées, juste sous la moyenne du set.",
+        "Skyfisher Spider était sa meilleure carte : une removal sur un corps avec portée.",
+        "Plus lent que les decks blancs, il misait sur les échanges et l'avantage de cartes."
+      ],
+      "en": [
+        "One of the most played pairs, just under the set average.",
+        "Skyfisher Spider was its best card: removal on a body with reach.",
+        "Slower than the white decks, it relied on trades and card advantage."
+      ]
+    },
+    "keyCards": [
+      "Skyfisher Spider",
+      "Ravenous Gigamole",
+      "Overwhelming Remorse",
+      "Blanchwood Prowler",
+      "Mask of the Jadecrafter",
+      "Disfigure"
+    ],
+    "cover": "Skyfisher Spider"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Artifacts",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Junkyard Genius crée un Powerstone et sacrifie artefacts ou créatures pour donner menace et célérité à l'équipe. Goblin Blast-Runner et Penregon Strongbull convertissaient les artefacts en trop en dégâts.",
+      "en": "Junkyard Genius makes a Powerstone and sacrifices artifacts or creatures to give the team menace and haste. Goblin Blast-Runner and Penregon Strongbull turned spare artifacts into damage."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée du set, avec un taux de victoire sous la moyenne.",
+        "Penregon Strongbull et Goblin Blast-Runner récompensaient un flux régulier d'artefacts bon marché.",
+        "La removal noire était forte, mais le deck manquait de l'évasion des decks blancs."
+      ],
+      "en": [
+        "The most played pair of the set, with a win rate below the average.",
+        "Penregon Strongbull and Goblin Blast-Runner rewarded a steady supply of cheap artifacts.",
+        "Black removal was strong, but the deck lacked the evasion of the white aggro decks."
+      ]
+    },
+    "keyCards": [
+      "Junkyard Genius",
+      "Goblin Blast-Runner",
+      "Penregon Strongbull",
+      "Mishra's Research Desk",
+      "Horned Stoneseeker",
+      "Excavation Explosion"
+    ],
+    "cover": "Junkyard Genius"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Recursion",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Hero of the Dunes ramène du cimetière un artefact ou une créature bon marché et renforce les créatures peu coûteuses. Le deck échangeait tôt, puis récupérait de la valeur avec Hero et Ravenous Gigamole.",
+      "en": "Hero of the Dunes returns a cheap artifact or creature from the graveyard and pumps low-cost creatures. The deck traded early, then rebought value with Hero and Ravenous Gigamole."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set malgré de bons Soldats blancs et la removal noire.",
+        "Airlift Chaplain et Ambush Paratrooper portaient la moitié blanche.",
+        "La récursion était plus lente que Boros et Azorius, qui prenaient les mêmes cartes blanches."
+      ],
+      "en": [
+        "Below the set average despite strong white Soldiers and black removal.",
+        "Airlift Chaplain and Ambush Paratrooper carried the white half.",
+        "The recursion plan was slower than the Boros and Azorius decks that shared its white cards."
+      ]
+    },
+    "keyCards": [
+      "Hero of the Dunes",
+      "Airlift Chaplain",
+      "Ambush Paratrooper",
+      "Ravenous Gigamole",
+      "Overwhelming Remorse",
+      "Go for the Throat"
+    ],
+    "cover": "Hero of the Dunes"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Draw Two",
+    "archetype": "control",
+    "summary": {
+      "fr": "Evangel of Synthesis récompense la deuxième pioche du tour. Le filtrage, Combat Courier et Energy Refractor l'alimentaient pendant que la removal noire gérait la table.",
+      "en": "Evangel of Synthesis rewards drawing a second card in a turn. Looting, Combat Courier and Energy Refractor fed it while black removal handled the board."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set : les récompenses de double pioche étaient rares et lentes.",
+        "Disfigure et Go for the Throat étaient la principale raison de jouer noir.",
+        "Du flux de cartes sans pression peinait face aux decks agressifs blancs."
+      ],
+      "en": [
+        "Below the set average: the draw-two payoffs were few and slow.",
+        "Disfigure and Go for the Throat were the main reason to play black.",
+        "Card flow without pressure struggled against the white aggro decks."
+      ]
+    },
+    "keyCards": [
+      "Evangel of Synthesis",
+      "Combat Courier",
+      "Energy Refractor",
+      "Disfigure",
+      "Go for the Throat",
+      "Mightstone's Animation"
+    ],
+    "cover": "Evangel of Synthesis"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Powerstones",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Battery Bearer permet aux créatures de produire du mana incolore pour les artefacts, en visant de grosses menaces comme Rust Goliath. Rampe verte et pioche bleue complétaient la liste.",
+      "en": "Battery Bearer lets creatures tap for colorless mana usable on artifacts, aiming at big artifact threats such as Rust Goliath. Green ramp and blue card draw filled the rest."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des paires du set.",
+        "La rampe Powerstone était lente dans un format dominé par des decks blancs rapides.",
+        "Ses meilleures communes, comme Stern Lesson, étaient aussi prises par des decks bleus plus forts."
+      ],
+      "en": [
+        "The lowest win rate among the set's pairs.",
+        "Powerstone ramp was slow in a format decided by fast white decks.",
+        "Its best commons, such as Stern Lesson, were also taken by stronger blue decks."
+      ]
+    },
+    "keyCards": [
+      "Battery Bearer",
+      "Rust Goliath",
+      "Argothian Opportunist",
+      "Stern Lesson",
+      "Citanul Stalwart",
+      "Mask of the Jadecrafter"
+    ],
+    "cover": "Battery Bearer"
+  }
+]

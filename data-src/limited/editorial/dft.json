@@ -1,0 +1,152 @@
+[
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Valeur du cimetière : Pothole Mole et Dredger's Insight meulent, Back on Track et Molt Tender récupèrent, Thundering Broodwagon sert de removal.",
+      "en": "Graveyard value: Pothole Mole and Dredger's Insight mill, Back on Track and Molt Tender recover, and Thundering Broodwagon acts as removal."
+    },
+    "why": {
+      "fr": ["Paire la plus jouée, avec l'un des deux meilleurs taux de victoire.", "Thundering Broodwagon : removal sur un véhicule qui peut aussi cycler.", "La récursion survivait aux decks de vitesse."],
+      "en": ["The most played pair, with one of the two best win rates.", "Thundering Broodwagon was removal on a Vehicle that could also cycle.", "Graveyard recursion outlasted the speed decks."]
+    },
+    "keyCards": ["Thundering Broodwagon", "Pothole Mole", "Migrating Ketradon", "Back on Track", "Molt Tender"],
+    "cover": "Thundering Broodwagon"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Exhaust",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe et exhaust : Skyserpent Seeker met des terrains en jeu, le mana en surplus paie les capacités exhaust en fin de partie.",
+      "en": "Ramp and exhaust: Skyserpent Seeker puts lands into play, and surplus mana pays for exhaust abilities late in the game."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set.", "Skyserpent Seeker, volant à contact mortel, bloquait puis accélérait.", "Les capacités exhaust offraient des puits à mana en fin de partie."],
+      "en": ["The best win rate of the set.", "Skyserpent Seeker, a deathtouch flier, blocked early and ramped later.", "Exhaust abilities gave mana sinks for the late game."]
+    },
+    "keyCards": ["Skyserpent Seeker", "Stampeding Scurryfoot", "Migrating Ketradon", "Hazard of the Dunes", "Lumbering Worldwagon"],
+    "cover": "Skyserpent Seeker"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Artifacts",
+    "archetype": "control",
+    "summary": {
+      "fr": "Artefacts et drain : une base d'artefacts alimente Haunt the Network et Pactdoll Terror, qui drainent l'adversaire.",
+      "en": "Artifacts and drain: a base of artifacts fuels Haunt the Network and Pactdoll Terror, which drain the opponent."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Pactdoll Terror et Haunt the Network dans la plupart des decks.", "Dépendait du nombre d'artefacts, disputés avec Azorius."],
+      "en": ["Close to the set average.", "Pactdoll Terror and Haunt the Network were in most decks.", "It depended on artifact count, contested with Azorius."]
+    },
+    "keyCards": ["Haunt the Network", "Pactdoll Terror", "Wreckage Wickerfolk", "Grim Bauble", "Guidelight Optimizer"],
+    "cover": "Haunt the Network"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Cycling",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Cycle et défausse : Broadside Barrage et le cycle remplissent la main et déclenchent les récompenses de défausse, sous pression constante.",
+      "en": "Cycling and discard: Broadside Barrage and cycling filter the hand and trigger discard payoffs under constant pressure."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Broadside Barrage combinait removal et filtrage.", "Les récompenses de défausse demandaient beaucoup de cartes à cycler."],
+      "en": ["Below the set average.", "Broadside Barrage combined removal and looting.", "Discard payoffs needed many cards to cycle."]
+    },
+    "keyCards": ["Broadside Barrage", "Thunderhead Gunner", "Howler's Heavy", "Greasewrench Goblin", "Lightning Strike"],
+    "cover": "Broadside Barrage"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Exhaust",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Pression et exhaust : Rocketeer Boostbuggy et les créatures vertes attaquent, Boom Scholar rend les capacités exhaust moins chères.",
+      "en": "Pressure and exhaust: Rocketeer Boostbuggy and green creatures attack, while Boom Scholar makes exhaust abilities cheaper."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Road Rage et Burnout Bashtronaut avaient de bons taux.", "Les capacités exhaust donnaient de la portée en fin de partie."],
+      "en": ["Above the set average.", "Road Rage and Burnout Bashtronaut had strong win rates.", "Exhaust abilities gave reach in the late game."]
+    },
+    "keyCards": ["Boom Scholar", "Rocketeer Boostbuggy", "Road Rage", "Burnout Bashtronaut", "Stampeding Scurryfoot"],
+    "cover": "Boom Scholar"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Speed",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Vitesse : toucher l'adversaire chaque tour fait monter la vitesse ; Gastal Thrillseeker et le removal bon marché ouvrent la route.",
+      "en": "Speed: hitting the opponent each turn raises speed; Gastal Thrillseeker and cheap removal clear the road."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Gastal Thrillseeker, dans la plupart des decks, avec un haut taux.", "Engine Rat et Hour of Victory parmi ses meilleures cartes."],
+      "en": ["Above the set average.", "Gastal Thrillseeker, in most decks, had a high win rate.", "Engine Rat and Hour of Victory were among its better cards."]
+    },
+    "keyCards": ["Gastal Thrillseeker", "Far Fortune, End Boss", "Engine Rat", "Hour of Victory", "Burnout Bashtronaut"],
+    "cover": "Gastal Thrillseeker"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Mounts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Montures et véhicules : les créatures sellent et pilotent, Veteran Beastrider dégage tout à la fin du tour et pompe l'équipe.",
+      "en": "Mounts and Vehicles: creatures saddle and crew, and Veteran Beastrider untaps the team at end of turn and pumps it."
+    },
+    "why": {
+      "fr": ["L'un des meilleurs taux de victoire du set.", "Veteran Beastrider et Ride's End dans la plupart des decks.", "Gloryheath Lynx avait l'un des meilleurs taux de ses cartes."],
+      "en": ["Among the best win rates of the set.", "Veteran Beastrider and Ride's End were in most decks.", "Gloryheath Lynx had one of the best win rates among its cards."]
+    },
+    "keyCards": ["Veteran Beastrider", "Gloryheath Lynx", "Ride's End", "Stampeding Scurryfoot", "Gallant Strike"],
+    "cover": "Veteran Beastrider"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Artifacts",
+    "archetype": "control",
+    "summary": {
+      "fr": "Valeur d'artefacts : une table d'artefacts réduit Voyage Home et alimente les créatures, l'exhaust gagne la fin de partie.",
+      "en": "Artifact value: a board of artifacts discounts Voyage Home and powers the creatures, while exhaust wins the late game."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Riptide Gearhulk et Gloryheath Lynx parmi ses meilleures cartes.", "Plan lent dans un format de vitesse."],
+      "en": ["Below the set average.", "Riptide Gearhulk and Gloryheath Lynx did best among its cards.", "A slow plan in a format built on speed."]
+    },
+    "keyCards": ["Voyage Home", "Riptide Gearhulk", "Voyager Quickwelder", "Ride's End", "Stock Up"],
+    "cover": "Voyage Home"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Speed",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Vitesse maximale : Embalmed Ascendant fait monter la vitesse en début de partie, puis chaque créature qui meurt draine l'adversaire.",
+      "en": "Max speed: Embalmed Ascendant raises speed early, then every creature that dies drains the opponent."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne, pour peu de joueurs.", "Embalmed Ascendant et Wreckage Wickerfolk, dans la plupart des decks.", "Engine Rat et Gallant Strike entretenaient la pression."],
+      "en": ["Above the set average, from few drafters.", "Embalmed Ascendant and Wreckage Wickerfolk were in most decks.", "Engine Rat and Gallant Strike kept the pressure on."]
+    },
+    "keyCards": ["Embalmed Ascendant", "Wreckage Wickerfolk", "Engine Rat", "Gallant Strike", "Nesting Bot"],
+    "cover": "Embalmed Ascendant"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Vehicles",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Véhicules et pilotes : Cloudspire Coordinator crée des pilotes quand montures et véhicules arrivent, pour équiper et attaquer.",
+      "en": "Vehicles and pilots: Cloudspire Coordinator makes Pilots as Mounts and Vehicles arrive, to crew and attack."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "Les véhicules demandaient des équipages que les decks n'avaient pas toujours.", "Gloryheath Lynx et Road Rage parmi ses meilleures cartes."],
+      "en": ["The lowest win rate of the set.", "Vehicles needed crew the decks did not always have.", "Gloryheath Lynx and Road Rage were among its better cards."]
+    },
+    "keyCards": ["Cloudspire Coordinator", "Cloudspire Skycycle", "Gloryheath Lynx", "Road Rage", "Lightning Strike"],
+    "cover": "Cloudspire Coordinator"
+  }
+]

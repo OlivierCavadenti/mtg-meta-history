@@ -1,0 +1,392 @@
+[
+  {
+    "colors": "WR",
+    "name": "Lorehold Graveyard",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Lorehold : des cartes qui quittent le cimetière (flashback, exil de Rubble Rouser) déclenchent Spirit Mascot, Kirol, History Buff et Wilt in the Heat. Kirol en était le signpost.",
+      "en": "Lorehold: cards leaving the graveyard (flashback, Rubble Rouser's exile) trigger Spirit Mascot, Kirol, History Buff and Wilt in the Heat. Kirol was the signpost."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée et, à égalité avec Silverquill, le meilleur taux de victoire du set.",
+        "Pursue the Past, Spirit Mascot et Wilt in the Heat : trois communes multicolores au cœur du deck.",
+        "Molten Note et Practiced Scrollsmith figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The most-played pair and, tied with Silverquill, the best win rate of the set.",
+        "Pursue the Past, Spirit Mascot and Wilt in the Heat: three gold commons at the core.",
+        "Molten Note and Practiced Scrollsmith were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Spirit Mascot",
+      "Pursue the Past",
+      "Wilt in the Heat",
+      "Rubble Rouser",
+      "Molten Note",
+      "Startled Relic Sloth"
+    ],
+    "cover": "Spirit Mascot"
+  },
+  {
+    "colors": "UR",
+    "name": "Prismari Opus",
+    "archetype": "control",
+    "summary": {
+      "fr": "Prismari : instants et rituels, l'opus récompense les sorts lancés et plus encore ceux à cinq mana ou plus. Sanar, Unfinished Genius trouve un sort, Stress Dream et Vibrant Outburst tiennent le board.",
+      "en": "Prismari: instants and sorceries, with opus rewarding each spell and more so those costing five or more. Sanar, Unfinished Genius finds a spell, Stress Dream and Vibrant Outburst hold the board."
+    },
+    "why": {
+      "fr": [
+        "Deuxième paire la plus jouée, mais sous la moyenne du set.",
+        "Peu de créatures communes de qualité : le deck dépendait de ses sorts.",
+        "Stress Dream et Splatter Technique figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The second most-played pair, but below the set average.",
+        "Few good common creatures: the deck depended on its spells.",
+        "Stress Dream and Splatter Technique were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Sanar, Unfinished Genius",
+      "Stress Dream",
+      "Vibrant Outburst",
+      "Tome Blast",
+      "Elemental Mascot",
+      "Splatter Technique"
+    ],
+    "cover": "Sanar, Unfinished Genius"
+  },
+  {
+    "colors": "WB",
+    "name": "Silverquill Repartee",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Silverquill : le repartee déclenche quand un instant ou un rituel cible une créature. Inkling Mascot, Melancholic Poet et Scolding Administrator grandissent ou drainent à chaque sort.",
+      "en": "Silverquill: repartee triggers when an instant or sorcery targets a creature. Inkling Mascot, Melancholic Poet and Scolding Administrator grow or drain with each spell."
+    },
+    "why": {
+      "fr": [
+        "À égalité avec Lorehold pour le meilleur taux de victoire du set.",
+        "Elite Interceptor, Last Gasp et Cost of Brilliance : des déclencheurs de repartee bon marché.",
+        "Silverquill Charm et Scolding Administrator figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Tied with Lorehold for the best win rate of the set.",
+        "Elite Interceptor, Last Gasp and Cost of Brilliance were cheap repartee triggers at common.",
+        "Silverquill Charm and Scolding Administrator were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Inkling Mascot",
+      "Imperious Inkmage",
+      "Silverquill Charm",
+      "Elite Interceptor",
+      "Render Speechless",
+      "Stirring Honormancer"
+    ],
+    "cover": "Inkling Mascot"
+  },
+  {
+    "colors": "BG",
+    "name": "Witherbloom Infusion",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Witherbloom : gain de vie et Pests. Bogwater Lumaret et les jetons Pest font gagner de la vie, l'infusion (Poisoner's Apprentice, Thornfist Striker) et Pest Mascot en profitent.",
+      "en": "Witherbloom: life gain and Pests. Bogwater Lumaret and Pest tokens gain life, which infusion (Poisoner's Apprentice, Thornfist Striker) and Pest Mascot exploit."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, loin des deux paires blanches.",
+        "Grapple with Death et Last Gasp : un removal commun solide.",
+        "Essenceknit Scholar et Pestbrood Sloth figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Below the set average, well behind the two white pairs.",
+        "Grapple with Death and Last Gasp gave solid common removal.",
+        "Essenceknit Scholar and Pestbrood Sloth were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Essenceknit Scholar",
+      "Pest Mascot",
+      "Bogwater Lumaret",
+      "Lluwen, Exchange Student",
+      "Last Gasp",
+      "Poisoner's Apprentice"
+    ],
+    "cover": "Essenceknit Scholar"
+  },
+  {
+    "colors": "UG",
+    "name": "Quandrix Increment",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Quandrix : increment (un marqueur +1/+1 quand on dépense plus de mana que la force ou l'endurance), jetons Fractal et sorts à X. Paradox Surveyor trouve terrains et cartes à X.",
+      "en": "Quandrix: increment (a +1/+1 counter when you spend more mana than power or toughness), Fractal tokens and X spells. Paradox Surveyor finds lands and X cards."
+    },
+    "why": {
+      "fr": [
+        "Taux légèrement sous la moyenne du set.",
+        "Noxious Newt, deathtouch et mana, était sa commune la plus jouée.",
+        "Paradox Surveyor et Environmental Scientist fixaient le mana et menaient aux gros sorts."
+      ],
+      "en": [
+        "Win rate slightly below the set average.",
+        "Noxious Newt, with deathtouch and mana, was its most-played common.",
+        "Paradox Surveyor and Environmental Scientist fixed the mana and led to the big spells."
+      ]
+    },
+    "keyCards": [
+      "Fractal Tender",
+      "Proctor's Gaze",
+      "Additive Evolution",
+      "Noxious Newt",
+      "Fractal Mascot",
+      "Pestbrood Sloth"
+    ],
+    "cover": "Fractal Tender"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Converge",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe et converge : Studious First-Year, Potioner's Trove et les terrains bicolores ajoutent des couleurs, que Snarl Song et les Archaics convertissent en jetons, cartes et removal.",
+      "en": "Ramp and converge: Studious First-Year, Potioner's Trove and the dual lands add colors, which Snarl Song and the Archaics convert into tokens, cards and removal."
+    },
+    "why": {
+      "fr": [
+        "La combinaison tricolore la plus jouée, sous la moyenne du set.",
+        "Snarl Song et Sundering Archaic figuraient parmi ses cartes les plus gagnantes.",
+        "Essence Scatter et Run Behind protégeaient un plan lent."
+      ],
+      "en": [
+        "The most-played three-color combination, below the set average.",
+        "Snarl Song and Sundering Archaic were among its best-performing cards.",
+        "Essence Scatter and Run Behind protected a slow plan."
+      ]
+    },
+    "keyCards": [
+      "Snarl Song",
+      "Sundering Archaic",
+      "Transcendent Archaic",
+      "Potioner's Trove",
+      "Studious First-Year",
+      "Stress Dream"
+    ],
+    "cover": "Snarl Song"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Converge",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Le même plan converge avec du noir : Studious First-Year et Potioner's Trove fixent, Arcane Omens fait défausser selon les couleurs dépensées, Snarl Song et les Archaics finissent.",
+      "en": "The same converge plan with black: Studious First-Year and Potioner's Trove fix, Arcane Omens discards by colors spent, and Snarl Song and the Archaics finish."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des combinaisons principales du set.",
+        "Arcane Omens et Sundering Archaic figuraient parmi ses cartes les plus gagnantes.",
+        "Trop lent face aux paires blanches, Lorehold et Silverquill."
+      ],
+      "en": [
+        "The lowest win rate of the set's main combinations.",
+        "Arcane Omens and Sundering Archaic were among its best-performing cards.",
+        "Too slow against the white pairs, Lorehold and Silverquill."
+      ]
+    },
+    "keyCards": [
+      "Arcane Omens",
+      "Snarl Song",
+      "Sundering Archaic",
+      "Mind into Matter",
+      "Fractal Tender",
+      "Studious First-Year"
+    ],
+    "cover": "Arcane Omens"
+  },
+  {
+    "colors": "WUR",
+    "name": "Jeskai Spells",
+    "archetype": "control",
+    "summary": {
+      "fr": "Lorehold et Prismari réunis : Pursue the Past et le flashback alimentent le cimetière, Stress Dream, Vibrant Outburst et Molten Note contrôlent, Zealous Lorecaster recycle un sort.",
+      "en": "Lorehold and Prismari combined: Pursue the Past and flashback work the graveyard, Stress Dream, Vibrant Outburst and Molten Note control, and Zealous Lorecaster rebuys a spell."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, mais meilleur que Prismari seul.",
+        "Pursue the Past et Tome Blast, à flashback, donnaient de la valeur sur la durée.",
+        "Stress Dream et Ajani's Response figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Below the set average, but better than plain Prismari.",
+        "Pursue the Past and Tome Blast, with flashback, gave value over time.",
+        "Stress Dream and Ajani's Response were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Pursue the Past",
+      "Stress Dream",
+      "Vibrant Outburst",
+      "Practiced Scrollsmith",
+      "Colossus of the Blood Age",
+      "Zealous Lorecaster"
+    ],
+    "cover": "Practiced Scrollsmith"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Converge",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Une paire sans collège : base rouge et verte, mana fixé par Studious First-Year et Potioner's Trove, gros sorts converge et Archaics en fin de courbe.",
+      "en": "A pair without a college: a red and green base, mana fixed by Studious First-Year and Potioner's Trove, converge spells and Archaics at the top."
+    },
+    "why": {
+      "fr": [
+        "Presque jamais jouée : le set orientait vers les collèges ennemis.",
+        "Tome Blast et Heated Argument donnaient le removal rouge.",
+        "Taux proche de la moyenne du set, sur un échantillon minime."
+      ],
+      "en": [
+        "Almost never played: the set steered drafters toward the enemy colleges.",
+        "Tome Blast and Heated Argument gave the red removal.",
+        "Rate close to the set average, on a tiny sample."
+      ]
+    },
+    "keyCards": [
+      "Wildgrowth Archaic",
+      "Sundering Archaic",
+      "Studious First-Year",
+      "Tome Blast",
+      "Heated Argument",
+      "Snarl Song"
+    ],
+    "cover": "Wildgrowth Archaic"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Une paire sans collège : counters, pioche (Quick Study, Landscape Painter) et removal noir, avec Arcane Omens et Sundering Archaic pour les tours longs.",
+      "en": "A pair without a college: counters, card draw (Quick Study, Landscape Painter) and black removal, with Arcane Omens and Sundering Archaic for long games."
+    },
+    "why": {
+      "fr": [
+        "Presque jamais jouée, et nettement sous la moyenne du set.",
+        "Wander Off et Last Gasp restaient de bons removal communs.",
+        "Aucune carte multicolore commune pour lier les deux couleurs."
+      ],
+      "en": [
+        "Almost never played, and clearly below the set average.",
+        "Wander Off and Last Gasp were still good common removal.",
+        "No common gold card tied the two colors together."
+      ]
+    },
+    "keyCards": [
+      "Arcane Omens",
+      "Essence Scatter",
+      "Last Gasp",
+      "Quick Study",
+      "Landscape Painter",
+      "Sundering Archaic"
+    ],
+    "cover": "Arcane Omens"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une paire sans collège : removal noir et rouge (Wander Off, Heated Argument), créatures à opus comme Tackle Artist et les Emeritus en rare.",
+      "en": "A pair without a college: black and red removal (Wander Off, Heated Argument), opus creatures such as Tackle Artist, and the Emeritus rares."
+    },
+    "why": {
+      "fr": [
+        "Presque jamais jouée, sous la moyenne du set.",
+        "Tackle Artist et Rubble Rouser figuraient parmi ses cartes les plus gagnantes.",
+        "Aucune carte multicolore commune pour lier les deux couleurs."
+      ],
+      "en": [
+        "Almost never played, below the set average.",
+        "Tackle Artist and Rubble Rouser were among its best-performing cards.",
+        "No common gold card tied the two colors together."
+      ]
+    },
+    "keyCards": [
+      "Emeritus of Conflict",
+      "Emeritus of Woe",
+      "Tackle Artist",
+      "Rubble Rouser",
+      "Heated Argument",
+      "Wander Off"
+    ],
+    "cover": "Emeritus of Conflict"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Une paire sans collège : Elite Interceptor et Essence Scatter, cartes Silverquill empruntées (Imperious Inkmage, Stirring Honormancer) et Mathemagics en rare.",
+      "en": "A pair without a college: Elite Interceptor and Essence Scatter, borrowed Silverquill cards (Imperious Inkmage, Stirring Honormancer) and the rare Mathemagics."
+    },
+    "why": {
+      "fr": [
+        "Presque jamais jouée, et l'un des plus faibles taux de victoire du set.",
+        "Les cartes bleues de contrôle manquaient de pression.",
+        "Elite Interceptor restait sa carte la plus jouée."
+      ],
+      "en": [
+        "Almost never played, and one of the lowest win rates of the set.",
+        "Its blue control cards lacked pressure.",
+        "Elite Interceptor remained its most-played card."
+      ]
+    },
+    "keyCards": [
+      "Elite Interceptor",
+      "Essence Scatter",
+      "Imperious Inkmage",
+      "Stirring Honormancer",
+      "Mathemagics",
+      "Run Behind"
+    ],
+    "cover": "Mathemagics"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une paire sans collège : créatures blanches de Silverquill (Elite Interceptor, Eager Glyphmage) et rampe verte (Studious First-Year), avec Mind into Matter en rare.",
+      "en": "A pair without a college: white Silverquill creatures (Elite Interceptor, Eager Glyphmage) and green ramp (Studious First-Year), with the rare Mind into Matter."
+    },
+    "why": {
+      "fr": [
+        "La combinaison la moins jouée du set, sous la moyenne.",
+        "Aucune carte multicolore commune pour lier les deux couleurs.",
+        "Eager Glyphmage figurait parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The least-played combination of the set, below average.",
+        "No common gold card tied the two colors together.",
+        "Eager Glyphmage was among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Elite Interceptor",
+      "Eager Glyphmage",
+      "Studious First-Year",
+      "Pestbrood Sloth",
+      "Mind into Matter",
+      "Slumbering Trudge"
+    ],
+    "cover": "Eager Glyphmage"
+  }
+]

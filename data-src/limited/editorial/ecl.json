@@ -1,0 +1,332 @@
+[
+  {
+    "colors": "BG",
+    "name": "Golgari Elves",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les Elfes de Lorwyn : mill et surveil remplissent le cimetière d'Elfes, que Dawnhand Eulogist convertit en drain et Morcant's Loyalist en recursion. Eclipsed Elf et Morcant's Loyalist en étaient les signposts.",
+      "en": "Lorwyn's Elves: mill and surveil fill the graveyard with Elves, which Dawnhand Eulogist turns into a drain and Morcant's Loyalist into recursion. Eclipsed Elf and Morcant's Loyalist were the signposts."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée du set et son meilleur taux de victoire.",
+        "Dawnhand Eulogist, Scarblade Scout et Lys Alana Informant : une base commune très profonde.",
+        "Bogslither's Embrace et Blight Rot donnaient au noir un removal sûr."
+      ],
+      "en": [
+        "The most-played pair of the set and its best win rate.",
+        "Dawnhand Eulogist, Scarblade Scout and Lys Alana Informant made a very deep common base.",
+        "Bogslither's Embrace and Blight Rot gave black reliable removal."
+      ]
+    },
+    "keyCards": [
+      "Morcant's Loyalist",
+      "Eclipsed Elf",
+      "Dawnhand Eulogist",
+      "Scarblade Scout",
+      "Lys Alana Informant",
+      "Safewright Cavalry"
+    ],
+    "cover": "Morcant's Loyalist"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Merfolk",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les Merfolk : des créatures qui déclenchent en s'engageant (Wanderbrine Preacher, Silvergill Peddler), du convoke pour les gros sorts, et Deepchannel Duelist pour gonfler la tribu.",
+      "en": "Merfolk: creatures that trigger when they become tapped (Wanderbrine Preacher, Silvergill Peddler), convoke for the big spells, and Deepchannel Duelist to pump the tribe."
+    },
+    "why": {
+      "fr": [
+        "Deuxième paire la plus jouée, avec l'un des meilleurs taux de victoire.",
+        "Merrow Skyswimmer, à convoke, était la commune la plus jouée du deck.",
+        "Les signposts Deepchannel Duelist et Eclipsed Merrow faisaient partie de ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The second most-played pair, with one of the best win rates.",
+        "Merrow Skyswimmer, with convoke, was the deck's most-played common.",
+        "The signposts Deepchannel Duelist and Eclipsed Merrow were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Deepchannel Duelist",
+      "Eclipsed Merrow",
+      "Merrow Skyswimmer",
+      "Wanderbrine Preacher",
+      "Gravelgill Scoundrel",
+      "Unexpected Assistance"
+    ],
+    "cover": "Deepchannel Duelist"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Elementals",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Les Elementals : Flamebraider et les Treasures de Flamekin Gildweaver accélèrent vers les sorts à quatre ou plus, Twinflame Travelers double les déclencheurs de la tribu.",
+      "en": "Elementals: Flamebraider and Flamekin Gildweaver's Treasures ramp into spells costing four or more, and Twinflame Travelers doubles the tribe's triggers."
+    },
+    "why": {
+      "fr": [
+        "Cinder Strike, Feed the Flames et Sear : du removal rouge en quantité.",
+        "Kulrath Zealot et Flaring Cinder, en commune, donnaient de l'avantage de cartes.",
+        "Au-dessus de la moyenne, derrière Golgari, Azorius et Selesnya."
+      ],
+      "en": [
+        "Cinder Strike, Feed the Flames and Sear gave plenty of red removal.",
+        "Kulrath Zealot and Flaring Cinder, at common, supplied card advantage.",
+        "Above the set average, behind Golgari, Azorius and Selesnya."
+      ]
+    },
+    "keyCards": [
+      "Twinflame Travelers",
+      "Eclipsed Flamekin",
+      "Flamekin Gildweaver",
+      "Flaring Cinder",
+      "Cinder Strike",
+      "Ashling's Command"
+    ],
+    "cover": "Twinflame Travelers"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Kithkin",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les Kithkin : une équipe large de petites créatures, avec des bonus à chaque arrivée sur le champ de bataille (Thoughtweft Lieutenant, Crossroads Watcher) et des pumps d'équipe.",
+      "en": "Kithkin: a wide team of small creatures, with bonuses each time a creature enters (Thoughtweft Lieutenant, Crossroads Watcher) and team pumps."
+    },
+    "why": {
+      "fr": [
+        "Mistmeadow Council, Wary Farmer et Timid Shieldbearer : une courbe commune solide.",
+        "Eclipsed Kithkin figurait parmi les cartes les plus gagnantes du deck.",
+        "Taux de victoire parmi les meilleurs du set, juste derrière Golgari et Azorius."
+      ],
+      "en": [
+        "Mistmeadow Council, Wary Farmer and Timid Shieldbearer made a solid common curve.",
+        "Eclipsed Kithkin was among the deck's best-performing cards.",
+        "Win rate among the best of the set, just behind Golgari and Azorius."
+      ]
+    },
+    "keyCards": [
+      "Thoughtweft Lieutenant",
+      "Eclipsed Kithkin",
+      "Mistmeadow Council",
+      "Wary Farmer",
+      "Timid Shieldbearer",
+      "Kinbinding"
+    ],
+    "cover": "Thoughtweft Lieutenant"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Goblins",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les Goblins et le blight : des jetons Goblin à sacrifier ou à charger de marqueurs -1/-1, et Boggart Cursecrafter qui inflige des dégâts à chaque Goblin mort.",
+      "en": "Goblins and blight: Goblin tokens to sacrifice or load with -1/-1 counters, and Boggart Cursecrafter dealing damage each time a Goblin dies."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des cinq paires tribales.",
+        "Gristle Glutton et Boggart Prankster, très joués, restaient des créatures modestes.",
+        "Eclipsed Boggart et Grub's Command figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The lowest win rate of the five tribal pairs.",
+        "Gristle Glutton and Boggart Prankster, heavily played, were modest creatures.",
+        "Eclipsed Boggart and Grub's Command were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Boggart Cursecrafter",
+      "Eclipsed Boggart",
+      "Boggart Mischief",
+      "Gristle Glutton",
+      "Boggart Prankster",
+      "Bogslither's Embrace"
+    ],
+    "cover": "Boggart Cursecrafter"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Vivid",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Mana de toutes les couleurs pour le vivid : Foraging Wickermaw, Great Forest Druid et Noggle Robber fixent le mana, puis Prismabasher, Shinestriker et Explosive Prodigy comptent les couleurs.",
+      "en": "Mana of every color for vivid: Foraging Wickermaw, Great Forest Druid and Noggle Robber fix the mana, then Prismabasher, Shinestriker and Explosive Prodigy count the colors."
+    },
+    "why": {
+      "fr": [
+        "La seule combinaison tricolore assez jouée pour figurer ici.",
+        "Sous la moyenne du set : un plan lent face aux decks tribaux.",
+        "Les effets vivid (Shinestriker, Explosive Prodigy) en étaient les cartes les plus gagnantes."
+      ],
+      "en": [
+        "The only three-color combination played enough to appear here.",
+        "Below the set average: a slow plan against the tribal decks.",
+        "The vivid cards (Shinestriker, Explosive Prodigy) were its best performers."
+      ]
+    },
+    "keyCards": [
+      "Prismabasher",
+      "Shinestriker",
+      "Explosive Prodigy",
+      "Noggle Robber",
+      "Foraging Wickermaw",
+      "Kulrath Zealot"
+    ],
+    "cover": "Prismabasher"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Vivid",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe et vivid : Great Forest Druid et Foraging Wickermaw ajoutent des couleurs, Prismabasher et Aurora Awakener en tirent parti. Noggle Robber était le signpost.",
+      "en": "Ramp and vivid: Great Forest Druid and Foraging Wickermaw add colors, Prismabasher and Aurora Awakener cash them in. Noggle Robber was the signpost."
+    },
+    "why": {
+      "fr": [
+        "Une paire marginale, nettement sous la moyenne du set.",
+        "Cinder Strike et Kulrath Zealot venaient du rouge des Elementals, sans leur soutien tribal.",
+        "Pas de thème tribal pour rivaliser avec les cinq paires principales."
+      ],
+      "en": [
+        "A fringe pair, clearly below the set average.",
+        "Cinder Strike and Kulrath Zealot came from the Elemental red, without its tribal support.",
+        "No tribal payoff to compete with the five main pairs."
+      ]
+    },
+    "keyCards": [
+      "Prismabasher",
+      "Aurora Awakener",
+      "Great Forest Druid",
+      "Kulrath Zealot",
+      "Cinder Strike",
+      "Flamekin Gildweaver"
+    ],
+    "cover": "Prismabasher"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Giants",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les Giants : de gros corps qui entrent avec des marqueurs -1/-1 et les retirent pour un effet (Brambleback Brute), Boldwyr Aggressor qui donne la double initiative.",
+      "en": "Giants: big bodies that enter with -1/-1 counters and remove them for an effect (Brambleback Brute), and Boldwyr Aggressor granting double strike."
+    },
+    "why": {
+      "fr": [
+        "Une paire marginale, nettement sous la moyenne du set.",
+        "Cinder Strike, Tweeze et Liminal Hold : le removal venait des deux couleurs.",
+        "Kinbinding et Moonlit Lamenter figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "A fringe pair, clearly below the set average.",
+        "Cinder Strike, Tweeze and Liminal Hold: removal came from both colors.",
+        "Kinbinding and Moonlit Lamenter were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Boldwyr Aggressor",
+      "Brambleback Brute",
+      "Kinbinding",
+      "Cinder Strike",
+      "Liminal Hold",
+      "Moonlit Lamenter"
+    ],
+    "cover": "Boldwyr Aggressor"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Faeries",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les Faeries : flash et sorts lancés pendant le tour adverse, que Nightmare Sower et Unwelcome Sprite récompensent. Voracious Tome-Skimmer était le signpost.",
+      "en": "Faeries: flash and spells cast on the opponent's turn, rewarded by Nightmare Sower and Unwelcome Sprite. Voracious Tome-Skimmer was the signpost."
+    },
+    "why": {
+      "fr": [
+        "L'un des plus faibles taux de victoire du set.",
+        "Des corps volants trop petits face aux paires tribales.",
+        "Blight Rot et Bogslither's Embrace restaient le meilleur de ses communes."
+      ],
+      "en": [
+        "One of the lowest win rates of the set.",
+        "Its flying bodies were too small against the tribal pairs.",
+        "Blight Rot and Bogslither's Embrace remained its best commons."
+      ]
+    },
+    "keyCards": [
+      "Nightmare Sower",
+      "Unwelcome Sprite",
+      "Glamer Gifter",
+      "Mischievous Sneakling",
+      "Blight Rot",
+      "Bogslither's Embrace"
+    ],
+    "cover": "Nightmare Sower"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Blight",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les marqueurs -1/-1 comme ressource : Blighted Blackthorn, Gnarlbark Elm et Moonlit Lamenter les retirent ou les placent pour piocher et tuer. Reaping Willow était le signpost.",
+      "en": "-1/-1 counters as a resource: Blighted Blackthorn, Gnarlbark Elm and Moonlit Lamenter place or remove them to draw and kill. Reaping Willow was the signpost."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire du set.",
+        "Spiral into Solitude et Liminal Hold : le removal blanc, partagé avec les autres paires.",
+        "Moonlit Lamenter était sa carte la plus gagnante parmi les plus jouées."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "Spiral into Solitude and Liminal Hold: white removal shared with other pairs.",
+        "Moonlit Lamenter was its best performer among the most-played cards."
+      ]
+    },
+    "keyCards": [
+      "Blighted Blackthorn",
+      "Gnarlbark Elm",
+      "Moonlit Lamenter",
+      "Emptiness",
+      "Blight Rot",
+      "Requiting Hex"
+    ],
+    "cover": "Blighted Blackthorn"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Vivid",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Prévu autour du vivid (Glister Bairn), joué en pratique comme un deck de créatures vertes empruntant Shinestriker et Rimekin Recluse au bleu.",
+      "en": "Designed around vivid (Glister Bairn), played in practice as a green creature deck borrowing Shinestriker and Rimekin Recluse from blue."
+    },
+    "why": {
+      "fr": [
+        "La paire la moins jouée du set, sous la moyenne.",
+        "Great Forest Druid fixait le mana pour les cartes vivid.",
+        "Rimekin Recluse et Unwelcome Sprite figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The least-played pair of the set, below average.",
+        "Great Forest Druid fixed the mana for the vivid cards.",
+        "Rimekin Recluse and Unwelcome Sprite were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Shinestriker",
+      "Rimekin Recluse",
+      "Great Forest Druid",
+      "Safewright Cavalry",
+      "Moon-Vigil Adherents",
+      "Chitinous Graspling"
+    ],
+    "cover": "Shinestriker"
+  }
+]

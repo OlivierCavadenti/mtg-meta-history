@@ -1,0 +1,429 @@
+[
+  {
+    "colors": "WUG",
+    "name": "Brokers",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Brokers, la famille Bant : les marqueurs bouclier protégeaient les créatures des blessures et du removal, Disciplined Duelist et Spara's Adjudicators tenaient la table.",
+      "en": "Brokers, the Bant family: shield counters protected creatures from damage and removal, with Disciplined Duelist and Spara's Adjudicators anchoring the board."
+    },
+    "why": {
+      "fr": [
+        "Le deck le plus drafté du set, deuxième en taux de victoire.",
+        "Les marqueurs bouclier neutralisaient une bonne part du removal du format.",
+        "Inspiring Overseer et Raffine's Informant ajoutaient de la valeur en commune."
+      ],
+      "en": [
+        "The most drafted deck of the set, second in win rate.",
+        "Shield counters blanked much of the format's removal.",
+        "Inspiring Overseer and Raffine's Informant added value at common."
+      ]
+    },
+    "keyCards": [
+      "Disciplined Duelist",
+      "Brokers Charm",
+      "Spara's Adjudicators",
+      "Inspiring Overseer",
+      "Raffine's Informant",
+      "Backup Agent"
+    ],
+    "cover": "Disciplined Duelist"
+  },
+  {
+    "colors": "WUB",
+    "name": "Obscura",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Obscura, la famille Esper : connive piochait et défaussait pour faire grandir les créatures, volants et removal soutenant un plan midrange plus lent.",
+      "en": "Obscura, the Esper family: connive drew and discarded to grow creatures, with fliers and removal supporting a slower midrange plan."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Psychic Pickpocket et Inspiring Overseer figuraient parmi ses cartes les plus efficaces.",
+        "Trois couleurs sur peu de terrains de fixing lui coûtaient du tempo."
+      ],
+      "en": [
+        "Below the set average.",
+        "Psychic Pickpocket and Inspiring Overseer were among its best-performing cards.",
+        "Three colors on few fixing lands cost it tempo."
+      ]
+    },
+    "keyCards": [
+      "Obscura Charm",
+      "Raffine's Informant",
+      "Inspiring Overseer",
+      "Psychic Pickpocket",
+      "Girder Goons",
+      "Corrupt Court Official"
+    ],
+    "cover": "Obscura Charm"
+  },
+  {
+    "colors": "UBR",
+    "name": "Maestros",
+    "archetype": "control",
+    "summary": {
+      "fr": "Maestros, la famille Grixis : casualty sacrifiait des créatures pour copier des sorts, Corpse Appraiser et le removal de la famille soutenaient un plan de contrôle.",
+      "en": "Maestros, the Grixis family: casualty sacrificed creatures to copy spells, while Corpse Appraiser and the family's removal backed a controlling plan."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, derrière Brokers parmi les familles.",
+        "Corpse Appraiser et Girder Goons figuraient parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average, behind Brokers among the families.",
+        "Corpse Appraiser and Girder Goons were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Corpse Appraiser",
+      "Girder Goons",
+      "Grisly Sigil",
+      "Glamorous Outlaw",
+      "Make Disappear",
+      "Murder"
+    ],
+    "cover": "Corpse Appraiser"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Counters",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Marqueurs et volants : boucliers de Brokers et marqueurs de connive d'Obscura, récompensés par Metropolis Angel et Exotic Pets.",
+      "en": "Counters and fliers: shield counters from Brokers and connive counters from Obscura, rewarded by Metropolis Angel and Exotic Pets."
+    },
+    "why": {
+      "fr": [
+        "Le meilleur taux de victoire du set.",
+        "Deux familles l'alimentaient : les picks Brokers et Obscura convenaient tous deux.",
+        "Raffine's Informant et Inspiring Overseer étaient ses communes les plus jouées."
+      ],
+      "en": [
+        "The best win rate of the set.",
+        "Two families fed it: picks from Brokers and Obscura both fit.",
+        "Raffine's Informant and Inspiring Overseer were its most played commons."
+      ]
+    },
+    "keyCards": [
+      "Metropolis Angel",
+      "Exotic Pets",
+      "Raffine's Informant",
+      "Psychic Pickpocket",
+      "Citizen's Crowbar",
+      "Celestial Regulator"
+    ],
+    "cover": "Metropolis Angel"
+  },
+  {
+    "colors": "WRG",
+    "name": "Cabaretti",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Cabaretti, la famille Naya : alliance se déclenchait à chaque créature arrivée, les jetons Citoyens élargissaient la table, Cabaretti Charm et Jetmir, Nexus of Revels faisaient passer l'équipe.",
+      "en": "Cabaretti, the Naya family: alliance triggered whenever a creature entered, Citizen tokens went wide, and Cabaretti Charm and Jetmir, Nexus of Revels pushed the team through."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Jewel Thief et Rakish Revelers étaient ses cartes les plus jouées.",
+        "Trois couleurs sur une courbe agressive mettaient le mana sous tension."
+      ],
+      "en": [
+        "Below the set average.",
+        "Jewel Thief and Rakish Revelers were its most played cards.",
+        "Three colors on an aggressive curve strained the mana."
+      ]
+    },
+    "keyCards": [
+      "Cabaretti Charm",
+      "Jetmir, Nexus of Revels",
+      "Jewel Thief",
+      "Rakish Revelers",
+      "For the Family",
+      "Civil Servant"
+    ],
+    "cover": "Cabaretti Charm"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifice : les créatures à blitz et casualty mouraient à dessein, Forge Boss et Body Dropper changeaient ces morts en dégâts et en taille.",
+      "en": "Sacrifice: blitz and casualty creatures died on purpose, and Forge Boss and Body Dropper turned the deaths into damage and size."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set.",
+        "Body Dropper et Girder Goons étaient ses cartes les plus jouées.",
+        "Night Clubber figurait parmi ses cartes les plus efficaces."
+      ],
+      "en": [
+        "Below the set average.",
+        "Body Dropper and Girder Goons were its most played cards.",
+        "Night Clubber was among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Forge Boss",
+      "Body Dropper",
+      "Girder Goons",
+      "Night Clubber",
+      "Riveteers Requisitioner",
+      "Murder"
+    ],
+    "cover": "Forge Boss"
+  },
+  {
+    "colors": "BRG",
+    "name": "Riveteers",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Riveteers, la famille Jund : les créatures à blitz attaquaient puis étaient sacrifiées contre une carte, Trésors et grosses créatures soutenant un plan agressif.",
+      "en": "Riveteers, the Jund family: blitz creatures attacked and were sacrificed for a card, with Treasure and large creatures supporting an aggressive plan."
+    },
+    "why": {
+      "fr": [
+        "Le plus bas taux de victoire du set.",
+        "Trois couleurs et un plan agressif tiraient en sens contraires."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "Three colors and an aggressive plan pulled in opposite directions."
+      ]
+    },
+    "keyCards": [
+      "Crew Captain",
+      "Riveteers Requisitioner",
+      "Jewel Thief",
+      "Girder Goons",
+      "Masked Bandits"
+    ],
+    "cover": "Crew Captain"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Citizens",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Citoyens et armée large : Darling of the Masses et Ceremonial Groundbreaker récompensaient les jetons Citoyens, Jewel Thief et Inspiring Overseer donnaient de la valeur tôt.",
+      "en": "Citizens and go-wide: Darling of the Masses and Ceremonial Groundbreaker rewarded Citizen tokens, while Jewel Thief and Inspiring Overseer gave early value."
+    },
+    "why": {
+      "fr": [
+        "Troisième taux de victoire du set.",
+        "Civil Servant et For the Family étaient ses communes les plus jouées."
+      ],
+      "en": [
+        "Third-best win rate of the set.",
+        "Civil Servant and For the Family were its most played commons."
+      ]
+    },
+    "keyCards": [
+      "Jewel Thief",
+      "Civil Servant",
+      "Inspiring Overseer",
+      "For the Family",
+      "Cleanup Crew",
+      "Caldaia Strongarm"
+    ],
+    "cover": "Jewel Thief"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Cinq valeurs de mana au cimetière : Syndicate Infiltrator et Tainted Indulgence récompensaient un cimetière varié, que le removal et connive remplissaient.",
+      "en": "Five mana values in the graveyard: Syndicate Infiltrator and Tainted Indulgence rewarded a varied graveyard, while removal and connive filled it."
+    },
+    "why": {
+      "fr": [
+        "Proche de la moyenne du set, parmi les paires peu draftées.",
+        "Snooping Newsie et Girder Goons étaient ses cartes les plus jouées."
+      ],
+      "en": [
+        "Near the set average, among the less drafted pairs.",
+        "Snooping Newsie and Girder Goons were its most played cards."
+      ]
+    },
+    "keyCards": [
+      "Syndicate Infiltrator",
+      "Girder Goons",
+      "Snooping Newsie",
+      "Murder",
+      "Make Disappear",
+      "Corrupt Court Official"
+    ],
+    "cover": "Syndicate Infiltrator"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Treasure",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Trésors : Stimulus Package et les créatures Riveteers créaient des Trésors, et Security Rhox pouvait être lancé à prix réduit avec ce mana.",
+      "en": "Treasure: Stimulus Package and Riveteers creatures made Treasures, and Security Rhox could be cast cheaply with that mana."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, et rarement drafté.",
+        "Jewel Thief était sa carte la plus jouée."
+      ],
+      "en": [
+        "Below the set average, and rarely drafted.",
+        "Jewel Thief was its most played card."
+      ]
+    },
+    "keyCards": [
+      "Security Rhox",
+      "Jewel Thief",
+      "Witty Roastmaster",
+      "Jetmir's Fixer",
+      "Plasma Jockey",
+      "Riveteers Requisitioner"
+    ],
+    "cover": "Security Rhox"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Blanc et noir ne partagent que la famille Obscura ; le rare deck Orzhov en gardait les créatures à connive et le removal, sans le bleu.",
+      "en": "White and black share only the Obscura family; the rare Orzhov deck kept its connive creatures and removal and left blue out."
+    },
+    "why": {
+      "fr": [
+        "Rarement drafté ; la plupart ajoutaient la troisième couleur.",
+        "L'échantillon est réduit, le taux affiché repose sur peu de parties."
+      ],
+      "en": [
+        "Rarely drafted; most players added the third color.",
+        "Its sample is small, so the win rate shown rests on few games."
+      ]
+    },
+    "keyCards": [
+      "Raffine, Scheming Seer",
+      "Inspiring Overseer",
+      "Night Clubber",
+      "Corrupt Court Official",
+      "Knockout Blow",
+      "Tenacious Underdog"
+    ],
+    "cover": "Raffine, Scheming Seer"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Blanc et rouge ne partagent que la famille Cabaretti ; le rare deck Boros était une courbe bicolore d'attaquants bon marché et de dégâts directs.",
+      "en": "White and red share only the Cabaretti family; the rare Boros deck was a two-color curve of cheap attackers and burn."
+    },
+    "why": {
+      "fr": [
+        "Rarement drafté ; la plupart ajoutaient le vert pour Cabaretti.",
+        "L'échantillon est réduit, le taux affiché repose sur peu de parties."
+      ],
+      "en": [
+        "Rarely drafted; most players added green for Cabaretti.",
+        "Its sample is small, so the win rate shown rests on few games."
+      ]
+    },
+    "keyCards": [
+      "Witty Roastmaster",
+      "Sticky Fingers",
+      "Swooping Protector",
+      "Professional Face-Breaker",
+      "Antagonize"
+    ],
+    "cover": "Witty Roastmaster"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Bleu et vert ne partagent que la famille Brokers ; le rare deck Simic en jouait les créatures et les astuces sans les boucliers blancs.",
+      "en": "Blue and green share only the Brokers family; the rare Simic deck played its creatures and tricks without the white shield counters."
+    },
+    "why": {
+      "fr": [
+        "Rarement drafté ; la plupart ajoutaient le blanc pour Brokers.",
+        "L'échantillon est réduit, le taux affiché repose sur peu de parties."
+      ],
+      "en": [
+        "Rarely drafted; most players added white for Brokers.",
+        "Its sample is small, so the win rate shown rests on few games."
+      ]
+    },
+    "keyCards": [
+      "Jewel Thief",
+      "Majestic Metamorphosis",
+      "Echo Inspector",
+      "Faerie Vandal",
+      "Out of the Way",
+      "Warm Welcome"
+    ],
+    "cover": "Jewel Thief"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Noir et vert ne partagent que la famille Riveteers ; le rare deck Golgari en gardait le removal et les corps verts, sans le rouge.",
+      "en": "Black and green share only the Riveteers family; the rare Golgari deck kept its removal and green bodies and left red out."
+    },
+    "why": {
+      "fr": [
+        "Rarement drafté ; la plupart ajoutaient le rouge pour Riveteers.",
+        "L'échantillon est réduit, le taux affiché repose sur peu de parties."
+      ],
+      "en": [
+        "Rarely drafted; most players added red for Riveteers.",
+        "Its sample is small, so the win rate shown rests on few games."
+      ]
+    },
+    "keyCards": [
+      "Night Clubber",
+      "Murder",
+      "Civic Gardener",
+      "Cleanup Crew",
+      "Girder Goons",
+      "Raffine's Silencer"
+    ],
+    "cover": "Night Clubber"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Bleu et rouge ne partagent que la famille Maestros ; le rare deck Izzet était un tas tempo de créatures bon marché, de renvois et de dégâts directs.",
+      "en": "Blue and red share only the Maestros family; the rare Izzet deck was a tempo pile of cheap creatures, bounce and burn."
+    },
+    "why": {
+      "fr": [
+        "Rarement drafté ; la plupart ajoutaient le noir pour Maestros.",
+        "L'échantillon est réduit, le taux affiché repose sur peu de parties."
+      ],
+      "en": [
+        "Rarely drafted; most players added black for Maestros.",
+        "Its sample is small, so the win rate shown rests on few games."
+      ]
+    },
+    "keyCards": [
+      "Faerie Vandal",
+      "Echo Inspector",
+      "Exhibition Magician",
+      "Pugnacious Pugilist",
+      "Out of the Way"
+    ],
+    "cover": "Faerie Vandal"
+  }
+]

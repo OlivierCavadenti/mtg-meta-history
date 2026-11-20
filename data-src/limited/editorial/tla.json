@@ -1,0 +1,332 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Fliers",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Créatures volantes et airbending : Aang et les Lessons exilent un bloqueur ou sauvent une créature, pendant que des corps volants bon marché attaquent. Sokka, Lateral Strategist et Air Nomad Legacy en étaient les signposts.",
+      "en": "Fliers and airbending: Aang and the Lesson spells remove a blocker or save a creature while cheap flying bodies attack. Sokka, Lateral Strategist and Air Nomad Legacy were the signposts."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée du set, avec l'un des meilleurs taux de victoire.",
+        "Watery Grasp, It'll Quench Ya! et Lost Days : de l'interaction bleue en commune.",
+        "Invasion Submersible et Aang, the Last Airbender figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The most-played pair of the set, with one of its best win rates.",
+        "Watery Grasp, It'll Quench Ya! and Lost Days gave blue cheap interaction at common.",
+        "Invasion Submersible and Aang, the Last Airbender were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Aang, the Last Airbender",
+      "Invasion Submersible",
+      "Watery Grasp",
+      "It'll Quench Ya!",
+      "Airbending Lesson",
+      "Glider Kids"
+    ],
+    "cover": "Aang, the Last Airbender"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Card Draw",
+    "archetype": "control",
+    "summary": {
+      "fr": "Le deck des deux cartes par tour : Clues, Waterbending Lesson et Gran-Gran nourrissent Foggy Swamp Spirit Keeper et Messenger Hawk, qui récompensent la deuxième pioche du tour.",
+      "en": "The draw-two deck: Clues, Waterbending Lesson and Gran-Gran feed Foggy Swamp Spirit Keeper and Messenger Hawk, which reward drawing a second card each turn."
+    },
+    "why": {
+      "fr": [
+        "Messenger Hawk et Forecasting Fortune Teller : des Clues dès les premiers tours.",
+        "Le noir apportait le removal (Heartless Act, Epic Downfall) qui manquait au bleu.",
+        "Taux de victoire au-dessus de la moyenne du set, sur un gros volume de parties."
+      ],
+      "en": [
+        "Messenger Hawk and Forecasting Fortune Teller made Clues from the early turns.",
+        "Black added the removal blue lacked: Heartless Act, Epic Downfall.",
+        "Win rate above the set average over a large number of games."
+      ]
+    },
+    "keyCards": [
+      "Foggy Swamp Spirit Keeper",
+      "Messenger Hawk",
+      "Forecasting Fortune Teller",
+      "Hama, the Bloodbender",
+      "Lost Days",
+      "Invasion Submersible"
+    ],
+    "cover": "Foggy Swamp Spirit Keeper"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Lessons",
+    "archetype": "control",
+    "summary": {
+      "fr": "Instants, rituels et Lessons : Firebending Lesson et Lightning Strike tiennent le board, puis Dragonfly Swarm grandit avec les sorts accumulés au cimetière.",
+      "en": "Instants, sorceries and Lessons: Firebending Lesson and Lightning Strike hold the board, then Dragonfly Swarm grows with the spells piled in the graveyard."
+    },
+    "why": {
+      "fr": [
+        "Firebending Lesson, Lightning Strike et Yuyan Archers : du removal rouge à bas coût.",
+        "Le bleu ajoutait counters et pioche : It'll Quench Ya!, Waterbending Lesson.",
+        "Au-dessus de la moyenne, derrière les paires blanches."
+      ],
+      "en": [
+        "Firebending Lesson, Lightning Strike and Yuyan Archers gave cheap red removal.",
+        "Blue added counters and card flow: It'll Quench Ya!, Waterbending Lesson.",
+        "Above the set average, behind the white pairs."
+      ]
+    },
+    "keyCards": [
+      "Dragonfly Swarm",
+      "Firebending Lesson",
+      "Lightning Strike",
+      "Yuyan Archers",
+      "Lost Days",
+      "Waterbending Lesson"
+    ],
+    "cover": "Dragonfly Swarm"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Allies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Le deck Allies : White Lotus Reinforcements et Earth King's Lieutenant grossissent une équipe de petites créatures Ally, Suki, Kyoshi Warrior attaque avec un renfort à chaque tour.",
+      "en": "The Allies deck: White Lotus Reinforcements and Earth King's Lieutenant pump a team of small Ally creatures, and Suki, Kyoshi Warrior attacks with a fresh token each turn."
+    },
+    "why": {
+      "fr": [
+        "Ex aequo pour le meilleur taux de victoire du set avec Boros.",
+        "Kyoshi Warriors, Jeong Jeong's Deserters et Water Tribe Captain : une courbe d'Allies en commune.",
+        "Allies at Last et Yip Yip! convertissaient la largeur du board en removal et en évasion."
+      ],
+      "en": [
+        "Tied with Boros for the best win rate of the set.",
+        "Kyoshi Warriors, Jeong Jeong's Deserters and Water Tribe Captain made a curve of Allies at common.",
+        "Allies at Last and Yip Yip! turned a wide board into removal and evasion."
+      ]
+    },
+    "keyCards": [
+      "White Lotus Reinforcements",
+      "Suki, Kyoshi Warrior",
+      "Earth King's Lieutenant",
+      "Kyoshi Warriors",
+      "Jeong Jeong's Deserters",
+      "Water Tribe Captain"
+    ],
+    "cover": "White Lotus Reinforcements"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Go-Wide",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Aggro en largeur : on multiplie les créatures pour que Jet, Freedom Fighter et Sun Warriors comptent l'équipe, le rouge fournit le burn pour dégager la route.",
+      "en": "Go-wide aggro: the deck floods the board so that Jet, Freedom Fighter and Sun Warriors count the team, while red supplies the burn to clear the way."
+    },
+    "why": {
+      "fr": [
+        "Ex aequo pour le meilleur taux de victoire du set avec Selesnya.",
+        "Lightning Strike, Firebending Lesson et Yuyan Archers : le removal rouge de la courbe.",
+        "Jet, Freedom Fighter, joué dans plus d'un deck sur trois, servait de removal sur pattes."
+      ],
+      "en": [
+        "Tied with Selesnya for the best win rate of the set.",
+        "Lightning Strike, Firebending Lesson and Yuyan Archers gave the red removal on curve.",
+        "Jet, Freedom Fighter, in more than a third of its decks, was removal on a body."
+      ]
+    },
+    "keyCards": [
+      "Jet, Freedom Fighter",
+      "Lightning Strike",
+      "Kyoshi Warriors",
+      "Wandering Musicians",
+      "Water Tribe Rallier",
+      "Deserter's Disciple"
+    ],
+    "cover": "Jet, Freedom Fighter"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifice d'artefacts et de créatures : Clues, Deadly Precision et Hei Bai, Spirit of Balance transforment chaque sacrifice en valeur, Tolls of War en jetons Ally.",
+      "en": "Sacrifice of artifacts and creatures: Clues, Deadly Precision and Hei Bai, Spirit of Balance turn each sacrifice into value, and Tolls of War into Ally tokens."
+    },
+    "why": {
+      "fr": [
+        "Deadly Precision et Callous Inspector : removal et fourrage à un seul mana.",
+        "Le blanc apportait Path to Redemption et Kyoshi Warriors, les communes les plus solides.",
+        "Taux de victoire dans la moyenne du set, sans plus."
+      ],
+      "en": [
+        "Deadly Precision and Callous Inspector gave one-mana removal and fodder.",
+        "White added Path to Redemption and Kyoshi Warriors, its most solid commons.",
+        "Win rate around the set average, no better."
+      ]
+    },
+    "keyCards": [
+      "Hei Bai, Spirit of Balance",
+      "Deadly Precision",
+      "Callous Inspector",
+      "Heartless Act",
+      "Corrupt Court Official",
+      "Earth Kingdom Jailer"
+    ],
+    "cover": "Hei Bai, Spirit of Balance"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Lessons",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Rampe vers les Lessons et les Sagas : Hermitic Herbalist accélère le mana, Guru Pathik va chercher Lesson, Saga ou Shrine, les earthbenders verts tiennent le sol.",
+      "en": "Ramp into Lessons and Sagas: Hermitic Herbalist makes the mana, Guru Pathik finds a Lesson, Saga or Shrine, and green earthbenders hold the ground."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set : un plan lent dans un format dominé par les paires blanches.",
+        "Rocky Rebuke et Watery Grasp formaient l'essentiel de son interaction.",
+        "Ses meilleurs résultats venaient de rares comme The Earth King et Earthbender Ascension."
+      ],
+      "en": [
+        "Below the set average: a slow plan in a format led by the white pairs.",
+        "Rocky Rebuke and Watery Grasp were most of its interaction.",
+        "Its best results came from rares such as The Earth King and Earthbender Ascension."
+      ]
+    },
+    "keyCards": [
+      "The Lion-Turtle",
+      "Earthbender Ascension",
+      "Ostrich-Horse",
+      "Rocky Rebuke",
+      "Watery Grasp",
+      "Lost Days"
+    ],
+    "cover": "The Lion-Turtle"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures et terrains qui meurent : Long Feng, Grand Secretariat récompense chaque perte, Dai Li Agents et les earthbenders verts transforment les terrains en créatures jetables.",
+      "en": "Creatures and lands that die: Long Feng, Grand Secretariat rewards each loss, while Dai Li Agents and green earthbenders turn lands into expendable creatures."
+    },
+    "why": {
+      "fr": [
+        "Le noir le plus riche en removal : Sold Out, Heartless Act, Epic Downfall.",
+        "Dai Li Agents, joué dans plus de la moitié des decks, drainait à chaque attaque.",
+        "Taux de victoire juste au-dessus de la moyenne du set."
+      ],
+      "en": [
+        "Black's deepest removal suite: Sold Out, Heartless Act, Epic Downfall.",
+        "Dai Li Agents, in more than half of its decks, drained on every attack.",
+        "Win rate just above the set average."
+      ]
+    },
+    "keyCards": [
+      "Dai Li Agents",
+      "Sold Out",
+      "Heartless Act",
+      "The Earth King",
+      "The Fire Nation Drill",
+      "Raucous Audience"
+    ],
+    "cover": "Dai Li Agents"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Firebending",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "La Fire Nation : firebending, raid et sacrifice. Zhao, Ruthless Admiral et Cruel Administrator récompensent l'attaque, Vindictive Warden et le burn finissent l'adversaire.",
+      "en": "The Fire Nation: firebending, raid and sacrifice. Zhao, Ruthless Admiral and Cruel Administrator reward attacking, while Vindictive Warden and burn finish the opponent."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des combinaisons jouées.",
+        "Le removal ne manquait pas (Lightning Strike, Sold Out, Firebending Lesson), les créatures si.",
+        "The Fire Nation Drill et Ozai, the Phoenix King comptaient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The lowest win rate of the combinations played.",
+        "Removal was plentiful (Lightning Strike, Sold Out, Firebending Lesson); good creatures were not.",
+        "The Fire Nation Drill and Ozai, the Phoenix King were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Cruel Administrator",
+      "Ozai, the Phoenix King",
+      "The Fire Nation Drill",
+      "Vindictive Warden",
+      "Lightning Strike",
+      "Sold Out"
+    ],
+    "cover": "Cruel Administrator"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Earthbending",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Gros corps et terrains animés : Bitter Work pioche quand une créature de force quatre ou plus attaque, Badgermole et Toph transforment les terrains en attaquants.",
+      "en": "Big bodies and animated lands: Bitter Work draws when a creature with power four or more attacks, while Badgermole and Toph turn lands into attackers."
+    },
+    "why": {
+      "fr": [
+        "Raucous Audience accélérait vers les créatures à quatre de force.",
+        "Rocky Rebuke et Firebending Lesson : le removal du deck, en commune.",
+        "Sous la moyenne du set, derrière les paires blanches et bleues."
+      ],
+      "en": [
+        "Raucous Audience ramped into the creatures with power four.",
+        "Rocky Rebuke and Firebending Lesson were its removal, at common.",
+        "Below the set average, behind the white and blue pairs."
+      ]
+    },
+    "keyCards": [
+      "Bitter Work",
+      "Badgermole",
+      "Toph, Hardheaded Teacher",
+      "Raucous Audience",
+      "Rocky Rebuke",
+      "The Boulder, Ready to Rumble"
+    ],
+    "cover": "Bitter Work"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Lessons",
+    "archetype": "control",
+    "summary": {
+      "fr": "Trois couleurs autour des Lessons : Aang's Journey et les terrains bicolores fixent le mana, Iroh, Grand Lotus redonne flashback aux instants et rituels du cimetière.",
+      "en": "Three colors around Lessons: Aang's Journey and the dual lands fix the mana, and Iroh, Grand Lotus gives flashback to the instants and sorceries in the graveyard."
+    },
+    "why": {
+      "fr": [
+        "La seule combinaison tricolore assez jouée pour figurer ici.",
+        "Firebending Lesson, Lost Days et Abandon Attachments : la base commune du deck.",
+        "Sous la moyenne du set : le mana tricolore coûtait du tempo."
+      ],
+      "en": [
+        "The only three-color combination played enough to appear here.",
+        "Firebending Lesson, Lost Days and Abandon Attachments were its common core.",
+        "Below the set average: three-color mana cost tempo."
+      ]
+    },
+    "keyCards": [
+      "Iroh, Grand Lotus",
+      "Guru Pathik",
+      "Dragonfly Swarm",
+      "Firebending Lesson",
+      "Lost Days",
+      "Aang's Journey"
+    ],
+    "cover": "Iroh, Grand Lotus"
+  }
+]

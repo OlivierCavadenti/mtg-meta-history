@@ -1,0 +1,152 @@
+[
+  {
+    "colors": "BG",
+    "name": "Golgari Squirrels",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les écureuils fourragent : Food et cimetière paient des créatures de valeur, Vinereap Mentor et Cache Grab alimentent le moteur.",
+      "en": "Squirrels forage: Food and the graveyard pay for value creatures, with Vinereap Mentor and Cache Grab feeding the engine."
+    },
+    "why": {
+      "fr": ["Paire la plus jouée du set, avec l'un des meilleurs taux de victoire.", "Bakersbane Duo, Cache Grab et Savor figuraient dans la plupart des decks.", "Removal noir et valeur récursive survivaient aux decks agressifs du format."],
+      "en": ["The most played pair of the set, with one of its best win rates.", "Bakersbane Duo, Cache Grab and Savor were in most decks.", "Black removal and recursive value outlasted the format's aggro decks."]
+    },
+    "keyCards": ["Vinereap Mentor", "Cache Grab", "Bakersbane Duo", "Savor", "Camellia, the Seedmiser", "Hunter's Talent"],
+    "cover": "Vinereap Mentor"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Rabbits",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les lapins s'étalent : Carrot Cake et Hop to It créent des jetons, puis Burrowguard Mentor et les effets de pompe concluent.",
+      "en": "Rabbits go wide: Carrot Cake and Hop to It make tokens, then Burrowguard Mentor and pump effects finish the game."
+    },
+    "why": {
+      "fr": ["L'un des deux meilleurs taux de victoire du set.", "Carrot Cake et Intrepid Rabbit, communes efficaces, dans la plupart des listes.", "La largeur de table débordait les decks bleus plus lents."],
+      "en": ["One of the two best win rates of the set.", "Carrot Cake and Intrepid Rabbit, efficient commons, were in most lists.", "Board width overwhelmed the slower blue decks."]
+    },
+    "keyCards": ["Burrowguard Mentor", "Carrot Cake", "Intrepid Rabbit", "Warren Elder", "Hop to It"],
+    "cover": "Burrowguard Mentor"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Frogs",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les grenouilles renvoient et font clignoter : Stickytongue Sentinel et Lilysplash Mentor réutilisent les effets d'arrivée, Pond Prophet pioche.",
+      "en": "Frogs bounce and blink: Stickytongue Sentinel and Lilysplash Mentor reuse enter effects, while Pond Prophet draws."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Pond Prophet dans presque tous les decks ; Dreamdew Entrancer au meilleur taux.", "Plan de valeur sur la table plutôt que de vitesse."],
+      "en": ["Above the set average.", "Pond Prophet in nearly every deck; Dreamdew Entrancer with a high win rate.", "A board-value plan rather than a fast one."]
+    },
+    "keyCards": ["Lilysplash Mentor", "Pond Prophet", "Stickytongue Sentinel", "Dreamdew Entrancer", "Polliwallop"],
+    "cover": "Lilysplash Mentor"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Bats",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les chauves-souris gagnent et perdent des points de vie : volants avec lien de vie et Food déclenchent Starseer Mentor et Lifecreed Duo.",
+      "en": "Bats gain and lose life: lifelink fliers and Food trigger Starseer Mentor and Lifecreed Duo."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne du set.", "Moonrise Cleric et Lifecreed Duo formaient le noyau commun.", "Partageait Carrot Cake et Intrepid Rabbit avec le deck lapins."],
+      "en": ["Above the set average.", "Moonrise Cleric and Lifecreed Duo formed the common core.", "It shared Carrot Cake and Intrepid Rabbit with the Rabbits deck."]
+    },
+    "keyCards": ["Starseer Mentor", "Moonrise Cleric", "Lifecreed Duo", "Savor", "Thought-Stalker Warlock"],
+    "cover": "Starseer Mentor"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Mice",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les souris sont vaillantes : des créatures bon marché se déclenchent quand on les cible, et les sorts de pompe comme Rabid Gnaw servent aussi de removal.",
+      "en": "Mice are valiant: cheap creatures trigger when targeted, so pump spells such as Rabid Gnaw double as growth and removal."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Rabid Gnaw et Intrepid Rabbit parmi ses meilleures communes.", "Sans Heartfire Hero ou Manifold Mouse, un deck agressif ordinaire."],
+      "en": ["Close to the set average.", "Rabid Gnaw and Intrepid Rabbit were among its best commons.", "Without Heartfire Hero or Manifold Mouse, it was ordinary aggro."]
+    },
+    "keyCards": ["Nettle Guard", "Rabid Gnaw", "Might of the Meek", "Intrepid Rabbit", "Brightblade Stoat"],
+    "cover": "Nettle Guard"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Lizards",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les lézards punissent : des créatures bon marché se déclenchent quand l'adversaire perd des points de vie, Fireglass Mentor en tire des cartes.",
+      "en": "Lizards punish: cheap creatures trigger when an opponent loses life, and Fireglass Mentor turns that into cards."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set.", "Scales of Shale et Fireglass Mentor, présents dans la plupart des listes.", "Removal bon marché et dégâts directs adaptés à un format rapide."],
+      "en": ["The best win rate of the set.", "Scales of Shale and Fireglass Mentor were in most lists.", "Cheap removal and reach suited a fast format."]
+    },
+    "keyCards": ["Fireglass Mentor", "Scales of Shale", "Steampath Charger", "Cindering Cutthroat", "Agate-Blade Assassin", "Take Out the Trash"],
+    "cover": "Fireglass Mentor"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Raccoons",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les ratons laveurs dépensent (expend) : de gros tours de mana déclenchent les bonus, Wandertale Mentor accélère et grandit avant les grosses créatures.",
+      "en": "Raccoons reward expend, spending mana in big turns; Wandertale Mentor ramps and grows while larger creatures follow."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Wandertale Mentor, dans la plupart des decks, en était la carte clé.", "Les déclencheurs expend demandaient des puits à mana souvent absents."],
+      "en": ["Below the set average.", "Wandertale Mentor, in most decks, was its key card.", "Expend triggers asked for mana sinks the decks often lacked."]
+    },
+    "keyCards": ["Wandertale Mentor", "Bark-Knuckle Boxer", "Roughshod Duo", "Rust-Shield Rampager", "Bakersbane Duo"],
+    "cover": "Wandertale Mentor"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Rats",
+    "archetype": "control",
+    "summary": {
+      "fr": "Les rats remplissent le cimetière pour le seuil : Shoreline Looter et Daggerfang Duo meulent, puis les récompenses de seuil et le removal prennent le relais.",
+      "en": "Rats fill the graveyard for threshold: Shoreline Looter and Daggerfang Duo mill, then threshold payoffs and removal take over."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set.", "Shoreline Looter, dans beaucoup de decks, avait l'un de ses meilleurs taux.", "Le seuil arrivait tard dans un format qui récompensait la présence sur la table."],
+      "en": ["Below the set average.", "Shoreline Looter, in many decks, had one of its best win rates.", "Threshold came online late in a format that rewarded board presence."]
+    },
+    "keyCards": ["Shoreline Looter", "Daggerfang Duo", "Savor", "Thought-Stalker Warlock", "Wick's Patrol"],
+    "cover": "Shoreline Looter"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Otters",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les loutres lancent des sorts non-créature : créatures à prouesse, réductions de Stormcatch Mentor et Pearl of Wisdom comme pioche bon marché.",
+      "en": "Otters cast noncreature spells: prowess creatures, Stormcatch Mentor's discount and Pearl of Wisdom as cheap card draw."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire du set.", "Trop peu de sorts non-créature de qualité en commune.", "Stormchaser's Talent et Into the Flood Maw étaient ses meilleures cartes."],
+      "en": ["The lowest win rate of the set.", "Too few quality noncreature spells at common.", "Stormchaser's Talent and Into the Flood Maw were its better cards."]
+    },
+    "keyCards": ["Stormcatch Mentor", "Pearl of Wisdom", "Coruscation Mage", "Stormchaser's Talent", "Into the Flood Maw"],
+    "cover": "Stormcatch Mentor"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Birds",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les oiseaux dans les airs : chaque volant donne des marqueurs aux créatures au sol via Plumecreed Mentor, soutenu par renvois et contresorts.",
+      "en": "Birds in the air: fliers put counters on ground creatures through Plumecreed Mentor, backed by bounce and counterspells."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux de victoire du set.", "Ses meilleurs decks empruntaient aux lapins : Carrot Cake, Harvestrite Host.", "Trop peu de volants communs assez forts pour porter le plan."],
+      "en": ["Among the lowest win rates of the set.", "Its better decks borrowed Rabbits cards such as Carrot Cake and Harvestrite Host.", "Too few common fliers strong enough to carry the plan."]
+    },
+    "keyCards": ["Plumecreed Mentor", "Carrot Cake", "Harvestrite Host", "Shoreline Looter", "Brightblade Stoat"],
+    "cover": "Plumecreed Mentor"
+  }
+]

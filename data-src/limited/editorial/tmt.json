@@ -1,0 +1,362 @@
+[
+  {
+    "colors": "WB",
+    "name": "Orzhov Ninjas",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Le Foot Clan et le sneak : on attaque avec des créatures bon marché, puis on renvoie un attaquant non bloqué en main pour poser un Ninja engagé et attaquant. Karai, Future of the Foot et Karai's Technique en étaient les signposts.",
+      "en": "The Foot Clan and sneak: cheap creatures attack, then an unblocked attacker returns to hand to put a Ninja onto the battlefield tapped and attacking. Karai, Future of the Foot and Karai's Technique were the signposts."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée du set et son meilleur taux de victoire.",
+        "Oroku Saki, April O'Neil et Leonardo, Big Brother : des Ninjas en commune, très joués.",
+        "Squirrelanoids et Stomped by the Foot apportaient deathtouch et removal à bas coût."
+      ],
+      "en": [
+        "The most-played pair of the set and its best win rate.",
+        "Oroku Saki, April O'Neil and Leonardo, Big Brother were heavily played common Ninjas.",
+        "Squirrelanoids and Stomped by the Foot added cheap deathtouch and removal."
+      ]
+    },
+    "keyCards": [
+      "Koya, Death from Above",
+      "Oroku Saki, Shredder Rising",
+      "April O'Neil, Kunoichi Trainee",
+      "Leonardo, Big Brother",
+      "Foot Ninjas",
+      "Squirrelanoids"
+    ],
+    "cover": "Koya, Death from Above"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Artifacts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Robots et gadgets : Mouser Foundry et Sewer-veillance Cam font entrer et sortir des artefacts, Nobody les recycle, Baxter Stockman et Brilliance Unleashed en tirent la valeur.",
+      "en": "Robots and gadgets: Mouser Foundry and Sewer-veillance Cam make artifacts enter and leave, Nobody recycles them, and Baxter Stockman and Brilliance Unleashed cash them in."
+    },
+    "why": {
+      "fr": [
+        "Deuxième paire la plus jouée et deuxième meilleur taux de victoire du set.",
+        "Nobody, Mouser Foundry et Donatello, Turtle Techie : la base commune de la plupart des decks.",
+        "Manhole Missile et Brilliance Unleashed couvraient le removal."
+      ],
+      "en": [
+        "The second most-played pair and the second-best win rate of the set.",
+        "Nobody, Mouser Foundry and Donatello, Turtle Techie were the common core of most decks.",
+        "Manhole Missile and Brilliance Unleashed covered removal."
+      ]
+    },
+    "keyCards": [
+      "Baxter Stockman",
+      "Nobody",
+      "Mouser Foundry",
+      "Donatello, Turtle Techie",
+      "Manhole Missile",
+      "Brilliance Unleashed"
+    ],
+    "cover": "Baxter Stockman"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Food",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Pizzas et disappear : les Food entrent et se sacrifient, déclenchant Pizza Face, Gastromancer et Lord Dregg en fin de tour. Tainted Treats tue et rend une Food.",
+      "en": "Pizzas and disappear: Food enters and is sacrificed, triggering Pizza Face, Gastromancer and Lord Dregg at end of turn. Tainted Treats kills and makes a Food."
+    },
+    "why": {
+      "fr": [
+        "Anchovy & Banana Pizza et Tenderize : du removal commun dans les deux couleurs.",
+        "Frog Butler, deathtouch et mana, servait de bloqueur et de fixateur.",
+        "Sous la moyenne du set, loin derrière Orzhov et Izzet."
+      ],
+      "en": [
+        "Anchovy & Banana Pizza and Tenderize gave common removal in both colors.",
+        "Frog Butler, with deathtouch and mana, was both blocker and fixer.",
+        "Below the set average, well behind Orzhov and Izzet."
+      ]
+    },
+    "keyCards": [
+      "Pizza Face, Gastromancer",
+      "Lord Dregg, Insect Invader",
+      "Tainted Treats",
+      "Frog Butler",
+      "Primordial Pachyderm",
+      "Tenderize"
+    ],
+    "cover": "Pizza Face, Gastromancer"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Alliance",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Alliance : chaque créature qui entre déclenche Raphael, Tough Turtle, EPF Point Squad ou The Neutrinos. Les jetons de Mechanized Ninja Cavalry alimentent le compteur.",
+      "en": "Alliance: each creature that enters triggers Raphael, Tough Turtle, EPF Point Squad or The Neutrinos. Mechanized Ninja Cavalry's tokens feed the count."
+    },
+    "why": {
+      "fr": [
+        "Raphael, Tough Turtle, joué dans la plupart des decks, transformait les arrivées en dégâts.",
+        "Manhole Missile et Go Ninja Go donnaient le removal.",
+        "Sous la moyenne d'un set où Orzhov et Izzet dominaient."
+      ],
+      "en": [
+        "Raphael, Tough Turtle, in most decks, turned each arrival into damage.",
+        "Manhole Missile and Go Ninja Go supplied removal.",
+        "Below the average of a set led by Orzhov and Izzet."
+      ]
+    },
+    "keyCards": [
+      "The Neutrinos",
+      "Raphael, Tough Turtle",
+      "EPF Point Squad",
+      "Mechanized Ninja Cavalry",
+      "Go Ninja Go",
+      "Manhole Missile"
+    ],
+    "cover": "The Neutrinos"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Mutants",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Mutants et Mutagen : Genghis Frog crée des jetons Mutagen à chaque Mutant qui entre, sacrifiés pour poser des marqueurs +1/+1. Lessons from Life apporte la pioche.",
+      "en": "Mutants and Mutagen: Genghis Frog makes a Mutagen token each time a Mutant enters, sacrificed to place +1/+1 counters. Lessons from Life supplies card draw."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des cinq paires de la conception.",
+        "Frog Butler, Tenderize et Return to the Sewers : une base commune solide mais sans pression.",
+        "Metalhead et Courier of Comestibles figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The lowest win rate of the set's five designed pairs.",
+        "Frog Butler, Tenderize and Return to the Sewers: a solid common base with little pressure.",
+        "Metalhead and Courier of Comestibles were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Genghis Frog",
+      "Frog Butler",
+      "Tenderize",
+      "Return to the Sewers",
+      "Metalhead",
+      "Mutagen Man, Living Ooze"
+    ],
+    "cover": "Genghis Frog"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Food",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le deck Food de Golgari avec du bleu : les terrains gainland fixent le mana, Everything Pizza et Omni-Cheese Pizza piochent, Pizza Face, Gastromancer reste le moteur.",
+      "en": "Golgari Food with blue: the gain-lands fix the mana, Everything Pizza and Omni-Cheese Pizza draw, and Pizza Face, Gastromancer remains the engine."
+    },
+    "why": {
+      "fr": [
+        "La combinaison tricolore la plus jouée, avec un taux meilleur que Golgari seul.",
+        "Mutant Town et Illegitimate Business, deux gainlands ennemies, rendaient le mana possible.",
+        "Everything Pizza et Courier of Comestibles figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The most-played three-color combination, with a better rate than plain Golgari.",
+        "Mutant Town and Illegitimate Business, two enemy gain-lands, made the mana work.",
+        "Everything Pizza and Courier of Comestibles were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Pizza Face, Gastromancer",
+      "Everything Pizza",
+      "Courier of Comestibles",
+      "Anchovy & Banana Pizza",
+      "Tainted Treats",
+      "Frog Butler"
+    ],
+    "cover": "Everything Pizza"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les artefacts d'Izzet avec une base verte : Frog Butler et les gainlands fixent le mana, Metalhead et Brilliance Unleashed tiennent le board, Lessons from Life pioche.",
+      "en": "Izzet's artifacts on a green base: Frog Butler and the gain-lands fix the mana, Metalhead and Brilliance Unleashed control the board, Lessons from Life draws."
+    },
+    "why": {
+      "fr": [
+        "Au niveau de la moyenne du set, pour une combinaison peu jouée.",
+        "TCRI Building et Mutant Town rendaient les trois couleurs jouables.",
+        "Everything Pizza et Courier of Comestibles figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Around the set average, for a lightly played combination.",
+        "TCRI Building and Mutant Town made three colors playable.",
+        "Everything Pizza and Courier of Comestibles were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Metalhead",
+      "Brilliance Unleashed",
+      "Everything Pizza",
+      "Lessons from Life",
+      "The Last Ronin",
+      "Frog Butler"
+    ],
+    "cover": "Metalhead"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sans signpost ni gainland, une paire alliée construite avec les meilleures créatures vertes et le removal blanc (Uneasy Alliance, Grounded for Life).",
+      "en": "With no signpost and no gain-land, an allied pair built from the best green creatures and white removal (Uneasy Alliance, Grounded for Life)."
+    },
+    "why": {
+      "fr": [
+        "Très peu jouée : le set ne soutenait que les paires ennemies.",
+        "Tenderize, Frog Butler et Ragamuffin Raptor : la base verte commune.",
+        "Taux proche de la moyenne du set sur un faible volume."
+      ],
+      "en": [
+        "Rarely played: the set only supported the enemy pairs.",
+        "Tenderize, Frog Butler and Ragamuffin Raptor were the green common base.",
+        "Rate close to the set average, on a small sample."
+      ]
+    },
+    "keyCards": [
+      "Mighty Mutanimals",
+      "Uneasy Alliance",
+      "Tenderize",
+      "Frog Butler",
+      "Primordial Pachyderm",
+      "Rocksteady, Crash Courser"
+    ],
+    "cover": "Mighty Mutanimals"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Tempo",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Les Ninjas blancs et les artefacts bleus réunis sans soutien de conception : Buzz Bots et Sewer-veillance Cam gèrent le tempo, April O'Neil et Leonardo attaquent.",
+      "en": "White Ninjas and blue artifacts combined without design support: Buzz Bots and Sewer-veillance Cam handle tempo, April O'Neil and Leonardo attack."
+    },
+    "why": {
+      "fr": [
+        "Une paire marginale, mais avec un taux au-dessus de la moyenne du set.",
+        "Elle empruntait les communes des deux paires dominantes, Orzhov et Izzet.",
+        "Utrom Scientists et Grounded for Life gardaient le board sous contrôle."
+      ],
+      "en": [
+        "A fringe pair, but with a rate above the set average.",
+        "It borrowed the commons of the two leading pairs, Orzhov and Izzet.",
+        "Utrom Scientists and Grounded for Life kept the board in check."
+      ]
+    },
+    "keyCards": [
+      "April O'Neil, Kunoichi Trainee",
+      "Buzz Bots",
+      "Sewer-veillance Cam",
+      "Utrom Scientists",
+      "Leonardo, Big Brother",
+      "Grounded for Life"
+    ],
+    "cover": "Leonardo, Big Brother"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une paire alliée sans signpost : les artefacts bleus (Buzz Bots, Sewer-veillance Cam) et le removal noir (Anchovy & Banana Pizza, Stomped by the Foot).",
+      "en": "An allied pair with no signpost: blue artifacts (Buzz Bots, Sewer-veillance Cam) and black removal (Anchovy & Banana Pizza, Stomped by the Foot)."
+    },
+    "why": {
+      "fr": [
+        "Très peu jouée et nettement sous la moyenne du set.",
+        "Ni le sneak ni les synergies d'artefacts ne fonctionnaient pleinement ici.",
+        "Anchovy & Banana Pizza restait son removal le plus joué."
+      ],
+      "en": [
+        "Rarely played and clearly below the set average.",
+        "Neither sneak nor the artifact synergies fully worked here.",
+        "Anchovy & Banana Pizza remained its most-played removal."
+      ]
+    },
+    "keyCards": [
+      "Anchovy & Banana Pizza",
+      "Buzz Bots",
+      "Sewer-veillance Cam",
+      "Oroku Saki, Shredder Rising",
+      "Ooze Spill",
+      "Stomped by the Foot"
+    ],
+    "cover": "Anchovy & Banana Pizza"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Une paire alliée sans signpost : gros corps verts (Rocksteady, Crash Courser, Primordial Pachyderm), burn rouge et Raph & Mikey, Troublemakers en haut de courbe.",
+      "en": "An allied pair with no signpost: big green bodies (Rocksteady, Crash Courser, Primordial Pachyderm), red burn and Raph & Mikey, Troublemakers on top of the curve."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire du set.",
+        "Sans gainland ni carte multicolore commune, le deck n'avait aucune synergie propre.",
+        "Manhole Missile et Tenderize restaient de bons sorts, sans moteur derrière."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "With no gain-land or common gold card, the deck had no synergy of its own.",
+        "Manhole Missile and Tenderize were good spells with no engine behind them."
+      ]
+    },
+    "keyCards": [
+      "Raph & Mikey, Troublemakers",
+      "Rocksteady, Crash Courser",
+      "Primordial Pachyderm",
+      "Manhole Missile",
+      "Ragamuffin Raptor",
+      "Raphael, the Nightwatcher"
+    ],
+    "cover": "Raph & Mikey, Troublemakers"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Une paire alliée sans signpost : les Ninjas noirs (Oroku Saki, Squirrelanoids) et le removal rouge (Manhole Missile, Spicy Oatmeal Pizza), sans moteur commun.",
+      "en": "An allied pair with no signpost: black Ninjas (Oroku Saki, Squirrelanoids) and red removal (Manhole Missile, Spicy Oatmeal Pizza), with no shared engine."
+    },
+    "why": {
+      "fr": [
+        "La paire la moins jouée et l'un des plus faibles taux de victoire du set.",
+        "Beaucoup de removal, mais ni alliance ni sneak pour transformer l'avantage.",
+        "General Traag et Null Group Biological Assets ne suffisaient pas en milieu de courbe."
+      ],
+      "en": [
+        "The least-played pair and one of the lowest win rates of the set.",
+        "Plenty of removal, but neither alliance nor sneak to press the advantage.",
+        "General Traag and Null Group Biological Assets were not enough in the mid-curve."
+      ]
+    },
+    "keyCards": [
+      "Oroku Saki, Shredder Rising",
+      "Squirrelanoids",
+      "Manhole Missile",
+      "Anchovy & Banana Pizza",
+      "Spicy Oatmeal Pizza",
+      "General Traag, Heart of Stone"
+    ],
+    "cover": "Oroku Saki, Shredder Rising"
+  }
+]

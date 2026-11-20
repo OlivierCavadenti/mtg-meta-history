@@ -1,0 +1,302 @@
+[
+  {
+    "colors": "WU",
+    "name": "Azorius Teamwork",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Teamwork : on engage ses créatures pour payer le surcoût des sorts et en tirer les deux modes. Captain America, Living Legend les dégage, Spider-Woman, Secret Agent bloque un adversaire. Les deux en étaient les signposts.",
+      "en": "Teamwork: creatures are tapped to pay the extra cost of spells and get both modes. Captain America, Living Legend untaps them, Spider-Woman, Secret Agent locks down an opponent. Both were the signposts."
+    },
+    "why": {
+      "fr": [
+        "La paire la plus jouée du set et son meilleur taux de victoire.",
+        "Trickster's Stratagem, We Say Thee Nay! et Murdock's Crusade : des sorts teamwork en commune.",
+        "S.H.I.E.L.D. Deployment Drone et Hero in Training donnaient des corps et de la valeur."
+      ],
+      "en": [
+        "The most-played pair of the set and its best win rate.",
+        "Trickster's Stratagem, We Say Thee Nay! and Murdock's Crusade were teamwork spells at common.",
+        "S.H.I.E.L.D. Deployment Drone and Hero in Training gave bodies and value."
+      ]
+    },
+    "keyCards": [
+      "Trickster's Stratagem",
+      "We Say Thee Nay!",
+      "Murdock's Crusade",
+      "S.H.I.E.L.D. Deployment Drone",
+      "Hero in Training",
+      "Raft Security Officer"
+    ],
+    "cover": "Trickster's Stratagem"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Heroes",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les Heroes : Black Panther, Vanguard récompense chaque Hero qui entre, Borough Backup et Hero in Training remplissent le board, Go Nuts! utilise le teamwork vert.",
+      "en": "Heroes: Black Panther, Vanguard rewards each Hero that enters, Borough Backup and Hero in Training fill the board, and Go Nuts! uses green teamwork."
+    },
+    "why": {
+      "fr": [
+        "Deuxième paire la plus jouée, avec l'un des meilleurs taux de victoire.",
+        "Hero in Training et Brave Brawler : une courbe blanche commune efficace.",
+        "Undercover Skrull fixait le mana et grossissait en fin de partie."
+      ],
+      "en": [
+        "The second most-played pair, with one of the best win rates.",
+        "Hero in Training and Brave Brawler made an efficient white common curve.",
+        "Undercover Skrull fixed the mana and grew in the late game."
+      ]
+    },
+    "keyCards": [
+      "Spider-Man, To the Rescue",
+      "Hero in Training",
+      "Go Nuts!",
+      "Undercover Skrull",
+      "Pet Avengers",
+      "She-Hulk, Jade Defender"
+    ],
+    "cover": "Spider-Man, To the Rescue"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Connive",
+    "archetype": "control",
+    "summary": {
+      "fr": "Connive et deuxième pioche du tour : Red Room Recruit, A.I.M. Scientists et Kang, Temporal Tyrant piochent et défaussent, Madame Masque crée des Villains à chaque deuxième carte.",
+      "en": "Connive and the second card each turn: Red Room Recruit, A.I.M. Scientists and Kang, Temporal Tyrant draw and discard, and Madame Masque makes Villains off each second draw."
+    },
+    "why": {
+      "fr": [
+        "Cruel Alliance et Trickster's Stratagem : du removal commun dans les deux couleurs.",
+        "Madame Masque et Dark Deed figuraient parmi ses cartes les plus gagnantes.",
+        "Sous la moyenne du set, derrière les paires blanches."
+      ],
+      "en": [
+        "Cruel Alliance and Trickster's Stratagem gave common removal in both colors.",
+        "Madame Masque and Dark Deed were among its best-performing cards.",
+        "Below the set average, behind the white pairs."
+      ]
+    },
+    "keyCards": [
+      "Kang, Temporal Tyrant",
+      "Red Room Recruit",
+      "A.I.M. Scientists",
+      "Madame Masque",
+      "Cruel Alliance",
+      "Trickster's Stratagem"
+    ],
+    "cover": "Kang, Temporal Tyrant"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Spies",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Attaquer seul : Black Widow, Double Agent, Agents of S.H.I.E.L.D. et S.H.I.E.L.D. Spy Kit renforcent la créature qui attaque seule, les Equipments la rendent durable.",
+      "en": "Attacking alone: Black Widow, Double Agent, Agents of S.H.I.E.L.D. and S.H.I.E.L.D. Spy Kit boost the creature that attacks alone, and Equipment keeps it going."
+    },
+    "why": {
+      "fr": [
+        "Taux de victoire au-dessus de la moyenne du set.",
+        "Cruel Alliance, Web Up et Murdock's Crusade : du removal dans les deux couleurs.",
+        "Cloak and Dagger, Entwined et HYDRA Infiltration figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Win rate above the set average.",
+        "Cruel Alliance, Web Up and Murdock's Crusade gave removal in both colors.",
+        "Cloak and Dagger, Entwined and HYDRA Infiltration were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Black Widow, Double Agent",
+      "Winter Soldier, Icy Assassin",
+      "S.H.I.E.L.D. Spy Kit",
+      "Agents of S.H.I.E.L.D.",
+      "Cruel Alliance",
+      "Stolen Stark Tech"
+    ],
+    "cover": "Black Widow, Double Agent"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Marqueurs +1/+1 : Ant-Man, Colony Commander crée un Insect à chaque marqueur posé, Beast, Erudite Aerialist vole et pioche, power-up et Go Nuts! fournissent les marqueurs.",
+      "en": "+1/+1 counters: Ant-Man, Colony Commander makes an Insect whenever a counter is placed, Beast, Erudite Aerialist flies and draws, and power-up and Go Nuts! supply the counters."
+    },
+    "why": {
+      "fr": [
+        "Deuxième meilleur taux de victoire du set.",
+        "Undercover Skrull et Go Nuts! : la base verte commune de la plupart des decks.",
+        "Le bleu apportait Trickster's Stratagem et Frozen in Ice comme removal."
+      ],
+      "en": [
+        "The second-best win rate of the set.",
+        "Undercover Skrull and Go Nuts! were the green common base of most decks.",
+        "Blue added Trickster's Stratagem and Frozen in Ice as removal."
+      ]
+    },
+    "keyCards": [
+      "Undercover Skrull",
+      "Go Nuts!",
+      "Ant-Man's Army",
+      "Trickster's Stratagem",
+      "Frozen in Ice",
+      "Punishing Punch"
+    ],
+    "cover": "Ant-Man's Army"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Artifacts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Artefacts : Iron Man, Master of Machines grandit avec chaque artefact et pioche, Futurist Forge, Aerial Doombot et les Robots communs alimentent le compte.",
+      "en": "Artifacts: Iron Man, Master of Machines grows with each artifact and draws, while Futurist Forge, Aerial Doombot and the common Robots feed the count."
+    },
+    "why": {
+      "fr": [
+        "L'un des plus faibles taux de victoire du set.",
+        "Des artefacts communs trop petits pour peser sur le board.",
+        "Vision Quest et Justice, Vance Astrovik figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "One of the lowest win rates of the set.",
+        "Its common artifacts were too small to matter on the board.",
+        "Vision Quest and Justice, Vance Astrovik were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Iron Man, Master of Machines",
+      "Tony Stark",
+      "Futurist Forge",
+      "Aerial Doombot",
+      "S.H.I.E.L.D. Deployment Drone",
+      "Repulsor Blast"
+    ],
+    "cover": "Iron Man, Master of Machines"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Prowess",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Créatures à prowess et sorts teamwork : Agent of Atlas et Crimson Operative grandissent à chaque sort non-créature, HULK SMASH! et Repulsor Blast dégagent la voie. Thor Odinson et War Machine, Legacy of Iron en étaient les signposts.",
+      "en": "Prowess creatures and teamwork spells: Agent of Atlas and Crimson Operative grow with each noncreature spell, while HULK SMASH! and Repulsor Blast clear the way. Thor Odinson and War Machine, Legacy of Iron were the signposts."
+    },
+    "why": {
+      "fr": [
+        "Taux de victoire légèrement sous la moyenne du set.",
+        "Lightning Strike et HULK SMASH! : le removal rouge commun.",
+        "Hero in Training et Murdock's Crusade, venus du blanc, figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Win rate slightly below the set average.",
+        "Lightning Strike and HULK SMASH! were its common red removal.",
+        "Hero in Training and Murdock's Crusade, from white, were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Agent of Atlas",
+      "HULK SMASH!",
+      "Hero in Training",
+      "Murdock's Crusade",
+      "Photon Blast Barrage",
+      "The Super Hero Civil War"
+    ],
+    "cover": "Agent of Atlas"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Villains",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Les Villains : Madame Hydra crée un jeton à chaque sort Villain, Baron Strucker les réduit et les fait connive, Yellowjacket gagne lifelink à chaque arrivée.",
+      "en": "Villains: Madame Hydra makes a token with each Villain spell, Baron Strucker discounts them and makes them connive, and Yellowjacket gains lifelink as each one arrives."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire du set.",
+        "Des Villains communs comme Red Room Recruit, trop petits face aux paires blanches.",
+        "Avengers: Under Siege et Dark Deed figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "Common Villains such as Red Room Recruit were too small against the white pairs.",
+        "Avengers: Under Siege and Dark Deed were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Baron Strucker, HYDRA Overlord",
+      "Yellowjacket, Heartless Marauder",
+      "Red Room Recruit",
+      "Cruel Alliance",
+      "Widow's Bite",
+      "The Ruinous Wrecking Crew"
+    ],
+    "cover": "Baron Strucker, HYDRA Overlord"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures au cimetière : Killmonger, Scourge of Wakanda et Undercover Skrull grandissent avec deux créatures au cimetière, Killmonger sacrifie pour détruire. Titania, Rugged Rumbler était l'autre signpost.",
+      "en": "Creatures in the graveyard: Killmonger, Scourge of Wakanda and Undercover Skrull grow with two creature cards there, and Killmonger sacrifices to destroy. Titania, Rugged Rumbler was the other signpost."
+    },
+    "why": {
+      "fr": [
+        "Taux de victoire au-dessus de la moyenne du set.",
+        "Killmonger, Scourge of Wakanda, joué dans plus de la moitié des decks, servait de removal.",
+        "Cruel Alliance et Serpent Specialist complétaient une base commune solide."
+      ],
+      "en": [
+        "Win rate above the set average.",
+        "Killmonger, Scourge of Wakanda, in more than half of its decks, doubled as removal.",
+        "Cruel Alliance and Serpent Specialist rounded out a solid common base."
+      ]
+    },
+    "keyCards": [
+      "Killmonger, Scourge of Wakanda",
+      "Undercover Skrull",
+      "Cruel Alliance",
+      "Serpent Specialist",
+      "Savage Land Dinosaur",
+      "She-Hulk, Jade Defender"
+    ],
+    "cover": "Killmonger, Scourge of Wakanda"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Power-up",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Power-up : des créatures avec une capacité activable une fois, moins chère le tour où elles entrent. Hulk, Gamma Goliath réduit le coût des autres et Abomination se bat.",
+      "en": "Power-up: creatures with a once-only ability, cheaper the turn they enter. Hulk, Gamma Goliath discounts the others and Abomination, Terrifying Titan fights."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, parmi les paires les moins jouées.",
+        "HULK SMASH! et Lightning Strike : le removal rouge commun.",
+        "Wolverine, Fierce Fighter et Photon Blast Barrage figuraient parmi ses cartes les plus gagnantes."
+      ],
+      "en": [
+        "Below the set average, among the least-played pairs.",
+        "HULK SMASH! and Lightning Strike were its common red removal.",
+        "Wolverine, Fierce Fighter and Photon Blast Barrage were among its best-performing cards."
+      ]
+    },
+    "keyCards": [
+      "Hulk, Gamma Goliath",
+      "Abomination, Terrifying Titan",
+      "Wolverine, Fierce Fighter",
+      "Undercover Skrull",
+      "HULK SMASH!",
+      "Red Hulk"
+    ],
+    "cover": "Hulk, Gamma Goliath"
+  }
+]

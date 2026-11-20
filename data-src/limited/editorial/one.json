@@ -1,0 +1,300 @@
+[
+  {
+    "colors": "RG",
+    "name": "Gruul Oil",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Des marqueurs huile sur les permanents rouges et verts : Cinderslash Ravager coûte moins pour chacun. Un deck de créatures rapide et profond, la paire la plus jouée du set.",
+      "en": "Oil counters on red and green permanents: Cinderslash Ravager costs less for each permanent with oil. A fast, deep creature deck that was the most played pair of the set."
+    },
+    "why": {
+      "fr": [
+        "Meilleur taux de victoire du set et de loin sa paire la plus jouée.",
+        "Axiom Engraver, Contagious Vorrac et Chimney Rabble étaient des communes efficaces.",
+        "Evolving Adaptive et Cinderslash Ravager récompensaient l'huile sans ralentir la courbe."
+      ],
+      "en": [
+        "Best win rate of the set and by far its most played pair.",
+        "Axiom Engraver, Contagious Vorrac and Chimney Rabble were efficient commons.",
+        "Evolving Adaptive and Cinderslash Ravager rewarded oil without slowing the curve."
+      ]
+    },
+    "keyCards": [
+      "Cinderslash Ravager",
+      "Contagious Vorrac",
+      "Axiom Engraver",
+      "Evolving Adaptive",
+      "Chimney Rabble",
+      "Barbed Batterfist"
+    ],
+    "cover": "Cinderslash Ravager"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Equipment",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les équipements For Mirrodin! créent un jeton Rebelle et s'y attachent ; Bladehold War-Whip donne la double initiative aux créatures équipées. Un aggro rapide d'équipements bon marché et de Rebelles.",
+      "en": "For Mirrodin! equipment creates a Rebel token and attaches to it; Bladehold War-Whip gives equipped creatures double strike. A fast aggro deck built on cheap equipment and Rebels."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set, derrière Gruul.",
+        "Barbed Batterfist et Bladehold War-Whip donnaient un corps et un équipement pour une carte.",
+        "Annex Sentry et Hexgold Slash retiraient tôt les bloqueurs."
+      ],
+      "en": [
+        "Second-best win rate of the set, behind Gruul.",
+        "Barbed Batterfist and Bladehold War-Whip gave a body and an equipment for one card.",
+        "Annex Sentry and Hexgold Slash removed blockers early."
+      ]
+    },
+    "keyCards": [
+      "Bladehold War-Whip",
+      "Barbed Batterfist",
+      "Annex Sentry",
+      "Hexgold Slash",
+      "Chimney Rabble",
+      "Swooping Lookout"
+    ],
+    "cover": "Bladehold War-Whip"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Toxic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Les créatures toxiques empoisonnent l'adversaire tandis que les cartes corrompues comme Anoint with Affliction s'améliorent à mesure que le poison s'accumule. Des volants blancs comme Flensing Raptor portaient le poison.",
+      "en": "Toxic creatures poison the opponent while corrupted cards such as Anoint with Affliction improve as poison counters pile up. White flyers like Flensing Raptor carried the poison."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set, le meilleur des decks toxiques.",
+        "Flensing Raptor et Bilious Skulldweller infligeaient du poison malgré les bloqueurs.",
+        "Ossification et Anoint with Affliction retiraient les menaces à tout moment de la partie."
+      ],
+      "en": [
+        "Above the set average, the best of the toxic decks.",
+        "Flensing Raptor and Bilious Skulldweller dealt poison past blockers.",
+        "Ossification and Anoint with Affliction removed threats at every stage of the game."
+      ]
+    },
+    "keyCards": [
+      "Flensing Raptor",
+      "Bilious Skulldweller",
+      "Anoint with Affliction",
+      "Stinging Hivemaster",
+      "Ossification",
+      "Compleat Devotion"
+    ],
+    "cover": "Flensing Raptor"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Toxic",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Toxique en largeur : Slaughter Singer renforce l'équipe à chaque arrivée d'une autre créature. Crawling Chorus et Basilica Shepherd créaient des jetons, Planar Disruption retirait les bloqueurs.",
+      "en": "Go-wide toxic: Slaughter Singer pumps the team whenever another creature enters. Crawling Chorus and Basilica Shepherd made tokens, Planar Disruption removed blockers."
+    },
+    "why": {
+      "fr": [
+        "Légèrement au-dessus de la moyenne du set.",
+        "Les communes blanches faisaient l'essentiel ; le vert ajoutait peu de récompenses toxiques.",
+        "Planar Disruption et Annex Sentry, la removal partagée avec les autres decks blancs."
+      ],
+      "en": [
+        "Slightly above the set average.",
+        "White commons did most of the work; green added few toxic payoffs.",
+        "Planar Disruption and Annex Sentry were removal shared with the other white decks."
+      ]
+    },
+    "keyCards": [
+      "Slaughter Singer",
+      "Crawling Chorus",
+      "Basilica Shepherd",
+      "Contagious Vorrac",
+      "Planar Disruption",
+      "Annex Sentry"
+    ],
+    "cover": "Slaughter Singer"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Artifacts",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "La force de Cephalopod Sentry compte vos artefacts. Les Skullbombs, les jetons Mite et des créatures-artefacts comme Chrome Prowler l'alimentaient, avec la removal blanche en soutien.",
+      "en": "Cephalopod Sentry's power counts your artifacts. Skullbombs, Mite tokens and artifact creatures such as Chrome Prowler fed it, with white removal behind."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set : le compte d'artefacts était difficile à atteindre en commune.",
+        "Basilica Shepherd créait des jetons Mite qui comptaient comme artefacts.",
+        "Le bleu manquait de removal, le deck dépendait de Planar Disruption."
+      ],
+      "en": [
+        "Below the set average: the artifact count was hard to reach at common.",
+        "Basilica Shepherd made Mite tokens that counted as artifacts.",
+        "Blue lacked removal, leaving the deck reliant on Planar Disruption."
+      ]
+    },
+    "keyCards": [
+      "Cephalopod Sentry",
+      "Chrome Prowler",
+      "Malcator's Watcher",
+      "Surgical Skullbomb",
+      "Basilica Shepherd",
+      "Planar Disruption"
+    ],
+    "cover": "Cephalopod Sentry"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Charforger gagne de l'huile chaque fois qu'une autre créature ou un artefact va au cimetière. En pratique, un deck rouge agressif avec de la removal noire.",
+      "en": "Charforger gains oil whenever another creature or artifact goes to the graveyard. In practice an aggressive red deck with black removal."
+    },
+    "why": {
+      "fr": [
+        "Parmi les paires les moins jouées, avec un taux de victoire sous la moyenne.",
+        "Les communes rouges comme Hexgold Slash et Chimney Rabble faisaient le travail ; le noir apportait peu.",
+        "Drown in Ichor était la principale raison noire d'associer les couleurs."
+      ],
+      "en": [
+        "Among the least played pairs, with a win rate below the average.",
+        "Red commons such as Hexgold Slash and Chimney Rabble did the work; black added little.",
+        "Drown in Ichor was the main black reason to pair the colors."
+      ]
+    },
+    "keyCards": [
+      "Charforger",
+      "Chimney Rabble",
+      "Furnace Strider",
+      "Hexgold Slash",
+      "Drown in Ichor",
+      "Testament Bearer"
+    ],
+    "cover": "Charforger"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Sorts non-créature et huile : Serum-Core Chimera gagne de l'huile à chacun. Les listes étaient surtout de l'agression rouge soutenue par du tempo bleu comme Tamiyo's Immobilizer et Experimental Augury.",
+      "en": "Noncreature spells and oil: Serum-Core Chimera gains oil with each one. Lists were mostly red aggression backed by blue tempo such as Tamiyo's Immobilizer and Experimental Augury."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set : le bleu apportait peu au cœur agressif rouge.",
+        "Barbed Batterfist et Chimney Rabble étaient ses meilleures communes, toutes deux rouges.",
+        "Peu de récompenses de sorts en commune : le thème Izzet restait hors de portée."
+      ],
+      "en": [
+        "Below the set average: blue added little to the red aggro core.",
+        "Barbed Batterfist and Chimney Rabble were its best commons, both red.",
+        "Few spell payoffs at common kept the Izzet theme out of reach."
+      ]
+    },
+    "keyCards": [
+      "Experimental Augury",
+      "Gitaxian Raptor",
+      "Tamiyo's Immobilizer",
+      "Barbed Batterfist",
+      "Chimney Rabble",
+      "Furnace Punisher"
+    ],
+    "cover": "Experimental Augury"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Toxic",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Necrogen Rotpriest ajoute du poison chaque fois qu'une créature toxique inflige des blessures de combat à un joueur. Prolifération et créatures toxiques vertes visaient la victoire au poison.",
+      "en": "Necrogen Rotpriest adds poison whenever a toxic creature deals combat damage to a player. Proliferate and green toxic creatures aimed for a poison kill."
+    },
+    "why": {
+      "fr": [
+        "Parmi les plus faibles taux de victoire du set.",
+        "Mêler poison et dégâts divisait son horloge au lieu de choisir un plan.",
+        "Cankerbloom et Infectious Bite étaient ses meilleures cartes vertes."
+      ],
+      "en": [
+        "Among the lowest win rates of the set.",
+        "Mixing poison and damage split its clock instead of committing to one plan.",
+        "Cankerbloom and Infectious Bite were its best green cards."
+      ]
+    },
+    "keyCards": [
+      "Necrogen Rotpriest",
+      "Cankerbloom",
+      "Infectious Bite",
+      "Anoint with Affliction",
+      "Lattice-Blade Mantis"
+    ],
+    "cover": "Necrogen Rotpriest"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Proliferate",
+    "archetype": "control",
+    "summary": {
+      "fr": "Voidwing Hybrid revient du cimetière chaque fois que vous proliférez. Un deck de contrôle fait de removal noire, de sorts de prolifération et de petits volants toxiques.",
+      "en": "Voidwing Hybrid returns from the graveyard whenever you proliferate. A controlling deck of black removal, proliferate spells and small toxic flyers."
+    },
+    "why": {
+      "fr": [
+        "Parmi les plus faibles taux de victoire du set.",
+        "Drown in Ichor et Serum Snare étaient de bonnes removals, mais les menaces étaient petites.",
+        "La prolifération était trop lente face aux agressions Gruul et Boros."
+      ],
+      "en": [
+        "Among the lowest win rates of the set.",
+        "Drown in Ichor and Serum Snare were solid removal, but the threats were small.",
+        "Proliferate was too slow against Gruul and Boros aggression."
+      ]
+    },
+    "keyCards": [
+      "Voidwing Hybrid",
+      "Drown in Ichor",
+      "Serum Snare",
+      "Blightbelly Rat",
+      "Distorted Curiosity"
+    ],
+    "cover": "Voidwing Hybrid"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Toxic",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Tainted Observer permet de payer pour proliférer à chaque arrivée d'une autre créature. Créatures toxiques et cartes de prolifération couraient vers la victoire au poison.",
+      "en": "Tainted Observer lets you pay to proliferate whenever another creature enters. Toxic creatures and proliferate cards raced toward a poison kill."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des paires du set.",
+        "Proliférer demandait du poison déjà en place, ce que les lentes cartes bleues assuraient rarement.",
+        "Ses meilleures cartes, comme Contagious Vorrac, étaient vertes et prises d'abord par Gruul."
+      ],
+      "en": [
+        "The lowest win rate among the set's pairs.",
+        "Proliferate needed poison already in play, which slow blue cards rarely set up.",
+        "Its best cards, such as Contagious Vorrac, were green ones the Gruul drafters took first."
+      ]
+    },
+    "keyCards": [
+      "Tainted Observer",
+      "Contagious Vorrac",
+      "Tyvar's Stand",
+      "Rustvine Cultivator",
+      "Mesmerizing Dose",
+      "Bloated Contaminator"
+    ],
+    "cover": "Tainted Observer"
+  }
+]

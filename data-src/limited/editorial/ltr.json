@@ -1,0 +1,302 @@
+[
+  {
+    "colors": "BR",
+    "name": "Rakdos Amass",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Amasser des Orques : des cartes comme Dunland Crebain et Mordor Muster font grandir un unique jeton Armée orque. La removal noire et l'agression rouge en firent le deck le plus joué du set.",
+      "en": "Amass Orcs: cards such as Dunland Crebain and Mordor Muster grow a single Orc Army token. Black removal and red aggression made it the most played deck of the set."
+    },
+    "why": {
+      "fr": [
+        "Meilleur taux de victoire du set et sa paire la plus jouée.",
+        "The Torment of Gollum et Claim the Precious figuraient dans la plupart des listes.",
+        "Chaque carte d'amassement renforçait la même Armée, une menace difficile à bloquer."
+      ],
+      "en": [
+        "Best win rate of the set and its most played pair.",
+        "The Torment of Gollum and Claim the Precious were in most lists.",
+        "Amass cards kept adding to one Army, a threat that was hard to block."
+      ]
+    },
+    "keyCards": [
+      "Dunland Crebain",
+      "Mordor Muster",
+      "The Torment of Gollum",
+      "Claim the Precious",
+      "Éomer of the Riddermark",
+      "Smite the Deathless"
+    ],
+    "cover": "Dunland Crebain"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Gandalf's Sanction inflige autant de dégâts que d'éphémères et de rituels dans votre cimetière. Un deck de sorts fait de cantrips bleus bon marché et de removal rouge.",
+      "en": "Gandalf's Sanction deals damage equal to the instants and sorceries in your graveyard. A spells deck of cheap blue cantrips and red removal."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set et l'une de ses paires les plus jouées.",
+        "Rally at the Hornburg, Quarrel's End et Birthday Escape figuraient dans la plupart des listes.",
+        "Birthday Escape piochait et faisait tenter par l'Anneau tout en remplissant le cimetière."
+      ],
+      "en": [
+        "Above the set average and one of its most played pairs.",
+        "Rally at the Hornburg, Quarrel's End and Birthday Escape were in most lists.",
+        "Birthday Escape drew and tempted with the Ring while filling the graveyard."
+      ]
+    },
+    "keyCards": [
+      "Gandalf's Sanction",
+      "Rally at the Hornburg",
+      "Quarrel's End",
+      "Birthday Escape",
+      "Deceive the Messenger",
+      "The Bath Song"
+    ],
+    "cover": "Gandalf's Sanction"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "The Mouth of Sauron meule et amasse selon les éphémères et rituels de votre cimetière. Un deck de removal et de renvoi qui gagnait les parties longues.",
+      "en": "The Mouth of Sauron mills and amasses according to the instants and sorceries in your graveyard. A removal and bounce deck that won the long game."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Claim the Precious et Glorious Gale géraient les menaces à bas prix.",
+        "Orcish Bowmasters, une rare, punissait la pioche omniprésente dans le format."
+      ],
+      "en": [
+        "Above the set average.",
+        "Claim the Precious and Glorious Gale handled threats cheaply.",
+        "Orcish Bowmasters, a rare, punished the card draw that filled the format."
+      ]
+    },
+    "keyCards": [
+      "The Mouth of Sauron",
+      "Orcish Bowmasters",
+      "Claim the Precious",
+      "Glorious Gale",
+      "The Torment of Gollum",
+      "Saruman's Trickery"
+    ],
+    "cover": "The Mouth of Sauron"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Aristocrats",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Denethor, Ruling Steward crée un Soldat en fin de tour si une de vos créatures est morte. Des jetons blancs comme Shadow Summoning et les cartes de sacrifice noires l'alimentaient.",
+      "en": "Denethor, Ruling Steward makes a Soldier at end of turn if a creature died under your control. White tokens such as Shadow Summoning and black sacrifice cards fed it."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set, derrière Rakdos.",
+        "Shadow Summoning créait une paire d'Esprits volants pour une seule carte.",
+        "Des communes noires partagées avec Rakdos, comme Dunland Crebain, remplissaient la courbe."
+      ],
+      "en": [
+        "Second-best win rate of the set, behind Rakdos.",
+        "Shadow Summoning made a pair of flying Spirits for one card.",
+        "Black commons shared with Rakdos, such as Dunland Crebain, filled the curve."
+      ]
+    },
+    "keyCards": [
+      "Denethor, Ruling Steward",
+      "Shadow Summoning",
+      "The Torment of Gollum",
+      "Dunland Crebain",
+      "Gollum's Bite",
+      "Errand-Rider of Gondor"
+    ],
+    "cover": "Denethor, Ruling Steward"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Humans",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Théoden, King of Rohan donne la double initiative à chaque arrivée d'un Humain. Un aggro Humains fait de cavaliers du Rohan et de soldats du Gondor.",
+      "en": "Théoden, King of Rohan gives double strike whenever a Human enters. A Human aggro deck of Rohirrim riders and Gondor soldiers."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Théoden et Rohirrim Lancer apportaient les dégâts ; Smite the Deathless ouvrait la voie.",
+        "Peu de sources d'avantage de cartes une fois l'adversaire stabilisé."
+      ],
+      "en": [
+        "Above the set average.",
+        "Théoden and Rohirrim Lancer gave the damage; Smite the Deathless cleared the way.",
+        "Few sources of card advantage once the opponent stabilized."
+      ]
+    },
+    "keyCards": [
+      "Théoden, King of Rohan",
+      "Éowyn, Fearless Knight",
+      "Rohirrim Lancer",
+      "East-Mark Cavalier",
+      "Errand-Rider of Gondor",
+      "Smite the Deathless"
+    ],
+    "cover": "Théoden, King of Rohan"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Old Man Willow grandit avec vos terrains et sacrifie une créature ou un jeton en attaquant pour affaiblir un bloqueur. La Nourriture et les grosses créatures vertes fournissaient le sacrifice.",
+      "en": "Old Man Willow grows with your lands and sacrifices a creature or token when it attacks to shrink a blocker. Food and big green creatures supplied the fodder."
+    },
+    "why": {
+      "fr": [
+        "Légèrement sous la moyenne du set.",
+        "Generous Ent et Troll of Khazad-dûm offraient de gros corps recyclables en terrains.",
+        "Rise of the Witch-king servait à la fois de removal et de récursion."
+      ],
+      "en": [
+        "Slightly below the set average.",
+        "Generous Ent and Troll of Khazad-dûm offered big bodies that could cycle for lands.",
+        "Rise of the Witch-king doubled as removal and recursion."
+      ]
+    },
+    "keyCards": [
+      "Old Man Willow",
+      "Rise of the Witch-king",
+      "Generous Ent",
+      "Troll of Khazad-dûm",
+      "Claim the Precious",
+      "Mirrormere Guardian"
+    ],
+    "cover": "Old Man Willow"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Food",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Hobbits et Nourriture : Butterbur et Rosie Cotton of South Lane récompensent les jetons Nourriture, tandis que Frodo Baggins fait tenter par l'Anneau à l'arrivée des légendes.",
+      "en": "Hobbits and Food: Butterbur and Rosie Cotton of South Lane reward Food tokens, while Frodo Baggins tempts you with the Ring as legends enter."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, avec peu de removal.",
+        "Frodo Baggins et Samwise Gamgee étaient les meilleures récompenses, mais le plan Nourriture était lent.",
+        "Many Partings cherchait un terrain et créait un jeton Nourriture, mais les corps restaient petits."
+      ],
+      "en": [
+        "Below the set average, with little removal.",
+        "Frodo Baggins and Samwise Gamgee were the best payoffs, but the Food plan was slow.",
+        "Many Partings fetched a land and made a Food token, but the bodies stayed small."
+      ]
+    },
+    "keyCards": [
+      "Frodo Baggins",
+      "Samwise Gamgee",
+      "Rosie Cotton of South Lane",
+      "Meriadoc Brandybuck",
+      "Many Partings",
+      "Generous Ent"
+    ],
+    "cover": "Frodo Baggins"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Draw Two",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Prince Imrahil the Fair crée un Soldat chaque fois que vous piochez votre deuxième carte du tour. Les cantrips bleus l'alimentaient pendant que les soldats blancs du Gondor tenaient le sol.",
+      "en": "Prince Imrahil the Fair makes a Soldier whenever you draw your second card each turn. Blue cantrips fed it while white Gondor soldiers held the ground."
+    },
+    "why": {
+      "fr": [
+        "Parmi les plus faibles taux de victoire du set.",
+        "Peu de récompenses de double pioche, et les créatures blanches partaient chez Boros et Orzhov.",
+        "Faramir, Prince of Ithilien était sa carte la plus marquante."
+      ],
+      "en": [
+        "Among the lowest win rates of the set.",
+        "Draw-two payoffs were few, and the white creatures went to Boros and Orzhov.",
+        "Faramir, Prince of Ithilien was its standout card."
+      ]
+    },
+    "keyCards": [
+      "Prince Imrahil the Fair",
+      "Faramir, Prince of Ithilien",
+      "Glorious Gale",
+      "Deceive the Messenger",
+      "Pelargir Survivor",
+      "Errand-Rider of Gondor"
+    ],
+    "cover": "Prince Imrahil the Fair"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Scry",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le regard compte : Arwen Undómiel place un marqueur sur une créature à chaque regard, et Legolas, Counter of Kills se dégage. Elfes et cantrips de regard construisaient lentement la table.",
+      "en": "Scry matters: Arwen Undómiel puts a counter on a creature whenever you scry, and Legolas, Counter of Kills untaps. Elves and scry cantrips built the board slowly."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire du set.",
+        "Les récompenses de regard étaient lentes et les créatures petites face à l'agression Rakdos.",
+        "Ent's Fury était sa principale removal."
+      ],
+      "en": [
+        "The lowest win rate of the set.",
+        "Scry payoffs were slow and the creatures small against Rakdos aggression.",
+        "Ent's Fury was its main removal."
+      ]
+    },
+    "keyCards": [
+      "Arwen Undómiel",
+      "Legolas, Counter of Kills",
+      "Lothlórien Lookout",
+      "Elrond, Master of Healing",
+      "Ent's Fury",
+      "Generous Ent"
+    ],
+    "cover": "Arwen Undómiel"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Créatures vertes et removal rouge, avec Friendly Rivalry comme sort de combat et Strider, Ranger of the North qui récompense les terrains joués. La paire la moins jouée du set.",
+      "en": "Green creatures and red removal, with Friendly Rivalry as fight removal and Strider, Ranger of the North rewarding land drops. The least played pair of the set."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set et la paire la moins draftée.",
+        "Smite the Deathless et Friendly Rivalry géraient les créatures ; les Ents donnaient les corps.",
+        "Peu de synergies entre les deux couleurs en commune."
+      ],
+      "en": [
+        "Below the set average and the least drafted pair.",
+        "Smite the Deathless and Friendly Rivalry handled creatures; Ents provided bodies.",
+        "Few synergies between the two colors at common."
+      ]
+    },
+    "keyCards": [
+      "Friendly Rivalry",
+      "Strider, Ranger of the North",
+      "Éomer of the Riddermark",
+      "Smite the Deathless",
+      "Generous Ent",
+      "Wose Pathfinder"
+    ],
+    "cover": "Friendly Rivalry"
+  }
+]

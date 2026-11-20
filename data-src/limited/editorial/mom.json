@@ -1,0 +1,332 @@
+[
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "Halo Forager relance un éphémère ou un rituel depuis le cimetière. Un deck de contrôle fait de removal, de pioche et de volants bleus qui gagnait les parties longues.",
+      "en": "Halo Forager recasts an instant or sorcery from the graveyard. A control deck of removal, card draw and blue flyers that won the long game."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set et sa paire la plus jouée.",
+        "Preening Champion, Ephara's Dispersal et Deadly Derision figuraient dans la plupart des listes.",
+        "Captive Weird bloquait tôt, puis se transformait en menace de fin de partie."
+      ],
+      "en": [
+        "Second-best win rate of the set and its most played pair.",
+        "Preening Champion, Ephara's Dispersal and Deadly Derision were in most lists.",
+        "Captive Weird blocked early, then transformed into a late-game threat."
+      ]
+    },
+    "keyCards": [
+      "Halo Forager",
+      "Preening Champion",
+      "Ephara's Dispersal",
+      "Deadly Derision",
+      "Captive Weird",
+      "Atris, Oracle of Half-Truths"
+    ],
+    "cover": "Halo Forager"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Knights",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Marshal of Zhalfir renforce les autres Chevaliers et engage les bloqueurs. Une courbe basse de Chevaliers comme Protocol Knight et Swordsworn Cavalier, avec des volants bleus pour finir.",
+      "en": "Marshal of Zhalfir pumps the other Knights and taps blockers. A low curve of Knights such as Protocol Knight and Swordsworn Cavalier, with blue flyers to finish."
+    },
+    "why": {
+      "fr": [
+        "Meilleur taux de victoire du set.",
+        "Marshal of Zhalfir, Protocol Knight et Knight of the New Coalition donnaient une courbe profonde.",
+        "Des volants comme Preening Champion concluaient les parties bloquées au sol."
+      ],
+      "en": [
+        "Best win rate of the set.",
+        "Marshal of Zhalfir, Protocol Knight and Knight of the New Coalition gave a deep Knight curve.",
+        "Flyers such as Preening Champion closed games the ground could not."
+      ]
+    },
+    "keyCards": [
+      "Marshal of Zhalfir",
+      "Protocol Knight",
+      "Swordsworn Cavalier",
+      "Knight of the New Coalition",
+      "Preening Champion",
+      "Norn's Inquisitor"
+    ],
+    "cover": "Marshal of Zhalfir"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Stormclaw Rager sacrifie créatures ou artefacts pour grandir et piocher. Le deck s'appuyait sur les jetons de Ral's Reinforcements, la removal rouge et noire et Invasion of Azgol.",
+      "en": "Stormclaw Rager sacrifices creatures or artifacts to grow and draw. The deck leaned on tokens from Ral's Reinforcements, red and black removal and Invasion of Azgol."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set malgré une large part du terrain.",
+        "Volcanic Spite et Deadly Derision étaient d'excellentes removals en commune.",
+        "Peu de récompenses de sacrifice : les listes jouaient en midrange."
+      ],
+      "en": [
+        "Below the set average despite a large share of the field.",
+        "Volcanic Spite and Deadly Derision were premium removal at common.",
+        "Sacrifice payoffs were thin, so lists played as midrange."
+      ]
+    },
+    "keyCards": [
+      "Stormclaw Rager",
+      "Invasion of Azgol",
+      "Ral's Reinforcements",
+      "Volcanic Spite",
+      "Deadly Derision",
+      "Ichor Drinker"
+    ],
+    "cover": "Stormclaw Rager"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Incubate",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Elvish Vatkeeper incube et peut ensuite doubler les marqueurs d'un Incubateur en le transformant. Un midrange d'incubation, de removal et de grosses créatures vertes.",
+      "en": "Elvish Vatkeeper incubates and can later double the counters on an Incubator as it transforms. A midrange deck of incubate, removal and large green creatures."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set.",
+        "Elvish Vatkeeper et Cosmic Hunger figuraient dans la plupart des listes.",
+        "Glissa, Herald of Predation était sa rare la plus forte quand elle sortait."
+      ],
+      "en": [
+        "Above the set average.",
+        "Elvish Vatkeeper and Cosmic Hunger were in most lists.",
+        "Glissa, Herald of Predation was its strongest rare when opened."
+      ]
+    },
+    "keyCards": [
+      "Elvish Vatkeeper",
+      "Glissa, Herald of Predation",
+      "Cosmic Hunger",
+      "Overgrown Pest",
+      "Tangled Skyline",
+      "Converter Beast"
+    ],
+    "cover": "Elvish Vatkeeper"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Convoke",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Joyful Stormsculptor crée des jetons Élémental et inflige des dégâts à chaque adversaire à chaque sort avec convocation. Ral's Reinforcements et Meeting of Minds utilisaient ces jetons pour lancer des sorts à bas prix.",
+      "en": "Joyful Stormsculptor makes Elemental tokens and deals damage to each opponent whenever you cast a convoke spell. Ral's Reinforcements and Meeting of Minds used those tokens to cast spells cheaply."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set, derrière les decks bleu-blanc et bleu-noir.",
+        "Ral's Reinforcements et Volcanic Spite figuraient dans la plupart des listes.",
+        "La convocation récompensait les tables larges fournies par jetons et volants."
+      ],
+      "en": [
+        "Above the set average, behind the two blue decks with white or black.",
+        "Ral's Reinforcements and Volcanic Spite were in most lists.",
+        "Convoke rewarded the wide boards that tokens and flyers provided."
+      ]
+    },
+    "keyCards": [
+      "Joyful Stormsculptor",
+      "Ral's Reinforcements",
+      "Meeting of Minds",
+      "Volcanic Spite",
+      "Preening Champion",
+      "Temporal Cleansing"
+    ],
+    "cover": "Joyful Stormsculptor"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Botanical Brawler grandit chaque fois que des marqueurs sont placés sur un autre permanent. Les créatures à renfort et Ozolith, the Shattered Spire répartissaient les marqueurs sur l'équipe.",
+      "en": "Botanical Brawler grows whenever counters are put on another permanent. Backup creatures and Ozolith, the Shattered Spire spread counters across the team."
+    },
+    "why": {
+      "fr": [
+        "Légèrement au-dessus de la moyenne du set.",
+        "Les créatures à renfort comme Bola Slinger plaçaient des marqueurs en arrivant.",
+        "Il manquait des volants et de la removal des decks bleus."
+      ],
+      "en": [
+        "Slightly above the set average.",
+        "Backup creatures such as Bola Slinger added counters as they entered.",
+        "It lacked the flyers and removal of the blue decks."
+      ]
+    },
+    "keyCards": [
+      "Botanical Brawler",
+      "Ozolith, the Shattered Spire",
+      "Bola Slinger",
+      "Cosmic Hunger",
+      "Chomping Kavu",
+      "Alabaster Host Sanctifier"
+    ],
+    "cover": "Botanical Brawler"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Transform",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Mutagen Connoisseur récompense les permanents transformés : batailles, Incubateurs et créatures à mana phyrexian comme Skyclave Aerialist. Les listes mêlaient tempo bleu et corps verts.",
+      "en": "Mutagen Connoisseur rewards transformed permanents: battles, Incubators and Phyrexian mana creatures such as Skyclave Aerialist. Lists mixed blue tempo with green bodies."
+    },
+    "why": {
+      "fr": [
+        "Juste au-dessus de la moyenne du set.",
+        "Preening Champion et Ephara's Dispersal venaient des decks bleus plus forts.",
+        "Peu de récompenses de transformation : le deck jouait en simple midrange."
+      ],
+      "en": [
+        "Just above the set average.",
+        "Preening Champion and Ephara's Dispersal came from the stronger blue decks.",
+        "Transform payoffs were few, so the deck played as plain midrange."
+      ]
+    },
+    "keyCards": [
+      "Invasion of Pyrulea",
+      "Skyclave Aerialist",
+      "Preening Champion",
+      "Ephara's Dispersal",
+      "Streetwise Negotiator",
+      "Converter Beast"
+    ],
+    "cover": "Invasion of Pyrulea"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Un midrange tricolore qui associe removal bleue et noire et corps verts, souvent autour de Glissa, Herald of Predation. Des terrains comme Dismal Backwater corrigeaient le mana.",
+      "en": "A three-color midrange deck combining blue and black removal with green bodies, often around Glissa, Herald of Predation. Gainlands such as Dismal Backwater fixed the mana."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, le prix d'une base de mana tricolore.",
+        "Halo Forager et Invasion of Amonkhet, venus de Dimir, s'associaient à Elvish Vatkeeper.",
+        "Glissa, Herald of Predation était la principale raison d'ajouter une troisième couleur."
+      ],
+      "en": [
+        "Below the set average, the price of a three-color mana base.",
+        "Halo Forager and Invasion of Amonkhet from Dimir paired with Elvish Vatkeeper.",
+        "Glissa, Herald of Predation was the main reason to stretch into a third color."
+      ]
+    },
+    "keyCards": [
+      "Glissa, Herald of Predation",
+      "Halo Forager",
+      "Invasion of Amonkhet",
+      "Elvish Vatkeeper",
+      "Preening Champion",
+      "Deadly Derision"
+    ],
+    "cover": "Glissa, Herald of Predation"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Phyrexians",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Incubation et Phyrexians : Sculpted Perfection renforce les Phyrexians et l'incubation les crée. Les listes finissaient en removal noire avec des créatures blanches.",
+      "en": "Incubate and Phyrexians: Sculpted Perfection pumps Phyrexians and incubate cards create them. Lists ended up as black removal with white creatures."
+    },
+    "why": {
+      "fr": [
+        "Le plus faible taux de victoire des paires du set.",
+        "Final Flourish et Vanquish the Weak étaient bons, mais les créatures blanches manquaient.",
+        "Les Incubateurs devenaient lentement des menaces face aux volants bleus."
+      ],
+      "en": [
+        "The lowest win rate among the set's pairs.",
+        "Final Flourish and Vanquish the Weak were good, but the white creatures were thin.",
+        "Incubators were slow to become threats against blue flyers."
+      ]
+    },
+    "keyCards": [
+      "Nezumi Freewheeler",
+      "Norn's Inquisitor",
+      "Ichor Drinker",
+      "Final Flourish",
+      "Vanquish the Weak",
+      "Hoarding Broodlord"
+    ],
+    "cover": "Nezumi Freewheeler"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Backup",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Mirror-Shield Hoplite copie les capacités de renfort qui ciblent vos créatures. Un deck agressif de créatures à renfort qui placent des marqueurs sur les attaquants.",
+      "en": "Mirror-Shield Hoplite copies backup abilities that target your creatures. An aggressive deck of backup creatures that put counters on attackers."
+    },
+    "why": {
+      "fr": [
+        "Juste sous la moyenne du set.",
+        "Bola Slinger et Hangar Scrounger étaient ses communes les plus efficaces.",
+        "Peu de réponses aux volants bleus du format."
+      ],
+      "en": [
+        "Just below the set average.",
+        "Bola Slinger and Hangar Scrounger were its most efficient commons.",
+        "Few answers to the blue flyers of the format."
+      ]
+    },
+    "keyCards": [
+      "Mirror-Shield Hoplite",
+      "Bola Slinger",
+      "Hangar Scrounger",
+      "Aerial Boost",
+      "Realmbreaker's Grasp",
+      "Norn's Inquisitor"
+    ],
+    "cover": "Mirror-Shield Hoplite"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Aggro",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Rampaging Geoderm renforce un attaquant à chaque combat. Un deck de créatures qui jouait aussi des batailles comme Invasion of Ergamon et les attaquait pour leur valeur.",
+      "en": "Rampaging Geoderm pumps an attacker each combat. A creature deck that also played battles such as Invasion of Ergamon and attacked them for value."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set, parmi les paires les moins jouées.",
+        "Volcanic Spite et Cosmic Hunger étaient sa removal ; les créatures restaient moyennes.",
+        "Il manquait de l'évasion qui portait les decks bleus du format."
+      ],
+      "en": [
+        "Below the set average, among the least played pairs.",
+        "Volcanic Spite and Cosmic Hunger were its removal; the creatures were average.",
+        "It lacked the evasion that carried the blue decks of the format."
+      ]
+    },
+    "keyCards": [
+      "Rampaging Geoderm",
+      "Invasion of Ergamon",
+      "Volcanic Spite",
+      "Cosmic Hunger",
+      "Overgrown Pest",
+      "Fearless Skald"
+    ],
+    "cover": "Rampaging Geoderm"
+  }
+]

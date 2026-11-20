@@ -1,0 +1,352 @@
+[
+  {
+    "colors": "WR",
+    "name": "Boros Equipment",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Nains, Équipements et Auras sur des créatures bon marché : le deck Boros équipait ses premiers attaquants, et Koll, the Forgemaster renvoyait en main les créatures équipées mortes.",
+      "en": "Dwarves, Equipment and Auras on cheap bodies: the Boros deck suited up early attackers, and Koll, the Forgemaster returned equipped or enchanted creatures that died."
+    },
+    "why": {
+      "fr": [
+        "Le meilleur taux de victoire du set, de peu devant Selesnya.",
+        "Porté par ses communes : Tormentor's Helm, Battlefield Raptor, Beskir Shieldmate, Demon Bolt.",
+        "Assez rapide pour punir les decks neige, lents à mettre en place leur fin de partie."
+      ],
+      "en": [
+        "The best win rate of the set, narrowly ahead of Selesnya.",
+        "Commons carried it: Tormentor's Helm, Battlefield Raptor, Beskir Shieldmate, Demon Bolt.",
+        "Fast enough to punish the slow snow decks before their late game came online."
+      ]
+    },
+    "keyCards": [
+      "Koll, the Forgemaster",
+      "Tormentor's Helm",
+      "Battlefield Raptor",
+      "Goldvein Pick",
+      "Demon Bolt",
+      "Showdown of the Skalds"
+    ],
+    "cover": "Koll, the Forgemaster"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Go-Wide",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Une large armée d'Humains, de Guerriers et de jetons : Maja, Bretagard Protector renforçait l'équipe et créait un jeton par terrain, Fall of the Impostor ajoutait des marqueurs et exilait la plus grosse menace.",
+      "en": "A wide board of Humans, Warriors and tokens: Maja, Bretagard Protector pumped the team and made a token per land, Fall of the Impostor added counters and exiled the biggest threat."
+    },
+    "why": {
+      "fr": [
+        "Deuxième taux de victoire du set, juste derrière Boros.",
+        "Les communes vertes apportaient avantage et removal : Sarulf's Packmate, Struggle for Skemfar.",
+        "Les créatures à boast et les volants blancs maintenaient la pression pendant que la table grossissait."
+      ],
+      "en": [
+        "Second-best win rate of the set, just behind Boros.",
+        "Green commons added value and removal: Sarulf's Packmate, Struggle for Skemfar, Masked Vandal.",
+        "Boast creatures and white fliers kept the pressure on while the board grew."
+      ]
+    },
+    "keyCards": [
+      "Maja, Bretagard Protector",
+      "Fall of the Impostor",
+      "Sarulf's Packmate",
+      "Struggle for Skemfar",
+      "Masked Vandal",
+      "Stalwart Valkyrie"
+    ],
+    "cover": "Maja, Bretagard Protector"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "De gros corps verts soutenus par le removal rouge : Arni Slays the Troll faisait combattre, accélérait et renforçait, Squash et Demon Bolt dégageaient la voie à Ravenous Lindwurm.",
+      "en": "Big green bodies backed by red removal: Arni Slays the Troll fought, ramped and grew a creature, while Squash and Demon Bolt cleared the way for Ravenous Lindwurm."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne du set grâce à ses communes plutôt qu'à une synergie.",
+        "Sarulf's Packmate et Ravenous Lindwurm donnaient cartes et points de vie face à l'aggro.",
+        "Squash, Demon Bolt et Frost Bite en faisaient la paire verte la mieux pourvue en removal."
+      ],
+      "en": [
+        "Above the set average on the strength of its commons rather than a synergy.",
+        "Sarulf's Packmate and Ravenous Lindwurm gave cards and life to outlast aggro.",
+        "Squash, Demon Bolt and Frost Bite made it the green pair with the most removal."
+      ]
+    },
+    "keyCards": [
+      "Arni Slays the Troll",
+      "Sarulf's Packmate",
+      "Ravenous Lindwurm",
+      "Squash",
+      "Demon Bolt",
+      "Masked Vandal"
+    ],
+    "cover": "Arni Slays the Troll"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Giants",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Géants, Sorciers et dégâts directs : Aegar, the Freezing Flame piochait à chaque excès de dégâts, et les terrains neigeux alimentaient Berg Strider et Frost Bite.",
+      "en": "Giants, Wizards and burn: Aegar, the Freezing Flame drew a card whenever excess damage was dealt, and snow lands powered Berg Strider and Frost Bite."
+    },
+    "why": {
+      "fr": [
+        "Squash, sa carte la plus jouée, coûtait moins cher dès qu'un Géant était en jeu.",
+        "Berg Strider et Mistwalker donnaient du tempo sur mana neigeux ; Behold the Multiverse rechargeait.",
+        "Au-dessus de la moyenne du set, derrière les decks blancs agressifs."
+      ],
+      "en": [
+        "Squash was its most played card, cheaper as soon as a Giant was on the battlefield.",
+        "Berg Strider and Mistwalker gave tempo on snow mana; Behold the Multiverse refilled the hand.",
+        "Above the set average, behind the aggressive white decks."
+      ]
+    },
+    "keyCards": [
+      "Aegar, the Freezing Flame",
+      "Squash",
+      "Berg Strider",
+      "Frost Bite",
+      "Behold the Multiverse",
+      "Mistwalker"
+    ],
+    "cover": "Aegar, the Freezing Flame"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Elves",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Elfes et sacrifice : Harald, King of Skemfar allait chercher Elfes et Guerriers, Elderfang Disciple et Elderleaf Mentor laissaient un surplus de valeur, le removal noir faisait le reste.",
+      "en": "Elves and sacrifice: Harald, King of Skemfar dug for Elves and Warriors, Elderfang Disciple and Elderleaf Mentor left extra value, and black removal covered the rest."
+    },
+    "why": {
+      "fr": [
+        "Au-dessus de la moyenne grâce à de bonnes communes : Feed the Serpent, Masked Vandal, Sarulf's Packmate.",
+        "Grizzled Outrider et Ravenous Lindwurm lui donnaient du gabarit contre les decks agressifs."
+      ],
+      "en": [
+        "Above the set average on a solid common base: Feed the Serpent, Masked Vandal, Sarulf's Packmate.",
+        "Grizzled Outrider and Ravenous Lindwurm gave it size against the aggressive decks."
+      ]
+    },
+    "keyCards": [
+      "Harald, King of Skemfar",
+      "Elderfang Disciple",
+      "Elderleaf Mentor",
+      "Feed the Serpent",
+      "Sarulf's Packmate",
+      "Grizzled Outrider"
+    ],
+    "cover": "Harald, King of Skemfar"
+  },
+  {
+    "colors": "URG",
+    "name": "Temur Snow",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Un deck neige tricolore : doubles neigeux et Shimmerdrift Vale réglaient le mana, Sculptor of Winter accélérait, Berg Strider et Frost Bite exploitaient le mana neigeux.",
+      "en": "A three-color snow deck: snow duals and Shimmerdrift Vale fixed the mana, Sculptor of Winter ramped, and Berg Strider and Frost Bite spent the snow mana."
+    },
+    "why": {
+      "fr": [
+        "La meilleure combinaison tricolore du set, légèrement au-dessus de la moyenne.",
+        "Doubles neigeux et Shimmerdrift Vale rendaient trois couleurs jouables dans un format rapide.",
+        "Squash et Demon Bolt donnaient au splash un vrai removal."
+      ],
+      "en": [
+        "The best three-color combination of the set, slightly above the average.",
+        "Snow duals and Shimmerdrift Vale made three colors workable in a fast format.",
+        "Squash and Demon Bolt gave the splash real removal."
+      ]
+    },
+    "keyCards": [
+      "Berg Strider",
+      "Sculptor of Winter",
+      "Squash",
+      "Frost Bite",
+      "Behold the Multiverse",
+      "Aegar, the Freezing Flame"
+    ],
+    "cover": "Berg Strider"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Snow",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Le deck neige du set : les terrains de base neigeux alimentaient Icehide Troll, Avalanche Caller et Spirit of the Aldergard, Mistwalker et les autres changelins donnaient une pression évasive.",
+      "en": "The snow deck of the set: snow basics fed Icehide Troll, Avalanche Caller and Spirit of the Aldergard, while Mistwalker and other changelings gave evasive pressure."
+    },
+    "why": {
+      "fr": [
+        "Souvent drafté, il a fini juste au-dessus de la moyenne du set.",
+        "Sculptor of Winter et Glittering Frost accéléraient vers les cartes neige.",
+        "Il fallait prendre les terrains neigeux tôt, au détriment d'autres picks."
+      ],
+      "en": [
+        "Drafted often; it finished just above the set average.",
+        "Sculptor of Winter and Glittering Frost ramped into the snow payoffs.",
+        "Snow lands had to be taken early, which split picks with the other snow drafters."
+      ]
+    },
+    "keyCards": [
+      "Mistwalker",
+      "Avalanche Caller",
+      "Sculptor of Winter",
+      "Icehide Troll",
+      "Spirit of the Aldergard",
+      "Sarulf's Packmate"
+    ],
+    "cover": "Mistwalker"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Berserkers",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Berserkers et boast : des attaquants rouges bon marché et des effets de sacrifice noirs, Kardur, Doomscourge forçant les créatures adverses à de mauvaises attaques.",
+      "en": "Berserkers and boast: cheap red attackers and black sacrifice outlets, with Kardur, Doomscourge forcing the opponent's creatures into bad attacks."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set malgré un plan clair.",
+        "Tuskeri Firewalker et Axgard Cavalry étaient ses communes les plus jouées.",
+        "Les créatures neige à grande endurance freinaient ses attaques."
+      ],
+      "en": [
+        "Below the set average despite a clear plan.",
+        "Tuskeri Firewalker and Axgard Cavalry were its most played commons.",
+        "High-toughness snow creatures blunted its attacks."
+      ]
+    },
+    "keyCards": [
+      "Kardur, Doomscourge",
+      "Tuskeri Firewalker",
+      "Axgard Cavalry",
+      "Bloodsky Berserker",
+      "Run Amok",
+      "Feed the Serpent"
+    ],
+    "cover": "Kardur, Doomscourge"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Double Spell",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Deux sorts par tour : Firja, Judge of Valor récompensait le deuxième sort, le présage et le removal bon marché le rendaient possible, Valkyries et Anges concluaient.",
+      "en": "Two spells a turn: Firja, Judge of Valor rewarded the second spell, foretell and cheap removal made it possible, and Valkyries and Angels closed the game."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne : les cartes « deux sorts » demandaient plus de sorts bon marché que le set n'en offrait.",
+        "Stalwart Valkyrie et Bound in Gold étaient ses cartes les plus jouées."
+      ],
+      "en": [
+        "Below the set average: the double-spell payoffs needed more cheap spells than the set offered.",
+        "Stalwart Valkyrie and Bound in Gold were the cards it played most."
+      ]
+    },
+    "keyCards": [
+      "Firja, Judge of Valor",
+      "Stalwart Valkyrie",
+      "Bound in Gold",
+      "Elderfang Disciple",
+      "Story Seeker",
+      "Battlefield Raptor"
+    ],
+    "cover": "Firja, Judge of Valor"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Foretell",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Présage et volants : les cartes exilées face cachée tôt étaient lancées à prix réduit plus tard, Vega, the Watcher piochait à chacune, Niko Defies Destiny récompensait les cartes présagées.",
+      "en": "Foretell and fliers: cards exiled face down early were cast cheaply later, Vega, the Watcher drew on each, and Niko Defies Destiny paid off the foretold cards."
+    },
+    "why": {
+      "fr": [
+        "Parmi les plus bas taux de victoire du set.",
+        "Augury Raven et Behold the Multiverse étaient bons, mais le plan était plus lent que le format."
+      ],
+      "en": [
+        "Among the lowest win rates of the set.",
+        "Augury Raven and Behold the Multiverse were good, but the plan was slower than the format."
+      ]
+    },
+    "keyCards": [
+      "Vega, the Watcher",
+      "Niko Defies Destiny",
+      "Augury Raven",
+      "Behold the Multiverse",
+      "Mistwalker",
+      "Bound in Gold"
+    ],
+    "cover": "Vega, the Watcher"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Snow",
+    "archetype": "control",
+    "summary": {
+      "fr": "Trois couleurs sur terrains neigeux : Priest of the Haunted Edge, Icehide Troll et Berg Strider tenaient le sol, Binding the Old Gods détruisait une menace et allait chercher une Forêt.",
+      "en": "Three colors on snow lands: Priest of the Haunted Edge, Icehide Troll and Berg Strider held the ground, and Binding the Old Gods removed a threat and fetched a Forest."
+    },
+    "why": {
+      "fr": [
+        "Sous la moyenne du set ; le mana exigeait beaucoup de doubles neigeux et Shimmerdrift Vale.",
+        "Une bonne fin de partie, mais souvent trop lente contre Boros et Selesnya."
+      ],
+      "en": [
+        "Below the set average; the mana needed many snow duals and Shimmerdrift Vale.",
+        "Strong late game, but often too slow against Boros and Selesnya."
+      ]
+    },
+    "keyCards": [
+      "Binding the Old Gods",
+      "Priest of the Haunted Edge",
+      "Icehide Troll",
+      "Berg Strider",
+      "Narfi, Betrayer King",
+      "Sculptor of Winter"
+    ],
+    "cover": "Binding the Old Gods"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Snow",
+    "archetype": "control",
+    "summary": {
+      "fr": "Neige et Zombies : Narfi, Betrayer King renforçait les deux et revenait du cimetière, Priest of the Haunted Edge et la pioche bleue jouaient une partie longue.",
+      "en": "Snow and Zombies: Narfi, Betrayer King pumped both and came back from the graveyard, while Priest of the Haunted Edge and blue card draw played a long game."
+    },
+    "why": {
+      "fr": [
+        "Le plus bas taux de victoire du set, et la paire la moins draftée.",
+        "Peu de communes de synergie : surtout de la pioche bleue et du removal noir, sans horloge rapide."
+      ],
+      "en": [
+        "The lowest win rate of the set, and the least drafted pair.",
+        "Few synergy commons: mostly blue card draw and black removal with no fast clock."
+      ]
+    },
+    "keyCards": [
+      "Narfi, Betrayer King",
+      "Priest of the Haunted Edge",
+      "Mistwalker",
+      "Behold the Multiverse",
+      "The Trickster-God's Heist",
+      "Avalanche Caller"
+    ],
+    "cover": "Narfi, Betrayer King"
+  }
+]

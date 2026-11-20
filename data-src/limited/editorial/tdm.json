@@ -1,0 +1,257 @@
+[
+  {
+    "colors": "URG",
+    "name": "Temur Harmonize",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Harmonize et grosses créatures : des sorts relancés depuis le cimetière en engageant une créature, Karakyk Guardian et les dragons au sommet de la courbe.",
+      "en": "Harmonize and big creatures: spells recast from the graveyard by tapping a creature, with Karakyk Guardian and dragons at the top of the curve."
+    },
+    "why": {
+      "fr": ["Combinaison la plus jouée, au-dessus de la moyenne du set.", "Sibsig Appraiser et Karakyk Guardian dans beaucoup de decks.", "Lands à gain de vie et Evolving Wilds rendaient le mana du clan jouable."],
+      "en": ["The most played combination, above the set average.", "Sibsig Appraiser and Karakyk Guardian were in many decks.", "Gain lands and Evolving Wilds made the clan's mana work."]
+    },
+    "keyCards": ["Karakyk Guardian", "Glacial Dragonhunt", "Sibsig Appraiser", "Ureni's Rebuff", "Eshki Dragonclaw"],
+    "cover": "Karakyk Guardian"
+  },
+  {
+    "colors": "UBG",
+    "name": "Sultai Renew",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Renew : des cartes exilées du cimetière pour un bonus, Lie in Wait et Awaken the Honored Dead récupèrent, Ainok Wayfarer remplit le cimetière.",
+      "en": "Renew: cards exiled from the graveyard for a bonus, Lie in Wait and Awaken the Honored Dead recover threats, Ainok Wayfarer fills the yard."
+    },
+    "why": {
+      "fr": ["Sous la moyenne du set, malgré une large part de joueurs.", "Fangkeeper's Familiar et Awaken the Honored Dead parmi ses meilleures cartes.", "Renew demandait un cimetière garni et du mana disponible."],
+      "en": ["Below the set average despite a large share of drafters.", "Fangkeeper's Familiar and Awaken the Honored Dead were among its better cards.", "Renew asked for a stocked graveyard and spare mana."]
+    },
+    "keyCards": ["Lie in Wait", "Ainok Wayfarer", "Sibsig Appraiser", "Fangkeeper's Familiar", "Awaken the Honored Dead"],
+    "cover": "Lie in Wait"
+  },
+  {
+    "colors": "WBR",
+    "name": "Mardu Mobilize",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Mobilize : des attaquants qui créent des guerriers engagés et attaquants, Windcrag Siege et Rally the Monastery élargissent l'assaut.",
+      "en": "Mobilize: attackers that create tapped and attacking Warriors, with Windcrag Siege and Rally the Monastery widening the assault."
+    },
+    "why": {
+      "fr": ["L'un des deux meilleurs taux parmi les combinaisons principales.", "Mardu Devotee, Fortress Kin-Guard et Salt Road Packbeast, communes du noyau.", "Shocking Sharpshooter et Frontline Rush avaient de bons taux."],
+      "en": ["One of the two best win rates among the main combinations.", "Mardu Devotee, Fortress Kin-Guard and Salt Road Packbeast were the common core.", "Shocking Sharpshooter and Frontline Rush had strong win rates."]
+    },
+    "keyCards": ["Windcrag Siege", "Mardu Devotee", "Fortress Kin-Guard", "Salt Road Packbeast", "Shocking Sharpshooter", "Rally the Monastery"],
+    "cover": "Windcrag Siege"
+  },
+  {
+    "colors": "WUR",
+    "name": "Jeskai Flurry",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Flurry : lancer un second sort par tour déclenche Jeskai Brushmaster et les créatures du clan, Riverwheel Sweep et Molten Exhale contrôlent.",
+      "en": "Flurry: casting a second spell each turn triggers the clan's creatures, with Jeskai Brushmaster on offense and Riverwheel Sweep for control."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Sibsig Appraiser et Twinmaw Stormbrood parmi ses meilleures cartes.", "Flurry demandait des sorts bon marché que le format offrait peu."],
+      "en": ["Close to the set average.", "Sibsig Appraiser and Twinmaw Stormbrood were among its better cards.", "Flurry needed cheap spells the format offered in limited supply."]
+    },
+    "keyCards": ["Jeskai Brushmaster", "Riverwheel Sweep", "Twinmaw Stormbrood", "Sunset Strikemaster", "Molten Exhale"],
+    "cover": "Jeskai Brushmaster"
+  },
+  {
+    "colors": "WR",
+    "name": "Boros Tokens",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "Jetons et agression, entre Mardu et Jeskai : Frontline Rush et la mobilisation élargissent la table, Cori Mountain Stalwart punit le second sort.",
+      "en": "Tokens and aggression between Mardu and Jeskai: Frontline Rush and mobilize widen the board, Cori Mountain Stalwart rewards a second spell."
+    },
+    "why": {
+      "fr": ["Meilleur taux de victoire du set, nettement devant les autres.", "Une paire plutôt qu'un clan : un mana régulier dans un set de tricolores.", "Shock Brigade, Salt Road Packbeast et Frontline Rush dans beaucoup de decks."],
+      "en": ["The best win rate of the set, clearly ahead of the rest.", "A pair rather than a clan: consistent mana in a set of wedges.", "Shock Brigade, Salt Road Packbeast and Frontline Rush were in many decks."]
+    },
+    "keyCards": ["Frontline Rush", "Cori Mountain Stalwart", "Shock Brigade", "Salt Road Packbeast", "Mardu Devotee", "Sage of the Skies"],
+    "cover": "Frontline Rush"
+  },
+  {
+    "colors": "WBG",
+    "name": "Abzan Endure",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Endure : des marqueurs ou un jeton Spirit au choix, Skirmish Rhino et Champion of Dusan rendent la table difficile à attaquer.",
+      "en": "Endure: counters or a Spirit token at the player's choice, with Skirmish Rhino and Champion of Dusan making the board hard to attack."
+    },
+    "why": {
+      "fr": ["Parmi les plus faibles taux des combinaisons principales.", "Ainok Wayfarer et Sage of the Fang parmi ses meilleures cartes.", "Un plan défensif dans un format dominé par l'agression Boros et Mardu."],
+      "en": ["Among the lowest win rates of the main combinations.", "Ainok Wayfarer and Sage of the Fang were among its better cards.", "A defensive plan in a format led by Boros and Mardu aggression."]
+    },
+    "keyCards": ["Skirmish Rhino", "Champion of Dusan", "Ainok Wayfarer", "Sage of the Fang", "Felothar, Dawn of the Abzan"],
+    "cover": "Skirmish Rhino"
+  },
+  {
+    "colors": "UG",
+    "name": "Simic Graveyard",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Cartes qui quittent le cimetière, entre Sultai et Temur : Kishla Skimmer pioche à chaque renew ou harmonize.",
+      "en": "Cards leaving the graveyard, between Sultai and Temur: Kishla Skimmer draws whenever renew or harmonize uses the yard."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set, pour peu de joueurs.", "Traveling Botanist et Knockout Maneuver parmi ses meilleures cartes.", "Une paire, au mana plus stable que les clans."],
+      "en": ["Close to the set average, from few drafters.", "Traveling Botanist and Knockout Maneuver were among its better cards.", "As a pair, its mana was steadier than the clans'."]
+    },
+    "keyCards": ["Kishla Skimmer", "Champion of Dusan", "Sagu Wildling", "Traveling Botanist", "Knockout Maneuver"],
+    "cover": "Kishla Skimmer"
+  },
+  {
+    "colors": "UBRG",
+    "name": "Four-Color Midrange",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Temur et Sultai réunis : lands à gain de vie et Evolving Wilds pour jouer les meilleures cartes des deux clans.",
+      "en": "Temur and Sultai combined: gain lands and Evolving Wilds to play the best cards of both clans."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne du set.", "Riverwalk Technique et Karakyk Guardian parmi ses meilleures cartes.", "La qualité des cartes compensait une base de mana lente."],
+      "en": ["Close to the set average.", "Riverwalk Technique and Karakyk Guardian were among its better cards.", "Card quality made up for a slow mana base."]
+    },
+    "keyCards": ["Disruptive Stormbrood", "Karakyk Guardian", "Dispelling Exhale", "Riverwalk Technique", "Sibsig Appraiser"],
+    "cover": "Disruptive Stormbrood"
+  },
+  {
+    "colors": "WUBRG",
+    "name": "Five-Color Dragons",
+    "archetype": "ramp",
+    "summary": {
+      "fr": "Toutes les couleurs autour des dragons : Dragonstorm Globe, lands et monuments réparent le mana, Armament Dragon et les Dragonstorm concluent.",
+      "en": "All colors around dragons: monuments and lands fix the mana, while Armament Dragon and the Dragonstorm enchantments close the game."
+    },
+    "why": {
+      "fr": ["Plus faible taux de victoire parmi les combinaisons principales.", "Sonic Shrieker et Sibsig Appraiser parmi ses meilleures cartes.", "La correction du mana coûtait des tours face aux decks agressifs."],
+      "en": ["The lowest win rate among the main combinations.", "Sonic Shrieker and Sibsig Appraiser were among its better cards.", "Fixing the mana cost turns against the aggressive decks."]
+    },
+    "keyCards": ["Armament Dragon", "Roiling Dragonstorm", "Sonic Shrieker", "Jeskai Monument", "Dragonbroods' Relic"],
+    "cover": "Armament Dragon"
+  },
+  {
+    "colors": "BG",
+    "name": "Golgari Counters",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Marqueurs, entre Abzan et Sultai : Stalwart Successor et les créatures qui endurent grandissent, Champion of Dusan en défense.",
+      "en": "Counters between Abzan and Sultai: Stalwart Successor and enduring creatures grow, with Champion of Dusan on defense."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne, pour peu de joueurs.", "Qarsi Revenant et Synchronized Charge parmi ses meilleures cartes.", "Une paire, au mana plus fiable que les clans voisins."],
+      "en": ["Above the set average, from few drafters.", "Qarsi Revenant and Synchronized Charge were among its better cards.", "As a pair, its mana was more reliable than the neighboring clans'."]
+    },
+    "keyCards": ["Stalwart Successor", "Champion of Dusan", "Qarsi Revenant", "Synchronized Charge", "Sagu Pummeler"],
+    "cover": "Stalwart Successor"
+  },
+  {
+    "colors": "WB",
+    "name": "Orzhov Sacrifice",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "Sacrifice, entre Abzan et Mardu : les jetons de mobilize et d'endure servent de fourrage, Marshal of the Lost pompe l'attaque.",
+      "en": "Sacrifice between Abzan and Mardu: mobilize and endure tokens become fodder, while Marshal of the Lost pumps the attack."
+    },
+    "why": {
+      "fr": ["Au-dessus de la moyenne, pour peu de joueurs.", "Salt Road Packbeast, dans la plupart des decks, avec un bon taux.", "Peu de récompenses de sacrifice en commune."],
+      "en": ["Above the set average, from few drafters.", "Salt Road Packbeast, in most decks, had a strong win rate.", "Few sacrifice payoffs at common."]
+    },
+    "keyCards": ["Marshal of the Lost", "Salt Road Packbeast", "Fortress Kin-Guard", "Kin-Tree Nurturer", "Static Snare"],
+    "cover": "Marshal of the Lost"
+  },
+  {
+    "colors": "UR",
+    "name": "Izzet Spells",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "Doubles sorts, entre Jeskai et Temur : Glacial Dragonhunt et les sorts bon marché, Marang River Regent en finition.",
+      "en": "Double spells between Jeskai and Temur: Glacial Dragonhunt and cheap spells, with Marang River Regent as a finisher."
+    },
+    "why": {
+      "fr": ["Proche de la moyenne, pour peu de joueurs.", "Glacial Dragonhunt et Marang River Regent avaient de hauts taux.", "Swiftwater Cliffs et Evolving Wilds rendaient le mana stable."],
+      "en": ["Close to the set average, from few drafters.", "Glacial Dragonhunt and Marang River Regent had high win rates.", "Swiftwater Cliffs and Evolving Wilds kept the mana steady."]
+    },
+    "keyCards": ["Glacial Dragonhunt", "Marang River Regent", "Dragonologist", "Meticulous Artisan", "Narset's Rebuke"],
+    "cover": "Glacial Dragonhunt"
+  },
+  {
+    "colors": "WU",
+    "name": "Azorius Flurry",
+    "archetype": "tempo",
+    "summary": {
+      "fr": "La moitié Azorius de Jeskai : sorts bon marché pour flurry, Static Snare et Spectral Denial en interaction.",
+      "en": "The Azorius half of Jeskai: cheap spells for flurry, with Static Snare and Spectral Denial as interaction."
+    },
+    "why": {
+      "fr": ["Très rarement joué, sans carte multicolore dédiée.", "Fortress Kin-Guard et Spectral Denial parmi ses meilleures cartes.", "Paire alliée sans signpost, à l'écart des archétypes conçus."],
+      "en": ["Rarely played, with no dedicated multicolor cards.", "Fortress Kin-Guard and Spectral Denial were among its better cards.", "An allied pair without a signpost, outside the designed archetypes."]
+    },
+    "keyCards": ["Static Snare", "Spectral Denial", "Fortress Kin-Guard", "Riverwalk Technique", "Marang River Regent"],
+    "cover": "Static Snare"
+  },
+  {
+    "colors": "WG",
+    "name": "Selesnya Endure",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "La moitié Selesnya d'Abzan : Trade Route Envoy et Fortress Kin-Guard endurent, Champion of Dusan tient le sol.",
+      "en": "The Selesnya half of Abzan: Trade Route Envoy and Fortress Kin-Guard endure, and Champion of Dusan holds the ground."
+    },
+    "why": {
+      "fr": ["Très rarement joué, sans carte multicolore dédiée.", "Trade Route Envoy et Undergrowth Leopard avaient de hauts taux.", "Paire alliée sans signpost, à l'écart des archétypes conçus."],
+      "en": ["Rarely played, with no dedicated multicolor cards.", "Trade Route Envoy and Undergrowth Leopard had high win rates.", "An allied pair without a signpost, outside the designed archetypes."]
+    },
+    "keyCards": ["Trade Route Envoy", "Fortress Kin-Guard", "Champion of Dusan", "Undergrowth Leopard", "Salt Road Packbeast"],
+    "cover": "Trade Route Envoy"
+  },
+  {
+    "colors": "RG",
+    "name": "Gruul Harmonize",
+    "archetype": "midrange",
+    "summary": {
+      "fr": "La moitié Gruul de Temur : grosses créatures, Synchronized Charge et Sarkhan's Resolve, Surrak, Elusive Hunter en menace.",
+      "en": "The Gruul half of Temur: large creatures, Synchronized Charge and Sarkhan's Resolve, with Surrak, Elusive Hunter as a threat."
+    },
+    "why": {
+      "fr": ["Très rarement joué, sous la moyenne du set.", "Surrak et Traveling Botanist parmi ses meilleures cartes.", "Paire alliée sans signpost, à l'écart des archétypes conçus."],
+      "en": ["Rarely played, below the set average.", "Surrak and Traveling Botanist were among its better cards.", "An allied pair without a signpost, outside the designed archetypes."]
+    },
+    "keyCards": ["Surrak, Elusive Hunter", "Synchronized Charge", "Champion of Dusan", "Sarkhan's Resolve", "Magmatic Hellkite"],
+    "cover": "Surrak, Elusive Hunter"
+  },
+  {
+    "colors": "BR",
+    "name": "Rakdos Mobilize",
+    "archetype": "aggro",
+    "summary": {
+      "fr": "La moitié Rakdos de Mardu : Stormshriek Feral et Zurgo's Vanguard attaquent, Sonic Shrieker et le removal finissent.",
+      "en": "The Rakdos half of Mardu: Stormshriek Feral and Zurgo's Vanguard attack, Sonic Shrieker and removal finish."
+    },
+    "why": {
+      "fr": ["Très rarement joué, sous la moyenne du set.", "Sinkhole Surveyor et Sonic Shrieker parmi ses meilleures cartes.", "Paire alliée sans signpost, à l'écart des archétypes conçus."],
+      "en": ["Rarely played, below the set average.", "Sinkhole Surveyor and Sonic Shrieker were among its better cards.", "An allied pair without a signpost, outside the designed archetypes."]
+    },
+    "keyCards": ["Sonic Shrieker", "Stormshriek Feral", "Zurgo's Vanguard", "Underfoot Underdogs", "Sinkhole Surveyor"],
+    "cover": "Sonic Shrieker"
+  },
+  {
+    "colors": "UB",
+    "name": "Dimir Control",
+    "archetype": "control",
+    "summary": {
+      "fr": "La moitié Dimir de Sultai : bloqueurs, removal et dragons comme Scavenger Regent et Marang River Regent pour finir.",
+      "en": "The Dimir half of Sultai: blockers, removal and dragons such as Scavenger Regent and Marang River Regent to finish."
+    },
+    "why": {
+      "fr": ["Très rarement joué, sans carte multicolore dédiée.", "Ses meilleurs decks reposaient sur les dragons rares.", "Paire alliée sans signpost, à l'écart des archétypes conçus."],
+      "en": ["Rarely played, with no dedicated multicolor cards.", "Its best decks leaned on rare dragons.", "An allied pair without a signpost, outside the designed archetypes."]
+    },
+    "keyCards": ["Scavenger Regent", "Marang River Regent", "Iceridge Serpent", "Ureni's Rebuff", "Unending Whisper"],
+    "cover": "Scavenger Regent"
+  }
+]
