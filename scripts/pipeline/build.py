@@ -4,6 +4,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
 OUT = os.path.join(OUT_DIR, 'decks')
 os.makedirs(OUT, exist_ok=True)
+# every result of every deck, by season: the "all results" list of a deck page (loaded on demand)
+OUT_RESULTS = os.path.join(OUT_DIR, 'results')
+os.makedirs(OUT_RESULTS, exist_ok=True)
 season_ids = [s[0] for s in SEASONS]
 season_end = {s[0]: (SEASONS[i+1][1] if i + 1 < len(SEASONS) else '2099-01-01') for i, s in enumerate(SEASONS)}
 prints = json.load(open(PRINTS))
@@ -61,6 +64,8 @@ for sid in season_ids:
     if not os.path.exists(p): continue
     ed = json.load(open(p))
     decks = []
+    # event key -> [name, ISO date]; deck id -> [[event key, mtgtop8 deck id or source URL, rank, player], ...]
+    events, results = {}, {}
     for e in ed:
         rs = deck_rows(sid, ed, e)
         if not rs: continue
@@ -93,6 +98,14 @@ for sid in season_ids:
             if not pr or name in ('Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes'): continue
             if not any(p['st'] in LEGAL_SET_TYPES and p['r'] < season_end[sid] for p in pr['prints']):
                 print(f'  WARN {sid}/{e["slug"]}: {name} not printed in a {FORMAT}-legal set before season end')
+        out_rows = []
+        for r in sorted(rs, key=lambda r: (r['iso'], rank_key(r['rank']), r['player'])):
+            key = str(r['e'])
+            if events.get(key, [None, r['iso']])[1] != r['iso']:
+                key = f"{key}@{r['iso']}"  # same event name on two dates (period sources)
+            events[key] = [r['event'], r['iso']]
+            out_rows.append([key, r['source'] if r.get('source') else r['d'], r['rank'], r['player']])
+        results[f"{e['slug']}-{sid}"] = out_rows
         decks.append({
             'id': f"{e['slug']}-{sid}", 'name': e['name'], 'season': sid, 'archetype': e['archetype'], 'colors': colors,
             'tier': 3, 'first': min(r['iso'] for r in rs), 'last': max(r['iso'] for r in rs),
@@ -109,6 +122,9 @@ for sid in season_ids:
         elif s['share'] >= 4 or s['wins'] >= 1: d['tier'] = 2
     all_decks[sid] = decks
     json.dump({'season': sid, 'decks': decks}, open(f'{OUT}/{sid}.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+    results = {d['id']: results[d['id']] for d in decks}
+    json.dump({'season': sid, 'code': FORMAT_CODE, 'events': events, 'decks': results}, open(f'{OUT_RESULTS}/{sid}.json', 'w'),
+              ensure_ascii=False, separators=(',', ':'))
     print(sid, len(decks), 'decks', sum(1 for d in decks if d['tier'] == 1), 'tier1')
 cards = {}
 for name, sid in first_season.items():

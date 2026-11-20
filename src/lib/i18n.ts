@@ -152,8 +152,8 @@ const STRINGS = {
   prev: { fr: 'Précédent', en: 'Previous' },
   next: { fr: 'Suivant', en: 'Next' },
   footer: {
-    fr: 'Résultats et listes : MTGTop8, Classic Dojo, StarCityGames. Limited : données publiques 17Lands (CC BY 4.0). Images : Scryfall.',
-    en: 'Results and lists: MTGTop8, Classic Dojo, StarCityGames. Limited: 17Lands public data (CC BY 4.0). Images: Scryfall.',
+    fr: 'Résultats et listes : MTGTop8, Classic Dojo, StarCityGames. Limited : données publiques 17Lands (CC BY 4.0). Images et prix : Scryfall.',
+    en: 'Results and lists: MTGTop8, Classic Dojo, StarCityGames. Limited: 17Lands public data (CC BY 4.0). Images and prices: Scryfall.',
   },
   staplesIntro: { fr: 'cartes devenues incontournables, des plus récentes aux plus anciennes', en: 'cards that became format staples, newest first' },
   winRate: { fr: 'de victoires', en: 'win rate' },
@@ -181,6 +181,32 @@ const STRINGS = {
     en: 'One column per set: share of games played by the color combination (bar, one scale throughout), its win rate and a 7-win deck.',
   },
   setsPlural: { fr: 'extensions', en: 'sets' },
+  // deck page: current price and stores
+  priceTitle: { fr: 'Ce deck aujourd’hui', en: 'This deck today' },
+  priceOn: { fr: 'sur', en: 'on' },
+  priceCards: { fr: 'cartes, sideboard compris, à l’impression la moins chère de chaque carte', en: 'cards, sideboard included, at the cheapest printing of each card' },
+  priceSource: { fr: 'Estimation d’après les cotes Scryfall du', en: 'Estimate from Scryfall prices of' },
+  priceMissingOne: { fr: 'carte sans cote', en: 'card without a price' },
+  priceMissingMany: { fr: 'cartes sans cote', en: 'cards without a price' },
+  priciest: { fr: 'Le plus cher', en: 'Most expensive' },
+  buy: { fr: 'Acheter', en: 'Buy' },
+  cardmarketHint: { fr: 'copie la liste, à coller dans une liste d’envies', en: 'copies the list, paste it into a wants list' },
+  cardmarketCopied: { fr: 'liste copiée, collez-la dans une nouvelle liste d’envies', en: 'list copied, paste it into a new wants list' },
+  // deck page: every result of the archetype in the season
+  resultsTitle: { fr: 'Tous les résultats', en: 'Every result' },
+  resultsCaptionA: { fr: 'résultats en tournoi', en: 'tournament results' },
+  resultsCaptionB: { fr: 'dont', en: 'including' },
+  resultsCaptionC: { fr: 'Chaque tournoi mène à la liste publiée.', en: 'Each event links to the published list.' },
+  oldestFirst: { fr: 'plus anciens d’abord', en: 'oldest first' },
+  newestFirst: { fr: 'plus récents d’abord', en: 'newest first' },
+  top8Only: { fr: 'top 8 seulement', en: 'top 8s only' },
+  everyFinish: { fr: 'tous les classements', en: 'every finish' },
+  shownAbove: { fr: 'liste ci-dessus', en: 'list above' },
+  showAll: { fr: 'Tout afficher', en: 'Show all' },
+  colDate: { fr: 'Date', en: 'Date' },
+  colRank: { fr: 'Place', en: 'Finish' },
+  colPlayer: { fr: 'Joueur', en: 'Player' },
+  colEvent: { fr: 'Tournoi', en: 'Event' },
 } satisfies Record<string, L10n>
 
 export type StringKey = keyof typeof STRINGS

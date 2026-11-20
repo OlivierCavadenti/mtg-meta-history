@@ -1,7 +1,7 @@
 // Validates the generated deck encyclopedia data (src/data/{format}).
-import { readdirSync, readFileSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { CardInfo, Deck, Season } from '../src/data/types'
+import type { CardInfo, Deck, PriceFile, ResultsFile, Season } from '../src/data/types'
 import { STANDARD_SEASONS } from '../src/data/standard/seasons'
 import { MODERN_SEASONS } from '../src/data/modern/seasons'
 import { PREMODERN_SEASONS } from '../src/data/premodern/seasons'
@@ -26,9 +26,25 @@ function checkFormat(format: string, seasons: Season[]) {
   const seasonIds = new Set(seasons.map((s) => s.id))
   const ids = new Set<string>()
 
+  // tournament formats: every result of a deck (build.py) and current card prices (prices.py)
+  const tournament = format !== 'limited'
+  const prices = tournament && existsSync(join(root, 'prices.json'))
+    ? (JSON.parse(readFileSync(join(root, 'prices.json'), 'utf8')) as PriceFile)
+    : undefined
+  if (tournament && !prices) errors.push(`${format}: no prices.json (run scripts/pipeline/prices.py)`)
+
   for (const file of readdirSync(join(root, 'decks')).sort()) {
     const { season, decks } = JSON.parse(readFileSync(join(root, 'decks', file), 'utf8')) as { season: string; decks: Deck[] }
     if (!seasonIds.has(season)) errors.push(`${format}/${file}: unknown season ${season}`)
+    const resultsPath = join(root, 'results', file)
+    const results = tournament && existsSync(resultsPath) ? (JSON.parse(readFileSync(resultsPath, 'utf8')) as ResultsFile) : undefined
+    if (tournament && !results) errors.push(`${format}/${file}: no results file (run build.py)`)
+    for (const d of results ? decks : []) {
+      const rows = results!.decks[d.id]
+      if (!rows) errors.push(`${format}/${season}/${d.id}: no results`)
+      else if (rows.length !== d.stats.results) errors.push(`${format}/${season}/${d.id}: ${rows.length} results listed, ${d.stats.results} counted`)
+      for (const [key] of rows ?? []) if (!results!.events[key]) errors.push(`${format}/${season}/${d.id}: unknown event ${key}`)
+    }
     for (const d of decks) {
       total++
       const where = `${format}/${season}/${d.id}`

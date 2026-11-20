@@ -92,10 +92,15 @@ python3 scripts/pipeline/check_editorial.py 2005-rav                     # valid
 python3 scripts/pipeline/fetch_scryfall.py   # Scryfall "default_cards" bulk → .pipeline/default.jsonl.gz
 python3 scripts/pipeline/prints.py           # → .pipeline/prints.json, shared by every format
 python3 scripts/pipeline/build.py
+python3 scripts/pipeline/prices.py           # current card prices, every built format
 npm run validate:content && npm run typecheck
 ```
 
-`build.py` writes `src/data/standard/decks/{season}.json` and `src/data/standard/cards.json`.
+`build.py` writes `src/data/standard/decks/{season}.json`, `src/data/standard/results/{season}.json`
+(every result of every deck, for the deck page's results table) and `src/data/standard/cards.json`.
+`prices.py` writes `src/data/{format}/prices.json`: for each card, the cheapest tournament-legal
+paper printing in EUR and USD, any finish (Collectors' Edition, 30th Anniversary, gold borders,
+oversized and digital printings excluded). Cards Scryfall does not price stay without a price.
 Card art uses the newest regular printing released before the end of the season in which the card
 first appears, so a 1997 deck shows 1997 frames.
 

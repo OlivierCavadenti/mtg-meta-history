@@ -90,8 +90,8 @@ URL in a comment, in the season whose dates contain it.
 bash scripts/pipeline/weekly.sh build
 ```
 
-Runs `check_editorial.py` on the two most recent seasons of each format, `build.py`, content
-validation, type-check and the production build. It must exit 0. Then:
+Runs `check_editorial.py` on the two most recent seasons of each format, `build.py`, `prices.py`
+(current card prices), content validation, type-check and the production build. It must exit 0. Then:
 
 ```bash
 git add -A data-src src scripts
@@ -101,6 +101,10 @@ git push origin HEAD:main
 
 GitHub Actions deploys `main` to GitHub Pages. If the build cannot be fixed, do not push to `main`:
 push to a branch named `weekly-update-YYYY-MM-DD` and report what failed.
+
+Prices alone can be refreshed more often than the results (Scryfall updates them once a day):
+`bash scripts/pipeline/weekly.sh prices` downloads the bulk data and rewrites every
+`src/data/{format}/prices.json`; commit them with `Prices YYYY-MM-DD`.
 
 ## Rules
 

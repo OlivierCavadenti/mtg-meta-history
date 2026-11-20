@@ -9,6 +9,8 @@ import { cardImage, scryfallSearch } from '../lib/cards'
 import { hidePreview, movePreview, showPreview } from '../lib/preview'
 import ColorPips from '../components/ColorPips.vue'
 import DeckList from '../components/DeckList.vue'
+import DeckPrice from '../components/DeckPrice.vue'
+import DeckResults from '../components/DeckResults.vue'
 import SoonState from '../components/SoonState.vue'
 
 const route = useRoute()
@@ -139,6 +141,12 @@ watchEffect(() => {
     </section>
 
     <DeckList v-if="deck.list.main.length" :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
+
+    <!-- tournament decks only: a draft deck is not bought, a design archetype has no list -->
+    <template v-if="!deck.limited && !deck.sources">
+      <DeckPrice v-if="deck.list.main.length" :list="deck.list" :format="formatId" />
+      <DeckResults :deck="deck" :format="formatId" />
+    </template>
 
     <nav class="siblings">
       <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">
