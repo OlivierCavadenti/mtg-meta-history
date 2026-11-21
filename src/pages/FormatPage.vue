@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import type { Archetype, Deck, SeasonWithDecks } from '../data/types'
 import { useFormat } from '../lib/useFormat'
@@ -105,6 +105,45 @@ const jumps = computed(() =>
     return { id: s.id, label: clash || s.start.endsWith('-01-01') || s.end?.endsWith('-01-01') ? title : year, title }
   }),
 )
+// The season under the filter bar is shown selected in the jump bar and follows the scroll;
+// before any season reaches the bar, the first one shown counts as current.
+const current = ref('')
+const jumpEl = ref<HTMLElement | null>(null)
+let raf = 0
+function updateCurrent() {
+  raf = 0
+  const bar = toolsEl.value
+  const list = visible.value
+  if (!bar || !list.length) return
+  const line = bar.getBoundingClientRect().bottom + 8
+  let id = list[0].id
+  for (const s of list) {
+    const el = document.getElementById(`s-${s.id}`)
+    if (!el || el.getBoundingClientRect().top > line) break
+    id = s.id
+  }
+  current.value = id
+}
+function onScroll() {
+  if (!raf) raf = requestAnimationFrame(updateCurrent)
+}
+onMounted(() => window.addEventListener('scroll', onScroll, { passive: true }))
+onBeforeUnmount(() => {
+  window.removeEventListener('scroll', onScroll)
+  cancelAnimationFrame(raf)
+})
+watch(visible, () => nextTick(updateCurrent), { immediate: true })
+// keep the selected label in view when the jump bar overflows sideways
+watch(current, async () => {
+  await nextTick()
+  const nav = jumpEl.value
+  const a = nav?.querySelector<HTMLElement>('a.on')
+  if (!nav || !a) return
+  const r = a.getBoundingClientRect()
+  const n = nav.getBoundingClientRect()
+  if (r.left < n.left || r.right > n.right) nav.scrollLeft += r.left - n.left - (n.width - r.width) / 2
+})
+
 const totalDecks = computed(() => seasons.value.reduce((n, s) => n + s.decks.length, 0))
 const shownDecks = computed(() => visible.value.reduce((n, s) => n + s.shown.length, 0))
 const filtering = computed(() => !!(archetype.value || colors.value.length || query.value.trim()))
@@ -160,8 +199,16 @@ const banLine = (s: Row, restricted = false) =>
         </div>
         <input v-model="query" class="search" type="search" :placeholder="locale === 'fr' ? 'Deck ou carte' : 'Deck or card'" />
       </div>
-      <nav class="jump" aria-label="Seasons">
-        <a v-for="j in jumps" :key="j.id" :href="`#s-${j.id}`" :title="j.title">{{ j.label }}</a>
+      <nav ref="jumpEl" class="jump" aria-label="Seasons">
+        <a
+          v-for="j in jumps"
+          :key="j.id"
+          :href="`#s-${j.id}`"
+          :title="j.title"
+          :data-label="j.label"
+          :class="{ on: j.id === current }"
+          :aria-current="j.id === current ? 'location' : undefined"
+        >{{ j.label }}</a>
       </nav>
     </div>
 
@@ -241,13 +288,29 @@ const banLine = (s: Row, restricted = false) =>
 }
 
 .jump a {
+  display: inline-flex;
+  flex-direction: column;
   color: var(--muted);
   text-decoration: none;
+}
+
+/* reserves the bold width so selecting a label does not shift the others */
+.jump a::after {
+  content: attr(data-label);
+  font-weight: 700;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
 }
 
 .jump a:hover {
   color: var(--ink);
   text-decoration: underline;
+}
+
+.jump a.on {
+  color: var(--ink);
+  font-weight: 700;
 }
 
 .filters {

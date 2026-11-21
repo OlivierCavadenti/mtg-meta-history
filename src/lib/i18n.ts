@@ -168,14 +168,11 @@ const STRINGS = {
   trophyDeck: { fr: 'Deck à 7 victoires', en: '7-win deck' },
   setAverage: { fr: 'moyenne de l’extension', en: 'set average' },
   premierDraft: { fr: 'Premier Draft sur MTG Arena', en: 'Premier Draft on MTG Arena' },
-  limitedSourceA: {
-    fr: 'Taux de victoire, parts des parties et decks à 7 victoires calculés à partir des',
-    en: 'Win rates, shares of games and 7-win decks computed from',
-  },
+  limitedSourceA: { fr: 'Chiffres tirés des', en: 'Figures from' },
   limitedSourceLink: { fr: 'données publiques de 17Lands', en: '17Lands public data' },
   limitedSourceB: {
-    fr: '(Premier Draft sur MTG Arena, licence CC BY 4.0). L’échantillon réunit les joueurs équipés du traqueur 17Lands, plus forts que la moyenne : les taux se comparent au sein d’une même extension. Avant Kaldheim (2021), les archétypes viennent du design des extensions et de sources citées, sans chiffres.',
-    en: '(Premier Draft on MTG Arena, CC BY 4.0 license). The sample is players using the 17Lands tracker, stronger than average: compare rates within a set. Before Kaldheim (2021), archetypes come from the sets\' design and cited sources, without numbers.',
+    fr: '(Premier Draft, CC BY 4.0). Avant Kaldheim : archétypes de design, sans chiffres.',
+    en: '(Premier Draft, CC BY 4.0). Before Kaldheim: design archetypes, no figures.',
   },
   seasonTotalLimited: { fr: 'parties dans l’extension', en: 'games in the set' },
   timelineCaptionLimited: {
