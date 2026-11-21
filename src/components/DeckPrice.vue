@@ -19,27 +19,30 @@ watch(
 )
 
 const lines = computed(() => buyList(props.list))
-const copies = computed(() => lines.value.reduce((s, [n]) => s + n, 0))
 
-/** euros first in French (Cardmarket), dollars first in English (TCGplayer) */
-const currencies = computed<Currency[]>(() => (locale.value === 'fr' ? ['EUR', 'USD'] : ['USD', 'EUR']))
-const STORE: Record<Currency, string> = { EUR: 'Cardmarket', USD: 'TCGplayer' }
+type Tile = { store: string; url: string; amount?: string; missing: number; copy?: boolean }
 
-const totals = computed(() =>
-  prices.value ? currencies.value.map((c) => ({ currency: c, ...deckPrice(lines.value, prices.value!, c) })) : [],
-)
-const shown = computed(() => totals.value.filter((p) => p.lines.length > 0))
-const primary = computed(() => shown.value[0])
-const priciest = computed(() => primary.value?.lines.slice(0, 3) ?? [])
+const tiles = computed<Tile[]>(() => {
+  const p = prices.value
+  if (!p) return []
+  const total = (c: Currency) => {
+    const d = deckPrice(lines.value, p, c)
+    return d.lines.length ? { amount: `≈ ${formatPrice(d.total, c, locale.value)}`, missing: d.missing } : { missing: 0 }
+  }
+  const cardmarket: Tile = { store: 'Cardmarket', url: cardmarketWantsUrl(locale.value), copy: true, ...total('EUR') }
+  const tcgplayer: Tile = { store: 'TCGplayer', url: tcgplayerUrl(lines.value), ...total('USD') }
+  // Scryfall has no Card Kingdom prices: the store shows its own once the list is loaded
+  const cardKingdom: Tile = { store: 'Card Kingdom', url: cardKingdomUrl(lines.value), missing: 0 }
+  return locale.value === 'fr' ? [cardmarket, tcgplayer, cardKingdom] : [tcgplayer, cardKingdom, cardmarket]
+})
+const priced = computed(() => tiles.value.some((x) => x.amount))
 
-/** French puts a non-breaking space before a colon */
-const colon = computed(() => (locale.value === 'fr' ? ' :' : ':'))
-
-const missingNote = (n: number) => `${n} ${n > 1 ? t('priceMissingMany') : t('priceMissingOne')}`
+const unpriced = (n: number) => `${t('excl')} ${n} ${n > 1 ? t('cards') : t('cardOne')}`
 
 const copied = ref(false)
-function copyForCardmarket() {
-  // the link opens normally; the list goes to the clipboard to paste into a wants list
+function onClick(tile: Tile) {
+  if (!tile.copy) return
+  // Cardmarket takes no prefilled list: the link opens its wants lists, the list goes to the clipboard
   navigator.clipboard
     ?.writeText(listText(lines.value))
     .then(() => (copied.value = true))
@@ -50,74 +53,127 @@ function copyForCardmarket() {
 </script>
 
 <template>
-  <section v-if="shown.length" class="price">
+  <section v-if="priced" class="price">
     <h2>{{ t('priceTitle') }}</h2>
-    <p class="totals">
-      <template v-for="(p, i) in shown" :key="p.currency">
-        <span class="total">≈ {{ formatPrice(p.total, p.currency, locale) }}</span>
-        {{ t('priceOn') }} {{ STORE[p.currency] }}<template v-if="p.missing">
-          ({{ missingNote(p.missing) }})</template><template v-if="i < shown.length - 1"> · </template>
-      </template>
-    </p>
-    <p class="caption">
-      {{ copies }} {{ t('priceCards') }}. {{ t('priceSource') }}
-      {{ prices?.date ? formatDate(prices.date) : '' }}.
-    </p>
-    <p v-if="priciest.length && primary" class="caption">
-      {{ t('priciest') }}{{ colon }}
-      <template v-for="(l, i) in priciest" :key="l.name">
-        {{ l.count }} {{ l.name }} ({{ formatPrice(l.sub, primary.currency, locale) }})<template v-if="i < priciest.length - 1">, </template>
-      </template>.
-    </p>
-    <p class="stores">
-      {{ t('buy') }}{{ colon }}
-      <a :href="cardmarketWantsUrl(locale)" target="_blank" rel="noopener noreferrer" @click="copyForCardmarket">Cardmarket</a> <span class="hint">({{ copied ? t('cardmarketCopied') : t('cardmarketHint') }})</span>,
-      <a :href="tcgplayerUrl(lines)" target="_blank" rel="noopener noreferrer">TCGplayer</a>,
-      <a :href="cardKingdomUrl(lines)" target="_blank" rel="noopener noreferrer">Card Kingdom</a>.
-    </p>
+    <div class="tiles">
+      <a
+        v-for="tile in tiles"
+        :key="tile.store"
+        class="tile"
+        :href="tile.url"
+        target="_blank"
+        rel="noopener noreferrer"
+        :title="tile.copy ? t('cardmarketTitle') : undefined"
+        @click="onClick(tile)"
+      >
+        <span class="store">{{ tile.store }}</span>
+        <span v-if="tile.amount" class="amount">{{ tile.amount }}</span>
+        <span v-else class="amount amount--none">{{ t('prefilled') }}</span>
+        <span v-if="tile.missing" class="missing">{{ unpriced(tile.missing) }}</span>
+        <span class="action">{{ tile.copy ? (copied ? t('copiedPaste') : t('copyOpen')) : t('buyArrow') }}</span>
+      </a>
+    </div>
+    <p v-if="prices?.date" class="caption">{{ t('priceNoteA') }} {{ formatDate(prices.date) }}, {{ t('priceNoteB') }}.</p>
   </section>
 </template>
 
 <style scoped>
 .price {
   margin-top: var(--space-xl);
-  max-width: var(--measure);
 }
 
 h2 {
   font-size: 1.35rem;
   border-top: 1px solid var(--ink);
   padding-top: var(--space-xs);
-  margin-bottom: var(--space-sm);
+  margin-bottom: var(--space-md);
 }
 
-.totals {
-  font-size: 1.15rem;
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 11rem));
+  gap: var(--space-sm);
 }
 
-.total {
+/* a square printed frame per store, the whole tile is the link */
+.tile {
+  aspect-ratio: 1;
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-sm);
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  text-decoration: none;
+  transition: background-color 0.25s var(--ease-out);
+}
+
+.tile:hover {
+  background: var(--paper-deep);
+}
+
+.store {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.05rem;
+}
+
+.amount {
+  margin-top: auto;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1.9rem;
+  line-height: 1;
   font-variant-numeric: lining-nums;
 }
 
-.caption {
-  margin-top: var(--space-xs);
+.amount--none {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--muted);
+}
+
+.missing {
+  margin-top: 0.2rem;
+  font-size: 0.85rem;
   font-style: italic;
   color: var(--muted);
 }
 
-.stores {
-  margin-top: var(--space-sm);
-}
-
-.stores a {
+.action {
+  margin-top: auto;
+  font-size: 0.92rem;
+  text-decoration: underline;
   text-underline-offset: 3px;
 }
 
-.hint {
+.caption {
+  margin-top: var(--space-sm);
+  font-size: 0.9rem;
   font-style: italic;
   color: var(--muted);
+}
+
+@media (max-width: 520px) {
+  .tiles {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-xs);
+  }
+
+  .tile {
+    padding: var(--space-xs);
+  }
+
+  .amount {
+    font-size: 1.35rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tile {
+    transition: none;
+  }
 }
 </style>

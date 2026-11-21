@@ -1,4 +1,4 @@
-import type { CardInfo, Deck, FormatData, FormatId, PriceFile, ResultsFile, Season, SeasonWithDecks } from './types'
+import type { CardInfo, Deck, FormatData, FormatId, ListsFile, PriceFile, ResultsFile, Season, SeasonWithDecks } from './types'
 import { STANDARD_SEASONS } from './standard/seasons'
 import { MODERN_SEASONS } from './modern/seasons'
 import { PREMODERN_SEASONS } from './premodern/seasons'
@@ -73,6 +73,7 @@ export function findDeck(data: FormatData, id: string): { deck: Deck; season: Se
 // Loaded on demand by the deck page: every result of a season, and the current card prices.
 const RESULTS = import.meta.glob<ResultsFile>('./*/results/*.json', { import: 'default' })
 const PRICES = import.meta.glob<PriceFile>('./*/prices.json', { import: 'default' })
+const LISTS = import.meta.glob<ListsFile>('./*/lists/*.json', { import: 'default' })
 
 export function loadResults(format: FormatId, season: string): Promise<ResultsFile> | null {
   return RESULTS[`./${format}/results/${season}.json`]?.() ?? null
@@ -80,4 +81,8 @@ export function loadResults(format: FormatId, season: string): Promise<ResultsFi
 
 export function loadPrices(format: FormatId): Promise<PriceFile> | null {
   return PRICES[`./${format}/prices.json`]?.() ?? null
+}
+
+export function loadLists(format: FormatId, season: string): Promise<ListsFile> | null {
+  return LISTS[`./${format}/lists/${season}.json`]?.() ?? null
 }

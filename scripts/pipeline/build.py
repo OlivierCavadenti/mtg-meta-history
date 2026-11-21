@@ -7,6 +7,9 @@ os.makedirs(OUT, exist_ok=True)
 # every result of every deck, by season: the "all results" list of a deck page (loaded on demand)
 OUT_RESULTS = os.path.join(OUT_DIR, 'results')
 os.makedirs(OUT_RESULTS, exist_ok=True)
+# the lists of those results that are already downloaded (fetch_result_lists.py): the deck page's modal
+OUT_LISTS = os.path.join(OUT_DIR, 'lists')
+os.makedirs(OUT_LISTS, exist_ok=True)
 season_ids = [s[0] for s in SEASONS]
 season_end = {s[0]: (SEASONS[i+1][1] if i + 1 < len(SEASONS) else '2099-01-01') for i, s in enumerate(SEASONS)}
 prints = json.load(open(PRINTS))
@@ -58,14 +61,15 @@ first_season = {}
 seasons_of = collections.defaultdict(set)
 firsts = collections.Counter(r['e'] for r in rows() if r['rank'] == '1')
 all_decks = {}
+all_lists = {}
 missing = set()
 for sid in season_ids:
     p = os.path.join(EDITORIAL, f'{sid}.json')
     if not os.path.exists(p): continue
     ed = json.load(open(p))
     decks = []
-    # event key -> [name, ISO date]; deck id -> [[event key, mtgtop8 deck id or source URL, rank, player], ...]
-    events, results = {}, {}
+    # event key -> [name, ISO date]; deck id -> [[event key, deck id, rank, player, source URL?], ...]
+    events, results, reps, lists = {}, {}, {}, {}
     for e in ed:
         rs = deck_rows(sid, ed, e)
         if not rs: continue
@@ -104,8 +108,17 @@ for sid in season_ids:
             if events.get(key, [None, r['iso']])[1] != r['iso']:
                 key = f"{key}@{r['iso']}"  # same event name on two dates (period sources)
             events[key] = [r['event'], r['iso']]
-            out_rows.append([key, r['source'] if r.get('source') else r['d'], r['rank'], r['player']])
+            row = [key, r['d'], r['rank'], r['player']]
+            if r.get('source'):
+                row.append(r['source'])  # period source instead of an mtgtop8 page
+            out_rows.append(row)
+            if has_list(r['d']):
+                lm, ls = get_list(r['d'])
+                lm = [[n, canon(c)] for n, c in lm if c != 'Unknown Card']
+                if lm:
+                    lists[str(r['d'])] = (lm, [[n, canon(c)] for n, c in ls if c != 'Unknown Card'])
         results[f"{e['slug']}-{sid}"] = out_rows
+        reps[f"{e['slug']}-{sid}"] = rep['d']
         decks.append({
             'id': f"{e['slug']}-{sid}", 'name': e['name'], 'season': sid, 'archetype': e['archetype'], 'colors': colors,
             'tier': 3, 'first': min(r['iso'] for r in rs), 'last': max(r['iso'] for r in rs),
@@ -123,16 +136,17 @@ for sid in season_ids:
     all_decks[sid] = decks
     json.dump({'season': sid, 'decks': decks}, open(f'{OUT}/{sid}.json', 'w'), ensure_ascii=False, separators=(',', ':'))
     results = {d['id']: results[d['id']] for d in decks}
-    json.dump({'season': sid, 'code': FORMAT_CODE, 'events': events, 'decks': results}, open(f'{OUT_RESULTS}/{sid}.json', 'w'),
-              ensure_ascii=False, separators=(',', ':'))
+    json.dump({'season': sid, 'code': FORMAT_CODE, 'events': events, 'decks': results, 'rep': {d['id']: reps[d['id']] for d in decks}},
+              open(f'{OUT_RESULTS}/{sid}.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+    all_lists[sid] = lists
     print(sid, len(decks), 'decks', sum(1 for d in decks if d['tier'] == 1), 'tier1')
+# Premodern's card pool ends with Scourge (2003): show the original, old-frame printings
+cutoff = lambda end: min(end, PRINT_CUTOFF) if PRINT_CUTOFF else end
 cards = {}
 for name, sid in first_season.items():
     pr = lookup(name)
     if not pr: missing.add(name); continue
     info = pr['info']
-    # Premodern's card pool ends with Scourge (2003): show the original, old-frame printings
-    cutoff = lambda end: min(end, PRINT_CUTOFF) if PRINT_CUTOFF else end
     p = pick_print(pr['prints'], cutoff(season_end[sid]))
     cards[name] = {'m': info['m'], 'c': info['c'], 't': kind(info['t']), 'k': ''.join(c for c in ORDER if c in (info['k'] or '')), 'i': p['id']}
     # printing of the era for every other season the card is played in, when it differs
@@ -148,4 +162,23 @@ for name, sid in first_season.items():
     if newest != p['id']:
         cards[name]['n'] = newest
 json.dump(dict(sorted(cards.items())), open(os.path.join(OUT_DIR, 'cards.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+# lists file per season: card names once, each list as flat [count, name index, ...] arrays (main, side),
+# and the card data of names cards.json does not have (cards that never made a representative list)
+n_lists = 0
+for sid, lists in all_lists.items():
+    names = sorted({c for m, sd in lists.values() for _, c in m + sd})
+    idx = {n: i for i, n in enumerate(names)}
+    extra = {}
+    for name in names:
+        if name in cards: continue
+        pr = lookup(name)
+        if not pr: missing.add(name); continue
+        info = pr['info']
+        p = pick_print(pr['prints'], cutoff(season_end[sid]))
+        extra[name] = {'m': info['m'], 'c': info['c'], 't': kind(info['t']), 'k': ''.join(c for c in ORDER if c in (info['k'] or '')), 'i': p['id']}
+    flat = lambda lines: [x for n, c in lines for x in (n, idx[c])]
+    out = {'season': sid, 'names': names, 'info': extra, 'lists': {k: [flat(m), flat(sd)] for k, (m, sd) in sorted(lists.items())}}
+    json.dump(out, open(os.path.join(OUT_LISTS, f'{sid}.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
+    n_lists += len(lists)
+print('lists', n_lists, 'of', sum(d['stats']['results'] for ds in all_decks.values() for d in ds), 'results')
 print('cards', len(cards), 'missing', sorted(missing))

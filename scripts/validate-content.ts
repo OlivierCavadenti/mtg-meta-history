@@ -1,7 +1,7 @@
 // Validates the generated deck encyclopedia data (src/data/{format}).
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
-import type { CardInfo, Deck, PriceFile, ResultsFile, Season } from '../src/data/types'
+import type { CardInfo, Deck, ListsFile, PriceFile, ResultsFile, Season } from '../src/data/types'
 import { STANDARD_SEASONS } from '../src/data/standard/seasons'
 import { MODERN_SEASONS } from '../src/data/modern/seasons'
 import { PREMODERN_SEASONS } from '../src/data/premodern/seasons'
@@ -44,6 +44,17 @@ function checkFormat(format: string, seasons: Season[]) {
       if (!rows) errors.push(`${format}/${season}/${d.id}: no results`)
       else if (rows.length !== d.stats.results) errors.push(`${format}/${season}/${d.id}: ${rows.length} results listed, ${d.stats.results} counted`)
       for (const [key] of rows ?? []) if (!results!.events[key]) errors.push(`${format}/${season}/${d.id}: unknown event ${key}`)
+      if (results!.rep[d.id] === undefined) errors.push(`${format}/${season}/${d.id}: no sample list id`)
+    }
+    // lists of the "All decklists" tab: flat [count, name index] pairs, every name with card data
+    const listsPath = join(root, 'lists', file)
+    if (tournament && existsSync(listsPath)) {
+      const lists = JSON.parse(readFileSync(listsPath, 'utf8')) as ListsFile
+      for (const n of lists.names) if (!cards[n] && !lists.info[n]) errors.push(`${format}/${season} lists: no card data for ${n}`)
+      for (const [id, pair] of Object.entries(lists.lists))
+        for (const flat of pair)
+          if (flat.length % 2 || flat.some((v, i) => i % 2 === 1 && (v < 0 || v >= lists.names.length)))
+            errors.push(`${format}/${season} lists: malformed list ${id}`)
     }
     for (const d of decks) {
       total++

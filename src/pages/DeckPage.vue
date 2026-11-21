@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, watchEffect } from 'vue'
+import { computed, ref, watch, watchEffect } from 'vue'
 import { useRoute } from 'vue-router'
 import { findDeck } from '../data/load'
 import { buildLineages, slugOf } from '../lib/lineage'
@@ -25,6 +25,16 @@ const why = computed(() => deck.value?.why[locale.value] ?? [])
 const lineage = computed(() => (data.value && deck.value ? buildLineages(data.value).get(slugOf(deck.value)) : undefined))
 
 const years = computed(() => (season.value ? seasonTitle(season.value) : ''))
+
+// tournament decks: the sample list and every list of the season, in two tabs (a draft deck is not
+// bought, a design archetype has no list)
+const tournament = computed(() => !!deck.value && !deck.value.limited && !deck.value.sources)
+const hasAllLists = computed(() => tournament.value && (deck.value?.stats.results ?? 0) > 1)
+const tab = ref<'sample' | 'all'>('sample')
+watch(
+  () => deck.value?.id,
+  () => (tab.value = 'sample'),
+)
 
 const siblings = computed(() => {
   if (!season.value || !deck.value) return { prev: undefined, next: undefined }
@@ -140,13 +150,19 @@ watchEffect(() => {
       </div>
     </section>
 
-    <DeckList v-if="deck.list.main.length" :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
-
-    <!-- tournament decks only: a draft deck is not bought, a design archetype has no list -->
-    <template v-if="!deck.limited && !deck.sources">
-      <DeckPrice v-if="deck.list.main.length" :list="deck.list" :format="formatId" />
-      <DeckResults :deck="deck" :format="formatId" />
+    <div v-if="hasAllLists" class="tabs" role="tablist">
+      <button type="button" role="tab" class="tab" :class="{ active: tab === 'sample' }" :aria-selected="tab === 'sample'" @click="tab = 'sample'">
+        {{ t('tabSample') }}
+      </button>
+      <button type="button" role="tab" class="tab" :class="{ active: tab === 'all' }" :aria-selected="tab === 'all'" @click="tab = 'all'">
+        {{ t('tabAll') }} <span class="tab-count">{{ deck.stats.results }}</span>
+      </button>
+    </div>
+    <template v-if="tab === 'sample' || !hasAllLists">
+      <DeckList v-if="deck.list.main.length" :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
+      <DeckPrice v-if="tournament && deck.list.main.length" :list="deck.list" :format="formatId" />
     </template>
+    <DeckResults v-else :deck="deck" :format="formatId" :cards="cards" />
 
     <nav class="siblings">
       <router-link v-if="siblings.prev" :to="`/${formatId}/deck/${siblings.prev.id}`" class="sib">
@@ -373,6 +389,65 @@ figcaption {
   font-family: var(--font-heading);
   font-weight: 700;
   color: var(--accent);
+}
+
+/* the two list tabs sit on the decklist's heavy rule; the active one marks it in the accent */
+.tabs {
+  display: flex;
+  gap: var(--space-lg);
+}
+
+.tab {
+  position: relative;
+  padding: 0 0 var(--space-xs);
+  border: none;
+  background: none;
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color 0.2s var(--ease-out);
+}
+
+.tab::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -3px;
+  height: 3px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s var(--ease-out);
+}
+
+.tab:hover {
+  color: var(--ink);
+}
+
+.tab.active {
+  color: var(--ink);
+}
+
+.tab.active::after {
+  transform: scaleX(1);
+}
+
+.tab-count {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tab,
+  .tab::after {
+    transition: none;
+  }
 }
 
 .siblings {

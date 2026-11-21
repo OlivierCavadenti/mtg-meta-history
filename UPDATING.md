@@ -90,8 +90,9 @@ URL in a comment, in the season whose dates contain it.
 bash scripts/pipeline/weekly.sh build
 ```
 
-Runs `check_editorial.py` on the two most recent seasons of each format, `build.py`, `prices.py`
-(current card prices), content validation, type-check and the production build. It must exit 0. Then:
+Runs `check_editorial.py` on the two most recent seasons of each format, `fetch_result_lists.py`
+on them (lists of the new results), `build.py`, `prices.py` (current card prices), content validation,
+type-check and the production build. It must exit 0. Then:
 
 ```bash
 git add -A data-src src scripts

@@ -42,6 +42,8 @@ case "${1:-}" in
       for s in $(cat .pipeline/recent); do
         MTG_FORMAT=$f python3 $P/check_editorial.py "$s" || status=1
       done
+      # lists of the new results, for the deck pages' "All decklists" tab (older ones are published)
+      MTG_FORMAT=$f python3 $P/fetch_result_lists.py $(cat .pipeline/recent) | tail -1
       MTG_FORMAT=$f python3 $P/build.py | tee .pipeline/build-$f.log | grep -E 'WARN|SKIP|missing \[[^]]' || true
     done
     # current card prices of every built format (Scryfall bulk downloaded by refresh)

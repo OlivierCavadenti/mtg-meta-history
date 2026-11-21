@@ -207,7 +207,24 @@ def published_lists():
                 m = re.search(r'mtgtop8\.com/event\?e=\d+&d=(\d+)', d['list'].get('url', ''))
                 if m:
                     _published[m.group(1)] = (d['list']['main'], d['list']['side'])
+        # every other list of the deck pages' "All decklists" tab (build.py, lists/{season}.json)
+        folder = os.path.join(OUT_DIR, 'lists')
+        for f in sorted(os.listdir(folder)) if os.path.isdir(folder) else []:
+            data = json.load(open(os.path.join(folder, f), encoding='utf-8'))
+            names = data['names']
+            for key, (main, side) in data['lists'].items():
+                if key.isdigit() and key not in _published:
+                    _published[key] = tuple([[flat[i], names[flat[i + 1]]] for i in range(0, len(flat), 2)] for flat in (main, side))
     return _published
+
+
+def has_list(deck_id):
+    """True when the list of this result is available without downloading it."""
+    if isinstance(deck_id, str) and deck_id.startswith('x-'):
+        if not _extra_lists:
+            load_extra()
+        return deck_id in _extra_lists
+    return os.path.exists(work('lists', f'{deck_id}.txt')) or str(deck_id) in published_lists()
 
 
 def get_list(deck_id):
