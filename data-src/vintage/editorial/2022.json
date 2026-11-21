@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Bazaar Aggro",
+    "slug": "bazaar-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Bazaar Aggro"
+    ],
+    "rep": 464780,
+    "cover": "Hogaak, Arisen Necropolis",
+    "keyCards": [
+      "Hogaak, Arisen Necropolis",
+      "Vengevine",
+      "Hollow One",
+      "Bloodghast",
+      "Stitcher's Supplier",
+      "Basking Rootwalla"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad défaussait Vengevine, Basking Rootwalla et Bloodghast, Stitcher's Supplier remplissait le cimetière, Hogaak se lançait gratuitement.",
+      "en": "Bazaar of Baghdad discarded Vengevine, Basking Rootwalla and Bloodghast, Stitcher's Supplier filled the graveyard, and Hogaak was cast for free."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Dix victoires en Challenge sur Magic Online"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Ten Magic Online Challenge wins"
+      ]
+    }
+  },
+  {
+    "name": "Grixis Control",
+    "slug": "keeper",
+    "archetype": "control",
+    "titles": [
+      "Grixis Control",
+      "UR Control",
+      "Grixis Tinker",
+      "Dimir Control"
+    ],
+    "rep": 462206,
+    "cover": "Ragavan, Nimble Pilferer",
+    "keyCards": [
+      "Ragavan, Nimble Pilferer",
+      "Dack Fayden",
+      "Pyroblast",
+      "Flusterstorm",
+      "Abrade",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-rouge à Ragavan, Nimble Pilferer : Force of Will, Flusterstorm et Pyroblast, Dack Fayden volait les artefacts, Tinker ou Hullbreacher en appui.",
+      "en": "Blue-red control with Ragavan, Nimble Pilferer: Force of Will, Flusterstorm and Pyroblast, Dack Fayden stealing artifacts, Tinker or Hullbreacher in support."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Vintage Super Qualifier et le 18e God of Vintage",
+        "La version à Tinker a gagné deux Romancing the Stones et le Hardcore Vintage 8"
+      ],
+      "en": [
+        "Won a Vintage Super Qualifier and the 18th God of Vintage",
+        "The Tinker version won two Romancing the Stones events and Hardcore Vintage 8"
+      ]
+    }
+  },
+  {
+    "name": "Doomsday",
+    "slug": "doomsday",
+    "archetype": "combo",
+    "titles": [
+      "Doomsday"
+    ],
+    "rep": 468442,
+    "cover": "Doomsday",
+    "keyCards": [
+      "Doomsday",
+      "Thassa's Oracle",
+      "Dark Ritual",
+      "Street Wraith",
+      "Flusterstorm",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Doomsday réduisait la bibliothèque à cinq cartes choisies, que Brainstorm et Street Wraith parcouraient jusqu'à Thassa's Oracle.",
+      "en": "Doomsday cut the library to five chosen cards, which Brainstorm and Street Wraith went through until Thassa's Oracle."
+    },
+    "why": {
+      "fr": [
+        "Douze victoires en Challenge sur Magic Online",
+        "Flusterstorm protégeait le tour de combinaison"
+      ],
+      "en": [
+        "Twelve Magic Online Challenge wins",
+        "Flusterstorm protected the combo turn"
+      ]
+    }
+  },
+  {
+    "name": "Paradoxical Outcome",
+    "slug": "paradoxical",
+    "archetype": "combo",
+    "titles": [
+      "Paradoxical",
+      "Paradoxical Storm",
+      "Mentor Paradoxical",
+      "Coveted Jewel"
+    ],
+    "rep": 469381,
+    "cover": "Paradoxical Outcome",
+    "keyCards": [
+      "Paradoxical Outcome",
+      "Mox Opal",
+      "Repeal",
+      "Sensei's Divining Top",
+      "Tinker",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Paradoxical Outcome renvoyait en main les Moxen et artefacts gratuits pour piocher autant et les rejouer ; une version à Coveted Jewel et Grim Monolith a suivi.",
+      "en": "Paradoxical Outcome returned the Moxen and free artifacts to hand to draw that many and replay them; a Coveted Jewel and Grim Monolith version followed."
+    },
+    "why": {
+      "fr": [
+        "A gagné le 4 Seasons d'été à Bologne en version Mentor",
+        "Victoires aussi en Challenge sur Magic Online"
+      ],
+      "en": [
+        "Won the summer 4 Seasons in Bologna with the Mentor version",
+        "Also won Magic Online Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Underworld Breach",
+    "slug": "breach",
+    "archetype": "combo",
+    "titles": [
+      "Underworld Breach"
+    ],
+    "rep": 469935,
+    "cover": "Underworld Breach",
+    "keyCards": [
+      "Underworld Breach",
+      "Dragon's Rage Channeler",
+      "Predict",
+      "Pyroblast",
+      "Lightning Bolt",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Underworld Breach rejouait les sorts depuis le cimetière jusqu'à Brain Freeze ; Dragon's Rage Channeler et Lightning Bolt donnaient un plan d'attaque.",
+      "en": "Underworld Breach recast spells from the graveyard until Brain Freeze; Dragon's Rage Channeler and Lightning Bolt gave an attacking plan."
+    },
+    "why": {
+      "fr": [
+        "Dix victoires en Challenge sur Magic Online",
+        "Predict remplissait le cimetière et piochait"
+      ],
+      "en": [
+        "Ten Magic Online Challenge wins",
+        "Predict filled the graveyard and drew cards"
+      ]
+    }
+  },
+  {
+    "name": "BUG Midrange",
+    "slug": "fish",
+    "archetype": "midrange",
+    "titles": [
+      "BUG Midrange",
+      "Planeswalker Control",
+      "4c Fish",
+      "Canadian Threshold"
+    ],
+    "rep": 472816,
+    "cover": "Oko, Thief of Crowns",
+    "keyCards": [
+      "Oko, Thief of Crowns",
+      "Deathrite Shaman",
+      "Collector Ouphe",
+      "Tarmogoyf",
+      "Assassin's Trophy",
+      "Endurance"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain bleu-noir-vert : Deathrite Shaman, Tarmogoyf et Oko, Collector Ouphe contre les artefacts, Endurance contre les decks de cimetière.",
+      "en": "Blue-black-green midrange: Deathrite Shaman, Tarmogoyf and Oko, Collector Ouphe against artifacts, and Endurance against graveyard decks."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Challenge sur Magic Online, dont celle de Thiim",
+        "Une version à Collector Ouphe a gagné le 4 Seasons de printemps à Bologne"
+      ],
+      "en": [
+        "Won Magic Online Challenges, including one by Thiim",
+        "A Collector Ouphe version won the spring 4 Seasons in Bologna"
+      ]
+    }
+  },
+  {
+    "name": "Shops",
+    "slug": "workshop-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "MUD",
+      "Golos MUD",
+      "Shops"
+    ],
+    "rep": 475670,
+    "cover": "Patchwork Automaton",
+    "keyCards": [
+      "Patchwork Automaton",
+      "Nettlecyst",
+      "Bronze Guardian",
+      "Phyrexian Revoker",
+      "Sphere of Resistance",
+      "Karn, the Great Creator"
+    ],
+    "summary": {
+      "fr": "Mishra's Workshop posait Sphere of Resistance et Phyrexian Revoker, Patchwork Automaton et Bronze Guardian grossissaient avec les artefacts, Nettlecyst fabriquait des Germes.",
+      "en": "Mishra's Workshop put down Sphere of Resistance and Phyrexian Revoker, Patchwork Automaton and Bronze Guardian grew with artifacts, and Nettlecyst made Germs."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Vintage Quest du Legacy Pit Open II",
+        "Victoires aussi en Challenge sur Magic Online"
+      ],
+      "en": [
+        "Won the Vintage Quest at Legacy Pit Open II",
+        "Also won Magic Online Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Xerox",
+    "slug": "xerox",
+    "archetype": "tempo",
+    "titles": [
+      "Jeskai Xerox"
+    ],
+    "rep": 498002,
+    "cover": "Ragavan, Nimble Pilferer",
+    "keyCards": [
+      "Ragavan, Nimble Pilferer",
+      "Dreadhorde Arcanist",
+      "Lavinia, Azorius Renegade",
+      "Expressive Iteration",
+      "Prismatic Ending",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo à peu de terrains : Ragavan et Dreadhorde Arcanist, Lavinia gênait les sorts gratuits, Expressive Iteration rechargeait la main.",
+      "en": "Low-land tempo: Ragavan and Dreadhorde Arcanist, Lavinia hindering free spells, and Expressive Iteration refilling the hand."
+    },
+    "why": {
+      "fr": [
+        "Hans Jacob Goddik a gagné le North American Vintage Championship 2022",
+        "Victoires aussi en Challenge sur Magic Online"
+      ],
+      "en": [
+        "Hans Jacob Goddik won the 2022 North American Vintage Championship",
+        "Also won Magic Online Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Esper Control",
+    "slug": "esper-control",
+    "archetype": "control",
+    "titles": [
+      "Esper Control"
+    ],
+    "rep": 462819,
+    "cover": "Narset, Parter of Veils",
+    "keyCards": [
+      "Narset, Parter of Veils",
+      "Flusterstorm",
+      "Vampiric Tutor",
+      "Demonic Tutor",
+      "Preordain",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Contrôle Esper à Force of Will et Flusterstorm, Narset limitait la pioche adverse, les tuteurs trouvaient Time Vault ou Bolas's Citadel.",
+      "en": "Esper control with Force of Will and Flusterstorm, Narset limiting opposing draws, and tutors finding Time Vault or Bolas's Citadel."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Super Qualifier sur Magic Online et le TSI The Land 3",
+        "Victoire aussi en Vintage Challenge en février"
+      ],
+      "en": [
+        "Won a Magic Online Super Qualifier and TSI The Land 3",
+        "Also won a Vintage Challenge in February"
+      ]
+    }
+  },
+  {
+    "name": "Dredge",
+    "slug": "dredge",
+    "archetype": "combo",
+    "titles": [
+      "Dredge"
+    ],
+    "rep": 460241,
+    "cover": "Prized Amalgam",
+    "keyCards": [
+      "Prized Amalgam",
+      "Hollow One",
+      "Ichorid",
+      "Shambling Shell",
+      "Narcomoeba",
+      "Cabal Therapy"
+    ],
+    "summary": {
+      "fr": "Bazaar of Baghdad piochait et défaussait, Golgari Grave-Troll se draguait, Ichorid, Prized Amalgam et Shambling Shell revenaient, Hollow One arrivait gratuitement.",
+      "en": "Bazaar of Baghdad drew and discarded, Golgari Grave-Troll dredged, Ichorid, Prized Amalgam and Shambling Shell came back, and Hollow One arrived for free."
+    },
+    "why": {
+      "fr": [
+        "A gagné le tournoi Emperor of Vintage de Hareruya",
+        "Victoires aussi en Vintage Challenge sur Magic Online"
+      ],
+      "en": [
+        "Won the Emperor of Vintage tournament at Hareruya",
+        "Also won Magic Online Vintage Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Initiative Hatebear",
+    "slug": "hatebear",
+    "archetype": "aggro",
+    "titles": [
+      "Initiative Hatebear",
+      "Hatebear"
+    ],
+    "rep": 495768,
+    "cover": "White Plume Adventurer",
+    "keyCards": [
+      "White Plume Adventurer",
+      "Seasoned Dungeoneer",
+      "Thalia, Guardian of Thraben",
+      "Archon of Emeria",
+      "Spirit of the Labyrinth",
+      "Solitude"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches qui taxent, Thalia, Archon of Emeria et Spirit of the Labyrinth, avec les créatures à initiative de Battle for Baldur's Gate.",
+      "en": "Small white taxing creatures, Thalia, Archon of Emeria and Spirit of the Labyrinth, with the initiative creatures from Battle for Baldur's Gate."
+    },
+    "why": {
+      "fr": [
+        "Chris Schiber a gagné l'Asia Vintage Championship 2022",
+        "Victoire aussi en Super Qualifier sur Magic Online en décembre"
+      ],
+      "en": [
+        "Chris Schiber won the 2022 Asia Vintage Championship",
+        "Also won a Magic Online Super Qualifier in December"
+      ]
+    }
+  },
+  {
+    "name": "Landless Spy",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "Landless Spy"
+    ],
+    "rep": 482027,
+    "cover": "Undercity Informer",
+    "keyCards": [
+      "Undercity Informer",
+      "Dark Ritual",
+      "Pact of Negation",
+      "Agadeem's Awakening",
+      "Sea Gate Restoration",
+      "Chrome Mox"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon les cartes modales de Zendikar Rising : Undercity Informer ou Balustrade Spy meulait toute la bibliothèque, Thassa's Oracle gagnait.",
+      "en": "A deck with no lands except Zendikar Rising modal cards: Undercity Informer or Balustrade Spy milled the whole library, and Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième trois fois en Challenge sur Magic Online",
+        "Pact of Negation protégeait la combinaison sans mana"
+      ],
+      "en": [
+        "Second three times in Magic Online Challenges",
+        "Pact of Negation protected the combo for no mana"
+      ]
+    }
+  },
+  {
+    "name": "Oath",
+    "slug": "oath",
+    "archetype": "combo",
+    "titles": [
+      "Oath of Druids"
+    ],
+    "rep": 482026,
+    "cover": "Oath of Druids",
+    "keyCards": [
+      "Oath of Druids",
+      "Oko, Thief of Crowns",
+      "Wrenn and Six",
+      "Pyroblast",
+      "Flusterstorm",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Oath of Druids mettait une grosse créature en jeu dès que l'adversaire en avait une ; Oko et Wrenn and Six donnaient un plan de contrôle.",
+      "en": "Oath of Druids put a big creature into play whenever the opponent had one; Oko and Wrenn and Six gave a control plan."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Challenge sur Magic Online en juillet",
+        "Deuxième en Challenge en mai"
+      ],
+      "en": [
+        "Won a Magic Online Challenge in July",
+        "Second in a Challenge in May"
+      ]
+    }
+  },
+  {
+    "name": "UR Murktide",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Aggro"
+    ],
+    "rep": 470861,
+    "cover": "Murktide Regent",
+    "keyCards": [
+      "Murktide Regent",
+      "Ragavan, Nimble Pilferer",
+      "Expressive Iteration",
+      "Dack Fayden",
+      "Flusterstorm",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge : Ragavan et Murktide Regent, payé par les sorts du cimetière, Expressive Iteration et Dack Fayden pour l'avantage.",
+      "en": "Blue-red tempo: Ragavan and Murktide Regent, paid for by spells in the graveyard, with Expressive Iteration and Dack Fayden for card advantage."
+    },
+    "why": {
+      "fr": [
+        "Deuxième et top 4 en Challenge sur Magic Online au printemps",
+        "Ragavan restait légal en Vintage après son bannissement en Legacy"
+      ],
+      "en": [
+        "Second and top fours in Magic Online Challenges in the spring",
+        "Ragavan stayed legal in Vintage after its Legacy ban"
+      ]
+    }
+  }
+]
