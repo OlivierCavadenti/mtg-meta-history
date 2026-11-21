@@ -1,0 +1,757 @@
+[
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Grixis Affinity",
+      "Azorius Affinity"
+    ],
+    "rep": 534434,
+    "cover": "Myr Enforcer",
+    "keyCards": [
+      "Myr Enforcer",
+      "Frogmite",
+      "Thoughtcast",
+      "Deadly Dispute",
+      "Reckoner's Bargain",
+      "Krark-Clan Shaman"
+    ],
+    "summary": {
+      "fr": "Les terrains-artefacts rendaient Frogmite, Myr Enforcer et Thoughtcast presque gratuits ; Deadly Dispute et Reckoner's Bargain sacrifiaient les artefacts pour piocher.",
+      "en": "Artifact lands made Frogmite, Myr Enforcer and Thoughtcast nearly free; Deadly Dispute and Reckoner's Bargain sacrificed the artifacts to draw cards."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Paupergeddon de Pise et au 3rd God of Pauper de Hareruya",
+        "Une version blanc-bleu à All That Glitters a gagné le Paupergeddon d'automne à Rome"
+      ],
+      "en": [
+        "Won the Paupergeddon in Pisa and the 3rd God of Pauper at Hareruya",
+        "A white-blue version with All That Glitters won the autumn Paupergeddon in Rome"
+      ]
+    }
+  },
+  {
+    "name": "Boros Synthesizer",
+    "slug": "boros-kitty",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Synthesizer",
+      "Boros Synth",
+      "Synthesizer Boros"
+    ],
+    "rep": 560951,
+    "cover": "Kor Skyfisher",
+    "keyCards": [
+      "Kor Skyfisher",
+      "Glint Hawk",
+      "Experimental Synthesizer",
+      "Lembas",
+      "Barbed Batterfist",
+      "Galvanic Blast"
+    ],
+    "summary": {
+      "fr": "Kor Skyfisher et Glint Hawk rejouaient Experimental Synthesizer, Lembas et Barbed Batterfist pour l'avantage, Galvanic Blast et Lightning Bolt dégageaient.",
+      "en": "Kor Skyfisher and Glint Hawk replayed Experimental Synthesizer, Lembas and Barbed Batterfist for card advantage, and Galvanic Blast and Lightning Bolt cleared the way."
+    },
+    "why": {
+      "fr": [
+        "Mirco Ciavatta a gagné le Top Pauper Player 2023 à Pise",
+        "Victoires aussi à l'IPT Lega Parma et en Monthly Tournament du Discord Paper Pauper Magic"
+      ],
+      "en": [
+        "Mirco Ciavatta won Top Pauper Player 2023 in Pisa",
+        "Also won IPT Lega Parma and a Paper Pauper Magic Discord Monthly Tournament"
+      ]
+    }
+  },
+  {
+    "name": "Kuldotha Red",
+    "slug": "kuldotha",
+    "archetype": "aggro",
+    "titles": [
+      "Kuldotha Red",
+      "Rdw"
+    ],
+    "rep": 570211,
+    "cover": "Kuldotha Rebirth",
+    "keyCards": [
+      "Kuldotha Rebirth",
+      "Goblin Tomb Raider",
+      "Voldaren Epicure",
+      "Monastery Swiftspear",
+      "Experimental Synthesizer",
+      "Galvanic Blast"
+    ],
+    "summary": {
+      "fr": "Rouge agressif à artefacts : Voldaren Epicure et Experimental Synthesizer nourrissaient Kuldotha Rebirth, Goblin Tomb Raider et Monastery Swiftspear frappaient, Galvanic Blast finissait.",
+      "en": "Red artifact aggro: Voldaren Epicure and Experimental Synthesizer fed Kuldotha Rebirth, Goblin Tomb Raider and Monastery Swiftspear attacked, and Galvanic Blast finished."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Nacional 2023, au 5th God of Pauper de Tokyo et au side event du Paupergeddon de Pise",
+        "Monastery Swiftspear a été banni en décembre 2023"
+      ],
+      "en": [
+        "Won Nacional 2023, the 5th God of Pauper in Tokyo and the Paupergeddon Pisa side event",
+        "Monastery Swiftspear was banned in December 2023"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Terror",
+    "slug": "dimir-terror",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Terror",
+      "Mono Blue Delver",
+      "Ub Delver"
+    ],
+    "rep": 510407,
+    "cover": "Tolarian Terror",
+    "keyCards": [
+      "Tolarian Terror",
+      "Gurmag Angler",
+      "Fallaji Archaeologist",
+      "Thought Scour",
+      "Snuff Out",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Thought Scour et Fallaji Archaeologist remplissaient le cimetière : Tolarian Terror et Gurmag Angler coûtaient peu ; une version bleue jouait Delver of Secrets et Cryptic Serpent.",
+      "en": "Thought Scour and Fallaji Archaeologist filled the graveyard so Tolarian Terror and Gurmag Angler cost little; a mono blue version played Delver of Secrets and Cryptic Serpent."
+    },
+    "why": {
+      "fr": [
+        "Victoires à la Defender Cup Vol.6 de Moscou et aux Finals Season 4 de Gessate",
+        "En version bleue, deuxième au 4th God of Pauper de Hareruya"
+      ],
+      "en": [
+        "Won Defender Cup Vol.6 in Moscow and the Finals Season 4 in Gessate",
+        "The mono blue version was second at the 4th God of Pauper at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Terror",
+    "slug": "izzet-terror",
+    "archetype": "tempo",
+    "titles": [
+      "UR Skred",
+      "Izzet Snow Control"
+    ],
+    "rep": 542616,
+    "cover": "Tolarian Terror",
+    "keyCards": [
+      "Tolarian Terror",
+      "Skred",
+      "Lightning Bolt",
+      "Crimson Fleet Commodore",
+      "Lorien Revealed",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge enneigé : Tolarian Terror et Crimson Fleet Commodore, Skred et Lightning Bolt contre les créatures, Lórien Revealed et Counterspell.",
+      "en": "Snow blue-red tempo: Tolarian Terror and Crimson Fleet Commodore, Skred and Lightning Bolt against creatures, with Lórien Revealed and Counterspell."
+    },
+    "why": {
+      "fr": [
+        "A gagné le 2K de Mont CardShop à Campinas",
+        "Victoire aussi au Monthly Tournament #28 du Discord Paper Pauper Magic"
+      ],
+      "en": [
+        "Won the 2K at Mont CardShop in Campinas",
+        "Also won Paper Pauper Magic Discord Monthly Tournament #28"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Ephemerate",
+    "slug": "jeskai-ephemerate",
+    "archetype": "midrange",
+    "titles": [
+      "Jeskai Ephemerate"
+    ],
+    "rep": 545191,
+    "cover": "Ephemerate",
+    "keyCards": [
+      "Ephemerate",
+      "Mulldrifter",
+      "Archaeomancer",
+      "Cleansing Wildfire",
+      "Augur of Bolas",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Ephemerate rejouait Mulldrifter et Archaeomancer ; Cleansing Wildfire piochait aussi, Counterspell, Lightning Bolt et Skred répondaient.",
+      "en": "Ephemerate replayed Mulldrifter and Archaeomancer; Cleansing Wildfire drew cards too, and Counterspell, Lightning Bolt and Skred answered threats."
+    },
+    "why": {
+      "fr": [
+        "Victoires aux Monthly Tournaments #30 et #31 du Discord Paper Pauper Magic",
+        "Deuxième au 2K de Mont CardShop à Campinas"
+      ],
+      "en": [
+        "Won Paper Pauper Magic Discord Monthly Tournaments #30 and #31",
+        "Second at the 2K at Mont CardShop in Campinas"
+      ]
+    }
+  },
+  {
+    "name": "Familiars",
+    "slug": "familiars",
+    "archetype": "combo",
+    "titles": [
+      "Flicker",
+      "Uw Familiars"
+    ],
+    "rep": 573407,
+    "cover": "Sunscape Familiar",
+    "keyCards": [
+      "Sunscape Familiar",
+      "God-Pharaoh's Faithful",
+      "Snap",
+      "Meeting of Minds",
+      "Archaeomancer",
+      "Lorien Revealed"
+    ],
+    "summary": {
+      "fr": "Sunscape Familiar réduisait le coût des sorts, Snap renvoyait une créature en déliant des terrains, Archaeomancer rejouait Snap, God-Pharaoh's Faithful rendait des points de vie.",
+      "en": "Sunscape Familiar reduced spell costs, Snap bounced a creature while untapping lands, Archaeomancer returned Snap, and God-Pharaoh's Faithful gained life."
+    },
+    "why": {
+      "fr": [
+        "Alessandro Moretti a gagné le Pauperwar 2023 de Campagnola Emilia",
+        "Victoire aussi au Pauper Circus de Merate"
+      ],
+      "en": [
+        "Alessandro Moretti won Pauperwar 2023 in Campagnola Emilia",
+        "Also won the Pauper Circus in Merate"
+      ]
+    }
+  },
+  {
+    "name": "Caw-Gate",
+    "slug": "caw-gate",
+    "archetype": "control",
+    "titles": [
+      "Gates",
+      "Caw Gate"
+    ],
+    "rep": 548795,
+    "cover": "Basilisk Gate",
+    "keyCards": [
+      "Basilisk Gate",
+      "Squadron Hawk",
+      "Sacred Cat",
+      "The Modern Age",
+      "Prismatic Strands",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-bleu à Guildgates : Basilisk Gate grossissait Squadron Hawk ou Sacred Cat selon le nombre de portails, Counterspell et Prismatic Strands tenaient le reste.",
+      "en": "White-blue Gates control: Basilisk Gate pumped Squadron Hawk or Sacred Cat for each Gate, while Counterspell and Prismatic Strands held off the rest."
+    },
+    "why": {
+      "fr": [
+        "Ishizaka Kevin a gagné le 4th God of Pauper de Hareruya",
+        "Victoires aussi aux Series de ManaTraders et au Monthly Tournament #25"
+      ],
+      "en": [
+        "Ishizaka Kevin won the 4th God of Pauper at Hareruya",
+        "Also won the ManaTraders Series and Monthly Tournament #25"
+      ]
+    }
+  },
+  {
+    "name": "Artifact Tron",
+    "slug": "tron",
+    "archetype": "control",
+    "titles": [
+      "Urzatron",
+      "Altar Tron"
+    ],
+    "rep": 518026,
+    "cover": "Ashnod's Altar",
+    "keyCards": [
+      "Ashnod's Altar",
+      "Myr Retriever",
+      "Golem Foundry",
+      "Ancient Stirrings",
+      "Expedition Map",
+      "Deadly Dispute"
+    ],
+    "summary": {
+      "fr": "Version à artefacts : Ashnod's Altar sacrifiait Myr Retriever, qui ramenait un autre artefact, Golem Foundry créait des golems, Expedition Map et Ancient Stirrings trouvaient les terrains Urza.",
+      "en": "Artifact version: Ashnod's Altar sacrificed Myr Retriever, which returned another artifact, Golem Foundry made Golems, and Expedition Map and Ancient Stirrings found the Urza lands."
+    },
+    "why": {
+      "fr": [
+        "Matteo Mazzola a gagné le Paupergeddon Winter Edition 2023 à Lecco",
+        "Deuxième au Paupergeddon de Pise"
+      ],
+      "en": [
+        "Matteo Mazzola won Paupergeddon Winter Edition 2023 in Lecco",
+        "Second at the Paupergeddon in Pisa"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 507597,
+    "cover": "Timberwatch Elf",
+    "keyCards": [
+      "Timberwatch Elf",
+      "Birchlore Rangers",
+      "Priest of Titania",
+      "Land Grant",
+      "Lead the Stampede",
+      "Quirion Ranger"
+    ],
+    "summary": {
+      "fr": "Elfes producteurs de mana, Birchlore Rangers et Priest of Titania ; Lead the Stampede rechargeait la main, Timberwatch Elf grossissait l'attaquant.",
+      "en": "Mana-producing elves, Birchlore Rangers and Priest of Titania; Lead the Stampede refilled the hand, and Timberwatch Elf pumped the attacker."
+    },
+    "why": {
+      "fr": [
+        "Deux victoires en Monthly Tournament du Discord Paper Pauper Magic",
+        "Land Grant allait chercher une forêt sans coût"
+      ],
+      "en": [
+        "Two Paper Pauper Magic Discord Monthly Tournament wins",
+        "Land Grant fetched a Forest for free"
+      ]
+    }
+  },
+  {
+    "name": "Faeries",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "Mono Blue Aggro",
+      "Mono-blue Faeries",
+      "Mono U Faeries"
+    ],
+    "rep": 525236,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Moon-Circuit Hacker",
+      "Saiba Cryptomancer",
+      "Ninja of the Deep Hours",
+      "Faerie Seer",
+      "Bind the Monster"
+    ],
+    "summary": {
+      "fr": "Tempo bleu à fées et ninjas : Faerie Seer et Spellstutter Sprite, Moon-Circuit Hacker et Ninja of the Deep Hours piochaient, Bind the Monster neutralisait une créature.",
+      "en": "Blue faerie and ninja tempo: Faerie Seer and Spellstutter Sprite, Moon-Circuit Hacker and Ninja of the Deep Hours drawing cards, and Bind the Monster to lock a creature."
+    },
+    "why": {
+      "fr": [
+        "Pietro Bragioto a gagné le Pauperstruck 2023 à Niviano",
+        "Top 8 au Paupergeddon de Pise et à la Defender Cup de Moscou"
+      ],
+      "en": [
+        "Pietro Bragioto won Pauperstruck 2023 in Niviano",
+        "Top eights at the Paupergeddon in Pisa and the Defender Cup in Moscow"
+      ]
+    }
+  },
+  {
+    "name": "Walls Combo",
+    "slug": "walls",
+    "archetype": "combo",
+    "titles": [
+      "Walls Combo",
+      "Brick Walls Cascade"
+    ],
+    "rep": 525237,
+    "cover": "Axebane Guardian",
+    "keyCards": [
+      "Axebane Guardian",
+      "Overgrown Battlement",
+      "Drift of Phantasms",
+      "Saruli Caretaker",
+      "Shield-Wall Sentinel",
+      "Winding Way"
+    ],
+    "summary": {
+      "fr": "Axebane Guardian et Overgrown Battlement produisaient du mana selon le nombre de défenseurs, Drift of Phantasms et Shield-Wall Sentinel trouvaient les pièces.",
+      "en": "Axebane Guardian and Overgrown Battlement made mana for each defender, while Drift of Phantasms and Shield-Wall Sentinel found the pieces."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Pauperstruck 2023 et aux Finals Season 4 de Gessate",
+        "Une version à cascade a gagné le Season Ender de Neutral Grounds à Quezon City"
+      ],
+      "en": [
+        "Second at Pauperstruck 2023 and the Finals Season 4 in Gessate",
+        "A cascade version won the Season Ender at Neutral Grounds in Quezon City"
+      ]
+    }
+  },
+  {
+    "name": "Gruul Ponza",
+    "slug": "land-destruction",
+    "archetype": "control",
+    "titles": [
+      "Gruul Ponza",
+      "Gruul Land Loss"
+    ],
+    "rep": 506135,
+    "cover": "Mwonvuli Acid-Moss",
+    "keyCards": [
+      "Mwonvuli Acid-Moss",
+      "Thermokarst",
+      "Avenging Hunter",
+      "Jewel Thief",
+      "Boarding Party",
+      "Utopia Sprawl"
+    ],
+    "summary": {
+      "fr": "Destruction de terrains vert-rouge : Utopia Sprawl et Arbor Elf accéléraient Mwonvuli Acid-Moss et Thermokarst, Jewel Thief, Boarding Party et Annoyed Altisaur frappaient.",
+      "en": "Red-green land destruction: Utopia Sprawl and Arbor Elf powered out Mwonvuli Acid-Moss and Thermokarst, and Jewel Thief, Boarding Party and Annoyed Altisaur attacked."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Monthly Tournament de février du Discord MTG Paper Pauper",
+        "Top 4 au 3rd God of Pauper de Hareruya"
+      ],
+      "en": [
+        "Won the February MTG Paper Pauper Discord Monthly Tournament",
+        "Top four at the 3rd God of Pauper at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Bogles",
+    "slug": "bogles",
+    "archetype": "aggro",
+    "titles": [
+      "Bogles",
+      "Aura Hexproof"
+    ],
+    "rep": 529479,
+    "cover": "Slippery Bogle",
+    "keyCards": [
+      "Slippery Bogle",
+      "Gladecover Scout",
+      "Ethereal Armor",
+      "Ancestral Mask",
+      "Armadillo Cloak",
+      "Commune with Spirits"
+    ],
+    "summary": {
+      "fr": "Slippery Bogle et Gladecover Scout, qu'on ne peut pas cibler, recevaient Ethereal Armor, Ancestral Mask, Rancor et Armadillo Cloak ; Commune with Spirits trouvait les auras.",
+      "en": "Slippery Bogle and Gladecover Scout, which cannot be targeted, received Ethereal Armor, Ancestral Mask, Rancor and Armadillo Cloak; Commune with Spirits found the auras."
+    },
+    "why": {
+      "fr": [
+        "Tiago Fuguete a gagné le 2K de Pandora Geek Store",
+        "Top 8 au 4th God of Pauper de Hareruya"
+      ],
+      "en": [
+        "Tiago Fuguete won the 2K at Pandora Geek Store",
+        "Top eight at the 4th God of Pauper at Hareruya"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Faeries",
+    "slug": "dimir-faeries",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Faeries"
+    ],
+    "rep": 533119,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Ninja of the Deep Hours",
+      "Faerie Seer",
+      "Thorn of the Black Rose",
+      "Snuff Out",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir à fées : Faerie Seer et Spellstutter Sprite, Ninja of the Deep Hours piochait, Thorn of the Black Rose apportait le monarque, Snuff Out répondait.",
+      "en": "Blue-black faerie tempo: Faerie Seer and Spellstutter Sprite, Ninja of the Deep Hours drawing cards, Thorn of the Black Rose bringing the monarch, and Snuff Out as removal."
+    },
+    "why": {
+      "fr": [
+        "Butch Agtarap a gagné le JPMC and Friends Invitational aux Philippines",
+        "Top 4 au Paupergeddon d'automne à Rome et au 5th God of Pauper"
+      ],
+      "en": [
+        "Butch Agtarap won the JPMC and Friends Invitational in the Philippines",
+        "Top four at the autumn Paupergeddon in Rome and the 5th God of Pauper"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn",
+      "Synthesizer Deck Wins"
+    ],
+    "rep": 554160,
+    "cover": "Kessig Flamebreather",
+    "keyCards": [
+      "Kessig Flamebreather",
+      "Monastery Swiftspear",
+      "Experimental Synthesizer",
+      "Wrenn's Resolve",
+      "Lightning Bolt",
+      "Chain Lightning"
+    ],
+    "summary": {
+      "fr": "Rouge à brûlures : Monastery Swiftspear et Kessig Flamebreather, Lightning Bolt et Chain Lightning, Wrenn's Resolve et Reckless Impulse rechargeaient la main.",
+      "en": "Red burn: Monastery Swiftspear and Kessig Flamebreather, Lightning Bolt and Chain Lightning, with Wrenn's Resolve and Reckless Impulse refilling the hand."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au 2K de Pandora Geek Store",
+        "Top 8 au Top Pauper Player 2023 et au JPMC and Friends Invitational"
+      ],
+      "en": [
+        "Top four at the 2K at Pandora Geek Store",
+        "Top eights at Top Pauper Player 2023 and the JPMC and Friends Invitational"
+      ]
+    }
+  },
+  {
+    "name": "Kiln Fiend",
+    "slug": "kiln-fiend",
+    "archetype": "combo",
+    "titles": [
+      "Hot Dogs",
+      "Hot (and Cold) Dogs",
+      "Fiendy Blitz",
+      "Mono R Kiln Fiend"
+    ],
+    "rep": 531360,
+    "cover": "Kiln Fiend",
+    "keyCards": [
+      "Kiln Fiend",
+      "Festival Crasher",
+      "Monastery Swiftspear",
+      "Manamorphose",
+      "Ancestral Anger",
+      "Temur Battle Rage"
+    ],
+    "summary": {
+      "fr": "Kiln Fiend, Monastery Swiftspear et Festival Crasher grossissaient à chaque sort, Manamorphose, Mutagenic Growth et Lava Dart ne coûtaient rien, Temur Battle Rage doublait les dégâts.",
+      "en": "Kiln Fiend, Monastery Swiftspear and Festival Crasher grew with each spell, Manamorphose, Mutagenic Growth and Lava Dart cost nothing, and Temur Battle Rage doubled the damage."
+    },
+    "why": {
+      "fr": [
+        "Michele Alloni a gagné le Top 8 Martesana à Gessate",
+        "Victoires aussi en Monthly Tournament du Discord Paper Pauper Magic"
+      ],
+      "en": [
+        "Michele Alloni won the Top 8 Martesana in Gessate",
+        "Also won Paper Pauper Magic Discord Monthly Tournaments"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Garden",
+    "slug": "golgari-garden",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari Garden"
+    ],
+    "rep": 566764,
+    "cover": "Troll of Khazad-dum",
+    "keyCards": [
+      "Troll of Khazad-dum",
+      "Tithing Blade",
+      "Deadly Dispute",
+      "Crypt Rats",
+      "Thorn of the Black Rose",
+      "Defile"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir : Tithing Blade et Defile contre les créatures, Deadly Dispute et Lembas pour piocher, Thorn of the Black Rose apportait le monarque, Troll of Khazad-dûm frappait.",
+      "en": "Black midrange: Tithing Blade and Defile against creatures, Deadly Dispute and Lembas to draw, Thorn of the Black Rose bringing the monarch, and Troll of Khazad-dûm attacking."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Paupergeddon d'automne à Rome",
+        "Crypt Rats balayait les petites créatures"
+      ],
+      "en": [
+        "Second at the autumn Paupergeddon in Rome",
+        "Crypt Rats swept small creatures"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Midrange",
+    "slug": "orzhov-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Orzhov Aggro"
+    ],
+    "rep": 501542,
+    "cover": "Vampire Sovereign",
+    "keyCards": [
+      "Vampire Sovereign",
+      "Ephemerate",
+      "Guildsworn Prowler",
+      "Inspiring Overseer",
+      "Deadly Dispute",
+      "Cast Down"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain blanc-noir : Ephemerate rejouait Vampire Sovereign et Inspiring Overseer, Deadly Dispute sacrifiait Guildsworn Prowler pour piocher, Cast Down répondait.",
+      "en": "White-black midrange: Ephemerate replayed Vampire Sovereign and Inspiring Overseer, Deadly Dispute sacrificed Guildsworn Prowler to draw, and Cast Down answered threats."
+    },
+    "why": {
+      "fr": [
+        "Top 8 au Team Quintet de Hareruya et au Pauperstruck 2023",
+        "Top 8 aussi au 2K de Pandora Geek Store"
+      ],
+      "en": [
+        "Top eights at Team Quintet at Hareruya and Pauperstruck 2023",
+        "Also top eight at the 2K at Pandora Geek Store"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Aggro",
+    "slug": "black-aggro",
+    "archetype": "aggro",
+    "titles": [
+      "Black Burn"
+    ],
+    "rep": 568971,
+    "cover": "Vampire's Kiss",
+    "keyCards": [
+      "Vampire's Kiss",
+      "Okiba Reckoner Raid",
+      "Hopeless Nightmare",
+      "Sovereign's Bite",
+      "Bump in the Night",
+      "Serrated Scorpion"
+    ],
+    "summary": {
+      "fr": "Noir à brûlures : Vampire's Kiss, Sovereign's Bite et Bump in the Night drainaient, Okiba Reckoner Raid et Hopeless Nightmare infligeaient des dégâts au fil des tours.",
+      "en": "Black burn: Vampire's Kiss, Sovereign's Bite and Bump in the Night drained, while Okiba Reckoner Raid and Hopeless Nightmare dealt damage over the turns."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Monthly Tournament #33 du Discord Paper Pauper Magic",
+        "Deadly Dispute et Sign in Blood rechargeaient la main"
+      ],
+      "en": [
+        "Second at Paper Pauper Magic Discord Monthly Tournament #33",
+        "Deadly Dispute and Sign in Blood refilled the hand"
+      ]
+    }
+  },
+  {
+    "name": "Slivers",
+    "slug": "slivers",
+    "archetype": "aggro",
+    "titles": [
+      "Slivers"
+    ],
+    "rep": 542619,
+    "cover": "Muscle Sliver",
+    "keyCards": [
+      "Muscle Sliver",
+      "Sinew Sliver",
+      "Predatory Sliver",
+      "Gemhide Sliver",
+      "Plated Sliver",
+      "Winding Way"
+    ],
+    "summary": {
+      "fr": "Slivers vert-blanc : Muscle Sliver, Sinew Sliver et Predatory Sliver se renforçaient mutuellement, Gemhide Sliver produisait du mana, Winding Way rechargeait la main.",
+      "en": "Green-white Slivers: Muscle Sliver, Sinew Sliver and Predatory Sliver pumped each other, Gemhide Sliver made mana, and Winding Way refilled the hand."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au 2K de Mont CardShop et au Pauper Circus de Merate",
+        "Lead the Stampede piochait aussi"
+      ],
+      "en": [
+        "Top four at the 2K at Mont CardShop and the Pauper Circus in Merate",
+        "Lead the Stampede drew cards too"
+      ]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": [
+      "White Weenie"
+    ],
+    "rep": 573650,
+    "cover": "Battle Screech",
+    "keyCards": [
+      "Battle Screech",
+      "Squadron Hawk",
+      "Lunarch Veteran",
+      "Raffine's Informant",
+      "Kor Skyfisher",
+      "Prismatic Strands"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches : Lunarch Veteran et Raffine's Informant, Squadron Hawk et Battle Screech en vol, Prismatic Strands protégeait l'équipe.",
+      "en": "Small white creatures: Lunarch Veteran and Raffine's Informant, Squadron Hawk and Battle Screech in the air, and Prismatic Strands protecting the team."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Monthly Tournament #34 du Discord Paper Pauper Magic",
+        "Homestead Courage grossissait l'équipe"
+      ],
+      "en": [
+        "Won Paper Pauper Magic Discord Monthly Tournament #34",
+        "Homestead Courage pumped the team"
+      ]
+    }
+  },
+  {
+    "name": "Poison Storm",
+    "slug": "poison-storm",
+    "archetype": "combo",
+    "titles": [
+      "Poison Storm"
+    ],
+    "rep": 542989,
+    "cover": "Prologue to Phyresis",
+    "keyCards": [
+      "Prologue to Phyresis",
+      "Infectious Inquiry",
+      "Contentious Plan",
+      "Experimental Augury",
+      "Everflowing Chalice",
+      "Weather the Storm"
+    ],
+    "summary": {
+      "fr": "Prologue to Phyresis et Infectious Inquiry donnaient un marqueur poison en piochant, Contentious Plan et Experimental Augury proliféraient jusqu'à dix, Weather the Storm gagnait du temps.",
+      "en": "Prologue to Phyresis and Infectious Inquiry gave a poison counter while drawing, Contentious Plan and Experimental Augury proliferated up to ten, and Weather the Storm bought time."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Monthly Tournament #29 du Discord Paper Pauper Magic",
+        "Everflowing Chalice et Pentad Prism accéléraient"
+      ],
+      "en": [
+        "Won Paper Pauper Magic Discord Monthly Tournament #29",
+        "Everflowing Chalice and Pentad Prism accelerated"
+      ]
+    }
+  }
+]
