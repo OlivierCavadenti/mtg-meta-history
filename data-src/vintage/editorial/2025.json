@@ -39,7 +39,8 @@
       "Paradoxical Outcome",
       "Coveted Jewel",
       "Esper Paradoxical Outcome",
-      "Mentor Paradoxical"
+      "Mentor Paradoxical",
+      "Esper Control"
     ],
     "rep": 677640,
     "cover": "Paradoxical Outcome",
@@ -105,7 +106,9 @@
     "archetype": "midrange",
     "titles": [
       "Esper Lurrus",
-      "Ub Lurrus"
+      "Ub Lurrus",
+      "Bug Lurrus",
+      "UW Lurrus Dreadnought"
     ],
     "rep": 793149,
     "cover": "Psychic Frog",
@@ -428,7 +431,8 @@
     "slug": "uw-dreadnought",
     "archetype": "tempo",
     "titles": [
-      "UW Dreadnought"
+      "UW Dreadnought",
+      "Phyrexian Dreadnought"
     ],
     "rep": 691609,
     "cover": "Phyrexian Dreadnought",
@@ -460,7 +464,8 @@
     "slug": "uw-ocelot",
     "archetype": "aggro",
     "titles": [
-      "UW Ocelot"
+      "UW Ocelot",
+      "Azorius Aggro"
     ],
     "rep": 749114,
     "cover": "Ocelot Pride",
@@ -484,6 +489,102 @@
       "en": [
         "Won the Sunday event at Eternal Mania in Hasselt",
         "Wasteland and Strip Mine against opposing lands"
+      ]
+    }
+  },
+  {
+    "name": "Eldrazi",
+    "slug": "eldrazi",
+    "archetype": "aggro",
+    "titles": [
+      "Eldrazi Aggro"
+    ],
+    "rep": 679776,
+    "cover": "Glaring Fleshraker",
+    "keyCards": [
+      "Glaring Fleshraker",
+      "Sowing Mycospawn",
+      "Thought-Knot Seer",
+      "Kozilek's Command",
+      "Wastescape Battlemage",
+      "Null Rod"
+    ],
+    "summary": {
+      "fr": "Eldrazi Temple et Ancient Tomb accéléraient Thought-Knot Seer, Glaring Fleshraker et Sowing Mycospawn, Null Rod coupait les Moxen et artefacts adverses.",
+      "en": "Eldrazi Temple and Ancient Tomb powered out Thought-Knot Seer, Glaring Fleshraker and Sowing Mycospawn, while Null Rod shut off opposing Moxen and artifacts."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Challenge sur Magic Online en janvier",
+        "Kozilek's Command servait de réponse et de pioche"
+      ],
+      "en": [
+        "Second in a Magic Online Challenge in January",
+        "Kozilek's Command served as removal and card draw"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Mono Black Aggro"
+    ],
+    "rep": 783639,
+    "cover": "Grief",
+    "keyCards": [
+      "Grief",
+      "Reanimate",
+      "Troll of Khazad-dum",
+      "Orcish Bowmasters",
+      "Mai, Scornful Striker",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Noir à Dark Ritual : Grief évoqué arrachait la meilleure carte adverse avant d'être réanimé, Troll of Khazad-dûm cyclé était ramené par Reanimate.",
+      "en": "Black with Dark Ritual: an evoked Grief took the opponent's best card before being reanimated, and a cycled Troll of Khazad-dûm came back with Reanimate."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Challenge 32 sur Magic Online en novembre",
+        "Top 8 au championnat nord-américain de Vintage"
+      ],
+      "en": [
+        "Won a Magic Online Challenge 32 in November",
+        "Top eight at the North American Vintage Championship"
+      ]
+    }
+  },
+  {
+    "name": "Landless Spy",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "Landless Spy"
+    ],
+    "rep": 697842,
+    "cover": "Undercity Informer",
+    "keyCards": [
+      "Undercity Informer",
+      "Balustrade Spy",
+      "Chancellor of the Annex",
+      "Boggart Trawler",
+      "Narcomoeba",
+      "Pact of Negation"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon les cartes modales de Modern Horizons 3 : Undercity Informer ou Balustrade Spy meulait toute la bibliothèque, Narcomoeba et Thassa's Oracle gagnaient.",
+      "en": "A deck with no lands except Modern Horizons 3 modal cards: Undercity Informer or Balustrade Spy milled the whole library, and Narcomoeba with Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Challenge sur Magic Online en mars",
+        "Chancellor of the Annex taxait le premier sort adverse"
+      ],
+      "en": [
+        "Second in a Magic Online Challenge in March",
+        "Chancellor of the Annex taxed the opponent's first spell"
       ]
     }
   }

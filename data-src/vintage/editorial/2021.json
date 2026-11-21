@@ -106,7 +106,8 @@
     "titles": [
       "Paradoxical",
       "Paradoxical Storm",
-      "Mentor Paradoxical"
+      "Mentor Paradoxical",
+      "Esper Paradoxical"
     ],
     "rep": 441249,
     "cover": "Paradoxical Outcome",
@@ -140,7 +141,8 @@
     "titles": [
       "Grixis Control",
       "Dimir Control",
-      "Esper Control"
+      "Esper Control",
+      "Dimir Witch"
     ],
     "rep": 449696,
     "cover": "Dack Fayden",
@@ -204,7 +206,8 @@
     "slug": "xerox",
     "archetype": "tempo",
     "titles": [
-      "Jeskai Xerox"
+      "Jeskai Xerox",
+      "Jeskai Aggro"
     ],
     "rep": 450339,
     "cover": "Dreadhorde Arcanist",
@@ -453,6 +456,70 @@
       "en": [
         "Two Magic Online Vintage Preliminary wins",
         "Second in a Vintage Challenge in December"
+      ]
+    }
+  },
+  {
+    "name": "Landless Spy",
+    "slug": "oops-all-spells",
+    "archetype": "combo",
+    "titles": [
+      "Landless Spy"
+    ],
+    "rep": 454773,
+    "cover": "Balustrade Spy",
+    "keyCards": [
+      "Balustrade Spy",
+      "Undercity Informer",
+      "Narcomoeba",
+      "Dark Ritual",
+      "Pact of Negation",
+      "Agadeem's Awakening"
+    ],
+    "summary": {
+      "fr": "Un deck sans terrains, sinon les cartes modales de Zendikar Rising : Undercity Informer ou Balustrade Spy meulait toute la bibliothèque, Narcomoeba et Thassa's Oracle gagnaient.",
+      "en": "A deck with no lands except Zendikar Rising modal cards: Undercity Informer or Balustrade Spy milled the whole library, and Narcomoeba with Thassa's Oracle won."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Vintage Challenge sur Magic Online en novembre",
+        "Pact of Negation protégeait la combinaison sans mana"
+      ],
+      "en": [
+        "Second in a Magic Online Vintage Challenge in November",
+        "Pact of Negation protected the combo for no mana"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins"
+    ],
+    "rep": 427222,
+    "cover": "Goblin Recruiter",
+    "keyCards": [
+      "Goblin Recruiter",
+      "Goblin Matron",
+      "Goblin Lackey",
+      "Conspicuous Snoop",
+      "Muxus, Goblin Grandee",
+      "Kiki-Jiki, Mirror Breaker"
+    ],
+    "summary": {
+      "fr": "Goblin Recruiter empilait les gobelins sur la bibliothèque, Conspicuous Snoop les lançait depuis le dessus et Kiki-Jiki ou Muxus finissaient ; Chrome Mox accélérait.",
+      "en": "Goblin Recruiter stacked goblins on top of the library, Conspicuous Snoop cast them from the top, and Kiki-Jiki or Muxus finished; Chrome Mox accelerated."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au tournoi hebdomadaire de The Mythic Society en janvier",
+        "Top 8 au 4Seasons d'été à Bologne et en Preliminary sur Magic Online"
+      ],
+      "en": [
+        "Top four at the weekly event at The Mythic Society in January",
+        "Top eights at the summer 4Seasons in Bologna and in Magic Online Preliminaries"
       ]
     }
   }

@@ -106,7 +106,8 @@
       "Paradoxical",
       "Paradoxical Storm",
       "Mentor Paradoxical",
-      "Coveted Jewel"
+      "Coveted Jewel",
+      "Paradoxical Outcome"
     ],
     "rep": 469381,
     "cover": "Paradoxical Outcome",
@@ -173,7 +174,11 @@
       "BUG Midrange",
       "Planeswalker Control",
       "4c Fish",
-      "Canadian Threshold"
+      "Canadian Threshold",
+      "Bug Midrange",
+      "Sultai Midrange",
+      "Noble Fish",
+      "Landstill"
     ],
     "rep": 472816,
     "cover": "Oko, Thief of Crowns",
@@ -336,7 +341,8 @@
     "archetype": "aggro",
     "titles": [
       "Initiative Hatebear",
-      "Hatebear"
+      "Hatebear",
+      "Selesnya Hatebear"
     ],
     "rep": 495768,
     "cover": "White Plume Adventurer",
@@ -400,7 +406,8 @@
     "slug": "oath",
     "archetype": "combo",
     "titles": [
-      "Oath of Druids"
+      "Oath of Druids",
+      "Oath"
     ],
     "rep": 482026,
     "cover": "Oath of Druids",
@@ -456,6 +463,38 @@
       "en": [
         "Second and top fours in Magic Online Challenges in the spring",
         "Ragavan stayed legal in Vintage after its Legacy ban"
+      ]
+    }
+  },
+  {
+    "name": "Goblins",
+    "slug": "goblins",
+    "archetype": "aggro",
+    "titles": [
+      "Goblins"
+    ],
+    "rep": 488771,
+    "cover": "Goblin Recruiter",
+    "keyCards": [
+      "Goblin Recruiter",
+      "Goblin Lackey",
+      "Goblin Matron",
+      "Conspicuous Snoop",
+      "Magus of the Moon",
+      "Sling-Gang Lieutenant"
+    ],
+    "summary": {
+      "fr": "Goblin Recruiter empilait les gobelins sur la bibliothèque, Conspicuous Snoop les lançait depuis le dessus, Magus of the Moon gênait les bases de terrains adverses.",
+      "en": "Goblin Recruiter stacked goblins on top of the library, Conspicuous Snoop cast them from the top, and Magus of the Moon hindered opposing mana bases."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en Challenge sur Magic Online en octobre",
+        "Top 8 à l'OK Land Run et au championnat de Suède de Vintage"
+      ],
+      "en": [
+        "Top four in a Magic Online Challenge in October",
+        "Top eights at the OK Land Run and the Swedish Vintage Nationals"
       ]
     }
   }

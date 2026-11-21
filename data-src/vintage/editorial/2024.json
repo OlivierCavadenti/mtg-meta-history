@@ -139,7 +139,9 @@
     "titles": [
       "Initiative Hatebear",
       "Hatebear",
-      "Esper Initiative"
+      "Esper Initiative",
+      "Azorius Initiative",
+      "Initiative"
     ],
     "rep": 585343,
     "cover": "White Plume Adventurer",
@@ -171,7 +173,8 @@
     "slug": "oath",
     "archetype": "combo",
     "titles": [
-      "Oath of Druids"
+      "Oath of Druids",
+      "Oath"
     ],
     "rep": 623813,
     "cover": "Atraxa, Grand Unifier",
@@ -239,7 +242,8 @@
     "archetype": "midrange",
     "titles": [
       "Esper Lurrus",
-      "Lurrus Saga"
+      "Lurrus Saga",
+      "Esper Lurrus Control"
     ],
     "rep": 666985,
     "cover": "Psychic Frog",
@@ -272,7 +276,8 @@
     "archetype": "control",
     "titles": [
       "Esper Control",
-      "UW Control"
+      "UW Control",
+      "Esper Oswald"
     ],
     "rep": 655039,
     "cover": "Psychic Frog",
@@ -338,7 +343,9 @@
     "titles": [
       "Golos MUD",
       "MUD",
-      "Foundry Aggro"
+      "Foundry Aggro",
+      "Jewel Shops",
+      "Golos Shops"
     ],
     "rep": 579811,
     "cover": "Golos, Tireless Pilgrim",
@@ -424,6 +431,102 @@
       "en": [
         "Won the 26th God of Vintage in Tokyo",
         "Pact of Negation protected the combo for no mana"
+      ]
+    }
+  },
+  {
+    "name": "Dragon Stompy",
+    "slug": "dragon-stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Dragon Stompy"
+    ],
+    "rep": 621180,
+    "cover": "Phyrexian Dragon Engine",
+    "keyCards": [
+      "Phyrexian Dragon Engine",
+      "Blood Moon",
+      "Magus of the Moon",
+      "Null Rod",
+      "Broadside Bombardiers",
+      "Goblin Rabblemaster"
+    ],
+    "summary": {
+      "fr": "Prison rouge : Ancient Tomb, City of Traitors et Chrome Mox posaient Blood Moon, Magus of the Moon et Null Rod, puis Phyrexian Dragon Engine et Goblin Rabblemaster frappaient.",
+      "en": "Red prison: Ancient Tomb, City of Traitors and Chrome Mox put down Blood Moon, Magus of the Moon and Null Rod, then Phyrexian Dragon Engine and Goblin Rabblemaster attacked."
+    },
+    "why": {
+      "fr": [
+        "A gagné The Land 5 Vintage de Team Serious",
+        "Null Rod coupait les Moxen adverses"
+      ],
+      "en": [
+        "Won The Land 5 Vintage at Team Serious",
+        "Null Rod shut off opposing Moxen"
+      ]
+    }
+  },
+  {
+    "name": "Beseech the Mirror",
+    "slug": "storm",
+    "archetype": "combo",
+    "titles": [
+      "Beseech the Storm"
+    ],
+    "rep": 583889,
+    "cover": "Beseech the Mirror",
+    "keyCards": [
+      "Beseech the Mirror",
+      "Dark Ritual",
+      "Lorien Revealed",
+      "Necropotence",
+      "Bolas's Citadel",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Combo storm noir : Dark Ritual et les Moxen, Beseech the Mirror en sacrifiant un artefact lançait gratuitement Necropotence ou Tendrils of Agony ; Bolas's Citadel en appui.",
+      "en": "Black storm combo: Dark Ritual and the Moxen, with Beseech the Mirror, bargaining an artifact, casting Necropotence or Tendrils of Agony for free; Bolas's Citadel in support."
+    },
+    "why": {
+      "fr": [
+        "Top 4 répétés en Challenge sur Magic Online et au God of Vintage Trial",
+        "Dress Down retirait leurs capacités aux créatures adverses"
+      ],
+      "en": [
+        "Repeated top fours in Magic Online Challenges and at a God of Vintage Trial",
+        "Dress Down stripped opposing creatures of their abilities"
+      ]
+    }
+  },
+  {
+    "name": "Reanimator",
+    "slug": "reanimator",
+    "archetype": "combo",
+    "titles": [
+      "Reanimator"
+    ],
+    "rep": 666097,
+    "cover": "Abhorrent Oculus",
+    "keyCards": [
+      "Abhorrent Oculus",
+      "Psychic Frog",
+      "Grief",
+      "Entomb",
+      "Reanimate",
+      "Force of Will"
+    ],
+    "summary": {
+      "fr": "Entomb préparait Reanimate sur Archon of Cruelty ou Atraxa, Unearth ramenait Grief ; Abhorrent Oculus, de Duskmourn, et Psychic Frog frappaient aussi.",
+      "en": "Entomb set up Reanimate on Archon of Cruelty or Atraxa, Unearth brought back Grief, and Abhorrent Oculus, from Duskmourn, and Psychic Frog attacked too."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Challenge 32 sur Magic Online en novembre",
+        "Force of Will et Force of Negation protégeaient la réanimation"
+      ],
+      "en": [
+        "Won a Magic Online Challenge 32 in November",
+        "Force of Will and Force of Negation protected the reanimation"
       ]
     }
   }
