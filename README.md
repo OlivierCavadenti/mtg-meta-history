@@ -4,7 +4,8 @@ An encyclopedia of competitive Magic: The Gathering decks, by format. Every arch
 performed, season by season, with its real tournament decklist, key cards and a few lines on
 why it worked. Plus a full-page wall of every format staple, in chronological order.
 
-Standard is complete from 1994 to today, Pioneer from 2019, Modern from 2011, Premodern from 2020.
+Standard is complete from 1994 to today, Pioneer from 2019, Modern from 2011, Legacy from 2004,
+Vintage from 2003, Pauper from 2016, Premodern from 2020.
 Limited covers every set drafted on MTG Arena since Kaldheim (2021), color pair by color pair, from
 [17Lands public data](https://www.17lands.com/public_datasets) (CC BY 4.0), and the design
 archetypes of every set from Innistrad (2011) to Zendikar Rising (2020), with sources. Other formats are in progress.

@@ -106,7 +106,8 @@ Every script reads `MTG_FORMAT` (default `standard`). Each format has its own se
 (`data-src/{format}/`), output (`src/data/{format}/`) and work dir (`.pipeline/{format}`).
 The Scryfall printings index is shared (`.pipeline/prints.json`, or `MTG_PRINTS`).
 Competitive-level events are added for years where Professional and Major coverage is thin:
-`COMPETITIVE_YEARS` in `common.py` (Modern 2011-2013 and 2020-2021, Premodern 2020-2024);
+`COMPETITIVE_YEARS` in `common.py` (Modern 2011-2013 and 2020-2021, Legacy 2004-2010, Vintage
+2003-2026, Pauper 2016-2020, Premodern 2020-2024);
 `MTG_COMPETITIVE_YEARS=2011,2012` overrides it.
 
 ## Adding another format
@@ -162,3 +163,24 @@ source calls it weak). No decklist, no numbers; `build_limited.py --check {set}`
 events are scraped for 2019–2021 and 2025–2026, when Professional and Major events were rare.
 Inclusion: top 8 ≥ 5, or a win at a Pro Tour / Players Tour / World / Regional / Arena
 Championship / Grand Prix, or a top 4 at a Pro Tour or Worlds.
+
+## Legacy, Vintage, Pauper
+
+Eternal formats: no rotation, one season per calendar year, early thin years grouped. The build
+skips the legality check (`ETERNAL` in `build.py`). Competitive-level events are scraped where
+Professional and Major coverage is thin (`COMPETITIVE_YEARS`: Legacy 2004–2010, Vintage 2003–2026,
+Pauper 2016–2020).
+
+- Legacy (`MTG_FORMAT=legacy`): season "2006" groups September 2004 (the format's creation) to
+  2006, then one season per year from 2007. Inclusion: top 8 ≥ 3, or a win at a Professional/Major
+  event; top 8 ≥ 2 in seasons with fewer than 100 top 8s (2006, 2009, 2020, 2021).
+- Vintage (`MTG_FORMAT=vintage`): seasons "2005" (2003–2005), "2008" (2006–2008), "2011"
+  (2009–2011), then one per year. Restrictions are bans with `restricted: true` in
+  `src/data/vintage/seasons.ts`, shown on their own line. Inclusion: top 8 ≥ 2 in 2005 and 2008;
+  top 8 ≥ 3 or a big-event win for 2011–2015; top 8 ≥ 5 or a big-event win from 2016.
+- Pauper (`MTG_FORMAT=pauper`): season "2017" groups 2016 and 2017, then one per year. Inclusion:
+  top 8 ≥ 3, or a win at a Professional/Major event.
+
+Lineage slugs to keep across seasons include `delver` (Delver and blue faerie tempo), `dimir-terror`
+(Tolarian Terror decks), `walls` (Walls and Balustrade Spy), `kuldotha`, `madness`, `tron` in Pauper;
+`keeper` (blue control), `workshop-aggro`, `fish` in Vintage.

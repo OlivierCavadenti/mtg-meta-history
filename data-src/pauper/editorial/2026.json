@@ -1,0 +1,990 @@
+[
+  {
+    "name": "Madness Burn",
+    "slug": "madness",
+    "archetype": "aggro",
+    "titles": [
+      "Madness Burn",
+      "Mono Red Madness",
+      "R Madness",
+      "Red Madness",
+      "Rakdos Madness Burn"
+    ],
+    "rep": 900530,
+    "cover": "Fiery Temper",
+    "keyCards": [
+      "Fiery Temper",
+      "Sneaky Snacker",
+      "Kessig Flamebreather",
+      "Highway Robbery",
+      "Guttersnipe",
+      "Lava Dart"
+    ],
+    "summary": {
+      "fr": "Folie rouge : Faithless Looting, Highway Robbery et Grab the Prize défaussaient Fiery Temper et Sneaky Snacker pour les lancer à coût réduit, Kessig Flamebreather et Guttersnipe brûlaient.",
+      "en": "Red madness: Faithless Looting, Highway Robbery and Grab the Prize discarded Fiery Temper and Sneaky Snacker to cast them cheaply, while Kessig Flamebreather and Guttersnipe burned."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Victoires au Super 50K de Mont CardShop, au Stroopwafel IPT et au Pauperfest 3.0 de Milan"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Won the Super 50K at Mont CardShop, the Stroopwafel IPT and Pauperfest 3.0 in Milan"
+      ]
+    }
+  },
+  {
+    "name": "Jund Wildfire",
+    "slug": "jund-wildfire",
+    "archetype": "midrange",
+    "titles": [
+      "Jund Wildfire"
+    ],
+    "rep": 868686,
+    "cover": "Writhing Chrysalis",
+    "keyCards": [
+      "Writhing Chrysalis",
+      "Refurbished Familiar",
+      "Cleansing Wildfire",
+      "Fanatical Offering",
+      "Krark-Clan Shaman",
+      "Nyxborn Hydra"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain Jund à artefacts : Refurbished Familiar et Writhing Chrysalis frappaient, Fanatical Offering et Cleansing Wildfire piochaient, Krark-Clan Shaman balayait.",
+      "en": "Jund artifact midrange: Refurbished Familiar and Writhing Chrysalis attacked, Fanatical Offering and Cleansing Wildfire drew cards, and Krark-Clan Shaman swept the board."
+    },
+    "why": {
+      "fr": [
+        "Neuf victoires, dont le Paupergeddon d'été 2026 et la Sideboard 5 de Lyon",
+        "Cast Down répondait aux créatures"
+      ],
+      "en": [
+        "Nine wins, including the summer 2026 Paupergeddon and Sideboard 5 in Lyon",
+        "Cast Down answered creatures"
+      ]
+    }
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Grixis Affinity",
+      "Affinity",
+      "Esper Affinity",
+      "Esper Aggro"
+    ],
+    "rep": 819079,
+    "cover": "Myr Enforcer",
+    "keyCards": [
+      "Myr Enforcer",
+      "Refurbished Familiar",
+      "Utrom Monitor",
+      "Thoughtcast",
+      "Reckoner's Bargain",
+      "Krark-Clan Shaman"
+    ],
+    "summary": {
+      "fr": "Myr Enforcer, Refurbished Familiar et Thoughtcast presque gratuits, Utrom Monitor en plus, Reckoner's Bargain sacrifiait les artefacts pour piocher, Krark-Clan Shaman balayait.",
+      "en": "Myr Enforcer, Refurbished Familiar and Thoughtcast nearly free, plus Utrom Monitor, with Reckoner's Bargain sacrificing artifacts to draw and Krark-Clan Shaman sweeping."
+    },
+    "why": {
+      "fr": [
+        "Victoires au 13th God of Pauper de Tokyo, au Super Ingenio 38 et au London Showdown #4",
+        "Une version Esper a gagné le CPC Championship et l'IPT Moravia"
+      ],
+      "en": [
+        "Won the 13th God of Pauper in Tokyo, Super Ingenio 38 and London Showdown #4",
+        "An Esper version won the CPC Championship and IPT Moravia"
+      ]
+    }
+  },
+  {
+    "name": "Spy Walls",
+    "slug": "walls",
+    "archetype": "combo",
+    "titles": [
+      "Balustrade Spy",
+      "Spy Combo",
+      "Spy",
+      "Walls Combo"
+    ],
+    "rep": 836956,
+    "cover": "Balustrade Spy",
+    "keyCards": [
+      "Balustrade Spy",
+      "Overgrown Battlement",
+      "Saruli Caretaker",
+      "Masked Vandal",
+      "Dread Return",
+      "Lotleth Giant"
+    ],
+    "summary": {
+      "fr": "Les murs produisaient du mana, Balustrade Spy meulait sa propre bibliothèque presque sans terrains, Dread Return ramenait Lotleth Giant, qui infligeait des dégâts selon le cimetière.",
+      "en": "The walls made mana, Balustrade Spy milled its own nearly landless library, and Dread Return brought back Lotleth Giant, which dealt damage by graveyard size."
+    },
+    "why": {
+      "fr": [
+        "Victoires à l'IPT Pauperissima de Milan, au NRG Series Trial de Milwaukee et au Super Ingenio 43",
+        "La version à Axebane Guardian a gagné un tournoi à Edinorog, Moscou"
+      ],
+      "en": [
+        "Won IPT Pauperissima in Milan, the NRG Series Trial in Milwaukee and Super Ingenio 43",
+        "The Axebane Guardian version won an event at Edinorog in Moscow"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 826735,
+    "cover": "Priest of Titania",
+    "keyCards": [
+      "Priest of Titania",
+      "Timberwatch Elf",
+      "Masked Vandal",
+      "Avenging Hunter",
+      "Nyxborn Hydra",
+      "Winding Way"
+    ],
+    "summary": {
+      "fr": "Elfes producteurs de mana, Priest of Titania et Llanowar Elves ; Winding Way rechargeait la main, Timberwatch Elf grossissait l'attaquant, Avenging Hunter et Nyxborn Hydra frappaient.",
+      "en": "Mana-producing elves, Priest of Titania and Llanowar Elves; Winding Way refilled the hand, Timberwatch Elf pumped the attacker, and Avenging Hunter and Nyxborn Hydra attacked."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Paupergeddon de printemps à Lucca, au British Open et au Next Level Tour de São Paulo",
+        "Generous Ent se cyclait pour aller chercher une forêt"
+      ],
+      "en": [
+        "Won the spring Paupergeddon in Lucca, the British Open and the Next Level Tour in São Paulo",
+        "Generous Ent cycled to fetch a Forest"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins",
+      "Mono Red Rally",
+      "Mono-red Synthesizer"
+    ],
+    "rep": 874232,
+    "cover": "Goblin Tomb Raider",
+    "keyCards": [
+      "Goblin Tomb Raider",
+      "Clockwork Percussionist",
+      "Reckless Lackey",
+      "Gingerbrute",
+      "Inventor's Axe",
+      "Voldaren Epicure"
+    ],
+    "summary": {
+      "fr": "Rouge agressif à artefacts : Goblin Tomb Raider, Clockwork Percussionist, Gingerbrute et Reckless Lackey, Inventor's Axe et Experimental Synthesizer, Galvanic Blast finissait.",
+      "en": "Red artifact aggro: Goblin Tomb Raider, Clockwork Percussionist, Gingerbrute and Reckless Lackey, with Inventor's Axe and Experimental Synthesizer, and Galvanic Blast to finish."
+    },
+    "why": {
+      "fr": [
+        "Oriol Saez a gagné le Super Event 41 de Barcelone",
+        "Deuxième au Super 30K de Mont CardShop et au Stroopwafel IPT"
+      ],
+      "en": [
+        "Oriol Saez won Super Event 41 in Barcelona",
+        "Second at the Super 30K at Mont CardShop and the Stroopwafel IPT"
+      ]
+    }
+  },
+  {
+    "name": "Artifact Tron",
+    "slug": "tron",
+    "archetype": "control",
+    "titles": [
+      "Urzatron"
+    ],
+    "rep": 892062,
+    "cover": "Ashnod's Altar",
+    "keyCards": [
+      "Ashnod's Altar",
+      "Myr Retriever",
+      "Golem Foundry",
+      "Candy Trail",
+      "Expedition Map",
+      "Giant's Boulder"
+    ],
+    "summary": {
+      "fr": "Version à artefacts : Expedition Map trouvait les terrains Urza, Ashnod's Altar sacrifiait Myr Retriever et Candy Trail, Golem Foundry créait des golems, Weather the Storm gagnait du temps.",
+      "en": "Artifact version: Expedition Map found the Urza lands, Ashnod's Altar sacrificed Myr Retriever and Candy Trail, Golem Foundry made Golems, and Weather the Storm bought time."
+    },
+    "why": {
+      "fr": [
+        "Victoires au C'mon Magic Katowice, au DGFEST de Dual et au Sundy Tournament #3",
+        "Eviscerator's Insight et Malevolent Rumble piochaient"
+      ],
+      "en": [
+        "Won C'mon Magic Katowice, DGFEST at Dual and Sundy Tournament #3",
+        "Eviscerator's Insight and Malevolent Rumble drew cards"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": [
+      "Dimir Control",
+      "Dimir Mystic"
+    ],
+    "rep": 859538,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Faerie Seer",
+      "Augur of Bolas",
+      "Snuff Out",
+      "Lorien Revealed",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir : Counterspell, Snuff Out et Spellstutter Sprite pour répondre, Faerie Seer, Augur of Bolas et Lórien Revealed pour trouver les cartes.",
+      "en": "Blue-black control: Counterspell, Snuff Out and Spellstutter Sprite as answers, with Faerie Seer, Augur of Bolas and Lórien Revealed to find cards."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Showcase Challenge sur Magic Online, au Fuguete Champ 299 et au TheSideralWolf #4",
+        "Une version à Murmuring Mystic a fini dans le top 8 du Super 50K de Mont CardShop"
+      ],
+      "en": [
+        "Won a Magic Online Showcase Challenge, Fuguete Champ 299 and TheSideralWolf #4",
+        "A Murmuring Mystic version made the top eight of the Super 50K at Mont CardShop"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Faeries",
+    "slug": "dimir-faeries",
+    "archetype": "tempo",
+    "titles": [
+      "Dimir Faeries"
+    ],
+    "rep": 862075,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Ninja of the Deep Hours",
+      "Faerie Seer",
+      "Lorien Revealed",
+      "Snuff Out",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-noir à fées : Faerie Seer et Spellstutter Sprite, Ninja of the Deep Hours et Lórien Revealed piochaient, Snuff Out et Cast Down répondaient.",
+      "en": "Blue-black faerie tempo: Faerie Seer and Spellstutter Sprite, Ninja of the Deep Hours and Lórien Revealed drawing cards, and Snuff Out and Cast Down as removal."
+    },
+    "why": {
+      "fr": [
+        "Deuxième à la NYC League S5 et au Sundy Tournament #4",
+        "Troisième au Common Island 2 de Leipzig"
+      ],
+      "en": [
+        "Second at NYC League S5 and Sundy Tournament #4",
+        "Third at Common Island 2 in Leipzig"
+      ]
+    }
+  },
+  {
+    "name": "Mono Blue Terror",
+    "slug": "dimir-terror",
+    "archetype": "tempo",
+    "titles": [
+      "Mono Blue Delver",
+      "Mono Blue Terror",
+      "Dimir Terror"
+    ],
+    "rep": 864730,
+    "cover": "Tolarian Terror",
+    "keyCards": [
+      "Tolarian Terror",
+      "Cryptic Serpent",
+      "Delver of Secrets",
+      "Thought Scour",
+      "Mental Note",
+      "Lorien Revealed"
+    ],
+    "summary": {
+      "fr": "Thought Scour et Mental Note remplissaient le cimetière : Tolarian Terror et Cryptic Serpent coûtaient peu, Delver of Secrets attaquait tôt, Counterspell et Dispel protégeaient.",
+      "en": "Thought Scour and Mental Note filled the graveyard so Tolarian Terror and Cryptic Serpent cost little, Delver of Secrets attacked early, and Counterspell and Dispel protected."
+    },
+    "why": {
+      "fr": [
+        "Felix Rodriguez a gagné le championnat d'Espagne 2026",
+        "Victoires aussi aux Super 40 et 42 de Barcelone"
+      ],
+      "en": [
+        "Felix Rodriguez won the 2026 Spanish Championship",
+        "Also won Super 40 and 42 in Barcelona"
+      ]
+    }
+  },
+  {
+    "name": "Gates",
+    "slug": "caw-gate",
+    "archetype": "control",
+    "titles": [
+      "Gates",
+      "Caw Gates",
+      "Naya Gates",
+      "Sneaky Gates"
+    ],
+    "rep": 844201,
+    "cover": "Guardian of the Guildpact",
+    "keyCards": [
+      "Guardian of the Guildpact",
+      "Basilisk Gate",
+      "Armadillo Cloak",
+      "Sacred Cat",
+      "Outlaw Medic",
+      "Gatecreeper Vine"
+    ],
+    "summary": {
+      "fr": "Les portails fixaient les couleurs et Basilisk Gate grossissait une créature ; Guardian of the Guildpact sous Armadillo Cloak, Sacred Cat et Outlaw Medic tenaient le terrain.",
+      "en": "The Gates fixed colors and Basilisk Gate pumped a creature; Guardian of the Guildpact wearing Armadillo Cloak, Sacred Cat and Outlaw Medic held the board."
+    },
+    "why": {
+      "fr": [
+        "Victoires en Showcase Challenge sur Magic Online en mai et en juillet",
+        "La version blanc-bleu à Squadron Hawk a gagné le Monthly Tournament #61"
+      ],
+      "en": [
+        "Won Magic Online Showcase Challenges in May and July",
+        "The white-blue Squadron Hawk version won Monthly Tournament #61"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Garden",
+    "slug": "golgari-garden",
+    "archetype": "midrange",
+    "titles": [
+      "Golgari / Jund Garden"
+    ],
+    "rep": 850322,
+    "cover": "Troll of Khazad-dum",
+    "keyCards": [
+      "Troll of Khazad-dum",
+      "Crypt Rats",
+      "Fanatical Offering",
+      "Eviscerator's Insight",
+      "Defile",
+      "Cast Down"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain noir : Defile, Cast Down et Crypt Rats contre les créatures, Fanatical Offering et Eviscerator's Insight pour piocher, Troll of Khazad-dûm frappait.",
+      "en": "Black midrange: Defile, Cast Down and Crypt Rats against creatures, Fanatical Offering and Eviscerator's Insight to draw, and Troll of Khazad-dûm attacking."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Super 30K de Mont CardShop, en RC Super Qualifier et à la Liga Madrileña",
+        "Campfire et Lembas en appui"
+      ],
+      "en": [
+        "Won the Super 30K at Mont CardShop, an RC Super Qualifier and the Liga Madrileña",
+        "Campfire and Lembas in support"
+      ]
+    }
+  },
+  {
+    "name": "Golgari Pestilence",
+    "slug": "pestilence",
+    "archetype": "control",
+    "titles": [
+      "Golgari Pestilence",
+      "Golgari Garden"
+    ],
+    "rep": 861684,
+    "cover": "Pestilence",
+    "keyCards": [
+      "Pestilence",
+      "Cauldron Familiar",
+      "Nutrient Block",
+      "Fanatical Offering",
+      "Lembas",
+      "Eviscerator's Insight"
+    ],
+    "summary": {
+      "fr": "Pestilence balayait les petites créatures, Fanatical Offering sacrifiait Nutrient Block et Cauldron Familiar, qui revenait, Lembas et Eviscerator's Insight piochaient.",
+      "en": "Pestilence swept small creatures, Fanatical Offering sacrificed Nutrient Block and Cauldron Familiar, which came back, and Lembas and Eviscerator's Insight drew cards."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au TheSideralWolf #3",
+        "Top 4 au Sundy Tournament #3"
+      ],
+      "en": [
+        "Second at TheSideralWolf #3",
+        "Top four at Sundy Tournament #3"
+      ]
+    }
+  },
+  {
+    "name": "White Weenie",
+    "slug": "white-weenie",
+    "archetype": "aggro",
+    "titles": [
+      "Weenie White"
+    ],
+    "rep": 847208,
+    "cover": "Battle Screech",
+    "keyCards": [
+      "Battle Screech",
+      "Kor Skyfisher",
+      "Novice Inspector",
+      "Raffine's Informant",
+      "Thraben Charm",
+      "Lunarch Veteran"
+    ],
+    "summary": {
+      "fr": "Petites créatures blanches : Lunarch Veteran et Raffine's Informant, Battle Screech et Kor Skyfisher en vol, Thraben Charm et Prismatic Strands en interaction.",
+      "en": "Small white creatures: Lunarch Veteran and Raffine's Informant, Battle Screech and Kor Skyfisher in the air, with Thraben Charm and Prismatic Strands for interaction."
+    },
+    "why": {
+      "fr": [
+        "A gagné un RC Qualifier sur Magic Online en mai",
+        "Deuxième au Paupergeddon d'été 2026"
+      ],
+      "en": [
+        "Won a Magic Online RC Qualifier in May",
+        "Second at the summer 2026 Paupergeddon"
+      ]
+    }
+  },
+  {
+    "name": "Ruby Storm",
+    "slug": "ruby-storm",
+    "archetype": "combo",
+    "titles": [
+      "RG Ruby Storm"
+    ],
+    "rep": 911682,
+    "cover": "Seething Song",
+    "keyCards": [
+      "Seething Song",
+      "Desperate Ritual",
+      "Goblin Anarchomancer",
+      "Thornscape Familiar",
+      "Glimpse the Impossible",
+      "Manamorphose"
+    ],
+    "summary": {
+      "fr": "Storm rouge-vert : Goblin Anarchomancer et Thornscape Familiar réduisaient les coûts, Desperate Ritual et Seething Song produisaient le mana, Seize the Storm finissait.",
+      "en": "Red-green storm: Goblin Anarchomancer and Thornscape Familiar reduced costs, Desperate Ritual and Seething Song made the mana, and Seize the Storm finished."
+    },
+    "why": {
+      "fr": [
+        "Matteo Chiurlia a gagné le Br(i)anza League Top Players Showdown",
+        "Top 4 au Paupergeddon de printemps à Lucca et au Super IPT Scream"
+      ],
+      "en": [
+        "Matteo Chiurlia won the Br(i)anza League Top Players Showdown",
+        "Top four at the spring Paupergeddon in Lucca and the Super IPT Scream"
+      ]
+    }
+  },
+  {
+    "name": "Boros Kitty",
+    "slug": "boros-kitty",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Aggro",
+      "Boros Synthesizer"
+    ],
+    "rep": 910747,
+    "cover": "Kor Skyfisher",
+    "keyCards": [
+      "Kor Skyfisher",
+      "Glint Hawk",
+      "Melded Moxite",
+      "Sneaky Snacker",
+      "Pursue the Past",
+      "Galvanic Blast"
+    ],
+    "summary": {
+      "fr": "Kor Skyfisher et Glint Hawk rejouaient Melded Moxite et les artefacts, Pursue the Past défaussait Sneaky Snacker pour piocher, Galvanic Blast dégageait.",
+      "en": "Kor Skyfisher and Glint Hawk replayed Melded Moxite and the artifacts, Pursue the Past discarded Sneaky Snacker to draw, and Galvanic Blast cleared the way."
+    },
+    "why": {
+      "fr": [
+        "A gagné la Sfida dei Campioni à Rome",
+        "La version à Experimental Synthesizer a gagné le Super Pauper Ingenio 37"
+      ],
+      "en": [
+        "Won the Sfida dei Campioni in Rome",
+        "The Experimental Synthesizer version won Super Pauper Ingenio 37"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Glintblade",
+    "slug": "orzhov-midrange",
+    "archetype": "midrange",
+    "titles": [
+      "Orzhov Glintblade"
+    ],
+    "rep": 896006,
+    "cover": "Glint Hawk",
+    "keyCards": [
+      "Glint Hawk",
+      "Kor Skyfisher",
+      "Refurbished Familiar",
+      "Tithing Blade",
+      "Novice Inspector",
+      "Thraben Charm"
+    ],
+    "summary": {
+      "fr": "Milieu de terrain blanc-noir : Glint Hawk et Kor Skyfisher rejouaient Lembas et Tithing Blade, Novice Inspector et Thraben Inspector apportaient des indices.",
+      "en": "White-black midrange: Glint Hawk and Kor Skyfisher replayed Lembas and Tithing Blade, while Novice Inspector and Thraben Inspector made Clues."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Stilyok x Koncekhod d'Endstep",
+        "Top 4 au Pauper Fog en Italie"
+      ],
+      "en": [
+        "Won Stilyok x Koncekhod at Endstep",
+        "Top four at Pauper Fog in Italy"
+      ]
+    }
+  },
+  {
+    "name": "Familiars",
+    "slug": "familiars",
+    "archetype": "combo",
+    "titles": [
+      "Ephemerate",
+      "Azorius Familiar"
+    ],
+    "rep": 848212,
+    "cover": "Nightscape Familiar",
+    "keyCards": [
+      "Nightscape Familiar",
+      "Archaeomancer",
+      "Fallaji Archaeologist",
+      "Snap",
+      "Ghostly Flicker",
+      "Cryogen Relic"
+    ],
+    "summary": {
+      "fr": "Nightscape Familiar réduisait le coût des sorts, Snap renvoyait une créature en déliant des terrains, Ghostly Flicker et Archaeomancer bouclaient, Fallaji Archaeologist piochait.",
+      "en": "Nightscape Familiar reduced spell costs, Snap bounced a creature while untapping lands, Ghostly Flicker and Archaeomancer looped, and Fallaji Archaeologist dug for cards."
+    },
+    "why": {
+      "fr": [
+        "Victoires au Super 39 de Barcelone, au Top Player Event de Lucca et au 14th God of Pauper",
+        "Tithing Blade et Grim Bauble en interaction"
+      ],
+      "en": [
+        "Won Super 39 in Barcelona, the Top Player Event in Lucca and the 14th God of Pauper",
+        "Tithing Blade and Grim Bauble for interaction"
+      ]
+    }
+  },
+  {
+    "name": "Faeries",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "Mono Blue Aggro",
+      "Mono Blue Faeries"
+    ],
+    "rep": 806718,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Moon-Circuit Hacker",
+      "Brinebarrow Intruder",
+      "Ninja of the Deep Hours",
+      "Faerie Seer",
+      "Of One Mind"
+    ],
+    "summary": {
+      "fr": "Tempo bleu à fées et ninjas : Faerie Seer, Faerie Miscreant et Spellstutter Sprite, Moon-Circuit Hacker et Ninja of the Deep Hours piochaient, Of One Mind ne coûtait presque rien.",
+      "en": "Blue faerie and ninja tempo: Faerie Seer, Faerie Miscreant and Spellstutter Sprite, Moon-Circuit Hacker and Ninja of the Deep Hours drawing cards, and a nearly free Of One Mind."
+    },
+    "why": {
+      "fr": [
+        "Matteo Versari a gagné le Super IPT Scream de Dungeon Street",
+        "Victoires aussi en RC Qualifier sur Magic Online et au Pauper with Purpose d'Essen"
+      ],
+      "en": [
+        "Matteo Versari won the Super IPT Scream at Dungeon Street",
+        "Also won a Magic Online RC Qualifier and Pauper with Purpose in Essen"
+      ]
+    }
+  },
+  {
+    "name": "Bogles",
+    "slug": "bogles",
+    "archetype": "aggro",
+    "titles": [
+      "Aura Hexproof"
+    ],
+    "rep": 864382,
+    "cover": "Slippery Bogle",
+    "keyCards": [
+      "Slippery Bogle",
+      "Gladecover Scout",
+      "Ethereal Armor",
+      "Ancestral Mask",
+      "Armadillo Cloak",
+      "Spirit Link"
+    ],
+    "summary": {
+      "fr": "Slippery Bogle et Gladecover Scout, qu'on ne peut pas cibler, recevaient Ethereal Armor, Ancestral Mask, Spirit Link et Armadillo Cloak ; Utopia Sprawl accélérait.",
+      "en": "Slippery Bogle and Gladecover Scout, which cannot be targeted, received Ethereal Armor, Ancestral Mask, Spirit Link and Armadillo Cloak; Utopia Sprawl accelerated."
+    },
+    "why": {
+      "fr": [
+        "Barbara Molinari a gagné le Summerismagic de Sarzana",
+        "Deuxième au TheSideralWolf #4"
+      ],
+      "en": [
+        "Barbara Molinari won Summerismagic in Sarzana",
+        "Second at TheSideralWolf #4"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Ephemerate",
+    "slug": "jeskai-ephemerate",
+    "archetype": "midrange",
+    "titles": [
+      "Jeskai Ephemerate",
+      "Snow Jeskai Ephemerate"
+    ],
+    "rep": 862074,
+    "cover": "Ephemerate",
+    "keyCards": [
+      "Ephemerate",
+      "Mulldrifter",
+      "Murmuring Mystic",
+      "Skred",
+      "Lorien Revealed",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Ephemerate rejouait Mulldrifter et Archaeomancer, Murmuring Mystic créait des oiseaux, Lórien Revealed piochait, Counterspell et Skred répondaient.",
+      "en": "Ephemerate replayed Mulldrifter and Archaeomancer, Murmuring Mystic made birds, Lórien Revealed drew cards, and Counterspell and Skred answered threats."
+    },
+    "why": {
+      "fr": [
+        "Victoires à la NYC League S5 et à la Central Liga Gaucha",
+        "Deuxième au London Showdown #4 et en Showcase Challenge"
+      ],
+      "en": [
+        "Won NYC League S5 and the Central Liga Gaucha",
+        "Second at London Showdown #4 and in a Showcase Challenge"
+      ]
+    }
+  },
+  {
+    "name": "Kiln Fiend",
+    "slug": "kiln-fiend",
+    "archetype": "combo",
+    "titles": [
+      "Hot Dogs"
+    ],
+    "rep": 892065,
+    "cover": "Kiln Fiend",
+    "keyCards": [
+      "Kiln Fiend",
+      "Satyr Hoplite",
+      "Immolating Souleater",
+      "Furor of the Bitten",
+      "Brute Force",
+      "Temur Battle Rage"
+    ],
+    "summary": {
+      "fr": "Kiln Fiend et Satyr Hoplite grossissaient à chaque sort, Furor of the Bitten, Brute Force et Mutagenic Growth les renforçaient, Temur Battle Rage doublait les dégâts.",
+      "en": "Kiln Fiend and Satyr Hoplite grew with each spell, Furor of the Bitten, Brute Force and Mutagenic Growth pumped them, and Temur Battle Rage doubled the damage."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au C'mon Magic Katowice et au 13th God of Pauper",
+        "Simian Spirit Guide accélérait"
+      ],
+      "en": [
+        "Top four at C'mon Magic Katowice and the 13th God of Pauper",
+        "Simian Spirit Guide accelerated"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Sacrifice",
+    "slug": "aristocrats",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Black Aggro",
+      "Mono Black Sacrifice"
+    ],
+    "rep": 911683,
+    "cover": "Carrion Feeder",
+    "keyCards": [
+      "Carrion Feeder",
+      "Mortician Beetle",
+      "Nested Shambler",
+      "Nezumi Linkbreaker",
+      "Village Rites",
+      "Shambling Ghast"
+    ],
+    "summary": {
+      "fr": "Noir à sacrifice : Village Rites et Bloodthrone Vampire sacrifiaient Nested Shambler et Nezumi Linkbreaker, qui laissaient des jetons, Carrion Feeder et Mortician Beetle grossissaient.",
+      "en": "Black sacrifice: Village Rites and Bloodthrone Vampire sacrificed Nested Shambler and Nezumi Linkbreaker, which left tokens, while Carrion Feeder and Mortician Beetle grew."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Br(i)anza League Top Players Showdown et à PauperNATION",
+        "Top 4 en RC Super Qualifier sur Magic Online"
+      ],
+      "en": [
+        "Second at the Br(i)anza League Top Players Showdown and PauperNATION",
+        "Top four in a Magic Online RC Super Qualifier"
+      ]
+    }
+  },
+  {
+    "name": "Tireless Tribe",
+    "slug": "tireless-tribe",
+    "archetype": "combo",
+    "titles": [
+      "Tireless Tribe",
+      "Boros Tribe"
+    ],
+    "rep": 900505,
+    "cover": "Tireless Tribe",
+    "keyCards": [
+      "Tireless Tribe",
+      "Inside Out",
+      "Aurora Eidolon",
+      "Pursue the Past",
+      "Thrilling Discovery",
+      "Sneaky Snacker"
+    ],
+    "summary": {
+      "fr": "Tireless Tribe défaussait des cartes pour gagner en endurance et Inside Out échangeait force et endurance ; Pursue the Past et Thrilling Discovery défaussaient en piochant.",
+      "en": "Tireless Tribe discarded cards to gain toughness and Inside Out switched its power and toughness; Pursue the Past and Thrilling Discovery discarded while drawing."
+    },
+    "why": {
+      "fr": [
+        "Une version Boros a gagné le Pauperstruck 2026 à Piacenza",
+        "Top 4 au Sundy Tournament #3"
+      ],
+      "en": [
+        "A Boros version won Pauperstruck 2026 in Piacenza",
+        "Top four at Sundy Tournament #3"
+      ]
+    }
+  },
+  {
+    "name": "Turbo Fog",
+    "slug": "turbo-fog",
+    "archetype": "control",
+    "titles": [
+      "Turbo Fog",
+      "BG Fog Gates"
+    ],
+    "rep": 859535,
+    "cover": "Moment's Peace",
+    "keyCards": [
+      "Moment's Peace",
+      "Weather the Storm",
+      "Tangle",
+      "Growth Spiral",
+      "Arcane Denial",
+      "Lorien Revealed"
+    ],
+    "summary": {
+      "fr": "Moment's Peace, Weather the Storm et Tangle empêchaient les attaques tour après tour, Lórien Revealed et Behold the Multiverse piochaient, Arcane Denial contrait.",
+      "en": "Moment's Peace, Weather the Storm and Tangle stopped attacks turn after turn, Lórien Revealed and Behold the Multiverse drew cards, and Arcane Denial countered."
+    },
+    "why": {
+      "fr": [
+        "Top 4 en Showcase Challenge sur Magic Online et au Next Level Tour de São Paulo",
+        "Growth Spiral et Embrace the Paradox accéléraient"
+      ],
+      "en": [
+        "Top four in a Magic Online Showcase Challenge and at the Next Level Tour in São Paulo",
+        "Growth Spiral and Embrace the Paradox accelerated"
+      ]
+    }
+  },
+  {
+    "name": "Gruul Ramp",
+    "slug": "jund",
+    "archetype": "midrange",
+    "titles": [
+      "Gruul Aggro",
+      "Gruul Midrange"
+    ],
+    "rep": 850324,
+    "cover": "Writhing Chrysalis",
+    "keyCards": [
+      "Writhing Chrysalis",
+      "Jewel Thief",
+      "Avenging Hunter",
+      "Bannerhide Krushok",
+      "Nyxborn Hydra",
+      "Utopia Sprawl"
+    ],
+    "summary": {
+      "fr": "Rampe vert-rouge : Utopia Sprawl, Wild Growth et Arbor Elf accéléraient Writhing Chrysalis, Jewel Thief, Bannerhide Krushok et Nyxborn Hydra.",
+      "en": "Red-green ramp: Utopia Sprawl, Wild Growth and Arbor Elf powered out Writhing Chrysalis, Jewel Thief, Bannerhide Krushok and Nyxborn Hydra."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Super 30K de Mont CardShop",
+        "Top 8 au Pauperfest 3.0 de Milan et au Super 50K"
+      ],
+      "en": [
+        "Top four at the Super 30K at Mont CardShop",
+        "Top eights at Pauperfest 3.0 in Milan and the Super 50K"
+      ]
+    }
+  },
+  {
+    "name": "Gruul Ponza",
+    "slug": "land-destruction",
+    "archetype": "control",
+    "titles": [
+      "Rg"
+    ],
+    "rep": 907178,
+    "cover": "Mwonvuli Acid-Moss",
+    "keyCards": [
+      "Mwonvuli Acid-Moss",
+      "Writhing Chrysalis",
+      "Jewel Thief",
+      "Avenging Hunter",
+      "Boarding Party",
+      "Utopia Sprawl"
+    ],
+    "summary": {
+      "fr": "Destruction de terrains vert-rouge : Utopia Sprawl et Arbor Elf accéléraient Mwonvuli Acid-Moss, Writhing Chrysalis, Jewel Thief et Boarding Party frappaient.",
+      "en": "Red-green land destruction: Utopia Sprawl and Arbor Elf powered out Mwonvuli Acid-Moss, and Writhing Chrysalis, Jewel Thief and Boarding Party attacked."
+    },
+    "why": {
+      "fr": [
+        "A gagné la Halloween Cup d'Endstep",
+        "Ram Through servait de réponse"
+      ],
+      "en": [
+        "Won the Halloween Cup at Endstep",
+        "Ram Through served as removal"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Terror",
+    "slug": "izzet-terror",
+    "archetype": "tempo",
+    "titles": [
+      "UR Control",
+      "Ur Terror"
+    ],
+    "rep": 854001,
+    "cover": "Tolarian Terror",
+    "keyCards": [
+      "Tolarian Terror",
+      "Skred",
+      "Murmuring Mystic",
+      "Lorien Revealed",
+      "Spell Pierce",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge enneigé : Tolarian Terror et Murmuring Mystic, Skred et Breath Weapon contre les créatures, Lórien Revealed et Counterspell.",
+      "en": "Snow blue-red tempo: Tolarian Terror and Murmuring Mystic, Skred and Breath Weapon against creatures, with Lórien Revealed and Counterspell."
+    },
+    "why": {
+      "fr": [
+        "Roger Estrada a gagné le Super Ingenio 35 de Barcelone",
+        "Top 4 à la Central Liga Gaucha et au Super Ingenio 43"
+      ],
+      "en": [
+        "Roger Estrada won Super Ingenio 35 in Barcelona",
+        "Top four at the Central Liga Gaucha and Super Ingenio 43"
+      ]
+    }
+  },
+  {
+    "name": "Heroic",
+    "slug": "heroic",
+    "archetype": "aggro",
+    "titles": [
+      "WW Heroics"
+    ],
+    "rep": 850780,
+    "cover": "Lagonna-Band Trailblazer",
+    "keyCards": [
+      "Lagonna-Band Trailblazer",
+      "Akroan Skyguard",
+      "Skyward Spider",
+      "Ethereal Armor",
+      "Hyena Umbra",
+      "Benevolent Blessing"
+    ],
+    "summary": {
+      "fr": "Héroïque blanc : Lagonna-Band Trailblazer et Akroan Skyguard grossissaient à chaque sort ciblé, Ethereal Armor et Hyena Umbra s'accumulaient, Benevolent Blessing protégeait.",
+      "en": "White heroic: Lagonna-Band Trailblazer and Akroan Skyguard grew with each targeted spell, Ethereal Armor and Hyena Umbra stacked up, and Benevolent Blessing protected."
+    },
+    "why": {
+      "fr": [
+        "A gagné l'IPT Focaccia de Gênes",
+        "Spirit Link rendait des points de vie"
+      ],
+      "en": [
+        "Won IPT Focaccia in Genoa",
+        "Spirit Link gained life"
+      ]
+    }
+  },
+  {
+    "name": "Cycling Storm",
+    "slug": "cycling-storm",
+    "archetype": "combo",
+    "titles": [
+      "Reaping the Song"
+    ],
+    "rep": 863572,
+    "cover": "Songs of the Damned",
+    "keyCards": [
+      "Songs of the Damned",
+      "Reaping the Graves",
+      "Drannith Stinger",
+      "Imposing Vantasaur",
+      "Street Wraith",
+      "Dark Ritual"
+    ],
+    "summary": {
+      "fr": "Street Wraith, Monstrous Carabid et Imposing Vantasaur se cyclaient, Drannith Stinger infligeait un dégât à chaque cycle, Songs of the Damned alimentait Reaping the Graves en tempête.",
+      "en": "Street Wraith, Monstrous Carabid and Imposing Vantasaur cycled, Drannith Stinger dealt damage with each cycle, and Songs of the Damned fueled Reaping the Graves with storm."
+    },
+    "why": {
+      "fr": [
+        "A gagné un RC Super Qualifier sur Magic Online en juin",
+        "Dark Ritual, Cabal Ritual et Lotus Petal accéléraient"
+      ],
+      "en": [
+        "Won a Magic Online RC Super Qualifier in June",
+        "Dark Ritual, Cabal Ritual and Lotus Petal accelerated"
+      ]
+    }
+  }
+]

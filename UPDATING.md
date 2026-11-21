@@ -1,6 +1,6 @@
 # UPDATING.md — Weekly incremental update
 
-How to add the latest tournaments to every published format (Standard, Modern, Premodern, Limited) without
+How to add the latest tournaments to every published format (Standard, Pioneer, Modern, Legacy, Vintage, Pauper, Premodern, Limited) without
 redoing the history. A scheduled Claude session runs this every Monday and pushes to `main`
 directly (the owner's choice: no pull request). A human can run it the same way.
 
@@ -34,7 +34,7 @@ If no format has new results and nothing is pending that qualifies, stop here: n
 
 ## 2. Open a new season (when announced)
 
-- Modern, Premodern: one season per calendar year. Add `["2027", "2027-01-01", "<latest set>"]` to
+- Pioneer, Modern, Legacy, Vintage, Pauper, Premodern: one season per calendar year. Add `["2027", "2027-01-01", "<latest set>"]` to
   `scripts/pipeline/seasons.{format}.json` and `{ id: '2027', start: '2027-01-01', set: …, bans: [] }`
   to `src/data/{format}/seasons.ts`.
 - Standard: a season opens with the first expansion released on or after August 1 (Wilds of
@@ -64,6 +64,9 @@ Inclusion rule, after merging titles into real archetypes:
 | Standard | top 8 ≥ 3, or an event win, or a top 4 at a Pro Tour / Worlds / Regional Championship |
 | Modern | top 8 ≥ 5, or won a Pro Tour / World / Regional Championship (or equivalent), or a top 4 at a Pro Tour / Worlds |
 | Premodern | top 8 ≥ 4, or won a 64+ player or Professional/Major-level event |
+| Legacy | top 8 ≥ 3, or won a Professional/Major-level event |
+| Vintage | top 8 ≥ 5, or won a Professional/Major-level event |
+| Pauper | top 8 ≥ 3, or won a Professional/Major-level event |
 
 Do not rewrite the texts of existing decks unless a new fact makes them wrong (a deck that "never
 won an event" just won one). Never type statistics: the site computes them.
@@ -81,7 +84,8 @@ the editorial rules of `AGENTS.md` (section Limited). `build_limited.py --check 
 ## 4. Bans
 
 Check for Banned & Restricted announcements since the last ban in `src/data/{format}/seasons.ts`:
-magic.gg (Standard, Modern) and premodernmagic.com/blog (Premodern). Add each one with its source
+magic.gg (Standard, Pioneer, Modern, Legacy, Vintage, Pauper) and premodernmagic.com/blog
+(Premodern). Vintage restrictions take `restricted: true`. Add each one with its source
 URL in a comment, in the season whose dates contain it.
 
 ## 5. Build, check, publish
