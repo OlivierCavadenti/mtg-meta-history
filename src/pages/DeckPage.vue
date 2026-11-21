@@ -112,6 +112,8 @@ watchEffect(() => {
             {{ t('archetypeHistory') }} {{ lineage.name }} ({{ lineage.entries.length }} {{ deck.limited || deck.sources ? t('setsPlural') : t('seasonsPlural') }}) →
           </router-link>
         </p>
+        <!-- current price, in the room the hero art leaves beside the text -->
+        <DeckPrice v-if="tournament && deck.list.main.length" :list="deck.list" :format="formatId" />
       </div>
       <figure class="hero-art">
         <div class="hero-window">
@@ -160,7 +162,6 @@ watchEffect(() => {
     </div>
     <template v-if="tab === 'sample' || !hasAllLists">
       <DeckList v-if="deck.list.main.length" :list="deck.list" :cards="cards" :season="deck.season" :side-label="deck.limited ? t('restOfPool') : undefined" />
-      <DeckPrice v-if="tournament && deck.list.main.length" :list="deck.list" :format="formatId" />
     </template>
     <DeckResults v-else :deck="deck" :format="formatId" :cards="cards" />
 
@@ -298,6 +299,7 @@ h1 {
 .hero-text > :nth-child(3) { animation-delay: 120ms; }
 .hero-text > :nth-child(4) { animation-delay: 180ms; }
 .hero-text > :nth-child(5) { animation-delay: 240ms; }
+.hero-text > :nth-child(n + 6) { animation-delay: 300ms; }
 
 @keyframes rise {
   from {

@@ -183,11 +183,11 @@ const STRINGS = {
   setsPlural: { fr: 'extensions', en: 'sets' },
   // deck page: current price and stores
   priceTitle: { fr: 'Ce deck aujourd’hui', en: 'This deck today' },
-  priceNoteA: { fr: 'Cotes Scryfall du', en: 'Scryfall prices of' },
+  priceNoteA: { fr: 'Prix actuels, cotes Scryfall du', en: 'Current prices, Scryfall data of' },
   priceNoteB: { fr: 'impression la moins chère de chaque carte, sideboard compris', en: 'cheapest printing of each card, sideboard included' },
   buyArrow: { fr: 'Acheter →', en: 'Buy →' },
-  copyOpen: { fr: 'Copier et ouvrir →', en: 'Copy and open →' },
-  copiedPaste: { fr: 'Liste copiée, à coller', en: 'List copied, paste it' },
+  copyOpen: { fr: 'Copier →', en: 'Copy →' },
+  copiedPaste: { fr: 'Liste copiée', en: 'List copied' },
   cardmarketTitle: {
     fr: 'Copie la liste et ouvre les listes d’envies de Cardmarket, où la coller',
     en: 'Copies the list and opens Cardmarket wants lists, where to paste it',

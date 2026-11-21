@@ -53,8 +53,7 @@ function onClick(tile: Tile) {
 </script>
 
 <template>
-  <section v-if="priced" class="price">
-    <h2>{{ t('priceTitle') }}</h2>
+  <section v-if="priced" class="price" :aria-label="t('priceTitle')">
     <div class="tiles">
       <a
         v-for="tile in tiles"
@@ -78,20 +77,14 @@ function onClick(tile: Tile) {
 </template>
 
 <style scoped>
+/* sits in the deck page's hero, under the record line: compact squares */
 .price {
-  margin-top: var(--space-xl);
-}
-
-h2 {
-  font-size: 1.35rem;
-  border-top: 1px solid var(--ink);
-  padding-top: var(--space-xs);
-  margin-bottom: var(--space-md);
+  margin-top: var(--space-lg);
 }
 
 .tiles {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 11rem));
+  grid-template-columns: repeat(3, minmax(0, 8.5rem));
   gap: var(--space-sm);
 }
 
@@ -115,14 +108,14 @@ h2 {
 .store {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 0.98rem;
 }
 
 .amount {
   margin-top: auto;
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.9rem;
+  font-size: 1.55rem;
   line-height: 1;
   font-variant-numeric: lining-nums;
 }
@@ -131,7 +124,7 @@ h2 {
   font-family: var(--font-body);
   font-weight: 400;
   font-style: italic;
-  font-size: 1rem;
+  font-size: 0.92rem;
   color: var(--muted);
 }
 
@@ -144,14 +137,15 @@ h2 {
 
 .action {
   margin-top: auto;
-  font-size: 0.92rem;
+  font-size: 0.86rem;
+  white-space: nowrap;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
 .caption {
-  margin-top: var(--space-sm);
-  font-size: 0.9rem;
+  margin-top: var(--space-xs);
+  font-size: 0.85rem;
   font-style: italic;
   color: var(--muted);
 }
@@ -168,6 +162,10 @@ h2 {
 
   .amount {
     font-size: 1.35rem;
+  }
+
+  .amount--none {
+    font-size: 0.85rem;
   }
 }
 
