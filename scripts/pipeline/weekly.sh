@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Incremental update of every published format (see UPDATING.md).
 #   bash scripts/pipeline/weekly.sh refresh   # Scryfall + new mtgtop8 results + candidates + what is pending
-#   bash scripts/pipeline/weekly.sh build     # after the editorial pass: check, build, validate
+#   bash scripts/pipeline/weekly.sh build     # after the editorial pass: check, build, prices, validate
+#   bash scripts/pipeline/weekly.sh prices    # current card prices only (Scryfall bulk, refreshed daily)
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 FORMATS="${MTG_FORMATS:-standard pioneer modern legacy vintage pauper premodern limited}"
@@ -41,15 +42,24 @@ case "${1:-}" in
       for s in $(cat .pipeline/recent); do
         MTG_FORMAT=$f python3 $P/check_editorial.py "$s" || status=1
       done
+      # lists of the new results, for the deck pages' "All decklists" tab (older ones are published)
+      MTG_FORMAT=$f python3 $P/fetch_result_lists.py $(cat .pipeline/recent) | tail -1
       MTG_FORMAT=$f python3 $P/build.py | tee .pipeline/build-$f.log | grep -E 'WARN|SKIP|missing \[[^]]' || true
     done
+    # current card prices of every built format (Scryfall bulk downloaded by refresh)
+    python3 $P/prices.py > .pipeline/prices.log || { cat .pipeline/prices.log; status=1; }
     npm run --silent validate:content || status=1
     npm run --silent typecheck || status=1
     npm run --silent build > .pipeline/vite.log 2>&1 || { tail -20 .pipeline/vite.log; status=1; }
     exit $status
     ;;
+  prices)
+    python3 $P/fetch_scryfall.py
+    python3 $P/prices.py
+    npm run --silent validate:content
+    ;;
   *)
-    echo "usage: $0 refresh|build" >&2
+    echo "usage: $0 refresh|build|prices" >&2
     exit 2
     ;;
 esac
