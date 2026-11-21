@@ -1,0 +1,696 @@
+[
+  {
+    "name": "Tron",
+    "slug": "tron",
+    "archetype": "control",
+    "titles": [
+      "Urzatron",
+      "Dinrova Tron",
+      "Tron"
+    ],
+    "rep": 363444,
+    "cover": "Stonehorn Dignitary",
+    "keyCards": [
+      "Stonehorn Dignitary",
+      "Ghostly Flicker",
+      "Mnemonic Wall",
+      "Ephemerate",
+      "Expedition Map",
+      "Mulldrifter"
+    ],
+    "summary": {
+      "fr": "Expedition Map trouvait les terrains Urza ; Ghostly Flicker et Mnemonic Wall rejouaient Stonehorn Dignitary pour priver l'adversaire de combat, Ephemerate de Modern Horizons s'y ajoutait.",
+      "en": "Expedition Map found the Urza lands; Ghostly Flicker and Mnemonic Wall replayed Stonehorn Dignitary to deny the opponent combat, and Ephemerate from Modern Horizons joined in."
+    },
+    "why": {
+      "fr": [
+        "L'archétype le plus présent dans les top 8 de l'année",
+        "Mirco Ciavatta a gagné le Paupergeddon de Pise en version Dinrova"
+      ],
+      "en": [
+        "The most frequent archetype in the year's top eights",
+        "Mirco Ciavatta won the Paupergeddon in Pisa with the Dinrova version"
+      ]
+    }
+  },
+  {
+    "name": "Burn",
+    "slug": "burn",
+    "archetype": "aggro",
+    "titles": [
+      "Burn"
+    ],
+    "rep": 362693,
+    "cover": "Fireblast",
+    "keyCards": [
+      "Fireblast",
+      "Lightning Bolt",
+      "Ghitu Lavarunner",
+      "Skewer the Critics",
+      "Thermo-Alchemist",
+      "Searing Blaze"
+    ],
+    "summary": {
+      "fr": "Rouge à brûlures : Lightning Bolt, Chain Lightning, Rift Bolt et Skewer the Critics, Thermo-Alchemist et Ghitu Lavarunner, Fireblast pour finir.",
+      "en": "Red burn: Lightning Bolt, Chain Lightning, Rift Bolt and Skewer the Critics, Thermo-Alchemist and Ghitu Lavarunner, and Fireblast to finish."
+    },
+    "why": {
+      "fr": [
+        "Deuxième au Paupergeddon de Milan en février",
+        "Victoires en Pauper Challenge et au 5k Pauper d'Ongkeco's Hobby Shop"
+      ],
+      "en": [
+        "Second at the Paupergeddon in Milan in February",
+        "Won a Pauper Challenge and the 5k Pauper at Ongkeco's Hobby Shop"
+      ]
+    }
+  },
+  {
+    "name": "Jeskai Snow",
+    "slug": "jeskai-ephemerate",
+    "archetype": "midrange",
+    "titles": [
+      "Snow Jeskai Midrange",
+      "Jeskai Snow",
+      "Jeskai Midrange",
+      "Jeskay Rolle"
+    ],
+    "rep": 359935,
+    "cover": "Arcum's Astrolabe",
+    "keyCards": [
+      "Arcum's Astrolabe",
+      "Ephemerate",
+      "Mulldrifter",
+      "Kor Skyfisher",
+      "Archaeomancer",
+      "Skred"
+    ],
+    "summary": {
+      "fr": "Arcum's Astrolabe, de Modern Horizons, fixait trois couleurs sur des terrains enneigés ; Ephemerate et Kor Skyfisher rejouaient Mulldrifter et Archaeomancer, Skred et Counterspell répondaient.",
+      "en": "Arcum's Astrolabe, from Modern Horizons, fixed three colors on snow lands; Ephemerate and Kor Skyfisher replayed Mulldrifter and Archaeomancer, with Skred and Counterspell as answers."
+    },
+    "why": {
+      "fr": [
+        "Cinq victoires en Pauper Challenge sur Magic Online de juillet à octobre",
+        "Arcum's Astrolabe a été banni en octobre 2019"
+      ],
+      "en": [
+        "Five Magic Online Pauper Challenge wins from July to October",
+        "Arcum's Astrolabe was banned in October 2019"
+      ]
+    }
+  },
+  {
+    "name": "Elves",
+    "slug": "elves",
+    "archetype": "combo",
+    "titles": [
+      "Elves"
+    ],
+    "rep": 366701,
+    "cover": "Lys Alana Huntmaster",
+    "keyCards": [
+      "Lys Alana Huntmaster",
+      "Birchlore Rangers",
+      "Timberwatch Elf",
+      "Distant Melody",
+      "Lead the Stampede",
+      "Quirion Ranger"
+    ],
+    "summary": {
+      "fr": "Elfes producteurs de mana, Birchlore Rangers et Priest of Titania ; Distant Melody et Lead the Stampede rechargeaient la main, Timberwatch Elf grossissait l'attaquant.",
+      "en": "Mana-producing elves, Birchlore Rangers and Priest of Titania; Distant Melody and Lead the Stampede refilled the hand, and Timberwatch Elf pumped the attacker."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper Format Playoff sur Magic Online en décembre",
+        "Victoires aussi au Cookie Qualifier de Mr. Nice Guy Games et en Pauper Challenge"
+      ],
+      "en": [
+        "Won a Magic Online Pauper Format Playoff in December",
+        "Also won the Cookie Qualifier at Mr. Nice Guy Games and Pauper Challenges"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Delver",
+    "slug": "dimir-delver",
+    "archetype": "tempo",
+    "titles": [
+      "UB Delver",
+      "Dimir Delver",
+      "Ub Delver"
+    ],
+    "rep": 339672,
+    "cover": "Gurmag Angler",
+    "keyCards": [
+      "Gurmag Angler",
+      "Delver of Secrets",
+      "Gush",
+      "Daze",
+      "Foil",
+      "Gitaxian Probe"
+    ],
+    "summary": {
+      "fr": "Delver of Secrets et Gurmag Angler, avec Gush, Daze et Gitaxian Probe jusqu'à leur bannissement en mai ; Foil et Snuff Out ne coûtaient pas de mana non plus.",
+      "en": "Delver of Secrets and Gurmag Angler, with Gush, Daze and Gitaxian Probe until their ban in May; Foil and Snuff Out cost no mana either."
+    },
+    "why": {
+      "fr": [
+        "Matheus Sesso Bonella a gagné la finale du 12e CLM de LigaMagic à São Paulo",
+        "Samuele Dagani a gagné le Pauper One V3 à Brescia"
+      ],
+      "en": [
+        "Matheus Sesso Bonella won the 12th CLM final at LigaMagic in São Paulo",
+        "Samuele Dagani won Pauper One V3 in Brescia"
+      ]
+    }
+  },
+  {
+    "name": "Boros Kitty",
+    "slug": "boros-kitty",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Metalcraft",
+      "Boros Monarch",
+      "Rw Monarch",
+      "Boros"
+    ],
+    "rep": 362424,
+    "cover": "Kor Skyfisher",
+    "keyCards": [
+      "Kor Skyfisher",
+      "Glint Hawk",
+      "Palace Sentinels",
+      "Thraben Inspector",
+      "Okiba-Gang Shinobi",
+      "Galvanic Blast"
+    ],
+    "summary": {
+      "fr": "Kor Skyfisher et Glint Hawk renvoyaient en main Prophetic Prism et Alchemist's Vial pour les rejouer, Palace Sentinels apportait le monarque, Galvanic Blast et Lightning Bolt dégageaient.",
+      "en": "Kor Skyfisher and Glint Hawk returned Prophetic Prism and Alchemist's Vial to hand to replay them, Palace Sentinels brought the monarch, and Galvanic Blast and Lightning Bolt cleared the way."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper PTQ et un Pauper Format Playoff sur Magic Online en octobre",
+        "Victoire aussi au RIW Hobbies Spring 1k"
+      ],
+      "en": [
+        "Won a Magic Online Pauper PTQ and a Pauper Format Playoff in October",
+        "Also won the RIW Hobbies Spring 1k"
+      ]
+    }
+  },
+  {
+    "name": "Stompy",
+    "slug": "stompy",
+    "archetype": "aggro",
+    "titles": [
+      "Mono Green Aggro",
+      "Mono Green Stompy",
+      "G Stompy",
+      "Mono G Stompy"
+    ],
+    "rep": 365806,
+    "cover": "Savage Swipe",
+    "keyCards": [
+      "Savage Swipe",
+      "Nettle Sentinel",
+      "Burning-Tree Emissary",
+      "Rancor",
+      "Hunger of the Howlpack",
+      "Elephant Guide"
+    ],
+    "summary": {
+      "fr": "Vert agressif : Nettle Sentinel, Burning-Tree Emissary et Nest Invader dès les premiers tours, Rancor et Elephant Guide pour frapper fort, Savage Swipe de l'édition 2020 pour combattre.",
+      "en": "Green aggro: Nettle Sentinel, Burning-Tree Emissary and Nest Invader in the first turns, Rancor and Elephant Guide to hit hard, and Savage Swipe from Core Set 2020 to fight."
+    },
+    "why": {
+      "fr": [
+        "Sept victoires en Pauper Challenge sur Magic Online",
+        "Victoires aussi au BGA Fest Pauper 50k de Moscou et au Pauper HUB de Latina"
+      ],
+      "en": [
+        "Seven Magic Online Pauper Challenge wins",
+        "Also won the BGA Fest Pauper 50k in Moscow and the Pauper HUB in Latina"
+      ]
+    }
+  },
+  {
+    "name": "Affinity",
+    "slug": "affinity",
+    "archetype": "aggro",
+    "titles": [
+      "Affinity"
+    ],
+    "rep": 351993,
+    "cover": "Atog",
+    "keyCards": [
+      "Atog",
+      "Myr Enforcer",
+      "Frogmite",
+      "Thoughtcast",
+      "Carapace Forger",
+      "Fling"
+    ],
+    "summary": {
+      "fr": "Les terrains-artefacts rendaient Frogmite, Myr Enforcer et Thoughtcast presque gratuits ; Atog sacrifiait les artefacts pour grossir, Fling le lançait sur l'adversaire.",
+      "en": "Artifact lands made Frogmite, Myr Enforcer and Thoughtcast nearly free; Atog sacrificed the artifacts to grow, and Fling threw it at the opponent."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper Format Playoff sur Magic Online en juillet",
+        "Victoire aussi à l'Utrecht Pauper Series II"
+      ],
+      "en": [
+        "Won a Magic Online Pauper Format Playoff in July",
+        "Also won Utrecht Pauper Series II"
+      ]
+    }
+  },
+  {
+    "name": "Izzet Faeries",
+    "slug": "delver",
+    "archetype": "tempo",
+    "titles": [
+      "UR Skred",
+      "Ur Skred",
+      "Izzet Faeries",
+      "Izzet Skred",
+      "Mono Blue Aggro",
+      "Mono U Delver",
+      "Ur Delver"
+    ],
+    "rep": 368830,
+    "cover": "Spellstutter Sprite",
+    "keyCards": [
+      "Spellstutter Sprite",
+      "Ninja of the Deep Hours",
+      "Faerie Seer",
+      "Skred",
+      "Augur of Bolas",
+      "Counterspell"
+    ],
+    "summary": {
+      "fr": "Tempo bleu-rouge à fées : Spellstutter Sprite et Faerie Seer, Ninja of the Deep Hours piochait, Skred profitait des terrains enneigés ; Delver of Secrets restait dans la version bleue.",
+      "en": "Blue-red faerie tempo: Spellstutter Sprite and Faerie Seer, Ninja of the Deep Hours drawing cards, Skred using snow lands; Delver of Secrets stayed in the mono blue version."
+    },
+    "why": {
+      "fr": [
+        "Matteo Duchj a gagné le Pauperwar 2019 Last Players à Rolo",
+        "Victoires aussi au Paupergeddon de Rome et au Rags to Riches XXIV à Seattle"
+      ],
+      "en": [
+        "Matteo Duchj won Pauperwar 2019 Last Players in Rolo",
+        "Also won the Paupergeddon in Rome and Rags to Riches XXIV in Seattle"
+      ]
+    }
+  },
+  {
+    "name": "Boros Tokens",
+    "slug": "boros-bully",
+    "archetype": "midrange",
+    "titles": [
+      "Boros Tokens"
+    ],
+    "rep": 367940,
+    "cover": "Battle Screech",
+    "keyCards": [
+      "Battle Screech",
+      "Squadron Hawk",
+      "Faithless Looting",
+      "Seeker of the Way",
+      "Rally the Peasants",
+      "Prismatic Strands"
+    ],
+    "summary": {
+      "fr": "Battle Screech et Squadron Hawk mettaient des volants en jeu, Faithless Looting défaussait Battle Screech pour sa rétrospective, Rally the Peasants finissait.",
+      "en": "Battle Screech and Squadron Hawk put fliers into play, Faithless Looting discarded Battle Screech for its flashback, and Rally the Peasants finished."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper Challenge sur Magic Online en décembre",
+        "Deuxième deux fois en Pauper Challenge le même mois"
+      ],
+      "en": [
+        "Won a Magic Online Pauper Challenge in December",
+        "Second twice in Pauper Challenges the same month"
+      ]
+    }
+  },
+  {
+    "name": "Orzhov Pestilence",
+    "slug": "pestilence",
+    "archetype": "control",
+    "titles": [
+      "Orzhov Pestilence"
+    ],
+    "rep": 347781,
+    "cover": "Pestilence",
+    "keyCards": [
+      "Pestilence",
+      "Guardian of the Guildpact",
+      "Pristine Talisman",
+      "Castigate",
+      "Chainer's Edict",
+      "Night's Whisper"
+    ],
+    "summary": {
+      "fr": "Contrôle blanc-noir : Pestilence balayait les petites créatures, Guardian of the Guildpact survivait, Pristine Talisman rendait des points de vie, Castigate attaquait la main.",
+      "en": "White-black control: Pestilence swept small creatures, Guardian of the Guildpact survived, Pristine Talisman gained life, and Castigate attacked the hand."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper Challenge sur Magic Online en mai",
+        "Deuxième aussi en Pauper Challenge le même mois"
+      ],
+      "en": [
+        "Won a Magic Online Pauper Challenge in May",
+        "Also second in a Pauper Challenge the same month"
+      ]
+    }
+  },
+  {
+    "name": "Bogles",
+    "slug": "bogles",
+    "archetype": "aggro",
+    "titles": [
+      "Aura Hexproof",
+      "Bogles"
+    ],
+    "rep": 342178,
+    "cover": "Slippery Bogle",
+    "keyCards": [
+      "Slippery Bogle",
+      "Gladecover Scout",
+      "Ethereal Armor",
+      "Ancestral Mask",
+      "Armadillo Cloak",
+      "Utopia Sprawl"
+    ],
+    "summary": {
+      "fr": "Slippery Bogle et Gladecover Scout, qu'on ne peut pas cibler, recevaient Ethereal Armor, Ancestral Mask, Rancor et Armadillo Cloak ; Utopia Sprawl accélérait.",
+      "en": "Slippery Bogle and Gladecover Scout, which cannot be targeted, received Ethereal Armor, Ancestral Mask, Rancor and Armadillo Cloak; Utopia Sprawl accelerated."
+    },
+    "why": {
+      "fr": [
+        "Max Forlini a gagné le Pauper MCQ de la MagicFest de Los Angeles",
+        "Victoire aussi en Pauper MCQ sur Magic Online en août"
+      ],
+      "en": [
+        "Max Forlini won the Pauper MCQ at MagicFest Los Angeles",
+        "Also won a Magic Online Pauper MCQ in August"
+      ]
+    }
+  },
+  {
+    "name": "Dimir Control",
+    "slug": "dimir-control",
+    "archetype": "control",
+    "titles": [
+      "Dimir Control"
+    ],
+    "rep": 352048,
+    "cover": "Gurmag Angler",
+    "keyCards": [
+      "Gurmag Angler",
+      "Accumulated Knowledge",
+      "Forbidden Alchemy",
+      "Counterspell",
+      "Mulldrifter",
+      "Disfigure"
+    ],
+    "summary": {
+      "fr": "Contrôle bleu-noir : Counterspell, Disfigure et Doom Blade, Accumulated Knowledge et Forbidden Alchemy remplissaient le cimetière pour Gurmag Angler.",
+      "en": "Blue-black control: Counterspell, Disfigure and Doom Blade, with Accumulated Knowledge and Forbidden Alchemy filling the graveyard for Gurmag Angler."
+    },
+    "why": {
+      "fr": [
+        "A gagné le Classic Pauper Tourney de Roll Play Game Lounge",
+        "Deuxième à la Bednyaki na Volge Cup de Volgograd"
+      ],
+      "en": [
+        "Won the Classic Pauper Tourney at Roll Play Game Lounge",
+        "Second at the Bednyaki na Volge Cup in Volgograd"
+      ]
+    }
+  },
+  {
+    "name": "Red Deck Wins",
+    "slug": "red-deck-wins",
+    "archetype": "aggro",
+    "titles": [
+      "Red Deck Wins"
+    ],
+    "rep": 340930,
+    "cover": "Goblin Bushwhacker",
+    "keyCards": [
+      "Goblin Bushwhacker",
+      "Foundry Street Denizen",
+      "Valley Dasher",
+      "Burning-Tree Emissary",
+      "Jackal Familiar",
+      "Mudbrawler Cohort"
+    ],
+    "summary": {
+      "fr": "Rouge agressif à petites créatures : Foundry Street Denizen, Valley Dasher et Jackal Familiar, Burning-Tree Emissary pour en poser deux, Goblin Bushwhacker pour l'attaque finale.",
+      "en": "Red aggro with small creatures: Foundry Street Denizen, Valley Dasher and Jackal Familiar, Burning-Tree Emissary to cast two, and Goblin Bushwhacker for the final attack."
+    },
+    "why": {
+      "fr": [
+        "Matteo Mentasti a gagné le Paupergeddon de Milan",
+        "Victoires aussi en Pauper Challenge et à la Celebration Pauper de Padoue"
+      ],
+      "en": [
+        "Matteo Mentasti won the Paupergeddon in Milan",
+        "Also won a Pauper Challenge and the Celebration Pauper in Padua"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Control",
+    "slug": "mono-black",
+    "archetype": "control",
+    "titles": [
+      "Mbc",
+      "Devotion to Black",
+      "Mono Black Control"
+    ],
+    "rep": 362463,
+    "cover": "Gray Merchant of Asphodel",
+    "keyCards": [
+      "Gray Merchant of Asphodel",
+      "Chittering Rats",
+      "Cuombajj Witches",
+      "Liliana's Specter",
+      "Thorn of the Black Rose",
+      "Defile"
+    ],
+    "summary": {
+      "fr": "Noir à dévotion : Chittering Rats, Liliana's Specter et Thorn of the Black Rose, Gray Merchant of Asphodel drainait selon la dévotion, Unearth le ramenait.",
+      "en": "Black devotion: Chittering Rats, Liliana's Specter and Thorn of the Black Rose, Gray Merchant of Asphodel draining by devotion, and Unearth bringing it back."
+    },
+    "why": {
+      "fr": [
+        "Alain Hortillosa a gagné le championnat national de Pauper des Philippines",
+        "Victoire aussi au 1k avec The Professor de RIW Hobbies"
+      ],
+      "en": [
+        "Alain Hortillosa won the Philippine Pauper Nationals",
+        "Also won the 1k with The Professor at RIW Hobbies"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Sacrifice",
+    "slug": "aristocrats",
+    "archetype": "aggro",
+    "titles": [
+      "Black Beetle"
+    ],
+    "rep": 357609,
+    "cover": "Mortician Beetle",
+    "keyCards": [
+      "Mortician Beetle",
+      "Carrion Feeder",
+      "Nantuko Husk",
+      "Plagued Rusalka",
+      "Burglar Rat",
+      "Dusk Legion Zealot"
+    ],
+    "summary": {
+      "fr": "Noir à sacrifice : Carrion Feeder, Mortician Beetle et Nantuko Husk grossissaient à chaque créature sacrifiée, Burglar Rat et Dusk Legion Zealot fournissaient le fourrage.",
+      "en": "Black sacrifice: Carrion Feeder, Mortician Beetle and Nantuko Husk grew with each sacrificed creature, while Burglar Rat and Dusk Legion Zealot provided the fodder."
+    },
+    "why": {
+      "fr": [
+        "Max Walsh a gagné le Rags to Riches de Card Kingdom",
+        "Unearth ramenait les créatures à petit coût"
+      ],
+      "en": [
+        "Max Walsh won the Rags to Riches at Card Kingdom",
+        "Unearth brought back the cheap creatures"
+      ]
+    }
+  },
+  {
+    "name": "Mono Black Land Destruction",
+    "slug": "land-destruction",
+    "archetype": "control",
+    "titles": [
+      "Mono B Land Destruction"
+    ],
+    "rep": 349185,
+    "cover": "Rancid Earth",
+    "keyCards": [
+      "Rancid Earth",
+      "Icequake",
+      "Choking Sands",
+      "Dark Ritual",
+      "Chittering Rats",
+      "Gurmag Angler"
+    ],
+    "summary": {
+      "fr": "Destruction de terrains noire : Dark Ritual accélérait Rancid Earth, Icequake et Choking Sands, Chittering Rats retardait la pioche, Gurmag Angler finissait.",
+      "en": "Black land destruction: Dark Ritual powered out Rancid Earth, Icequake and Choking Sands, Chittering Rats slowed draws, and Gurmag Angler finished."
+    },
+    "why": {
+      "fr": [
+        "Davide Patacchiola a gagné le Pauper Goat de Porto Sant'Elpidio en mai",
+        "Sinkhole était banni le mois suivant"
+      ],
+      "en": [
+        "Davide Patacchiola won the Pauper Goat in Porto Sant'Elpidio in May",
+        "Sinkhole was banned the following month"
+      ]
+    }
+  },
+  {
+    "name": "WW Heroics",
+    "slug": "heroic",
+    "archetype": "aggro",
+    "titles": [
+      "WW Heroics"
+    ],
+    "rep": 354063,
+    "cover": "Lagonna-Band Trailblazer",
+    "keyCards": [
+      "Lagonna-Band Trailblazer",
+      "Akroan Skyguard",
+      "Ethereal Armor",
+      "Hyena Umbra",
+      "Cartouche of Solidarity",
+      "Emerge Unscathed"
+    ],
+    "summary": {
+      "fr": "Héroïque blanc : Lagonna-Band Trailblazer, Akroan Skyguard et Deftblade Elite grossissaient à chaque sort ciblé, Ethereal Armor et Hyena Umbra s'accumulaient, Emerge Unscathed protégeait.",
+      "en": "White heroic: Lagonna-Band Trailblazer, Akroan Skyguard and Deftblade Elite grew with each targeted spell, Ethereal Armor and Hyena Umbra stacked up, and Emerge Unscathed protected."
+    },
+    "why": {
+      "fr": [
+        "Deuxième en Pauper Challenge sur Magic Online en juillet",
+        "Top 8 en Pauper Challenge en août et en septembre"
+      ],
+      "en": [
+        "Second in a Magic Online Pauper Challenge in July",
+        "Top eights in Pauper Challenges in August and September"
+      ]
+    }
+  },
+  {
+    "name": "Familiars",
+    "slug": "familiars",
+    "archetype": "combo",
+    "titles": [
+      "Flicker"
+    ],
+    "rep": 360460,
+    "cover": "Sunscape Familiar",
+    "keyCards": [
+      "Sunscape Familiar",
+      "Nightscape Familiar",
+      "God-Pharaoh's Faithful",
+      "Ghostly Flicker",
+      "Snap",
+      "Arcum's Astrolabe"
+    ],
+    "summary": {
+      "fr": "Sunscape Familiar et Nightscape Familiar réduisaient le coût des sorts, Snap renvoyait une créature en déliant des terrains, God-Pharaoh's Faithful rendait des points de vie à chaque sort bleu.",
+      "en": "Sunscape Familiar and Nightscape Familiar reduced spell costs, Snap bounced a creature while untapping lands, and God-Pharaoh's Faithful gained life with each blue spell."
+    },
+    "why": {
+      "fr": [
+        "Troisième en Pauper Challenge sur Magic Online en octobre",
+        "Quatrième en Pauper Format Playoff en décembre"
+      ],
+      "en": [
+        "Third in a Magic Online Pauper Challenge in October",
+        "Fourth in a Pauper Format Playoff in December"
+      ]
+    }
+  },
+  {
+    "name": "Tireless Tribe",
+    "slug": "tireless-tribe",
+    "archetype": "combo",
+    "titles": [
+      "Tireless Tribe"
+    ],
+    "rep": 342278,
+    "cover": "Tireless Tribe",
+    "keyCards": [
+      "Tireless Tribe",
+      "Inside Out",
+      "Shadow Rift",
+      "Circular Logic",
+      "Gush",
+      "Gitaxian Probe"
+    ],
+    "summary": {
+      "fr": "Tireless Tribe défaussait des cartes pour gagner en endurance, Inside Out échangeait force et endurance et Shadow Rift la rendait presque imblocable.",
+      "en": "Tireless Tribe discarded cards to gain toughness, Inside Out switched its power and toughness, and Shadow Rift made it nearly unblockable."
+    },
+    "why": {
+      "fr": [
+        "A gagné un Pauper Challenge sur Magic Online en mars",
+        "Gush et Gitaxian Probe ont été bannis en mai"
+      ],
+      "en": [
+        "Won a Magic Online Pauper Challenge in March",
+        "Gush and Gitaxian Probe were banned in May"
+      ]
+    }
+  },
+  {
+    "name": "Slivers",
+    "slug": "slivers",
+    "archetype": "aggro",
+    "titles": [
+      "Slivers"
+    ],
+    "rep": 351007,
+    "cover": "Muscle Sliver",
+    "keyCards": [
+      "Muscle Sliver",
+      "Sinew Sliver",
+      "Predatory Sliver",
+      "Plated Sliver",
+      "Metallic Sliver",
+      "Winding Way"
+    ],
+    "summary": {
+      "fr": "Slivers vert-blanc : Muscle Sliver, Sinew Sliver et Predatory Sliver se renforçaient mutuellement, Winding Way rechargeait la main.",
+      "en": "Green-white Slivers: Muscle Sliver, Sinew Sliver and Predatory Sliver pumped each other, and Winding Way refilled the hand."
+    },
+    "why": {
+      "fr": [
+        "Top 4 au Rags to Riches XXIV à Seattle",
+        "Top 8 au championnat national de Pauper des Philippines"
+      ],
+      "en": [
+        "Top four at Rags to Riches XXIV in Seattle",
+        "Top eight at the Philippine Pauper Nationals"
+      ]
+    }
+  }
+]
